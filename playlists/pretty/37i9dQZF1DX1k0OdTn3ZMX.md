@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with DON BROCO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,447 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,499 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 24 | [Parasite](https://open.spotify.com/track/30K7aglIX7OcAN8AOtUtdi) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [Parasite](https://open.spotify.com/album/0lNMiKTRk6If56xgUN4fMG) | 3:26 |
 | 25 | [YEAR OF THE RAT](https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YEAR OF THE RAT](https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB) | 3:12 |
 | 26 | [Best Of Luck](https://open.spotify.com/track/7kw2xdUJ9oTyLogUu02grR) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [The Ugly Side Of Me](https://open.spotify.com/album/2LiI9IglMpdWBRTMAQmDug) | 3:06 |
-| 27 | [SERPENT](https://open.spotify.com/track/5tjFugm10Ox0kY0K5R6WXz) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP) | [SERPENT](https://open.spotify.com/album/53pzle9Lj0DMbSpXaRR07m) | 3:45 |
+| 27 | [SERPENT](https://open.spotify.com/track/5tjFugm10Ox0kY0K5R6WXz) | [Memory of a Melody](https://open.spotify.com/artist/7MUx5uHwpNCLJzLBhkuKbP), [Martin Gonzalez](https://open.spotify.com/artist/5JM8caNvIgCqRWYtLYxxNg) | [SERPENT](https://open.spotify.com/album/53pzle9Lj0DMbSpXaRR07m) | 3:45 |
 | 28 | [University Telephone Hotline](https://open.spotify.com/track/4fUdJJKEs8yFYlfCWUBvcl) | [Rivilin](https://open.spotify.com/artist/3Zx6YOsYHf5uj5xvnNhhgL) | [AND SO THE AGONY BEGAN](https://open.spotify.com/album/1MwHwW4fxDRdJoXzihH4hr) | 3:42 |
 | 29 | [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 |
 | 30 | [Disconnected](https://open.spotify.com/track/1H3wjeRIilS7ffzNTqobkt) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Johnny 3 Tears](https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF), [Funny Man](https://open.spotify.com/artist/2zL0TmGfivsuZEIWGtAhKb) | [Disconnected](https://open.spotify.com/album/338f5CbDP4xItbaB1KkWu4) | 3:04 |

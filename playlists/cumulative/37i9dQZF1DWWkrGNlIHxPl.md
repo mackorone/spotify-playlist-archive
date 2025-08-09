@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover:Fulana
+> Global crossovers by/with Arab artists\. Cover: Fulana
 
-363 songs - 19 hr 54 min
+364 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [ITTY BITTY](https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [ITTY BITTY](https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3) | 2:23 | 2025-02-27 |  |
 | [Jabal](https://open.spotify.com/track/5shcRvPPK4usihJQeLZZEX) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Tina Yamout](https://open.spotify.com/artist/4MD4oAkzFo3Qm698L3ah2G), [Menon](https://open.spotify.com/artist/3vLug4a4OgSie73dtmCki4), [Raben](https://open.spotify.com/artist/00NcUZqaLchJe6dDe0D8nD), [Swerte](https://open.spotify.com/artist/6WyyNmA5JyYsGelZSyLpFj), [Big Moe](https://open.spotify.com/artist/420QIvy8NhewcnrZWDP7xW) | [Jabal](https://open.spotify.com/album/4N39yHfoySqjIrdBaqduxO) | 2:56 | 2021-12-16 | 2022-01-25 |
 | [Jah!](https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Jah!](https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN) | 3:11 | 2023-06-26 |  |
+| [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 | 2025-08-08 |  |
 | [Je Cours](https://open.spotify.com/track/34W8tiXQUXw5f8l3HhI55J) | [Taxi 404](https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c) | [Je Cours](https://open.spotify.com/album/2SEuflFdsEI5pcq3Zo1FtP) | 2:59 | 2022-02-04 | 2022-12-08 |
 | [Kalam Ennas](https://open.spotify.com/track/31xnf3zZUIX9w33rIlg9bH) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Kalam Ennas](https://open.spotify.com/album/4NRYYEbwnAtGi9UIcH9Qqc) | 7:02 | 2022-06-06 | 2022-06-24 |
 | [Laba Staifia \- Ammar 808 Remix](https://open.spotify.com/track/5cGFm8KSWsRgeIh1wSrkqI) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Ammar 808](https://open.spotify.com/artist/0TAPEEcG2NQAfSKkreQWAM) | [Remixed](https://open.spotify.com/album/47PKSAWJ4hdcgTF0qzkhx8) | 6:20 | 2022-06-06 | 2022-06-24 |
@@ -331,7 +332,7 @@
 | [time](https://open.spotify.com/track/5bxN3kcVUZFWuFNwmbu9sc) | [Maleka](https://open.spotify.com/artist/3eB1VORmzwBeOxRGJ259u1) | [time](https://open.spotify.com/album/27PcxS2E8HCGb1Q1xotN4u) | 2:47 | 2025-06-24 |  |
 | [Time Machine](https://open.spotify.com/track/4e2cixaDOoBxqfeuEUJskA) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Time Machine](https://open.spotify.com/album/52JILWLCOvqJ9yqLXVKXHU) | 2:41 | 2022-09-22 | 2022-12-08 |
 | [TMO \(with Mohamed Ramadan & Gims\)](https://open.spotify.com/track/0mmXwA9k7gSz3GYqd6MHHb) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [TMO](https://open.spotify.com/album/6hBbhCZsxvtWNeFmidjTSJ) | 3:25 | 2023-04-27 | 2024-10-08 |
-| [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 | 2023-06-02 |  |
+| [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 | 2023-06-02 | 2025-08-09 |
 | [Toxic Attachments](https://open.spotify.com/track/5x0poZDwH3BDAvXqsmQEOZ) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Toxic Attachments](https://open.spotify.com/album/2hC53yChNCrr86nlW9iLoC) | 2:45 | 2022-05-04 | 2023-02-07 |
 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-11-19 | 2023-05-08 |
 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 | 2021-12-16 | 2022-10-09 |

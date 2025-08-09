@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+    },
+    {
+      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 204283,
       "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
       "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Charley Crockett",
+  "description": "A new shade of Country. Cover: Margo Price",
   "name": "Indigo",
   "tracks": [
     {
@@ -1454,6 +1454,28 @@
       "duration_ms": 231132,
       "name": "Born Tough",
       "url": "https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n"
+    },
+    {
+      "album": {
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "album": {
@@ -5386,7 +5408,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -6666,6 +6688,24 @@
       "duration_ms": 176169,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ"
+    },
+    {
+      "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249870,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G"
     },
     {
       "album": {

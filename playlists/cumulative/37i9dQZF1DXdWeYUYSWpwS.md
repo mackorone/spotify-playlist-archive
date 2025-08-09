@@ -4,7 +4,7 @@
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-115 songs - 9 hr 25 min
+116 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [5 Pieces for Violin and Piano: I\. Elegia\. Andante larghetto](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 | 2024-09-06 |  |
 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 | 2024-09-06 |  |
 | [6 Piano Pieces, Op\. 118: 6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/track/2hXtkD5vFf6flaZWlVA6HE) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [6 Piano Pieces, Op\. 118/No\. 2: Intermezzo in A Major](https://open.spotify.com/album/5GLie4IiAzBJHlHe0swGY1) | 5:53 | 2024-09-06 |  |
+| [Across the Ocean](https://open.spotify.com/track/3r053u3iVE5eLqiREndy4d) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Across the Ocean](https://open.spotify.com/album/1IQkVahRCbvFMsYoNWEXie) | 3:21 | 2025-08-08 |  |
 | [Adagio in E Major, K\. 261](https://open.spotify.com/track/2vBuaUzWANdghLfM1nF0Yw) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Pinchas Zukerman](https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER), [Saint Paul Chamber Orchestra](https://open.spotify.com/artist/0QjKu8W5tafMCDKKw3xHYT) | [Mozart: Works for Violin & Orchestra](https://open.spotify.com/album/4zETVNxxf0HT4iHXV0he0F) | 8:37 | 2024-09-06 |  |
 | [Adagio in F Major, Hob\. XVII:9](https://open.spotify.com/track/3iWpcIZVDJeRdz0PdSuudC) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp) | [Hommage à Haydn](https://open.spotify.com/album/5QnCIqKvRc5D9lYET04LPU) | 4:47 | 2024-09-06 |  |
 | [Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \- Excerpt](https://open.spotify.com/track/49cQcHJqOsyBRSwxLTWoP5) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Khachaturian: Adagio of Spartacus and Phrygia \(Transcr\. E\. Khachaturian for Solo Piano\) \[Excerpt\]](https://open.spotify.com/album/1Zlga8aRnOCFzmtvUuYeff) | 1:47 | 2024-12-23 |  |

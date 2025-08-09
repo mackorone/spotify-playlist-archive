@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-280 songs - 17 hr 1 min
+281 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Blessed Beyond Believin'](https://open.spotify.com/track/7Jl0CPkdNrarmkBt6QJwUI) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Blessed Beyond Believin'](https://open.spotify.com/album/68GS4wGbEr9qpkNjidH1eS) | 3:49 | 2021-12-10 | 2025-06-30 |
 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 | 2021-12-10 |  |
 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 | 2022-01-21 |  |
+| [Borrow Mine](https://open.spotify.com/track/1FaY1KSNYlGUPOLKqN7RBM) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Borrow Mine](https://open.spotify.com/album/0sq0I1vBQCU2Yv75XvXFfE) | 3:08 | 2025-08-08 |  |
 | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/track/3x7aKJjH0KB2etVEzlQf4v) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R), [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Build a Boat \(feat\. Gabby Barrett\)](https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf) | 2:50 | 2023-01-27 | 2024-12-14 |
 | [By Your Grace](https://open.spotify.com/track/0IlYvLvA257FhOau31pOK8) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:58 | 2024-04-19 |  |
 | [Can I See My Dog?](https://open.spotify.com/track/0ZZBTSD2RGt4O86ZQpPW4x) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Can I See My Dog?](https://open.spotify.com/album/4j47u9VWxM9MhAKZG2FqeM) | 3:15 | 2023-01-06 |  |

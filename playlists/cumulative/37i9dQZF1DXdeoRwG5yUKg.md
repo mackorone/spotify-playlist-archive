@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-180 songs - 12 hr 34 min
+181 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cryin In The Rain](https://open.spotify.com/track/1iH2MvCrH0Dk3ZRkhPgDjy) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/7weNDcQWoNH39elxDoE8gA) | 3:30 | 2022-09-02 | 2024-04-19 |
 | [Cryin In The Rain](https://open.spotify.com/track/7mLm2YnptlX4CSqpfp1P34) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [Cryin In The Rain](https://open.spotify.com/album/28ex3FmGr9cbxk4TvIA6Dv) | 3:30 | 2022-09-02 |  |
 | [Don't Bury Our Love](https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Devil May Care](https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP) | 5:19 | 2022-03-15 |  |
+| [Don't Give Up On Me](https://open.spotify.com/track/16zzmh1oSdbke4IVEPYiXf) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Don't Give Up On Me](https://open.spotify.com/album/5DUrEM3IpUG4KETNcUM2KA) | 4:44 | 2025-08-08 |  |
 | [Don't Make Sense](https://open.spotify.com/track/1PJiZjIcN08pjgJgKDHqUZ) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Don't Make Sense](https://open.spotify.com/album/3pXvt9PNq59Rl7ZhHrLxOC) | 4:20 | 2023-12-01 |  |
 | [Drown in My Own Tears](https://open.spotify.com/track/0FntDGdy2Kgd75xCSO6eZ3) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Drown in My Own Tears](https://open.spotify.com/album/2jXFprFNbuaBkZPkWj7Zrp) | 4:35 | 2021-10-22 |  |
 | [Emmaline](https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 3:35 | 2022-09-09 |  |
@@ -90,7 +91,7 @@
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 | 2023-12-14 |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 | 2022-10-01 |
-| [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-07-29 |  |
+| [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-07-29 | 2025-08-09 |
 | [Lucille](https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Lucille](https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp) | 4:35 | 2025-01-24 |  |
 | [Magnolia](https://open.spotify.com/track/0ENoBHeSgaJsnjoY9abf9q) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Magnolia](https://open.spotify.com/album/6pNByFfy2lHC0VO38APy6w) | 4:20 | 2025-03-07 |  |
 | [Magnolia Trees](https://open.spotify.com/track/5GFe6oaCyMUsq6mSgSGCB5) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/6t1L6t6AQqyS4ZUJtnkhBt) | 3:35 | 2023-04-21 |  |

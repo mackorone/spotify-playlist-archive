@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 6934,
+  "num_followers": 6943,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACfsv6Upfc4l8zZyiXlwiSl",
+  "snapshot_id": "aJPsgAAAAAB6tupq3igCdOn1rmhedD1D",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 355133,
-      "name": "Mensei Da (Harry)",
-      "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
+      "duration_ms": 387234,
+      "name": "Makra Mo",
+      "url": "https://open.spotify.com/track/4CRorlG9nVyy94L4pyG8VA"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 387234,
-      "name": "Makra Mo",
-      "url": "https://open.spotify.com/track/4CRorlG9nVyy94L4pyG8VA"
+      "duration_ms": 355133,
+      "name": "Mensei Da (Harry)",
+      "url": "https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awoso\u0254",
-        "url": "https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 353960,
-      "name": "Y\u025b Nea Woho B3t\u0254 Wo - Yentie Obiaa",
-      "url": "https://open.spotify.com/track/2gNwDM9tIkcNibBlRZzhtO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ko Hye Po",
         "url": "https://open.spotify.com/album/64Brb5KbzpX1YyG9selHP8"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 291000,
       "name": "Ye Ne Wo Sere Kwa",
       "url": "https://open.spotify.com/track/2kV9XiGw9fZnGr52vlYCjy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awoso\u0254",
+        "url": "https://open.spotify.com/album/13OdQBvMdf2jyt3PzRF4hh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 353960,
+      "name": "Y\u025b Nea Woho B3t\u0254 Wo - Yentie Obiaa",
+      "url": "https://open.spotify.com/track/2gNwDM9tIkcNibBlRZzhtO"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awarepa Ye Anibre",
-        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 372840,
-      "name": "Eye N'adom",
-      "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sika",
         "url": "https://open.spotify.com/album/4xTYoouxVe7kIm93SFu3SO"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 378613,
       "name": "Mpempem Do Me",
       "url": "https://open.spotify.com/track/7qnaLMZp1nBrph2Ta6M4Oe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 372840,
+      "name": "Eye N'adom",
+      "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahenfo Kyiniye",
+        "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Pat Thomas",
+          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
+        }
+      ],
+      "duration_ms": 369160,
+      "name": "Ahenfo Kyiniye",
+      "url": "https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tokrom",
         "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 594386,
       "name": "Obi Ate Meso Buo - Remix",
       "url": "https://open.spotify.com/track/3uU0P0jAUXXYJnooi4lItE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahenfo Kyiniye",
-        "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        },
-        {
-          "name": "Pat Thomas",
-          "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
-        }
-      ],
-      "duration_ms": 369160,
-      "name": "Ahenfo Kyiniye",
-      "url": "https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ma Afa Wotrim Ne",
-        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Odofo Pa Ama Ntem",
-      "url": "https://open.spotify.com/track/11OJ2Z4If5YvY1FykHFS5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 265186,
       "name": "Gyabi Wu a Gyabi Te Ase",
       "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Ma Afa Wotrim Ne",
+        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Odofo Pa Ama Ntem",
+      "url": "https://open.spotify.com/track/11OJ2Z4If5YvY1FykHFS5g"
     },
     {
       "added_at": null,

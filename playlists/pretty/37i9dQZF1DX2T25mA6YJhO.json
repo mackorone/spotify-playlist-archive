@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Anabel Lee.",
-  "num_followers": 29048,
+  "num_followers": 29100,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
+        "name": "Gran Hostal",
+        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        },
+        {
+          "name": "Biznaga",
+          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
+        }
+      ],
+      "duration_ms": 238964,
+      "name": "Combusti\u00f3n",
+      "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
         "name": "Entre Amores y Errores",
         "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 165197,
       "name": "Amores y Errores",
       "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -759,22 +763,18 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Gran Hostal",
-        "url": "https://open.spotify.com/album/00u4GydZUNmtNRgO1gMDj9"
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
       "artists": [
         {
           "name": "Camellos",
           "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        },
-        {
-          "name": "Biznaga",
-          "url": "https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn"
         }
       ],
-      "duration_ms": 238964,
-      "name": "Combusti\u00f3n",
-      "url": "https://open.spotify.com/track/2uSOabS5RKgWjFFLiZz94x"
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Huellas",
-        "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
-      },
-      "artists": [
-        {
-          "name": "Yacar\u00e9",
-          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "Huellas",
-      "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Huellas",
+        "url": "https://open.spotify.com/album/3YTTTrLrAo37JtKSkvMsTF"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9",
+          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "Huellas",
+      "url": "https://open.spotify.com/track/1Y8Hc3Gi2ec43GrbQF0Jlj"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
+        "name": "PARAR EL TIEMPO",
+        "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
+      },
+      "artists": [
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "duration_ms": 197824,
+      "name": "PARAR EL TIEMPO",
+      "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
         "name": "L\u00ednea 11",
         "url": "https://open.spotify.com/album/2JIOtv5cONNBm8ru0JhUGA"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "PARAR EL TIEMPO",
-        "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
+        "name": "MIS AMIGAS TE ODIAN",
+        "url": "https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx"
       },
       "artists": [
         {
-          "name": "Periferia",
-          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+          "name": "La 126",
+          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
         }
       ],
-      "duration_ms": 197824,
-      "name": "PARAR EL TIEMPO",
-      "url": "https://open.spotify.com/track/3SIPfve99XQwjim9r8uW7S"
+      "duration_ms": 175567,
+      "name": "MIS AMIGAS TE ODIAN",
+      "url": "https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "MIS AMIGAS TE ODIAN",
-        "url": "https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx"
-      },
-      "artists": [
-        {
-          "name": "La 126",
-          "url": "https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "MIS AMIGAS TE ODIAN",
-      "url": "https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Nuevos Vicios",
         "url": "https://open.spotify.com/album/7rnomERGT6cv20ShngwwjR"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 293982,
       "name": "Gravedad Zero",
       "url": "https://open.spotify.com/track/2wV9vXj68Fq1QsKjyKDrXs"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Segunda capa",
+        "url": "https://open.spotify.com/album/4fkLGdzlpWrkxfs4JWRRQ3"
+      },
+      "artists": [
+        {
+          "name": "Palo Domado",
+          "url": "https://open.spotify.com/artist/60GbO5gsiJcZaocfjElok5"
+        }
+      ],
+      "duration_ms": 169558,
+      "name": "Segunda capa",
+      "url": "https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Los Managers",
         "url": "https://open.spotify.com/album/25SRIxzCCrl5EeRuCdm0jT"
       },
@@ -1383,34 +1383,18 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Segunda capa",
-        "url": "https://open.spotify.com/album/4fkLGdzlpWrkxfs4JWRRQ3"
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
       },
       "artists": [
         {
-          "name": "Palo Domado",
-          "url": "https://open.spotify.com/artist/60GbO5gsiJcZaocfjElok5"
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
         }
       ],
-      "duration_ms": 169558,
-      "name": "Segunda capa",
-      "url": "https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
-        "name": "Los asesinos de tus hijos",
-        "url": "https://open.spotify.com/album/2py21evZ3iWGLRBNLaV2NF"
-      },
-      "artists": [
-        {
-          "name": "Tigre y Diamante",
-          "url": "https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf"
-        }
-      ],
-      "duration_ms": 205380,
-      "name": "Los asesinos de tus hijos",
-      "url": "https://open.spotify.com/track/4p4W9eRPdBYcH7ejyUBaL4"
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1431,6 +1415,22 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Los asesinos de tus hijos",
+        "url": "https://open.spotify.com/album/2py21evZ3iWGLRBNLaV2NF"
+      },
+      "artists": [
+        {
+          "name": "Tigre y Diamante",
+          "url": "https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf"
+        }
+      ],
+      "duration_ms": 205380,
+      "name": "Los asesinos de tus hijos",
+      "url": "https://open.spotify.com/track/4p4W9eRPdBYcH7ejyUBaL4"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Mis Pecados",
-        "url": "https://open.spotify.com/album/5J22c2E6JJisbCHVQfjL5E"
-      },
-      "artists": [
-        {
-          "name": "JUVENTUDE",
-          "url": "https://open.spotify.com/artist/5OCKp8oCaWmsqkc7lfRDJC"
-        }
-      ],
-      "duration_ms": 132555,
-      "name": "Mis Pecados",
-      "url": "https://open.spotify.com/track/2s6wBRJ8W6f1lVn9lQd8pg"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Ni un paso atr\u00e1s",
         "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 163405,
       "name": "En tu portal",
       "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Mis Pecados",
+        "url": "https://open.spotify.com/album/5J22c2E6JJisbCHVQfjL5E"
+      },
+      "artists": [
+        {
+          "name": "JUVENTUDE",
+          "url": "https://open.spotify.com/artist/5OCKp8oCaWmsqkc7lfRDJC"
+        }
+      ],
+      "duration_ms": 132555,
+      "name": "Mis Pecados",
+      "url": "https://open.spotify.com/track/2s6wBRJ8W6f1lVn9lQd8pg"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
-      },
-      "artists": [
-        {
-          "name": "Victorias",
-          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "ojal\u00e1",
-      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 137344,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
+      },
+      "artists": [
+        {
+          "name": "Victorias",
+          "url": "https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "ojal\u00e1",
+      "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "De un trago",
-        "url": "https://open.spotify.com/album/0zbR9IrdYA0UjUF37XqZpc"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Berl\u00edn",
-          "url": "https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI"
-        }
-      ],
-      "duration_ms": 233174,
-      "name": "De un trago",
-      "url": "https://open.spotify.com/track/4qQ9j7wX0KiLqJxU84EbyH"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/7lxZi4GmUR9C2J3KoM4JEM"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 190093,
       "name": "Boston",
       "url": "https://open.spotify.com/track/7llrXhMFcbVZjhptqQeaIw"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "De un trago",
+        "url": "https://open.spotify.com/album/0zbR9IrdYA0UjUF37XqZpc"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Berl\u00edn",
+          "url": "https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI"
+        }
+      ],
+      "duration_ms": 233174,
+      "name": "De un trago",
+      "url": "https://open.spotify.com/track/4qQ9j7wX0KiLqJxU84EbyH"
     },
     {
       "added_at": "2025-08-07 22:00:33",

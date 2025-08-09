@@ -1277,6 +1277,32 @@
     },
     {
       "album": {
+        "name": "BATE VOLTA",
+        "url": "https://open.spotify.com/album/06lVVI24CoYeLU9wxkVUp6"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "BATE VOLTA",
+      "url": "https://open.spotify.com/track/73gZocgnuAHGWxYzSBvD1K"
+    },
+    {
+      "album": {
         "name": "Turma no Quintal (Ao Vivo)",
         "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
       },
@@ -3092,7 +3118,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 192554,
       "name": "Energia de Gostosa",
       "url": "https://open.spotify.com/track/7nxo5gRHpcsIZy7n0mdCv7"
@@ -4362,7 +4388,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 137293,
       "name": "Im\u00e3 de Problema",
       "url": "https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6"
@@ -5706,7 +5732,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 338859,
       "name": "Medley Putaria 4.0: Socad\u00e3o / Deixa Rolar / Golada No Jack / Braba No Ch\u00e1",
       "url": "https://open.spotify.com/track/6OMf4oFuMjDIoqWoCffPLK"
@@ -7674,7 +7700,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 160004,
       "name": "Piseiro Hawaiano",
       "url": "https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD"
@@ -8180,7 +8206,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 294137,
       "name": "Quatro Semanas de Amor / N\u00e3o Me Julgue / Do Meu Jeito - Ao Vivo",
       "url": "https://open.spotify.com/track/2epQhTaZrZOOvHEEXP0Hy2"

@@ -6488,7 +6488,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-30",
+      "date_removed": null,
       "duration_ms": 407018,
       "name": "Bhampa",
       "url": "https://open.spotify.com/track/1WNbXkIVNxBM8wEeZnHcun"
@@ -14542,7 +14542,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -49995,6 +49995,28 @@
     },
     {
       "album": {
+        "name": "Umkhovu owrong",
+        "url": "https://open.spotify.com/album/7hCO4hD1G8nvOctB1Nn68s"
+      },
+      "artists": [
+        {
+          "name": "Mfundo Mthiyane",
+          "url": "https://open.spotify.com/artist/0guOFHBbk24le6TGSL2iV1"
+        },
+        {
+          "name": "Shenge wasehlalankosi",
+          "url": "https://open.spotify.com/artist/06DaFSV7sr9tlsl3WFQUHe"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222119,
+      "name": "Umathandana wami",
+      "url": "https://open.spotify.com/track/4IaV07VGtEvTzwMe85IzRi"
+    },
+    {
+      "album": {
         "name": "Ukhamba",
         "url": "https://open.spotify.com/album/4VshKshG4GNIVueV0qoeiP"
       },
@@ -51360,7 +51382,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 402285,
       "name": "Uyisela - Remix",
       "url": "https://open.spotify.com/track/31bd1gDnH7vhunCzawxaDj"

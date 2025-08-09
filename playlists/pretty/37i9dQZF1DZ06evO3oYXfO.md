@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,928 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,237 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 47 | [Headless Cross \- 2024 Remaster](https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Headless Cross \(2024 Remaster\)](https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a) | 6:29 |
 | 48 | [Glory Ride \- 2025 Remaster](https://open.spotify.com/track/4d6E5GE14344OM0sPqGteS) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 4:48 |
 | 49 | [No Stranger to Love \(2009 Remaster\)](https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star](https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw) | 4:29 |
-| 50 | [I \- 2011 Remaster](https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Dehumanizer](https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI) | 5:10 |
+| 50 | [Junior's Eyes \- 2009 Remaster](https://open.spotify.com/track/0hDOC0xEIdIlNCpqEFntqq) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 6:41 |
 
-Snapshot ID: `aJKbAAAAAABc6V8329Of069WHvl7YzRb`
+Snapshot ID: `aJPsgAAAAAApPGPeia5PDJUfiL4/TJqd`

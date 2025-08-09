@@ -2,7 +2,7 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> New releases in modern soul\. Cover: Illnoledge
+> New releases in modern soul\. Cover: GeeJay
 
 562 songs - 1 day 8 hr 42 min
 

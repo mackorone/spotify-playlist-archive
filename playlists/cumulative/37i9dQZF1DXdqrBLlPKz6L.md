@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R., Hades66, Almighty
 
-135 songs - 7 hr 11 min
+136 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Me Vuelvo Del DIM](https://open.spotify.com/track/4D4QeJRcuThO84Yg1Yu4Tf) | [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [Milanezie](https://open.spotify.com/artist/6xcD5pcEiRobg9IXphHa5L) | [GRACIAS SA!KO](https://open.spotify.com/album/500MFNZFFYYlyfd8VJZcnT) | 2:18 | 2025-07-23 |  |
 | [Mi Imperio Romano](https://open.spotify.com/track/6Nl1sPqRe3H2ovczhCifYJ) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Mi Imperio Romano](https://open.spotify.com/album/0VYYcdYzRwFV8IXLWdn9RF) | 3:18 | 2025-04-04 | 2025-07-24 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
+| [MUÑECA DE URBA](https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 3:02 | 2025-08-08 |  |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 | 2025-08-02 |
 | [Negro](https://open.spotify.com/track/3QS73YxMlbbqHvZQhp1WNH) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/2jRVG4AZf6eFLc9Y1ELdgq) | 3:17 | 2023-12-01 | 2024-04-19 |
 | [Neutro Shorty: Bzrp Music Sessions, Vol\. 21](https://open.spotify.com/track/1QExMlBnwPYN2S3LMVNpoD) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Neutro Shorty: Bzrp Music Sessions, Vol\. 21](https://open.spotify.com/album/5rBi4ZI8JorCa5lbFaikUT) | 2:37 | 2021-10-15 |  |
@@ -142,6 +143,6 @@
 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2021-10-15 | 2022-04-09 |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 | 2024-08-24 |
 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 | 2022-11-03 |  |
-| [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 | 2021-10-15 |  |
+| [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 | 2021-10-15 | 2025-08-09 |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

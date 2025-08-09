@@ -4,7 +4,7 @@
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-585 songs - 1 day 8 hr 47 min
+586 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,10 +438,11 @@
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2022-01-27 |  |
 | [Say Something Loving](https://open.spotify.com/track/728zbo72kOoYdGR3AhNsyF) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/2PXy9USZAoTSdtrxfkPBnl) | 3:58 | 2019-07-30 | 2020-08-07 |
 | [Say You Love Me \- Shura Remix](https://open.spotify.com/track/2s2lBXFmlUgB7Shmi2ZgGr) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Say You Love Me \(Remixes\)](https://open.spotify.com/album/2iHpwDCnvcoItzxYa8RCGc) | 4:12 | 2019-07-27 | 2019-08-10 |
-| [Saying “No”](https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Saying “No”](https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3) | 3:54 | 2025-07-11 |  |
+| [Saying “No”](https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Saying “No”](https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3) | 3:54 | 2025-07-11 | 2025-08-09 |
 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 | 2021-10-23 | 2022-07-26 |
 | [Secret](https://open.spotify.com/track/77Gfhrr1Uh9Pv57MUUmVuY) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 3:12 | 2021-12-08 | 2021-12-11 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-30 | 2025-07-08 |
+| [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 | 2025-08-08 |  |
 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-08-23 |  |
 | [She Gets the Flowers](https://open.spotify.com/track/19AiJfAtRiccvSU1EWcttT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She Gets the Flowers](https://open.spotify.com/album/6TbdDx8Y1shssfaSAtEt1o) | 3:39 | 2021-04-06 | 2021-10-02 |
 | [Shimmering Light](https://open.spotify.com/track/5yQWWCxnqpcUbo8ZWs6zBG) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Shimmering Light](https://open.spotify.com/album/3ConlAUtJ0XsJs44WxqkxY) | 2:35 | 2024-03-29 | 2024-04-16 |

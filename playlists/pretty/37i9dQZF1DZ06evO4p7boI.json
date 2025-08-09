@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95896,
+  "num_followers": 95892,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAD2du5cOn7oBsFxXxSnt3wt",
+  "snapshot_id": "aJPsgAAAAABJDaQ5NpIDwAmw9V6x2F1/",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "OMW2 REXDALE (DELUXE)",
+        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 138413,
+      "name": "LIFT SERVICE",
+      "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REAL ME",
         "url": "https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 187213,
       "name": "REAL ME (WITH METRO BOOMIN)",
       "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OMW2 REXDALE (DELUXE)",
-        "url": "https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 138413,
-      "name": "LIFT SERVICE",
-      "url": "https://open.spotify.com/track/0LMKihVCUC6ZipHLX1HIb1"
     },
     {
       "added_at": null,

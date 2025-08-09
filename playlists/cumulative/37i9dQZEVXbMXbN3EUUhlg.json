@@ -8176,7 +8176,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 188671,
       "name": "Desbloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
@@ -10302,7 +10302,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -20108,7 +20108,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 163379,
       "name": "Mulher Sem Ci\u00fame - Ao Vivo",
       "url": "https://open.spotify.com/track/0Im7To74Oqr1wWHqWmkPH1"
@@ -21994,7 +21994,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 164956,
       "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
       "url": "https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K"
@@ -32333,6 +32333,28 @@
     },
     {
       "album": {
+        "name": "Vai Cair \u00c1gua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Vesvt7F80ZEOkCluw6Op1"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150936,
+      "name": "Vai Cair \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Vsh9frTSsEwqwcbvZpItT"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/0Ovm1SkjHbW11vWJHVlRlS"
       },
@@ -33684,6 +33706,44 @@
       "duration_ms": 186831,
       "name": "Vou falar que n\u00e3o quero",
       "url": "https://open.spotify.com/track/6AMTUbWihFZOwOeHxZN2Ge"
+    },
+    {
+      "album": {
+        "name": "A Nata de Tudo - A Ovelha Negra",
+        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281774,
+      "name": "Vou pela Madrugada",
+      "url": "https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq"
     },
     {
       "album": {

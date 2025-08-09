@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,424 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,447 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 61 | [1984](https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Hellvisback](https://open.spotify.com/album/6o2ipzLDelm6yXU0v4ZOIK) | 4:09 |
 | 62 | [OUV3RTURE](https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [OUV3RTURE](https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM) | 2:52 |
 | 63 | [AMORE DI MAMMA](https://open.spotify.com/track/6RxDyI3PzCK5H6y5rbqtnl) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [TUNNEL](https://open.spotify.com/album/31OPmDCnbwH8HgYrosnzxo) | 2:34 |
-| 64 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:52 |
+| 64 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 |
 | 65 | [Foto di gruppo](https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Foto di gruppo](https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu) | 3:30 |
 | 66 | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 |
 | 67 | [CRASH](https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 4:07 |

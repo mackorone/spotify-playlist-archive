@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Clara La San
+> late night vibes – notifications off\. cover: Tyler Watts
 
-239 songs - 11 hr 2 min
+243 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,11 +37,13 @@
 | [body2body](https://open.spotify.com/track/7fF0vAuRH2Pt1LsllMGtaf) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [body2body](https://open.spotify.com/album/1bGOog5wRSuYtXR4pYxggJ) | 2:43 | 2024-12-20 |  |
 | [Breathe](https://open.spotify.com/track/0TJDXaB0yYkfJogxqa7ilA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Breathe](https://open.spotify.com/album/1jt5IPhxTMUvnXBC4KHzKW) | 3:08 | 2025-04-25 |  |
 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 | 2025-05-09 |  |
+| [Burnout \(feat\. Bun B\)](https://open.spotify.com/track/5iUi6YOwdomq32Mb7NqyR9) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Burnout \(feat\. Bun B\)](https://open.spotify.com/album/2Zah0QAuMPidjOXuGrQyWE) | 2:46 | 2025-08-08 |  |
 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 | 2024-10-18 |  |
 | [C.G.E.](https://open.spotify.com/track/4OzCgOuJgrfqaPWGIZkQlu) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb), [Flyy Armani](https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9), [Cheyanne](https://open.spotify.com/artist/7MyeL5jQbjxa25kBHiYz10) | [C.G.E.](https://open.spotify.com/album/4biTgC8YhL1o6llmh7osdD) | 3:04 | 2025-06-20 |  |
 | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/track/57yu1WujridphAAkPgpkhC) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Cannonball \(feat\. Don Toliver\)](https://open.spotify.com/album/3bUCIjSqiFKhRGAnb59VC8) | 2:02 | 2025-07-25 |  |
 | [cdg.wav](https://open.spotify.com/track/5ALKIpWqLIYSo7GZoB41nW) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [cdg.wav](https://open.spotify.com/album/5G8ojetyWQ1ZQLkcDBSL2B) | 2:21 | 2024-03-22 |  |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-11-02 |
+| [city girls](https://open.spotify.com/track/1dkccY8q1lZ37A6lUClydz) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [city girls](https://open.spotify.com/album/26ybTHui5GQS02zA1De7oQ) | 2:27 | 2025-08-08 |  |
 | [claymore](https://open.spotify.com/track/22ahQd7UNBLb9JVt7LoFI2) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [claymore](https://open.spotify.com/album/7mLCu2UGDtYKn7T2OMx688) | 2:32 | 2025-03-07 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 |  |
 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 | 2025-05-16 |  |
@@ -136,6 +138,7 @@
 | [Love This Pain Away](https://open.spotify.com/track/4eKLPRValz4g6ys9HIJe72) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Love This Pain Away](https://open.spotify.com/album/4i4OSrF8Fp7i3J0pllAJ9c) | 3:10 | 2025-06-20 |  |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-10-18 |  |
 | [Make You Mine](https://open.spotify.com/track/7BFxrSduKzrgkZP8Sg0r5i) | [Isco Cruz](https://open.spotify.com/artist/3SUjoT9mCuAOBjAYVtzB9b) | [MYM / Fantasies](https://open.spotify.com/album/4UkUdp6JTJfURZKQIUOapL) | 2:30 | 2025-03-21 |  |
+| [Marni Problems](https://open.spotify.com/track/4c6JSOjeHcGfkKXOVlvTVi) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Torrential](https://open.spotify.com/album/4dLdtItbaaUw3KNALG3c2b) | 2:36 | 2025-08-08 |  |
 | [Maybe](https://open.spotify.com/track/0wQgERNEc2XoxpZSf3o2OK) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Maybe](https://open.spotify.com/album/5yquxQivgSO3WYJAQWP4bn) | 2:59 | 2025-04-04 |  |
 | [Middle of The Night](https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Middle of The Night](https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X) | 2:12 | 2024-10-25 |  |
 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 | 2024-11-15 |  |
@@ -171,6 +174,7 @@
 | [PIMMIE'S DILEMMA](https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 1:58 | 2025-03-28 |  |
 | [Pray For You](https://open.spotify.com/track/7LzSqk3OR3tsphAFlQOdXE) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [Leave You Have My Blessing](https://open.spotify.com/album/68rBZiD0gpBzLIE7P8Zgv7) | 3:00 | 2024-03-29 | 2025-04-26 |
 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 | 2024-02-02 | 2024-08-03 |
+| [Prettiest Girl \(Tyler's Version\)](https://open.spotify.com/track/0P8sGPeiBOgY5I8k2Vugzf) | [Tyler Watts](https://open.spotify.com/artist/0VqoeHbKgK8rjTpVjtip3B) | [Prettiest Girl \(Remix Pack\)](https://open.spotify.com/album/54n34qDHmKO4QhNGbmvxiz) | 2:18 | 2025-08-08 |  |
 | [Proper](https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Look What You've Done](https://open.spotify.com/album/6l7W1g0ELm06veGU9g4Ps7) | 2:24 | 2024-11-22 |  |
 | [Proper](https://open.spotify.com/track/0kVAuODyktRRJuwoTzulAK) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Proper](https://open.spotify.com/album/6lLjoAo2N8QS79uSbdTy1m) | 2:24 | 2024-11-08 | 2024-11-23 |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-15 |  |

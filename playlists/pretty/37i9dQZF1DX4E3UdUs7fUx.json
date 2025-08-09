@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2118302,
+  "num_followers": 2117726,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "All or Nothing / Fast Car",
         "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 267331,
       "name": "All or Nothing (feat. Tall Heights)",
       "url": "https://open.spotify.com/track/7zW1tKbxhWzuD6UDIP6GWP"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 150521,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Friction",
-        "url": "https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 209915,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "The Marfa Tapes",
         "url": "https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 265573,
       "name": "Tin Man",
       "url": "https://open.spotify.com/track/6YgnWdREQM4gDccOYY1WpP"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 209915,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Resilient",
         "url": "https://open.spotify.com/album/3EaJWoy52v2Rxu79L2GAin"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 250438,
       "name": "Resilient",
       "url": "https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
     },
     {
       "added_at": "2024-08-23 15:05:15",

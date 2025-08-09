@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Alex Warren
+> The hottest 50\. Cover: Chappell Roan
 
 1,271 songs - 2 day 20 hr 6 min
 

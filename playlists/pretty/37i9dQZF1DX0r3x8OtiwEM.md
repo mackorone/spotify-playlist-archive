@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,374 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,490 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 |
 | 60 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
 
-Snapshot ID: `AAAAAGP8JA/Yo1CpNIcLId5Yrp4Nimeq`
+Snapshot ID: `AAAAABUzerIV44hdpnZRBjzkoX1psDHi`

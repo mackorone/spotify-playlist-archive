@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 42274,
+  "num_followers": 42296,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-07-03 08:30:54",
       "album": {
+        "name": "Charkha Chanan Da - Single",
+        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
+      },
+      "artists": [
+        {
+          "name": "Vanitaa Pande",
+          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
+        }
+      ],
+      "duration_ms": 161359,
+      "name": "Charkha Chanan Da",
+      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
+    },
+    {
+      "added_at": "2025-07-03 08:30:54",
+      "album": {
         "name": "Sehreyan Wala",
         "url": "https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 267241,
       "name": "Sehreyan Wala",
       "url": "https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P"
-    },
-    {
-      "added_at": "2025-07-03 08:30:54",
-      "album": {
-        "name": "Charkha Chanan Da - Single",
-        "url": "https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db"
-      },
-      "artists": [
-        {
-          "name": "Vanitaa Pande",
-          "url": "https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH"
-        }
-      ],
-      "duration_ms": 161359,
-      "name": "Charkha Chanan Da",
-      "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
     },
     {
       "added_at": "2025-07-03 08:30:54",

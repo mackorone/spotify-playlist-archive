@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: HEYOON\(혜윤\)\)
+> Future K\-Pop hits! \(Cover: KiiiKiii \(키키\)\)
 
-1,383 songs - 3 day 2 hr 37 min
+1,384 songs - 3 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@
 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-14 | 2023-04-27 |
 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-03-28 | 2025-05-29 |
 | [EUNOIA](https://open.spotify.com/track/5ICowHre7VraSKaRw3do8N) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception: chapter three](https://open.spotify.com/album/5bt0sTLia4il2rIlpqUo5g) | 3:23 | 2023-03-29 | 2023-05-26 |
-| [EVERGLOW](https://open.spotify.com/track/0X27xgygbXZ5qsAm3Lxpum) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [IGNITION](https://open.spotify.com/album/3brkGpgYKTm7dYkLIrIRuw) | 3:25 | 2025-07-14 |  |
+| [EVERGLOW](https://open.spotify.com/track/0X27xgygbXZ5qsAm3Lxpum) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [IGNITION](https://open.spotify.com/album/3brkGpgYKTm7dYkLIrIRuw) | 3:25 | 2025-07-14 | 2025-08-09 |
 | [Every Moment With You](https://open.spotify.com/track/04HGddGSz9qgxiFJkR7oMy) | [JAESSBEE](https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq) | [Every Moment With You](https://open.spotify.com/album/3lqsRjiQWCyXoDHPGH5vhw) | 2:52 | 2024-11-28 | 2025-03-13 |
 | [Every Night](https://open.spotify.com/track/7DPKldIZW2V2jXqgYSXtFS) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Every Night](https://open.spotify.com/album/354EqtesmKX1F6ioEZL49h) | 2:54 | 2024-06-23 | 2024-08-09 |
 | [Everything](https://open.spotify.com/track/7uy9pd7vLYQHYWFczj0urj) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Everything](https://open.spotify.com/album/2zpEkut1D2xF0daaWj8lYt) | 3:04 | 2022-11-08 | 2023-01-18 |
@@ -1087,6 +1087,7 @@
 | [Snowy Stars](https://open.spotify.com/track/06apJIcWEUor6vHBE2epR4) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Snowy Stars](https://open.spotify.com/album/1pPgVjXaXsFYyQDUopeiW8) | 4:10 | 2023-02-09 | 2023-04-07 |
 | [Snowy Summer](https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Snowy Summer](https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN) | 2:57 | 2025-07-09 |  |
 | [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 | 2020-11-17 | 2021-03-01 |
+| [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:28 | 2025-08-08 |  |
 | [Sober](https://open.spotify.com/track/5e8JEJ9p9X62ktvppYMiPV) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [TURBULENCE](https://open.spotify.com/album/2rayiXZYDNBWeFrzmAvIV7) | 3:11 | 2021-10-13 | 2021-11-24 |
 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 | 2022-07-29 | 2022-10-15 |
 | [Somewhere \(Feat\. GRAY, Hoody, ELO & DeVita\)](https://open.spotify.com/track/0g6THFTGvC9Ci22S3mNtKq) | [GooseBumps](https://open.spotify.com/artist/1QM3jZpgkf0Z53ljiV5VMi), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1), [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Somewhere](https://open.spotify.com/album/3RirkkdxaucC74O0by7wZd) | 4:20 | 2020-10-13\* | 2020-11-16 |

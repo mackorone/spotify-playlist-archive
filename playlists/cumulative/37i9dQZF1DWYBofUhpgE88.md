@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Grazie Azzurre 🇮🇹 💙
+> per spingere come veri gym bro e gym sis
 
 379 songs - 19 hr 59 min
 

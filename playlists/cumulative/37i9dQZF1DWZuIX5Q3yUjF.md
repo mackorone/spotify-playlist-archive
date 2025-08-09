@@ -4,7 +4,7 @@
 
 > Shablo in cover della playlist dell'R&B italiano 🫀
 
-866 songs - 1 day 18 hr 48 min
+867 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,7 +571,7 @@
 | [oh, marianne](https://open.spotify.com/track/6iIuBnXM5Cxl2WpJWdte1Y) | [fil](https://open.spotify.com/artist/2Dgp0r5wvNCnj5XdvGaK7u) | [oh, marianne](https://open.spotify.com/album/5YyRxbhxZeNjphn74FNkn1) | 2:51 | 2024-12-19 | 2025-06-06 |
 | [Oi Nì](https://open.spotify.com/track/4dXuDQTfZqNZFnMQJQT1rq) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [Oi Nì](https://open.spotify.com/album/7MJlfrfLxP6UI6q53PUaJv) | 2:36 | 2023-12-14 | 2024-01-19 |
 | [OLTRELUNA](https://open.spotify.com/track/4dPau6Be8rtUrefrl1zxbZ) | [Moyre](https://open.spotify.com/artist/0wVBHCMQ4kVTRrhHF7c8cM), [passatempi](https://open.spotify.com/artist/4TWr8W0D5Sgnu4jqumUuRM) | [OLTRELUNA](https://open.spotify.com/album/7oXIOjnOp0zYlEYHR2gqbf) | 2:59 | 2023-01-12 | 2023-02-03 |
-| [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 | 2024-09-12 |  |
+| [Ombre \- Marzo](https://open.spotify.com/track/4DyF2h99xNCiVM2VoQxMKW) | [AINÉ](https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h) | [Ombre \- Marzo](https://open.spotify.com/album/77Z9VrKMnJOStCdNO6ftVu) | 2:43 | 2024-09-12 | 2025-08-09 |
 | [omen](https://open.spotify.com/track/4IKfXtU6FGwgtJ32n9P3gW) | [SHY PUMA](https://open.spotify.com/artist/0aDgYf5EXESERyCnEeNTBE) | [omen](https://open.spotify.com/album/4W81FJDeb2ecxuARcd7Ti4) | 3:09 | 2025-05-16 | 2025-07-04 |
 | [opposti](https://open.spotify.com/track/2HxbLGJ3T22BX172w1PXpo) | [Najma](https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk) | [opposti](https://open.spotify.com/album/2vjOdEDv9y3u8Kt2Gy06T9) | 2:59 | 2025-07-10 |  |
 | [Ora Arriva il Bello](https://open.spotify.com/track/3P1ti0xwUdu174if5uLkwg) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Limbo](https://open.spotify.com/album/7HNAbzVX5XDnx5LIexXWid) | 2:59 | 2024-04-25 | 2024-05-17 |
@@ -584,6 +584,7 @@
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 | 2022-08-12 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/4buE99EAyfCP3SyUXA4vV3) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Luce](https://open.spotify.com/album/6QSPG6nzl1OaqCCt9Tg2Pv) | 2:26 | 2025-06-19 |  |
 | [OUTRO \(PIANO SOLO\)](https://open.spotify.com/track/52TTewKAjeqWwP8j6Ax867) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [UNRELEASED V.1](https://open.spotify.com/album/4iEGJAoAugdUQpCv21HRnu) | 3:14 | 2025-03-13 | 2025-06-06 |
+| [OVERTHINK](https://open.spotify.com/track/7dJsKfjhJWUutRd86QM4O0) | [Laura Di Lenola](https://open.spotify.com/artist/2ZcZ2OBjYjxxIfAXyumxJu), [Giulia Gentile](https://open.spotify.com/artist/7JbwWU3XpzJGDBKMesXECT), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [OVERTHINK](https://open.spotify.com/album/3aCTgZkoV3wj5bVEUqhVmA) | 2:18 | 2025-08-07 |  |
 | [Paloma](https://open.spotify.com/track/3HKKh1DDcgRxOFAFFd0sAi) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Paloma](https://open.spotify.com/album/7051vm5XsmQ96gajI3qhcm) | 2:26 | 2022-10-13 | 2023-04-14 |
 | [Panamá](https://open.spotify.com/track/5p2R1pakFNPPE5wIjaXUk9) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Panamá](https://open.spotify.com/album/5u0LW7WxogeeSuXtSh0W7d) | 3:39 | 2024-01-25 | 2024-05-17 |
 | [Paradiso](https://open.spotify.com/track/1C6llxLuSiq6DMTLV4sMdB) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Paradiso](https://open.spotify.com/album/4DTwNCS6X0QaAM1xcG9gjI) | 2:33 | 2025-02-06 | 2025-05-23 |

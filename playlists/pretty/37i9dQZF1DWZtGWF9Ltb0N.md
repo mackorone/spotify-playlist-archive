@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,267 likes - 150 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,358 likes - 150 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Drifter](https://open.spotify.com/track/0ASJpt6xrhAYSGOrzk0b76) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Drifter](https://open.spotify.com/album/3fbDmqCGBsQK3Y2hRxpLft) | 3:21 |
 | 150 | [Catalyst](https://open.spotify.com/track/3CKQqdPsOP8uwmv2X4vBgi) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [ALCHEMY](https://open.spotify.com/album/2abmoczrvv7N1Px23lGWHQ) | 2:21 |
 
-Snapshot ID: `AAAAAMcQ20lTLzfYjpDI4FLyl/9lwAI5`
+Snapshot ID: `AAAAAFPvPLc8IrXSeX7VjY+6MVPLe1c6`

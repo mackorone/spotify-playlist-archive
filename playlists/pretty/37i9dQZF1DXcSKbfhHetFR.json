@@ -1,6 +1,6 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 11453,
+  "num_followers": 11458,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Hepatite B",
+        "url": "https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk"
+      },
+      "artists": [
+        {
+          "name": "Hepatite B",
+          "url": "https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg"
+        }
+      ],
+      "duration_ms": 117373,
+      "name": "Ton amour est trop lourd",
+      "url": "https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Danse Sociale",
         "url": "https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 227626,
       "name": "Magan\u00e9",
       "url": "https://open.spotify.com/track/0TyfeeEi54ai07e7fI6KXK"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Hepatite B",
-        "url": "https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk"
-      },
-      "artists": [
-        {
-          "name": "Hepatite B",
-          "url": "https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg"
-        }
-      ],
-      "duration_ms": 117373,
-      "name": "Ton amour est trop lourd",
-      "url": "https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2"
     },
     {
       "added_at": "2024-04-05 04:00:00",

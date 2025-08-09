@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: 소이에 \(soye\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,473 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,542 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [한가위 블루스](https://open.spotify.com/track/0BGrQ9Ffrje5rK1aEIa5ms) | [Yun Siwon](https://open.spotify.com/artist/1L60NRbDnl7w1sX54R7ICt) | [한가위 블루스](https://open.spotify.com/album/7Doe4NmRESlTbOX8OBG9BZ) | 2:31 |
 | 50 | [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \(Jazz Version\)](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 |
 
-Snapshot ID: `AAAAACiXmGg8se/MsrCs7gHVgoqu0NgS`
+Snapshot ID: `AAAAAFv1oboqSIWU3WheTZZu3Rsb3xBQ`

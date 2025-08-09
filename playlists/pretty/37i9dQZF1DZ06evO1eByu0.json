@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162356,
+  "num_followers": 162359,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABV/qrzgjOmKhF2DOvghNed",
+  "snapshot_id": "aJPsgAAAAABws3EOQxJxa7eDC8PWBU6H",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extraordin\u00e1rio Amor de Deus",
-        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 343051,
-      "name": "Ressuscita-me",
-      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/6uQsl1WlVplqnehH77hNFL"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 284857,
       "name": "Casa do Pai",
       "url": "https://open.spotify.com/track/5tI8IBXzNEN12hLOa1PsVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extraordin\u00e1rio Amor de Deus",
+        "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 343051,
+      "name": "Ressuscita-me",
+      "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
     },
     {
       "added_at": null,

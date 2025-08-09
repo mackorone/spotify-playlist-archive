@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Martin Garrix &amp; Libby Whitehouse
 
-1,527 songs - 3 day 9 hr 27 min
+1,528 songs - 3 day 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [Rescue Me](https://open.spotify.com/track/1Igtc3dRDZmOBMUPyvZKVa) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr) | [Lifeline](https://open.spotify.com/album/3i9OwhydpiqFzTmWCU34EL) | 4:27 | 2023-02-16 | 2023-04-29 |
 | [ResuRection](https://open.spotify.com/track/5GzTz8lK093BHzwhKBAtKc) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN) | [ResuRection](https://open.spotify.com/album/7cjqIjenKTxanOsvLiTiLu) | 3:58 | 2025-05-01 |  |
 | [ResuRection \(Call Me\)](https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [BE](https://open.spotify.com/artist/7ltj38mwTL9S8K0mYyXvWV) | [ResuRection \(Call Me\)](https://open.spotify.com/album/6MfwXxqZWKDS1B0nVMYrW6) | 2:44 | 2025-06-19 | 2025-07-18 |
+| [Revelation \- Renato Cohen Remix](https://open.spotify.com/track/0sVhM9VdvNyudSmtn5R60b) | [Electrique Boutique](https://open.spotify.com/artist/17XN3IjsqVRLGFEezuzMs1), [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Revelation \(Renato Cohen Remix\)](https://open.spotify.com/album/73bN6OX1SNpFN1Ooj5Hkkq) | 3:36 | 2025-08-08 |  |
 | [Revolves Around You](https://open.spotify.com/track/61ANVXKajwPzB2aKeKEWIP) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Revolves Around You](https://open.spotify.com/album/3NMeL7Nl2608sqXdhdTRAW) | 3:39 | 2022-08-11 | 2023-02-03 |
 | [Revolves Around You](https://open.spotify.com/track/6ll2CBq3pKcCEbql4vQPOu) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Armada Chill \- Winter 2023](https://open.spotify.com/album/74AJIu9CxquvI5nGA9Z25s) | 3:39 | 2023-02-02 | 2023-03-10 |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/037LM1leN5IMMK5bmknv0P) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Armada Music Year Mix 2022, Vol\. 2](https://open.spotify.com/album/3bJjNEcp10aGVqgh04SqE6) | 3:21 | 2022-12-08 | 2023-02-10 |

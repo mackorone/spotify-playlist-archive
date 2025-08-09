@@ -4,7 +4,7 @@
 
 > mostly rock
 
-923 songs - 2 day 11 hr 3 min
+924 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [代替嬉々](https://open.spotify.com/track/752vXOAI1SXNzxAs1t7Rdl) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [代替嬉々](https://open.spotify.com/album/4LM6qzhU17Ljl4TBB3fLAp) | 4:21 | 2025-03-05 |  |
 | [会えないのに](https://open.spotify.com/track/6LTMjAkawUQOBGRlj22r0R) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 8](https://open.spotify.com/album/629Tqastk0qbtWCp8IAYCO) | 5:07 | 2024-05-16 |  |
 | [何度も](https://open.spotify.com/track/4IMpgUBXsVEZa42BtlXbKH) | [chouchou merged syrups.](https://open.spotify.com/artist/1rMlvq1rWmYdg0lzZcf7G0) | [yesterday, 12 films later.](https://open.spotify.com/album/7iA1PLPdE7zK9E8K5KZOpH) | 4:17 | 2023-07-06 |  |
+| [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 | 2025-08-08 |  |
 | [偉大なお告げ](https://open.spotify.com/track/7rEA9XMxIMAusLgKvKCb9R) | [SACOYANS](https://open.spotify.com/artist/0wTERYV74C8OkJRQnNbrDn) | [Yomosue](https://open.spotify.com/album/2xYDTeOmxDLWYqqmrqKiJS) | 5:26 | 2023-08-13 |  |
 | [傘](https://open.spotify.com/track/0E319YXfwSDbBu0HufqznP) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [タイム・ラプス](https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX) | 5:48 | 2024-08-01 |  |
 | [僕の春](https://open.spotify.com/track/5m54sXl2810nlNFzLxMesy) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [DON’t COMMIT SUICIDE](https://open.spotify.com/album/25j3RkjY0BA49fvk6SVa7O) | 4:10 | 2023-11-24 |  |

@@ -2,7 +2,7 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Ayra Starr
+> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Bryson Tiller
 
 1,098 songs - 2 day 8 hr 52 min
 

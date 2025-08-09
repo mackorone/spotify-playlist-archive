@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 179995,
       "name": "Calma Amiga (feat. Anitta) - Dj RaMeMes (O DESTRUIDOR DO FUNK) & DJ Tonias Extended Mix",
       "url": "https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 152932,
       "name": "Flash Pose",
       "url": "https://open.spotify.com/track/5GsJcnO3rgpZFOrzL2EISO"
@@ -1981,6 +1981,32 @@
     },
     {
       "album": {
+        "name": "place of my own (maffalda remix)",
+        "url": "https://open.spotify.com/album/1qfdAMPjDbIEmN36zVIWV1"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109891,
+      "name": "place of my own (maffalda remix)",
+      "url": "https://open.spotify.com/track/01NMdI3OGMs5xP31JAU8h3"
+    },
+    {
+      "album": {
         "name": "Planeta de Cores (Ascolta Il Tuo Cuore)",
         "url": "https://open.spotify.com/album/2g2ZPqBZJQpLEmaNZtOpcW"
       },
@@ -2536,7 +2562,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 179489,
       "name": "\u00c2nsia",
       "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"

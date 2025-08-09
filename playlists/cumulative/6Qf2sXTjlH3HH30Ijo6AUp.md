@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-299 songs - 17 hr 19 min
+300 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2009 TOYOTA](https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [2009 TOYOTA](https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9) | 2:21 | 2023-05-19 | 2023-08-06 |
 | [24K Magic](https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:45 | 2022-06-07 |  |
 | [2step \(feat\. Lil Baby\)](https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2step \(feat\. Lil Baby\)](https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif) | 2:43 | 2022-06-07 |  |
+| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-08 |  |
 | [A Second to Midnight](https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Second to Midnight](https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr) | 3:27 | 2022-07-18 | 2023-12-14 |
 | [About Damn Time](https://open.spotify.com/track/4A2CyJ3VhCxiQCYXlV6zRL) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/5dJGQftJX0fQ14t9tT7nX6) | 3:11 | 2022-06-07 |  |
 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 | 2022-06-07 | 2022-07-19 |
@@ -216,7 +217,7 @@
 | [Praise You \- Radio Edit](https://open.spotify.com/track/2tn9zXqIZJbgL1swqwOktz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Why Try Harder \- The Greatest Hits](https://open.spotify.com/album/5vpSQUagobcDEf6IVcmM1m) | 3:47 | 2022-06-07 | 2023-03-04 |
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 | 2023-04-25 | 2023-12-14 |
 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 | 2022-06-07 | 2024-10-26 |
-| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-05-02 |  |
+| [Pure Shores](https://open.spotify.com/track/1qLEtiVIMaYmUOeGJUSoPQ) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Pure Shores](https://open.spotify.com/album/2ExKBieLvOEDmm3gjlTGn2) | 3:59 | 2025-05-02 | 2025-08-09 |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-12 | 2023-05-27 |
 | [Quiet Moves](https://open.spotify.com/track/0j9NwInrDBtkHBkpp6H6Is) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Quiet Moves](https://open.spotify.com/album/7gI7A0xBXpxTWd6cOBFPZU) | 3:58 | 2023-03-10 | 2023-08-06 |
 | [Respect](https://open.spotify.com/track/7s25THrKz86DM225dOYwnr) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:27 | 2022-06-07 |  |

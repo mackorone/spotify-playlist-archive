@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover:Fulana",
+  "description": "Global crossovers by/with Arab artists. Cover: Fulana",
   "name": "Arab X",
   "tracks": [
     {
@@ -3439,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Jananto",
+        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181445,
+      "name": "Jananto",
+      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
+    },
+    {
+      "album": {
         "name": "Je Cours",
         "url": "https://open.spotify.com/album/2SEuflFdsEI5pcq3Zo1FtP"
       },
@@ -6358,7 +6376,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 171783,
       "name": "Toss & Turn",
       "url": "https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE"

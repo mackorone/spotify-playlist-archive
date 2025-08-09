@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Diljit Dosanjh
+> Ultimate 101 Punjabi Hits with Karan Aujla
 
-503 songs - 1 day 1 hr 39 min
+504 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Fully Loaded](https://open.spotify.com/track/5zUPoHkgqAr1XwTMNzNtGs) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Fully Loaded](https://open.spotify.com/album/4HzA6zlnW8M3IznzHHic0U) | 2:28 | 2022-05-29 | 2023-08-18 |
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2022-05-29 | 2023-08-25 |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2022-05-29 | 2023-07-13 |
+| [Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 | 2025-08-08 |  |
 | [Gaddi Red Challenger](https://open.spotify.com/track/7xHad6YA5ca4OOVs3m5RWQ) | [Babbulicious](https://open.spotify.com/artist/5d2GoeFBcyrsxU6T9eKNzd), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Gaddi Red Challenger](https://open.spotify.com/album/1CcsWReP4vKGkdR1P4tClX) | 2:53 | 2023-01-12 | 2023-05-04 |
 | [Gall Khaas](https://open.spotify.com/track/7J5V3MlzpfSF6jEchkfxB6) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Gall Khaas](https://open.spotify.com/album/6zhGxMXaDxizCLjNoIvMw8) | 2:40 | 2023-04-13 | 2025-02-22 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-05-29 | 2024-05-15 |

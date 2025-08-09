@@ -2,7 +2,7 @@
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Nourished By Time
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Glass Animals
 
 2,931 songs - 6 day 15 hr 58 min
 

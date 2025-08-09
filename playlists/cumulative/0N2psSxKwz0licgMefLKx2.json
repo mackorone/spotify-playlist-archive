@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: James Barker Band",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll &amp; Marshmello",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 187787,
       "name": "First Love",
       "url": "https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 226796,
       "name": "Gone Fishing",
       "url": "https://open.spotify.com/track/18OlhBgicmZbKZgUzCHi8o"
@@ -2540,6 +2540,28 @@
       "duration_ms": 191826,
       "name": "Hold On To It",
       "url": "https://open.spotify.com/track/5qteRK6fo4KC2DbJOP5uW6"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "album": {
@@ -3462,6 +3484,28 @@
       "duration_ms": 182482,
       "name": "Lonesome Drifter",
       "url": "https://open.spotify.com/track/7IuilBb5xXErrNIZEeaqID"
+    },
+    {
+      "album": {
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "album": {
@@ -4913,6 +4957,24 @@
     },
     {
       "album": {
+        "name": "She's Good",
+        "url": "https://open.spotify.com/album/1c9Cjho1iofWXSXWlKcIfB"
+      },
+      "artists": [
+        {
+          "name": "Brandon Wisham",
+          "url": "https://open.spotify.com/artist/51b8vVMeSaO3MAMfatptRu"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "She's Good",
+      "url": "https://open.spotify.com/track/4jPFEZtUgIsz0aIelqiiQf"
+    },
+    {
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -5576,6 +5638,24 @@
       "duration_ms": 196567,
       "name": "Talk With Me",
       "url": "https://open.spotify.com/track/15yl5Tuk1QhV8ScQ8chspI"
+    },
+    {
+      "album": {
+        "name": "Dollar A Day",
+        "url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252216,
+      "name": "Tennessee Quick Cash",
+      "url": "https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD"
     },
     {
       "album": {

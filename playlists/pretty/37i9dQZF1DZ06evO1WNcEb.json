@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66874,
+  "num_followers": 66871,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAA2lbsO7gQASxdZIydsh6fs",
+  "snapshot_id": "aJPsgAAAAAAqjsTh5GodGglA/oTgzlh2",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Podes Fazer de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 306240,
-      "name": "Tu Podes Fazer de Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus, o Brasil Te Adora",
         "url": "https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 353893,
       "name": "Eu Me Arrependo",
       "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 306240,
+      "name": "Tu Podes Fazer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 281471,
-      "name": "Mulher Vitoriosa",
-      "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Existe Um Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 326263,
       "name": "Existe Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 281471,
+      "name": "Mulher Vitoriosa",
+      "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
     },
     {
       "added_at": null,

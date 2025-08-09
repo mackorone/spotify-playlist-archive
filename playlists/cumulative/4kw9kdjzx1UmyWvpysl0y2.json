@@ -1493,6 +1493,24 @@
     },
     {
       "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/2GCD6TRc3fKAyiGKWTHy0M"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/7LgqqZZSiEu2ILeWBtwMsq"
+    },
+    {
+      "album": {
         "name": "Assassins",
         "url": "https://open.spotify.com/album/2AQN1Enb8Sj4GXPQe3LnpK"
       },

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: JID\)
 
-2,980 songs - 6 day 6 hr 27 min
+2,981 songs - 6 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1823,7 +1823,7 @@
 | [Omarion](https://open.spotify.com/track/3o1sXTPmwxrsHUXgnbsdug) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [Deltacron](https://open.spotify.com/album/3MWoKiMDYyehSuMn0spibu) | 2:43 | 2022-05-05 | 2022-06-03 |
 | [OMW PT\. 2 \(feat\. Ray Vaughn\)](https://open.spotify.com/track/5k2i2JXvHuPPhVviIixjj3) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [OMW PT\. 2 \(feat\. Ray Vaughn\)](https://open.spotify.com/album/294FycboZpLfMFsIvqQI1q) | 2:49 | 2025-04-03 | 2025-06-06 |
 | [On Fleek](https://open.spotify.com/track/4CesVPUs4A0HupD0EAhujk) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [On Fleek](https://open.spotify.com/album/7EZVGHjXWWfhDZqI1S9i1p) | 2:40 | 2024-12-19 | 2025-02-14 |
-| [On McAfee](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 |  |
+| [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 |  |
 | [On Me](https://open.spotify.com/track/51CHbldTx1te8gKdKQ1koJ) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy) | [On Me](https://open.spotify.com/album/5Vwe6PF8jKEGSSzu2krZKD) | 1:57 | 2024-12-19 | 2025-01-25 |
 | [On Me](https://open.spotify.com/track/6regNSY9Fz4S1nGs8xMMfF) | [DABOYWAY](https://open.spotify.com/artist/6p0woWDfWgd5EAX7HFzZ7d) | [On Me](https://open.spotify.com/album/2MIAeEGXHAC0LW4UKVxOmR) | 2:54 | 2024-05-30 | 2024-07-12 |
 | [On Me \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/0JqsTF7uQhHHODf8JHVtCN) | [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SSetilian](https://open.spotify.com/album/5d7jY9zDFqC9aSWHw2jeLk) | 2:41 | 2024-01-26 | 2024-03-22 |
@@ -2180,6 +2180,7 @@
 | [Samsung Screenz](https://open.spotify.com/track/4fNIbrx8ydICags4LfwPgv) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Samsung Screenz](https://open.spotify.com/album/1pJ2x0ZcLGcIuxmDm9AeJk) | 3:20 | 2025-04-03 | 2025-05-09 |
 | [Samurai \(feat\. Troy Tyler\)](https://open.spotify.com/track/4No5AkSyE2kw2yBx1rAA49) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Troy Tyler](https://open.spotify.com/artist/6QTRRZDgOJjoSJAX8z7uEx) | [Samurai + Palaces](https://open.spotify.com/album/3bK7XjqmeVZ8GZFMadqSAD) | 4:33 | 2025-06-26 |  |
 | [Santa Monica](https://open.spotify.com/track/5XMKcvFZ2UI1DinRNKX3N4) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS) | [Santa Monica](https://open.spotify.com/album/0YNrPeyxTrSLinHG0E4xPU) | 2:52 | 2025-06-20 | 2025-08-01 |
+| [satisfaction \(feat\. Asake\)](https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:41 | 2025-08-07 |  |
 | [SATURATED](https://open.spotify.com/track/69bB2tjyitkKODexgIReOH) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [EPOCH](https://open.spotify.com/album/1y90tQ9GGjTMTI5Ydy4g7N) | 2:54 | 2025-04-03 | 2025-05-09 |
 | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Saturday Mornings \(feat\. Lil Wayne\)](https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66) | 4:22 | 2024-11-14 | 2025-01-10 |
 | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 | 2022-09-09 |

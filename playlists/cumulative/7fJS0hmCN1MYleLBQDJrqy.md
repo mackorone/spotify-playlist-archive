@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-74 songs - 3 hr 13 min
+75 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-07-18 |  |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-18 |  |
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2025-07-18 |  |
-| [Barcelona](https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Barcelona](https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe) | 2:46 | 2025-07-18 |  |
+| [Barcelona](https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Barcelona](https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe) | 2:46 | 2025-07-18 | 2025-08-09 |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-18 |  |
 | [Benauwd Door Jou](https://open.spotify.com/track/4xrPpK5uZxJxXDl3FbX4m7) | [Lustrum Philotes](https://open.spotify.com/artist/2clKstdUMkAZHVHSdklnr5), [Veroordeeld](https://open.spotify.com/artist/5uC7d5NCPiwcwK57KFkm4z) | [Benauwd Door Jou](https://open.spotify.com/album/2xgXhQvGfrRVeLiu4Gcl43) | 2:27 | 2025-07-18 |  |
 | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk) | 2:22 | 2025-07-18 |  |
@@ -50,6 +50,7 @@
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2025-07-18 |  |
 | [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2025-07-18 |  |
 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 | 2025-07-18 |  |
+| [iK bEpAaL](https://open.spotify.com/track/6lmi0bh5sDtotBrxnFisI9) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [iK bEpAaL](https://open.spotify.com/album/36nq9ytLZx0BiFtf9zRp6U) | 2:58 | 2025-08-08 |  |
 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2025-07-18 |  |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2025-07-18 |  |
 | [Jouw Idee](https://open.spotify.com/track/6u9MrPWzCXj0pQjuglCyqy) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 3:20 | 2025-07-18 |  |

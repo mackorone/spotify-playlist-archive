@@ -1,12 +1,12 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 La Repandilla & Sound De Barrio.",
-  "num_followers": 575268,
+  "num_followers": 575314,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7c0RYQOUOdqAlspoWyW9hF4o8b",
+  "snapshot_id": "AAAAAMani4Xqz9S2lAAD9qieqibczg5l",
   "tracks": [
     {
       "added_at": "2025-07-25 03:00:25",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-07-25 03:00:25",
       "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2025-07-25 03:00:25",
+      "album": {
         "name": "Sencillo",
         "url": "https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX"
       },
@@ -1123,38 +1139,18 @@
     {
       "added_at": "2025-07-25 03:00:25",
       "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+        "name": "Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
-    },
-    {
-      "added_at": "2025-07-25 03:00:25",
-      "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2025-07-25 03:00:25",
@@ -1175,22 +1171,6 @@
     {
       "added_at": "2025-07-25 03:00:25",
       "album": {
-        "name": "Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
-    },
-    {
-      "added_at": "2025-07-25 03:00:25",
-      "album": {
         "name": "A Todo Remix",
         "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 207121,
       "name": "D\u00e9jala",
       "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
+    },
+    {
+      "added_at": "2025-07-25 03:00:25",
+      "album": {
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2025-07-25 03:00:25",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-07-25 03:00:25",
       "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 180662,
-      "name": "Hasta Que Salga el Sol",
-      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
-    },
-    {
-      "added_at": "2025-07-25 03:00:25",
-      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 263955,
       "name": "Entre Vos Yo y el Cielo",
       "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
+    },
+    {
+      "added_at": "2025-07-25 03:00:25",
+      "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 180662,
+      "name": "Hasta Que Salga el Sol",
+      "url": "https://open.spotify.com/track/03nTCsN43CgGyIhR9A3US2"
     },
     {
       "added_at": "2025-07-25 03:00:25",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2025-07-25 03:00:25",
       "album": {
-        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
-    },
-    {
-      "added_at": "2025-07-25 03:00:25",
-      "album": {
         "name": "CALLEJERO FINO | Mission 10",
         "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 168994,
       "name": "CALLEJERO FINO | Mission 10",
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
+    },
+    {
+      "added_at": "2025-07-25 03:00:25",
+      "album": {
+        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 165605,
+      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
     },
     {
       "added_at": "2025-07-25 03:00:25",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-07-25 03:00:25",
       "album": {
-        "name": "Dando Clase",
-        "url": "https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        }
-      ],
-      "duration_ms": 274037,
-      "name": "Amor de Colegio",
-      "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
-    },
-    {
-      "added_at": "2025-07-25 03:00:25",
-      "album": {
         "name": "Ma\u00f1ana Qu\u00e9 Haremos",
         "url": "https://open.spotify.com/album/2q1KckNS0egklcUgQDOa0C"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 202360,
       "name": "Ma\u00f1ana Qu\u00e9 Haremos",
       "url": "https://open.spotify.com/track/3cimZHGwkt26PPWTj5Hvi7"
+    },
+    {
+      "added_at": "2025-07-25 03:00:25",
+      "album": {
+        "name": "Dando Clase",
+        "url": "https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 274037,
+      "name": "Amor de Colegio",
+      "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
     },
     {
       "added_at": "2025-07-25 03:00:25",

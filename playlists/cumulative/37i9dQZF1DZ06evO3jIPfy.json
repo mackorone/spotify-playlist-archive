@@ -977,6 +977,32 @@
     },
     {
       "album": {
+        "name": "Appassionato",
+        "url": "https://open.spotify.com/album/7abtu4eie5vhF1c9LyZKYy"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        },
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248840,
+      "name": "Song Without Words, Op. 109",
+      "url": "https://open.spotify.com/track/1V5Ejxme1gVjXF70azSWDJ"
+    },
+    {
+      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -1026,7 +1052,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 220506,
       "name": "Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
       "url": "https://open.spotify.com/track/2EHFAdUylTDSxW15HVxtui"

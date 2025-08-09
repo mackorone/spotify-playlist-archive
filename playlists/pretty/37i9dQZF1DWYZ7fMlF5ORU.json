@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 176388,
+  "num_followers": 176417,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Ema\u00fas",
-        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
+        "name": "Avante",
+        "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
       },
       "artists": [
         {
-          "name": "Templo Soul",
-          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
         }
       ],
-      "duration_ms": 435428,
-      "name": "Ema\u00fas",
-      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
+      "duration_ms": 203661,
+      "name": "Avante",
+      "url": "https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "Ema\u00fas",
+        "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
+      },
+      "artists": [
+        {
+          "name": "Templo Soul",
+          "url": "https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9"
+        }
+      ],
+      "duration_ms": 435428,
+      "name": "Ema\u00fas",
+      "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
         "url": "https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 243495,
       "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
       "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "Avante",
-        "url": "https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 203661,
-      "name": "Avante",
-      "url": "https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -359,22 +359,18 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Luz - Parte 2",
-        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
       },
       "artists": [
         {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Coral Black To Black",
-          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 298787,
-      "name": "Ele vem (feat. Coral Black To Black)",
-      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
+      "duration_ms": 212240,
+      "name": "Eu Sou De Jesus",
+      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -395,18 +391,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+        "name": "Luz - Parte 2",
+        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
         }
       ],
-      "duration_ms": 212240,
-      "name": "Eu Sou De Jesus",
-      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
+      "duration_ms": 298787,
+      "name": "Ele vem (feat. Coral Black To Black)",
+      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Aleluia",
-        "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 171320,
-      "name": "Aleluia",
-      "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "Por Amor a Ti",
         "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 163000,
       "name": "Medley: Dom Supremo",
       "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Aleluia",
+        "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+      },
+      "artists": [
+        {
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "Tua Vontade (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 207698,
       "name": "Tua Vontade - Ao Vivo",
       "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
-      },
-      "artists": [
-        {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2025-05-23 03:01:26",

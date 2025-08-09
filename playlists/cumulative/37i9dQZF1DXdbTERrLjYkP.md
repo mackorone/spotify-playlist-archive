@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: fliss
 
-912 songs - 2 day 0 hr 52 min
+915 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [another guy](https://open.spotify.com/track/7GFVTeKjOqzUHFDleIKSg4) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [another guy](https://open.spotify.com/album/78o1cne21EKhzHTaMKu6q6) | 1:54 | 2022-01-14 | 2022-03-12 |
 | [Another Version Of You](https://open.spotify.com/track/7Gjay1dycf97YinoSXOJiO) | [Amelie Sampson](https://open.spotify.com/artist/75Z30Us7Pu9Fx9gpEHVPnW) | [Another Version Of You](https://open.spotify.com/album/5UXt8TSoEOA4V55ILLew4Z) | 2:52 | 2025-06-06 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-30 | 2025-02-08 |
+| [Apples](https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Apples](https://open.spotify.com/album/2VmOnJT6VkmkfB3erQ4Jv6) | 3:42 | 2025-08-08 |  |
 | [are you still here](https://open.spotify.com/track/2dCbvnhcqye0gZtB5rSwM1) | [Siena Bella](https://open.spotify.com/artist/2YLY2wTMVd6FwFqFLWwP7C) | [are you still here](https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8) | 2:49 | 2023-07-07 | 2023-12-14 |
 | [as good a reason](https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [as good a reason](https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9) | 2:49 | 2023-09-01 | 2024-01-27 |
 | [AS IT SEEMS](https://open.spotify.com/track/51by1PCmtPWgKmeznbDkIj) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [I H8 EVERYONE](https://open.spotify.com/album/5xeQy6IHThwOo4yOMdBYz5) | 4:25 | 2023-02-03 | 2023-06-13 |
@@ -111,6 +112,7 @@
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-02-10 |
 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-07 | 2025-07-26 |
 | [Bluebird](https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Waves](https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99) | 2:45 | 2022-01-14 | 2022-02-12 |
+| [Blurry](https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2) | [Karis Taylor](https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1) | [Blurry](https://open.spotify.com/album/0Q2MqgMmcEsx3eyThzSbzH) | 3:18 | 2025-08-08 |  |
 | [Book of Memories](https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Catching Rabbits](https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy) | 2:58 | 2023-04-07 | 2023-10-01 |
 | [boring](https://open.spotify.com/track/6SSC7khdu8qXT1PRQrNpmT) | [kate gill](https://open.spotify.com/artist/33xEE8UWA6WNNAev0Ctn6Y) | [boring](https://open.spotify.com/album/2BKfJ6r1T6uVHHlHgN80X2) | 3:40 | 2023-06-16 | 2023-11-11 |
 | [Bottle of Advil](https://open.spotify.com/track/5BTOOI9Cesm2UungR9HiWj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Girls In Purgatory \(Full Moon Edition\)](https://open.spotify.com/album/08hQYW3XbwAhtHO0lA69Ia) | 3:08 | 2022-01-14 | 2022-02-12 |
@@ -192,7 +194,7 @@
 | [Crystal Ball](https://open.spotify.com/track/3cXNW2770x7T82Mf7Jzdsb) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Crystal Ball](https://open.spotify.com/album/4UwuVAR1eL8tQL412yJtY7) | 3:35 | 2022-01-14 | 2022-02-26 |
 | [cupids on cocaine](https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [cupids on cocaine](https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC) | 2:28 | 2024-10-18 | 2025-01-18 |
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-08-27 |
-| [Damsel, Damsel](https://open.spotify.com/track/6WOqh8mXdFRGrlSnvRAfHi) | [Maeve Zamuner](https://open.spotify.com/artist/6gPhmpiEhFK9kFHbEqA9UF) | [Damsel, Damsel](https://open.spotify.com/album/4hLyyEEq15GsBO8yMMLvwJ) | 3:53 | 2025-05-23 |  |
+| [Damsel, Damsel](https://open.spotify.com/track/6WOqh8mXdFRGrlSnvRAfHi) | [Maeve Zamuner](https://open.spotify.com/artist/6gPhmpiEhFK9kFHbEqA9UF) | [Damsel, Damsel](https://open.spotify.com/album/4hLyyEEq15GsBO8yMMLvwJ) | 3:53 | 2025-05-23 | 2025-08-09 |
 | [Dani](https://open.spotify.com/track/6bghqHHv3lSrGiz97vDyon) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Dani](https://open.spotify.com/album/62pcnIOSyWj3BxniV5T3Ja) | 2:54 | 2023-09-29 | 2024-01-20 |
 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 | 2023-03-10 | 2023-11-11 |
 | [Daydream](https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O) | 3:09 | 2022-07-08 | 2023-04-09 |
@@ -356,7 +358,7 @@
 | [Home](https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Home](https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO) | 3:27 | 2024-12-13 | 2025-04-19 |
 | [Home](https://open.spotify.com/track/2IyLA43MRICilLudwDPgBz) | [LDYA](https://open.spotify.com/artist/7LvlgYvN2krtIsRQK7vs1c) | [Home](https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e) | 2:40 | 2024-12-20 | 2025-04-26 |
 | [HOME](https://open.spotify.com/track/0Po4nPZoSyDf0GE8MXJgoo) | [Luke Dunleavy](https://open.spotify.com/artist/2hrlyfscnm84Inpkn8hpga) | [HOME](https://open.spotify.com/album/44zCI5RAkDwK2fFJpqNvZ0) | 2:55 | 2025-06-27 | 2025-07-19 |
-| [Hope For The Best](https://open.spotify.com/track/1wFUpYmAa3bnxNp4UnQtBO) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Hope For The Best](https://open.spotify.com/album/2zLQANBXEfPCfB7DQcIpeS) | 3:30 | 2025-05-18 |  |
+| [Hope For The Best](https://open.spotify.com/track/1wFUpYmAa3bnxNp4UnQtBO) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Hope For The Best](https://open.spotify.com/album/2zLQANBXEfPCfB7DQcIpeS) | 3:30 | 2025-05-18 | 2025-08-09 |
 | [Hope Is a Scary Thing](https://open.spotify.com/track/58SrfExCWNIdEh01NiAUOg) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Hope Is a Scary Thing](https://open.spotify.com/album/5vEqFwTMcGrqZw1Xuw04Qu) | 2:48 | 2024-04-26 | 2024-10-19 |
 | [hope ur doing good](https://open.spotify.com/track/5Se5rp7mZFuAa3zMTYn6Lc) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [the way i see it](https://open.spotify.com/album/18T0b0AmEnzfzvOtuXzXv9) | 3:25 | 2022-11-18 | 2023-01-21 |
 | [Hope You're Well](https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Hope You're Well](https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ) | 3:28 | 2022-11-04 | 2023-02-04 |
@@ -711,6 +713,7 @@
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2022-09-09 | 2022-12-24 |
 | [Slow Burn](https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Slow Burn](https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl) | 3:18 | 2023-04-07 | 2024-03-23 |
+| [slow burner](https://open.spotify.com/track/55ejPEgt8rxP9NQcAR7tZu) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [slow burner](https://open.spotify.com/album/4jHWsdq0GDxoIP7anxllXq) | 3:12 | 2025-08-08 |  |
 | [Small Talk](https://open.spotify.com/track/2up2rf3OEktoapyXEzxhMa) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Handle with Care](https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu) | 3:08 | 2022-08-12 | 2022-12-10 |
 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 | 2022-08-31 |
 | [Small Things](https://open.spotify.com/track/2kKGKGT7YySUdJ9s6SFzwD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Small Things](https://open.spotify.com/album/33WitbRUYLqnDU2EYxAY4Z) | 2:57 | 2022-03-18 | 2022-06-04 |
@@ -887,7 +890,7 @@
 | [Why](https://open.spotify.com/track/6j2HmPazSCDegWfHiodg3a) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Why](https://open.spotify.com/album/4dwTJ4XFbs63wrqKBnoaJB) | 3:10 | 2024-04-12 | 2024-09-07 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-04 | 2023-03-04 |
 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-07 |  |
-| [Wicked Nature](https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones \(Deluxe\)](https://open.spotify.com/album/3eRt3LACTqStCVgGaXWoBp) | 3:01 | 2025-05-16 |  |
+| [Wicked Nature](https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones \(Deluxe\)](https://open.spotify.com/album/3eRt3LACTqStCVgGaXWoBp) | 3:01 | 2025-05-16 | 2025-08-09 |
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-21 | 2022-02-19 |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-08-18 | 2023-11-11 |
 | [Wish You Well](https://open.spotify.com/track/6PcDDuSAPG1AE1wefg6Y7D) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Wish You Well](https://open.spotify.com/album/7q1q1QmZumtecSST83J210) | 3:55 | 2022-01-14 | 2022-03-05 |

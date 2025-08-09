@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 116210,
+  "num_followers": 116291,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "Run, Run, Run",
-      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Run, Run, Run",
+      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Richer",
-        "url": "https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi"
-      },
-      "artists": [
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "Richer",
-      "url": "https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Silence Of Love",
         "url": "https://open.spotify.com/album/00UQmxp15bECetcjau5hTO"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 250000,
       "name": "Silence Of Love",
       "url": "https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Richer",
+        "url": "https://open.spotify.com/album/2Kk25HXJGIALi2mgrLjSCi"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "Richer",
+      "url": "https://open.spotify.com/track/32EmVz19y2Q4e4vYxGsLZ8"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
     },
     {
+      "added_at": "2024-10-18 20:43:05",
+      "album": {
+        "name": "Decimal",
+        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Decimal",
+      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
+    },
+    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "DESI TRILL (Remix)",
@@ -1523,22 +1539,6 @@
       "duration_ms": 160645,
       "name": "DESI TRILL (Remix)",
       "url": "https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph"
-    },
-    {
-      "added_at": "2024-10-18 20:43:05",
-      "album": {
-        "name": "Decimal",
-        "url": "https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Decimal",
-      "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1712,8 +1712,12 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Br\u00f4 MC's",
-          "url": "https://open.spotify.com/artist/5nwwplsLg8wQ93qamvX4Pq"
+          "name": "Yawanawa Saiti Kaya",
+          "url": "https://open.spotify.com/artist/5MfMwcmD7YoH6QLYhcTCl1"
+        },
+        {
+          "name": "Cole\u00e7\u00e3o Som Nativo",
+          "url": "https://open.spotify.com/artist/0h305Rcjz5GdVBYlWuHNGq"
         }
       ],
       "duration_ms": 141943,

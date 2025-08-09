@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 ### [CST](https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm)
 
-> The Midwest is always on time\. Cover: Sada Baby
+> The Midwest is always on time\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,416 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,447 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 99 | [Precision](https://open.spotify.com/track/4qHSpiBmwLyjbaDPENrySq) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 2:44 |
 | 100 | [Stash\-house in Dearborn](https://open.spotify.com/track/666q7QhLYIjiTziKEA0CaN) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Forever My Moment](https://open.spotify.com/album/6D2Olfcbdp07vl4RwPkPRg) | 1:48 |
 
-Snapshot ID: `AAAAAJ0Qic1NF8oKK15n2aWNJ2RH06/B`
+Snapshot ID: `AAAAAHs3yu0b4Mupj0GOR4eR+OIRbKeE`

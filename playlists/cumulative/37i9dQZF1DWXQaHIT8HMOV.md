@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Lydia Jazmine
 
-447 songs - 23 hr 0 min
+450 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Embaga Ya Isma Na Amina](https://open.spotify.com/track/27WeTg92aDBNGMTwAzlFDC) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko) | [Embaga Ya Isma Na Amina](https://open.spotify.com/album/2lPAD0u8rrpi95AVxZ2JAl) | 3:27 | 2024-05-24 | 2024-06-14 |
 | [Embaga Ya Isma Na’mina](https://open.spotify.com/track/2boSNe9SlveKjsVTSvueHA) | [Gravity Omutujju](https://open.spotify.com/artist/6nxjPyAUGxuhWX68nT7oko) | [Embaga Ya Isma Na’mina](https://open.spotify.com/album/6PKoBd0ZatvAmaYhrP2AHd) | 2:25 | 2024-05-31 | 2024-11-23 |
 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 | 2022-05-27 | 2023-03-03 |
+| [Endogoyi](https://open.spotify.com/track/0LCpjNatUNZaicmwKfBhsq) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Endogoyi](https://open.spotify.com/album/0MxE1Yecq6e7zwnZWyvBZm) | 2:58 | 2025-08-08 |  |
 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 | 2022-11-17 | 2023-01-13 |
 | [Enjoyment](https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Enjoyment](https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4) | 3:13 | 2022-05-12 | 2024-02-03 |
 | [Entebbe](https://open.spotify.com/track/21xGdajxrlSN1T4VFBEYi9) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Road to Kirya](https://open.spotify.com/album/22SZxjoswzQvEjpUSpLcTD) | 3:52 | 2022-05-12 | 2022-12-31 |
@@ -216,6 +217,7 @@
 | [Looking Forward](https://open.spotify.com/track/6lik5lt5pZDiZJ41rnJwbt) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:10 | 2024-03-15 | 2024-04-06 |
 | [Lost Contacts](https://open.spotify.com/track/4BVkUiykWus0wgeps7lOj4) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Lost Contacts](https://open.spotify.com/album/3MUPWJTkB9S8c5hA50Cd9b) | 2:56 | 2025-08-01 |  |
 | [Love \- Remix](https://open.spotify.com/track/5yef0whc1psSC6RDmE5ObC) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Jaz On The Beat](https://open.spotify.com/artist/4K9uuaA2QxgKJtSX7uSwkf) | [Love \(Remix\)](https://open.spotify.com/album/7e5K2OZi6p0jEVRySYDEU0) | 3:02 | 2022-05-12 | 2022-08-20 |
+| [Love Elinye](https://open.spotify.com/track/5jNgRd1BxQfdvcHUZzqOjO) | [Sheem Mwanje](https://open.spotify.com/artist/6kAKlTejAGPE7GBPYGsTDm) | [Love Elinye](https://open.spotify.com/album/3RIGBO58QA7ai6bLnna6jR) | 2:41 | 2025-08-08 |  |
 | [Love Ganja](https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Song Boss](https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG) | [Love Ganja](https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK) | 2:13 | 2024-02-02 | 2024-03-13 |
 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 | 2022-12-02 | 2023-08-12 |
 | [Love Panic](https://open.spotify.com/track/6GsmmktXyxR506YZ2xzmvm) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Love Panic](https://open.spotify.com/album/71DOoQ56te8DF7tqQq7rn3) | 3:04 | 2024-03-15 | 2024-04-06 |
@@ -404,6 +406,7 @@
 | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/track/6GtnIoNdSZFiBQ9RfTBYGl) | [XpressionsUG](https://open.spotify.com/artist/3KzKyuWGLRUYlCKrG5O7l5), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Tewekweka \| An Xpressions UG Session](https://open.spotify.com/album/1pSGVnCffm5YwXctqIrdem) | 2:46 | 2023-04-07 | 2023-07-01 |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2022-05-12 | 2024-04-06 |
 | [Thc \( Too High to Concentrate \)](https://open.spotify.com/track/5G5D8HgLZC73d2nuPM0UH9) | [Blaqface](https://open.spotify.com/artist/7BNwV6BPVRQcisB1eOzV78) | [Thc \( Too High to Concentrate \)](https://open.spotify.com/album/0sbjXx4U8Kk1H8uQCdh36q) | 2:48 | 2022-07-08 | 2023-01-04 |
+| [The Best](https://open.spotify.com/track/2tGDYQXjZwZaiEVl8jTHkm) | [Mudra D'Viral](https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR) | [The Best](https://open.spotify.com/album/2p8uuo0ppC3F7KB8oNPbPp) | 3:02 | 2025-08-08 |  |
 | [The Whistle Song](https://open.spotify.com/track/08HOI7bfOgqqFaRKxiHkpX) | [Locomotive All Stars](https://open.spotify.com/artist/3v5ORWFtZRNV3bkcTcU90d) | [The Whistle Song](https://open.spotify.com/album/0mYL2pSObAuI4cDFT6TDfd) | 5:04 | 2024-03-15 | 2024-04-06 |
 | [This Kind God](https://open.spotify.com/track/0hVch12qYS9tcJIgspdcfE) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [This Kind God](https://open.spotify.com/album/4O7cTvDPnP48JCBNbASzck) | 2:51 | 2025-08-01 |  |
 | [Thursday](https://open.spotify.com/track/5d4mvGOh7ZzKVIZrNmKKGc) | [Kaboo](https://open.spotify.com/artist/1FnoEiqvXw7PxEADLnuPkD), [Tai Dai](https://open.spotify.com/artist/77G1P2NHQOnx0leyvpN3ym), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [Thursday](https://open.spotify.com/album/5hPcbB7WQJyICsr7CJxeGQ) | 3:16 | 2024-01-19 | 2024-10-04 |

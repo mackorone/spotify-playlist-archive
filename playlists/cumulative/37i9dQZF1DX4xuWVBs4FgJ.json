@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173301,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI"
+    },
+    {
+      "album": {
         "name": "Almost (Sweet Music)",
         "url": "https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH"
       },
@@ -6316,7 +6334,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 180386,
       "name": "Slow Sipper",
       "url": "https://open.spotify.com/track/3GQbKZxmRv1mbrKBMCe8sK"

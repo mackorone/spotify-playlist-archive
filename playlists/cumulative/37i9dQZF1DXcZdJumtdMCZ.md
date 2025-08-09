@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-211 songs - 11 hr 52 min
+212 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Taxi Taxi](https://open.spotify.com/track/3PPKGIG8FHOpJP5yArO5E9) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Viviane Chaix](https://open.spotify.com/artist/4U6JVqUGCdSW8Aas1qob6E), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Sakkarakatti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60WDIMQNU3toN91FiRkF8Z) | 5:47 | 2022-02-08 | 2024-12-29 |
 | [THADI \(Clean Version\)](https://open.spotify.com/track/640qIPvO9CgNHheous2TVe) | [Slim KD](https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI), [Vrun](https://open.spotify.com/artist/6KVt2wDvpw7V9Nyw2I2iyE), [Abhishek Solomon](https://open.spotify.com/artist/5dgtHxWOCczwceqvBio34M) | [THADI \(Clean Version\)](https://open.spotify.com/album/7vn4kNiI4IG74mLBbeQKnb) | 3:02 | 2025-04-18 | 2025-06-04 |
 | [Thakida](https://open.spotify.com/track/5a7zraT8M2KCoti6y55r6w) | [No Ya Kai](https://open.spotify.com/artist/6s0uMC9N27Jnp3kOhYHmi9), [Neil Pepin](https://open.spotify.com/artist/7JDzp7OdHGCNhufVRPcPcE), [raze](https://open.spotify.com/artist/2bHCMsJhQQqw4A3RvzryGP) | [Thakida](https://open.spotify.com/album/1ClupOIOZuE3Jk5jllMJTL) | 2:34 | 2025-02-21 |  |
+| [Thakkali](https://open.spotify.com/track/7sjUmEuxAx6YqeFN0Lb2VT) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO) | [Thakkali](https://open.spotify.com/album/2T7m63EUKSXt1n7FKo6RpQ) | 3:34 | 2025-08-08 |  |
 | [Thallu Thallu](https://open.spotify.com/track/2tkrOWRHjbBXCKmtD91NNr) | [Nash\-te Naaku](https://open.spotify.com/artist/3T2UNwrRMaW7z1qLL294cJ), [Ajmal Khan](https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR) | [Thallu Thallu](https://open.spotify.com/album/1KsLD4VKWKdei680vAgoUe) | 2:11 | 2025-02-06 | 2025-03-28 |
 | [Thathai Thathai](https://open.spotify.com/track/4Y2gtTF7MsvurQaTjVOFzJ) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YvUZ2VpPl6SaKiA0Tp6i2) | 5:53 | 2022-02-08 | 2024-12-29 |
 | [Thathai Thathai](https://open.spotify.com/track/0MGr7XgcVh5sPH6d38h7s0) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Y7FfRUWBEKImjc2T6NjzO) | 5:53 | 2022-02-08 | 2024-04-19 |

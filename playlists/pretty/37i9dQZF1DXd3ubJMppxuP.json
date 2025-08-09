@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 82607,
+  "num_followers": 82631,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,26 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
+        "name": "Naar de Klote",
+        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
+      },
+      "artists": [
+        {
+          "name": "Barry Fest",
+          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
+        },
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Naar de Klote",
+      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
         "name": "Vier Zomers Lang (Barry Fest Remix)",
         "url": "https://open.spotify.com/album/0wRbxX6azZGqmB8VpIvtxr"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 207063,
       "name": "Vier Zomers Lang - Barry Fest Remix",
       "url": "https://open.spotify.com/track/216Zm7o5aJcu4kdPpiIXTf"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
-        "name": "Naar de Klote",
-        "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
-      },
-      "artists": [
-        {
-          "name": "Barry Fest",
-          "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
-        },
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Naar de Klote",
-      "url": "https://open.spotify.com/track/4CRLvmPuOAPxhSqbsJLUfH"
     },
     {
       "added_at": "2025-08-07 22:00:34",

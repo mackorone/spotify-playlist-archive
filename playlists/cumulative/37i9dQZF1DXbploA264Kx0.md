@@ -4,7 +4,7 @@
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: KIRE
 
-471 songs - 1 day 4 hr 23 min
+472 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Hey Aries](https://open.spotify.com/track/55MtNtt5LO68O7b6ipfhLG) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [The Great Escape Of Our Time](https://open.spotify.com/album/74K79LQUF1axz9ZXbBTojZ) | 4:14 | 2024-02-29 | 2024-03-15 |
 | [hummingbird](https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ) | 3:38 | 2024-04-25 | 2024-05-17 |
 | [HUNG UP](https://open.spotify.com/track/1R2Sq0FGXh7J27Pe4u0Viv) | [Nini Music](https://open.spotify.com/artist/4iggZUAEXfBeJH9DjKwccm), [NiNi](https://open.spotify.com/artist/1yRlzSYXePSpSnffspTXYQ) | [HUNG UP](https://open.spotify.com/album/7A5qcUPr93rD3kqu3s3X04) | 3:15 | 2024-03-28 | 2024-04-26 |
+| [Hush Between Waves](https://open.spotify.com/track/3IveU4KSU8kI2IwaiEg3He) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [Hush Between Waves](https://open.spotify.com/album/30LLAEtyM3j0Co56jyGCyC) | 3:56 | 2025-08-07 |  |
 | [I Can't Deny](https://open.spotify.com/track/1fp3QF4UieOKUMQFToXG7e) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [I Can't Deny](https://open.spotify.com/album/1W0D7IP4CLGpuNTHY4oxOB) | 2:49 | 2024-10-31 | 2025-01-03 |
 | [I Can't Feel](https://open.spotify.com/track/3767V9CBkByt1ZTVDCtle9) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [I Can't Feel](https://open.spotify.com/album/1mhSBrO628Rxi5hoLbl9sJ) | 3:26 | 2024-11-07 | 2024-11-29 |
 | [I Could](https://open.spotify.com/track/7Ki8b6jPtwoF9aBINZmqG3) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [I Could](https://open.spotify.com/album/4i4FIbpSC1ms15o6HtDf8C) | 3:21 | 2024-02-29 | 2024-03-15 |

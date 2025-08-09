@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 173771,
+  "num_followers": 173773,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACnF9gGinpRchPVIkfztU1R",
+  "snapshot_id": "aJPsgAAAAADygW9XKDoUkIutNjF6GUb/",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2024",
-        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 176404,
-      "name": "Dance The Night",
-      "url": "https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kidz Bop 28",
         "url": "https://open.spotify.com/album/2Vh73FD6YV5afi2SVJ8qkB"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 224133,
       "name": "Uptown Funk",
       "url": "https://open.spotify.com/track/0Gpu8A8uTQ0CZFHRhzqBst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 176404,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 40",
-        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
+        "name": "KIDZ BOP 37",
+        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 110853,
-      "name": "Old Town Road",
-      "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
+      "duration_ms": 146733,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 37",
-        "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
+        "name": "KIDZ BOP 40",
+        "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o"
+      "duration_ms": 110853,
+      "name": "Old Town Road",
+      "url": "https://open.spotify.com/track/07cQIm99dnNSKs6skathg0"
     },
     {
       "added_at": null,

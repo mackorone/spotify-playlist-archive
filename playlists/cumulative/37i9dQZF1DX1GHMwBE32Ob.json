@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 160375,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 180890,
       "name": "Cash",
       "url": "https://open.spotify.com/track/55gLtEmwF6yOkMUbSIXKUG"
@@ -2244,6 +2244,36 @@
       "duration_ms": 171176,
       "name": "Enough",
       "url": "https://open.spotify.com/track/0W0Fx4N2tsxQqZUWdnQxdv"
+    },
+    {
+      "album": {
+        "name": "Escaladizzy II",
+        "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213559,
+      "name": "Escaladizzy II",
+      "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
     },
     {
       "album": {
@@ -6528,6 +6558,28 @@
       "duration_ms": 179272,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/3WBq1rpt6WVIQmGBBNAIBE"
+    },
+    {
+      "album": {
+        "name": "Sinner Remix (feat. Rybeena)",
+        "url": "https://open.spotify.com/album/0XfdNmgoZ6ZwJshH5cAcOv"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Sinner Remix (feat. Rybeena)",
+      "url": "https://open.spotify.com/track/0MQRgZpFXFGeaXZNx7CSWr"
     },
     {
       "album": {

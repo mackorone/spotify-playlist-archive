@@ -2339,6 +2339,36 @@
     },
     {
       "album": {
+        "name": "Music is You",
+        "url": "https://open.spotify.com/album/68fLGfaaJ75ExqSs4KjUDt"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis",
+          "url": "https://open.spotify.com/artist/6e78sbyJCYs1W48697cBxg"
+        },
+        {
+          "name": "KB Motsilanyane",
+          "url": "https://open.spotify.com/artist/3YUVEiN2CJ1isgAQv1AzNi"
+        },
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        },
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412899,
+      "name": "Music is You (Oscar Mbo Remix)",
+      "url": "https://open.spotify.com/track/6C6NOCRFX1ZGkVl6rYHIYj"
+    },
+    {
+      "album": {
         "name": "Mussulo (feat. Doddy) [unfazed Remix]",
         "url": "https://open.spotify.com/album/2EUd2HxVvlaqR6b3drEtnT"
       },

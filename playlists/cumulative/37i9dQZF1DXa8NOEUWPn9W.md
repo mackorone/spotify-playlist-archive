@@ -2,9 +2,9 @@
 
 ### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
 
-> House music lives here\. United under one roof, featuring HoneyLuv & Aluna
+> House music lives here\. United under one roof, featuring FISHER & bbyclose
 
-1,246 songs - 3 day 0 hr 5 min
+1,248 songs - 3 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Chemical Embrace](https://open.spotify.com/track/7ixvpOECWOPu1q2MWCXN0R) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Chemical Embrace](https://open.spotify.com/album/2Y7wLomfZhspSA1exyLcPS) | 3:12 | 2022-08-05 | 2022-11-15 |
 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 | 2022-05-27 | 2023-05-13 |
 | [Cinemax \- Edit](https://open.spotify.com/track/682HD7Z4WzSxqyjEJQgtBU) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Cinemax](https://open.spotify.com/album/63fkltU4MUZlcKp4R3SOpi) | 5:51 | 2021-03-27\* | 2021-04-03 |
-| [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 | 2025-07-25 |  |
+| [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:37 | 2025-07-25 | 2025-08-09 |
 | [Cleo \- Edit](https://open.spotify.com/track/2AuwQ8Fjkvfidwq8AAZXpy) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:09 | 2021-11-09 | 2022-12-28 |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-20 | 2022-08-24 |
 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 | 2021-08-28 | 2022-08-06 |
@@ -526,6 +526,7 @@
 | [I Can't Take No More](https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [I Can't Take No More](https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV) | 2:37 | 2024-02-23 | 2024-03-09 |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-06-10 | 2022-11-13 |
 | [I Don't Mind](https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Esra Nuray](https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7) | [I Don't Mind](https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw) | 3:35 | 2025-04-25 |  |
+| [I Don't Trust A Soul](https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [I Don't Trust A Soul](https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP) | 2:26 | 2025-08-08 |  |
 | [I Don't Wanna Work](https://open.spotify.com/track/5pfvr2T90tLuAFyJC2VSxv) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [I Don't Wanna Work](https://open.spotify.com/album/0T0cj4HTUWr5RJ2cpZ11eQ) | 2:35 | 2023-09-29 | 2023-12-09 |
 | [I Don't Want You Back \- Radio Mix](https://open.spotify.com/track/1kGWup2OZMbwMqDF67Koex) | [Ramona Brooks](https://open.spotify.com/artist/5Cahebgy60NokCUF6zwFEY) | [I Don't Want You Back \(Radio Mix\)](https://open.spotify.com/album/0RYjsZMEHNITPKUtWOzikL) | 4:48 | 2022-12-28 | 2023-01-06 |
 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 | 2022-04-06 | 2022-09-17 |
@@ -814,7 +815,7 @@
 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 | 2025-03-14 |  |
 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 | 2023-10-06 | 2024-07-13 |
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-07-21 | 2024-02-24 |
-| [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-05-23 |  |
+| [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-05-23 | 2025-08-09 |
 | [Observer Effect \- DJ\-Kicks](https://open.spotify.com/track/2bJI1RpSdjVhTdtcwdP7IN) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Observer Effect \(DJ\-Kicks\)](https://open.spotify.com/album/66wJesVKUFa2jJ12Ke4oZS) | 5:48 | 2021-09-25 | 2022-07-24 |
 | [Obsession](https://open.spotify.com/track/6PuSrhsfW1SuB26lDtahRJ) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Obsession](https://open.spotify.com/album/7FdYJQkaZcG5PvzmwkhXMi) | 3:37 | 2025-04-25 |  |
 | [Ocean](https://open.spotify.com/track/6ozVpMaT25G5u9V9B1R8JL) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/3scl0Lfq92CcfbIA7VxrVC) | 3:16 | 2024-11-29 | 2025-07-26 |
@@ -1081,6 +1082,7 @@
 | [Temptation](https://open.spotify.com/track/3MqzqG6fij34pDxd29mikA) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Temptation](https://open.spotify.com/album/46ylD5cDHV4oEUA5nfSa3t) | 3:12 | 2021-03-27\* | 2022-07-29 |
 | [Temptation](https://open.spotify.com/track/5UkoWcFsdWn8NtSAh73Vli) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Temptation](https://open.spotify.com/album/3xxhyf3KiklWpiPbtiUizi) | 3:12 | 2022-05-27 | 2023-07-01 |
 | [Terry Andy Joe](https://open.spotify.com/track/2YEHt17M8zYVAXZBVvQVew) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Terry Andy Joe](https://open.spotify.com/album/6Lu1mI2aeVa2xdqbuYiukg) | 3:10 | 2025-04-18 | 2025-06-14 |
+| [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 | 2025-08-08 |  |
 | [Test Drive](https://open.spotify.com/track/4LISFpziD660Sd6HgCP9wA) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql) | [Test Drive](https://open.spotify.com/album/356EEMyWTreO1IYelhej0R) | 3:03 | 2025-06-27 | 2025-07-26 |
 | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/2B3NVNUU84aAIq9lAlGIZn) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [That Sound \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj) | 2:46 | 2024-03-01 | 2024-03-30 |
 | [The Afterhours](https://open.spotify.com/track/7mGhqK1VAvlwfCe2ZT5NhT) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Afterhours](https://open.spotify.com/album/4LG0u43Eqo0FgZpq5SikRE) | 3:11 | 2024-03-08 | 2024-03-16 |

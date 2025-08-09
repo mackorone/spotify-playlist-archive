@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: ヒグチアイ
 
-791 songs - 2 day 1 hr 48 min
+792 songs - 2 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [まひるの月](https://open.spotify.com/track/08k1xdrrCPkt8YhsnVrr8b) | [藤田悠也](https://open.spotify.com/artist/2AB5LRLKq23EAri31QHsqI) | [まひるの月 / やどかり](https://open.spotify.com/album/4nxKCNgkhttxkZ3NL3Skzj) | 4:35 | 2025-06-03 | 2025-06-12 |
 | [みんなで歌いましょう](https://open.spotify.com/track/6A6lvYZSDHq4XS5B0TGTvL) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [みんなで歌いましょう](https://open.spotify.com/album/2XErv7Wob6K5SKUlBsvaQR) | 3:41 | 2024-10-15 | 2024-11-13 |
 | [もういいよ](https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [もういいよ](https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO) | 2:57 | 2024-11-05 |  |
+| [ゆう](https://open.spotify.com/track/2Q2eiuocYVEhDdY8bW0ywb) | [Centimillimental](https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw) | [ゆう](https://open.spotify.com/album/1Xk9mH8UzPyo0vZvoNscEK) | 3:48 | 2025-08-05 |  |
 | [らぶ](https://open.spotify.com/track/6LFkg0NsjybUYHrUxaV88j) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [ひとりぼっち \- EP](https://open.spotify.com/album/1pHH84tbvePFLWxyFvGaGD) | 3:32 | 2025-03-11 | 2025-03-19 |
 | [わるくない](https://open.spotify.com/track/5QSd1wfNowKw71cXUn21IA) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [わるくない](https://open.spotify.com/album/627joVd3Fzvg33KgQIk5PZ) | 4:38 | 2025-05-07 | 2025-05-22 |
 | [わをん](https://open.spotify.com/track/2jGj8CmWeybFK4rjZOLowA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [わをん](https://open.spotify.com/album/6CaESXa0TuGHe5JZzlsSf2) | 4:30 | 2024-12-10 |  |
@@ -528,7 +529,7 @@
 | [プリズム](https://open.spotify.com/track/3ZmPiQD04rkkjwJi2hGi9I) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [SPECTRUM](https://open.spotify.com/album/3OHWs70vxkZdFpktjonQhH) | 4:48 | 2024-12-03 | 2024-12-11 |
 | [プレデター](https://open.spotify.com/track/3RHlC1GYvsgr5Z0wiRznEP) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [プレデター](https://open.spotify.com/album/1BxSDCPFXkAGtq45RC72vI) | 3:36 | 2025-05-13 | 2025-07-23 |
 | [ベガとアルタイル](https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル](https://open.spotify.com/album/005VNX1PTHOlstwc3STv09) | 3:55 | 2024-07-09 | 2024-12-25 |
-| [ベガとアルタイル \-once a year\-](https://open.spotify.com/track/5M2RkYqQ1ci5UgD7Ij0wze) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル \-once a year\-](https://open.spotify.com/album/7DoMEN9ZHsZtAOSKs82L2I) | 4:00 | 2025-07-08 |  |
+| [ベガとアルタイル \-once a year\-](https://open.spotify.com/track/5M2RkYqQ1ci5UgD7Ij0wze) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル \-once a year\-](https://open.spotify.com/album/7DoMEN9ZHsZtAOSKs82L2I) | 4:00 | 2025-07-08 | 2025-08-09 |
 | [ベルガモット](https://open.spotify.com/track/1b6pgyzY5v6O6yewSXd9ZI) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ベルガモット](https://open.spotify.com/album/5YrdVkrc1xudPpVvSpFyhn) | 3:16 | 2025-02-18 | 2025-07-16 |
 | [ホームシックユース](https://open.spotify.com/track/0XSJml7QenWApilSFSnxMU) | [Yoh.Ayahara](https://open.spotify.com/artist/20eZUwgbim6RKpypIt6bek) | [ホームシックユース](https://open.spotify.com/album/7mt9NRRfDaJsLSLIZJYv4r) | 2:59 | 2025-04-08 | 2025-04-16 |
 | [マイストーリー](https://open.spotify.com/track/5ANVJ1szTdASjiGKuPjnNj) | [パンク少年](https://open.spotify.com/artist/2GXmpDE8BoCyPmD631q5ii) | [マイストーリー](https://open.spotify.com/album/3aWJ4frdW7CbDSGHoi2RjM) | 4:22 | 2025-05-27 | 2025-06-04 |

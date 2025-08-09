@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 388,
+  "num_followers": 389,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABPdXHlpogFeoJ8FiETKV1r",
+  "snapshot_id": "aJPsgAAAAADsJKz+Ev3rhCdrDJ/Pnvyu",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Love",
-        "url": "https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 189253,
-      "name": "Neon Love",
-      "url": "https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss Kiss",
         "url": "https://open.spotify.com/album/0DVXGrjbjc0YSGbkh4g26Z"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 192053,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/6qbJuNW2LYU1kYnzyyVBBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Love",
+        "url": "https://open.spotify.com/album/18e5sUiTLTXM7Kk05LU75j"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "Neon Love",
+      "url": "https://open.spotify.com/track/0sKeaaAQYBTTkO8drpnEN1"
     },
     {
       "added_at": null,

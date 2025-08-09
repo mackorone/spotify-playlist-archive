@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-112 songs - 5 hr 35 min
+113 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2023-08-07 |  |
 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 | 2023-08-07 |  |
 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/3S8jK1mGzQi24ilFb45DAZ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:29 | 2024-02-23 | 2025-01-25 |
-| [Look What You've Done](https://open.spotify.com/track/7t1lBIr3WIEtqQEOdZFMUf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:01 | 2024-02-23 |  |
+| [Look What You've Done](https://open.spotify.com/track/7t1lBIr3WIEtqQEOdZFMUf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:01 | 2024-02-23 | 2025-08-09 |
 | [LOSE MYSELF \- GHOSTLY ECHOES MIX](https://open.spotify.com/track/4pQaMKDOjAxRtsszJ4Zq9M) | [Anweezy](https://open.spotify.com/artist/1zEx84twaro5PvvD3yTCom), [ghostly echoes](https://open.spotify.com/artist/6U65hm7m0hVAVGV0SXNFMw), [Aqua Raps](https://open.spotify.com/artist/24wZhe5S2ElzaYdULrJPhV) | [BUSHRA'S DIAMOND \(GHOSTLY ECHOES MIX\)](https://open.spotify.com/album/2RofndCJOYPGBuLialhZE2) | 2:16 | 2025-08-01 |  |
 | [Losing Interest](https://open.spotify.com/track/55XrFge2dEZwYzNl128DwN) | [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Dibyo](https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t) | [Missing](https://open.spotify.com/album/23HhTqTaQNZ22OhnRtgrLu) | 2:00 | 2024-02-23 | 2024-08-30 |
 | [losing interest](https://open.spotify.com/track/7fbwZ7VuHycKgn0ksPZNgf) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [losing interest](https://open.spotify.com/album/3busZjyakCpZP68UbSVywY) | 1:47 | 2025-07-04 |  |
@@ -114,6 +114,7 @@
 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 | 2024-02-23 |  |
 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 | 2023-08-07 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2023-08-07 |  |
+| [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-08 |  |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2023-08-07 | 2023-11-05 |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2023-08-18 |  |
 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 | 2025-05-30 |  |

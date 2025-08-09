@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> New releases in modern soul\. Cover: Illnoledge
+> New releases in modern soul\. Cover: GeeJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,220 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,227 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [Say You Won't \(Say You Will\)](https://open.spotify.com/track/5YTIJG10wBgQU6vQy9I9aq) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [Lost In Translation EP](https://open.spotify.com/album/7ciXXVGcJPYLQqnhDCBWYU) | 1:55 |
 | 80 | [If They Fight](https://open.spotify.com/track/1VYTntAHqw8CzIJHkQELhx) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [If They Fight](https://open.spotify.com/album/5CKXnp8ymRtSpBINyM8gfC) | 6:39 |
 
-Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`
+Snapshot ID: `AAAAAJOhAw8QEX6Y05D20e3bD9Yt5rDT`

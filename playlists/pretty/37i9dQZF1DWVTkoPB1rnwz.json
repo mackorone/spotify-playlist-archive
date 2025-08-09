@@ -1,6 +1,6 @@
 {
   "description": "Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place \ud83c\udf24\ufe0f",
-  "num_followers": 287554,
+  "num_followers": 287561,
   "original_name": "Ambient Bliss",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
+        "name": "golden hour dimly lit",
+        "url": "https://open.spotify.com/album/5SJZYPSRHMKU4uKse3ePmb"
+      },
+      "artists": [
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 141379,
+      "name": "lit",
+      "url": "https://open.spotify.com/track/1vSrVWErL3uPa1pntwaJ7c"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/1NDFXxxOgZFXWgCHIcfKlE"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 205696,
       "name": "Signs",
       "url": "https://open.spotify.com/track/79ClMSYk04pGuE2N6hQmJH"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
-        "name": "golden hour dimly lit",
-        "url": "https://open.spotify.com/album/5SJZYPSRHMKU4uKse3ePmb"
-      },
-      "artists": [
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 141379,
-      "name": "lit",
-      "url": "https://open.spotify.com/track/1vSrVWErL3uPa1pntwaJ7c"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Makes Me Want You",
-        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 201457,
-      "name": "Makes Me Want You",
-      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "take care",
         "url": "https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 289000,
       "name": "Nocturne 18 - Jack Armstrong Remodel",
       "url": "https://open.spotify.com/track/597hX5FImIcsKeXtgUroBi"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Makes Me Want You",
+        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 201457,
+      "name": "Makes Me Want You",
+      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "Psychic Geography",
         "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 408678,
       "name": "Verona Walls",
       "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
+      },
+      "artists": [
+        {
+          "name": "Ezra Feinberg",
+          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
+        },
+        {
+          "name": "David Lackner",
+          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
+        }
+      ],
+      "duration_ms": 358826,
+      "name": "Soft Power",
+      "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
         "name": "Eurydice",
         "url": "https://open.spotify.com/album/5Rx6IbF6AiG7xiLKwKLJuN"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 297183,
       "name": "Eurydice",
       "url": "https://open.spotify.com/track/6MSvaQ36D752rWpVa9icJo"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
-      },
-      "artists": [
-        {
-          "name": "Ezra Feinberg",
-          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
-        },
-        {
-          "name": "David Lackner",
-          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
-        }
-      ],
-      "duration_ms": 358826,
-      "name": "Soft Power",
-      "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Amaryllis Dream",
-        "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
       },
       "artists": [
         {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        },
-        {
-          "name": "Yunomi",
-          "url": "https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu"
+          "name": "INFINITY",
+          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
         }
       ],
-      "duration_ms": 238701,
-      "name": "Fire Flys",
-      "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
+      "duration_ms": 644500,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1211,6 +1207,26 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
+        "name": "Amaryllis Dream",
+        "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        },
+        {
+          "name": "Yunomi",
+          "url": "https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu"
+        }
+      ],
+      "duration_ms": 238701,
+      "name": "Fire Flys",
+      "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
         "name": "Infinite Present",
         "url": "https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 227357,
       "name": "Make Me Feel Loved",
       "url": "https://open.spotify.com/track/1OgVtsBf3NDG1XvOpDaAWx"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
-      },
-      "artists": [
-        {
-          "name": "INFINITY",
-          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
-        }
-      ],
-      "duration_ms": 644500,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Openness",
-        "url": "https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc"
-      },
-      "artists": [
-        {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
-        },
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        },
-        {
-          "name": "Carlos Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
-        }
-      ],
-      "duration_ms": 199495,
-      "name": "Openness",
-      "url": "https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/10WiPwjWxFLLYMhcj8E9BC"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 168125,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6Q42F1YCfWVlJo2YnApJ7S"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Openness",
+        "url": "https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "duration_ms": 199495,
+      "name": "Openness",
+      "url": "https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "All Moments Must Pass",
-        "url": "https://open.spotify.com/album/4K7UhEhTVQrXVbZXqcSLay"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        }
-      ],
-      "duration_ms": 140660,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4Vu6VZDkw7KjvC9MP7cO3s"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "Amare",
         "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
@@ -1539,38 +1523,34 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "quilted lament",
-        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+        "name": "All Moments Must Pass",
+        "url": "https://open.spotify.com/album/4K7UhEhTVQrXVbZXqcSLay"
       },
       "artists": [
         {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        },
-        {
-          "name": "Gretchen Korsmo",
-          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
         }
       ],
-      "duration_ms": 408464,
-      "name": "find yourself in a hole on the beach",
-      "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
+      "duration_ms": 140660,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4Vu6VZDkw7KjvC9MP7cO3s"
     },
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Antidotes 2",
-        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
+        "name": "Music To Work To",
+        "url": "https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK"
       },
       "artists": [
         {
-          "name": "Lucinda Chua",
-          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
+          "name": "Corntuth",
+          "url": "https://open.spotify.com/artist/3GFs5bdCNNiBb8wkfgaw88"
         }
       ],
-      "duration_ms": 200724,
-      "name": "An Avalanche",
-      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
+      "duration_ms": 257834,
+      "name": "A-001",
+      "url": "https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1591,18 +1571,38 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Music To Work To",
-        "url": "https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK"
+        "name": "Antidotes 2",
+        "url": "https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR"
       },
       "artists": [
         {
-          "name": "Corntuth",
-          "url": "https://open.spotify.com/artist/3GFs5bdCNNiBb8wkfgaw88"
+          "name": "Lucinda Chua",
+          "url": "https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ"
         }
       ],
-      "duration_ms": 257834,
-      "name": "A-001",
-      "url": "https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk"
+      "duration_ms": 200724,
+      "name": "An Avalanche",
+      "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "quilted lament",
+        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Gretchen Korsmo",
+          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+        }
+      ],
+      "duration_ms": 408464,
+      "name": "find yourself in a hole on the beach",
+      "url": "https://open.spotify.com/track/45zR8qkw5JuoGNFEqYRezo"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
+        "name": "lovely currents",
+        "url": "https://open.spotify.com/album/4GGxYcwekc1EFgTw9HlZS3"
+      },
+      "artists": [
+        {
+          "name": "mommy",
+          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
+        }
+      ],
+      "duration_ms": 134207,
+      "name": "awake to see the city sleep",
+      "url": "https://open.spotify.com/track/0iP87IcbebOlgA36ZkF6Tn"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
         "name": "My Heart, My Beloved",
         "url": "https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 328778,
       "name": "Lithe",
       "url": "https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
-        "name": "lovely currents",
-        "url": "https://open.spotify.com/album/4GGxYcwekc1EFgTw9HlZS3"
-      },
-      "artists": [
-        {
-          "name": "mommy",
-          "url": "https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk"
-        }
-      ],
-      "duration_ms": 134207,
-      "name": "awake to see the city sleep",
-      "url": "https://open.spotify.com/track/0iP87IcbebOlgA36ZkF6Tn"
     },
     {
       "added_at": "2025-07-17 09:41:07",

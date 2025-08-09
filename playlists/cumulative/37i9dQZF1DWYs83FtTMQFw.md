@@ -2,7 +2,7 @@
 
 ### [Hot Rhythmic](https://open.spotify.com/playlist/37i9dQZF1DWYs83FtTMQFw)
 
-> The hottest tracks of today ft\. Drake, SZA, The Weeknd and more.
+> The hottest tracks of today ft\. Drake, Bryson Tiller, SZA and more.
 
 1,618 songs - 3 day 10 hr 10 min
 

@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Tommy WA
 
-248 songs - 14 hr 45 min
+249 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 | 2025-03-28 |  |
 | [Alive](https://open.spotify.com/track/1PAdUhszUJjkqqSWFdweKJ) | [Thousand Voice](https://open.spotify.com/artist/4wvwkptjVXr5TdkvFjiWsz) | [Alive](https://open.spotify.com/album/0s3VJbBkjlZZaKAjh6cdXe) | 3:36 | 2024-07-12 | 2025-08-01 |
 | [All On Me \- Spotify Singles](https://open.spotify.com/track/0G5QSHzdmwt0FOQeywFRbm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [All On Me \(Spotify Singles\)](https://open.spotify.com/album/4SFKBjTmLEGFDle3ojroE7) | 3:04 | 2023-09-09 | 2024-06-07 |
-| [All That I Am](https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [All That I Am](https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R) | 2:23 | 2025-06-20 |  |
+| [All That I Am](https://open.spotify.com/track/6VcJDLVNppqqFHGkQcs0kb) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [All That I Am](https://open.spotify.com/album/0Q3mPbwZR61xAOsvtXA95R) | 2:23 | 2025-06-20 | 2025-08-09 |
 | [Allez](https://open.spotify.com/track/041kBHDzMPUuePMKJy1RdB) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Love Lane](https://open.spotify.com/album/0xBtN0vikhUPmTsItssUkF) | 2:42 | 2023-05-04 | 2023-08-11 |
 | [Alunamehlo](https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj) | [Digital Sangoma](https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN) | [Alunamehlo](https://open.spotify.com/album/5jqyrLKaD3oo0hP8M5mfY4) | 4:22 | 2021-01-28 | 2023-02-17 |
 | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/track/05IGFVx5ibUiq4lsPwdcPn) | [Les Amazones d'Afrique](https://open.spotify.com/artist/6dHMq5KZ8ScqdzsCKGagdo), [Alvie Bitemo](https://open.spotify.com/artist/66GN1X6jfmFfcGgYh68PxO) | [Amahoro \(Don't Get Angry\)](https://open.spotify.com/album/4bLHcLCYm3WKPCoBn7om7s) | 3:40 | 2024-02-02 | 2024-11-29 |
@@ -197,6 +197,7 @@
 | [Somaw](https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [London Ko](https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C) | 3:22 | 2023-05-11 | 2023-12-02 |
 | [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-27 | 2023-06-17 |
 | [Sometin Small](https://open.spotify.com/track/1OUtnF5LExKbHllln1ljMK) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 3:06 | 2023-09-14 |  |
+| [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 | 2025-08-08 |  |
 | [Soni Lene](https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Soni Lene](https://open.spotify.com/album/1BSFzidGa1HoyMS4i3Kzvu) | 5:07 | 2023-02-16 | 2023-04-28 |
 | [Stand Tall](https://open.spotify.com/track/5BPaHu1s9tntVtVnOQ5LL0) | [Mádé Kuti](https://open.spotify.com/artist/1ZeiiasZFdLdliVe0TJI7b) | [Stand Tall](https://open.spotify.com/album/3HyBcGrwhTgpdoxDUubucn) | 3:18 | 2022-09-09 | 2022-10-22 |
 | [Stay as You Are](https://open.spotify.com/track/0dJG5SnjjS9maTUZaxHUJV) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Tubatsi Mpho Moloi](https://open.spotify.com/artist/1eraeBfwU1RwFj6LszJT65) | [Synthetic Hearts](https://open.spotify.com/album/6FXpqniKCmEFhn4eYSgvWy) | 3:22 | 2023-03-10 | 2024-03-01 |

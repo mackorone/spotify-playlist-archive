@@ -957,6 +957,28 @@
     },
     {
       "album": {
+        "name": "RomantiDog (Deluxe)",
+        "url": "https://open.spotify.com/album/63qQDwWW0aob73T8RM4BzD"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Amor Traumatizado",
+      "url": "https://open.spotify.com/track/5dcOxj5o672WzZCc7OOUkX"
+    },
+    {
+      "album": {
         "name": "Fortaleza, Vol.2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK"
       },
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 198678,
       "name": "Apaguei Pra Todos - Ao Vivo",
       "url": "https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8"
@@ -2774,7 +2796,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 188671,
       "name": "Desbloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
@@ -3336,7 +3358,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -4424,7 +4446,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 174110,
       "name": "Fui Mlk",
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
@@ -7372,7 +7394,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 120916,
       "name": "Olha pra Cara de Quem Te...",
       "url": "https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U"
@@ -9330,6 +9352,32 @@
       "duration_ms": 147221,
       "name": "Senta e Cala a Boca",
       "url": "https://open.spotify.com/track/2ZrC9CTs01XkbFPtLbpHzl"
+    },
+    {
+      "album": {
+        "name": "M.B.D.T",
+        "url": "https://open.spotify.com/album/0vMwwYJAjFjeeZHPCtA2eq"
+      },
+      "artists": [
+        {
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "Mc Diguinho",
+          "url": "https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8"
+        },
+        {
+          "name": "Mc Buret",
+          "url": "https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119720,
+      "name": "Senta Olhando Pra Mim",
+      "url": "https://open.spotify.com/track/64dVFcA71XYsuqTYgIWzqf"
     },
     {
       "album": {
@@ -11342,7 +11390,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"

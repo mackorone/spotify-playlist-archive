@@ -2,9 +2,9 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> De beste Indie & Alternative\. Cover: Hiqpy \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artist\)
+> De beste Indie & Alternative\. Cover: Turnstile
 
-206 songs - 12 hr 23 min
+209 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 | 2024-06-26 | 2024-07-12 |
 | [Compass Will Fracture](https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Compass Will Fracture](https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR) | 3:12 | 2025-04-25 |  |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-06-05 |  |
-| [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-16 |  |
+| [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-16 | 2025-08-09 |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-06-26 | 2024-11-07 |
 | [Dead On The Money](https://open.spotify.com/track/2wQHKNtbt27tIawFXnpsAF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Dead On The Money](https://open.spotify.com/album/43EzvE87hJGfpZiYcD1HSU) | 2:42 | 2024-06-26 | 2024-10-04 |
 | [Digitaline](https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Digitaline](https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN) | 4:32 | 2024-10-03 | 2025-03-07 |
@@ -47,6 +47,7 @@
 | [DRIVE ME CRAZY](https://open.spotify.com/track/7xF8oyiBBOwgwiwPN9JRFx) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [DRIVE ME CRAZY](https://open.spotify.com/album/0cFljihYG2lv3kGCygyYFm) | 2:45 | 2024-09-26 | 2024-11-23 |
 | [Easy Now](https://open.spotify.com/track/3i3LMvWC04mFEdiFJfqPfH) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/3chNtIzZ4hmmMVeq723m3f) | 3:53 | 2024-06-26 | 2024-09-25 |
 | [Emo Song](https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Emo Song](https://open.spotify.com/album/57eDLXzpt2x9Mu5uBZ0eFj) | 6:38 | 2025-06-05 |  |
+| [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-08-08 |  |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-25 |  |
 | [Everything Is Peaceful Love](https://open.spotify.com/track/5bA9nkU0bUuBrAaakSiOXP) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Everything Is Peaceful Love](https://open.spotify.com/album/0TISqdrgN6Cvsg7rdDaUJs) | 3:30 | 2025-03-06 |  |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-06-26 | 2024-11-07 |
@@ -109,7 +110,7 @@
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2025-03-13 |  |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-02-06 | 2025-06-03 |
 | [MASSIVE LOVE INFECTION](https://open.spotify.com/track/6I0eLa4q45Hymf40tyzZAi) | [Mustii](https://open.spotify.com/artist/3sHtPJJi41P65J7EGRG2r1) | [MASSIVE LOVE INFECTION](https://open.spotify.com/album/2MQtZxMSsYKI3d1aSzXYQI) | 3:47 | 2025-02-27 |  |
-| [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2025-01-16 |  |
+| [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2025-01-16 | 2025-08-09 |
 | [Millennial Sadness](https://open.spotify.com/track/3wUaVyxvIaYOH9hz7ctwxD) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [Millennial Sadness](https://open.spotify.com/album/2UVVudHDFhF6NbjdB4jzNy) | 3:28 | 2025-01-23 | 2025-02-28 |
 | [miss u](https://open.spotify.com/track/4BQFr6YeljwNfs9g3DL6Nc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [miss u](https://open.spotify.com/album/0NRm4VWhqazZsWtXu4LAIl) | 3:22 | 2025-01-06 | 2025-03-14 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-09-24 | 2025-01-24 |
@@ -122,7 +123,7 @@
 | [Natural Woman](https://open.spotify.com/track/3s382wKMe6FvXmwTS1bWmN) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:05 | 2025-06-23 |  |
 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 | 2024-06-26 | 2024-11-07 |
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-05-12 |  |
-| [new year's eve](https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [new year's eve](https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc) | 3:47 | 2025-01-16 |  |
+| [new year's eve](https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [new year's eve](https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc) | 3:47 | 2025-01-16 | 2025-08-09 |
 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2025-01-16 |  |
 | [Nightcall](https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Nightcall](https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7) | 2:59 | 2024-10-18 | 2025-01-24 |
 | [No One Is Innocent](https://open.spotify.com/track/1EKs3esr4su4Ue3giL0Kpx) | [Meltheads](https://open.spotify.com/artist/1d2hZR4CCxI91sG7Q7HD7W) | [Decent Sex](https://open.spotify.com/album/4nZedGZUFguFyyZxZmcrt5) | 2:00 | 2024-07-18 | 2024-10-19 |
@@ -160,6 +161,7 @@
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-02-06 | 2025-04-11 |
 | [Sanctuary](https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Sanctuary](https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt) | 3:31 | 2025-02-06 |  |
 | [See What Sticks](https://open.spotify.com/track/1kWMfZuciYaWSYIa4QrbKT) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Hell Go Rhythm](https://open.spotify.com/album/4EwrO3QrAG3IywH5jX1fsc) | 3:18 | 2025-01-06 | 2025-04-11 |
+| [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 | 2025-08-08 |  |
 | [Shades](https://open.spotify.com/track/0vd6M3nfXFsdrPY1977csa) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Shades](https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu) | 3:17 | 2024-06-26 | 2025-01-07 |
 | [Shaking Shoulder](https://open.spotify.com/track/1zOpsnW07jNmNAOu0qDRoQ) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/6FaSba3ItIHnC6B0gyOuWz) | 3:10 | 2025-03-06 |  |
 | [Shirt](https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Launch The Rocket](https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1) | 2:42 | 2025-02-21 |  |
@@ -188,6 +190,7 @@
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 |  |
 | [Things I've Been Telling Myself for Years](https://open.spotify.com/track/0ZmtGhT8Iyih7dlscccung) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [AUDIO VERTIGO](https://open.spotify.com/album/7EpaPuPMFIwVLkEWz3gvSK) | 3:33 | 2024-08-01 | 2025-01-07 |
 | [This Is Nowhere](https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [This Is Nowhere](https://open.spotify.com/album/1GrFd2S89YW8mQMop0Bu7S) | 3:44 | 2024-06-26 | 2024-11-07 |
+| [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-08-08 |  |
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 | 2024-07-11 | 2024-11-07 |
 | [Time](https://open.spotify.com/track/4u1CTAfI9ynLSjLYzGVzhW) | [SALVIA](https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8) | [Time](https://open.spotify.com/album/4bcdi9s4qkcrLejPQwFIPk) | 2:48 | 2025-02-06 | 2025-04-04 |
 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 | 2024-06-27 | 2025-01-14 |

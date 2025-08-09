@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Soda Blonde
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,490 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,492 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

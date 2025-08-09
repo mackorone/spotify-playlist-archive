@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,133 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,147 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 22 | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Kung Fu Panda 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj) | 3:12 |
 | 23 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 24 | [Hey Ya!](https://open.spotify.com/track/3AszgPDZd9q0DpDFt4HFBy) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [The Way You Move / Hey Ya!](https://open.spotify.com/album/7etFl9qeqjD0luC40JAg8l) | 3:59 |
-| 25 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
-| 26 | [All Star](https://open.spotify.com/track/2P1ZqQq8rQtmV7BLZ0Junn) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:20 |
+| 25 | [All Star](https://open.spotify.com/track/2P1ZqQq8rQtmV7BLZ0Junn) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:20 |
+| 26 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 27 | [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 |
 | 28 | [Take on Me \- Kygo Remix](https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Take on Me \(Kygo Remix\)](https://open.spotify.com/album/3R2Movau61LViutgG8JYtV) | 3:46 |
 | 29 | [Dance Mode](https://open.spotify.com/track/5lXGkq8j4FpQ5SKL4YG4rS) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Dance Mode](https://open.spotify.com/album/7EAVXGDsBOO7PTBE782Pyk) | 1:58 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 46 | [Do the Blippi Dance](https://open.spotify.com/track/3A5sevWvDQs617BpRGPBRh) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi's Playground Party](https://open.spotify.com/album/51S7hCD4ZxAJT1I9ZEZBIb) | 2:05 |
 | 47 | [Show Me Your Pony Moves](https://open.spotify.com/track/0WQwpn59mnW2KQ6tZWsNNA) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Bridlewoodstock](https://open.spotify.com/album/6eTEvCZHwiMXMpLgVcU8zs) | 1:40 |
 | 48 | [Banana Boat Song \(Dance Version\)](https://open.spotify.com/track/5hbTcYytDNA6qvrqwm2eOg) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [A Mother Goose Club Dance Party Vol\. 1](https://open.spotify.com/album/4dNfAAOe6vfUKqyMwQphPu) | 3:07 |
-| 49 | [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Funkytown \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb) | 4:23 |
-| 50 | [Treasure Dance](https://open.spotify.com/track/02Ng5tD1jeHq8JOqMWJunA) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Fred Armisen](https://open.spotify.com/artist/0kiisaxpTLv4c9MdeKgNL6), [Lo Mutuc](https://open.spotify.com/artist/3hvInKrSltVn4VaMQPt8pJ) | [Yo Gabba Gabba! Music Is Awesome! Vol\. 3 \(Deluxe Edition\)](https://open.spotify.com/album/1a2drc2oGsmGpg4JvudDmu) | 2:14 |
+| 49 | [Treasure Dance](https://open.spotify.com/track/02Ng5tD1jeHq8JOqMWJunA) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Fred Armisen](https://open.spotify.com/artist/0kiisaxpTLv4c9MdeKgNL6), [Lo Mutuc](https://open.spotify.com/artist/3hvInKrSltVn4VaMQPt8pJ) | [Yo Gabba Gabba! Music Is Awesome! Vol\. 3 \(Deluxe Edition\)](https://open.spotify.com/album/1a2drc2oGsmGpg4JvudDmu) | 2:14 |
+| 50 | [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Funkytown \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb) | 4:23 |
 
 Snapshot ID: `AAAAAJ2koonq3+5riwzGR6OlNZX3FTMN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,929 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,964 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 16 | [Trans Atlantique](https://open.spotify.com/track/2TTOjkuZ5gUJMpDKKnfkyH) | [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Surfaces](https://open.spotify.com/album/2ZZajTIAV6bCVpUdgF9xGg) | 2:58 |
 | 17 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 |
 | 18 | [Frame Dragging](https://open.spotify.com/track/172cPFPhhyr9YzhXCMnafi) | [Arthur Robert](https://open.spotify.com/artist/03fCnnnuTnIahIcmQ8NjM4) | [Frame Dragging](https://open.spotify.com/album/0KWxCPIZfrxBqpYsv0ik0d) | 5:08 |
-| 19 | [Satellite \(feat\. Obi Franky\)](https://open.spotify.com/track/1ZujYf9faGjNWfb5kChIYY) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Trans Voices](https://open.spotify.com/artist/5gKkDU3PBlwJF3KXTfgplH), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Satellite](https://open.spotify.com/album/340HOvCalhkakUkfdtZohg) | 4:24 |
+| 19 | [Satellite](https://open.spotify.com/track/1ZujYf9faGjNWfb5kChIYY) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Trans Voices](https://open.spotify.com/artist/5gKkDU3PBlwJF3KXTfgplH) | [Satellite](https://open.spotify.com/album/340HOvCalhkakUkfdtZohg) | 4:24 |
 | 20 | [Tulpa](https://open.spotify.com/track/22SsFlXdJtcYKkD9Lx1osr) | [hej motti](https://open.spotify.com/artist/1sVzJA35Mk7QHp1aVh7m6Q) | [Tulpa](https://open.spotify.com/album/5oHddvq6v69uzM00VpgwYJ) | 2:38 |
 | 21 | [U Were Nvr Rlly Here](https://open.spotify.com/track/2KTb35IFTih0RFcqyomXiv) | [awkskord](https://open.spotify.com/artist/0KZAdftdIbJZwWPNNIUXbN) | [All Dreams Are Cut\-Scenes](https://open.spotify.com/album/4mfvBthB0MLWacMHyGvREN) | 1:47 |
 | 22 | [I Wish I Had Something To Say But I Don't](https://open.spotify.com/track/7hPsHelRDnWPc5eu2EtLGL) | [That bb](https://open.spotify.com/artist/1EeNood6FrkpWHqrHUNMGF) | [I Wish I Had Something To Say But I Don't](https://open.spotify.com/album/6j4Txn6EYXnKVJrza1pEhL) | 4:01 |

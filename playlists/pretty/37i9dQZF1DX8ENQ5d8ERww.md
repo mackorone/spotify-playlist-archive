@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,856 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,861 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 49 | [Grächtigkeitsgass \[feat\. Lo & Leduc\]](https://open.spotify.com/track/3OPLuQps2zDnD0vmhTeXIn) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/5jlOlbLwRxl46TaqbpLhy9) | 4:01 |
 | 50 | [Die Grundregeln](https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui) | [Beat Dictator Crew](https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo), [Bdc](https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V) | [Mitgehen oder Aussteigen](https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH) | 3:40 |
 
-Snapshot ID: `AAAAAJsyQDilG07wA+2WCcbs95QCgTHH`
+Snapshot ID: `AAAAAEpoX5vBSdFQmlpWIpzYuA3wMiGx`

@@ -699,6 +699,40 @@
     },
     {
       "album": {
+        "name": "Dia Ap\u00f3s Dia",
+        "url": "https://open.spotify.com/album/1Sn7h4iRurPRkiLoZPsYmK"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Pedro Trick",
+          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
+        },
+        {
+          "name": "Becks",
+          "url": "https://open.spotify.com/artist/3Y8piIfN1Dbettwo0uDg7F"
+        },
+        {
+          "name": "SART\u00d8R",
+          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
+        },
+        {
+          "name": "CAMPING",
+          "url": "https://open.spotify.com/artist/05ugEOR6Mr3l27oIegLhYj"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Dia Ap\u00f3s Dia",
+      "url": "https://open.spotify.com/track/1ioR9hWlldRsM5didqwgrl"
+    },
+    {
+      "album": {
         "name": "Dias de Gl\u00f3ria",
         "url": "https://open.spotify.com/album/01yQLupMIkViljw0FVgISH"
       },
@@ -718,7 +752,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 227169,
       "name": "Dias de Gl\u00f3ria",
       "url": "https://open.spotify.com/track/2u9n6tkB5d9tciXt8f7dUI"
@@ -1594,7 +1628,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 232806,
       "name": "Mente Criminosa",
       "url": "https://open.spotify.com/track/6dDUANFSGkfYoyRyri4emg"
@@ -2876,7 +2910,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 208695,
       "name": "S\u00f3 Sei Falar de Amor",
       "url": "https://open.spotify.com/track/21Uw9Zc5WH4BebFZgOr6J9"

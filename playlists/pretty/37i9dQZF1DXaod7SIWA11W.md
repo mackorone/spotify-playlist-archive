@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: nobigdyl\. & KB
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,329 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,353 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 42 | [Holy One \- Live](https://open.spotify.com/track/5j1jCzq7puccX0fmfEr8Sc) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt) | [Holy One \(Live\)](https://open.spotify.com/album/5RKK7YAqoCY0Rem8yFTn1f) | 6:08 |
 | 43 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 |
 | 44 | [S.I.T.L.](https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:58 |
-| 45 | [It Is Done](https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn) | [Dana Shine](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [It Is Done](https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q) | 2:37 |
+| 45 | [It Is Done](https://open.spotify.com/track/0GmnP9oJi0Yq2WhxZRXavn) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [It Is Done](https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q) | 2:37 |
 | 46 | [My Cry](https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm) | [Auraè](https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM) | [My Cry](https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL) | 3:20 |
 | 47 | [Glory To The Lord](https://open.spotify.com/track/2vR6N7Zd4SkVQtdvgOJzfl) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e) | [Glory To The Lord](https://open.spotify.com/album/5J1amY47Ds99rNlLUCOCBQ) | 2:32 |
 | 48 | [Found in You](https://open.spotify.com/track/4laQ1iAAsNgyyKetbee9O0) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Found in You](https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe) | 2:42 |

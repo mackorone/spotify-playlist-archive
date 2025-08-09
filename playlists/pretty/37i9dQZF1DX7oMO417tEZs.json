@@ -1,12 +1,12 @@
 {
   "description": "A curated space for the avant-garde. Cover: Nourished by Time",
-  "num_followers": 173370,
+  "num_followers": 173390,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOV4MlPJoa+6wqJvqabBPc2U0k01",
+  "snapshot_id": "AAAAACvsJ1jCIkr2NQymbCEzSSaKIJ3W",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:34",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/37RNy61lMUr4NoYmSOroHJ"
     },
     {
+      "added_at": "2025-08-08 04:00:56",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0zXkNrPiubPQ6xuBBN0ssu"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 179949,
+      "name": "She's A Director",
+      "url": "https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3"
+    },
+    {
       "added_at": "2025-08-01 04:00:34",
       "album": {
         "name": "The Starrr Of The Queen Of Life",
@@ -41,24 +61,24 @@
       "url": "https://open.spotify.com/track/0m3RfZpsgsPTWg311WC9Ad"
     },
     {
-      "added_at": "2025-08-01 04:00:34",
+      "added_at": "2025-08-08 04:00:56",
       "album": {
-        "name": "200",
-        "url": "https://open.spotify.com/album/5XJT2HvNyfniwak4W7fMTe"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0UHPrq8smwU1HbupSKaYHe"
       },
       "artists": [
         {
-          "name": "Mechatok",
-          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
         },
         {
-          "name": "Tohji",
-          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
         }
       ],
-      "duration_ms": 177015,
-      "name": "200",
-      "url": "https://open.spotify.com/track/4V6Z6lspE7s6cahWpLFpmm"
+      "duration_ms": 202000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
     },
     {
       "added_at": "2025-08-01 04:00:34",
@@ -75,6 +95,90 @@
       "duration_ms": 174280,
       "name": "Party",
       "url": "https://open.spotify.com/track/5zEgkeDQtPTKAC7sM5ocUp"
+    },
+    {
+      "added_at": "2025-08-01 04:00:34",
+      "album": {
+        "name": "Girlie-Pop!",
+        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 123950,
+      "name": "Girlie-Pop!",
+      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
+    },
+    {
+      "added_at": "2025-08-01 04:00:34",
+      "album": {
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2025-08-01 04:00:34",
+      "album": {
+        "name": "Perfectly",
+        "url": "https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 230797,
+      "name": "Perfectly",
+      "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
+    },
+    {
+      "added_at": "2025-08-01 04:00:34",
+      "album": {
+        "name": "Bad Lyfe",
+        "url": "https://open.spotify.com/album/6KC48Q44YsGLTqX9tWlAQO"
+      },
+      "artists": [
+        {
+          "name": "Lover's Skit",
+          "url": "https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Bad Lyfe",
+      "url": "https://open.spotify.com/track/1VXu0Yy9VrzmVBjPGEI7Pd"
+    },
+    {
+      "added_at": "2025-08-08 04:00:56",
+      "album": {
+        "name": "unknown reasons",
+        "url": "https://open.spotify.com/album/1pY9tTjFfRMV2tbSrxZLqL"
+      },
+      "artists": [
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        },
+        {
+          "name": "notinbed",
+          "url": "https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8"
+        }
+      ],
+      "duration_ms": 225988,
+      "name": "touch grass",
+      "url": "https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth"
     },
     {
       "added_at": "2025-08-01 04:00:34",
@@ -131,6 +235,26 @@
     {
       "added_at": "2025-08-01 04:00:34",
       "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/5XJT2HvNyfniwak4W7fMTe"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Tohji",
+          "url": "https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "200",
+      "url": "https://open.spotify.com/track/4V6Z6lspE7s6cahWpLFpmm"
+    },
+    {
+      "added_at": "2025-08-01 04:00:34",
+      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
       },
@@ -143,22 +267,6 @@
       "duration_ms": 252929,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Girlie-Pop!",
-        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 123950,
-      "name": "Girlie-Pop!",
-      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
     },
     {
       "added_at": "2025-08-01 04:00:34",
@@ -187,22 +295,6 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
     },
     {
       "added_at": "2025-08-01 04:00:34",
@@ -243,38 +335,6 @@
       "duration_ms": 155000,
       "name": "Clayboy",
       "url": "https://open.spotify.com/track/3BESrc7B6JJqt7hFNx2gmb"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Perfectly",
-        "url": "https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 230797,
-      "name": "Perfectly",
-      "url": "https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg"
-    },
-    {
-      "added_at": "2025-08-01 04:00:34",
-      "album": {
-        "name": "Bad Lyfe",
-        "url": "https://open.spotify.com/album/6KC48Q44YsGLTqX9tWlAQO"
-      },
-      "artists": [
-        {
-          "name": "Lover's Skit",
-          "url": "https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu"
-        }
-      ],
-      "duration_ms": 184642,
-      "name": "Bad Lyfe",
-      "url": "https://open.spotify.com/track/1VXu0Yy9VrzmVBjPGEI7Pd"
     },
     {
       "added_at": "2025-08-01 04:00:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQxwX56Xjpe.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7?si=fb9c4fa1bdc64f0e">Lenny Kravitz's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,364 likes - 32 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,371 likes - 32 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQxwX56Xjpe.md) - [plain]
 | 18 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
 | 19 | [You Are in My System](https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 5:57 |
 | 20 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
-| 21 | [Square Biz](https://open.spotify.com/track/7eh1Fov3OjwOx0vqiwnFaK) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [It Must Be Magic](https://open.spotify.com/album/0ROB2BCrsG8kODFK5mxSf8) | 6:40 |
+| 21 | [Square Biz \- Remastered 2002](https://open.spotify.com/track/7eh1Fov3OjwOx0vqiwnFaK) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [It Must Be Magic \(Remastered 2002 / Expanded Edition\)](https://open.spotify.com/album/0ROB2BCrsG8kODFK5mxSf8) | 6:40 |
 | 22 | [I Feel Love](https://open.spotify.com/track/4rS63BySQrdWuTswkkZ5iS) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [The Dance Collection](https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp) | 8:13 |
 | 23 | [Rocket Love](https://open.spotify.com/track/1BPifF7NTeu4N4kdz50uI0) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/1ZuQduJGh0lBynUsfzD1tH) | 4:39 |
 | 24 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xefHaU0hYd.md) - [plain]
 
 > Listen to the soundtracks of Lovely Runner\. \(선재 업고 튀어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the ost singers\. \(Ost 가창자들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,128 likes - 104 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,184 likes - 104 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

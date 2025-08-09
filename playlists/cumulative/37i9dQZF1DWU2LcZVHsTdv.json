@@ -523,6 +523,24 @@
     },
     {
       "album": {
+        "name": "Borrow Mine",
+        "url": "https://open.spotify.com/album/0sq0I1vBQCU2Yv75XvXFfE"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188956,
+      "name": "Borrow Mine",
+      "url": "https://open.spotify.com/track/1FaY1KSNYlGUPOLKqN7RBM"
+    },
+    {
+      "album": {
         "name": "Build a Boat (feat. Gabby Barrett)",
         "url": "https://open.spotify.com/album/4SZMNcGVATjnAUfOXT9pTf"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUl3tV8xUh7q.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,427 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,440 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUl3tV8xUh7q.md) - [plain]
 | 26 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 27 | [Again](https://open.spotify.com/track/7GkRkWItM8dpCwaV302ZEK) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Again](https://open.spotify.com/album/5TNltx6fkatJu1CMYZFG1B) | 2:46 |
 | 28 | [Trouble](https://open.spotify.com/track/2xBNgTK7WHXwDh5kZvLTOT) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Trouble](https://open.spotify.com/album/5j3ruXtcaQ7EOsbXTmiT4b) | 2:44 |
-| 29 | [African Queen](https://open.spotify.com/track/5uLZ0zbhL3j8ZHGEz4KKf9) | [Blackface](https://open.spotify.com/artist/6wfPGeyr7Qq1pfC7Nh7GaF), [2Face](https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3) | [Afrobeatz Vol, 4](https://open.spotify.com/album/2b120fvG31KqqTfF7AEmK4) | 4:21 |
+| 29 | [African Queen](https://open.spotify.com/track/5uLZ0zbhL3j8ZHGEz4KKf9) | [Blackface](https://open.spotify.com/artist/6wfPGeyr7Qq1pfC7Nh7GaF), [2Face](https://open.spotify.com/artist/0bX7oyjN0NWlnirtTd6CDe) | [Afrobeatz Vol, 4](https://open.spotify.com/album/2b120fvG31KqqTfF7AEmK4) | 4:21 |
 | 30 | [Fall in Love](https://open.spotify.com/track/1wBpOLBIsjXz1EeMeMDjpg) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Entertainer](https://open.spotify.com/album/6J5lL8raLc56d7E5FXk7sg) | 4:12 |
 | 31 | [Sativa](https://open.spotify.com/track/5In4XDITeH7nWyPjPko7I2) | [Kahren](https://open.spotify.com/artist/7FKxTA9hAgEnLHgAlV23q3) | [Sativa](https://open.spotify.com/album/020zOYrXOKuPL7F8uX3PXi) | 3:17 |
 | 32 | [Superwoman](https://open.spotify.com/track/4fHrXJB6cYlGfKMLuDtgqU) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/2yLguLXQqoY0DMXxTUHNWR) | 4:56 |

@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-208 songs - 18 hr 33 min
+209 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aankho Mein Raha](https://open.spotify.com/track/1wGxfpGFpx2vCajaRilihV) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7IQQ3Trjwr2Nmjj6VGqsng) | 7:54 | 2023-02-27 | 2024-04-19 |
 | [Aankho Mein Raha](https://open.spotify.com/track/2FD9gvBqK3adif1uPLGJ5v) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Yaadein](https://open.spotify.com/album/7aXLKwwQu93yP2OFfKWZph) | 7:54 | 2024-04-18 |  |
 | [Aapki Yaad Aati Rahi Raat Bhar](https://open.spotify.com/track/2bCwBISaRkGc0CUY5t7X87) | [Chhaya Ganguli](https://open.spotify.com/artist/4psVmgSgmjHIBM7MZuVQyY) | [Gaman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5dF7QK9cY4JBCIqnRG7J8N) | 5:02 | 2021-12-01 | 2023-05-16 |
+| [Aasman](https://open.spotify.com/track/4UoghtpFglvrv1UwOiYiz3) | [Deepak Pandit](https://open.spotify.com/artist/2BZwCL3KVpmgrRmowHlU6B), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Aasman](https://open.spotify.com/album/7McEMB3Dpdx5aq1vv9GuVg) | 6:24 | 2025-08-08 |  |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2024-02-07 | 2024-04-19 |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/5UlX0IDXTIRSjxoKwA7hua) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log](https://open.spotify.com/album/6GQxHAADW2hxsE4HU10REy) | 4:47 | 2024-04-18 |  |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9) | 7:08 | 2023-07-25 | 2025-01-01 |
@@ -181,7 +182,7 @@
 | [Salona Sa Sajan Hai Aur Main Hoon](https://open.spotify.com/track/1jsAS4KWjFvMIpj50byZuT) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Meraj\-E\-Ghazal](https://open.spotify.com/album/3AsraRscaaYpwskp9Wrici) | 4:48 | 2024-04-18 |  |
 | [Salona Sa Sajan Hai Aur Main Hoon](https://open.spotify.com/track/5nRwU6IYLkAnMdqCB8OhR8) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [The Golden Collection Memorable Ghazals and Geets](https://open.spotify.com/album/2zpryxUSTtE9C8HfGDwBKR) | 4:48 | 2024-03-19 | 2024-04-19 |
 | [Samandar](https://open.spotify.com/track/2aAyT3c7fuLPMTYvkmiIYG) | [Sumeet Tappoo](https://open.spotify.com/artist/6xOOEKbsrxfFVJ1hsso3Zf), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Dil Pareshan Karta Hai](https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3) | 5:39 | 2024-08-23 |  |
-| [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 | 2025-02-11 |  |
+| [Shaam Se Aaj](https://open.spotify.com/track/1GVWzHZ0AVJUZuNFuNZvIm) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Shaam Se Aaj](https://open.spotify.com/album/4SuzrXLwbsRxRSZvp2Dr5g) | 4:38 | 2025-02-11 | 2025-08-09 |
 | [Sham Ye Dhalte Dhalte](https://open.spotify.com/track/4zXjNS4xY2UGEw6QKcrhuq) | [Swarit Nigam](https://open.spotify.com/artist/2AI1W8IwzHBX52QMOA5I93) | [Sham Ye Dhalte Dhalte](https://open.spotify.com/album/5esJl9CSFXUGkv4G6brye9) | 5:29 | 2023-02-17 | 2023-07-01 |
 | [Sharab Cheez Hi Aisi](https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:04 | 2024-02-07 |  |
 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 | 2021-12-01 | 2025-01-01 |

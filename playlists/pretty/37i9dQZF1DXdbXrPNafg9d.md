@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new music every Friday\. Cover: Del Water Gap
+> The best new music every Friday\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,462 likes - 200 songs - 11 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,494 likes - 200 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 39 | [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 |
 | 40 | [1st World Blues](https://open.spotify.com/track/4zW6Mm1u9H1V5fxj5WzDbp) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [1st World Blues](https://open.spotify.com/album/5KnfxMHAyD0VUzVlZGrRFe) | 4:21 |
 | 41 | [Setting Sun](https://open.spotify.com/track/4bUHiFK6oq9Io4fAZPWSwW) | [Post Animal](https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE) | [Iron](https://open.spotify.com/album/1I37eoXjALZ9dOLeYOgJdQ) | 5:06 |
-| 42 | [Crying in the Night \- 2025 Remaster](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night \(2025 Remaster\)](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 |
+| 42 | [Crying in the Night](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 |
 | 43 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
 | 44 | [hit of the highlife](https://open.spotify.com/track/0M9kAFtdEmi5WjKXiAtjdL) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Luke Roberts](https://open.spotify.com/artist/6wAZyC0IbyHiQ7yJrI15zb) | [Classic Love \(ep\)](https://open.spotify.com/album/6AKsAJOKcpD8khaDacJv7j) | 6:03 |
 | 45 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Still Above](https://open.spotify.com/track/2aOKR3QxNyOagxfB7V8ZVa) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Still Above](https://open.spotify.com/album/38F6b7S3fHHVNfd7YT2Yvw) | 2:28 |
 | 200 | [Wipe your tears](https://open.spotify.com/track/3K5bLOU8pMGrDsPCfdL25g) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [The woods, vol\. 1](https://open.spotify.com/album/28LD28enRzXd3e0V5zDypI) | 2:36 |
 
-Snapshot ID: `AAAAACISoqWKctFfH8QZVxu3mFgQPUqV`
+Snapshot ID: `AAAAALbzO/S5MVqWyMutyModSDq896gj`

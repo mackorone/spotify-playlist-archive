@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YEW",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: AYLA's",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 234198,
       "name": "All I Know",
       "url": "https://open.spotify.com/track/1MFPsvn1WORn6oSbStc93A"
+    },
+    {
+      "album": {
+        "name": "Back Off !!!",
+        "url": "https://open.spotify.com/album/6Ui4GRKdLp0CVT7SODjyHr"
+      },
+      "artists": [
+        {
+          "name": "Famoso",
+          "url": "https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267645,
+      "name": "Back Off !!!",
+      "url": "https://open.spotify.com/track/5mULQOKHEFBgmC6cfFFqZz"
     },
     {
       "album": {
@@ -317,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Turning Back",
+        "url": "https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Turning Back",
+      "url": "https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e27\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Fear)",
         "url": "https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K"
       },
@@ -440,6 +476,24 @@
       "duration_ms": 295300,
       "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
       "url": "https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e07\u0e08\u0e30\u0e14\u0e35\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b (Vanishing)",
+        "url": "https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254277,
+      "name": "\u0e04\u0e07\u0e08\u0e30\u0e14\u0e35\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b (Vanishing)",
+      "url": "https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly"
     },
     {
       "album": {
@@ -1024,7 +1078,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 234473,
       "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/7lNFvY6jDHOPzsU5wfZz4C"
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 254375,
       "name": "\u0e23\u0e16\u0e21\u0e31\u0e19\u0e15\u0e34\u0e14 (Romantic)",
       "url": "https://open.spotify.com/track/1nifHQL0R1vZKYaoeqhJCM"
@@ -1553,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e01\u0e48\u0e2d\u0e19! (Puzzle)",
+        "url": "https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf"
+      },
+      "artists": [
+        {
+          "name": "SHERRY",
+          "url": "https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196710,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e01\u0e48\u0e2d\u0e19! (Puzzle)",
+      "url": "https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e22\u0e38\u0e14\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e04\u0e23 (Toxic)",
         "url": "https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7"
       },
@@ -1712,7 +1784,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 282996,
       "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
       "url": "https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog"
@@ -2080,7 +2152,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 238706,
       "name": "\u0e43\u0e04\u0e23\u0e2a\u0e31\u0e01\u0e04\u0e19 ( SOMEBODY's ME )",
       "url": "https://open.spotify.com/track/6hhiComLULoPZkEnFPI6Tf"

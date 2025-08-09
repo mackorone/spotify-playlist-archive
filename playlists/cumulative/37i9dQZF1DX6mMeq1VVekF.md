@@ -2,7 +2,7 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: Kae Tempest
+> No tags, no labels \- just free form\. Cover: Blood Orange
 
 514 songs - 1 day 2 hr 28 min
 

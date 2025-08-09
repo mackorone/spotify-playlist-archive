@@ -1,18 +1,18 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 367979,
+  "num_followers": 367970,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCgdqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MClqeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Adaline",
-        "url": "https://open.spotify.com/album/0d9hrvI7TCq7U66twLPfP4"
+        "url": "https://open.spotify.com/album/4rHdm5YC78WE0r5OjPsJU4"
       },
       "artists": [
         {
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f"
         }
       ],
-      "duration_ms": 224756,
+      "duration_ms": 224733,
       "name": "Adaline",
-      "url": "https://open.spotify.com/track/3j9JgZHnzykzAYaR6tmzeD"
+      "url": "https://open.spotify.com/track/6zoq2IObGRnwkZDGEKZVTi"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
@@ -73,43 +73,7 @@
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "So Far So Fake",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Soft Machine (U.S. Version)",
-        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 246786,
-      "name": "Punkrocker (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -129,7 +93,7 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -145,7 +109,43 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Soft Machine (U.S. Version)",
+        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Punkrocker (feat. Iggy Pop)",
+      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Devil in Disguise",
         "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Keeps Me Sane",
         "url": "https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Focus More On Me (Deluxe)",
         "url": "https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -353,23 +353,7 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
@@ -389,7 +373,23 @@
       "url": "https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "You'll Be Alright, Kid",
         "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
@@ -453,43 +453,7 @@
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "The Lost Files",
-        "url": "https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 84114,
-      "name": "IWATCHEDHIMDROWN",
-      "url": "https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
@@ -517,7 +481,7 @@
       "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
@@ -533,7 +497,143 @@
       "url": "https://open.spotify.com/track/10RQeKnNwAUuGULmDd2Vp7"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "GET NAKED",
+        "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "GET NAKED",
+      "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "The Lost Files",
+        "url": "https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C"
+      },
+      "artists": [
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 84114,
+      "name": "IWATCHEDHIMDROWN",
+      "url": "https://open.spotify.com/track/4jv3TFJWkmCswY7DxwMeQI"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
+        "url": "https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c"
+      },
+      "artists": [
+        {
+          "name": "HALCALI",
+          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "\u304a\u3064\u304b\u308cSUMMER",
+      "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Runaway (U & I)",
+        "url": "https://open.spotify.com/album/4xrwP1XPbtzfBAahfstm0e"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 147307,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "My Love (Rework)",
+        "url": "https://open.spotify.com/album/5j6St6A4oQCXb8fbWJc8vA"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 210597,
+      "name": "My Love - Rework",
+      "url": "https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "The Lost Files",
         "url": "https://open.spotify.com/album/428N9zTdjW9YzRVxBWZN7C"
@@ -553,55 +653,7 @@
       "url": "https://open.spotify.com/track/5X3vL3tRWfegfhOdHrjJR3"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
-        "url": "https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c"
-      },
-      "artists": [
-        {
-          "name": "HALCALI",
-          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "\u304a\u3064\u304b\u308cSUMMER",
-      "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB"
@@ -637,39 +689,71 @@
       "url": "https://open.spotify.com/track/7vV6MiU4BHLuNyu4P87z9k"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
-        "name": "GET NAKED",
-        "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
+        "name": "she got a thing about her",
+        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
       },
       "artists": [
         {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
         }
       ],
-      "duration_ms": 126933,
-      "name": "GET NAKED",
-      "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
+      "duration_ms": 138646,
+      "name": "she got a thing about her",
+      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
-        "name": "My Love (Rework)",
-        "url": "https://open.spotify.com/album/5j6St6A4oQCXb8fbWJc8vA"
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
       "artists": [
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 210597,
-      "name": "My Love - Rework",
-      "url": "https://open.spotify.com/track/6q6GR1UxIkyaVJuUNYtEjw"
+      "duration_ms": 241291,
+      "name": "The Man That Came Back",
+      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Handful",
+        "url": "https://open.spotify.com/album/6Jt7B3f6UkWvvP71hjuTl1"
+      },
+      "artists": [
+        {
+          "name": "Lil M.U.",
+          "url": "https://open.spotify.com/artist/1FqtduZDVtxwzIL1vkGOVn"
+        }
+      ],
+      "duration_ms": 136411,
+      "name": "Top Of Cars",
+      "url": "https://open.spotify.com/track/6KhAY6HMsbKbv68VT4c35p"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "MSI B-SIDES vol.1",
+        "url": "https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS"
+      },
+      "artists": [
+        {
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
+        }
+      ],
+      "duration_ms": 133979,
+      "name": "Seven Minutes in Heaven",
+      "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Rockstar Junkie",
         "url": "https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID"
@@ -689,7 +773,7 @@
       "url": "https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -709,55 +793,23 @@
       "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
-        "name": "she got a thing about her",
-        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 138646,
-      "name": "she got a thing about her",
-      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 241291,
-      "name": "The Man That Came Back",
-      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Handful",
-        "url": "https://open.spotify.com/album/6Jt7B3f6UkWvvP71hjuTl1"
-      },
-      "artists": [
-        {
-          "name": "Lil M.U.",
-          "url": "https://open.spotify.com/artist/1FqtduZDVtxwzIL1vkGOVn"
-        }
-      ],
-      "duration_ms": 136411,
-      "name": "Top Of Cars",
-      "url": "https://open.spotify.com/track/6KhAY6HMsbKbv68VT4c35p"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
@@ -773,23 +825,7 @@
       "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "MSI B-SIDES vol.1",
-        "url": "https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS"
-      },
-      "artists": [
-        {
-          "name": "Mindless Self Indulgence",
-          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
-        }
-      ],
-      "duration_ms": 133979,
-      "name": "Seven Minutes in Heaven",
-      "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -821,55 +857,7 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Dusty Bibles",
-        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Dusty Bibles",
-      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Vodka Cranberry",
         "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
@@ -885,7 +873,115 @@
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Migo In America",
+        "url": "https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 103186,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Drugs I Like",
+        "url": "https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg"
+      },
+      "artists": [
+        {
+          "name": "nate band",
+          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
+        }
+      ],
+      "duration_ms": 198774,
+      "name": "Drugs I Like",
+      "url": "https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Dusty Bibles",
+        "url": "https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Dusty Bibles",
+      "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 165857,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Elegantly Wasted [Feat. Leon Bridges]",
+        "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 213062,
+      "name": "Elegantly Wasted [Feat. Leon Bridges]",
+      "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/2pahZPfd9RrI1zO8fY6qqv"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 202596,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/69NGfLih2nqHV7JpABexpd"
+    },
+    {
+      "added_at": "2025-08-08 17:56:42",
       "album": {
         "name": "Changes (Live From Villa Park) Back To The Beginning (feat. Nuno Bettencourt, Frank Bello, Adam Wakeman, II)",
         "url": "https://open.spotify.com/album/2mbhC8oNvDt3KCM4kY37Ky"
@@ -917,112 +1013,20 @@
       "url": "https://open.spotify.com/track/5yriBaBAgiRDoTVVWazMuv"
     },
     {
-      "added_at": "2025-08-07 15:52:43",
+      "added_at": "2025-08-08 17:56:42",
       "album": {
-        "name": "Migo In America",
-        "url": "https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw"
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
       "artists": [
         {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 103186,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Drugs I Like",
-        "url": "https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg"
-      },
-      "artists": [
-        {
-          "name": "nate band",
-          "url": "https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W"
-        }
-      ],
-      "duration_ms": 198774,
-      "name": "Drugs I Like",
-      "url": "https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Elegantly Wasted [Feat. Leon Bridges]",
-        "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 213062,
-      "name": "Elegantly Wasted [Feat. Leon Bridges]",
-      "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
-        }
-      ],
-      "duration_ms": 165857,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
-    },
-    {
-      "added_at": "2025-08-07 15:52:43",
-      "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 278213,
-      "name": "Oneida",
-      "url": "https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct"
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     }
   ],
   "unique_name": "Viral 50 - USA",

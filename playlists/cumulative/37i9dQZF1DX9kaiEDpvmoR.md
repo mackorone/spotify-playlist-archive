@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-413 songs - 23 hr 53 min
+414 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Alltid Du \(feat\. Etta Zelmani\)](https://open.spotify.com/track/2fHWPfD2wEX03IaohJyt9Z) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA), [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [Alltid Du](https://open.spotify.com/album/7bBq9PjJ0457BqQGMHDzUG) | 3:08 | 2024-10-10 | 2024-11-23 |
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-08-15 | 2024-09-27 |
 | [Allting blir bra](https://open.spotify.com/track/4FweMnXDJSEs6tciVzBerT) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [Allting blir bra](https://open.spotify.com/album/6zemClBcSflGzjqB8K2LYR) | 2:39 | 2025-05-15 | 2025-06-04 |
-| [Allting som vi har](https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Allting som vi har](https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY) | 3:12 | 2025-04-24 |  |
+| [Allting som vi har](https://open.spotify.com/track/4QHM0KVcosRyE3biAv6cnj) | [Sonja Aldén](https://open.spotify.com/artist/3XyHsKlvXenLURpECPEQOJ) | [Allting som vi har](https://open.spotify.com/album/0c3sJv3umy4jAtHNOb9azY) | 3:12 | 2025-04-24 | 2025-08-09 |
 | [Andetag \(Man måste leva nu\)](https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2) | [Milly](https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j) | [Andetag \(Man måste leva nu\)](https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o) | 3:35 | 2025-05-22 |  |
 | [Andra Människor](https://open.spotify.com/track/0dDYfyfGJuvitw2nD1gsv5) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Andra Människor](https://open.spotify.com/album/2dIu1oVslVt4jnqgcArKNL) | 2:42 | 2025-03-13 | 2025-03-21 |
 | [Ansiktenas mystik](https://open.spotify.com/track/3iQCly1ZItf5IzqENmXwLo) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Frostvikskören](https://open.spotify.com/artist/4xh0IajLeytseF1pWs8TTA) | [Ansiktenas mystik](https://open.spotify.com/album/16DxIxbhyfe0RygTvQX5zQ) | 3:20 | 2025-04-24 | 2025-06-20 |
@@ -399,6 +399,7 @@
 | [Wasting Years](https://open.spotify.com/track/6XYZul9KUloOQHx2RWfbCj) | [Ulf Nilsson](https://open.spotify.com/artist/2rkHn1CZIm8WSEXjVm86EV) | [Wasting Years](https://open.spotify.com/album/2CVriiX2NKbMnQE6a52FYw) | 3:45 | 2024-09-19 | 2024-10-29 |
 | [We're In This Together](https://open.spotify.com/track/6NBg7sawDf6GjenlbBboAa) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [We're In This Together](https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs) | 2:20 | 2024-06-27 | 2024-08-30 |
 | [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 | 2024-08-29 | 2025-01-10 |
+| [Wedding in Leipzig](https://open.spotify.com/track/11xahEyH2ySa20FGwptUec) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Wedding In Leipzig](https://open.spotify.com/album/797xaR6WVTBnzBpzkbYXYq) | 10:33 | 2025-08-07 |  |
 | [What I'm Running From](https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [What I'm Running From](https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz) | 3:47 | 2025-02-14 |  |
 | [What Went Wrong \(Flat Tyre on a Muddy Road\)](https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur) | [Arja Saijonmaa](https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK) | [What Went Wrong \(Flat Tyre on a Muddy Road\)](https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn) | 3:53 | 2024-10-10 | 2024-11-29 |
 | [What You’re Saying To Me](https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM) | [Doug Seegers](https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm), [Eva Eastwood](https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH) | [What You’re Saying To Me](https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH) | 2:46 | 2024-06-27 | 2024-08-23 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 ### [Hot Rhythmic](https://open.spotify.com/playlist/37i9dQZF1DWYs83FtTMQFw)
 
-> The hottest tracks of today ft\. Drake, SZA, The Weeknd and more.
+> The hottest tracks of today ft\. Drake, Bryson Tiller, SZA and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341,270 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,341,462 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 99 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
 | 100 | [Soak City \(Do it\)](https://open.spotify.com/track/6iiCzEd1ULpq7nXbZVQ4pi) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Lottery Pick](https://open.spotify.com/album/7pp3ZbXrqBiaaeRLIAyis5) | 2:03 |
 
-Snapshot ID: `AAAAAH/4NEwu2jRxjDp82AfQNxTapxHv`
+Snapshot ID: `AAAAAHCvVB4ys3PHjcNYwj8uGBADtwOx`

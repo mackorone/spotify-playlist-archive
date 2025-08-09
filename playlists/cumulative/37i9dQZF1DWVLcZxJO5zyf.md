@@ -2,9 +2,9 @@
 
 ### [Pop Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf)
 
-> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Rico Dalasam
+> Ouça todas as novidades e hits do pop br aqui e agora! Foto: Vitão
 
-411 songs - 19 hr 35 min
+412 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Romance Em Cena](https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:08 | 2024-09-20 |  |
 | [roubando a cena](https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:17 | 2022-05-13 | 2022-07-23 |
 | [S De Saudade \- Remix](https://open.spotify.com/track/4YKFMajucGtQfbY6poVMBP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [S De Saudade \(Remix\)](https://open.spotify.com/album/5Fd3IVibDWZczGP6eyYqXd) | 2:47 | 2022-09-09 | 2022-10-15 |
+| [Sacode](https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sacode](https://open.spotify.com/album/7KS5hWrJWVF1hJMBcutjHz) | 2:30 | 2025-08-08 |  |
 | [Sai Da Frente](https://open.spotify.com/track/1yxLzhNXgm3SwyjbrBudcu) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Sai Da Frente](https://open.spotify.com/album/55opUeywWbgqvHG1xtP9X5) | 2:47 | 2023-05-26 | 2023-09-01 |
 | [SAL](https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SAL](https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE) | 2:00 | 2022-11-11 | 2023-08-26 |
 | [Saturno \(Ela é Malvada\)](https://open.spotify.com/track/3DFAj6yMZ6QLWez7cbL1Vc) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Saturno \(Ela é Malvada\)](https://open.spotify.com/album/3EJf6g8d84fp0glrKP1ZEF) | 2:22 | 2022-07-19 | 2022-07-29 |
@@ -393,7 +394,7 @@
 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mc Zaac](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 | 2022-01-14 | 2022-02-05 |
 | [Toma \- Ao Vivo](https://open.spotify.com/track/5lOHHtPiIEotQp8oCMoEp0) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [GG Astral \(Ao Vivo\)](https://open.spotify.com/album/1ldJ0FBMF8yZpbRqlno8kL) | 2:33 | 2022-01-14 | 2022-07-23 |
 | [Trago Seu Amor de Volta \- Live](https://open.spotify.com/track/7rEOv1xp3UiE22Ewpq1SAK) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Trago Seu Amor de Volta \(Live\)](https://open.spotify.com/album/6Jumv2GusuTde8ydN1GQDu) | 2:34 | 2022-01-14 | 2022-07-19 |
-| [Travesseiro](https://open.spotify.com/track/7HkixxW6d5vKKgKsrRMDug) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Travesseiro](https://open.spotify.com/album/5NdK37dWJs5svvuOe431p2) | 2:32 | 2025-05-02 |  |
+| [Travesseiro](https://open.spotify.com/track/7HkixxW6d5vKKgKsrRMDug) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Travesseiro](https://open.spotify.com/album/5NdK37dWJs5svvuOe431p2) | 2:32 | 2025-05-02 | 2025-08-09 |
 | [TROPA](https://open.spotify.com/track/3WYaDvxzcESlLucPoxLiB7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [TROPA](https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc) | 2:20 | 2022-07-01 | 2022-10-01 |
 | [TROPA DAS SOLTINHAS](https://open.spotify.com/track/7k82WCRSzfByzGXVYRgAvb) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [Jojo Maronttinni](https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5) | [TROPA DAS SOLTINHAS](https://open.spotify.com/album/0gLKqtVCVOcI7eGz6rJuIZ) | 2:26 | 2022-02-11 | 2022-03-18 |
 | [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-07-19 |  |

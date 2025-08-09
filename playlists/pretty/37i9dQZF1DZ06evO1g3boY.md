@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,083 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,081 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 32 | [Triunfo \(A Rua É Nóiz\)](https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS) | 3:29 |
 | 33 | [O Pequeno Burguês/ Canta Canta Minha Gente \- Ao Vivo](https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:09 |
 | 34 | [Só Mais Uma Noite \- Live](https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Evandro Fióti](https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 3:08 |
-| 35 | [Sobe junto](https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Sobe junto](https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt) | 3:25 |
-| 36 | [O Amor É Tudo de Bom](https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG) | [Mundo Bita](https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Amor É Tudo de Bom](https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN) | 3:27 |
+| 35 | [O Amor É Tudo de Bom](https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG) | [Mundo Bita](https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Amor É Tudo de Bom](https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN) | 3:27 |
+| 36 | [Sobe junto](https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Sobe junto](https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt) | 3:25 |
 | 37 | [A Ordem Natural das Coisas / Chiclete com Banana \- Ao Vivo](https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [AmarElo \- Ao Vivo](https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw) | 5:40 |
 | 38 | [Subirusdoistiozin \- Live](https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 3:31 |
 | 39 | [Oásis \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Melhor Remédio](https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 3:00 |
 | 50 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [NAVE](https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH) | 3:36 |
 
-Snapshot ID: `aJKbAAAAAAB5bth3gNhiHwYJcHvAOScv`
+Snapshot ID: `aJPsgAAAAACo230ccvkg+8dpz8H9X4/x`

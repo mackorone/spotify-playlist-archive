@@ -4757,7 +4757,7 @@
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 258838,
+      "duration_ms": 258840,
       "name": "\u591c\u306b\u99c6\u3051\u308b",
       "url": "https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB"
     },
@@ -4836,6 +4836,24 @@
       "duration_ms": 323665,
       "name": "\u5929\u56fd",
       "url": "https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+        "url": "https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2025-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
+      "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
     },
     {
       "album": {
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 234929,
       "name": "\u706b\u661f\u4eba",
       "url": "https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6"

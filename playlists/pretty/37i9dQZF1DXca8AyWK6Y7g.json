@@ -1,12 +1,12 @@
 {
   "description": "WHO'S MY SALLY TONIGHT? ",
-  "num_followers": 1582749,
+  "num_followers": 1582686,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbSPQWonYgkqqs9+vcby7ig6mub",
+  "snapshot_id": "AAAAALtV53T31LiBWc24T3kKeAheh79p",
   "tracks": [
     {
       "added_at": "2025-02-14 05:00:41",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "Parody Of Pleasure",
+        "url": "https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7"
+      },
+      "artists": [
+        {
+          "name": "Lydia Night",
+          "url": "https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l"
+        }
+      ],
+      "duration_ms": 142730,
+      "name": "The Bomb",
+      "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
+    },
+    {
       "added_at": "2025-07-25 04:01:01",
       "album": {
         "name": "12 to 12",
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-08-01 00:00:22",
+      "added_at": "2025-08-08 04:35:43",
       "album": {
-        "name": "Therapy & Yoga",
-        "url": "https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk"
+        "name": "Shapeshifting on a Saturday Night",
+        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
       },
       "artists": [
         {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
         }
       ],
-      "duration_ms": 115319,
-      "name": "Therapy & Yoga",
-      "url": "https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ"
+      "duration_ms": 205728,
+      "name": "Shapeshifting on a Saturday Night",
+      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
       "added_at": "2025-05-30 04:00:37",
@@ -73,6 +89,22 @@
       "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
     },
     {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "Reason To Hate You",
+        "url": "https://open.spotify.com/album/7fLXDsRokVOibKg5oTALze"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 195283,
+      "name": "Spring Cleaning",
+      "url": "https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54"
+    },
+    {
       "added_at": "2025-07-25 19:23:44",
       "album": {
         "name": "Voyeur",
@@ -87,6 +119,86 @@
       "duration_ms": 191089,
       "name": "Dumb Girl",
       "url": "https://open.spotify.com/track/7zzUqihj2HS2NhOOmWWTJj"
+    },
+    {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
+    },
+    {
+      "added_at": "2025-07-11 04:00:22",
+      "album": {
+        "name": "she got a thing about her",
+        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 138646,
+      "name": "she got a thing about her",
+      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
+    },
+    {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/6ACJBq7kVd2X9fmnIbzMjs"
+      },
+      "artists": [
+        {
+          "name": "May",
+          "url": "https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE"
+        }
+      ],
+      "duration_ms": 154018,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/22RLQANo8N2mMPC9I4IS9C"
+    },
+    {
+      "added_at": "2025-08-01 00:00:22",
+      "album": {
+        "name": "Therapy & Yoga",
+        "url": "https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "duration_ms": 115319,
+      "name": "Therapy & Yoga",
+      "url": "https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ"
+    },
+    {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "Drama Baby",
+        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 177168,
+      "name": "Drama Baby",
+      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
     },
     {
       "added_at": "2025-08-01 00:00:22",
@@ -107,6 +219,38 @@
     {
       "added_at": "2025-08-01 00:00:22",
       "album": {
+        "name": "sunday morning",
+        "url": "https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 140085,
+      "name": "sunday morning",
+      "url": "https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG"
+    },
+    {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "mark/james",
+        "url": "https://open.spotify.com/album/6ERboyRgPPiQscHNWqZYho"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "mark/james",
+      "url": "https://open.spotify.com/track/0KLfvc7b1ZtbU83g4h0dsc"
+    },
+    {
+      "added_at": "2025-08-01 00:00:22",
+      "album": {
         "name": "tension",
         "url": "https://open.spotify.com/album/5LU2gjfuSIb0ZMsmMUwLnz"
       },
@@ -119,6 +263,22 @@
       "duration_ms": 160489,
       "name": "tension",
       "url": "https://open.spotify.com/track/4chclSZyG4YneO4T1MnVAF"
+    },
+    {
+      "added_at": "2025-08-08 04:35:43",
+      "album": {
+        "name": "1-800-F**K-YOU",
+        "url": "https://open.spotify.com/album/5EZ98Kq5X22Oese1iPoBRx"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 115113,
+      "name": "1-800-F**K-YOU",
+      "url": "https://open.spotify.com/track/0XUZUSGfg5BdDgPwIWO1GX"
     },
     {
       "added_at": "2025-07-25 04:01:01",
@@ -135,22 +295,6 @@
       "duration_ms": 160994,
       "name": "Way To Go",
       "url": "https://open.spotify.com/track/6EsNoPQR4GYZAcVELUZRMa"
-    },
-    {
-      "added_at": "2025-08-01 00:00:22",
-      "album": {
-        "name": "sunday morning",
-        "url": "https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 140085,
-      "name": "sunday morning",
-      "url": "https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -201,20 +345,20 @@
       "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
     },
     {
-      "added_at": "2025-07-11 04:00:22",
+      "added_at": "2025-07-18 04:45:42",
       "album": {
-        "name": "she got a thing about her",
-        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
+        "name": "Brutus",
+        "url": "https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS"
       },
       "artists": [
         {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
         }
       ],
-      "duration_ms": 138646,
-      "name": "she got a thing about her",
-      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
+      "duration_ms": 148051,
+      "name": "Brutus",
+      "url": "https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm"
     },
     {
       "added_at": "2025-08-01 00:00:22",
@@ -307,22 +451,6 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
-    },
-    {
-      "added_at": "2025-07-18 04:45:42",
-      "album": {
-        "name": "Brutus",
-        "url": "https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "Brutus",
-      "url": "https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm"
     },
     {
       "added_at": "2025-07-18 04:30:37",
@@ -549,38 +677,6 @@
       "url": "https://open.spotify.com/track/6fitXlm7VdwjZk3mIAeFFS"
     },
     {
-      "added_at": "2025-07-04 04:00:38",
-      "album": {
-        "name": "Hold On You",
-        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
-      },
-      "artists": [
-        {
-          "name": "merci, mercy",
-          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Hold On You",
-      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
-    },
-    {
-      "added_at": "2025-07-18 04:30:37",
-      "album": {
-        "name": "Anybody",
-        "url": "https://open.spotify.com/album/7JikpphtGvkfBcL0GrgHku"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/5T4mcHbQHxkxWwCjjqxlq7"
-    },
-    {
       "added_at": "2025-07-11 04:00:22",
       "album": {
         "name": "BIG",
@@ -595,38 +691,6 @@
       "duration_ms": 167124,
       "name": "BIG",
       "url": "https://open.spotify.com/track/2jKeQXeZ8tdT9zYebSmRgn"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
-        "name": "Playing House",
-        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Playing House",
-      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
-    },
-    {
-      "added_at": "2025-07-04 04:00:38",
-      "album": {
-        "name": "dance around it",
-        "url": "https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 145760,
-      "name": "dance around it",
-      "url": "https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2"
     },
     {
       "added_at": "2025-07-04 04:00:38",
@@ -917,22 +981,6 @@
       "url": "https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH"
     },
     {
-      "added_at": "2025-06-20 04:00:44",
-      "album": {
-        "name": "Bowling alley",
-        "url": "https://open.spotify.com/album/3d9Fsp7MNINAFJDTdQ5x4k"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Bowling alley",
-      "url": "https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp"
-    },
-    {
       "added_at": "2025-06-13 04:06:31",
       "album": {
         "name": "Manchild",
@@ -1091,22 +1139,6 @@
       "duration_ms": 180652,
       "name": "Expiration Dating",
       "url": "https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr"
-    },
-    {
-      "added_at": "2025-06-20 04:00:44",
-      "album": {
-        "name": "Not Like That Anymore",
-        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 202412,
-      "name": "Not Like That Anymore",
-      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1483,22 +1515,6 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "80'z",
-        "url": "https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"
     },
     {
       "added_at": "2025-05-09 04:00:12",

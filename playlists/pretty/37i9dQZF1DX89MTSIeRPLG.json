@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 22471,
+  "num_followers": 22491,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Gardner Express",
-        "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Blackberry Zap",
-      "url": "https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "On Me (Remix) (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 135444,
       "name": "On Me (Remix) (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Gardner Express",
+        "url": "https://open.spotify.com/album/24nydg8i966CawS06yCtZh"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Blackberry Zap",
+      "url": "https://open.spotify.com/track/7nQ5vYfpRleN1UPTD1vgj1"
     },
     {
       "added_at": "2022-10-01 20:31:11",

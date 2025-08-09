@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new school - Alternative R&B. Cover: Khamari",
+  "description": "The new school - Alternative R&B. Cover: Isaia Huron",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF"
+    },
+    {
+      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660"
       },
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 184856,
       "name": "bad man",
       "url": "https://open.spotify.com/track/4r8vfDMCXnU4Kl9AYYaXRM"
@@ -6648,7 +6666,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 174225,
       "name": "Digital girl - funk remix",
       "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
@@ -11199,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "CONCUBANIA",
+        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192481,
+      "name": "HOML",
+      "url": "https://open.spotify.com/track/6rfuYqZXMl6r2HPZ7BNZbn"
+    },
+    {
+      "album": {
         "name": "It'll Be Fine",
         "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
       },
@@ -13956,7 +13992,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 146735,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
@@ -17204,6 +17240,24 @@
       "duration_ms": 77760,
       "name": "OMW",
       "url": "https://open.spotify.com/track/7EdcolEtRspiP5UqfRLp1U"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/3PgXof706UfW9aZw13O8Vx"
+      },
+      "artists": [
+        {
+          "name": "Black Hibiscus",
+          "url": "https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60074,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/02frfyWWBOpCjBaPXi0Qcl"
     },
     {
       "album": {
@@ -22721,6 +22775,24 @@
     },
     {
       "album": {
+        "name": "MONOCHROME RADIO (DELUXE)",
+        "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222516,
+      "name": "SUGAR HONEY ICED TEA",
+      "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
+    },
+    {
+      "album": {
         "name": "ECHOES OF PRAYER",
         "url": "https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv"
       },
@@ -24984,7 +25056,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 230560,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"

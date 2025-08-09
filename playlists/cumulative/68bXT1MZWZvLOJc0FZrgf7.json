@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: \u0444\u0440\u043e\u0437\u0438",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Austin Millz &amp; Caroline Byrne",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2025 EDM",
   "tracks": [
     {
@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "In My Place",
+        "url": "https://open.spotify.com/album/1mZmXNhOUq0gNKKM66TNvP"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338104,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2DtRDayrAhv5KnrIKFXgrs"
+    },
+    {
+      "album": {
         "name": "in my room",
         "url": "https://open.spotify.com/album/3GecyACQiSEuh9khIQd4V7"
       },
@@ -9970,7 +9988,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 250161,
       "name": "Our Future",
       "url": "https://open.spotify.com/track/62oJjkXdoGQ9T44blbOSky"
@@ -10212,7 +10230,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 118886,
       "name": "Para Pensa (feat. MC K9)",
       "url": "https://open.spotify.com/track/39CORr5XfPSsYhntdnXQig"
@@ -11188,6 +11206,28 @@
       "duration_ms": 183196,
       "name": "Rhyme Dust - Major Lazer Remix",
       "url": "https://open.spotify.com/track/3rrPZx3OjSI9Ofj71OF8DR"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
     },
     {
       "album": {

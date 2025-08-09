@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 ### [All New Dance](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 
-> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from ILLENIUM, Eli Brown, Rebūke, & more!
+> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Disclosure & Anderson.Paak, Mau P, Armin van Buuren & Martin Garrix and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,330 likes - 130 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,652 likes - 130 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 129 | [Buried Hardware](https://open.spotify.com/track/2uf7bdR5d5htJWnAIXpDUC) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Buried Hardware](https://open.spotify.com/album/1YFMK4mliN41zGUW2fRv62) | 5:06 |
 | 130 | [Aquila Rift](https://open.spotify.com/track/1wGm5NTqfBHPJhJrDh6Gnf) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Make Me High \(transcend\)](https://open.spotify.com/album/28spM5sZdz9vpRaGpxRxWV) | 6:27 |
 
-Snapshot ID: `AAAAAHcWdFYanCc4rI51BZI6ScPVy+un`
+Snapshot ID: `AAAAAD0FEGROAud6KHGRl1oH+6HocEb/`

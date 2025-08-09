@@ -1,6 +1,6 @@
 {
   "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=_0StPZkBSwex7TYkA6xHaw\">Surreal Sessions</a>, <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=TMZQHyATTb-1ziuMSGOP7w\">DBN Gogo</a>, <a href=\"https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=S2HHoQESToyE5qaDbpLx5w\">Nobantu Vilakazi</a>, & <a href=\"https://open.spotify.com/artist/2aMcD0EYQmyygKRyRiQhZA?si=ZjdNacLFRWe6THsK0s1AqA\">Ty Slique</a>",
-  "num_followers": 90689,
+  "num_followers": 90790,
   "original_name": "GQOM Power House",
   "owner": {
     "name": "Spotify",
@@ -9,7 +9,7 @@
   "snapshot_id": "AAAAAF10rZ5XY6VFGkiUAzzOvyse5tBY",
   "tracks": [
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/1F0mYbxstDi7z9qgQ1joky"
@@ -25,7 +25,35 @@
       "url": "https://open.spotify.com/track/4UDysN1OGxyovYsOm6nUGt"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Sangena",
+        "url": "https://open.spotify.com/album/7vf1LUl6fGSXeE4DpXOYpk"
+      },
+      "artists": [
+        {
+          "name": "Surreal Sessions",
+          "url": "https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Ty Slique",
+          "url": "https://open.spotify.com/artist/7ivMuUw2A5jCJqMSCzOeje"
+        }
+      ],
+      "duration_ms": 348318,
+      "name": "Sangena",
+      "url": "https://open.spotify.com/track/5YtNwHeU553TOM9RAOG3rq"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Partii (feat. SpacePose)",
         "url": "https://open.spotify.com/album/6EUhiZ9tUjp80kpmfX6Oes"
@@ -57,31 +85,27 @@
       "url": "https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
-        "name": "Gazol & Gqom",
-        "url": "https://open.spotify.com/album/1FpNY9hoSm6yGcfp9zsCTc"
+        "name": "iGqom Party, Vol. 1",
+        "url": "https://open.spotify.com/album/2Fmc9aOdtpqgcXHpniQrfv"
       },
       "artists": [
         {
-          "name": "Retro-Tee",
-          "url": "https://open.spotify.com/artist/4DIsdUx5QY0hYcwqrTkqBH"
+          "name": "Jashmir",
+          "url": "https://open.spotify.com/artist/7eNKrthHF1YuklnLORLxUX"
         },
         {
-          "name": "034 Mafia",
-          "url": "https://open.spotify.com/artist/0Wk7fCacAN8EYXhXCq8zzf"
-        },
-        {
-          "name": "4THEE_ZA",
-          "url": "https://open.spotify.com/artist/3S9pGF9VLegRUufOwqRhIU"
+          "name": "Ameen Harron",
+          "url": "https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam"
         }
       ],
-      "duration_ms": 367364,
-      "name": "Gazol & Gqom",
-      "url": "https://open.spotify.com/track/0u21P4Artg0aFFqcMUfopg"
+      "duration_ms": 195768,
+      "name": "VUKU",
+      "url": "https://open.spotify.com/track/1qxksVoSe1oOPN4ALjLiku"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Khuphuka",
         "url": "https://open.spotify.com/album/1INdvramG7WFxxkZt1HG4c"
@@ -117,27 +141,27 @@
       "url": "https://open.spotify.com/track/0cPTKlRYKQMsDKsksYjKkb"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
-        "name": "Bhenga Bhenga",
-        "url": "https://open.spotify.com/album/1wCYjOt7uZjcASoUzoixZh"
+        "name": "All Good Things Album",
+        "url": "https://open.spotify.com/album/3jKzJsrQP7rKansY4c2H8W"
       },
       "artists": [
         {
-          "name": "Kiing Bhutie",
-          "url": "https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG"
+          "name": "Jabs CPT",
+          "url": "https://open.spotify.com/artist/3pf4xkWn1Wcda9iuAaXavv"
         },
         {
-          "name": "NovaBoy",
-          "url": "https://open.spotify.com/artist/5a5pPolZDAfOWDAYY8YyAy"
+          "name": "Mr Shona",
+          "url": "https://open.spotify.com/artist/22CRm7jgV0qdcgmpJeUFSp"
         }
       ],
-      "duration_ms": 387892,
-      "name": "Bhenga Bhenga",
-      "url": "https://open.spotify.com/track/1LyMrf9CVlDp2omeqslPy8"
+      "duration_ms": 339278,
+      "name": "Ziyabila",
+      "url": "https://open.spotify.com/track/0449yPzuy5H40CmrZQkMox"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Party Island",
         "url": "https://open.spotify.com/album/0VDxFNZLJKn2w70Oha7TsD"
@@ -153,63 +177,7 @@
       "url": "https://open.spotify.com/track/7jfbdpTVF8L3H4TMCnLFzP"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Bozza Mthathe / Release & Sustain",
-        "url": "https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC"
-      },
-      "artists": [
-        {
-          "name": "Thakzin",
-          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
-        }
-      ],
-      "duration_ms": 384439,
-      "name": "Bozza Mthathe",
-      "url": "https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Aw Kodwa Loyiso (Gqom Remake)",
-        "url": "https://open.spotify.com/album/6qh7YeysvguA2qwSmYA4NR"
-      },
-      "artists": [
-        {
-          "name": "Deejay Zebra SA",
-          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
-        },
-        {
-          "name": "Pro-Tee",
-          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
-        }
-      ],
-      "duration_ms": 264437,
-      "name": "Aw Kodwa Loyiso - Gqom Remake",
-      "url": "https://open.spotify.com/track/0cBHaWeqSlGAKcqOMfubM5"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Keep It Goin'",
-        "url": "https://open.spotify.com/album/3JJEWHS9WC3h4DF44iMSns"
-      },
-      "artists": [
-        {
-          "name": "Dj DangerJ",
-          "url": "https://open.spotify.com/artist/2m89S80ipGoUbOYUBxzxOC"
-        },
-        {
-          "name": "IRohn Dwgs",
-          "url": "https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U"
-        }
-      ],
-      "duration_ms": 302419,
-      "name": "Keep It Goin'",
-      "url": "https://open.spotify.com/track/069zn4v2KP6PcPcM6xr1sv"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Yini Lengaka",
         "url": "https://open.spotify.com/album/0fd8wrR4gm62uWU46xPuIM"
@@ -237,43 +205,27 @@
       "url": "https://open.spotify.com/track/3WGmJjX1RUfQHkGQbRGKVO"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
-        "name": "The Longest Weekend",
-        "url": "https://open.spotify.com/album/0HD2t9IKwRiNE0IPAWb8yl"
+        "name": "Aw Kodwa Loyiso (Gqom Remake)",
+        "url": "https://open.spotify.com/album/6qh7YeysvguA2qwSmYA4NR"
       },
       "artists": [
         {
           "name": "Deejay Zebra SA",
           "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
-        }
-      ],
-      "duration_ms": 320052,
-      "name": "Amazwe Onke",
-      "url": "https://open.spotify.com/track/0h0GdhjsY5lBtg4INTGSuj"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Music B4 Fame",
-        "url": "https://open.spotify.com/album/1ZL67Js3J5qVn8DX1ZmyOo"
-      },
-      "artists": [
-        {
-          "name": "Campmasters",
-          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
         },
         {
-          "name": "Goldmax",
-          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
         }
       ],
-      "duration_ms": 312193,
-      "name": "Golden Camp",
-      "url": "https://open.spotify.com/track/6NVdV7TSwtE0u6Oy1EHBm3"
+      "duration_ms": 264437,
+      "name": "Aw Kodwa Loyiso - Gqom Remake",
+      "url": "https://open.spotify.com/track/0cBHaWeqSlGAKcqOMfubM5"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Ubabalo Luka Thixo",
         "url": "https://open.spotify.com/album/6j36PM6FhR94kVPMiUEEZP"
@@ -289,23 +241,187 @@
       "url": "https://open.spotify.com/track/7disYBS7me3JIqMVbUeeSo"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
-        "name": "Impande",
-        "url": "https://open.spotify.com/album/45DDY1PPukbbecm72izNvY"
+        "name": "Municipality Of Dombolo III (M.O.D 3)",
+        "url": "https://open.spotify.com/album/3rJVd78ZJufX9Z5gsptwL7"
       },
       "artists": [
         {
-          "name": "DJ LOOPZz",
-          "url": "https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8"
+          "name": "TheGqomBoss",
+          "url": "https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh"
         }
       ],
-      "duration_ms": 435156,
-      "name": "Impande",
-      "url": "https://open.spotify.com/track/7nus4PmUoUQQUWD0ALl1ne"
+      "duration_ms": 274341,
+      "name": "iPlan (Dombolo Style)",
+      "url": "https://open.spotify.com/track/0696hDrRjI0Zz3QegUfMKI"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Musical Gqom Ep",
+        "url": "https://open.spotify.com/album/28tX0wCaVrzOzX2EklwSly"
+      },
+      "artists": [
+        {
+          "name": "Dj Pepe x KwaH[NSG]",
+          "url": "https://open.spotify.com/artist/546hC8zx0fLkqS8hnFgcTp"
+        },
+        {
+          "name": "King Lee",
+          "url": "https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T"
+        }
+      ],
+      "duration_ms": 364773,
+      "name": "Snow Bros",
+      "url": "https://open.spotify.com/track/5Aawrd4ZfIKXxhaTuRyppF"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Gqobho Zwii Zwii",
+        "url": "https://open.spotify.com/album/44yg0EU21EQikyfbzWC9Q9"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "duration_ms": 339095,
+      "name": "Gqobho Zwii Zwii",
+      "url": "https://open.spotify.com/track/1Ct0qzuwu6QfH9i2FABJhg"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Abantu Abadala",
+        "url": "https://open.spotify.com/album/4KfySooH13gUIeKVgUuWZu"
+      },
+      "artists": [
+        {
+          "name": "Junior De Rocka",
+          "url": "https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa"
+        },
+        {
+          "name": "The Elevatorz",
+          "url": "https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ"
+        },
+        {
+          "name": "Mabzar",
+          "url": "https://open.spotify.com/artist/5LVsjNS9X1YugLJE6klAY7"
+        },
+        {
+          "name": "Ngizwe Mchunu",
+          "url": "https://open.spotify.com/artist/1dC3JgL3RRdPgPEgApq7bP"
+        }
+      ],
+      "duration_ms": 246286,
+      "name": "Abantu Abadala",
+      "url": "https://open.spotify.com/track/3nZ4D6y4PMoHDmSEGt240O"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Singenzenjani",
+        "url": "https://open.spotify.com/album/0FJN7RrAgG7VrMSKKLj8FI"
+      },
+      "artists": [
+        {
+          "name": "DJ Tira",
+          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
+        },
+        {
+          "name": "Amatycooler",
+          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
+        },
+        {
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+        },
+        {
+          "name": "Focus Magazi",
+          "url": "https://open.spotify.com/artist/0QFAqYVAB0nGOS8suGjP3W"
+        }
+      ],
+      "duration_ms": 306744,
+      "name": "Singenzenjani",
+      "url": "https://open.spotify.com/track/21sqHPFTQjBPuLneQPm8FM"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Amagida Ngoma",
+        "url": "https://open.spotify.com/album/3srilmmhrKIaKmcnDAr2MJ"
+      },
+      "artists": [
+        {
+          "name": "Deejay Morgan x Asambe boi",
+          "url": "https://open.spotify.com/artist/5QF9Z8AmHz8dLiGuRXit6y"
+        }
+      ],
+      "duration_ms": 318014,
+      "name": "Amagida Ngoma",
+      "url": "https://open.spotify.com/track/51jRb7clez8RXmeWxDUYdI"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Bekungeke",
+        "url": "https://open.spotify.com/album/4XSkfsk8q0CwiREuGFU9mQ"
+      },
+      "artists": [
+        {
+          "name": "Amatycooler",
+          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
+        }
+      ],
+      "duration_ms": 354312,
+      "name": "Bekungeke",
+      "url": "https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/1EywoMz7KanGmbmfQjgf2B"
+      },
+      "artists": [
+        {
+          "name": "We Dem Boyz",
+          "url": "https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq"
+        }
+      ],
+      "duration_ms": 313129,
+      "name": "Batman",
+      "url": "https://open.spotify.com/track/5LVbkBGcFsNypA78wVaHtJ"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Gazol & Gqom",
+        "url": "https://open.spotify.com/album/1FpNY9hoSm6yGcfp9zsCTc"
+      },
+      "artists": [
+        {
+          "name": "Retro-Tee",
+          "url": "https://open.spotify.com/artist/4DIsdUx5QY0hYcwqrTkqBH"
+        },
+        {
+          "name": "034 Mafia",
+          "url": "https://open.spotify.com/artist/0Wk7fCacAN8EYXhXCq8zzf"
+        },
+        {
+          "name": "4THEE_ZA",
+          "url": "https://open.spotify.com/artist/3S9pGF9VLegRUufOwqRhIU"
+        }
+      ],
+      "duration_ms": 367364,
+      "name": "Gazol & Gqom",
+      "url": "https://open.spotify.com/track/0u21P4Artg0aFFqcMUfopg"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Vala",
         "url": "https://open.spotify.com/album/7JeOMhTfjK5C8MBGtmB5Pl"
@@ -337,7 +453,115 @@
       "url": "https://open.spotify.com/track/11AKJLtaX6gCdV6xV3ZNpd"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Bhenga Bhenga",
+        "url": "https://open.spotify.com/album/1wCYjOt7uZjcASoUzoixZh"
+      },
+      "artists": [
+        {
+          "name": "Kiing Bhutie",
+          "url": "https://open.spotify.com/artist/3oE9XreYh76hnfzz56GJGG"
+        },
+        {
+          "name": "NovaBoy",
+          "url": "https://open.spotify.com/artist/5a5pPolZDAfOWDAYY8YyAy"
+        }
+      ],
+      "duration_ms": 387892,
+      "name": "Bhenga Bhenga",
+      "url": "https://open.spotify.com/track/1LyMrf9CVlDp2omeqslPy8"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Bozza Mthathe / Release & Sustain",
+        "url": "https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        }
+      ],
+      "duration_ms": 384439,
+      "name": "Bozza Mthathe",
+      "url": "https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Keep It Goin'",
+        "url": "https://open.spotify.com/album/3JJEWHS9WC3h4DF44iMSns"
+      },
+      "artists": [
+        {
+          "name": "Dj DangerJ",
+          "url": "https://open.spotify.com/artist/2m89S80ipGoUbOYUBxzxOC"
+        },
+        {
+          "name": "IRohn Dwgs",
+          "url": "https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U"
+        }
+      ],
+      "duration_ms": 302419,
+      "name": "Keep It Goin'",
+      "url": "https://open.spotify.com/track/069zn4v2KP6PcPcM6xr1sv"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "The Longest Weekend",
+        "url": "https://open.spotify.com/album/0HD2t9IKwRiNE0IPAWb8yl"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "duration_ms": 320052,
+      "name": "Amazwe Onke",
+      "url": "https://open.spotify.com/track/0h0GdhjsY5lBtg4INTGSuj"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Music B4 Fame",
+        "url": "https://open.spotify.com/album/1ZL67Js3J5qVn8DX1ZmyOo"
+      },
+      "artists": [
+        {
+          "name": "Campmasters",
+          "url": "https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        }
+      ],
+      "duration_ms": 312193,
+      "name": "Golden Camp",
+      "url": "https://open.spotify.com/track/6NVdV7TSwtE0u6Oy1EHBm3"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Impande",
+        "url": "https://open.spotify.com/album/45DDY1PPukbbecm72izNvY"
+      },
+      "artists": [
+        {
+          "name": "DJ LOOPZz",
+          "url": "https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8"
+        }
+      ],
+      "duration_ms": 435156,
+      "name": "Impande",
+      "url": "https://open.spotify.com/track/7nus4PmUoUQQUWD0ALl1ne"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Niyana",
         "url": "https://open.spotify.com/album/5jwd2c3tu3m4Nxjgqyejbg"
@@ -353,7 +577,7 @@
       "url": "https://open.spotify.com/track/3oEJGGxWG700aIHdPO6l5N"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Lokishi to the World",
         "url": "https://open.spotify.com/album/6BquZLkp9H5cghCgq6wzn3"
@@ -369,7 +593,7 @@
       "url": "https://open.spotify.com/track/7I4tRtZmY1iSkGcyoeywcM"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/5T7HjJfRNBLJg8zqkLPPeD"
@@ -401,7 +625,7 @@
       "url": "https://open.spotify.com/track/7ir1pK0mSBVZLoqUPbmous"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Land Of Dreams EP",
         "url": "https://open.spotify.com/album/2425Mrutv0lOiPJPwzhJCl"
@@ -421,71 +645,7 @@
       "url": "https://open.spotify.com/track/6NrP7Hho6h7XxDI1nRL5FS"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Musical Gqom Ep",
-        "url": "https://open.spotify.com/album/28tX0wCaVrzOzX2EklwSly"
-      },
-      "artists": [
-        {
-          "name": "Dj Pepe x KwaH[NSG]",
-          "url": "https://open.spotify.com/artist/546hC8zx0fLkqS8hnFgcTp"
-        },
-        {
-          "name": "King Lee",
-          "url": "https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T"
-        }
-      ],
-      "duration_ms": 364773,
-      "name": "Snow Bros",
-      "url": "https://open.spotify.com/track/5Aawrd4ZfIKXxhaTuRyppF"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Igovu",
-        "url": "https://open.spotify.com/album/0BOpXCqpMERxUrVWHsNzNx"
-      },
-      "artists": [
-        {
-          "name": "Anunnaki & Khukzin",
-          "url": "https://open.spotify.com/artist/6qkMkV4bnZCDXQIjAabaej"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Igovu",
-      "url": "https://open.spotify.com/track/0wx6HAA1nEJZ6rqi4PyhDg"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Abantu Abadala",
-        "url": "https://open.spotify.com/album/4KfySooH13gUIeKVgUuWZu"
-      },
-      "artists": [
-        {
-          "name": "Junior De Rocka",
-          "url": "https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa"
-        },
-        {
-          "name": "The Elevatorz",
-          "url": "https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ"
-        },
-        {
-          "name": "Mabzar",
-          "url": "https://open.spotify.com/artist/5LVsjNS9X1YugLJE6klAY7"
-        },
-        {
-          "name": "Ngizwe Mchunu",
-          "url": "https://open.spotify.com/artist/1dC3JgL3RRdPgPEgApq7bP"
-        }
-      ],
-      "duration_ms": 246286,
-      "name": "Abantu Abadala",
-      "url": "https://open.spotify.com/track/3nZ4D6y4PMoHDmSEGt240O"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Next Generation",
         "url": "https://open.spotify.com/album/72BUfmPRabnndB9n2P57U7"
@@ -505,7 +665,7 @@
       "url": "https://open.spotify.com/track/6jEMCRYXs6s6EPu776TbIW"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "The Life We Live",
         "url": "https://open.spotify.com/album/2miPY5Yr1Oi9tOwvIhssJJ"
@@ -525,23 +685,7 @@
       "url": "https://open.spotify.com/track/5rM4gSYa4OTKBq5wrv6wSv"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Batman",
-        "url": "https://open.spotify.com/album/1EywoMz7KanGmbmfQjgf2B"
-      },
-      "artists": [
-        {
-          "name": "We Dem Boyz",
-          "url": "https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq"
-        }
-      ],
-      "duration_ms": 313129,
-      "name": "Batman",
-      "url": "https://open.spotify.com/track/5LVbkBGcFsNypA78wVaHtJ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Gqom Physics",
         "url": "https://open.spotify.com/album/5xmfq1rN5sNdQcTcwWCR1N"
@@ -557,107 +701,7 @@
       "url": "https://open.spotify.com/track/4xADKvBkEpjXffyuOXBJkB"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Amagida Ngoma",
-        "url": "https://open.spotify.com/album/3srilmmhrKIaKmcnDAr2MJ"
-      },
-      "artists": [
-        {
-          "name": "Deejay Morgan x Asambe boi",
-          "url": "https://open.spotify.com/artist/5QF9Z8AmHz8dLiGuRXit6y"
-        }
-      ],
-      "duration_ms": 318014,
-      "name": "Amagida Ngoma",
-      "url": "https://open.spotify.com/track/51jRb7clez8RXmeWxDUYdI"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Nevertheless",
-        "url": "https://open.spotify.com/album/5kP1qpjT48XeeHRoUoXdwr"
-      },
-      "artists": [
-        {
-          "name": "Samkelo Chiliza",
-          "url": "https://open.spotify.com/artist/6OuhacnQJDIe3TK799VJ3U"
-        },
-        {
-          "name": "DeTee",
-          "url": "https://open.spotify.com/artist/7p7RTIwaK83RJ91w3IFNlM"
-        }
-      ],
-      "duration_ms": 306141,
-      "name": "Nevertheless",
-      "url": "https://open.spotify.com/track/5ZF7eT3xWCGFkeWOK2KDcC"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Bekungeke",
-        "url": "https://open.spotify.com/album/4XSkfsk8q0CwiREuGFU9mQ"
-      },
-      "artists": [
-        {
-          "name": "Amatycooler",
-          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
-        }
-      ],
-      "duration_ms": 354312,
-      "name": "Bekungeke",
-      "url": "https://open.spotify.com/track/5LdwHZKeE7BkdQo3O1KU1r"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Vibe Switcher",
-        "url": "https://open.spotify.com/album/07bVQEmtxTu6Gsq5RaqOsD"
-      },
-      "artists": [
-        {
-          "name": "City Pansula'z",
-          "url": "https://open.spotify.com/artist/6bO8u4IgdbSHEAiT1rXXvx"
-        },
-        {
-          "name": "Vibe Switcher",
-          "url": "https://open.spotify.com/artist/40pHLTYVC1F05MMi5f6Hwj"
-        }
-      ],
-      "duration_ms": 265043,
-      "name": "Durban Bheng",
-      "url": "https://open.spotify.com/track/376aE1IWWyvNagSUHCqf24"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Singenzenjani",
-        "url": "https://open.spotify.com/album/0FJN7RrAgG7VrMSKKLj8FI"
-      },
-      "artists": [
-        {
-          "name": "DJ Tira",
-          "url": "https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn"
-        },
-        {
-          "name": "Amatycooler",
-          "url": "https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw"
-        },
-        {
-          "name": "Big Nuz",
-          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
-        },
-        {
-          "name": "Focus Magazi",
-          "url": "https://open.spotify.com/artist/0QFAqYVAB0nGOS8suGjP3W"
-        }
-      ],
-      "duration_ms": 306744,
-      "name": "Singenzenjani",
-      "url": "https://open.spotify.com/track/21sqHPFTQjBPuLneQPm8FM"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Ezase Afro Summer Banger",
         "url": "https://open.spotify.com/album/2aoN0uDKenMFzEfnEKWJhk"
@@ -681,7 +725,7 @@
       "url": "https://open.spotify.com/track/157SGWWZlhUctkhWYp4PDA"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "###",
         "url": "https://open.spotify.com/album/6XJlTb7wC6uvdxyaVWZHlz"
@@ -701,7 +745,7 @@
       "url": "https://open.spotify.com/track/25zDVr0ePNTrBBg4UjsC5Q"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Umgido",
         "url": "https://open.spotify.com/album/58TazIihHF2fB9kiDcXjGu"
@@ -717,55 +761,7 @@
       "url": "https://open.spotify.com/track/4QXQDH5NxmXOIVlSXS3I4b"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "No Boundaries",
-        "url": "https://open.spotify.com/album/5uE54FqwLv865RMThMpHgN"
-      },
-      "artists": [
-        {
-          "name": "Chronic Gang Musiq",
-          "url": "https://open.spotify.com/artist/1gaGd5Ic9ncAwC7tFCmhNS"
-        },
-        {
-          "name": "GqoMLorD",
-          "url": "https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5"
-        },
-        {
-          "name": "Infinite Sounds Musiq",
-          "url": "https://open.spotify.com/artist/2J6AapdjtwXrj0h7pBnR81"
-        }
-      ],
-      "duration_ms": 293198,
-      "name": "No Boundaries",
-      "url": "https://open.spotify.com/track/1uT71imEADVpcP8v6zolZM"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "U.C.L",
-        "url": "https://open.spotify.com/album/1CrljA9a1Baiw2sO9vXBWr"
-      },
-      "artists": [
-        {
-          "name": "DJ LOOPZz",
-          "url": "https://open.spotify.com/artist/3aQF4q2S8tlTQjB0Pka8O8"
-        },
-        {
-          "name": "Dj ZXNDA",
-          "url": "https://open.spotify.com/artist/4ObbnDWxBH94rqIvcJksW5"
-        },
-        {
-          "name": "Mr Sanele",
-          "url": "https://open.spotify.com/artist/71zqIwVSTIJdDRlTgOdKqu"
-        }
-      ],
-      "duration_ms": 279684,
-      "name": "U.C.L",
-      "url": "https://open.spotify.com/track/6E5M80dOEpb1xJzeSEl1mq"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Music B4 Fame",
         "url": "https://open.spotify.com/album/1ZL67Js3J5qVn8DX1ZmyOo"
@@ -797,143 +793,7 @@
       "url": "https://open.spotify.com/track/5MLCiPYx7Ts0OVXrnuiKnK"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Demo Tapes",
-        "url": "https://open.spotify.com/album/67igUcl0JRpviwnj7jpiin"
-      },
-      "artists": [
-        {
-          "name": "Demolition Boiz",
-          "url": "https://open.spotify.com/artist/6mnwfX4uQ14aBKX87XB0mW"
-        },
-        {
-          "name": "Still Matah",
-          "url": "https://open.spotify.com/artist/0azcPufEGMeJrSVkNKZ9YF"
-        },
-        {
-          "name": "Naitor",
-          "url": "https://open.spotify.com/artist/6ikZtFPb5DHnVRBvUWJ5Eh"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/1fKYKHcZ4PVedrM8PepwZd"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Cheers To Good Memories",
-        "url": "https://open.spotify.com/album/1M6dhKqoOiK4zbW8dGxE0r"
-      },
-      "artists": [
-        {
-          "name": "DjTroyEL",
-          "url": "https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC"
-        }
-      ],
-      "duration_ms": 322560,
-      "name": "Ganda Ganda",
-      "url": "https://open.spotify.com/track/6Jp1TvRrsiDrzHrWj0HKYJ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/1yOjEWjS8CAaUF60NL9SSe"
-      },
-      "artists": [
-        {
-          "name": "DJMattz",
-          "url": "https://open.spotify.com/artist/00IjLEvfHgf4jUhhRMSoC9"
-        }
-      ],
-      "duration_ms": 185811,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/5ljBSoYlp6Udz2cMAPKMWy"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Municipality Of Dombolo III (M.O.D 3)",
-        "url": "https://open.spotify.com/album/3rJVd78ZJufX9Z5gsptwL7"
-      },
-      "artists": [
-        {
-          "name": "TheGqomBoss",
-          "url": "https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh"
-        }
-      ],
-      "duration_ms": 274341,
-      "name": "iPlan (Dombolo Style)",
-      "url": "https://open.spotify.com/track/0696hDrRjI0Zz3QegUfMKI"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "NSG Way",
-        "url": "https://open.spotify.com/album/5PbDF5p8NJyFksGm3bBuFh"
-      },
-      "artists": [
-        {
-          "name": "Samkelo Chiliza",
-          "url": "https://open.spotify.com/artist/6OuhacnQJDIe3TK799VJ3U"
-        }
-      ],
-      "duration_ms": 337142,
-      "name": "NSG Way",
-      "url": "https://open.spotify.com/track/5c45Pm0bIgLFzZonVAYTV7"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Ink",
-        "url": "https://open.spotify.com/album/0eRp8Gk77ZLjsxsjubV8nJ"
-      },
-      "artists": [
-        {
-          "name": "Heartless Boyz MusiQ",
-          "url": "https://open.spotify.com/artist/7EkdsEjcZkxf5MyvDlIXjf"
-        },
-        {
-          "name": "ThandoRhQue",
-          "url": "https://open.spotify.com/artist/17JeSCouox5VBSB0OGFRwR"
-        },
-        {
-          "name": "Msani Yawayinda",
-          "url": "https://open.spotify.com/artist/2hxeO9isy4Q55bhL1urSsh"
-        }
-      ],
-      "duration_ms": 321959,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/7diOB5A1BGfijR6RIE2oeQ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Ufos EP",
-        "url": "https://open.spotify.com/album/2p73ymWiQjbmH1sMsULnsJ"
-      },
-      "artists": [
-        {
-          "name": "PradamusiQ",
-          "url": "https://open.spotify.com/artist/02JARoBhg01itCS2KMOyUp"
-        },
-        {
-          "name": "Anunnaki & Khukzin",
-          "url": "https://open.spotify.com/artist/6qkMkV4bnZCDXQIjAabaej"
-        },
-        {
-          "name": "DaGold Dust",
-          "url": "https://open.spotify.com/artist/0Ot4nuudfDGpthO9tmwdbu"
-        }
-      ],
-      "duration_ms": 362893,
-      "name": "Late Nights",
-      "url": "https://open.spotify.com/track/7ASFpfUn1iRSJUQzy36h1M"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Tronics Land Series 3",
         "url": "https://open.spotify.com/album/6yMRhzcIPxcfrAmU7ADS48"
@@ -953,47 +813,7 @@
       "url": "https://open.spotify.com/track/2lLgXBk0pwKbVXM78oq9wa"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Sulila Delilah",
-        "url": "https://open.spotify.com/album/1LGOdkLQ5Lzr6DpGvoSUQs"
-      },
-      "artists": [
-        {
-          "name": "Woza WeRegular",
-          "url": "https://open.spotify.com/artist/52TADJNiYYkOjaqCnoIqzW"
-        },
-        {
-          "name": "Casler",
-          "url": "https://open.spotify.com/artist/5v6RFIZ8w05btmPZTZAtaz"
-        },
-        {
-          "name": "Roja",
-          "url": "https://open.spotify.com/artist/5qrptr8LY26gdFNRb9GynE"
-        },
-        {
-          "name": "Masello",
-          "url": "https://open.spotify.com/artist/1jmzCsPlvGL7wLUR28YQa9"
-        },
-        {
-          "name": "Spha",
-          "url": "https://open.spotify.com/artist/6HNZFbWN1ksk0ZOxpUYwAD"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/2rbRTbRG7AehAS1N1DYaAS"
-        },
-        {
-          "name": "Flex",
-          "url": "https://open.spotify.com/artist/47EExzQ2jjdJFlgdKuyWhg"
-        }
-      ],
-      "duration_ms": 378829,
-      "name": "Sulila Delilah",
-      "url": "https://open.spotify.com/track/3CjuFK6NhCQQYRnrTvd2Fk"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Ismokolo",
         "url": "https://open.spotify.com/album/50T7uasAfWdkq3KbK3GwtU"
@@ -1017,27 +837,83 @@
       "url": "https://open.spotify.com/track/0BaVjIwoVL951oBOkgMyCp"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
-        "name": "Lovely Bootleg",
-        "url": "https://open.spotify.com/album/1SyJ1vMIhlAj31gareXuTT"
+        "name": "Play At Your Own Risk",
+        "url": "https://open.spotify.com/album/3ivpcSJn7XZVZpTv7W9liF"
       },
       "artists": [
         {
-          "name": "Samkelo Chiliza",
-          "url": "https://open.spotify.com/artist/6OuhacnQJDIe3TK799VJ3U"
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
         },
         {
-          "name": "Mr Legend",
-          "url": "https://open.spotify.com/artist/4chGdQ03fs8ISNV5aFjGYY"
+          "name": "Blacks Jnr",
+          "url": "https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ"
         }
       ],
-      "duration_ms": 341106,
-      "name": "Lovely Bootleg",
-      "url": "https://open.spotify.com/track/5whEy01cR7QhSphXXbMqPE"
+      "duration_ms": 363099,
+      "name": "uMuthi (Mampinsta Tribute)",
+      "url": "https://open.spotify.com/track/3r0oFzSWnpUYeSDasgYc3F"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "808 BASS",
+        "url": "https://open.spotify.com/album/5jLhaFRduheOjN8ZdCbS7C"
+      },
+      "artists": [
+        {
+          "name": "Naked Souls",
+          "url": "https://open.spotify.com/artist/4PUxTOaOojpbLxZIsCmJCQ"
+        }
+      ],
+      "duration_ms": 339252,
+      "name": "808 BASS",
+      "url": "https://open.spotify.com/track/4r6GPafrH1O8NQHvf6Kkcf"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Yonkinto",
+        "url": "https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA"
+      },
+      "artists": [
+        {
+          "name": "Cairo CPT",
+          "url": "https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr"
+        },
+        {
+          "name": "Minollar",
+          "url": "https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Yonkinto",
+      "url": "https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Iza Mawala",
+        "url": "https://open.spotify.com/album/4ckzn1xPhgxaRKhp3ND00O"
+      },
+      "artists": [
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        },
+        {
+          "name": "Goldmax",
+          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
+        }
+      ],
+      "duration_ms": 230424,
+      "name": "Iza Mawala",
+      "url": "https://open.spotify.com/track/3htTQssbDB6Xx6B5YZVkmA"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Konke",
         "url": "https://open.spotify.com/album/0gjI11oIiZKtoQbclgjLKe"
@@ -1061,75 +937,7 @@
       "url": "https://open.spotify.com/track/2hhNFJZMSpFvbAU9WLMya7"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Ngyamthand Udali",
-        "url": "https://open.spotify.com/album/7xfIAhKNkIdcIVtkzGDrlm"
-      },
-      "artists": [
-        {
-          "name": "Dr Dope",
-          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
-        },
-        {
-          "name": "Stella",
-          "url": "https://open.spotify.com/artist/4u0H6zYPISoiJF4QemBxEn"
-        },
-        {
-          "name": "Mandourh",
-          "url": "https://open.spotify.com/artist/46Lx5RQvhnXQRckaISPiDD"
-        },
-        {
-          "name": "Kitso Nave",
-          "url": "https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl"
-        },
-        {
-          "name": "Mzwilili",
-          "url": "https://open.spotify.com/artist/7dyBz3Bf85NrfB9WjBLIAs"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Ngyamthand Udali",
-      "url": "https://open.spotify.com/track/4FxxHDglKIQNi2xGWvLB96"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Play At Your Own Risk",
-        "url": "https://open.spotify.com/album/3ivpcSJn7XZVZpTv7W9liF"
-      },
-      "artists": [
-        {
-          "name": "Goldmax",
-          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
-        },
-        {
-          "name": "Blacks Jnr",
-          "url": "https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ"
-        }
-      ],
-      "duration_ms": 363099,
-      "name": "uMuthi (Mampinsta Tribute)",
-      "url": "https://open.spotify.com/track/3r0oFzSWnpUYeSDasgYc3F"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Gqobho Zwii Zwii",
-        "url": "https://open.spotify.com/album/44yg0EU21EQikyfbzWC9Q9"
-      },
-      "artists": [
-        {
-          "name": "Deejay Zebra SA",
-          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
-        }
-      ],
-      "duration_ms": 339095,
-      "name": "Gqobho Zwii Zwii",
-      "url": "https://open.spotify.com/track/1Ct0qzuwu6QfH9i2FABJhg"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Siyaphothula",
         "url": "https://open.spotify.com/album/2CvKBXReIBRcTMInaWWazT"
@@ -1165,7 +973,55 @@
       "url": "https://open.spotify.com/track/752swgNyiiofEka5MhCS3L"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Ngyamthand Udali",
+        "url": "https://open.spotify.com/album/7xfIAhKNkIdcIVtkzGDrlm"
+      },
+      "artists": [
+        {
+          "name": "Dr Dope",
+          "url": "https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/4u0H6zYPISoiJF4QemBxEn"
+        },
+        {
+          "name": "Mandourh",
+          "url": "https://open.spotify.com/artist/46Lx5RQvhnXQRckaISPiDD"
+        },
+        {
+          "name": "Kitso Nave",
+          "url": "https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl"
+        },
+        {
+          "name": "Mzwilili",
+          "url": "https://open.spotify.com/artist/7dyBz3Bf85NrfB9WjBLIAs"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Ngyamthand Udali",
+      "url": "https://open.spotify.com/track/4FxxHDglKIQNi2xGWvLB96"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "Uze Nenye (Gqom Mix)",
+        "url": "https://open.spotify.com/album/6BcqGh3EJsgoH6unRj1ZBK"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "duration_ms": 341812,
+      "name": "Uze Nenye - Gqom Mix",
+      "url": "https://open.spotify.com/track/0EusfJElB31aSRIfgduF3H"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Dark or Durban",
         "url": "https://open.spotify.com/album/0YYMX2IK0awSXZOqKmv71V"
@@ -1185,99 +1041,7 @@
       "url": "https://open.spotify.com/track/7x6tMNSvWUSQJHmu8S7GG0"
     },
     {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Uze Nenye (Gqom Mix)",
-        "url": "https://open.spotify.com/album/6BcqGh3EJsgoH6unRj1ZBK"
-      },
-      "artists": [
-        {
-          "name": "Deejay Zebra SA",
-          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
-        }
-      ],
-      "duration_ms": 341812,
-      "name": "Uze Nenye - Gqom Mix",
-      "url": "https://open.spotify.com/track/0EusfJElB31aSRIfgduF3H"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Iza Mawala",
-        "url": "https://open.spotify.com/album/4ckzn1xPhgxaRKhp3ND00O"
-      },
-      "artists": [
-        {
-          "name": "Dladla Mshunqisi",
-          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
-        },
-        {
-          "name": "Goldmax",
-          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
-        }
-      ],
-      "duration_ms": 230424,
-      "name": "Iza Mawala",
-      "url": "https://open.spotify.com/track/3htTQssbDB6Xx6B5YZVkmA"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "World Of Sgubhu",
-        "url": "https://open.spotify.com/album/6CFdsc5QBkKrT5ThBUhTPc"
-      },
-      "artists": [
-        {
-          "name": "Cairo CPT",
-          "url": "https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr"
-        },
-        {
-          "name": "Minollar",
-          "url": "https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K"
-        }
-      ],
-      "duration_ms": 287280,
-      "name": "DARLY",
-      "url": "https://open.spotify.com/track/4tOrJXhtA9DMk7sQbFRP4o"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "808 BASS",
-        "url": "https://open.spotify.com/album/5jLhaFRduheOjN8ZdCbS7C"
-      },
-      "artists": [
-        {
-          "name": "Naked Souls",
-          "url": "https://open.spotify.com/artist/4PUxTOaOojpbLxZIsCmJCQ"
-        }
-      ],
-      "duration_ms": 339252,
-      "name": "808 BASS",
-      "url": "https://open.spotify.com/track/4r6GPafrH1O8NQHvf6Kkcf"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
-      "album": {
-        "name": "Yonkinto",
-        "url": "https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA"
-      },
-      "artists": [
-        {
-          "name": "Cairo CPT",
-          "url": "https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr"
-        },
-        {
-          "name": "Minollar",
-          "url": "https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Yonkinto",
-      "url": "https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4"
-    },
-    {
-      "added_at": "2025-07-31 22:00:37",
+      "added_at": "2025-08-07 22:22:26",
       "album": {
         "name": "Tronics Land Series 2",
         "url": "https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I"
@@ -1295,6 +1059,26 @@
       "duration_ms": 435504,
       "name": "Kwandonga Ziyaduma",
       "url": "https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt"
+    },
+    {
+      "added_at": "2025-08-07 22:22:26",
+      "album": {
+        "name": "World Of Sgubhu",
+        "url": "https://open.spotify.com/album/6CFdsc5QBkKrT5ThBUhTPc"
+      },
+      "artists": [
+        {
+          "name": "Cairo CPT",
+          "url": "https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr"
+        },
+        {
+          "name": "Minollar",
+          "url": "https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K"
+        }
+      ],
+      "duration_ms": 287280,
+      "name": "DARLY",
+      "url": "https://open.spotify.com/track/4tOrJXhtA9DMk7sQbFRP4o"
     }
   ],
   "unique_name": "GQOM Power House",

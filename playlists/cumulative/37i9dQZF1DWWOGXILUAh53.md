@@ -2,7 +2,7 @@
 
 ### [New Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with all the drops\. Cover: Demi Lovato
+> The hottest new pop with all the drops\. Cover: Amaarae
 
 1,656 songs - 3 day 8 hr 52 min
 

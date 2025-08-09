@@ -7725,6 +7725,24 @@
     },
     {
       "album": {
+        "name": "\u3086\u3046",
+        "url": "https://open.spotify.com/album/1Xk9mH8UzPyo0vZvoNscEK"
+      },
+      "artists": [
+        {
+          "name": "Centimillimental",
+          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228066,
+      "name": "\u3086\u3046",
+      "url": "https://open.spotify.com/track/2Q2eiuocYVEhDdY8bW0ywb"
+    },
+    {
+      "album": {
         "name": "\u3072\u3068\u308a\u307c\u3063\u3061 - EP",
         "url": "https://open.spotify.com/album/1pHH84tbvePFLWxyFvGaGD"
       },
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 240360,
       "name": "\u30d9\u30ac\u3068\u30a2\u30eb\u30bf\u30a4\u30eb -once a year-",
       "url": "https://open.spotify.com/track/5M2RkYqQ1ci5UgD7Ij0wze"

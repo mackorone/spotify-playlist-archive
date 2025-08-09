@@ -831,6 +831,32 @@
     },
     {
       "album": {
+        "name": "AL100 MX",
+        "url": "https://open.spotify.com/album/1MEFqx1oUuHSKN7ydttL0f"
+      },
+      "artists": [
+        {
+          "name": "Living",
+          "url": "https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Prop\u00f3sito Con Estilo",
+          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173335,
+      "name": "AL100 MX",
+      "url": "https://open.spotify.com/track/5MvGOZpKTc5bnYJwpTzCNK"
+    },
+    {
+      "album": {
         "name": "Alaba al Se\u00f1or (Salmo 146)",
         "url": "https://open.spotify.com/album/7MzaA3fduXQJgOp39dxkFD"
       },
@@ -1200,6 +1226,24 @@
       "duration_ms": 242570,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2SWzVaubaZL8tVapoBBg10"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos Cat\u00f3licos",
+        "url": "https://open.spotify.com/album/33cZGkMLSikiUeETUdqk6U"
+      },
+      "artists": [
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260454,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/6emRyPKV1Kc2EOM59JSObj"
     },
     {
       "album": {
@@ -4844,7 +4888,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 161407,
       "name": "d\u00f3nde est\u00e1s???",
       "url": "https://open.spotify.com/track/4cJubuQkWDMntiLtsJ1Jfl"
@@ -6368,6 +6412,10 @@
         {
           "name": "Gracia Soberana M\u00fasica",
           "url": "https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU"
+        },
+        {
+          "name": "Jonathan & Sarah Jerez",
+          "url": "https://open.spotify.com/artist/4ZuSvCPOCMcznMwVBHy9r1"
         }
       ],
       "date_added": "2025-07-11",
@@ -9786,7 +9834,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 274864,
       "name": "Mi Confianza",
       "url": "https://open.spotify.com/track/2TYVuxijnXO0WsAgFBn4zH"
@@ -11514,10 +11562,28 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 653333,
       "name": "Pagar El Precio - En Vivo",
       "url": "https://open.spotify.com/track/5rh6v6rIwSWIdTTTbYIaoD"
+    },
+    {
+      "album": {
+        "name": "Pagar el Precio (Organic session)",
+        "url": "https://open.spotify.com/album/35ydb1f9i951d44sJluLpr"
+      },
+      "artists": [
+        {
+          "name": "World Worship",
+          "url": "https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567616,
+      "name": "Pagar El Precio - Organic session",
+      "url": "https://open.spotify.com/track/7ax66iz2rrqOjP0997e4ae"
     },
     {
       "album": {
@@ -12204,6 +12270,24 @@
       "duration_ms": 203861,
       "name": "Profundo II",
       "url": "https://open.spotify.com/track/6BFJ260uGD3yRyASBzOFUm"
+    },
+    {
+      "album": {
+        "name": "Puedes Entenderme / Qu\u00e9 Hermosa Es la Vida (Live)",
+        "url": "https://open.spotify.com/album/6uZVQqbmElYrDxeAxqNl3Q"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Puedes Entenderme - Live",
+      "url": "https://open.spotify.com/track/5W8VnIul9lElCWnXCbuYN6"
     },
     {
       "album": {
@@ -15124,7 +15208,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 211000,
       "name": "Todo Y Nada - En Vivo",
       "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"

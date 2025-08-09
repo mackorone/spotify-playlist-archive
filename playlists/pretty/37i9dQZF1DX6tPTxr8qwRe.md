@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ella Boh
+> Dark, hard hitting pop\. Cover: Lydia Night
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,102 likes - 55 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,110 likes - 55 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 54 | [Phantom Limb](https://open.spotify.com/track/0ztCJyjFzDkWUGQogDBioF) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/65t0i9VT9K6A2NX6LFvRik) | 3:15 |
 | 55 | [Rabbit Hole](https://open.spotify.com/track/0BnGkx3tOWDLcdinr7RtkU) | [FLEUR ROUGE](https://open.spotify.com/artist/0ffRuel3oov8h1yxqyZLVY) | [Wish You The Worst](https://open.spotify.com/album/1SbbDPa5Z8O7xWDHQIXdgy) | 2:57 |
 
-Snapshot ID: `AAAAAPUqiCV+tNT8hslPKyq41DL1E1sY`
+Snapshot ID: `AAAAAGsQdjQgnaJntp0N2psIHW0Npps0`

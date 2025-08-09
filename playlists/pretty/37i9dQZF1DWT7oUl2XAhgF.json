@@ -1,13 +1,49 @@
 {
   "description": "A new take on a classic sound. Cover: Hermanos Guti\u00e9rrez x Leon Bridges",
-  "num_followers": 369335,
+  "num_followers": 369418,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABxYjzeFclPM1xRs0dBRGorns4bv",
+  "snapshot_id": "AAAAAC1vwiEjKHPYmMEMHI84Xcte/nmR",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
+        "name": "Hey Love",
+        "url": "https://open.spotify.com/album/2kxt91TuSZs8oVZLdnUTqQ"
+      },
+      "artists": [
+        {
+          "name": "Andre Cruz",
+          "url": "https://open.spotify.com/artist/6kPQPpj7oO66alKfJ0HLAc"
+        },
+        {
+          "name": "Chris Lujan",
+          "url": "https://open.spotify.com/artist/20yrXToJfrdkRE1INbJAEm"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Hey Love",
+      "url": "https://open.spotify.com/track/2QCePQDb57q6AtONAy5Usv"
+    },
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
+        "name": "Redwood Highway",
+        "url": "https://open.spotify.com/album/7df0PSMK26LdEoFg3Klux6"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "duration_ms": 282800,
+      "name": "Redwood Highway",
+      "url": "https://open.spotify.com/track/1XNEwekHRd1vPGg9rjIKB0"
+    },
     {
       "added_at": "2025-07-18 04:00:12",
       "album": {
@@ -179,22 +215,6 @@
       "duration_ms": 253354,
       "name": "See Through",
       "url": "https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg"
-    },
-    {
-      "added_at": "2025-06-13 04:00:36",
-      "album": {
-        "name": "Shine Delight",
-        "url": "https://open.spotify.com/album/7wkzxGmvYjTwe1IVNSwU4X"
-      },
-      "artists": [
-        {
-          "name": "The California Honeydrops",
-          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
-        }
-      ],
-      "duration_ms": 218271,
-      "name": "Shine Delight",
-      "url": "https://open.spotify.com/track/50WXXxu0bmhZiZFnLjMVy6"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -1599,22 +1619,6 @@
       "duration_ms": 213546,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2024-01-12 05:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Silvana Estrada",
-  "num_followers": 28998,
+  "num_followers": 29012,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
         "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
         "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Veintitr\u00e9s",
-        "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
-      },
-      "artists": [
-        {
-          "name": "Brandon Bison",
-          "url": "https://open.spotify.com/artist/2r5TgQxK2D0Eu7ZFNmBodx"
-        },
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 208029,
-      "name": "Veintitr\u00e9s",
-      "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
+        "name": "Veintitr\u00e9s",
+        "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bison",
+          "url": "https://open.spotify.com/artist/2r5TgQxK2D0Eu7ZFNmBodx"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 208029,
+      "name": "Veintitr\u00e9s",
+      "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
+      },
+      "artists": [
+        {
+          "name": "Paola Navarrete",
+          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 183696,
+      "name": "Beso de Luna",
+      "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
+    },
+    {
+      "added_at": "2025-07-18 04:00:11",
+      "album": {
         "name": "hasta viejitos",
         "url": "https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM"
       },
@@ -1547,22 +1567,18 @@
     {
       "added_at": "2025-07-18 04:00:11",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx"
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
       },
       "artists": [
         {
-          "name": "Paola Navarrete",
-          "url": "https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 183696,
-      "name": "Beso de Luna",
-      "url": "https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz"
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2025-07-18 04:00:11",
@@ -1579,22 +1595,6 @@
       "duration_ms": 204417,
       "name": "Por Ahorita",
       "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
-    },
-    {
-      "added_at": "2025-07-18 04:00:11",
-      "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
     },
     {
       "added_at": "2025-07-18 04:00:11",

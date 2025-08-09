@@ -1,13 +1,29 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 345707,
+  "num_followers": 345738,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPxv2KSqADd138dDQPwDfx8qvge4",
+  "snapshot_id": "AAAAAMB8/wV7pFW4nAhtQAoPQIjdZL33",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:51",
+      "album": {
+        "name": "I Like It (Money Crazy)/Always",
+        "url": "https://open.spotify.com/album/3Fqo8dEZJhXicP81UlEUon"
+      },
+      "artists": [
+        {
+          "name": "Tuxedo",
+          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
+        }
+      ],
+      "duration_ms": 163231,
+      "name": "Always (feat. Not So Bad)",
+      "url": "https://open.spotify.com/track/6K1j9DcMMILrhe9GIGd5r2"
+    },
     {
       "added_at": "2025-08-01 04:00:21",
       "album": {
@@ -503,22 +519,6 @@
       "duration_ms": 231652,
       "name": "Lucky (Song 7)",
       "url": "https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Tuxedo IV",
-        "url": "https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG"
-      },
-      "artists": [
-        {
-          "name": "Tuxedo",
-          "url": "https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "This Is 4 You",
-      "url": "https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T"
     },
     {
       "added_at": "2024-10-18 04:00:00",

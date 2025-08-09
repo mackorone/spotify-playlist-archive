@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Disclosure, Anderson .Paak
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,208 likes - 105 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,201 likes - 105 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 104 | [GOOD TIME GIRL](https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GOOD TIME GIRL](https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q) | 2:32 |
 | 105 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 
-Snapshot ID: `AAAAAHTkCDZwFNUgszpVDtfS8CUPyzc5`
+Snapshot ID: `AAAAAIJ0FCUZXgTa8P9+oe7yB08GhqVw`

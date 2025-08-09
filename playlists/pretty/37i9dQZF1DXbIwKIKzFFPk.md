@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,163 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,205 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 99 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 |
 | 100 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 |
 
-Snapshot ID: `AAAAAL3uRQvLaBi8AaePhb9j31nK/13W`
+Snapshot ID: `AAAAACLI4Yd0vJgPN8Jtu61MkWmrAbwX`

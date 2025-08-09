@@ -1,6 +1,6 @@
 {
   "description": "Praise and Worship the Almighty God with the best songs. A mix of both African and International songs. ",
-  "num_followers": 222041,
+  "num_followers": 222229,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-02-16 00:01:00",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2024-02-16 00:01:00",
-      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "added_at": "2024-02-16 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
+      "added_at": "2024-07-19 00:01:00",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "New Generation",
@@ -1287,42 +1303,6 @@
       "duration_ms": 648235,
       "name": "New Generation",
       "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
-      "added_at": "2024-07-19 00:01:00",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 279160,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
-    },
-    {
-      "added_at": "2025-03-13 11:59:35",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 233135,
-      "name": "Your love",
-      "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1347,6 +1327,26 @@
       "duration_ms": 556346,
       "name": "Bamba Mzalwane (Live)",
       "url": "https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq"
+    },
+    {
+      "added_at": "2025-03-13 11:59:35",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 233135,
+      "name": "Your love",
+      "url": "https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -1385,6 +1385,26 @@
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
     },
     {
+      "added_at": "2025-07-25 00:01:12",
+      "album": {
+        "name": "Generation Intimacy (Live)",
+        "url": "https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Grace Lubega",
+          "url": "https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5"
+        }
+      ],
+      "duration_ms": 817168,
+      "name": "Jesu - Live",
+      "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
+    },
+    {
       "added_at": "2024-02-16 00:01:00",
       "album": {
         "name": "Gonna Be Good",
@@ -1415,26 +1435,6 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
-    },
-    {
-      "added_at": "2025-07-25 00:01:12",
-      "album": {
-        "name": "Generation Intimacy (Live)",
-        "url": "https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Grace Lubega",
-          "url": "https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5"
-        }
-      ],
-      "duration_ms": 817168,
-      "name": "Jesu - Live",
-      "url": "https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN"
     },
     {
       "added_at": "2024-02-16 00:01:00",

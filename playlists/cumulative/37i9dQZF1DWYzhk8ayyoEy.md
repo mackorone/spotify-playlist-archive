@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart.
 
-182 songs - 10 hr 10 min
+183 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2023-01-04 | 2025-03-29 |
 | [Let Me Be](https://open.spotify.com/track/1hGDrKv13rCRaKXjsaHPx2) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Let Me Be](https://open.spotify.com/album/7HgOBdIBEgUIM0FfoVAQTu) | 3:31 | 2023-01-04 | 2025-03-22 |
 | [Let You Down](https://open.spotify.com/track/52RI8jJJ1OxtcfF5Af9zCL) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let You Down](https://open.spotify.com/album/3UjGAY9p553Qy2blB4cMin) | 3:28 | 2023-09-03 | 2024-01-27 |
-| [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 | 2025-03-14 |  |
+| [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 | 2025-03-14 | 2025-08-09 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-01-04 | 2024-06-15 |
 | [Lift Us Up](https://open.spotify.com/track/4mJ00KHgwBFw2Na0JZxoOy) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [Memphis Love](https://open.spotify.com/album/6m88bX6KLUhRVk7DDZBihL) | 4:25 | 2023-11-17 | 2024-03-09 |
 | [Light It Up](https://open.spotify.com/track/27G2FTLanmvyUmXzT0pecS) | [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Light It Up](https://open.spotify.com/album/17Ey42YChKT9G4vH9WX52c) | 3:34 | 2023-02-10 | 2024-07-27 |
@@ -121,6 +121,7 @@
 | [North](https://open.spotify.com/track/0pjBEOWMJTwzzjBrTAlbDd) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Silver Crane](https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl) | 3:34 | 2023-01-04 | 2023-08-17 |
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2023-01-04 | 2023-05-01 |
 | [NOTHING ELSE](https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [NOTHING ELSE](https://open.spotify.com/album/6pMp0bsoaZqGcFYAngdsJ3) | 1:58 | 2025-02-28 |  |
+| [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 | 2025-08-08 |  |
 | [Okay](https://open.spotify.com/track/7dGIcbzKo3vZp2lFtaGeTC) | [Melanie Pfirrman](https://open.spotify.com/artist/0uioawxHyc6pgvbUCq510I) | [Okay](https://open.spotify.com/album/66Cm2VZZyWgLigTw9XvYqu) | 2:58 | 2024-11-11 |  |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2023-01-04 | 2025-03-22 |
 | [One Nation Under Love](https://open.spotify.com/track/2AoHZl4LY1AppFWiVGtYEO) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 | 2023-08-25 | 2023-09-23 |

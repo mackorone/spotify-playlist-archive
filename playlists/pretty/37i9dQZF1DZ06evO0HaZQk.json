@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 520192,
+  "num_followers": 520221,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAAjPhdJ7bMFb5hAqMwVrgRJ",
+  "snapshot_id": "aJPsgAAAAAAnbGCqxcBMFK4BTK0stCb8",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "Remamos",
-      "url": "https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio la Colifata Presenta: El Canto del Loco",
         "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 214853,
       "name": "Contigo (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "Remamos",
+      "url": "https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciudadana del Mundo Volumen 1",
-        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 336813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciudadana del Mundo Volumen 1",
+        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
     },
     {
       "added_at": null,

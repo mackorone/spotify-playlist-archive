@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1352673,
+  "num_followers": 1352748,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAAGFRGVmXdt2t+ngrOM0YWv",
+  "snapshot_id": "aJPsgAAAAAA1wH+DbYgUXvjCf5Wlv+s3",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 212042,
       "name": "Mi Mayor Anhelo - REMASTERIZADO",
       "url": "https://open.spotify.com/track/3VLjIedrArb67ZJ9KxEbyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Evidencias (REMASTERIZADO)",
-        "url": "https://open.spotify.com/album/4q4Po7TY9bH9fukUL1iifb"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 161645,
-      "name": "Sin Evidencias - REMASTERIZADO",
-      "url": "https://open.spotify.com/track/0UGFfqhbRg943brRq10cld"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 223200,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/3m9Kp9oZxrCQYDeaqBfWsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     }
   ],
   "unique_name": "This Is Banda MS de Sergio Liz\u00e1rraga",

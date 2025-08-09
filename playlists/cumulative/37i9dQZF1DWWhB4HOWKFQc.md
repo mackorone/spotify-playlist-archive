@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Silet Open Up, Jacson Zeran, Juan Reza, Diva Aurel
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Taylor Swift
 
-1,245 songs - 3 day 2 hr 59 min
+1,246 songs - 3 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 | 2024-10-16 | 2025-02-01 |
 | [attached](https://open.spotify.com/track/4S9FVDf8QFf3Hz1YOHQ6xQ) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Anangga](https://open.spotify.com/artist/09EkKAZ2TNloIJNijWlXLL), [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [attached](https://open.spotify.com/album/3yNULyTNLFVkTfdIth74EV) | 2:48 | 2024-08-28 | 2025-02-01 |
 | [ATTITUDE](https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN) | 3:14 | 2025-02-19 | 2025-03-14 |
-| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-03 | 2024-08-16 |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-08-03 |  |
 | [Autumn](https://open.spotify.com/track/0W5o1Kxw1VlohSajPqeBMF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj) | 3:52 | 2025-02-19 | 2025-05-23 |
 | [AVANGARD](https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD) | 2:36 | 2024-08-28 | 2024-10-16 |
 | [Awal Kisah Selamanya \(feat\. Barsena Bestandhi\)](https://open.spotify.com/track/2VIG7a12qlUHDmk8ojk7q7) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:50 | 2025-07-15 |  |
@@ -779,7 +779,7 @@
 | [Part of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Part of Your World \(From "The Little Mermaid"\)](https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR) | 3:34 | 2023-05-25 | 2023-07-01 |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-04-09 | 2025-06-06 |
 | [Pastikan Riuh Akhiri Malammu](https://open.spotify.com/track/34D2sMturBbWp6DS8MyIBM) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 4:12 | 2024-12-18 | 2025-01-09 |
-| [Path](https://open.spotify.com/track/1djEfgcgzTqLuCAB8Mau8K) | [Jokers](https://open.spotify.com/artist/0RM1II8zWIoFb32PXO1RaR) | [Hit Music Album Vol\. 1 The Word Without You/The Moment of Goodbye](https://open.spotify.com/album/5pLvtNN7EUW35oaBinPniJ) | 3:43 | 2025-07-09 |  |
+| [Path](https://open.spotify.com/track/1djEfgcgzTqLuCAB8Mau8K) | [Jokers](https://open.spotify.com/artist/0RM1II8zWIoFb32PXO1RaR) | [Hit Music Album Vol\. 1 The Word Without You/The Moment of Goodbye](https://open.spotify.com/album/5pLvtNN7EUW35oaBinPniJ) | 3:43 | 2025-07-09 | 2025-08-09 |
 | [Paths](https://open.spotify.com/track/68FHdrL6dbruEBrfLjR52a) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:09 | 2024-08-28 | 2024-09-19 |
 | [Patience](https://open.spotify.com/track/0v0EZLRftWKqvFfwurjw02) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Beautiful World](https://open.spotify.com/album/4pNAPDBOAeBwJ7JvVx7Fc1) | 3:22 | 2023-12-14 | 2024-01-11 |
 | [Patience](https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Beautiful World](https://open.spotify.com/album/676W2PECpK9UJuuqyjXRjk) | 3:22 | 2024-01-04 | 2024-03-22 |
@@ -868,6 +868,7 @@
 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-26 | 2024-08-21 |
 | [Rima Raga](https://open.spotify.com/track/0NwrODe7BDnQIWZ0U8qqPl) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Rima Raga](https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR) | 3:13 | 2024-12-03 | 2024-12-20 |
 | [Rindu](https://open.spotify.com/track/4dx4UJuUXAFs9HkL88Zj5R) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk) | [Rindu](https://open.spotify.com/album/6bmVaSczPnXJUyovhjLePT) | 4:37 | 2024-08-28 | 2024-09-25 |
+| [Rindu Aku Rindu Kamu](https://open.spotify.com/track/3MRxJZdi2lCbjB1k7LohW8) | [Maman Fvndy](https://open.spotify.com/artist/6iwGYa6SkkbWU3JjwLuTAQ) | [Rindu Aku Rindu Kamu](https://open.spotify.com/album/0pxhmngASRKED83PXduWSx) | 3:43 | 2025-08-08 |  |
 | [Rindu Lukisan](https://open.spotify.com/track/31c6ehd7yeLmT5OmjqUJJP) | [caldera](https://open.spotify.com/artist/2mYB723pbBKNPKbjDhMGYb), [Rei Naldy](https://open.spotify.com/artist/6pRsmnyTna8pZjpHs0ALma) | [Rindu Lukisan](https://open.spotify.com/album/4wOTpxbBJXJQ5AvSVeuutU) | 3:28 | 2023-11-16 | 2023-12-08 |
 | [Risalah Hati](https://open.spotify.com/track/0MYAQRR7ZIIE1QD0rFgcMI) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Risalah Hati](https://open.spotify.com/album/0J5QTb6giV74fwg9PxGUHR) | 5:45 | 2024-08-01 | 2024-10-23 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-21 | 2024-07-10 |
@@ -1018,7 +1019,7 @@
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-07-09 | 2024-08-29 |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-28 | 2024-10-03 |
 | [supersonic](https://open.spotify.com/track/6ZumGlqLhkZT5xH1l2OjsC) | [little winters](https://open.spotify.com/artist/66dqiWgtKZT9RTzWsKpWjH) | [supersonic](https://open.spotify.com/album/1T9pVytFYfp2kVItUuHFBY) | 2:31 | 2024-07-09 | 2024-08-29 |
-| [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-06-05 |  |
+| [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 | 2025-06-05 | 2025-08-09 |
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2023-08-24 | 2024-01-23 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2023-12-21 | 2024-01-18 |
 | [Suwung O Aja Yakan](https://open.spotify.com/track/6MlbkudRO0V7bc52U19O3l) | [YHA GENK](https://open.spotify.com/artist/49IBFLSZ5QECrYOVVQ8SQP) | [Suwung O Aja Yakan](https://open.spotify.com/album/56LPMFvx0SAZ1Lo6OkURwp) | 3:06 | 2024-07-26 | 2024-08-29 |

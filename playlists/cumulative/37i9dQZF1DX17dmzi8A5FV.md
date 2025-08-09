@@ -4,7 +4,7 @@
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-170 songs - 11 hr 7 min
+171 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Flying Without Wings](https://open.spotify.com/track/1pDylAt4nUPy2r72KRQDYX) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:36 | 2022-05-17 | 2024-04-19 |
 | [Fool Again](https://open.spotify.com/track/5Aa33rAPkp7f7l1aVqsHO8) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:54 | 2022-05-17 | 2024-04-19 |
 | [Fool Again](https://open.spotify.com/track/5yTk7KPsD43u7hjeiGP2Kw) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/7hiLA8LEQScMnVvqoKHCHO) | 3:55 | 2021-04-29 | 2022-07-29 |
+| [Freak Me](https://open.spotify.com/track/4s4CWs8E1GFVp4mQsANgcp) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Another Level](https://open.spotify.com/album/35ZVl6hT5Yno0mMIV7oEHd) | 4:55 | 2024-06-04 |  |
 | [Freak Me](https://open.spotify.com/track/06oS63X7MWr6uhrmFQryZT) | [Another Level](https://open.spotify.com/artist/3kcqSqWEss8JZtHBE5IJzZ) | [Love Songs](https://open.spotify.com/album/6YXGp7o4GmZBzXqYB6XQMK) | 4:55 | 2021-04-29 | 2022-11-13 |
 | [Girl On TV](https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:07 | 2022-12-23 |  |
 | [Glad You Came](https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:17 | 2022-12-23 |  |
@@ -129,7 +130,7 @@
 | [Pray](https://open.spotify.com/track/6Ln76fIfkdmL6UHbuYR756) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Take That Greatest Hits](https://open.spotify.com/album/0Roig21lheelthCcmLyjYO) | 3:43 | 2021-04-29 | 2022-07-17 |
 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/3iODl7yzl5v1HgVFWOXHxR) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Take That Greatest Hits](https://open.spotify.com/album/0Roig21lheelthCcmLyjYO) | 4:09 | 2021-04-29 | 2022-04-21 |
 | [Relight My Fire \(feat\. Lulu\)](https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Everything Changes \(Expanded Edition\)](https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ) | 4:11 | 2022-05-17 |  |
-| [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 | 2022-12-23 |  |
+| [S.O.S.](https://open.spotify.com/track/6sDP4912wjwB7BJhbSnjS1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/4myOCm6FzD9TMdK7Q0Nzx0) | 2:33 | 2022-12-23 | 2025-08-09 |
 | [Same Old Brand New You](https://open.spotify.com/track/4JjKoRNoshfbNqrFYthKND) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [The a List](https://open.spotify.com/album/5QLf9R6hnPkFFlKsv1VrR1) | 4:14 | 2023-09-29 |  |
 | [Shape of My Heart](https://open.spotify.com/track/2rgHU2Zgd6owbyavzhrk8U) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/4v1UrTu6OMhmnf9BipnLmM) | 3:50 | 2022-03-09 | 2022-07-29 |
 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 | 2022-05-17 | 2022-12-24 |

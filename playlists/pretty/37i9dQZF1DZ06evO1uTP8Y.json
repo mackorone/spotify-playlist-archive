@@ -1,33 +1,13 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 7322,
+  "num_followers": 7342,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACsUiLV1GECZgWwG+zKLzBu",
+  "snapshot_id": "aJPsgAAAAABKU6uqbRQF+26r1IGPTmlC",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miami (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/0mhTypXZWjlqrSrcRkerLf"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "Miami (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/1gXHmNzTj1fwxPWMOZ9Frn"
-    },
     {
       "added_at": null,
       "album": {
@@ -903,6 +883,26 @@
       "duration_ms": 170847,
       "name": "Ringaling (feat. Headie One and Odeal)",
       "url": "https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OVMBR: Roses",
+        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 250229,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe"
     }
   ],
   "unique_name": "This Is Odeal",

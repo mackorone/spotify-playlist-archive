@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 61862,
+  "num_followers": 61868,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
-      },
-      "artists": [
-        {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "Bossa Lounge en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/138KhEzlJAoHKpSedlDC8A"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 209492,
       "name": "Es Tan F\u00e1cil Romper un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6iN1q570Ogft8xuCJXIsjl"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+      },
+      "artists": [
+        {
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     },
     {
       "added_at": "2025-08-03 22:29:04",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 294287,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "Twentysomething (Special Edition)",
         "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 235533,
       "name": "But For Now",
       "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 294287,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
     },
     {
       "added_at": "2025-08-03 22:29:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "Young & Na\u00efve",
-        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
-      },
-      "artists": [
-        {
-          "name": "Heather Rigdon",
-          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "To Have & To Hold",
-      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 135421,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/4QAhBQW8Jhe6BlIYiLqkSz"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "Young & Na\u00efve",
+        "url": "https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa"
+      },
+      "artists": [
+        {
+          "name": "Heather Rigdon",
+          "url": "https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "To Have & To Hold",
+      "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
     },
     {
       "added_at": "2025-08-03 22:29:04",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "Bossa & Co.",
         "url": "https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 260874,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
     },
     {
       "added_at": "2025-08-03 22:29:04",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
-      },
-      "artists": [
-        {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        }
-      ],
-      "duration_ms": 338822,
-      "name": "Cherokee",
-      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "The Vienna Affair",
         "url": "https://open.spotify.com/album/0osoqYEBr9ktCHCxiKXt0k"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 237106,
       "name": "Pretty Blue",
       "url": "https://open.spotify.com/track/39dek8lZZtNLMuHHFh2MUG"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        }
+      ],
+      "duration_ms": 338822,
+      "name": "Cherokee",
+      "url": "https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7"
     },
     {
       "added_at": "2025-08-03 22:29:04",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 310275,
-      "name": "May I Come In",
-      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "But I Don't Mind",
         "url": "https://open.spotify.com/album/0rbrdnnw54w2aTBQHFMhOB"
       },
@@ -1127,6 +1111,38 @@
       "duration_ms": 255726,
       "name": "But I Don't Mind",
       "url": "https://open.spotify.com/track/5LC4lFjl7qliDNFAFI0bOx"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "My Mood Is You",
+        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
+      },
+      "artists": [
+        {
+          "name": "Freddy Cole",
+          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
+        }
+      ],
+      "duration_ms": 345821,
+      "name": "My Mood Is You",
+      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2025-08-03 22:29:04",
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2025-08-03 22:29:04",
       "album": {
-        "name": "My Mood Is You",
-        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
-      },
-      "artists": [
-        {
-          "name": "Freddy Cole",
-          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
-        }
-      ],
-      "duration_ms": 345821,
-      "name": "My Mood Is You",
-      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
-        "name": "I Want To Talk About You",
-        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "I Want To Talk About You",
-      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
-    },
-    {
-      "added_at": "2025-08-03 22:29:04",
-      "album": {
         "name": "Waiting For Dawn",
         "url": "https://open.spotify.com/album/7BPR07qyqeuxBo715ON7Jd"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 347493,
       "name": "Hours Of Ours",
       "url": "https://open.spotify.com/track/3noDxclU0hTMOCZJJu6vi6"
+    },
+    {
+      "added_at": "2025-08-03 22:29:04",
+      "album": {
+        "name": "I Want To Talk About You",
+        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "I Want To Talk About You",
+      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
     },
     {
       "added_at": "2025-08-03 22:29:04",

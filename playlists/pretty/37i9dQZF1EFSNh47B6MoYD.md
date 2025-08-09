@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463 likes - 145 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 464 likes - 145 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 49 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
 | 50 | [A Tiempo](https://open.spotify.com/track/1sq9qmnFtqHredKwbGnp2W) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [A Tiempo](https://open.spotify.com/album/6wni7QWK8sOUguXBe37mAz) | 3:10 |
 | 51 | [Enséñame a Vivir Sin Ti \- Bolero Version](https://open.spotify.com/track/0IC8wEVWUTXycJDQUTlTE4) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:03 |
-| 52 | [Contra La Pared](https://open.spotify.com/track/1jqxPeziZWg2OTDqokJui1) | [Myriam](https://open.spotify.com/artist/4qa5jOQPzCpqmoAyJd3j9y) | [Cambio De Piel](https://open.spotify.com/album/02bSJLe3oBNGbQvkmjcHId) | 4:01 |
-| 53 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 52 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
+| 53 | [Contra La Pared](https://open.spotify.com/track/1jqxPeziZWg2OTDqokJui1) | [Myriam](https://open.spotify.com/artist/4qa5jOQPzCpqmoAyJd3j9y) | [Cambio De Piel](https://open.spotify.com/album/02bSJLe3oBNGbQvkmjcHId) | 4:01 |
 | 54 | [Mi receta](https://open.spotify.com/track/7iTHVzUDh6eDInMCQhrWvk) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Sin Fronteras](https://open.spotify.com/album/5h5IodcqfIanu9o3Mt0oHf) | 3:18 |
 | 55 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
 | 56 | [Amigos Con Derecho](https://open.spotify.com/track/2jrKLwp3PUvr3IsKvH5w2y) | [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Quién Lo Diría](https://open.spotify.com/album/6Gt6dCkxw2cJ0TJ6oRffum) | 3:18 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 144 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `Ab45SAAAAAD9AjiEc0qOTXvBt3xFGh+b`
+Snapshot ID: `Ab4+8gAAAAB4PVsPeleajsAHY4f8+dnm`

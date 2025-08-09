@@ -10349,6 +10349,28 @@
     },
     {
       "album": {
+        "name": "Congolaise",
+        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174920,
+      "name": "Congolaise",
+      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
+    },
+    {
+      "album": {
         "name": "J'AI MENTI.",
         "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
       },
@@ -26332,7 +26354,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -30362,6 +30384,24 @@
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "album": {
+        "name": "N\u00e9s Pour Briller : Book I",
+        "url": "https://open.spotify.com/album/4pkxr9kk78jM6pX5sIS29b"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/7hAUTQdzJTmpW5lN7mrbzE"
     },
     {
       "album": {
@@ -39212,7 +39252,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -39264,6 +39304,28 @@
     {
       "album": {
         "name": "Shamballa",
+        "url": "https://open.spotify.com/album/7xSNtElXhM3AlWpTMvt8nk"
+      },
+      "artists": [
+        {
+          "name": "Anyme023",
+          "url": "https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P"
+        },
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Shamballa",
+      "url": "https://open.spotify.com/track/5D0zc1DdbNVeAQoTroKmCK"
+    },
+    {
+      "album": {
+        "name": "Shamballa",
         "url": "https://open.spotify.com/album/5rKOmNx7sXSmXfjI2QKGjg"
       },
       "artists": [
@@ -39278,7 +39340,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 147692,
       "name": "Shamballa",
       "url": "https://open.spotify.com/track/6hl9Tc95QrqDk4Q3uWLHls"

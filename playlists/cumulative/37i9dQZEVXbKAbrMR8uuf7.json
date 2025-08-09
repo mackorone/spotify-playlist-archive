@@ -591,7 +591,7 @@
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146951,
+      "duration_ms": 146952,
       "name": "3.5",
       "url": "https://open.spotify.com/track/1a8xrk8ZCV9jOZI6RjRIE0"
     },
@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 116493,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql"
@@ -11735,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "Huracan",
+        "url": "https://open.spotify.com/album/5zuK2CbO7wj6cbUywL33Iv"
+      },
+      "artists": [
+        {
+          "name": "Yk It\u2019s Junaa",
+          "url": "https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Envenenau",
+      "url": "https://open.spotify.com/track/4Ailfne6VKzKbVTunFs9Ih"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -13252,7 +13270,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
@@ -14098,7 +14116,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 122574,
       "name": "Glizzy Zaza",
       "url": "https://open.spotify.com/track/6oRMg2IUaM9Ussg6pS30la"
@@ -14442,7 +14460,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 132498,
       "name": "Hablamos Depues",
       "url": "https://open.spotify.com/track/6Zz5ksmtmU2zV6cppStbq7"
@@ -16578,7 +16596,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -20528,7 +20546,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 117735,
       "name": "MA BUENA",
       "url": "https://open.spotify.com/track/2RkIDJ1ud7kFj34kXJvFH1"
@@ -30204,6 +30222,32 @@
       "duration_ms": 211879,
       "name": "REINA",
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+    },
+    {
+      "album": {
+        "name": "REINAA",
+        "url": "https://open.spotify.com/album/6r6VRNL37I9iwMzwnOp7nc"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270158,
+      "name": "REINAA",
+      "url": "https://open.spotify.com/track/5wu2O9uFF3tG6nM8CE6Glz"
     },
     {
       "album": {

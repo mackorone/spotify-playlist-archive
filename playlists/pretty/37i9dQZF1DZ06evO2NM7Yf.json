@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 407,
+  "num_followers": 408,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABAavHxjG7qNd+GSOXOy+QP",
+  "snapshot_id": "aJPsgAAAAADW7NyqleZfumzVh1sG9yP7",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Bad Things Not Suck <3",
         "url": "https://open.spotify.com/album/3Fu52oawbUjlB6z3MzH6t3"
       },
@@ -123,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i"
       },
       "artists": [
         {
@@ -132,9 +116,25 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7"
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 180992,
+      "name": "jesus christ in a mini skirt",
+      "url": "https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp"
     },
     {
       "added_at": null,
@@ -192,7 +192,7 @@
       "added_at": null,
       "album": {
         "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+        "url": "https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 180992,
-      "name": "jesus christ in a mini skirt",
-      "url": "https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp"
+      "duration_ms": 181749,
+      "name": "emotional affair",
+      "url": "https://open.spotify.com/track/4C0JASInf8x6Z9MNAmsQb7"
     },
     {
       "added_at": null,

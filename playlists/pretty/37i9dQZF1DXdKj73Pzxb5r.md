@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Sourmilk
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,050 likes - 95 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,052 likes - 95 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 94 | [Perihal Omongan Belaka](https://open.spotify.com/track/5NvkE6eEGrEsRRtaeesrzS) | [Bahtera](https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib) | [Perihal Omongan Belaka](https://open.spotify.com/album/4JIgzeMbWz9zaTwJxCUnbT) | 5:08 |
 | 95 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 |
 
-Snapshot ID: `AAAAAOIQLNbuYY+Hq/BHcM6d2f5O3RjU`
+Snapshot ID: `AAAAAG6vaQ/JQ7EduPKZq9kKAPfiinlU`

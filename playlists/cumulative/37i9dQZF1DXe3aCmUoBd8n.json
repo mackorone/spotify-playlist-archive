@@ -928,7 +928,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 193859,
       "name": "Eftahli Albak",
       "url": "https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ"
@@ -2792,6 +2792,28 @@
       "duration_ms": 184285,
       "name": "Ya Leil W Yal Ein",
       "url": "https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO"
+    },
+    {
+      "album": {
+        "name": "Ya Msafer",
+        "url": "https://open.spotify.com/album/2fvPa1wdci5ANFDtblj5gq"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        },
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Ya Msafer",
+      "url": "https://open.spotify.com/track/4xlB7mQPdwwPmi0VHf0akd"
     },
     {
       "album": {

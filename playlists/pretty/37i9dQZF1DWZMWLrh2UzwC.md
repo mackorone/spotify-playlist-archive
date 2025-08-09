@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from , Bunga, Ed Sheeran, keshi, Firdhaus, Jeryl Lee, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,298 likes - 109 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,389 likes - 111 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 35 | [NO CAP](https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [NO CAP](https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe) | 3:53 |
 | 36 | [Senja](https://open.spotify.com/track/2uFOlba0U1j5hsAS5JqHy9) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Senja](https://open.spotify.com/album/2iTZIga0u8maZvC6jQNsZf) | 2:44 |
 | 37 | [Suka Kamu](https://open.spotify.com/track/6LkCn6NtIKQduZZ1Y7yIh8) | [Malik Choo](https://open.spotify.com/artist/62yBQUTLP0epi7UBjt6FLI) | [Suka Kamu](https://open.spotify.com/album/3h0lCihnGtGuGVAcYxADUH) | 2:54 |
-| 38 | [Holy Water \(feat\. Jelly Roll\)](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 |
+| 38 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 |
 | 39 | [十點後 熄電話](https://open.spotify.com/track/60HL9USdJz0DC70joQzcQy) | [MinChen](https://open.spotify.com/artist/03TjpiMEGAvMzsprcxBL6f) | [十點後 熄電話](https://open.spotify.com/album/6PMp5SOc3OK0Vagh2vZiVx) | 3:41 |
 | 40 | [DON'T BREAK MY HEART](https://open.spotify.com/track/2Mcw0DNU3Un3P2EJ1cYT6c) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4), [Miusa妙莎](https://open.spotify.com/artist/1itLcngrdYzeL6JRpEviDL) | [DON'T BREAK MY HEART](https://open.spotify.com/album/6efQ7XpnfKzNfGRUHGHpUh) | 3:58 |
 | 41 | [第一封情書](https://open.spotify.com/track/5tjog7gO3dqoQe7qOsxNUx) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [第一封情書](https://open.spotify.com/album/1tDN1Y6T5UJur79ahhvMiX) | 4:01 |
@@ -106,16 +106,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 96 | [Drama Baby](https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Drama Baby](https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW) | 2:57 |
 | 97 | [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 |
 | 98 | [JUST DANCE 2 \(with Jadagrace and SWIM\)](https://open.spotify.com/track/1ltQsfWcGMzAPUTH84oxap) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [JUST DANCE 2](https://open.spotify.com/album/46PM6s2Cg54QyDXIwJXL75) | 4:08 |
-| 99 | [Welcome Stranger](https://open.spotify.com/track/4JnvPtHlD3TGmuYuVhSTjl) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Welcome Stranger](https://open.spotify.com/album/0zlV9JrYYlWxY9GgkfjaVL) | 3:37 |
-| 100 | [Got Away](https://open.spotify.com/track/5wPp86j1A1ytLQ8DJ5vDc2) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Got Away](https://open.spotify.com/album/1OKMjpkOhbIl9XUl0P8i9L) | 2:50 |
-| 101 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
-| 102 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 |
-| 103 | [If you need me to be the villain \(Then maybe I am\)](https://open.spotify.com/track/6WiKsEPvjuCcprdv7511kJ) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [If you need me to be the villain \(Then maybe I am\)](https://open.spotify.com/album/0sU6PcPq7rpRexv9iVe0pa) | 4:00 |
-| 104 | [脳におまじないなme](https://open.spotify.com/track/7uo4AIWgnfSxrUBC0EO6u8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [脳におまじないなme](https://open.spotify.com/album/2WiTBnxUZM2ULnF9GSkKwI) | 3:09 |
-| 105 | [私の王子様](https://open.spotify.com/track/4ABNRIWDZhOWBdmSFxhBbB) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [私の王子様](https://open.spotify.com/album/3sYIPXYWh0lkxjK8u7Pe7s) | 3:08 |
-| 106 | [Red Lights](https://open.spotify.com/track/1M7FWAED7yPzGhRaZwtol6) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Red Lights](https://open.spotify.com/album/251iGxnvDjU1Kl8wruMS4n) | 2:50 |
-| 107 | [Push & Pull](https://open.spotify.com/track/75aI6dB3LZFvEkEJqH9RdW) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Push & Pull](https://open.spotify.com/album/6gZVzSGWj4bJoADLPGKzs4) | 3:33 |
-| 108 | [So in love with you](https://open.spotify.com/track/76sqcAYCyX0P79SHg4CKCX) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Hidden Album](https://open.spotify.com/album/5pyoNVddlePXEgk2ihx8A0) | 3:24 |
-| 109 | [Don't Stop](https://open.spotify.com/track/1y1knxEhGiElHbxrp5TVwj) | [RONNADET](https://open.spotify.com/artist/61EjhvdRfu6tCZQkqkw2vM) | [Don't Stop](https://open.spotify.com/album/791rvmdU08UYBAYPUh6mVF) | 3:08 |
+| 99 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
+| 100 | [Welcome Stranger](https://open.spotify.com/track/4JnvPtHlD3TGmuYuVhSTjl) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Welcome Stranger](https://open.spotify.com/album/0zlV9JrYYlWxY9GgkfjaVL) | 3:37 |
+| 101 | [Got Away](https://open.spotify.com/track/5wPp86j1A1ytLQ8DJ5vDc2) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Got Away](https://open.spotify.com/album/1OKMjpkOhbIl9XUl0P8i9L) | 2:50 |
+| 102 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
+| 103 | [BET](https://open.spotify.com/track/5A9oXN9DCcST7OXE2YSdLK) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [BET](https://open.spotify.com/album/0SRIuTscfwoD3PiAsVifAv) | 3:11 |
+| 104 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 |
+| 105 | [If you need me to be the villain \(Then maybe I am\)](https://open.spotify.com/track/6WiKsEPvjuCcprdv7511kJ) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [If you need me to be the villain \(Then maybe I am\)](https://open.spotify.com/album/0sU6PcPq7rpRexv9iVe0pa) | 4:00 |
+| 106 | [脳におまじないなme](https://open.spotify.com/track/7uo4AIWgnfSxrUBC0EO6u8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [脳におまじないなme](https://open.spotify.com/album/2WiTBnxUZM2ULnF9GSkKwI) | 3:09 |
+| 107 | [私の王子様](https://open.spotify.com/track/4ABNRIWDZhOWBdmSFxhBbB) | [ChoQMay](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [私の王子様](https://open.spotify.com/album/3sYIPXYWh0lkxjK8u7Pe7s) | 3:08 |
+| 108 | [Red Lights](https://open.spotify.com/track/1M7FWAED7yPzGhRaZwtol6) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Red Lights](https://open.spotify.com/album/251iGxnvDjU1Kl8wruMS4n) | 2:50 |
+| 109 | [Push & Pull](https://open.spotify.com/track/75aI6dB3LZFvEkEJqH9RdW) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Push & Pull](https://open.spotify.com/album/6gZVzSGWj4bJoADLPGKzs4) | 3:33 |
+| 110 | [So in love with you](https://open.spotify.com/track/76sqcAYCyX0P79SHg4CKCX) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Hidden Album](https://open.spotify.com/album/5pyoNVddlePXEgk2ihx8A0) | 3:24 |
+| 111 | [Don't Stop](https://open.spotify.com/track/1y1knxEhGiElHbxrp5TVwj) | [RONNADET](https://open.spotify.com/artist/61EjhvdRfu6tCZQkqkw2vM) | [Don't Stop](https://open.spotify.com/album/791rvmdU08UYBAYPUh6mVF) | 3:08 |
 
 Snapshot ID: `AAAAADduKaw0vhrzFm8yIYFLWp439UD/`

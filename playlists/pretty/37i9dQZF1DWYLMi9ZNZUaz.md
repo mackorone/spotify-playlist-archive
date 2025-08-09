@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: B Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,766 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,798 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:42 |
 | 50 | [The One For Me](https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [THE ONE](https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN) | 3:59 |
 
-Snapshot ID: `AAAAABEq24QIN4iBny+ZfqrTF1cOxjnm`
+Snapshot ID: `AAAAANJHyrsqxTIhBbAwEy2kikyt4XRC`

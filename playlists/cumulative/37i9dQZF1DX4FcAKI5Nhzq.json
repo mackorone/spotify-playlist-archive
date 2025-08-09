@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: HEYOON(\ud61c\uc724))",
+  "description": "Future K-Pop hits! (Cover: KiiiKiii (\ud0a4\ud0a4))",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -7102,7 +7102,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 205000,
       "name": "EVERGLOW",
       "url": "https://open.spotify.com/track/0X27xgygbXZ5qsAm3Lxpum"
@@ -20404,6 +20404,28 @@
       "duration_ms": 212264,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"
+    },
+    {
+      "album": {
+        "name": "Soft Error",
+        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Soap (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"
     },
     {
       "album": {

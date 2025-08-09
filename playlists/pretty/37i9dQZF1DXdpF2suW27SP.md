@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Slow J entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,494 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,535 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 12 | [MAGIA](https://open.spotify.com/track/0lQN7zckOfl2j0ror5i4lo) | [CBG Oficial](https://open.spotify.com/artist/3zJRDGbXRFrghnrvEpPyhi), [Wiz F](https://open.spotify.com/artist/5hzRTQXOs3cdROGIPGBSKt), [Abu Dhabii](https://open.spotify.com/artist/3xnls1th8xmJyZhnU5zCEj), [Lil Janne](https://open.spotify.com/artist/6VufL93AChGuSVXiu2natZ), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn) | [TRAP NO AP II](https://open.spotify.com/album/2vK2hS9g9i7uor0pxzcOWK) | 4:43 |
 | 13 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 14 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 |
-| 15 | [O Gueto Ainda Não Venceu](https://open.spotify.com/track/4yGWzS6eiK0qeDYMSTDoU6) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp) | [O Gueto Ainda Não Venceu](https://open.spotify.com/album/0UIeTT51Xbukd3llZXyGRM) | 2:30 |
+| 15 | [Sobreviventes](https://open.spotify.com/track/0Vd4lvDxEsGLtfcFlbHZsS) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Kool Klever](https://open.spotify.com/artist/7dSscgSjInCyQU8YGiUwlc), [EMP Productions](https://open.spotify.com/artist/7Cwc62OBUXSodjIKiI6rdt) | [Underground](https://open.spotify.com/album/1hw62zPZD8CHTInd9Bc5oU) | 3:15 |
 | 16 | [Volta à Cabeça](https://open.spotify.com/track/2NEBYP6Vu29Ry96OuxOhs4) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/1nL4jNVtHWn1XAIxqqWKVN) | 3:06 |
 | 17 | [SWEET LIKE SUGAR](https://open.spotify.com/track/02Z5w9818U2uGmdCf2RasX) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [SWEET LIKE SUGAR](https://open.spotify.com/album/297FcXyyU9OWhW1aulhNMJ) | 2:50 |
 | 18 | [Ka Nhu Dexam Fronta](https://open.spotify.com/track/02wI9CBUMLPWDsJdCVUN0r) | [BigZ Patronato](https://open.spotify.com/artist/7cEMPpljjJKo3Kmx9eU3xJ) | [Ka Nhu Dexam Fronta](https://open.spotify.com/album/1rfEygscfdtwktZXliPLTa) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Mundo Virtual](https://open.spotify.com/track/1EsBySeYsxFajxLMgkO6cc) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Berço de Lata](https://open.spotify.com/album/6aTnN9irGm43qZ6SkHl1Bq) | 3:15 |
 | 70 | [Pré Virou Festa](https://open.spotify.com/track/2sL6ARVxLy6Jal4XByoQ18) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Pré Virou Festa](https://open.spotify.com/album/0yWA7LGtzFOiHqHtd9Rtuf) | 2:44 |
 
-Snapshot ID: `AAAAAMgQUgFUygesVXHey8ZqnyPsXxnx`
+Snapshot ID: `AAAAAHko6paw23C0uGJRHf5cBHZ96y0m`

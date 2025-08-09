@@ -3525,6 +3525,28 @@
     },
     {
       "album": {
+        "name": "Punta Bianca (Reworked by Leo Einaudi)",
+        "url": "https://open.spotify.com/album/4Xltwrc3xcgZDy9v4SrEEk"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Leo Einaudi",
+          "url": "https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217858,
+      "name": "Punta Bianca - Reworked by Leo Einaudi",
+      "url": "https://open.spotify.com/track/6WxL6TKsRUmuTiJWQcRyYA"
+    },
+    {
+      "album": {
         "name": "Reflections Pt. 1 / Debussy: Bruy\u00e8res",
         "url": "https://open.spotify.com/album/4vIHi1vbAM6U4WzJ85RP8y"
       },
@@ -4230,7 +4252,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 285442,
       "name": "The Arts and the Hours",
       "url": "https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs"

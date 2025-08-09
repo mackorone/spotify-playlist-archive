@@ -143,6 +143,36 @@
     },
     {
       "album": {
+        "name": "Mozart: Violin Concertos",
+        "url": "https://open.spotify.com/album/3vVFdUuGFGJ5aCMDBFOWnY"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Chloe Chua",
+          "url": "https://open.spotify.com/artist/0JwCInHbEPiiLqGj8cIr3j"
+        },
+        {
+          "name": "Singapore Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/32sSC58wBNlSthfdC2t8Av"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374707,
+      "name": "Concerto for Violin and Orchestra No. 3 in G Major, K. 216: III. Rondeau. Allegro",
+      "url": "https://open.spotify.com/track/7GzO1nWfkrcVKXQ0aZqzAX"
+    },
+    {
+      "album": {
         "name": "Divertimento in D Major, K. 136: I. Allegro",
         "url": "https://open.spotify.com/album/0nVD0LZIbQNiWZg3SWIddX"
       },
@@ -785,6 +815,32 @@
     },
     {
       "album": {
+        "name": "Mozart: Masterpieces",
+        "url": "https://open.spotify.com/album/00hydUAy6yMz0U1yKCkVlm"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
+        },
+        {
+          "name": "Sinfonia Varsovia",
+          "url": "https://open.spotify.com/artist/4vPl9qrPOZ1pMJNPXIPAzk"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429782,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante",
+      "url": "https://open.spotify.com/track/06dfSX8E8XC35x8gBBZeeo"
+    },
+    {
+      "album": {
         "name": "Amadeus - Best of Mozart",
         "url": "https://open.spotify.com/album/5CHETMBuq5sDgGaFseCfsP"
       },
@@ -808,7 +864,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 406866,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante",
       "url": "https://open.spotify.com/track/1w0k9Eu4dovVNWKVlnRzcH"
@@ -2480,6 +2536,36 @@
       "duration_ms": 256200,
       "name": "Vesperae solennes de confessore, K. 339: V. Laudate Dominum",
       "url": "https://open.spotify.com/track/7aHOmybSL7OvujPad7cBDW"
+    },
+    {
+      "album": {
+        "name": "Mozart: Piano Concertos Nos. 9 in E-Flat Major, KV 271 \"Jenamy\" & 12 in A Major, KV 414/385P, Violin Concerto No. 2 in D Major, KV 211",
+        "url": "https://open.spotify.com/album/3tGtB0ZiPdEozHZYUnyg7C"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        },
+        {
+          "name": "Howard Griffiths",
+          "url": "https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq"
+        },
+        {
+          "name": "Jan Mr\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423935,
+      "name": "Violin Concerto No. 2 in D Major, KV 211: II. Andante (Cadenzas by Norbert Kub\u00e1t)",
+      "url": "https://open.spotify.com/track/2zM6Usvnpotehhz0YeZq3n"
     },
     {
       "album": {

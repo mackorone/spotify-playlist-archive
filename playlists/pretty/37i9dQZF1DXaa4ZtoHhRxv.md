@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,046 likes - 82 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,188 likes - 82 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 31 | [Whiskey On You \- MOTi Remix](https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Whiskey On You \(MOTi Remix\)](https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR) | 3:06 |
 | 32 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 |
 | 33 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 |
-| 34 | [Good Enough](https://open.spotify.com/track/4XnCLYGnyAxLob2rMXjw0w) | [ZEVY](https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk), [Abbey Carey](https://open.spotify.com/artist/1vxbHJICggtUJiwY6dH0zX) | [Good Enough](https://open.spotify.com/album/1tc7B4U9qXXGpRIv11hoIi) | 3:07 |
+| 34 | [Good Enough](https://open.spotify.com/track/4XnCLYGnyAxLob2rMXjw0w) | [ZEVY](https://open.spotify.com/artist/3Rr9ksBPquEWyD9fP2VBZk), [Abby Carey](https://open.spotify.com/artist/2BhtO2CSvlk1PDifvK98kF) | [Good Enough](https://open.spotify.com/album/1tc7B4U9qXXGpRIv11hoIi) | 3:07 |
 | 35 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
 | 36 | [High Horse \- Kue Remix](https://open.spotify.com/track/4uD3M8K5kxryLFRCWPSkc4) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [DJ Kue](https://open.spotify.com/artist/6sAEKhLqI8pzUMHWgvj6pZ) | [High Horse Remix](https://open.spotify.com/album/1BJXLKb7OD5fnx330csFDB) | 4:12 |
 | 37 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 |

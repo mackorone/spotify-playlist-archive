@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-341 songs - 19 hr 52 min
+342 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 | 2025-06-10 |  |
 | [El Telefono](https://open.spotify.com/track/1fAwaxPzUBxeX7rbdlm2Zr) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [El Teléfono](https://open.spotify.com/album/7zlhllBlDW5aQEbBACgRtu) | 2:26 | 2025-06-27 | 2025-07-05 |
 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 | 2025-06-10 |  |
-| [Ella Me Pide Sexo](https://open.spotify.com/track/1ROGweOPdTZsUzJyGk4oT2) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM), [Atento](https://open.spotify.com/artist/5X1IIhfsA4afdpwfbZmkL3) | [¡El Que No Hace Palmas Tiene Culo de Pato, Cuak!](https://open.spotify.com/album/2X0Nr8WYHk4rzgs3M1cinZ) | 3:13 | 2025-07-04 |  |
+| [Ella Me Pide Sexo](https://open.spotify.com/track/1ROGweOPdTZsUzJyGk4oT2) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM), [Atento](https://open.spotify.com/artist/5X1IIhfsA4afdpwfbZmkL3) | [¡El Que No Hace Palmas Tiene Culo de Pato, Cuak!](https://open.spotify.com/album/2X0Nr8WYHk4rzgs3M1cinZ) | 3:13 | 2025-07-04 | 2025-08-09 |
 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 | 2023-05-05 | 2025-06-11 |
 | [Entre El Cielo Vos y Yo](https://open.spotify.com/track/5WNhnwtXvov5vAtThQT5qW) | [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Entre El Cielo Vos y Yo](https://open.spotify.com/album/2wJW9ufFItLCD29F81QHfd) | 4:32 | 2023-08-22 | 2023-08-26 |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2023-05-05 |  |
@@ -143,6 +143,7 @@
 | [La Jarra Loca](https://open.spotify.com/track/32bLxXrec8cj3Y7U3SHwGV) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros Que Nunca](https://open.spotify.com/album/2TWHx7wSbzKYlygApoBK8C) | 3:58 | 2025-06-10 |  |
 | [La Lata](https://open.spotify.com/track/6vuVjYLw5uW8dOFitAtMzc) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 3:35 | 2025-06-27 |  |
 | [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 | 2023-08-25 | 2023-08-29 |
+| [La Marca de la Gorra](https://open.spotify.com/track/2eY5iKmq2BDcD9P3uEnr4L) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/4FRepkcajYPTo9cKW0dmXc) | 3:40 | 2025-07-04 |  |
 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 | 2023-08-25 | 2025-06-11 |
 | [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-06-27 |  |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-08-16 | 2025-06-28 |

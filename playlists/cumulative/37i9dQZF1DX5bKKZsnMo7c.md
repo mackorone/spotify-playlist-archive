@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Mikayla Geier
 
-483 songs - 1 day 2 hr 14 min
+485 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-03-15 |  |
 | [Christmas Kids](https://open.spotify.com/track/7KV7xwHTJbzbwGQEHLIzR8) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/0YjOnBY0FRufcmNBTzWTgX) | 2:15 | 2024-03-19 | 2024-04-19 |
 | [Cicada Days](https://open.spotify.com/track/2s3SwhbFhymLPDm4GGhDKl) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Cicada Days](https://open.spotify.com/album/7rN0PYbcQ7quewRhtqvLGK) | 4:10 | 2022-06-03 | 2022-10-12 |
+| [Circe](https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o) | [Lilith Max](https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM) | [Circe](https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp) | 3:07 | 2025-08-08 |  |
 | [Class Crush](https://open.spotify.com/track/6rf9sZa4T8NYuL7Uqx8y2d) | [Katherine Lynn\-Rose](https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ) | [Class Crush](https://open.spotify.com/album/48ge6RxK7xHUdiYyezk37s) | 3:40 | 2024-12-27 | 2025-05-17 |
 | [Coffee](https://open.spotify.com/track/2zmo93xTzKTP0lztR9iy9H) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Shop: A Pop Opera](https://open.spotify.com/album/1PzQlma9FcRRGwMDmJIUyX) | 0:58 | 2023-01-18 | 2024-02-24 |
 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 | 2022-07-07 | 2023-01-14 |
@@ -299,7 +300,7 @@
 | [mold](https://open.spotify.com/track/5qH0wXpyaWpXl0bn9gUK81) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [mold](https://open.spotify.com/album/6WwFcQVjSQQE4QUFttiB8P) | 4:03 | 2022-07-22 | 2022-11-19 |
 | [Money Machine](https://open.spotify.com/track/1XklKTFOPBXFpObBUYJnWb) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Live](https://open.spotify.com/album/6jrhLfqaMqnlGtegIoqVF7) | 3:15 | 2023-03-16 | 2023-04-09 |
 | [Money Machine](https://open.spotify.com/track/1lcRKgU8mtBZTXq0sGUAzy) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Live](https://open.spotify.com/album/6sJitLH2ax5esRm7qA19vT) | 3:15 | 2023-03-16 | 2024-01-27 |
-| [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 | 2025-05-23 |  |
+| [Moviestar](https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Moviestar](https://open.spotify.com/album/13p5cFZs4kREuDaWysHci5) | 3:08 | 2025-05-23 | 2025-08-09 |
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-05-17 |  |
 | [My Corpse Friend](https://open.spotify.com/track/1wfwCZIj2bkXUNuZCMkQlQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones](https://open.spotify.com/album/71SOQSZ4pKoTkwq86AJUxT) | 2:25 | 2024-10-04 | 2025-06-21 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 | 2024-08-10 |
@@ -398,13 +399,14 @@
 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2022-05-17 | 2023-06-21 |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-05 | 2025-03-29 |
 | [Sunday Morning](https://open.spotify.com/track/3viBNiQST9s6ea8NW27ZYo) | [Dominick Fulco](https://open.spotify.com/artist/3s7mu0cVl7jhG6EZE6WNP6) | [Sunday Morning](https://open.spotify.com/album/5Z61nSZOz926LJeacvpf3b) | 2:51 | 2024-05-24 | 2024-07-18 |
+| [Super Elastic](https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Super Elastic](https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5) | 3:03 | 2025-08-08 |  |
 | [Supercynical](https://open.spotify.com/track/4EnLXCLASlK1FWB8Na1ST0) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Profiterole Vision](https://open.spotify.com/album/0zlvNF1zKtII3yAyG6sjFc) | 2:48 | 2024-09-20 | 2024-12-19 |
 | [Taking What's Not Yours](https://open.spotify.com/track/53mChDyESfwn9Dz8poHRf6) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:25 | 2024-03-26 | 2025-04-19 |
 | [Tapeworms](https://open.spotify.com/track/1tRqkzDbWCxDq2wBiI5vhm) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Tapeworms](https://open.spotify.com/album/1EfIsnaZOJ9FK6cWFg53J8) | 3:07 | 2022-07-11 | 2022-07-16 |
 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 | 2022-05-17 | 2022-12-10 |
 | [teenage nightmare](https://open.spotify.com/track/53vCYOoHsBIXV9KZtvTmBS) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [teenage nightmare](https://open.spotify.com/album/1knrqP9ysgy0Dl1DId00Sa) | 3:15 | 2024-10-11 | 2025-04-05 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2022-05-17 | 2024-01-27 |
-| [Texas Primadonna](https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Texas Primadonna](https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB) | 2:13 | 2025-06-20 |  |
+| [Texas Primadonna](https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Texas Primadonna](https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB) | 2:13 | 2025-06-20 | 2025-08-09 |
 | [The Actor](https://open.spotify.com/track/6hzTD5ZrzKUBrav7gEUxpy) | [Jason Kimmel](https://open.spotify.com/artist/2trESuPFMgjzzjbrscrt0Y) | [The Actor](https://open.spotify.com/album/4j2UpVOzXDCQqcuEqqCy4G) | 3:26 | 2025-03-07 |  |
 | [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 | 2023-03-16 | 2023-05-06 |
 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 | 2023-06-23 | 2024-01-05 |

@@ -2,9 +2,9 @@
 
 ### [Afro Gaming ](https://open.spotify.com/playlist/37i9dQZF1DX9EFllv4sqv0)
 
-> Level up your gaming with these afro tracks\. Cover: Chella
+> Level up your gaming with these afro tracks\. Cover: FOLA
 
-180 songs - 9 hr 23 min
+181 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Clear Road](https://open.spotify.com/track/3ZSsTQlAWq3rkdperB5mn8) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YP & Azanti, Vol\. 2](https://open.spotify.com/album/1Tzeuej4iQfKwNKvP8rfjA) | 2:39 | 2024-10-21 | 2025-01-10 |
 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 | 2025-01-09 | 2025-07-20 |
 | [Commandments](https://open.spotify.com/track/3Eknh9Aq0UL1sIxPNHy0Sh) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 3:12 | 2025-04-29 | 2025-06-10 |
-| [Daily 2k](https://open.spotify.com/track/7pXAlZ3Mxyd5V9pbfSlnxj) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Daily 2k](https://open.spotify.com/album/1gsbFPBgz1N7n1enX9C9d8) | 2:54 | 2025-07-04 |  |
+| [Daily 2k](https://open.spotify.com/track/7pXAlZ3Mxyd5V9pbfSlnxj) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Daily 2k](https://open.spotify.com/album/1gsbFPBgz1N7n1enX9C9d8) | 2:54 | 2025-07-04 | 2025-08-09 |
 | [Dance \(feat\. Wiz Kid\)](https://open.spotify.com/track/7eGCDrUldOsj3fwaMW8LVH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Refuse to Be Broke: Da Revolution 2](https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7) | 4:36 | 2024-10-21 | 2025-03-15 |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-10-21 |  |
 | [Demba](https://open.spotify.com/track/38s6iiOu26spsFZKj8BtfM) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Trio Da Kali](https://open.spotify.com/artist/1DGgYTjkEw1sxzCBcXqZU5) | [Demba \(Demi Riquísimo Remix\)](https://open.spotify.com/album/2dShxi3GCpUejK51c8dIDE) | 5:09 | 2025-04-29 | 2025-07-01 |
@@ -187,6 +187,7 @@
 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 | 2024-10-21 |  |
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2024-10-21 |  |
 | [Yebo](https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Yebo](https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0) | 4:23 | 2025-01-09 |  |
+| [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-08 |  |
 | [Your Number](https://open.spotify.com/track/63iWu3MNvYmzHbd1gaIoFL) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [$exy Girl $ummer \(Vol.1\)](https://open.spotify.com/album/68q09r65wcBidNleimVoLk) | 2:04 | 2025-06-27 |  |
 
 \*This playlist was first scraped on 2024-10-25. Prior content cannot be recovered.

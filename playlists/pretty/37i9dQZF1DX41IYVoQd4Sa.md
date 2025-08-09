@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : רועי ריק
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,365 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,369 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 41 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 42 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
 | 43 | [תביאו יותר](https://open.spotify.com/track/4eV72E8RwT0gxFTVEEOhFz) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [תביאו יותר](https://open.spotify.com/album/6w83IjmEhjoFnmlDZc19CT) | 3:06 |
-| 44 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
+| 44 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 45 | [הדלת הפתוחה](https://open.spotify.com/track/6ZrFqIxeb5pGECv3Dgl8Rp) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [הדלת הפתוחה](https://open.spotify.com/album/73nXR3AC7KXy4kJae8zc4Y) | 2:41 |
-| 46 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 46 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
 | 47 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 48 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 |
 | 49 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
-| 50 | [Black Eye](https://open.spotify.com/track/40jNQbXc3SxO2VVmgSsFlc) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Black Eye](https://open.spotify.com/album/295njq3mu85uparrz5upr0) | 2:25 |
+| 50 | [פורטוגל](https://open.spotify.com/track/6l3iux77GY6VC4rBW4bmij) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [פורטוגל](https://open.spotify.com/album/1nWz68CCKhJbiJ8Ed4GHpr) | 3:26 |
 
 Snapshot ID: `AAAAANzylC1iNR5gdJYKZgQXF7Hp1sSi`

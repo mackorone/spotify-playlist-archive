@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-579 songs - 1 day 8 hr 58 min
+581 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Endrum Unnodu](https://open.spotify.com/track/0UMp5xcRfGgqBqeqrj1uQ0) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Endrum Unnodu](https://open.spotify.com/album/7mkgAiq1Ux0OQLrPR0rEeX) | 3:12 | 2023-06-09 | 2023-06-27 |
 | [Engeyo](https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT) | [Venkat](https://open.spotify.com/artist/48YcECFgYoT5MNRZGm69Tq), [Jeffery Jonathan](https://open.spotify.com/artist/6DLpl5amuFlVW3VrCyo9zo) | [Engeyo](https://open.spotify.com/album/6PyRuoq98TMZUpxtVojwrZ) | 3:07 | 2023-03-21 | 2023-09-26 |
 | [Engu Poven?](https://open.spotify.com/track/2WAluA15WXXZBqGcF6m0Vp) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Engu Poven?](https://open.spotify.com/album/4paIGcasxYVK8teL1wZqnT) | 3:36 | 2024-06-14 | 2024-08-11 |
+| [ENNA KADHA JO](https://open.spotify.com/track/3XVVleTtSOJCAzdjYzWVeq) | [AathiRaja](https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE), [CloverChild](https://open.spotify.com/artist/6GBYIRq7K50ODuTAXyxHwx), [Reon](https://open.spotify.com/artist/4ZlaorCRjOK18jbft6EnYt), [Ev](https://open.spotify.com/artist/0NVQbptRGqD8jdbkFprkqb) | [ENNA KADHA JO](https://open.spotify.com/album/7EPiMmSbRdxr0On2dYv5Th) | 2:42 | 2025-08-08 |  |
 | [Enna Mayakkam](https://open.spotify.com/track/06RJLbCMAAdVoMvHjBxdtS) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Ailaah](https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 2:39 | 2024-07-27 | 2024-09-20 |
 | [Enna Sachitiye](https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV) | [Haswanth Adhi](https://open.spotify.com/artist/0zo8RWL9fAbxFOGPPEKbUm) | [Enna Sachitiye](https://open.spotify.com/album/4p55p6frgV7NlbHhfbIzBt) | 3:11 | 2024-08-21 | 2024-09-19 |
 | [enna seithai anbe?](https://open.spotify.com/track/754fYY1SFIiYRfVxmRGle5) | [Sarah Moses](https://open.spotify.com/artist/5nBPrpouXtarHB3BxfbIuw) | [enna seithai anbe?](https://open.spotify.com/album/4DMZOT0eCbI5Kxy4s2XD7E) | 3:37 | 2025-04-04 | 2025-06-05 |
@@ -522,6 +523,7 @@
 | [Usuru Motham](https://open.spotify.com/track/4MbDnGT1Ukl3UAb0Z9Zxsv) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Usuru Motham](https://open.spotify.com/album/271FpH1atiqoGg53OaQTbe) | 3:03 | 2024-09-30 | 2024-12-26 |
 | [Uyir Peralaiye](https://open.spotify.com/track/05ONYU2LgxbiLSTtNk8gvH) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Pa Hariharan](https://open.spotify.com/artist/55htwdAycmF3V2bHfmzTXI) | [Life Until 23](https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1) | 5:59 | 2025-04-24 | 2025-07-12 |
 | [Uyir Ponaalum](https://open.spotify.com/track/0op614boUrlYXkjo2aBkJR) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Paxslim](https://open.spotify.com/artist/4XE6eLUu1pp5rcI1cpDpWy) | [Uyir Ponaalum](https://open.spotify.com/album/4PClcq39M4seJMLAitgNnS) | 1:42 | 2025-05-06 | 2025-07-23 |
+| [Uyire](https://open.spotify.com/track/2yWq3CNcgsh9RQCZTqsO7L) | [Nithish O K](https://open.spotify.com/artist/4c6QaJSRpK39BFUXARvr78), [Sanoop Kumar](https://open.spotify.com/artist/4MEY11lhiB0Pzm6yjzejyy) | [Uyire](https://open.spotify.com/album/47AnDAz0zQJRP0dahRhPpl) | 3:36 | 2025-08-08 |  |
 | [Uyire](https://open.spotify.com/track/4NECvEaHKVULjEqLXU8dgQ) | [Suginthan Janathan](https://open.spotify.com/artist/2Y7jk1nAWikvbDncgAEQsq) | [Uyire](https://open.spotify.com/album/0GtxzQS97xos4PGzlLVzG9) | 3:18 | 2025-05-16 | 2025-07-26 |
 | [Uyire Urave](https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Uyire Urave](https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV) | 3:21 | 2023-11-06 | 2023-12-12 |
 | [Uyirin Uyiraaga \- From "Soul of Promise"](https://open.spotify.com/track/5zSP9JTn74UBHRD4YgqQFZ) | [Deri Lorus](https://open.spotify.com/artist/5XVT4JCh2JJXmK56tF3hyx), [Kamalaja Rajagopal](https://open.spotify.com/artist/5GA1b7IUk3ThudtQ4N35qf), [Manoj Muralidharan](https://open.spotify.com/artist/03sc6Jb6d3C4euBZzpcVW4) | [Uyirin Uyiraaga \(From "Soul of Promise"\)](https://open.spotify.com/album/28zJAr46H8CIf0lZp18zQ1) | 3:14 | 2024-11-06 | 2025-01-31 |

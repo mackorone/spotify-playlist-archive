@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 598569,
+  "num_followers": 598629,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "By a Monster\u2019s Hand",
-        "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "By a Monster\u2019s Hand",
-      "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "Pretty Vicious",
         "url": "https://open.spotify.com/album/0ye5g4k6i0iatosCxx3XEa"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 310300,
       "name": "Pretty Vicious",
       "url": "https://open.spotify.com/track/47d9B59RxiLKUOolxaqoOA"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "By a Monster\u2019s Hand",
+        "url": "https://open.spotify.com/album/1v2xwYDX1DPiIqIR4mKJxV"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "By a Monster\u2019s Hand",
+      "url": "https://open.spotify.com/track/57Q2OMlhA2r4GOPPfcqqR9"
     },
     {
       "added_at": "2025-04-07 23:29:17",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-04-07 23:29:17",
       "album": {
-        "name": "JACK",
-        "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 168630,
-      "name": "JACK",
-      "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
-    },
-    {
-      "added_at": "2025-04-07 23:29:17",
-      "album": {
         "name": "Dancer",
         "url": "https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 189493,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU"
+    },
+    {
+      "added_at": "2025-04-07 23:29:17",
+      "album": {
+        "name": "HEAVY META",
+        "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
+      },
+      "artists": [
+        {
+          "name": "Ron Gallo",
+          "url": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+        }
+      ],
+      "duration_ms": 220538,
+      "name": "Young Lady, You're Scaring Me",
+      "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
     }
   ],
   "unique_name": "Beer & Wings",

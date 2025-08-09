@@ -2,7 +2,7 @@
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: NBA YoungBoy
+> The hottest out the South\. Cover: Young Nudy
 
 2,153 songs - 4 day 4 hr 50 min
 

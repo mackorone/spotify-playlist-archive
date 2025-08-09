@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,532 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,516 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 37 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 38 | [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 |
 | 39 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 |
-| 40 | [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:30 |
+| 40 | [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:31 |
 | 41 | [Long Sardine x Kids](https://open.spotify.com/track/3x0bxhjeoI6hvOd3MRhxlb) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine x Kids](https://open.spotify.com/album/6rJgrnk1q3zemYTEInhlkK) | 3:28 |
 | 42 | [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 |
 | 43 | [All over me](https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6) | 3:22 |

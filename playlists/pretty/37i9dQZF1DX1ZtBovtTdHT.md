@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,712 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,756 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 19 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
 | 20 | [Alone](https://open.spotify.com/track/5TINskHXiPUY4YEJZVcyuG) | [Lasgo](https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp) | [Some Things \(Deluxe\)](https://open.spotify.com/album/5C48YYSKZGy2W2pNxisF8w) | 4:01 |
 | 21 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/72lRA680a5ZWu0l14phseH) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [1998](https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq) | 3:30 |
-| 22 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
-| 23 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
+| 22 | [Proximus \- Radio Edit](https://open.spotify.com/track/4Evb0y5ZghAbBUKf4PuGc2) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [50 Best Trance Hits Ever](https://open.spotify.com/album/18fxBZwWroGh7bIGUk6eNW) | 3:31 |
+| 23 | [Insomnia \- Radio Edit](https://open.spotify.com/track/3VARvuAse3BGcthh63pUeg) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [One For The Lad's](https://open.spotify.com/album/5jdiTLHBNbOqHLkYbBiPN9) | 3:36 |
 | 24 | [Walk on Water \- H2O Radio Mix](https://open.spotify.com/track/6Phug5Bw0QShaFvRMeBVzZ) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Land Of The Living](https://open.spotify.com/album/4IJCl7EEMVTn9YzqlYtfP7) | 3:12 |
 | 25 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
 | 26 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
-| 27 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
-| 28 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
+| 27 | [Lizard](https://open.spotify.com/track/4t12tfpnld2b3XwXsNfEgt) | [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [The Double Album](https://open.spotify.com/album/6YvP4jnV1o5QL02rykTm1a) | 5:13 |
+| 28 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
 | 29 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
 | 30 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
 | 31 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 64 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 65 | [Carte Blanche \- Original Mix](https://open.spotify.com/track/2YmQ5jhgV7EX7yWR1IEP9c) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [30 Best Trance Anthems Best Ever](https://open.spotify.com/album/0rIzXOKFdnHhZ4Qmqtd9Ax) | 7:04 |
 | 66 | [Better Off Alone](https://open.spotify.com/track/6eDEHsdHPNwmV3JpeftN5f) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/6dykJlw4E4k9XhIYB3HGPE) | 3:35 |
-| 67 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
-| 68 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
+| 67 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
+| 68 | [Believe \- Radio Version](https://open.spotify.com/track/5YoPqsi7hkinkyrdQSgrkK) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [At The Rebels Room](https://open.spotify.com/album/10kMItbeNNucdGw3RiKgci) | 3:26 |
 | 69 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
 | 70 | [Lift Me Up \- Barthezz Uplifting Remix](https://open.spotify.com/track/2wT7K2yIR1Tlf116qUc02C) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [Lift Me Up](https://open.spotify.com/album/69hzCLwyNDH2m7m2YV6FAH) | 8:42 |
 | 71 | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/track/3GNluLmWNf2QaK1KWTSBsp) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [The Remix Edition \- Episode ll](https://open.spotify.com/album/1nrbP2ZpwFZjiOzU4LCh8c) | 6:45 |

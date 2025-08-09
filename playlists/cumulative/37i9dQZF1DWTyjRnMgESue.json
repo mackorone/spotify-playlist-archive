@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new songs from modern singer-songwriters. Cover: The Favors\n",
+  "description": "The best new songs from modern singer-songwriters. Cover: Billie Marten\n",
   "name": "Today's Singer-Songwriters",
   "tracks": [
     {
@@ -1371,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Bitin' List",
+      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
+    },
+    {
+      "album": {
         "name": "Black Boots And Leather Rebellion",
         "url": "https://open.spotify.com/album/5bUXsJJChr9ugC6zD9Bmj4"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 210403,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/6iUdyTdFaDRAOCPeHEPTYl"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 154840,
       "name": "Bowling alley",
       "url": "https://open.spotify.com/track/47I8eRmRwU4EUX3HUqhFfp"
@@ -1830,6 +1848,24 @@
       "duration_ms": 214617,
       "name": "Burn Me",
       "url": "https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL"
+    },
+    {
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "album": {
@@ -3572,7 +3608,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 214588,
       "name": "Evergreen Lover",
       "url": "https://open.spotify.com/track/623iB0LL6nNS0pZekU2FOc"
@@ -3774,6 +3810,24 @@
       "duration_ms": 193733,
       "name": "Favorite Peeps",
       "url": "https://open.spotify.com/track/4dUOiTUovOCy91uztDlUp3"
+    },
+    {
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
     },
     {
       "album": {
@@ -4074,7 +4128,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 225988,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/1n3aRmUDx5Oi4luFZmGqbY"
@@ -5170,7 +5224,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 254822,
       "name": "Heartbreakdown",
       "url": "https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt"
@@ -5546,6 +5600,24 @@
       "duration_ms": 305000,
       "name": "Horses",
       "url": "https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX"
+    },
+    {
+      "album": {
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
     },
     {
       "album": {
@@ -5936,6 +6008,24 @@
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
+    },
+    {
+      "album": {
+        "name": "I Don't Not Love You",
+        "url": "https://open.spotify.com/album/7DFji8aOgavBFpza5ULHZs"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183332,
+      "name": "I Don't Not Love You",
+      "url": "https://open.spotify.com/track/4xLuBeImCrzB7Dh1ktwQmr"
     },
     {
       "album": {
@@ -8083,6 +8173,24 @@
     },
     {
       "album": {
+        "name": "Nettles",
+        "url": "https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483692,
+      "name": "Nettles",
+      "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
+    },
+    {
+      "album": {
         "name": "Never Learned To Dance",
         "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
       },
@@ -8098,6 +8206,24 @@
       "duration_ms": 224080,
       "name": "Never Learned To Dance",
       "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
+    },
+    {
+      "album": {
+        "name": "Never Notice",
+        "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "Never Notice",
+      "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
     },
     {
       "album": {
@@ -8958,6 +9084,24 @@
       "duration_ms": 188936,
       "name": "Poison In My Well",
       "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
+    },
+    {
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243014,
+      "name": "Pool - Stripped",
+      "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
     },
     {
       "album": {
@@ -9964,7 +10108,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 229666,
       "name": "Sheets",
       "url": "https://open.spotify.com/track/5XrnVelufxFVFEFvuiuQMi"
@@ -10520,7 +10664,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 247867,
       "name": "Southeast Dixie Highway",
       "url": "https://open.spotify.com/track/5QP5MD2z77LMJXyctzPliS"
@@ -10600,7 +10744,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
@@ -12544,7 +12688,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 224173,
       "name": "Weathervane",
       "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
@@ -12584,6 +12728,24 @@
       "duration_ms": 176712,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
+    },
+    {
+      "album": {
+        "name": "Wet Hair",
+        "url": "https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Wet Hair",
+      "url": "https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn"
     },
     {
       "album": {
@@ -13362,7 +13524,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 221584,
       "name": "you were mine",
       "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"

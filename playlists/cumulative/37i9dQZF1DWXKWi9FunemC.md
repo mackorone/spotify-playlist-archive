@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-290 songs - 19 hr 43 min
+291 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [I Smile \- Neo\-Soul Version](https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [I Smile \(Neo\-Soul Version\)](https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe) | 2:17 | 2025-08-06 |  |
 | [I Surrender All \(reimagined\)](https://open.spotify.com/track/6voEoqZGWL69eZODjoVwkl) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Matias Ruiz](https://open.spotify.com/artist/5WNzw88slVRQWQmnZTImUm), [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [I Surrender All \(reimagined\)](https://open.spotify.com/album/5K31OWi27YzTGzchaIv3na) | 3:31 | 2023-07-28 | 2024-06-24 |
 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 | 2024-08-03 |  |
-| [I Trust You](https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [I Trust You](https://open.spotify.com/album/56nxYWU99mGNr0nSlOQhzR) | 4:17 | 2025-08-06 |  |
+| [I Trust You](https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [I Trust You](https://open.spotify.com/album/56nxYWU99mGNr0nSlOQhzR) | 4:17 | 2025-08-06 |  |
 | [I Want You](https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC) | [Jon Thurlow](https://open.spotify.com/artist/5o0OkYkblxitp1gdPiZO0B) | [Different Story](https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6) | 4:04 | 2020-08-31 |  |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2020-08-31 |  |
 | [I Will Wait for You \(Psalm 130\) \[Live\]](https://open.spotify.com/track/4FwOCO9W6aH5QSh7dix8ey) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 6:18 | 2020-08-31 | 2024-06-24 |
@@ -141,6 +141,7 @@
 | [It Goes Both Ways](https://open.spotify.com/track/61agJFeawepC25zhwZgP5Y) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [It Goes Both Ways](https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8) | 3:42 | 2024-08-03 |  |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2020-08-31 | 2023-07-29 |
 | [Jesus You're Beautiful](https://open.spotify.com/track/0w0y2IcrltLTDt0yzEsgS9) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Ingunn](https://open.spotify.com/artist/0qqTRZQ0qZ1aE3vagkMOul) | [Jesus You're Beautiful](https://open.spotify.com/album/35APoYSnxEKFA3qXt84Rba) | 3:42 | 2023-07-28 |  |
+| [joy](https://open.spotify.com/track/7nHID2AP58g87j0GE6i7fu) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Bec Armour](https://open.spotify.com/artist/5MN1Rt89awDCDM5YqEKIzG) | [joy](https://open.spotify.com/album/4ZXa4VLqy1KnAiHvjxYqQa) | 3:22 | 2025-08-06 |  |
 | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x) | [Taylor Tripodi](https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s) | [Just As I Am \(Nothing to Prove\)](https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG) | 5:16 | 2020-08-31 |  |
 | [Just Give Me Jesus](https://open.spotify.com/track/2TkU9jzogblGW1Dv3G7SIo) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW) | 3:27 | 2020-08-31 | 2022-07-29 |
 | [Just Give Me Jesus](https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:29 | 2020-08-31 | 2024-04-19 |
@@ -233,7 +234,7 @@
 | [Sun Rises](https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Sun Rises](https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha) | 2:54 | 2025-08-06 |  |
 | [Surrender](https://open.spotify.com/track/7sCocP9fv45FRVtJOkPF93) | [Cam Sakkara](https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8) | [Surrender](https://open.spotify.com/album/003UjYlqCFFx5oYxb26Gg3) | 4:08 | 2024-06-23 | 2024-08-03 |
 | [Sweet By and By Goodbye](https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Sweet By and By Goodbye](https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD) | 3:39 | 2025-08-06 |  |
-| [Symphony \- Acoustic Version](https://open.spotify.com/track/09oUgdS418oeiPDMWE2bkg) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony \(Acoustic Version\)](https://open.spotify.com/album/3KmzJRszOlFuP6T4wgU9pR) | 4:01 | 2024-08-03 |  |
+| [Symphony \- Acoustic Version](https://open.spotify.com/track/09oUgdS418oeiPDMWE2bkg) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony \(Acoustic Version\)](https://open.spotify.com/album/3KmzJRszOlFuP6T4wgU9pR) | 4:01 | 2024-08-03 | 2025-08-09 |
 | [Take Heart](https://open.spotify.com/track/6ifa4NEeEn5GzeL6ZqnHr4) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [Take Heart](https://open.spotify.com/album/4Kus9Gh8RAKBWO8uGvQdBc) | 3:20 | 2025-08-06 |  |
 | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\)](https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD) | 2:56 | 2023-07-28 | 2024-06-24 |
 | [Take Over Me](https://open.spotify.com/track/46yERETMQdLmTn5OZAR30X) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Take Over Me](https://open.spotify.com/album/0nnHuoBrZW7WGS9d13TFHd) | 3:11 | 2025-08-06 |  |

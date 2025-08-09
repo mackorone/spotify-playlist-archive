@@ -1851,6 +1851,28 @@
     },
     {
       "album": {
+        "name": "YKWIL",
+        "url": "https://open.spotify.com/album/4QCFg8cFMdXIHUEJREJtHd"
+      },
+      "artists": [
+        {
+          "name": "V3K",
+          "url": "https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe"
+        },
+        {
+          "name": "DROPAMINE",
+          "url": "https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "YKWIL",
+      "url": "https://open.spotify.com/track/2k6NFkRf3amhkI0wPLdyEX"
+    },
+    {
+      "album": {
         "name": "You and I (Together Forever)",
         "url": "https://open.spotify.com/album/5vYeQGE2ACsF52lxtmmHZd"
       },

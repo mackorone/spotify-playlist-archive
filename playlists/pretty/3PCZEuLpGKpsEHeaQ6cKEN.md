@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Martin Garrix &amp; Libby Whitehouse
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 265,965 likes - 206 songs - 10 hr 57 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 265,928 likes - 207 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,5 +214,6 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 204 | [I Wanna Be U](https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [I Wanna Be U](https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ) | 2:22 |
 | 205 | [Greece 2000](https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV) | 3:27 |
 | 206 | [Flashdance \- Deep Dish Does The Chug Remix](https://open.spotify.com/track/4UnkTkVICLjugSNhyDkHo3) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Flashdance](https://open.spotify.com/album/2KUAEIvek1mWKGSyyKoWG2) | 3:15 |
+| 207 | [Revelation \- Renato Cohen Remix](https://open.spotify.com/track/0sVhM9VdvNyudSmtn5R60b) | [Electrique Boutique](https://open.spotify.com/artist/17XN3IjsqVRLGFEezuzMs1), [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Revelation \(Renato Cohen Remix\)](https://open.spotify.com/album/73bN6OX1SNpFN1Ooj5Hkkq) | 3:36 |
 
-Snapshot ID: `AADUgiY9Oz4G7lQHvIDkmO6VlgStfG9S`
+Snapshot ID: `AADUgyQH1qnpzO5DMMeP1FDDPMm7Q6Sl`

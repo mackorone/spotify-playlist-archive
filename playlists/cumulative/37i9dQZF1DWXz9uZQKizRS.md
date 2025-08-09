@@ -2,7 +2,7 @@
 
 ### [Alternatywna Polska](https://open.spotify.com/playlist/37i9dQZF1DWXz9uZQKizRS)
 
-> Najlepsza świeża polska alternatywa\. Cover: Zuta
+> Najlepsza świeża polska alternatywa\. Cover: Kasia Lins
 
 983 songs - 2 day 7 hr 21 min
 

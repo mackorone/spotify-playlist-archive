@@ -118,6 +118,24 @@
     {
       "album": {
         "name": "CEREBRUM",
+        "url": "https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198356,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb"
+    },
+    {
+      "album": {
+        "name": "CEREBRUM",
         "url": "https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI"
       },
       "artists": [
@@ -128,7 +146,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 198356,
       "name": "Glass",
       "url": "https://open.spotify.com/track/7mWB3oNV5SCMNxD0h0hjt2"

@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Sweet R&B straight out of Africa\. Cover: Fireboy DML
+> Sweet R&B straight out of Africa\. Cover: Shekhina
 
-467 songs - 1 day 0 hr 36 min
+468 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2021-02-12 | 2023-05-26 |
 | [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-30 | 2023-11-08 |
 | [Jolene](https://open.spotify.com/track/4GWR0LR2akpQlE8HnxvSIO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG) | 3:02 | 2024-05-16 |  |
-| [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 |  |
+| [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 | 2025-08-09 |
 | [Just The Start](https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY) | [Just The Start](https://open.spotify.com/album/6CPhshx8dpeoUO3BZXImCx) | 2:04 | 2023-07-28 | 2023-10-13 |
 | [Ke Shy](https://open.spotify.com/track/71X7xhERhWY7k4I2ST3A1F) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:19 | 2023-03-24 | 2023-06-03 |
 | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/track/10e10z7qzDZsbYZmpYEjSk) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Khartoum \(with Adekunle Gold\)](https://open.spotify.com/album/1GA9gJhtTUzphoApmbgjPR) | 2:22 | 2023-10-27 | 2023-10-29 |
@@ -436,6 +436,7 @@
 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 | 2022-06-08 | 2023-03-31 |
 | [Unpopular Opinion](https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY) | [Bayku](https://open.spotify.com/artist/30Eo3UG8VwGf7b5h60qOlK), [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d) | [Unpopular Opinion](https://open.spotify.com/album/6aGobIl5NY5CGDfxi0Q0jK) | 3:11 | 2022-10-13 | 2022-11-04 |
 | [Unrelatable](https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Unrelatable](https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd) | 2:40 | 2022-11-04 | 2022-12-10 |
+| [Until Until](https://open.spotify.com/track/0UKaP4Oxb0BAif2emox76G) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Less Trouble](https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp) | 4:04 | 2025-08-08 |  |
 | [up](https://open.spotify.com/track/6VuhHbxyPmFu1AHxjCGR5Q) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [up](https://open.spotify.com/album/63CZFvH19X9b5y5vXQwDqv) | 2:53 | 2022-05-19 | 2022-06-17 |
 | [Uyazkhohlwa](https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Twenty Four](https://open.spotify.com/album/7r7hgemJYXUDU2ztBVVGMY) | 4:17 | 2024-08-02 |  |
 | [Validation](https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok) | [Amanda Mak](https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg) | [Boxed Out](https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9) | 3:13 | 2022-02-17 | 2022-04-08 |

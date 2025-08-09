@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tontons Gradur et L2B.
 
-625 songs - 1 day 11 hr 31 min
+626 songs - 1 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [KONGOLESE SOUS BBL](https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jeez Suave](https://open.spotify.com/artist/7aApSzHbritAFVbXvoGx6P) | [KONGOLESE SOUS BBL](https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p) | 2:44 | 2024-11-22 | 2025-04-26 |
 | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/track/77HDy7Ns5VsRYttIbaTmtY) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Koni Moko Etokisaka Nzungu Te](https://open.spotify.com/album/2Jis4aVlVx87Xc6Lmd3G1U) | 2:27 | 2022-07-15 | 2023-03-25 |
 | [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 | 2024-04-19 | 2024-06-22 |
+| [Kuna](https://open.spotify.com/track/1rZvgUd0SAysaUbld4YmmL) | [DJ Satelite](https://open.spotify.com/artist/3Jbb0CKTNea0vdoBVrXaYk), [Dj Gálio](https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Seres Producoes](https://open.spotify.com/artist/4Tc0h5NCnYlFuq8GLOXaGC) | [Kuna](https://open.spotify.com/album/3PtmwjH3LINQhlNemqXoE2) | 6:24 | 2025-08-08 |  |
 | [La danse du ciel](https://open.spotify.com/track/6IW0hyI09W4wVCqE7TtQiq) | [Benit Mansieto](https://open.spotify.com/artist/7Kl7LN0qvcmb6s3ZkW5x5q) | [La danse du ciel](https://open.spotify.com/album/05f8CA9xSV6npzBzok7AKa) | 4:59 | 2023-10-20 | 2024-02-10 |
 | [La guitare suit la mélo](https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [La guitare suit la mélo](https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz) | 3:09 | 2023-09-29 | 2023-11-11 |
 | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 | 2025-06-27 |  |
@@ -307,7 +308,7 @@
 | [Legendary](https://open.spotify.com/track/128oY6xP0F8PDiPVFVUfka) | [IDPizzle](https://open.spotify.com/artist/3tHfJUWTW4xMGVrUuFD7DC) | [LEGENDARY](https://open.spotify.com/album/1guIFqEjlYrQSh1mXTt8w8) | 2:50 | 2023-06-09 | 2023-09-16 |
 | [Legende](https://open.spotify.com/track/7xhmtGvVqulcdUcsaauS15) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Legende](https://open.spotify.com/album/5Fxc5sWsRgEJ66jIkRBYYg) | 3:12 | 2023-12-08 | 2024-08-10 |
 | [Lekela Muadi](https://open.spotify.com/track/6PLr81r85eFZMivn5aHrOh) | [Tshala Muana](https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv) | [Mutuashi](https://open.spotify.com/album/19mFwYhkUjh2t4D93W8os3) | 5:22 | 2023-01-27 | 2023-02-25 |
-| [Lela](https://open.spotify.com/track/2aTtcIhZwFPxGB2w2WGrE8) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Lela](https://open.spotify.com/album/3Vs0tt1V2JAU4ViJoSK8Hy) | 3:55 | 2024-08-09 |  |
+| [Lela](https://open.spotify.com/track/2aTtcIhZwFPxGB2w2WGrE8) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Lela](https://open.spotify.com/album/3Vs0tt1V2JAU4ViJoSK8Hy) | 3:55 | 2024-08-09 | 2025-08-09 |
 | [Lelo](https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90) | [DJ Faya](https://open.spotify.com/artist/4uWcueZxhQMoolyY5OAYTd), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Lelo](https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX) | 3:04 | 2024-02-09 |  |
 | [Les bons comptes](https://open.spotify.com/track/5dsseFiaekcJxuvbFJJwqc) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Les bons comptes](https://open.spotify.com/album/2S93cbtaf8VskHaMJjL2Xz) | 2:16 | 2024-12-06 | 2025-01-25 |
 | [Libanda](https://open.spotify.com/track/7lxzDgpOgHd8CETw86oXIg) | [Agressivo Nyandoro](https://open.spotify.com/artist/1E09SS6iKT5r8lDG0VdJOn) | [Libanda](https://open.spotify.com/album/5pZQrDVvODszoYNI2jtoZ2) | 2:14 | 2022-09-09 | 2023-01-28 |

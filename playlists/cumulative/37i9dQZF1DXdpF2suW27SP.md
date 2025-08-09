@@ -4,7 +4,7 @@
 
 > Slow J entra na zona.
 
-846 songs - 1 day 20 hr 39 min
+847 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,7 +560,7 @@
 | [NÃO TINHA NADA](https://open.spotify.com/track/5ubAmROD80LMc6zQFEsA2S) | [\-Mind7\-](https://open.spotify.com/artist/7pVY4sguKOnXbl7telAAzb) | [NÃO TINHA NADA](https://open.spotify.com/album/3EgNEDUUTUuuOsYrLyCcGO) | 3:41 | 2024-07-04 | 2024-08-30 |
 | [NÃO TINHA NADA](https://open.spotify.com/track/4HTCzhL3YRZxIy1u1FoNrj) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NÃO TINHA NADA](https://open.spotify.com/album/5IR0z6lC1eJ1Y4f4XOwPks) | 2:47 | 2025-01-03 | 2025-04-18 |
 | [Não Volto](https://open.spotify.com/track/3IcPYN25mmE28nA1qXphgi) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [100 Segredos](https://open.spotify.com/album/66GmwuRmnCeJAKGkZC2gMf) | 2:51 | 2023-12-08 | 2024-01-19 |
-| [O Gueto Ainda Não Venceu](https://open.spotify.com/track/4yGWzS6eiK0qeDYMSTDoU6) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp) | [O Gueto Ainda Não Venceu](https://open.spotify.com/album/0UIeTT51Xbukd3llZXyGRM) | 2:30 | 2025-08-07 |  |
+| [O Gueto Ainda Não Venceu](https://open.spotify.com/track/4yGWzS6eiK0qeDYMSTDoU6) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp) | [O Gueto Ainda Não Venceu](https://open.spotify.com/album/0UIeTT51Xbukd3llZXyGRM) | 2:30 | 2025-08-07 | 2025-08-09 |
 | [O Outro Lado Do Muro](https://open.spotify.com/track/6qfviK9gdL6uG4OvhBMzut) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Os Distúrbios Mentais De Um Monstro](https://open.spotify.com/album/4i7M7g1rfuaMOE7BxRp2Ye) | 3:38 | 2022-11-25 | 2023-01-06 |
 | [O Peixe Morre Pela Boca](https://open.spotify.com/track/3OxBtfWT4rEGBmVvSNybAP) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1) | [O Peixe Morre Pela Boca](https://open.spotify.com/album/4e4U4mk7rUxVkaRMpHtenJ) | 2:33 | 2024-03-08 | 2024-04-05 |
 | [O que é que tens feito?](https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [O que é que tens feito?](https://open.spotify.com/album/7o3GVre0rpEWG7309P7q6v) | 3:11 | 2022-07-16 | 2023-04-21 |
@@ -719,6 +719,7 @@
 | [Sinónimos](https://open.spotify.com/track/294j9gqz8PqEMJn0y7MOlC) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Sinónimos](https://open.spotify.com/album/6t4kHt2Rt94ZGJ2ipmK13i) | 5:33 | 2025-05-08 | 2025-05-16 |
 | [SLOW DOWN](https://open.spotify.com/track/09J2GaoKUhH4MV3xbBlhj8) | [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [SLOW DOWN](https://open.spotify.com/album/5MZcvVDhqJQkjIIq3toEje) | 2:08 | 2024-01-19 | 2024-02-09 |
 | [SLOWLY](https://open.spotify.com/track/3GiSZdYGVzZOjKN3cdCQur) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [THE NINJA SPIRIT](https://open.spotify.com/album/0IJUNankp0rti6gsU77HDI) | 3:02 | 2024-03-29 | 2024-05-17 |
+| [Sobreviventes](https://open.spotify.com/track/0Vd4lvDxEsGLtfcFlbHZsS) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Kool Klever](https://open.spotify.com/artist/7dSscgSjInCyQU8YGiUwlc), [EMP Productions](https://open.spotify.com/artist/7Cwc62OBUXSodjIKiI6rdt) | [Underground](https://open.spotify.com/album/1hw62zPZD8CHTInd9Bc5oU) | 3:15 | 2025-08-08 |  |
 | [Socorro](https://open.spotify.com/track/3cxAhKg83buLsTYlmSIi9x) | [SPLIFF](https://open.spotify.com/artist/2QPRzhivMb2TfzvZKpQYxL) | [Socorro](https://open.spotify.com/album/2ocGkF8NiDKjMfywGOqtzH) | 3:00 | 2023-01-06 | 2023-03-18 |
 | [Soldado](https://open.spotify.com/track/0kWKNkmze0jZkoQP7aJzBq) | [TILT](https://open.spotify.com/artist/0hwVPv88JiUJKVZFr494rF), [Rivolean](https://open.spotify.com/artist/2s4oCdNJLWQAa2ms6jPmFE), [Catalão](https://open.spotify.com/artist/1J9EfDZbZ0yX2OXwod1qAb) | [Soldado](https://open.spotify.com/album/2t7oZYYYjGFzndVujFuqFy) | 2:50 | 2025-07-03 | 2025-08-08 |
 | [SOLDIER](https://open.spotify.com/track/3oosIm7TgiF3eAIcLu577u) | [Djonivelli](https://open.spotify.com/artist/0Dk2l3Xd28NBRw5pzsFBwo), [Thugg Black Panther's](https://open.spotify.com/artist/5ZpCm0yyuznxb5gNpjqlaq) | [PROMESSA](https://open.spotify.com/album/7DfYP4OUFkSD5KQ27px34Q) | 5:16 | 2024-11-15 | 2024-11-22 |

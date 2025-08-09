@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-810 songs - 1 day 14 hr 41 min
+811 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(Reblah\) S2 EP3 \- Top Up](https://open.spotify.com/track/27pglcyGM6ZTrDqPM539jU) | [Aligned Vision](https://open.spotify.com/artist/1sYCFMXOAq4TOtbtqb2JwF), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [\(Reblah\) S2 EP3 \- Top Up](https://open.spotify.com/album/5ngg35KQ6QUzYF3bgLZnfz) | 2:50 | 2022-04-30 | 2022-05-19 |
 | [/kroun/](https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [/kroun/](https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG) | 2:33 | 2022-05-28 | 2022-07-29 |
 | [10,000 Hours](https://open.spotify.com/track/3UcJBlzA6lq50xKAzeIaNP) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [10,000 Hours](https://open.spotify.com/album/0lZvCF9AHKrbRXRXdCHdyW) | 3:03 | 2025-05-09 |  |
-| [100%](https://open.spotify.com/track/0QMCaSrgTpVVMRuDkWu6Jb) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [100%](https://open.spotify.com/album/1JNc8LdH41366WQCUAFPmq) | 2:29 | 2024-06-07 |  |
+| [100%](https://open.spotify.com/track/0QMCaSrgTpVVMRuDkWu6Jb) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [100%](https://open.spotify.com/album/1JNc8LdH41366WQCUAFPmq) | 2:29 | 2024-06-07 | 2025-08-09 |
 | [2 Different](https://open.spotify.com/track/400E4VtxGIS50h6x6phoL1) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [2 Different](https://open.spotify.com/album/69VQCDmPBxe0LiZOG2hGuE) | 2:17 | 2025-07-18 |  |
 | [2 Major](https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [2 Major](https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn) | 2:18 | 2025-04-04 |  |
 | [2BIG!](https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [2BIG!](https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL) | 3:14 | 2024-02-02 | 2024-07-06 |
@@ -418,6 +418,7 @@
 | [Let's Go](https://open.spotify.com/track/5kYJsf5JPK5Iyqcv92FsmS) | [FLAME](https://open.spotify.com/artist/2s6kyMmJZFgPCHXU0QxJLp), [Json](https://open.spotify.com/artist/5eAZLsVlw4VKkwtQS9cfrX), [Trubble](https://open.spotify.com/artist/5xh7PeTyRsGDKrlHC01hxt) | [Rewind](https://open.spotify.com/album/0li3bqzi1Mbs3qQqIKHEA4) | 3:13 | 2023-08-11 | 2024-06-08 |
 | [Life I Chose \(feat\. 2J Mako & GQ Dasteppa\)](https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch), [2J Mako](https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV), [GQ DASTEPPA](https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:11 | 2022-11-04 | 2024-01-13 |
 | [LIFE IS GOOD](https://open.spotify.com/track/1MGJgerlsDFsQsUo7ITVop) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW), [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [LIFE IS GOOD](https://open.spotify.com/album/04r5bM1EHVW6hlhuOzDv1N) | 3:07 | 2022-02-04 | 2022-05-29 |
+| [Light](https://open.spotify.com/track/2Tq2YRJGiVfgCDIJe1eAER) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [Light](https://open.spotify.com/album/16V8Bb6tFw2bTYxeSpu3Dp) | 2:22 | 2025-08-07 |  |
 | [Light Work](https://open.spotify.com/track/0ppuV2mVZbZNoGRr6a1nrk) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Jay Steezy](https://open.spotify.com/artist/1LrwpczrxW8QPltox0cMqp), [A\. Ruiz](https://open.spotify.com/artist/5chrjHIlDZQyVadLbWzgbO) | [Light Work](https://open.spotify.com/album/2wjBtuVjxaF1QXbhcyxC58) | 2:26 | 2022-02-04 | 2022-07-26 |
 | [LIGHTHOUSE](https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [LIGHTHOUSE](https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR) | 1:58 | 2023-12-01 | 2024-03-21 |
 | [Lights in the City](https://open.spotify.com/track/0Ungs1C2UKbCJabb94wity) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Lights in the City](https://open.spotify.com/album/091mtWNAMv4xRkZbJ1TmSu) | 3:35 | 2022-02-04 | 2023-08-12 |

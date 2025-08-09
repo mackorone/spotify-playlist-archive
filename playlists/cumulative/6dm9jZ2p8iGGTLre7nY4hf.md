@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-468 songs - 1 day 2 hr 25 min
+470 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [House With No Mirrors](https://open.spotify.com/track/55vsJO4tLZQ37qzD5QUOmh) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [House With No Mirrors](https://open.spotify.com/album/0hLO1xWbUmh7jkQ5dSn8yj) | 3:47 | 2023-09-15 | 2025-03-14 |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2023-09-15 | 2025-03-14 |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2025-03-26 |  |
+| [Hurricane](https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hurricane](https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I) | 4:08 | 2025-08-08 |  |
 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 | 2023-09-15 | 2025-03-14 |
 | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/track/7hVUWnMNUl7KIRyvhlVOju) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [HVA HAR SKJEDD MED OSS TO](https://open.spotify.com/album/74Ce2wpn1Lpr4qUMhQZnjA) | 2:22 | 2025-05-30 |  |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-03-26 |  |
@@ -374,6 +375,7 @@
 | [Stacy](https://open.spotify.com/track/1pyGo7knT3LE2I1FJIrwdX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Stacy](https://open.spotify.com/album/2ytL323iItASCaK0ePqu2O) | 2:48 | 2023-09-15 | 2025-03-14 |
 | [Starlings](https://open.spotify.com/track/2ZKy6cbPuG91WWWA47ipw1) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Starlings](https://open.spotify.com/album/00vGuFOKVjrBSWhdqt4sK9) | 4:17 | 2023-09-15 | 2025-03-14 |
 | [Still Yours \(From The Doc\)](https://open.spotify.com/track/7gJr3ockQ0fezUXuUXvaSq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Still Yours \(From The Doc\)](https://open.spotify.com/album/03uCCaOFlRAJkE6oDInrLz) | 2:38 | 2024-03-01 | 2025-03-14 |
+| [Strangers](https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 3:05 | 2025-08-08 |  |
 | [Stuck On You](https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Stuck On You](https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX) | 3:25 | 2025-03-26 | 2025-07-25 |
 | [Stuck On You](https://open.spotify.com/track/53Nwlr3hxsGsu9eWU5EYjq) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 3:25 | 2023-09-15 | 2025-03-14 |
 | [Stuck On You](https://open.spotify.com/track/3LBM25IgxI9y549SiYxtSi) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:25 | 2025-07-24 |  |

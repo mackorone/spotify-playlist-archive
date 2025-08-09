@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "Dream of Life",
+      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
+    },
+    {
+      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 309143,
       "name": "My Madrigal",
       "url": "https://open.spotify.com/track/71hxmZWsasa71twZ6Mn93Y"

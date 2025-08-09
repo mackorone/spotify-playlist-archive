@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 ### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
-> All the New Joints featuring Yeat, Metro Boomin, $uicideboy$ and more!
+> All the New Joints featuring JID, Gunna, Bryson Tiller and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,877 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,403 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Weight On Me](https://open.spotify.com/track/7eueMnnCN0P85k2XB2kT9f) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [Weight On Me](https://open.spotify.com/album/2r6LY2IFVptHJZ5Pfknqkq) | 2:26 |
 | 50 | [40 Doors](https://open.spotify.com/track/03CBYseqfLSqzUXhRuJZqR) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [40 Doors](https://open.spotify.com/album/50mql4nHa72ylubgL32the) | 3:02 |
 
-Snapshot ID: `AAAAAHFzTtJmmaKYa/OIt08nYxplFlOK`
+Snapshot ID: `AAAAAPs3LRL8g37B01XGzUnRkbN+Pfw0`

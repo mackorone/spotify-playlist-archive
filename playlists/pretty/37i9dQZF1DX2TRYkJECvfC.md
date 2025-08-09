@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,318,261 likes - 200 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,318,676 likes - 200 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 |
 | 200 | [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 |
 
-Snapshot ID: `AAAAAOoGmrDlV5C1irTwlvGbvOlB/YG5`
+Snapshot ID: `AAAAAHLFru7CsQeOSfwsaL0TXIYOBDtC`

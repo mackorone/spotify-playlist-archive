@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 213863,
+  "num_followers": 213850,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -72,7 +72,7 @@
           "url": "https://open.spotify.com/artist/7yIAX7VC5OTc651ec9XWcx"
         }
       ],
-      "duration_ms": 191729,
+      "duration_ms": 196691,
       "name": "MACHIAVELLI",
       "url": "https://open.spotify.com/track/3eDoZJEihP31ln8fcXTZOw"
     },
@@ -383,6 +383,26 @@
     {
       "added_at": "2025-08-07 22:00:35",
       "album": {
+        "name": "L\u00e5t Mig Va",
+        "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
+      },
+      "artists": [
+        {
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+        },
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 120834,
+      "name": "L\u00e5t Mig Va",
+      "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
+    },
+    {
+      "added_at": "2025-08-07 22:00:35",
+      "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 165785,
       "name": "Galopp",
       "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:35",
-      "album": {
-        "name": "L\u00e5t Mig Va",
-        "url": "https://open.spotify.com/album/678gU1iWVNcgTstct030O3"
-      },
-      "artists": [
-        {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
-        },
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 120834,
-      "name": "L\u00e5t Mig Va",
-      "url": "https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e"
     },
     {
       "added_at": "2025-08-07 22:00:35",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-08-07 22:00:35",
       "album": {
-        "name": "Gode Tider (feat. Streetboys)",
-        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
-      },
-      "artists": [
-        {
-          "name": "Puls",
-          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
-        },
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Gode Tider (feat. Streetboys)",
-      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
-    },
-    {
-      "added_at": "2025-08-07 22:00:35",
-      "album": {
         "name": "Ryker p\u00e5'a igjen",
         "url": "https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 193133,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
+    },
+    {
+      "added_at": "2025-08-07 22:00:35",
+      "album": {
+        "name": "Gode Tider (feat. Streetboys)",
+        "url": "https://open.spotify.com/album/6zQAGKTuKJZ9NfOIV61AjW"
+      },
+      "artists": [
+        {
+          "name": "Puls",
+          "url": "https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa"
+        },
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Gode Tider (feat. Streetboys)",
+      "url": "https://open.spotify.com/track/5ZJ79oTFwwaMivX7kJwoJL"
     },
     {
       "added_at": "2025-08-07 22:00:35",

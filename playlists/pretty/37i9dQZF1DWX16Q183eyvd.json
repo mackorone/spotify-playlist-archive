@@ -1,13 +1,33 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner",
-  "num_followers": 108858,
+  "num_followers": 108969,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVOcZbruBecg65Jq6SZCwS+8i1g",
+  "snapshot_id": "AAAAADrQCjMQWqzzOiplAue67pFLXlqU",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:43",
+      "album": {
+        "name": "Be Kind Be You",
+        "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 171502,
+      "name": "I Love Affirmations",
+      "url": "https://open.spotify.com/track/0jqFg0hKxEyfiW1JzmhgDw"
+    },
     {
       "added_at": "2025-08-01 04:00:26",
       "album": {
@@ -439,26 +459,6 @@
       "duration_ms": 196543,
       "name": "Syzygy",
       "url": "https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o"
-    },
-    {
-      "added_at": "2025-07-20 16:52:29",
-      "album": {
-        "name": "Kids Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm"
-      },
-      "artists": [
-        {
-          "name": "Doggyland",
-          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 126688,
-      "name": "Affirmation Song",
-      "url": "https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk"
     },
     {
       "added_at": "2025-07-20 16:52:29",

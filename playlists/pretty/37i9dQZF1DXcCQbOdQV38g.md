@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,246 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,378 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 30 | [Loop Niet Weg](https://open.spotify.com/track/7fmExiQZjHLyDv5SC1EhDg) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Loop Niet Weg](https://open.spotify.com/album/4QmjQJwfExwWsLfU8XZ5EI) | 3:05 |
 | 31 | [Más Más Más](https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Más Más Más](https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM) | 2:34 |
 | 32 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 |
-| 33 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
-| 34 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
+| 33 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
+| 34 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
 | 35 | [Aan het strand van Porto Rico](https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Aan het strand van Porto Rico](https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr) | 3:15 |
 | 36 | [Zolang Je Bij Me Bent](https://open.spotify.com/track/7aAWfzW0L6448bUNxNVYIo) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Zolang Je Bij Me Bent](https://open.spotify.com/album/5XtfG950glREhIpc0pWQzA) | 2:51 |
 | 37 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 44 | [Hotelschool](https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:21 |
 | 45 | [Kijk Ons Nou](https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Kijk Ons Nou](https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt) | 2:43 |
 | 46 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 |
-| 47 | [Señorita, Meisje van de nacht](https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Señorita, Meisje van de nacht](https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj) | 2:56 |
-| 48 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 |
+| 47 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 |
+| 48 | [Señorita, Meisje van de nacht](https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Señorita, Meisje van de nacht](https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj) | 2:56 |
 | 49 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
 | 50 | [Rendez\-Vous](https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Rendez\-Vous](https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7) | 3:18 |
-| 51 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 |
-| 52 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
-| 53 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 |
+| 51 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 |
+| 52 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 |
+| 53 | [Laat Me Lekker Leven](https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Laat Me Lekker Leven](https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q) | 3:11 |
 | 54 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 |
 | 55 | [Eenzame Nacht](https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Eenzame Nacht](https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb) | 2:40 |
 | 56 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 65 | [Nog Geen Siësta](https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2), [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Nog Geen Siësta](https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A) | 2:39 |
 | 66 | [Beetje Gek](https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beetje Gek](https://open.spotify.com/album/3w2wRMPHsG74O8Tikpg5Dg) | 2:54 |
 | 67 | [Eiland](https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD) | [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Eiland](https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV) | 2:06 |
-| 68 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 |
-| 69 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 |
+| 68 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 |
+| 69 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 |
 | 70 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/1UgLT5FEpuMklqAaMrt4bh) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Zelfs Je Naam Is Mooi](https://open.spotify.com/album/6NdMpCP40nHM23j9XfRL8z) | 2:46 |
 
 Snapshot ID: `AAAAAIB1LiUAAndMVpYesw0fae+EDQPk`

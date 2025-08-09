@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,660 likes - 45 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,676 likes - 45 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 44 | [Main Theme \(From "Schindler's List"\)](https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Nicola Benedetti](https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW), [Bournemouth Symphony Orchestra](https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB), [Kirill Karabits](https://open.spotify.com/artist/4R3RDYAysOS0Joet8zTxc7) | [The Silver Violin](https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn) | 3:48 |
 | 45 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 |
 
-Snapshot ID: `aJKbAAAAAADNQ3mMRPbFI/HaifSTzS8X`
+Snapshot ID: `aJPsgAAAAABWvvwhdITATuqO5VETx1bB`

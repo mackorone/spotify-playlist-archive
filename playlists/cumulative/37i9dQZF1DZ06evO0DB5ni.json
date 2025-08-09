@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "42 18",
+        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139759,
+      "name": "Safo En El Amor",
+      "url": "https://open.spotify.com/track/3nwVXnH87Q9f1RaAODNoyl"
+    },
+    {
+      "album": {
         "name": "Atento Aviso ... Rey Sin Reina",
         "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
       },
@@ -974,7 +992,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 139759,
       "name": "Safo En El Amor",
       "url": "https://open.spotify.com/track/71BLIwRGw7O0pTIIjgUWaM"

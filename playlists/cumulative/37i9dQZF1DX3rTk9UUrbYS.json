@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 258333,
       "name": "The Path",
       "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
@@ -2914,6 +2914,40 @@
       "duration_ms": 295680,
       "name": "Third Planet",
       "url": "https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc"
+    },
+    {
+      "album": {
+        "name": "Too Lost to Care",
+        "url": "https://open.spotify.com/album/6EbBImBLb563RTdAbqzizU"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        },
+        {
+          "name": "Ben Williams",
+          "url": "https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV"
+        },
+        {
+          "name": "Gene Coye",
+          "url": "https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb"
+        },
+        {
+          "name": "Jermaine Paul",
+          "url": "https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132591,
+      "name": "Too Lost to Care",
+      "url": "https://open.spotify.com/track/3X6SiZpVTyelmzCRdnlWRR"
     },
     {
       "album": {

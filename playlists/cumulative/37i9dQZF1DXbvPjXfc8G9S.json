@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: KAROL G",
+  "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Ryan Castro, Kybba y Busy Signal",
   "name": "\u00c9xitos Colombia",
   "tracks": [
     {
@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "UNA VALIJA EN SENTIMIENTO",
+        "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252380,
+      "name": "ELECTROLIBONBON",
+      "url": "https://open.spotify.com/track/3CHcEAW2hG6rlT2W1LlOtQ"
+    },
+    {
+      "album": {
         "name": "Ella Baila Sola",
         "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 188181,
       "name": "FDSR",
       "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"

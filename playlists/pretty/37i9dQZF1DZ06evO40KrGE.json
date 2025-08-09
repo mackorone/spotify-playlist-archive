@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 36959,
+  "num_followers": 36965,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAAswaG65L2iN5+vZ9KvnOAb",
+  "snapshot_id": "aJPsgAAAAADZN3V7XOPsO7rWTYJ5ZH/i",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 276549,
-      "name": "Mergulhe",
-      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 222958,
-      "name": "Para Sempre",
-      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
+      "duration_ms": 276549,
+      "name": "Mergulhe",
+      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
     },
     {
       "added_at": null,
@@ -667,6 +651,38 @@
       "duration_ms": 325218,
       "name": "Tremendo e Santo",
       "url": "https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 222958,
+      "name": "Para Sempre",
+      "url": "https://open.spotify.com/track/4JMEYQr7JAhVPu5LP2eeB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 322478,
+      "name": "Louve Sempre",
+      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
     },
     {
       "added_at": null,
@@ -699,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 322478,
-      "name": "Louve Sempre",
-      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 224258,
       "name": "N\u00e3o \u00e9 Tarde Demais",
       "url": "https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,

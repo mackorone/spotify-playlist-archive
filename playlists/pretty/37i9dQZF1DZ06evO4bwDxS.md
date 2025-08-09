@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,537 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,969 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 46 | [Take On the World \- Theme Song From "Girl Meets World"](https://open.spotify.com/track/5lz0NiPw32Gq4kMIUJvuw2) | [Rowan Blanchard](https://open.spotify.com/artist/45af7IeC0N5gQ9cyoIFyS6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Take On the World \(Theme Song From "Girl Meets World"\)](https://open.spotify.com/album/2gfzrQkA6WzsX13kOhf3wU) | 3:12 |
 | 47 | [I'm Fakin](https://open.spotify.com/track/62dMfMIAoHZcu3ne9Ie3RE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:55 |
 | 48 | [prfct](https://open.spotify.com/track/75wU86jr8iIiBVfD3kU3cU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:46 |
-| 49 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 |
 
-Snapshot ID: `aJKbAAAAAADwbUzl2Z/Tfps3pnEvRjFt`
+Snapshot ID: `aJPsgAAAAADam8j0f8fXFa49ZvON0TdP`

@@ -1,13 +1,109 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44021,
+  "num_followers": 44017,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaU2UGPJqdbjUBKagx2J3cbKQNHzvw",
+  "snapshot_id": "AAAaV++1W21d1wNS5U5ETXP076TsawOD",
   "tracks": [
+    {
+      "added_at": "2025-08-08 15:49:16",
+      "album": {
+        "name": "GOD IS A DJ (feat. CRAY)",
+        "url": "https://open.spotify.com/album/50VtD5PV0KgL6XatHfDdSJ"
+      },
+      "artists": [
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        },
+        {
+          "name": "CRUNCHi",
+          "url": "https://open.spotify.com/artist/51lxZ0EUXLCTN03l23HQxe"
+        },
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "duration_ms": 253935,
+      "name": "GOD IS A DJ (feat. CRAY)",
+      "url": "https://open.spotify.com/track/76AGO4vqC1k4MzxdSbXdC0"
+    },
+    {
+      "added_at": "2025-08-08 15:49:37",
+      "album": {
+        "name": "Take A Chance (Maesic Remix)",
+        "url": "https://open.spotify.com/album/0dTssOOBNl4mkrE2NJRzaR"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        },
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Take A Chance - Maesic Remix",
+      "url": "https://open.spotify.com/track/069m7Uot1Rrx4GwqfYYqTB"
+    },
+    {
+      "added_at": "2025-08-08 15:49:43",
+      "album": {
+        "name": "Take A Chance (GROSSOMODDO Remix)",
+        "url": "https://open.spotify.com/album/7285R1kwxkVBfIuijS48gK"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        },
+        {
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "Take A Chance - GROSSOMODDO Remix",
+      "url": "https://open.spotify.com/track/4Z09mBFsJFE6yOe1macRk8"
+    },
+    {
+      "added_at": "2025-08-08 15:49:51",
+      "album": {
+        "name": "Take A Chance (CASSIMM Remix)",
+        "url": "https://open.spotify.com/album/3KghZefvfdb0FwYiI7pItu"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        },
+        {
+          "name": "CASSIMM",
+          "url": "https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Take A Chance - CASSIMM Remix",
+      "url": "https://open.spotify.com/track/1DobowMYNMyzAh67oLtLUs"
+    },
     {
       "added_at": "2025-08-05 18:44:49",
       "album": {

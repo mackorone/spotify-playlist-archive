@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 124493,
+  "num_followers": 124591,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAADPrjak/c6mLjEOs3BiuKCE",
+  "snapshot_id": "aJPsgAAAAAADOgKpN0jie9zwqtIjmh2l",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Use Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 211417,
+      "name": "Thank You (feat. RAYE)",
+      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Number 1 Angel",
         "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 238749,
       "name": "Dreamer - Compound Version",
       "url": "https://open.spotify.com/track/7Coulic7di20MlW1bEytkQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Use Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3KkmwR3a7OA4Ang9wR4WBe"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Thank You (feat. RAYE)",
-      "url": "https://open.spotify.com/track/5KrslcTeVkDwRwttVVHetx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,574 likes - 100 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,584 likes - 100 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

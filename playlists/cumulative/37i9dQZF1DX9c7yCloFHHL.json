@@ -14449,6 +14449,28 @@
     },
     {
       "album": {
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262228,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD"
+    },
+    {
+      "album": {
         "name": "Lonesome Sound",
         "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
@@ -20684,7 +20706,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 334000,
       "name": "Remnants",
       "url": "https://open.spotify.com/track/7whvGJWSIX7kzR4cH7RPLz"
@@ -25548,7 +25570,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 601212,
       "name": "The Universe Will Take Care Of You",
       "url": "https://open.spotify.com/track/2mXjIifJlkFTOaAqPiGk6f"
@@ -25592,6 +25614,24 @@
       "duration_ms": 152541,
       "name": "The Weavers",
       "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
+    },
+    {
+      "album": {
+        "name": "The Wind Searches for a Weakness",
+        "url": "https://open.spotify.com/album/4WxGmO4k5ncjrOE3ebReRO"
+      },
+      "artists": [
+        {
+          "name": "Neighborhood Libraries",
+          "url": "https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "The Wind Searches for a Weakness",
+      "url": "https://open.spotify.com/track/77XOoMMT0bNzv95CVagbed"
     },
     {
       "album": {

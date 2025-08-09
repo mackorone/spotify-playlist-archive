@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,258 likes - 109 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,286 likes - 109 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [Hon får mig dansa](https://open.spotify.com/track/6cMKUMafbyVrXYoaHC9FcW) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Hon får mig dansa](https://open.spotify.com/album/6TEULhvPJGhxAG6tAaxNOW) | 2:53 |
 | 109 | [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 |
 
-Snapshot ID: `AAAAAKiUJ+YYMZxuwFvmImlLKC3hwlYM`
+Snapshot ID: `AAAAAIyP+YRctrYOVj1CZKiJvRh1Bvdr`

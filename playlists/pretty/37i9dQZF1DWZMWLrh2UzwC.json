@@ -1,6 +1,6 @@
 {
   "description": "New music from , Bunga, Ed Sheeran, keshi, Firdhaus, Jeryl Lee, and more!",
-  "num_followers": 68298,
+  "num_followers": 68389,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
@@ -288,7 +288,7 @@
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 302906,
+      "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },
@@ -681,7 +681,7 @@
         }
       ],
       "duration_ms": 149669,
-      "name": "Holy Water (feat. Jelly Roll)",
+      "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
@@ -1739,6 +1739,30 @@
     {
       "added_at": "2025-08-07 16:00:20",
       "album": {
+        "name": "Life Is Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
+    },
+    {
+      "added_at": "2025-08-07 16:00:20",
+      "album": {
         "name": "Welcome Stranger",
         "url": "https://open.spotify.com/album/0zlV9JrYYlWxY9GgkfjaVL"
       },
@@ -1783,6 +1807,22 @@
       "duration_ms": 231365,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "added_at": "2025-08-07 16:00:20",
+      "album": {
+        "name": "BET",
+        "url": "https://open.spotify.com/album/0SRIuTscfwoD3PiAsVifAv"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        }
+      ],
+      "duration_ms": 191233,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5A9oXN9DCcST7OXE2YSdLK"
     },
     {
       "added_at": "2025-08-07 16:00:20",

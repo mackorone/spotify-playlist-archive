@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Disclosure, Anderson .Paak
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,904 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,905 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 32 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 |
 | 33 | [Back Of My Mind](https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Back Of My Mind](https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4) | 4:26 |
 | 34 | [Unidos](https://open.spotify.com/track/053G1LzgAp6h89rrotgsn0) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Unidos](https://open.spotify.com/album/2dJgxHSvlhIM3bxxQozioO) | 5:17 |
-| 35 | [Satellite \(feat\. Obi Franky\)](https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Satellite \(feat\. Obi Franky\)](https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9) | 4:24 |
+| 35 | [Satellite](https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF) | [Satellite](https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9) | 4:24 |
 | 36 | [Your Loving](https://open.spotify.com/track/1HuDcH1KECyj1aCHub4D4G) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Your Loving](https://open.spotify.com/album/3D2oyrCFxJyoKpBhlyueHK) | 3:24 |
 | 37 | [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 |
 | 38 | [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 |

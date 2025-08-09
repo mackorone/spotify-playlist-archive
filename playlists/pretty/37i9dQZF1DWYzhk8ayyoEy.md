@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 
 > Warm, inspirational pop, that's good at heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,422 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,458 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
+| 1 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 | 2 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
-| 3 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 |
-| 4 | [ENOUGH.](https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [ENOUGH.](https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF) | 3:48 |
-| 5 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
-| 6 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 |
-| 7 | [HEARTLAND](https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND](https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh) | 4:04 |
-| 8 | [Holy Shuffle \(feat\. Billy Porter\)](https://open.spotify.com/track/4Y6x385r5gUr5Ey57Mp9z6) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Holy Shuffle \(feat\. Billy Porter\)](https://open.spotify.com/album/4zfe6wVvotlRowFFsvBjqe) | 2:40 |
-| 9 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
-| 10 | [Good Day](https://open.spotify.com/track/71FIpl2ZZooTLBe0cbNrUi) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Good Day](https://open.spotify.com/album/6vXzMurEpo5CEVVyuTUVW2) | 2:55 |
-| 11 | [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 |
-| 12 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
-| 13 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
-| 14 | [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 |
-| 15 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
-| 16 | [God Knew](https://open.spotify.com/track/5mLchdybRi2zTQoQ7Uv7s0) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [God Knew](https://open.spotify.com/album/3z6NtEH6ggpXBEj0gi0NoY) | 2:48 |
-| 17 | [Who Knows](https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Who Knows](https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw) | 2:51 |
-| 18 | [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 |
+| 3 | [First Time On Earth](https://open.spotify.com/track/3z87a8YWdfBTWwrspCN4g8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 2:41 |
+| 4 | [Flowers](https://open.spotify.com/track/0hrMXI5eGWHCPKLqOetknM) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Flowers](https://open.spotify.com/album/4zewk35WNIuJhQ9aR0MwQw) | 3:44 |
+| 5 | [Dusty Bibles](https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Dusty Bibles](https://open.spotify.com/album/3UZsw4ALtKsYZuSoyaLxHO) | 3:10 |
+| 6 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
+| 7 | [ENOUGH.](https://open.spotify.com/track/5uvnq6j5kdofhXoPuuoIqF) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [ENOUGH.](https://open.spotify.com/album/3W6u3zgrFAPb6kZ5hwMxUF) | 3:48 |
+| 8 | [HEARTLAND](https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND](https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh) | 4:04 |
+| 9 | [Holy Shuffle \(feat\. Billy Porter\)](https://open.spotify.com/track/4Y6x385r5gUr5Ey57Mp9z6) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Holy Shuffle \(feat\. Billy Porter\)](https://open.spotify.com/album/4zfe6wVvotlRowFFsvBjqe) | 2:40 |
+| 10 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
+| 11 | [Good Day](https://open.spotify.com/track/71FIpl2ZZooTLBe0cbNrUi) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Good Day](https://open.spotify.com/album/6vXzMurEpo5CEVVyuTUVW2) | 2:55 |
+| 12 | [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 |
+| 13 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 |
+| 14 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
+| 15 | [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 |
+| 16 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
+| 17 | [God Knew](https://open.spotify.com/track/5mLchdybRi2zTQoQ7Uv7s0) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [God Knew](https://open.spotify.com/album/3z6NtEH6ggpXBEj0gi0NoY) | 2:48 |
+| 18 | [Who Knows](https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Who Knows](https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw) | 2:51 |
 | 19 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 20 | [Hear My Voice](https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Hear My Voice](https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49) | 2:31 |
 | 21 | [Take It Slow](https://open.spotify.com/track/037EaTG9buSaUFsZ5wSkWH) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Take It Slow](https://open.spotify.com/album/248s9Op0jXEPrPYnA1Z9uR) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzhk8ayyoEy.md) - [plain]
 | 74 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:32 |
 | 75 | [Don't Give Up On Me \- \(From "Five Feet Apart"\)](https://open.spotify.com/track/5A3fPy30SN2wuzrahpcxvV) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Naive](https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC) | 3:16 |
 
-Snapshot ID: `AAAAAFCI2FGbnBGepB1BeSt1+SuH4uWv`
+Snapshot ID: `AAAAAHm6biNMtBkz45x/u/NnfaBJb/VI`

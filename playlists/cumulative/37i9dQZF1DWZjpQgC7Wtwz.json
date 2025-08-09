@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 151324,
       "name": "B\u00e9same Morenita",
       "url": "https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 191888,
       "name": "El Diablo en una Botella",
       "url": "https://open.spotify.com/track/33WGLXPC6hbtTU15nS3qvT"
@@ -1956,6 +1956,24 @@
       "duration_ms": 188128,
       "name": "El Indio Enamorado",
       "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
+    },
+    {
+      "album": {
+        "name": "Carpe Diem (Full Experience)",
+        "url": "https://open.spotify.com/album/4ULANGMpYtnBGUdYOdX3jF"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "El inter",
+      "url": "https://open.spotify.com/track/4WmbGUbR6Hkz2JQoFwbvus"
     },
     {
       "album": {
@@ -2794,7 +2812,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 148202,
       "name": "Gotas De Agua Dulce",
       "url": "https://open.spotify.com/track/12YvWkxytnnt3e8pjdsQTN"
@@ -4315,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "CRISTIAN",
+        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "OJITOS MENTIROSOS",
+      "url": "https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe"
+    },
+    {
+      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -4438,7 +4474,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 138971,
       "name": "Pago Al Contado",
       "url": "https://open.spotify.com/track/4SkAeWC5QMk8peOQcnkibN"
@@ -6784,6 +6820,24 @@
       "duration_ms": 213674,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
+    },
+    {
+      "album": {
+        "name": "Ya Nos Va Mejor",
+        "url": "https://open.spotify.com/album/1EzuuKIbfxxmEzK4h31Dld"
+      },
+      "artists": [
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200849,
+      "name": "Ya Nos Va Mejor",
+      "url": "https://open.spotify.com/track/6OXp9rUM32eWH8nd9TPDBp"
     },
     {
       "album": {

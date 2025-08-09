@@ -39326,13 +39326,17 @@
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
         }
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170066,
-      "name": "On McAfee",
+      "name": "On McAfee (with Baby Kia)",
       "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
     },
     {
@@ -46970,6 +46974,28 @@
       "duration_ms": 172363,
       "name": "Santa Monica",
       "url": "https://open.spotify.com/track/5XMKcvFZ2UI1DinRNKX3N4"
+    },
+    {
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "satisfaction (feat. Asake)",
+      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
     },
     {
       "album": {

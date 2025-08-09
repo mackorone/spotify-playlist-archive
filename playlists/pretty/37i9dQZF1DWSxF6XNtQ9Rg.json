@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 234112,
+  "num_followers": 234204,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
       },
@@ -723,6 +707,30 @@
       "duration_ms": 133217,
       "name": "Marocchino",
       "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "I Nomi del Diavolo",
+        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Junior K",
+          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
+        }
+      ],
+      "duration_ms": 160496,
+      "name": "Eva (feat. Tedua)",
+      "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -767,26 +775,18 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "I Nomi del Diavolo",
-        "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
       "artists": [
         {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Junior K",
-          "url": "https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ"
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
         }
       ],
-      "duration_ms": 160496,
-      "name": "Eva (feat. Tedua)",
-      "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "Allenamento #2",
         "url": "https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1379,42 +1379,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "CASA",
-      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "P Secondigliano (2020 Remaster)",
         "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
       },
@@ -1435,18 +1399,18 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Controcultura",
-        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
       "artists": [
         {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 236253,
-      "name": "Vip In Trip",
-      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1467,6 +1431,42 @@
       "duration_ms": 182078,
       "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
       "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Controcultura",
+        "url": "https://open.spotify.com/album/29ppT5JZzykgZd8pPhYxwY"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 236253,
+      "name": "Vip In Trip",
+      "url": "https://open.spotify.com/track/3CxFt7ONHGfR5ls3JQqtV8"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "CASA",
+      "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 134347,
-      "name": "00",
-      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "Noi Siamo Il Club (Reloaded Edition)",
         "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 228906,
       "name": "P.E.S.",
       "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 202573,
       "name": "STAI ZITTO (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/2rgOAX5Cj3pk8JFnaPwJbd"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1730,11 +1730,15 @@
         {
           "name": "Rkomi",
           "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 211626,
-      "name": "Apnea",
-      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
+      "duration_ms": 167346,
+      "name": "Milano Bachata",
+      "url": "https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1830,15 +1834,11 @@
         {
           "name": "Rkomi",
           "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 167346,
-      "name": "Milano Bachata",
-      "url": "https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O"
+      "duration_ms": 211626,
+      "name": "Apnea",
+      "url": "https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of"
     },
     {
       "added_at": "2025-07-02 16:26:41",

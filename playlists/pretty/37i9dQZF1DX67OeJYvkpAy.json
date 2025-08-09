@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 88381,
+  "num_followers": 88375,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,30 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Bait",
-        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
+        "name": "duck duck goose",
+        "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
       },
       "artists": [
         {
-          "name": "Jordeaux",
-          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "J2",
+          "url": "https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld"
+        },
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Dylan Hingston",
+          "url": "https://open.spotify.com/artist/2ZtU4IjCSv0IspRu1xO6al"
         }
       ],
-      "duration_ms": 133293,
-      "name": "Bait",
-      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
+      "duration_ms": 192000,
+      "name": "duck duck goose",
+      "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -843,30 +855,18 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "duck duck goose",
-        "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
+        "name": "Bait",
+        "url": "https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22"
       },
       "artists": [
         {
-          "name": "Saiming",
-          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
-        },
-        {
-          "name": "J2",
-          "url": "https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld"
-        },
-        {
-          "name": "BexBlu",
-          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
-        },
-        {
-          "name": "Dylan Hingston",
-          "url": "https://open.spotify.com/artist/2ZtU4IjCSv0IspRu1xO6al"
+          "name": "Jordeaux",
+          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
         }
       ],
-      "duration_ms": 192000,
-      "name": "duck duck goose",
-      "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
+      "duration_ms": 133293,
+      "name": "Bait",
+      "url": "https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ"
     },
     {
       "added_at": "2025-05-30 11:57:05",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-05-30 11:57:05",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/2h6oR8BuGt1wRrrtiNoOI0"
-      },
-      "artists": [
-        {
-          "name": "Tommy Walton",
-          "url": "https://open.spotify.com/artist/02PNO16Wnyq5g3imPJaSdQ"
-        },
-        {
-          "name": "LeProdude",
-          "url": "https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2RhaAsK4IYDmE20Vk96T9K"
-    },
-    {
-      "added_at": "2025-05-30 11:57:05",
-      "album": {
         "name": "Deleted (Alfonzo)",
         "url": "https://open.spotify.com/album/0RLhWZNL0pkURtBvO7vmDF"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 226046,
       "name": "Deleted (Alfonzo)",
       "url": "https://open.spotify.com/track/3JMvrZ3B2v0e7W4JP88MNV"
+    },
+    {
+      "added_at": "2025-05-30 11:57:05",
+      "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/2h6oR8BuGt1wRrrtiNoOI0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Walton",
+          "url": "https://open.spotify.com/artist/02PNO16Wnyq5g3imPJaSdQ"
+        },
+        {
+          "name": "LeProdude",
+          "url": "https://open.spotify.com/artist/1Zg71RppIywlpSLoC99gPN"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2RhaAsK4IYDmE20Vk96T9K"
     },
     {
       "added_at": "2025-05-30 11:57:05",

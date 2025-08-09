@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 213002,
       "name": "Comraderie",
       "url": "https://open.spotify.com/track/0GFcXILH9vqMJ0sBFeOTsS"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 425664,
       "name": "EUTHANASIA",
       "url": "https://open.spotify.com/track/6QGf4VLfZARAD4ZlMeUIUg"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 307526,
       "name": "Feel About You",
       "url": "https://open.spotify.com/track/0YZrS4yVwl2DNWOuGPh1O5"
@@ -567,6 +567,28 @@
     },
     {
       "album": {
+        "name": "The Hope Dealer, Pt. 3",
+        "url": "https://open.spotify.com/album/0rciraWTGHswD0q2AmP82P"
+      },
+      "artists": [
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237531,
+      "name": "H.O.P.E 3 INTRO (feat. Young Noble)",
+      "url": "https://open.spotify.com/track/1LP0BhBVdSD2b5Ztqhfmul"
+    },
+    {
+      "album": {
         "name": "The Last Outlaw",
         "url": "https://open.spotify.com/album/0BdJAXEoZxZrENcz0VwLG2"
       },
@@ -670,7 +692,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 226893,
       "name": "Immortal, Pt. 2 (feat. Sky Keeton)",
       "url": "https://open.spotify.com/track/5jWj79MwRzNp6qH6FG8BVG"
@@ -974,7 +996,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 223366,
       "name": "Outlaw University, Pt. 2",
       "url": "https://open.spotify.com/track/7zq65B4NWFttrUa2WHULDd"
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"
@@ -1380,7 +1402,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-23",
+      "date_removed": null,
       "duration_ms": 268235,
       "name": "Stop Trying",
       "url": "https://open.spotify.com/track/4PTYv3IqqG71z78v7LT8NW"
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 240014,
       "name": "Ungrateful (feat. Paris Roze & Tony Atlanta)",
       "url": "https://open.spotify.com/track/1tMtQwxPmYVELaHheAo4GA"

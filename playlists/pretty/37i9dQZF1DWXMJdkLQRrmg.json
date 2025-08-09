@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 355168,
+  "num_followers": 355200,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+        "name": "Same Kind Of Different",
+        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 99226,
-      "name": "Seaside",
-      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
+      "duration_ms": 241292,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Same Kind Of Different",
-        "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 241292,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0hNOP5epEjX8Zj5aSGr6JU"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Against The Wall (Acoustic Version)",
         "url": "https://open.spotify.com/album/52Luu2iy2mBDEyHWfLpzWf"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 99226,
+      "name": "Seaside",
+      "url": "https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
-        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
-      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Flames (feat. Avril Lavigne) [Acoustic]",
         "url": "https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 147357,
       "name": "Flames (feat. Avril Lavigne) [Acoustic]",
       "url": "https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Look At Us Now (Honeycomb) [Acoustic Demo]",
+        "url": "https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 231653,
+      "name": "Look At Us Now (Honeycomb) - Acoustic Demo",
+      "url": "https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb"
     },
     {
       "added_at": "2024-07-05 19:40:49",

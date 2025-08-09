@@ -4,7 +4,7 @@
 
 > The best new and classic South African Rock\. Cover: Dani Villé
 
-753 songs - 1 day 20 hr 21 min
+754 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [My Favourite Place](https://open.spotify.com/track/32N9WJD9Zatt2ejxTkvZuT) | [Shortstraw](https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt) | [My Favourite Place](https://open.spotify.com/album/5B7kv69LuD5m0OKtZUSJ11) | 3:29 | 2021-12-02 | 2022-11-18 |
 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 | 2024-03-08 | 2024-05-07 |
 | [My Hart, Jou Hande\(Vraagteken?\)](https://open.spotify.com/track/0G3mbFqZ2i3W5xWoAlRNaf) | [Tweepuntplug](https://open.spotify.com/artist/0nvUx4ttABgwTiuqxxK2V5) | [My Hart, Jou Hande\(Vraagteken?\)](https://open.spotify.com/album/00V7WzRfuQY1TuWBLPiAI6) | 3:22 | 2025-07-18 | 2025-07-26 |
+| [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 | 2025-08-08 |  |
 | [My Liefde Is 'n Strandhuis](https://open.spotify.com/track/40Wins4l4Dtxy9igQhF70f) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Liefde Is 'n Strandhuis](https://open.spotify.com/album/6DAdarfiu7qkKYobs8Fn4D) | 3:14 | 2025-07-25 | 2025-08-08 |
 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 | 2024-10-25 | 2025-01-17 |
 | [My Name Is Freedom](https://open.spotify.com/track/6WvHk5ZGK8p945lHPjRpWt) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [My Name Is Freedom](https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4) | 3:42 | 2024-02-22 | 2024-03-30 |
@@ -713,7 +714,7 @@
 | [Vernietig My](https://open.spotify.com/track/1aoTQA9IyI4uwfBqxTdY6e) | [Noa Milan](https://open.spotify.com/artist/7zoWau3lHuure77mrr5jyH) | [Vernietig My](https://open.spotify.com/album/4v5tirAycQo0MtS3TS2YLe) | 3:44 | 2025-04-17 | 2025-08-04 |
 | [Versmoor](https://open.spotify.com/track/4meblP6oLazdZUZPIizdbh) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [Versmoor](https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop) | 2:41 | 2023-09-28 | 2024-01-05 |
 | [Victim of Data](https://open.spotify.com/track/5DESqCo3i23bSBUg9r3p7a) | [Shameless Band](https://open.spotify.com/artist/1WMFWKZqX2Y5lW2SKetrMz) | [Victim of Data](https://open.spotify.com/album/3Q1NdGdXpdVh3DRXlQ3wrb) | 3:04 | 2023-08-31 | 2023-11-10 |
-| [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 | 2024-10-04 |  |
+| [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 | 2024-10-04 | 2025-08-09 |
 | [Vir Ewig](https://open.spotify.com/track/4duchzNuzguXiPND75nVGr) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY) | [Vir Ewig](https://open.spotify.com/album/6vFklUu7QaerJHZdwOjpXZ) | 3:54 | 2023-08-31 | 2023-12-15 |
 | [VIR MEKAAR](https://open.spotify.com/track/5xigfyoNmDGCYa2UsIcT79) | [Bloumoord](https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa) | [VIR MEKAAR](https://open.spotify.com/album/5CDUgys5NIMlN0lhEQqTJD) | 3:23 | 2024-11-29 | 2024-12-24 |
 | [Vir My](https://open.spotify.com/track/0xiLQ6LRYqlnmY5qpmuuYz) | [Kryye](https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN) | [Vir My](https://open.spotify.com/album/2Of5o791jPxU6WQZq3RXlb) | 1:23 | 2025-01-16 | 2025-01-24 |

@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-374 songs - 20 hr 6 min
+375 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-05-16 |
 | [GEN Z](https://open.spotify.com/track/1jcyd0Qq7rJroTz6ImNnIS) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [GEN Z](https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0) | 2:50 | 2025-03-07 | 2025-03-14 |
 | [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 | 2025-04-02 |  |
-| [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 | 2025-05-29 |  |
+| [GET RICH OR DIE TRYING](https://open.spotify.com/track/7qlhCBLvvN9WcpdAoYbFK2) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [GET RICH OR DIE TRYING](https://open.spotify.com/album/3reTy05vNp2mWYoN229KYD) | 2:44 | 2025-05-29 | 2025-08-09 |
 | [Gimme](https://open.spotify.com/track/6f2x86p54shxxPVEmhkJPm) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Gimme](https://open.spotify.com/album/1ed43Mw9t8PwcBnYiJI2Ae) | 3:04 | 2024-10-24 | 2025-01-19 |
 | [Glas](https://open.spotify.com/track/13IqDjxqFl763yUcTg2ycX) | [MISS MOLLY](https://open.spotify.com/artist/5evNbllFW2cG5We5y71zfA) | [Glas](https://open.spotify.com/album/2SgPhxnfejHUbW9FjBrb7U) | 2:52 | 2025-04-24 |  |
 | [Gloria](https://open.spotify.com/track/2CghTghvdsGOiTWAHoEOaf) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Gloria](https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6) | 2:52 | 2025-03-07 |  |
@@ -370,6 +370,7 @@
 | [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 |  |
 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 | 2025-02-20 |
 | [Waiting For A Star To Fall](https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Waiting For A Star To Fall](https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF) | 2:46 | 2025-08-07 |  |
+| [Watershed](https://open.spotify.com/track/01Ft203H8gj8FW1ziTK0QI) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/5DD63LXBQgk9mfD7V0euLs) | 2:41 | 2025-08-07 |  |
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 | 2025-04-11 |

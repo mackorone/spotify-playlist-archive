@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈 Artie 5ive in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,213 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,371 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 64 | [CRUDELIA \- I nervi](https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:50 |
 | 65 | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/track/0zK49rNDZV9ptuuKs1buL8) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/album/3YS77kPw04Ts9PTDRV7vNJ) | 2:18 |
 
-Snapshot ID: `AAAAAN+rL6VKWmLOKGtGz5+FF5hRmqOj`
+Snapshot ID: `AAAAAH+dxymeJjZXAWK7SdhgZZMrGgEF`

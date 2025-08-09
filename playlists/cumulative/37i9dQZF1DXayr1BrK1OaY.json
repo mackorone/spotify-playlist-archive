@@ -5017,6 +5017,24 @@
     },
     {
       "album": {
+        "name": "Just a Memory",
+        "url": "https://open.spotify.com/album/040JO7fThaJlmBQnhLV4hk"
+      },
+      "artists": [
+        {
+          "name": "Emmy Adelle",
+          "url": "https://open.spotify.com/artist/6wYMMrkpIsZle8uBBR8pVv"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Just a Memory",
+      "url": "https://open.spotify.com/track/3SHfCPmzURx6jznfOmDb9t"
+    },
+    {
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
@@ -9864,7 +9882,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 167111,
       "name": "THINKIN' BOUT U",
       "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"

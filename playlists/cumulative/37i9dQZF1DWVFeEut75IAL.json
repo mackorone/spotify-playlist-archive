@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Across the Ocean",
+        "url": "https://open.spotify.com/album/1IQkVahRCbvFMsYoNWEXie"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201736,
+      "name": "Across the Ocean",
+      "url": "https://open.spotify.com/track/3r053u3iVE5eLqiREndy4d"
+    },
+    {
+      "album": {
         "name": "Bach: Concertos italiens",
         "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
       },
@@ -2617,6 +2635,44 @@
     },
     {
       "album": {
+        "name": "Patterns / Solo (Pt. 2)",
+        "url": "https://open.spotify.com/album/55Il1buLR6Zy2sT5mG3ChS"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Nick Barr",
+          "url": "https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y"
+        },
+        {
+          "name": "Max Ruisi",
+          "url": "https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ"
+        },
+        {
+          "name": "Zara Hudson-Kozdoj",
+          "url": "https://open.spotify.com/artist/3jgKHHxYf7tw8Y6E61Lygb"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171114,
+      "name": "Patterns / Solo - Pt. 2 / Faded",
+      "url": "https://open.spotify.com/track/6sVnLwq1kcizSsHs0f9VSV"
+    },
+    {
+      "album": {
         "name": "Grieg: Peer Gynt Suites / Sibelius: Valse triste",
         "url": "https://open.spotify.com/album/6xrMn3oTANwvof2YB6cBcm"
       },
@@ -2930,6 +2986,28 @@
       "duration_ms": 90493,
       "name": "PROLOGUE (Quasi Niente from Piano Sonata No. 1 in F Minor, Op. 6: IV. Funebre) - Upright Version",
       "url": "https://open.spotify.com/track/2S4CBHdoNjOuxItsfYaUEu"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9lude, M. 65",
+        "url": "https://open.spotify.com/album/64rpiqfuHPuMstI1mxpfBU"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77160,
+      "name": "Pr\u00e9lude, M. 65",
+      "url": "https://open.spotify.com/track/0ryPaNXmcXz5NrTBRhlEKY"
     },
     {
       "album": {

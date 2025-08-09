@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441,620 likes - 150 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,441,739 likes - 150 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [The Hard Way](https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE) | 3:03 |
 | 150 | [Believing In Us](https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:43 |
 
-Snapshot ID: `AAAAABJQQGkdTuHwKySpQ2UyrMdHqEos`
+Snapshot ID: `AAAAAEWkLvNLddD9PWL/+T7nLdiws09D`

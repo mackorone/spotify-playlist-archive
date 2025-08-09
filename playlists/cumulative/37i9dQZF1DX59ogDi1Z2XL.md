@@ -2,9 +2,9 @@
 
 ### [Northern Bars](https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL)
 
-> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🧊
+> The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-1,935 songs - 3 day 17 hr 38 min
+1,937 songs - 3 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [As We Speak \(feat\. Drake\)](https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 4:00 | 2024-03-01 | 2024-05-25 |
 | [Asbestos Freestyle](https://open.spotify.com/track/1XqBsVjVr5Dlsg3YuXndEU) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [No Label No Budget \(Season 1\)](https://open.spotify.com/album/0tBV6Jo9Buq1jPYOYTOEBo) | 2:25 | 2023-03-17 | 2023-04-15 |
 | [Assholes](https://open.spotify.com/track/0w9QPmXPYQUcsZdumOybm3) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Assholes](https://open.spotify.com/album/1B2OxbztCwMLaenM11ZFkV) | 3:09 | 2024-11-22 | 2025-01-25 |
-| [ASSUMPTIONS](https://open.spotify.com/track/78jCvaZcYTPIpE84ZZzO10) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [ASSUMPTIONS](https://open.spotify.com/album/0drpyV7sZA5WTvYboDskC0) | 4:01 | 2025-06-13 |  |
+| [ASSUMPTIONS](https://open.spotify.com/track/78jCvaZcYTPIpE84ZZzO10) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [ASSUMPTIONS](https://open.spotify.com/album/0drpyV7sZA5WTvYboDskC0) | 4:01 | 2025-06-13 | 2025-08-09 |
 | [ASTROMAN \[MASTER\]](https://open.spotify.com/track/4QUN4yJ3FO4kyvMLtc0cCA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [ONWARD WE MARCH](https://open.spotify.com/album/09KiEmt74ranKIjayr2wUE) | 3:43 | 2024-09-13 | 2024-11-16 |
 | [Astronef](https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 2:41 | 2022-04-01 | 2022-04-09 |
 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 | 2024-09-06 | 2024-11-16 |
@@ -759,7 +759,7 @@
 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 | 2022-07-22 | 2023-03-18 |
 | [HERE WE GO](https://open.spotify.com/track/1tBvVN3nPN1HFH1AXQiGcI) | [Driver95](https://open.spotify.com/artist/20rkN0rw43hQXRMCvagTm1) | [HERE WE GO](https://open.spotify.com/album/1NeAVwWzjEWNrjcy9iadhY) | 1:48 | 2024-10-18 | 2025-04-12 |
 | [Here We Go](https://open.spotify.com/track/6wIdfsKMyAPvS9BU3SDFG8) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Here We Go](https://open.spotify.com/album/7bHC39aFlZFBYuN7feEIvl) | 2:23 | 2022-07-29 | 2022-08-06 |
-| [Heroes vs Villains](https://open.spotify.com/track/5aHCH0xRNDTLC9CL50mbSI) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Heroes vs Villains](https://open.spotify.com/album/529jwZAdUSbS1Onrf9ZjZb) | 3:40 | 2025-07-18 |  |
+| [Heroes vs Villains](https://open.spotify.com/track/5aHCH0xRNDTLC9CL50mbSI) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Heroes vs Villains](https://open.spotify.com/album/529jwZAdUSbS1Onrf9ZjZb) | 3:40 | 2025-07-18 | 2025-08-09 |
 | [HIGH HOPES](https://open.spotify.com/track/6axFjrrxq7o4xcWduz3JW7) | [Quintana Mills](https://open.spotify.com/artist/0QfS6MisIhAy4LgjlAbWMz), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [HIGH HOPES](https://open.spotify.com/album/0cWhck6IslA0kDgJ2x4drS) | 3:00 | 2023-05-12 | 2023-06-17 |
 | [High On Life](https://open.spotify.com/track/2aYki8TvDMsv8A1VSir3WU) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [High On Life](https://open.spotify.com/album/6kEW5m9esKgaq0uakUUy47) | 2:39 | 2022-04-29 | 2022-06-18 |
 | [High Winds](https://open.spotify.com/track/7HPDbITY0cS65MntSLdFue) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Koncept Jack$on](https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa) | [High Winds](https://open.spotify.com/album/2sbm3v5x18dG7QoVHTzNUf) | 2:23 | 2025-04-04 | 2025-05-03 |
@@ -1326,6 +1326,7 @@
 | [Pigeons](https://open.spotify.com/track/1M75A3TMxBDylvdDaVcOxB) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Pigeons](https://open.spotify.com/album/49iqGoYEjX33snub1aSOEr) | 1:52 | 2024-02-16 | 2024-07-19 |
 | [Pillow Talk](https://open.spotify.com/track/7Fq4UXHgtViBS4YJgDh2ue) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Penthouse](https://open.spotify.com/album/7rkyW7jlyubisbtYDA6faY) | 3:00 | 2024-01-12 | 2024-02-03 |
 | [Pink Slips](https://open.spotify.com/track/5odVTApwLLRGzjdPciuw7q) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [Pink Slips](https://open.spotify.com/album/1jomSIhZrk0OxRFHRVvDMF) | 3:53 | 2025-03-28 | 2025-07-12 |
+| [PISTACHIOS](https://open.spotify.com/track/0zrVfhJ3QGVrVN2HNkYksm) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [PISTACHIOS](https://open.spotify.com/album/6zNeRuycz9B3XjF8IgS2Dh) | 3:23 | 2025-08-08 |  |
 | [Pistachios](https://open.spotify.com/track/513XPY2f0cKlYU5Icp64Hg) | [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB) | [Pistachios](https://open.spotify.com/album/3zqpLkATtks8m3ppsDHlnB) | 2:32 | 2022-11-25 | 2022-12-10 |
 | [Pizzazz](https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Pizzazz](https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL) | 3:11 | 2022-04-15 | 2022-06-25 |
 | [Piñata](https://open.spotify.com/track/1f1pJVRhSDROq6cRALKTqO) | [Exmiranda](https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br) | [Piñata](https://open.spotify.com/album/6BTrHJBSwuoagEuyrWfSxV) | 2:28 | 2022-08-05 | 2022-09-17 |
@@ -1928,6 +1929,7 @@
 | [YGB](https://open.spotify.com/track/53uOsUQyu01E0dF8RhSB23) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [YGB](https://open.spotify.com/album/5x3t4XLPcsxTdSU54FMDxd) | 2:18 | 2023-03-03 | 2023-03-25 |
 | [Yoko](https://open.spotify.com/track/45gHc1QYBky7k38HSlaIft) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Yoko](https://open.spotify.com/album/7MX7xfLckdaiMg1POPrs42) | 2:05 | 2023-11-10 | 2024-02-03 |
 | [You & Me \(feat\. Fresco Trey\)](https://open.spotify.com/track/08bCUg0lAVwBskEEOyu7zk) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Fresco Trey](https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g) | [You & Me \(feat\. Fresco Trey\)](https://open.spotify.com/album/15uAGOIcBChG7edJ0iXdQA) | 2:50 | 2025-05-02 | 2025-07-19 |
+| [You Already Know](https://open.spotify.com/track/6tlAd33QPBppLyNDqdltle) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g), [SickwayRoRo](https://open.spotify.com/artist/6FISgkRSjQQx9w65MfD3O1) | [You Already Know](https://open.spotify.com/album/5DaLR1erUAk9oIDrRuKv3M) | 3:20 | 2025-08-08 |  |
 | [You Broke My Heart](https://open.spotify.com/track/5Se32hEA9raeboZerywxka) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:50 | 2023-11-17 | 2024-01-05 |
 | [You Can Tell](https://open.spotify.com/track/7DS2eTCdHJV4zCssW82GIj) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd) | [You Can Tell](https://open.spotify.com/album/3MGb5psgPGMDAngZDNPYT3) | 2:21 | 2022-11-04 | 2022-11-19 |
 | [You Cried](https://open.spotify.com/track/2IPqCA3Sh9B9zAgzaH7KOx) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [You Cried](https://open.spotify.com/album/2YaFX1p8bTSZvjsXKl24y8) | 1:59 | 2022-06-10 | 2022-06-25 |

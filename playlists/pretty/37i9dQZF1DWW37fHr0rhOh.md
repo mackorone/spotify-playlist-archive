@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Gaither Vocal Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,061 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,078 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [There's A Hole In The Heart Of This Country](https://open.spotify.com/track/2aJ5NVUTwygdI1aoXUJEW1) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [There's A Hole In The Heart Of This Country](https://open.spotify.com/album/1gmev2OhyLBI1wRemnYPp1) | 3:09 |
+| 1 | [Sweet, Sweet Spirit](https://open.spotify.com/track/4YPxHaFJaQr2GzrVpzYCLm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Sweet, Sweet Spirit](https://open.spotify.com/album/1dRCmnwkcfY4mikAqcczFZ) | 2:31 |
 | 2 | [Ain't No Satisfaction](https://open.spotify.com/track/01lkLn6h6dltmQIBq55Exd) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Good Answers](https://open.spotify.com/album/54K2pbvi1Aq7FvcvjMaGvH) | 3:09 |
 | 3 | [It Made News In Heaven When I Got Saved](https://open.spotify.com/track/78o6QDN2l5Jv3OeEcuenBO) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [It Made News In Heaven When I Got Saved](https://open.spotify.com/album/2xGFPLQhNVUcTFJozB9QeG) | 2:48 |
 | 4 | [One More Hallelujah](https://open.spotify.com/track/384RrrnhTnjcHKqv6o6eRs) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI) | [By The Riverside \(Deluxe\)](https://open.spotify.com/album/0KsRZ282ajaz9v7kPJOEaD) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW37fHr0rhOh.md) - [plain]
 | 49 | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/track/2jU3vCrlb4hirmjq8DnAjn) | [Lee Park Worship](https://open.spotify.com/artist/2gqep75ws6SMcHFl45cghA), [Shane Dunlap](https://open.spotify.com/artist/4bp86PmlkB4udKMBveIOlX), [Todd Smith](https://open.spotify.com/artist/3ByH7rh6XDnP76d5Traoxy) | [Goodness and Mercy \(feat\. Todd Smith\)](https://open.spotify.com/album/3BsifoJiIJfv12TfDxSjkA) | 3:42 |
 | 50 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 |
 
-Snapshot ID: `AAAAAKxUknUDEIwZYDOYwkjalXm3D0Yl`
+Snapshot ID: `AAAAAJ4U4m8Tr1mWPa1N/f2+cxrqF+J4`

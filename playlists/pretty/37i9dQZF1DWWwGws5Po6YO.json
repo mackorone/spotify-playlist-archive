@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
-  "num_followers": 130007,
+  "num_followers": 130032,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
+      },
+      "artists": [
+        {
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
+        }
+      ],
+      "duration_ms": 186082,
+      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
+      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "Esperance",
         "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Eurybia",
-        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
-      },
-      "artists": [
-        {
-          "name": "Francesca Heart",
-          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
-        }
-      ],
-      "duration_ms": 186082,
-      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
-      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Frozen Passages",
         "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
       },
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 226613,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Keep Pulling Me In",
         "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 372430,
       "name": "Keep Pulling Me In",
       "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
-      },
-      "artists": [
-        {
-          "name": "Noveller",
-          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
-        }
-      ],
-      "duration_ms": 227748,
-      "name": "Effektology",
-      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Rewilding",
         "url": "https://open.spotify.com/album/1UwfWjDbi8fDvUPjpo9LQD"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 303828,
       "name": "Marina`s Song",
       "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
+      },
+      "artists": [
+        {
+          "name": "Noveller",
+          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
+        }
+      ],
+      "duration_ms": 227748,
+      "name": "Effektology",
+      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 387268,
       "name": "Hyphae",
       "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Rincones Seguros",
-        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
+        "name": "One Life : four remixes",
+        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
       "artists": [
         {
-          "name": "RRUCCULLA",
-          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Ciclo del agua",
-      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
+      "duration_ms": 296681,
+      "name": "Lost At Sea - Kelly Moran remix",
+      "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1675,38 +1679,34 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Raw Silk Uncut Wood",
-        "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
+        "name": "Nine Spells",
+        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
       },
       "artists": [
         {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
         }
       ],
-      "duration_ms": 600386,
-      "name": "Raw Silk Uncut Wood",
-      "url": "https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl"
+      "duration_ms": 161194,
+      "name": "Spell I: Let the Waves In",
+      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
     },
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "One Life : four remixes",
-        "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
+        "name": "Rincones Seguros",
+        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+          "name": "RRUCCULLA",
+          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
         }
       ],
-      "duration_ms": 296681,
-      "name": "Lost At Sea - Kelly Moran remix",
-      "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+      "duration_ms": 225600,
+      "name": "Ciclo del agua",
+      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
     }
   ],
   "unique_name": "Women of Ambient",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Tyler, The Creator, Travis Scott & JACKBOYS, Drake, Offset, YG and Buddah Bless.",
+  "description": "Today's Hip-Hop with Gunna, Bryson Tiller, Young Nudy, JID, Offset and Travis Scott.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 208941,
       "name": "5 Star - feat. Gunna",
       "url": "https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0"
@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 203981,
       "name": "Banned From NO (with Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/0w6Y7dbsjByFQ8C8LUktto"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 155542,
       "name": "Behold",
       "url": "https://open.spotify.com/track/6eGWfTWDI764YbUeI9dswF"
@@ -13821,6 +13821,24 @@
     },
     {
       "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123520,
+      "name": "just say dat",
+      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
+    },
+    {
+      "album": {
         "name": "Just Us (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
       },
@@ -17163,6 +17181,24 @@
     },
     {
       "album": {
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156478,
+      "name": "Napoleon",
+      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
+    },
+    {
+      "album": {
         "name": "Neck & Wrist",
         "url": "https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3"
       },
@@ -17722,6 +17758,28 @@
       "duration_ms": 149865,
       "name": "No Remorse",
       "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
+    },
+    {
+      "album": {
+        "name": "No Sharing (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211717,
+      "name": "No Sharing (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
       "album": {
@@ -18476,6 +18534,28 @@
       "duration_ms": 174915,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/3mxEteSWk9MppDJFxCGU2Q"
+    },
+    {
+      "album": {
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "On McAfee (with Baby Kia)",
+      "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
     },
     {
       "album": {
@@ -28033,6 +28113,32 @@
     },
     {
       "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "WHAT'S HAPPENIN' (feat. Latto & Coupe)",
+      "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
+    },
+    {
+      "album": {
         "name": "What's My Name",
         "url": "https://open.spotify.com/album/34kNIYmmIxFlgLDTSp2R2m"
       },
@@ -28526,7 +28632,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 181533,
       "name": "won't stop",
       "url": "https://open.spotify.com/track/4ugKUZExbqbkKXEmbTrTRW"

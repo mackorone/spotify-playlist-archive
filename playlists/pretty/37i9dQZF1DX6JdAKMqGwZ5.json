@@ -1,6 +1,6 @@
 {
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Barry B.",
-  "num_followers": 200031,
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Roy Borland.",
+  "num_followers": 200070,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -11,22 +11,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Yo pensaba que me hab\u00eda tocado Dios",
-        "url": "https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj"
+        "name": "Infancia Mal Calibrada",
+        "url": "https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT"
       },
       "artists": [
         {
           "name": "Barry B",
           "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        },
-        {
-          "name": "Carolina Durante",
-          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
         }
       ],
-      "duration_ms": 206099,
-      "name": "Yo pensaba que me hab\u00eda tocado Dios",
-      "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
+      "duration_ms": 208889,
+      "name": "Infancia Mal Calibrada",
+      "url": "https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -283,18 +279,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Infancia Mal Calibrada",
-        "url": "https://open.spotify.com/album/58guaRgiN85BmxlHXzAYmT"
+        "name": "Yo pensaba que me hab\u00eda tocado Dios",
+        "url": "https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj"
       },
       "artists": [
         {
           "name": "Barry B",
           "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
         }
       ],
-      "duration_ms": 208889,
-      "name": "Infancia Mal Calibrada",
-      "url": "https://open.spotify.com/track/75EqPDFPtq70WU5AyWl3uP"
+      "duration_ms": 206099,
+      "name": "Yo pensaba que me hab\u00eda tocado Dios",
+      "url": "https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -799,22 +799,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "As\u00ed me va",
-        "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
+        "name": "Kryptonita",
+        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        },
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 155526,
-      "name": "As\u00ed me va",
-      "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
+      "duration_ms": 164257,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -851,6 +847,26 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "As\u00ed me va",
+        "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        },
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "As\u00ed me va",
+      "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "PERDEDOR",
         "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 216244,
       "name": "PERDEDOR",
       "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "Kryptonita",
-        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -955,22 +955,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "TU FINA ESTAMPA",
-        "url": "https://open.spotify.com/album/2DXWC7ctuPVrpzFp42DZSC"
+        "name": "ALKIMIA",
+        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
       },
       "artists": [
         {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
-        },
-        {
-          "name": "Laaza",
-          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 139285,
-      "name": "TU FINA ESTAMPA",
-      "url": "https://open.spotify.com/track/1JpedTFCZxCeiL7zkC0WNj"
+      "duration_ms": 173168,
+      "name": "Cu\u00eddalas",
+      "url": "https://open.spotify.com/track/0OC8N9MIch9GK5YyXnycGO"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -987,6 +983,26 @@
       "duration_ms": 163200,
       "name": "La Suerte Que Tengo",
       "url": "https://open.spotify.com/track/37DfAS4yfIzdP7TgzrHk8b"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "TU FINA ESTAMPA",
+        "url": "https://open.spotify.com/album/2DXWC7ctuPVrpzFp42DZSC"
+      },
+      "artists": [
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        },
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "TU FINA ESTAMPA",
+      "url": "https://open.spotify.com/track/1JpedTFCZxCeiL7zkC0WNj"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1043,8 +1059,8 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "ALKIMIA",
-        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
       "artists": [
         {
@@ -1052,9 +1068,9 @@
           "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 173168,
-      "name": "Cu\u00eddalas",
-      "url": "https://open.spotify.com/track/0OC8N9MIch9GK5YyXnycGO"
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1107,38 +1123,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Gatos De Gasolinera",
-      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 165742,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "Se Nota",
         "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 162000,
       "name": "Se Nota",
       "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Gatos De Gasolinera",
+      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Polvo de hadas",
         "url": "https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 268651,
       "name": "Polvo de hadas",
       "url": "https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "cielo",
-        "url": "https://open.spotify.com/album/6FcsLbyjIz6YHbJYDs1byh"
-      },
-      "artists": [
-        {
-          "name": "agosto",
-          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
-        }
-      ],
-      "duration_ms": 165555,
-      "name": "cielo",
-      "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+        "name": "cielo",
+        "url": "https://open.spotify.com/album/6FcsLbyjIz6YHbJYDs1byh"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "agosto",
+          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
         }
       ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
+      "duration_ms": 165555,
+      "name": "cielo",
+      "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "( ali despierta )",
+        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 190127,
+      "name": "( ali despierta )",
+      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Rendici\u00f3n",
         "url": "https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 224497,
       "name": "Rendici\u00f3n",
       "url": "https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "( ali despierta )",
-        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
-      },
-      "artists": [
-        {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
-        }
-      ],
-      "duration_ms": 190127,
-      "name": "( ali despierta )",
-      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Desencantada",
-        "url": "https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI"
-      },
-      "artists": [
-        {
-          "name": "Sita Rizzi",
-          "url": "https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "Desencantada",
-      "url": "https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "ME ACUERDO DE TODO",
         "url": "https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 225250,
       "name": "Me acuerdo de todo",
       "url": "https://open.spotify.com/track/2hscOVTRgUzzSCUZkITbRd"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "Desencantada",
+        "url": "https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI"
+      },
+      "artists": [
+        {
+          "name": "Sita Rizzi",
+          "url": "https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "Desencantada",
+      "url": "https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1"
     },
     {
       "added_at": "2025-08-07 22:00:53",

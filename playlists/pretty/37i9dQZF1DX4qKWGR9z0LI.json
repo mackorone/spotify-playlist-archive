@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gloria Estefan",
-  "num_followers": 1901989,
+  "num_followers": 1901855,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "Mal Necesario",
-        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 186224,
-      "name": "Mal Necesario",
-      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3GaqBHtHkuMVecx1VRCMiI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 170414,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5FNAoc8z1ltd823QbS0V5I"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 186224,
+      "name": "Mal Necesario",
+      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
     },
     {
       "added_at": "2025-07-25 04:00:56",
@@ -1583,38 +1583,6 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 209743,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
-        "name": "Volver a Enamorarnos",
-        "url": "https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 256277,
-      "name": "Volver a Enamorarnos",
-      "url": "https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa"
-    },
-    {
-      "added_at": "2025-07-25 04:00:56",
-      "album": {
         "name": "Tesoro M\u00edo",
         "url": "https://open.spotify.com/album/60l2KWmlLtMEPWJMNLv3UD"
       },
@@ -1635,6 +1603,22 @@
     {
       "added_at": "2025-07-25 04:00:56",
       "album": {
+        "name": "Volver a Enamorarnos",
+        "url": "https://open.spotify.com/album/6KxG9FizNRMfYO79Wy2X9O"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 256277,
+      "name": "Volver a Enamorarnos",
+      "url": "https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 209723,
       "name": "LA RONDA",
       "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
+    },
+    {
+      "added_at": "2025-07-25 04:00:56",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 209743,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"
     },
     {
       "added_at": "2025-07-25 04:00:56",

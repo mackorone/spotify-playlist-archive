@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188899,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
+    },
+    {
+      "album": {
         "name": "Catch Me If U Can",
         "url": "https://open.spotify.com/album/5GyQ7PbAdXKUOpMdd8bCBo"
       },
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 196426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
@@ -5474,7 +5492,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 177456,
       "name": "High",
       "url": "https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv"
@@ -9662,6 +9680,28 @@
       "duration_ms": 223480,
       "name": "No One Else (feat. Fridayy)",
       "url": "https://open.spotify.com/track/6PpJ215wBUqB31xLLWKq66"
+    },
+    {
+      "album": {
+        "name": "No Sharing (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211717,
+      "name": "No Sharing (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
       "album": {

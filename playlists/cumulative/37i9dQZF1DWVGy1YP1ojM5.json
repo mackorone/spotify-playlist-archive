@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 265760,
       "name": "Come See Me",
       "url": "https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF"
@@ -1733,6 +1733,28 @@
     },
     {
       "album": {
+        "name": "Freak & A Friend",
+        "url": "https://open.spotify.com/album/1xZoFlfMDbElbUxFfFCHqn"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145502,
+      "name": "Freak & A Friend",
+      "url": "https://open.spotify.com/track/3aLexKSJUByg49fRnVLG9C"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
       },
@@ -2118,7 +2140,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 123076,
       "name": "HAVE MY BABIES?",
       "url": "https://open.spotify.com/track/1mKSpDySSnz6uLjtdHiJf8"
@@ -5346,6 +5368,28 @@
       "duration_ms": 325305,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl"
+    },
+    {
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195168,
+      "name": "work (feat. BEAM)",
+      "url": "https://open.spotify.com/track/7JA2ocpnZnEbGJwR6TfIDa"
     },
     {
       "album": {

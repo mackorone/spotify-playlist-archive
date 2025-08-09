@@ -2,9 +2,9 @@
 
 ### [Soul Coffee](https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5)
 
-> The soulful tunes to ease you into your day\. Cover: Tone Stith
+> The soulful tunes to ease you into your day\. Cover: Venna
 
-800 songs - 1 day 23 hr 55 min
+802 songs - 2 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,6 +533,7 @@
 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2024-12-18 |
 | [Open To Thyself](https://open.spotify.com/track/4BDNNrrapR46aXj7FoJBKH) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart](https://open.spotify.com/album/5scS19vWf1ahjNYDHepumB) | 4:40 | 2024-08-30 | 2024-09-14 |
 | [Other Side Of Love](https://open.spotify.com/track/7f7SdH5BDHcN7gtlzKBNQl) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 2:18 | 2025-04-25 |  |
+| [Out My Body](https://open.spotify.com/track/6V45ZK1ld3TwuzfwO8NGbL) | [Kameron Corvet](https://open.spotify.com/artist/79RYjUmBXcD8b0ElqCo2rI) | [Out My Body](https://open.spotify.com/album/3yrIfriKbWMCKU0F2czQn7) | 3:36 | 2025-08-08 |  |
 | [Out My Hair](https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Heal U / Out My Hair](https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J) | 2:58 | 2024-10-25 | 2025-04-19 |
 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 | 2025-04-04 |  |
 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 | 2024-10-18 | 2025-01-02 |
@@ -728,6 +729,7 @@
 | [Tunisian Nights](https://open.spotify.com/track/6iHVghwF4PpZnbum34cca2) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [CASABLANCO](https://open.spotify.com/album/3ee8mTrFUHmpBAVWCr9ffX) | 4:09 | 2024-06-28 | 2024-07-27 |
 | [twentyfourseven \- Remix](https://open.spotify.com/track/4WPQrndcZDGLsoQ2edRqY5) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [twentyfourseven \(Remix\)](https://open.spotify.com/album/6wPVKvbwuzdyYbJcmqvKJ8) | 3:25 | 2024-03-29 | 2024-06-10 |
 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 | 2025-07-25 |  |
+| [Two Steps](https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Two Steps](https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK) | 2:04 | 2025-08-08 |  |
 | [U](https://open.spotify.com/track/1LKwfTTtcMT8DyllVPZxOb) | [Jack Freeman](https://open.spotify.com/artist/0sQ5GaIilKYSsvYlXSgEcl) | [Nina](https://open.spotify.com/album/2juR45dpHx8G0zs17a4SLn) | 4:14 | 2024-02-16 | 2024-04-21 |
 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 | 2023-06-16 | 2023-08-26 |
 | [U N D R E S S \- Remix](https://open.spotify.com/track/4c2QC1VaXfNGFaDASusFiI) | [Jack Freeman](https://open.spotify.com/artist/0sQ5GaIilKYSsvYlXSgEcl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [U N D R E S S \(Remix\)](https://open.spotify.com/album/1ZcOgc7y1nx04yjlQgw5hh) | 2:56 | 2024-06-14 | 2024-07-13 |
@@ -780,7 +782,7 @@
 | [Where You Gonna Go](https://open.spotify.com/track/5Q2TlGxrZAEBJZVsI1qlJA) | [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Where You Gonna Go](https://open.spotify.com/album/4yOY4X7hhNt4V9YeBo8iQ9) | 4:14 | 2025-04-04 | 2025-06-21 |
 | [Whippedlashed](https://open.spotify.com/track/1f6AmSEPyeytGkXAAcjafv) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 1:01 | 2024-08-02 | 2024-10-25 |
 | [Who](https://open.spotify.com/track/2BEQjs0f7Sf2Qqia8nKUYQ) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b) | [ANNiversary](https://open.spotify.com/album/7wNq4CgZFabdMR36VpKNS2) | 3:08 | 2025-04-11 | 2025-05-10 |
-| [Who Are You to Me](https://open.spotify.com/track/0vDqpm5eOCsq0w3SpigtnR) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Who Are You to Me](https://open.spotify.com/album/41C8aH1UXgXCKrdVpUfFgn) | 4:27 | 2025-05-23 |  |
+| [Who Are You to Me](https://open.spotify.com/track/0vDqpm5eOCsq0w3SpigtnR) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Who Are You to Me](https://open.spotify.com/album/41C8aH1UXgXCKrdVpUfFgn) | 4:27 | 2025-05-23 | 2025-08-09 |
 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 | 2022-11-04 | 2024-12-14 |
 | [WHY \- A COLORS SHOW](https://open.spotify.com/track/5x3gFHgM66ZB8nNPzGNIFt) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [WHY \(A COLORS SHOW\)](https://open.spotify.com/album/3jrL60zlPaQZ0QDbrbg8RM) | 3:09 | 2024-11-22 | 2025-05-24 |
 | [Winter Sun](https://open.spotify.com/track/0DyL1sl00wNYaYA8gqdHEp) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES: COMPLETE](https://open.spotify.com/album/4wIkfYdTESbJgntZt1M108) | 2:59 | 2024-12-06 | 2025-04-05 |
@@ -796,7 +798,7 @@
 | [Yellow Cabi](https://open.spotify.com/track/4NzDQkPYgeNrE2Q5UB5KQO) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 1:57 | 2022-10-07 | 2022-10-15 |
 | [YES IT IS \- \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [YES IT IS \[\(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA\]](https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd) | 3:16 | 2025-02-14 |  |
 | [Yesterday Was Heaven](https://open.spotify.com/track/2xqHPcmoyo1CJN1WzbdWlr) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Yesterday Was Heaven](https://open.spotify.com/album/5oNQFN3okVx45dvbueOWzs) | 3:27 | 2023-04-28 | 2023-05-13 |
-| [You](https://open.spotify.com/track/32igfdLr4tBqGH2EYAWbUb) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [It's Me, Not You](https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI) | 4:37 | 2025-07-11 |  |
+| [You](https://open.spotify.com/track/32igfdLr4tBqGH2EYAWbUb) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [It's Me, Not You](https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI) | 4:37 | 2025-07-11 | 2025-08-09 |
 | [You 101](https://open.spotify.com/track/77WCpX7ipmLU4ybS07WJgf) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/02YWHzAqDtkFuNPAr82b8s) | 2:51 | 2024-12-13 | 2025-04-17 |
 | [You Ain't The Only One](https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [You Ain't The Only One](https://open.spotify.com/album/2exj3QEbmM141MCEpjFb1q) | 2:48 | 2024-10-18 | 2025-04-21 |
 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 | 2022-11-04 | 2023-10-26 |

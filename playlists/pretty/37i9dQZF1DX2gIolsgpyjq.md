@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Way Out West Takeover! Cover: Becky and the Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,474 likes - 105 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,484 likes - 105 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/5FuLeS3LzoWQ7UoAHaFXm8"
+      },
+      "artists": [
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168232,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/2mVWbrAIn4CEvz9b6tkdsf"
+    },
+    {
+      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
       },
@@ -4116,6 +4134,28 @@
       "duration_ms": 179045,
       "name": "Savior",
       "url": "https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH"
+    },
+    {
+      "album": {
+        "name": "Say It Again (feat. The Rasmus)",
+        "url": "https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263571,
+      "name": "Say It Again (feat. The Rasmus)",
+      "url": "https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI"
     },
     {
       "album": {

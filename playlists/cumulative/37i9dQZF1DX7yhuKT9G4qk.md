@@ -4,16 +4,16 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-118 songs - 6 hr 44 min
+119 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2025-07-16 |  |
+| [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 | 2025-07-16 | 2025-08-09 |
 | [45](https://open.spotify.com/track/7f6wpGdjJVwNZaQTw90DYG) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n) | [45](https://open.spotify.com/album/7BAwI46JKFpaoFYXa5ay3P) | 3:03 | 2025-07-16 |  |
 | [A Way With My Heart](https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc), [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [A Way With My Heart](https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk) | 3:15 | 2025-08-07 |  |
-| [Admit It](https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Admit It](https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk) | 3:07 | 2025-07-16 |  |
+| [Admit It](https://open.spotify.com/track/10I24PEW4oX8muRkrMb9Jp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Admit It](https://open.spotify.com/album/51VJV9ecZdRhEWuJilWuLk) | 3:07 | 2025-07-16 | 2025-08-09 |
 | [All Aboard](https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 2:10 | 2025-07-16 |  |
-| [All at Once](https://open.spotify.com/track/4DQPV40vYTb5xx8IXs8dhw) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [All At Once](https://open.spotify.com/album/2MK3Q8j47TMj8L05NRxUym) | 3:36 | 2025-07-16 |  |
+| [All at Once](https://open.spotify.com/track/4DQPV40vYTb5xx8IXs8dhw) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [All At Once](https://open.spotify.com/album/2MK3Q8j47TMj8L05NRxUym) | 3:36 | 2025-07-16 | 2025-08-09 |
 | [All Under Heaven \- Single Edit](https://open.spotify.com/track/31bgNk5Y52Zz0EXO0gQ0yO) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [All Under Heaven](https://open.spotify.com/album/4msQl1mwaFsx5XsBj6xcwp) | 3:47 | 2025-07-16 |  |
 | [Amelioration](https://open.spotify.com/track/1AhGwwEDV5ZrQ4tCXsFcQ1) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Amelioration](https://open.spotify.com/album/4abtjnInJCx5mcpF3BXM3k) | 3:02 | 2025-07-16 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-07-16 |  |
@@ -42,7 +42,7 @@
 | [FYI](https://open.spotify.com/track/5Px94nagQ9C6WrklMCxVk1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [FYI](https://open.spotify.com/album/5UCXFRJjjySyFCXa76gFVC) | 3:22 | 2025-07-16 |  |
 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 | 2025-07-16 |  |
 | [Good Ol' Loving](https://open.spotify.com/track/48L3JxFWB1bLYgEC5G5rOw) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Good Ol' Loving](https://open.spotify.com/album/0f8kcbEQK1pVl2zBSmVwG6) | 3:13 | 2025-07-16 |  |
-| [Got A Feeling](https://open.spotify.com/track/1zP4GMUutOrOcJk505BkTN) | [Simone Don](https://open.spotify.com/artist/1CMSDxXkZPG6z6qQ5RGRcK) | [Got A Feeling](https://open.spotify.com/album/5kNjNRb70DQTCnm8OvcpKi) | 4:03 | 2025-07-16 |  |
+| [Got A Feeling](https://open.spotify.com/track/1zP4GMUutOrOcJk505BkTN) | [Simone Don](https://open.spotify.com/artist/1CMSDxXkZPG6z6qQ5RGRcK) | [Got A Feeling](https://open.spotify.com/album/5kNjNRb70DQTCnm8OvcpKi) | 4:03 | 2025-07-16 | 2025-08-09 |
 | [Gray](https://open.spotify.com/track/2RAMTRT08DatjsIPSZGNPt) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [AIJIA](https://open.spotify.com/artist/4WEbpTYLZLppuqyqYHmz1p) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 2:49 | 2025-07-16 |  |
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2025-07-16 |  |
 | [Hard Times](https://open.spotify.com/track/1g5wpr9Q32hIjWs7ZpADQD) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Hard Times](https://open.spotify.com/album/5asmEKZBkydwiCuyvkXsVu) | 3:23 | 2025-07-16 |  |
@@ -57,6 +57,7 @@
 | [Joking](https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU) | 2:38 | 2025-07-16 |  |
 | [Kids](https://open.spotify.com/track/5ydndwOte7G6LQKbP8Suvb) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Kids](https://open.spotify.com/album/06oxOFFYnj4Pv5pLhIklm8) | 3:05 | 2025-07-16 |  |
 | [Leave It Up To You](https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Leave It Up To You](https://open.spotify.com/album/1CE36RRFj8UJxH9B0KSTnH) | 2:48 | 2025-07-16 |  |
+| [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-08 |  |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2025-07-16 |  |
 | [Living In A Loop](https://open.spotify.com/track/2LqsPBNNV5H1AOIHeDv4LT) | [Bastian Steven](https://open.spotify.com/artist/1WjUPqHiUz3DrX0l1PLsC5) | [Living In A Loop](https://open.spotify.com/album/2k6s2ASP4cxqBj7JYelJZ0) | 2:53 | 2025-07-16 |  |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2025-07-16 |  |

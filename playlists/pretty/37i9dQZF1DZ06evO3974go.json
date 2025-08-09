@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABeTZqm9y+xxKyzSnHBlalp",
+  "snapshot_id": "aJPsgAAAAACO4SxmIAmbyhXMmoHACgI6",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life After Fame",
-        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
-      },
-      "artists": [
-        {
-          "name": "Quando Rondo",
-          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wish Me Well",
         "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 196343,
       "name": "Exactly How It Was",
       "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life After Fame",
+        "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 164622,
+      "name": "Rich Homie Quando (feat. Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Sayin' (feat. Rich Homie Quan)",
         "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 202200,
       "name": "I'm Sayin' (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

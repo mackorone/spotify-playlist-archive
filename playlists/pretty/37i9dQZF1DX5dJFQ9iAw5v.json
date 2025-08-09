@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33289,
+  "num_followers": 33291,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Bajo Piel",
-        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Vadala",
-          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Willie",
-      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 327520,
       "name": "Acu\u00e1tico",
       "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Bajo Piel",
+        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Vadala",
+          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Willie",
+      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Rata",
         "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 237240,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 347200,
+      "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
+      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Viva Jujuy",
         "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 365560,
       "name": "So in Love",
       "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 347200,
-      "name": "Ord\u00f3\u00f1ez y Ernestina (o el Banquito de Ord\u00f3\u00f1ez)",
-      "url": "https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 298880,
       "name": "Ausencias",
       "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Sexto VI",
-        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        },
-        {
-          "name": "Valentin Reiners",
-          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
-        }
-      ],
-      "duration_ms": 193711,
-      "name": "Dos Verdades en Una Botella",
-      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1283,6 +1263,26 @@
       "duration_ms": 495746,
       "name": "Cabrera's Blues",
       "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Sexto VI",
+        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        },
+        {
+          "name": "Valentin Reiners",
+          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
+        }
+      ],
+      "duration_ms": 193711,
+      "name": "Dos Verdades en Una Botella",
+      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Here\u00b4s That Rainy Day",
-        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Musso",
-          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
-        },
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 192615,
-      "name": "Here\u00b4s That Rainy Day",
-      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Querido Bill : Tributo a Bill Evans",
         "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 490280,
       "name": "Billie's Bounce",
       "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Here\u00b4s That Rainy Day",
+        "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Musso",
+          "url": "https://open.spotify.com/artist/4OyrnRvPB0hgGlAE0LGr0i"
+        },
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 192615,
+      "name": "Here\u00b4s That Rainy Day",
+      "url": "https://open.spotify.com/track/3L9OGdoMZxnJuRiYHuNRRc"
     },
     {
       "added_at": "2025-04-14 14:58:34",

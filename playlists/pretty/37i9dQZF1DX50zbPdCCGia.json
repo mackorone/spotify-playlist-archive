@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 286432,
+  "num_followers": 286638,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Of A Simple Man",
-        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
-      },
-      "artists": [
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "I'd Love You to Want Me",
-      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Daryl Hall & John Oates (The Silver Album)",
         "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 185293,
       "name": "Sara Smile",
       "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Of A Simple Man",
+        "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "I'd Love You to Want Me",
+      "url": "https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -527,8 +527,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "The Essentials: Orleans",
-        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
+        "name": "Waking & Dreaming",
+        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 180479,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
+      "duration_ms": 234040,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Waking & Dreaming",
-        "url": "https://open.spotify.com/album/47YQQPzYY32yZbWC40mlku"
+        "name": "The Essentials: Orleans",
+        "url": "https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c"
         }
       ],
-      "duration_ms": 234040,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2dtK02TSAuTvVYU2wGAVG0"
+      "duration_ms": 180479,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "For Everyman",
-        "url": "https://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 284840,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2dcoDVcOc9hGPbtZFtpcw3"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "CSN",
         "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 133960,
       "name": "Just a Song Before I Go",
       "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "For Everyman",
+        "url": "https://open.spotify.com/album/12X80pgkHSjMDgAAS0HBdr"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 284840,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2dcoDVcOc9hGPbtZFtpcw3"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Loves Me Like a Rock",
-      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Turnstiles",
         "url": "https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 199960,
       "name": "Summer, Highland Falls",
       "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Loves Me Like a Rock",
+      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Luna Sea",
-        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
-      },
-      "artists": [
-        {
-          "name": "Firefall",
-          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Just Remember I Love You",
-      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Stranger",
         "url": "https://open.spotify.com/album/3IILMjMMnoN2sKzgesX8KV"
       },
@@ -927,22 +911,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "What Were Once Vices Are Now Habits",
-        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Another Park, Another Sunday",
-      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Partners In Crime",
         "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
       },
@@ -955,6 +923,38 @@
       "duration_ms": 246293,
       "name": "Him",
       "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Luna Sea",
+        "url": "https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75"
+      },
+      "artists": [
+        {
+          "name": "Firefall",
+          "url": "https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Just Remember I Love You",
+      "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "What Were Once Vices Are Now Habits",
+        "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Another Park, Another Sunday",
+      "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "Till It Shines",
-      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 256160,
       "name": "Holdin' on to Yesterday",
       "url": "https://open.spotify.com/track/5nFpF7jUbVnnDMXIu65aoh"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "Till It Shines",
+      "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Late for the Sky (Remastered)",
-        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        }
-      ],
-      "duration_ms": 341690,
-      "name": "Late for the Sky - Remastered",
-      "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Sometimes You Win",
         "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 182346,
       "name": "Better Love Next Time",
       "url": "https://open.spotify.com/track/3LrFVEZ9w4hVHS3sIRmzZk"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Late for the Sky (Remastered)",
+        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 341690,
+      "name": "Late for the Sky - Remastered",
+      "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
     },
     {
       "added_at": "2023-03-29 17:34:27",

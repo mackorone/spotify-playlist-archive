@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: murrph.
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: rubberstamp
 
-240 songs - 17 hr 19 min
+242 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,12 +44,13 @@
 | [Someone](https://open.spotify.com/track/5qNzv6J7edmRQOtJH5whkl) | [Vrach](https://open.spotify.com/artist/6GSRIetKAXzSmqZublWHZM) | [Someone](https://open.spotify.com/album/3XnCKRIj2QvaKSwfkLKdyM) | 3:07 | 2024-06-28 | 2024-07-20 |
 | [Songkran SOI COWBOY](https://open.spotify.com/track/3d4LpE2eJCsb1rvG4uq7dv) | [MOTLEY FLOWER](https://open.spotify.com/artist/49CPHGp65T1yS5lgST1dWi), [Younggu](https://open.spotify.com/artist/1FoYKCI4RZTARNndlahQeD), [Twopee Southside](https://open.spotify.com/artist/4ElNwSJyLhUjurznOPLmRn) | [Songkran SOI COWBOY](https://open.spotify.com/album/3thFyDxTBbC9bBVWhjGW9j) | 3:46 | 2025-04-11 | 2025-04-19 |
 | [Still Be Her \(TH.Version\)](https://open.spotify.com/track/2lGYLGdo5GYhoUD5N0uiB2) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Still Be Her \(TH.Version\)](https://open.spotify.com/album/6PhK1QVT9UiuCHeVV4vkGh) | 5:25 | 2025-05-16 | 2025-06-14 |
-| [Summer](https://open.spotify.com/track/09SJ0bGwvb3qvhxBfdibqx) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [Summer](https://open.spotify.com/album/1nUtWJ4pT2emQjQDKWVldA) | 4:33 | 2025-06-27 |  |
+| [Summer](https://open.spotify.com/track/09SJ0bGwvb3qvhxBfdibqx) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [Summer](https://open.spotify.com/album/1nUtWJ4pT2emQjQDKWVldA) | 4:33 | 2025-06-27 | 2025-08-09 |
 | [Summer](https://open.spotify.com/track/3xiQdmur1QcU1ZV52A0QTc) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Summer](https://open.spotify.com/album/6GcBIH0XEQn0cnmLEuf2Pz) | 3:40 | 2025-02-12 | 2025-02-22 |
 | [To You](https://open.spotify.com/track/651NyhGG8kKZ44qfBpgN1s) | [Seal Pillow](https://open.spotify.com/artist/4Wojlk2KVCqYJ1D7ZskjDH) | [To You](https://open.spotify.com/album/3h1mKh0ynFpNUJWAnYSqKL) | 4:04 | 2025-03-21 | 2025-03-29 |
 | [Too Good](https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [Too Good](https://open.spotify.com/album/4AEAjTwPfEhHaMgWbuMXMN) | 3:11 | 2024-07-19 | 2024-08-24 |
 | [UNIVERSE](https://open.spotify.com/track/5HQORp1f3Or6GZlnjZCjJI) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [UNIVERSE](https://open.spotify.com/album/6Q2X4utZSZjSV0suqWmESx) | 4:57 | 2024-06-21 | 2024-12-14 |
 | [Where Would You Be \(TH.ver\)](https://open.spotify.com/track/4HNfqqTssC8rqEai8m1z5n) | [LAWIN](https://open.spotify.com/artist/7318YHEWepdZPdL6hM314z) | [Where Would You Be \(TH.ver\)](https://open.spotify.com/album/6R4fVzbF11BWvBjLkk6gmu) | 4:54 | 2024-07-12 | 2024-07-20 |
+| [Wonwian](https://open.spotify.com/track/55wS8O5EOHnHLvNGkeQefY) | [rubberstamp](https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0) | [Wonwian](https://open.spotify.com/album/7kNfNSIwAwNVNloI59CwH6) | 2:09 | 2025-08-08 |  |
 | [กลับกลายเป็น](https://open.spotify.com/track/3IvGwrtavJiomOpWGTqQEA) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [กลับกลายเป็น](https://open.spotify.com/album/5KisRvRzk0ETVnKpowP8Ss) | 6:21 | 2025-03-21 | 2025-03-29 |
 | [กลับคืนสู่ดาว](https://open.spotify.com/track/0SxPaNX1mNDFeEln7bqXFP) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [กลับคืนสู่ดาว](https://open.spotify.com/album/2kRy63omANUfg60l5WiHJl) | 3:37 | 2024-11-01 | 2024-11-09 |
 | [กลัวลืม](https://open.spotify.com/track/4HQ16IdY2XwCYPVmcSg6zG) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [กลัวลืม](https://open.spotify.com/album/05oGOoivSkPUADBnsEbP2c) | 3:44 | 2024-12-26 | 2025-01-25 |
@@ -79,6 +80,7 @@
 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [Fahlithh](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 | 2025-07-11 |  |
 | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/track/7tN2lVM53EY0vFtObxxIEG) | [GOODMORNING](https://open.spotify.com/artist/5qpHMe5u9Cf9QNQiyFcqMf) | [คืนที่สองเราเต้นรำ \(1Night\)](https://open.spotify.com/album/1teI8blyB4bMMQ6tCsH2A3) | 3:54 | 2024-06-21 | 2025-04-12 |
 | [คืนสุดท้าย](https://open.spotify.com/track/0eaMXaoL2DH75hhl2pYpbt) | [SURI SURII](https://open.spotify.com/artist/5kdt00mGiFal5y8jxanHsQ) | [คืนสุดท้าย](https://open.spotify.com/album/0fgIfJLKkcTj47BAHwVLry) | 4:17 | 2025-07-18 |  |
+| [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/track/5liFOEE4mS3huno31RLWKr) | [52Hz.](https://open.spotify.com/artist/644n4DLEJHnmnAgoVv6oTE) | [คืนสุดท้ายที่คิดถึงเธอ \(Last night, I missed you\)](https://open.spotify.com/album/2p3CeQf3LunuPbDqjBFWcN) | 5:34 | 2025-08-08 |  |
 | [จนลืมไปว่าฉัน..](https://open.spotify.com/track/7hqnbHXT2jgWhEExrYuXAp) | [Goofy Glasses](https://open.spotify.com/artist/4aEnphaAdk7T24VMJm7Ouo) | [จนลืมไปว่าฉัน..](https://open.spotify.com/album/7wUz4TmoPNUbgnwkDiSqld) | 5:05 | 2025-07-18 | 2025-07-26 |
 | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/track/2GMgbkn4qdTV5PuG9ggkdw) | [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [จะได้บอกลาสักที \(done\)](https://open.spotify.com/album/4ak31D4lpQ5PbTMTlCGLzh) | 3:50 | 2024-06-21 | 2024-10-12 |
 | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/track/7h5hVqASUr1YAb5Y1PD5IG) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [จับมือฉันในวันที่โลกแตกสลาย](https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL) | 3:31 | 2024-12-20 | 2025-02-13 |
@@ -191,7 +193,7 @@
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
 | [อ๊ะเปล่า](https://open.spotify.com/track/4dqOTB1UpK2813eNy7sxLy) | [UNREAL](https://open.spotify.com/artist/2p5tOA5WDDzl5gZRpsW1zr) | [อ๊ะเปล่า](https://open.spotify.com/album/3pm0bQF7IoZ30O6HdHd9BJ) | 5:05 | 2025-04-25 | 2025-05-03 |
 | [ฮึบฮึบ!](https://open.spotify.com/track/6RFtfODeGPDVPEHeHj8LcH) | [Secret Diskette](https://open.spotify.com/artist/2gBGMRK1tYitHegMCIBUXx) | [ฮึบฮึบ!](https://open.spotify.com/album/6MDNm7lva8f1htdVSd4znC) | 3:00 | 2025-05-30 | 2025-06-14 |
-| [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1) | 4:42 | 2025-01-31 |  |
+| [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [เก็บไว้ได้ไหม \(Misty Memory\)](https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1) | 4:42 | 2025-01-31 | 2025-08-09 |
 | [เคย](https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [เคย](https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is) | 4:18 | 2024-07-19 | 2024-08-10 |
 | [เคียงข้างเธอ](https://open.spotify.com/track/1fMuv5QWejzNhXVfmOWgXj) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เคียงข้างเธอ](https://open.spotify.com/album/1YSKzm0KUwsarP24mPSAHp) | 4:39 | 2024-12-26 | 2025-01-17 |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 |  |

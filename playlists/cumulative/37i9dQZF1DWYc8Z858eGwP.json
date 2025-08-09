@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists from Africa. Cover:  <a href=\"https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp_Sw\">FOLA</a> & <a href=\"https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=YpyM9WIqRJChjJYvJTgbUA\">Thakzin</a>",
+  "description": "Discover your new favourite artists from Africa. Cover:  <a href=\"https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp_Sw\">FOLA</a> ",
   "name": "RADAR Africa ",
   "tracks": [
     {
@@ -3333,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/1X17Tuo9Yvn28rQ5mS3i6a"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167568,
+      "name": "FOTO (feat. Olivetheboy)",
+      "url": "https://open.spotify.com/track/62YA8oIfNjNIrvR8ZgVMft"
+    },
+    {
+      "album": {
         "name": "Everything's Blurred But You",
         "url": "https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O"
       },
@@ -3362,7 +3384,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 122880,
       "name": "Gabaya",
       "url": "https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi"
@@ -9651,6 +9673,24 @@
     },
     {
       "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+    },
+    {
+      "album": {
         "name": "You (Rum & Schnapp)",
         "url": "https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ"
       },
@@ -9742,7 +9782,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 156600,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,902 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,944 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 47 | [Jazzy Night](https://open.spotify.com/track/0yUrdEfnIM3AZX0nxFFruY) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [松原みき ベスト・コレクション](https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf) | 3:50 |
 | 48 | [誤解](https://open.spotify.com/track/6t4SiWWFR5lDakMBkTlwG6) | [加藤有紀](https://open.spotify.com/artist/6dp5zARUDqalwLO3UXNGoB) | [コンプリート・コレクション 謎はと・か・な・い・で](https://open.spotify.com/album/0Z1nCmI0QETsUMCpgVpU2W) | 3:58 |
 | 49 | [タワー・サイド・メモリー](https://open.spotify.com/track/4DhKgRHv5MzNCzLhTEByZi) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [昨晩お会いしましょう](https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4) | 3:06 |
-| 50 | [MIDNIGHT DRIVER](https://open.spotify.com/track/7mi8Ov1tSYL8ZO2zbNKroA) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MONOCHROME](https://open.spotify.com/album/0VtVYCQCmmmTaMytFTTvc0) | 7:44 |
+| 50 | [SAY GOODBYE](https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:26 |
 
 Snapshot ID: `AAAAAPtIGWtsSkFG0oNWUbSM1Lh+wETB`

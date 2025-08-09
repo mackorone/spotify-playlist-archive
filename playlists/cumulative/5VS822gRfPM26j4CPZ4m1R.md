@@ -4,7 +4,7 @@
 
 > Playlist
 
-601 songs - 1 day 11 hr 36 min
+602 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Martyn's Place](https://open.spotify.com/track/7bms8WdtZF8EVYfT1iCUXU) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Surfari](https://open.spotify.com/album/4j8qUNikq3gvHexQXfx3xq) | 3:20 | 2023-10-25 |  |
 | [Maybe That's Why](https://open.spotify.com/track/5vv4gvLF7K6beon3dugCKN) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Maybe That's Why](https://open.spotify.com/album/3RS85PjZNuYBiKz1Zqv8pb) | 3:07 | 2023-10-25 |  |
 | [Maybe That's Why](https://open.spotify.com/track/7IhZG2mvu4IpymI1HUc8Cp) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:07 | 2023-10-25 |  |
+| [Me & You](https://open.spotify.com/track/4AdfP9478DtPoZ9V434eo7) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Me & You](https://open.spotify.com/album/5chaAjWUzZqX99xSSkwI6x) | 3:03 | 2025-08-08 |  |
 | [Meadows](https://open.spotify.com/track/7nDR1d156re6DK9C3uP0bk) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Reasonings](https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4) | 3:14 | 2024-11-14 |  |
 | [Meet Me In My Dreams](https://open.spotify.com/track/1CyNxVeDddwMjzRFdUuen0) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 3:00 | 2023-10-25 |  |
 | [Melhor Se Acostumar](https://open.spotify.com/track/4TL1jHZo6CCa43qqLIAcob) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Melhor Se Acostumar](https://open.spotify.com/album/07Fvf4Zh0Cms8M3A7UZNcn) | 1:59 | 2023-10-25 |  |

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  ONSE Artwork: Isu Kim
 
-3,518 songs - 8 day 14 hr 4 min
+3,521 songs - 8 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [Dizzying](https://open.spotify.com/track/3Uc8MNiilvW32zGmyyTo2c) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Dizzying](https://open.spotify.com/album/7chLaTFwRm8DLk2VgMyAQg) | 2:43 | 2023-07-13 | 2023-08-04 |
 | [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 | 2023-09-07 | 2023-09-29 |
 | [dkl](https://open.spotify.com/track/4SNo89a4ObjVpil9ZbO6E6) | [wan](https://open.spotify.com/artist/0ahiWGtoELnIgd46EcQbFv), [25hearts](https://open.spotify.com/artist/77vD2NBRsPVcQI7lseX7fw) | [dkl](https://open.spotify.com/album/0lgWYV5P66vjPRLfDtTT9a) | 2:45 | 2024-04-25 | 2024-06-07 |
+| [DMD \(Do My Dance\)](https://open.spotify.com/track/2LndGLtnimmjFpTArbK1CI) | [Dane](https://open.spotify.com/artist/2M4woskPsCel3z9S1m7gZn) | [DMD \(Do My Dance\)](https://open.spotify.com/album/3UjeK36EGKehpY1zmYxlfk) | 2:01 | 2025-08-07 |  |
 | [DND](https://open.spotify.com/track/6N7hTxH3ps0bXVXyQICziV) | [Perfee](https://open.spotify.com/artist/4F09JxLSXGtnzGXBXGYbVY) | [DND](https://open.spotify.com/album/5FbobfQDloHtqaA3OWaeXf) | 2:24 | 2025-07-31 |  |
 | [DNKH.](https://open.spotify.com/track/6LY7eQ2fzzPszUpW4hnQHn) | [Yamada](https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI) | [DNKH.](https://open.spotify.com/album/1KiTkxByRVwZHLQSUerYmN) | 3:13 | 2023-06-01 | 2024-01-12 |
 | [Do Me](https://open.spotify.com/track/3eGvfVpX4c92TmtFbGYKgr) | [B4NSHEE](https://open.spotify.com/artist/1TpABeyWnDF7ReacplrA3b) | [Do Me](https://open.spotify.com/album/22xZ2Uv8dYgb97oNjiRGAe) | 3:34 | 2024-09-19 | 2024-10-11 |
@@ -825,6 +826,7 @@
 | [Doomed](https://open.spotify.com/track/2ZKImeiY1yIkiIhlVVyz2b) | [Panic Car](https://open.spotify.com/artist/5qSZPwUDIV9eYbdJPyvhek) | [Doomed](https://open.spotify.com/album/0M6Ioz9JET9UcPzDMGyWUz) | 3:07 | 2024-06-06 | 2024-06-28 |
 | [dopamine](https://open.spotify.com/track/2m6HqlaAXs2BvlOAWslMdf) | [KAI.ZEN](https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx) | [dopamine](https://open.spotify.com/album/3HnH5kCoTnKSHX5rcMVtR5) | 3:40 | 2025-03-06 | 2025-05-23 |
 | [dot dot dot](https://open.spotify.com/track/2UYS0srux4KplFtmNfRRAd) | [Kyrus](https://open.spotify.com/artist/2WN13ZeABzdwbyqbyXK6az) | [dot dot dot](https://open.spotify.com/album/5KWdLBgT8oyUpwQiN1i7hN) | 3:03 | 2023-10-05 | 2023-11-11 |
+| [Doublecup](https://open.spotify.com/track/1HkrKle3TVr9ubvFRzZdXZ) | [Patch TheThird](https://open.spotify.com/artist/6oXtzTZr9KQp9e8JXinYe8) | [Doublecup](https://open.spotify.com/album/1YGWiO8lenCNGMBtY4f2bR) | 2:52 | 2025-08-07 |  |
 | [Down](https://open.spotify.com/track/6hZMKAVfEpzyu4DV9P1N1s) | [Ty Raquin](https://open.spotify.com/artist/0TPGrHros3vvU1eR2dgDQp) | [Rendezvous](https://open.spotify.com/album/3E8ctYqz5kNmvYeTvIAtKZ) | 2:57 | 2023-11-09 | 2024-01-19 |
 | [Down Bad](https://open.spotify.com/track/1yZIGahHoOdOvNBuANqS2S) | [Lilfina](https://open.spotify.com/artist/0tnC36MXlHHOQo2JnDmnTN) | [Down Bad](https://open.spotify.com/album/2xi8UFgxGWsIsjV9CfCCiG) | 3:01 | 2022-01-20 | 2022-02-11 |
 | [Down Bad](https://open.spotify.com/track/0Kx3xWlbY8IFz2xIT2maZ4) | [Sienbi](https://open.spotify.com/artist/1ScPO5qSUlNzzDze4WdnjY) | [Down Bad](https://open.spotify.com/album/5rrPJFNv3sVoDAoxeMTjbR) | 2:22 | 2023-06-08 | 2023-06-23 |
@@ -1049,6 +1051,7 @@
 | [gaps and space](https://open.spotify.com/track/3WEdlRkqUCTvkf6BPj02iS) | [Yana and Yna](https://open.spotify.com/artist/44MCDYvpFe8ugUCmSznxKM) | [gaps and space](https://open.spotify.com/album/0jKPUj0DQy5uUCYwIHZmkf) | 2:52 | 2024-08-01 | 2024-09-06 |
 | [Gasera](https://open.spotify.com/track/55wMsyABpWgvH6revRkhRt) | [Cedric Escobar](https://open.spotify.com/artist/2VzuK7FmRvapbBzdMY1mK2) | [Gasera](https://open.spotify.com/album/68jXQutkv9S0W4Wt6uElm1) | 3:25 | 2023-05-25 | 2023-06-16 |
 | [Gatdamn](https://open.spotify.com/track/01iT4DmXHi6ge01XMVqlaj) | [D'Moreno](https://open.spotify.com/artist/3ovBkqBVT4f1YWD7OpQQUu) | [Gatdamn](https://open.spotify.com/album/5uX07nnXWeiHvQhH9L3Jxn) | 3:03 | 2025-07-24 |  |
+| [Gay in Training](https://open.spotify.com/track/077sMjkgXqPqW4mZgH27SE) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Gay in Training](https://open.spotify.com/album/6r1KPTPWRbNxlnKAjqu3jK) | 3:56 | 2025-08-07 |  |
 | [Gaya ng Dati](https://open.spotify.com/track/0tRyBIpdsEfdvbcGiemwle) | [Onin](https://open.spotify.com/artist/5yprou6hpqUvmFqZaFH9DB) | [Gaya ng Dati](https://open.spotify.com/album/5wbamSz7d6Aim9V6LKkVzr) | 3:00 | 2023-05-04 | 2023-05-26 |
 | [gayuma](https://open.spotify.com/track/0nv7qqTBNKTEMVBZB8TQKy) | [Gabe Lerios](https://open.spotify.com/artist/1BOkbl2JT58196uHze2JqP) | [gayuma](https://open.spotify.com/album/3ehODD4SZkU0cQXqSgerT3) | 3:25 | 2023-07-20 | 2023-08-11 |
 | [Gaze Into Her Eyes](https://open.spotify.com/track/4SC8Zr738fcvI0wPhB0Qxt) | [Ian Penn](https://open.spotify.com/artist/29P62aSu5Xspo08JqiyX3F) | [Gaze Into Her Eyes](https://open.spotify.com/album/1rTrvTh9GNTPTdhiAYMx9E) | 3:19 | 2023-04-06 | 2023-04-28 |

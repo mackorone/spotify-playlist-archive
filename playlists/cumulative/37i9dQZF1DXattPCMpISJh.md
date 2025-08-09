@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-315 songs - 19 hr 27 min
+316 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [It's like a dream](https://open.spotify.com/track/6EJk6D8XbJsr6GjZp1XVT5) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 3:07 | 2021-12-17 | 2022-10-01 |
 | [It's You](https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [It's You](https://open.spotify.com/album/1dKA9jVXe7CfeZQJXt77FJ) | 2:31 | 2021-11-12 | 2023-01-28 |
 | [Jet Fuel](https://open.spotify.com/track/2KiEnTzDtNEGrEDcZGUHpZ) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Jet Fuel](https://open.spotify.com/album/0p0iHnopoBiApdvABd9T0u) | 2:42 | 2023-04-28 | 2023-05-20 |
+| [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 | 2025-08-08 |  |
 | [Juiceboy](https://open.spotify.com/track/4voImA5OPckTXJz5m8ZQy4) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/2qAHhBd41CXvguVJc0UJ5u) | 2:51 | 2022-07-01 | 2022-11-13 |
 | [JuiceBoy](https://open.spotify.com/track/6IKtPHIDG6a26oRcNxJq8f) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/33FgsjVBCwStpk8cnzooPr) | 2:51 | 2022-07-01 | 2023-03-11 |
 | [Jump Into The Light \- Wash House Dub](https://open.spotify.com/track/6Jd8t7HR1g8LBS53mhOwXM) | [Horse Meat Disco](https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna), [Kathy Sledge](https://open.spotify.com/artist/1uSgUZ6BhPQycUUc6Wo30K) | [Jump Into The Light \(Wash House Dub\)](https://open.spotify.com/album/2ME0JUq8lspfSwMUcHrINz) | 4:13 | 2022-05-06 | 2023-07-08 |
@@ -211,7 +212,7 @@
 | [Only Direction](https://open.spotify.com/track/7vfIujNURf69jVWWTfxu3N) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Ride Away](https://open.spotify.com/album/735E1oxxzqMBQ8mxL2ZGf1) | 3:08 | 2023-03-17 | 2023-04-09 |
 | [Only Tonight](https://open.spotify.com/track/5gfapwWFXBh9rKr3usKL1k) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Only Tonight](https://open.spotify.com/album/4FgOstRvfyEsrUcdSd5uaM) | 3:01 | 2024-04-12 |  |
 | [Only U \- Original Mix](https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Only U](https://open.spotify.com/album/4rR53leHib9wW0G4C8wFM0) | 3:14 | 2021-08-20 | 2022-10-22 |
-| [Out of Your Mind](https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Songs I Wish I'd Written: Vol\. 5](https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg) | 4:24 | 2023-02-17 |  |
+| [Out of Your Mind](https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Songs I Wish I'd Written: Vol\. 5](https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg) | 4:24 | 2023-02-17 | 2025-08-09 |
 | [Outta My Mind](https://open.spotify.com/track/64Esl8jMGgdq66evUBKeJ2) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Outta My Mind](https://open.spotify.com/album/6oMNE87tErgAFfZjVYEjYo) | 3:29 | 2024-08-09 | 2024-09-07 |
 | [Over You](https://open.spotify.com/track/5Rp5SPoEHJswNskrofuysE) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Over You](https://open.spotify.com/album/7dl8uSvgqm2HlGL3a0X2Yn) | 6:37 | 2022-01-07 | 2022-10-29 |
 | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4) | 3:32 | 2023-08-18 |  |

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-261 songs - 14 hr 2 min
+262 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Prinsengracht](https://open.spotify.com/track/5X87KWuJMMu4mDRZKjWQnu) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Prinsengracht](https://open.spotify.com/album/46yAo5yaB2YU3VP2lCHiMK) | 1:54 | 2025-05-16 |  |
 | [Préludes / Book 2, L\. 123: 5\. Bruyères \- Home Session](https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy: Bruyères \(Home Session\)](https://open.spotify.com/album/4BXFAXaREZ96i733A132um) | 3:36 | 2021-12-10 | 2025-05-17 |
 | [Pssst!](https://open.spotify.com/track/3A7x2fHEeuaNWDgoSgNsd8) | [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav) | [Schlafen](https://open.spotify.com/album/3oXSYZ0SMvcgvhTuWrgxEw) | 4:08 | 2021-12-10 | 2023-01-04 |
+| [Punta Bianca \- Reworked by Leo Einaudi](https://open.spotify.com/track/6WxL6TKsRUmuTiJWQcRyYA) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Punta Bianca \(Reworked by Leo Einaudi\)](https://open.spotify.com/album/4Xltwrc3xcgZDy9v4SrEEk) | 3:37 | 2025-08-08 |  |
 | [Reflection](https://open.spotify.com/track/3mrWC8aEj9JrxKl6gQ0HRv) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 1 / Debussy: Bruyères](https://open.spotify.com/album/4vIHi1vbAM6U4WzJ85RP8y) | 5:32 | 2021-12-10 |  |
 | [Reminiscence](https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd) | 2:32 | 2021-12-10 | 2023-01-04 |
 | [Renewal](https://open.spotify.com/track/4Rn2cOOeUP3tZnRV05OKOY) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Renewal](https://open.spotify.com/album/5KRuFrrpetvnsndUky4AKX) | 3:13 | 2025-05-16 |  |
@@ -233,7 +234,7 @@
 | [Suspire](https://open.spotify.com/track/2zKqrmNdj8oIgzBnLWBumi) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Suspire](https://open.spotify.com/album/6nhSCmmNv2XicER2xdJlv9) | 2:13 | 2021-12-10 |  |
 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 | 2021-12-10 |  |
 | [The Art of Falling](https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Urban Impressionism](https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4) | 4:09 | 2024-11-08 |  |
-| [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-12-10 |  |
+| [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 | 2021-12-10 | 2025-08-09 |
 | [the beginning](https://open.spotify.com/track/4XRe1Ac7lnAHJDErMBqtgP) | [Ophelia Wilde](https://open.spotify.com/artist/0UucWXEyfCOSWlvGQYmPu3) | [quiet mornings](https://open.spotify.com/album/3jTCGGuZFVVXUqQhB9BTiO) | 1:40 | 2025-03-26 |  |
 | [The Departure](https://open.spotify.com/track/7oTKvLjCe7db1UxsImGBwr) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers \(Music from the HBO® Series\) Season 1](https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994) | 1:15 | 2021-12-10 | 2022-01-05 |
 | [The First Day](https://open.spotify.com/track/3bM1rGq4A21d9fsTsHfDDB) | [Nico Pistolesi](https://open.spotify.com/artist/0KGZu0Jtfq6sQ2CVbPEccR) | [The First Day](https://open.spotify.com/album/3yrF6SRjPWXNEidFUI4q4T) | 3:01 | 2021-12-10 | 2023-03-04 |

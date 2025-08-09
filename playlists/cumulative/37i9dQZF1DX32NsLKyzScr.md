@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,279 songs - 2 day 21 hr 25 min
+1,280 songs - 2 day 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2022-05-06 | 2024-04-19 |
 | [2AM](https://open.spotify.com/track/074x9OaRq8m4Kn3J3Qgavf) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM](https://open.spotify.com/album/1y13T3X8wjnVPYKMltcpzz) | 3:02 | 2020-11-03 | 2021-05-25 |
 | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/track/2dh6Pnl5egc1FrQS6EsW4n) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM \(feat\. Carla Monroe\)](https://open.spotify.com/album/4CAvGuvYg9frLJFbPPHLmB) | 3:02 | 2020-10-10 | 2020-11-03 |
+| [3am](https://open.spotify.com/track/7qAuCJDxFwt6Zp8WWVK15h) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [3am](https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV) | 2:52 | 2025-08-08 |  |
 | [404 Anonymous](https://open.spotify.com/track/1oBNrANxBIDWwBAW4tb4aH) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [We Are Friends, Vol\. 8](https://open.spotify.com/album/1IFiPfRCcOFei774vVJOMS) | 4:04 | 2020-09-21\* | 2020-10-10 |
 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-04-04 |  |
 | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/track/0baUuonAecT31Sju50YgOB) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/album/2rekeGXe7IdU7o7qnayVbQ) | 2:31 | 2024-07-12 | 2025-01-12 |
@@ -957,7 +958,7 @@
 | [Shake & Pop \- John Summit Remix](https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Shake & Pop \(John Summit Remix\)](https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx) | 3:37 | 2024-10-25 | 2025-02-01 |
 | [Shake It](https://open.spotify.com/track/1Eh1KT8TVoRISpnphcMG5W) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Shake It](https://open.spotify.com/album/0glqj5fGTpYXiAibo9MP9s) | 3:04 | 2020-09-21\* | 2021-01-23 |
 | [Shapes \- Oliver Smith Remix \(Mixed\)](https://open.spotify.com/track/4G8P3HXG8O3gRUcy5nv1NP) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Mat Zo Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/11y5JIlnyXqKjzkenVTfU5) | 6:25 | 2020-09-21\* | 2020-11-03 |
-| [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-03-28 |  |
+| [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-03-28 | 2025-08-09 |
 | [Shine](https://open.spotify.com/track/6dm4tlxk2CbSV9grb2hILi) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Shine](https://open.spotify.com/album/015OdKtK69kpEuN3jHTAw0) | 3:06 | 2020-09-21\* | 2020-10-10 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 | 2024-10-13 |
 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 | 2022-03-11 | 2022-12-03 |

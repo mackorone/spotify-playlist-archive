@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: BunnaB
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,260,155 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,260,420 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Affirmations](https://open.spotify.com/track/7HN4SqrMZ30m4RWYm29gJv) | [Flippa T](https://open.spotify.com/artist/7ybmXfgq1wUp1tdU9Wnx1I) | [Affirmations](https://open.spotify.com/album/3zkiLXpBUqqyHIoK3RD7Ex) | 2:04 |
 | 50 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 |
 
-Snapshot ID: `AAAAAIf2gwdH28wihallHe7dCDEDemNN`
+Snapshot ID: `AAAAAJgk1THjmHD83NMGaCOtcwowwo8z`

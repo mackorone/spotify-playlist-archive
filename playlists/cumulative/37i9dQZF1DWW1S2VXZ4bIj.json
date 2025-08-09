@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Ink Waruntorn",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GALCHANIE, Tobii",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 247770,
       "name": "11 \u0e40\u0e14\u0e37\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/4NzwOTubRJexdYkjkNbFuL"
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 206901,
       "name": "7 \u0e19\u0e32\u0e17\u0e35\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
       "url": "https://open.spotify.com/track/7CDxETVC1KE1cp9kG9Tleo"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -1616,6 +1616,28 @@
       "duration_ms": 161252,
       "name": "intro (end of the world) - extended",
       "url": "https://open.spotify.com/track/5BBkvXH2jYROUzKIB7WX7S"
+    },
+    {
+      "album": {
+        "name": "BEST FRIEND OF THE YEAR",
+        "url": "https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213391,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/24Q8dCjtxjw1TWEKLmtmed"
     },
     {
       "album": {
@@ -2196,7 +2218,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 229859,
       "name": "Moonlight - From \"\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d Only You\"",
       "url": "https://open.spotify.com/track/1RoQ4rXuqDcRRD317ZzIuO"
@@ -2294,6 +2316,24 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
+        "name": "NO.1 LADY",
+        "url": "https://open.spotify.com/album/5RtgRlMDwfDab7xLN3Vvuf"
+      },
+      "artists": [
+        {
+          "name": "MEYOU",
+          "url": "https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "NO.1 LADY",
+      "url": "https://open.spotify.com/track/2PY2MKxpi9id6MEV5P5tkS"
     },
     {
       "album": {
@@ -3197,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Taboo (feat. Tobii)",
+        "url": "https://open.spotify.com/album/5I1MaGUZevQ3PIL4sUUoYs"
+      },
+      "artists": [
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        },
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Taboo (feat. Tobii)",
+      "url": "https://open.spotify.com/track/6bvMA4wCSHYVB16pPiRUnX"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -3212,6 +3274,32 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/7tov8PaAQucUnLO8zBUa5H"
+      },
+      "artists": [
+        {
+          "name": "ALIE BLACKCOBRA",
+          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
+        },
+        {
+          "name": "NISAMANEE",
+          "url": "https://open.spotify.com/artist/5Cv3PvoSGia34c6WiOfnHF"
+        },
+        {
+          "name": "BADMIXY",
+          "url": "https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2LaxWnYnzzW8f7E8R744Qp"
     },
     {
       "album": {
@@ -3436,7 +3524,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 174757,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4wKbEMBUtKM2p5ZoUxCsNt"
@@ -4257,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e07\u0e08\u0e30\u0e14\u0e35\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b (Vanishing)",
+        "url": "https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD"
+      },
+      "artists": [
+        {
+          "name": "AYLA's",
+          "url": "https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254277,
+      "name": "\u0e04\u0e07\u0e08\u0e30\u0e14\u0e35\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e2b\u0e32\u0e22\u0e44\u0e1b (Vanishing)",
+      "url": "https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e07\u0e14\u0e35\u0e16\u0e49\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e02\u0e32 (Desire)",
         "url": "https://open.spotify.com/album/7kEqSQ8Xuz09OAbKPWTgcz"
       },
@@ -4668,7 +4774,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 233912,
       "name": "\u0e08\u0e30\u0e23\u0e49\u0e2d\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e19\u0e35\u0e49\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e1f\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5SwraSnI0F2BW8XtdE5bKQ"
@@ -5228,7 +5334,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 240000,
       "name": "\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27 \u0e17\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (I\u2019m Good)",
       "url": "https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5"
@@ -5326,7 +5432,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 170833,
       "name": "\u0e15\u0e25\u0e01\u0e23\u0e49\u0e32\u0e22 (Bad Comedy)",
       "url": "https://open.spotify.com/track/2lkLuNr0EStdud0Hxxt55L"
@@ -6525,6 +6631,28 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e43\u0e01\u0e25\u0e49\u0e22\u0e34\u0e48\u0e07\u0e01\u0e25\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/60f62Pmvk58NtQirSXxvnd"
+      },
+      "artists": [
+        {
+          "name": "SAMBLACK",
+          "url": "https://open.spotify.com/artist/39iFHReRQ9ZJnzbe3yhl4C"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/03m0uYnsjqhl3VJ3BGgxhD"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237362,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e43\u0e01\u0e25\u0e49\u0e22\u0e34\u0e48\u0e07\u0e01\u0e25\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/0nJVoSAPhmHMiwHzopCe1h"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
         "url": "https://open.spotify.com/album/0gGRJrAvSjPI4U2mf0D0Hd"
       },
@@ -6963,6 +7091,28 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
+        "url": "https://open.spotify.com/album/7lnH9HjgEB01bjIbD2VX4t"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        },
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296040,
+      "name": "\u0e25\u0e32\u0e21\u0e1b\u0e32\u0e21 (circus)",
+      "url": "https://open.spotify.com/track/30CRjTYAXaJf5YBsNQHIvG"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e36\u0e01\u0e25\u0e07\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/6npo5IowLtc1RcHxKu5bxL"
       },
@@ -7334,6 +7484,24 @@
       "duration_ms": 217981,
       "name": "\u0e2b\u0e22\u0e2d\u0e01\u0e44\u0e21\u0e48\u0e2b\u0e25\u0e2d\u0e01 (TRICK OR TREAT)",
       "url": "https://open.spotify.com/track/1QJpqMMm9kB8IcmZHtHPNR"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e01\u0e48\u0e2d\u0e19! (Puzzle)",
+        "url": "https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf"
+      },
+      "artists": [
+        {
+          "name": "SHERRY",
+          "url": "https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196710,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e01\u0e48\u0e2d\u0e19! (Puzzle)",
+      "url": "https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ"
     },
     {
       "album": {

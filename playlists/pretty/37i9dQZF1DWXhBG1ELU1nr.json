@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 235886,
+  "num_followers": 235872,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 230293,
+      "name": "Plush - Acoustic",
+      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 246492,
       "name": "Relic\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 230293,
-      "name": "Plush - Acoustic",
-      "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 341266,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "G N' R Lies",
         "url": "https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 354400,
       "name": "Patience",
       "url": "https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 341266,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
     },
     {
       "added_at": "2024-02-27 20:15:05",

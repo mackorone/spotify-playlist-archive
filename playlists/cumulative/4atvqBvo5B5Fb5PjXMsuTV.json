@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Aug 22:06 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Aug 03:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 109053,
       "name": "ABOMINATION",
       "url": "https://open.spotify.com/track/2WvRdEooFedhL8J30UTo2X"
@@ -14942,7 +14942,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 278400,
       "name": "Cans In Vain",
       "url": "https://open.spotify.com/track/4mvjuwOpyZ71jXBeImnI4I"
@@ -15090,7 +15090,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 281214,
       "name": "Carnage",
       "url": "https://open.spotify.com/track/2C0aRXDheUXBTAjJikotaM"
@@ -21012,7 +21012,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 225000,
       "name": "Dancing With The Europeans",
       "url": "https://open.spotify.com/track/12riVj1r9ZJaSv7y53ALaN"
@@ -23312,7 +23312,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 220084,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV"
@@ -24012,6 +24012,24 @@
       "duration_ms": 244466,
       "name": "Dogs Of War",
       "url": "https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4"
+    },
+    {
+      "album": {
+        "name": "Doing It Too",
+        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206003,
+      "name": "Doing It Too",
+      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
     },
     {
       "album": {
@@ -41030,7 +41048,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 333283,
       "name": "HUGs",
       "url": "https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk"
@@ -43132,7 +43150,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 223546,
       "name": "I'll Know You're Not Around",
       "url": "https://open.spotify.com/track/32SpYnVsCyakkew6AxmCa6"
@@ -45815,6 +45833,32 @@
     },
     {
       "album": {
+        "name": "Island in the Sun",
+        "url": "https://open.spotify.com/album/1aibaDj3PSbf7CdGJDMK7y"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Cory Castro",
+          "url": "https://open.spotify.com/artist/0kvKmsx3dW0nEHuOYPem9w"
+        },
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149606,
+      "name": "Island in the Sun (feat. Cory Castro of Free Throw)",
+      "url": "https://open.spotify.com/track/7LDwaLHxFXW0kVyHKMJAaE"
+    },
+    {
+      "album": {
         "name": "It Aint Nun",
         "url": "https://open.spotify.com/album/4pS9web7O3L5n8iQjaM4Dz"
       },
@@ -46610,7 +46654,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 243706,
       "name": "Jetpack",
       "url": "https://open.spotify.com/track/11T2QXI2x5pD4CU6TxBaFn"
@@ -46852,6 +46896,24 @@
       "duration_ms": 181040,
       "name": "Joker Lips",
       "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205760,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP"
     },
     {
       "album": {
@@ -47148,7 +47210,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 259000,
       "name": "JUNIOR'S LAW",
       "url": "https://open.spotify.com/track/0kAmlqEeX51F3S04zCy98g"
@@ -47246,6 +47308,32 @@
       "duration_ms": 183676,
       "name": "Just Better",
       "url": "https://open.spotify.com/track/3xj9OcQk2JtJ15Y5cTRIeC"
+    },
+    {
+      "album": {
+        "name": "JUST DANCE 2",
+        "url": "https://open.spotify.com/album/7tNZd6sBHnMch0Pq3RyDVb"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "JUST DANCE 2",
+      "url": "https://open.spotify.com/track/35H3YIUkM1yBwDydBD4wae"
     },
     {
       "album": {
@@ -54959,6 +55047,24 @@
     },
     {
       "album": {
+        "name": "Manny's Ready to Roll",
+        "url": "https://open.spotify.com/album/0RIeD6oGvFIjSzT0vDzTCU"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221859,
+      "name": "Manny's Ready to Roll",
+      "url": "https://open.spotify.com/track/6GQgySvc7L8B740ekKc0kV"
+    },
+    {
+      "album": {
         "name": "MANTO",
         "url": "https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL"
       },
@@ -55484,7 +55590,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 167767,
       "name": "ME ME ME",
       "url": "https://open.spotify.com/track/1Y1FyGpSV8yGXFsbPHUpXV"
@@ -56386,6 +56492,24 @@
       "duration_ms": 105653,
       "name": "Milk",
       "url": "https://open.spotify.com/track/5J5Tw78xBk5YoALN83OQXM"
+    },
+    {
+      "album": {
+        "name": "milk of the madonna",
+        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
     },
     {
       "album": {
@@ -61754,6 +61878,24 @@
       "duration_ms": 171529,
       "name": "Nobody Knows You, Stepbro.",
       "url": "https://open.spotify.com/track/6w5LSDDJ4VS9493R35QHLE"
+    },
+    {
+      "album": {
+        "name": "NOBODY SAFE",
+        "url": "https://open.spotify.com/album/20N6yVUaJ0M8pgYvQRcZEE"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102127,
+      "name": "NOBODY SAFE",
+      "url": "https://open.spotify.com/track/5PjOxRWKD3aUvNHTf4bgAe"
     },
     {
       "album": {
@@ -68378,7 +68520,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 186727,
       "name": "Pray To That",
       "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
@@ -70060,6 +70202,24 @@
       "duration_ms": 253038,
       "name": "Rapture in Blue",
       "url": "https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX"
+    },
+    {
+      "album": {
+        "name": "Raspy",
+        "url": "https://open.spotify.com/album/0bplQ7UrbSw6tidOxCt7Hu"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Raspy",
+      "url": "https://open.spotify.com/track/4NAqDim88FVAwEjUeZAE3P"
     },
     {
       "album": {
@@ -72650,7 +72810,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 258668,
       "name": "routine",
       "url": "https://open.spotify.com/track/5K9008JP8QIQDSfg1p2O7c"
@@ -79345,6 +79505,24 @@
     },
     {
       "album": {
+        "name": "Specter",
+        "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274408,
+      "name": "Specter",
+      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
+    },
+    {
+      "album": {
         "name": "Speed Freak",
         "url": "https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs"
       },
@@ -81384,6 +81562,24 @@
       "duration_ms": 122138,
       "name": "STUCK AGAIN",
       "url": "https://open.spotify.com/track/7GuwC0u6OcX4cgRHPVDM0d"
+    },
+    {
+      "album": {
+        "name": "Stuck In July",
+        "url": "https://open.spotify.com/album/2QPQ7fPrFfEjFdb4QSYiXx"
+      },
+      "artists": [
+        {
+          "name": "LIL TAY",
+          "url": "https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176866,
+      "name": "Stuck In July",
+      "url": "https://open.spotify.com/track/5NoHiBR1Qsgr7gVtJ9k15n"
     },
     {
       "album": {
@@ -87437,6 +87633,24 @@
     },
     {
       "album": {
+        "name": "the twins (1969)",
+        "url": "https://open.spotify.com/album/2M9IpHl3QGG69zyg4EfHBe"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172503,
+      "name": "the twins (1969)",
+      "url": "https://open.spotify.com/track/1yYdcfsf7BBfHUMpQiUB4x"
+    },
+    {
+      "album": {
         "name": "The Undying",
         "url": "https://open.spotify.com/album/2bDfUonCv8iWbwgxJ3HPMo"
       },
@@ -92509,6 +92723,24 @@
     },
     {
       "album": {
+        "name": "Vampire Bat",
+        "url": "https://open.spotify.com/album/6IkkusO0kzVnUDME4dTmdY"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206652,
+      "name": "Vampire Bat",
+      "url": "https://open.spotify.com/track/2CPIpG09HlF32VnpgIObGj"
+    },
+    {
+      "album": {
         "name": "vampire diaries",
         "url": "https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O"
       },
@@ -93852,6 +94084,24 @@
       "duration_ms": 153826,
       "name": "Want You to Want Me",
       "url": "https://open.spotify.com/track/5fhQ9KM2eWaUSWZ5S0loir"
+    },
+    {
+      "album": {
+        "name": "WANTCHU",
+        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199896,
+      "name": "WANTCHU",
+      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
       "album": {
@@ -95300,7 +95550,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 184067,
       "name": "WHAT IS FOREVER FOR",
       "url": "https://open.spotify.com/track/0SeD4THY07sQol35wSOmcj"

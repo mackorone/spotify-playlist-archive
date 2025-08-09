@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "Got To Move",
+        "url": "https://open.spotify.com/album/080C2Z1zUMglH1jOMDqr0D"
+      },
+      "artists": [
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        },
+        {
+          "name": "Loz Seka",
+          "url": "https://open.spotify.com/artist/4VFvWNZM0BKFz8F9S5OYHL"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185314,
+      "name": "Got To Move",
+      "url": "https://open.spotify.com/track/3lsscRgxz25MLhM0OHfiLK"
+    },
+    {
+      "album": {
         "name": "H2DAIZZO",
         "url": "https://open.spotify.com/album/3lAzVR1ZomRbfuXwsxHlWg"
       },
@@ -1002,6 +1024,24 @@
       "duration_ms": 181500,
       "name": "Lipstick",
       "url": "https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK"
+    },
+    {
+      "album": {
+        "name": "Liquid Music",
+        "url": "https://open.spotify.com/album/3FHY9bh2cwfmYeee9qSG5k"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188250,
+      "name": "Liquid Music",
+      "url": "https://open.spotify.com/track/7ew6V3pqzL87R0SIGXyoze"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-291 songs - 16 hr 46 min
+293 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Call U After Rehab](https://open.spotify.com/track/3kp5TDukELzTvE8JtkMZsh) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Call U After Rehab](https://open.spotify.com/album/0M6TR9ql8OlGDpZQDNMyJq) | 2:58 | 2023-12-08 | 2024-07-27 |
 | [Can I Shower At Yours \- Acoustic](https://open.spotify.com/track/3g8dWhBV9qCftjFocTxLUP) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Can I Shower At Yours \(Acoustic\)](https://open.spotify.com/album/5mlOM2LUgvbPCZzNNmarHx) | 2:24 | 2023-12-08 | 2024-01-20 |
 | [Carousel](https://open.spotify.com/track/6xErF43Ru9Y0r21iHWaj0J) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Carousel](https://open.spotify.com/album/6ZYFQTxkwpg0A1wTTTjRU8) | 3:27 | 2025-04-25 |  |
-| [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 | 2024-10-04 |  |
+| [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 | 2024-10-04 | 2025-08-09 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 | 2025-02-08 |
 | [Como Un Pájaro](https://open.spotify.com/track/0F1OOqdNXZctaw0y4QVWJB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/2RpAWWOjVelOhj1VW39FSL) | 3:28 | 2025-05-30 |  |
 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 | 2023-12-08 | 2024-07-27 |
@@ -112,7 +112,7 @@
 | [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 | 2024-05-10 | 2024-09-07 |
 | [happier without you](https://open.spotify.com/track/3tNLceJBTqBOMytGODY1IG) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/0rnW4hH24v4j16wUbeR5Tn) | 3:06 | 2024-07-12 | 2025-02-08 |
 | [happy endings do exist](https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [happy endings do exist](https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL) | 3:17 | 2024-08-16 | 2024-12-21 |
-| [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:30 | 2025-08-05 |  |
+| [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:31 | 2025-08-05 |  |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2023-12-08 | 2024-03-02 |
 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-02 |  |
 | [HEAVEN](https://open.spotify.com/track/6f2nWEm8aqMxKZtlxsyxWD) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HEAVEN](https://open.spotify.com/album/3oM4p4ItqZZnvLXgzPkJ4h) | 2:54 | 2024-01-26 | 2024-11-30 |
@@ -231,7 +231,8 @@
 | [Smooth Like Vinyl](https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Smooth Like Vinyl](https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH) | 3:39 | 2025-06-20 |  |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-12-08 | 2024-11-23 |
 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 | 2024-12-06 | 2025-07-26 |
-| [So Many Ways To Say I Love You](https://open.spotify.com/track/5KJKKDAtaZdH962ET3HPEu) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr) | 2:46 | 2024-10-04 |  |
+| [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-08 |  |
+| [So Many Ways To Say I Love You](https://open.spotify.com/track/5KJKKDAtaZdH962ET3HPEu) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr) | 2:46 | 2024-10-04 | 2025-08-09 |
 | [Some Kinda Nerve](https://open.spotify.com/track/4fD2XwoZJLyeGJD07ctWyW) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Nerve](https://open.spotify.com/album/67njACuhii6ppE1nFoHazz) | 3:15 | 2024-09-03 | 2024-12-07 |
 | [Somehow I Forgot](https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/0hKRKYg5UNFALZdhwukJVL) | 3:11 | 2024-05-24 | 2024-07-13 |
 | [something i can't do](https://open.spotify.com/track/4rtGByFuVFIb3rj4ewtVYw) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [something i can't do](https://open.spotify.com/album/01lwPYxKLe0fuDFHOp9l5v) | 2:44 | 2023-12-08 | 2024-01-27 |
@@ -294,6 +295,7 @@
 | [Winter Song](https://open.spotify.com/track/6dLmrgErJkvh6XAUGXQzHk) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf), [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Winter Song](https://open.spotify.com/album/3hvIyMMzOl7NKrkgARo0lo) | 4:06 | 2024-11-29 |  |
 | [Wood Knot](https://open.spotify.com/track/1RDm9ypgsDjqPz57CtLc1t) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:21 | 2025-03-21 |  |
 | [You and What You Do](https://open.spotify.com/track/0VdhXIvSTN4C4aP1h8T5VR) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [You and What You Do](https://open.spotify.com/album/2ka9wk9kIVIpWN9DqRCQvH) | 3:32 | 2024-08-23 |  |
+| [You Didn't Have To Go](https://open.spotify.com/track/4QL2cjZJkfbc1a0FOCCNOr) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings \(Reimagined\)](https://open.spotify.com/album/2gaBIJSr3NWFe6gwqrx3qg) | 3:18 | 2025-08-08 |  |
 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 | 2023-12-08 | 2024-01-20 |
 | [You Love You](https://open.spotify.com/track/6nYzUeU2RKW4X5cbPvnclO) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [You Love You](https://open.spotify.com/album/7gup7q8DB1d7Y8hS5SV0pZ) | 3:03 | 2025-04-25 |  |
 | [You'll Learn](https://open.spotify.com/track/3cI5JVAk4elOMjt4QzQUno) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [You'll Learn](https://open.spotify.com/album/54LKTmr6ZGJr9dz4dB3HC8) | 3:47 | 2025-06-20 |  |

@@ -2,7 +2,7 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative & rock releases\. Cover: Wet Leg
+> Nieuwe alternative & rock releases\. Cover: Wolf Alice
 
 513 songs - 1 day 5 hr 47 min
 

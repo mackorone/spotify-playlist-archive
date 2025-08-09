@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 ### [No Cap](https://open.spotify.com/playlist/37i9dQZF1DX0Tkc6ltcBfU)
 
-> The hottest out the South\. Cover: NBA YoungBoy
+> The hottest out the South\. Cover: Young Nudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,853 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,892 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [40 Mo' Reasons](https://open.spotify.com/track/61siK7W8gG1ixD974Ethya) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [40 Mo' Reasons](https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK) | 3:22 |
 | 100 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 
-Snapshot ID: `AAAAALZGVs4o6c+q8CIrsra1DKeODgYd`
+Snapshot ID: `AAAAAOkZ5/TSAmRqazQH3NvZ+llmvMTO`

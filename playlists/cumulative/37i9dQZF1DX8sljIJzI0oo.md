@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> 🔥 A new mixtape drop every Thursday 🔥 Paloma Mami is bringing the heat this week!
+> 🔥 A new mixtape drop every Thursday 🔥 Rauw Alejandro is bringing the heat this week!
 
 2,492 songs - 5 day 14 hr 33 min
 

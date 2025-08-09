@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-865 songs - 2 day 9 hr 20 min
+870 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [A Good Thing](https://open.spotify.com/track/4h7N08txmbfso1H5WtUkjS) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Carrier Pigeon](https://open.spotify.com/album/5ufL1kagvdUMrUNNP4FCuV) | 3:29 | 2024-08-05 |  |
 | [A Life of Possibilities](https://open.spotify.com/track/3TKWCQMU7xYEEslFXsj51i) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:34 | 2022-04-04 |  |
 | [A Nervous Tic Motion of the Head to the Left](https://open.spotify.com/track/6SjXkEmPg9jP66HsWbK2A0) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [The Mysterious Production of Eggs](https://open.spotify.com/album/1YbPpWqyIoqEgt2QY90yXy) | 4:59 | 2024-03-11 |  |
+| [A Place Called Space](https://open.spotify.com/track/7lQipY7uqLs4aAdN5xQaao) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [In A Dream](https://open.spotify.com/album/50yWNOYhYoHyciWGUeXEAD) | 8:18 | 2025-08-08 |  |
 | [A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 7:52 | 2023-01-26 |  |
 | [A Romantic Interlude Will Soon Come Your Way](https://open.spotify.com/track/7zlYwIkrxPyNQ1Jf1CG9Rd) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [Forever Forever](https://open.spotify.com/album/338Gexpd2aM74CJBGfcuDC) | 1:01 | 2024-01-15 |  |
 | [A Sender](https://open.spotify.com/track/2j69Z8GD7eYDiU6zCcVSDQ) | [Avey Tare's Slasher Flicks](https://open.spotify.com/artist/1sY7Ak1Ygf2ZqmiZPTkZw5), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Enter The Slasher House](https://open.spotify.com/album/3aySHuFfYySYxYCdznqRhV) | 5:35 | 2023-03-23 | 2024-07-10 |
@@ -91,6 +92,7 @@
 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 | 2024-06-18 |  |
 | [Battery \(Remastered\)](https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered\)](https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k) | 5:12 | 2022-09-30 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2023-06-24 |  |
+| [Be My Love](https://open.spotify.com/track/3VDZHydhAOVI7L0PngrZRC) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:19 | 2025-08-08 |  |
 | [Be Quiet and Drive \(Far Away\)](https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:59 | 2024-02-23 |  |
 | [Beatopia Cultsong](https://open.spotify.com/track/2HnZ0YqhP2BxYQUhCd9Zov) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:31 | 2023-01-12 | 2023-08-11 |
 | [Beautiful Seven](https://open.spotify.com/track/3LIOzrflkzUxW5GFeBCkXx) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Woyaya](https://open.spotify.com/album/72hcKrMgA7vVJLAOAKW8c2) | 6:46 | 2024-05-27 |  |
@@ -259,6 +261,7 @@
 | [Fear and Friday's \(Poem\)](https://open.spotify.com/track/44IXD2J5yyr7PpOZzz2cmQ) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 1:47 | 2024-01-01 |  |
 | [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 | 2023-06-14 |  |
 | [Feel](https://open.spotify.com/track/4kLvZvzPYpyDESnfbYFey0) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Into](https://open.spotify.com/album/0AHaFhhNCg3u0j6EJ3NfP7) | 3:52 | 2024-02-11 |  |
+| [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 | 2025-08-08 |  |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-02-07 | 2024-04-05 |
 | [fighting back](https://open.spotify.com/track/5YgIbbLLJxRw9BG21C4Ioe) | [R.A.P\. Ferreira](https://open.spotify.com/artist/2U1vwQRYQmG7ypKJF1JTEb) | [5 to the Eye with Stars](https://open.spotify.com/album/2JdEpcC6E0KsWfft0dwrxf) | 2:15 | 2024-01-03 |  |
 | [Fingertips \(Intro\)](https://open.spotify.com/track/3ZPSyQ3TxrZ5O5lJPw0wVx) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Floorspace](https://open.spotify.com/album/0zJkFKoviOWGLmT5mvWhWC) | 1:56 | 2024-05-27 |  |
@@ -527,6 +530,7 @@
 | [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 | 2024-01-03 | 2024-01-05 |
 | [Now I'm Your Mom](https://open.spotify.com/track/63PFGLwfK3AMCiqp7H0SV1) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Uh\-Oh](https://open.spotify.com/album/6haW3z5RoXNQCRqHuIhu6C) | 4:43 | 2025-03-30 |  |
 | [Obrigado](https://open.spotify.com/track/7r9HZwjUZezpQpW4ToiEFL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 0:29 | 2022-09-13 |  |
+| [Okay](https://open.spotify.com/track/1saiatbdGSdjCJ5X4TrnJz) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Dynamics](https://open.spotify.com/album/7MIE4SvUeO6fWPrHJFnzaP) | 4:33 | 2025-08-08 |  |
 | [Ol' 55](https://open.spotify.com/track/7qbLE7ssJcnWD6EO7My847) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 3:56 | 2024-06-17 |  |
 | [Old Familiar Way](https://open.spotify.com/track/6TeYtUQbGmNr4EKe0o9sTG) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Gay Parade](https://open.spotify.com/album/2GYkvUhakNvHmI3L6tzKbd) | 2:25 | 2022-07-13 |  |
 | [Old Friends](https://open.spotify.com/track/66q3yNMEO2tOsiFny1IPQW) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Cardinal](https://open.spotify.com/album/2SmrUzUMMOYQqoPuOhlhjw) | 3:27 | 2024-04-29 | 2024-08-12 |
@@ -870,6 +874,7 @@
 | [You Moved In](https://open.spotify.com/track/4YrxrrMT6534Ba8wrnnvZz) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [The Doctor Came At Dawn](https://open.spotify.com/album/5UEChIc8yAxAvJY9cz7q5y) | 4:34 | 2025-03-29 |  |
 | [You Never Know](https://open.spotify.com/track/7alJbTUjMt8RWwonkin3uf) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Light Verse](https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q) | 4:50 | 2024-04-29 |  |
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2024-01-18 |  |
+| [YouUgly \(with Westside Gunn\)](https://open.spotify.com/track/2m2AbCpeWgms32FdLfBBdk) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:43 | 2025-08-08 |  |
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |

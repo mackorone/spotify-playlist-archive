@@ -7921,6 +7921,24 @@
     },
     {
       "album": {
+        "name": "Shine Like Stars",
+        "url": "https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn"
+      },
+      "artists": [
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Shine Like Stars",
+      "url": "https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc"
+    },
+    {
+      "album": {
         "name": "Shipwreck / My World",
         "url": "https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna"
       },

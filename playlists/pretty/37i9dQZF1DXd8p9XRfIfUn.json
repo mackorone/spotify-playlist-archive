@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 80141,
+  "num_followers": 80154,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "FBI",
+        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 152773,
+      "name": "FBI",
+      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 218448,
       "name": "Pasajero",
       "url": "https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "FBI",
-        "url": "https://open.spotify.com/album/7eAcnI9pwFDR85Q0uxuWdL"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 152773,
-      "name": "FBI",
-      "url": "https://open.spotify.com/track/5QwJzRYztpLYguELCKWcvV"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 174892,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 169802,
       "name": "cosquillas",
       "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 174892,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
     },
     {
       "added_at": "2025-02-07 06:00:17",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-02-07 06:00:17",
       "album": {
-        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
-      },
-      "artists": [
-        {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
-        },
-        {
-          "name": "SokeThugPro",
-          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2025-02-07 06:00:17",
-      "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 188360,
       "name": "Q-Lito",
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
+    },
+    {
+      "added_at": "2025-02-07 06:00:17",
+      "album": {
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
     },
     {
       "added_at": "2025-02-07 06:00:17",

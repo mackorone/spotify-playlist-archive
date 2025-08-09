@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "Mamisuki",
+        "url": "https://open.spotify.com/album/5gfbFis0U4PKWI2nQ8AGgY"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132647,
+      "name": "Mamisuki",
+      "url": "https://open.spotify.com/track/2MOFVVt6fU8xSpG1CVRuia"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
       },
@@ -1876,7 +1898,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"

@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-413 songs - 21 hr 24 min
+414 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Wait For Me](https://open.spotify.com/track/2hBW1iJavk57xEV9n6Nven) | [Doctor Neiman](https://open.spotify.com/artist/4O6KqCW3WUncBfaan8SYDe), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Wait For Me](https://open.spotify.com/album/0zECTjnRLcusNmXSFlP3vj) | 3:35 | 2023-08-10 |  |
 | [Waiting For You](https://open.spotify.com/track/1TMABbejBbBNMd49DHFHdL) | [Fiko](https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq) | [Waiting For You](https://open.spotify.com/album/0EPcMNw5f3KFDzIhA3Rylx) | 2:45 | 2022-02-08 | 2023-08-11 |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-08-10 | 2024-11-20 |
+| [Want Your Body](https://open.spotify.com/track/4BVdyQn5EMDxHNlTQXOOMy) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Want Your Body](https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d) | 2:48 | 2025-08-08 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-30 | 2023-08-11 |
 | [Warriors](https://open.spotify.com/track/67CXgSwER3AaTU67HhxJCO) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X), [Requenze](https://open.spotify.com/artist/7974sO7NSYmKn0dQgJvGfJ) | [Warriors](https://open.spotify.com/album/0yp0AWCVnLfDCIVuQm90RC) | 3:48 | 2022-02-03 | 2023-08-11 |
 | [WHAT](https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [WHAT](https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo) | 3:44 | 2024-01-03 |  |

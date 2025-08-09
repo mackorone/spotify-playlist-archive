@@ -5769,6 +5769,36 @@
     },
     {
       "album": {
+        "name": "Kuna",
+        "url": "https://open.spotify.com/album/3PtmwjH3LINQhlNemqXoE2"
+      },
+      "artists": [
+        {
+          "name": "DJ Satelite",
+          "url": "https://open.spotify.com/artist/3Jbb0CKTNea0vdoBVrXaYk"
+        },
+        {
+          "name": "Dj G\u00e1lio",
+          "url": "https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP"
+        },
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        },
+        {
+          "name": "Seres Producoes",
+          "url": "https://open.spotify.com/artist/4Tc0h5NCnYlFuq8GLOXaGC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Kuna",
+      "url": "https://open.spotify.com/track/1rZvgUd0SAysaUbld4YmmL"
+    },
+    {
+      "album": {
         "name": "La danse du ciel",
         "url": "https://open.spotify.com/album/05f8CA9xSV6npzBzok7AKa"
       },
@@ -6070,7 +6100,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 235300,
       "name": "Lela",
       "url": "https://open.spotify.com/track/2aTtcIhZwFPxGB2w2WGrE8"

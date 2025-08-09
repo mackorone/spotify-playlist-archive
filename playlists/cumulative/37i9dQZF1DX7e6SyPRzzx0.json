@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-02",
-  "description": "The home of rage rap. Cover: Ken Carson",
+  "description": "The home of rage rap. Cover: Homixide Gang",
   "name": "RAGE",
   "tracks": [
     {
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "i need meds",
+        "url": "https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95204,
+      "name": "i need meds",
+      "url": "https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr"
+    },
+    {
+      "album": {
         "name": "i need u",
         "url": "https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz"
       },
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 146004,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC"
@@ -2345,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "Homixide Lifestyle 2",
+        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149594,
+      "name": "PB&J (with Ken Carson)",
+      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
+    },
+    {
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo"
       },
@@ -2476,7 +2516,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 105500,
       "name": "R50",
       "url": "https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H"

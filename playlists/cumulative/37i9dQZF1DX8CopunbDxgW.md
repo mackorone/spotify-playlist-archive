@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> Tame Impala enters their dance era 🏆 it's all the best indie dance tracks of the moment
+> New tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
 
 1,943 songs - 4 day 22 hr 27 min
 

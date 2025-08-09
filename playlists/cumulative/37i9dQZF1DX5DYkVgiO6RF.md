@@ -4,7 +4,7 @@
 
 > all cruise, no breaks
 
-148 songs - 9 hr 22 min
+149 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [FEEDBACK](https://open.spotify.com/track/1e4cfNsYbGeMmsgl6VlFTK) | [Boy Deluxe](https://open.spotify.com/artist/742VMDRiRdlhMFfFn2qbpo) | [FEEDBACK](https://open.spotify.com/album/4VU4hhEVVttXYV8bJn6MJc) | 3:03 | 2025-04-04 | 2025-07-04 |
 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 | 2022-05-05 | 2023-09-06 |
 | [Figure](https://open.spotify.com/track/0VYxLT8xjoVQfYdSxNUDw9) | [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Figure](https://open.spotify.com/album/3LSP2OcYGw6HQ8uRoqJbP9) | 7:00 | 2022-05-05 | 2023-09-06 |
-| [FIRE](https://open.spotify.com/track/2c3Zw4hVk9bPIHfjXLHj00) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [FIRE](https://open.spotify.com/album/1R3LPEARw1RFuAPTLNv097) | 3:24 | 2025-07-18 |  |
+| [FIRE](https://open.spotify.com/track/2c3Zw4hVk9bPIHfjXLHj00) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [FIRE](https://open.spotify.com/album/1R3LPEARw1RFuAPTLNv097) | 3:24 | 2025-07-18 | 2025-08-09 |
 | [Flashback](https://open.spotify.com/track/6A8llSO9QFF4djCCmuCrNu) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ready For The Weekend](https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM) | 3:47 | 2022-05-05 | 2023-09-06 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2023-09-05 | 2025-08-06 |
 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 | 2023-09-05 |  |
@@ -84,6 +84,7 @@
 | [Los Vampiros](https://open.spotify.com/track/5VB2MeRshgRRsW7S1KgF9I) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo), [\( Me Llamo \) Sebastián](https://open.spotify.com/artist/5PoJhiT21fXvZitg3guhiJ) | [Sangre Cita](https://open.spotify.com/album/4E9LzQNoHtvUo6LpEsWjVN) | 4:25 | 2022-05-05 | 2023-08-12 |
 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 | 2025-07-03 |  |
 | [LOSTFEELING](https://open.spotify.com/track/5likoxFSn1O7mh7yjmmIc5) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [STARPWR4HIRE](https://open.spotify.com/album/2YItMk7JwaVRO6Z0L7WrEw) | 2:27 | 2024-10-18 | 2024-11-30 |
+| [lucid dreaming](https://open.spotify.com/track/5FtbSnllpWLkoDYYzl2Biw) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [lucid dreaming](https://open.spotify.com/album/28b8F7dZus7smK4RW67Heb) | 2:48 | 2025-08-08 |  |
 | [MIA](https://open.spotify.com/track/435hrvKro7Lgs60sxE1Ps5) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [MIA](https://open.spotify.com/album/3TTs73XPopNMV7Sw7OWIGi) | 2:45 | 2024-05-31 | 2024-08-21 |
 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 | 2023-09-05 |  |
 | [Moving On](https://open.spotify.com/track/3Jl6WHQ5cXbSM1yZXay6XN) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Roosevelt](https://open.spotify.com/album/21h3nv4SJgMi9SQaFiFUFX) | 4:43 | 2022-05-05 | 2023-09-06 |

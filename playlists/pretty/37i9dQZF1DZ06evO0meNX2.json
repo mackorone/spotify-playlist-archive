@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 39663,
+  "num_followers": 39673,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAAgINTOq+ZVvjysS6AZblEF",
+  "snapshot_id": "aJPsgAAAAAChg24dUGAxNXYtEGe0E5cW",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 178500,
       "name": "Mexican Flan",
       "url": "https://open.spotify.com/track/5EnoBLm3M7rN7XWQ1nfhXv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7mlCta03Ctg4iH2l3vZXDD"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Un Ni\u00f1o Buscando Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5MJ2YApCCkbTybfHCzG8BL"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Leyenda",
-        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 160884,
-      "name": "Yo Soy del Golfo",
-      "url": "https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Ahora Resulta",
         "url": "https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 213907,
       "name": "Y Ahora Resulta",
       "url": "https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Leyenda",
+        "url": "https://open.spotify.com/album/3wCdZP5zvUlanVuNI951Il"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 160884,
+      "name": "Yo Soy del Golfo",
+      "url": "https://open.spotify.com/track/2z0v4DMAbcKCOJPY1CJjlo"
     },
     {
       "added_at": null,
@@ -543,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Amor II",
-        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
+      "duration_ms": 196031,
+      "name": "Ant\u00eddoto de Amor",
+      "url": "https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA"
     },
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Compas Vol. 1",
-        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+        "name": "X Amor II",
+        "url": "https://open.spotify.com/album/2VYdhZU6KonE9X50HFLHhM"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
         },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 196031,
-      "name": "Ant\u00eddoto de Amor",
-      "url": "https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA"
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/4unGsS2C1JL3UG7gkYXJp3"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 179605,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notas Musicales",
         "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 250991,
       "name": "Notas Musicales",
       "url": "https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 179605,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tierno",
-        "url": "https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 138954,
-      "name": "Tierno",
-      "url": "https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mimimi",
         "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 179778,
       "name": "Mimimi",
       "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tierno",
+        "url": "https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 138954,
+      "name": "Tierno",
+      "url": "https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY"
     },
     {
       "added_at": null,

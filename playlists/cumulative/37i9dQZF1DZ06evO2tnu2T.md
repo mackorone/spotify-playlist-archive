@@ -4,7 +4,7 @@
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-18 songs - 55 min 45 sec
+19 songs - 59 min 4 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 | 2025-05-08 | 2025-07-30 |
 | [Close To You](https://open.spotify.com/track/6HuEuUruCrjWyt00zHqJUx) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:54 | 2025-05-03 |  |
 | [Daylight](https://open.spotify.com/track/6P6RvzP7XmTIfiGrxT7nvb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:31 | 2025-06-14 |  |
-| [Glass](https://open.spotify.com/track/7mWB3oNV5SCMNxD0h0hjt2) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:18 | 2025-05-03 |  |
+| [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 | 2025-08-09 |  |
+| [Glass](https://open.spotify.com/track/7mWB3oNV5SCMNxD0h0hjt2) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:18 | 2025-05-03 | 2025-08-09 |
 | [Goodbye Glitter](https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Goodbye Glitter](https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii) | 3:54 | 2025-06-15 |  |
 | [I Just Don't Know You Yet](https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet](https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK) | 3:21 | 2025-06-29 |  |
 | [Real Love](https://open.spotify.com/track/6k90i92oRrG0qosTBcLjjx) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec) | [Eyes Up](https://open.spotify.com/album/5dvBx8aXzJjlJupOiOfRtD) | 2:16 | 2025-05-03 |  |

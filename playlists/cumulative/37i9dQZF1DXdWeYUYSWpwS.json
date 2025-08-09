@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Across the Ocean",
+        "url": "https://open.spotify.com/album/1IQkVahRCbvFMsYoNWEXie"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201736,
+      "name": "Across the Ocean",
+      "url": "https://open.spotify.com/track/3r053u3iVE5eLqiREndy4d"
+    },
+    {
+      "album": {
         "name": "Mozart: Works for Violin & Orchestra",
         "url": "https://open.spotify.com/album/4zETVNxxf0HT4iHXV0he0F"
       },

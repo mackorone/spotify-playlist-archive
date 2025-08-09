@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Error5 EP",
+        "url": "https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371250,
+      "name": "8ths",
+      "url": "https://open.spotify.com/track/3oLfgPob5XKsY48VB20UZz"
+    },
+    {
+      "album": {
         "name": "A Drug From God (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/3m9iHkgf9wX6fM5ZekvZPZ"
       },
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 258545,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > This week, \#SpotifyTBT is taking you on a short trip back to the mellow sounds of the early 2020s\. Cover: Alexander 23
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,687 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,428 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125103,
+  "num_followers": 125099,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUcuhYY1IzZ2GaF+p5DW5oeU5k2IJL",
+  "snapshot_id": "AAAUc1KkQmgKyjZB+dKv7HYcAiBUledb",
   "tracks": [
+    {
+      "added_at": "2025-08-08 14:38:38",
+      "album": {
+        "name": "Ashes",
+        "url": "https://open.spotify.com/album/2GCD6TRc3fKAyiGKWTHy0M"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/7LgqqZZSiEu2ILeWBtwMsq"
+    },
     {
       "added_at": "2025-08-07 14:03:41",
       "album": {

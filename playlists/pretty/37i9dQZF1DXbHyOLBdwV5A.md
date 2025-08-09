@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,339 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,356 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 57 | [O Autor](https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2) | [O Autor](https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr) | 2:56 |
 | 58 | [O Céu É O Meu Lugar](https://open.spotify.com/track/2BQ7Y0h3QKr9YCjCkAMoWz) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [O Céu É O Meu Lugar](https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP) | 3:55 |
 | 59 | [Graça](https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Jeovana Menezes](https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA) | [Graça](https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr) | 2:36 |
-| 60 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
-| 61 | [Deus É Bom o Tempo Todo](https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Decão Renovado](https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe) | [Deus É Bom o Tempo Todo](https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs) | 2:40 |
+| 60 | [Deus É Bom o Tempo Todo](https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Decão Renovado](https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe) | [Deus É Bom o Tempo Todo](https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs) | 2:40 |
+| 61 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
 | 62 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
 | 63 | [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [CAIO CESAR](https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 |
 | 64 | [Alto Preço](https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Alto Preço](https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8) | 3:09 |

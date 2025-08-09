@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 581055,
+  "num_followers": 581083,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "Episode III",
-        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        }
-      ],
-      "duration_ms": 347120,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
-    },
-    {
-      "added_at": "2025-08-08 02:10:48",
-      "album": {
         "name": "TORPE",
         "url": "https://open.spotify.com/album/5OPsL7uBEZtbHg0ZV2eUti"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 173500,
       "name": "TORPE",
       "url": "https://open.spotify.com/track/2nlD5OnCCotJVhOY2gGkEw"
+    },
+    {
+      "added_at": "2025-08-08 02:10:48",
+      "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
     },
     {
       "added_at": "2025-08-08 02:10:48",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
+        "name": "Pasulong",
+        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+    },
+    {
+      "added_at": "2025-08-08 02:10:48",
+      "album": {
         "name": "Ultraelectromagnetic Jam",
         "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 264413,
       "name": "With a Smile (feat. Kelly Badon)",
       "url": "https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi"
-    },
-    {
-      "added_at": "2025-08-08 02:10:48",
-      "album": {
-        "name": "Pasulong",
-        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
-      },
-      "artists": [
-        {
-          "name": "Alamat",
-          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
-        }
-      ],
-      "duration_ms": 210782,
-      "name": "Maharani",
-      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
     },
     {
       "added_at": "2025-08-08 02:10:48",
@@ -855,18 +855,22 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "Curiosity Killed the Cat",
-        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
+        "name": "Sampung Mga Daliri",
+        "url": "https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv"
       },
       "artists": [
         {
-          "name": "HEY JUNE!",
-          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        },
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
         }
       ],
-      "duration_ms": 185018,
-      "name": "Asan Ang Gana Ko",
-      "url": "https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr"
+      "duration_ms": 219863,
+      "name": "Sampung Mga Daliri",
+      "url": "https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf"
     }
   ],
   "unique_name": "Relax Tayo",

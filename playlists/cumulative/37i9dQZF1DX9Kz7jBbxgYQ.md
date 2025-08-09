@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Paresh Pahuja
 
-366 songs - 20 hr 31 min
+368 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Left Right](https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Left Right](https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp) | 3:16 | 2023-04-28 | 2024-07-27 |
 | [Long time no see](https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Long time no see](https://open.spotify.com/album/5qBulMP2DP48SEyNwsXY79) | 3:38 | 2024-01-05 |  |
 | [Love Again](https://open.spotify.com/track/5Deg8uiLYB1f4jDwsLcc8E) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [Love Again](https://open.spotify.com/album/5D1ji60nDNYmSGb5ql6cE5) | 2:33 | 2024-01-05 | 2025-04-19 |
+| [Lutteya](https://open.spotify.com/track/5lvRJt718g6Crz1x5mzlDW) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Lutteya](https://open.spotify.com/album/4alqVnUPeTCTlRLT6FLtyW) | 2:48 | 2025-08-08 |  |
 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 | 2025-05-30 | 2025-07-22 |
 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 | 2024-12-12 | 2025-04-12 |
 | [Mai Ni Meriye](https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Mai Ni Meriye](https://open.spotify.com/album/0ihCuXL4ZcE0FKqRwyithU) | 2:52 | 2023-04-28 | 2023-09-05 |
@@ -318,6 +319,7 @@
 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 | 2022-07-15 | 2022-09-02 |
 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 | 2022-05-20 | 2022-07-16 |
 | [Taranay](https://open.spotify.com/track/2cKCPVpbbgAUGI0Tm0HRVr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Taranay](https://open.spotify.com/album/6PuDQxcgpBiErIu05qgR6V) | 3:49 | 2025-02-18 | 2025-03-18 |
+| [Taranay](https://open.spotify.com/track/5bgf47eUmxszHhheSkaUZr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [thikaana](https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe) | 3:49 | 2025-08-08 |  |
 | [Tell Me](https://open.spotify.com/track/4TGV9OOnxyOb3v90ARPKq1) | [Kadin](https://open.spotify.com/artist/3R2XAQ32DYdjhk3ieyidwR) | [Tell Me](https://open.spotify.com/album/1m8UzwuXs2HfHjbM9txHfb) | 2:25 | 2022-05-20 | 2022-07-16 |
 | [Tera He](https://open.spotify.com/track/29e40jsIZoGF6Z5xaTrL44) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Tera He](https://open.spotify.com/album/5KtrNxdzIqQajheVrVCmDn) | 2:48 | 2022-11-02 | 2023-04-29 |
 | [Tera Mera Aasmaan](https://open.spotify.com/track/6mOqFm4X4tdcraFWQibZSA) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Tera Mera Aasmaan](https://open.spotify.com/album/5vbcq7UU1ezZ0uKs7SWXwX) | 2:38 | 2023-02-26 | 2023-11-30 |

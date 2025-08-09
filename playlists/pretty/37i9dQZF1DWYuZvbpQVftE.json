@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 39541,
+  "num_followers": 39568,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Coolin'",
-        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 463346,
-      "name": "The Eagle Flies",
-      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Coolin'",
+        "url": "https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 463346,
+      "name": "The Eagle Flies",
+      "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+        "name": "Harold In The Land Of Jazz",
+        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
         }
       ],
-      "duration_ms": 503013,
-      "name": "Litha",
-      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
+      "duration_ms": 426533,
+      "name": "Grooveyard",
+      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -423,34 +423,18 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Harold In The Land Of Jazz",
-        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
       },
       "artists": [
         {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 426533,
-      "name": "Grooveyard",
-      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Bob Brookmeyer & Friends",
-        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
-      },
-      "artists": [
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Sometime Ago",
-      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
+      "duration_ms": 503013,
+      "name": "Litha",
+      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -467,6 +451,22 @@
       "duration_ms": 175080,
       "name": "Nights At The Turntable",
       "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Bob Brookmeyer & Friends",
+        "url": "https://open.spotify.com/album/12JCMQ79q662srkjDGoe02"
+      },
+      "artists": [
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Bud Shank and Bill Perkins",
         "url": "https://open.spotify.com/album/1YexsZvfHo2a91d5wcMDiZ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 200600,
       "name": "A Sinner Kissed an Angel",
       "url": "https://open.spotify.com/track/7snDsIyC2wKPrXv7oyI4t5"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
-      },
-      "artists": [
-        {
-          "name": "The Chet Baker Sextet",
-          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
-        }
-      ],
-      "duration_ms": 285620,
-      "name": "Little Man You've Had a Busy Day",
-      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "I Had the Craziest Dream (Remastered)",
         "url": "https://open.spotify.com/album/1CnSldoLRIMUGSuXSUxdPK"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 313573,
       "name": "Nap's Dream (I Had the Craziest Dream) [Remastered]",
       "url": "https://open.spotify.com/track/5Ky8Al2TGETBozs8xJ6L25"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/02O3WhAMDqv4kL7tvdzXQt"
+      },
+      "artists": [
+        {
+          "name": "The Chet Baker Sextet",
+          "url": "https://open.spotify.com/artist/1q1geiLRhQOQRtPijlG2wi"
+        }
+      ],
+      "duration_ms": 285620,
+      "name": "Little Man You've Had a Busy Day",
+      "url": "https://open.spotify.com/track/4nJNXNc3ylbmtqFkNXJ8HO"
     },
     {
       "added_at": "2024-09-03 09:42:20",

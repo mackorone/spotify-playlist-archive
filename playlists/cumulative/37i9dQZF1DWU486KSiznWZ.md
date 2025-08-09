@@ -4,7 +4,7 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: عايض
 
-217 songs - 15 hr 34 min
+220 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Faraktozy](https://open.spotify.com/track/12h7uMuEanhGWfnzOyvo8h) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Faraktozy](https://open.spotify.com/album/1OAttDR3r7GbxCNeSgElrE) | 3:50 | 2022-08-14 | 2022-10-05 |
 | [Fattak](https://open.spotify.com/track/1enP6Ed10meQlHsbOF7qob) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fattak](https://open.spotify.com/album/1StqBpyc5o8sBJxXIt3xAW) | 4:23 | 2022-04-07 | 2022-08-15 |
 | [Fi Bali](https://open.spotify.com/track/5qQCl5LhHzUXOW8ngCsCjq) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Lil Eazy](https://open.spotify.com/artist/7g2LNiqq1JAYSf1OcZY8NS), [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Fi Bali](https://open.spotify.com/album/5NhcEhXwj3dMqIovtmkQg1) | 2:26 | 2022-04-07 | 2022-06-09 |
+| [Galbi Kebeer](https://open.spotify.com/track/2kpxx0hILDzbfmA9IZRnTd) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [Galbi Kebeer](https://open.spotify.com/album/6DIsEFwgHYuPzdIcL4E4PW) | 4:12 | 2025-08-08 |  |
 | [Gedidi Ent](https://open.spotify.com/track/1V0IXSeAke4TvLjy1cNIdj) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Gedidi Ent](https://open.spotify.com/album/2XMuog8bq0jcsClWvVzebk) | 4:21 | 2024-11-18 |  |
 | [Ghazal Ma Yensady](https://open.spotify.com/track/5EKVL6XHsGCWeMik7XBMh8) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Ghazal Ma Yensady](https://open.spotify.com/album/1llAZW89HSt3gIZ0UOcLHI) | 6:35 | 2022-04-07 | 2023-04-30 |
 | [Habeetah](https://open.spotify.com/track/2BFY9ag7SFQu5I3oATyhqg) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Habeetah](https://open.spotify.com/album/0s99kDnLkDyW8Y4LsnCl0I) | 4:20 | 2023-07-27 | 2024-07-05 |
@@ -198,6 +199,7 @@
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-12-08 | 2023-05-07 |
 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 | 2023-05-16 | 2024-04-19 |
 | [كل أحبك](https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:20 | 2024-01-03 | 2024-04-19 |
+| [كل ما بغيت](https://open.spotify.com/track/1aKoHSI8NrQ6oxG5aoO98J) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما بغيت](https://open.spotify.com/album/3RpdGoFAU2TsKvdz3bnGNr) | 3:20 | 2025-08-08 |  |
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 | 2022-10-05 |
 | [كلمني](https://open.spotify.com/track/4SWldutKma2NvU850zeEkd) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/04aRoZxBPhR6aYvTkC7f6F) | 3:26 | 2022-09-07 | 2022-09-29 |
 | [لا لا يالخيزرانه](https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [لا لا يالخيزرانه](https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q) | 3:36 | 2023-02-14 | 2023-10-12 |
@@ -224,6 +226,7 @@
 | [وينه](https://open.spotify.com/track/5wglb4bSdNs2bdPqCRq0iZ) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [وينه](https://open.spotify.com/album/5onbD11TjYBvvotTzH1XQj) | 5:06 | 2023-02-14 | 2024-04-19 |
 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 | 2023-01-09 | 2024-04-19 |
 | [يا ابن خماش](https://open.spotify.com/track/18O3X0PmVps7R1JGMeIfph) | [محمد ال نجم المري](https://open.spotify.com/artist/2TkDT3pmW3dv7avlGjAAuy) | [يا ابن خماش](https://open.spotify.com/album/4Ib0kCcN26ueEBQ1v5De6C) | 4:02 | 2022-08-14 | 2022-09-09 |
+| [ياروح الدار](https://open.spotify.com/track/5QgE9vKn1YDRyo8xCFxCux) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [ياروح الدار](https://open.spotify.com/album/6H3agKmhnsCTVf1rLv1M9A) | 4:44 | 2025-08-08 |  |
 | [يذكرني الشتاء](https://open.spotify.com/track/7m8xFOiG78eaTpnWCVT5Xp) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [يذكرني الشتاء](https://open.spotify.com/album/2H1sagWhwYpDkxI3lprHUC) | 2:55 | 2023-04-20 | 2023-09-30 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

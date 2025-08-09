@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Metro Boomin, YoungBoy Never Broke Again and Yeat.
+> New music from Gunna, Bryson Tiller and Young Nudy.
 
-2,457 songs - 5 day 7 hr 24 min
+2,458 songs - 5 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1864,6 +1864,7 @@
 | [Shotta Flow 5](https://open.spotify.com/track/6pOpsuCxYF1cuRkHBPDigj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:25 | 2020-08-21 | 2020-08-30 |
 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 | 2023-12-08 | 2024-02-10 |
 | [Shottas \(Lala\)](https://open.spotify.com/track/2Ox2c1WEJDeQCHTXPE3YKM) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:02 | 2021-04-24 | 2021-05-29 |
+| [Shoulder Lean \(feat\. T.I.\)](https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii) | [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Best Thang Smokin' \(Explicit Version\)](https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r) | 4:18 | 2025-08-07 |  |
 | [Show Me Up](https://open.spotify.com/track/3BGppswSnFNGUSFiJ6rj4n) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Show Me Up](https://open.spotify.com/album/5xe3MDpbfGY6ELBF4zU29w) | 2:46 | 2021-04-10 | 2021-04-24 |
 | [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 | 2024-04-13 | 2024-04-19 |
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2020-12-11 | 2021-03-19 |

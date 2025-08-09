@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-472 songs - 22 hr 4 min
+473 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [Sommerkinder](https://open.spotify.com/track/1KZwH2Xz20o8ixlFbc5dw1) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 2:56 | 2023-06-28 | 2023-09-01 |
 | [Sommerkinder](https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 2:58 | 2024-06-02 |  |
 | [Sommertag](https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Sommertag](https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf) | 2:08 | 2023-08-04 |  |
-| [Sommerzeit](https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommerzeit](https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs) | 2:14 | 2024-06-07 |  |
+| [Sommerzeit](https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Das grüne Album](https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R) | 2:14 | 2025-08-08 |  |
+| [Sommerzeit](https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Sommerzeit](https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs) | 2:14 | 2024-06-07 | 2025-08-09 |
 | [Sonne, Mond und Sterne](https://open.spotify.com/track/4rsdmYSwg7nxCSkb4GEn5J) | [Lauras Stern](https://open.spotify.com/artist/0xY8w0o3cSH3gzx4G4h8qD), [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Lauras Stern \- Das Liederalbum zum Kinofilm](https://open.spotify.com/album/7r855N0wTZTFxyiFntXUsz) | 3:02 | 2023-11-05 | 2024-11-15 |
 | [Sonne, Mond und Sterne](https://open.spotify.com/track/7K5yVlLdF8T5qyIX8WLdOz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 2:30 | 2023-11-05 | 2024-11-15 |
 | [Sonnenkäferlied](https://open.spotify.com/track/0JO4ZvcJ1kGE84TH8C9YOV) | [Kalle Klang](https://open.spotify.com/artist/1OGb7SU2LprgqW6I11mdeM), [Die Flohtöne](https://open.spotify.com/artist/1udPbK2uKdBxyEfBpTl1mm), [Sing Kinderlieder](https://open.spotify.com/artist/0FaGQhzs7L0uIuUdjolB1n) | [Sing mit mir Kinderlieder 4](https://open.spotify.com/album/5SgiKSIJZIr6nhEoYNEIIY) | 2:23 | 2023-06-28 | 2024-04-19 |

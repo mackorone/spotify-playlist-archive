@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,008 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,005 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 19 | [Veteran](https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Veteran](https://open.spotify.com/album/2NkaFioRIq3TyUiQLtz1i7) | 2:20 |
 | 20 | [Suburban, Pt\. 2](https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Growth & Development](https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id) | 3:10 |
 | 21 | [Feelings](https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Feelings](https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ) | 2:38 |
-| 22 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 |
-| 23 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
+| 22 | [Body](https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Body](https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ) | 3:03 |
+| 23 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 |
 | 24 | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/track/3B0WbRucJ6ZIla2G9IVt2E) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [I Dunno \(feat\. Dutchavelli & Stormzy\)](https://open.spotify.com/album/4HFf49hM2U0n27vIms1OjU) | 2:58 |
 | 25 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 26 | [Is Ya Ready](https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Is Ya Ready](https://open.spotify.com/album/7N2DIKOu4lxVAqcLX8ZOqp) | 2:04 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 47 | [Cold Shoulder](https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Cold Shoulder](https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub) | 3:12 |
 | 48 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 | 49 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 |
-| 50 | [Greece](https://open.spotify.com/track/5ohlN3aJiV7849vqb3HDI1) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greece](https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu) | 2:39 |
+| 50 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
 
 Snapshot ID: `AAAAALLvl6dQ2upSgXl/zuygbqtoh7y6`

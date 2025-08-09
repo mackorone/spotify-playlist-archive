@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Guy Sebastian
 
-2,091 songs - 4 day 11 hr 55 min
+2,092 songs - 4 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1651,6 +1651,7 @@
 | [Split Enz](https://open.spotify.com/track/5YdORq6pAR5FurHWdIn1mq) | [THE DALS](https://open.spotify.com/artist/5OsNJOHr8bPLl4ct41ZeUE) | [Split Enz](https://open.spotify.com/album/13UbOiqgESzJKguCCJuils) | 2:59 | 2023-06-15 | 2023-07-21 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-23 | 2025-02-28 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-19 | 2024-11-08 |
+| [Spring Cleaning](https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Reason To Hate You](https://open.spotify.com/album/7fLXDsRokVOibKg5oTALze) | 3:15 | 2025-08-07 |  |
 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 | 2025-03-28 | 2025-05-02 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-02 | 2023-12-22 |
 | [Stardust](https://open.spotify.com/track/5HEyw10rgzhafEStBiYyAZ) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stardust](https://open.spotify.com/album/3rdoEl4nqp8LhJOb7dGhVj) | 3:01 | 2024-05-16 | 2024-06-14 |

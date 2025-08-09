@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-08",
+      "date_removed": null,
       "duration_ms": 188924,
       "name": "Agradezco",
       "url": "https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z"
@@ -1300,6 +1300,32 @@
     {
       "album": {
         "name": "Honesty",
+        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143829,
+      "name": "Oww Nena Remix",
+      "url": "https://open.spotify.com/track/3HZJLr9bxQT2M5XUs9eC08"
+    },
+    {
+      "album": {
+        "name": "Honesty",
         "url": "https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8"
       },
       "artists": [
@@ -1318,7 +1344,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 143829,
       "name": "Oww Nena Remix",
       "url": "https://open.spotify.com/track/6edq7o2dl2xdWk6SyhZk7d"
@@ -1508,7 +1534,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 197215,
       "name": "Si Pudiera Regresar",
       "url": "https://open.spotify.com/track/0VoCvWTX6MtCO4SSXdttwP"

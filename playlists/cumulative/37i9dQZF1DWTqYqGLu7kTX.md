@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover:  Sidhu Moose Wala
 
-282 songs - 13 hr 57 min
+283 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-03-18 | 2024-11-14 |
 | [315 \(feat\. Shinda Kahlon & Jazzy B\)](https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:11 | 2024-08-30 |  |
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-04-10 | 2024-11-28 |
-| [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-11 |  |
+| [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-11 | 2025-08-09 |
 | [52 Bars](https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:34 | 2023-03-18 | 2025-01-18 |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-04-23 | 2023-06-24 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-18 |  |
@@ -103,6 +103,7 @@
 | [Fuck Em All](https://open.spotify.com/track/0Z2SFlnXH9yMN36djUeqyE) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Fuck Em All](https://open.spotify.com/album/6PTLko2QL2jLSvSVqrwIrd) | 3:54 | 2023-03-18 | 2023-12-19 |
 | [Fuck Them](https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:50 | 2024-08-26 | 2024-09-17 |
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2023-03-18 | 2024-11-12 |
+| [Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 | 2025-08-08 |  |
 | [Gabru](https://open.spotify.com/track/0GwNnekTpPXcbyni4NawXD) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Gabru](https://open.spotify.com/album/7JoRuzTq3XToLeYEj8L8EA) | 2:51 | 2023-03-18 | 2023-05-27 |
 | [Game Over](https://open.spotify.com/track/6dUGQzqCA18wKzVuiGttJF) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:34 | 2023-03-18 | 2025-02-15 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-03-18 | 2024-10-17 |

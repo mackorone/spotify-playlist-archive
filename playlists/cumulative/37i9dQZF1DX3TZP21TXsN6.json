@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "CONSISTENT",
+        "url": "https://open.spotify.com/album/1opbKFBxtiSeiUurlVzYvR"
+      },
+      "artists": [
+        {
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa"
+        },
+        {
+          "name": "ATLouis",
+          "url": "https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "CONSISTENT",
+      "url": "https://open.spotify.com/track/2ooZJKlbugIWco7jDtFg4u"
+    },
+    {
+      "album": {
         "name": "DE ZON SCHIJNT",
         "url": "https://open.spotify.com/album/7Lsmz2X42D66Cm1iIfki8a"
       },

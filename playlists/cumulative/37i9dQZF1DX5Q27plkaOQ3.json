@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with RIOT",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with Quackson",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 168400,
       "name": "Brain Busta",
       "url": "https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK"
@@ -5086,7 +5086,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 218482,
       "name": "Death Zone",
       "url": "https://open.spotify.com/track/36BVb4KMtZfgtfyhCd6jHm"
@@ -7445,6 +7445,24 @@
     },
     {
       "album": {
+        "name": "Omen EP",
+        "url": "https://open.spotify.com/album/4s6jaeguLydndUPVFzbtL5"
+      },
+      "artists": [
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0oAoqcUcDPnFzWo4PvKZSZ"
+    },
+    {
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4gLtEjpQonZ0UQ8jdd6IFq"
       },
@@ -7736,7 +7754,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-11",
+      "date_removed": null,
       "duration_ms": 164800,
       "name": "Fibonacci (Part 1)",
       "url": "https://open.spotify.com/track/18gHgIFCm364wY342l620P"
@@ -9390,7 +9408,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 189428,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
@@ -10018,7 +10036,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "Hold Me One More Time",
       "url": "https://open.spotify.com/track/6VbvigV2ODddEjJwpOMkPm"
@@ -11298,6 +11316,24 @@
       "duration_ms": 177600,
       "name": "IT'S TIME",
       "url": "https://open.spotify.com/track/3yp5xvaUx4suvU2nx5Wtwr"
+    },
+    {
+      "album": {
+        "name": "Itchy Scratchy",
+        "url": "https://open.spotify.com/album/7ux6l9kHz1x6tHl1runcDq"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Itchy Scratchy",
+      "url": "https://open.spotify.com/track/3AU0hykNQtcqOX4qpm1k6p"
     },
     {
       "album": {
@@ -14282,7 +14318,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 186400,
       "name": "No One Does It Like",
       "url": "https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t"
@@ -20270,7 +20306,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 155538,
       "name": "Tear Jerker",
       "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
@@ -21912,7 +21948,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 157700,
       "name": "Turbo Time",
       "url": "https://open.spotify.com/track/7hC29MX6DygcbiLsqkP5x7"

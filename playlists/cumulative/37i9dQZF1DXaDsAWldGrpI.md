@@ -2,9 +2,9 @@
 
 ### [Country Live](https://open.spotify.com/playlist/37i9dQZF1DXaDsAWldGrpI)
 
-> Your favorite artists, recorded live \- just like you were there! Cover: HARDY
+> Your favorite artists, recorded live \- just like you were there! Cover: Alex Warren & Luke Combs
 
-206 songs - 14 hr 24 min
+207 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Dust on the Bottle \(with David Lee Murphy\) \- Live](https://open.spotify.com/track/3oKY5smJilXhPZ3ewVanYI) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 3:41 | 2021-07-22 | 2022-03-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-08-18 | 2023-08-21 |
 | [Fast Car \- Live](https://open.spotify.com/track/7AQjb9B8CJ9Hb07ma21zoy) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fast Car \(Live\)](https://open.spotify.com/album/77UPYl23MLMV81NslkxgUe) | 4:27 | 2023-08-20 |  |
-| [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 | 2021-07-22 |  |
+| [Fast Cars And Freedom \- Live In Concert](https://open.spotify.com/track/3FS8K3u8fGeiGz0FybRIeP) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [The Vault](https://open.spotify.com/album/4LCKLiSDG78CCZf7BGYC7V) | 4:51 | 2021-07-22 | 2025-08-09 |
 | [Fishin' In The Dark \- Live At The Red Deer Fine Arts Center, Canada/1991](https://open.spotify.com/track/1EzLOOiaWCQGIQVQeBKngv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:26 | 2021-07-22 |  |
 | [FISHIN' IN THE DARK \- Live from the Road](https://open.spotify.com/track/2K7vNpvZO2QkGZVoG263im) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [FISHIN' IN THE DARK \(Live from the Road\)](https://open.spotify.com/album/5zBeDeoGCCBq8OYdtYQcKl) | 3:22 | 2024-06-14 |  |
 | [Folsom Prison Blues \- Live at Folsom State Prison, Folsom, CA \- January 1968](https://open.spotify.com/track/55vr0rSNotM3KY1OB7H4zf) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Country Music \- A Film by Ken Burns \(The Soundtrack\) \[Deluxe\]](https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC) | 2:43 | 2024-05-04 |  |
@@ -134,6 +134,7 @@
 | [Once In A Lifetime \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/384QzCWUyXbF4U2afrLYcT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 7:10 | 2021-07-22 | 2024-05-05 |
 | [One Bad Habit \- Live](https://open.spotify.com/track/459HlWTIWPXEPG5b6QXttu) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [One Bad Habit \(Live\)](https://open.spotify.com/album/2WHkHvzjILIUTrxNR7yq5Y) | 3:16 | 2024-08-30 |  |
 | [Only Love \- Live](https://open.spotify.com/track/0KqrQXTJn4LPs9tth3gUV7) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Only Love \(Live\)](https://open.spotify.com/album/4K4ExOoYv3Te1I4HO3csmZ) | 4:29 | 2024-08-30 | 2024-09-20 |
+| [Ordinary \(feat\. Luke Combs\) \- Live from Lollapalooza](https://open.spotify.com/track/544MbvxR6BADypONwJlZAp) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ordinary \(feat\. Luke Combs\) \- Live from Lollapalooza](https://open.spotify.com/album/4BvfHYlT6FmsyneFr18aL4) | 3:25 | 2025-08-08 |  |
 | [Ours \- Live/2011](https://open.spotify.com/track/68QyrSzpnoU04AAhE5z8lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 4:05 | 2021-07-22 |  |
 | [Over For You \- Live in Melbourne](https://open.spotify.com/track/05n88AzLQdSxS3qNQeTJBl) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You \(Live in Melbourne\)](https://open.spotify.com/album/0LjpFQ6PhPfKERb0zHwFc2) | 3:34 | 2022-10-07 | 2024-05-05 |
 | [Over For You \- Live in Melbourne](https://open.spotify.com/track/5GAMPTTXZgtFJZzN7VcDNX) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 3:34 | 2023-06-30 | 2024-04-19 |

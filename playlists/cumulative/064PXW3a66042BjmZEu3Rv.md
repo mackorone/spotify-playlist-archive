@@ -4,7 +4,7 @@
 
 > De beste nieuwe Nederlandse muziek vind je hier! Met o.a\. Zoë Tauran &amp; Frenna \(cover\), Noano, Kensington en meer
 
-65 songs - 3 hr 6 min
+66 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,5 +73,6 @@
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/7Gzz44FpTbZu0DNVVZjwPs) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/1y7MAbKaVkvR7G8FkaA1ju) | 3:19 | 2025-07-04 |  |
 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 | 2025-07-04 |  |
 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 | 2025-07-04 |  |
+| [Zeg me wat er overblijft](https://open.spotify.com/track/2qL7aeqirqV3aZwBNB8h1z) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Zeg me wat er overblijft](https://open.spotify.com/album/6Wcw24l3aqQorZlRbp8IiA) | 2:43 | 2025-08-08 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

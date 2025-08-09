@@ -2,7 +2,7 @@
 
 ### [Radar Indie](https://open.spotify.com/playlist/37i9dQZF1DX6JdAKMqGwZ5)
 
-> Descubre los temas emergentes del mundo indie\. Foto: Barry B.
+> Descubre los temas emergentes del mundo indie\. Foto: Roy Borland.
 
 521 songs - 1 day 3 hr 4 min
 

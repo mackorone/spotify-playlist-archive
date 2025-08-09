@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 128124,
+  "num_followers": 128150,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAADBGuXK/nppcQkdbb6rwqDZ",
+  "snapshot_id": "aJPsgAAAAADBOpxxLEIK6iCNuw6M8R+v",
   "tracks": [
     {
       "added_at": null,
@@ -479,38 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Genuflecting Ghost",
-      "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -531,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
       "artists": [
         {
@@ -540,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 244765,
-      "name": "The Hidden River of My Life",
-      "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
+      "duration_ms": 212866,
+      "name": "Genuflecting Ghost",
+      "url": "https://open.spotify.com/track/4Ysl0ybOaEiipH0Sb3A0qy"
     },
     {
       "added_at": null,
@@ -556,15 +524,15 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 122026,
-      "name": "Redford (for Yia-Yia and Pappou)",
-      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
       "artists": [
         {
@@ -572,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 222934,
-      "name": "My Red Little Fox",
-      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
+      "duration_ms": 244765,
+      "name": "The Hidden River of My Life",
+      "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
     },
     {
       "added_at": null,
@@ -599,6 +567,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 222934,
+      "name": "My Red Little Fox",
+      "url": "https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 122026,
+      "name": "Redford (for Yia-Yia and Pappou)",
+      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Greatest Gift",
         "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
@@ -611,6 +611,42 @@
       "duration_ms": 111716,
       "name": "The Greatest Gift",
       "url": "https://open.spotify.com/track/14VWPYWaemUTwfy1G1Nnoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 223344,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 112583,
+      "name": "Javelin (To Have And To Hold)",
+      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
     },
     {
       "added_at": null,
@@ -635,42 +671,6 @@
       "duration_ms": 177635,
       "name": "Reflexion",
       "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 112583,
-      "name": "Javelin (To Have And To Hold)",
-      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 223344,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "All the Trees of the Field Will Clap Their Hands",
+      "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 147229,
       "name": "It\u2019s Your Own Body And Mind",
       "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "All the Trees of the Field Will Clap Their Hands",
-      "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 134404,
+      "name": "City of Roses",
+      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Favorite Dream",
         "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 134404,
-      "name": "City of Roses",
-      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans (Deluxe Edition)",
         "url": "https://open.spotify.com/album/42lnsCNSZUkPBgFhvSOHwa"
       },
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anything At All",
-        "url": "https://open.spotify.com/album/1pBsqSt6LWcEf9nIQHMWya"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
-        {
-          "name": "Denison Witmer",
-          "url": "https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB"
-        },
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Shade I'll Never See",
-      "url": "https://open.spotify.com/track/0jllpyj5FhtLgb7Txj7oxv"
+      "duration_ms": 223893,
+      "name": "Flint (For the Unemployed and Underpaid)",
+      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
     }
   ],
   "unique_name": "This Is Sufjan Stevens",

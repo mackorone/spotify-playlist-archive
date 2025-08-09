@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,798 songs - 5 day 2 hr 25 min
+1,799 songs - 5 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1506,7 +1506,7 @@
 | [Summer Haze](https://open.spotify.com/track/5hroJun9AzlCNFDC7ScBol) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Summer Haze](https://open.spotify.com/album/7lZSOlmlbo5nfmXaNtZSzw) | 3:15 | 2022-07-01 | 2022-10-13 |
 | [Summer Love \- Jan Blomqvist Remix](https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Summer Love \(Jan Blomqvist Remix\)](https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i) | 5:49 | 2023-09-22 | 2024-08-03 |
 | [Summertime](https://open.spotify.com/track/21CBWF1OV9OrAz9votwzVN) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [New Blood](https://open.spotify.com/album/1mYDKw3w4jPWautkQEs56K) | 3:42 | 2020-05-18 | 2020-07-03 |
-| [sun goes down](https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [sun goes down](https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR) | 2:28 | 2024-12-20 |  |
+| [sun goes down](https://open.spotify.com/track/5v11oJ61beKkh7Ls2ukLPt) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [sun goes down](https://open.spotify.com/album/2Xcc4avjo74XPgl6B5mKkR) | 2:28 | 2024-12-20 | 2025-08-09 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-08-26 | 2022-09-10 |
 | [Sun Went Down, Sky Went Dark](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Sun Went Down, Sky Went Dark](https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0) | 4:12 | 2025-07-18 |  |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-08-26 | 2022-09-10 |
@@ -1696,6 +1696,7 @@
 | [Waiting For The Sun](https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Waiting For The Sun](https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4) | 3:42 | 2023-09-08 | 2024-08-03 |
 | [Waiting for You](https://open.spotify.com/track/2L0wPdpLIZBSMmkS8RDFtw) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Waiting for You](https://open.spotify.com/album/3p9GXL95N0rNtU2t0bqXPS) | 2:32 | 2020-03-17 | 2021-03-06 |
 | [Wake Up \- BAILE Remix](https://open.spotify.com/track/3BCaiamID008P5wudGP5Yh) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Wake Up \(BAILE Remix\)](https://open.spotify.com/album/2lb9R2jTgHus3J1QnF3xF5) | 3:50 | 2021-06-11 | 2022-09-24 |
+| [Walk You Home](https://open.spotify.com/track/0pQLATJZDRlQzAb4Wzq46G) | [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj) | [Together, Apart](https://open.spotify.com/album/75WBIZQ8VFTS5sArhDMg2r) | 4:16 | 2025-08-08 |  |
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2020-05-18 | 2020-10-09 |
 | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/track/1AjjtVlQEDRp6obXze4xGl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Walking Home to You \(RAC Mix\)](https://open.spotify.com/album/5p0k5EZvya5VoDdirGlF1q) | 3:36 | 2022-08-26 | 2022-09-10 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/5keheTPTVskQPPhrIkKd3i) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:36 | 2022-08-26 | 2023-05-13 |

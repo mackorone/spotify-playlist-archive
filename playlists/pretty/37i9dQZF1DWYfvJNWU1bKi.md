@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Lubber Pandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,894 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,077 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 61 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
 | 62 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 |
 | 63 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |
-| 64 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan,Shweta Mohan](https://open.spotify.com/artist/1yQC7cateD70CQUJtZjvYO) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 |
-| 65 | [High On Love](https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP) | [Yuvan Shankar Raja,Sid Sriram](https://open.spotify.com/artist/6Evs1xNlpWtRw45FmPQ2DV) | [High On Love \(From "Pyaar Prema Kaadhal" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT) | 4:00 |
+| 64 | [High On Love](https://open.spotify.com/track/6kekHWEQ4SyMe5EjYAlveP) | [Yuvan Shankar Raja,Sid Sriram](https://open.spotify.com/artist/6Evs1xNlpWtRw45FmPQ2DV) | [High On Love \(From "Pyaar Prema Kaadhal" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qfJM2g8OTCB9CGzwKb6kT) | 4:00 |
+| 65 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan,Shweta Mohan](https://open.spotify.com/artist/1yQC7cateD70CQUJtZjvYO) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 |
 | 66 | [Vaseegara](https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA) | 4:59 |
 | 67 | [Kannadi Poovukku](https://open.spotify.com/track/3TjkNpxBaS9RFvDU7laCwx) | [Santhosh Dhayanidhi,Haricharan,Jonita Gandhi](https://open.spotify.com/artist/4W4nOERGvilGJAjUZ4b4oW) | [Enakku Vaaitha Adimaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0pA5FezDG5lSjYWZAhl9u8) | 3:59 |
 | 68 | [Maruvaarthai](https://open.spotify.com/track/2G53OcVphvDNOs08gptddN) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U5xINSfRnUw0vWxJ5phK0) | 5:56 |

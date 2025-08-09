@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,181 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,184 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 13 | [Now We Are Free](https://open.spotify.com/track/0DhS6FGlJkZEWM2gmjB5dD) | [KOMET](https://open.spotify.com/artist/7ASFmpzSDMUmOw4Ru5PPzr) | [Now We Are Free](https://open.spotify.com/album/2hx91zv2MPmgtAQS8Hxtaa) | 3:20 |
 | 14 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
 | 15 | [Les Kai Me Xeris](https://open.spotify.com/track/6shb3xd9CTfRd6VcJXrgvq) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [Les Kai Me Xeris](https://open.spotify.com/album/4CkKRnleXl0IWkdH3Q4U2s) | 3:52 |
-| 16 | [Oulala](https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Oulala](https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU) | 2:49 |
+| 16 | [Oulala](https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [VIDO](https://open.spotify.com/artist/6sxb4bGpNLFGZKUzrWc7ZJ) | [Oulala](https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU) | 2:49 |
 | 17 | [Si Ai](https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Si Ai](https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK) | 2:46 |
 | 18 | [BO$$](https://open.spotify.com/track/5b45vJCGInyoOBgt1oDVja) | [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [APOTIPOMA](https://open.spotify.com/album/7zDgNyZe9DPvhgyCOsqMfv) | 2:06 |
 | 19 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |

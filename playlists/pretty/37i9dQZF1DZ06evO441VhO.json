@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABeth7Ywe/R19ZylHtjVjWt",
+  "snapshot_id": "aJPsgAAAAAAuH3ZASk9lY1a1UFWbG/KB",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 179178,
-      "name": "Keep It to Myself",
-      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
+      "duration_ms": 177666,
+      "name": "Playmate of the Year",
+      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF"
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 177666,
-      "name": "Playmate of the Year",
-      "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+      "duration_ms": 179178,
+      "name": "Keep It to Myself",
+      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 239505,
-      "name": "The Juggernauts",
-      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 181933,
       "name": "Rated \"U\" For Ugly",
       "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176803,
-      "name": "So What",
-      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
+      "duration_ms": 171897,
+      "name": "Who Brings a Knife to a Gunfight?",
+      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
     },
     {
       "added_at": null,
@@ -584,25 +584,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 171897,
-      "name": "Who Brings a Knife to a Gunfight?",
-      "url": "https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 193925,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+      "duration_ms": 176803,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 219760,
       "name": "Lay Me to Rest",
       "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 193925,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday on the Radio",
-        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 170029,
-      "name": "Doomsday on the Radio",
-      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 189840,
       "name": "The Walking Dead",
       "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday on the Radio",
+        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 170029,
+      "name": "Doomsday on the Radio",
+      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
     },
     {
       "added_at": null,

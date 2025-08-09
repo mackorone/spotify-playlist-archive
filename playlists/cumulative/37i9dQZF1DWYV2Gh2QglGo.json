@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: High Valley",
+  "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
   "name": "North Country",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 207899,
       "name": "7 Words",
       "url": "https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa"
@@ -168,6 +168,24 @@
       "duration_ms": 212426,
       "name": "Another One",
       "url": "https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg"
+    },
+    {
+      "album": {
+        "name": "Are You With Me?",
+        "url": "https://open.spotify.com/album/0nJZ3MC23bIYlQ6e3Zn7Hm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183715,
+      "name": "Are You With Me?",
+      "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
     },
     {
       "album": {
@@ -1509,6 +1527,42 @@
     },
     {
       "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202161,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
+    },
+    {
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/2TuEk4nFPSNxcH8ReFTXoY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190287,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0"
+    },
+    {
+      "album": {
         "name": "Story To Tell",
         "url": "https://open.spotify.com/album/3dSynGcJjvbIMf3EAXvW8P"
       },
@@ -2492,7 +2546,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 200066,
       "name": "I Saw the Devil",
       "url": "https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd"
@@ -3239,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Man Like Mine",
+        "url": "https://open.spotify.com/album/3MjgxT0AsWa6KPx1pZSmpm"
+      },
+      "artists": [
+        {
+          "name": "Karli June",
+          "url": "https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Man Like Mine",
+      "url": "https://open.spotify.com/track/1imsA3Jc3y82WnwtZU24rq"
+    },
+    {
+      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
       },
@@ -3908,7 +3980,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 187337,
       "name": "Outta the Bar",
       "url": "https://open.spotify.com/track/6zzOichWfkqq3kX8AlwUaq"
@@ -4540,7 +4612,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 182516,
       "name": "Shouldn't Drink No More",
       "url": "https://open.spotify.com/track/4wnFOQyQvgqbSFNDVR7wMV"

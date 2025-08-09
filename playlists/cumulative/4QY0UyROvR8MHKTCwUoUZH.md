@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-95 songs - 5 hr 11 min
+96 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,9 +82,10 @@
 | [Pyramid Scheme](https://open.spotify.com/track/1j43NtqRUKUTWSiFflguz8) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Pyramid Scheme](https://open.spotify.com/album/1GFVlKpMG87Le8H1EmFKpG) | 3:15 | 2025-07-18 |  |
 | [Rule My World](https://open.spotify.com/track/2fN6zJClsuH8SXqBbAVC3S) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Declaration Of Dependence](https://open.spotify.com/album/6HdLcKjSVbImVaqAduttER) | 3:31 | 2025-07-18 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2025-07-18 |  |
-| [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 |  |
+| [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 | 2025-08-09 |
 | [Somebody New](https://open.spotify.com/track/6kMuoz0iuzByKqjMYxIY7y) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/7nPAHt752Iqi3noSMr9YcW) | 2:52 | 2025-07-18 |  |
 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2025-07-18 |  |
+| [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 | 2025-08-08 |  |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-07-18 |  |
 | [Still Love \- Acoustic](https://open.spotify.com/track/17WlwZjrDIUQaQAzZQFjVr) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love \(Acoustic\)](https://open.spotify.com/album/1YG1qbUceCNhWj6KfS0TQQ) | 3:09 | 2025-07-18 |  |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2025-07-18 |  |

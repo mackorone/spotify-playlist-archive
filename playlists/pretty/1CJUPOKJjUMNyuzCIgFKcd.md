@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,395 likes - 66 songs - 3 hr 8 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,391 likes - 66 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 4 | [Dark Knight](https://open.spotify.com/track/2kUUYrsZvchHZTj40BVdTn) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Luka Troncic 2](https://open.spotify.com/album/3t2W1mEvbZEhZvu0q0vMKp) | 3:08 |
 | 5 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 6 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 |
-| 7 | [WHAT U SPEND](https://open.spotify.com/track/4xDurVXryaUoRnAoltkeDi) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [WHAT U SPEND](https://open.spotify.com/album/0w1apnzbNdKj8DpPRLiDRE) | 2:23 |
+| 7 | [WHAT U SPEND](https://open.spotify.com/track/4xDurVXryaUoRnAoltkeDi) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [WHAT U SPEND](https://open.spotify.com/album/0w1apnzbNdKj8DpPRLiDRE) | 2:30 |
 | 8 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
 | 9 | [BRINGBLICK](https://open.spotify.com/track/07bvF0AgjZQQdmQvJAYu4r) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [FinallyFed](https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C) | 2:33 |
 | 10 | [Close Range](https://open.spotify.com/track/2T9en2wDQ0XTfIhPX0t3Ii) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [Close Range](https://open.spotify.com/album/64bVZfaXtmJBJ1N0YcA9oL) | 2:12 |

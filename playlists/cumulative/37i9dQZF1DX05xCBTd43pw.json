@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Drama Baby",
+        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177168,
+      "name": "Drama Baby",
+      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
+    },
+    {
+      "album": {
         "name": "Drei Stunden",
         "url": "https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON"
       },
@@ -2446,6 +2464,24 @@
       "duration_ms": 200617,
       "name": "Gold (feat. KOOLKID)",
       "url": "https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ"
+    },
+    {
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "album": {
@@ -4134,7 +4170,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 167340,
       "name": "Meteoriti",
       "url": "https://open.spotify.com/track/5v97denncuVynKzc9bdhfD"
@@ -6696,7 +6732,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 163712,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"

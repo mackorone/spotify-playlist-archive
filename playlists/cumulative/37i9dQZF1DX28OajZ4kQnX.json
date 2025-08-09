@@ -491,6 +491,32 @@
     },
     {
       "album": {
+        "name": "Castles (Deluxe)",
+        "url": "https://open.spotify.com/album/01VgIFTCRySMQQzSsZoHdY"
+      },
+      "artists": [
+        {
+          "name": "ItzDanny",
+          "url": "https://open.spotify.com/artist/1s9PNOikSQbtlDKYt80Y4x"
+        },
+        {
+          "name": "Joka",
+          "url": "https://open.spotify.com/artist/7umpHJB8guUwgjaP2ZryKw"
+        },
+        {
+          "name": "Raskey",
+          "url": "https://open.spotify.com/artist/5T1oddEZr0N5mCvCAkogVj"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118204,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/61ZsIYrYiYZEShTp1iT9C2"
+    },
+    {
+      "album": {
         "name": "The Ugandan, Vol. 2 (Bali-Okwabwe)",
         "url": "https://open.spotify.com/album/0VlyUWWftAv0HvzZO1GnnE"
       },
@@ -1166,7 +1192,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 171428,
       "name": "Genderera",
       "url": "https://open.spotify.com/track/2Doy5uupIp7I3bnDygeM6g"
@@ -2709,6 +2735,40 @@
     },
     {
       "album": {
+        "name": "Sibya Kikoosi",
+        "url": "https://open.spotify.com/album/4Biie5E3A09hQTYusNxN4R"
+      },
+      "artists": [
+        {
+          "name": "Bad Sparksy",
+          "url": "https://open.spotify.com/artist/6PepBSUCzpxoiKCx9sfrdP"
+        },
+        {
+          "name": "Young Bullet",
+          "url": "https://open.spotify.com/artist/4tlNaqZfv6zSJYXlm5mkZt"
+        },
+        {
+          "name": "Student",
+          "url": "https://open.spotify.com/artist/3xVcoq2gsrWfTLc5RaEEXL"
+        },
+        {
+          "name": "Checky",
+          "url": "https://open.spotify.com/artist/371IjoQShPavfKLetPlkrM"
+        },
+        {
+          "name": "Tipsy Official",
+          "url": "https://open.spotify.com/artist/2bEGqt7YTI531mB1VvdOMx"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Sibya Kikoosi",
+      "url": "https://open.spotify.com/track/1ZKaJzUqgQVAFKL493Dyiy"
+    },
+    {
+      "album": {
         "name": "Situka",
         "url": "https://open.spotify.com/album/4zNC3L9j6oOtQpFfFs3XiF"
       },
@@ -3666,7 +3726,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 205714,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4"

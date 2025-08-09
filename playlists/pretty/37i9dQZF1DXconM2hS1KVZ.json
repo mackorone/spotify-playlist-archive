@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 435114,
+  "num_followers": 435200,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Sunshine Reggae",
+      "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Sunshine Reggae",
-      "url": "https://open.spotify.com/track/0z0JSkE5Nw3i3nin3BBSuG"
     },
     {
       "added_at": "2025-07-08 16:22:28",

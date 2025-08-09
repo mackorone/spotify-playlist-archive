@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 629433,
+  "num_followers": 629494,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACJqg9AZVC01E+wWuQMFCl+",
+  "snapshot_id": "aJPsgAAAAACjsB0gH4U8fHCRCeCQnCdK",
   "tracks": [
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Florida Orchestra",
-          "url": "https://open.spotify.com/artist/2ol0baiyjfNxqzzNhXTykx"
         }
       ],
-      "duration_ms": 134920,
-      "name": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
-      "url": "https://open.spotify.com/track/5qByPJHfbssZpbUzhgpDCG"
+      "duration_ms": 312506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/77ld03vIqCjakQkIQBPTVA"
     }
   ],
   "unique_name": "This Is Whitney Houston",

@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep
+> not a thing about the way you is
 
-401 songs - 23 hr 59 min
+402 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2025-07-05 |
 | [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 | 2024-09-13 |  |
 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 | 2023-02-24 | 2024-01-05 |
+| [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 | 2025-08-08 |  |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2023-02-24 | 2023-12-09 |
 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 | 2023-03-24 | 2023-09-27 |
 | [Blue](https://open.spotify.com/track/6BAlpVMHkCSpHlf7bJbFM5) | [Caleb Mitchell](https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z) | [Blue](https://open.spotify.com/album/6RB33mYpEqHVVPE0QnZmiT) | 3:16 | 2024-02-03 |  |
@@ -248,7 +249,7 @@
 | [No, Pedal Steel](https://open.spotify.com/track/33Ym9lYGDDhFeS3ZzSfP9t) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Dispatch to 16th Ave.](https://open.spotify.com/album/4oNeyMqut0MLJpV85MMKqu) | 3:48 | 2023-03-03 | 2024-06-13 |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2024-03-20 | 2024-08-29 |
 | [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 | 2025-03-21 | 2025-05-03 |
-| [Nose On The Grindstone](https://open.spotify.com/track/41qeQaiSa09dPsGzgechek) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Nose On The Grindstone](https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3) | 2:55 | 2025-06-13 |  |
+| [Nose On The Grindstone](https://open.spotify.com/track/41qeQaiSa09dPsGzgechek) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Nose On The Grindstone](https://open.spotify.com/album/01KYIU27i4oQVxpdtG0Yt3) | 2:55 | 2025-06-13 | 2025-08-09 |
 | [Nothing's News](https://open.spotify.com/track/2ZwTsj0dsoutw9iLjhOfX8) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD), [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Nothing's News](https://open.spotify.com/album/3mpPeR2CXgyYMF3uFujzt4) | 3:17 | 2023-02-24 | 2023-06-17 |
 | [Ode To Bourbon](https://open.spotify.com/track/4kvCtReby19JPkePLwy8Pq) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:01 | 2025-01-02 |  |
 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 | 2023-03-17 | 2023-06-03 |

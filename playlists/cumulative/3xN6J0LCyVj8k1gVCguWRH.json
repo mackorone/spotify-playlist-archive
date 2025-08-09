@@ -25373,6 +25373,24 @@
     },
     {
       "album": {
+        "name": "Ego Tripping",
+        "url": "https://open.spotify.com/album/3bg9yO5i91OK6nzE0Rntig"
+      },
+      "artists": [
+        {
+          "name": "MAAME",
+          "url": "https://open.spotify.com/artist/6A7193ANWwr38cgNn7Q3i4"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219026,
+      "name": "Ego Tripping",
+      "url": "https://open.spotify.com/track/5MzZ0cvToqjPlFbR5hUqs5"
+    },
+    {
+      "album": {
         "name": "Eighties",
         "url": "https://open.spotify.com/album/3S75t2Py0qSf5cZ5keHkI5"
       },
@@ -38428,7 +38446,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 172250,
       "name": "Home",
       "url": "https://open.spotify.com/track/7AxzI341uEovhbHcW68H0Q"
@@ -44848,7 +44866,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 239908,
       "name": "Jardin de fleurs",
       "url": "https://open.spotify.com/track/1HRQ1QAf7oPU5DI3y6dPaJ"
@@ -53422,7 +53440,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 199168,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/7EIvSDk1RM2hZRzVx4KuSD"
@@ -96556,6 +96574,24 @@
     {
       "album": {
         "name": "Without You",
+        "url": "https://open.spotify.com/album/7aW320M3yw2cpNEKpZWzt1"
+      },
+      "artists": [
+        {
+          "name": "Rex & The Rhythm",
+          "url": "https://open.spotify.com/artist/07dH8HDO9kj3W0MZzvC175"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215345,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6wZrzVQhseIVB58B6ULSME"
+    },
+    {
+      "album": {
+        "name": "Without You",
         "url": "https://open.spotify.com/album/13Zumf1wWbGPRbMZOD7ELg"
       },
       "artists": [
@@ -98754,7 +98790,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 230571,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/15zO6KG1cc8PG8zTHPr9mG"

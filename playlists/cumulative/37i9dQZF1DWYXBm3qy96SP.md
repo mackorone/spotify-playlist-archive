@@ -2,7 +2,7 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Nova Twins
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: The Black Keys
 
 1,652 songs - 3 day 23 hr 13 min
 

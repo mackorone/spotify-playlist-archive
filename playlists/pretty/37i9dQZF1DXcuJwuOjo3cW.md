@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 
 > We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,161 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,153 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You \(From The Motion Picture 'It Ends With Us'\)](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:25 |
+| 1 | [Love The Hell Out Of You](https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:25 |
 | 2 | [Strangers](https://open.spotify.com/track/3VhBdVJNnwM5e3N4H1hBLX) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Strangers](https://open.spotify.com/album/4AYKvUAQZfkVP2OhGtWJxc) | 5:44 |
 | 3 | [Hymn](https://open.spotify.com/track/0jsFjONniYrNw6wD9e9bgs) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hymn](https://open.spotify.com/album/7ED34fRz2b6RNWsQkCJaCv) | 3:43 |
 | 4 | [Girl in Calico](https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Grey Fidelity](https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV) | 4:43 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 | 39 | [Birth](https://open.spotify.com/track/0NK1W3efHBIY6QpuH2SOuK) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J), [Duncan Blickenstaff](https://open.spotify.com/artist/42awwX4aVrBQ6O3GBCc58n) | [It Ends With Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h3gIOmYMo2Jm6vkDr6IGM) | 1:03 |
 | 40 | [It Ends With Us](https://open.spotify.com/track/6oyMgHZERcUVW4fu7zypav) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J), [Duncan Blickenstaff](https://open.spotify.com/artist/42awwX4aVrBQ6O3GBCc58n) | [It Ends With Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h3gIOmYMo2Jm6vkDr6IGM) | 2:51 |
 | 41 | [A New Beginning](https://open.spotify.com/track/6splNK1g2vgvOueP17Uz22) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J), [Duncan Blickenstaff](https://open.spotify.com/artist/42awwX4aVrBQ6O3GBCc58n) | [It Ends With Us \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0h3gIOmYMo2Jm6vkDr6IGM) | 3:11 |
-| 42 | [Love The Hell Out Of You \(Piano Acoustic\) \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/594DOCdAUxHd23OZCcPpBU) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You \(From The Motion Picture 'It Ends With Us'\)](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
-| 43 | [Love The Hell Out Of You \(Guitar Acoustic\) \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/0BQsEkmTXqctAAkViUmWDe) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You \(From The Motion Picture 'It Ends With Us'\)](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
-| 44 | [Love The Hell Out Of You \(Strings Version\) \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/1zuihTylZH1dbfqS10fXpi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You \(From The Motion Picture 'It Ends With Us'\)](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
+| 42 | [Love The Hell Out Of You \(Piano Acoustic\)](https://open.spotify.com/track/594DOCdAUxHd23OZCcPpBU) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
+| 43 | [Love The Hell Out Of You \(Guitar Acoustic\)](https://open.spotify.com/track/0BQsEkmTXqctAAkViUmWDe) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
+| 44 | [Love The Hell Out Of You \(Strings Version\)](https://open.spotify.com/track/1zuihTylZH1dbfqS10fXpi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
 
 Snapshot ID: `AAAAAKhYmxSMhwBq60gnGsyhrV9H695H`

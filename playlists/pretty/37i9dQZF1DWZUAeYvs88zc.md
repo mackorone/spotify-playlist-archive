@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own\. chloe moriondo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,548 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,541 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
 | 2 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 |
-| 3 | [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 |
-| 4 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
-| 5 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
-| 6 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 |
-| 7 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 |
-| 8 | [In Another Life](https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [In Another Life](https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb) | 3:28 |
-| 9 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 |
-| 10 | [Miss You To Death](https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Buccaneers: S2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS) | 2:52 |
-| 11 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
-| 12 | [Saying “No”](https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Saying “No”](https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3) | 3:54 |
+| 3 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 |
+| 4 | [Shapeshifting on a Saturday Night](https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Shapeshifting on a Saturday Night](https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s) | 3:25 |
+| 5 | [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 |
+| 6 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
+| 7 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
+| 8 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 |
+| 9 | [In Another Life](https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [In Another Life](https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb) | 3:28 |
+| 10 | [Broken Glass](https://open.spotify.com/track/6xCKXznjcHv2hZWDA0pRIe) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:14 |
+| 11 | [Miss You To Death](https://open.spotify.com/track/6zWwKrs73j2M9dbpbXDBLz) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Buccaneers: S2 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3a2JlqYjwpN3Wck0IuA4HS) | 2:52 |
+| 12 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
 | 13 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 |
 | 14 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 |
 | 15 | [24/7](https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [24/7](https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 99 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 100 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 
-Snapshot ID: `AAAAAO3TZgl52uKmSagyWeIIMyeqrE3n`
+Snapshot ID: `AAAAAD1/XxNhsZ2sbb9wIEMHV7GtuZYv`

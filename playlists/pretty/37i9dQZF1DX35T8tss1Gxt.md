@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Where faith meets R&B\. Cover: CèJae
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,842 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,886 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 45 | [GIVER](https://open.spotify.com/track/7c4uc8olvz5S0yucOrM6pn) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [GIVER](https://open.spotify.com/album/4NJLvIp4vtBQP0uqqt1Ag1) | 3:08 |
 | 46 | [Got It Bad](https://open.spotify.com/track/6CnpFM1MBv96tMAXW5YchY) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Got It Bad](https://open.spotify.com/album/1recn94Ltf51Qzh5wKUGUA) | 2:44 |
 | 47 | [Found Missing](https://open.spotify.com/track/3759iYIAp9ItiKE8RDxCma) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Found Missing](https://open.spotify.com/album/378DHQc1SagxCMhS535sG1) | 3:20 |
-| 48 | [I Need You](https://open.spotify.com/track/63LVFzQ1UeMTpu9L04o5Al) | [Dana Shine](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [I Need You](https://open.spotify.com/album/6NQMxQHGHfWqOh2IwGWJ9G) | 3:09 |
+| 48 | [I Need You](https://open.spotify.com/track/63LVFzQ1UeMTpu9L04o5Al) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [I Need You](https://open.spotify.com/album/6NQMxQHGHfWqOh2IwGWJ9G) | 3:09 |
 | 49 | [Live \- Remix](https://open.spotify.com/track/3bq3mcuxftf3obf40477kK) | [Pierre Medor](https://open.spotify.com/artist/5Ryi9Ymj30IE4LRUuyXY7c), [Rico Love](https://open.spotify.com/artist/2GEcMpeGIad5O23WxDRFMn), [RL](https://open.spotify.com/artist/478cXiaFIWP2p3WLk3Zlge), [Crystal Nicole](https://open.spotify.com/artist/364Dr4NZu27f3AzS79o1SN), [The Story Collective](https://open.spotify.com/artist/5uFhpFQzMphjdlFpujh8rS) | [Live \(Remix\)](https://open.spotify.com/album/5rLLy8D52uENYaiSAGdfHN) | 4:08 |
 | 50 | [Rome](https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn) | [Rome](https://open.spotify.com/album/290mHkt1I4zqbxwheKMIxA) | 3:09 |
 | 51 | [My Life](https://open.spotify.com/track/0wlFF6WiMHkJtkYRpvMD2z) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [My Life](https://open.spotify.com/album/5A9SC4bt3KbzOIa0qjC9AI) | 2:37 |

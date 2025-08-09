@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,075 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,310 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 38 | [Don’t Find It Strange \- Live at First Avenue](https://open.spotify.com/track/32XuKpROrtXZFKJRO9F4NT) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [Live At First Avenue](https://open.spotify.com/album/3XQNaT4W4uhAcws5KDvyJr) | 5:29 |
 | 39 | [We Win](https://open.spotify.com/track/1ENo7Lyl1O1wqrHS0HtyTj) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l), [Vincent Bohanan](https://open.spotify.com/artist/6Ku6p0A13GQdfSomanEsZC) | [Global Love Alive \(London\)](https://open.spotify.com/album/4CstkyKXOLtLN8OvomnIGD) | 6:25 |
 | 40 | [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 |
-| 41 | [He's Good](https://open.spotify.com/track/4hF3On53aWSczZG4hwV3Yu) | [Dana Shine](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [He's Good](https://open.spotify.com/album/2omElHWMcxse7Jjpq0UzsX) | 5:37 |
+| 41 | [He's Good](https://open.spotify.com/track/4hF3On53aWSczZG4hwV3Yu) | [Dana Vaughns ](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [He's Good](https://open.spotify.com/album/2omElHWMcxse7Jjpq0UzsX) | 5:37 |
 | 42 | [Angels](https://open.spotify.com/track/3gzJ2Ed3ocae1d7zcRIv5o) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Angels](https://open.spotify.com/album/3q3QMpk5tutCVaFNgBnpGr) | 2:42 |
 | 43 | [Still the light](https://open.spotify.com/track/5tCIgrS47mrQ8yGbrWiWcS) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE) | [Still the light](https://open.spotify.com/album/0wHsgbA2Nqv4pF0SsdTpik) | 3:55 |
 | 44 | [And He Shall Reign \- Radio Edit](https://open.spotify.com/track/3oBhNM2FessOhn6R9NWFup) | [Rich Tolbert Jr.](https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb) | [And He Shall Reign \(Radio Edit\)](https://open.spotify.com/album/1UNTaS9lZm5SksmQAUzByq) | 3:58 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Ayra Starr",
+  "description": "The best in South African and international R&B. Cover: Shekhinah",
   "name": "R&Beats",
   "tracks": [
     {
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 185400,
       "name": "Different Type of Love (feat. Masicka)",
       "url": "https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E"
@@ -4958,7 +4958,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 108832,
       "name": "Intentions - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn"
@@ -5050,7 +5050,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 172678,
       "name": "Is It Mine (feat. Lady London)",
       "url": "https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY"
@@ -6197,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
+    },
+    {
+      "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
       },
@@ -6712,6 +6730,24 @@
       "duration_ms": 238719,
       "name": "MORNING PEACE",
       "url": "https://open.spotify.com/track/4607H11d3SMFfITEICAFZe"
+    },
+    {
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181693,
+      "name": "MR. MEDIA",
+      "url": "https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH"
     },
     {
       "album": {
@@ -8380,13 +8416,13 @@
           "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
         },
         {
-          "name": "Moliy",
+          "name": "MOLIY",
           "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 167272,
       "name": "Risk (feat. Moliy)",
       "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"

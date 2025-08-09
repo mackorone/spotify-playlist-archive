@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 296729,
+  "num_followers": 296788,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAB/UMZn/moJnnff0AKNZftr",
+  "snapshot_id": "aJPsgAAAAAAf/Bj1ORmZPl5/xdUSW0jz",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Everlasting Light",
+      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Babygirl",
         "url": "https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 219890,
       "name": "Tell Me Lies",
       "url": "https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Everlasting Light",
-      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
     },
     {
       "added_at": null,

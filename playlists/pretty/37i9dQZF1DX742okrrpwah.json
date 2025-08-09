@@ -1,6 +1,6 @@
 {
   "description": "Ed Sheeran, Jul et Jonas Brothers x Dean Lewis au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 381124,
+  "num_followers": 381641,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -128,7 +128,7 @@
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 302906,
+      "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-08-07 22:00:47",
       "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 123520,
+      "name": "just say dat",
+      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
+    },
+    {
+      "added_at": "2025-08-07 22:00:47",
+      "album": {
         "name": "TERMINAL 7",
         "url": "https://open.spotify.com/album/2dJISKenO7S2ag1xBte2S9"
       },
@@ -341,7 +357,7 @@
         }
       ],
       "duration_ms": 149669,
-      "name": "Holy Water (feat. Jelly Roll)",
+      "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
@@ -622,10 +638,14 @@
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
         }
       ],
       "duration_ms": 170066,
-      "name": "On McAfee",
+      "name": "On McAfee (with Baby Kia)",
       "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
     },
     {

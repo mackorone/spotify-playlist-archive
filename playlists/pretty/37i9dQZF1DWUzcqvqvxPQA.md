@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Sun's out...and so are you!  Let these inspirational and faith\-filled songs soundtrack your summer fun!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,962 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,973 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 58 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 |
 | 59 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 |
 | 60 | [SUNSHINE](https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4) | [Jacob Stanifer](https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl) | [SUNSHINE](https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR) | 3:07 |
-| 61 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
-| 62 | [Don't do Molly](https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Don't do Molly](https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ) | 2:32 |
+| 61 | [Don't do Molly](https://open.spotify.com/track/2eIxhnxXBPcFawLvjZyhzy) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Don't do Molly](https://open.spotify.com/album/09FwcYyetbIIkjFTBTmRtJ) | 2:32 |
+| 62 | [Made for This](https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Made for This](https://open.spotify.com/album/2VnFANcVDx873wRkZaiuDc) | 3:03 |
 | 63 | [DESTINY](https://open.spotify.com/track/5RtRPhTCDjPoJqhqAtMz3t) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Chanele](https://open.spotify.com/artist/4jcApI1xdHMtx4iMvLV01a) | [WAITING ROOM](https://open.spotify.com/album/5pnf64squuM0LMkFqQ1GiC) | 2:49 |
 | 64 | [Tee It Up](https://open.spotify.com/track/5lbEEcGksMwi4ztAqCvvtA) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tee It Up](https://open.spotify.com/album/2alSpUG97rWhumWaIAmsp0) | 2:29 |
 | 65 | [Jump](https://open.spotify.com/track/0LS222XE1wYJZ30WEy2HBa) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Symphony \(Deluxe Edition\)](https://open.spotify.com/album/3DXs5BdYeUvolvS87Hr99V) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,537 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,541 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 |
 | 100 | [Way Too Long](https://open.spotify.com/track/3NLCu7XL8dRLRtgObLWa5z) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Way Too Long](https://open.spotify.com/album/4On5stWO7yBkRUdOZKejzN) | 3:32 |
 
-Snapshot ID: `AAAAAA1GtRA7bMayZPDnrDzoljQmfc5u`
+Snapshot ID: `AAAAABGCLjjmHmNsNOzTp+L9AUDuXuTw`

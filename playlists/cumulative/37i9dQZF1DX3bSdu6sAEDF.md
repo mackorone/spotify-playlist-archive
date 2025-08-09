@@ -4,7 +4,7 @@
 
 > Let this smooth mix carry you home in style.
 
-424 songs - 23 hr 22 min
+425 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 |  |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-04-28 | 2024-03-22 |
 | [Meltdown](https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown](https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q) | 2:33 | 2023-04-28 | 2023-06-18 |
-| [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 |  |
+| [MIRACLE](https://open.spotify.com/track/5nzB0LJDNELDNb06PQMrWF) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [SUNDAY AT FOXWOODS](https://open.spotify.com/album/6YYgBgZ9yBTZ0l0Wpk9NSQ) | 3:00 | 2023-10-20 | 2025-08-09 |
 | [Mirror Girl](https://open.spotify.com/track/02MfV88yWVP3VYiC5dehEA) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/26gKunuZOUnRvVOEHNjWPi) | 2:58 | 2022-06-03 | 2022-07-25 |
 | [Mirror Girl](https://open.spotify.com/track/1arPneL5ZtuFrd4Q6kWv7y) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Mirror Girl](https://open.spotify.com/album/4LCE6P8B7vv0XzwBgrVN4j) | 2:58 | 2022-06-10 | 2023-08-05 |
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-03-01 |  |
@@ -310,6 +310,7 @@
 | [Past Life](https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Past Life](https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK) | 3:30 | 2022-05-13 | 2024-05-11 |
 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 | 2021-08-05 | 2022-01-20 |
 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 | 2024-03-15 |  |
+| [Picture Perfect](https://open.spotify.com/track/4ikc6MEmONvYbbmS1gMKgg) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Picture Perfect](https://open.spotify.com/album/3R4CVrA9eLuUxTWkLwASyz) | 3:38 | 2025-08-08 |  |
 | [Psychic](https://open.spotify.com/track/3RYKwwQgnSAVK4AG4PLXtY) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Psychic](https://open.spotify.com/album/16hB1zLY3PJNhMLfrbMO4d) | 3:24 | 2022-10-28 | 2023-04-22 |
 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 | 2022-02-18 | 2022-07-22 |
 | [Rain](https://open.spotify.com/track/5BIZDYG2RBRtp2Fprj8MyG) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2FiJglbmAD9roZsCwKJYIb) | 4:14 | 2021-08-05 | 2022-01-20 |

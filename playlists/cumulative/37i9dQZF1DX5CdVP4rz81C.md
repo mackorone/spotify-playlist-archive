@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Laufey
+> Discover your favorite new chill pop songs\. Cover: Ed Sheeran
 
-1,776 songs - 3 day 21 hr 51 min
+1,778 songs - 3 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [A Concert Six Months From Now](https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [A Concert Six Months From Now](https://open.spotify.com/album/0tivTdbZdEUeC4NvXnle3J) | 3:25 | 2021-08-07 | 2021-10-02 |
 | [A good childhood](https://open.spotify.com/track/3wnYIZF58S7PSiGkUY52nI) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [A good childhood](https://open.spotify.com/album/16herEzIppMwsUnkBCe2v5) | 3:27 | 2021-09-18 | 2021-11-06 |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2020-10-13\* | 2020-12-10 |
+| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-08 |  |
 | [A Little More](https://open.spotify.com/track/79Brj2zZ0x84BxnJZ2q5Wd) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [who?](https://open.spotify.com/album/6hJ2X3eSAb9aCeX0isGxl8) | 3:30 | 2022-08-05 | 2022-10-18 |
 | [A Little Time](https://open.spotify.com/track/43ttdkD3EDi7xBMCPimvZq) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [A Little Time](https://open.spotify.com/album/6hPgKyXNnnQfexevGDORvP) | 2:50 | 2022-04-01 | 2022-04-29 |
 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 | 2022-01-14 | 2022-04-16 |
@@ -227,7 +228,7 @@
 | [Butterflies](https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Butterflies](https://open.spotify.com/album/5pzzVGspnxIYiGqqYyxstR) | 3:18 | 2021-03-19 | 2021-05-15 |
 | [Butterflies](https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Butterflies](https://open.spotify.com/album/4TENiEyNNnHbRixbSa0XKg) | 3:11 | 2021-06-26 | 2021-12-11 |
 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 | 2021-12-11 | 2022-03-12 |
-| [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 |  |
+| [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 | 2025-08-09 |
 | [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 |  |
 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-09-04 | 2021-11-13 |
 | [California](https://open.spotify.com/track/5H2XbaOYYki6tQc1P7yWDB) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [California](https://open.spotify.com/album/0pDuEEnHFpyboTE3Q9ga6T) | 2:58 | 2023-03-03 | 2023-04-01 |
@@ -1110,7 +1111,7 @@
 | [No God](https://open.spotify.com/track/0RlBQOKhSIpAFmn2MbSH6j) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:17 | 2023-01-27 | 2023-02-11 |
 | [NO HOTEL](https://open.spotify.com/track/0ZAPRZcbR0htDzrhfiOina) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [NO HOTEL](https://open.spotify.com/album/0iP3oGotyq8PNwVHm9o2fJ) | 2:26 | 2022-03-25 | 2022-04-09 |
 | [No One Knows \(with Laufey\)](https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:59 | 2023-09-22 | 2024-04-06 |
-| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-07-26 |  |
+| [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-07-26 | 2025-08-09 |
 | [NO ONE’S IN THE ROOM](https://open.spotify.com/track/2C6QUOsR7PfEm3EpXOLvjv) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 4:08 | 2020-10-13\* | 2020-10-29 |
 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 | 2024-01-19 | 2024-07-13 |
 | [No Ties](https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened? \(Deluxe\)](https://open.spotify.com/album/1yVrwIy3icKDiyMDBLbJDr) | 2:30 | 2022-08-19 | 2022-09-10 |
@@ -1556,6 +1557,7 @@
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-09-15 | 2024-03-09 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-12 | 2021-03-06 |
 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 | 2023-09-16 |
+| [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:16 | 2025-08-08 |  |
 | [the stars](https://open.spotify.com/track/34opOqU70y033bZpWiWSkZ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/4lPeaJ10vU0z7ApESALQUF) | 2:53 | 2021-02-06 | 2021-04-26 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-05-22 | 2021-07-17 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-10-17 | 2023-03-04 |

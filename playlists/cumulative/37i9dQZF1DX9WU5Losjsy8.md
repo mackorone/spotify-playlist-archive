@@ -4,11 +4,12 @@
 
 > Megapark bis Bierkönig \- Malle ist nur einmal im Jahr!
 
-181 songs - 9 hr 6 min
+182 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [24\-6 \(Scheissegal welcher Tag\)](https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv) | 2:17 | 2023-07-28 | 2023-08-11 |
+| [3er](https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [3er](https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG) | 2:24 | 2025-08-08 |  |
 | [7 Sünden \- Party Mix](https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Marc Pircher](https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:59 | 2023-12-19 | 2025-05-30 |
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abenteuerland](https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N) | [Pur](https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx) | [Hits Pur \- 20 Jahre Eine Band \(Fan Edition\)](https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO) | 4:40 | 2024-03-27 | 2025-07-30 |
@@ -137,7 +138,7 @@
 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 | 2024-04-30 |  |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |
 | [Neverland](https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Neverland](https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik) | 3:32 | 2024-02-15 | 2024-06-19 |
-| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
+| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 | 2025-08-09 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn) | 2:44 | 2024-02-15 | 2024-04-19 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 | 2024-01-19 |
 | [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 | 2024-03-22 |  |

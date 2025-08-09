@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Fit For A King are on top of today's best Metal playlist.
+> BABYMETAL are on top of today's best Metal playlist.
 
-1,043 songs - 2 day 20 hr 10 min
+1,046 songs - 2 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Get That Done](https://open.spotify.com/track/5AKzAajma8Wl7h0GqBRknc) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Get That Done](https://open.spotify.com/album/0rk3cPpQxE4pDhswHxRlnf) | 4:17 | 2023-06-23 | 2024-03-30 |
 | [Ghost Inside The Shell](https://open.spotify.com/track/49HsFAhcWNTjQx2eBkd7bo) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Ghost Inside The Shell](https://open.spotify.com/album/6xqFGXKtI20ESDGkWtjWeB) | 3:48 | 2024-08-30 | 2025-01-25 |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-06-30 | 2024-04-13 |
-| [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 |  |
+| [Gifted Every Strength](https://open.spotify.com/track/50Rr3aPZNinnaTIbR7e3AG) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Gifted Every Strength](https://open.spotify.com/album/2Ds01d8hsxzJtNTEZVz41G) | 6:10 | 2025-05-02 | 2025-08-09 |
 | [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-06-09 | 2023-07-22 |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2022-11-25 | 2023-04-29 |
 | [Give Them Death](https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Give Them Death](https://open.spotify.com/album/2Qu0FrgnsXqkJ644o69qcJ) | 3:37 | 2024-07-26 | 2024-08-17 |
@@ -527,7 +527,7 @@
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-20 | 2022-03-25 |
 | [Let Go](https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Let Go](https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV) | 3:52 | 2025-01-24 | 2025-03-15 |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-10 | 2023-05-06 |
-| [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-16 |  |
+| [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-16 | 2025-08-09 |
 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 | 2024-10-25 | 2025-02-08 |
 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 | 2022-01-21 | 2022-02-11 |
 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 | 2022-01-21 | 2022-07-16 |
@@ -591,6 +591,7 @@
 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2024-03-08 | 2024-05-18 |
 | [Murder8](https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [Jamey Jasta](https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL) | [Murder8](https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G) | 3:48 | 2024-05-31 | 2024-10-05 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-11 |  |
+| [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 | 2025-08-08 |  |
 | [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 | 2022-10-28 | 2023-01-21 |
 | [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 | 2025-06-20 |  |
 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 | 2024-08-23 | 2024-11-23 |
@@ -713,7 +714,7 @@
 | [Relapse](https://open.spotify.com/track/4e69lTH22mwlIa6YTOg0PA) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Relapse](https://open.spotify.com/album/0PBayHrHYSyUJshMzyDpXJ) | 3:14 | 2025-06-27 |  |
 | [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 | 2023-03-03 | 2023-05-13 |
 | [Remember Me](https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Remember Me](https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ) | 4:04 | 2023-03-03 | 2023-11-04 |
-| [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-04-25 |  |
+| [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-04-25 | 2025-08-09 |
 | [Residue](https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Residue](https://open.spotify.com/album/36jabPLz0Cz7ZblFAmi7sD) | 4:38 | 2024-05-03 | 2024-08-17 |
 | [Return To Cold](https://open.spotify.com/track/2ScZtDGnzFkBgu4fhRzmsS) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:31 | 2023-06-02 | 2023-06-24 |
 | [Return To One](https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Return To One](https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs) | 3:35 | 2025-01-24 | 2025-03-29 |
@@ -771,6 +772,7 @@
 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 | 2023-12-01 | 2024-01-06 |
 | [Silence Isn't Helping Us](https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Will You Haunt Me, With That Same Patience](https://open.spotify.com/album/1OESBdYYfEHfTbhsNKLpXD) | 3:46 | 2025-05-16 |  |
 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 | 2024-03-08 | 2024-03-30 |
+| [Silk & Static](https://open.spotify.com/track/2AOmWZIZhRuQrEqrxzaRvy) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Silk & Static](https://open.spotify.com/album/75jOtFQtV3xOtM5PDTXf8X) | 3:46 | 2025-08-08 |  |
 | [SILOS](https://open.spotify.com/track/5tdXeZOLP0dUVhJ5tTxCJW) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SILOS](https://open.spotify.com/album/5SsKMrXgdXKZOOST3UHQ1P) | 4:20 | 2025-06-27 |  |
 | [Silver Lining](https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [...So Unknown](https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce) | 3:55 | 2023-04-14 | 2023-06-10 |
 | [Silver Swarm](https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Silver Swarm](https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz) | 4:33 | 2025-01-31 | 2025-03-15 |
@@ -1040,6 +1042,7 @@
 | [Yen](https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:43 | 2022-09-30 | 2022-10-15 |
 | [You Made Me Want To Live](https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4) | 4:31 | 2021-12-20 | 2022-04-15 |
 | [You'll Know It Was Me \(feat\. George Clarke\)](https://open.spotify.com/track/3i1JqxyQn1Zmya2I3v4NhA) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh), [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9), [George Clarke](https://open.spotify.com/artist/64w7dHQqmPYoNLBLzK1cdO) | [You'll Know It Was Me](https://open.spotify.com/album/3bFFAIHUILPJmF8l24oGhf) | 4:26 | 2025-02-21 | 2025-04-05 |
+| [Your Idol \(KPop Demon Hunters\)](https://open.spotify.com/track/4VmiSWsMVZ25tbf2HErZtC) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Covers Only, Vol\. 1](https://open.spotify.com/album/0CVnhwtOpdoIkOatkGcVwO) | 3:16 | 2025-08-08 |  |
 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 | 2022-07-01 | 2022-08-20 |
 | [Your Turn](https://open.spotify.com/track/3dSWxpIMFUjzAyqZieivD0) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Your Turn](https://open.spotify.com/album/5GMqvj7aJDFjBLDrtkBWcX) | 3:21 | 2022-05-06 | 2022-07-16 |
 | [Your Turn](https://open.spotify.com/track/75AZlyIs97sFPiQ1MJGaf8) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Your Turn](https://open.spotify.com/album/7wFj6fW3MRC9dQeumu2qeK) | 3:21 | 2022-04-29 | 2022-06-11 |

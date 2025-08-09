@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36868,
+  "num_followers": 36872,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAA5JKT7sUpS16XiwZQXAVpm",
+  "snapshot_id": "aJPsgAAAAAAL/QYk/z02wAe42zA34Gdv",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey (Live Remixed)",
-        "url": "https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 319146,
-      "name": "Ag Shame Lovey",
-      "url": "https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 277680,
       "name": "Nakupenda (I Love You)",
       "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ag Shame Lovey (Live Remixed)",
+        "url": "https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 319146,
+      "name": "Ag Shame Lovey",
+      "url": "https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Mbulali Wami",
-      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 294746,
       "name": "Monate",
       "url": "https://open.spotify.com/track/3xP06xjR4drFbWNXarAbGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Mbulali Wami",
+      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 245249,
-      "name": "Sum' Bulala",
-      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits 1964-2004",
         "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240640,
       "name": "Zola Budd",
       "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 245249,
+      "name": "Sum' Bulala",
+      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 283746,
-      "name": "Sikelele",
-      "url": "https://open.spotify.com/track/6vAtb3hkVBmYiIYD0PlVIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ag Shame Lovey",
         "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 348893,
       "name": "The Lord Is My Shepherd",
       "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 283746,
+      "name": "Sikelele",
+      "url": "https://open.spotify.com/track/6vAtb3hkVBmYiIYD0PlVIU"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

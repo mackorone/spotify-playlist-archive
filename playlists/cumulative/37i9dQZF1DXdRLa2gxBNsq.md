@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Inkandescencia con Laura Dsk.
 
-334 songs - 16 hr 50 min
+335 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 | 2025-03-27 |  |
 | [Amar Mata \- Remasterizado 2024](https://open.spotify.com/track/0FeTWjNHIalS91yEH0PZsu) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Amar Mata \(Remasterizado 2024\)](https://open.spotify.com/album/0cGPcWdGME5xzYwNVA69LP) | 3:04 | 2024-11-21 |  |
 | [Amor frenopático](https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT) | [Comando 9mm](https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa) | [Camino hacia la ruina](https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh) | 4:45 | 2023-12-08 |  |
-| [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 |  |
+| [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 | 2023-12-08 | 2025-08-09 |
 | [ANIMAL](https://open.spotify.com/track/4bVlOjibXi9XLYHZCYz9Oh) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANIMAL](https://open.spotify.com/album/2ZQYiL82PqyExXwM8W7v9w) | 4:52 | 2024-08-29 | 2024-10-04 |
 | [Ansiedad](https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt) | [En Vano](https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc) | [Ansiedad](https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4) | 3:12 | 2024-09-13 | 2025-01-31 |
 | [Ante la Muerte](https://open.spotify.com/track/05bsH5Fb8aCb5gOdDLwj3b) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Suburbiales](https://open.spotify.com/album/6Iujfr9lJkl5hj9yk8XT4A) | 3:20 | 2023-12-08 | 2024-04-19 |
@@ -148,6 +148,7 @@
 | [Histeria](https://open.spotify.com/track/1yvuEnWoS4I2jXKxMHBnxP) | [Kamikazes](https://open.spotify.com/artist/4PkKM2KE5z1OhO6rHvD5Vy) | [Histeria](https://open.spotify.com/album/4nmW4nhjBCRidHlCzzAP1l) | 3:05 | 2024-06-27 | 2024-07-20 |
 | [HISTERIA](https://open.spotify.com/track/4IVWKhpc6VDcyg1fHq5T20) | [LUCY](https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso) | [HISTERIA](https://open.spotify.com/album/01MRCootqvHnsCJ5j0IhZm) | 2:28 | 2024-07-12 | 2024-08-17 |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
+| [Huele a Mierda](https://open.spotify.com/track/1AgRFpZgvhQtTPlmAMGhAW) | [Txulapos Muertos](https://open.spotify.com/artist/06MdXcdnOiMYbkG55ApJCn) | [Todos a Morir](https://open.spotify.com/album/3MbpL952z5OoNg94OH7m0u) | 2:10 | 2025-08-07 |  |
 | [Humanos](https://open.spotify.com/track/0JVOmtC52642nz9zGvIPyY) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX) | [Humanos](https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy) | 2:31 | 2024-04-18 | 2025-05-23 |
 | [Inadaptados](https://open.spotify.com/track/73bmsiR22Sa1chUSge1M9t) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c), [Maldito Matas](https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5) | [Inadaptados](https://open.spotify.com/album/0OV9pUUqr3QyxRYD9YuOhT) | 2:43 | 2025-05-15 | 2025-07-18 |
 | [Infiltrados](https://open.spotify.com/track/4me2CVIEdM66DXOAzcUQ3s) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [Confrontación](https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp) | 3:01 | 2024-05-09 | 2024-06-21 |

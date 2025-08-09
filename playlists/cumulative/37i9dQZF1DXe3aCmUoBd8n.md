@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Bessan Ismail
 
-205 songs - 11 hr 49 min
+206 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Caramella](https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Caramella](https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn) | 3:52 | 2023-05-19 | 2023-06-28 |
 | [Dawri Sar](https://open.spotify.com/track/7swi5ILNDVCNhW1ApDPLmD) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Dawri Sar](https://open.spotify.com/album/4XnQZAbNysFQyFlYSHEzw4) | 3:28 | 2022-05-04 | 2023-03-14 |
 | [Dwali](https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Dwali](https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9) | 2:54 | 2024-09-26 |  |
-| [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 | 2023-05-05 |  |
+| [Eftahli Albak](https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Eftahli Albak](https://open.spotify.com/album/0vg1yWxtXpaFXGDFPbr3BX) | 3:13 | 2023-05-05 | 2025-08-09 |
 | [Ehtirami](https://open.spotify.com/track/6G7ZvwAVPFyBLwYtBZeIk8) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Ehtirami](https://open.spotify.com/album/3yvKVLjqfhqsPoUliqRAkW) | 3:49 | 2023-06-13 | 2025-03-21 |
 | [El Bekle](https://open.spotify.com/track/7Ey7TpsXn1ZkrT8ZyQ4Jsa) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L), [Stephanie Atala](https://open.spotify.com/artist/3JdUFXhNjJufnoXDwK3rjs) | [El Bekle](https://open.spotify.com/album/142Pz4HXUYVzwlUUUUNAXp) | 3:00 | 2022-06-20 | 2024-02-10 |
 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 | 2022-05-04 | 2023-06-28 |
@@ -159,6 +159,7 @@
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2022-05-04 | 2022-07-17 |
 | [Ya Helou](https://open.spotify.com/track/6LeklV6RD0D2MHmSBvhWVZ) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Ya Helou](https://open.spotify.com/album/1BBx4oXtVMVchsEBUd5eow) | 3:05 | 2025-07-31 |  |
 | [Ya Leil W Yal Ein](https://open.spotify.com/track/4oJteByUZ8PKTRSnAJ0pCO) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Ya Leil W Yal Ein](https://open.spotify.com/album/3YabB4gJeBdquKhXjqBu62) | 3:04 | 2023-10-03 | 2024-09-27 |
+| [Ya Msafer](https://open.spotify.com/track/4xlB7mQPdwwPmi0VHf0akd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Ya Msafer](https://open.spotify.com/album/2fvPa1wdci5ANFDtblj5gq) | 3:19 | 2025-08-08 |  |
 | [Ya Qalb](https://open.spotify.com/track/145q7U7wSI5NbufneEFurm) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Maa Alhob](https://open.spotify.com/album/42Gtt3JjgqO4Kf148FesNn) | 5:28 | 2024-02-23 | 2024-04-24 |
 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 | 2024-10-03 |  |
 | [Ya Wafiya](https://open.spotify.com/track/2OfewEJuqAVkt56n0qaiqS) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ya Wafiya](https://open.spotify.com/album/4As7Qnegg2bpUKY6FNURlD) | 5:41 | 2024-02-15 | 2024-11-27 |

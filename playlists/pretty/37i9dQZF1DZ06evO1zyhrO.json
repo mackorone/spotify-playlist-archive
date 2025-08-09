@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103201,
+  "num_followers": 103224,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAB1N4rbTwTmmjYbsqrOLIBg",
+  "snapshot_id": "aJPsgAAAAAC2UPLTM2c2QZf0zohn7fm5",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "What's Your Flava? - Radio Edit",
+      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 185200,
       "name": "When the Bassline Drops",
       "url": "https://open.spotify.com/track/1fGjIL2Ike4ypLQEQvQUc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "What's Your Flava? - Radio Edit",
-      "url": "https://open.spotify.com/track/7rVBmwJsClMU6vOlggk5Ad"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Hidden Agenda",
+      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 158493,
       "name": "Ain't Giving Up",
       "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Hidden Agenda",
-      "url": "https://open.spotify.com/track/5MRruRrB235AeY0DISngdw"
     },
     {
       "added_at": null,

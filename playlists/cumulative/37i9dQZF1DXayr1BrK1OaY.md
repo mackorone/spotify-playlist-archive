@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-539 songs - 1 day 7 hr 55 min
+540 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [It's over](https://open.spotify.com/track/1KDP4v9OypBwqGqiG23jVC) | [Noche](https://open.spotify.com/artist/0mnOvl550DlpNOKzb0y07F) | [It's over](https://open.spotify.com/album/5Y5Q5z31Pu03K6Y2g4CHvI) | 2:53 | 2025-05-23 |  |
 | [It’s Not You, It’s Me \- Club Mix](https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [It's Not You, It's Me \(Club Mix\)](https://open.spotify.com/album/3JddpvK7VnFUVwj1MnvCWF) | 3:44 | 2021-07-30 | 2022-04-13 |
 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 | 2021-04-02 | 2024-12-08 |
+| [Just a Memory](https://open.spotify.com/track/3SHfCPmzURx6jznfOmDb9t) | [Emmy Adelle](https://open.spotify.com/artist/6wYMMrkpIsZle8uBBR8pVv) | [Just a Memory](https://open.spotify.com/album/040JO7fThaJlmBQnhLV4hk) | 3:13 | 2025-08-08 |  |
 | [Just Over](https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 2:54 | 2023-10-13 | 2024-04-19 |
 | [Just Over](https://open.spotify.com/track/6vOane9RzzOIITCvbHJ6m2) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Just Over](https://open.spotify.com/album/2Y14Dz0r9cImcQ9Usm0xcx) | 2:54 | 2023-01-06 | 2023-10-13 |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-06 |  |
@@ -488,7 +489,7 @@
 | [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 | 2023-11-17 | 2024-11-04 |
 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 | 2021-07-30 | 2024-09-07 |
 | [Think I'm Gonna Love U](https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [Think I'm Gonna Love U](https://open.spotify.com/album/362YrIeDYd5qEZNsH4Yulf) | 3:56 | 2024-12-27 | 2025-02-16 |
-| [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 | 2024-04-12 |  |
+| [THINKIN' BOUT U](https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc) | [THINKIN' BOUT U](https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD) | 2:47 | 2024-04-12 | 2025-08-09 |
 | [Thinking Of U](https://open.spotify.com/track/0ObFG6JadCEfirwmFRBPFY) | [Attic Beats](https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi) | [Thinking Of U](https://open.spotify.com/album/5RPeU8jJYrIrLqLl0zduvl) | 2:00 | 2024-01-26 | 2024-11-13 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-06-17 | 2023-08-26 |
 | [To be honest \- SG Lewis Remix](https://open.spotify.com/track/15D7d8uC0db0q0QkMdHia8) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [To be honest \(SG Lewis Remix\)](https://open.spotify.com/album/78tzLrfhvjKqMeLQ7Tq6en) | 3:58 | 2023-09-01 | 2023-10-23 |

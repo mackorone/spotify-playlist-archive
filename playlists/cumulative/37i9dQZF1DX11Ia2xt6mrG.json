@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Eliangel en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. REYPA en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 173731,
       "name": "CRAYZI",
       "url": "https://open.spotify.com/track/353cf2mcZqNBaWTfnFFRao"
@@ -2685,6 +2685,28 @@
     },
     {
       "album": {
+        "name": "FFM",
+        "url": "https://open.spotify.com/album/5y4XajsaCPAp3EhBMk0CHQ"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193770,
+      "name": "FFM",
+      "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
+    },
+    {
+      "album": {
         "name": "Filosof\u00eda",
         "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
       },
@@ -3303,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "HOUSE & REGGAETON",
+        "url": "https://open.spotify.com/album/0dUycpeblrjlw6w6r5WTad"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "HOUSE & REGGAETON",
+      "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -3336,6 +3380,28 @@
       "duration_ms": 145165,
       "name": "HOUSE OF LUX 2",
       "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "album": {
+        "name": "HOUSE PA LAS BANDIS",
+        "url": "https://open.spotify.com/album/6epzBQ2ACtDWd1tOsuC8HW"
+      },
+      "artists": [
+        {
+          "name": "REYPA",
+          "url": "https://open.spotify.com/artist/1wzeiKSV9ynzmzfLvynLiW"
+        },
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182989,
+      "name": "HOUSE PA LAS BANDIS",
+      "url": "https://open.spotify.com/track/184PSzDVMcToT6q3nJNUPf"
     },
     {
       "album": {
@@ -3624,6 +3690,28 @@
       "duration_ms": 176563,
       "name": "Jackson City - Macross 82-99 Remix",
       "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
+    },
+    {
+      "album": {
+        "name": "Johnny (Remix)",
+        "url": "https://open.spotify.com/album/4CZOt4umVs0ewGV0DTkVRO"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320943,
+      "name": "Johnny - Remix",
+      "url": "https://open.spotify.com/track/0yGQCtecEDGyXZCPE7kxRe"
     },
     {
       "album": {
@@ -4349,6 +4437,32 @@
     },
     {
       "album": {
+        "name": "LUEGO LUEGO",
+        "url": "https://open.spotify.com/album/3HpVPfhkpmlG8Q4xCcwzKk"
+      },
+      "artists": [
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        },
+        {
+          "name": "Maneyx",
+          "url": "https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174518,
+      "name": "LUEGO LUEGO",
+      "url": "https://open.spotify.com/track/7GFNM2e8X6KcYoqZUN9O9J"
+    },
+    {
+      "album": {
         "name": "Lunar Spirits",
         "url": "https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0"
       },
@@ -4902,7 +5016,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 357703,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/0se0Bv7xJIXPsK5inL0Qo1"
@@ -5026,7 +5140,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 450206,
       "name": "Nebular Visions",
       "url": "https://open.spotify.com/track/3mTPBggMdnS8dK6Ng44sEA"
@@ -5546,7 +5660,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 257142,
       "name": "Paris",
       "url": "https://open.spotify.com/track/1V9AzAObSIoSZ1NwJpwmVB"
@@ -5888,7 +6002,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 191526,
       "name": "Pool Party",
       "url": "https://open.spotify.com/track/6UHRXOk2FwUp6Qh5x9vSwA"
@@ -5914,7 +6028,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 169761,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
@@ -7453,6 +7567,28 @@
     },
     {
       "album": {
+        "name": "SUSTANCIAS",
+        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
+      },
+      "artists": [
+        {
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "SUSTANCIAS",
+      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+    },
+    {
+      "album": {
         "name": "SUSTANCIAS EN MI CORAZON",
         "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
       },
@@ -8338,7 +8474,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 199384,
       "name": "Vino Rosa",
       "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
@@ -8654,6 +8790,28 @@
       "duration_ms": 373066,
       "name": "X-Control",
       "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
+    },
+    {
+      "album": {
+        "name": "Ya no te quiero ver",
+        "url": "https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213555,
+      "name": "Ya no te quiero ver",
+      "url": "https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl"
     },
     {
       "album": {

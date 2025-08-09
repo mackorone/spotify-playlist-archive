@@ -4,7 +4,7 @@
 
 > clocking in for elderberry wine summer 🍇
 
-301 songs - 19 hr 25 min
+303 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-02-23 | 2023-09-23 |
 | [Inconsolable](https://open.spotify.com/track/1VDbP5dzPoG7Bi4T5INKTM) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:32 | 2024-11-15 |  |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 | 2023-09-02 |
+| [Information Content](https://open.spotify.com/track/3sunB1mnTUu0ewjrZV4SZx) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 4:03 | 2025-08-08 |  |
 | [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-02-23 | 2023-07-15 |
 | [It's Alive!](https://open.spotify.com/track/6yFefXwRZGvqqt9R6Xc879) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [It's Alive!](https://open.spotify.com/album/3lwc2UXhl9kklsEkzw1cI4) | 3:24 | 2023-06-09 | 2024-05-18 |
 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 | 2023-11-10 | 2024-01-13 |
@@ -307,6 +308,7 @@
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
 | [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 | 2023-12-09 |
 | [You Can't Stay The Same](https://open.spotify.com/track/0VwC2KolUyFeL9MmNqJu0K) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 3:35 | 2023-06-16 |  |
+| [You Don’t Live Here Anymore](https://open.spotify.com/track/1P5WwxvZGiABbxEiYhSsfp) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/2rMHZAlbmZuIsr8iWR7oZX) | 3:50 | 2025-08-08 |  |
 | [You Know I'm Down](https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [Count Bateman](https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH) | 2:10 | 2024-11-15 | 2025-02-26 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-23 |  |
 

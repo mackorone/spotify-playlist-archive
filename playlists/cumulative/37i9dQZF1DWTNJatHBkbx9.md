@@ -2,9 +2,9 @@
 
 ### [Alt\. Ghana](https://open.spotify.com/playlist/37i9dQZF1DWTNJatHBkbx9)
 
-> From the alternative scene in Ghana\. Cover:Amaarae
+> From the alternative scene in Ghana\. Cover: SuperJazzClub
 
-218 songs - 10 hr 47 min
+219 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Spirit \(Intro\)](https://open.spotify.com/track/7baQFDa0IYvOQLGaX3I0Y8) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv), [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [Ashika & Agyarko: A Poet's Love Story](https://open.spotify.com/album/1iPAfQX2PkcAme2u6ZvPz0) | 4:15 | 2024-11-22 | 2025-07-18 |
 | [Stay](https://open.spotify.com/track/0OaUj6SrBMzDZX6zxSx7M0) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [Stay](https://open.spotify.com/album/3msMmhEXtXVXfoUruwLyCH) | 3:12 | 2024-09-06 | 2024-11-08 |
 | [Stay](https://open.spotify.com/track/3upLEKUrznc2nytV7i47Wt) | [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [El Selase](https://open.spotify.com/album/2GvHXGHU3IXP6RbR1uCADU) | 2:39 | 2024-10-25 | 2025-03-29 |
+| [SUGAR HONEY ICED TEA](https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [MONOCHROME RADIO \(DELUXE\)](https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3) | 3:42 | 2025-08-08 |  |
 | [sugar rush](https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [Ansah Live](https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup) | [AIR PISCINE](https://open.spotify.com/album/3ayLyO1LSESbWvbvacY5KD) | 2:40 | 2024-07-26 | 2024-11-08 |
 | [SUJIE](https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:55 | 2024-05-10 | 2024-11-23 |
 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 |  |
@@ -211,7 +212,7 @@
 | [UNDER THE SUN](https://open.spotify.com/track/3TDzJLTVGhfoLp6iNrrFCo) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [LIMINAL SPACES](https://open.spotify.com/album/5VeEgnUM7NaFDK8RsJpFmS) | 2:44 | 2024-11-29 |  |
 | [UNO](https://open.spotify.com/track/2wkETmSgtUgDyg8i94AZrn) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [MONOCHROME RADIO](https://open.spotify.com/album/2LBqxBoNbVgb6lioat3POo) | 2:33 | 2024-06-21 | 2025-07-05 |
 | [Weightless](https://open.spotify.com/track/5iRndcdsVnof0ew3BUljjy) | [ELi A Free](https://open.spotify.com/artist/6OO7XtWXbXexb35OPRtTsE), [Daniel Cordero](https://open.spotify.com/artist/6KEuFWjISF7WAd696sx0Ht), [Kaspar Fohres](https://open.spotify.com/artist/65lpbNaR1Ir2vt1m6JvHYD) | [Weightless](https://open.spotify.com/album/3FP4Kf4ZXV2cBA3NyQjAr7) | 2:49 | 2025-05-16 |  |
-| [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2024-05-10 |  |
+| [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 | 2024-05-10 | 2025-08-09 |
 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 | 2024-05-10 | 2025-07-05 |
 | [What I Need](https://open.spotify.com/track/5b1lVbGspiud4hIIiSCgGG) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Vynyl Sky](https://open.spotify.com/artist/1MSBh2UA3aK4YHajopxdLZ) | [With Love, Cozï](https://open.spotify.com/album/6Zh5AjQosM2aRzdIldGxKP) | 2:35 | 2025-04-17 | 2025-05-09 |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2024-05-10 | 2025-04-12 |

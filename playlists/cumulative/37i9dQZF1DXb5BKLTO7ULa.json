@@ -15741,6 +15741,28 @@
     },
     {
       "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "at my purest (feat. Offset)",
+      "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
+    },
+    {
+      "album": {
         "name": "At Night",
         "url": "https://open.spotify.com/album/1579xn4AnUxTLdILH9NlZK"
       },
@@ -29640,6 +29662,28 @@
       "duration_ms": 205923,
       "name": "Bouwen Met Jou",
       "url": "https://open.spotify.com/track/2y9PqJ3Nhmsr0J6wgxQV5J"
+    },
+    {
+      "album": {
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "album": {
@@ -92694,7 +92738,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149669,
-      "name": "Holy Water (feat. Jelly Roll)",
+      "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
@@ -152920,13 +152964,17 @@
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
         }
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170066,
-      "name": "On McAfee",
+      "name": "On McAfee (with Baby Kia)",
       "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
     },
     {
@@ -157229,7 +157277,7 @@
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 302906,
+      "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },

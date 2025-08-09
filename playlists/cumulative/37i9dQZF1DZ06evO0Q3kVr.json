@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312633,
+      "name": "Una Leyenda Viviente",
+      "url": "https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77"
+    },
+    {
+      "album": {
         "name": "Viajero",
         "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
       },
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 296472,
       "name": "\u00bfPor Qu\u00e9?",
       "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"

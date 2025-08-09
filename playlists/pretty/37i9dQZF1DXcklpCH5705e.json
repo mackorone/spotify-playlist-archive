@@ -1,13 +1,33 @@
 {
   "description": "Hotpot & HOTPOP \u6211\u5011\u90fd\u611b\uff01\u65b0\u9bae\u6efe\u71b1\u8fa3 Mando-HOTpop track ! Cover: Firdhaus, Jeryl Lee",
-  "num_followers": 34673,
+  "num_followers": 34741,
   "original_name": "HOTPOP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgKhb8G8sOAiSd/T1IxrvhXn44E",
+  "snapshot_id": "AAAAAD3Kmxk1aotVYhklyuIVda+m512d",
   "tracks": [
+    {
+      "added_at": "2025-08-08 07:23:53",
+      "album": {
+        "name": "\u597d\u597d\u5403\u98ef",
+        "url": "https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "Jeryl Lee",
+          "url": "https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "\u597d\u597d\u5403\u98ef",
+      "url": "https://open.spotify.com/track/7cWYLUAThDaMeIXAL8icm0"
+    },
     {
       "added_at": "2025-08-07 16:00:20",
       "album": {

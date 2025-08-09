@@ -1,41 +1,13 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8521,
+  "num_followers": 8518,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACVVcI9KHNhRQUYGlQBKJRj",
+  "snapshot_id": "aJPsgAAAAABF+c+4sfn8S515I41xvT3T",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie Remixes",
-        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Cakes da Killa",
-          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
-        },
-        {
-          "name": "ATKM",
-          "url": "https://open.spotify.com/artist/7un2nkRX7paTSmdh94vzX7"
-        },
-        {
-          "name": "GAWD",
-          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
-        }
-      ],
-      "duration_ms": 190040,
-      "name": "Switch It - ATKM Remix",
-      "url": "https://open.spotify.com/track/17eI5ZovnbUvCddS5D20rX"
-    },
     {
       "added_at": null,
       "album": {
@@ -171,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RINGOS DESERT",
+        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 198567,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On Sum (MPH Remix)",
         "url": "https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO"
       },
@@ -195,26 +187,6 @@
       "duration_ms": 232848,
       "name": "On Sum - MPH Remix",
       "url": "https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RINGOS DESERT",
-        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 198567,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
     },
     {
       "added_at": null,
@@ -375,6 +347,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Reverie Remixes",
+        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "ATKM",
+          "url": "https://open.spotify.com/artist/7un2nkRX7paTSmdh94vzX7"
+        },
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Switch It - ATKM Remix",
+      "url": "https://open.spotify.com/track/17eI5ZovnbUvCddS5D20rX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homegrown (Deluxe)",
         "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floating (feat. Candy Crush Saga)",
         "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 266643,
       "name": "I Wish I Could (feat. Selah Sue)",
       "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 113480,
-      "name": "Warm Water (Interlude)",
-      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
+      "duration_ms": 127240,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 127240,
-      "name": "Eternal",
-      "url": "https://open.spotify.com/track/15fgfl0mOgsWdf4lNN76ow"
+      "duration_ms": 113480,
+      "name": "Warm Water (Interlude)",
+      "url": "https://open.spotify.com/track/6y9i1XxvV6UrfIyt43A0ZG"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 230261,
-      "name": "Bright Shadows",
-      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 227533,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
     },
     {
       "added_at": null,
@@ -891,6 +891,26 @@
       "duration_ms": 204077,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Reverie",
+        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/4bVTIT2ZHTF3tI6xJpPmUY"
     },
     {
       "added_at": null,
@@ -927,26 +947,6 @@
       "duration_ms": 191233,
       "name": "Fried for the Night",
       "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Reverie",
-        "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/4bVTIT2ZHTF3tI6xJpPmUY"
     },
     {
       "added_at": null,

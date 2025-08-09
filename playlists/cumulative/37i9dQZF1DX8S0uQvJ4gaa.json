@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Gabby Barrett",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Marshmello and Jelly Roll",
   "name": "New Boots",
   "tracks": [
     {
@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Back On Deseret",
+        "url": "https://open.spotify.com/album/4ueczzp7LprUA9gZ7bIN1C"
+      },
+      "artists": [
+        {
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191771,
+      "name": "Back On Deseret",
+      "url": "https://open.spotify.com/track/65UW5vb1j5Z3oiOAnDRBqW"
+    },
+    {
+      "album": {
         "name": "Runnin\u2019 Outta Time",
         "url": "https://open.spotify.com/album/0DM1q8OFj5WezPEx2QgiZK"
       },
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 193194,
       "name": "Be Your Man",
       "url": "https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N"
@@ -4690,7 +4708,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 161613,
       "name": "Boots Off",
       "url": "https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0"
@@ -4809,6 +4827,28 @@
     },
     {
       "album": {
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "album": {
         "name": "Boy From Anderson County",
         "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
       },
@@ -4856,7 +4896,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 183582,
       "name": "Boy Meets Girl (Unreleased Demo)",
       "url": "https://open.spotify.com/track/37CproXECOynt6rioUnE4s"
@@ -7530,7 +7570,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 147533,
       "name": "Concrete Cowboy",
       "url": "https://open.spotify.com/track/1lHcqILwMcqby0k7aUUPQO"
@@ -9834,7 +9874,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 218424,
       "name": "Do Si Do",
       "url": "https://open.spotify.com/track/3x0KbXqp6L21yP526DX8VC"
@@ -11847,6 +11887,24 @@
     },
     {
       "album": {
+        "name": "Songs From Faded Polaroids",
+        "url": "https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Faded Polaroids",
+      "url": "https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk"
+    },
+    {
+      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/660t3sa1Telid3PrbNc3Oy"
       },
@@ -13656,7 +13714,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 189165,
       "name": "George F****** Strait",
       "url": "https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l"
@@ -17905,6 +17963,28 @@
     },
     {
       "album": {
+        "name": "Hell At Night (feat. Ella Langley)",
+        "url": "https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Hell At Night (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
+    },
+    {
+      "album": {
         "name": "Hell Bent",
         "url": "https://open.spotify.com/album/5BTtF4pew49PDd4MIq4Gf9"
       },
@@ -18950,6 +19030,28 @@
       "duration_ms": 183186,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/6j2u3oN1SmAknL9j1Tp2w1"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "album": {
@@ -24943,6 +25045,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196389,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1vQtS9oKsjY6tWr3CizNAl"
+    },
+    {
+      "album": {
         "name": "THE SPEED OF NOW Part 1",
         "url": "https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf"
       },
@@ -26488,7 +26608,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 167218,
       "name": "Making Good Time",
       "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
@@ -30571,6 +30691,24 @@
     },
     {
       "album": {
+        "name": "Of Course I Do",
+        "url": "https://open.spotify.com/album/4nJTQmmGJXwKDz1zHX8iJH"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152466,
+      "name": "Of Course I Do",
+      "url": "https://open.spotify.com/track/4AJklbk9XuVPBmf6Z80JVu"
+    },
+    {
+      "album": {
         "name": "Off Road",
         "url": "https://open.spotify.com/album/1eIN0vpmHWQ2TEZspYu7mH"
       },
@@ -33391,6 +33529,24 @@
     },
     {
       "album": {
+        "name": "Really Wanna Know",
+        "url": "https://open.spotify.com/album/35C4HMR7Kt8AaMXWk1EUre"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219652,
+      "name": "Really Wanna Know",
+      "url": "https://open.spotify.com/track/0XKCfmkCDYwYdd93H5vKre"
+    },
+    {
+      "album": {
         "name": "Reasons To Come Home",
         "url": "https://open.spotify.com/album/7KVJ3eWuHxSV3WNC9oDssB"
       },
@@ -34762,7 +34918,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 208613,
       "name": "Said No Country Boy Ever",
       "url": "https://open.spotify.com/track/1lKNwH63kNy9rmNTdf6esw"
@@ -36728,7 +36884,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 178490,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/3tDV5l64dIVPLIbkYflTJx"
@@ -38364,7 +38520,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 166207,
       "name": "Spin the Block",
       "url": "https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz"
@@ -39078,6 +39234,24 @@
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
+    },
+    {
+      "album": {
+        "name": "Straight For The Heart",
+        "url": "https://open.spotify.com/album/6sfI20cGrQRgSmE6qiIIUZ"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Straight For The Heart",
+      "url": "https://open.spotify.com/track/7DsAMVDun1bm7bCowUCJ22"
     },
     {
       "album": {
@@ -40838,7 +41012,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 180317,
       "name": "The Fence",
       "url": "https://open.spotify.com/track/0Bv3eHVIbbkC5doyt7RKfP"
@@ -41584,6 +41758,24 @@
       "duration_ms": 183207,
       "name": "Then Some (feat. Walker Hayes)",
       "url": "https://open.spotify.com/track/7mj8epKUtQExnpFG65YdD3"
+    },
+    {
+      "album": {
+        "name": "Then You Happened",
+        "url": "https://open.spotify.com/album/32Q4UfB1mCue1NGQaLER4H"
+      },
+      "artists": [
+        {
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183994,
+      "name": "Then You Happened",
+      "url": "https://open.spotify.com/track/6ecMgHh6mgKLjBTM1BynhM"
     },
     {
       "album": {
@@ -43524,7 +43716,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 196668,
       "name": "Turquoise Cowboy",
       "url": "https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU"
@@ -45536,7 +45728,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 195026,
       "name": "What Not To",
       "url": "https://open.spotify.com/track/4NyLJtqjICi6in2IAsZtyT"

@@ -1,28 +1,28 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 276707,
+  "num_followers": 276701,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABNp//3KPvJFRMGKLz7Pz8YY2IWR",
+  "snapshot_id": "AAAAAMjvYM50NHaHEE3FbSsrEEyaP8Eh",
   "tracks": [
     {
-      "added_at": "2025-08-01 04:00:32",
+      "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc"
+        "name": "Cast Away",
+        "url": "https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA"
       },
       "artists": [
         {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
+      "duration_ms": 194800,
+      "name": "Cast Away",
+      "url": "https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf"
     },
     {
       "added_at": "2025-08-01 04:00:32",
@@ -41,20 +41,36 @@
       "url": "https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS"
     },
     {
-      "added_at": "2025-07-18 04:33:22",
+      "added_at": "2025-08-08 04:00:33",
       "album": {
-        "name": "needle and thread",
-        "url": "https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG"
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
       },
       "artists": [
         {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 234000,
-      "name": "needle and thread",
-      "url": "https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA"
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+    },
+    {
+      "added_at": "2025-07-02 15:52:36",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2025-08-01 04:00:32",
@@ -71,6 +87,54 @@
       "duration_ms": 173027,
       "name": "ur gf",
       "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
+    },
+    {
+      "added_at": "2025-08-01 04:00:32",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "duration_ms": 223240,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
+    },
+    {
+      "added_at": "2025-07-18 04:33:22",
+      "album": {
+        "name": "needle and thread",
+        "url": "https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "needle and thread",
+      "url": "https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA"
+    },
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Agnostic",
+        "url": "https://open.spotify.com/album/0udRRD0WX6mUqGV7voDWY1"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 201322,
+      "name": "Agnostic",
+      "url": "https://open.spotify.com/track/7lXsk9wPqSrFUJ1vdiSPXL"
     },
     {
       "added_at": "2025-07-11 04:00:19",
@@ -155,22 +219,6 @@
       "duration_ms": 157752,
       "name": "24/7",
       "url": "https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b"
-    },
-    {
-      "added_at": "2025-07-02 15:52:36",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2025-07-18 04:00:32",
@@ -449,22 +497,6 @@
       "url": "https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg"
     },
     {
-      "added_at": "2025-05-31 14:44:42",
-      "album": {
-        "name": "Infrared",
-        "url": "https://open.spotify.com/album/4l5W33e0zrHQqatQcAtvdX"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 198092,
-      "name": "Infrared",
-      "url": "https://open.spotify.com/track/0P07sqcEuYQZn5IMW8ifGr"
-    },
-    {
       "added_at": "2025-05-16 04:00:11",
       "album": {
         "name": "Real Bob Mackie",
@@ -537,22 +569,6 @@
       "url": "https://open.spotify.com/track/1oK8MgS9QKWFLC8VpZ15UB"
     },
     {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "I'M A HURRICANE I'M A WOMAN IN LOVE",
-        "url": "https://open.spotify.com/album/78F7SDu1qKH4umdw2T6pVo"
-      },
-      "artists": [
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 185998,
-      "name": "WOMAN LIKE THAT",
-      "url": "https://open.spotify.com/track/3qo55kZpzioiSTdJH6KRng"
-    },
-    {
       "added_at": "2025-03-28 04:00:35",
       "album": {
         "name": "Keep M\u00f8ving",
@@ -567,22 +583,6 @@
       "duration_ms": 202951,
       "name": "Keep M\u00f8ving",
       "url": "https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd"
-    },
-    {
-      "added_at": "2025-03-28 04:00:35",
-      "album": {
-        "name": "1/17",
-        "url": "https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 252180,
-      "name": "1/17",
-      "url": "https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC"
     },
     {
       "added_at": "2024-11-08 05:00:00",

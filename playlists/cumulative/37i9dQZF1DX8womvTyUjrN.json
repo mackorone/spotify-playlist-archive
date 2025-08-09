@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: FABIAN",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Mariangela",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/2hpXtYEpMEI5bAPZE1eouN"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141223,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/35O5u1etohDjHX2km9YItO"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/5wGvRJ6ZFgRJcVtbs3K663"
       },
@@ -1972,6 +1990,24 @@
       "duration_ms": 144225,
       "name": "Beber x Beber",
       "url": "https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE"
+    },
+    {
+      "album": {
+        "name": "beibi",
+        "url": "https://open.spotify.com/album/4PWQSzPf0qHH0PUshlypcH"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171864,
+      "name": "beibi",
+      "url": "https://open.spotify.com/track/3h0gfCs5SzVvBzesYH4gGi"
     },
     {
       "album": {
@@ -2613,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2yYcuz6o6ddW64Jj9jvXMZ"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167118,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/1xGGAKvv0f6gQILGJi2zUE"
+    },
+    {
+      "album": {
         "name": "Bye Boy",
         "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
       },
@@ -2860,6 +2914,24 @@
       "duration_ms": 239324,
       "name": "capricho",
       "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
+    },
+    {
+      "album": {
+        "name": "Cara a cara",
+        "url": "https://open.spotify.com/album/1urf45IxfE9f8kgEW6JHCc"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161020,
+      "name": "Cara a cara",
+      "url": "https://open.spotify.com/track/4lY2hVKVwCR0PKklwqxnje"
     },
     {
       "album": {
@@ -3580,7 +3652,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 156000,
       "name": "COMO T\u00da",
       "url": "https://open.spotify.com/track/0CvqywquA1KKut69KVSYF2"
@@ -5667,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "el \u00faltimo t quiero",
+        "url": "https://open.spotify.com/album/6tdS3l7kpUblYeOPYoQEuy"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137037,
+      "name": "el \u00faltimo t quiero",
+      "url": "https://open.spotify.com/track/62op5BUQTuL3y3kQkFgxYv"
+    },
+    {
+      "album": {
         "name": "Ella",
         "url": "https://open.spotify.com/album/0nkucqAzWAF6G0whHHCeau"
       },
@@ -6478,7 +6568,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
@@ -9954,7 +10044,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 147400,
       "name": "MACARRONES CON QUESO",
       "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
@@ -12497,6 +12587,24 @@
     },
     {
       "album": {
+        "name": "NUevo",
+        "url": "https://open.spotify.com/album/4AFTVyAhS0jVISXLOWTKtD"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157884,
+      "name": "NUevo",
+      "url": "https://open.spotify.com/track/2TBcya0YHEb36zMnYinPEk"
+    },
+    {
+      "album": {
         "name": "Nuez",
         "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
       },
@@ -14042,6 +14150,24 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "album": {
+        "name": "Por Fa No Te Vayas",
+        "url": "https://open.spotify.com/album/2WXtUxTSuMmSjlsaivUrOt"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Por Fa No Te Vayas",
+      "url": "https://open.spotify.com/track/4xU1D7EZ75yI2sSaFtcksR"
     },
     {
       "album": {
@@ -16840,6 +16966,24 @@
       "duration_ms": 159480,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/2roQw5McQNlTzAu2dGGL14"
+    },
+    {
+      "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/7At6m4xM5O5fY6q7wqo1LP"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/2N4d07CyiFh3sZzPiEwlVv"
     },
     {
       "album": {

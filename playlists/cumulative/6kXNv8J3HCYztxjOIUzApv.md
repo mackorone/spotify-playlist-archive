@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-303 songs - 18 hr 57 min
+305 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2021-08-20 | 2023-01-05 |
 | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE) | 2:59 | 2024-06-28 |  |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2022-01-24 |  |
+| [Hangman](https://open.spotify.com/track/2mVWbrAIn4CEvz9b6tkdsf) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Hangman](https://open.spotify.com/album/5FuLeS3LzoWQ7UoAHaFXm8) | 2:48 | 2025-08-08 |  |
 | [Hardwired](https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt) | 3:11 | 2023-05-17 |  |
 | [Hate Me Too](https://open.spotify.com/track/0P9Yw78LZrptziYwD6O0Ed) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Hate Me Too](https://open.spotify.com/album/2lQvl1mfxJecbdNBnTwYuG) | 3:30 | 2023-03-17 |  |
 | [Head Under Water \(feat\. REDDSTAR and Dan Sugarman of Ice Nine Kills\)](https://open.spotify.com/track/3wpyvgFi5zjTUbIVZS1NPr) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm), [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Dan Sugarman](https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz) | [Head Under Water \(feat\. REDDSTAR and Dan Sugarman of Ice Nine Kills\)](https://open.spotify.com/album/113A6sipFzXOxFf7TUztoN) | 3:38 | 2023-05-05 |  |
@@ -221,6 +222,7 @@
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-01-24 | 2023-01-05 |
 | [Save Us](https://open.spotify.com/track/5b2CTow0KTieqeITsHSjXV) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:21 | 2022-01-24 | 2023-01-04 |
 | [Savior](https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Die About It](https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X) | 2:59 | 2023-11-03 |  |
+| [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz) | 4:23 | 2025-08-08 |  |
 | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 2:55 | 2022-09-21 |  |
 | [Shepherd of Fire](https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:23 | 2023-07-25 |  |
 | [Sho Nuff](https://open.spotify.com/track/0NXYWH1TDjaNyetFaYDsDy) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Sho Nuff](https://open.spotify.com/album/1Z3quKqTMrx6ikqCh95CJv) | 2:30 | 2023-06-09 |  |

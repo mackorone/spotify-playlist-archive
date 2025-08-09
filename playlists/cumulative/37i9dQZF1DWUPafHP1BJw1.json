@@ -94,7 +94,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 253000,
       "name": "A Thousand Years - Piano Version",
       "url": "https://open.spotify.com/track/06Jd4TVGvexfQTnTjq9P9Y"
@@ -130,7 +130,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 193440,
       "name": "Abracadabra - Symphony Orchestra Version",
       "url": "https://open.spotify.com/track/1JNHhHqI0KOPDzRJ3ym0OK"
@@ -2191,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "VSQ Performs BLACKPINK",
+        "url": "https://open.spotify.com/album/6ZuOjRxh4TX7wx1QPo9EuK"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "How You Like That",
+      "url": "https://open.spotify.com/track/6FUe1Kgy6poQC8AXy2F9Tk"
+    },
+    {
+      "album": {
         "name": "Geek Wedding, Vol. 2: The Sequel",
         "url": "https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W"
       },
@@ -3979,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Only We Know (Symphony Orchestra Version)",
+        "url": "https://open.spotify.com/album/31aPYDpJX9oicUjrQczfb7"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175186,
+      "name": "Somewhere Only We Know - Symphony Orchestra Version",
+      "url": "https://open.spotify.com/track/6nIgjIPFSSXV0XVq5KvzPb"
+    },
+    {
+      "album": {
         "name": "Song 2 (Woo Hoo)",
         "url": "https://open.spotify.com/album/6Hb2alu2sB62badqv0pC1F"
       },
@@ -5076,6 +5112,32 @@
       "duration_ms": 167609,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF"
+    },
+    {
+      "album": {
+        "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Christian Almiron",
+          "url": "https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144195,
+      "name": "Zombie - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/066b8lHH03cSlTFES2jMre"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUPafHP1BJw1"

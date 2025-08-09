@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Rebekka Holi.
 
-870 songs - 2 day 4 hr 23 min
+871 songs - 2 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [After Dark Hour](https://open.spotify.com/track/5zNivqCw17O1QXiQ0E3ZYy) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [After Dark Hour](https://open.spotify.com/album/3QbrVNPWnXuLLuVheqpFTe) | 3:55 | 2025-02-13 | 2025-03-14 |
 | [After Summer](https://open.spotify.com/track/7GbCBC12FINeAvnVFNWDpS) | [VON KONOW](https://open.spotify.com/artist/22j1dLSC6MsQS2Fm0EhZTB) | [After Summer](https://open.spotify.com/album/2oXhJfjjKDiGtmY0hKdK7J) | 3:22 | 2024-08-29 | 2024-09-27 |
 | [aika jää etsimään](https://open.spotify.com/track/2eToDeIRGmioArrxi6GTgJ) | [laventeliunia](https://open.spotify.com/artist/5IlnJeaRcuITFeiiRKyKMP) | [Aika jää etsimään](https://open.spotify.com/album/1EKaksVWCb8o7uJEFOfQr3) | 7:33 | 2024-09-19 | 2024-10-11 |
-| [Aika on pysähtynyt tähän](https://open.spotify.com/track/1S7JeCvO6He9FL0fxMJEKa) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Pelastetaan toisemme](https://open.spotify.com/album/7sw3A13e35Q86qTMGxlqsn) | 4:11 | 2025-04-03 |  |
+| [Aika on pysähtynyt tähän](https://open.spotify.com/track/1S7JeCvO6He9FL0fxMJEKa) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Pelastetaan toisemme](https://open.spotify.com/album/7sw3A13e35Q86qTMGxlqsn) | 4:11 | 2025-04-03 | 2025-08-09 |
 | [Aika parantaa](https://open.spotify.com/track/3JH8XpuRVCoKIrZ6OVTmew) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Kaikki alko siitä mihin me loputtiin](https://open.spotify.com/album/5zETVg01zy9sKe9X2Or5N1) | 3:39 | 2024-11-07 | 2025-01-24 |
 | [Aika parantaa \- pianon äärellä](https://open.spotify.com/track/3H2irqG72zqiADofPZE0ap) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Aika parantaa \(pianon äärellä\)](https://open.spotify.com/album/4Hsi4MMNDEp7lwEGvhD9h1) | 3:52 | 2025-01-23 | 2025-02-21 |
 | [Aikaa vaan](https://open.spotify.com/track/3M3aA0jx6MucQYRonEeiwQ) | [Mutka](https://open.spotify.com/artist/1cCncS0b7qZzHCcFpHPG2u) | [Aikaa vaan](https://open.spotify.com/album/2uWRLY9EWmZni4g6oPkzMB) | 4:39 | 2025-05-15 |  |
@@ -387,7 +387,7 @@
 | [Lemmennostajaämmä](https://open.spotify.com/track/0g5h1x7Ug45u4dLavtbzwt) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Lemmennostajaämmä](https://open.spotify.com/album/4PT9Gl9mUS5vN2N3M5BMYU) | 3:24 | 2025-06-19 |  |
 | [Lemon n Lime Sours](https://open.spotify.com/track/3hdSjUx0c5batBNVeHrVSQ) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Lemon n Lime Sours](https://open.spotify.com/album/7JWKmGFTcx8rPlT9N4UTit) | 3:29 | 2024-07-02 | 2024-07-12 |
 | [Lentokone](https://open.spotify.com/track/0jCYt5Zwjji13IwnOhfVx2) | [RORI](https://open.spotify.com/artist/3K8UGdwaDpuIp4rIzB3UFg) | [Lentokone](https://open.spotify.com/album/62Kmv2p6UnvixeFQIeF8U7) | 3:28 | 2025-02-27 | 2025-03-14 |
-| [Lentoon, lentoon](https://open.spotify.com/track/1OwNcpSHpJo5KKqMIyzHls) | [Tanssiva Karhu](https://open.spotify.com/artist/0nhthLnXc1VlNLy68ttz6O) | [Korillinen sieniä](https://open.spotify.com/album/24xPJC08oyFR14IITXSHHL) | 2:59 | 2025-04-10 |  |
+| [Lentoon, lentoon](https://open.spotify.com/track/1OwNcpSHpJo5KKqMIyzHls) | [Tanssiva Karhu](https://open.spotify.com/artist/0nhthLnXc1VlNLy68ttz6O) | [Korillinen sieniä](https://open.spotify.com/album/24xPJC08oyFR14IITXSHHL) | 2:59 | 2025-04-10 | 2025-08-09 |
 | [Leskenlehdet](https://open.spotify.com/track/229wYThavUePmywOQZmnJF) | [Kaikki turhat haaveet](https://open.spotify.com/artist/5rsorJ0ZGBj6QvSbRMHDtK) | [Leskenlehdet](https://open.spotify.com/album/2IKhkFKHfZbOLkdQWvyHPp) | 4:34 | 2025-03-06 | 2025-04-18 |
 | [Let Me In](https://open.spotify.com/track/7p5agrHzRpCJbI4HHmA9FB) | [Emilia Sisco](https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Let Me In](https://open.spotify.com/album/2WTZ7JOb0MaXndBg1V9qav) | 3:59 | 2024-07-02 | 2024-07-12 |
 | [Letters to Laura](https://open.spotify.com/track/6itxVxpEenFILVV0IqSF5i) | [Nevala](https://open.spotify.com/artist/4ljJsQb0itmfOo4AMeBAGa) | [Letters to Laura](https://open.spotify.com/album/5hAaVDJmXnSt4nvVnmLLP4) | 3:31 | 2024-07-02 | 2024-08-30 |
@@ -789,6 +789,7 @@
 | [Tähdenlentoja](https://open.spotify.com/track/4a4HXRYVZZbzWdmXq1gMCX) | [Elsa Brotherus](https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG) | [Tähdenlentoja](https://open.spotify.com/album/2koJibPUlF8Yj3IpKDPu5h) | 2:47 | 2025-05-22 |  |
 | [Tähdet ja mä](https://open.spotify.com/track/2ZDTL9Hc2rv6RimvDY6Xjh) | [Kulta](https://open.spotify.com/artist/6z3YQFHU69WkWXTNMt64jt) | [Tähdet ja mä](https://open.spotify.com/album/0kRUKJf5YjXIgP665qgV6M) | 4:46 | 2025-05-08 | 2025-05-23 |
 | [Tähtityttö](https://open.spotify.com/track/58UrgRHOwqEXdJURnloTTR) | [Vialea](https://open.spotify.com/artist/3NriCRi6a3RwaQtyJ9WH7D) | [Tähtityttö](https://open.spotify.com/album/2Ev2kBzQ62mtnp7LB5KKHY) | 4:12 | 2025-06-19 |  |
+| [Tämä kirahvi](https://open.spotify.com/track/4mQEYFDIW818yRPZykZT4w) | [Rebekka Holi](https://open.spotify.com/artist/0uACwCp0rmoGj8uQUkP8o1) | [Tämä kirahvi](https://open.spotify.com/album/0OurWYBembujyd0oG5LDLk) | 3:08 | 2025-08-07 |  |
 | [Tänään ei tarvii murehtia](https://open.spotify.com/track/0xNJ53tbQTsM5UYChlvrey) | [Jules](https://open.spotify.com/artist/7DILUJ6moRLWJ0ayV5VQCD) | [Tänään ei tarvii murehtia](https://open.spotify.com/album/1Vm4U6Oq1BjqwQd4jydFLp) | 5:13 | 2024-10-03 | 2024-10-18 |
 | [Täysikuu](https://open.spotify.com/track/6yhBy1W2r7Lb9KcVshoYnI) | [Elina Madetoja](https://open.spotify.com/artist/2jSZD3mH5kWWTZnnAyV78p) | [Täysikuu](https://open.spotify.com/album/5SGI50Rptox31ycGoZLsla) | 3:17 | 2024-07-02 | 2024-08-30 |
 | [Tää on taistelua](https://open.spotify.com/track/09gaGwBr6lto3tZYagclTG) | [Satu Lii](https://open.spotify.com/artist/7bKUfDCmNQgrjtmC9z0yRy) | [Tää on taistelua](https://open.spotify.com/album/4JF1qEOmN4s80l70f98v3c) | 3:04 | 2024-11-21 | 2025-02-07 |

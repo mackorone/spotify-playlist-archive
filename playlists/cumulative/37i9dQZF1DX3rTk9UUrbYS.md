@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-142 songs - 19 hr 3 min
+143 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,11 +135,12 @@
 | [Talvez Certamente](https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O) | [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Celio Barros](https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX), [André Mehmari](https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu) | [Agora Aqui](https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y) | 3:32 | 2022-04-22 |  |
 | [Tepe](https://open.spotify.com/track/3U66YsEEXqz0rig8U0bVNd) | [Konstrukt](https://open.spotify.com/artist/31LWw1daUaifpCWuXKKey9), [Peter Brötzmann](https://open.spotify.com/artist/5DlFW9TwvDgSJHJuufuiAO) | [Dolunay](https://open.spotify.com/album/2w5jxwOWbkn7ci66PmUmmD) | 3:27 | 2022-08-26 |  |
 | [The Eyes Moving\. Slowly.](https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0) | [Mats Gustafson](https://open.spotify.com/artist/2qRWLwq1tDqtBRl9wtgY7u), [Craig Taborn](https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77) | [Ljubljana](https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd) | 20:24 | 2020-08-25 |  |
-| [The Path](https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5) | [Conference Call](https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0) | [Poetry in Motion](https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW) | 4:18 | 2020-08-25 |  |
+| [The Path](https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5) | [Conference Call](https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0) | [Poetry in Motion](https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW) | 4:18 | 2020-08-25 | 2025-08-09 |
 | [The Unidentifiable](https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx) | [Matthew Shipp Trio](https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK) | [The Unidentifiable](https://open.spotify.com/album/3WU3Ega5ujSwBmbglurN3H) | 7:10 | 2020-09-18 | 2024-04-19 |
 | [The Unidentifiable](https://open.spotify.com/track/6dO9SCydkLhqwSz2ayKiEH) | [Matthew Shipp Trio](https://open.spotify.com/artist/1TgqnAbUXzmLHEW0YFbROK) | [The Unidentifiable](https://open.spotify.com/album/1AM7DvvpZtwnfl7qZ1gwM0) | 7:10 | 2020-09-18 |  |
 | [Third Planet](https://open.spotify.com/track/1P8fo6JhHVnAsoVI8JHjz2) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Horizon](https://open.spotify.com/album/5qsSGj5K652dW4Pd1UQbgB) | 4:55 | 2020-11-14 |  |
 | [Third Planet](https://open.spotify.com/track/1vgyXQyuvQHXWfQwprXBKc) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX), [Sun Ra & His Arkestra](https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw) | [Horizon](https://open.spotify.com/album/050YbB6NQItIjmOwthAdzN) | 4:55 | 2020-11-14 | 2024-04-19 |
+| [Too Lost to Care](https://open.spotify.com/track/3X6SiZpVTyelmzCRdnlWRR) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21) | [Too Lost to Care](https://open.spotify.com/album/6EbBImBLb563RTdAbqzizU) | 2:12 | 2025-08-08 |  |
 | [Twombly at New Church](https://open.spotify.com/track/5hr1OI7kdIRsplcc4i1nA5) | [Rob Mazurek](https://open.spotify.com/artist/7uWd7df9GwjSZqo1cVF7Qs) | [Rome](https://open.spotify.com/album/6C3eLGlifDvM09GaJBu5tl) | 9:23 | 2020-08-25 |  |
 | [VI](https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT) | [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv), [Will Epstein](https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I) | [Frog Raag](https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn) | 4:46 | 2025-04-11 |  |
 | [Waitin](https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ) | [Gerry Hemingway Quartet](https://open.spotify.com/artist/1oD7M1SYTOaUsRAsxtPbZr), [Ellery Eskelin](https://open.spotify.com/artist/79CKjkgIoXOZB6Hwzg5vrz), [Gerry Hemingway](https://open.spotify.com/artist/3HXQYmafC5U58QeKtwdW1D), [Herb Robertson](https://open.spotify.com/artist/6GIuatS579tQok4b5wam14), [Mark Helias](https://open.spotify.com/artist/477gMnSsaTHsAIDlidg1Ra) | [The Whimbler](https://open.spotify.com/album/04Fd6i9nbEEPsyFSepMEN9) | 7:57 | 2020-08-25 |  |

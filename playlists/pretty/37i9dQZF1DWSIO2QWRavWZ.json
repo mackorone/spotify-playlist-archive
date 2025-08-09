@@ -1,36 +1,28 @@
 {
-  "description": "New music from your favorite women.  Cover: Ciara",
-  "num_followers": 224627,
+  "description": "New music from your favorite women.  Cover: Ayra Starr",
+  "num_followers": 224674,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANg3QNbCH+T49UPhq51B5aFI1//2",
+  "snapshot_id": "AAAAAMw9F/RNo8nCnM2NETHjMinXWyD0",
   "tracks": [
     {
-      "added_at": "2025-08-01 05:55:11",
+      "added_at": "2025-07-25 08:54:44",
       "album": {
-        "name": "This Right Here (feat. Latto)",
-        "url": "https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G"
+        "name": "Hot Body",
+        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Jazze Pha",
-          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 189871,
-      "name": "This Right Here (feat. Latto)",
-      "url": "https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG"
+      "duration_ms": 160000,
+      "name": "Hot Body",
+      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
     },
     {
       "added_at": "2025-07-25 08:54:44",
@@ -81,26 +73,6 @@
       "url": "https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa"
     },
     {
-      "added_at": "2025-07-25 08:54:44",
-      "album": {
-        "name": "WWP",
-        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
-    },
-    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "Folded",
@@ -115,26 +87,6 @@
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2025-08-01 05:55:11",
-      "album": {
-        "name": "Is It a Crime",
-        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
     },
     {
       "added_at": "2025-08-01 05:55:11",
@@ -155,6 +107,66 @@
       "duration_ms": 241603,
       "name": "Gone",
       "url": "https://open.spotify.com/track/5GzaOxdfGG93a5K9g12GZY"
+    },
+    {
+      "added_at": "2025-08-08 06:44:51",
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 188899,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
+    },
+    {
+      "added_at": "2025-07-25 08:54:44",
+      "album": {
+        "name": "WWP",
+        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
+    },
+    {
+      "added_at": "2025-08-01 05:55:11",
+      "album": {
+        "name": "This Right Here (feat. Latto)",
+        "url": "https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "This Right Here (feat. Latto)",
+      "url": "https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG"
     },
     {
       "added_at": "2025-06-20 04:00:55",
@@ -189,24 +201,24 @@
       "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
     },
     {
-      "added_at": "2025-07-25 08:54:44",
+      "added_at": "2025-08-01 05:55:11",
       "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
+        "name": "Is It a Crime",
+        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
     },
     {
       "added_at": "2025-07-25 08:54:44",
@@ -281,22 +293,6 @@
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
     },
     {
-      "added_at": "2025-07-25 08:54:44",
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
       "added_at": "2025-08-01 05:55:11",
       "album": {
         "name": "On The Low",
@@ -367,6 +363,22 @@
       "duration_ms": 146086,
       "name": "Back In Bed",
       "url": "https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr"
+    },
+    {
+      "added_at": "2025-08-08 06:44:51",
+      "album": {
+        "name": "24HRS",
+        "url": "https://open.spotify.com/album/52dv4vbUbGNNOgkodgswJY"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 182615,
+      "name": "24HRS",
+      "url": "https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX"
     },
     {
       "added_at": "2025-07-18 06:12:49",

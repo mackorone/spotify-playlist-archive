@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 155320,
+  "num_followers": 155354,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+        }
+      ],
+      "duration_ms": 279560,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "30 Mejores: Binomio de Oro de Am\u00e9rica",
         "url": "https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq"
       },
@@ -955,6 +975,22 @@
       "duration_ms": 304560,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -979,44 +1015,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
-        }
-      ],
-      "duration_ms": 279560,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
       },
       "artists": [
         {
@@ -1024,57 +1024,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 285893,
-      "name": "Quien Perdera",
-      "url": "https://open.spotify.com/track/6DTJDeR4r57WPLNJz4ogIe"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Mas Cerca De T\u00ed",
-        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "binomio de oro",
-        "url": "https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "que bonito",
-      "url": "https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "Regalame una Noche",
-      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
+      "duration_ms": 267840,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1095,6 +1047,54 @@
       "duration_ms": 301120,
       "name": "Sin Ti No Hay Vida",
       "url": "https://open.spotify.com/track/7DBmoLFNz6MHHvXr3g453W"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Regalame una Noche",
+      "url": "https://open.spotify.com/track/01QdbFGBdGF4Z5ckkhs7g6"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "binomio de oro",
+        "url": "https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "que bonito",
+      "url": "https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

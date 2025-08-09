@@ -6111,6 +6111,28 @@
     },
     {
       "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/5chaAjWUzZqX99xSSkwI6x"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183625,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/4AdfP9478DtPoZ9V434eo7"
+    },
+    {
+      "album": {
         "name": "Reasonings",
         "url": "https://open.spotify.com/album/4KmHuc0BNk5nMlZVMaL1c4"
       },

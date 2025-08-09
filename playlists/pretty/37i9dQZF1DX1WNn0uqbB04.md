@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,873 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,877 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 42 | [La Rosca \- Versión Remasterizada 2008](https://open.spotify.com/track/2ssFUjK5KdjiaeaI2yiGv7) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Marcha Del Golazo Solitario](https://open.spotify.com/album/2QbQpUf9KGyExi87PPRUsX) | 4:29 |
 | 43 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 |
 | 44 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 |
-| 45 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
-| 46 | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \- Medley Premios Gardel](https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \(Medley Premios Gardel\)](https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV) | 3:31 |
+| 45 | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \- Medley Premios Gardel](https://open.spotify.com/track/2kGq3Hvr0714szg3vpzkJa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Traje Unos Tangos/ Irresponsables/ Balada para un Loco \(Medley Premios Gardel\)](https://open.spotify.com/album/6oXwPnW5e2VN6A5A71XiFV) | 3:31 |
+| 46 | [Farras](https://open.spotify.com/track/0vukCYhpBdyFxAyjLPFNhq) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 1:13 |
 | 47 | [Madrugada](https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Revolución Beat](https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK) | 3:54 |
 | 48 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 |
 | 49 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |

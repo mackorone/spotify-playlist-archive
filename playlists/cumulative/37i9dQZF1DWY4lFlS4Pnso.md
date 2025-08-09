@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Disco Lines & Tinashe
+> The UK's biggest playlist\. Cover: Chappell Roan
 
 348 songs - 18 hr 34 min
 

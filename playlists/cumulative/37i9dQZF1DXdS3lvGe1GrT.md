@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cleo Reed
 
-1,816 songs - 4 day 12 hr 35 min
+1,817 songs - 4 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1606,6 +1606,7 @@
 | [The Upside](https://open.spotify.com/track/6nQB4Rrniz1gXtgwHRvR2l) | [Raavi](https://open.spotify.com/artist/2TOe8Cf1hnlJTQWcTStQ64) | [The Upside](https://open.spotify.com/album/5O7kvXJ8oCFIp03N2NNBtj) | 2:02 | 2024-09-11 | 2024-11-14 |
 | [The Valley](https://open.spotify.com/track/3qbbfgMlw4b4w2wNSA2VV2) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [The Valley](https://open.spotify.com/album/1e9fhFErBqJBNU7QffUgjT) | 3:08 | 2024-08-21 | 2024-12-05 |
 | [The Villain](https://open.spotify.com/track/5qhsFaMguGNTrf8f4wEJX6) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [The Villain](https://open.spotify.com/album/13IXmE3Qic5XwkelctKXpK) | 3:38 | 2025-07-09 |  |
+| [The Virgin Loses Again](https://open.spotify.com/track/2fu07GlMDRz2jJV23CFqAB) | [Christopher Emond](https://open.spotify.com/artist/4zXx2ZvS2QTwkysvrkvI6P) | [The Virgin Loses Again](https://open.spotify.com/album/54ZJxMa1yVFNTkNsK36xJC) | 1:46 | 2025-08-07 |  |
 | [The Waterford Song](https://open.spotify.com/track/08jiWnGXjMlBl2q4tgT53L) | [Brigid Mae Power](https://open.spotify.com/artist/4uBunSqfCPl9OrLhRifPwK) | [The Waterford Song](https://open.spotify.com/album/6k8gi3yyVShj1CHR4TasvN) | 4:28 | 2023-05-24 | 2023-07-20 |
 | [The Weasel](https://open.spotify.com/track/4hGBjDHEfXEMaYoV3XhQFC) | [Young Jesus](https://open.spotify.com/artist/7pq7EnlN1IHSyffRTklSqP) | [The Weasel](https://open.spotify.com/album/0e0js67q046MF9AlK8CeYK) | 2:50 | 2024-01-10 | 2024-02-29 |
 | [The Weather](https://open.spotify.com/track/6uCSNdetzxuxuCFZl6ZT25) | [JEMS](https://open.spotify.com/artist/7A2LiVSPjG69nzTzssU1Y8) | [The Weather](https://open.spotify.com/album/25qUBBcHwugdN7lBr5GeIk) | 3:16 | 2024-01-31 | 2024-03-28 |

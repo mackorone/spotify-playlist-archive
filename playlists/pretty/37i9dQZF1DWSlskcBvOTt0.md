@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,572 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,804 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [How It Feels](https://open.spotify.com/track/25ptHEGFaskKZQPv4dq4T7) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Don Gianni](https://open.spotify.com/artist/05a2yjvz7pTPTzQY0AuacM), [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto) | [How It Feels](https://open.spotify.com/album/5RvuULhUiw1Z8lOVmcxOgS) | 3:12 |
 | 125 | [The Underground](https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Tom Diesel](https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX) | [The Underground](https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB) | 3:26 |
 
-Snapshot ID: `AAAAAJJudxCqpjEBkBCqIJazyQ5Jj4Vn`
+Snapshot ID: `AAAAAEgtF4gPrrD8awYgIl8786NAvm+k`

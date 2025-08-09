@@ -2,9 +2,9 @@
 
 ### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
 
-> A mix of the best modern Deathcore tracks\. Cover: Paleface Swiss
+> A mix of the best modern Deathcore tracks\. Cover: Aviana
 
-690 songs - 1 day 20 hr 34 min
+692 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Consistent Suffering](https://open.spotify.com/track/2c2iD9Wq0TajHayTCKSaVl) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Feral](https://open.spotify.com/album/1ysr3SlffkcJMqFtX9Ykxe) | 3:31 | 2023-06-16 | 2024-02-10 |
 | [Creators Conscience](https://open.spotify.com/track/1abb8ARLTeyvmFOTisjUbY) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dawn](https://open.spotify.com/album/4ZKxfg7g7Px3eWCee5UPEw) | 3:29 | 2021-12-17 | 2022-03-12 |
 | [Cremation \(feat\. PK of Prompts\)](https://open.spotify.com/track/25oexo9TI5j5Oma1fr9nOH) | [NOCTURNAL BLOODLUST](https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N) | [ARGOS](https://open.spotify.com/album/33RkqJSdO8jd6Kr0Sja3tC) | 6:12 | 2022-05-06 | 2025-05-24 |
+| [Crossing Nails](https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Crossing Nails](https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K) | 3:42 | 2025-08-08 |  |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2021-12-17 | 2022-07-29 |
 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-04-29 | 2025-05-10 |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-04-29 | 2022-07-27 |
@@ -220,6 +221,7 @@
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Eulogy of Ashes](https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Eulogy of Ashes](https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff) | 4:03 | 2023-04-14 | 2024-08-24 |
 | [Evergreen](https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U) | [In Gloom](https://open.spotify.com/artist/3jp1hk4EYTFMZfPD1Dn3A2) | [In Gloom II: True Violence and All the Terror That Comes With It](https://open.spotify.com/album/0utssrtmjmlmpgPZbam66X) | 3:39 | 2025-05-02 | 2025-08-06 |
+| [EVERMORE](https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [EVERMORE](https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3) | 3:41 | 2025-08-08 |  |
 | [Everything Bleeds](https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Everything Bleeds](https://open.spotify.com/album/2KPSXo6XMYGge8SUqPWdrY) | 2:42 | 2023-06-16 | 2025-03-15 |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2021-12-31 | 2022-07-24 |
@@ -427,7 +429,7 @@
 | [Negative](https://open.spotify.com/track/1vi8pShtw3HtwCfC6TnjLY) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Fractured](https://open.spotify.com/album/1GLmxzF8g5p0fcdAatGq5Y) | 4:20 | 2021-12-17 | 2022-02-09 |
 | [Nemesis](https://open.spotify.com/track/3u4fdUGjzrXsfZfZS2j00k) | [Venom Prison](https://open.spotify.com/artist/3iSORLy7akvZ1g6QUMnM5f) | [Nemesis](https://open.spotify.com/album/4MK1OoQYfTvV7IO0n7tubP) | 4:12 | 2022-01-14 | 2022-07-26 |
 | [Neuro](https://open.spotify.com/track/5bOmleKvMS956pVl9uBLaI) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Neuro](https://open.spotify.com/album/6YlSznx44NDU19Gyehrjq6) | 3:54 | 2021-12-31 | 2022-05-29 |
-| [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-08 |  |
+| [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-08 | 2025-08-09 |
 | [New Gods](https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM) | 3:01 | 2022-07-08 | 2023-08-03 |
 | [New Gods](https://open.spotify.com/track/70TLs0LJ6hG2m7lq21kqdV) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/4RKvBFRoBD45oZ9z1VyKyU) | 3:01 | 2021-12-17 | 2022-07-28 |
 | [Nightmare](https://open.spotify.com/track/16COWH18tMTErphM5E58XH) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Nightmare](https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5) | 3:48 | 2022-04-22 | 2025-08-02 |
@@ -483,7 +485,7 @@
 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 | 2023-06-16 |  |
 | [Portrait of God](https://open.spotify.com/track/1W9sFH9GnNHPHYWNvkdN8A) | [Nouri Yetgin](https://open.spotify.com/artist/4QWhRZYvNeYXSBkfW9hCap), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Sugar Spine](https://open.spotify.com/artist/2xevVC5j2Ink2VeA2wnwkR), [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Torn From Oblivion](https://open.spotify.com/artist/5IXqeHYM84k26hwnTNDuZS) | [Portrait of God](https://open.spotify.com/album/6sQXYY4UOfTmfCo5MbD0Jp) | 4:30 | 2024-09-20 | 2025-04-26 |
 | [Pray For Peace](https://open.spotify.com/track/7L9JcQCPniTagNbWFXfqqF) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Pray For Peace](https://open.spotify.com/album/0fVihLbx9TE3SSxppwoIyH) | 4:54 | 2021-12-17 | 2024-06-11 |
-| [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-03-14 |  |
+| [Predatory](https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq) | [Face Yourself](https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU) | [Predatory](https://open.spotify.com/album/45SVAzIIYLwIGPsE554EtP) | 2:56 | 2025-03-14 | 2025-08-09 |
 | [Prey](https://open.spotify.com/track/3NwPtgv69DAYpb1uEaXjzQ) | [For I Am King](https://open.spotify.com/artist/2etNWORcmPZZBKxcyt6dF4) | [Prey](https://open.spotify.com/album/1KlOaLbLYC4t3qSwfx5uEP) | 3:46 | 2021-12-31 | 2022-04-09 |
 | [Prismatic Tomb](https://open.spotify.com/track/1J29uFlkIBR6IbydTvz4Pv) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Prismatic Tomb](https://open.spotify.com/album/3KobQQOwPNR4YHpWMnhypq) | 4:05 | 2023-06-30 | 2023-08-22 |
 | [Psalm of Agony](https://open.spotify.com/track/2D5RPLnxUlTPMPHWYQl1RD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Psalm of Agony](https://open.spotify.com/album/43JuQ1NBCuGI8dviLEQaly) | 6:52 | 2023-12-13 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ブランデー戦記
 
-1,906 songs - 4 day 22 hr 14 min
+1,907 songs - 4 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1241,7 +1241,7 @@
 | [トマトマシュマロメロン](https://open.spotify.com/track/41xEkGIUlL3AKG46RcrWAZ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [トマトマシュマロメロン](https://open.spotify.com/album/6kOBIm3AWRRcIhKBHqdk7h) | 2:27 | 2022-06-23 | 2022-06-25 |
 | [トランスファー](https://open.spotify.com/track/3Yv2jXpOPgZdZPgnOVK0oI) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [いつかの海](https://open.spotify.com/album/2hWKbb8Vy5CUzu1IzvgRrZ) | 4:08 | 2022-06-07 | 2022-06-15 |
 | [トーチソング](https://open.spotify.com/track/47YaLww0WbWQrmden7QzMe) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [はごろも](https://open.spotify.com/album/3J10gNaEDDi4BFXf7UYQhb) | 4:50 | 2024-10-10 | 2024-11-13 |
-| [ドッペルゲンガー](https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 | 2024-08-13 |  |
+| [ドッペルゲンガー](https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 | 2024-08-13 | 2025-08-09 |
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2023-02-05 |
 | [ドライブ](https://open.spotify.com/track/1M9HY1jU2K3p7LsIDJ0QL9) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:51 | 2023-02-03 | 2023-03-08 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |
@@ -1748,6 +1748,7 @@
 | [番外編](https://open.spotify.com/track/5f6WHaRAKc8kQXiWB5YNkU) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [波打つ心を持ちながら](https://open.spotify.com/album/4gINtRCG56pnyFd60pRNPp) | 3:20 | 2024-02-06 | 2024-02-08 |
 | [発色](https://open.spotify.com/track/6P76G0j28gyqDcP6jWaRoH) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [発色](https://open.spotify.com/album/5CodK6p0lFVtOOLjMYYy6L) | 3:18 | 2022-11-15 | 2022-11-23 |
 | [白夜](https://open.spotify.com/track/1H9VFgLn0RYlIoEtl84iQV) | [s\-o\-a](https://open.spotify.com/artist/06PBkMDgYKYZ5DfN021QKV) | [tales and truth](https://open.spotify.com/album/3ya2mbPWOleX6StkIM09Gq) | 2:59 | 2023-04-04 | 2023-04-12 |
+| [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 | 2025-08-05 |  |
 | [白昼きみとドロン](https://open.spotify.com/track/2RmFrPfVGbAyOIUAg9nyRH) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [白昼きみとドロン](https://open.spotify.com/album/5Y1nT7jHmglvnAt08UNDCB) | 3:13 | 2024-01-23 | 2024-01-25 |
 | [白昼夢](https://open.spotify.com/track/61tfjimxak02qu4OqhVfVm) | [myuuRy](https://open.spotify.com/artist/61Xlneg2TaCeEck0vRikVJ) | [白昼夢](https://open.spotify.com/album/1JQiTCzu2sOuEuYge6g5rG) | 3:14 | 2022-11-01 | 2022-11-09 |
 | [白魔](https://open.spotify.com/track/7JMWnuy5zlOhgc9WPQgHZl) | [shallm](https://open.spotify.com/artist/7p59bvZexyLPxLprpZRV6L) | [白魔](https://open.spotify.com/album/0538ECU7XGt9bNVu6RCWx8) | 2:47 | 2023-12-05 | 2023-12-13 |

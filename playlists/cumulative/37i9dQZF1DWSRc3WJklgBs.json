@@ -8340,7 +8340,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 228100,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/7JCHjXDrNDqxfgIeqP39yQ"
@@ -11371,6 +11371,24 @@
     },
     {
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/7hR8EcMSuCVQtZWERtadDR"
+      },
+      "artists": [
+        {
+          "name": "Cameo Blush",
+          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7n99ugGKb1kbBCIOODKtHd"
+    },
+    {
+      "album": {
         "name": "Here By Now (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG"
       },
@@ -13042,7 +13060,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 206750,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg"
@@ -14455,6 +14473,36 @@
     },
     {
       "album": {
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/3t0FeC6wmxEFqQIEm3w4F3"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "TMPST",
+          "url": "https://open.spotify.com/artist/59cVQmptpzY1hVL5jRHJoI"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        },
+        {
+          "name": "Mayn\u00f8rr",
+          "url": "https://open.spotify.com/artist/7hTaKNOFsEi4VlXr0KJMHo"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/2WNUeF1804tIKKVXcWjIQo"
+    },
+    {
+      "album": {
         "name": "Indian Summer",
         "url": "https://open.spotify.com/album/6TFxvvkuIY7EiFZpcP8bS0"
       },
@@ -15330,6 +15378,24 @@
       "duration_ms": 181935,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/2rDSJjx16QVPyPaOH9qEHU"
+    },
+    {
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309101,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/17DObRgarppeleRuJJOV8q"
     },
     {
       "album": {
@@ -16300,7 +16366,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 181681,
       "name": "Live You Down",
       "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"

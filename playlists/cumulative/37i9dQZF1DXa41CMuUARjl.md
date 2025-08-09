@@ -2,7 +2,7 @@
 
 ### [All New Dance](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 
-> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from ILLENIUM, Eli Brown, Rebūke, & more!
+> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Disclosure & Anderson.Paak, Mau P, Armin van Buuren & Martin Garrix and more!
 
 30,004 songs - 76 day 4 hr 21 min
 

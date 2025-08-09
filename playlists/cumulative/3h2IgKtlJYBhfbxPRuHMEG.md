@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-182 songs - 10 hr 13 min
+184 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/album/25nwZXV9npGbu4CFqvDCb0) | 3:05 | 2025-06-06 |  |
 | [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 |  |
 | [Pelican](https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Pelican](https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8) | 2:34 | 2025-07-11 |  |
+| [PHASERBEAM](https://open.spotify.com/track/70O1237C4fcq3f0a7DP1Pb) | [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd) | [INTRUDER](https://open.spotify.com/album/2LsyLrGjtmpQxBXwLWFq3y) | 3:53 | 2025-08-08 |  |
 | [PLB \(Pretty Little Baby\)](https://open.spotify.com/track/08eugiKdyPQFfRt1lTwTqr) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial), [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [PLB \(Pretty Little Baby\)](https://open.spotify.com/album/4ZiYzW5YyFd0lBHfFDzvLN) | 3:18 | 2025-07-04 |  |
 | [Polaris](https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [ÆON:ONE](https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND) | 3:15 | 2023-12-01 | 2025-05-03 |
 | [PRESSURE](https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Zoobstool](https://open.spotify.com/artist/5VYznroahJC80vjoIRk8Eu) | [PRESSURE](https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs) | 2:58 | 2023-12-01 |  |
@@ -154,6 +155,7 @@
 | [Slow \(with Łaszewo & pluko\)](https://open.spotify.com/track/1xM4as4z4qfqXzk4HR8GPb) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [Slow \(with Łaszewo & pluko\)](https://open.spotify.com/album/1PgLV682VcIkeUabDEEDqa) | 3:11 | 2024-07-06 | 2024-11-09 |
 | [Smoak & Sip](https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Smoak & Sip](https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb) | 3:42 | 2024-02-23 | 2024-11-09 |
 | [Smoke & Ones](https://open.spotify.com/track/1Ozd6d7lNxRvQxGrmMmE37) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3), [Jmo Let Em Know](https://open.spotify.com/artist/0j6m0No9ZFEawNFJbsurSa) | [Smoke & Ones](https://open.spotify.com/album/2mt1IX4WofBVkmuptuPJmX) | 3:28 | 2023-12-01 | 2025-04-20 |
+| [Snake Charmer](https://open.spotify.com/track/3VLkTbSGvFDTEBjq1Hh8bx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Snake Charmer](https://open.spotify.com/album/3XA3MN6qE5wzVHTnI3kHti) | 3:39 | 2025-08-08 |  |
 | [Stupid](https://open.spotify.com/track/1kyuxFtixkhsXW7lPJMO2s) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Descent \- EP](https://open.spotify.com/album/0MIZlwrMURKrCp7taVFzyC) | 3:08 | 2023-12-01 | 2025-05-03 |
 | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [SUNSHiNE OF YOUR WUB](https://open.spotify.com/album/5tght1mFiO2ezt5lz9L2IS) | 1:33 | 2024-02-16 | 2024-11-09 |
 | [Superstars](https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Superstars](https://open.spotify.com/album/6dvGmNFspBMuwkM09pJqkj) | 2:52 | 2023-12-01 | 2024-11-30 |

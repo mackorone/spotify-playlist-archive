@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De beste Indie & Alternative. Cover: Hiqpy (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artist)",
+  "description": "De beste Indie & Alternative. Cover: Turnstile",
   "name": "Indie XL",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 264319,
       "name": "Daddy's Selling Wine In A Burning House",
       "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
@@ -708,6 +708,24 @@
       "duration_ms": 398428,
       "name": "Emo Song",
       "url": "https://open.spotify.com/track/1EAciAN6W2LWDqwonSKpZ6"
+    },
+    {
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "album": {
@@ -1854,7 +1872,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33"
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 227237,
       "name": "new year's eve",
       "url": "https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt"
@@ -2781,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "SEEIN\u2019 STARS / BIRDS",
+        "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186277,
+      "name": "SEEIN\u2019 STARS",
+      "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
+    },
+    {
+      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/0mUXMfNpBQy1SgPU05fDxu"
       },
@@ -3282,6 +3318,24 @@
       "duration_ms": 224044,
       "name": "This Is Nowhere",
       "url": "https://open.spotify.com/track/7wFmJxJfGCN6DM5913y7pr"
+    },
+    {
+      "album": {
+        "name": "This is the Killer Speaking",
+        "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294773,
+      "name": "This is the Killer Speaking",
+      "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
     },
     {
       "album": {

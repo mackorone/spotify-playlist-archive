@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-484 songs - 1 day 4 hr 19 min
+485 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Night Long \- Ruck P Remix](https://open.spotify.com/track/6fYFZnIsm74om1JFSgZWZM) | [Patric Pleasure](https://open.spotify.com/artist/1S5UyTmyOEpVluYNaC8d5M), [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn), [Emilia Anastazja](https://open.spotify.com/artist/0cKNOYRTUF2PeSXJCb3jOr) | [All Night Long \(Ruck P Remix\)](https://open.spotify.com/album/2sBfkBNyb4sZBAhfxybsVF) | 3:08 | 2023-04-28 | 2025-05-03 |
 | [ALL Outta Fucks](https://open.spotify.com/track/5GFadF67iK9w7QtkBzeJnA) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Gone Into The Grey](https://open.spotify.com/album/54qOt7bKvZfUdoGW0ln5Xl) | 4:24 | 2021-03-12 | 2022-06-04 |
 | [Alone](https://open.spotify.com/track/0654qpngLbRcjdIvgkhFhO) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:16 | 2021-10-01 | 2022-07-16 |
+| [Always \(feat\. Not So Bad\)](https://open.spotify.com/track/6K1j9DcMMILrhe9GIGd5r2) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [I Like It \(Money Crazy\)/Always](https://open.spotify.com/album/3Fqo8dEZJhXicP81UlEUon) | 2:43 | 2025-08-08 |  |
 | [Ambrosia \(feat\. John Givez\)](https://open.spotify.com/track/1vvkcDxmRcen5VA46QjE45) | [XV](https://open.spotify.com/artist/4GKRKf0FAK4nLtmL3u3JQ9), [MIKE SUMMERS](https://open.spotify.com/artist/3zZSB45PLm0xRMHSOQ59V8), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [Ambrosia \(feat\. John Givez\)](https://open.spotify.com/album/02sQMLc0VZX3pwya3TAC6S) | 3:03 | 2023-05-05 | 2025-02-01 |
 | [Apollo](https://open.spotify.com/track/4lhhYqzREcts4uOOqWHjRJ) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:43 | 2020-11-20 | 2022-04-09 |
 | [Aqua Girl \- Jules Grant Remix](https://open.spotify.com/track/2ZDaTRSKYqzl561mnMF4k5) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Jules Grant](https://open.spotify.com/artist/5KLQxnoQmOOHaSobJveoD8) | [Aqua Girl \(Jules Grant Remix\)](https://open.spotify.com/album/369x47N74qLzB1rlEAohUw) | 3:16 | 2022-03-25 | 2023-09-02 |
@@ -421,7 +422,7 @@
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-15 | 2022-05-20 |
 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 | 2021-09-24 | 2022-05-20 |
 | [Thing for You](https://open.spotify.com/track/2OLD64kN8JzvNn3Aar7O26) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [Summer Solstice: The Mixtape](https://open.spotify.com/album/1mxyxZOLzdnG2TMu1jxFs1) | 3:12 | 2020-11-20 | 2022-04-09 |
-| [This Is 4 You](https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo IV](https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG) | 2:31 | 2024-11-01 |  |
+| [This Is 4 You](https://open.spotify.com/track/7wEvo5UWrMLBUSnVEfGq4T) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo IV](https://open.spotify.com/album/5OjssA9yeAUq2llLdZcVDG) | 2:31 | 2024-11-01 | 2025-08-09 |
 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 | 2022-09-23 | 2024-06-15 |
 | [This Must Be The Place](https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Touch My Soul](https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p) | 4:58 | 2023-04-28 | 2025-05-31 |
 | [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 | 2022-08-19 | 2024-01-20 |

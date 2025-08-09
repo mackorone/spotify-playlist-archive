@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Vampire Bat",
+        "url": "https://open.spotify.com/album/6IkkusO0kzVnUDME4dTmdY"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206652,
+      "name": "Vampire Bat",
+      "url": "https://open.spotify.com/track/2CPIpG09HlF32VnpgIObGj"
+    },
+    {
+      "album": {
         "name": "Waterdicht",
         "url": "https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa"
       },

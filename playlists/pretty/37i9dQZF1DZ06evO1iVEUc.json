@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25493,
+  "num_followers": 25496,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACRSvUp6ZlUElWUM/I2XScp",
+  "snapshot_id": "aJPsgAAAAAAR5O5lYFKB/H0haLY0waim",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "I Wanna Thank Ya",
+        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
+      "duration_ms": 227133,
+      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
+      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
     },
     {
       "added_at": null,
@@ -331,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Thank Ya",
-        "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 227133,
-      "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
-      "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 237569,
       "name": "2 Bad Habits",
       "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Diamond (Deluxe Edition)",
         "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 152007,
       "name": "Trouble Man",
       "url": "https://open.spotify.com/track/1DVPQbeV6bU8sQDCouSCmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Take Everything In",
-      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
+      "duration_ms": 212306,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+      "duration_ms": 230400,
+      "name": "Take Everything In",
+      "url": "https://open.spotify.com/track/0S9J927viE05YinAFLoUUi"
     },
     {
       "added_at": null,

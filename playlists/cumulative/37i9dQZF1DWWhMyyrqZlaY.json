@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Los corridos m\u00e1s placosos que suenan en las calles. Natanael Cano en portada.",
+  "description": "Los corridos m\u00e1s placosos que suenan en las calles. Natanael Cano y Dan S\u00e1nchez en portada.",
   "name": "Corridos Tumbados",
   "tracks": [
     {
@@ -454,6 +454,24 @@
       "duration_ms": 136913,
       "name": "Ch y la Pizza",
       "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
+    },
+    {
+      "album": {
+        "name": "CRISTIAN",
+        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "CHAMAQUITO",
+      "url": "https://open.spotify.com/track/0wEt4WNJ76XNoiwrCNZJXU"
     },
     {
       "album": {
@@ -966,7 +984,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 219533,
       "name": "El G\u00fcero - En vivo",
       "url": "https://open.spotify.com/track/7a6gK5GwlIvGTU4ayZhskd"
@@ -1097,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Tumbado Es El Rollo",
+        "url": "https://open.spotify.com/album/2AqUv7GpJdMKiKQJh0ckwF"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171701,
+      "name": "EL QUE NO IBA A FALLAR",
+      "url": "https://open.spotify.com/track/6LZqN9CKw9Ol5kV3Ywk9jy"
+    },
+    {
+      "album": {
         "name": "El Rayo",
         "url": "https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE"
       },
@@ -1162,7 +1198,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 164245,
       "name": "El Toro Encartado - Spotify Singles",
       "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
@@ -1916,7 +1952,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 115466,
       "name": "La P-90",
       "url": "https://open.spotify.com/track/1nMXGIFXA2bWyuqv3Q283w"
@@ -2064,6 +2100,28 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    {
+      "album": {
+        "name": "Tumbado Es El Rollo",
+        "url": "https://open.spotify.com/album/2AqUv7GpJdMKiKQJh0ckwF"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "LCD",
+      "url": "https://open.spotify.com/track/14dCZZBfyLywyx6CaDzgHD"
     },
     {
       "album": {
@@ -3555,6 +3613,28 @@
     },
     {
       "album": {
+        "name": "E$ENCIA",
+        "url": "https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212607,
+      "name": "Soy Tranquilon",
+      "url": "https://open.spotify.com/track/6gG466o9GauWGSozzVOI5n"
+    },
+    {
+      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -3614,7 +3694,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"

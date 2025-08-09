@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Sadturs, KIID, Flaco G e Lubi in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,095 likes - 65 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,142 likes - 65 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

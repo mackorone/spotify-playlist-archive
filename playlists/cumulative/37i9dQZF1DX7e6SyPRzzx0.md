@@ -2,9 +2,9 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Ken Carson
+> The home of rage rap\. Cover: Homixide Gang
 
-164 songs - 7 hr 1 min
+166 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Hell Yeah](https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 2:48 | 2023-12-01 | 2024-09-21 |
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 | 2024-06-01 |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 | 2024-04-27 |
+| [i need meds](https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i need meds](https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL) | 1:35 | 2025-08-08 |  |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-12-01 | 2024-03-16 |
 | [I Rot, I Rot.](https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 1:59 | 2024-09-03 | 2024-12-07 |
 | [i suppose'](https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [searching for klarity](https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2) | 3:18 | 2023-12-01 | 2024-06-01 |
@@ -109,7 +110,7 @@
 | [money & sex](https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 4:32 | 2024-08-04 | 2024-08-21 |
 | [Money Addicts](https://open.spotify.com/track/0R5awPL6A2oHJuFI0C0dTr) | [Fourfive](https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg) | [Money Addicts](https://open.spotify.com/album/6tAtP9Y2Xj6ImN0THsKIDh) | 1:37 | 2023-12-01 | 2024-10-26 |
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2023-12-01 | 2024-03-16 |
-| [NASTY](https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [NASTY](https://open.spotify.com/album/1nFL8pKNqX80UksDWHF8qI) | 2:26 | 2024-10-25 |  |
+| [NASTY](https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [NASTY](https://open.spotify.com/album/1nFL8pKNqX80UksDWHF8qI) | 2:26 | 2024-10-25 | 2025-08-09 |
 | [New Cash](https://open.spotify.com/track/4NNyZ9w119c7FJLn6FoRJg) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [New Cash](https://open.spotify.com/album/25ZcUBzPwZxKVBk40kNzXu) | 2:24 | 2025-05-09 |  |
 | [New Jeep](https://open.spotify.com/track/2CcWirzG271UsU4Eb9jcPx) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [New Jeep](https://open.spotify.com/album/4pbOfNrlI8zo5YSjuV1n2V) | 3:05 | 2025-06-20 | 2025-07-12 |
 | [New Tank](https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:29 | 2024-05-14 |  |
@@ -128,13 +129,14 @@
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-12-01 | 2024-09-04 |
 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 | 2024-08-20 | 2024-09-11 |
 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 | 2024-04-12 | 2024-08-21 |
+| [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 | 2025-08-08 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 | 2023-12-01 | 2024-12-07 |
 | [Pop](https://open.spotify.com/track/26Fx8UbsC0BV4J1CdtuLAy) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:49 | 2024-03-15 | 2024-04-27 |
 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 | 2024-07-31 |  |
 | [President \(feat\. Ken Carson\)](https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [President \(feat\. Ken Carson\)](https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8) | 3:07 | 2024-04-26 |  |
 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 | 2025-08-01 |  |
 | [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 | 2025-05-23 |  |
-| [R50](https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:45 | 2024-08-20 |  |
+| [R50](https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:45 | 2024-08-20 | 2025-08-09 |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-05 | 2025-07-12 |
 | [Shibuya](https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 | 2024-08-20 |  |
 | [Shibuya](https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Shibuya](https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB) | 2:36 | 2024-03-18 | 2024-09-05 |

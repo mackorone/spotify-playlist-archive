@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 74 | [i'm fine](https://open.spotify.com/track/2Ff84Bm75EdzfM0KOT3pn7) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:40 |
 | 75 | [BNYX Da Reaper](https://open.spotify.com/track/1EDUzgblPIrZpUipr95S5u) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BNYX Da Reaper](https://open.spotify.com/album/1kSBFgU4PeCxLDYbK4xGwM) | 3:24 |
 | 76 | [Bob and Weave](https://open.spotify.com/track/3asben67kRSobuDjUPaWZB) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:44 |
-| 77 | [For a While](https://open.spotify.com/track/1Oi984iJVQNJsMCr3LGIkM) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 4:37 |
-| 78 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |
+| 77 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |
+| 78 | [For a While](https://open.spotify.com/track/1Oi984iJVQNJsMCr3LGIkM) | [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [The Vibe Is Heavy 2](https://open.spotify.com/album/2aQjvAzM4IB2Ko5oLrXdCz) | 4:37 |
 | 79 | [Lovergirl](https://open.spotify.com/track/5u58jnNglxz5EeaDgb4K6v) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:32 |
 | 80 | [ON THE MOON](https://open.spotify.com/track/12A3iqsBa70rozVTjXx4r6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 1:52 |
 | 81 | [Bad Cameo](https://open.spotify.com/track/1n7DZlKSbu6rQ0WHS7IZb7) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Bad Cameo](https://open.spotify.com/album/5zncNknK8hrQyTTVWpUyAf) | 3:51 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 148 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 149 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab45XAAAAADjJOLVKyU9vgYUzwqjW0RI`
+Snapshot ID: `Ab4+/AAAAAB5CKu2jA2sAdJelyibs+sg`

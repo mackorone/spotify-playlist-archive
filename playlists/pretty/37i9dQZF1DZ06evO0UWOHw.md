@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,412 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,429 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [Like Dat](https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Nataraja](https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L) | 3:07 |
 | 50 | [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/7xrXgktXuQjSY5u49EAeNx) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/5P1XifZE8p4L4TbuYDY4bX) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 3:01 |
 
-Snapshot ID: `aJKbAAAAAADrkUkLYAKRr91Xsmf/IvT/`
+Snapshot ID: `aJPsgAAAAACks7YYKTG4v7H0E+GwqlWA`

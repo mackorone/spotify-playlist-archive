@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Soft Error",
+        "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Aibo (feat. Bratty)",
+      "url": "https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0dbDUyVtiGojztAC8l16Ou"
       },

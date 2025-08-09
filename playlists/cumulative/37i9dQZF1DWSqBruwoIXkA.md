@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like sad hour, with David Kushner
+> heartbreak feels good in a place like sad hour, with Bella Kay.
 
-937 songs - 2 day 3 hr 35 min
+939 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Flowers](https://open.spotify.com/track/6p2DKSuKLPvIBIHkoqBTtX) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Flowers](https://open.spotify.com/album/3FtYC7MmFKnjJoCE1aElBx) | 3:36 | 2021-12-31 | 2022-01-08 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2023-04-01 |
 | [Flowers on the Moon](https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Flowers on the Moon](https://open.spotify.com/album/7dvzNaKLIa5GkcrDcHleVp) | 3:28 | 2024-03-15 | 2024-04-27 |
-| [Forever](https://open.spotify.com/track/4xg5WAehIEXWpZeO4PEIkr) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Forever](https://open.spotify.com/album/3SYMI0soENo9PF6v6IhXnm) | 3:55 | 2025-03-21 |  |
+| [Forever](https://open.spotify.com/track/4xg5WAehIEXWpZeO4PEIkr) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Forever](https://open.spotify.com/album/3SYMI0soENo9PF6v6IhXnm) | 3:55 | 2025-03-21 | 2025-08-09 |
 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 | 2022-01-28 | 2024-11-02 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 | 2025-05-31 |
 | [Forget Me](https://open.spotify.com/track/3iHzKA9HlXf5wsGdsrsnSA) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:23 | 2023-04-28 | 2024-04-19 |
@@ -410,6 +410,7 @@
 | [I Saw You In Love](https://open.spotify.com/track/2VW5sMEkw1EVqgMvXXP1RE) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [Drive Me Mad](https://open.spotify.com/album/7456fe7qPhbAUAXwuNGScB) | 3:42 | 2025-02-28 | 2025-03-15 |
 | [I Should Just Go To Bed](https://open.spotify.com/track/5y9yCr1fYjktF1MbhbYQ7O) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [5 Songs for Healing](https://open.spotify.com/album/6g1hvq78JReIjSIZZCNHLN) | 3:19 | 2023-06-23 | 2023-07-15 |
 | [i should just leave](https://open.spotify.com/track/1b2liV9Zp9IemfkwDwk9JK) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i should just leave](https://open.spotify.com/album/6tnvpdq0gI8htBVcwWMFgg) | 3:33 | 2022-02-04 | 2022-02-12 |
+| [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-08 |  |
 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 | 2022-01-14 | 2024-04-27 |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-03-11 | 2022-12-17 |
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 | 2023-08-19 |
@@ -550,6 +551,7 @@
 | [Love's The Worst](https://open.spotify.com/track/6ETjGrxmdsUESckxPGCpKN) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Love's The Worst EP](https://open.spotify.com/album/5eeijGABYrckBfojHf6zio) | 2:56 | 2023-10-06 | 2023-10-28 |
 | [lovebomb](https://open.spotify.com/track/6g5ToBz8mGURaauPqfyYvU) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:09 | 2022-10-28 | 2023-02-18 |
 | [Loved By You](https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Stellaria](https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu) | 2:58 | 2023-10-13 | 2023-11-18 |
+| [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-08 |  |
 | [lower](https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [lower](https://open.spotify.com/album/3su4g4uYeEPRCKlOyaAZIo) | 3:58 | 2024-09-20 | 2024-10-19 |
 | [lucky to lose you \- 24 hour song](https://open.spotify.com/track/7pJ4Wcv3i4q7GCyioXaxLk) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [lucky to lose you \(24 hour song\)](https://open.spotify.com/album/7wW0LjHGhNyeNJ0OjdCYyw) | 3:12 | 2024-03-15 | 2024-03-30 |
 | [Magazines](https://open.spotify.com/track/5WBJ8Cds7nAFH6olYdHbqY) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [to anyone who cares](https://open.spotify.com/album/4Y0MTpdftG5fN5RKV2Idwv) | 3:12 | 2022-04-01 | 2022-04-21 |
@@ -909,7 +911,7 @@
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2022-05-04 | 2023-02-18 |
 | [Why Can't You](https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Why Can't You](https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ) | 3:15 | 2025-01-17 | 2025-03-26 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-18 | 2023-03-04 |
-| [Why Do The Pills Work](https://open.spotify.com/track/1YEEihRixYjaaJCu9rMMx7) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Why Do The Pills Work](https://open.spotify.com/album/1tmExGHhllwIVt0DKEfgmG) | 3:36 | 2025-03-21 |  |
+| [Why Do The Pills Work](https://open.spotify.com/track/1YEEihRixYjaaJCu9rMMx7) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Why Do The Pills Work](https://open.spotify.com/album/1tmExGHhllwIVt0DKEfgmG) | 3:36 | 2025-03-21 | 2025-08-09 |
 | [Why I Broke Up With You](https://open.spotify.com/track/21RiG0Y6cm7M7qN4r4BgGW) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Why I Broke Up With You](https://open.spotify.com/album/2BhCsXcXD3FBgC38hej4p5) | 2:43 | 2022-07-15 | 2022-08-13 |
 | [Wicked Game](https://open.spotify.com/track/4WW5jLs5WXLE5YoRBoju0p) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wicked Game](https://open.spotify.com/album/0zH3SHiGlCJWDJ3iwPAoqD) | 2:29 | 2022-09-16 | 2022-10-15 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-07-08 |  |

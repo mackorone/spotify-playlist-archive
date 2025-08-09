@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 381344,
+  "num_followers": 381357,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAA1WMLCAxK1uZMRHM4OHHhr",
+  "snapshot_id": "aJPsgAAAAABEXdW3XguSJ1ETUXY+ckRK",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "AMAZING",
-      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 228762,
       "name": "Rearrange My World",
       "url": "https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "AMAZING",
+      "url": "https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf"
     },
     {
       "added_at": null,
@@ -343,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 183000,
-      "name": "KEEP IT UP",
-      "url": "https://open.spotify.com/track/1dxqk42KIlMyrSawZ5YjBE"
+      "duration_ms": 298520,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 298520,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/2UO6VQNKdwygetKaVCe39h"
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/1dxqk42KIlMyrSawZ5YjBE"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 240194,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/5JKnHK8cU8k4w7mB44DWL4"
+      "duration_ms": 240346,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 240346,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/1B04mWViAk7jcLEifYbvdi"
+      "duration_ms": 240194,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/5JKnHK8cU8k4w7mB44DWL4"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 153637,
-      "name": "2008",
-      "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
+      "duration_ms": 301773,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/4fg2EzaeNhR2PWNGXbX18n"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 301773,
-      "name": "4 Seasons",
-      "url": "https://open.spotify.com/track/4fg2EzaeNhR2PWNGXbX18n"
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/5S2fYAHI2zwSIc2RWcFL7V"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
       "duration_ms": 115400,
       "name": "MAKING TIME",
       "url": "https://open.spotify.com/track/6VxUwrFA62k7apLawHsC08"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 151136,
-      "name": "One Of These Days",
-      "url": "https://open.spotify.com/track/7FL9hBxZMMjyMg7ezluCTB"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 151136,
+      "name": "One Of These Days",
+      "url": "https://open.spotify.com/track/7FL9hBxZMMjyMg7ezluCTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 171789,
       "name": "Uno",
       "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 127558,
-      "name": "4 In The Morning",
-      "url": "https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 127558,
+      "name": "4 In The Morning",
+      "url": "https://open.spotify.com/track/4YSYzelIzckY5oTIXGU3lc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New House",
         "url": "https://open.spotify.com/album/4yOWF2YwCTZrpvW8P5kp89"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 199052,
       "name": "New House",
       "url": "https://open.spotify.com/track/0O6zO72N38DFXx6R7fKsqx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 245549,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/1vtFlSfBhHcrj3TSYjpK8J"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 245549,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/1vtFlSfBhHcrj3TSYjpK8J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You've Got a Friend in Me",
         "url": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Alexander Technique",
-        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5o3kn5HJIYAQ14GYmR6IAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/2PdLUS263cFyd7efyWH5B8"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 241000,
       "name": "Know Love",
       "url": "https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5o3kn5HJIYAQ14GYmR6IAg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,950 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,036 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 11 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 |
 | 12 | [Por Fa No Te Vayas](https://open.spotify.com/track/4xU1D7EZ75yI2sSaFtcksR) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Por Fa No Te Vayas](https://open.spotify.com/album/2WXtUxTSuMmSjlsaivUrOt) | 3:33 |
 | 13 | [Desde Hoy](https://open.spotify.com/track/4ob6ms155NnDHo3NcNqeue) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Natti Natasha en Amargue](https://open.spotify.com/album/2JMAAMlcZEg2wOl7b0fRA9) | 3:23 |
-| 14 | [Si Juegas Conmigo](https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Si Juegas Conmigo](https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX) | 3:26 |
+| 14 | [Si Juegas Conmigo \(ASA25\)](https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Si Juegas Conmigo \(ASA25\)](https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX) | 3:26 |
 | 15 | [Tengo Un Plan \- Remix](https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tengo Un Plan \(Remix\)](https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH) | 3:35 |
 | 16 | [Tus Besos \- French Version](https://open.spotify.com/track/4m589UyBjAZ9YNQmA9Y2TU) | [Karl Wine](https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Tus Besos \(French Version\)](https://open.spotify.com/album/0eiQhIdvIfNfUvZIQdHbUo) | 2:26 |
 | 17 | [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 |

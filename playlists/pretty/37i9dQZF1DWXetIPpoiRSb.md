@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Pop's next level 🍬 Cover: Dolly Zoom ̷G̷r̷e̷t̷a̷ ̷I̷s̷a̷a̷c̷
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,236 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,175 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

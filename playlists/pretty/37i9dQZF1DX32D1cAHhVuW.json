@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 61599,
+  "num_followers": 61618,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Chixtape 5",
         "url": "https://open.spotify.com/album/6vVhekA9LRg0MWIQaxI37f"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 233546,
       "name": "Jerry Sprunger (with T-Pain)",
       "url": "https://open.spotify.com/track/6JsHgIkMYHcbNtKfsal2Mg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
       "added_at": "2022-10-01 16:00:00",

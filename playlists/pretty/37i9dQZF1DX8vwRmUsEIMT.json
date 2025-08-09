@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Ed Sheeran",
-  "num_followers": 579174,
+  "num_followers": 579804,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/45mmAFhB2L79faaul6n8If"
+    },
+    {
+      "added_at": "2025-08-07 23:00:23",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2025-08-07 23:00:23",
@@ -520,7 +540,7 @@
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 302906,
+      "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },
@@ -573,7 +593,7 @@
         }
       ],
       "duration_ms": 149669,
-      "name": "Holy Water (feat. Jelly Roll)",
+      "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {

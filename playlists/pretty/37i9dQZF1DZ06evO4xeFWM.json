@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 218438,
+  "num_followers": 218460,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABXI2u2QppmSBDjebsNzFMC",
+  "snapshot_id": "aJPsgAAAAAC2CtZMKl4cK50rsyuYDdLB",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "survivin'",
-        "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "survivin'",
-      "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/2OIq8lnYPf7xBWX4QWtcjm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "survivin'",
+        "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "survivin'",
+      "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Gone Mad (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 195700,
-      "name": "World Gone Mad",
-      "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 204819,
       "name": "The Anchor",
       "url": "https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Gone Mad (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 195700,
+      "name": "World Gone Mad",
+      "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happier (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 187062,
       "name": "Happier - Sped Up",
       "url": "https://open.spotify.com/track/2as5BO0eobxm7Zvelm2nHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Red Wine & Wilde",
-      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
+      "duration_ms": 200280,
+      "name": "Emily & Her Penthouse In The Sky",
+      "url": "https://open.spotify.com/track/7Ec3LPxy4LI4FPIFKu7It4"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Lethargy",
-      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
+      "duration_ms": 244135,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
     },
     {
       "added_at": null,
@@ -824,29 +824,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 244135,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Grief (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Good Grief - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
+      "duration_ms": 204986,
+      "name": "Lethargy",
+      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
       "duration_ms": 199506,
       "name": "Home Before The World Ends",
       "url": "https://open.spotify.com/track/0bW61j9D0JRflFGclIpqlC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Grief (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Good Grief - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
     },
     {
       "added_at": null,

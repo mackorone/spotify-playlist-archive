@@ -2,7 +2,7 @@
 
 ### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
 
-> All the New Joints featuring Yeat, Metro Boomin, $uicideboy$ and more!
+> All the New Joints featuring JID, Gunna, Bryson Tiller and more!
 
 8,078 songs - 15 day 11 hr 52 min
 

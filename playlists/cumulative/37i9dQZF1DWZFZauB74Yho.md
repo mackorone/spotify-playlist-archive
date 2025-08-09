@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-414 songs - 1 day 0 hr 30 min
+415 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Clear the Tracks](https://open.spotify.com/track/5R0d96sHEwQGW3rcga8mkV) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w), [Fin Moon](https://open.spotify.com/artist/1Gco0BjUXqxHf91RkL9OoP) | [Clear the Tracks](https://open.spotify.com/album/121VqIgXcC5B3nlz4B0RJT) | 2:38 | 2024-06-28 | 2024-11-03 |
 | [Cloak of the Sun](https://open.spotify.com/track/2UoPZNMav7zszKwGVf1GQ6) | [The Riverside](https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X) | [Cloak of the Sun](https://open.spotify.com/album/7jf0HG4UsvcT3h49jxawqJ) | 5:22 | 2024-07-12 | 2024-11-30 |
 | [Closer You Get](https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD) | [Arkansauce](https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl) | [Closer You Get](https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI) | 5:45 | 2024-11-22 | 2025-02-23 |
+| [Clothesline](https://open.spotify.com/track/5VEekUUajbBcWFbNMddk1L) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Clothesline](https://open.spotify.com/album/6pu7sm8K1xh1VzOo4EJwZa) | 3:56 | 2025-08-08 |  |
 | [Cold](https://open.spotify.com/track/3Qvdl8h86LqXh9qFjKrvBB) | [The Wilder Flower](https://open.spotify.com/artist/7bQu41HtZVGGuRjLUnQYaZ) | [Cold](https://open.spotify.com/album/5hSNi2CMie5pr4CG2F5hF1) | 3:56 | 2024-08-02 | 2024-12-07 |
 | [Collateral Damage](https://open.spotify.com/track/7HlF5pzi9nKEtfz8pTMD0b) | [Chatham Rabbits](https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od) | [Collateral Damage](https://open.spotify.com/album/0tNFTSfBRONBYGUFOmnVAI) | 3:18 | 2024-11-22 |  |
 | [Come Out Of My Blues \(feat\. Tim O'Brien\)](https://open.spotify.com/track/05PxhMCqQ9gnBPTM7ree0K) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [Come Out Of My Blues \(feat\. Tim O'Brien\)](https://open.spotify.com/album/5CguhXRiGqHP2JihutacxK) | 3:47 | 2025-02-07 |  |

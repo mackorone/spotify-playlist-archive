@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Mela Bedel
 
-344 songs - 17 hr 19 min
+345 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Esmer](https://open.spotify.com/track/2QiIcD1oAKlusZ7gPBOPQ8) | [Okan & Volkan](https://open.spotify.com/artist/5U2qYuO4KclXaQTqiGzqUV), [Ahlat](https://open.spotify.com/artist/015PSt8FXZRLBK936dOQUG), [Can Demir](https://open.spotify.com/artist/00UK1NIitQXRyJKMh5tJhV) | [Esmer](https://open.spotify.com/album/4AyoygSAYsKAErO6s6ha67) | 2:02 | 2024-10-10 | 2024-10-13 |
 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 | 2025-06-26 |  |
 | [Eylül](https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Eylül](https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ) | 2:54 | 2025-02-20 | 2025-06-20 |
-| [Farkındaydın](https://open.spotify.com/track/1OUuYxtMnyNS4etNDpto3A) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS), [Lil Orxan](https://open.spotify.com/artist/4se0Sn6hGwzmytn5VYtc6d) | [Farkındaydın](https://open.spotify.com/album/60T9anGFIN7i4zAYEJ7hfU) | 2:56 | 2025-07-31 |  |
+| [Farkındaydın](https://open.spotify.com/track/1OUuYxtMnyNS4etNDpto3A) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS), [Lil Orxan](https://open.spotify.com/artist/4se0Sn6hGwzmytn5VYtc6d) | [Farkındaydın](https://open.spotify.com/album/60T9anGFIN7i4zAYEJ7hfU) | 2:56 | 2025-07-31 | 2025-08-09 |
 | [Felaket](https://open.spotify.com/track/3oFew1USP4dXQxDsivrTO0) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Felaket](https://open.spotify.com/album/6BD9aDBrdBRnJ88a5bnInr) | 2:21 | 2025-05-22 | 2025-06-27 |
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-05-26 |
 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 |  |
@@ -175,6 +175,7 @@
 | [İmkansız Bir Aşk Denir](https://open.spotify.com/track/7oWgtgmSgC9XCRcnj7NF0r) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [İmkansız Bir Aşk Denir](https://open.spotify.com/album/0ZpK4LGEPGWmhkhPsZrj5b) | 3:17 | 2024-06-27 | 2024-07-12 |
 | [İSTANBUL BİLE](https://open.spotify.com/track/2qfdA02I5BLwqNDGxc1JvL) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [İSTANBUL BİLE](https://open.spotify.com/album/51rttRrCgLiGh0l2nKypnv) | 3:51 | 2025-02-06 | 2025-04-06 |
 | [İçimde Sen](https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [İçimde Sen](https://open.spotify.com/album/48lOZljjxbF9IGkWpaU1eK) | 3:33 | 2024-06-27 | 2024-07-04 |
+| [İçin Rahat Olsun](https://open.spotify.com/track/41dhf0sMVkUFvgdCbJGBzf) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [İçin Rahat Olsun](https://open.spotify.com/album/7Fzkihl6LX4HnNCZMYQcsu) | 3:32 | 2025-08-07 |  |
 | [İşlemediğim Bir Suç](https://open.spotify.com/track/6JJ9tRFY3xeVeyFQbvbCNp) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [İşlemediğim Bir Suç](https://open.spotify.com/album/4kUKNbvMKJZn997usHxWzJ) | 3:25 | 2025-02-27 | 2025-04-19 |
 | [Kabul](https://open.spotify.com/track/2nyigm34dUR20LTLTt2g11) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Kabul](https://open.spotify.com/album/0K7EIVgGtYvc71CpGQBtt3) | 3:52 | 2025-06-26 |  |
 | [Kadere Bak](https://open.spotify.com/track/75kqCFoNPk7Qtccnzv6FjZ) | [Çelik](https://open.spotify.com/artist/1OLLBdj6zsFJ2GUMpk8trl), [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Kadere Bak](https://open.spotify.com/album/4WHQTIhRdQd2pWRcaulkcd) | 2:47 | 2025-07-31 | 2025-08-04 |

@@ -1,13 +1,29 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 60735,
+  "num_followers": 60803,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9TbyyGFGhEE9b0gQRtOgeHLu2Z",
+  "snapshot_id": "AAAAAEAkVJzhSLqS2y6w6cC58qma7UXH",
   "tracks": [
+    {
+      "added_at": "2025-08-01 04:00:37",
+      "album": {
+        "name": "Take One",
+        "url": "https://open.spotify.com/album/2o8CMJmoJ5K7Pr0XyXmwq2"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        }
+      ],
+      "duration_ms": 179596,
+      "name": "Take One",
+      "url": "https://open.spotify.com/track/0RnfuyifJlc2fVMHIy5Wuc"
+    },
     {
       "added_at": "2025-06-20 04:00:47",
       "album": {
@@ -29,6 +45,26 @@
       "url": "https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp"
     },
     {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "My Wave",
+        "url": "https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 150229,
+      "name": "My Wave",
+      "url": "https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd"
+    },
+    {
       "added_at": "2025-07-25 14:46:47",
       "album": {
         "name": "Don't You Want My Love",
@@ -43,22 +79,6 @@
       "duration_ms": 258750,
       "name": "Don't You Want My Love",
       "url": "https://open.spotify.com/track/0Sg6SK3UzA5qG5htc8QPvR"
-    },
-    {
-      "added_at": "2025-08-01 04:00:37",
-      "album": {
-        "name": "Take One",
-        "url": "https://open.spotify.com/album/2o8CMJmoJ5K7Pr0XyXmwq2"
-      },
-      "artists": [
-        {
-          "name": "Job De Jong",
-          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
-        }
-      ],
-      "duration_ms": 179596,
-      "name": "Take One",
-      "url": "https://open.spotify.com/track/0RnfuyifJlc2fVMHIy5Wuc"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -91,6 +111,22 @@
       "duration_ms": 194198,
       "name": "Versatile",
       "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Back 2 Back EP",
+        "url": "https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "duration_ms": 165505,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av"
     },
     {
       "added_at": "2025-07-25 14:46:47",
@@ -181,6 +217,22 @@
       "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Get Stupid",
+        "url": "https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 201461,
+      "name": "Get Stupid",
+      "url": "https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw"
+    },
+    {
       "added_at": "2025-07-25 14:46:47",
       "album": {
         "name": "ATC",
@@ -243,6 +295,22 @@
       "duration_ms": 249098,
       "name": "Subwave",
       "url": "https://open.spotify.com/track/4i8YMkRxCeClZtz3rnTlpv"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Beatbox",
+        "url": "https://open.spotify.com/album/5SATDgT7dl86qwY0QTJpso"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/7CkESXBof0weZtHv2voolS"
     },
     {
       "added_at": "2025-08-01 04:00:37",
@@ -1381,22 +1449,6 @@
       "url": "https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I"
     },
     {
-      "added_at": "2025-04-04 04:00:27",
-      "album": {
-        "name": "groove that never stops",
-        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
-      },
-      "artists": [
-        {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "groove that never stops",
-      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
-    },
-    {
       "added_at": "2025-05-30 04:00:35",
       "album": {
         "name": "Do U Like It?",
@@ -1529,22 +1581,6 @@
       "url": "https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0"
     },
     {
-      "added_at": "2025-04-11 04:00:29",
-      "album": {
-        "name": "Body Talk",
-        "url": "https://open.spotify.com/album/3sYrcueAC7h1sQwDzyOMlz"
-      },
-      "artists": [
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
-        }
-      ],
-      "duration_ms": 181070,
-      "name": "Body Talk",
-      "url": "https://open.spotify.com/track/7EH5ckWU3lKHRYG38SiH1n"
-    },
-    {
       "added_at": "2025-05-16 04:00:35",
       "album": {
         "name": "DA HOUSE",
@@ -1599,22 +1635,6 @@
       "duration_ms": 212519,
       "name": "I Remember - Tommy Phillips Remix",
       "url": "https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51"
-    },
-    {
-      "added_at": "2025-03-07 05:00:40",
-      "album": {
-        "name": "Gimme The Cheese",
-        "url": "https://open.spotify.com/album/6LlD19pnRVKjpvzpy7tQ0R"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Gimme The Cheese",
-      "url": "https://open.spotify.com/track/24Zma7ZOAwuz7TFhjiLlM0"
     },
     {
       "added_at": "2025-02-28 05:00:37",
@@ -1991,22 +2011,6 @@
       "duration_ms": 176264,
       "name": "50 INCH WOOFAS",
       "url": "https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
     }
   ],
   "unique_name": "Deep & Minimal",

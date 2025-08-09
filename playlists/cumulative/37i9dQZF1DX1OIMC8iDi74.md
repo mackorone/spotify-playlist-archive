@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🏆 with Alison Wonderland
 
-757 songs - 1 day 15 hr 57 min
+758 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [GITP](https://open.spotify.com/track/3N6pwAMhcYjyaN2Jd4UTpe) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [GITP](https://open.spotify.com/album/09p0AA8UmQWGViT4MegOjA) | 3:54 | 2023-12-08 | 2024-04-19 |
 | [Glass](https://open.spotify.com/track/1BvJKdyGGmB6mUsOTBlmVd) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [SADRN](https://open.spotify.com/artist/1xZEsS0eHcj86PCLafanUL) | [Glass](https://open.spotify.com/album/68GF2nauuk1rRr7tj2lCAP) | 4:00 | 2024-08-23 | 2024-09-27 |
 | [Go Back \(feat\. Julia Church\) \- YDG Remix](https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\) \[YDG Remix\]](https://open.spotify.com/album/7aqNYVhP6oZGvfSk9Zxo5B) | 3:30 | 2024-10-11 |  |
-| [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 | 2024-09-20 |  |
+| [GO BACK \(We Can't\)](https://open.spotify.com/track/7vSTWert1uL4NeG3EvBOYY) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [GO BACK \(We Can't\)](https://open.spotify.com/album/1Vomcw2K16iHH2KkkojTrZ) | 3:46 | 2024-09-20 | 2025-08-09 |
 | [Go My Way](https://open.spotify.com/track/15cRruaacYlZfimhJvxGuw) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/2Etm7wn37DYMZ7fNa1oFog) | 3:53 | 2023-10-27 | 2024-04-19 |
 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2022-07-14 | 2024-02-07 |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2022-02-01 | 2022-07-29 |
@@ -675,6 +675,7 @@
 | [THRASH \(PARTY STARTER\)](https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:11 | 2024-08-09 |  |
 | [Thrilla](https://open.spotify.com/track/2ePOVtay20vRQ33E1k1Qft) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thrilla](https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL) | 2:14 | 2024-03-01 | 2025-04-12 |
 | [Thriller](https://open.spotify.com/track/0JjE5TJKHr72H69nUYFP8B) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb), [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX) | [THRILLER](https://open.spotify.com/album/6o4DqDcyZzCYG76YgT0WZo) | 3:05 | 2024-07-12 | 2024-08-31 |
+| [THROW YA HANDZ UP](https://open.spotify.com/track/6VRVCE4ITO0rneyfC5CIEA) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [THROW YA HANDZ UP](https://open.spotify.com/album/3et5xwM5e2Mjm6qTHXuk2h) | 3:04 | 2025-08-01 |  |
 | [Thumper](https://open.spotify.com/track/6MhzIGXeWkcEuRJ627wQXj) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Thumper](https://open.spotify.com/album/4J78Kjh86mCTE1VH6rttbi) | 2:19 | 2024-09-13 |  |
 | [TIDES](https://open.spotify.com/track/6h0o08bDtg1DpSkMTfwaEP) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [TIDES](https://open.spotify.com/album/1FVxlg8xl2ir77wIG2hjVf) | 1:45 | 2021-11-19 | 2022-02-02 |
 | [Tik Tok](https://open.spotify.com/track/2DTTb0qR2NbMyHpHtnUbQx) | [Xotix](https://open.spotify.com/artist/4U9672jXtdpL01GCOiX7TW), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Tik Tok](https://open.spotify.com/album/07rbrKhpXSilbigKmsfn0J) | 2:44 | 2023-11-10 | 2025-01-04 |

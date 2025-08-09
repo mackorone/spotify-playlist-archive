@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,854 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,856 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 49 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
 | 50 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 |
 | 51 | [The Streets Will Love You To Death](https://open.spotify.com/track/5H1aZtAOqmliM5naRN3YfX) | [Preston Shannon](https://open.spotify.com/artist/2MdVkGwNAnweIZS739BhFp) | [Midnight In Memphis](https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx) | 3:55 |
-| 52 | [Bring Me Some Water](https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Royal Blue](https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ) | 5:21 |
+| 52 | [Bring Me Some Water](https://open.spotify.com/track/6a5iZCvqEaDKCX8lj7v6EI) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Royal Blue](https://open.spotify.com/album/43Cno5hKwJP94M2CndXwkJ) | 5:21 |
 | 53 | [Whisper Away](https://open.spotify.com/track/3ZUbWKDZxdFuI2HHGH8enX) | [Bobby Wayne](https://open.spotify.com/artist/1c7LcpebChhXtB7fzeu3NA) | [Hit That Thing](https://open.spotify.com/album/46rNncqCqYequ72xyfnD55) | 7:17 |
 | 54 | [It's Harder Now \- Remix](https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [It Ain't Easy: Essential Recordings](https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU) | 3:42 |
 | 55 | [Hard Times](https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT) | [Frank Mendenhall](https://open.spotify.com/artist/3YzpzBphHG0ekowXUcEIEa) | [Hard Times](https://open.spotify.com/album/2tJ3Z5H8Jy5u4cl4g8PiuU) | 5:30 |

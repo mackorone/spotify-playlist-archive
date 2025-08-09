@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Sublime\n",
-  "num_followers": 62236,
+  "num_followers": 62255,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "The Return of El Santo",
-        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 287013,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
         "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "The Return of El Santo",
+        "url": "https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9"
+      },
+      "artists": [
+        {
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+        }
+      ],
+      "duration_ms": 287013,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -927,22 +927,18 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+        "name": "Nice One",
+        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
         }
       ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+      "duration_ms": 152173,
+      "name": "Call Your Bluff",
+      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -963,18 +959,22 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Nice One",
-        "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
       "artists": [
         {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Call Your Bluff",
-      "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Desert Rose",
-        "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        },
-        {
-          "name": "Clive Hunt",
-          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Desert Rose",
-      "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp"
       },
@@ -1451,6 +1431,26 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
+        "name": "Desert Rose",
+        "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Clive Hunt",
+          "url": "https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Desert Rose",
+      "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
         "name": "The Sound Of Revolution",
         "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
-        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
-      },
-      "artists": [
-        {
-          "name": "Broilers",
-          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
-      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "Jolly Good Fellas - Best of Broilers 1994-2024",
+        "url": "https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv"
+      },
+      "artists": [
+        {
+          "name": "Broilers",
+          "url": "https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "In 80 Tagen um die Welt - Birthday Rerecordings '24",
+      "url": "https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW"
     },
     {
       "added_at": "2025-07-18 06:00:06",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-07-18 06:00:06",
       "album": {
-        "name": "\u30c8\u30a4\u30c8\u30a4 (feat.\u30e0\u30ed\u30c4\u30e8\u30b7)",
-        "url": "https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
-          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "\u30c8\u30a4\u30c8\u30a4 - feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
-      "url": "https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ"
-    },
-    {
-      "added_at": "2025-07-18 06:00:06",
-      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+    },
+    {
+      "added_at": "2025-07-18 06:00:06",
+      "album": {
+        "name": "\u30c8\u30a4\u30c8\u30a4 (feat.\u30e0\u30ed\u30c4\u30e8\u30b7)",
+        "url": "https://open.spotify.com/album/1DfHJUAqMbM18p48ymnyUA"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
+          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "\u30c8\u30a4\u30c8\u30a4 - feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
+      "url": "https://open.spotify.com/track/6Q1fVjB5d2zI4r6nWGorFZ"
     },
     {
       "added_at": "2025-07-18 06:00:06",

@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-111 songs - 6 hr 49 min
+112 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Daydream](https://open.spotify.com/track/0F6pFZDlQSiQBWsjQZFbTH) | [Gunter Kallmann Choir](https://open.spotify.com/artist/4m9LpZ5l3CEdEhA8W9f29g) | [The Fantastic Sound Of](https://open.spotify.com/album/7MfKFpCQp7v26ZOHcXbmwE) | 3:19 | 2025-07-18 |  |
 | [De Cara a la Pared](https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:15 | 2025-07-18 |  |
 | [El camino negro](https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Road to Knowhere](https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh) | 5:08 | 2025-07-18 |  |
-| [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-07-18 |  |
+| [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-07-18 | 2025-08-09 |
 | [Familiar Beat](https://open.spotify.com/track/19w2uyd9GJrTRMcJ5szPge) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Familiar Beat](https://open.spotify.com/album/49a5Qlsa5mEgjnbdW7tFjY) | 3:18 | 2025-07-18 | 2025-07-29 |
 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 | 2025-07-18 |  |
 | [Flores](https://open.spotify.com/track/3G5QIGMaNyOR07cD0O5Htk) | [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Arón Piper](https://open.spotify.com/album/4arvfKg3L3IP6hAeGX4XoM) | 3:20 | 2025-08-01 |  |
@@ -76,6 +76,7 @@
 | [My Mind Is For Sale](https://open.spotify.com/track/4zohK59ouRruiqESaTcOZW) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:59 | 2025-07-18 | 2025-07-26 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-07-18 | 2025-07-26 |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 |  |
+| [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-08-07 |  |
 | [Out of Time Man](https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a) | [Mick Harvey](https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S) | [Two of Diamonds](https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5) | 2:57 | 2025-07-18 |  |
 | [Paradis bleu](https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Paradis bleu](https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg) | 3:57 | 2025-07-18 |  |
 | [Peace of Mind](https://open.spotify.com/track/6H2PoOGLifwRBm9TmkHriB) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Peace of Mind](https://open.spotify.com/album/5fFCRUivqEhsNPd5A2rcVG) | 2:36 | 2025-07-18 |  |

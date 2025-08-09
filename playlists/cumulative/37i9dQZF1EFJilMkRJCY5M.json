@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 143809,
       "name": "Closer To Heaven",
       "url": "https://open.spotify.com/track/4le0jIkDt5mHyatZMp4rYB"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 193154,
       "name": "Count Me Out",
       "url": "https://open.spotify.com/track/3jPYaAlI795e7rOxuWhrSi"
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 189666,
       "name": "Firehazard",
       "url": "https://open.spotify.com/track/53Or0YarAZQT7RfEsI8Qw2"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 216784,
       "name": "Ghost Of My Past",
       "url": "https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 177744,
       "name": "h8 u right now",
       "url": "https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0"
@@ -1219,6 +1219,42 @@
     },
     {
       "album": {
+        "name": "Hollywood Gypsy (Acoustic)",
+        "url": "https://open.spotify.com/album/2EpLvpfG7SLq36EFWUq7HF"
+      },
+      "artists": [
+        {
+          "name": "Twinnie",
+          "url": "https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "I Love You Now Change (Acoustic)",
+      "url": "https://open.spotify.com/track/1jTMeE1A6kI1ntG3n8cGTL"
+    },
+    {
+      "album": {
+        "name": "I Love You, Please Don't Hate Me",
+        "url": "https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186794,
+      "name": "I Love You, Please Don't Hate Me",
+      "url": "https://open.spotify.com/track/7oXm7PC7jYNopNuvxZlC8W"
+    },
+    {
+      "album": {
         "name": "Born in July",
         "url": "https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R"
       },
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 184105,
       "name": "Jesus, My Mama, My Therapist",
       "url": "https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr"
@@ -1608,7 +1644,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 150957,
       "name": "Miss It Now (For Sarah)",
       "url": "https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF"
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 224262,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/24hzsZAUkcI4aRcNC8TCg8"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 191633,
       "name": "Rooted",
       "url": "https://open.spotify.com/track/73PQ1kdahi6WKkL8z39QQH"
@@ -2796,7 +2832,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 191865,
       "name": "What If We Did (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/6KXEK2OoDMAwcLQaBjwJ77"
@@ -2832,7 +2868,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-08",
+      "date_removed": null,
       "duration_ms": 195529,
       "name": "Who Do You Think You Are?",
       "url": "https://open.spotify.com/track/1PfQhtrLWFtODxQYAHNMIo"

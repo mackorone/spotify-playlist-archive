@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,986 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,002 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,21 +43,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 33 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
 | 34 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
 | 35 | [Sex, Drugs, & Country Music](https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Sex, Drugs, & Country Music](https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8) | 3:37 |
-| 36 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
-| 37 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 |
+| 36 | [Exhale](https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Exhale](https://open.spotify.com/album/0N6fscJFS8vw7g0auQCt60) | 3:16 |
+| 37 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 |
 | 38 | [Marlboro Man](https://open.spotify.com/track/6Wzl4TwDZLRDmFmv1KHyp5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Marlboro Man](https://open.spotify.com/album/76zkHW7rcIRtQ8h9Cc2YTW) | 3:35 |
 | 39 | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/track/59GPNeu7MDHoAL7eZpqM2l) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [George F\*\*\*\*\*\* Strait](https://open.spotify.com/album/5PzOrHKY9PIZ0FjR4lLglH) | 3:09 |
 | 40 | [White Limousine](https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc) | 4:07 |
 | 41 | [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 |
 | 42 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 |
-| 43 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
-| 44 | [Born to Fly](https://open.spotify.com/track/3XKuIEGQ1boUlHDdEGopOQ) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Born to Fly EP](https://open.spotify.com/album/79rPw6bPRYr0VsjY3YfX80) | 3:32 |
+| 43 | [Born to Fly](https://open.spotify.com/track/3XKuIEGQ1boUlHDdEGopOQ) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Born to Fly EP](https://open.spotify.com/album/79rPw6bPRYr0VsjY3YfX80) | 3:32 |
+| 44 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
 | 45 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
 | 46 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 |
 | 47 | [Under the Sun](https://open.spotify.com/track/72klJmmlwJkI8S03B0pU7J) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Under the Sun](https://open.spotify.com/album/2ijfVXrS8uuI9xLm4ByQH3) | 3:17 |
-| 48 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
-| 49 | [Jumbos](https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Jumbos](https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr) | 3:11 |
-| 50 | [Fall in Love](https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Fall in Love](https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6) | 2:47 |
+| 48 | [Fall in Love](https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Fall in Love](https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6) | 2:47 |
+| 49 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
+| 50 | [Jumbos](https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Jumbos](https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr) | 3:11 |
 | 51 | [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 |
 | 52 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
 | 53 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 56 | [The Line](https://open.spotify.com/track/7gtj31van0d95QFZ2pb3VW) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [The Line](https://open.spotify.com/album/0WaSJFcpOD0iksfHfy6NMA) | 2:55 |
 | 57 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
 | 58 | [crisis EXistencial](https://open.spotify.com/track/0wFt3NziYE88OQBfraoZ2b) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [crisis EXistencial](https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin) | 3:15 |
-| 59 | [Ease Your Mind](https://open.spotify.com/track/6ITMqdUBqzCtPX5mhiOkhb) | [NAOMI](https://open.spotify.com/artist/30JZwBAgqINdgg2zefqwha) | [Ease Your Mind](https://open.spotify.com/album/2tcYrqRgthQ8DDEIRz0XhI) | 2:56 |
-| 60 | [Waldo](https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Waldo](https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH) | 2:54 |
+| 59 | [Waldo](https://open.spotify.com/track/4pQJn4wjbmZJkV1kOirSQt) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Waldo](https://open.spotify.com/album/7bZVLwO7D3pBTgRXkhtjtH) | 2:54 |
+| 60 | [Ease Your Mind](https://open.spotify.com/track/6ITMqdUBqzCtPX5mhiOkhb) | [NAOMI](https://open.spotify.com/artist/30JZwBAgqINdgg2zefqwha) | [Ease Your Mind](https://open.spotify.com/album/2tcYrqRgthQ8DDEIRz0XhI) | 2:56 |
 | 61 | [Where Is My Angel](https://open.spotify.com/track/0gtymJc3EEfZezuhNwcKWn) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [TDJ](https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk) | 4:25 |
 | 62 | [Queen Of The Crazy](https://open.spotify.com/track/0ZxYCj3dTnQeeodOBm2fVh) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Queen Of The Crazy](https://open.spotify.com/album/5w0Rvnu7ZpmbSgp05qqJEu) | 2:59 |
 | 63 | [Heaven](https://open.spotify.com/track/153iZlFjQzMZO7tRpGyZPo) | [Syd Taylor](https://open.spotify.com/artist/3dZ1fTizrmY5jfkf0jrvav) | [After the Fact](https://open.spotify.com/album/6BP85aqfZUNWeaG3lbLUux) | 3:16 |

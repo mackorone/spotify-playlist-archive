@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Sara Landry
+> 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,235 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,051 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 |
 | 100 | [Acid World](https://open.spotify.com/track/3Dnz6RCYRybCh9liOFWYp8) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Rian Wood](https://open.spotify.com/artist/5llw3jYyaK1eBCYkbrjcGX), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Acid World](https://open.spotify.com/album/5IH3CLYmgu9ghGj7gMYiwd) | 3:05 |
 
-Snapshot ID: `AAAAAFFAHyum4AQzn3FXZUHbfxI+pJn+`
+Snapshot ID: `AAAAAK1kWl1G2sXIxSOJtLWIeYUvFGyS`

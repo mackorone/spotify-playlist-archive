@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Joaquin Guiller",
   "name": "La + Popular",
   "tracks": [
     {
@@ -108,6 +108,24 @@
       "duration_ms": 215745,
       "name": "77",
       "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+    },
+    {
+      "album": {
+        "name": "Sin Rodeos",
+        "url": "https://open.spotify.com/album/7nJKLhhZcVY9bFcBY4JNE4"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175363,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/1I88XGUqtzp4GhlxkeSMQr"
     },
     {
       "album": {
@@ -632,7 +650,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 190230,
       "name": "Bendecida",
       "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
@@ -1443,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "DIME QUE PREFIERES",
+        "url": "https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201931,
+      "name": "DIME QUE PREFIERES",
+      "url": "https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA"
+    },
+    {
+      "album": {
         "name": "Direcci\u00f3n Equivocada",
         "url": "https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL"
       },
@@ -1795,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "El Liso",
+        "url": "https://open.spotify.com/album/5mrUzu7rgCkj3e62qucrg2"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Ayala",
+          "url": "https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182033,
+      "name": "El Liso",
+      "url": "https://open.spotify.com/track/42ZxwmSUhD6oTekjr7ctJv"
+    },
+    {
+      "album": {
         "name": "Por Siempre (Deluxe)",
         "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
       },
@@ -1890,6 +1944,24 @@
       "duration_ms": 301220,
       "name": "El Precio de Tu Error - En Vivo",
       "url": "https://open.spotify.com/track/4LbGHQLSkcDZlYpufbtJBQ"
+    },
+    {
+      "album": {
+        "name": "El Agropecuario",
+        "url": "https://open.spotify.com/album/7KYyomJyjBmwJiAjEbihL6"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168615,
+      "name": "El Princeso",
+      "url": "https://open.spotify.com/track/0dKwn0SA4EKciRZEpEhhV1"
     },
     {
       "album": {
@@ -3614,7 +3686,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 193605,
       "name": "Mirame (feat. Blessd) - Remix",
       "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
@@ -4324,7 +4396,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 188458,
       "name": "Pa Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/0uf7n9tUDhsj6f8ioS0WQm"
@@ -5944,7 +6016,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 189020,
       "name": "Vete",
       "url": "https://open.spotify.com/track/3ACihAMxekfqGod6LiuKEH"

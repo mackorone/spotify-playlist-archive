@@ -286,7 +286,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 170053,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/1LV5cAo02H8h5YlZNcjULM"
@@ -2248,6 +2248,28 @@
       "duration_ms": 216507,
       "name": "Here We Go (Uh Oh)",
       "url": "https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo"
+    },
+    {
+      "album": {
+        "name": "If Not Now, Then When?",
+        "url": "https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH"
+      },
+      "artists": [
+        {
+          "name": "Joe Kay",
+          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168554,
+      "name": "Hesitation (with Karri)",
+      "url": "https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG"
     },
     {
       "album": {

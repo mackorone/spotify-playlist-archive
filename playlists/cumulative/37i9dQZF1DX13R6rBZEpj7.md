@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-336 songs - 19 hr 54 min
+337 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Be Real](https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb) | [Dom Scanlon](https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P) | [Be Real](https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431) | 4:37 | 2022-04-15 | 2023-09-22 |
 | [Behind the Scenes](https://open.spotify.com/track/20tM3OtYXmpUtoZjFnmO1b) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Behind the Scenes / Reeces Pieces](https://open.spotify.com/album/7ygR5BaUAeQuCOWd1IMdZp) | 4:42 | 2022-04-15 | 2025-06-21 |
 | [Behind the Scenes \(feat\. Jess Spink\)](https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Behind the Scenes / Reeces Pieces](https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY) | 4:42 | 2023-04-04 | 2024-04-19 |
+| [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 | 2025-08-07 |  |
 | [Bite Your Lip pt\. 2](https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip pt\. 2](https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL) | 3:05 | 2024-05-17 | 2024-08-27 |
 | [Blue Razz](https://open.spotify.com/track/124GIso7hUD9of584dOOIo) | [Versatile](https://open.spotify.com/artist/6K0yc6ZGiwc7sSwrWra0UT) | [Blue Razz](https://open.spotify.com/album/1Z8E32UdqAbYAV3VB2Lyl0) | 3:36 | 2023-08-10 | 2023-10-14 |
 | [Bobby Dazzler](https://open.spotify.com/track/4ZMgel13OsJ65I2uvYoyNU) | [SekTic](https://open.spotify.com/artist/67YZM1iBXlEnAR7thI8wMt) | [Bobby Dazzler](https://open.spotify.com/album/7DSrnvRGUntQf1fcECjIdD) | 4:55 | 2022-04-15 | 2022-07-28 |
@@ -191,7 +192,7 @@
 | [Live It Up](https://open.spotify.com/track/5ghFZ07jKDue7T8oPbh9nt) | [A.2.Z](https://open.spotify.com/artist/4DdL680AJQUH0N9KcewTdQ) | [Live It Up](https://open.spotify.com/album/23JOrfgEKJvYNrFCdSoTDw) | 4:00 | 2022-04-15 | 2022-10-08 |
 | [Loca](https://open.spotify.com/track/0QbrC79RH2z5DAramKLDrE) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Loca](https://open.spotify.com/album/3zDD4cySzEQjL8L8Z85Tw6) | 3:57 | 2025-05-29 |  |
 | [Local \- Full Vocal VIP](https://open.spotify.com/track/1pnuXk6jGbRdq9uVd0bcuR) | [Deekline](https://open.spotify.com/artist/1V9Bmg9gpcQDBfNZBQCWw7), [More Fire Crew](https://open.spotify.com/artist/5oZ8KfzPMkIanBdvY371cK), [Son of Sam \(UK\)](https://open.spotify.com/artist/5wgz9u9N0RWsspIHUKXz2D) | [Local \(Full Vocal VIP\)](https://open.spotify.com/album/0BCi6jk5L3PQlzMtqSy6jd) | 3:10 | 2025-03-14 | 2025-05-22 |
-| [Lock Arf](https://open.spotify.com/track/5FMYYFLAwaEBTHekZwCJwo) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL) | [Lock Arf](https://open.spotify.com/album/20w3IPynvRPDUR2shvupK3) | 4:48 | 2025-05-15 |  |
+| [Lock Arf](https://open.spotify.com/track/5FMYYFLAwaEBTHekZwCJwo) | [Bassboy](https://open.spotify.com/artist/4wwHbT1V6hoLyOvS4gZVyy), [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL) | [Lock Arf](https://open.spotify.com/album/20w3IPynvRPDUR2shvupK3) | 4:48 | 2025-05-15 | 2025-08-09 |
 | [Locked On](https://open.spotify.com/track/6eEcExRelnLP9W7jj7Fdla) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Locked On](https://open.spotify.com/album/4KOyVupmPwP8Vze5htTpku) | 4:17 | 2023-12-01 | 2024-06-28 |
 | [Lose My Mind](https://open.spotify.com/track/1Nv1cCXJoI59N4ep7wZ3mw) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Lose My Mind](https://open.spotify.com/album/2QDNm8JYyT7eo6B9EVzrZc) | 3:41 | 2022-04-15 | 2023-05-19 |
 | [Lose My Mind](https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:41 | 2023-04-04 | 2024-04-19 |

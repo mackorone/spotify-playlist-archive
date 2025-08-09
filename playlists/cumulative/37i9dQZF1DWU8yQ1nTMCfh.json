@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Aterciopelados",
+  "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: 1915",
   "name": "Rock Total",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 237746,
       "name": "Adictos",
       "url": "https://open.spotify.com/track/3qQ6e7Tr6vIkBij4gCbiMY"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 214265,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/5sndku2FDKQ9Rix3wx0A0q"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 151573,
       "name": "Dientes rotos",
       "url": "https://open.spotify.com/track/2E9Jb0WceoeB5Ujrj5kVZx"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 178142,
       "name": "El Puesto Es M\u00edo",
       "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 216184,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5uD1CL09esqtKnRx6oZeqm"
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 201833,
       "name": "Mi Mejor Versi\u00f3n",
       "url": "https://open.spotify.com/track/3JA65Jo8LtmZIjlvhB08pG"
@@ -3384,6 +3384,24 @@
       "duration_ms": 164193,
       "name": "Mi nena",
       "url": "https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN"
+    },
+    {
+      "album": {
+        "name": "MI SOMBRA",
+        "url": "https://open.spotify.com/album/4caVPztVOWd6GYYvrmMHWl"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192519,
+      "name": "MI SOMBRA",
+      "url": "https://open.spotify.com/track/2XTuDK092y28LXBHffLVxl"
     },
     {
       "album": {
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-20",
+      "date_removed": null,
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
@@ -5014,7 +5032,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-01",
+      "date_removed": null,
       "duration_ms": 287494,
       "name": "Serenata de una ruta larga",
       "url": "https://open.spotify.com/track/3Idt8MaiSm8PuVIgiHuFga"

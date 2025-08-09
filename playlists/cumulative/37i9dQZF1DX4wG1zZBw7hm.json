@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 344846,
       "name": "Becoming",
       "url": "https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm"
@@ -1656,6 +1656,28 @@
       "duration_ms": 490643,
       "name": "Test 7",
       "url": "https://open.spotify.com/track/50LGfM5MtGNcWKc0hFFJjg"
+    },
+    {
+      "album": {
+        "name": "The Bell With The Wooden Tongue",
+        "url": "https://open.spotify.com/album/2yufEXhUkxo6MyM2eEzITt"
+      },
+      "artists": [
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "Al Wootton",
+          "url": "https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365906,
+      "name": "The Bell With The Wooden Tongue",
+      "url": "https://open.spotify.com/track/0JFpDPcZTyntehmhrLH0AV"
     },
     {
       "album": {

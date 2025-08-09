@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 240316,
       "name": "Imali Yento Yami",
       "url": "https://open.spotify.com/track/1RdESnfu29G7qrT3GTNK3K"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 300000,
       "name": "Ingoma Yami",
       "url": "https://open.spotify.com/track/7D4L8U9A7aXiveWURPTWRT"
@@ -2373,6 +2373,32 @@
     },
     {
       "album": {
+        "name": "Ithishi",
+        "url": "https://open.spotify.com/album/0INMRTunEeLGkUimwsTHmJ"
+      },
+      "artists": [
+        {
+          "name": "Umfoka Msezane",
+          "url": "https://open.spotify.com/artist/2AKfzPjtVhO8CABt3EkSBs"
+        },
+        {
+          "name": "Mjikelo",
+          "url": "https://open.spotify.com/artist/7lLGOi4wpO10GT2G3fdIWB"
+        },
+        {
+          "name": "Mzukulu",
+          "url": "https://open.spotify.com/artist/0ikGMgKP5L0n0rtcM22spp"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296097,
+      "name": "Kukwandlwane",
+      "url": "https://open.spotify.com/track/3UiFU9AwSvqHtQ6yieWirL"
+    },
+    {
+      "album": {
         "name": "Take Your Time",
         "url": "https://open.spotify.com/album/0whjCAjxrHgpDBdngBhv1U"
       },
@@ -2460,6 +2486,28 @@
       "duration_ms": 260036,
       "name": "Kuthiwa sizomlanda",
       "url": "https://open.spotify.com/track/2esrQHLsVsxLxAp2HSOTTB"
+    },
+    {
+      "album": {
+        "name": "Ibhova neChalaha",
+        "url": "https://open.spotify.com/album/44pGiWhJyL2tZgUjreWav8"
+      },
+      "artists": [
+        {
+          "name": "AMASINAMUVA AMASHA",
+          "url": "https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV"
+        },
+        {
+          "name": "Umafikizolo",
+          "url": "https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296198,
+      "name": "Kuyenzeka",
+      "url": "https://open.spotify.com/track/0twfb38ymb7HV4SjEPCDeW"
     },
     {
       "album": {
@@ -3006,7 +3054,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 234000,
       "name": "Ngisoshabeni (feat. Sminofu)",
       "url": "https://open.spotify.com/track/7Hn7cwTrjzLQRExBW2TDGX"
@@ -4604,6 +4652,24 @@
       "duration_ms": 402284,
       "name": "Uyisela",
       "url": "https://open.spotify.com/track/3syMLKva34f23h5FBaMTUE"
+    },
+    {
+      "album": {
+        "name": "Uyoncengwa Unyoko",
+        "url": "https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq"
+      },
+      "artists": [
+        {
+          "name": "Umafikizolo",
+          "url": "https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259709,
+      "name": "Uyoncengwa Unyoko",
+      "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"
     },
     {
       "album": {

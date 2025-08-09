@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Viens on essaie " de Vitaa et Julien Doré est le Grand Hit de la semaine.
+> "Soleil Bleu" de Bleu Soleil et LUIZA est le Grand Hit de la semaine.
 
 271 songs - 13 hr 56 min
 

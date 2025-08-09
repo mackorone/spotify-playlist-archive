@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 90469,
+  "num_followers": 90461,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
         "name": "Snow!",
         "url": "https://open.spotify.com/album/0a805poEESIyC6G5KjrFDK"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 249520,
       "name": "That's What I Want for Christmas",
       "url": "https://open.spotify.com/track/1FrlqxhKnDs0zj8IIdWqmx"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -432,25 +432,9 @@
           "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
         }
       ],
-      "duration_ms": 174066,
-      "name": "A Song For Christmas",
-      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+      "duration_ms": 178613,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -467,6 +451,22 @@
       "duration_ms": 177293,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Christmas Morning",
-      "url": "https://open.spotify.com/track/1F1hIbXmFT3cb6oDv3hoal"
+      "duration_ms": 174066,
+      "name": "A Song For Christmas",
+      "url": "https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW"
     },
     {
       "added_at": "2025-03-13 14:16:58",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-03-13 14:16:58",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
-    },
-    {
-      "added_at": "2025-03-13 14:16:58",
-      "album": {
         "name": "The Christmas Feeling",
         "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 298813,
       "name": "Christmas Memories",
       "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+    },
+    {
+      "added_at": "2025-03-13 14:16:58",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
     },
     {
       "added_at": "2025-03-13 14:16:58",

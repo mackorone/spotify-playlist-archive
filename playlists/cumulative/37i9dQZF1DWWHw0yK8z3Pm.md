@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Mariel Buckley
 
-555 songs - 1 day 9 hr 48 min
+556 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 | 2023-09-15 |  |
 | [Borrowed Time](https://open.spotify.com/track/0IVWcNAMBqFKMoFL1dpefN) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Borrowed Time](https://open.spotify.com/album/7E0FlADizNo6U4aALWAi7P) | 3:01 | 2024-07-12 | 2024-11-23 |
 | [Bottleneck Boys](https://open.spotify.com/track/3elbooJK6sbSi5HRXm4SdK) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Bottleneck Boys](https://open.spotify.com/album/4A2wwsvPy5M14ZIbxdbnFW) | 3:29 | 2022-09-30 | 2022-10-29 |
+| [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc) | 3:35 | 2025-08-08 |  |
 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 | 2023-03-18 |
 | [Bright as Yellow](https://open.spotify.com/track/4SENm2zb2HeS8ZPC3pCic2) | [Casper Skulls](https://open.spotify.com/artist/0GKW6ZqOuxZyZNiHlLzhTi) | [Bright as Yellow](https://open.spotify.com/album/6ezoVNLVtyhJEvCdr8RuVY) | 3:34 | 2023-03-31 | 2023-04-22 |
 | [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2022-05-13 | 2022-08-06 |

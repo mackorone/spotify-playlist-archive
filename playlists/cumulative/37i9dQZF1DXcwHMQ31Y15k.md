@@ -2,7 +2,7 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Lavora, OMWAWES
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema
 
 499 songs - 1 day 17 hr 45 min
 

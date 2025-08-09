@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
 
-384 songs - 19 hr 49 min
+386 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Doomsday Kiss](https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Doomsday Kiss](https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa) | 2:48 | 2025-05-22 |  |
 | [dormant plants](https://open.spotify.com/track/1rS3xMPOBLjS6Nm4MlYiN7) | [Elie Zoé](https://open.spotify.com/artist/2t7zzvR3tKMctlLIUkTvjc) | [dormant plants](https://open.spotify.com/album/5wLF3Uc5IDZqcXjhR7vIvm) | 4:15 | 2025-05-29 | 2025-06-23 |
 | [Down To My Bones](https://open.spotify.com/track/634vnGPykpqsgpMJlW9XOj) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Down To My Bones](https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD) | 3:21 | 2024-11-01 |  |
+| [Drama Baby](https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Drama Baby](https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW) | 2:57 | 2025-08-07 |  |
 | [Drei Stunden](https://open.spotify.com/track/6L0Ii1AzM0W4ZAl8FPPN1b) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Drei Stunden](https://open.spotify.com/album/2XMofoZm4xZtaWWkuQEVON) | 2:29 | 2024-08-05 | 2024-08-30 |
 | [Du](https://open.spotify.com/track/0EM85Qj3526QtxCBOQL6rT) | [Nemo \(CH\)](https://open.spotify.com/artist/1KbDYbNErlTGfWPENELJgM) | [Du](https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr) | 3:36 | 2025-05-08 | 2025-05-16 |
 | [Du kriegst mich nicht zurück](https://open.spotify.com/track/2yPmT3WjYGFtqn9NqiejjB) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Du kriegst mich nicht zurück](https://open.spotify.com/album/4cxJotBAgV0ZOmROIezp6k) | 3:27 | 2024-06-27 | 2024-08-15 |
@@ -138,6 +139,7 @@
 | [Fäderliecht](https://open.spotify.com/track/74yAbSSwPYlbJRoVvkauPz) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Fäderliecht](https://open.spotify.com/album/0cV75qed2Zo9mY4Sr9LM8I) | 3:54 | 2025-04-24 | 2025-05-02 |
 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 | 2024-08-05 | 2025-07-11 |
 | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 | 2025-07-10 |  |
+| [Good](https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Good](https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI) | 3:47 | 2025-08-07 |  |
 | [Good Love](https://open.spotify.com/track/4nOfERRA2RjU40hNSRshs5) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Good Love](https://open.spotify.com/album/3QP4KzSLMMQfmY1pqB4d9r) | 2:45 | 2024-09-27 | 2024-11-27 |
 | [Grow Back Closer](https://open.spotify.com/track/34LXwfyeIEMRzwgia7PVGN) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Grow Back Closer](https://open.spotify.com/album/6EwdQ75QzYRgFzrPtOqvVG) | 3:24 | 2025-03-21 | 2025-06-14 |
 | [Gäbs es nid \- Duett Version](https://open.spotify.com/track/4EwuiDkpPO7p1jNVgcHTbv) | [Peter Reber](https://open.spotify.com/artist/6zyqeEDJC5qQuAPdOxrSaf), [Nina Reber](https://open.spotify.com/artist/7yFjPaO0bVy03YcDScEBmy) | [Gäbs es nid \(Duett Version\)](https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq) | 3:14 | 2024-10-03 | 2024-11-01 |
@@ -229,7 +231,7 @@
 | [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-04-06 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |
-| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 |  |
+| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 | 2025-08-09 |
 | [MEXENDO OMBRIN](https://open.spotify.com/track/4q4vNgUjbtSCjUiHfSBLae) | [BAHIANO](https://open.spotify.com/artist/1Eak86FtlSJpUcBi7TXEXA), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Trembart](https://open.spotify.com/artist/4rncj8X31QBuSSXiT5XiIR) | [MEXENDO OMBRIN](https://open.spotify.com/album/76M7ENrL7ywPCi0Nxorryx) | 2:19 | 2025-04-24 | 2025-05-02 |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Migros oder Coop](https://open.spotify.com/track/7DK5IE6ynYeCFRWWqVh5zk) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Migros oder Coop](https://open.spotify.com/album/1cc3f0UR1Gk2L5C3GEEFxM) | 2:40 | 2025-05-08 | 2025-05-16 |
@@ -366,7 +368,7 @@
 | [Warrior](https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Warrior](https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa) | 2:28 | 2024-10-11 | 2025-02-04 |
 | [Was Hokksch](https://open.spotify.com/track/2a1KfNrr4wKFNyOxtkn0sb) | [Melina Nora](https://open.spotify.com/artist/0vUj7AXRiRVgGy700ZFSgF) | [Was Hokksch](https://open.spotify.com/album/6wc04duGz2asgmo4tu8G7U) | 3:07 | 2025-04-17 | 2025-04-25 |
 | [was wir möchten](https://open.spotify.com/track/3VTUfB1bU4ojHwBXkWZWem) | [bennet](https://open.spotify.com/artist/69fTTPnlYWytPTTN8zBZgw) | [was wir möchten](https://open.spotify.com/album/36CvDiiGbtrJUbvmI8CB5k) | 2:06 | 2024-08-09 | 2024-09-10 |
-| [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 |  |
+| [Wasteland](https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Wasteland](https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB) | 2:43 | 2024-06-27 | 2025-08-09 |
 | [Water Sign](https://open.spotify.com/track/2mzpqasElvXCZWk4mRrY2R) | [Taender](https://open.spotify.com/artist/0IIpoKeAICGwEouaLmrjci) | [Water Sign](https://open.spotify.com/album/3yVbzkOjfKQaSRxm8TOtsK) | 3:31 | 2025-04-17 | 2025-04-25 |
 | [Water To Me](https://open.spotify.com/track/2aZF6ThVCMMVHGNagM26bg) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Water To Me](https://open.spotify.com/album/5FInkaCDvzqsPabrX6ETBg) | 3:05 | 2025-05-22 | 2025-06-21 |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2024-06-27 |  |

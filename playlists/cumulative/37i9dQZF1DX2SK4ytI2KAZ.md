@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-656 songs - 1 day 11 hr 58 min
+659 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alaska](https://open.spotify.com/track/0sSoNYwZLoE4gLAKIG4uYL) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Alaska](https://open.spotify.com/album/3CsDHb4gbXv6lzAMcozCdS) | 3:08 | 2021-03-10 | 2023-03-29 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2022-07-29 |  |
 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 | 2023-08-21 | 2025-02-01 |
-| [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-24 |  |
+| [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5), [John the Ghost](https://open.spotify.com/artist/6fYqX8n6gG3FNbSufuvj3E) | [ALL CAPS \(feat\. John the Ghost\)](https://open.spotify.com/album/0IZ7BqP4lOHnDM7VUsCE8C) | 3:04 | 2023-03-24 | 2025-08-09 |
 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 | 2022-07-29 |  |
 | [All I Need](https://open.spotify.com/track/6VIU2Lj8k114mUsxtYzZHO) | [Cape Cub](https://open.spotify.com/artist/4xbJS00sHh5wBd5nYgsk8z) | [All I Need](https://open.spotify.com/album/37aLvaAV7WyCbSTjYrufg3) | 3:44 | 2022-03-11 | 2022-04-20 |
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-19 | 2024-11-27 |
@@ -170,6 +170,7 @@
 | [Electrified](https://open.spotify.com/track/27WCn2AXGHCTsZkHJsX9vX) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9) | [Electrified](https://open.spotify.com/album/1Iuj2IGTVhiViVZ8joSn7p) | 3:31 | 2022-03-11 | 2022-04-21 |
 | [Elevate](https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night](https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh) | 5:08 | 2022-03-11 | 2023-02-18 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-10 |  |
+| [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 | 2025-08-08 |  |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-05 | 2024-10-30 |
 | [Every Window Is A Mirror](https://open.spotify.com/track/3b2ngmuuJP2XCUUwZvK9WQ) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Every Window Is A Mirror](https://open.spotify.com/album/2MNhICXseCBcuvWYkEv2yy) | 2:53 | 2021-05-07 | 2022-07-29 |
 | [Everybody Knows](https://open.spotify.com/track/5hrfpu5scmc8mTRmry4bLM) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Recover](https://open.spotify.com/album/0IskvEuYdoJ3GiPu3mqCyk) | 3:44 | 2021-03-10 | 2022-07-29 |
@@ -325,7 +326,7 @@
 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 | 2022-06-27 |  |
 | [Light On](https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Light On](https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU) | 3:53 | 2024-05-05 | 2024-07-19 |
 | [Lights Down](https://open.spotify.com/track/1JkOqfiFIafUmq1yrJTlfj) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Lights Down](https://open.spotify.com/album/1LgDq2kPnfRvqFYq8oIrcw) | 3:08 | 2022-02-04 | 2022-04-20 |
-| [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 | 2024-07-05 |  |
+| [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 | 2024-07-05 | 2025-08-09 |
 | [Live A Little](https://open.spotify.com/track/4S0IPaVHzkraym4ue5NZFG) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/7tWKjGBObemhc67JFnpX4b) | 2:49 | 2021-03-10 | 2022-07-29 |
 | [Live A Little](https://open.spotify.com/track/4TMVC63HZDYaTGtlhbM95i) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Live A Little](https://open.spotify.com/album/6t3du226nIyJNEHTuYPBdK) | 2:49 | 2022-06-27 | 2023-12-02 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-03-24 |  |
@@ -401,7 +402,7 @@
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-24 | 2024-10-12 |
 | [Nights](https://open.spotify.com/track/5iSvlEhNJhrHUFPSHluDF0) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Nights](https://open.spotify.com/album/0GpuGR0FbHgPzom4GqBKVS) | 3:35 | 2021-03-10 | 2022-07-29 |
 | [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-03-24 | 2024-10-17 |
-| [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 | 2023-09-15 |  |
+| [Nosebleeds](https://open.spotify.com/track/1XNeBNXSNFeY6HcrV3IEJv) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 3:03 | 2023-09-15 | 2025-08-09 |
 | [Not Joking](https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [You Are Who You Hang Out With](https://open.spotify.com/album/5ti35p8028PSksErKRW415) | 3:18 | 2023-08-07 | 2023-10-24 |
 | [Not OK!](https://open.spotify.com/track/2YbMlkq0ARgHiMGBFGTnxq) | [Chaz Cardigan](https://open.spotify.com/artist/7DJUlhy4pX4sxaDfQcH0Ms) | [Not OK!](https://open.spotify.com/album/0liYHS0MVX0AP18hq6lMoO) | 3:12 | 2021-03-10 | 2022-04-27 |
 | [Not Too Late](https://open.spotify.com/track/0ig4lxtPqcFTUopvk57nQy) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Not Too Late](https://open.spotify.com/album/4vjxGn7u7g7MN3KEGnagOG) | 3:15 | 2022-03-11 | 2022-04-15 |
@@ -586,6 +587,7 @@
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2022-08-12 | 2023-08-08 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2023-02-17 |  |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-27 |  |
+| [THINKIN BOUT YOU](https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [THINKIN BOUT YOU](https://open.spotify.com/album/1xGuSADsstny1TgJRQFz1e) | 3:08 | 2025-08-08 |  |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2024-07-05 |  |
 | [This Party](https://open.spotify.com/track/7isDQC5HH4ev21Ma6L8UGg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [This Party](https://open.spotify.com/album/7sXYHSchuHIHgBY9mIG1Xn) | 3:13 | 2022-03-11 | 2022-04-18 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2021-12-20 | 2023-03-29 |
@@ -608,6 +610,7 @@
 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 | 2022-03-11 | 2023-03-29 |
 | [Upside Down](https://open.spotify.com/track/7HRmcmjrl19o60I2NEsiz8) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Upside Down](https://open.spotify.com/album/2Q6e5CCUTbwgRFO9K5q4KA) | 2:48 | 2022-03-11 | 2022-07-14 |
 | [Used To Like](https://open.spotify.com/track/6CNvzo37dUI7baavVzEoxR) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Used To Like](https://open.spotify.com/album/0hb6xE0wFSBucS4BeDva5P) | 3:18 | 2021-03-10 | 2022-11-13 |
+| [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-08 |  |
 | [Van Horn](https://open.spotify.com/track/4UgLRXh1z9NorzrdawpIgj) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack: Pt\. 1](https://open.spotify.com/album/58m5trM2xJ9sXj49bjCAIg) | 2:41 | 2021-03-10 | 2022-07-29 |
 | [Van Horn](https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 2:41 | 2022-06-27 | 2024-04-19 |
 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-05-05 | 2025-07-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "From the continent to the islands. Cover: Rema \ud83c\uddf3\ud83c\uddec ",
+  "description": "From the continent to the islands. Cover: Nonso Amadi \ud83c\uddf3\ud83c\uddec ",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
@@ -5286,6 +5286,28 @@
       "duration_ms": 185194,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7fD9ZKsr2JCYcTl1R2xGsu"
+    },
+    {
+      "album": {
+        "name": "CHARGE UP",
+        "url": "https://open.spotify.com/album/1AJtGFROG3tvkm66dMCRyI"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        },
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122793,
+      "name": "CHARGE UP",
+      "url": "https://open.spotify.com/track/3GI7aoo2V7yVFaNboCIZ4C"
     },
     {
       "album": {
@@ -9088,7 +9110,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 168461,
       "name": "forever",
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
@@ -10114,7 +10136,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 223250,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/30GQHEEu8WLEyCcPM0QuTL"
@@ -11662,7 +11684,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 139363,
       "name": "How Much",
       "url": "https://open.spotify.com/track/2fpzvqdLqHJYBA6iPYICBT"
@@ -15970,7 +15992,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 124756,
       "name": "Me and Skilli",
       "url": "https://open.spotify.com/track/3IAhaUagzaHloV9oZ38nsz"
@@ -16950,7 +16972,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 167743,
       "name": "Murda Me Say",
       "url": "https://open.spotify.com/track/3p9zn37zm6WabheFaXR7QJ"
@@ -18770,7 +18792,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 179490,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/71V426h2pxeyH83vDvRtVV"
@@ -20309,6 +20331,24 @@
     },
     {
       "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
+    },
+    {
+      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -21176,6 +21216,32 @@
       "duration_ms": 148714,
       "name": "Queen of the Dancehall",
       "url": "https://open.spotify.com/track/2KKUB380LqN4ydVQhdMGFJ"
+    },
+    {
+      "album": {
+        "name": "Quint It",
+        "url": "https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163428,
+      "name": "Quint It",
+      "url": "https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8"
     },
     {
       "album": {
@@ -25850,7 +25916,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 178834,
       "name": "Tetris Riddim",
       "url": "https://open.spotify.com/track/6H0QymUjO3cAEZyH3apUGy"
@@ -29184,7 +29250,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 219989,
       "name": "WiiCKEDEST",
       "url": "https://open.spotify.com/track/3eHRK2CDI9pPYU1AOEw25h"

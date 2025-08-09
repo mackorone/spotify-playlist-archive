@@ -2,7 +2,7 @@
 
 ### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
 
-> Workout to K\-Pop? Count me in! \(Cover: 이민혁\(HUTA\)\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
+> Workout to K\-Pop? Count me in! \(Cover: ITZY x FCB\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
 590 songs - 1 day 7 hr 32 min
 

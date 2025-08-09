@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 895 songs - 2 day 9 hr 23 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 896 songs - 2 day 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -903,5 +903,6 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 893 | [飛翔](https://open.spotify.com/track/1gMy9ccSflz0l4R2HJtw0N) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS), [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l), [ヰ世界情緒](https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U), [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [覚醒](https://open.spotify.com/album/10gtDo5NX1O0clKC2A6UJq) | 3:48 |
 | 894 | [Needle of Words](https://open.spotify.com/track/0KRpwQle4Ob0QwY9mP80rd) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [Needle of Words](https://open.spotify.com/album/676VYNo0uR1lMHCowR3ZFT) | 2:52 |
 | 895 | [ハルライト](https://open.spotify.com/track/2dMUsmlbd1tI5pMKTf6Auy) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:40 |
+| 896 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 |
 
-Snapshot ID: `AAAFT2AuBL3wHOsi/AtWm/wYBaRkSJ0O`
+Snapshot ID: `AAAFUA5C5L4EIZDmOn8yigcSFZ0zGdm/`

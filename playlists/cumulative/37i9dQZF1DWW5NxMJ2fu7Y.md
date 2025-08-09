@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-160 songs - 9 hr 0 min
+161 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bent Nass](https://open.spotify.com/track/6tT4CGnggGURBUMkDrE52k) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/52d5PZbkISEQMhrDZRqoAy) | 4:10 | 2024-02-29 |  |
 | [BETTER FOR US](https://open.spotify.com/track/5c3WOzGExvNb6JZ5dWpMxg) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SAV!OR](https://open.spotify.com/album/15QrrCTSgLqBsj692zEViZ) | 2:51 | 2025-01-29 | 2025-08-08 |
 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 | 2024-08-02 |  |
+| [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 | 2025-08-07 |  |
 | [BREDA](https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [BREDA](https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm) | 1:52 | 2024-02-29 | 2024-08-02 |
 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 | 2024-07-22 | 2024-08-02 |
 | [Cactus](https://open.spotify.com/track/0iXa48XpxfpfJCHZg54Mwk) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Cactus](https://open.spotify.com/album/1iGBzkAEeVfMuhoagrgEsP) | 3:41 | 2024-02-29 | 2024-11-11 |
@@ -143,7 +144,7 @@
 | [Solide](https://open.spotify.com/track/26u1XtMQA1rffurOgalEzM) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Solide](https://open.spotify.com/album/0ts4fLucFKcEN4EohHtUwo) | 2:59 | 2024-02-29 | 2025-03-06 |
 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 | 2025-08-07 |  |
 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 | 2025-08-07 |  |
-| [STONE TABLE](https://open.spotify.com/track/25ZLGLVcx1AewxWiysdSa6) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [K°](https://open.spotify.com/album/29mZb79vD9uxVblI4Xh1hp) | 2:12 | 2025-08-07 |  |
+| [STONE TABLE](https://open.spotify.com/track/25ZLGLVcx1AewxWiysdSa6) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz), [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [K°](https://open.spotify.com/album/29mZb79vD9uxVblI4Xh1hp) | 2:12 | 2025-08-07 | 2025-08-09 |
 | [T9aws](https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 3:42 | 2025-06-10 |  |
 | [Tab3ini 1](https://open.spotify.com/track/3ieQkUz7YJVTIqee3RIh8s) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Tab3ini 1](https://open.spotify.com/album/3vuRRX6z5ws5S4F45fyrIn) | 4:40 | 2025-03-05 | 2025-08-08 |
 | [The Devil](https://open.spotify.com/track/68BJ3uVtup8CkFUOAVda9e) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:12 | 2024-08-02 | 2024-10-04 |

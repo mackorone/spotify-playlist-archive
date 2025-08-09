@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "\u597d\u597d\u5403\u98ef",
+        "url": "https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "Jeryl Lee",
+          "url": "https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "\u597d\u597d\u5403\u98ef",
+      "url": "https://open.spotify.com/track/7cWYLUAThDaMeIXAL8icm0"
+    },
+    {
+      "album": {
         "name": "\u6b77\u4e45\u5690\u65b0II Reborn (\u74b0\u7403\u7cbe\u9078)",
         "url": "https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL"
       },

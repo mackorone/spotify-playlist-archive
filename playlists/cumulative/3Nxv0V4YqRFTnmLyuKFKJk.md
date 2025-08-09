@@ -4,7 +4,7 @@
 
 > CURATED BY COLE SWINDELL\-\- these are his country essentials! Keep checking back to see who will curate next! This is the best of country!
 
-357 songs - 21 hr 28 min
+359 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 | 2024-09-04 | 2025-04-26 |
 | [Born to Run](https://open.spotify.com/track/4HbtLU2CeVrHKeGtRVttuV) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cimarron](https://open.spotify.com/album/0wtXDQCcBFvLcOVgNzFtIO) | 3:46 | 2024-07-03 | 2024-09-05 |
 | [Bottom Of It](https://open.spotify.com/track/6q4TIe9sV117tVe9yIhMIK) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Bottom Of It](https://open.spotify.com/album/2EyPgamG50VNLOgAot4T95) | 2:54 | 2025-06-30 |  |
+| [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc) | 3:35 | 2025-08-08 |  |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 | 2022-05-05 | 2024-07-05 |
 | [Build Me Up Buttercup](https://open.spotify.com/track/1Hgvy8kokRufdMCTGQ5JkQ) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Inside Out \- The Disco Revolution](https://open.spotify.com/album/6S4XnhZVWLVjo3ADUS47bG) | 2:55 | 2023-02-17 | 2024-07-05 |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-07-03 | 2024-09-05 |
@@ -198,6 +199,7 @@
 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 | 2023-02-17 | 2024-07-05 |
 | [Lola \- 2014 Remastered Version](https://open.spotify.com/track/6l0x5Z8kmjrorvcvM9ZIVH) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola vs\. Powerman and the Moneygoround, Pt\. One + Percy \(Super Deluxe\)](https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse) | 4:02 | 2022-05-05 | 2024-07-05 |
 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 | 2022-05-05 | 2024-07-05 |
+| [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/0CJVvJgxU8dwnaRdzAjjet) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/album/5yb98AcJkZ7xORvBe1reaE) | 3:16 | 2025-08-08 |  |
 | [Lost Boys](https://open.spotify.com/track/5uJIYvzdKiUcHxclDk3UjX) | [Wesko](https://open.spotify.com/artist/65JTh6O744ikcSz4K1AGeF) | [Lost Boys](https://open.spotify.com/album/2SzTcEMaQr01Gjozbd2t4r) | 2:59 | 2024-07-03 | 2024-09-05 |
 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 | 2022-05-05 | 2023-02-18 |
 | [Love Shack \- Edit; 2019 Remaster](https://open.spotify.com/track/0LzeivEHO16a8eBQGlpVkE) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing \(30th Anniversary Expanded Edition\)](https://open.spotify.com/album/3ueq8HNaKowofxk69MuDQs) | 4:22 | 2022-05-05 | 2024-07-05 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAADF2tBQixqc7Bkx/956VCL2",
+  "snapshot_id": "aJPsgAAAAAC2Vm0hfJlmGYbN0TzI1RtY",
   "tracks": [
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ginza (Remix)",
         "url": "https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 373960,
       "name": "Ginza - Remix",
       "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
     },
     {
       "added_at": null,
@@ -1039,30 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEX AND LOVE",
-        "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Noche Y De Dia",
-      "url": "https://open.spotify.com/track/1lD3UtE3IVQGpSw7JL11BZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFRO",
         "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
       },
@@ -1083,22 +1059,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamasota",
-        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
+        "name": "SEX AND LOVE",
+        "url": "https://open.spotify.com/album/5eTnO99fDE0hr87EMSTi8w"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         }
       ],
-      "duration_ms": 216424,
-      "name": "Mamasota",
-      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+      "duration_ms": 222693,
+      "name": "Noche Y De Dia",
+      "url": "https://open.spotify.com/track/1lD3UtE3IVQGpSw7JL11BZ"
     },
     {
       "added_at": null,
@@ -1131,6 +1111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mamasota",
+        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216424,
+      "name": "Mamasota",
+      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ELYTE",
         "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
       },
@@ -1151,22 +1151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+        "name": "Aqui Se Vino A Perrear",
+        "url": "https://open.spotify.com/album/6jsgg7vxTJXwOTipq5aoot"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 214253,
-      "name": "De Negro",
-      "url": "https://open.spotify.com/track/4vAAGNZAjmCUc51qjhFZdM"
+      "duration_ms": 196811,
+      "name": "Mini Falda (feat. Yandel)",
+      "url": "https://open.spotify.com/track/1zIkMVCO14PnzGm4LEeDOx"
     }
   ],
   "unique_name": "This Is Yandel",

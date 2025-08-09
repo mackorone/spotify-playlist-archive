@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 166971,
+  "num_followers": 166983,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Coalmine",
-      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 156536,
       "name": "Heading East to West Virginia",
       "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 151466,
+      "name": "Coalmine",
+      "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -787,6 +787,30 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+        }
+      ],
+      "duration_ms": 306440,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Knee Deep in Bluegrass",
         "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
@@ -799,22 +823,6 @@
       "duration_ms": 182000,
       "name": "Knee Deep in Bluegrass",
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -839,26 +847,18 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 306440,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
+      "duration_ms": 207000,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -915,6 +915,42 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 301586,
+      "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
+      "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
+      },
+      "artists": [
+        {
+          "name": "Mark O'Connor",
+          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
+        },
+        {
+          "name": "Maggie O'Connor",
+          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
+        }
+      ],
+      "duration_ms": 263317,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
         "name": "Skating on the Harbourfront",
         "url": "https://open.spotify.com/album/0HJBSbUJHtaU1GAOCUYW9s"
       },
@@ -939,22 +975,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 301586,
-      "name": "Give That Wildman a Knife/ Bellows Falls/ Waitin' On a Hannah",
-      "url": "https://open.spotify.com/track/7lNq4xjEtOVBfLdlU48g6T"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Wanderers Like Me",
         "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 189887,
       "name": "Wanderers Like Me",
       "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
-      },
-      "artists": [
-        {
-          "name": "Mark O'Connor",
-          "url": "https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV"
-        },
-        {
-          "name": "Maggie O'Connor",
-          "url": "https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH"
-        }
-      ],
-      "duration_ms": 263317,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 195573,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "No Matter Where It Goes from Here",
-        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
-      },
-      "artists": [
-        {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Odds of Getting Even",
         "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "No Matter Where It Goes from Here",
+        "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        },
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "She Left Me Standing on the Mountain",
-      "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 248364,
       "name": "BBQ Chips",
       "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        },
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "She Left Me Standing on the Mountain",
+      "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
     },
     {
       "added_at": "2025-06-06 04:00:14",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-06-06 04:00:14",
       "album": {
-        "name": "Hang Around for the Heartbreak",
-        "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Hang Around for the Heartbreak",
-      "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
-    },
-    {
-      "added_at": "2025-06-06 04:00:14",
-      "album": {
         "name": "Hillside",
         "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 190764,
       "name": "Hillside",
       "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
+    },
+    {
+      "added_at": "2025-06-06 04:00:14",
+      "album": {
+        "name": "Hang Around for the Heartbreak",
+        "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Hang Around for the Heartbreak",
+      "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
     },
     {
       "added_at": "2025-06-06 04:00:14",

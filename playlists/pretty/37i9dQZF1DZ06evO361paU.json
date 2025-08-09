@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 286390,
+  "num_followers": 286430,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABCPsqH1rc19NnETxX5eaF6",
+  "snapshot_id": "aJPsgAAAAAD+5Lr0QU8yD1yradgYL+t7",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get You Off My Mind",
+      "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLY",
         "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get You Off My Mind",
-      "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Rock And Roll Is Dead",
-      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
+      "duration_ms": 230266,
+      "name": "Mr. Cab Driver",
+      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Mr. Cab Driver",
-      "url": "https://open.spotify.com/track/1SPrdIUNZRehQbiravoPcB"
+      "duration_ms": 203933,
+      "name": "Rock And Roll Is Dead",
+      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
     },
     {
       "added_at": null,

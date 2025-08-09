@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,043 songs - 2 day 10 hr 30 min
+1,044 songs - 2 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Around Me](https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF) | [Around Me](https://open.spotify.com/album/6Rn2V0wlOJgl7h4CdLCBci) | 3:18 | 2024-08-20 | 2024-11-13 |
 | [Around You](https://open.spotify.com/track/54EKXaigl9tDnVZINeLKtO) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA) | [Around You](https://open.spotify.com/album/4ywO9E6gyjRuFUBa2FenKj) | 3:09 | 2022-11-29 | 2023-02-24 |
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 | 2022-05-28 |
+| [Ashes](https://open.spotify.com/track/7LgqqZZSiEu2ILeWBtwMsq) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes](https://open.spotify.com/album/2GCD6TRc3fKAyiGKWTHy0M) | 2:33 | 2025-08-08 |  |
 | [Assassins](https://open.spotify.com/track/7fUtz2v6funYLn8G1W8TdD) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Asketa](https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03) | [Assassins](https://open.spotify.com/album/2AQN1Enb8Sj4GXPQe3LnpK) | 2:54 | 2024-08-28 | 2024-11-20 |
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |

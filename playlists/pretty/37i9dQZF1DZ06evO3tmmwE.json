@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACWVkS0JprhOsnkaywDhNUj",
+  "snapshot_id": "aJPsgAAAAACy1O/nebdTZgLPh7K6Kf5n",
   "tracks": [
     {
       "added_at": null,
@@ -175,26 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uno Cuhh",
-        "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Chingo Bling",
-          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
-        }
-      ],
-      "duration_ms": 154644,
-      "name": "Uno Cuhh",
-      "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocaine Cowboy",
         "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 144662,
       "name": "Cocaine Cowboy",
       "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uno Cuhh",
+        "url": "https://open.spotify.com/album/3NU6zU6yFENu9HoPUMTtuE"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Chingo Bling",
+          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+        }
+      ],
+      "duration_ms": 154644,
+      "name": "Uno Cuhh",
+      "url": "https://open.spotify.com/track/7kIEAzivuOEhkmry8dxgSD"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL RODEO",
         "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 128782,
       "name": "Made a 10 When I Woke Up [screwed version]",
       "url": "https://open.spotify.com/track/6rap5jqI6kXreSfRrRUdT8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     }
   ],
   "unique_name": "This Is Bo Bundy",

@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Ends of the Earth",
+        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269830,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
+    },
+    {
+      "album": {
         "name": "Every Night Every Morning",
         "url": "https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej"
       },
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 193399,
       "name": "Jack and Diet Coke",
       "url": "https://open.spotify.com/track/55a01VsdKH2OeSXLGy9wd5"
@@ -5042,6 +5060,24 @@
       "duration_ms": 201322,
       "name": "Make It Past Georgia",
       "url": "https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd"
+    },
+    {
+      "album": {
+        "name": "Making Good Time",
+        "url": "https://open.spotify.com/album/5JXMh1FdutuSfyPtfdJxMQ"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Making Good Time",
+      "url": "https://open.spotify.com/track/4jh5v2PmmcryAzPnuEQjUG"
     },
     {
       "album": {
@@ -6816,7 +6852,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 227693,
       "name": "Smoke & Embers",
       "url": "https://open.spotify.com/track/5YAzhZWJfVWHsUmtCqwy1o"

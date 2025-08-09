@@ -671,6 +671,28 @@
     },
     {
       "album": {
+        "name": "CRISTIAN",
+        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157444,
+      "name": "GTO",
+      "url": "https://open.spotify.com/track/5jusHXxUi4wX3uAXc6cHH6"
+    },
+    {
+      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
       },
@@ -1538,7 +1560,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/3SERRzMQ0DL3aImY2smoe9"

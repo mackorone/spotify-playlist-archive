@@ -1,12 +1,12 @@
 {
-  "description": "New music from Metro Boomin, YoungBoy Never Broke Again and Yeat. ",
-  "num_followers": 15978519,
+  "description": "New music from Gunna, Bryson Tiller and Young Nudy.",
+  "num_followers": 15976947,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKPm81y2WkNfhxi4EQ9R7WriT7G6",
+  "snapshot_id": "AAAAAMZ92inSSWGU6Fnvf6Q/gS4ePsR8",
   "tracks": [
     {
       "added_at": "2025-08-04 18:18:35",
@@ -179,6 +179,26 @@
       "duration_ms": 157611,
       "name": "PUT IT ONG",
       "url": "https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze"
+    },
+    {
+      "added_at": "2025-08-07 04:00:11",
+      "album": {
+        "name": "Best Thang Smokin' (Explicit Version)",
+        "url": "https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r"
+      },
+      "artists": [
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "Shoulder Lean (feat. T.I.)",
+      "url": "https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii"
     },
     {
       "added_at": "2025-08-04 18:18:35",

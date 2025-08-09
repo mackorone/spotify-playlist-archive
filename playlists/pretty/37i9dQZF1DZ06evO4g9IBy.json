@@ -1,17 +1,17 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 170057,
+  "num_followers": 170065,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABNzbdaluW/TgH3lxl/c3ab",
+  "snapshot_id": "aJPsgAAAAADVElijcZYfj+FwA6jWY9Lm",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Crying in the Night (2025 Remaster)",
+        "name": "Crying in the Night",
         "url": "https://open.spotify.com/album/33LW94s93xeDtCb00OT02P"
       },
       "artists": [
@@ -29,7 +29,7 @@
         }
       ],
       "duration_ms": 179014,
-      "name": "Crying in the Night - 2025 Remaster",
+      "name": "Crying in the Night",
       "url": "https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB"
     },
     {
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 334853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street Angel",
         "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 259066,
       "name": "Maybe Love Will Change Your Mind",
       "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bella Donna (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 280626,
+      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bella Donna (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8"
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 280626,
-      "name": "Sleeping Angel (From Fast Times at Ridgemont High) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54"
+      "duration_ms": 334853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
     },
     {
       "added_at": null,

@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 304986,
       "name": "Kupendwa Raha",
       "url": "https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU"
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 325666,
       "name": "Maisha Yetu Usela",
       "url": "https://open.spotify.com/track/5LzvixNE9iXW0A8ygVGRcY"
@@ -2145,6 +2145,36 @@
     },
     {
       "album": {
+        "name": "Rukia",
+        "url": "https://open.spotify.com/album/65MyvO0EOIU9RfN6p7HvgA"
+      },
+      "artists": [
+        {
+          "name": "Cadabra",
+          "url": "https://open.spotify.com/artist/4pUPUy339G2GIylkMXXBVP"
+        },
+        {
+          "name": "MRT SOUND",
+          "url": "https://open.spotify.com/artist/7nUTBe8P4gKaIP8QqQ8657"
+        },
+        {
+          "name": "Jefe Entertainment Records",
+          "url": "https://open.spotify.com/artist/3ab3UjOFwmqaMp8G9YYhrW"
+        },
+        {
+          "name": "Dj Marota",
+          "url": "https://open.spotify.com/artist/3kQ2uidVaAQ8myDzKOqQ2B"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327444,
+      "name": "Rukia",
+      "url": "https://open.spotify.com/track/4luBMB9ciPOyVovAKubh1k"
+    },
+    {
+      "album": {
         "name": "Singeli Ya Maajabu",
         "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
       },
@@ -2892,7 +2922,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 201967,
       "name": "Viburi",
       "url": "https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9"

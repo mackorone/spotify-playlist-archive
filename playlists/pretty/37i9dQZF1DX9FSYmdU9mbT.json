@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1429825,
+  "num_followers": 1430107,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 214693,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
         "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 327946,
       "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Exagerado 3.0 - Single",
-        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 226141,
-      "name": "Exagerado 3.0",
-      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Exagerado 3.0 - Single",
+        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 226141,
+      "name": "Exagerado 3.0",
+      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Unplugged (Ao vivo)",
-        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "A Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213093,
       "name": "Entre a Serpente e a Estrela - Ao Vivo",
       "url": "https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Unplugged (Ao vivo)",
+        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
     },
     {
       "added_at": "2025-05-30 05:19:13",

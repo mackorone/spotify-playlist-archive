@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Apples",
+        "url": "https://open.spotify.com/album/2VmOnJT6VkmkfB3erQ4Jv6"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Apples",
+      "url": "https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b"
+    },
+    {
+      "album": {
         "name": "are you still here",
         "url": "https://open.spotify.com/album/4tmckO4dsBUFOMH4tkc2E8"
       },
@@ -1868,6 +1886,24 @@
       "duration_ms": 165801,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A"
+    },
+    {
+      "album": {
+        "name": "Blurry",
+        "url": "https://open.spotify.com/album/0Q2MqgMmcEsx3eyThzSbzH"
+      },
+      "artists": [
+        {
+          "name": "Karis Taylor",
+          "url": "https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198763,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2"
     },
     {
       "album": {
@@ -3348,7 +3384,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 233948,
       "name": "Damsel, Damsel",
       "url": "https://open.spotify.com/track/6WOqh8mXdFRGrlSnvRAfHi"
@@ -6324,7 +6360,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 210135,
       "name": "Hope For The Best",
       "url": "https://open.spotify.com/track/1wFUpYmAa3bnxNp4UnQtBO"
@@ -12731,6 +12767,24 @@
     },
     {
       "album": {
+        "name": "slow burner",
+        "url": "https://open.spotify.com/album/4jHWsdq0GDxoIP7anxllXq"
+      },
+      "artists": [
+        {
+          "name": "Lily Knott",
+          "url": "https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "slow burner",
+      "url": "https://open.spotify.com/track/55ejPEgt8rxP9NQcAR7tZu"
+    },
+    {
+      "album": {
         "name": "Handle with Care",
         "url": "https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu"
       },
@@ -15938,7 +15992,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 181888,
       "name": "Wicked Nature",
       "url": "https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk"

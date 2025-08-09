@@ -1,15 +1,103 @@
 {
   "description": "The latest, greatest cinema soundtracks from the big and small screen.",
-  "num_followers": 309874,
+  "num_followers": 310106,
   "original_name": "New Movie Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZUB+ga6tOMbRxRc2CUn3juGnUJ",
+  "snapshot_id": "AAAAAIn4mxUyfkMVyLcTM7eGLJ3z81c3",
   "tracks": [
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Wednesday: Season 2 (Original Score from the Netflix Series), Vol. 1",
+        "url": "https://open.spotify.com/album/77cjR6MiFQnX9NCl3O955f"
+      },
+      "artists": [
+        {
+          "name": "Chris Bacon",
+          "url": "https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO"
+        },
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        }
+      ],
+      "duration_ms": 72389,
+      "name": "Return To Nevermore - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/1HF04uqv5vSe8drRMO83TT"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Outlander: Blood of My Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 238314,
+      "name": "The Julia and Henry Theme",
+      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "The Pickup (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56Q3yCtZHiu4v5oW6kzFAM"
+      },
+      "artists": [
+        {
+          "name": "Christopher Lennertz",
+          "url": "https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5"
+        }
+      ],
+      "duration_ms": 150065,
+      "name": "Hero Dad-Uh Oh",
+      "url": "https://open.spotify.com/track/2oAk77Cy8up1CwM5ZnliEO"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Butterfly (Main Title Theme) [From The Prime Video Original Series Soundtrack]",
+        "url": "https://open.spotify.com/album/5DifqPSck7JsTAD78OLkNt"
+      },
+      "artists": [
+        {
+          "name": "Curtis Green",
+          "url": "https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV"
+        }
+      ],
+      "duration_ms": 64360,
+      "name": "Butterfly (Main Title Theme) [From The Prime Video Original Series Soundtrack]",
+      "url": "https://open.spotify.com/track/1tx9xnizW0talSLsa0TTt7"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "USS Callister: Into Infinity (Soundtrack from the Netflix Series 'Black Mirror')",
+        "url": "https://open.spotify.com/album/3Yp0vVDFS7tds4B2wCfrwD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Exit Game",
+      "url": "https://open.spotify.com/track/3vrFnqLRsm0Q0CIsi3Zf4a"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Chief of War (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4liLBVzoJO9bIMeOfZAyMJ"
@@ -33,23 +121,23 @@
       "url": "https://open.spotify.com/track/2yl62P7cZm5EaourNKSWS9"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
-        "name": "Dracula (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/74HHfX93smErw2edkRdOFH"
+        "name": "Duster (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2ljhGzOnHXtIupNqP9Se12"
       },
       "artists": [
         {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
         }
       ],
-      "duration_ms": 173527,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/0sLORCXBgcg2X4FTW3538D"
+      "duration_ms": 200834,
+      "name": "Nina\u2019s Theme",
+      "url": "https://open.spotify.com/track/11vzrx4D9aunBxK7GuiPR9"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Freakier Friday (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm"
@@ -69,7 +157,71 @@
       "url": "https://open.spotify.com/track/4DT1D6Yp5dCFIUtte6gFhv"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Dracula (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/74HHfX93smErw2edkRdOFH"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 173527,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/0sLORCXBgcg2X4FTW3538D"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Y'a pas de r\u00e9seau (Bande originale du film)",
+        "url": "https://open.spotify.com/album/0D8qWHpK3U90ADznnuTTnm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Rault",
+          "url": "https://open.spotify.com/artist/5anuO5XELrKLuyNONB2OnY"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Y'a pas de r\u00e9seau",
+      "url": "https://open.spotify.com/track/3F4oQ91Zhy7J5OlF6ewcg6"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Together (Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1U4CT8PiWvzQRCyP61rJ69"
+      },
+      "artists": [
+        {
+          "name": "Cornel Wilczek",
+          "url": "https://open.spotify.com/artist/4dkHBxANZXk2STw2AUVE9S"
+        }
+      ],
+      "duration_ms": 111800,
+      "name": "Together with Millie",
+      "url": "https://open.spotify.com/track/1BCIoSW8OjWcamHdb6sSiJ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Sketch (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zQvkvTb4q0XVndD3H2IWu"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        }
+      ],
+      "duration_ms": 51400,
+      "name": "Opening Titles",
+      "url": "https://open.spotify.com/track/5eLxmCdxJdGn98VIO2f5vh"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Naked Gun (Gordon Goodwin Remix) [From \"The Naked Gun\"]",
         "url": "https://open.spotify.com/album/76rJRaWBbSSe1dtApBu9Pe"
@@ -93,55 +245,7 @@
       "url": "https://open.spotify.com/track/0Lw5CpEhnPtxm05QnHMdDB"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "The Bad Guys 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0OOruSDLvleGc47uqRcbWm"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pemberton",
-          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
-        }
-      ],
-      "duration_ms": 144331,
-      "name": "Cairo, Five Years Ago",
-      "url": "https://open.spotify.com/track/2Si6l08jYSNpNw8DygFCVD"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Together (Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1U4CT8PiWvzQRCyP61rJ69"
-      },
-      "artists": [
-        {
-          "name": "Cornel Wilczek",
-          "url": "https://open.spotify.com/artist/4dkHBxANZXk2STw2AUVE9S"
-        }
-      ],
-      "duration_ms": 111800,
-      "name": "Together with Millie",
-      "url": "https://open.spotify.com/track/1BCIoSW8OjWcamHdb6sSiJ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Human (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1mKHzkkiR7lMvoym0lwNXm"
-      },
-      "artists": [
-        {
-          "name": "Paul Saunderson",
-          "url": "https://open.spotify.com/artist/6LvqXE4N4n5il7gLQLuu9g"
-        }
-      ],
-      "duration_ms": 202619,
-      "name": "HUMAN Suite",
-      "url": "https://open.spotify.com/track/2650MdzBYaOLwPOPnP69Ga"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Superman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5NrArmSSCpQg2eDq7vqRyA"
@@ -157,7 +261,39 @@
       "url": "https://open.spotify.com/track/6CJHa7KcYR430ei2kATUi7"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "The Bad Guys 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0OOruSDLvleGc47uqRcbWm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "duration_ms": 144331,
+      "name": "Cairo, Five Years Ago",
+      "url": "https://open.spotify.com/track/2Si6l08jYSNpNw8DygFCVD"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
+      "album": {
+        "name": "Human (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1mKHzkkiR7lMvoym0lwNXm"
+      },
+      "artists": [
+        {
+          "name": "Paul Saunderson",
+          "url": "https://open.spotify.com/artist/6LvqXE4N4n5il7gLQLuu9g"
+        }
+      ],
+      "duration_ms": 202619,
+      "name": "HUMAN Suite",
+      "url": "https://open.spotify.com/track/2650MdzBYaOLwPOPnP69Ga"
+    },
+    {
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Red Sonja",
         "url": "https://open.spotify.com/album/79hGUYagZbdiSRsUcY1XtS"
@@ -177,7 +313,7 @@
       "url": "https://open.spotify.com/track/5EcNLnGeWag79BK15b4IsA"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "She Rides Shotgun (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1h7NdwsZhE7t6RNoktVMEP"
@@ -193,7 +329,7 @@
       "url": "https://open.spotify.com/track/2aZRNIhaabEozaSCnK1klx"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "A Thin Line (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0GIPR8QJuEyDfUaRjlZcBg"
@@ -209,7 +345,7 @@
       "url": "https://open.spotify.com/track/1qujDYyUWOykCwbztfDywj"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "F1\u00ae The Movie (Original Score By Hans Zimmer)",
         "url": "https://open.spotify.com/album/4gSjcFEVpPS52oGqEOJGyj"
@@ -225,7 +361,7 @@
       "url": "https://open.spotify.com/track/5UeIwcUIKTVPqBnuXnhmBD"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Eddington (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1KMhNBudtPscDh7uu4FFwa"
@@ -241,7 +377,7 @@
       "url": "https://open.spotify.com/track/2f36PS5Hg8vdJEcxb3dylS"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Hunting Wives: Season 1 (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/6bybjk8s5IWJ1UuF3UB97q"
@@ -257,7 +393,7 @@
       "url": "https://open.spotify.com/track/1ioTzMpFMbuZRzM4UaRJ80"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Watch This (From The Motion Picture Sketch)",
         "url": "https://open.spotify.com/album/2kAwm3ieRdn407Umtut1lP"
@@ -273,7 +409,7 @@
       "url": "https://open.spotify.com/track/0AbjZtmhekxnHpxfI1D2tO"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Gremlins: The Wild Batch (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/7kBenBWm5V1P5htzPO0393"
@@ -289,7 +425,7 @@
       "url": "https://open.spotify.com/track/24yjQYvblfrG5BEwagPEiZ"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "I Know What You Did Last Summer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NANdbM7vUu0N5eduMmqOy"
@@ -305,7 +441,7 @@
       "url": "https://open.spotify.com/track/2CPdBzS58VD8NSLqWjfOKE"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Der Scheich (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2OZU6CxouBRJt3iaXBV68c"
@@ -321,7 +457,7 @@
       "url": "https://open.spotify.com/track/48Cr9Kjzk14PgvGYX2R9i5"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Rasa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2WRfBsrJqTfpwYRwjzl4RX"
@@ -337,7 +473,7 @@
       "url": "https://open.spotify.com/track/2JX5fMwbXESwaNIfZuk15h"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Four Letters of Love (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/3czloWK5UoN4j3DKVAC4kH"
@@ -353,7 +489,7 @@
       "url": "https://open.spotify.com/track/5OFL45xX9fNkQRFwr2gWLv"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Beth (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4hTl6tiIfcS09aSSINHrQe"
@@ -369,7 +505,7 @@
       "url": "https://open.spotify.com/track/0b3te8DIBBf1KnRmOjAMqH"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Fantastic Four: First Steps Main Theme (From \"The Fantastic Four: First Steps\")",
         "url": "https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj"
@@ -385,7 +521,7 @@
       "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "SOSIA (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/46nPYCimKZdzFXMt9uM83y"
@@ -401,7 +537,7 @@
       "url": "https://open.spotify.com/track/4Mk3k1FwDnbrSD8JKh11OD"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Heads of State (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s"
@@ -417,7 +553,7 @@
       "url": "https://open.spotify.com/track/3Njp6CLh7QFtb4MAXvnlEg"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Old Guard 2 (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/2UMHkK07T85SYjaECei9BN"
@@ -437,7 +573,7 @@
       "url": "https://open.spotify.com/track/7vEYYpUHMBhWYsvlDUdhLM"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Tornado (Original Music)",
         "url": "https://open.spotify.com/album/2s1lUsZ6uUr68LYaruOcaY"
@@ -453,7 +589,7 @@
       "url": "https://open.spotify.com/track/0VQOWBgUvLfBsXbcgDphPB"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Hill (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1CEbUBFffQbvw41g255wfG"
@@ -477,7 +613,7 @@
       "url": "https://open.spotify.com/track/2LRM5ez8W1JO3SJPB1562B"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Leviathan (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1Aamsi6YeL21zvu36rX9Et"
@@ -497,7 +633,7 @@
       "url": "https://open.spotify.com/track/1C2n0E1qgAySAgkYvJOylR"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "We Were Liars (Prime Video Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3Gt1tacotfCTvbPDUIDcp2"
@@ -513,7 +649,7 @@
       "url": "https://open.spotify.com/track/5Jvi4ybQSlpLyXUCn0trwk"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Better Sister (Prime Video Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/26I3F9zb6dr4rumkI0HmPN"
@@ -529,7 +665,7 @@
       "url": "https://open.spotify.com/track/6mV5CiHRfYT14Ox9uaYIuA"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Brick (Soundtrack from the Netfix Film)",
         "url": "https://open.spotify.com/album/5Ms425OQ8rHIiKtNZ881vn"
@@ -553,7 +689,7 @@
       "url": "https://open.spotify.com/track/19GhmymIqKgMRPf3LjUOJ4"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Boat Chase (from Jurassic World Rebirth)",
         "url": "https://open.spotify.com/album/3PhryoocXJgxwBrs41LPfj"
@@ -569,7 +705,7 @@
       "url": "https://open.spotify.com/track/1ZgoNVMKLvPT9E2BzHeU1l"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Squid Game 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4WkhodkTjq3C3p9CFGUzrq"
@@ -585,7 +721,7 @@
       "url": "https://open.spotify.com/track/75RshNisiUA6quyNu9G0tY"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Hot Milk (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/4dWr8vujzCgyBD15OFnHuh"
@@ -601,7 +737,7 @@
       "url": "https://open.spotify.com/track/5pHOVsjrhdelxobnXEExkQ"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Shark Whisperer (Soundtrack from the Netflix Documentary)",
         "url": "https://open.spotify.com/album/49AFjJ5ogd3R2NMoNvGSQs"
@@ -621,7 +757,7 @@
       "url": "https://open.spotify.com/track/1JsbNeSSusRGynH0TScxIs"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Sorry, Baby (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3cOi2taNKDpJEKf8jSNdTo"
@@ -637,7 +773,7 @@
       "url": "https://open.spotify.com/track/5njMk86FUZOPPIFy2urvuN"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Diplodocus: The Green Dinosaur (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3TUTvSqlH9J4mT6ujyLjaT"
@@ -657,7 +793,7 @@
       "url": "https://open.spotify.com/track/7xlhiGrlx6Rl174u6oDEoa"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "M3GAN 2.0 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Am6FG1X8kaAsmB2ptZDMK"
@@ -673,7 +809,7 @@
       "url": "https://open.spotify.com/track/13hsy8OpS8Or2fjiq4JsXX"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Ironheart (Riri's Theme) [From \"Marvel's Ironheart\"]",
         "url": "https://open.spotify.com/album/3cTqynScPj6Ip36E0YFs4S"
@@ -689,7 +825,7 @@
       "url": "https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "MobLand (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6D4apQcBTUWGZxxQ29vNn2"
@@ -709,7 +845,7 @@
       "url": "https://open.spotify.com/track/5pYUdGu0eoIW3Sghlw0qL6"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "28 Years Later (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0X8jJb6RB4Ene8VcAqR3vl"
@@ -725,7 +861,7 @@
       "url": "https://open.spotify.com/track/3GpvYGN12T63jOUn15v51Q"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Unsinkable (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4q9rohsb3O8xn7mMn4oDYS"
@@ -741,7 +877,7 @@
       "url": "https://open.spotify.com/track/53pWR41LjS7879ZJtZHHHR"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Elio (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/2dll1F8y8ClvkBE2rzSb3V"
@@ -757,7 +893,7 @@
       "url": "https://open.spotify.com/track/3tfiTpwGzJEBcciVethYeb"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Waterfront (Soundtrack From The Netflix Series)",
         "url": "https://open.spotify.com/album/4kmVCHnBOx2hO3BQx09CpG"
@@ -773,7 +909,7 @@
       "url": "https://open.spotify.com/track/1XpHs5WcL9qoeYEtvp1REy"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Mortician (Soundtrack from the HBO\u00ae Original Series)",
         "url": "https://open.spotify.com/album/6BDSMIaFNUoyXw5mNHLr6l"
@@ -793,7 +929,7 @@
       "url": "https://open.spotify.com/track/0wILnfgaVwKjqMxxwjNhQ9"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Bring Her Back (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2he0hSvMM54phDZKyG2DMh"
@@ -817,7 +953,7 @@
       "url": "https://open.spotify.com/track/41yc63zlKVFRWXjOvHaPIk"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Olympo (Banda sonora de la serie de Netflix)",
         "url": "https://open.spotify.com/album/35lA5ieqqD15y2f9YxJouD"
@@ -833,7 +969,7 @@
       "url": "https://open.spotify.com/track/7hcG28FuqPjvhThB9uAYEZ"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "In the House - In a Heartbeat (Theme from \"28 Days Later\") [Epic Version]",
         "url": "https://open.spotify.com/album/1ygaQkNOw0XTGcfATfCKes"
@@ -849,7 +985,7 @@
       "url": "https://open.spotify.com/track/6ZXT8MwEuUqlZfJdq8LXxt"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "How to Train Your Dragon (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4eWwSXYZZhc6zfTHPNSoEw"
@@ -865,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3Qsvx0PLGCT43Z5uzB7XSU"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Underdogs (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3Uqj3mgzYfpWI2Al79KYqy"
@@ -885,7 +1021,7 @@
       "url": "https://open.spotify.com/track/5rvGJptet9ZFd3cqyyslXk"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Echo Valley (Apple Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/7mOI9ohtWGrbWZiuALlBwe"
@@ -901,7 +1037,7 @@
       "url": "https://open.spotify.com/track/5tqSi0sMX9o8wTJBmRUKJ1"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Materialists (Original Soundtrack)",
         "url": "https://open.spotify.com/album/20fuKKdQbvoDR93W19PtYf"
@@ -917,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2WphR73xLzbD5ZcUtM9Aez"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Your Friends and Neighbors: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1wp1zPqn3NIGfixiOVwB4r"
@@ -933,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7Ga3wOriU4b8RriDkBv0RF"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Rosario (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/33p6wrLLcFFYz6klS4TsRU"
@@ -957,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3xYxCpBwoJIXQBYyJddkpw"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Escort Boys (Original Series Soundtrack) Season 2",
         "url": "https://open.spotify.com/album/51Zq9P6A2PC4DIZnQlIkvA"
@@ -973,7 +1109,7 @@
       "url": "https://open.spotify.com/track/1pichI6XULWMJrkpt1gsjd"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Queen of the Ring (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/2bXtSrqehc0xmcCzNSyDPT"
@@ -993,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6EwjzHHAymvNFl0HxwsiPo"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "FUBAR: Season 2 (Soundtrack From The Netflix Series)",
         "url": "https://open.spotify.com/album/4yuuU7mJxhxPO95GwtWRjd"
@@ -1009,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5emJXiPmLrJO6dUUKIYnnE"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Department Q (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
@@ -1025,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6T2CFapeYxn2cru24kawa8"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Sara - La Donna nell'Ombra (Colonna sonora della serie Netflix)",
         "url": "https://open.spotify.com/album/6omg8bnOFjp0iy1DLKbGqU"
@@ -1041,7 +1177,7 @@
       "url": "https://open.spotify.com/track/4zzb6AQkWoLna8dbp5JQSD"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "North of Normal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1wOPq2fledpaaa8SQsVsoH"
@@ -1057,7 +1193,7 @@
       "url": "https://open.spotify.com/track/6XA54VzMKBFEYNvO0JkNSk"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Lilo & Stitch (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V"
@@ -1077,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3NlxZe1aY9G1XAMvOKFJZc"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Ballerina (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1cAD7erKu6S1hICch1kaLh"
@@ -1097,7 +1233,7 @@
       "url": "https://open.spotify.com/track/0WqYHIKKTipnBqyGHWONyz"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "K.O. (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1AoXevk1Z4kQ3ZYZJM89NV"
@@ -1113,7 +1249,7 @@
       "url": "https://open.spotify.com/track/1J9EynpgB4QLRaKr9T2pWc"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Salt Path (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3lpZNlg9bWSPv58yRt001Y"
@@ -1129,7 +1265,7 @@
       "url": "https://open.spotify.com/track/1x1mEXEZr7P3bGiwiOPA07"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Phoenician Scheme (Original Score)",
         "url": "https://open.spotify.com/album/17OcTjBgMqen816ttO7qGG"
@@ -1145,7 +1281,7 @@
       "url": "https://open.spotify.com/track/7igpkY5nKHPI95Gs8ZbeHU"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Karate Kid: Legends (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2nrPSPrvNxaJLT8FUCoNh7"
@@ -1161,7 +1297,7 @@
       "url": "https://open.spotify.com/track/6129x03GSbe00vA9iJWGL3"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Hotel Portofino Season two (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5OArRCFZXGjv12rcFCBe2p"
@@ -1177,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5Cas0bP7jwQk0cvU9yGuvC"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Grosse Pointe Garden Society: Season One (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/53daYwkMmkIhQXqFBDOBa9"
@@ -1197,7 +1333,7 @@
       "url": "https://open.spotify.com/track/51VP3M7YjiVXZWOY49JPEL"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Test Driving Toothless (from How to Train Your Dragon)",
         "url": "https://open.spotify.com/album/1HQ0NnMTN1btuwBbstnoYm"
@@ -1213,7 +1349,7 @@
       "url": "https://open.spotify.com/track/6autehKz60InHGLgW5umk3"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Mission: Impossible - The Final Reckoning (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6BQaNMu6oyHLI539E226uc"
@@ -1233,7 +1369,7 @@
       "url": "https://open.spotify.com/track/34Cp7NG72xINOEqMp2hyab"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
         "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
@@ -1249,7 +1385,7 @@
       "url": "https://open.spotify.com/track/0DEW6NlEqz5hiJ9Wxf8u2G"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Fountain of Youth (Soundtrack from the Apple Original Film)",
         "url": "https://open.spotify.com/album/74SDCEGZiOzUK4dbrNZznu"
@@ -1265,7 +1401,7 @@
       "url": "https://open.spotify.com/track/3HLPSrwHLQ9jwUI21C4XcR"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Nine Perfect Strangers: Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/7nE4Q4975jm8htEU4Hybqu"
@@ -1285,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3IlAKdo55RvKUjfaV6uR4a"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Sirens (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/78AH21pHM7VP1Xuu8KzuHE"
@@ -1301,7 +1437,7 @@
       "url": "https://open.spotify.com/track/3GTKqpCxQ7DDuwSqhqE6K3"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Last Rodeo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2Ky0ZedQ0PSjj8Dsm7i0TV"
@@ -1317,7 +1453,7 @@
       "url": "https://open.spotify.com/track/12yEdJ4d5Xk8VQhTowy2Pz"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Theme from Superman (Official Trailer Version)",
         "url": "https://open.spotify.com/album/1udQDhBKN47ejaSXfDaLqR"
@@ -1337,7 +1473,7 @@
       "url": "https://open.spotify.com/track/3G5160KEvjeowX9y0FCl7M"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Final Destination: Bloodlines (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4OCiGTsLxi8QWSHk7rp4BG"
@@ -1353,7 +1489,7 @@
       "url": "https://open.spotify.com/track/5Zg8jYpeYoFBCDSJgIXbhf"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Murderbot: Season 1 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5b6W9TbtkAPbtj1xuy0vwT"
@@ -1369,7 +1505,7 @@
       "url": "https://open.spotify.com/track/5VXUuWpRTyq5TlRCavVXQ1"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Juliet & Romeo (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/7rD3EO3kZ4MRrwN0eVtrCR"
@@ -1389,7 +1525,7 @@
       "url": "https://open.spotify.com/track/4FNmD2lLeoao7QZQtVjgcB"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Words of War (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6eXCb69NFie81XpUyEzAe1"
@@ -1405,7 +1541,7 @@
       "url": "https://open.spotify.com/track/78RLOS4uRrOI6bUV4P6LzX"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Reunion (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3wYRMclcsEV0H4c6h3MbQD"
@@ -1421,7 +1557,7 @@
       "url": "https://open.spotify.com/track/6XzMFCeJE3NvILytsw6SZT"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
@@ -1437,7 +1573,7 @@
       "url": "https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Path (from \"The Last of Us: Season 2\")",
         "url": "https://open.spotify.com/album/00bdpvTx7UbMhZnwtp0Kyk"
@@ -1457,7 +1593,7 @@
       "url": "https://open.spotify.com/track/1hiPuKUeHw5j2pBuRu04ja"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Suits LA (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2YlouW4yj57yLEkf0MYjVo"
@@ -1473,7 +1609,7 @@
       "url": "https://open.spotify.com/track/4OmVfuDZkWfgyN20wi3UM1"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Thunderbolts* (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5JTAY7hOUdzJx2GslB4nwc"
@@ -1489,7 +1625,7 @@
       "url": "https://open.spotify.com/track/5OXtqgjZzi1Kj9EJlg45t2"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Another Simple Favor (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7o3pYVFVEriIJLwqrUromr"
@@ -1505,7 +1641,7 @@
       "url": "https://open.spotify.com/track/3Xppn8tEgU6bI1q8FpUMJG"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Andor: Season 2 - Vol. 2 (Episodes 4-6) [Original Score]",
         "url": "https://open.spotify.com/album/6LslS0wAyFP0pdh7z0v0Hb"
@@ -1521,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1pcdzFTIm7EISZhIusrexx"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Detective Kien: The Headless Horror (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gQdrb9trD77lmgCPJYbDK"
@@ -1537,7 +1673,7 @@
       "url": "https://open.spotify.com/track/4ziDdS9gGZEyjMYbkRI2vZ"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Star Wars: Tales of the Underworld (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5iptRL19sPYny7dnmAfipI"
@@ -1561,7 +1697,7 @@
       "url": "https://open.spotify.com/track/3mxktDV4Ysp4eCAG1L8vTE"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Dabba Cartel (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45XR4etxTEq9d4qhH8bbgE"
@@ -1581,7 +1717,7 @@
       "url": "https://open.spotify.com/track/4kK1E6Kn61Uu0ynmATS1tr"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Friendship (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3JEvyYG42Yc2RUfZmqFhkH"
@@ -1597,7 +1733,7 @@
       "url": "https://open.spotify.com/track/7aiE6tA4k3kEGqYB6JiAgO"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Surfer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/290VyK6uNAv1AaUrvge1BB"
@@ -1613,7 +1749,7 @@
       "url": "https://open.spotify.com/track/0sKbaDH6FKhx4i24ixFTTh"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "UnBroken (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6CwWi6ycdcRoxsGO3Jbzet"
@@ -1629,7 +1765,7 @@
       "url": "https://open.spotify.com/track/34Bzuj1zdRnvlIcH8o47g4"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Scrupus (Music from the Dance Film \"Scrupus\")",
         "url": "https://open.spotify.com/album/1nwbBfXqhCT4lKyrISpguR"
@@ -1645,7 +1781,7 @@
       "url": "https://open.spotify.com/track/6xjWEZW0ubFuXMTQqniKXM"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Grassland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4RRV8lk6hWefJWI6kJAo6y"
@@ -1661,7 +1797,7 @@
       "url": "https://open.spotify.com/track/4YSyDbHXHZR47gXtW0OMbN"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Ast\u00e9rix & Ob\u00e9lix: Le Combat des Chefs (Bande originale de la s\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/6SvSFMmaWzrpifOuIAaEKo"
@@ -1681,7 +1817,7 @@
       "url": "https://open.spotify.com/track/5pmekGVFCFkym34ur4NaAl"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Beat The Same (From Juliet & Romeo)",
         "url": "https://open.spotify.com/album/6Ca1EBHOJ7XThQ4LGldQHG"
@@ -1701,7 +1837,7 @@
       "url": "https://open.spotify.com/track/6cVD1KaXJd6U307T9m2glj"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Andor Onward [From \"Andor (Season 2)\"]",
         "url": "https://open.spotify.com/album/2dz26zxXrMln5hsSwqPCIT"
@@ -1717,7 +1853,7 @@
       "url": "https://open.spotify.com/track/7aIP6Te7f0tUYIXNfUbgkO"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Until Dawn (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3HKNmuPmpRgT7q7zywmtZk"
@@ -1733,7 +1869,7 @@
       "url": "https://open.spotify.com/track/7MBOQrnaLKpq5ZcxceijVX"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Legend of Ochi (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1EtXVA0LktaCQDsa1nvXEI"
@@ -1749,7 +1885,7 @@
       "url": "https://open.spotify.com/track/3zj0QJ3viA3AOJGmL9J8rB"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Havoc (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0ovWWy59TJ9E0MtzK4AF0h"
@@ -1765,7 +1901,7 @@
       "url": "https://open.spotify.com/track/5QdVgVcfOFlNRh87GCzWdX"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Light & Magic: Season 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/09z0UakHd1dKWre4SNMAaO"
@@ -1781,7 +1917,7 @@
       "url": "https://open.spotify.com/track/1SxTjUQkYdTG72IvzGUNNW"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Una figlia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0FQ1cPX74t8ciVInhH8CB0"
@@ -1797,7 +1933,7 @@
       "url": "https://open.spotify.com/track/1UJoyKdkA2rKBggVgDoOem"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "WondLa: Season 2 (Apple TV + Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5S0kwjDZ2GpA7bocgyjMWb"
@@ -1813,7 +1949,7 @@
       "url": "https://open.spotify.com/track/6MPpxDffsJF9n4v2B6obCl"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Vera: Music From The Final Seasons (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0PIRIdJdmqEJLixzlnzpAy"
@@ -1829,7 +1965,7 @@
       "url": "https://open.spotify.com/track/6E9f5B9qOnBIGKJeKcyBCy"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Hell of a Summer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4oI4Ho3pOqavaWlGJQmhKh"
@@ -1845,7 +1981,7 @@
       "url": "https://open.spotify.com/track/3tZpDh7OTAoMSS3Qm9aSrE"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Sinners (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
@@ -1865,7 +2001,7 @@
       "url": "https://open.spotify.com/track/7bC8wBzEbugsYjLDBkFnSO"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "L'envol de Violette (Musique originale)",
         "url": "https://open.spotify.com/album/2gt6kqxVilazbpowxdUJEO"
@@ -1881,7 +2017,7 @@
       "url": "https://open.spotify.com/track/1L0zDtOnifgEiE98h0s2KW"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Disneynature: Sea Lions of the Galapagos (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7Gj0SSm2x8gYFNfIPSiR6W"
@@ -1897,7 +2033,7 @@
       "url": "https://open.spotify.com/track/3F1IYvmLHicbBBuC8wA3lV"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Secrets of the Penguins (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0PJnaQaFqh2Sbqo1pqbYzs"
@@ -1917,7 +2053,7 @@
       "url": "https://open.spotify.com/track/106VoObcPD0M9h32DgNxjk"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "A Minecraft Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd"
@@ -1933,7 +2069,7 @@
       "url": "https://open.spotify.com/track/4Tf9KrHQZHF0KAQqX8zEw2"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Marvel's Daredevil: Born Again - Vol. 2 (Episodes 5-9) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/6aEAmDEDpZc4WaNZqdyccx"
@@ -1949,7 +2085,7 @@
       "url": "https://open.spotify.com/track/6yyvfHWTmLkHs38vUtKdMF"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "G20 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1iYa4Lz0jmKA56n521AGTs"
@@ -1965,7 +2101,7 @@
       "url": "https://open.spotify.com/track/1R1VFxzcLwA32ywmjwykzM"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "1923 (Original Series Soundtrack), Season 2",
         "url": "https://open.spotify.com/album/2W8daAYapDKY7T0204RI2L"
@@ -1985,7 +2121,7 @@
       "url": "https://open.spotify.com/track/4vHddqENn8Zx3qW7R39Afz"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Narrow Road to the Deep North (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1aJ1NZVNC8S0e5xeplJxJJ"
@@ -2001,7 +2137,7 @@
       "url": "https://open.spotify.com/track/6kEhgsisBHydLpv3zZw8Pm"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Amateur (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3qKW6ySSvvU8Tphmg96Hpa"
@@ -2017,7 +2153,7 @@
       "url": "https://open.spotify.com/track/3hLZnr6frSzKOEcnHnPVHe"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Enlightenment (Main Title Theme) [from \"The White Lotus: Season 3\"]",
         "url": "https://open.spotify.com/album/68Tez3SUB1FkgpwfoTpaLY"
@@ -2033,7 +2169,7 @@
       "url": "https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Black Mirror: Season 7 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/6NwJYMdAG8j7kvicBKFRKb"
@@ -2049,7 +2185,7 @@
       "url": "https://open.spotify.com/track/4qbsyN6H7eCLVE8U3jld7O"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Sinners (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/6PQXsiHd4AjrAqhWLd5HyT"
@@ -2073,7 +2209,7 @@
       "url": "https://open.spotify.com/track/6i7iLbUerRyM7X614fUbHP"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Klandestin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JqtoqHbWqHx87hIgNHN54"
@@ -2089,7 +2225,7 @@
       "url": "https://open.spotify.com/track/5nioH2oAD2eKpQyrCQBzrO"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Last Swim (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2y4Xs5yqbxHcX3jdgNbbQx"
@@ -2105,7 +2241,7 @@
       "url": "https://open.spotify.com/track/1QcJO9YSvgPbfrglX7cIU1"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Friend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6rU5LF4AHhiLlXDP4O8Qxf"
@@ -2125,7 +2261,7 @@
       "url": "https://open.spotify.com/track/6RVJtYBZki1gGDyhzo0jkL"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "2073 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JJ2hODGfARU12URPiLB3R"
@@ -2141,7 +2277,7 @@
       "url": "https://open.spotify.com/track/5Uwiq6nMc7rcaUtxqpKRLa"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Black Mirror: Season 7 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/6NwJYMdAG8j7kvicBKFRKb"
@@ -2157,7 +2293,7 @@
       "url": "https://open.spotify.com/track/01E5YbXlfg4RmJMj8LbkvW"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Pets (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6WGglIK4suZlpO8cq6wUaf"
@@ -2173,7 +2309,7 @@
       "url": "https://open.spotify.com/track/5g5olOFGJEWp8EivRWRMFA"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Alto Knights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0cA3U7WhfdUXKNWt8mwYDq"
@@ -2189,7 +2325,7 @@
       "url": "https://open.spotify.com/track/4en2nJGlv1CFumOGPI6511"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The End (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zhN26647AkmlO9rnvaUB8"
@@ -2209,7 +2345,7 @@
       "url": "https://open.spotify.com/track/5QLyiqXy24rmEC0iM6uDyN"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Tessellation - The Fiber Optic Symphonic Orchestra (FOSO) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/2ItKH1srEjSOQ8EqY6J5oc"
@@ -2225,7 +2361,7 @@
       "url": "https://open.spotify.com/track/0GQD5jbXqaeyuS1xqY8AST"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Woman in the Yard (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2C8qgpqL0nP8OqECPK0Qiu"
@@ -2241,7 +2377,7 @@
       "url": "https://open.spotify.com/track/2N1ojXzBB59igxRAiftQoG"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Flow (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7q9YwO9ldgxUXi1H9M9cuY"
@@ -2261,7 +2397,7 @@
       "url": "https://open.spotify.com/track/03dJLOR6HlYLBVajj5cxA2"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Black Bag (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0paOAjGiUFAX9AEKQCfi3z"
@@ -2277,7 +2413,7 @@
       "url": "https://open.spotify.com/track/0204PDwkmOAn0ldSE8YZ6h"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Surface: Season 2 (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2i4Y3KPqI6Id3sHahhXBzA"
@@ -2297,7 +2433,7 @@
       "url": "https://open.spotify.com/track/0MNcYf3ulB0dN71exLMwZ2"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Holland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6a9HgMyhX4uZN2UhiS0bSs"
@@ -2313,7 +2449,7 @@
       "url": "https://open.spotify.com/track/0iQ4KyAobGbiev0dXzy1Wy"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Gold & Greed: The Hunt for Fenn's Treasure (Soundtrack from the Netflix Documentary)",
         "url": "https://open.spotify.com/album/7epgsNd4NZs8L4ngUFj1P8"
@@ -2329,7 +2465,7 @@
       "url": "https://open.spotify.com/track/1rL6jJYq9YeupEvLlkO97Y"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Life List (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/5fGpjlLmb6cCPB7jYVSSQe"
@@ -2345,7 +2481,7 @@
       "url": "https://open.spotify.com/track/2YAmTFYPgQXWuqiBVgPRjI"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "A Cruel Love: The Ruth Ellis Story (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0FSif94ipKP6ANXyN1CMBR"
@@ -2361,7 +2497,7 @@
       "url": "https://open.spotify.com/track/61qoxtlZlp4owFXLp5nIu2"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Novocaine (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0NTIqlLWlZ2OUPcIk4Y9hA"
@@ -2381,7 +2517,7 @@
       "url": "https://open.spotify.com/track/6NypqYNHIIss621zWZ1N6r"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "\u015anie\u017cka (Muzyka z filmu/Wersja Deluxe)",
         "url": "https://open.spotify.com/album/4mtZTDti3mhJgegPUYi2kn"
@@ -2401,7 +2537,7 @@
       "url": "https://open.spotify.com/track/0qWU5CdMJdFUYGsHk9gSVi"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Actor (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zlUQLqegXPPuIGHRw4HBU"
@@ -2417,7 +2553,7 @@
       "url": "https://open.spotify.com/track/2ad9YW8PWeYMwVuvlMT5nK"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "The Residence (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0OhlGl9qI8leAkdmPm77ce"
@@ -2433,7 +2569,7 @@
       "url": "https://open.spotify.com/track/1XUDAKo66K6SosRYKo0T7m"
     },
     {
-      "added_at": "2025-08-01 04:00:18",
+      "added_at": "2025-08-08 04:00:38",
       "album": {
         "name": "Bridget Jones: Mad About the Boy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JkVU2P1Pm1uwolXAVc6Gr"
@@ -2447,586 +2583,6 @@
       "duration_ms": 112034,
       "name": "Kissing In The Snow",
       "url": "https://open.spotify.com/track/4y2RIzHKWXVgP6Gec7pBaY"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Severance: Season 2 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/43VDjlJRYsUnpJB0qCJjQK"
-      },
-      "artists": [
-        {
-          "name": "Theodore Shapiro",
-          "url": "https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T"
-        }
-      ],
-      "duration_ms": 171972,
-      "name": "Elevator Down",
-      "url": "https://open.spotify.com/track/4C9fhxLHcJp7SqnIpzM2DX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "The Americas (Music from the Original Series)",
-        "url": "https://open.spotify.com/album/1BByMKKOoJL2EndkA3oxDh"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Kara Talve",
-          "url": "https://open.spotify.com/artist/3EHtbaE4XfijksNLg8kK3N"
-        },
-        {
-          "name": "An\u017ee Rozman",
-          "url": "https://open.spotify.com/artist/6e35AnLj77a8zEL36syCjn"
-        }
-      ],
-      "duration_ms": 296006,
-      "name": "Caribou",
-      "url": "https://open.spotify.com/track/44t0maGYHUP8sMAFsEsIwf"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Il Gattopardo (Colonna sonora della serie Netflix)",
-        "url": "https://open.spotify.com/album/6lKdnYMsdEjj0voYJ0kQ6E"
-      },
-      "artists": [
-        {
-          "name": "Paolo Buonvino",
-          "url": "https://open.spotify.com/artist/78IK4N7NFoD9w8YeniXFYE"
-        }
-      ],
-      "duration_ms": 244202,
-      "name": "Il valzer del Gattopardo",
-      "url": "https://open.spotify.com/track/1Xh0lKcOzC4PwfBOhVOtsD"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Black Doves (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5iOBfUt7cV0UE0QZBF0OLd"
-      },
-      "artists": [
-        {
-          "name": "Martin Phipps",
-          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "Christmas Day",
-      "url": "https://open.spotify.com/track/11NL6prH2SSJ67acqiSkBH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Babygirl (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5N2Wi5hCX9K8HYbymwLfLK"
-      },
-      "artists": [
-        {
-          "name": "Cristobal Tapia De Veer",
-          "url": "https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR"
-        }
-      ],
-      "duration_ms": 140029,
-      "name": "Babygirl",
-      "url": "https://open.spotify.com/track/0DlQx0OexwZiq51IYoqgUL"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Nosferatu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6qlFrMn86Pj4AiLkialz9x"
-      },
-      "artists": [
-        {
-          "name": "Robin Carolan",
-          "url": "https://open.spotify.com/artist/0We3iIO3yy6XpQ7OSxDVnn"
-        }
-      ],
-      "duration_ms": 76875,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/17XJZJIFYJrM43ueWuOlYP"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Mayflies (from the BBC Programme)",
-        "url": "https://open.spotify.com/album/1PgafF0bg0vRboOlxVbscI"
-      },
-      "artists": [
-        {
-          "name": "Lorne Balfe",
-          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
-        },
-        {
-          "name": "Joseph Stevenson",
-          "url": "https://open.spotify.com/artist/0eFH8raWnU62FmPbcD30XA"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Mayflies (from the BBC Programme)",
-      "url": "https://open.spotify.com/track/1m5nggYFgPrMkTsFdqnuQA"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Star Wars: Skeleton Crew (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1fMCKvCbTa4pul1633sH0K"
-      },
-      "artists": [
-        {
-          "name": "Mick Giacchino",
-          "url": "https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0"
-        }
-      ],
-      "duration_ms": 246267,
-      "name": "Skeleton Crew End Credits",
-      "url": "https://open.spotify.com/track/0ekmDW7YJuwjejdYKCN7fZ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Presence (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ZQNzB8XfqeMugRBdBwGxj"
-      },
-      "artists": [
-        {
-          "name": "Zack Ryan",
-          "url": "https://open.spotify.com/artist/1GXnrxUlYYSvpnNAPVLOHl"
-        }
-      ],
-      "duration_ms": 121258,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/4Ynb9wCzqxIRTsyCcg5i6Q"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Toxic Town (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/6RaMKES7cOZ4twcb6iKUVx"
-      },
-      "artists": [
-        {
-          "name": "Sion Trefor",
-          "url": "https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt"
-        }
-      ],
-      "duration_ms": 347605,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/5EnPwLWJNhdIUQC4lWrnyc"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Kraven The Hunter (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6jGKMB5nWY3XDXXpBjAnEB"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
-        }
-      ],
-      "duration_ms": 123342,
-      "name": "Kraven's Origin",
-      "url": "https://open.spotify.com/track/2VKVdBrtLE8KT4r7owDV43"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "THE BOY AND THE DOG (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0iiAC3zYcCSpncdKUoZQLW"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 85185,
-      "name": "The Future We Promised",
-      "url": "https://open.spotify.com/track/4uOmBVO4TFpsEfYoBg9R1k"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "William Tell (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Is This Mercy?",
-      "url": "https://open.spotify.com/track/543gCwDA6Ad6qndc6JdsmQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Wolf Man (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6AUF1JQ3OePCaqGvg7hU4S"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Wallfisch",
-          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/2fXpHtqAAHFXYoZCz4yBxu"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Riff Raff (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1INmnePj4BvRqN4chWdjFI"
-      },
-      "artists": [
-        {
-          "name": "Adam Taylor",
-          "url": "https://open.spotify.com/artist/2eog4K1pzXDmE54lHAc6DL"
-        }
-      ],
-      "duration_ms": 104093,
-      "name": "The Turtle",
-      "url": "https://open.spotify.com/track/3QilfMcSR81UGevZ0jYDSk"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Waiting On A Wish (From \"Disney's Snow White\")",
-        "url": "https://open.spotify.com/album/4ez3Q65TegsMzFo48VrVDS"
-      },
-      "artists": [
-        {
-          "name": "Rachel Zegler",
-          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Waiting On A Wish - From \"Disney's Snow White\"",
-      "url": "https://open.spotify.com/track/0m7fCJPgt8LLokpr3t60Vx"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "The Day of the Jackal (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3vL64pvJNeuy8Zsz9YVxv8"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        }
-      ],
-      "duration_ms": 143788,
-      "name": "Pinwheel",
-      "url": "https://open.spotify.com/track/0eXnsjDlKOIBDXDNva3PrO"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Marvel's Daredevil: Born Again Main Theme (From \"Marvel's Daredevil: Born Again\")",
-        "url": "https://open.spotify.com/album/3JmYvRWvxTtVu1IckeCpfo"
-      },
-      "artists": [
-        {
-          "name": "The Newton Brothers",
-          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
-        }
-      ],
-      "duration_ms": 109864,
-      "name": "Marvel's Daredevil: Born Again Main Theme - From \"Marvel's Daredevil: Born Again\"",
-      "url": "https://open.spotify.com/track/4mXdThZ9JooNvF4vztdLtN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Wallace & Gromit: Vengeance Most Fowl (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1M1Eh9Vi4AmQqhnb8qXgoE"
-      },
-      "artists": [
-        {
-          "name": "Lorne Balfe",
-          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
-        },
-        {
-          "name": "Julian Nott",
-          "url": "https://open.spotify.com/artist/5rTSrGxGb29AiNRh0omvKS"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Wallace & Gromit: Vengeance Most Fowl",
-      "url": "https://open.spotify.com/track/71AYEa5NI9uPODi4kUu83O"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "The 21 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4gJcpuHSZH9H6cykiZjNsq"
-      },
-      "artists": [
-        {
-          "name": "The Ayoub Sisters",
-          "url": "https://open.spotify.com/artist/0vFkVid8pFiVX9aLS8jdru"
-        }
-      ],
-      "duration_ms": 62653,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3JtHfz2okMXq2u3BQweOYG"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Flight Risk (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1c1WvL11HUtrkeNmEVc7qB"
-      },
-      "artists": [
-        {
-          "name": "Antonio Pinto",
-          "url": "https://open.spotify.com/artist/7jBJcoFeQkHaqrJBIZsd5h"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Approach",
-      "url": "https://open.spotify.com/track/4axEL3XTSLNVKlgbgNvCuS"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Dune II Suite",
-        "url": "https://open.spotify.com/album/2JClso06MGoGSjCBkULGtP"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Snow Owl",
-          "url": "https://open.spotify.com/artist/5jWGhVjv2jwaXC8AGciIua"
-        },
-        {
-          "name": "Aleksandra Suklar",
-          "url": "https://open.spotify.com/artist/7dlXCPxGlyp55rTDEk3ynP"
-        },
-        {
-          "name": "Pedro Eustache",
-          "url": "https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7"
-        },
-        {
-          "name": "Odessa Orchestra & Friends",
-          "url": "https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG"
-        },
-        {
-          "name": "Gavin Greenaway",
-          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "Dune II Suite: Part 2, A Time of Quiet Between the Storms",
-      "url": "https://open.spotify.com/track/5ryKPoh8DrQK3aUgXYXH1B"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Perfect Place",
-        "url": "https://open.spotify.com/album/5NqSGgq912xZU4vpfakmqK"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 146297,
-      "name": "Perfect Place",
-      "url": "https://open.spotify.com/track/52sZwYRTc2UqWoARa5ejpZ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "The Gorge (Soundtrack from the Apple Original Film)",
-        "url": "https://open.spotify.com/album/6KQhtdfPj8k6czRE2Qyh7u"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "but a whimper",
-      "url": "https://open.spotify.com/track/3MTs6KYd3l1wfdEY1x0NZX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Brave The Dark (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1qRKyijC10onnbxiLtJ96D"
-      },
-      "artists": [
-        {
-          "name": "Jacob Yoffee",
-          "url": "https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP"
-        },
-        {
-          "name": "Roahn Hylton",
-          "url": "https://open.spotify.com/artist/6XGdnREo5oKfrNf4tcbj31"
-        }
-      ],
-      "duration_ms": 63421,
-      "name": "A Breakthrough",
-      "url": "https://open.spotify.com/track/4PxnDEV28lyce1RfesfbTL"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "La Palma (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7EJhzSLlRhrQsfTGuxDdRh"
-      },
-      "artists": [
-        {
-          "name": "Johannes Ringen",
-          "url": "https://open.spotify.com/artist/7c16TShAemRcpdBNSfji0I"
-        }
-      ],
-      "duration_ms": 147406,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/028wjZrbWmzJcmdEb81nEy"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Delicious (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/5pwTcvfCCtOoHMITPGJbos"
-      },
-      "artists": [
-        {
-          "name": "Volker Bertelmann",
-          "url": "https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA"
-        },
-        {
-          "name": "BEN WINKLER",
-          "url": "https://open.spotify.com/artist/0uZx4cQRvxeZU3fRMNhSrl"
-        }
-      ],
-      "duration_ms": 131521,
-      "name": "The Critters Are Still There",
-      "url": "https://open.spotify.com/track/7kRYvsVxMlul0uIa8UQnz8"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "The Brutalist (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
-      },
-      "artists": [
-        {
-          "name": "Daniel Blumberg",
-          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Erzs\u00e9bet",
-      "url": "https://open.spotify.com/track/1FCcF9ZfJhFi0RXuSNo4ab"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Squid Game 2 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/38I81fquwK20vSrvstSjZO"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        }
-      ],
-      "duration_ms": 244013,
-      "name": "Way forward",
-      "url": "https://open.spotify.com/track/03uTGTsHWo4LpE218khj7N"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Lee (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7mATM75Y3dd58TAhzXimdh"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 97866,
-      "name": "Lee",
-      "url": "https://open.spotify.com/track/1uI4OIBLdVYgyHgCtlac7N"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "No Good Deed (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1JBo3QTKlvZvByfef1sTj8"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha Khosla",
-          "url": "https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY"
-        }
-      ],
-      "duration_ms": 83690,
-      "name": "Wild Ride",
-      "url": "https://open.spotify.com/track/6vo5T14EGkzZ1x6JbuJVrQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Queer (Original Score)",
-        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 274463,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
-    },
-    {
-      "added_at": "2025-08-01 04:00:18",
-      "album": {
-        "name": "Mary (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/325lSxq5SAnpWSLKIIEFfP"
-      },
-      "artists": [
-        {
-          "name": "Timothy Williams",
-          "url": "https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee"
-        }
-      ],
-      "duration_ms": 274672,
-      "name": "Mary (Main Title)",
-      "url": "https://open.spotify.com/track/18FEHyFBFAdlwR7UOh3kT3"
     }
   ],
   "unique_name": "New Movie Music",

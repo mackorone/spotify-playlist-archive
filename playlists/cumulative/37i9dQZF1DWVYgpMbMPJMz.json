@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: UPPERROOM",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Bryan & Katie Torwalt",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1670,6 +1670,24 @@
       "duration_ms": 429166,
       "name": "Better Is One Day / Facedown - Live",
       "url": "https://open.spotify.com/track/7bulJSqaL4Rbyzrk6bjJqq"
+    },
+    {
+      "album": {
+        "name": "Better Than I Thought",
+        "url": "https://open.spotify.com/album/2dTOI0srlqWqKOGmqWkMhX"
+      },
+      "artists": [
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255860,
+      "name": "Better Than I Thought",
+      "url": "https://open.spotify.com/track/6nZVhmqQPy6RqX2EjYb8gr"
     },
     {
       "album": {
@@ -5439,6 +5457,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah In The Hard Things",
+        "url": "https://open.spotify.com/album/70gcaVWuTtFUnAoosmyihw"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216567,
+      "name": "Hallelujah In The Hard Things",
+      "url": "https://open.spotify.com/track/0PxhROpedyP63Onnoeddk8"
+    },
+    {
+      "album": {
         "name": "Hands Of The Healer",
         "url": "https://open.spotify.com/album/3I7LT2cBTzO65R6bGzTBPr"
       },
@@ -6002,7 +6038,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 428054,
       "name": "Holy",
       "url": "https://open.spotify.com/track/26gtR7hh6PxWsm7PJGJnKG"
@@ -8589,6 +8625,28 @@
     },
     {
       "album": {
+        "name": "Kid Again (Live)",
+        "url": "https://open.spotify.com/album/2qBkpQX29A5SOboW73izN7"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446853,
+      "name": "Kid Again - Live",
+      "url": "https://open.spotify.com/track/1WyD5o3WVDlAhzAPFKgczc"
+    },
+    {
+      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
@@ -9286,7 +9344,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 233805,
       "name": "Living Proof - Live",
       "url": "https://open.spotify.com/track/1CmWihe8s7fwmNZcB4Zd1j"
@@ -12550,7 +12608,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 221403,
       "name": "Rescue (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/1qA19MGPhY4VXJw4RywdWM"

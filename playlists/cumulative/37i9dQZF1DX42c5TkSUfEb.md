@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-412 songs - 1 day 1 hr 12 min
+413 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Don't](https://open.spotify.com/track/3pn8w3wjxC8oLDTqGXz8nA) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [Part\. 1](https://open.spotify.com/album/3YWOLd19yXqawMTWvsxPgd) | 2:46 | 2024-04-15 | 2025-02-09 |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2022-11-25 | 2024-04-19 |
 | [DON'T TALK TO STRANGERS](https://open.spotify.com/track/5DTMuygjZMlcsOBJBQhpvO) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [RESONATE AUGMENTED](https://open.spotify.com/album/28U9b6LfdddUlU9t0GbupS) | 2:57 | 2024-04-15 | 2024-07-27 |
+| [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-07 |  |
 | [Dusty](https://open.spotify.com/track/0TR6bZ12pF2qC0XqpuXYkY) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:05 | 2025-04-10 | 2025-06-15 |
 | [Easy](https://open.spotify.com/track/72y7LZzbvrFQJcsNELTtjE) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Easy](https://open.spotify.com/album/6Fdk1QSdUhNWnLeQ64ClZj) | 2:35 | 2025-03-14 |  |
 | [echo](https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Mixtape Telecom](https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r) | 2:47 | 2024-04-15 | 2025-01-24 |
@@ -163,7 +164,7 @@
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-03-27 | 2024-04-19 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6rN8cR7iEcC1hAlHF4UpSN) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/4GErH8Za9b4VutH8jTSU1o) | 3:21 | 2023-02-21 | 2023-03-26 |
 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 | 2023-02-21 | 2023-08-01 |
-| [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 |  |
+| [Hold Me](https://open.spotify.com/track/6C30p3VpQgOe5CyrJvE8Ra) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Hold Me](https://open.spotify.com/album/31YLOPkHEJyXEjGaChbn9h) | 3:10 | 2025-04-25 | 2025-08-09 |
 | [Holy](https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Holy](https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1) | 2:24 | 2025-07-25 |  |
 | [Home](https://open.spotify.com/track/1Vm82EBiyQlvbnHJ08eWbb) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5) | 3:20 | 2022-11-25 | 2023-03-18 |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-26 | 2025-08-02 |

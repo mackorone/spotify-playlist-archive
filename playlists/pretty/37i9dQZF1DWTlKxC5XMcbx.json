@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61818,
+  "num_followers": 61819,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sous Le Ciel De Paris",
+      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
+    },
+    {
+      "added_at": "2025-08-03 22:28:21",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 280026,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml"
-    },
-    {
-      "added_at": "2025-08-03 22:28:21",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
-      },
-      "artists": [
-        {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Sous Le Ciel De Paris",
-      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
     },
     {
       "added_at": "2025-08-03 22:28:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2025-08-03 22:28:21",
-      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
-        "name": "And Suddenly There Was Love",
-        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
       },
       "artists": [
         {
-          "name": "Jonah Aardekker",
-          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
         }
       ],
-      "duration_ms": 267142,
-      "name": "And Suddenly There Was Love",
-      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2025-08-03 22:28:21",
@@ -771,6 +755,22 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
+        "name": "And Suddenly There Was Love",
+        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+      },
+      "artists": [
+        {
+          "name": "Jonah Aardekker",
+          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+        }
+      ],
+      "duration_ms": 267142,
+      "name": "And Suddenly There Was Love",
+      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+    },
+    {
+      "added_at": "2025-08-03 22:28:21",
+      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 555320,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
-    },
-    {
-      "added_at": "2025-08-03 22:28:21",
-      "album": {
         "name": "I'll Give You My Heartache",
         "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 227202,
       "name": "I'll Give You My Heartache",
       "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
+    },
+    {
+      "added_at": "2025-08-03 22:28:21",
+      "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 555320,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/7c7aRF6EJ96zCmep9BmewW"
     },
     {
       "added_at": "2025-08-03 22:28:21",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2025-08-03 22:28:21",
+      "album": {
         "name": "Walk The Dog",
         "url": "https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1"
       },
@@ -1155,18 +1171,26 @@
     {
       "added_at": "2025-08-03 22:28:21",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+        "name": "It's Nice to Be with You: Jim Hall in Berlin",
+        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
       },
       "artists": [
         {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Jimmy Woode",
+          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
+        },
+        {
+          "name": "Daniel Humair",
+          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
         }
       ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+      "duration_ms": 265024,
+      "name": "Young One for Debra",
+      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
     },
     {
       "added_at": "2025-08-03 22:28:21",
@@ -1199,30 +1223,6 @@
       "duration_ms": 292093,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
-    },
-    {
-      "added_at": "2025-08-03 22:28:21",
-      "album": {
-        "name": "It's Nice to Be with You: Jim Hall in Berlin",
-        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Jimmy Woode",
-          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
-        },
-        {
-          "name": "Daniel Humair",
-          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
-        }
-      ],
-      "duration_ms": 265024,
-      "name": "Young One for Debra",
-      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
     },
     {
       "added_at": "2025-08-03 22:28:21",

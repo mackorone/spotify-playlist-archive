@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Abeer Chopra
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,858 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,867 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 22 | [Memories](https://open.spotify.com/track/4VVwskkRN509QyZtk0SHx1) | [Maya](https://open.spotify.com/artist/1Z4cTmwQ9KWWkxymOBAdPO) | [Memories](https://open.spotify.com/album/1mgQZACDBlPkJvbucyRnzh) | 3:53 |
 | 23 | [Khwaish](https://open.spotify.com/track/3jPYJEaFhNEsO3rjHSnnJe) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Escaé](https://open.spotify.com/artist/7ulacShwtBIL9flLO6EmUI), [Vikram Edke](https://open.spotify.com/artist/2EhKnxfRSueWrjFkYTVRTu), [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Khwaish](https://open.spotify.com/album/6sjkjg8yGKk1gzf6JLBVB3) | 3:26 |
 | 24 | [Piya](https://open.spotify.com/track/2HOuZDuD7iBz4FOR3kOjIg) | [Priyanka Shinde](https://open.spotify.com/artist/11FQjZppJKBa8Y8K34iszI) | [Piya](https://open.spotify.com/album/2b5QvZg5Ky93DLiOtHix2L) | 3:34 |
-| 25 | [Winner](https://open.spotify.com/track/0WK54Eg9gwTW0rReGLgtI5) | [Divya](https://open.spotify.com/artist/0kNlj2vZ0kH8CAKKlZ4657) | [Winner](https://open.spotify.com/album/096jh2IIj3Cjg5WzKmIY7d) | 3:18 |
+| 25 | [Winner](https://open.spotify.com/track/0WK54Eg9gwTW0rReGLgtI5) | [Divya](https://open.spotify.com/artist/6mGrmr0tGuQf3UXkESre22) | [Winner](https://open.spotify.com/album/096jh2IIj3Cjg5WzKmIY7d) | 3:18 |
 | 26 | [Qurbat](https://open.spotify.com/track/1lqimyRZTU10J1YpRtW7QY) | [Rohan Saikia](https://open.spotify.com/artist/2fPvpAYez7gRgVqCl9PNE9), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr), [Madhurjya Shivam](https://open.spotify.com/artist/0T9Vt9wKDa2pChvnb0rArh) | [Qurbat](https://open.spotify.com/album/3CVJsfvfp42W9qCkjvDXkp) | 3:13 |
 | 27 | [Raste Hi Raste](https://open.spotify.com/track/2CdcHa7yatV3eGZ57isis0) | [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Raste Hi Raste](https://open.spotify.com/album/02FELdvey9RZeqgZ81LRYc) | 3:28 |
 | 28 | [Tere Liye Hoon](https://open.spotify.com/track/0jYBc6mUEfYj28V8exsscM) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Rehna Shaz](https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44), [Prashant Marathe](https://open.spotify.com/artist/2j8QqSWMojyNw3aNnRB4kV) | [Tere Liye Hoon](https://open.spotify.com/album/4zua5RQehQjrrAuqlRIzfo) | 3:14 |

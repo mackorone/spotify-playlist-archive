@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-746 songs - 1 day 13 hr 32 min
+747 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -703,6 +703,7 @@
 | [Walk Away](https://open.spotify.com/track/6gjgucEZ3sJnWxfiqEsEhU) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to), [SRY](https://open.spotify.com/artist/1Tful0EmoUktY5EOtDsoYN) | [Walk Away](https://open.spotify.com/album/4xW14rcbvAX2Z0NTZS8SPF) | 3:18 | 2023-03-15 | 2023-08-10 |
 | [Walk Away](https://open.spotify.com/track/6RbEs9k0lpjd74vCgY93yM) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn) | [Walk Away](https://open.spotify.com/album/3GvHKJ9sVH0WnYIfvFXW6q) | 3:01 | 2023-06-30 | 2023-08-10 |
 | [Want It All](https://open.spotify.com/track/6W3aytvSWp6RfbSGtTSbjY) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [Mqx](https://open.spotify.com/artist/59o1kyNFOv04hcGRuWhWs9) | [Want It All](https://open.spotify.com/album/16UUTrnENXTTwnRqIuLEKf) | 2:32 | 2024-05-02 | 2024-11-20 |
+| [Want Your Body](https://open.spotify.com/track/4BVdyQn5EMDxHNlTQXOOMy) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Want Your Body](https://open.spotify.com/album/35RnRZJVg3gttpOsVE3v4d) | 2:48 | 2025-08-08 |  |
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 | 2023-08-10 |
 | [War Zone](https://open.spotify.com/track/134KuDqugUFSbDUk0kZmLk) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [War Zone](https://open.spotify.com/album/7rlRz6xYkbFHIGGxMOvuB2) | 3:03 | 2023-08-08 | 2023-12-14 |
 | [Warzone](https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [Warzone](https://open.spotify.com/album/5aRklPNMfncol1femV9Meq) | 2:42 | 2024-07-03 |  |

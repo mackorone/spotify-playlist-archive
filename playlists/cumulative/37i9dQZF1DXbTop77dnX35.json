@@ -14805,6 +14805,32 @@
     },
     {
       "album": {
+        "name": "Life Is Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
+    },
+    {
+      "album": {
         "name": "Days Pass By",
         "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
       },
@@ -22074,6 +22100,28 @@
       "duration_ms": 155883,
       "name": "Forever (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
+    },
+    {
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "album": {
@@ -47996,13 +48044,17 @@
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Baby Kia",
+          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
         }
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170066,
-      "name": "On McAfee",
+      "name": "On McAfee (with Baby Kia)",
       "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
     },
     {
@@ -67178,7 +67230,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 195231,
       "name": "Understood (Remix)",
       "url": "https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS"

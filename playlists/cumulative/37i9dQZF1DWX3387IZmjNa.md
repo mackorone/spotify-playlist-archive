@@ -2,7 +2,7 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/37i9dQZF1DWX3387IZmjNa)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Brent Faiyaz
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
 722 songs - 1 day 12 hr 11 min
 

@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to this Summer 2025\. Updated weekly!
 
-492 songs - 1 day 3 hr 33 min
+493 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Shadows \- yuma\. Remix](https://open.spotify.com/track/5oBDL51usxMSTaHhoZKvBP) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0) | [Shadows \(yuma\. Remix\)](https://open.spotify.com/album/1pYL0hLGCEyVI1WByNW0q8) | 3:30 | 2021-07-24 | 2021-08-21 |
 | [Shallow Water \- Edit](https://open.spotify.com/track/3tWQU3TEJ9PLYWVgQfsrMG) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Kairos Grove](https://open.spotify.com/artist/7Cf1QhdtHmjlckbnmUeC6l) | [Shallow Water](https://open.spotify.com/album/5NOr6STbGLCzJWNXw6MUHl) | 2:56 | 2022-11-18 |  |
 | [Shelter](https://open.spotify.com/track/56es20uK9nOaNsPycHJojQ) | [Indigo Eyes](https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [Shelter](https://open.spotify.com/album/7ymnnljOmnTNiJmlcNrv9Q) | 3:47 | 2023-05-12 | 2023-12-14 |
+| [Shine Like Stars](https://open.spotify.com/track/1k2OaUl9NGaBA4wa3Ommvc) | [Benji](https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo) | [Shine Like Stars](https://open.spotify.com/album/1I2mvRHxNIPa5HeHaVjtWn) | 3:46 | 2025-08-08 |  |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2021-03-06 | 2021-11-27 |
 | [Show Me](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Show Me](https://open.spotify.com/album/7hOMWAtuSvc46C0GpWJlVr) | 2:25 | 2024-02-09 |  |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-04-15 |  |

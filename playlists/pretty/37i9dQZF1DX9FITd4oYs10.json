@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 18230,
+  "num_followers": 18232,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,26 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Irm\u00e3o Dqbrada!",
+        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 360559,
+      "name": "Irm\u00e3o DQbrada!",
+      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/4CYB9IWp5ReZ8PfvU7Cost"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 232191,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1w3wkv5EPlYBHi7N21XADR"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Irm\u00e3o Dqbrada!",
-        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 360559,
-      "name": "Irm\u00e3o DQbrada!",
-      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -899,18 +899,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Foco, For\u00e7a E F\u00e9",
-        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
       },
       "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
         {
           "name": "Projota",
           "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 224546,
-      "name": "Foco, For\u00e7a E F\u00e9",
-      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
+      "duration_ms": 181373,
+      "name": "Como Deus Quiser",
+      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -939,22 +943,18 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+        "name": "Foco, For\u00e7a E F\u00e9",
+        "url": "https://open.spotify.com/album/2ZkIlqqupIDBsfG1zzvToD"
       },
       "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
         {
           "name": "Projota",
           "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
         }
       ],
-      "duration_ms": 181373,
-      "name": "Como Deus Quiser",
-      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
+      "duration_ms": 224546,
+      "name": "Foco, For\u00e7a E F\u00e9",
+      "url": "https://open.spotify.com/track/28M9CSVpZ8x526MKvb1U2W"
     },
     {
       "added_at": "2024-08-16 20:28:24",

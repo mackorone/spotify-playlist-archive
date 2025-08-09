@@ -2,7 +2,7 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new music every Friday\. Cover: Del Water Gap
+> The best new music every Friday\. Cover: Ethel Cain
 
 9,155 songs - 22 day 6 hr 24 min
 
@@ -1799,7 +1799,7 @@
 | [Crying in the Club](https://open.spotify.com/track/2i2ctngb7IE9IhoZ3AA1Ey) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Crying in the Club](https://open.spotify.com/album/0EAQUkyRH0RUBHzzt9Sr42) | 3:05 | 2022-08-19 | 2022-08-26 |
 | [Crying in the Club](https://open.spotify.com/track/440bHvLOgExwePapxmMtGI) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/3GuSAYm0w5TMJ6k0qeftwt) | 3:05 | 2022-08-19 | 2022-09-24 |
 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 | 2021-11-06 | 2021-12-18 |
-| [Crying in the Night \- 2025 Remaster](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night \(2025 Remaster\)](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 | 2025-07-25 |  |
+| [Crying in the Night](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 | 2025-07-25 |  |
 | [Crying Laughing](https://open.spotify.com/track/1Or40PNuvot5Sd5ZQmA4GX) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Crying Laughing](https://open.spotify.com/album/3MQpRzIE09xol5Y1nKMrwD) | 3:34 | 2022-03-18 | 2022-05-07 |
 | [Crying On My Own](https://open.spotify.com/track/0RrsFlWwmBxPA96PIMwhsu) | [Sedona](https://open.spotify.com/artist/4ai3OpxVFijS26mHVzevoi) | [Crying On My Own](https://open.spotify.com/album/0L8dLRDXS1neezbmE0QiVP) | 3:35 | 2020-09-25 | 2020-10-16 |
 | [Crying Over Nothing](https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Crying Over Nothing](https://open.spotify.com/album/1THXecpd4s8ahsnlWIxEOz) | 3:15 | 2025-06-06 | 2025-07-26 |

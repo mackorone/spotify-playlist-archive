@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 39781,
+  "num_followers": 39788,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAABytR1VUOvhpfLu5IRQb8nm",
+  "snapshot_id": "aJPsgAAAAADwAUmQY7JkwGkg+w92gywx",
   "tracks": [
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "Call Come Running",
+      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "Call Come Running",
-      "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Live From Orensanz",
+        "url": "https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Cut Me Up Jenny",
-      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
+      "duration_ms": 296906,
+      "name": "Your Own Disaster - Live From Orensanz, New York, NY / 2010",
+      "url": "https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS"
     }
   ],
   "unique_name": "This Is Taking Back Sunday",

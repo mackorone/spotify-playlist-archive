@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Allie Paige
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,095 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,125 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 43 | [Do it Afraid](https://open.spotify.com/track/0StcAP13GuQxuhkC8JNTzd) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sparrøw](https://open.spotify.com/artist/3ffS9GLH3Amh8S5UHFnpwn) | [Do it Afraid](https://open.spotify.com/album/6GavSFP4o2UDFcNqK6LNAR) | 2:44 |
 | 44 | [Sweet Honey Cake](https://open.spotify.com/track/4URNCRSOrhQlpClMpySqbz) | [Holy Gather](https://open.spotify.com/artist/70azCnnO6hKm23SflJHzdR) | [Sweet Honey Cake](https://open.spotify.com/album/6ZIdXxQfrZx8P8JEKcV7DH) | 3:12 |
 | 45 | [To Move Your Heart](https://open.spotify.com/track/3KIUSkO74EUMhkysOw7qiV) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [To Move Your Heart](https://open.spotify.com/album/1pqsyIydGa5dnxp8npesZg) | 3:45 |
-| 46 | [John the Baptist](https://open.spotify.com/track/12udHOY0OAqaJ7C2bfwkps) | [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Some Things I've Been Learning About God: Disc 1](https://open.spotify.com/album/2A18c9tYV1mmfcueLO1QlR) | 3:04 |
+| 46 | [John the Baptist](https://open.spotify.com/track/12udHOY0OAqaJ7C2bfwkps) | [Michael Gabriel Monroe](https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75) | [Some Things I've Been Learning About God: Disc 1](https://open.spotify.com/album/2A18c9tYV1mmfcueLO1QlR) | 3:04 |
 | 47 | [god, why?](https://open.spotify.com/track/5y1L8tM4F1ah1v6GOFbfI6) | [Carter James](https://open.spotify.com/artist/6edakVrblco4TGxnzIhEoP) | [god, why?](https://open.spotify.com/album/0Qmijta68H0k0bE2GkmDeB) | 2:25 |
 | 48 | [quiet my mind](https://open.spotify.com/track/19AwCdPwv7Iyq29HnTTf5A) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [quiet my mind](https://open.spotify.com/album/20ksENXr3Lt4OEfioEdQ4c) | 2:13 |
 | 49 | [together forever](https://open.spotify.com/track/28CX4c59AswgTJgt0BB6m1) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [together forever](https://open.spotify.com/album/63j9BaXZoVMISZ89x8iYU6) | 3:10 |

@@ -2,7 +2,7 @@
 
 ### [CST](https://open.spotify.com/playlist/37i9dQZF1DX91gZ5XTbTPm)
 
-> The Midwest is always on time\. Cover: Sada Baby
+> The Midwest is always on time\. Cover: Bryson Tiller
 
 1,283 songs - 2 day 10 hr 44 min
 

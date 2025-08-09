@@ -4,12 +4,13 @@
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 17 min
+60 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Agosto](https://open.spotify.com/track/1VH2uRGNHYNdgXnZ0dyX6k) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:39 | 2023-12-13 | 2025-06-22 |
 | [Agosto](https://open.spotify.com/track/52t0Du4DIIsA46MMayUf0x) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Agosto](https://open.spotify.com/album/77jrfRbgvoHpwKxM02CAU5) | 3:39 | 2023-11-10 | 2023-12-14 |
+| [Aibo \(feat\. Bratty\)](https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:21 | 2025-08-09 |  |
 | [Alone](https://open.spotify.com/track/4g7Lpwapn3walV0dlEJEYa) | [Raylen](https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Alone](https://open.spotify.com/album/0dbDUyVtiGojztAC8l16Ou) | 4:38 | 2025-05-25 | 2025-05-27 |
 | [Aquí](https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:58 | 2023-11-10 |  |
 | [Así TQ Recordar](https://open.spotify.com/track/7f1MTjvYlcQwJW1oouTjVU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 2:51 | 2023-11-10 | 2024-01-28 |

@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-161 songs - 14 hr 8 min
+163 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Helvegen](https://open.spotify.com/track/1bqmaIBGwlo4MtrAxjRDHB) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/4Ir9Mw8uEYlIipN6hBeBsP) | 7:11 | 2022-07-08 | 2024-04-19 |
 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 | 2022-05-13 |  |
 | [Hemkomst](https://open.spotify.com/track/1VtAhBhiXduSG6b3ibvcKG) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP) | 5:40 | 2023-09-08 | 2024-04-19 |
-| [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 | 2022-05-13 |  |
+| [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 | 2022-05-13 | 2025-08-09 |
 | [Hersir](https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Hersir](https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD) | 2:25 | 2024-04-16 |  |
 | [Hibjørnen](https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Hibjørnen](https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb) | 3:02 | 2024-11-05 |  |
 | [Highlander \- English Version](https://open.spotify.com/track/6pihX9dY5MGrWIXNk2qqys) | [Feuerschwanz](https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI) | [Highlander](https://open.spotify.com/album/3hkHaaVtwSP3sWoQsj1mA5) | 3:19 | 2024-04-16 |  |
@@ -66,6 +66,7 @@
 | [Isä Meidän](https://open.spotify.com/track/7rdSeeSS4JcYjUQtLSuRhZ) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Isä Meidän](https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC) | 4:04 | 2022-10-07 | 2024-08-26 |
 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 | 2022-05-13 |  |
 | [Jormungandr \- Vinland Edition](https://open.spotify.com/track/0QK4Q4hcwQTzbiWisvrv83) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Ragnarök](https://open.spotify.com/album/2OyNo7JIAxW8DhS2fLPAJ8) | 4:13 | 2022-05-13 | 2024-11-06 |
+| [Járnblóm](https://open.spotify.com/track/3YlCbbGrgghUeYeHH46K8M) | [Bjorth](https://open.spotify.com/artist/1KveHTXgPjylfrK3742EZu), [Munknörr](https://open.spotify.com/artist/1ggcmI8L0SRFmTvoAtrGcl) | [Járnblóm](https://open.spotify.com/album/6Sl0KFXURcIc7SBdaGjvVY) | 3:46 | 2025-08-08 |  |
 | [Jólanótt](https://open.spotify.com/track/0LHxitnBVBbmRVqCZH8I74) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Jólanótt](https://open.spotify.com/album/212WacUd6V0YsXOcRAt3uk) | 3:25 | 2022-05-13 | 2024-11-06 |
 | [Khaalo](https://open.spotify.com/track/7mE8m4vRSFhjRbTLqPRGRg) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh) | [Khaalo](https://open.spotify.com/album/01VmZeDpVALsIbNmq8oHew) | 5:45 | 2022-05-13 | 2022-06-11 |
 | [Krigsgaldr](https://open.spotify.com/track/5P9qFmIiMqE6r2UfwVIdIZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Ofnir](https://open.spotify.com/album/6vohdbsWGcqbqiAimhGj6N) | 8:58 | 2022-05-13 | 2024-04-17 |
@@ -84,11 +85,12 @@
 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 | 2022-05-13 |  |
 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 | 2024-07-05 |  |
 | [Museum Of Childhood](https://open.spotify.com/track/3SEhz1AzCyq2BPctFUMiiB) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [Museum Of Childhood](https://open.spotify.com/album/7t6U6jFJUKHXRSvSrjRNy9) | 5:01 | 2025-07-04 |  |
+| [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 | 2025-08-08 |  |
 | [Noidan Nousu](https://open.spotify.com/track/680HRsVF8FqjgHH9rtefsE) | [Kallomäki](https://open.spotify.com/artist/0KYKgrKx6gPLODjybxJpn9) | [Noidan Nousu](https://open.spotify.com/album/5mbI6EOtW4ft43ske1T8CG) | 3:51 | 2025-05-16 |  |
 | [Norupo](https://open.spotify.com/track/6HptVLMwjkTcwjDi4Tq6if) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Norupo](https://open.spotify.com/album/2dqDsdWvvKA1CDHcD3UwFc) | 4:17 | 2022-05-13 |  |
 | [Norðrljós](https://open.spotify.com/track/0Sjps7HTP1MUPUXqBMXTt0) | [SKÁLD](https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv) | [Norðrljós](https://open.spotify.com/album/4UC8HNvhmz0b0ZspOcbmCa) | 3:20 | 2022-05-13 |  |
 | [Nouse Lempi](https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M) | [Kajos](https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J) | [Nouse Lempi](https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4) | 3:42 | 2025-07-04 |  |
-| [Oraakkelit](https://open.spotify.com/track/1xPcaGTkI1OaK3Zjxvy0hX) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Oraakkelit](https://open.spotify.com/album/50yrNdmIunYGqarLPxAF07) | 3:12 | 2024-04-16 |  |
+| [Oraakkelit](https://open.spotify.com/track/1xPcaGTkI1OaK3Zjxvy0hX) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Oraakkelit](https://open.spotify.com/album/50yrNdmIunYGqarLPxAF07) | 3:12 | 2024-04-16 | 2025-08-09 |
 | [Pusel Ov Aki's Song](https://open.spotify.com/track/1D4zGiWSGEDbErrJiFEEOH) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Pusel Ov Aki's Song](https://open.spotify.com/album/2807bYUClybrUTxDFHu6Ch) | 5:49 | 2022-05-13 | 2024-04-17 |
 | [Reida](https://open.spotify.com/track/72pSSwFywzACLPqVfycny6) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Reida](https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1) | 4:30 | 2022-05-13 |  |
 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 | 2022-05-13 |  |

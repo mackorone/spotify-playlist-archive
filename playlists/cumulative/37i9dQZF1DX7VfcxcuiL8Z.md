@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: NO CIGAR
 
-423 songs - 1 day 0 hr 48 min
+424 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Blood's on fire](https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [Blood's on fire](https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj) | 3:01 | 2025-01-30 | 2025-04-18 |
 | [Blutac](https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5) | [Heavy Moss](https://open.spotify.com/artist/5a2NcVLOLrrn3oaG5cXmVt) | [Dead Slow](https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC) | 5:35 | 2024-11-28 | 2025-02-07 |
 | [Bomb.com](https://open.spotify.com/track/0QKnVWBMfhPgMHgdqB6Chp) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/6cZ5brFf1mSN6UnKLx4o6j) | 2:30 | 2024-10-24 | 2024-12-20 |
+| [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc) | 3:35 | 2025-08-07 |  |
 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 | 2024-06-06 | 2024-08-02 |
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-20 |
 | [Break Away](https://open.spotify.com/track/5Xkpr3gOB0WzVOa8xBGqeF) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Break Away](https://open.spotify.com/album/1htNgwThQp0jBpv1YBtIu2) | 3:50 | 2024-07-04 | 2024-08-16 |

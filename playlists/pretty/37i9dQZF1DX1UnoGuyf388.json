@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: 24kGoldn",
-  "num_followers": 36640,
+  "num_followers": 36654,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGMf2K8X4lydardexDqfQjWOJTs",
+  "snapshot_id": "AAAAAO1dhi6MLwZo00WpB3Xc3TA0JStu",
   "tracks": [
     {
       "added_at": "2025-07-25 04:15:26",
@@ -25,6 +25,74 @@
       "url": "https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj"
     },
     {
+      "added_at": "2025-08-08 04:00:41",
+      "album": {
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 220167,
+      "name": "Fineshyt",
+      "url": "https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW"
+    },
+    {
+      "added_at": "2025-08-08 04:00:41",
+      "album": {
+        "name": "Lonyo!",
+        "url": "https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 215051,
+      "name": "Lonyo!",
+      "url": "https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP"
+    },
+    {
+      "added_at": "2025-08-08 04:00:41",
+      "album": {
+        "name": "L.O.V.E.U (feat. hannah bahng)",
+        "url": "https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "hannah bahng",
+          "url": "https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "L.O.V.E.U (feat. hannah bahng)",
+      "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:41",
+      "album": {
+        "name": "KELEBU",
+        "url": "https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "KELEBU",
+      "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
+    },
+    {
       "added_at": "2025-07-18 04:00:34",
       "album": {
         "name": "Been A Minute",
@@ -39,22 +107,6 @@
       "duration_ms": 200333,
       "name": "Been A Minute",
       "url": "https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR"
-    },
-    {
-      "added_at": "2025-07-25 04:15:26",
-      "album": {
-        "name": "Girlie-Pop!",
-        "url": "https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 123950,
-      "name": "Girlie-Pop!",
-      "url": "https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV"
     },
     {
       "added_at": "2025-07-25 04:15:26",
@@ -415,26 +467,6 @@
     {
       "added_at": "2025-06-27 04:00:41",
       "album": {
-        "name": "Always Love featuring Hyunjin (Stray Kids)",
-        "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
-        }
-      ],
-      "duration_ms": 198472,
-      "name": "Always Love featuring Hyunjin (Stray Kids)",
-      "url": "https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS"
-    },
-    {
-      "added_at": "2025-06-27 04:00:41",
-      "album": {
         "name": "F1 The Album (Cinematic Edition)",
         "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
       },
@@ -499,22 +531,6 @@
       "duration_ms": 136096,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P"
-    },
-    {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "S.M.O.",
-        "url": "https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 270329,
-      "name": "S.M.O.",
-      "url": "https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb"
     },
     {
       "added_at": "2025-06-06 04:00:25",
@@ -835,22 +851,6 @@
       "duration_ms": 129264,
       "name": "all of that",
       "url": "https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc"
-    },
-    {
-      "added_at": "2025-05-27 04:20:13",
-      "album": {
-        "name": "ILYSMIH",
-        "url": "https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 213030,
-      "name": "ILYSMIH",
-      "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
     }
   ],
   "unique_name": "Pop Frequency",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring ROBI.",
+  "description": "Pop on the rise you should know, featuring Danny Ocean.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -3651,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "De Papel",
+        "url": "https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166753,
+      "name": "De Papel",
+      "url": "https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -3884,6 +3902,24 @@
       "duration_ms": 231375,
       "name": "Desp\u00eddase bien",
       "url": "https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk"
+    },
+    {
+      "album": {
+        "name": "Diablah",
+        "url": "https://open.spotify.com/album/1RLOltlJ3NUJrvAW6Va1oK"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "Diablah",
+      "url": "https://open.spotify.com/track/5LDUHU7zXjxQoKOQMajfHP"
     },
     {
       "album": {
@@ -5888,7 +5924,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 156500,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/7CSQp9T3JtkjQGPmpR1vTb"
@@ -7198,7 +7234,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 212821,
       "name": "Lento",
       "url": "https://open.spotify.com/track/6H7tS5QBrDzU1H79g10J1y"
@@ -7398,6 +7434,28 @@
       "duration_ms": 160666,
       "name": "Lo Que Me Har\u00edas En Otra Parte",
       "url": "https://open.spotify.com/track/1gCTNc0Jrk78CHiHbuT63w"
+    },
+    {
+      "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
     },
     {
       "album": {
@@ -9140,7 +9198,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 166483,
       "name": "Ni Feliz Ni Triste",
       "url": "https://open.spotify.com/track/7gVjCWszGK1EsGaqpfGlZX"

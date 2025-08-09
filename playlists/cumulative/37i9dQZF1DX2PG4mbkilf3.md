@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is the range of R&B in Canada\. Elevate your aura with Daniel Caesar from Scarborough, ON.
+> This is the range of R&B in Canada\. Elevate your aura with Osé from Toronto, ON.
 
-1,403 songs - 3 day 1 hr 1 min
+1,405 songs - 3 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [22 Questions](https://open.spotify.com/track/0rhDAX0jPfLxiQRMpxGJex) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [22 Questions](https://open.spotify.com/album/45AkrvvyRhGMTR0k1IEVHI) | 3:03 | 2022-06-17 | 2022-07-16 |
 | [222](https://open.spotify.com/track/0gv0tyqaOONXB6JhZsrXSb) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [222](https://open.spotify.com/album/3HUtH5FxyIyU9hGEdV0VpY) | 2:22 | 2023-11-10 | 2024-03-09 |
 | [23 SPECIAL](https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Kaleidoscope](https://open.spotify.com/album/6Rgww4ZKoUkNqki1bQdJNW) | 3:02 | 2024-07-05 | 2024-08-31 |
+| [24HRS](https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [24HRS](https://open.spotify.com/album/52dv4vbUbGNNOgkodgswJY) | 3:02 | 2025-08-08 |  |
 | [24hrs](https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [24hrs](https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz) | 3:22 | 2022-02-18 | 2022-03-26 |
 | [2AM](https://open.spotify.com/track/6lRRwsfmMLBUPiGLYTtWBb) | [Liyah Katana](https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu) | [8](https://open.spotify.com/album/5EkUPC1lK59jm0O0y1jswQ) | 2:37 | 2023-09-29 | 2024-04-27 |
 | [2UP \(with Because\)](https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv) | [2UP \(with Because\)](https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5) | 2:45 | 2025-07-04 |  |
@@ -79,6 +80,7 @@
 | [All We Know](https://open.spotify.com/track/5SzGv6sv2cz3u0QdAinFTt) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [All We Know](https://open.spotify.com/album/2SiSrK0fzPcRVgKhMedCdp) | 3:28 | 2023-02-24 | 2023-04-29 |
 | [All You](https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [All You](https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm) | 2:42 | 2024-12-06 | 2025-02-08 |
 | [All Yours \(with Amaria & Dylan Sinclair\)](https://open.spotify.com/track/1xdi96EWM6cvxewy00XVqK) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:46 | 2025-04-04 | 2025-07-19 |
+| [Alone](https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Alone](https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO) | 2:25 | 2025-08-08 |  |
 | [Always \(feat\. Summer Walker\) \- Bonus](https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:42 | 2023-04-14 | 2024-02-24 |
 | [Am I Still](https://open.spotify.com/track/7GGEcAZd0xBkffdV3te4K7) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Am I Still](https://open.spotify.com/album/2ZE6bfMY4TYQdxivSWMOEp) | 3:02 | 2024-01-12 | 2024-04-06 |
 | [Amnesia](https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Amnesia](https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp) | 2:50 | 2023-05-19 | 2023-09-23 |
@@ -187,7 +189,7 @@
 | [Butterfly](https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Mojam](https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu) | [Butterfly](https://open.spotify.com/album/49XXnXZyajupirusZZ8fow) | 3:20 | 2024-10-25 | 2025-01-11 |
 | [BY YOU](https://open.spotify.com/track/1aAubp3aQR97YCRAmwD3Tm) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [BY YOU](https://open.spotify.com/album/4NhPfR28P2UPOhH9gucT1A) | 2:44 | 2024-08-02 | 2024-10-19 |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-20 | 2022-10-08 |
-| [Call Cain](https://open.spotify.com/track/2fHPSOnQ6u0vcs2QftY3up) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [Call Cain](https://open.spotify.com/album/77dcQITSVs0us0jQ1ZazkW) | 4:02 | 2025-05-02 |  |
+| [Call Cain](https://open.spotify.com/track/2fHPSOnQ6u0vcs2QftY3up) | [STORRY](https://open.spotify.com/artist/2B3DdwYxUSSrYdda9V2UL0) | [Call Cain](https://open.spotify.com/album/77dcQITSVs0us0jQ1ZazkW) | 4:02 | 2025-05-02 | 2025-08-09 |
 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 | 2022-06-24 | 2022-10-01 |
 | [Call Me Again](https://open.spotify.com/track/1Um4NLCJZ0KZYRH2MQKMPF) | [noiir](https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz) | [Call Me Again](https://open.spotify.com/album/14vpFOp8qPFxrhgBen3YB3) | 2:24 | 2024-02-23 | 2024-04-13 |
 | [call me when you get this](https://open.spotify.com/track/2wNETTvrNQr9TWxDuQNUAa) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [call me when you get this](https://open.spotify.com/album/6dT5rwpc4E9cBA1eEBDtzb) | 2:46 | 2023-11-10 | 2024-01-27 |
@@ -492,7 +494,7 @@
 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 | 2023-06-23 | 2023-09-09 |
 | [Heart Of A Storm](https://open.spotify.com/track/6O1dRJHBnaiJX2Fp4PXqlg) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Heart Of A Storm](https://open.spotify.com/album/48K9X5o8Sn8oWcd4TXRUjQ) | 2:30 | 2025-07-18 |  |
 | [Heartbeat](https://open.spotify.com/track/0vdnJkU6Je0JkQs74RqhMi) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Heartbeat](https://open.spotify.com/album/4zoauodf0HkYb5RTQXB0OD) | 3:04 | 2022-02-25 | 2022-03-12 |
-| [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 | 2025-06-13 |  |
+| [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 | 2025-06-13 | 2025-08-09 |
 | [Heaven Only Knows](https://open.spotify.com/track/3bYuS0r1krUv59094jVsom) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Heaven Only Knows](https://open.spotify.com/album/6ykC2AuC8qgBVro8l0Y4Zy) | 3:16 | 2023-06-16 | 2023-10-14 |
 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 | 2024-01-13 |
 | [Hello](https://open.spotify.com/track/1YDrNRfnJKkyEuwCUId1vG) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:15 | 2023-11-17 | 2023-11-24 |

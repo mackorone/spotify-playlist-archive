@@ -2158,6 +2158,28 @@
     {
       "album": {
         "name": "Bedroom Gospel",
+        "url": "https://open.spotify.com/album/3oL22RU5HyMueIZAE9UAIc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Wonderful God",
+      "url": "https://open.spotify.com/track/52aMpFt6JO2JdQXVgXqlYp"
+    },
+    {
+      "album": {
+        "name": "Bedroom Gospel",
         "url": "https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk"
       },
       "artists": [
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 227000,
       "name": "Wonderful God (feat. Jonathan Ogden)",
       "url": "https://open.spotify.com/track/6DRTaqEscCrnhsrjR69wnN"

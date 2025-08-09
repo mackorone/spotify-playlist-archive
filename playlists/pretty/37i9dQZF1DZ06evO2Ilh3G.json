@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 117754,
+  "num_followers": 117762,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAC+OM20wpEz18Jc3SVC0WFD",
+  "snapshot_id": "aJPsgAAAAAAunWYvoGBKQU/82jOH1H2O",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing My Way",
-        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 179933,
-      "name": "Swing My Way",
-      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 165346,
       "name": "prada dem (feat. Offset)",
       "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing My Way",
+        "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 179933,
+      "name": "Swing My Way",
+      "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 128218,
-      "name": "TEN",
-      "url": "https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurts Like Hell (feat. Offset)",
         "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 209142,
       "name": "Met Gala (feat. Offset)",
       "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 128218,
+      "name": "TEN",
+      "url": "https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6"
     },
     {
       "added_at": null,

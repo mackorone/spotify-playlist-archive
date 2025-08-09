@@ -1,13 +1,29 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Kashus Culpepper",
-  "num_followers": 567148,
+  "num_followers": 567169,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB7B2KzAIKv8nbct21RZOKa0V/52",
+  "snapshot_id": "AAAAAGqXP9xjS6PT63KLeVIsSJJ55InL",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/5DUrEM3IpUG4KETNcUM2KA"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "duration_ms": 284626,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/16zzmh1oSdbke4IVEPYiXf"
+    },
     {
       "added_at": "2025-06-27 04:00:26",
       "album": {
@@ -767,26 +783,6 @@
       "duration_ms": 215000,
       "name": "Emmaline",
       "url": "https://open.spotify.com/track/0scyMh87ralm4LxQqHRKvq"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
-        "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
-      },
-      "artists": [
-        {
-          "name": "Jo Harman",
-          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
-        },
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        }
-      ],
-      "duration_ms": 326761,
-      "name": "Loving Arms - (radio edit), Masterlink Sessions",
-      "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
     },
     {
       "added_at": "2022-09-02 04:02:00",

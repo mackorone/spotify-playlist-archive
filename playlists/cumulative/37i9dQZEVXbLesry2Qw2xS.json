@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Ainult unustamiseks",
       "url": "https://open.spotify.com/track/7KLuj2JJaEnnO6ldrwPSw2"
@@ -22083,6 +22083,24 @@
     },
     {
       "album": {
+        "name": "j\u00e4nkunuss",
+        "url": "https://open.spotify.com/album/05s99sCOLlT1JNHf46yZxQ"
+      },
+      "artists": [
+        {
+          "name": "Noored ja N\u00e4ljased",
+          "url": "https://open.spotify.com/artist/3sx3rTSQsp2SR6sfQmJknT"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154301,
+      "name": "j\u00e4nkunuss",
+      "url": "https://open.spotify.com/track/0mAwiuxCOpb72818xWImDE"
+    },
+    {
+      "album": {
         "name": "k\u00f5ik on s\u00fc\u00fcdi",
         "url": "https://open.spotify.com/album/4vli3Up0fYiKWWSS9nXCws"
       },
@@ -23446,7 +23464,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 163822,
       "name": "KUHU KADUS STEN?",
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
@@ -23782,7 +23800,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 167813,
       "name": "K\u00f5rvalistme Printsess",
       "url": "https://open.spotify.com/track/4oqGcK9GKRDu54EoFAvR4p"
@@ -33654,7 +33672,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 148800,
       "name": "ou piff",
       "url": "https://open.spotify.com/track/44ru4YUmYE8iNbZgUl54ZI"
@@ -35744,7 +35762,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 275235,
       "name": "PISARAD",
       "url": "https://open.spotify.com/track/0IDsFsjysmIHDJujdbPfFo"
@@ -38200,7 +38218,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -38218,7 +38236,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -39924,7 +39942,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 142666,
       "name": "senator",
       "url": "https://open.spotify.com/track/0c1Vsq1t1ok9Zfkfc9nYlE"

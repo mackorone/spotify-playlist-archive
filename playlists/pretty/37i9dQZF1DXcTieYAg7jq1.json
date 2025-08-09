@@ -1,13 +1,49 @@
 {
-  "description": "Featuring that new vintage. Cover: grentperez",
-  "num_followers": 416039,
+  "description": "Featuring that new vintage. Cover: Lusaint",
+  "num_followers": 415995,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABxviaf4sWNtF49G7xRRrCWQPN2f",
+  "snapshot_id": "AAAAAHpoBYCPEBxOVP7FvD74FrcyMdde",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:32",
+      "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/45mmAFhB2L79faaul6n8If"
+    },
+    {
+      "added_at": "2025-08-08 04:00:32",
+      "album": {
+        "name": "Feels Like Falling in Love (Feat. Emily-Rose)",
+        "url": "https://open.spotify.com/album/2xMhDTyFTarz4yDuQPBRdT"
+      },
+      "artists": [
+        {
+          "name": "Sean Bertram",
+          "url": "https://open.spotify.com/artist/6l8QxpDCZkxVOUsrASqEWM"
+        },
+        {
+          "name": "Emily-Rose",
+          "url": "https://open.spotify.com/artist/6zgjccgCNE2isRU4E82joU"
+        }
+      ],
+      "duration_ms": 211582,
+      "name": "Feels Like Falling in Love",
+      "url": "https://open.spotify.com/track/7JGwXMq2zFPEN353QzosNW"
+    },
     {
       "added_at": "2025-08-01 04:00:35",
       "album": {
@@ -43,22 +79,6 @@
       "duration_ms": 210296,
       "name": "Summertime Blue",
       "url": "https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts"
-    },
-    {
-      "added_at": "2025-07-18 04:00:07",
-      "album": {
-        "name": "Lover Girl",
-        "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
     },
     {
       "added_at": "2025-06-13 16:00:28",
@@ -611,22 +631,6 @@
       "duration_ms": 279272,
       "name": "Love Over Glory",
       "url": "https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D"
-    },
-    {
-      "added_at": "2024-05-03 04:01:00",
-      "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 162019,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY"
     },
     {
       "added_at": "2022-02-25 05:01:00",

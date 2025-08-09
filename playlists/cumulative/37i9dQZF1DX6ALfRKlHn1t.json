@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "enjoy the ride",
+        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171237,
+      "name": "enjoy the ride",
+      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+    },
+    {
+      "album": {
         "name": "Every Little Thing I Say I Do",
         "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
       },
@@ -3690,7 +3708,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 217320,
       "name": "Missing Out",
       "url": "https://open.spotify.com/track/6F49TZfQKs658WuxeKgF4R"

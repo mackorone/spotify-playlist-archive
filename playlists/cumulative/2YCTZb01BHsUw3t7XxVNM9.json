@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/4dQEgdmJK9kMuDLu71m9G3"
+      },
+      "artists": [
+        {
+          "name": "RoughSketch",
+          "url": "https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241276,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/3aJnQtCcxsbwDgPkhrvz1O"
+    },
+    {
+      "album": {
         "name": "Prophet of Doom",
         "url": "https://open.spotify.com/album/5VNlFNgoyCVjXqHTqzrQbl"
       },

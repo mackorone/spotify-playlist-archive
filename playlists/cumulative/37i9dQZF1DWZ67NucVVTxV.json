@@ -176,7 +176,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 153380,
       "name": "20 Degrees",
       "url": "https://open.spotify.com/track/14pxWg0APGTl9mk3dKFNAx"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 158850,
       "name": "BIG FISH",
       "url": "https://open.spotify.com/track/4MuPi6byWbrASaeNrn3Ut8"
@@ -5210,7 +5210,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 221311,
       "name": "Ghetto Gospel",
       "url": "https://open.spotify.com/track/6IsXPkIZeBdqEwqJVEcOPZ"
@@ -9568,7 +9568,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 156577,
       "name": "Next Of Kin",
       "url": "https://open.spotify.com/track/7i81pm0b5hGPovAyI8KvS5"
@@ -11476,7 +11476,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 164848,
       "name": "Pressure, Pt.2",
       "url": "https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu"
@@ -12577,6 +12577,28 @@
     },
     {
       "album": {
+        "name": "Sinner Remix (feat. Rybeena)",
+        "url": "https://open.spotify.com/album/0XfdNmgoZ6ZwJshH5cAcOv"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Sinner Remix (feat. Rybeena)",
+      "url": "https://open.spotify.com/track/0MQRgZpFXFGeaXZNx7CSWr"
+    },
+    {
+      "album": {
         "name": "Reality CHQ",
         "url": "https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra"
       },
@@ -12920,7 +12942,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 186352,
       "name": "Space",
       "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
@@ -13290,6 +13312,28 @@
       "duration_ms": 196000,
       "name": "Talk",
       "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
+    },
+    {
+      "album": {
+        "name": "Tanko (feat. Terry G)",
+        "url": "https://open.spotify.com/album/7FyAwmXXi3r1fwJZI7HZXN"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "Tanko (feat. Terry G)",
+      "url": "https://open.spotify.com/track/3XoYWo0jdGq0T25KfNIr3L"
     },
     {
       "album": {
@@ -14012,7 +14056,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 197006,
       "name": "Tuutu Doo",
       "url": "https://open.spotify.com/track/5a4z9tUhUnCv0YI4KmUfMm"

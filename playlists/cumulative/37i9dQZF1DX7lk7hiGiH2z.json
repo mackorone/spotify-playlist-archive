@@ -7663,6 +7663,28 @@
     },
     {
       "album": {
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R"
+      },
+      "artists": [
+        {
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
+        },
+        {
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Sommerzeit",
+      "url": "https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi"
+    },
+    {
+      "album": {
         "name": "Sommerzeit",
         "url": "https://open.spotify.com/album/3hUAQEXxyiYRDFoJ1FhFxs"
       },
@@ -7678,7 +7700,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 134265,
       "name": "Sommerzeit",
       "url": "https://open.spotify.com/track/4QBmgphP6uIJq3G2wnG55h"

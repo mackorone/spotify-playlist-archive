@@ -2,7 +2,7 @@
 
 ### [All New Rock](https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz)
 
-> The best new rock & alternative tracks every week\. Cover: Wisp
+> The best new rock & alternative tracks every week\. Cover: The Black Keys
 
 9,029 songs - 21 day 9 hr 45 min
 
@@ -1707,7 +1707,7 @@
 | [Crybaby](https://open.spotify.com/track/34OsqVB87AYkFO9HplOcm4) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [Crybaby](https://open.spotify.com/album/6p7xukSOfdG5NtCT6P6Xpk) | 2:44 | 2024-04-12 | 2024-04-19 |
 | [crybaby](https://open.spotify.com/track/6hculJA3dWJyUuiTcNPsdr) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [crybaby](https://open.spotify.com/album/0OljtXgcIQL01hqwEqGm6m) | 2:43 | 2023-04-21 | 2023-04-29 |
 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 | 2023-06-23 | 2023-07-01 |
-| [Crying in the Night \- 2025 Remaster](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night \(2025 Remaster\)](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 | 2025-07-25 |  |
+| [Crying in the Night](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 | 2025-07-25 |  |
 | [Crying In The Shower](https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Crying In The Shower](https://open.spotify.com/album/2gQEgoc2pUE6UwsUmWvQUk) | 3:04 | 2023-02-24 | 2023-03-04 |
 | [Crying While You're Dancing](https://open.spotify.com/track/4OpVhwjX7ZjexVUoqDvDEW) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Crying While You're Dancing](https://open.spotify.com/album/4cKMPoCEXOA8FeMVEMlIK0) | 3:35 | 2022-10-28 | 2022-11-05 |
 | [Crypto](https://open.spotify.com/track/14QfDfgWFrPZHO1XPY10Vu) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 5:03 | 2025-03-07 | 2025-03-15 |
@@ -3296,7 +3296,7 @@
 | [Hardcore Romance](https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hardcore Romance](https://open.spotify.com/album/6WAU1dlxzNP5jksM5qr3I3) | 3:19 | 2024-08-23 | 2024-08-31 |
 | [Harder Than It Should Be](https://open.spotify.com/track/6dKSQolCm4I8eXKBEXkE2r) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Harder Than It Should Be](https://open.spotify.com/album/3UUNGiTsE4YdZY1ey8Bhz4) | 2:57 | 2024-05-17 | 2024-05-25 |
 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 | 2025-07-18 |  |
-| [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:30 | 2025-08-01 |  |
+| [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:31 | 2025-08-01 |  |
 | [Hatchet](https://open.spotify.com/track/5giQHyWEKuZa19kxW3AqTb) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Hatchet](https://open.spotify.com/album/3xvqkNzjRAh1O50FjapuJh) | 2:19 | 2024-04-26 | 2024-05-04 |
 | [HATE 2 LUV U](https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [HATE 2 LUV U](https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj) | 2:57 | 2023-11-24 | 2023-12-02 |
 | [Hate It](https://open.spotify.com/track/5tAzLFIAi8TV3CvAlwMWIi) | [Dead American](https://open.spotify.com/artist/1R8DumD0kQT33574pALPkH) | [Hate It](https://open.spotify.com/album/4tu0Hb3DULJUqxOll5MrcU) | 3:11 | 2024-12-06 | 2024-12-14 |

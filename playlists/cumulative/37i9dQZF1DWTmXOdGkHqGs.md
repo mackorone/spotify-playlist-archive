@@ -4,7 +4,7 @@
 
 > Pinches cumbiones bien locos para bailar.
 
-161 songs - 9 hr 59 min
+162 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 | 2023-01-17 |  |
 | [CUMBIA 85](https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X) | [Yahir Saldivar](https://open.spotify.com/artist/3Q9o67LGB9NA9MyHC4SewA) | [CUMBIA 85](https://open.spotify.com/album/4rJM6uJGJaY1RAoR6ppo2D) | 3:41 | 2024-03-26 | 2024-08-20 |
 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2023-01-17 | 2024-04-19 |
-| [Cumbia Chida](https://open.spotify.com/track/3PojshECzfytWsn6JezkN6) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Cumbia Chida](https://open.spotify.com/album/3UvKajTKTMv1wRpIEC6p1Y) | 2:42 | 2025-06-13 |  |
+| [Cumbia Chida](https://open.spotify.com/track/3PojshECzfytWsn6JezkN6) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Cumbia Chida](https://open.spotify.com/album/3UvKajTKTMv1wRpIEC6p1Y) | 2:42 | 2025-06-13 | 2025-08-09 |
 | [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 | 2023-01-17 |  |
 | [Cumbia De Los Monjes](https://open.spotify.com/track/1fNN9x0yE5x2CBdt2DZj8q) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:15 | 2024-03-26 |  |
 | [Cumbia del Recuerdo](https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Cumbia del Recuerdo](https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA) | 2:57 | 2023-01-17 |  |
@@ -141,6 +141,7 @@
 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 | 2023-01-17 |  |
 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 | 2023-01-17 | 2024-04-19 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/4HeQYAeIq5lyHcR5JIh6I7) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Huguito Flores: Sin Miedo Session \#31](https://open.spotify.com/album/6EE5LTAYDLHsG40zEGyDNz) | 2:04 | 2023-01-17 | 2024-04-19 |
+| [Te sigo amando](https://open.spotify.com/track/6HkNsuQygqug6v3WpoWd9R) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Te sigo amando](https://open.spotify.com/album/41ZuRJWoC3cNVkwEcrF1Ht) | 3:27 | 2025-08-08 |  |
 | [Te Tengo Que Olvidar](https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Rompiendo las Reglas de la Cumbia](https://open.spotify.com/album/57D5brwOIybIORt38FflIh) | 4:26 | 2023-01-17 | 2025-04-07 |
 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 | 2023-01-17 | 2024-04-12 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 | 2023-01-17 | 2024-04-19 |

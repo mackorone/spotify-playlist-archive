@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 36061,
+  "num_followers": 36103,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAADUWWI+qho/F9hd3g1rIKrO",
+  "snapshot_id": "aJPsgAAAAABSSymztTPVLxPkYSP8e5cX",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timileyin 2.0",
-        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
       },
       "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 159346,
-      "name": "Where I\u2019m from",
-      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
+      "duration_ms": 154909,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh"
     },
     {
       "added_at": null,
@@ -243,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+        "name": "Timileyin 2.0",
+        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
       },
       "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 154909,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4kdLYxqvPduwC5oAdXhMLh"
+      "duration_ms": 159346,
+      "name": "Where I\u2019m from",
+      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Man of The Year",
+      "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 132480,
       "name": "Gang",
       "url": "https://open.spotify.com/track/0SmcKaXjPCCK7nq0coN6B2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Man of The Year",
-      "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Hushpuppi",
-      "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NSNV",
         "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 106971,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Hushpuppi",
+      "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Flakky",
-      "url": "https://open.spotify.com/track/6SHKNvlSpKXQOwEse9OT6I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 156134,
       "name": "Emo (Remix)",
       "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Flakky",
+      "url": "https://open.spotify.com/track/6SHKNvlSpKXQOwEse9OT6I"
     },
     {
       "added_at": null,

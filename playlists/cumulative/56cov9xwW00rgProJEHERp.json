@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 247000,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2"
@@ -1949,7 +1949,7 @@
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210000,
+      "duration_ms": 211257,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L"
     },
@@ -4175,6 +4175,24 @@
     },
     {
       "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"
+    },
+    {
+      "album": {
         "name": "So Many Ways To Say I Love You",
         "url": "https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr"
       },
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 166652,
       "name": "So Many Ways To Say I Love You",
       "url": "https://open.spotify.com/track/5KJKKDAtaZdH962ET3HPEu"
@@ -5558,6 +5576,24 @@
       "duration_ms": 212000,
       "name": "You and What You Do",
       "url": "https://open.spotify.com/track/0VdhXIvSTN4C4aP1h8T5VR"
+    },
+    {
+      "album": {
+        "name": "When a Thought Grows Wings (Reimagined)",
+        "url": "https://open.spotify.com/album/2gaBIJSr3NWFe6gwqrx3qg"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198810,
+      "name": "You Didn't Have To Go",
+      "url": "https://open.spotify.com/track/4QL2cjZJkfbc1a0FOCCNOr"
     },
     {
       "album": {

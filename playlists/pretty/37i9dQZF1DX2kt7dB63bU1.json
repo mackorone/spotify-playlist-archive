@@ -1,13 +1,49 @@
 {
   "description": "Jazz voices of today. Cover: Rachael & Vilray",
-  "num_followers": 159348,
+  "num_followers": 159382,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVmmFX6yAp5ZcUv9SjonuB4xJoi",
+  "snapshot_id": "AAAAAP9vuEjnE73TH63N00UU7/tRiahv",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:32",
+      "album": {
+        "name": "The Glow Worm",
+        "url": "https://open.spotify.com/album/3LpGbBJIpQ8f7FxZo3K09v"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Christian Sands",
+          "url": "https://open.spotify.com/artist/1OVmnAhTevnwsr902sVIjU"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "The Glow Worm",
+      "url": "https://open.spotify.com/track/3FPKj2xihZlzsa8tWQU3i6"
+    },
+    {
+      "added_at": "2025-08-08 04:00:32",
+      "album": {
+        "name": "What does blue mean to you?",
+        "url": "https://open.spotify.com/album/2MN4gtPpdVgffkVuiPS7Wf"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 279596,
+      "name": "What does blue mean to you?",
+      "url": "https://open.spotify.com/track/0LACLZOv7ZALxvWsfIX0Pr"
+    },
     {
       "added_at": "2025-08-01 04:13:00",
       "album": {
@@ -911,26 +947,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Stars (Endless Stars)",
-        "url": "https://open.spotify.com/album/4wnntLk0X1xA6jKsclQsfk"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Joey Calderazzo",
-          "url": "https://open.spotify.com/artist/7wu4u8r54ZgGyY9FOZtDq4"
-        }
-      ],
-      "duration_ms": 361640,
-      "name": "Stars (Endless Stars)",
-      "url": "https://open.spotify.com/track/2MMhv3V5bTrhvN2S7qoEkg"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Jane Monheit",
         "url": "https://open.spotify.com/album/4EDzxNlpd2K2lbfdGW1rSU"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 267087,
       "name": "Good Nothin",
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Dream Life",
-        "url": "https://open.spotify.com/album/1sqJUG8S7F9cmEe7mxyNVZ"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 177151,
-      "name": "Dream Life",
-      "url": "https://open.spotify.com/track/2dSXV3BOMaw9aB8SrRmOiH"
     },
     {
       "added_at": "2023-12-08 05:01:00",

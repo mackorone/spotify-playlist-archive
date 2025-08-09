@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Lomiiel
 
-387 songs - 18 hr 41 min
+388 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Piropi](https://open.spotify.com/track/4l0fkozUiEQV7IX28CHEtu) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Piropi](https://open.spotify.com/album/5eWUYj0NneZYDw0VOO5Gcc) | 3:10 | 2023-02-09 | 2023-08-04 |
 | [Pitoleo](https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi) | [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Pitoleo](https://open.spotify.com/album/1Rcui07oTG9hhKgmJN5vQu) | 1:48 | 2024-02-23 | 2024-05-24 |
 | [Pitone](https://open.spotify.com/track/1ao3LOVRfwArGbtSo76W2W) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/0NoOtIDqn1o4RoRK3xQINS) | 2:04 | 2024-01-18 | 2024-04-19 |
-| [Pitone](https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3) | 2:04 | 2024-01-18 |  |
+| [Pitone](https://open.spotify.com/track/6K6HOQYDOiUAQx78neH6UW) | [Jhayseven](https://open.spotify.com/artist/2G3bLEKN244jKnfbVUTzdd) | [Pitone](https://open.spotify.com/album/2QVsssMW96I1mLQKMUfQq3) | 2:04 | 2024-01-18 | 2025-08-09 |
 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 | 2023-06-12 | 2024-10-18 |
 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 | 2023-02-09 | 2024-01-18 |
 | [Po Po Po Pon](https://open.spotify.com/track/3bg2rT9IYLIWtecPADugBJ) | [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI), [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [Alam W](https://open.spotify.com/artist/2nE1YychOhzciV00BxGIl4), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Brazil21](https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm) | [Po Po Po Pon](https://open.spotify.com/album/2UdKzx5V4UK00kaJoUQHCI) | 2:51 | 2023-02-09 | 2023-03-11 |
@@ -384,6 +384,7 @@
 | [Vivela](https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Vivela](https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK) | 2:11 | 2024-08-08 |  |
 | [VIVELA](https://open.spotify.com/track/04L7uMLzJuEJx2ETNmwAm2) | [DONATY](https://open.spotify.com/artist/1xSh8lPUkPfFypPQ5iRDHb) | [VIVELA](https://open.spotify.com/album/3CXYQFagZLJ5WFoMjBVi3n) | 2:17 | 2024-07-25 | 2024-08-09 |
 | [Vivo Por Palomo](https://open.spotify.com/track/74trikNmBL8OMjgBZwlJw9) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Vivo Por Palomo](https://open.spotify.com/album/5G8vSgM0oZM6HIIiDQcf3f) | 3:26 | 2023-05-26 |  |
+| [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 1:54 | 2025-08-08 |  |
 | [Voy Pa la Calle](https://open.spotify.com/track/0UoZ9LFPAFwnqGpO0nKSkX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Voy Pa la Calle](https://open.spotify.com/album/2P7G5Z6VhoEkvq5ukhjDHr) | 2:15 | 2021-11-19 | 2022-07-16 |
 | [VUELATE](https://open.spotify.com/track/1gMc5OzfVsmG0WUDlMQtp5) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [VUELATE](https://open.spotify.com/album/7KTXi2pGfttCH05uuS2OPq) | 1:35 | 2024-03-14 | 2024-05-24 |
 | [Wao Nena](https://open.spotify.com/track/4I1ZF4yRphYWDH9qk2luJX) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Wao Nena](https://open.spotify.com/album/78pJNm5qqr4TBEpL2LWRwf) | 2:03 | 2024-02-01 | 2024-06-21 |

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Ed Sheeran
 
-3,137 songs - 7 day 1 hr 40 min
+3,138 songs - 7 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1003,6 +1003,7 @@
 | [Forever](https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RobbieG](https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda) | [Forever](https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb) | 3:01 | 2023-12-22 | 2024-02-02 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-02-09 | 2024-03-01 |
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-05 | 2024-09-20 |
+| [forever be mine \(feat\. Wizkid\)](https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:53 | 2025-08-07 |  |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-11 | 2024-05-17 |
 | [Forget About Your Ex](https://open.spotify.com/track/4jGTVQukYNwAR1PiiEyFxH) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Forget About Your Ex](https://open.spotify.com/album/1fcNVmoVeZmOnXBSiU4NU5) | 2:27 | 2023-08-10 | 2023-09-02 |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-08 | 2022-11-05 |
@@ -1276,7 +1277,7 @@
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-18 | 2024-09-13 |
 | [Holy Love](https://open.spotify.com/track/0f4px6Ke8B28tqXoc9QZSP) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Holy Love](https://open.spotify.com/album/72hLhU3ag5VdY6kbpnXvFM) | 2:58 | 2022-05-26 | 2022-06-03 |
 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-30 | 2025-06-27 |
-| [Holy Water \(feat\. Jelly Roll\)](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-07 |  |
+| [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-07 |  |
 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 | 2024-08-22 | 2024-08-30 |
 | [Home](https://open.spotify.com/track/7pqVlBqqjyXGTK2xmdbjsj) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Home](https://open.spotify.com/album/2Ol1BUBqVyX0e20HgocWp8) | 3:22 | 2025-02-14 | 2025-03-07 |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-27 | 2025-07-15 |

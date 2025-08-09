@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "First Poem",
+        "url": "https://open.spotify.com/album/2OTDaXFAUjs5KUkGW6Ips5"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168874,
+      "name": "First Poem",
+      "url": "https://open.spotify.com/track/5cLzepzVuqSc05hIZqjVGU"
+    },
+    {
+      "album": {
         "name": "Friedman: Piano Transcriptions",
         "url": "https://open.spotify.com/album/4L8tF28TUH4Ude4IEhMH1b"
       },
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 83011,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/3ZWAtpmC9UdjIZtiZ2dwp0"

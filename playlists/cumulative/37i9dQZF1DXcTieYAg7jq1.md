@@ -2,9 +2,9 @@
 
 ### [Retro Pop](https://open.spotify.com/playlist/37i9dQZF1DXcTieYAg7jq1)
 
-> Featuring that new vintage\. Cover: grentperez
+> Featuring that new vintage\. Cover: Lusaint
 
-441 songs - 1 day 1 hr 12 min
+443 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2023-04-01 |
 | [Falling for You](https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Falling for You](https://open.spotify.com/album/2kTz24IgJaveP4je8XjYv7) | 3:08 | 2024-03-08 |  |
 | [Family Business](https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io) | 3:18 | 2024-06-03 |  |
+| [Feels Like Falling in Love](https://open.spotify.com/track/7JGwXMq2zFPEN353QzosNW) | [Sean Bertram](https://open.spotify.com/artist/6l8QxpDCZkxVOUsrASqEWM), [Emily\-Rose](https://open.spotify.com/artist/6zgjccgCNE2isRU4E82joU) | [Feels Like Falling in Love \(Feat\. Emily\-Rose\)](https://open.spotify.com/album/2xMhDTyFTarz4yDuQPBRdT) | 3:31 | 2025-08-08 |  |
 | [Feels So Good](https://open.spotify.com/track/3fwIiZvKoNG9q4KcNv9XQK) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Feels So Good](https://open.spotify.com/album/5aOPGphgzI9EocL6qcBNkB) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Final Days](https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:10 | 2021-12-03 | 2023-01-28 |
 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 | 2021-12-03 | 2023-01-28 |
@@ -250,7 +251,7 @@
 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 | 2024-02-16 |  |
 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 | 2024-05-10 |  |
 | [Love You Better](https://open.spotify.com/track/0WSmvwsulStgy0hKJetRi4) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Love You Better](https://open.spotify.com/album/4gLEInK7qVTUEa4yj2Jou8) | 4:00 | 2023-03-31 |  |
-| [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-07-18 |  |
+| [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-07-18 | 2025-08-09 |
 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 | 2022-09-02 | 2023-07-19 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-21 | 2023-04-29 |
 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 | 2021-12-03 | 2023-01-20 |
@@ -357,8 +358,9 @@
 | [Smile](https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Smile](https://open.spotify.com/album/5yQX2nTKX3Fkk4M1N9YJbu) | 2:50 | 2022-02-04 | 2024-01-20 |
 | [Smooth Sailin'](https://open.spotify.com/track/3JbqwFY5q0ORO3siv5zL3A) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:03 | 2021-12-03 | 2022-05-08 |
 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 | 2021-12-03 | 2023-01-28 |
+| [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-08 |  |
 | [so easy](https://open.spotify.com/track/2e2AzG48LNWPgLi2G5k63X) | [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X), [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [so easy](https://open.spotify.com/album/3HiTBZ5YJbmGRhoEv2wpDf) | 2:58 | 2024-03-01 | 2024-04-19 |
-| [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-03 |  |
+| [Sober](https://open.spotify.com/track/0MaRZUe5QjY56E1pfY3hFY) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sober](https://open.spotify.com/album/7JKGPSP7UIjxPWWo9KuqMK) | 2:42 | 2024-05-03 | 2025-08-09 |
 | [Somebody](https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Somebody](https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8) | 3:19 | 2022-08-19 | 2025-03-22 |
 | [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 | 2022-10-31 |
 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 | 2022-08-26 | 2023-02-16 |

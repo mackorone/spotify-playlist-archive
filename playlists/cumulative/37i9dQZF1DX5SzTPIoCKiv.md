@@ -2,7 +2,7 @@
 
 ### [Christian Hits](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
-> Recent hits from your favorite Christian Contemporary artists\.  Cover: Chris Tomlin
+> Recent hits from your favorite Christian Contemporary artists\.  Cover: Forrest Frank
 
 285 songs - 18 hr 38 min
 

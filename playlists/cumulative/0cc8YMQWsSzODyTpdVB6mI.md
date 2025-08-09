@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0cc8YMQWsSzODyTpdVB6mI.md) - cumulative - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Kitsuné Musique Essential](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Kitsuné Musique Essentials For Summer](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
+> Dive into Kitsuné’s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.☀️🎶
 
 150 songs - 8 hr 37 min
 
@@ -33,7 +33,7 @@
 | [Don't Let Me Down](https://open.spotify.com/track/6eowOvcJ7v9OAMzzt9HhPG) | [Mateyo](https://open.spotify.com/artist/0B0O3zN1qA3VmxGoF7sHiE), [Rashaad Dailey](https://open.spotify.com/artist/44jle8k8LxfWM00MnfUbQA) | [Don't Let Me Down](https://open.spotify.com/album/2p3hX6CPLy6Sbk7SExyrq4) | 2:51 | 2022-10-21 | 2023-05-31 |
 | [Drugs in My Body](https://open.spotify.com/track/2OzxUMVcb8RakhwGRJwZGK) | [Thieves Like Us](https://open.spotify.com/artist/5miWG3FgilzOG7dy3aowZc) | [Kitsuné: Drugs in My Body](https://open.spotify.com/album/7KRC3eWmoCTMP2t7c8o7ZH) | 3:36 | 2021-11-05 | 2023-05-31 |
 | [Easy Raider \- Mixed](https://open.spotify.com/track/61GVH7EW9eC1i53ChBV7ef) | [Pomona Dream](https://open.spotify.com/artist/42jZtMPYHncDY3y4lYYpDv) | [Café Kitsuné Mixed by Pat Lok](https://open.spotify.com/album/5aKEKt5XmLjAYfpjlx9AzH) | 2:06 | 2023-05-30 |  |
-| [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 | 2021-11-05 |  |
+| [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 | 2021-11-05 | 2025-08-09 |
 | [elevate in the village](https://open.spotify.com/track/0ZRKOmFI20AOF2XNKyL4kZ) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [elevate in the village](https://open.spotify.com/album/1hAzBTggPEPrDDVAq1Hktz) | 3:17 | 2021-11-05 | 2023-05-31 |
 | [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 | 2022-07-12 |
 | [Everything Is Changing \- Radio Edit](https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Everything Is Changing](https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt) | 3:11 | 2022-10-03 | 2023-02-02 |

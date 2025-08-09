@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: Mariah The Scientist
+> Where R&B lives\. Cover: Sasha Keable
 
 679 songs - 1 day 13 hr 50 min
 

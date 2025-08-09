@@ -8137,6 +8137,28 @@
     },
     {
       "album": {
+        "name": "My Huis",
+        "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
+      },
+      "artists": [
+        {
+          "name": "Van Der Aven",
+          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210092,
+      "name": "My Huis",
+      "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
+    },
+    {
+      "album": {
         "name": "My Liefde Is 'n Strandhuis",
         "url": "https://open.spotify.com/album/6DAdarfiu7qkKYobs8Fn4D"
       },
@@ -13014,7 +13036,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 189895,
       "name": "Victor Ludorum",
       "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"

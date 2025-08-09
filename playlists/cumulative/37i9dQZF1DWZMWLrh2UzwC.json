@@ -28439,6 +28439,24 @@
     },
     {
       "album": {
+        "name": "BET",
+        "url": "https://open.spotify.com/album/0SRIuTscfwoD3PiAsVifAv"
+      },
+      "artists": [
+        {
+          "name": "Labit",
+          "url": "https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/5A9oXN9DCcST7OXE2YSdLK"
+    },
+    {
+      "album": {
         "name": "Bets On Us",
         "url": "https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5"
       },
@@ -62400,6 +62418,32 @@
       "duration_ms": 151893,
       "name": "Days",
       "url": "https://open.spotify.com/track/7m6R7OoN4JPCZQlOoyFUpP"
+    },
+    {
+      "album": {
+        "name": "Life Is Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216386,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
     },
     {
       "album": {
@@ -118308,7 +118352,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 149669,
-      "name": "Holy Water (feat. Jelly Roll)",
+      "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
@@ -202259,7 +202303,7 @@
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 302906,
+      "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
     },

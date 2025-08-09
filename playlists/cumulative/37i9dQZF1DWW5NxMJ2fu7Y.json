@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Bjouj",
+        "url": "https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT"
+      },
+      "artists": [
+        {
+          "name": "777YM",
+          "url": "https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Bjouj",
+      "url": "https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg"
+    },
+    {
+      "album": {
         "name": "BREDA",
         "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
       },
@@ -2578,7 +2596,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 132000,
       "name": "STONE TABLE",
       "url": "https://open.spotify.com/track/25ZLGLVcx1AewxWiysdSa6"

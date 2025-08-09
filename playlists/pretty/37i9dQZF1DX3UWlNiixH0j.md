@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Daichi Yamamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,182 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,208 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 65 | [Let it Out](https://open.spotify.com/track/0Hq4ipiDzacP4oDNS7sHae) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [凌元耕](https://open.spotify.com/artist/4T9yqxoC8xxX8Qt1EWT7aj) | [Let it Out](https://open.spotify.com/album/6EhX0X2emIWJMXJK21hHqC) | 3:27 |
 | 66 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
 | 67 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
-| 68 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
-| 69 | [Supernice \- feat\. トリプルファイヤー吉田](https://open.spotify.com/track/0OA3ffeRroSiyZKWFc91TH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX) | [Supernice \(feat\. トリプルファイヤー吉田\)](https://open.spotify.com/album/5cKmc7jOSE0DwoPDiwggm4) | 3:49 |
-| 70 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
-| 71 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
-| 72 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
-| 73 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
-| 74 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
+| 68 | [Supernice \- feat\. トリプルファイヤー吉田](https://open.spotify.com/track/0OA3ffeRroSiyZKWFc91TH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX) | [Supernice \(feat\. トリプルファイヤー吉田\)](https://open.spotify.com/album/5cKmc7jOSE0DwoPDiwggm4) | 3:49 |
+| 69 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
+| 70 | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/track/0x0hFrFDgg6PwSwkjMPjQn) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [真行寺貴秋](https://open.spotify.com/artist/2B5eU0ZSLAUqP3QY1Qc5PB) | [Soulive feat\. 真行寺貴秋](https://open.spotify.com/album/4OkBPXViP1vBzOVNpdvb7a) | 3:49 |
+| 71 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
+| 72 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
+| 73 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
+| 74 | [YOU](https://open.spotify.com/track/14SqqKBjTXkF7Z8pkwYGGw) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [YOU](https://open.spotify.com/album/0dvWzXRKOKHHb0ODMg92x6) | 4:43 |
 | 75 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
 
 Snapshot ID: `AAAAAHBxTfSigv3prtXuY4zn+b3qRyaE`

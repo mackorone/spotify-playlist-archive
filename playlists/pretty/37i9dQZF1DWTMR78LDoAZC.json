@@ -1,6 +1,6 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Perfume Genius",
-  "num_followers": 184507,
+  "num_followers": 184528,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
-    },
-    {
-      "added_at": "2025-05-30 04:00:14",
-      "album": {
         "name": "Maggot",
         "url": "https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 269328,
       "name": "Sweet Cis Teen",
       "url": "https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc"
+    },
+    {
+      "added_at": "2025-05-30 04:00:14",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-05-30 04:00:14",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
-        "name": "To Be Yours",
-        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 211782,
-      "name": "To Be Yours",
-      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2025-05-30 04:00:14",
-      "album": {
         "name": "THE BLOB",
         "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 142467,
       "name": "THE BLOB",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
+    },
+    {
+      "added_at": "2025-05-30 04:00:14",
+      "album": {
+        "name": "To Be Yours",
+        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 211782,
+      "name": "To Be Yours",
+      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "added_at": "2025-05-30 04:00:14",

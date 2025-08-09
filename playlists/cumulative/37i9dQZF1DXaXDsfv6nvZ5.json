@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Tone Stith",
+  "description": "The soulful tunes to ease you into your day. Cover: Venna",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -10391,6 +10391,24 @@
     },
     {
       "album": {
+        "name": "Out My Body",
+        "url": "https://open.spotify.com/album/3yrIfriKbWMCKU0F2czQn7"
+      },
+      "artists": [
+        {
+          "name": "Kameron Corvet",
+          "url": "https://open.spotify.com/artist/79RYjUmBXcD8b0ElqCo2rI"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216287,
+      "name": "Out My Body",
+      "url": "https://open.spotify.com/track/6V45ZK1ld3TwuzfwO8NGbL"
+    },
+    {
+      "album": {
         "name": "Heal U / Out My Hair",
         "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
       },
@@ -14253,6 +14271,24 @@
     },
     {
       "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124407,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y"
+    },
+    {
+      "album": {
         "name": "Nina",
         "url": "https://open.spotify.com/album/2juR45dpHx8G0zs17a4SLn"
       },
@@ -15292,7 +15328,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 267080,
       "name": "Who Are You to Me",
       "url": "https://open.spotify.com/track/0vDqpm5eOCsq0w3SpigtnR"
@@ -15604,7 +15640,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 277737,
       "name": "You",
       "url": "https://open.spotify.com/track/32igfdLr4tBqGH2EYAWbUb"

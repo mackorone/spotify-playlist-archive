@@ -2,7 +2,7 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance & electronic hits\. Cover: Sofia Kourtesis
+> The world's biggest dance & electronic hits\. Cover: Mau P
 
 1,300 songs - 2 day 23 hr 53 min
 

@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: VOOID
 
-2,772 songs - 6 day 17 hr 39 min
+2,773 songs - 6 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [how?](https://open.spotify.com/track/3WqyTyCyxnCV4sVtUmhi46) | [chillaxe](https://open.spotify.com/artist/09k70ynVzZKIfKODlnM37U), [Lena\-J](https://open.spotify.com/artist/5ORM7O0WPOpCDCA1gMVrRl) | [how?](https://open.spotify.com/album/5G1Z5B1VeX6QgtNJxg8AQD) | 3:24 | 2025-04-03 | 2025-04-11 |
 | [Hug Me](https://open.spotify.com/track/6vYSKq5nDJqI1PUnHojiE7) | [粗大Band](https://open.spotify.com/artist/3Y5AMY2fQMtIcI0oquKJWi) | [Hug Me](https://open.spotify.com/album/360xY0pYjNQg7YomLT8Om0) | 3:09 | 2024-11-28 | 2024-12-20 |
 | [Huiling](https://open.spotify.com/track/1eSwpc5tDSAxx6W7djRgNH) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [Huiling](https://open.spotify.com/album/4dNhr3m2vG2GLQQ4aFKLi6) | 1:58 | 2025-07-17 | 2025-08-08 |
+| [Hush Between Waves](https://open.spotify.com/track/3IveU4KSU8kI2IwaiEg3He) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [Hush Between Waves](https://open.spotify.com/album/30LLAEtyM3j0Co56jyGCyC) | 3:56 | 2025-08-07 |  |
 | [Hypothesis](https://open.spotify.com/track/6GyaivBblCyb5Pzk5TjLtW) | [Wring Out Laura](https://open.spotify.com/artist/18vTML8rDnFF1JODSnWbKR), [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd) | [Elixir](https://open.spotify.com/album/2BNrgIFoRkalGQT8DqtSYy) | 3:19 | 2025-06-12 | 2025-07-04 |
 | [I AM THE PROBLEM](https://open.spotify.com/track/22RZhlgzKakZZJTObhCXuJ) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [I AM THE PROBLEM](https://open.spotify.com/album/2PmO7yIMkOL9Drf81KsV6E) | 3:22 | 2025-03-06 | 2025-04-11 |
 | [I Can't but I Want](https://open.spotify.com/track/47cmTItghyktS1nytwx2rI) | [蕨鳴子](https://open.spotify.com/artist/5Q3prVdBHmaOPiAT2xAUyL) | [I Can't but I Want](https://open.spotify.com/album/27L9WLATr7nmqOEhrKV7dI) | 5:08 | 2024-06-27 | 2024-07-05 |

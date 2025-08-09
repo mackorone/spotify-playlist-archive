@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,174 likes - 136 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,226 likes - 136 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 11 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 |
 | 12 | [Like Stars In The Sky \- Sleep Rework](https://open.spotify.com/track/7HUCEBu3fo5F9v8oYaJyl4) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Like The Stars In The Sky \(Sleep Rework\)](https://open.spotify.com/album/00yIp3AqgVa9eDMtXijQog) | 3:01 |
 | 13 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 |
-| 14 | [The Arts and the Hours](https://open.spotify.com/track/1G3QPQkoXvpChjNUhd6Tfs) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Rameau, Ólafsson: The Arts and the Hours](https://open.spotify.com/album/4omnRCjOvnHa3ETQlqZpd1) | 4:45 |
-| 15 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 |
-| 16 | [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 |
-| 17 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 |
-| 18 | [Looking inward](https://open.spotify.com/track/3GQefSRiUJlIKt1Hyp74jU) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Looking inward](https://open.spotify.com/album/26l3xOifBI6BexuP3boM47) | 3:21 |
-| 19 | [Insight LII](https://open.spotify.com/track/6YrKYzdU55RDAbTVUWXlVN) | [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [INSIGHT V](https://open.spotify.com/album/43GybSeMG6Na9A6ih4p0In) | 2:39 |
-| 20 | [And I Alone](https://open.spotify.com/track/3cISlJElRfvRzINv5DOcVC) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [And I Alone](https://open.spotify.com/album/2Eyga05AJcKX51SOjUCUfV) | 2:55 |
-| 21 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
-| 22 | [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 |
+| 14 | [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 |
+| 15 | [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 |
+| 16 | [Punta Bianca \- Reworked by Leo Einaudi](https://open.spotify.com/track/6WxL6TKsRUmuTiJWQcRyYA) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Punta Bianca \(Reworked by Leo Einaudi\)](https://open.spotify.com/album/4Xltwrc3xcgZDy9v4SrEEk) | 3:37 |
+| 17 | [Spring \- Ambient Mix](https://open.spotify.com/track/0dH7jBey84D2tcTtPfSq2b) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Spring \(Ambient Mix\)](https://open.spotify.com/album/4gkjKuW0ijEkJZhokQCTJs) | 2:43 |
+| 18 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 |
+| 19 | [Looking inward](https://open.spotify.com/track/3GQefSRiUJlIKt1Hyp74jU) | [Skye High](https://open.spotify.com/artist/3DGbJwTEqE5CuLnxk0KI5l) | [Looking inward](https://open.spotify.com/album/26l3xOifBI6BexuP3boM47) | 3:21 |
+| 20 | [Insight LII](https://open.spotify.com/track/6YrKYzdU55RDAbTVUWXlVN) | [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [INSIGHT V](https://open.spotify.com/album/43GybSeMG6Na9A6ih4p0In) | 2:39 |
+| 21 | [And I Alone](https://open.spotify.com/track/3cISlJElRfvRzINv5DOcVC) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [And I Alone](https://open.spotify.com/album/2Eyga05AJcKX51SOjUCUfV) | 2:55 |
+| 22 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
 | 23 | [Wishing Well](https://open.spotify.com/track/68kVMnj8sB7uOCMSmrZwNV) | [Aldwin](https://open.spotify.com/artist/6ZKNv9k2wPxH5xylaXqg4q) | [Wishing Well](https://open.spotify.com/album/6OrKltACD4rpt45R6KwFGi) | 2:07 |
 | 24 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
-| 25 | [Spring \- Ambient Mix](https://open.spotify.com/track/0dH7jBey84D2tcTtPfSq2b) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Spring \(Ambient Mix\)](https://open.spotify.com/album/4gkjKuW0ijEkJZhokQCTJs) | 2:43 |
+| 25 | [Dragon](https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Dragon](https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke) | 1:57 |
 | 26 | [loving softly \- Andante Piano Sessions](https://open.spotify.com/track/5XT2JGBSkBmWYP2wnRhiKd) | [Emma Jackson](https://open.spotify.com/artist/2c8d4XeZ3rL9RTtzd6VXpW) | [loving softly \(Andante Piano Sessions\)](https://open.spotify.com/album/09HCxm0ekxHb1Xk5HIjfsQ) | 2:16 |
 | 27 | [Madeleine](https://open.spotify.com/track/4nU39sK6ROGe5RtAHo4CAr) | [Nora](https://open.spotify.com/artist/6ynrf4I6YaSySGVy4xv6rw) | [Measure for Measure](https://open.spotify.com/album/0p2Z6cBSudTVozQDSx8lNq) | 2:07 |
 | 28 | [The Quiet Life](https://open.spotify.com/track/1lSligyyKpoV9zhmxXl2Pg) | [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [The Quiet Life](https://open.spotify.com/album/4kd1SHiAi8DQZU6hDh878J) | 2:17 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 135 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 |
 | 136 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 |
 
-Snapshot ID: `AAAAABTYmuKPNvnPNoVCtDWxBdARNeVl`
+Snapshot ID: `AAAAAMc13hzCJcWI9yOeCugvSJqUo32B`

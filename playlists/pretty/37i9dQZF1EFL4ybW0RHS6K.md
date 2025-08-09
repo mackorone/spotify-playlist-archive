@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66 likes - 89 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 89 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFL4ybW0RHS6K.md) - [plain]
 | 88 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 |
 | 89 | [Rudebwoy \(feat\. Kempi & Caza\) \- Instrumental](https://open.spotify.com/track/7gfwWdXbcjAfsOjqFhpHDG) | [Jiri11](https://open.spotify.com/artist/6RxMqY900Xpza3Kh9j86Mn), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TRIFECTA Type Beat Volume 4](https://open.spotify.com/album/0N0MHtP27q7nwH0PVrqByX) | 3:09 |
 
-Snapshot ID: `Ab45XAAAAAABRxRv3HY2/c7RtY26arY5`
+Snapshot ID: `Ab4+/AAAAAD4zgF1w1H+PDNzymy3ZWF2`

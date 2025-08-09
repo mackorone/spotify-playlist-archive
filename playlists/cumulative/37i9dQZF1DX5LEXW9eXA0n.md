@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 이창섭\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,527 songs - 4 day 3 hr 2 min
+1,528 songs - 4 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,6 +839,7 @@
 | [Missing You](https://open.spotify.com/track/0R9NMsHkddNlBsiPRCu5IZ) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Missing You](https://open.spotify.com/album/46eV6A0YGpX6QCI4ncKTG8) | 3:57 | 2023-03-27 | 2023-07-18 |
 | [MISSING YOU](https://open.spotify.com/track/5d0ypa7yumwBTJDz57moHy) | [ko kyung pyo](https://open.spotify.com/artist/3gv00oCmmZNyBtagPXUvch) | [UP SIDE DOWN](https://open.spotify.com/album/4JvsPWUWXDJDAgmwpW8IpB) | 4:03 | 2024-11-29 | 2025-05-19 |
 | [Missing You](https://open.spotify.com/track/0nrajlDiEVcM02yBE1QfPp) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Missing You](https://open.spotify.com/album/1wr58bJGrqTDI8iQTqHXaE) | 4:17 | 2023-11-02 | 2024-02-02 |
+| [Missing You](https://open.spotify.com/track/0A2ACmUVc888pTMWoEuudH) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Missing You](https://open.spotify.com/album/0lWZLCo1EjB8gTL3KHAwun) | 4:11 | 2025-08-08 |  |
 | [Mom](https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Mom](https://open.spotify.com/album/4TNELYnbl0wPEg81pTQimm) | 5:40 | 2022-07-26 | 2022-10-27 |
 | [Moment](https://open.spotify.com/track/1c457YjuGKkjZluzd6zLuf) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Moment](https://open.spotify.com/album/2q3PlEyPPjONpuZPh83XWz) | 4:03 | 2025-03-31 |  |
 | [Moments of Our Love](https://open.spotify.com/track/4QZwV8ynbo8u2HVGLWR8fU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day](https://open.spotify.com/album/6LJAXPvSt6UYHogAWJPCMr) | 4:13 | 2024-04-15 | 2024-08-11 |
@@ -929,7 +930,7 @@
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-07 | 2022-09-30 |
 | [On A Starry Night](https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [On A Starry Night \(REVIBE Vol.3\)](https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC) | 4:32 | 2022-01-03 | 2022-04-30 |
 | [On My Way](https://open.spotify.com/track/5Q9aFVpPOYbN5EavyKr3yh) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [On My Way](https://open.spotify.com/album/26POvIjMcsJWQrtOt8ia18) | 3:54 | 2023-02-28 | 2023-07-08 |
-| [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 | 2025-04-22 |  |
+| [On Such a Day](https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Resident Playbook, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6) | 3:39 | 2025-04-22 | 2025-08-09 |
 | [On such a wonderful night](https://open.spotify.com/track/3Ueh9WSlKB9pKgNhsmMcRM) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [On such a wonderful night](https://open.spotify.com/album/5HpaXffkKOfi78iGPG656S) | 3:16 | 2023-01-10 | 2023-02-25 |
 | [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-06-13 | 2022-08-13 |
 | [Once, More Than Anyone](https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L) | [Baek Yeseul](https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.23](https://open.spotify.com/album/2x3aDNlIC5WjRkWaN5KNEm) | 3:26 | 2022-12-16 | 2023-02-09 |

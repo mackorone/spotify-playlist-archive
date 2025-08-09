@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 ### [Alternatywna Polska](https://open.spotify.com/playlist/37i9dQZF1DWXz9uZQKizRS)
 
-> Najlepsza świeża polska alternatywa\. Cover: Zuta
+> Najlepsza świeża polska alternatywa\. Cover: Kasia Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,570 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,618 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

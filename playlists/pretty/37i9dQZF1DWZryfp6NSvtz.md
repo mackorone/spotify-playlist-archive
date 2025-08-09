@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 ### [All New Rock](https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz)
 
-> The best new rock & alternative tracks every week\. Cover: Wisp
+> The best new rock & alternative tracks every week\. Cover: The Black Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,318 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,516 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 38 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 |
 | 39 | [Star Child](https://open.spotify.com/track/1WxWi7a1JfrLnJPxhYHgbp) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [Star Child](https://open.spotify.com/album/2FHZFt9MXy4rtuBbmiwotd) | 3:06 |
 | 40 | [Millionaires](https://open.spotify.com/track/42vQlLKmKNEBi1FQ6z2Qq3) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [All That's In My Head](https://open.spotify.com/album/7J5fkfoCazVCC2JX2ifQxQ) | 4:40 |
-| 41 | [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:30 |
+| 41 | [Harriet](https://open.spotify.com/track/209gemJjT5HBPKA2Pspu8L) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Harriet](https://open.spotify.com/album/6SwPL456Fz0qpSGRWbeXnb) | 3:31 |
 | 42 | [Survive](https://open.spotify.com/track/6fpa8Y9ZZUsshzgzNdh5iY) | [Colatura](https://open.spotify.com/artist/281DMYRccJJg8BXz1TIZF5) | [If I'm Being Honest](https://open.spotify.com/album/4U9dNIj8njh8tY0tRaCDcg) | 2:49 |
 | 43 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 |
 | 44 | [NATURAL SELECTION](https://open.spotify.com/track/3xzIJWhbEOf0fiQezTP9hu) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [NATURAL SELECTION](https://open.spotify.com/album/1SSCqPLzK3FU8j2EDMszhS) | 3:32 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 58 | [the devil wears converse](https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the devil wears converse](https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO) | 2:39 |
 | 59 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 |
 | 60 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 |
-| 61 | [Crying in the Night \- 2025 Remaster](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night \(2025 Remaster\)](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 |
+| 61 | [Crying in the Night](https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Crying in the Night](https://open.spotify.com/album/33LW94s93xeDtCb00OT02P) | 2:59 |
 | 62 | [Cross My Heart and Hope to Die](https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Cross My Heart and Hope to Die](https://open.spotify.com/album/46Y78DdMPxI4Vt0LAW2RnO) | 3:14 |
 | 63 | [Cannibal](https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Cannibal](https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ) | 3:21 |
 | 64 | [Fell So Hard, Felt So Right \- feat\. Story Of The Year](https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Fell So Hard, Felt So Right \(feat\. Story Of The Year\)](https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 99 | [Harley](https://open.spotify.com/track/35hgaNam8alvYUy7FHBAJl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Harley](https://open.spotify.com/album/4Yjouh8baN1M2FvKh9Nt6Z) | 2:41 |
 | 100 | [On Repeat](https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [On Repeat](https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y) | 3:18 |
 
-Snapshot ID: `AAAAAIwWtRdum9z9gW6xwfXEvZAx+7A3`
+Snapshot ID: `AAAAAC2mJq9AAUzTYm478d/OOcjjkH1v`

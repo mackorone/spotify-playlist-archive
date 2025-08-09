@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 
 ### [Most Favored](https://open.spotify.com/playlist/37i9dQZF1DXdgckExLlG1g)
 
-> The top Christian songs worldwide!  Cover: ELEVATION RHYTHM
+> The top Christian songs worldwide!  Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,016 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,002 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GOODBYE YESTERDAY](https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [GOODBYE YESTERDAY](https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE) | 4:58 |
-| 2 | [Hard Fought Hallelujah](https://open.spotify.com/track/3XGyVFaeMPGvjCF3ZTnUI3) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah: Heavyweight Edition](https://open.spotify.com/album/4eHLnBJidoQTVsreVhE5TX) | 5:16 |
-| 3 | [No Fear](https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9) | 3:32 |
-| 4 | [That's My King](https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [That's My King](https://open.spotify.com/album/4yZXtJdzh7ybESwXr3c9rA) | 4:10 |
-| 5 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |
-| 6 | [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 |
+| 1 | [Come Jesus Come](https://open.spotify.com/track/218S8MsbNO1ZGNxMQCb89L) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/3ZSCXdA9n1XNGTsWKjeNQr) | 5:01 |
+| 2 | [No Fear](https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9) | 3:32 |
+| 3 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |
+| 4 | [Church Doors](https://open.spotify.com/track/3upatkQjhcIYrHfgfYdGIr) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Church Doors](https://open.spotify.com/album/6F8YVUwY5RASpzkAryBVns) | 2:47 |
+| 5 | [Hard Fought Hallelujah](https://open.spotify.com/track/3XGyVFaeMPGvjCF3ZTnUI3) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah: Heavyweight Edition](https://open.spotify.com/album/4eHLnBJidoQTVsreVhE5TX) | 5:16 |
+| 6 | [GOODBYE YESTERDAY](https://open.spotify.com/track/2Ek6vXzVHY9qWvkAy4OUQR) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [GOODBYE YESTERDAY](https://open.spotify.com/album/1J0DrdF8UCZGZo8YYAKiNE) | 4:58 |
 | 7 | [What An Awesome God](https://open.spotify.com/track/2fKnX8RINrl4eOG5klOhcZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [What An Awesome God](https://open.spotify.com/album/19rQaj9WUt61x4kiFOGRlc) | 3:31 |
 | 8 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 |
 | 9 | [Let The Church Sing](https://open.spotify.com/track/7Anygo62MNwOsASBpIzWYr) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Let The Church Sing](https://open.spotify.com/album/7pAwBOLjE8lWRZ0TZgpdHx) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgckExLlG1g.md) - [plain]
 | 49 | [Altar](https://open.spotify.com/track/7MwkYzOeTZG3rtNWo6D7kK) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Altar](https://open.spotify.com/album/1T43dJrSpIutVfxgb6PzEd) | 3:34 |
 | 50 | [These are the Days](https://open.spotify.com/track/3fBuoCGice8hZng7rWbHed) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [These Are The Days](https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7) | 4:51 |
 
-Snapshot ID: `AAAAAFHAvOmYzZEJWGUB+Fu5c9/JLUbL`
+Snapshot ID: `AAAAAAdI2Blxp5GJvzuu1Gg63JajAbPQ`

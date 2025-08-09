@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> the best new metalcore\. where brutality and technicality collide\. Cover: Silent Planet
+> the best new metalcore\. where brutality and technicality collide\. Cover: Wind Walkers
 
-1,288 songs - 3 day 6 hr 56 min
+1,290 songs - 3 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -697,7 +697,7 @@
 | [Lost In Doubt](https://open.spotify.com/track/0VUnK5QjwA7t5r5B15S0K7) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Lost In Doubt](https://open.spotify.com/album/4MTpanFO4qaYv9OMltyt4e) | 2:37 | 2022-03-11 | 2022-05-14 |
 | [Lost In The Fall](https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Symptoms of Survival](https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le) | 4:04 | 2023-10-27 | 2024-04-19 |
 | [Lost In The Fall](https://open.spotify.com/track/2eNQotmrqiMh175jBPePJ2) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Lost In The Fall](https://open.spotify.com/album/2AaUKwRWLjWC01DQ8BzwwE) | 4:04 | 2023-09-15 | 2024-08-26 |
-| [Love, I Tore it Apart](https://open.spotify.com/track/2vRaJQKonrgoURWq52HZZ5) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [Love, I Tore It Apart](https://open.spotify.com/album/4SlrylSAJAJDUTxdv6ej72) | 2:59 | 2025-05-09 |  |
+| [Love, I Tore it Apart](https://open.spotify.com/track/2vRaJQKonrgoURWq52HZZ5) | [ODC](https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj) | [Love, I Tore It Apart](https://open.spotify.com/album/4SlrylSAJAJDUTxdv6ej72) | 2:59 | 2025-05-09 | 2025-08-09 |
 | [Low](https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Sentiments](https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m) | 4:12 | 2022-05-27 | 2022-10-08 |
 | [Low Tech](https://open.spotify.com/track/1G9givRPDFvYoKaMw2OqjK) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Low Tech](https://open.spotify.com/album/38zTXgENqaRonHeghToNje) | 2:20 | 2024-03-27 | 2024-08-26 |
 | [Lowborn](https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/2VUudJnXj6o9SR1m0OlcXL) | 4:25 | 2021-12-17 | 2022-02-11 |
@@ -850,7 +850,7 @@
 | [Pale Tongue](https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc) | [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Pale Tongue](https://open.spotify.com/album/6pgxhNnusTdUnOOuhiJKEK) | 3:36 | 2021-12-17 | 2022-03-18 |
 | [Pandora](https://open.spotify.com/track/4d9LsaHESzctVq4PcfZh24) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Pandora](https://open.spotify.com/album/2OiGgonTvEC5CHNZg5R0xW) | 4:36 | 2022-07-13 | 2022-07-23 |
 | [Panic Waves](https://open.spotify.com/track/2UE48m09FyDdc6Ot1sGKqS) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [Panic Waves](https://open.spotify.com/album/5aNJN4zGJTPKvie47D56aE) | 4:07 | 2023-02-24 | 2024-07-13 |
-| [PANIC!](https://open.spotify.com/track/2E47UXRAUrmHV7NKU4XKzV) | [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [LOST](https://open.spotify.com/album/74q93gj0Tn3JDBrElrjuNN) | 3:15 | 2025-05-09 |  |
+| [PANIC!](https://open.spotify.com/track/2E47UXRAUrmHV7NKU4XKzV) | [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [LOST](https://open.spotify.com/album/74q93gj0Tn3JDBrElrjuNN) | 3:15 | 2025-05-09 | 2025-08-09 |
 | [Paradigm](https://open.spotify.com/track/5dEyjGoDvm4anASD9kAXEZ) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [Hell Will Come for Us All](https://open.spotify.com/album/5u6SV78mDidg0AKa7u3M70) | 3:56 | 2022-07-13 | 2022-07-15 |
 | [Paradigm Trigger](https://open.spotify.com/track/5sHywETRouJFGWns4QKKlp) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Paradigm Trigger / Angels Weep](https://open.spotify.com/album/1yESM99I8dgP2XBl6gTDkZ) | 3:21 | 2024-02-09 | 2024-03-09 |
 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 | 2024-07-12 | 2024-09-21 |
@@ -982,6 +982,7 @@
 | [Silence Broken](https://open.spotify.com/track/4HcBbO8UMWfUyIv3IBrzYm) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Silence Broken](https://open.spotify.com/album/4KEtxaz1yu7otXRzhwBPY6) | 3:56 | 2022-03-03 | 2022-04-23 |
 | [Silence Isn't Helping Us](https://open.spotify.com/track/34LT97EvA73UvXBycsYA3o) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Will You Haunt Me, With That Same Patience](https://open.spotify.com/album/1OESBdYYfEHfTbhsNKLpXD) | 3:46 | 2025-05-16 |  |
 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 | 2024-03-08 | 2024-03-28 |
+| [Silk & Static](https://open.spotify.com/track/2AOmWZIZhRuQrEqrxzaRvy) | [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Silk & Static](https://open.spotify.com/album/75jOtFQtV3xOtM5PDTXf8X) | 3:46 | 2025-08-08 |  |
 | [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 | 2023-03-31 | 2024-02-21 |
 | [Silver Bullet](https://open.spotify.com/track/5wKzaCrrTpHk9J6GBkz9S6) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Fake](https://open.spotify.com/album/6iNYooKRl6R3rtZUiKcLkV) | 3:13 | 2024-02-09 | 2024-02-24 |
 | [Silver Bullet](https://open.spotify.com/track/60bdGD4lCqGQJFR3wRtFlJ) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/2uOLiz6dTIJleJI1IyClll) | 3:13 | 2023-08-18 | 2024-02-18 |
@@ -1294,6 +1295,7 @@
 | [Your Fire](https://open.spotify.com/track/1REmU4T9sKpB0czaqRuz5W) | [My Diligent Future](https://open.spotify.com/artist/6JMqfMzxwXO2nhT4NapFDm) | [Your Fire](https://open.spotify.com/album/4vQoh3wHwa7wM3ZkaQL1fT) | 2:46 | 2021-12-17 | 2022-04-02 |
 | [Your Ghost](https://open.spotify.com/track/0gsv1wTx4ReErigbQUZ7uR) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Your Ghost](https://open.spotify.com/album/192ZHzu3v3LTnV2m3OawtK) | 3:22 | 2022-05-06 | 2022-06-24 |
 | [Your Ghost…\(été un\)](https://open.spotify.com/track/67apRpuDfI6vMtl6ZNVbFJ) | [Destroy//Create](https://open.spotify.com/artist/1U58LFQaBX4bS0GIiF0dBn) | [Your Ghost…\(été un\)](https://open.spotify.com/album/60z2i9Azhj1TRXY43VdSAE) | 3:57 | 2023-01-06 | 2023-08-19 |
+| [Your Idol \(KPop Demon Hunters\)](https://open.spotify.com/track/4VmiSWsMVZ25tbf2HErZtC) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Covers Only, Vol\. 1](https://open.spotify.com/album/0CVnhwtOpdoIkOatkGcVwO) | 3:16 | 2025-08-08 |  |
 | [Your Love I'll Never Need](https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Your Love I'll Never Need](https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2) | 3:20 | 2022-07-01 | 2023-06-28 |
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-03-08 | 2024-07-14 |
 

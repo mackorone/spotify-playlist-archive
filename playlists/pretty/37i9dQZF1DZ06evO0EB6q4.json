@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 250227,
+  "num_followers": 250284,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAACqI7xen8DfOg3k0lDS5BIg",
+  "snapshot_id": "aJPsgAAAAACnbu5UDFb+9s9qOJBrVv3S",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 149024,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
         "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 244802,
       "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
       "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 149024,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4"
     },
     {
       "added_at": null,

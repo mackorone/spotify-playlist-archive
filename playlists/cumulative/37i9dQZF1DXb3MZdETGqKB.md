@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-340 songs - 19 hr 58 min
+341 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Family](https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ) | 4:47 | 2022-12-09 | 2022-12-16 |
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 | 2022-06-19 |
 | [Father Let Me Go](https://open.spotify.com/track/2O6bD7GtWCQGRuMtdL0EtG) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Untold](https://open.spotify.com/album/1PajuQorortn4jOtkzOQ84) | 3:19 | 2024-11-15 |  |
+| [Feel Me Better](https://open.spotify.com/track/4AMkyOvco3opy20OWfBLNs) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Evan Nicole Bell](https://open.spotify.com/artist/6BiieDgERZLl3B8NErd25h) | [Feel Me Better](https://open.spotify.com/album/4lTVlayjCELtBp3s1WeQYf) | 3:34 | 2025-08-08 |  |
 | [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 | 2024-10-26 |
 | [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 | 2024-08-16 | 2024-12-07 |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
@@ -296,7 +297,7 @@
 | [The Fatalist Blues](https://open.spotify.com/track/05zBNkUb86yoodSawKUaGf) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/10Bld2xPgtjiKZdkiGoZ7Q) | 2:32 | 2023-09-15 |  |
 | [The Fatalist Blues](https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 2:32 | 2023-09-15 | 2024-04-19 |
 | [The Louvre](https://open.spotify.com/track/68cELCHZ8sdfkAHoLtm3OO) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Louvre](https://open.spotify.com/album/1cZ17se5zLFdbZKhedKnio) | 2:59 | 2023-08-18 |  |
-| [The Lows](https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Lows](https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t) | 2:55 | 2022-10-21 |  |
+| [The Lows](https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Lows](https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t) | 2:55 | 2022-10-21 | 2025-08-09 |
 | [The Lows](https://open.spotify.com/track/7h0bST38vPZD0kC2Tw8byH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 2:55 | 2022-10-21 | 2024-04-19 |
 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 | 2025-06-13 |  |
 | [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 | 2023-11-18 |

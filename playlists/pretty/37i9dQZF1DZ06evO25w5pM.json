@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19110,
+  "num_followers": 19111,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAB+mZV3wcpeoQSIudRQZtGr",
+  "snapshot_id": "aJPsgAAAAABkPfEEAx7DjcBMrLEJ/ULK",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 394306,
       "name": "Drei",
       "url": "https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immortelle",
-        "url": "https://open.spotify.com/album/1VJfgOdQJUp4shVpYcIThy"
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 332946,
-      "name": "Monarda",
-      "url": "https://open.spotify.com/track/0at96syawo9G6QQ3cVGNCx"
+      "duration_ms": 388133,
+      "name": "Moon and Earth",
+      "url": "https://open.spotify.com/track/07neilEX9t7aKFndygWFDK"
     }
   ],
   "unique_name": "This Is Deuter",

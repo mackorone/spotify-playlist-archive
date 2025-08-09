@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUileP28ODwg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUileP28ODwg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUileP28ODwg)
 
-### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
+### [Top Contemporary Christian](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
+> Tune in here for new and current hits in Contemporary Christian music! Cover: Lauren Daigle
 
 608 songs - 1 day 13 hr 24 min
 

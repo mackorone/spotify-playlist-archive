@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Darkovibes
+> Hottest bars coming live from the 233\.  Cover: Beeztrap KOTM
 
-790 songs - 1 day 16 hr 3 min
+791 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [For My Brothers](https://open.spotify.com/track/3FYCKu642w763na63IYp08) | [Yhaw Phila](https://open.spotify.com/artist/7L3obrnUX0aaqAxZR7uRnQ), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [For My Brothers](https://open.spotify.com/album/7zXnwbXVU0ewxhcnjBPgks) | 3:32 | 2024-09-06 | 2024-09-20 |
 | [For The Streetz](https://open.spotify.com/track/1gS2JFbUnIGwzPAZAx7CaG) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [For The Streetz](https://open.spotify.com/album/3ue4vYiExwOP9VvpipbTJS) | 2:22 | 2025-02-28 | 2025-03-21 |
 | [Foreign God](https://open.spotify.com/track/7qhKursN790s51MBVvS16g) | [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs) | [Foreign God](https://open.spotify.com/album/1pqlw2up4XbvTt7Tar4NLs) | 2:09 | 2023-09-14 | 2023-09-29 |
+| [FOTO \(feat\. Olivetheboy\)](https://open.spotify.com/track/62YA8oIfNjNIrvR8ZgVMft) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [POWER](https://open.spotify.com/album/1X17Tuo9Yvn28rQ5mS3i6a) | 2:47 | 2025-08-08 |  |
 | [Frass](https://open.spotify.com/track/4YesAXkrlESdn1Vk2f65pa) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Nothing Matters](https://open.spotify.com/album/6nhytxiQ5m9fgRIMKoqgbi) | 2:43 | 2022-12-08 | 2023-11-17 |
 | [Freak](https://open.spotify.com/track/47CR36CzuRitSayUF08nMV) | [Efia Odo](https://open.spotify.com/artist/2nQ3wwgr8vXKhBIvnEViIj) | [Freak](https://open.spotify.com/album/2uey10dNb91uXHAzJBENCa) | 1:58 | 2023-06-09 | 2023-06-17 |
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-03 | 2023-09-29 |
@@ -302,7 +303,7 @@
 | [Get Dat Bread](https://open.spotify.com/track/7lGPjrJett3rFRuzfPDxzm) | [Supa Gaeta](https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz), [The Ganyo](https://open.spotify.com/artist/1XRErztmwGC9jKhzkxLlJx) | [Get Dat Bread](https://open.spotify.com/album/0uCDHNCJygad2KlVyvuuZc) | 3:09 | 2025-05-16 | 2025-06-13 |
 | [Ghana \- Remix](https://open.spotify.com/track/6Gj9DBxR759xBP6g5zxBhA) | [SRT Gwalla](https://open.spotify.com/artist/78thSZQFZJsZqi6Lr5WgIc), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Ghana \(Remix\)](https://open.spotify.com/album/7kckPDQIjbWJnaQhx2v6r4) | 2:26 | 2024-03-29 | 2024-07-27 |
 | [Ghana Girl \(Asakaa Mix\)](https://open.spotify.com/track/177ONM0IbGOF8AFwl7VuPA) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Glitch Boyz](https://open.spotify.com/album/5UW4AYkCPXp74NMBA6zHja) | 2:32 | 2024-10-04 | 2024-11-23 |
-| [Ghetto Gospel](https://open.spotify.com/track/6IsXPkIZeBdqEwqJVEcOPZ) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Ghetto Gospel](https://open.spotify.com/album/7yJtNOv5M9UOc57iOyTvIs) | 3:41 | 2025-07-18 |  |
+| [Ghetto Gospel](https://open.spotify.com/track/6IsXPkIZeBdqEwqJVEcOPZ) | [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Ghetto Gospel](https://open.spotify.com/album/7yJtNOv5M9UOc57iOyTvIs) | 3:41 | 2025-07-18 | 2025-08-09 |
 | [Ghetto Love](https://open.spotify.com/track/22RIwUFhAGJkKJC2Lq9uP6) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Ghetto Love](https://open.spotify.com/album/6jnOt0QzZo0WM6Yz1Re9w6) | 2:53 | 2024-02-16 | 2024-03-22 |
 | [Gimme Grace](https://open.spotify.com/track/6ffqvYWjuFKYreV7DK6xfQ) | [R.B.D.](https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We), [Kay\-Ara](https://open.spotify.com/artist/7709KKFLbokr9qyg7Oceb1) | [Gimme Grace](https://open.spotify.com/album/1Y5UvC1xVYr7ejO8AUws02) | 2:55 | 2024-02-02 | 2024-03-22 |
 | [Girls Kasa](https://open.spotify.com/track/6Z9xKPlQZCu05mmJfmE7Mb) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Girls Kasa](https://open.spotify.com/album/0cpMSLvaubXZH2wvrs1FLO) | 3:40 | 2024-06-07 | 2024-06-28 |

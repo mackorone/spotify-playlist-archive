@@ -3145,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "De Papel",
+        "url": "https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166753,
+      "name": "De Papel",
+      "url": "https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu"
+    },
+    {
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -5500,7 +5518,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 164747,
       "name": "idgaf era",
       "url": "https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD"
@@ -6876,6 +6894,28 @@
       "duration_ms": 180477,
       "name": "LO QUE ME CAUSA",
       "url": "https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq"
+    },
+    {
+      "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
     },
     {
       "album": {
@@ -9104,6 +9144,24 @@
       "duration_ms": 187046,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE"
+    },
+    {
+      "album": {
+        "name": "NUevo",
+        "url": "https://open.spotify.com/album/4AFTVyAhS0jVISXLOWTKtD"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157884,
+      "name": "NUevo",
+      "url": "https://open.spotify.com/track/2TBcya0YHEb36zMnYinPEk"
     },
     {
       "album": {
@@ -11608,7 +11666,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 217614,
       "name": "SINTIGO",
       "url": "https://open.spotify.com/track/2xOuv7kfN1luCeosa8O6h9"
@@ -13102,7 +13160,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 186407,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/47eaS9ydA3Wt9gTMYuZCSt"

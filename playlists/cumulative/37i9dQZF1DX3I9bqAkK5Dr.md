@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-383 songs - 22 hr 55 min
+384 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Manasu](https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [Manasu](https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy) | 4:22 | 2025-05-09 |  |
 | [Manasuke \- Symphony of Emotions](https://open.spotify.com/track/7qtv5B07PA14LkBIK9wQAV) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Monika Thirumanyam](https://open.spotify.com/artist/4W4N0xaJ1h5OKls5tHvHdR), [Robin Sebastian](https://open.spotify.com/artist/3S2Iuo7ze3YXAhMJZAOGdp), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Manasuke \- Symphony of Emotions](https://open.spotify.com/album/4XS55WoJ6puSxOfcHXTRuT) | 3:33 | 2024-03-08 | 2024-08-24 |
 | [Manasukinta Alajadi](https://open.spotify.com/track/3ye1C6ye2mWhUDqLAAxQJO) | [Saathwik Yadavalli](https://open.spotify.com/artist/4xqPYqU59SpgPH7nfJGVRz) | [Manasukinta Alajadi](https://open.spotify.com/album/4qjWTHzrMQEVsnLZRZ7KG8) | 5:35 | 2024-07-19 | 2024-09-13 |
+| [Manave \- From "Sweet 60"](https://open.spotify.com/track/2MlLatHo4PRwO8MNe0lqAq) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shiva Kumar Jinna](https://open.spotify.com/artist/6oxYZWYRtookpdkqBnlNhp) | [Manave \(From "Sweet 60"\)](https://open.spotify.com/album/2gvToHZSxias6BmQv0uOBz) | 1:52 | 2025-08-08 |  |
 | [Maninchave](https://open.spotify.com/track/1lgX55AUpFnyvr46FQ4gBL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/38YnBMJMBy9kfTLeHKyrzc) | 3:24 | 2023-03-23 | 2024-02-13 |
 | [Maninchave](https://open.spotify.com/track/5RNlt35rdp8wekW9WZ4tWs) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Maninchave](https://open.spotify.com/album/0PhIQ7H4evxAOA5RFmWCrm) | 3:24 | 2023-03-23 | 2024-02-15 |
 | [Mari Mari](https://open.spotify.com/track/1vZd4cPtqc2LardRrTTBKV) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Prasanna Suresh](https://open.spotify.com/artist/4ajkARXXTfsW5M0SDlMamn) | [Mari Mari](https://open.spotify.com/album/28G3UYAddCdtHWS5XakL8K) | 3:15 | 2023-03-24 | 2023-05-28 |

@@ -3068,6 +3068,24 @@
     {
       "album": {
         "name": "By My Side",
+        "url": "https://open.spotify.com/album/3ixNPPko4DGITRpm2YNi64"
+      },
+      "artists": [
+        {
+          "name": "Dominic Strike",
+          "url": "https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4wkpzPI81wmOhWjLUXCyKm"
+    },
+    {
+      "album": {
+        "name": "By My Side",
         "url": "https://open.spotify.com/album/0icgaKoNR01UBKAuoxGWfl"
       },
       "artists": [
@@ -3192,6 +3210,28 @@
       "duration_ms": 130765,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0BB0MvJmX63nWWFS9kFvn1"
+    },
+    {
+      "album": {
+        "name": "Caged",
+        "url": "https://open.spotify.com/album/3ijjAfY3wSrBu9DYOHVvDq"
+      },
+      "artists": [
+        {
+          "name": "firstcoast.",
+          "url": "https://open.spotify.com/artist/4bCEgfAIF3dQPrwCkAP0v7"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139083,
+      "name": "Caged",
+      "url": "https://open.spotify.com/track/5XkSjfm3Hc8kQpA9yzH9F3"
     },
     {
       "album": {
@@ -6582,7 +6622,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -9864,6 +9904,24 @@
       "duration_ms": 168937,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
+    },
+    {
+      "album": {
+        "name": "Hold You Close",
+        "url": "https://open.spotify.com/album/5BziIKXmHxarHwFVVJsFTS"
+      },
+      "artists": [
+        {
+          "name": "Avira",
+          "url": "https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157860,
+      "name": "Hold You Close",
+      "url": "https://open.spotify.com/track/77PdeNPpdJgGQXQLUnZVJf"
     },
     {
       "album": {
@@ -19050,7 +19108,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"

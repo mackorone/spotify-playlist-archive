@@ -6,8 +6,76 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABHjlh/U+qqoLFAH3xT8pv8YOHgNzB8",
+  "snapshot_id": "AABHlmXLF37gg6cc1CPGeBbcS/bqpAOI",
   "tracks": [
+    {
+      "added_at": "2025-08-08 06:23:29",
+      "album": {
+        "name": "Bugland",
+        "url": "https://open.spotify.com/album/4h66SMlHz1WONw0xvR7i9q"
+      },
+      "artists": [
+        {
+          "name": "No Joy",
+          "url": "https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2"
+        },
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 471018,
+      "name": "Jelly Meadow Bright",
+      "url": "https://open.spotify.com/track/1OZF6AGkAD7KhQCGhGs0ez"
+    },
+    {
+      "added_at": "2025-08-08 06:24:17",
+      "album": {
+        "name": "White Phosphorus (Chris Connelly plays Throbbing Gristle)",
+        "url": "https://open.spotify.com/album/5VMTxZyV2Ry7lKK4dkqozE"
+      },
+      "artists": [
+        {
+          "name": "Chris Connelly",
+          "url": "https://open.spotify.com/artist/4IZgjF9Cb5w0gQTUOYSCQK"
+        }
+      ],
+      "duration_ms": 320988,
+      "name": "Mother Spunk",
+      "url": "https://open.spotify.com/track/0Pcril0Q9XTfpW7yexPKW8"
+    },
+    {
+      "added_at": "2025-08-08 06:23:10",
+      "album": {
+        "name": "Gurgling Pustulence",
+        "url": "https://open.spotify.com/album/0pYETM2jXiGFhjidkfE1Fz"
+      },
+      "artists": [
+        {
+          "name": "Pustulant Flesh",
+          "url": "https://open.spotify.com/artist/46TBMAhlwjncz0ShYVVaPc"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "Cadaver Creation",
+      "url": "https://open.spotify.com/track/7LyN6kmdWXVZjERGiauvHv"
+    },
+    {
+      "added_at": "2025-08-08 06:23:49",
+      "album": {
+        "name": "Soft Focus Distraction",
+        "url": "https://open.spotify.com/album/3412CQc3WH39r8a4gUBGRD"
+      },
+      "artists": [
+        {
+          "name": "Neon Fog",
+          "url": "https://open.spotify.com/artist/36pxVjNShmoD2SOQRgo2rQ"
+        }
+      ],
+      "duration_ms": 93000,
+      "name": "Soft Focus Distraction",
+      "url": "https://open.spotify.com/track/3ZeUKs2KYz5UKSEfUZpB7L"
+    },
     {
       "added_at": "2025-08-07 11:37:34",
       "album": {
@@ -1083,286 +1151,6 @@
       "duration_ms": 314416,
       "name": "Last DJ of the Apocalypse",
       "url": "https://open.spotify.com/track/3xg9hP9stJWOKCBbBqo6vZ"
-    },
-    {
-      "added_at": "2025-07-14 08:44:11",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/35JLwoDcmEmhzrf3lheXXR"
-      },
-      "artists": [
-        {
-          "name": "Death Side",
-          "url": "https://open.spotify.com/artist/0AxC6tcKCZvkRKT8ZexAaC"
-        }
-      ],
-      "duration_ms": 183075,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1tvQfh6jsG6RAB2hE0a4Cs"
-    },
-    {
-      "added_at": "2025-07-14 08:43:54",
-      "album": {
-        "name": "Simulacre",
-        "url": "https://open.spotify.com/album/0DldN35QoVqgiCT2NBmGSg"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9cryptal",
-          "url": "https://open.spotify.com/artist/2NVs0oXNYgjuCuNMbYxCG6"
-        }
-      ],
-      "duration_ms": 295450,
-      "name": "Dendrites",
-      "url": "https://open.spotify.com/track/559O0x0ciYkBwztI3gmZKC"
-    },
-    {
-      "added_at": "2025-07-02 11:29:44",
-      "album": {
-        "name": "Regresar / Recordar",
-        "url": "https://open.spotify.com/album/45ch5xoIZ9ay3HhR0wVvZF"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 356720,
-      "name": "Regresar / Recordar",
-      "url": "https://open.spotify.com/track/3ttYq3fKuP2LlePRmFUmgU"
-    },
-    {
-      "added_at": "2025-07-04 05:23:24",
-      "album": {
-        "name": "Music By River Words By Ear",
-        "url": "https://open.spotify.com/album/6f8ZhUgR7Rxpds7M2WJZVj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Zimmerman",
-          "url": "https://open.spotify.com/artist/6c3XGRQEI4x3hvu19S2X09"
-        }
-      ],
-      "duration_ms": 236023,
-      "name": "Walls of Amsterdam",
-      "url": "https://open.spotify.com/track/5Gnj4thMPmGIqdhGmcJLJJ"
-    },
-    {
-      "added_at": "2025-07-04 05:23:39",
-      "album": {
-        "name": "it's nice to see you, stranger",
-        "url": "https://open.spotify.com/album/4SryFTHyXso6ycRYIX23Oq"
-      },
-      "artists": [
-        {
-          "name": "thistle.",
-          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
-        }
-      ],
-      "duration_ms": 177718,
-      "name": "fleur rouge",
-      "url": "https://open.spotify.com/track/0QnuRdVFr42JaejSolppeZ"
-    },
-    {
-      "added_at": "2025-07-04 05:26:53",
-      "album": {
-        "name": "Crashing waves dance to the rhythm set by the broadcast journalist revealing the tragedies of the day",
-        "url": "https://open.spotify.com/album/1ZpmQ9svb1i5OOoI3ZZnbp"
-      },
-      "artists": [
-        {
-          "name": "Charbel Haber",
-          "url": "https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe"
-        },
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        },
-        {
-          "name": "Sary Moussa",
-          "url": "https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ"
-        }
-      ],
-      "duration_ms": 593409,
-      "name": "Part 4",
-      "url": "https://open.spotify.com/track/3ZjivHYfnlWATKo9nT96ag"
-    },
-    {
-      "added_at": "2025-07-04 05:25:49",
-      "album": {
-        "name": "Slim Pickin'",
-        "url": "https://open.spotify.com/album/7tYkF3AVja8tRTGIzVRL2R"
-      },
-      "artists": [
-        {
-          "name": "Mississippi MacDonald",
-          "url": "https://open.spotify.com/artist/2JQbaimZAS39BcpmnMAe2m"
-        }
-      ],
-      "duration_ms": 176858,
-      "name": "Sad Songs - acoustic",
-      "url": "https://open.spotify.com/track/4d9JaXgCuImY9GggVS68wX"
-    },
-    {
-      "added_at": "2025-07-04 05:25:16",
-      "album": {
-        "name": "Falling Into You",
-        "url": "https://open.spotify.com/album/5mFUhnGUtdsf78XKMwhK4w"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Downes",
-          "url": "https://open.spotify.com/artist/0M58iPe1szo9bVKf6F6GXH"
-        }
-      ],
-      "duration_ms": 237952,
-      "name": "Falling Into You",
-      "url": "https://open.spotify.com/track/3hM046YqfZ2ElW0GDsiek7"
-    },
-    {
-      "added_at": "2025-07-04 05:23:57",
-      "album": {
-        "name": "Hey Gyp",
-        "url": "https://open.spotify.com/album/6Jg7CtnItArjUey3AwRpYT"
-      },
-      "artists": [
-        {
-          "name": "The Truth",
-          "url": "https://open.spotify.com/artist/4bpxKx7KhzRmUhG5OEKfpt"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "Fly Away Brd",
-      "url": "https://open.spotify.com/track/3oF0a55gMiOW4YEh6akcgQ"
-    },
-    {
-      "added_at": "2025-07-04 05:24:45",
-      "album": {
-        "name": "Boom Bass Hool E Gun 25",
-        "url": "https://open.spotify.com/album/0CfN99KWQH7DUay8t6GpZW"
-      },
-      "artists": [
-        {
-          "name": "StC Sounds",
-          "url": "https://open.spotify.com/artist/7h4tcQBwvgHV2OB97jaRks"
-        }
-      ],
-      "duration_ms": 277647,
-      "name": "Boom Bass Hool E Gun 25",
-      "url": "https://open.spotify.com/track/6xCATmuTaz5nq3vWveYPUg"
-    },
-    {
-      "added_at": "2025-07-04 05:25:03",
-      "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/59ejgr5ZTUo1dKdK0G7y09"
-      },
-      "artists": [
-        {
-          "name": "Sean Pratt",
-          "url": "https://open.spotify.com/artist/0ITFhUVxpFfjsqT2ltZfor"
-        }
-      ],
-      "duration_ms": 459451,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/0A0CsNC3fUNzLKgKelETUW"
-    },
-    {
-      "added_at": "2025-07-04 05:25:29",
-      "album": {
-        "name": "Oh",
-        "url": "https://open.spotify.com/album/4wzX2opC4slVYecOk40AkO"
-      },
-      "artists": [
-        {
-          "name": "Neon Fog",
-          "url": "https://open.spotify.com/artist/36pxVjNShmoD2SOQRgo2rQ"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Oh",
-      "url": "https://open.spotify.com/track/4tEaexUZGDSiOKaoCg2fCn"
-    },
-    {
-      "added_at": "2025-07-04 05:26:36",
-      "album": {
-        "name": "The Will Never Die",
-        "url": "https://open.spotify.com/album/4m4Gs7C0TJjedudaJZOVaP"
-      },
-      "artists": [
-        {
-          "name": "Death Side",
-          "url": "https://open.spotify.com/artist/0AxC6tcKCZvkRKT8ZexAaC"
-        }
-      ],
-      "duration_ms": 197172,
-      "name": "The Will Never Die",
-      "url": "https://open.spotify.com/track/7AhcDIhK3Ka7EGk1nysK0d"
-    },
-    {
-      "added_at": "2025-07-04 05:26:06",
-      "album": {
-        "name": "Arousal Of The Crawling Creature",
-        "url": "https://open.spotify.com/album/1JEIyiEMmP89pcw26CWd0h"
-      },
-      "artists": [
-        {
-          "name": "Larvae",
-          "url": "https://open.spotify.com/artist/2orX28mYjc9UQCm0CMKIYO"
-        }
-      ],
-      "duration_ms": 108078,
-      "name": "Squirming Like Disgusting Maggots",
-      "url": "https://open.spotify.com/track/4Pzjiy86htgLLzt5OSIvwA"
-    },
-    {
-      "added_at": "2025-07-04 05:26:19",
-      "album": {
-        "name": "Sunrise (I Love You)",
-        "url": "https://open.spotify.com/album/05LWAVjliUwLSz2BKubss0"
-      },
-      "artists": [
-        {
-          "name": "John Massoni",
-          "url": "https://open.spotify.com/artist/7rBynOys9goM60dPGfIH3a"
-        }
-      ],
-      "duration_ms": 670118,
-      "name": "Sunrise (I Love You)",
-      "url": "https://open.spotify.com/track/4XR4ilqSgt6Ec6FyWvQXc4"
-    },
-    {
-      "added_at": "2025-07-04 05:27:10",
-      "album": {
-        "name": "Live At Project 83",
-        "url": "https://open.spotify.com/album/48PNOZSjz1NHdxn3sNnAWC"
-      },
-      "artists": [
-        {
-          "name": "C Bone",
-          "url": "https://open.spotify.com/artist/0Moy78ZWmXzVf8wkuCRx0c"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Come Hell Or Highwater - Live",
-      "url": "https://open.spotify.com/track/00F0iOrh6nE1v1zbPMWKT6"
-    },
-    {
-      "added_at": "2025-07-04 05:27:30",
-      "album": {
-        "name": "Deport Me",
-        "url": "https://open.spotify.com/album/5jV36tE6uDqcdAthpzRTGx"
-      },
-      "artists": [
-        {
-          "name": "Badawi",
-          "url": "https://open.spotify.com/artist/0foKk7wAe6zmt9GI6iSHyI"
-        }
-      ],
-      "duration_ms": 288648,
-      "name": "Deport Me, Baby",
-      "url": "https://open.spotify.com/track/1sD4i78qChOYbV8F1OwcsK"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

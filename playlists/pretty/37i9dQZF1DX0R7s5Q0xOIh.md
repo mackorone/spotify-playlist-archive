@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,337 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,333 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -350,7 +350,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 340 | [Into You \(feat\. Tamia\)](https://open.spotify.com/track/0yHConG49418wPs8UfAt44) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Street Dreams \(Bonus Track\)](https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl) | 4:55 |
 | 341 | [Já é \- Ao vivo](https://open.spotify.com/track/5208LKuihL0farASiFLxEl) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Ao vivo 2](https://open.spotify.com/album/6brbXlSezNgF8LkcMLbwYl) | 3:44 |
 | 342 | [Sou Má](https://open.spotify.com/track/7vJQNVZgwTLIh98biCmpRs) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 3:30 |
-| 343 | [African Queen](https://open.spotify.com/track/5uLZ0zbhL3j8ZHGEz4KKf9) | [Blackface](https://open.spotify.com/artist/6wfPGeyr7Qq1pfC7Nh7GaF), [2Face](https://open.spotify.com/artist/1jluLAiBpHzUX4DlOxOfU3) | [Afrobeatz Vol, 4](https://open.spotify.com/album/2b120fvG31KqqTfF7AEmK4) | 4:21 |
+| 343 | [African Queen](https://open.spotify.com/track/5uLZ0zbhL3j8ZHGEz4KKf9) | [Blackface](https://open.spotify.com/artist/6wfPGeyr7Qq1pfC7Nh7GaF), [2Face](https://open.spotify.com/artist/0bX7oyjN0NWlnirtTd6CDe) | [Afrobeatz Vol, 4](https://open.spotify.com/album/2b120fvG31KqqTfF7AEmK4) | 4:21 |
 | 344 | [And the Beat Goes On](https://open.spotify.com/track/2fwRHvAZ51m5e7O7PBZdBi) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers](https://open.spotify.com/album/2iffdOg8CjtJGy0KE649UT) | 7:34 |
 | 345 | [Bonde Da Ecko Red \(feat\. Mc Menorzinha\)](https://open.spotify.com/track/4pDyOUhDAr7QeM9uh9paVw) | [Holly Hood](https://open.spotify.com/artist/0FYkfDZRHNDMTjTr3ssXWR), [Mc Keke](https://open.spotify.com/artist/41EXHhCz9xfIis6AqurbRp), [MC Rahell](https://open.spotify.com/artist/7cnGj1YA2gDL9BIcWW6lYN), [Mc Menorzinha](https://open.spotify.com/artist/5ZkyHY3e0x1nxnGKQGHocR) | [Noiz Favela](https://open.spotify.com/album/14V0kA9B5XUAeChnYLeJPt) | 2:53 |
 | 346 | [Thug Passion \(ft\. Jewell, Outlawz, The Storm\)](https://open.spotify.com/track/2sm4Gs1uNLGIkPRnelYO8J) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3), [Storm](https://open.spotify.com/artist/2J1LCxl3oT5bN2SpGyalv8), [Outlawz](https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC) | [All Eyez On Me](https://open.spotify.com/album/7HhH3qWRRvTEBt1xRhF2Va) | 5:07 |

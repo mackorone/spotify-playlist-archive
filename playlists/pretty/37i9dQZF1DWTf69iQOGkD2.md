@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTf69iQOGkD2.md) - [plain]
 
 > Sinta o flow do rap em estilo acústico ou romântico\. Foto: Luccas Carlos, Lukinhas, Alee, Duquesa, Sant, MC Cabelinho, Tz da Coronel, Salve Malak
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,759 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,854 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

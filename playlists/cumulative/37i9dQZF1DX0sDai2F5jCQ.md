@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Tyler, The Creator
+> Your shortcut to the best new Hip Hop\. Cover: Gunna
 
-632 songs - 1 day 6 hr 52 min
+633 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 | 2025-06-19 |  |
 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-01-26 | 2024-03-23 |
 | [HITA](https://open.spotify.com/track/3tNPtRyxl1bqSvA7X6n5qz) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [HITA](https://open.spotify.com/album/5mkxe82AB3MUJnejMTgYmM) | 2:35 | 2024-01-11 | 2024-03-15 |
-| [hnic](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 | 2025-06-12 |  |
+| [HNIC](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 | 2025-06-12 |  |
 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 | 2025-02-13 | 2025-03-28 |
 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 | 2023-12-14 | 2024-03-01 |
 | [Hometown](https://open.spotify.com/track/09aJ1FZotZStzoUgJchhwf) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kush](https://open.spotify.com/artist/3zBZhGMFBeqdhCdJB60a5g), [Akz](https://open.spotify.com/artist/7uyql7QaJZdpubTRISfvbK), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [YF](https://open.spotify.com/artist/4qRbNvzOP9UxQIqOIbJMUb), [Kash](https://open.spotify.com/artist/1wDiHQM5CoaSnHrNP3HG5V) | [M.A.R.K](https://open.spotify.com/album/64eGGtowHL74uQ4MnIMZri) | 6:02 | 2023-09-22 | 2023-11-03 |
@@ -312,6 +312,7 @@
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-03 |  |
 | [Jump](https://open.spotify.com/track/7shXP8ZTm6XYEoeSgloKxf) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Jump](https://open.spotify.com/album/0TArz5R8QfyE59vLL4p7Fd) | 2:07 | 2025-05-15 |  |
 | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/49P2pxfkLZa4yfjCRLu0zS) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Jumpy \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/6fskhLyVR5TOU9yAEYtVXQ) | 2:36 | 2025-05-29 |  |
+| [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 | 2025-08-08 |  |
 | [Kat Food](https://open.spotify.com/track/6WYo4HDHHvMJZU1lNebB3V) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Kat Food](https://open.spotify.com/album/0hyOMHe8ZFK0oCZhb2xnks) | 4:46 | 2023-09-22 | 2023-10-06 |
 | [Keep it 600](https://open.spotify.com/track/3sDxvOsvgg4Y00t48YQQUs) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [Keep it 600](https://open.spotify.com/album/76nqxARYsepq6q0zWgyHmF) | 1:39 | 2024-11-21 | 2025-01-10 |
 | [Keep It Moving](https://open.spotify.com/track/1otNlqVX2CmlWyA98afSdr) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Keep It Moving](https://open.spotify.com/album/5KpuWvdMTjfysTeQQMHuYc) | 2:50 | 2025-06-19 |  |
@@ -405,7 +406,7 @@
 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2023-12-07 | 2024-01-26 |
 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 | 2024-04-04 | 2024-06-22 |
 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 | 2024-02-22 | 2024-04-19 |
-| [On McAfee](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 |  |
+| [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 |  |
 | [On My Soul](https://open.spotify.com/track/4eZr40clokPVb8YPgEIjnL) | [J\-MILLA](https://open.spotify.com/artist/1sQJVmNoYaMV05kdys6jy0) | [On My Soul](https://open.spotify.com/album/1gpXKlkQu4jsATJAfEwJCf) | 2:46 | 2023-09-22 | 2023-09-29 |
 | [on one tonight](https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 1:30 | 2025-01-23 | 2025-04-04 |
 | [On Up](https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [On Up](https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c) | 2:30 | 2024-08-01 | 2024-11-15 |

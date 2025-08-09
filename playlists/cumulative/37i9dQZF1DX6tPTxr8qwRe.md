@@ -2,7 +2,7 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ella Boh
+> Dark, hard hitting pop\. Cover: Lydia Night
 
 947 songs - 1 day 19 hr 41 min
 

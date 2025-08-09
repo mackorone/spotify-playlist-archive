@@ -2,7 +2,7 @@
 
 ### [Ensisoitossa](https://open.spotify.com/playlist/37i9dQZF1DXbsb4MvKbVAY)
 
-> Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Baby Blu.
+> Mielenkiintoisimmat biisit ensisoitossa\. Kannessa vivian ja Mikael Laurent.
 
 1,485 songs - 3 day 2 hr 12 min
 
@@ -464,7 +464,7 @@
 | [Hold Me Down](https://open.spotify.com/track/6GuUPu0gwoRmebyWhnPHXP) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hold Me Down](https://open.spotify.com/album/16MadKxDyuPRn8QUiWQFza) | 3:31 | 2025-05-08 | 2025-05-23 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-15 | 2025-03-07 |
 | [Home](https://open.spotify.com/track/6TwFYNkcGBe2zSy1OmBj83) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Home](https://open.spotify.com/album/2hHUs1o7cuS3fwiRyq28VM) | 2:16 | 2025-02-13 | 2025-03-28 |
-| [hometown](https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [hometown](https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ) | 2:54 | 2025-07-31 |  |
+| [hometown](https://open.spotify.com/track/19E4xm8OhtXeQ93ccRCeJJ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [hometown](https://open.spotify.com/album/4RBJ0zVVsPuekjktaVNyeQ) | 2:54 | 2025-07-31 | 2025-08-09 |
 | [Honey Blonde](https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:18 | 2025-05-22 | 2025-05-30 |
 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 | 2024-10-03 | 2025-01-03 |
 | [Hopeareunus](https://open.spotify.com/track/3hAsDXGDuNmfFCq6wLW7lu) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A) | [Hopeareunus](https://open.spotify.com/album/2H6aL1K5b39h0Znc1IGTA0) | 2:46 | 2025-06-19 | 2025-06-27 |
@@ -917,7 +917,7 @@
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2025-03-07 |
 | [Nuori & kuolematon](https://open.spotify.com/track/2atByJ9SAhyxRncHVEcJqs) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Nuori & kuolematon](https://open.spotify.com/album/1mypvjFwLJfFLS3aM07poc) | 2:33 | 2025-02-13 | 2025-03-21 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 | 2024-08-23 |
-| [Nuori Mut Ei Tyhmä](https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nuori Mut Ei Tyhmä](https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0) | 2:39 | 2025-07-31 | 2025-08-08 |
+| [Nuori Mut Ei Tyhmä](https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Nuori Mut Ei Tyhmä](https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0) | 2:39 | 2025-07-31 |  |
 | [Nyt tai ei koskaan](https://open.spotify.com/track/78VmGhwDuQ3QVa2egBjmvB) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Nyt tai ei koskaan](https://open.spotify.com/album/4yiKtKmif9MeZPspSxAjsc) | 2:52 | 2024-08-08 | 2024-08-16 |
 | [Näihin hommiin ei synnytä](https://open.spotify.com/track/1fSck3p58YKlJVRPwOD7GR) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Näihin hommiin ei synnytä](https://open.spotify.com/album/1fgrqR1FWrPEhiDatGo1gL) | 2:45 | 2024-12-26 | 2025-01-17 |
 | [Nää tunnit](https://open.spotify.com/track/6YcauqAPT8qJGupsSQK7xp) | [Jesse Jason](https://open.spotify.com/artist/6H65EkJkWx7ORq04clC4JQ), [Desta](https://open.spotify.com/artist/7n7tM3jQUeYRsEGRPjfsoL) | [Nää tunnit](https://open.spotify.com/album/1On8TDDCMBKPRVOHQhoVPx) | 3:29 | 2025-03-27 | 2025-04-04 |

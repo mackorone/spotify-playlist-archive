@@ -1,6 +1,6 @@
 {
   "description": "Uutta musiikkia tarjoilevat KUUMAA, ibe, Ed Sheeran ja moni muu!",
-  "num_followers": 102436,
+  "num_followers": 102492,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -181,7 +181,7 @@
         }
       ],
       "duration_ms": 149669,
-      "name": "Holy Water (feat. Jelly Roll)",
+      "name": "Holy Water",
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
@@ -252,9 +252,29 @@
           "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 302906,
+      "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
+    },
+    {
+      "added_at": "2025-08-07 21:00:29",
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "forever be mine (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
     },
     {
       "added_at": "2025-08-07 21:00:29",
@@ -695,6 +715,26 @@
     {
       "added_at": "2025-08-07 21:00:29",
       "album": {
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "added_at": "2025-08-07 21:00:29",
+      "album": {
         "name": "Louisiana Stick (with Marcus King)",
         "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
       },
@@ -935,6 +975,30 @@
       "duration_ms": 211717,
       "name": "No Sharing (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
+    },
+    {
+      "added_at": "2025-08-07 21:00:29",
+      "album": {
+        "name": "Life Is Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
     },
     {
       "added_at": "2025-08-07 21:00:29",
@@ -1295,6 +1359,26 @@
       "duration_ms": 217019,
       "name": "A Little Too High",
       "url": "https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ"
+    },
+    {
+      "added_at": "2025-08-07 21:00:29",
+      "album": {
+        "name": "Wavy Crete",
+        "url": "https://open.spotify.com/album/3DVkH8mqscQXvXizos3RcW"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 154423,
+      "name": "Wavy Crete",
+      "url": "https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9"
     },
     {
       "added_at": "2025-08-07 21:00:29",

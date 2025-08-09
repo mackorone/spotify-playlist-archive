@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,532 likes - 90 songs - 14 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,645 likes - 90 songs - 14 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 64 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |
 | 65 | [Ya Zarifa El Toul](https://open.spotify.com/track/00jI5pk3XkSjYdFyOnRLYe) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:25 |
 | 66 | [Zakfe Ya Shabab](https://open.spotify.com/track/3mllE3vXvito7KG8K66w0Y) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Arabic Golden Oldies: Sabah \- Dahabiyat, Vol\. 2](https://open.spotify.com/album/3t2DQoQFV3TqWV5O9Grh5I) | 4:43 |
-| 67 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
-| 68 | [Asmar](https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw) | 5:33 |
+| 67 | [Asmar](https://open.spotify.com/track/2Fp144BJRrhBCVqPrvMiEL) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Asmar](https://open.spotify.com/album/5bBcBosPm1cZ97jBX0EcGw) | 5:33 |
+| 68 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 69 | [E’tazalt El Gharam](https://open.spotify.com/track/0EHJC0aoO4nFAe3e78wmCR) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [E'tazalt El Gharam](https://open.spotify.com/album/2s0iZB9XjgR3ECqidQUX17) | 7:47 |
 | 70 | [Ya Mersal El Marasil](https://open.spotify.com/track/6uWynf5XF8QU8e9Kt5GbWp) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Philemon Wehbe Volume 1](https://open.spotify.com/album/6D8vPAEk4mcLfCuc9P7v3m) | 3:46 |
 | 71 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |

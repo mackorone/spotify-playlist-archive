@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 29761,
+  "num_followers": 29780,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAD+Azf2TzjD3WL0bytRDPc3",
+  "snapshot_id": "aJPsgAAAAACj5dsBi/rAX1Z+qUPYhF/R",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DYNASTY",
-        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 178375,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON",
         "url": "https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 140805,
       "name": "MALVADA (with Kali Uchis & KHEA)",
       "url": "https://open.spotify.com/track/0oW1upYPuCWkarwMWZD0NK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 178375,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
     },
     {
       "added_at": null,

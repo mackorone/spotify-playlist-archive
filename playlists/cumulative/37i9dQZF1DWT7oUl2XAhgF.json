@@ -3195,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "Hey Love",
+        "url": "https://open.spotify.com/album/2kxt91TuSZs8oVZLdnUTqQ"
+      },
+      "artists": [
+        {
+          "name": "Andre Cruz",
+          "url": "https://open.spotify.com/artist/6kPQPpj7oO66alKfJ0HLAc"
+        },
+        {
+          "name": "Chris Lujan",
+          "url": "https://open.spotify.com/artist/20yrXToJfrdkRE1INbJAEm"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Hey Love",
+      "url": "https://open.spotify.com/track/2QCePQDb57q6AtONAy5Usv"
+    },
+    {
+      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -4874,7 +4896,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -6763,6 +6785,24 @@
     },
     {
       "album": {
+        "name": "Redwood Highway",
+        "url": "https://open.spotify.com/album/7df0PSMK26LdEoFg3Klux6"
+      },
+      "artists": [
+        {
+          "name": "The California Honeydrops",
+          "url": "https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282800,
+      "name": "Redwood Highway",
+      "url": "https://open.spotify.com/track/1XNEwekHRd1vPGg9rjIKB0"
+    },
+    {
+      "album": {
         "name": "Big Crown Vaults Vol. 1 - Lee Fields & The Expressions",
         "url": "https://open.spotify.com/album/2uKHclIQ4IphYCgJyKfSCe"
       },
@@ -7454,7 +7494,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 218271,
       "name": "Shine Delight",
       "url": "https://open.spotify.com/track/50WXXxu0bmhZiZFnLjMVy6"

@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-253 songs - 19 hr 28 min
+255 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 | 2023-08-18 | 2025-01-18 |
 | [My Love Is Your Love \- Live from Late Show with David Letterman](https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 3:46 | 2022-04-14 | 2025-01-18 |
 | [New Americana \- Live From Webster Hall](https://open.spotify.com/track/6WjeOpJIcApl0DvMLaCi0K) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:19 | 2022-04-29 | 2025-01-18 |
+| [NEW DANCE \- XG 1st WORLD TOUR “The first HOWL” Live](https://open.spotify.com/track/658hylEdnhXnGmkn8UlmGP) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [XG 1st WORLD TOUR “The first HOWL” Live](https://open.spotify.com/album/7wc6dDr4ZLv0qA2geapqTY) | 3:53 | 2025-08-08 |  |
 | [New Rules \- Live](https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Live\)](https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc) | 4:35 | 2022-04-14 | 2025-01-18 |
 | [No One \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Inesquecivel Sao Paulo Brazil \(Live From Allianz Parque Sao Paulo Brazil\)](https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp) | 6:53 | 2023-05-14 | 2024-12-07 |
 | [No One \- Live at Metropolis Studios, New York, NY \- May 2013](https://open.spotify.com/track/0BleHROB2SxV7jv9dOQr7J) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Alicia Keys \- VH1 Storytellers](https://open.spotify.com/album/2JimBGRjtQcmMriFKlNaf9) | 6:09 | 2022-04-14 | 2022-07-29 |
@@ -198,6 +199,7 @@
 | [Something In The Orange \- Live From Spotify Studios](https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 4:02 | 2023-11-03 |  |
 | [Sorry \- Live](https://open.spotify.com/track/4UlDVPKXlZhdV7HasSq4J1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 5:03 | 2022-04-29 | 2025-01-18 |
 | [Star People \- Live](https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:15 | 2022-04-14 | 2023-08-19 |
+| [Stargazing \- Live at Eventim Apollo](https://open.spotify.com/track/3X1KhC6ygB8vb66ewgUq3t) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing \(Live at Eventim Apollo\)](https://open.spotify.com/album/4j6KwjNkSjnAAggyFoLDs4) | 3:24 | 2025-08-08 |  |
 | [Stars \- Live at Sydney Opera House](https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Farewell: Live in Concert at Sydney Opera House](https://open.spotify.com/album/2ROL02gUpj3nTbB6CCuEz3) | 4:05 | 2022-08-09 | 2023-08-19 |
 | [Stars \- Live at Sydney Opera House](https://open.spotify.com/track/6geJhBG56BPyH1tG9FvFoO) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Farewell: Live in Concert at Sydney Opera House](https://open.spotify.com/album/6mGVxGqS2MW9MHyA2BHfbD) | 4:05 | 2022-04-14 | 2022-10-17 |
 | [Stay With Me \- Live From The Royal Albert Hall](https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:13 | 2023-04-14 |  |

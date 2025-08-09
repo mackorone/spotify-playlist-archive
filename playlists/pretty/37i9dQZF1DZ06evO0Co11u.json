@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 194045,
+  "num_followers": 194054,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAANp8sBuQEFbq3EZ72oIt6v",
+  "snapshot_id": "aJPsgAAAAAC3UnQzeMwEYRtQcAt622d/",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo Sings",
-        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Kiss Of Fire",
-      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 204333,
       "name": "(When We Are Dancin') I Get Ideas - Single Version",
       "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satchmo Sings",
+        "url": "https://open.spotify.com/album/02UO3sLoeFzfooxg02pO34"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Kiss Of Fire",
+      "url": "https://open.spotify.com/track/6CpHznEM3XknffOqhduhg0"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "Give Me Your Kisses",
+      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 240040,
       "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "Give Me Your Kisses",
-      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
     },
     {
       "added_at": null,

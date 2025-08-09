@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 167361,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/38VkGQ4Sumz99xja6TCs7z"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-14",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "Nuketown (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9"
@@ -1776,10 +1776,32 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 230502,
       "name": "The Way (with XXXTENTACION)",
       "url": "https://open.spotify.com/track/0CI5vcGTYHWfVEelog0lPr"
+    },
+    {
+      "album": {
+        "name": "Legends Never Die (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230502,
+      "name": "The Way (with XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh"
     },
     {
       "album": {

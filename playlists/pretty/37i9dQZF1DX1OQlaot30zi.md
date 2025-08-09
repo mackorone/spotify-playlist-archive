@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Don Joe con Low Red e RRARI DAL TACCO,  LILCR e Rhove, JELECROIS e Sau27, Don Said e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,087 likes - 129 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,092 likes - 129 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

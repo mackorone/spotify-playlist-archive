@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3Ds9IjnaNOAcEIWURkzJqs">Mark Ronson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,859 likes - 79 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,861 likes - 79 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 43 | [Summer Breaking \(feat\. Kevin Parker\)](https://open.spotify.com/track/3hoh1AoKwuC3VZ8CYj6YA9) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 3:07 |
 | 44 | [Truth \(feat\. Alicia Keys & The Last Artful, Dodgr\)](https://open.spotify.com/track/36m0ktASmXMN1Co2TCfIl2) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:48 |
 | 45 | [Million Reasons \- Andrelli Remix](https://open.spotify.com/track/0zf56ykB0pVddnwcQkWSlK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Million Reasons \(Andrelli Remix\)](https://open.spotify.com/album/5hm4Q0TO8mEbJCBLYMzhse) | 4:04 |
-| 46 | [Loud](https://open.spotify.com/track/556LJMJMhRJUNb4IggLTMM) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Loud](https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ) | 3:19 |
-| 47 | [Last Damn Night](https://open.spotify.com/track/3aSEEMOW6ezxuwtQxO9AEt) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff \(Japan Version\)](https://open.spotify.com/album/7m4d3jbswZ7fy8aeLAcbsa) | 4:02 |
+| 46 | [Last Damn Night](https://open.spotify.com/track/3aSEEMOW6ezxuwtQxO9AEt) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff \(Japan Version\)](https://open.spotify.com/album/7m4d3jbswZ7fy8aeLAcbsa) | 4:02 |
+| 47 | [Loud](https://open.spotify.com/track/556LJMJMhRJUNb4IggLTMM) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Loud](https://open.spotify.com/album/4esQRJHaiTQycN77tdw8fZ) | 3:19 |
 | 48 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 |
 | 49 | [HOT](https://open.spotify.com/track/6rjdminyj1lHQjLLnCG0rB) | [The Last Artful, Dodgr](https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n) | [Hits Of Today](https://open.spotify.com/album/1jHO2EMilNQVl5JnMRtQU3) | 3:13 |
 | 50 | [Brand New Car](https://open.spotify.com/track/4hByccjFgwspJb9xjO63I3) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Mr\. Wonderful](https://open.spotify.com/album/7ijgeLAW3W3vZ9jf6tozFq) | 2:21 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGh9GoFLoKEC.md) - [plain]
 | 78 | [Do You Do You Know \(feat\. Santigold & Kathleen Hanna\)](https://open.spotify.com/track/6jN57Tbx38RDQ7eEGoH1Fd) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p), [Kathleen Hanna](https://open.spotify.com/artist/0NXQFDQVqS7ffqT8yLKUAM) | [Watch the Sound With Mark Ronson \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/625HHeWPzF6TRJlij0wqzv) | 2:31 |
 | 79 | [Hell To Be You Baby](https://open.spotify.com/track/1AJsGxc2WejmcdXbxX50uk) | [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Hell To Be You Baby](https://open.spotify.com/album/48BuHR7I9Nauw1WA60OhTy) | 3:55 |
 
-Snapshot ID: `Ab45XAAAAADu3/vstgOAjbAXTT/TB7Bc`
+Snapshot ID: `Ab4+/AAAAACOo/jwgk+YpRRcJ45qFy/d`

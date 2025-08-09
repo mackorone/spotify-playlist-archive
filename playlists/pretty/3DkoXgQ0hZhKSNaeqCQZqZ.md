@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > Made for furs, by furs\.  New Twitter @FurryRadio
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 650 likes - 367 songs - 19 hr 15 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 650 likes - 368 songs - 19 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -375,5 +375,6 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 365 | [Take Me Up](https://open.spotify.com/track/1GyuPucfVlZAHw7CUmq4eo) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Take Me Up](https://open.spotify.com/album/5krEvaWqSRz6A7J9NGtbl7) | 2:55 |
 | 366 | [Lone Skater](https://open.spotify.com/track/0vzIdVmpB0rSfGJROfIBLM) | [Coyotlito](https://open.spotify.com/artist/1F7KNLune1lzFAFya3FB2R), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Lone Skater](https://open.spotify.com/album/3sZBlDT9gNYi6YCDP5PvkN) | 3:44 |
 | 367 | [THE ANSWER](https://open.spotify.com/track/1WAjkenGGMIGhDL6bK5BRn) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [IN THE DARK / THE ANSWER](https://open.spotify.com/album/5XFda23kFtFtWgGSAU1NaK) | 3:50 |
+| 368 | [Streetlight By Streetlight](https://open.spotify.com/track/7nns2Zg9w0wuFbnYZiFEHC) | [This Is The Glasshouse](https://open.spotify.com/artist/090FV8x5cK3p3WwKnQXyFk) | [867](https://open.spotify.com/album/58Llb22QYZsh84c79agEnc) | 5:36 |
 
-Snapshot ID: `AAAD1LI7LvdeLnO0qAfrZbkub/N0wDdF`
+Snapshot ID: `AAAD1XgmFvV4GK+Z/YTtWfUyJOaQx73H`

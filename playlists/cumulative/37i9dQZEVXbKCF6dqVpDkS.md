@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-2,000 songs - 4 day 7 hr 13 min
+2,001 songs - 4 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 | 2023-05-27 | 2023-06-24 |
 | [Hockeymeisjes](https://open.spotify.com/track/1wxQq2r5Pq5KYuhPJuQeMP) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [IMMO](https://open.spotify.com/artist/1zlx9LAYExPmx4IlmAAJwu) | [Hockeymeisjes](https://open.spotify.com/album/5alNqB8FQjeKViSTJFa6V5) | 3:36 | 2022-01-15 | 2022-01-17 |
 | [Hoe Het Is](https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Hoe Het Is](https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC) | 2:31 | 2025-07-19 |  |
+| [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 | 2025-08-08 |  |
 | [Hoe Niet?](https://open.spotify.com/track/6aYVLuOO66f5LGDR9rjnOe) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ) | [Hoe Niet?](https://open.spotify.com/album/1u4d7f9agF6T97auRE8tiT) | 3:00 | 2022-01-02 | 2022-03-06 |
 | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/track/5VlumpV7P0bentTmUG4471) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Hoe Zou Het Zijn Geweest](https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a) | 3:01 | 2025-05-03 | 2025-05-05 |
 | [Hold Me Closer](https://open.spotify.com/track/697bFWgzBRm6bmnYWd8GyD) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Hold Me Closer](https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao) | 3:19 | 2022-05-16 | 2022-05-26 |
@@ -889,7 +890,7 @@
 | [Illusion](https://open.spotify.com/track/5q0EXnBYyeCdXD72FzJxH0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:08 | 2024-05-04 | 2024-05-12 |
 | [In De Goot](https://open.spotify.com/track/0DSgGoqTqx6Wof5xDEAwST) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [LIJPE](https://open.spotify.com/album/3eULQQ3G5JagLpMYx5VHCH) | 2:33 | 2022-12-03 | 2022-12-05 |
 | [In De Goot](https://open.spotify.com/track/0e0vYAPSEvR9wkiCGE2nin) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [In De Goot](https://open.spotify.com/album/7Kq3g34php4lnzdfP8CjaS) | 2:33 | 2022-06-11 | 2022-07-03 |
-| [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 | 2025-06-27 |  |
+| [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 | 2025-06-27 | 2025-08-09 |
 | [In De Nacht](https://open.spotify.com/track/5Epo9KIQxMprDVCaPzfnys) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [In De Nacht](https://open.spotify.com/album/6fyLVAtPIAPNc4twVtiyXo) | 3:26 | 2021-10-23 | 2022-03-13 |
 | [In De Schuur](https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 3:01 | 2021-03-27\* | 2021-05-23 |
 | [In Die Tijd](https://open.spotify.com/track/49RybLTXNA6OkhxDR1KRL9) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Selfmade](https://open.spotify.com/album/55afGc64Had70T8GfW2jOt) | 3:06 | 2021-09-05 | 2021-09-09 |

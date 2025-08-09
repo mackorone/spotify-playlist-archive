@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Circe",
+        "url": "https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp"
+      },
+      "artists": [
+        {
+          "name": "Lilith Max",
+          "url": "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187582,
+      "name": "Circe",
+      "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
+    },
+    {
+      "album": {
         "name": "Class Crush",
         "url": "https://open.spotify.com/album/48ge6RxK7xHUdiYyezk37s"
       },
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 188664,
       "name": "Moviestar",
       "url": "https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip"
@@ -7289,6 +7307,24 @@
     },
     {
       "album": {
+        "name": "Super Elastic",
+        "url": "https://open.spotify.com/album/0asGNH0icImyJfXZ8W9Uw5"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183313,
+      "name": "Super Elastic",
+      "url": "https://open.spotify.com/track/2CgAq41E94POR8ijS59Ztv"
+    },
+    {
+      "album": {
         "name": "Profiterole Vision",
         "url": "https://open.spotify.com/album/0zlvNF1zKtII3yAyG6sjFc"
       },
@@ -7412,7 +7448,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 133000,
       "name": "Texas Primadonna",
       "url": "https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO"

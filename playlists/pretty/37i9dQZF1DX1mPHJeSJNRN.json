@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 21342,
+  "num_followers": 21345,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "Essential Standards",
+        "url": "https://open.spotify.com/album/0AvwcTbn5qkcniAQtQnkR7"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Look For The Silver Lining",
+      "url": "https://open.spotify.com/track/5UMb3v7N65qkSNZVxtIaAI"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "The Lost Tapes",
         "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 247149,
       "name": "When the Sun Comes Out",
       "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Essential Standards",
-        "url": "https://open.spotify.com/album/0AvwcTbn5qkcniAQtQnkR7"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Look For The Silver Lining",
-      "url": "https://open.spotify.com/track/5UMb3v7N65qkSNZVxtIaAI"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
-      },
-      "artists": [
-        {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
-        }
-      ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
+      },
+      "artists": [
+        {
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
+        }
+      ],
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Flirting With Twilight",
-        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 297726,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 381560,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 297726,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1407,6 +1407,34 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "I'm Glad There Is You",
+        "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
+      },
+      "artists": [
+        {
+          "name": "Heidi Skjerve",
+          "url": "https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB"
+        },
+        {
+          "name": "Daniel Formo",
+          "url": "https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz"
+        },
+        {
+          "name": "Bj\u00f8rn Marius Hegge",
+          "url": "https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj"
+        },
+        {
+          "name": "H\u00e5kon Mj\u00e5set Johansen",
+          "url": "https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "Simple Life",
         "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
       },
@@ -1439,34 +1467,6 @@
       "duration_ms": 401235,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "I'm Glad There Is You",
-        "url": "https://open.spotify.com/album/2C6nFIz4Dc9zkXldL1cxbl"
-      },
-      "artists": [
-        {
-          "name": "Heidi Skjerve",
-          "url": "https://open.spotify.com/artist/7yQwGCbUgmOy5uK5GpqUQB"
-        },
-        {
-          "name": "Daniel Formo",
-          "url": "https://open.spotify.com/artist/1TE9dWxNyEb7IHOyJRFHLz"
-        },
-        {
-          "name": "Bj\u00f8rn Marius Hegge",
-          "url": "https://open.spotify.com/artist/0iXjovxW8QucGrQeA8KzKj"
-        },
-        {
-          "name": "H\u00e5kon Mj\u00e5set Johansen",
-          "url": "https://open.spotify.com/artist/34geeAnKKUjjNBe6byjL5I"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/19DtZpLaBGZHQARScc4c5F"
     },
     {
       "added_at": "2025-03-13 14:14:40",

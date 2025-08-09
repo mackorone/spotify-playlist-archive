@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is the range of R&B in Canada. Elevate your aura with Daniel Caesar from Scarborough, ON.",
+  "description": "This is the range of R&B in Canada. Elevate your aura with Os\u00e9 from Toronto, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -288,6 +288,24 @@
       "duration_ms": 182318,
       "name": "23 SPECIAL",
       "url": "https://open.spotify.com/track/7Li8IkGfaLNt8nsxcpVxvl"
+    },
+    {
+      "album": {
+        "name": "24HRS",
+        "url": "https://open.spotify.com/album/52dv4vbUbGNNOgkodgswJY"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182615,
+      "name": "24HRS",
+      "url": "https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX"
     },
     {
       "album": {
@@ -1376,6 +1394,24 @@
       "duration_ms": 166753,
       "name": "All Yours (with Amaria & Dylan Sinclair)",
       "url": "https://open.spotify.com/track/1xdi96EWM6cvxewy00XVqK"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145120,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF"
     },
     {
       "album": {
@@ -3462,7 +3498,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 242573,
       "name": "Call Cain",
       "url": "https://open.spotify.com/track/2fHPSOnQ6u0vcs2QftY3up"
@@ -9304,7 +9340,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 182906,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"

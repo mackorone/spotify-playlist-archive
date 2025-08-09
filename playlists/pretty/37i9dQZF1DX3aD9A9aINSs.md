@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Selin
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,346 likes - 76 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,377 likes - 76 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

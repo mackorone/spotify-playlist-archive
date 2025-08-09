@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,998 likes - 62 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,005 likes - 62 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

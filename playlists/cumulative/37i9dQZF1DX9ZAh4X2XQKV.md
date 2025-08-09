@@ -4,7 +4,7 @@
 
 > this is what's up in the world of Latin and beyond.
 
-60 songs - 3 hr 11 min
+61 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,9 +27,10 @@
 | [DUMBAI](https://open.spotify.com/track/2Fi6RtngvStwsjskvwabVT) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:28 | 2025-05-21 | 2025-07-19 |
 | [ETA \- RMX](https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 7:42 | 2025-05-21 |  |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-07-08 |  |
+| [Gabriela \(with Young Miko\) \- Young Miko Remix](https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Gabriela \(with Young Miko\) \[Young Miko Remix\]](https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1) | 3:18 | 2025-08-08 |  |
 | [La Mentira](https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:46 | 2025-07-08 |  |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 | 2025-05-21 |  |
-| [LA ULTIMA VEZ](https://open.spotify.com/track/0NGz9DiN1pGvvB8wG9qBi4) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [mariano](https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9) | [LA ULTIMA VEZ](https://open.spotify.com/album/7KeFVEFiQfzlK2ltgbuZqN) | 2:21 | 2025-05-21 |  |
+| [LA ULTIMA VEZ](https://open.spotify.com/track/0NGz9DiN1pGvvB8wG9qBi4) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra), [mariano](https://open.spotify.com/artist/7eotpUg41HqaEqJPKOm1L9) | [LA ULTIMA VEZ](https://open.spotify.com/album/7KeFVEFiQfzlK2ltgbuZqN) | 2:21 | 2025-05-21 | 2025-08-09 |
 | [LOKiTA](https://open.spotify.com/track/2a4xiwEChjGcdbRbeaDAmG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [111XPANTIA \(Deluxe\)](https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT) | 3:29 | 2025-05-21 |  |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-07-08 |  |
 | [me extrañas? :\(](https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [me extrañas? :\(](https://open.spotify.com/album/4NdO2JUQYoZOQctoPecAOn) | 3:27 | 2025-05-21 |  |

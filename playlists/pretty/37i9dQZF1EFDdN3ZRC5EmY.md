@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,916 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,918 likes - 74 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 20 | [Apple Juice](https://open.spotify.com/track/1PxE9RK6FBEp42F9QwzZyn) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:00 |
 | 21 | [Go For Broke \(feat\. James Arthur\)](https://open.spotify.com/track/7w1JDEjmXYw2DwllK1EwCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [bloom](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) | 3:30 |
 | 22 | [Body Count \(feat\. Normani & Kehlani\) \- Remix](https://open.spotify.com/track/4o7WXic8yAQWOV7iJXZ4jD) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 2:38 |
-| 23 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
-| 24 | [\*\*JEANS \(with MIGUEL\)\*\*](https://open.spotify.com/track/5ZIGspcGWW7LOaVJXQB6Av) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:15 |
+| 23 | [\*\*JEANS \(with MIGUEL\)\*\*](https://open.spotify.com/track/5ZIGspcGWW7LOaVJXQB6Av) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [PAID IN MEMORIES](https://open.spotify.com/album/5L3z1dICHHIS9FWewUhvu9) | 3:15 |
+| 24 | [LOVE IN THE DARK](https://open.spotify.com/track/5x2lZUtUdC4OifINwav94P) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:59 |
 | 25 | [Pretending \(feat\. Jessie Reyez\)](https://open.spotify.com/track/0brzJEyCEVzjAQsCgCqxqb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [International Artist](https://open.spotify.com/album/6opJjTuHd4tQ1h2qrus7jH) | 2:57 |
 | 26 | [FEELS LIKE HOME](https://open.spotify.com/track/0T9un1tCka7l3lwsJmmLLU) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [FEELS LIKE HOME](https://open.spotify.com/album/5HHEFnwQ2n6rkUOiRLkv3G) | 3:31 |
 | 27 | [Gatekeeper](https://open.spotify.com/track/2VzpKY6w1RGr5J0Fz5pmKa) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 3:14 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 73 | [Where Do We Come From? \(feat\. ISHMAEL & Elle Yaya\)](https://open.spotify.com/track/6RJjHt3ZaghTvtlu53AgeJ) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [ISHMAEL](https://open.spotify.com/artist/5zjOfDUpwoXpMQcWV9ULD4), [Elle Yaya](https://open.spotify.com/artist/5LmRH2CD6Qqn1H8Zc36dMR) | [Voyager](https://open.spotify.com/album/6inskjOXMnEFnxt0QUFFYu) | 6:09 |
 | 74 | [Brand New](https://open.spotify.com/track/4X8wy3qfk5GHUtR9JyrjR2) | [Young Quicks](https://open.spotify.com/artist/5WtvL5NDnjl0j1V29dpy9p) | [Young, Fly & Latino \(Y.F.L\)](https://open.spotify.com/album/1D6CZYk8M3RIbeVgDipD87) | 3:54 |
 
-Snapshot ID: `Ab45ZgAAAADTQbxrUPxuThHn0FYUlH4E`
+Snapshot ID: `Ab4+8gAAAADJm85r08exy5Rxe7kQuja4`

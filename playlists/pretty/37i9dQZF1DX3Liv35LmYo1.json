@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1400,
+  "num_followers": 1403,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "SUBSET",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "SUBSET",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "ENCLOSURE",
         "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 333694,
       "name": "I Wanted More",
       "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
     },
     {
       "added_at": "2023-08-31 14:00:00",

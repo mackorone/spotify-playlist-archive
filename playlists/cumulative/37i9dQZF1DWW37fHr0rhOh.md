@@ -4,7 +4,7 @@
 
 > Always there, always true!  These are the songs, old and new, you can count on time after time\.  Cover: Gaither Vocal Band
 
-197 songs - 12 hr 24 min
+198 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Sometimes It Takes A Mountain](https://open.spotify.com/track/5XX76HSOKKdewC3wZ49sdo) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Sometimes It Takes A Mountain](https://open.spotify.com/album/2usnTODE7Mg6aFw7Licbkh) | 5:40 | 2021-08-13 | 2024-07-04 |
 | [Sometimes It Takes A Mountain](https://open.spotify.com/track/6WLtVTxSBD5kZxuHsxGoag) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Gaither Classics](https://open.spotify.com/album/6Bd2Fn0S5Q6kADVDA7tcUO) | 5:42 | 2021-08-13 | 2022-11-14 |
 | [Sound of the Righteous](https://open.spotify.com/track/5PwPsPxduI8iALLGTxLJoX) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [Unstoppable God](https://open.spotify.com/album/5BKEljGYBR8TuBoCGwDH9t) | 4:27 | 2024-07-04 | 2024-08-31 |
+| [Sweet, Sweet Spirit](https://open.spotify.com/track/4YPxHaFJaQr2GzrVpzYCLm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Sweet, Sweet Spirit](https://open.spotify.com/album/1dRCmnwkcfY4mikAqcczFZ) | 2:31 | 2025-08-08 |  |
 | [Sweeter As The Days Go By](https://open.spotify.com/track/1JQUWd3mO8X9juFK9Nzn2H) | [Canton Junction](https://open.spotify.com/artist/7HuVvxJh7p17tDsVFYIUx9) | [Show Me Your Way](https://open.spotify.com/album/3cO5SSGv1DEnnGTyDQ1YYc) | 5:32 | 2021-08-13 | 2025-04-12 |
 | [Sweeter as the Days Go By](https://open.spotify.com/track/7G6WP9xJHIa18Kr6hFKPoI) | [Canton Junction](https://open.spotify.com/artist/7HuVvxJh7p17tDsVFYIUx9) | [Show Me Your Way](https://open.spotify.com/album/2iiRvEnI8qJCBmxfKZfeDT) | 5:34 | 2021-08-13 | 2024-04-19 |
 | [Take A Stand](https://open.spotify.com/track/40Q0xGbMdYZeKyIk76AAQh) | [Carolina Boys Quartet](https://open.spotify.com/artist/5LoKr7xQFkzgaUw158cXFM) | [Take A Stand](https://open.spotify.com/album/1oEufNB9iwhVOZigPYWhoH) | 3:23 | 2021-08-13 | 2024-07-04 |
@@ -171,7 +172,7 @@
 | [There Is A Love](https://open.spotify.com/track/0Gqo3QNcrrkCXPXPTSfMN3) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/6NcCjEtZ6wakLRRKC1Kp57) | 2:51 | 2021-08-13 | 2024-04-19 |
 | [There Is A Love](https://open.spotify.com/track/5WWpf8gDtQ3gxFGLvNugz4) | [Soul'd Out Quartet](https://open.spotify.com/artist/1nCT9uoN7dBI1vXtcGvE9m) | [Great Life](https://open.spotify.com/album/1UVoAj6uNcI387Fd4679ct) | 2:51 | 2021-08-13 | 2024-07-04 |
 | [There's A Hole in the Heart](https://open.spotify.com/track/4mHjtYE0c51pFxHkgVJeRH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [There's A Hole in the Heart](https://open.spotify.com/album/1BxJsXl0vw15BRmbNFQdf6) | 3:21 | 2024-07-19 | 2024-08-31 |
-| [There's A Hole In The Heart Of This Country](https://open.spotify.com/track/2aJ5NVUTwygdI1aoXUJEW1) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [There's A Hole In The Heart Of This Country](https://open.spotify.com/album/1gmev2OhyLBI1wRemnYPp1) | 3:09 | 2025-07-11 |  |
+| [There's A Hole In The Heart Of This Country](https://open.spotify.com/track/2aJ5NVUTwygdI1aoXUJEW1) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [There's A Hole In The Heart Of This Country](https://open.spotify.com/album/1gmev2OhyLBI1wRemnYPp1) | 3:09 | 2025-07-11 | 2025-08-09 |
 | [There's a Medicine for That](https://open.spotify.com/track/56FlVcErsldpsCHePXb0qQ) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [There's a Medicine for That](https://open.spotify.com/album/2ML845CbiW8K1tH1LP133c) | 5:26 | 2025-07-11 |  |
 | [Thinking 'Bout Home \- Live](https://open.spotify.com/track/6xxUWn3zrgrMieEFUZRR9Z) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Thinking 'Bout Home \(Live\)](https://open.spotify.com/album/2JsF6YxWsHttLPXvlr8940) | 4:05 | 2021-08-13 | 2024-07-04 |
 | [This Storm](https://open.spotify.com/track/4LC1Ykr1vVF1mDshUoVHIf) | [Brian Free & Assurance](https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0) | [This Storm \(Single\)](https://open.spotify.com/album/4mqWPtWLNt05DoJRj8Wzss) | 3:18 | 2021-08-13 | 2024-07-04 |

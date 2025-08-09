@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-430 songs - 1 day 1 hr 40 min
+431 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Lover/Friend](https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7) | 4:19 | 2024-05-24 |  |
 | [Loving Excuse featuring Benny Sings](https://open.spotify.com/track/4tblAFrAQyxbhiBGYfvgyA) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving Excuse featuring Benny Sings](https://open.spotify.com/album/5X8jlMiXZGUpo1yvaj34bl) | 2:53 | 2025-02-27 |  |
 | [Loving Game](https://open.spotify.com/track/4WX5mpZqlMxAJifk8TzmKB) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Loving Game](https://open.spotify.com/album/5N1U9cCnhW8tH2h3vvQojQ) | 2:29 | 2023-02-02 | 2025-03-14 |
+| [Lucky \(Song 7\)](https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lucky \(Song 7\)](https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa) | 3:51 | 2025-08-08 |  |
 | [Lucky Night](https://open.spotify.com/track/2WTiI88fYaKK7VskAKJv6f) | [GOSTO](https://open.spotify.com/artist/5CEZ2102fh2JlfPrsBdSeJ) | [Lucky Night](https://open.spotify.com/album/4pkI91H2N6j1aCrb406g81) | 4:20 | 2022-09-09 | 2024-07-12 |
 | [Mama's House](https://open.spotify.com/track/0HRIdpyDnnLqX5Aqs1akD7) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [Mama's House](https://open.spotify.com/album/1tP4eSuCiI4ayCrXNDVbi9) | 3:23 | 2022-09-09 | 2024-08-30 |
 | [Mamao](https://open.spotify.com/track/7Hbyftz8YSn8n4GbbFrBrW) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Always Moving \(Streaming Version\)](https://open.spotify.com/album/3wQ1ySEWxiVQ1lJdlZgZb1) | 4:40 | 2025-05-19 |  |

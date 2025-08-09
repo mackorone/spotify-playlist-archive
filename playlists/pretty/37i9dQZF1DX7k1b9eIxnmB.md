@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,072 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,097 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 20 | [Dhevadhai Pol](https://open.spotify.com/track/2l6EMBHsl26cnhWlsGSdeK) | [Deepan Chakravarthy](https://open.spotify.com/artist/6r7P5L1lGFToFz6vwDcGdT), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [S\. N\. Surendar](https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:05 |
 | 21 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 |
 | 22 | [Empattu Empaattu](https://open.spotify.com/track/6bggBHnFAGyDb6Bk7bgAmU) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Poomani](https://open.spotify.com/album/1DIwoEGNwIOslzt45TpTVB) | 4:44 |
-| 23 | [Thooliyile Ada Vantha \- Male Version](https://open.spotify.com/track/3gx3UjoX7iBUl3G49AwI6u) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Chinna Thambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t) | 4:41 |
+| 23 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
 | 24 | [Rakkamma](https://open.spotify.com/track/5Dz833K7JjMXhYSaYqcW8R) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Thalapathi](https://open.spotify.com/album/49aJppWozUgAxp8D8D6e6U) | 7:08 |
-| 25 | [Kuyil Paattu \(Happy\)](https://open.spotify.com/track/5JLkSyqJTKKuuyeT3kBKIb) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [En Rasavin Manasile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM) | 4:54 |
-| 26 | [Isaiyil Thodanguthamma](https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4) | [Ajai Chakravarthi](https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 5:44 |
+| 25 | [Thooliyile Ada Vantha \- Male Version](https://open.spotify.com/track/3gx3UjoX7iBUl3G49AwI6u) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um) | [Chinna Thambi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t) | 4:41 |
+| 26 | [Kuyil Paattu \(Happy\)](https://open.spotify.com/track/5JLkSyqJTKKuuyeT3kBKIb) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [En Rasavin Manasile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM) | 4:54 |
 | 27 | [Annan Enna Thambi Enna](https://open.spotify.com/track/62AFtKJzjOxGx27oXM0z2i) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Dharma Durai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB) | 5:00 |
 | 28 | [Maalai Yen Vedhanai](https://open.spotify.com/track/5OxzBgOYuDr1Q8d5Wbu8Yp) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Arunmozhi](https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f) | [Sethu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5QWMNtbaGSMR30b3ny4ug8) | 5:01 |
 | 29 | [Ettanaa](https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD) | [Vadivelu](https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 4:50 |

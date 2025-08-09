@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Charley Crockett
+> A new shade of Country\. Cover: Margo Price
 
-638 songs - 1 day 14 hr 53 min
+640 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2023-01-14 |
 | [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2023-07-22 |
 | [Born Tough](https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Born Tough](https://open.spotify.com/album/4evgvJle8aN0wyy5K5plu6) | 3:51 | 2022-08-26 | 2023-03-04 |
+| [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc) | 3:35 | 2025-08-08 |  |
 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 | 2024-03-02 |
 | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/track/1cc7aIBaKIsqc3qtev7OqR) | [Ashley Ray](https://open.spotify.com/artist/1QAhUwf00n5kEnLN7cADG8), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/album/3ZwAfNsL44QuYkOA0rCzk0) | 3:36 | 2023-06-16 | 2023-09-30 |
 | [Breaking Point](https://open.spotify.com/track/0oP1BhXWDnjhpLXoZmMkBU) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 2:50 | 2021-12-17 | 2022-01-22 |
@@ -291,7 +292,7 @@
 | [I Know](https://open.spotify.com/track/6rYnkkiwRDrJlNnkV1jc0R) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [I Know](https://open.spotify.com/album/26Y1K8zcHQ47LUM53dlie5) | 4:14 | 2022-06-24 | 2023-07-15 |
 | [I Need Your Love](https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY) | 3:21 | 2022-07-22 | 2022-08-13 |
 | [I Need Your Love](https://open.spotify.com/track/7DrV8qvP5o1SWonZelyQuX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Music City USA](https://open.spotify.com/album/4vMGuocZFMQUaI9eiUjyiG) | 3:21 | 2021-12-17 | 2022-07-29 |
-| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 |  |
+| [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-08-25 | 2025-08-09 |
 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2024-03-22 | 2024-04-19 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-08 |  |
 | [I'll Love You Till The Day I Die](https://open.spotify.com/track/29OpRCARyWm4wKTnxwJwYm) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I'll Love You Till The Day I Die](https://open.spotify.com/album/3gYh2TfRI8P8xSrQyQPGZl) | 4:11 | 2022-02-11 | 2022-04-29 |
@@ -358,6 +359,7 @@
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 | 2022-05-07 |
 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 | 2021-12-17 | 2023-01-21 |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-18 | 2022-04-29 |
+| [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 | 2025-08-08 |  |
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-05 | 2022-11-12 |
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-02-03 |  |
 | [Love Is A Magnet](https://open.spotify.com/track/6Whw6zB6yZhUjvCWQXqXyB) | [Cabin Boys](https://open.spotify.com/artist/5GlWWZv89kI9tJQXU0MAul) | [Love Is A Magnet / This Love Might Kill Me](https://open.spotify.com/album/3NBHcCj2EOjsA6t23cMB8Q) | 2:39 | 2022-02-18 | 2022-03-26 |

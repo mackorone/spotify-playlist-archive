@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,579 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,809 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 7 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 |
 | 8 | [Now We're Strangers](https://open.spotify.com/track/4ys3y9djWZurOdyouMlcBG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:26 |
 | 9 | [Sucka Free](https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:41 |
-| 10 | [hnic](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
+| 10 | [HNIC](https://open.spotify.com/track/4txLt5JH43Sa5mQiBoCYib) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Lei Keli ft\. 47 / For Promotional Use Only](https://open.spotify.com/album/2KACVAPmuBiD7GGcGwndKq) | 2:19 |
 | 11 | [cLOUDs](https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [cLOUDs](https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex) | 4:02 |
 | 12 | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [TELL ME \(feat\. Chlöe\)](https://open.spotify.com/album/7LS6PqmpJP8HTXgBFHTKYz) | 2:36 |
 | 13 | [coriolis](https://open.spotify.com/track/5f4LiI2bImg5kkTG40zuuO) | [Blvck Svm](https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj), [NDK](https://open.spotify.com/artist/299MEdwEUcnYq4qthyp9t0) | [coriolis](https://open.spotify.com/album/6khIVPsbHDNvrv6bR63QHH) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Fresher](https://open.spotify.com/track/6iyTrgBuVzzlAEs8YhBrIb) | [Premo Rice](https://open.spotify.com/artist/4pTta0pLvML8AM2AwfgJyE) | [Bad Muhf\*cka](https://open.spotify.com/album/06T7rJHH6uapPq3TCQACi2) | 2:28 |
 | 100 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 
-Snapshot ID: `AAAAALZdslOHu8A+ujfajohuEDrOoeOp`
+Snapshot ID: `AAAAAOW8fYIlxWqscP6W1i5w3DtHVhBR`

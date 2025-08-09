@@ -2,9 +2,9 @@
 
 ### [emo right now](https://open.spotify.com/playlist/37i9dQZF1DX5KAyJZfh4Qa)
 
-> it's just one of those days w/ Michael Cera Palin
+> it's just one of those days w/ Hot Mulligan
 
-277 songs - 15 hr 29 min
+278 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Black Earth, WI](https://open.spotify.com/track/2brPDOuzBeCoL3vsuWiY0g) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [The Window](https://open.spotify.com/album/07h9Qsx40cCp1h0ykxuqU1) | 8:34 | 2023-08-25 | 2024-04-19 |
 | [Black Earth, WI](https://open.spotify.com/track/5WJPG2pNcg1oDMbtxl5ysR) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/2ouMdMNouSbVpzDbE3SNjW) | 8:34 | 2023-03-17 | 2024-10-12 |
 | [Black Earth, WI](https://open.spotify.com/track/6ok81KVFTGvFZP2q6R4mFV) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Black Earth, WI](https://open.spotify.com/album/3xIJNC6JzTE6ovBX5TPaEm) | 8:34 | 2023-04-14 | 2023-08-28 |
-| [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 | 2024-10-11 |  |
+| [Black Hole](https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q) | [Goalkeeper](https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n) | [Black Hole](https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf) | 2:48 | 2024-10-11 | 2025-08-09 |
 | [Blood](https://open.spotify.com/track/4ImZ8dmqmUncas43Lb3bJg) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/0Z8rkubmchdF0dfSUL3Pg0) | 2:19 | 2023-04-14 | 2023-09-30 |
 | [Blood](https://open.spotify.com/track/6vAvj6cLEUFOIJQgTfJz5u) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Where the Heart Is](https://open.spotify.com/album/1SmAUgSjmVihnEuTZoALSO) | 2:19 | 2022-11-25 | 2023-04-29 |
 | [Blood for the Blood God](https://open.spotify.com/track/5ykzMyjf4Mfi45iy5pyTAG) | [Ben Quad](https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE) | [I’m Scared That’s All There Is](https://open.spotify.com/album/6qvYtT5gSuBLAGLdoSPmb3) | 3:31 | 2022-11-25 | 2024-10-12 |
@@ -263,6 +263,7 @@
 | [Walk Over My Grave](https://open.spotify.com/track/4sK75yxCOj0K5NMijKgZCa) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [is this what i look like?](https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH) | 3:19 | 2022-11-25 | 2024-05-15 |
 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 | 2025-08-08 |  |
 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 | 2023-03-02 | 2024-10-12 |
+| [Weekend Fever](https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA) | [Nihilistic Easyrider](https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq) | [DELUXE EDITION](https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw) | 3:26 | 2025-08-08 |  |
 | [What Are You, A Cop?](https://open.spotify.com/track/2L8eTF6iQtez7xsduIK3DN) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [The Cleanest of Houses Are Empty](https://open.spotify.com/album/0Hi2pmAq0O2siNQ5cwpcOI) | 4:11 | 2024-12-18 |  |
 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 | 2022-11-25 | 2025-04-15 |
 | [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 | 2025-02-14 |  |

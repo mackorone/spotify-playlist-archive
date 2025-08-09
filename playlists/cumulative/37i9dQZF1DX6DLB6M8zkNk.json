@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Desplat: Birth",
+        "url": "https://open.spotify.com/album/1H6UWXkXnHT6267FQfDAV2"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        },
+        {
+          "name": "Orchestre de Paris",
+          "url": "https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117706,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/5ijLbcF2LHC1JuglElT140"
+    },
+    {
+      "album": {
         "name": "Kreisler: Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar)",
         "url": "https://open.spotify.com/album/2yHZciyRknuNoEkY1zovFs"
       },
@@ -1618,6 +1640,32 @@
       "duration_ms": 207106,
       "name": "Resurgam",
       "url": "https://open.spotify.com/track/4SsC4oX1tyBUFBSy4Gbw2l"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/2Z0tni35LysFk6jINdPMPy"
+      },
+      "artists": [
+        {
+          "name": "Eunike Tanzil",
+          "url": "https://open.spotify.com/artist/78XsqB0fsyDU7wR2w4zVuA"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "Anna Handler",
+          "url": "https://open.spotify.com/artist/6iIVSSyUhTWzzTKqcSRE0x"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1ZpuKQi2RmENWCy5TzgoFA"
     },
     {
       "album": {

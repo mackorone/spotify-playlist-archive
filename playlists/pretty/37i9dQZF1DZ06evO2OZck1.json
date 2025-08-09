@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAAxsve3w/hZgqyJHvPX8Qgs",
+  "snapshot_id": "aJPsgAAAAADw9lOElKhlbclNrz5OM9EF",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quesera sera",
+        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Quesera sera",
+      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SNACKTIME",
         "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
       },
@@ -371,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quesera sera",
-        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+        "name": "AG! Calling",
+        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
       "artists": [
         {
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Quesera sera",
-      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
+      "duration_ms": 133066,
+      "name": "Maji Yoroshiku",
+      "url": "https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE"
     },
     {
       "added_at": null,
@@ -403,22 +419,6 @@
       "duration_ms": 251866,
       "name": "amayo no seppun",
       "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AG! Calling",
-        "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 133066,
-      "name": "Maji Yoroshiku",
-      "url": "https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HANAKO",
-        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 221676,
-      "name": "HANAKO",
-      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 159306,
       "name": "Drama (feat. MILLI)",
       "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANAKO",
+        "url": "https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 221676,
+      "name": "HANAKO",
+      "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KOIBUMI",
+        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 240285,
+      "name": "KOIBUMI",
+      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5Z2m5xN45b5OvINBkhaUBE"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 133802,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/33uyQcKrKlGSOQSO3hrtpj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KOIBUMI",
-        "url": "https://open.spotify.com/album/2zI6Rce9bvVZtXgazjhD6D"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 240285,
-      "name": "KOIBUMI",
-      "url": "https://open.spotify.com/track/1aT8DhQBZcLIMLTBaFIwi6"
     },
     {
       "added_at": null,

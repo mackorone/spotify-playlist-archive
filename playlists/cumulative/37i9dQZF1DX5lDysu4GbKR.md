@@ -4,7 +4,7 @@
 
 > Stripped back vibes\. Cover: Alex Isley
 
-292 songs - 17 hr 6 min
+293 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 | 2022-06-16 | 2023-06-30 |
 | [Colour Blind](https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 2:35 | 2024-08-09 |  |
 | [Coolin](https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 2:51 | 2022-08-25 |  |
+| [cops n robbers \- Acoustic](https://open.spotify.com/track/4nwLi1nn9wxITjzxHVR9XE) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [HONEYCOATED \(Acoustic\)](https://open.spotify.com/album/6Rsy1PAqRpVy4xDQ4kZsLN) | 2:22 | 2025-08-08 |  |
 | [Creatures](https://open.spotify.com/track/2Ow2ETC0RM4L0ylfm6KTS2) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 1:06 | 2025-07-11 |  |
 | [Cure \(Acoustic\)](https://open.spotify.com/track/5TX18to7ocePDq2vztymUC) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/25JiPiAO6AghQ1V5GHt9hQ) | 4:21 | 2024-03-21 |  |
 | [Cure \- Acoustic](https://open.spotify.com/track/3NO4k1Yn1jAci7nliKSKp9) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Cure \(Acoustic\)](https://open.spotify.com/album/0zu1VYYyrXYevuYOSUibPp) | 4:21 | 2023-11-04 | 2024-04-19 |

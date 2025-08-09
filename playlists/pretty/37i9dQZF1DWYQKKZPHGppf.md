@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Il meglio dell'urban italiano nel 2024, secondo i nostri Editor! Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,551 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,570 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 22 | [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 |
 | 23 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 |
 | 24 | [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/track/1WTgRTh0T5Q6nVw5GtaeQM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [L'Angelo del Male](https://open.spotify.com/album/3QBZ8MMQ5gXCftWLiMJRLg) | 2:46 |
-| 25 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:52 |
+| 25 | [Moneylove \(feat\. Emis Killa\)](https://open.spotify.com/track/2gGq8fqoGuKpCjuV7p2dd3) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:56 |
 | 26 | [Mattone \(feat\. Kuremino, Nerissima Serpe\)](https://open.spotify.com/track/4qb7IDiPEuWPOkCFAPhlfg) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mattone](https://open.spotify.com/album/3xOrZWX1VzcemFpMZ9z132) | 2:22 |
 | 27 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
 | 28 | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU) | 4:05 |

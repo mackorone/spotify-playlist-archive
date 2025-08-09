@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: JHus x Asake ",
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Gunna",
   "name": "Hype List",
   "tracks": [
     {
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
@@ -4932,7 +4932,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 194661,
       "name": "Hello Habibi",
       "url": "https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY"
@@ -6075,6 +6075,24 @@
     },
     {
       "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123520,
+      "name": "just say dat",
+      "url": "https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2"
+    },
+    {
+      "album": {
         "name": "Just Us (feat. Doja Cat)",
         "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
       },
@@ -6302,6 +6320,28 @@
       "duration_ms": 188416,
       "name": "King Talk (feat. Shaquille O'Neal)",
       "url": "https://open.spotify.com/track/38I6Pi2BlPTlLklfEfAfb7"
+    },
+    {
+      "album": {
+        "name": "KiSSMYTEET",
+        "url": "https://open.spotify.com/album/1QMBzwydoQOuJDLgP2Sohb"
+      },
+      "artists": [
+        {
+          "name": "INFAMOUSIZAK",
+          "url": "https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1"
+        },
+        {
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "KiSSMYTEET",
+      "url": "https://open.spotify.com/track/13iIdlvRQrAXdO4MjjBLsb"
     },
     {
       "album": {
@@ -7760,6 +7800,28 @@
       "duration_ms": 47354,
       "name": "NO SECRET (feat. Drake)",
       "url": "https://open.spotify.com/track/1Gb6r4iX8w60t6OFTvWI4K"
+    },
+    {
+      "album": {
+        "name": "No Sharing (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211717,
+      "name": "No Sharing (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
       "album": {

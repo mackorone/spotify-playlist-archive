@@ -1,25 +1,25 @@
 pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain](/playlists/plain/0cc8YMQWsSzODyTpdVB6mI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0cc8YMQWsSzODyTpdVB6mI)
 
-### [Kitsuné Musique Essential](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
+### [Kitsuné Musique Essentials For Summer](https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI)
 
-> Listen to Kitsuné’s essential tracks from historic label artists to up\-and\-coming music gems.
+> Dive into Kitsuné’s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.☀️🎶
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,787 likes - 53 songs - 3 hr 8 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,798 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 |
-| 2 | [What You Say](https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [What You Say](https://open.spotify.com/album/5s3IVczOcSEXVTsnNIbHvx) | 3:40 |
-| 3 | [Ecstasy \- Mixed](https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 2:19 |
+| 1 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N) | 4:38 |
+| 2 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 |
+| 3 | [What You Say](https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [What You Say](https://open.spotify.com/album/5s3IVczOcSEXVTsnNIbHvx) | 3:40 |
 | 4 | [GET LOST](https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [GET LOST](https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp) | 3:05 |
 | 5 | [My Soul](https://open.spotify.com/track/7KCUvLNglwYUvYoMjKullD) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [My Soul](https://open.spotify.com/album/0VIkQGuUWicrdehWh0YDyj) | 4:33 |
 | 6 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
 | 7 | [So High](https://open.spotify.com/track/6UUOkhXDWTqVYjzqNJ1F0x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [So High](https://open.spotify.com/album/4o4SfH08cmiHk2aRlTcPqj) | 3:07 |
-| 8 | [Might Be on Fire](https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Might Be on Fire](https://open.spotify.com/album/4ZbbWUSrvTCjuHCgkDA0W7) | 3:07 |
-| 9 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 |
-| 10 | [Only One](https://open.spotify.com/track/3y8UYe62ldlvxRgAFGovZq) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Only One](https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb) | 3:01 |
-| 11 | [REGRESO \- warner case Remix](https://open.spotify.com/track/3U7ZzaQjslHlHybw9jXQI8) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [REGRESO \(warner case Remix\)](https://open.spotify.com/album/1sM6L8knIz2qufXE6wi9TD) | 3:15 |
-| 12 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N) | 4:38 |
+| 8 | [Orbit](https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 |
+| 9 | [Might Be on Fire](https://open.spotify.com/track/2CwWU5UFHrIHUuGyN7pf5E) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Might Be on Fire](https://open.spotify.com/album/4ZbbWUSrvTCjuHCgkDA0W7) | 3:07 |
+| 10 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 |
+| 11 | [Only One](https://open.spotify.com/track/3y8UYe62ldlvxRgAFGovZq) | [Jaden Thompson](https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ) | [Only One](https://open.spotify.com/album/2KMexrqmHK600SRQNJykVb) | 3:01 |
+| 12 | [REGRESO \- warner case Remix](https://open.spotify.com/track/3U7ZzaQjslHlHybw9jXQI8) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [REGRESO \(warner case Remix\)](https://open.spotify.com/album/1sM6L8knIz2qufXE6wi9TD) | 3:15 |
 | 13 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 |
 | 14 | [NOSTALGIA\*](https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [NOSTALGIA\*](https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl) | 2:25 |
 | 15 | [Huacachina](https://open.spotify.com/track/3zRhKaZXEUGrJqMGN5KtXy) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Kitsuné Parisien 4](https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE) | 3:33 |
@@ -58,8 +58,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 48 | [Away](https://open.spotify.com/track/3AUVgd5EWkAGDzqrKR36DN) | [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF), [Max Wheeler](https://open.spotify.com/artist/3VfVPS04066laDWCxcVe1j) | [Away](https://open.spotify.com/album/0hhqR9E19JXrsqF2EjPUNc) | 3:37 |
 | 49 | [Easy Raider \- Mixed](https://open.spotify.com/track/61GVH7EW9eC1i53ChBV7ef) | [Pomona Dream](https://open.spotify.com/artist/42jZtMPYHncDY3y4lYYpDv) | [Café Kitsuné Mixed by Pat Lok](https://open.spotify.com/album/5aKEKt5XmLjAYfpjlx9AzH) | 2:06 |
 | 50 | [I Love London](https://open.spotify.com/track/7j6HqLDQMddPZmONOcVhkZ) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Kitsuné: I Love London \(Bonus Track Version\)](https://open.spotify.com/album/2J24W5mcPK5ovDehJA2fPr) | 2:50 |
-| 51 | [Orbit](https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 |
-| 52 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 |
-| 53 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
+| 51 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 |
+| 52 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
 
-Snapshot ID: `AAAMQadsDl05zh4XktPhr6zzdeZ9/Reu`
+Snapshot ID: `AAAMRmwVeBHNJ3n298udaHFRKgEIQ4aY`

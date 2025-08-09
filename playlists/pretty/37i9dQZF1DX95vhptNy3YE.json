@@ -1,6 +1,6 @@
 {
   "description": "Bela Maria e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 370934,
+  "num_followers": 370904,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,30 @@
     {
       "added_at": "2025-08-01 19:33:00",
       "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Pente 270!",
+      "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
+    },
+    {
+      "added_at": "2025-08-01 19:33:00",
+      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 240000,
       "name": "Veterano",
       "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
-    },
-    {
-      "added_at": "2025-08-01 19:33:00",
-      "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Pente 270!",
-      "url": "https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g"
     },
     {
       "added_at": "2025-08-01 19:33:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-08-01 19:33:00",
       "album": {
-        "name": "Pagodyando",
-        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
-      },
-      "artists": [
-        {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
-        }
-      ],
-      "duration_ms": 301760,
-      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
-      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
-    },
-    {
-      "added_at": "2025-08-01 19:33:00",
-      "album": {
         "name": "KM2",
         "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 139914,
       "name": "KIA",
       "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
+    },
+    {
+      "added_at": "2025-08-01 19:33:00",
+      "album": {
+        "name": "Pagodyando",
+        "url": "https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        }
+      ],
+      "duration_ms": 301760,
+      "name": "Trajet\u00f3ria / Caminho Sem Amor / Ela",
+      "url": "https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ"
     },
     {
       "added_at": "2025-08-01 19:33:00",
@@ -755,22 +755,26 @@
     {
       "added_at": "2025-08-01 19:33:00",
       "album": {
-        "name": "Minhas Andan\u00e7as",
-        "url": "https://open.spotify.com/album/3yPJ9jMG3NUaCYKPsfrGNL"
+        "name": "A Cara do Enquadro",
+        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
       },
       "artists": [
         {
-          "name": "Cleber Augusto",
-          "url": "https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
         }
       ],
-      "duration_ms": 217900,
-      "name": "Im\u00e3",
-      "url": "https://open.spotify.com/track/3kjg24Ovz5BfTbOvIHrFDL"
+      "duration_ms": 177830,
+      "name": "Maldito Papel",
+      "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
     },
     {
       "added_at": "2025-08-01 19:33:00",
@@ -839,26 +843,22 @@
     {
       "added_at": "2025-08-01 19:33:00",
       "album": {
-        "name": "A Cara do Enquadro",
-        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
+        "name": "Minhas Andan\u00e7as",
+        "url": "https://open.spotify.com/album/3yPJ9jMG3NUaCYKPsfrGNL"
       },
       "artists": [
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+          "name": "Cleber Augusto",
+          "url": "https://open.spotify.com/artist/4zH4meR9JXGrpwJx0v8BVh"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Dj KLJay",
-          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 177830,
-      "name": "Maldito Papel",
-      "url": "https://open.spotify.com/track/7wTdWHYMM8YLLTCEWTtpyR"
+      "duration_ms": 217900,
+      "name": "Im\u00e3",
+      "url": "https://open.spotify.com/track/3kjg24Ovz5BfTbOvIHrFDL"
     },
     {
       "added_at": "2025-08-01 19:33:00",

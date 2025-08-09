@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Mariana Pereira ",
-  "num_followers": 51664,
+  "num_followers": 51676,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-07-31 23:00:13",
       "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135160,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
+    },
+    {
+      "added_at": "2025-07-31 23:00:13",
+      "album": {
         "name": "Chamadas",
         "url": "https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 156672,
       "name": "Chamadas",
       "url": "https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv"
-    },
-    {
-      "added_at": "2025-07-31 23:00:13",
-      "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135160,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4kfwRXcUVeeUMITRVujl9i"
     },
     {
       "added_at": "2025-07-31 23:00:13",

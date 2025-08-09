@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: KAROL G y Feid
 
-186 songs - 9 hr 27 min
+187 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [ALLA EN CALI](https://open.spotify.com/track/6NRooYkoqUrtp64IpY9VB8) | [Lorduy](https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC), [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49) | [BAILEN ESTAS 2](https://open.spotify.com/album/5gTNkf38WUMslyyX4xf39Q) | 3:03 | 2025-07-11 |  |
 | [Amor De Tu Vida](https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Amor De Tu Vida](https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e) | 2:51 | 2024-08-16 | 2025-03-22 |
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2023-09-30 | 2024-02-17 |
+| [ANGELITO](https://open.spotify.com/track/39aKSV96PcGcjxqwz35hq3) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [MagiaBeats](https://open.spotify.com/artist/2VtpXTU8gqWLHabwXxACcw) | [ANGELITO](https://open.spotify.com/album/77T2UWzbwELOU6OrkoJSYn) | 2:28 | 2025-08-08 |  |
 | [Bellakiti](https://open.spotify.com/track/2kDCwtnBqAw2MhCoCZCdy9) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Gangsta Love](https://open.spotify.com/album/5gpRa5a1GPka0N0q6RxtU8) | 2:07 | 2025-07-18 |  |
 | [Bellakito](https://open.spotify.com/track/3puSZqdV314y5zy96ZhaCl) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Bellakito](https://open.spotify.com/album/64Ff6wk6lyoCqVU6JRlLwx) | 2:53 | 2023-11-24 | 2024-01-27 |
 | [Beyblade](https://open.spotify.com/track/5tWycCyiMEZSrDa9W37TSL) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT) | [Beyblade](https://open.spotify.com/album/06tRiOznvjvLPmn7Yv4j2p) | 2:51 | 2024-07-05 | 2024-07-27 |
@@ -133,7 +134,7 @@
 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 | 2023-09-30 | 2024-07-27 |
 | [Oe Bebé](https://open.spotify.com/track/57pj5sOWSCAqZm088LMcE4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Oe Bebé](https://open.spotify.com/album/3L71xIS0NwOIMaM3OSWLPx) | 3:06 | 2024-06-07 |  |
 | [OJITOS ROJOS \- REMIX](https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [OJITOS ROJOS \(REMIX\)](https://open.spotify.com/album/0bKvyVdhfsb0hLcN7oVUpv) | 3:23 | 2023-09-30 |  |
-| [OJOS AZULES](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 | 2023-09-30 |  |
+| [OJOS AZULES](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 | 2023-09-30 | 2025-08-09 |
 | [OKI DOKI](https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:23 | 2023-09-30 | 2024-05-25 |
 | [Orgullo](https://open.spotify.com/track/6VyecylqfNDlKQGCLYA7TK) | [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Orgullo](https://open.spotify.com/album/3w3CWE6op6O3h7rgmNN1gC) | 2:42 | 2025-03-21 |  |
 | [Otra Vida](https://open.spotify.com/track/0Q2fGgApg3XMNRNnjQU6wX) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Otra Vida](https://open.spotify.com/album/34hnyjteFa5wiLROaR4Ch1) | 2:33 | 2025-03-21 |  |

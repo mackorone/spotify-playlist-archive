@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 ### [New Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with all the drops\. Cover: Demi Lovato
+> The hottest new pop with all the drops\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,296 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,990 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 124 | [Wonderful Life '25](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Wonderful Life '25](https://open.spotify.com/album/1AF8ip6XRTWQkN1y5rQm2a) | 2:58 |
 | 125 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 |
 
-Snapshot ID: `AAAAAAkPs1oVZb8cy4PZ11HtkrF0Lj3H`
+Snapshot ID: `AAAAAC5fTMFu2xgQtPPT86Hm44J8Flqi`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Sam Barber
+> Today's top country hits\. Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,677,136 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,676,811 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 |
 | 50 | [Liar](https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Liar](https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp) | 3:24 |
 
-Snapshot ID: `AAAAAIflgelPAvYvxVbeo1HJ7K/h8YRM`
+Snapshot ID: `AAAAAAzSJ2VFNJB3Wn6w6GjEzYxqjnmV`

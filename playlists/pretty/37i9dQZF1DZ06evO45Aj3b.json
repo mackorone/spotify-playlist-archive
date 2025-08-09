@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 93915,
+  "num_followers": 93929,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAADh0XC9UDMMXdk+wGRB4AGN",
+  "snapshot_id": "aJPsgAAAAAC6ZH313YWmD0570eUQ2xfZ",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Geezer",
-        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+      "duration_ms": 107280,
+      "name": "Westcoast Collective",
+      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
     },
     {
       "added_at": null,
@@ -251,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Geezer",
+        "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blush",
         "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 107280,
-      "name": "Westcoast Collective",
-      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -299,6 +299,22 @@
       "duration_ms": 186066,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 133560,
+      "name": "She Wants My Money",
+      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 133560,
-      "name": "She Wants My Money",
-      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 197846,
-      "name": "Politics & Violence",
-      "url": "https://open.spotify.com/track/4keHa1UN3c9OWHVv3BE5ra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 198425,
       "name": "Die For You (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "Politics & Violence",
+      "url": "https://open.spotify.com/track/4keHa1UN3c9OWHVv3BE5ra"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
       "duration_ms": 124504,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "McCartney III Imagined",
+        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 143530,
+      "name": "The Kiss Of Venus (Dominic Fike)",
+      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 143530,
-      "name": "The Kiss Of Venus (Dominic Fike)",
-      "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Double Negative (Skeleton Milkshake)",
-      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 108533,
       "name": "Falling Asleep",
       "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Double Negative (Skeleton Milkshake)",
+      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
     },
     {
       "added_at": null,

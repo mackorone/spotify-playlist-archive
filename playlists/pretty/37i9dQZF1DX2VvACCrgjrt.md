@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,931 likes - 125 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,002 likes - 125 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [You Love It](https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI) | [You Love It](https://open.spotify.com/album/4i0ATZ8vK7NOfeX7WXYJlg) | 2:44 |
 | 125 | [Got That](https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Got That](https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1) | 2:46 |
 
-Snapshot ID: `AAAAACwT59UIB8qJ/WrRbCBC0XOfQvdY`
+Snapshot ID: `AAAAALcEdM60OjoFahJWv1nBTh1Bw/vW`

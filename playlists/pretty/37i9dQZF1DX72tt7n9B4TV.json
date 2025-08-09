@@ -1,6 +1,6 @@
 {
   "description": "TURNSTILE SUMMER",
-  "num_followers": 50877,
+  "num_followers": 50878,
   "original_name": "Summer Rock ",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Bloom Baby Bloom",
-        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 227586,
-      "name": "Bloom Baby Bloom",
-      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 196866,
       "name": "Silver",
       "url": "https://open.spotify.com/track/09bThZXhtWY4oPvAThoLvj"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Bloom Baby Bloom",
+        "url": "https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Bloom Baby Bloom",
+      "url": "https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl"
     },
     {
-      "added_at": "2025-06-18 21:54:46",
-      "album": {
-        "name": "Paint A Picture",
-        "url": "https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 168555,
-      "name": "Paint A Picture",
-      "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
-    },
-    {
       "added_at": "2025-06-06 15:36:16",
       "album": {
         "name": "Tsunami Sea",
@@ -819,6 +803,22 @@
       "duration_ms": 199960,
       "name": "Crystal Roses",
       "url": "https://open.spotify.com/track/24sCYoOyqR880pCFfQsika"
+    },
+    {
+      "added_at": "2025-06-18 21:54:46",
+      "album": {
+        "name": "Paint A Picture",
+        "url": "https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 168555,
+      "name": "Paint A Picture",
+      "url": "https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh"
     },
     {
       "added_at": "2025-06-13 12:33:03",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 148326,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 148326,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
         "name": "Worm in the Sun",
         "url": "https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 161240,
       "name": "Worm in the Sun",
       "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Welcome to My Blue Sky",
+        "url": "https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -935,18 +951,18 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Welcome to My Blue Sky",
-        "url": "https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ"
+        "name": "my anti-aircraft friend",
+        "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
       },
       "artists": [
         {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
         }
       ],
-      "duration_ms": 217249,
-      "name": "I Want You (Fever)",
-      "url": "https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd"
+      "duration_ms": 194240,
+      "name": "catalogue",
+      "url": "https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD"
     },
     {
       "added_at": "2025-06-18 21:54:46",
@@ -967,22 +983,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "my anti-aircraft friend",
-        "url": "https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "catalogue",
-      "url": "https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "Empty Words",
         "url": "https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 169850,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
-        "name": "All the Noise",
-        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 179858,
-      "name": "All the Noise",
-      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 179858,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
         "name": "Happenings",
         "url": "https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 150005,
       "name": "Call",
       "url": "https://open.spotify.com/track/1eGdBOJKqioNJ4v3Eawcwp"
-    },
-    {
-      "added_at": "2025-06-13 12:33:03",
-      "album": {
-        "name": "Deadstick",
-        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 213575,
-      "name": "Deadstick",
-      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -1075,6 +1059,22 @@
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "added_at": "2025-06-13 12:33:03",
+      "album": {
+        "name": "Deadstick",
+        "url": "https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "Deadstick",
+      "url": "https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB"
     },
     {
       "added_at": "2025-06-18 21:54:46",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
+        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
+      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
         "name": "Surgery and Pleasure",
         "url": "https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 215235,
       "name": "Field of Vision",
       "url": "https://open.spotify.com/track/7BsmwN8Wu9wFt6XvguA9n4"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
-        "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-        "url": "https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "I\u2019ve Never Met Anyone I Thought I Could Really Love (Until I Met You)",
-      "url": "https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7"
     },
     {
       "added_at": "2025-06-06 15:36:16",

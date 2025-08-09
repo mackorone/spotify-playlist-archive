@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158978,
+  "num_followers": 158991,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,30 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
+        "name": "Original MTK #2 - Se Voc\u00ea Vier",
+        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        },
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 264547,
+      "name": "Original MTK #2 - Se Voc\u00ea Vier",
+      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
+    },
+    {
+      "added_at": "2025-08-01 19:27:29",
+      "album": {
         "name": "Modo Avi\u00e3o",
         "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
-    },
-    {
-      "added_at": "2025-08-01 19:27:29",
-      "album": {
-        "name": "Original MTK #2 - Se Voc\u00ea Vier",
-        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        },
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 264547,
-      "name": "Original MTK #2 - Se Voc\u00ea Vier",
-      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
     },
     {
       "added_at": "2025-08-01 19:27:29",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
-    },
-    {
-      "added_at": "2025-08-01 19:27:29",
-      "album": {
         "name": "Jam #2",
         "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 214509,
       "name": "Jam #02 - Tudo do Melhor/Prosperidade",
       "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
+    },
+    {
+      "added_at": "2025-08-01 19:27:29",
+      "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2025-08-01 19:27:29",
@@ -1303,18 +1303,30 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+        "name": "Bem Vindx \u00e0 Lyra",
+        "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
       "artists": [
         {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+          "name": "Iuri Mesan",
+          "url": "https://open.spotify.com/artist/7fLP8QqaHMqvAenq3PrvGP"
+        },
+        {
+          "name": "Isadora Vilela",
+          "url": "https://open.spotify.com/artist/7pBFXpm3z5suv9hCELSMnU"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        },
+        {
+          "name": "Sagita'",
+          "url": "https://open.spotify.com/artist/1zXaS6knKG0RnEdnTuIyg3"
         }
       ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+      "duration_ms": 228191,
+      "name": "Bem Vindx \u00e0 Lyra",
+      "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
     }
   ],
   "unique_name": "Resenha na Praia",

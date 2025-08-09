@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6217,
+  "num_followers": 6238,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAADKRiCTSeNQGtOTGZhviSWz",
+  "snapshot_id": "aJPsgAAAAABCoXxJ0t3b9rXeKKBfXJuJ",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 152571,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
+      "duration_ms": 134736,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 134736,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET"
+      "duration_ms": 152571,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
     },
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Brother 2.0",
+        "url": "https://open.spotify.com/album/2kGE9LC3H7HE1yszEBPMDI"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "My Brother 2.0",
+      "url": "https://open.spotify.com/track/7t1bcvtAYRt6izlGCqnyml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 172105,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Brother 2.0",
-        "url": "https://open.spotify.com/album/2kGE9LC3H7HE1yszEBPMDI"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "My Brother 2.0",
-      "url": "https://open.spotify.com/track/7t1bcvtAYRt6izlGCqnyml"
     },
     {
       "added_at": null,
@@ -478,15 +478,11 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 144552,
-      "name": "Alone (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
+      "duration_ms": 160960,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
     },
     {
       "added_at": null,
@@ -554,11 +550,15 @@
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
+      "duration_ms": 144552,
+      "name": "Alone (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/6Vnic3NfaQH8Mmfzf5fGFE"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "On D Low",
-      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bere Mi (Reimagined)",
         "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 177963,
       "name": "Bere Mi (Reimagined)",
       "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 127560,
-      "name": "Looku Looku",
-      "url": "https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 190769,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "Looku Looku",
+      "url": "https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 144136,
-      "name": "Daddy Yo",
-      "url": "https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brap Music",
         "url": "https://open.spotify.com/album/2lSAYhfgL4uzYGkna46tmy"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 141818,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/1KxYfIiCW0YlquoWzKxiLR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 144136,
+      "name": "Daddy Yo",
+      "url": "https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug"
     },
     {
       "added_at": null,

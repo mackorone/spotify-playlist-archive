@@ -1,12 +1,12 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 252847,
+  "num_followers": 252925,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGL24Z0lCWvsHp8PzdBe0Fr7tgmf",
+  "snapshot_id": "AAAAABsidUwXk7rBjjK8H5YvbKFj2gwH",
   "tracks": [
     {
       "added_at": "2025-07-25 03:00:28",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
         "name": "Siempre Te Amar\u00e9",
         "url": "https://open.spotify.com/album/5hBzllmbT50u4SaoR6eEpi"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 189005,
       "name": "Siempre Te Amar\u00e9",
       "url": "https://open.spotify.com/track/36x26xwtCVlkB5GOXWHPkD"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
     },
     {
       "added_at": "2025-07-25 03:00:28",
@@ -1679,42 +1679,6 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
-        "name": "Tu Amante Tu Amigo",
-        "url": "https://open.spotify.com/album/4tSk0kBGbVadz95y7HGTVY"
-      },
-      "artists": [
-        {
-          "name": "Marko Silva",
-          "url": "https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY"
-        },
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Tu Amante Tu Amigo",
-      "url": "https://open.spotify.com/track/07FFZUzeZhjTnokrapcNwR"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        }
-      ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
-    },
-    {
-      "added_at": "2025-07-25 03:00:28",
-      "album": {
         "name": "La Receta, Jambao, G Sony | Sin Miedo al \u00c9xito #2",
         "url": "https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P"
       },
@@ -1739,6 +1703,42 @@
       "duration_ms": 183160,
       "name": "Lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+    },
+    {
+      "added_at": "2025-07-25 03:00:28",
+      "album": {
+        "name": "Tu Amante Tu Amigo",
+        "url": "https://open.spotify.com/album/4tSk0kBGbVadz95y7HGTVY"
+      },
+      "artists": [
+        {
+          "name": "Marko Silva",
+          "url": "https://open.spotify.com/artist/0lfg4jmiStCcCn1lPgkvCY"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Tu Amante Tu Amigo",
+      "url": "https://open.spotify.com/track/07FFZUzeZhjTnokrapcNwR"
     },
     {
       "added_at": "2025-07-25 03:00:28",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2025-07-25 03:00:28",
       "album": {
-        "name": "Cuidado Que Te Supero",
-        "url": "https://open.spotify.com/album/4W2q8WrlRkTXxo3W8iUNtQ"
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
       },
       "artists": [
         {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
         }
       ],
-      "duration_ms": 154389,
-      "name": "Cuidado Que Te Supero",
-      "url": "https://open.spotify.com/track/1e4Tx54QsKMoHdHsZCEFM3"
+      "duration_ms": 188286,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
     },
     {
       "added_at": "2025-07-25 03:00:28",

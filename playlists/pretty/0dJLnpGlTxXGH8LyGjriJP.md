@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 870 songs - 1 day 20 hr 30 min
+[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 871 songs - 1 day 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -877,6 +877,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 867 | [CHARGE DEM HOES A FEE \(with Future & Travis Scott\)](https://open.spotify.com/track/21aDVa64pWR8SYQ7wBRMkd) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:45 |
 | 868 | [Never quit](https://open.spotify.com/track/03KgYnNIp4EOgPT2hS93QF) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093 \(P2\)](https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg) | 3:00 |
 | 869 | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/track/4YnC3EgoRzP14QXVDBuTfF) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Redemption \(feat\. Nemzzz\)](https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p) | 2:35 |
-| 870 | [We Getting Money](https://open.spotify.com/track/4B1HkmoPxGnIiovU1iy4IL) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 3:01 |
+| 870 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |
+| 871 | [We Getting Money](https://open.spotify.com/track/4B1HkmoPxGnIiovU1iy4IL) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [THE UNLUCCY LUCCY KID](https://open.spotify.com/album/3Xvvi8uwGnuj9nF7fr2h39) | 3:01 |
 
-Snapshot ID: `AAAEKU2Ppw5Q5tujm48iybwwRX3tHrS1`
+Snapshot ID: `AAAEKyILwjV2czd8esBThEYQ9aSJhxhB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with Markus Schulz
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,690 likes - 187 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,747 likes - 187 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 | 186 | [The Sky is Blue](https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Sky is Blue](https://open.spotify.com/album/2PGkJ5hUGcqI6VWs4YOkdW) | 3:45 |
 | 187 | [Another Breakdown](https://open.spotify.com/track/1T2DlIJ2mLOoOM7JLLP27u) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Another Breakdown](https://open.spotify.com/album/6lQgkRwL4nsixkWvDrTSgl) | 3:30 |
 
-Snapshot ID: `AAAAAG/5ZB0Ogz6BzKEm1X14q+qqsUne`
+Snapshot ID: `AAAAAK6kWnRWMqH/9AEexZmRYfSLMvlf`

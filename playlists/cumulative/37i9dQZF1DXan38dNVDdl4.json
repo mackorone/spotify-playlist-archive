@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "BAM BAM",
+        "url": "https://open.spotify.com/album/5BNDwEqRnTxBkV7iKIVtcR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy October",
+          "url": "https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "BAM BAM",
+      "url": "https://open.spotify.com/track/3KIZLRI8eFFYKshsPsJEDA"
+    },
+    {
+      "album": {
         "name": "Barbies",
         "url": "https://open.spotify.com/album/4pRkPI6ddk2arVUitoJiCV"
       },
@@ -1082,7 +1100,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 143265,
       "name": "Bike Back",
       "url": "https://open.spotify.com/track/0yifiG3Psluy34TO2QHOI7"
@@ -1152,6 +1170,28 @@
       "duration_ms": 135233,
       "name": "Bla Bla Blaa",
       "url": "https://open.spotify.com/track/6PcMNuV6qfijo5vJ1ZC6UW"
+    },
+    {
+      "album": {
+        "name": "Blaze Up",
+        "url": "https://open.spotify.com/album/6tsulHSrNBwzOhMQAypiUL"
+      },
+      "artists": [
+        {
+          "name": "Limitlezz",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158941,
+      "name": "Blaze Up",
+      "url": "https://open.spotify.com/track/05CD2lFFr7xNxMz0cQFwjI"
     },
     {
       "album": {
@@ -4606,7 +4646,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 173496,
       "name": "Hugo",
       "url": "https://open.spotify.com/track/06EOAxwj2mHxlz0zN68PJQ"
@@ -4934,7 +4974,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 121808,
       "name": "Jet",
       "url": "https://open.spotify.com/track/0OuD4ZnQCJZeIQsT1rNiSg"
@@ -5744,6 +5784,24 @@
       "duration_ms": 133680,
       "name": "Mek Money",
       "url": "https://open.spotify.com/track/3MVbaHUhFefg7RKjTXMoa9"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3Evmu9HX1vxWSu3LJP3ZZh"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6dlChd6ypZaBb17vJAY9cW"
     },
     {
       "album": {
@@ -7309,6 +7367,32 @@
     },
     {
       "album": {
+        "name": "Quint It",
+        "url": "https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163428,
+      "name": "Quint It",
+      "url": "https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8"
+    },
+    {
+      "album": {
         "name": "Racketeer",
         "url": "https://open.spotify.com/album/2IjlI8ae5xYFntDtNnTJt9"
       },
@@ -7572,7 +7656,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 157013,
       "name": "Respect",
       "url": "https://open.spotify.com/track/55XTQspc2PxmODGtcpvg5U"
@@ -8494,6 +8578,28 @@
       "duration_ms": 180000,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/61sacjOcCfP3tlOa1INCKz"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/30fU8HNYfBIPgNnV01Wkm3"
+      },
+      "artists": [
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        },
+        {
+          "name": "Dexta Daps",
+          "url": "https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/0pAmZ0RS0WtpP7e0YkG9Qs"
     },
     {
       "album": {
@@ -10226,7 +10332,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 189902,
       "name": "Waan Rich",
       "url": "https://open.spotify.com/track/3QzUGpmTPuc3VFspvKs9r1"

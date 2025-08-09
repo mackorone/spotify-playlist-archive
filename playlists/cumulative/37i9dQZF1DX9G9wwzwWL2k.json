@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Music from the Crown",
+        "url": "https://open.spotify.com/album/6rQz6h5pD2b6WzQCPQrVZd"
+      },
+      "artists": [
+        {
+          "name": "London Music Works",
+          "url": "https://open.spotify.com/artist/0VeT7hHTJFJZcENGekjCsB"
+        },
+        {
+          "name": "Nick Squires",
+          "url": "https://open.spotify.com/artist/3oT8qO8OOP7DgaxBVBzeBb"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248591,
+      "name": "Duck Shoot",
+      "url": "https://open.spotify.com/track/4KRp3wc0tVE4OdFtjUbxBD"
+    },
+    {
+      "album": {
         "name": "De Falla: The Three-Cornered Hat & Nights in the Gardens of Spain",
         "url": "https://open.spotify.com/album/1d4xZOFDfDpD5Mht2UNjvb"
       },
@@ -1144,6 +1166,32 @@
       "duration_ms": 170306,
       "name": "ICARUS - Orchestral Version",
       "url": "https://open.spotify.com/track/1cNo6OPWwYnOwtxJ1XLN3v"
+    },
+    {
+      "album": {
+        "name": "Cipriano Potter: Allegro molto (from: Symphony in C minor)",
+        "url": "https://open.spotify.com/album/4hF3gPiM9RPS1i177g5eg3"
+      },
+      "artists": [
+        {
+          "name": "Cipriani Potter",
+          "url": "https://open.spotify.com/artist/1k7TYtG2CqnWo0TuDddd1U"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        },
+        {
+          "name": "Howard Griffiths",
+          "url": "https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290013,
+      "name": "IV. Allegro molto",
+      "url": "https://open.spotify.com/track/6wiZ5BqY7w0Spk4sAn2P3f"
     },
     {
       "album": {

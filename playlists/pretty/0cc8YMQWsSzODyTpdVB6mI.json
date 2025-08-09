@@ -1,13 +1,33 @@
 {
-  "description": "Listen to Kitsun\u00e9\u2019s essential tracks from historic label artists to up-and-coming music gems.",
-  "num_followers": 49787,
-  "original_name": "Kitsun\u00e9 Musique Essential",
+  "description": "Dive into Kitsun\u00e9\u2019s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.\u2600\ufe0f\ud83c\udfb6",
+  "num_followers": 49798,
+  "original_name": "Kitsun\u00e9 Musique Essentials For Summer",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAMQadsDl05zh4XktPhr6zzdeZ9/Reu",
+  "snapshot_id": "AAAMRmwVeBHNJ3n298udaHFRKgEIQ4aY",
   "tracks": [
+    {
+      "added_at": "2025-06-03 10:03:59",
+      "album": {
+        "name": "My Soul",
+        "url": "https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Yet More",
+          "url": "https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C"
+        }
+      ],
+      "duration_ms": 278709,
+      "name": "My Soul (Yet More Remix)",
+      "url": "https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A"
+    },
     {
       "added_at": "2023-05-30 10:37:17",
       "album": {
@@ -39,34 +59,6 @@
       "duration_ms": 220920,
       "name": "What You Say",
       "url": "https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL"
-    },
-    {
-      "added_at": "2021-11-05 15:47:43",
-      "album": {
-        "name": "Caf\u00e9 Kitsun\u00e9 Mixed by Fabich",
-        "url": "https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS"
-      },
-      "artists": [
-        {
-          "name": "Fabich",
-          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        },
-        {
-          "name": "Bambie",
-          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
-        }
-      ],
-      "duration_ms": 139558,
-      "name": "Ecstasy - Mixed",
-      "url": "https://open.spotify.com/track/2PspwQLfDzLUOyaxQ7de5L"
     },
     {
       "added_at": "2023-05-30 10:36:54",
@@ -131,6 +123,30 @@
       "duration_ms": 187992,
       "name": "So High",
       "url": "https://open.spotify.com/track/6UUOkhXDWTqVYjzqNJ1F0x"
+    },
+    {
+      "added_at": "2025-06-26 22:21:14",
+      "album": {
+        "name": "Liquid Bodies",
+        "url": "https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj"
+      },
+      "artists": [
+        {
+          "name": "2FA",
+          "url": "https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n"
+        },
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 365714,
+      "name": "Orbit",
+      "url": "https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30"
     },
     {
       "added_at": "2023-05-30 10:39:11",
@@ -203,26 +219,6 @@
       "duration_ms": 195245,
       "name": "REGRESO - warner case Remix",
       "url": "https://open.spotify.com/track/3U7ZzaQjslHlHybw9jXQI8"
-    },
-    {
-      "added_at": "2025-06-03 10:03:59",
-      "album": {
-        "name": "My Soul",
-        "url": "https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Yet More",
-          "url": "https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C"
-        }
-      ],
-      "duration_ms": 278709,
-      "name": "My Soul (Yet More Remix)",
-      "url": "https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A"
     },
     {
       "added_at": "2023-05-30 10:40:29",
@@ -865,30 +861,6 @@
       "url": "https://open.spotify.com/track/7j6HqLDQMddPZmONOcVhkZ"
     },
     {
-      "added_at": "2025-06-26 22:21:14",
-      "album": {
-        "name": "Liquid Bodies",
-        "url": "https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj"
-      },
-      "artists": [
-        {
-          "name": "2FA",
-          "url": "https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n"
-        },
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        },
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 365714,
-      "name": "Orbit",
-      "url": "https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30"
-    },
-    {
       "added_at": "2023-05-30 10:51:15",
       "album": {
         "name": "Gypsy Woman (She's Homeless) [House Kitsun\u00e9 America]",
@@ -925,6 +897,6 @@
       "url": "https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt"
     }
   ],
-  "unique_name": "Kitsun\u00e9 Musique Essential",
+  "unique_name": "Kitsun\u00e9 Musique Essentials For Summer",
   "url": "https://open.spotify.com/playlist/0cc8YMQWsSzODyTpdVB6mI"
 }

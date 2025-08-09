@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Lauren Daigle",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: MercyMe",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "a light in me",
+        "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191547,
+      "name": "a light in me",
+      "url": "https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4"
+    },
+    {
+      "album": {
         "name": "a lil Church (nobody\u2019s too lost)",
         "url": "https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS"
       },
@@ -258,6 +276,68 @@
       "duration_ms": 219879,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
+    },
+    {
+      "album": {
+        "name": "Gravitas",
+        "url": "https://open.spotify.com/album/7JA2YnBXzhTeGnTQ2JVhNd"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "Jonni Mae",
+          "url": "https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        },
+        {
+          "name": "Jenny Wahlstr\u00f6m",
+          "url": "https://open.spotify.com/artist/42ngjMklH9b9JLMudMnLEp"
+        },
+        {
+          "name": "Phillip Joubert",
+          "url": "https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW"
+        },
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        },
+        {
+          "name": "Charrise Barron",
+          "url": "https://open.spotify.com/artist/6605K7pp3GA4NxliiVPret"
+        },
+        {
+          "name": "Bryan Joy",
+          "url": "https://open.spotify.com/artist/1z5D53u4OQEPLSqFdi1O2c"
+        },
+        {
+          "name": "Kierre Bjorn",
+          "url": "https://open.spotify.com/artist/1P8IF5V5o54mR3fn2fr5P9"
+        },
+        {
+          "name": "Riffi Wacho",
+          "url": "https://open.spotify.com/artist/71zaHFHlaeg0e9GL7hvqqS"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246551,
+      "name": "A Time",
+      "url": "https://open.spotify.com/track/0GiVtGPVYAS0zU5IfnfY9Z"
     },
     {
       "album": {
@@ -3594,7 +3674,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 200201,
       "name": "Crying Out Loud",
       "url": "https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn"
@@ -4212,7 +4292,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 190266,
       "name": "Dusty Bibles",
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
@@ -4300,6 +4380,24 @@
       "duration_ms": 165813,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0uVHeVzc4vTnlnpSgUKHrJ"
+    },
+    {
+      "album": {
+        "name": "Ebenezer",
+        "url": "https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316927,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ"
     },
     {
       "album": {
@@ -5200,7 +5298,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 249750,
       "name": "FOOTSTOOL",
       "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
@@ -5536,7 +5634,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 206719,
       "name": "give & take",
       "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
@@ -7520,7 +7618,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 257863,
       "name": "Heartbroken Hallelujah",
       "url": "https://open.spotify.com/track/4FoZKksS4Z9WvNNu9MkgjZ"
@@ -8943,6 +9041,28 @@
     },
     {
       "album": {
+        "name": "Come and See Deluxe: Command C",
+        "url": "https://open.spotify.com/album/0K4QFlwgSqdYg3jaBRzh2X"
+      },
+      "artists": [
+        {
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
+        },
+        {
+          "name": "Kimani Jones",
+          "url": "https://open.spotify.com/artist/4g1enWw9GOdsRNQ3LVGdSX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147750,
+      "name": "I CAN\u2019T",
+      "url": "https://open.spotify.com/track/1pfXsFILIkTDEgiHoZ8D2D"
+    },
+    {
+      "album": {
         "name": "I Cry Jesus",
         "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
@@ -9460,6 +9580,28 @@
       "duration_ms": 167403,
       "name": "I'll Fight for You",
       "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
+    },
+    {
+      "album": {
+        "name": "I'll Fly Away (feat. Benjamin William Hastings)",
+        "url": "https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180936,
+      "name": "I'll Fly Away (feat. Benjamin William Hastings)",
+      "url": "https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB"
     },
     {
       "album": {
@@ -10446,7 +10588,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 111110,
       "name": "JESUS IS LORD",
       "url": "https://open.spotify.com/track/2YYWFVVEKQbn74uifc6gLh"
@@ -12088,7 +12230,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 150662,
       "name": "Love Me Anyway",
       "url": "https://open.spotify.com/track/4FiC3pmU9BruZNna7YH84u"
@@ -14160,6 +14302,24 @@
       "duration_ms": 136839,
       "name": "oasis for my soul",
       "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161787,
+      "name": "Oh Child",
+      "url": "https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk"
     },
     {
       "album": {
@@ -22274,6 +22434,24 @@
       "duration_ms": 193146,
       "name": "Won't Start Now",
       "url": "https://open.spotify.com/track/4xuNAej1yZJEieG2xQRlmx"
+    },
+    {
+      "album": {
+        "name": "Wonder & Awe",
+        "url": "https://open.spotify.com/album/5BHHmCWwiCPVFzbsHhzcJL"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226739,
+      "name": "Wonder & Awe",
+      "url": "https://open.spotify.com/track/1DTKaZqF5TqzEUCqVBLhvZ"
     },
     {
       "album": {

@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 184920,
       "name": "Mi Carta",
       "url": "https://open.spotify.com/track/7zuM6FYdo5XhiocMPDkc0Q"
@@ -3351,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "NUevo",
+        "url": "https://open.spotify.com/album/4AFTVyAhS0jVISXLOWTKtD"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157884,
+      "name": "NUevo",
+      "url": "https://open.spotify.com/track/2TBcya0YHEb36zMnYinPEk"
+    },
+    {
+      "album": {
         "name": "Nunca Pares",
         "url": "https://open.spotify.com/album/4ocIyFr7Cv7HpWsbYX5pMY"
       },
@@ -3486,6 +3504,28 @@
       "duration_ms": 156577,
       "name": "OHNANA",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/0LQCWzIrOJZMEWXeTcR9CI"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "DJ Dever",
+          "url": "https://open.spotify.com/artist/2KDK6LDA8DKphV0wwHb40D"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148752,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/7HQjwfR02WOTW1ZDlJ8UFk"
     },
     {
       "album": {
@@ -3856,7 +3896,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 178534,
       "name": "Por Eso Vine",
       "url": "https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu"

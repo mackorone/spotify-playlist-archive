@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJKbAAAAAAAxIVuKsGlhIAoN3eBKXkzP",
+  "snapshot_id": "aJPsgAAAAABs7AHGQoMvRwqA4rLx86xe",
   "tracks": [
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unha Curtinha",
-        "url": "https://open.spotify.com/album/1KmEvI4dceo4u8I6Qf6sRR"
-      },
-      "artists": [
-        {
-          "name": "KING Saints",
-          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 124984,
-      "name": "Unha Curtinha",
-      "url": "https://open.spotify.com/track/46aU21eAWMOQN6RpP7kLkk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 157000,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unha Curtinha",
+        "url": "https://open.spotify.com/album/1KmEvI4dceo4u8I6Qf6sRR"
+      },
+      "artists": [
+        {
+          "name": "KING Saints",
+          "url": "https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 124984,
+      "name": "Unha Curtinha",
+      "url": "https://open.spotify.com/track/46aU21eAWMOQN6RpP7kLkk"
     },
     {
       "added_at": null,

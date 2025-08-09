@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-86 songs - 4 hr 40 min
+87 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Udd Gaye \- Bacardi House Party Sessions](https://open.spotify.com/track/6wZJsut8fjiWiMPaccRAOX) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Udd Gaye \(Bacardi House Party Sessions\)](https://open.spotify.com/album/3w4IGs3MgYRrHrVuC6QGAu) | 3:00 | 2024-02-05 |  |
 | [Umang](https://open.spotify.com/track/3XHvNtpFNFJSJG2ZY7JOq5) | [Shak Attack Music](https://open.spotify.com/artist/55hFQMGx9ryWaWL4B97PtD) | [Umang](https://open.spotify.com/album/6NEgJjPgsFroLbEOJBOIJB) | 3:22 | 2023-10-20 |  |
 | [Uncomplicated](https://open.spotify.com/track/1xn3ESNRR5wbpZwEU3xlBv) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Matthew Steeper](https://open.spotify.com/artist/5BCqO5LyLTOvo7etwfgQ7b) | [Uncomplicated](https://open.spotify.com/album/0vZhZVruxqC8HEGc1Wdwtr) | 3:25 | 2023-10-20 |  |
+| [YKWIL](https://open.spotify.com/track/2k6NFkRf3amhkI0wPLdyEX) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [DROPAMINE](https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd) | [YKWIL](https://open.spotify.com/album/4QCFg8cFMdXIHUEJREJtHd) | 3:30 | 2025-08-08 |  |
 | [You and I \(Together Forever\)](https://open.spotify.com/track/4yaZ8vyAcfb88LrIcREXcD) | [Prithvi Prakash](https://open.spotify.com/artist/6SWFSLF1xO9jZ4XOISZkc9) | [You and I \(Together Forever\)](https://open.spotify.com/album/5vYeQGE2ACsF52lxtmmHZd) | 4:07 | 2023-10-20 |  |
 
 \*This playlist was first scraped on 2023-12-01. Prior content cannot be recovered.

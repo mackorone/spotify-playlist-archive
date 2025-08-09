@@ -4,7 +4,7 @@
 
 > Nieuw: Karma K, FOCUS, Pierrii en meer...
 
-66 songs - 2 hr 51 min
+67 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chardonnay](https://open.spotify.com/track/3YZKZksIl2jQuFZFW9Jkcl) | [Ibrah](https://open.spotify.com/artist/3YeXFlCeJsYudHaerLcLkz), [Givi](https://open.spotify.com/artist/2pR2mSn8yL7BUuaCrTbuwc) | [Chardonnay](https://open.spotify.com/album/68SJbVrRlITUArMOcY9jrQ) | 2:12 | 2025-08-07 |  |
 | [Clones](https://open.spotify.com/track/20dmVqeA3OVLCezOmQgwhF) | [Seffelinie](https://open.spotify.com/artist/2rYxEnHjY4kAGMy2muATL0) | [Ze Besseffeliniet](https://open.spotify.com/album/6UBV34Nh4roLWDJ4jaZzZO) | 2:53 | 2025-07-17 |  |
 | [Cocaine](https://open.spotify.com/track/2NKVyiziZbmvIBaS0XHf8P) | [JRTHE1](https://open.spotify.com/artist/0FxDpVW9RCnMWFBgj1VTOr), [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [Cocaine](https://open.spotify.com/album/56OnOSK6PtsHcqKJlLm32U) | 1:57 | 2025-07-17 |  |
+| [CONSISTENT](https://open.spotify.com/track/2ooZJKlbugIWco7jDtFg4u) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [CONSISTENT](https://open.spotify.com/album/1opbKFBxtiSeiUurlVzYvR) | 2:46 | 2025-08-07 |  |
 | [DE ZON SCHIJNT](https://open.spotify.com/track/0SCoB0HWVWJZRHx1debCi4) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [DE ZON SCHIJNT](https://open.spotify.com/album/7Lsmz2X42D66Cm1iIfki8a) | 2:16 | 2025-08-07 |  |
 | [Degradatie](https://open.spotify.com/track/1r2NF9qGlhOE1I4CaxwpeP) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [Degradatie](https://open.spotify.com/album/2BdM34Vhz4W06U2OZK7V8Z) | 2:37 | 2025-07-17 |  |
 | [DOMME PLONS](https://open.spotify.com/track/7dvttSpv7d1wCR8THRXr6E) | [RAFTING GOODS](https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl), [Ella John](https://open.spotify.com/artist/6bVNf3ejcCAVNod0LT1mC9), [Sneadr](https://open.spotify.com/artist/48UYwLP3Rr0RnfaeA1Ne2g), [Eijer](https://open.spotify.com/artist/2x23keFwaeK15CTCjgrWz4) | [MAINSTAGE](https://open.spotify.com/album/7servNJFaGsOiWmr8if5Uw) | 3:09 | 2025-07-17 |  |

@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 252765,
       "name": "Al Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/2fmfXlSSXJWxDVhZn3snuk"
@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 460374,
       "name": "Dios Fuerte",
       "url": "https://open.spotify.com/track/4SnT5pKPCu4pHOHt7vP5QB"
@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Gloria a Cristo el Se\u00f1or (en vivo desde Monterrey)",
+        "url": "https://open.spotify.com/album/6vuf1K1SIMbYGx5DsQ5rWP"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305600,
+      "name": "Gloria a Cristo el Se\u00f1or - en vivo desde Monterrey",
+      "url": "https://open.spotify.com/track/3C2HWcbzdd3RJWyuldkgAM"
+    },
+    {
+      "album": {
         "name": "SEU Worship HOLA",
         "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 286402,
       "name": "Gracia Sublime Es",
       "url": "https://open.spotify.com/track/71z9EO7E5NuQQinTyqh5L2"
@@ -2059,6 +2077,32 @@
     },
     {
       "album": {
+        "name": "Jes\u00fas Te Anhelo",
+        "url": "https://open.spotify.com/album/5iLvPKwH8p4Ans52xsK3na"
+      },
+      "artists": [
+        {
+          "name": "Ke'Erron",
+          "url": "https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527066,
+      "name": "Jes\u00fas Te Anhelo",
+      "url": "https://open.spotify.com/track/0dUsTXyeii4bGeDOv9UHjT"
+    },
+    {
+      "album": {
         "name": "Job",
         "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
       },
@@ -2354,6 +2398,24 @@
       "duration_ms": 627076,
       "name": "Lo Llenas Todo - Live",
       "url": "https://open.spotify.com/track/5R7Oaj3keucFeCu0cyZSRE"
+    },
+    {
+      "album": {
+        "name": "Lo Rindo Todo",
+        "url": "https://open.spotify.com/album/0LcOPHrmKCbD0OlH7Papkx"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304865,
+      "name": "Lo Rindo Todo",
+      "url": "https://open.spotify.com/track/1ipOp4fmZLxqcN7rVwGJze"
     },
     {
       "album": {
@@ -3060,7 +3122,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 343696,
       "name": "Nuestro Dios Es Fiel - En Vivo",
       "url": "https://open.spotify.com/track/6OXPcHNL0Y4GHe8EImPOOf"
@@ -3258,10 +3320,28 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 653333,
       "name": "Pagar El Precio - En Vivo",
       "url": "https://open.spotify.com/track/5rh6v6rIwSWIdTTTbYIaoD"
+    },
+    {
+      "album": {
+        "name": "Pagar el Precio (Organic session)",
+        "url": "https://open.spotify.com/album/35ydb1f9i951d44sJluLpr"
+      },
+      "artists": [
+        {
+          "name": "World Worship",
+          "url": "https://open.spotify.com/artist/0sWeunTzY69e7TCkUflZQm"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567616,
+      "name": "Pagar El Precio - Organic session",
+      "url": "https://open.spotify.com/track/7ax66iz2rrqOjP0997e4ae"
     },
     {
       "album": {
@@ -4001,6 +4081,28 @@
     },
     {
       "album": {
+        "name": "Sopla en m\u00ed",
+        "url": "https://open.spotify.com/album/4jZOvACH2PDsu3ctz06vCl"
+      },
+      "artists": [
+        {
+          "name": "Familia Emanuel Worship",
+          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234160,
+      "name": "Sopla en m\u00ed",
+      "url": "https://open.spotify.com/track/6Og6vEMscLfEp0st5LSnmx"
+    },
+    {
+      "album": {
         "name": "Adorando en Casa (En Vivo Desde Casa)",
         "url": "https://open.spotify.com/album/7EMKyXtMVwNCzO6kkkgmsZ"
       },
@@ -4164,7 +4266,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 290490,
       "name": "Te doy Gloria",
       "url": "https://open.spotify.com/track/5f1oGtvL53SoejN14ENuO4"
@@ -4281,6 +4383,32 @@
     },
     {
       "album": {
+        "name": "Todo Va Estar Bien (Live In Rep\u00fablica Dominicana)",
+        "url": "https://open.spotify.com/album/7l5ZeaIwVuaNZ8yvPMVRRv"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        },
+        {
+          "name": "Juan Carlos Rodriguez",
+          "url": "https://open.spotify.com/artist/1qOS5nTlVontMVE6tJPWZH"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402637,
+      "name": "Todo Va Estar Bien - Live In Rep\u00fablica Dominicana",
+      "url": "https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY"
+    },
+    {
+      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
@@ -4332,7 +4460,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 396917,
       "name": "Tu Fidelidad - Live",
       "url": "https://open.spotify.com/track/7poc9yLeIPIGtf5Gzeov5o"
@@ -4794,6 +4922,36 @@
       "duration_ms": 271508,
       "name": "\u00c9l Es Vida",
       "url": "https://open.spotify.com/track/4gLSx7FkxOPvgk5iPs9L1f"
+    },
+    {
+      "album": {
+        "name": "\u00c9l Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5pGHgOVlqjhqjXE9hymicj"
+      },
+      "artists": [
+        {
+          "name": "Priscila Matiesco",
+          "url": "https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M"
+        },
+        {
+          "name": "Selah Worship",
+          "url": "https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA"
+        },
+        {
+          "name": "La Catedral",
+          "url": "https://open.spotify.com/artist/028xpD94ojZ0WraOcCTkEe"
+        },
+        {
+          "name": "Brian Orellana",
+          "url": "https://open.spotify.com/artist/3quJe8K2N4s5S3uxzyXrDP"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395192,
+      "name": "\u00c9l Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4EabNLm20lusvgnrgksH7M"
     },
     {
       "album": {

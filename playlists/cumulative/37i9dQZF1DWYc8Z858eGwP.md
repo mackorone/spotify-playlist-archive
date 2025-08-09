@@ -2,9 +2,9 @@
 
 ### [RADAR Africa ](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp\_Sw">FOLA</a> & <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=YpyM9WIqRJChjJYvJTgbUA">Thakzin</a>
+> Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp\_Sw">FOLA</a>
 
-470 songs - 1 day 0 hr 59 min
+472 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,8 +172,9 @@
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-05-05 | 2022-10-14 |
 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 | 2021-05-03 | 2022-09-24 |
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-05-09 | 2024-12-05 |
+| [FOTO \(feat\. Olivetheboy\)](https://open.spotify.com/track/62YA8oIfNjNIrvR8ZgVMft) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [POWER](https://open.spotify.com/album/1X17Tuo9Yvn28rQ5mS3i6a) | 2:47 | 2025-08-08 |  |
 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 | 2024-05-09 | 2024-12-05 |
-| [Gabaya](https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Gabaya](https://open.spotify.com/album/4LyY5dGgOvL0LzlT6NR4Wy) | 2:02 | 2025-07-23 |  |
+| [Gabaya](https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Gabaya](https://open.spotify.com/album/4LyY5dGgOvL0LzlT6NR4Wy) | 2:02 | 2025-07-23 | 2025-08-09 |
 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 | 2025-07-23 |  |
 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 | 2025-04-14 | 2025-08-02 |
 | [Getting Late](https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/3fxqOwmITBpQnS5Ub5Zyjy) | 4:14 | 2021-03-01 | 2022-05-06 |
@@ -471,11 +472,12 @@
 | [Yebo](https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Yebo](https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0) | 4:23 | 2024-06-27 | 2024-12-05 |
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-25 | 2022-10-01 |
 | [you](https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 2:55 | 2022-09-15 | 2022-11-19 |
+| [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-08 |  |
 | [You \(Rum & Schnapp\)](https://open.spotify.com/track/6yfTq51uOS74YlSEErCE1P) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [You \(Rum & Schnapp\)](https://open.spotify.com/album/0LMjfmmG1XQIigfU9EewmJ) | 3:36 | 2024-05-09 | 2024-06-28 |
 | [You \- E.A Remix](https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [You \(E.A Remix\)](https://open.spotify.com/album/5PZvJ6rcSc41P3iDSS7u7Z) | 2:44 | 2024-05-09 | 2024-06-28 |
 | [Your Body \(Cocaine\)](https://open.spotify.com/track/0GXGxkfMYquJOWGfG5bC8N) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Your Body \(Cocaine\)](https://open.spotify.com/album/6eMYMGVxrjNxQ6n8FEmn4G) | 2:26 | 2022-05-05 | 2023-05-05 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-11 | 2024-05-09 |
-| [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 | 2025-07-23 |  |
+| [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 | 2025-07-23 | 2025-08-09 |
 | [Zoom](https://open.spotify.com/track/7KQg01g0N7J7tqqCZwg7AY) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Razor](https://open.spotify.com/album/3NpnvUSY9xgj3KnHDonL6h) | 3:24 | 2020-10-29 | 2022-05-06 |
 | [ZOZA](https://open.spotify.com/track/04uUjjh7lhF1kGuYs4mMRq) | [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [ZOZA](https://open.spotify.com/album/1tfhl1hGOqEYvqvzcrTvDG) | 2:58 | 2023-05-04 | 2023-05-20 |
 

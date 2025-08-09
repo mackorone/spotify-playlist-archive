@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-503 songs - 1 day 10 hr 56 min
+504 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [High Pressure Man](https://open.spotify.com/track/47Sduq0OxJvfPrVtoUIQhe) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Brutal Decibel](https://open.spotify.com/album/0kYumnaF4YKyNUZ7WwPUGW) | 4:16 | 2021-04-30 |  |
 | [Human \(Original Rhythm Game Soundtrack\)](https://open.spotify.com/track/1E6gYqHjSV2Ffcsk3NPW1B) | [SOTUI](https://open.spotify.com/artist/0X1lCLOuefOG59DAdw6xwT) | [Human \(Original Rhythm Game Soundtrack\)](https://open.spotify.com/album/4OSvHfJS81L5wqRYAfFv7R) | 2:14 | 2020-06-05 |  |
 | [Hypnosis Tea Time](https://open.spotify.com/track/5DGY4kvaYuxVyghp6pD7xr) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [HALLOWEEN IS CHAOS](https://open.spotify.com/album/1gJdi0jiZTaEk2idFDymBo) | 3:22 | 2021-11-26 |  |
+| [I Hate You](https://open.spotify.com/track/3aJnQtCcxsbwDgPkhrvz1O) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [I Hate You](https://open.spotify.com/album/4dQEgdmJK9kMuDLu71m9G3) | 4:01 | 2025-08-08 |  |
 | [I Will Have My Vengeance](https://open.spotify.com/track/4WA1bTb2u2qjei0v3OGOeI) | [Dischord](https://open.spotify.com/artist/5Em1ub39trbmoJ4nRYM8vS) | [Prophet of Doom](https://open.spotify.com/album/5VNlFNgoyCVjXqHTqzrQbl) | 3:50 | 2019-07-24 |  |
 | [I'm Ready feat\. MC Dahl Headland](https://open.spotify.com/track/3PfNuNWxaqxvTIovxHhkit) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU), [Mc Dahl Headland](https://open.spotify.com/artist/4gX07cLa5KXMHRzc3HEGaN) | [TANO\*C EXTRA](https://open.spotify.com/album/03LWRCctoUDTFPhSCUcBGN) | 1:48 | 2019-04-04 |  |
 | [Ice Pick](https://open.spotify.com/track/1gRh73tSAtlBFwtq3kFLUz) | [NNN](https://open.spotify.com/artist/1Eq9mbt2DLzrKFuQJ7msEQ) | [JAPANESE STREAM HARDCORE VOL.7](https://open.spotify.com/album/1leIzjC3IG0jIxQlGC3W1e) | 5:24 | 2019-03-30 |  |

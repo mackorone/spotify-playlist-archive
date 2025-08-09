@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 245046,
+  "num_followers": 245160,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Hit 'Em Up - Single Version",
-      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Break Ya Neck",
+      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Snap Yo Fingers - Single",
         "url": "https://open.spotify.com/album/5ot3hAGLgvrmfZ3ddosFZf"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 274386,
       "name": "Snap Yo Fingers",
       "url": "https://open.spotify.com/track/6o3s08kk2fQI37vxGZDrJ1"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Break Ya Neck",
-      "url": "https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Hood Hop",
-        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
-      },
-      "artists": [
-        {
-          "name": "J-Kwon",
-          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Tipsy - Club Mix",
-      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Blow The Whistle",
         "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 163133,
       "name": "Blow the Whistle",
       "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Hood Hop",
+        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
+      },
+      "artists": [
+        {
+          "name": "J-Kwon",
+          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Tipsy - Club Mix",
+      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "At Tha Movies",
-        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Mack 10",
-          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
-        },
-        {
-          "name": "Ms. Toi",
-          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "You Can Do It",
-      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/7zg9ZSOQtYLjWnvSawflg6"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 191600,
       "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "At Tha Movies",
+        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        },
+        {
+          "name": "Ms. Toi",
+          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
     },
     {
       "added_at": "2024-10-25 23:07:14",

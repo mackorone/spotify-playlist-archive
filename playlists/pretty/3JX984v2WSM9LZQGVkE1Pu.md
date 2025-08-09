@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3JX984v2WSM9LZQGVkE1Pu.md) - [plain]
 
 > Verve Records is synonymous with great jazz\. Featuring Ella Fitzgerald, Louis Armstrong and more.
 
-[Verve Jazz](https://open.spotify.com/user/vervemusicgroup) - 3,659 likes - 51 songs - 2 hr 59 min
+[Verve Jazz](https://open.spotify.com/user/vervemusicgroup) - 3,660 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

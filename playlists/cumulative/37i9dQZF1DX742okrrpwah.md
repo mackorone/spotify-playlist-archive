@@ -4,7 +4,7 @@
 
 > Ed Sheeran, Jul et Jonas Brothers x Dean Lewis au top des nouveautés de la semaine !
 
-5,821 songs - 12 day 14 hr 33 min
+5,822 songs - 12 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2238,7 +2238,7 @@
 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-29 | 2025-06-06 |
 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 | 2025-05-01 | 2025-05-09 |
 | [Holy Place](https://open.spotify.com/track/3SQDYhkcK0chMfFcbOrt8r) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [New Constellations](https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9) | [Holy Place](https://open.spotify.com/album/1ULKPMbin7i7z8VYQLx4kz) | 2:45 | 2025-06-19 | 2025-06-27 |
-| [Holy Water \(feat\. Jelly Roll\)](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-07 |  |
+| [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-07 |  |
 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 | 2024-11-28 | 2024-12-06 |
 | [Home](https://open.spotify.com/track/37DkD7AlTuPQIh97hO8hVI) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Home \- A COLORS SHOW](https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo) | 2:24 | 2024-06-06 | 2024-06-14 |
 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 | 2024-10-03 | 2024-10-11 |
@@ -2673,6 +2673,7 @@
 | [Just Like You](https://open.spotify.com/track/1Mr8z0evbafjEIqH2RpESs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Just Like You](https://open.spotify.com/album/0gTKZUy948X2MFOTVxlWRq) | 2:30 | 2025-07-24 | 2025-08-01 |
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2024-10-10 | 2024-10-18 |
 | [Just My Type](https://open.spotify.com/track/3U2fxzzmfG6IubKrvXbWr8) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Just My Type](https://open.spotify.com/album/1FrfBppniPQH42IpFBBgAh) | 3:05 | 2024-05-09 | 2024-05-17 |
+| [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 | 2025-08-07 |  |
 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 | 2024-09-05 | 2024-09-13 |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-20 | 2025-03-28 |
 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 | 2025-05-22 | 2025-05-30 |
@@ -3819,7 +3820,7 @@
 | [On est plein](https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [On est plein](https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l) | 2:26 | 2024-06-06 | 2024-06-14 |
 | [On fait comment](https://open.spotify.com/track/3vlbhli0NWUFbCeuZhmLqf) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [On fait comment](https://open.spotify.com/album/5Myu3kgXoH6ZhTOMhvPDbe) | 2:16 | 2025-04-17 | 2025-04-19 |
 | [ON FAIT LES CHOSES](https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 3:15 | 2025-05-15 | 2025-05-23 |
-| [On McAfee](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 |  |
+| [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-07 |  |
 | [On My Lips \(Sweet Dreams\)](https://open.spotify.com/track/2m5pmGuwXU6S3aLNPRLfPN) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Michael Roman](https://open.spotify.com/artist/6ymKRGN5gpJNYqUGkxHyFH) | [On My Lips \(Sweet Dreams\)](https://open.spotify.com/album/7u7A5sAyb2YDHyXcnNIBxD) | 2:23 | 2025-08-01 | 2025-08-08 |
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 | 2025-07-04 |
 | [On My Mind](https://open.spotify.com/track/1Pk2uI83Kn27uZrl8Ftkup) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [On My Mind](https://open.spotify.com/album/5XTrhUxnjd147ibNZfUtcY) | 2:55 | 2024-05-23 | 2024-06-01 |

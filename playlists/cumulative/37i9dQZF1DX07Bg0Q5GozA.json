@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 174546,
       "name": "222",
       "url": "https://open.spotify.com/track/7ExV30ZxBPF5nbFyx05gQ2"
@@ -652,7 +652,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 172893,
       "name": "All I Care About - David Bay Remix",
       "url": "https://open.spotify.com/track/2D8TlT2ZLm5YdheWLQMthz"
@@ -4997,6 +4997,32 @@
     },
     {
       "album": {
+        "name": "Do It Again (Joplyn Remix)",
+        "url": "https://open.spotify.com/album/09nKzFOGgNSOf0Od37Q2Lr"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355021,
+      "name": "Do It Again - Joplyn Remix",
+      "url": "https://open.spotify.com/track/4QCc8Xdf206DvaXBgUzGuf"
+    },
+    {
+      "album": {
         "name": "Do Nothing",
         "url": "https://open.spotify.com/album/4fc8M2b3XSKwo5YxekkZLT"
       },
@@ -5853,6 +5879,28 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/6FRkGgEsiLrpmTOSJI8hV1"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        },
+        {
+          "name": "TWYGS",
+          "url": "https://open.spotify.com/artist/17qZdHgbCOdkCVZWpK3TEw"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192780,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0iG78AvLjAQm6ejFyZhwWz"
+    },
+    {
+      "album": {
         "name": "WUT",
         "url": "https://open.spotify.com/album/0ooPfXfXVfkv8WjcMkOjnE"
       },
@@ -6156,7 +6204,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 398000,
       "name": "ENTROPIA",
       "url": "https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5"
@@ -6940,7 +6988,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 313284,
       "name": "Felt Bat",
       "url": "https://open.spotify.com/track/6Uc4kBXn3RiR9HK20s8J2U"
@@ -8396,6 +8444,28 @@
       "duration_ms": 612525,
       "name": "Hafi Deo - Nick The Record & Dan Tyler Re-Edit Dub",
       "url": "https://open.spotify.com/track/43XLoBEHXE9hNo13g5zBRr"
+    },
+    {
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/6kiMn86rBK1LwjJjhlTDnl"
+      },
+      "artists": [
+        {
+          "name": "Kev Koko",
+          "url": "https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI"
+        },
+        {
+          "name": "Nina Roy",
+          "url": "https://open.spotify.com/artist/2JC0TmLPoHdPqwzoKW2d4F"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184975,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7"
     },
     {
       "album": {
@@ -10596,6 +10666,24 @@
       "duration_ms": 254173,
       "name": "In Motion",
       "url": "https://open.spotify.com/track/5OpWrwpNAvrO5JJtDST6FW"
+    },
+    {
+      "album": {
+        "name": "In My Place",
+        "url": "https://open.spotify.com/album/1yfIjadWoA8WtcmoXICYNk"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208264,
+      "name": "In My Place - Edit",
+      "url": "https://open.spotify.com/track/0AaeFlBxNLeaQelNSP9CTb"
     },
     {
       "album": {
@@ -13660,7 +13748,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 267540,
       "name": "Maybe Late",
       "url": "https://open.spotify.com/track/0ltoUzrfEkfemkt5rYDleN"
@@ -16701,6 +16789,24 @@
     },
     {
       "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/65qGoCXJjTuYTXvDWnQc8C"
+      },
+      "artists": [
+        {
+          "name": "Cody Currie",
+          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289041,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/3AOMPvMX80zcY8iLWC3wRb"
+    },
+    {
+      "album": {
         "name": "Please Don't Go",
         "url": "https://open.spotify.com/album/2iExuSxQaFAmuyRVrnLyAy"
       },
@@ -17726,7 +17832,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 423512,
       "name": "Running To The Sea - Oliver Koletzki Remix",
       "url": "https://open.spotify.com/track/084NWPhx2cuJQqgEAVyhYl"
@@ -19132,7 +19238,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 339706,
       "name": "So High",
       "url": "https://open.spotify.com/track/7sz9ZV2IVfUv3hD0MUpxG2"
@@ -19713,6 +19819,24 @@
     },
     {
       "album": {
+        "name": "Still See Love",
+        "url": "https://open.spotify.com/album/0lGLyptrVMPwGZdsk8iKsQ"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234369,
+      "name": "Still See Love",
+      "url": "https://open.spotify.com/track/17mBSbqnsXQRYQff2tt6Gt"
+    },
+    {
+      "album": {
         "name": "Still There",
         "url": "https://open.spotify.com/album/6Gljo8qN1uZXCFIAZkJ3QZ"
       },
@@ -19750,6 +19874,24 @@
       "duration_ms": 265714,
       "name": "Stop Explaining",
       "url": "https://open.spotify.com/track/4uEDKomPhMtis1zYDQMmUO"
+    },
+    {
+      "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
     },
     {
       "album": {
@@ -19940,6 +20082,24 @@
       "duration_ms": 224353,
       "name": "Summer & Smoke - Trikk Selva Furia Remix",
       "url": "https://open.spotify.com/track/2hbIOgTUnun0uQqQFsgUOM"
+    },
+    {
+      "album": {
+        "name": "summer in the city",
+        "url": "https://open.spotify.com/album/3JMXfKPgScKuvI2GtN2wTr"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174197,
+      "name": "summer in the city",
+      "url": "https://open.spotify.com/track/7LipWex081E2Z3YyWpVyil"
     },
     {
       "album": {
@@ -20446,7 +20606,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 179000,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5"
@@ -20913,6 +21073,28 @@
     },
     {
       "album": {
+        "name": "The Bay (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223824,
+      "name": "The Bay - Purple Disco Machine Edit",
+      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
+    },
+    {
+      "album": {
         "name": "The Dark, The Light",
         "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
@@ -21054,7 +21236,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 254690,
       "name": "The Fun Of It - Gus alt-J Remix",
       "url": "https://open.spotify.com/track/5brPcG7uOWhA4JA9a7JV4d"
@@ -22681,6 +22863,24 @@
     },
     {
       "album": {
+        "name": "Vampire Bat",
+        "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206652,
+      "name": "Vampire Bat",
+      "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
+    },
+    {
+      "album": {
         "name": "Venera",
         "url": "https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9"
       },
@@ -23634,7 +23834,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 264131,
       "name": "When This Is Over",
       "url": "https://open.spotify.com/track/7xPVO9T4tnz7SFGGbHc7s5"

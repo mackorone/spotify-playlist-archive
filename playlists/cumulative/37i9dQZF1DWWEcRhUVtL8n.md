@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Shelly
 
-2,169 songs - 4 day 18 hr 58 min
+2,170 songs - 4 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [80's Movie](https://open.spotify.com/track/0ReotC6rCrcb9N7RzA9GmO) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [80's Movie](https://open.spotify.com/album/0XZDttTTOOuetRe3T76gBY) | 3:13 | 2021-02-22 | 2021-03-22 |
 | [9 to 5](https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [9 to 5](https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD) | 3:16 | 2021-09-10 | 2022-07-23 |
 | [9\-5](https://open.spotify.com/track/4ECDmDKk1h0JmNqNQL6Aiw) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [11:11](https://open.spotify.com/album/64Nwjh0IJLk48W0QjhFgfQ) | 2:35 | 2025-02-07 | 2025-03-16 |
-| [97 Jag](https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:49 | 2025-06-27 |  |
+| [97 Jag](https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:49 | 2025-06-27 | 2025-08-09 |
 | [9teen](https://open.spotify.com/track/7fzDvKpwihEVm18rRgdmYi) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [9teen](https://open.spotify.com/album/62PVXROIVspBU0cScSq2hN) | 2:40 | 2020-10-13\* | 2021-05-23 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 |  |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-07 | 2022-04-19 |
@@ -696,6 +696,7 @@
 | [Flash In The Pan](https://open.spotify.com/track/7cog7mmj03N9GJRLcn4KET) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [The Jester](https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83) | 3:46 | 2024-11-15 | 2024-12-21 |
 | [Flem](https://open.spotify.com/track/3Hz2v0xug42k3JO910jia5) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Maltman and Effie](https://open.spotify.com/album/3fMhlibIYwYG32CifC7DOq) | 5:04 | 2022-06-24 | 2022-06-28 |
 | [Float Through The Ceiling](https://open.spotify.com/track/7aYv3jUbXvySVnHgVwXoaJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Float Through The Ceiling](https://open.spotify.com/album/4royMykJ55TjzXJhHQhiv6) | 2:45 | 2022-02-25 | 2022-05-20 |
+| [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 | 2025-08-08 |  |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-27 | 2022-04-13 |
 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 | 2020-10-20 | 2020-10-21 |
 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 | 2022-06-17 | 2022-07-29 |

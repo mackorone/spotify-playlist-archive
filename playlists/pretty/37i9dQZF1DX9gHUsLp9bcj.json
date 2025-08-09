@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 43480,
+  "num_followers": 43507,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
         "name": "Benny Mor\u00e9 Con P\u00e9rez Prado",
         "url": "https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 194733,
       "name": "La Mucura",
       "url": "https://open.spotify.com/track/5VnjVNlLBuSaBtRlWM8nNw"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/4OK9UQQIHN9DSfmXTIiNhU"
     },
     {
       "added_at": "2024-04-24 22:38:01",

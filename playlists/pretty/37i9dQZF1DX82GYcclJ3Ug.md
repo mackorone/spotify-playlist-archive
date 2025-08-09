@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Nourished By Time
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,185 likes - 124 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,995 likes - 124 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 123 | [Hate Goodbyes](https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Hate Goodbyes](https://open.spotify.com/album/07w74aZOr10AawZOJND2BY) | 3:47 |
 | 124 | [7x9](https://open.spotify.com/track/2Lpd64PpcXoEcTMAkHMVIe) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Constant Change](https://open.spotify.com/album/0ZIomUesufga9yneCy3HQV) | 2:21 |
 
-Snapshot ID: `AAAAAGZ1Q5Pnd1WpfNZ7WiirNaQlX/qV`
+Snapshot ID: `AAAAAKVDO42hCAXRV9CzjK5NASB3Kud7`

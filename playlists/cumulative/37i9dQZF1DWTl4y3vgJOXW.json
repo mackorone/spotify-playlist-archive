@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Rickea Jackson and Kelsey Plum\n",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Marshawn Lynch\n",
   "name": "Locked In",
   "tracks": [
     {
@@ -3992,7 +3992,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 112941,
       "name": "Dogshit Talker",
       "url": "https://open.spotify.com/track/4cwRFHg9RMuV86lWzxXOnZ"
@@ -10109,6 +10109,24 @@
     },
     {
       "album": {
+        "name": "Mr. President",
+        "url": "https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134509,
+      "name": "Mr. President",
+      "url": "https://open.spotify.com/track/0Z3ds3GJ7FqoaSgn6tLKF3"
+    },
+    {
+      "album": {
         "name": "I AM YOU",
         "url": "https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW"
       },
@@ -13760,7 +13778,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 149960,
       "name": "SISTA WIVES - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/56R7kwzrKx7BhlwiLhoCph"
@@ -17064,6 +17082,32 @@
       "duration_ms": 362839,
       "name": "What's Free (feat. Rick Ross & Jay Z)",
       "url": "https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox"
+    },
+    {
+      "album": {
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "WHAT'S HAPPENIN' (feat. Latto & Coupe)",
+      "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
     },
     {
       "album": {

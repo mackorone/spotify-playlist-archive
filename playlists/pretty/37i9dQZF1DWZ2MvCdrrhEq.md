@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2MvCdrrhEq.md) - [plain]
 
 > did your boots start working?
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,103 likes - 54 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,185 likes - 54 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

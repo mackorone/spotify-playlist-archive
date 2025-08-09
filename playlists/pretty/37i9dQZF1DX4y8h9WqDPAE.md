@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Ayra Starr
+> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,841 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,709 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [BUSS AT YOU](https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M) | [Saint Lamaar](https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN) | [BUSS AT YOU](https://open.spotify.com/album/4MeUzTQYY3TVnRx668dIPz) | 2:14 |
 | 150 | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/track/3WLhxGa2HGPcXbmK3NYmm8) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WYA \(feat\. Sexyy Red\)](https://open.spotify.com/album/1VdyHDwu9mPQrC7bViLABV) | 2:18 |
 
-Snapshot ID: `AAAAAGc4dzVDRxyjb82ehYIvdJVgW9LD`
+Snapshot ID: `AAAAAIrMdtO5NQGg3lQcotQqbSbeEfTy`

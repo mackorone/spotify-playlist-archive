@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193915,
+      "name": "Free Drugs",
+      "url": "https://open.spotify.com/track/1AUf51Rjq1ZY2zWYRheWdt"
+    },
+    {
+      "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 229367,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/4hEAuRbB3YsnCw7DE2nJZV"

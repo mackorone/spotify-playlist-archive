@@ -1,13 +1,29 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Laufey",
-  "num_followers": 1312998,
+  "description": "Discover your favorite new chill pop songs. Cover: Ed Sheeran",
+  "num_followers": 1312910,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGIAhWlrW57zylUyHK0GegS5gdiv",
+  "snapshot_id": "AAAAABktyGniiCpFyi1iCWPmJn5KeeLb",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:54",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
+    },
     {
       "added_at": "2025-06-27 04:00:49",
       "album": {
@@ -95,6 +111,22 @@
       "duration_ms": 155693,
       "name": "buzzkill",
       "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
+    },
+    {
+      "added_at": "2025-08-08 04:00:54",
+      "album": {
+        "name": "The Sick",
+        "url": "https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "The Sick",
+      "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
     },
     {
       "added_at": "2025-04-04 04:00:35",
@@ -757,22 +789,6 @@
       "url": "https://open.spotify.com/track/4uzPfhoVU3Dp9lANiOZtDu"
     },
     {
-      "added_at": "2024-07-26 15:29:25",
-      "album": {
-        "name": "If Only + No One Noticed",
-        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
       "added_at": "2025-03-21 04:00:48",
       "album": {
         "name": "undressed",
@@ -1263,26 +1279,6 @@
       "duration_ms": 154936,
       "name": "4 foot 2",
       "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 322223,
-      "name": "Butterflies (feat. Tim Bernardes)",
-      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
     },
     {
       "added_at": "2024-07-26 04:00:00",

@@ -1,13 +1,45 @@
 {
-  "description": "The home of Canadian country music. Cover: High Valley",
-  "num_followers": 81512,
+  "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
+  "num_followers": 81542,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL5mGDsjtwibqAzHlk/gs+GVGg7t",
+  "snapshot_id": "AAAAAK2YnV2X1YymYMW1kTGcxERJNpzh",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:01:29",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 202161,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
+    },
+    {
+      "added_at": "2025-08-08 04:01:29",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/2TuEk4nFPSNxcH8ReFTXoY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 190287,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0"
+    },
     {
       "added_at": "2025-08-01 04:01:28",
       "album": {
@@ -55,6 +87,22 @@
       "duration_ms": 177565,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
+    },
+    {
+      "added_at": "2025-08-08 04:01:29",
+      "album": {
+        "name": "Are You With Me?",
+        "url": "https://open.spotify.com/album/0nJZ3MC23bIYlQ6e3Zn7Hm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 183715,
+      "name": "Are You With Me?",
+      "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
     },
     {
       "added_at": "2025-08-01 04:01:28",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
     },
     {
+      "added_at": "2025-08-08 04:01:29",
+      "album": {
+        "name": "Man Like Mine",
+        "url": "https://open.spotify.com/album/3MjgxT0AsWa6KPx1pZSmpm"
+      },
+      "artists": [
+        {
+          "name": "Karli June",
+          "url": "https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Man Like Mine",
+      "url": "https://open.spotify.com/track/1imsA3Jc3y82WnwtZU24rq"
+    },
+    {
       "added_at": "2025-07-25 04:01:35",
       "album": {
         "name": "Rose Colored Glasses",
@@ -135,6 +199,22 @@
       "duration_ms": 197036,
       "name": "Highway Money",
       "url": "https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi"
+    },
+    {
+      "added_at": "2025-07-11 04:01:06",
+      "album": {
+        "name": "You Had To Be There",
+        "url": "https://open.spotify.com/album/0RyKfb0Ex8kCMgkL6cOzM8"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "duration_ms": 172907,
+      "name": "You Had To Be There",
+      "url": "https://open.spotify.com/track/14i984cKjuw6x5ubdfaHIu"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -199,22 +279,6 @@
       "duration_ms": 182238,
       "name": "Longer Than A Little While",
       "url": "https://open.spotify.com/track/6HbfsU7ZhZ0v5lLX2KlofO"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "You Had To Be There",
-        "url": "https://open.spotify.com/album/0RyKfb0Ex8kCMgkL6cOzM8"
-      },
-      "artists": [
-        {
-          "name": "The Reklaws",
-          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
-        }
-      ],
-      "duration_ms": 172907,
-      "name": "You Had To Be There",
-      "url": "https://open.spotify.com/track/14i984cKjuw6x5ubdfaHIu"
     },
     {
       "added_at": "2025-08-01 04:01:28",
@@ -729,6 +793,22 @@
       "url": "https://open.spotify.com/track/4KOs1jL1kJBg4iYREfKDNv"
     },
     {
+      "added_at": "2025-07-04 04:00:20",
+      "album": {
+        "name": "Middle Of The Bed",
+        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Middle Of The Bed - Single Version",
+      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
+    },
+    {
       "added_at": "2025-07-18 04:01:06",
       "album": {
         "name": "HOWL",
@@ -1071,22 +1151,6 @@
     {
       "added_at": "2025-07-04 04:00:20",
       "album": {
-        "name": "Shouldn't Drink No More",
-        "url": "https://open.spotify.com/album/28oQSClPcThd1YJ7CgvNBB"
-      },
-      "artists": [
-        {
-          "name": "Ryan Langdon",
-          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
-        }
-      ],
-      "duration_ms": 182516,
-      "name": "Shouldn't Drink No More",
-      "url": "https://open.spotify.com/track/4wnFOQyQvgqbSFNDVR7wMV"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
         "name": "Heartbreak Rodeo",
         "url": "https://open.spotify.com/album/5CsPQZX5z0cgIUW5TR9jG8"
       },
@@ -1099,38 +1163,6 @@
       "duration_ms": 160768,
       "name": "Heartbreak Rodeo",
       "url": "https://open.spotify.com/track/2rWuh8EBT4fCzFzDnmAR2W"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Middle Of The Bed",
-        "url": "https://open.spotify.com/album/5jsaJkg4rqIfGYfourQ3an"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Middle Of The Bed - Single Version",
-      "url": "https://open.spotify.com/track/0jWCf9yZB4eTdHmzkwzh88"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Outta the Bar",
-        "url": "https://open.spotify.com/album/3KF7JlHe1YEVsMhyAjiW3c"
-      },
-      "artists": [
-        {
-          "name": "Matt Lang",
-          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
-        }
-      ],
-      "duration_ms": 187337,
-      "name": "Outta the Bar",
-      "url": "https://open.spotify.com/track/6zzOichWfkqq3kX8AlwUaq"
     },
     {
       "added_at": "2025-07-04 04:00:20",
@@ -1199,38 +1231,6 @@
       "duration_ms": 184155,
       "name": "You Problem",
       "url": "https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "I Saw the Devil",
-        "url": "https://open.spotify.com/album/0ZALmMpegki8cMOJzwoqCe"
-      },
-      "artists": [
-        {
-          "name": "Alli Walker",
-          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
-        }
-      ],
-      "duration_ms": 200066,
-      "name": "I Saw the Devil",
-      "url": "https://open.spotify.com/track/44ehKJU7RkPnu9O3oWy5Wd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "7 Words",
-        "url": "https://open.spotify.com/album/6BuB9ZxCxGsYZV0iSkv1xv"
-      },
-      "artists": [
-        {
-          "name": "Dallas Alexander",
-          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
-        }
-      ],
-      "duration_ms": 207899,
-      "name": "7 Words",
-      "url": "https://open.spotify.com/track/1DXBG86wW6xaOoaEryBaAa"
     }
   ],
   "unique_name": "North Country",

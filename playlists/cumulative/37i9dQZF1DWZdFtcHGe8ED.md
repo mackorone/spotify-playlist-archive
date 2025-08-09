@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-448 songs - 1 day 7 hr 37 min
+449 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Bring The Noise](https://open.spotify.com/track/1p50Ir1Hm6Sa1urjaLGi7L) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP), [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [Attack Of The Killer B's](https://open.spotify.com/album/6Ic0P6UAAHeyAsnvri4qXS) | 3:31 | 2022-12-15 |  |
 | [Buried In Blood](https://open.spotify.com/track/1bXEs2eoSyquMXTEJTIWfH) | [Hyades](https://open.spotify.com/artist/78Xog8iTNxF8t9o4SAWhOG) | [And The Worst Is Yet To Come](https://open.spotify.com/album/0gViBzE5kQ4XubXLTZODpw) | 4:26 | 2021-12-17 | 2022-03-02 |
 | [Burn the Sky](https://open.spotify.com/track/0JMc364YMZ68bMn1OoBm3D) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Burn the Sky](https://open.spotify.com/album/6FI3I1yEUAQT2A1qmh3QOx) | 4:26 | 2021-12-17 |  |
+| [Bury Me With My Screams](https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Bury Me With My Screams](https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1) | 5:16 | 2025-08-08 |  |
 | [Cadaver Decomposition Island](https://open.spotify.com/track/4AEOeqhIKJwYHrZLG8kZS6) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Operation Misdirection](https://open.spotify.com/album/2ILFNiol36zJ17ZuiTYPMe) | 6:11 | 2021-12-17 | 2022-07-26 |
 | [Can't Help but Hate](https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Can't Help but Hate](https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA) | 1:26 | 2022-03-10 | 2025-04-24 |
 | [Cancer in the Brain](https://open.spotify.com/track/0qM2FouJdLcjr5vNB1jfPw) | [Demolizer](https://open.spotify.com/artist/7Mq4g7MEMxWozA1LIttP2P) | [Thrashmageddon](https://open.spotify.com/album/1qoTxkfuZb85t60fpbFaR2) | 3:45 | 2021-12-17 | 2022-07-20 |
@@ -244,7 +245,7 @@
 | [Mad Dictator](https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Knee\-Deep in the Dead](https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F) | 4:27 | 2021-12-17 |  |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-07-13 | 2024-04-19 |
 | [Madhouse](https://open.spotify.com/track/6DRvu6LgU0wRF6Yr7WHRji) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/6cxOXhhgRg5CiCCdqmHKZp) | 4:19 | 2022-07-13 | 2025-06-28 |
-| [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 | 2021-12-17 |  |
+| [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 | 2021-12-17 | 2025-08-09 |
 | [Mania](https://open.spotify.com/track/1Hi1WFQ9Ro26gi1H5yT9Ci) | [Hell Fire](https://open.spotify.com/artist/6hwtkhYiDooPPfKqzumCkb) | [Mania](https://open.spotify.com/album/3iVtq5GNrvHDQzingo56kP) | 5:51 | 2021-12-17 | 2022-07-20 |
 | [Marionette](https://open.spotify.com/track/098gOGegzGnjMi3bZVLUeN) | [Born Of Ire](https://open.spotify.com/artist/6PewtGR1UteSAtMhineAxx) | [Born of Ire](https://open.spotify.com/album/3HBNbDf4SxIED8tBzBcxRN) | 5:00 | 2021-12-17 | 2022-07-16 |
 | [Masked Jackal](https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Punishment for Decadence](https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX) | 4:47 | 2022-07-13 |  |

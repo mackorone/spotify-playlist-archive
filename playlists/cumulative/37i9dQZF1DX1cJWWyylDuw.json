@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the best modern Deathcore tracks. Cover: Paleface Swiss",
+  "description": "A mix of the best modern Deathcore tracks. Cover: Aviana",
   "name": "Deathcore",
   "tracks": [
     {
@@ -2593,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
+    },
+    {
+      "album": {
         "name": "Cryogenesis",
         "url": "https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U"
       },
@@ -3982,6 +4000,24 @@
       "duration_ms": 219004,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/7hi5hEBBmVqjoIfNohHS5U"
+    },
+    {
+      "album": {
+        "name": "EVERMORE",
+        "url": "https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "EVERMORE",
+      "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
     },
     {
       "album": {
@@ -7946,7 +7982,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 109200,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"
@@ -9026,7 +9062,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 176305,
       "name": "Predatory",
       "url": "https://open.spotify.com/track/0nCt6JIIzpA8XtQcd6PDtq"

@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 760342,
+  "num_followers": 760541,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 388533,
-      "name": "Dr. Beat - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "The Twelve Inch Mixes",
         "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 385000,
       "name": "Only When You Leave - 12\" Version",
       "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 388533,
+      "name": "Dr. Beat - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -723,22 +723,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+        "name": "Best Remixes",
+        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
       },
       "artists": [
         {
           "name": "New Order",
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        },
-        {
-          "name": "Shep Pettibone",
-          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
         }
       ],
-      "duration_ms": 543440,
-      "name": "True Faith - Shep Pettibone 12\" Remix",
-      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
+      "duration_ms": 427480,
+      "name": "Blue Monday ('88) - 12\" Version",
+      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -775,22 +771,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Raspberry Beret",
-        "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 400520,
-      "name": "Raspberry Beret - Extended 12\" Version",
-      "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -807,18 +787,38 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Best Remixes",
-        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
+        "name": "Raspberry Beret",
+        "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 400520,
+      "name": "Raspberry Beret - Extended 12\" Version",
+      "url": "https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
       "artists": [
         {
           "name": "New Order",
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        },
+        {
+          "name": "Shep Pettibone",
+          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
         }
       ],
-      "duration_ms": 427480,
-      "name": "Blue Monday ('88) - 12\" Version",
-      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
+      "duration_ms": 543440,
+      "name": "True Faith - Shep Pettibone 12\" Remix",
+      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "80s 12'' Summer",
-        "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Gold - 12\" Mix",
-      "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 370386,
       "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
       "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "80s 12'' Summer",
+        "url": "https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Gold - 12\" Mix",
+      "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
     },
     {
       "added_at": "2024-02-06 15:45:26",

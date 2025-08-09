@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Bernice West, Appel, Barto, Nádine en meer!
 
-1,917 songs - 4 day 10 hr 36 min
+1,919 songs - 4 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Hartswoestyn](https://open.spotify.com/track/0qXi1TXgUv9CkJn09aTmfp) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Hartswoestyn](https://open.spotify.com/album/6CNyy3U3QNyLeb8EYwJ5oy) | 3:35 | 2024-11-21 | 2025-02-07 |
 | [Hasie Hop](https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Proe Soos Nog](https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS) | 2:57 | 2024-06-27 | 2024-12-06 |
 | [Hatfield Strip](https://open.spotify.com/track/1LZWvtdT4w0jylG1jRFIhM) | [Joané Kruger](https://open.spotify.com/artist/2dmMbR2FRWLcUYoi5uosEy) | [Hatfield Strip](https://open.spotify.com/album/41u89HRNs5SThNdCWlUzX0) | 2:56 | 2025-07-17 | 2025-08-01 |
+| [Heel Maak](https://open.spotify.com/track/12XE1cOuL2JIYnAIWHgt2V) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Heel Maak](https://open.spotify.com/album/6tyaBV81N9L5UjIOqX1Qdw) | 2:47 | 2025-08-07 |  |
 | [Heilig](https://open.spotify.com/track/5knaCSrMGjCgzzZ0aNUumP) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [Vreemdeling](https://open.spotify.com/album/2RzHTISimhSf9cm3X5d23i) | 3:53 | 2023-03-02 | 2023-03-25 |
 | [Heilig Vir Ewig](https://open.spotify.com/track/4c61phFTraxiJenL18rA11) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [Heilig Vir Ewig](https://open.spotify.com/album/7jdFdY8k7iMaX9pivUy44d) | 5:03 | 2025-07-17 |  |
 | [Heining](https://open.spotify.com/track/3lSKdVtU2UFD4P1ZY4ri1n) | [Blink Stiffaans](https://open.spotify.com/artist/3ODxV374pFDs2D1V3yT1XB) | [Heining](https://open.spotify.com/album/1tv0KDmFV0HEEKfshUjsO6) | 4:23 | 2024-10-03 | 2024-10-18 |
@@ -670,7 +671,7 @@
 | [Hemel Op Die Aarde](https://open.spotify.com/track/3QlKVFn5qe3ZhGpXhZqfkz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Hemel Op Die Aarde](https://open.spotify.com/album/3DiRpHm0a7V7UWZAMtS16Z) | 3:45 | 2024-11-14 | 2024-11-29 |
 | [Hemel se Deur](https://open.spotify.com/track/3wZYtFzzcrowIquMHaX2pY) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Hemel se Deur](https://open.spotify.com/album/6Z4VE4i1riW3upnaGJ3IYl) | 3:46 | 2023-10-26 | 2023-11-17 |
 | [Hephzibah](https://open.spotify.com/track/6D1hKHOc5L439rSmvT5tZi) | [Neil Sandilands](https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY) | [Land & Sand](https://open.spotify.com/album/2ouurOd8VHVbzoUDdPAddN) | 2:30 | 2024-10-10 | 2024-10-18 |
-| [Herbeskryf](https://open.spotify.com/track/5kdV5DXboh25VNthvY0KWl) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Herbeskryf](https://open.spotify.com/album/2IpFyw7sN8vCTEtEPZGVL6) | 3:57 | 2025-05-29 |  |
+| [Herbeskryf](https://open.spotify.com/track/5kdV5DXboh25VNthvY0KWl) | [Joshua Na Die Reën](https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW), [Seuns van Vlug](https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE) | [Herbeskryf](https://open.spotify.com/album/2IpFyw7sN8vCTEtEPZGVL6) | 3:57 | 2025-05-29 | 2025-08-09 |
 | [Herders Op Die Ope Velde](https://open.spotify.com/track/70GLiycAEaLxdT3oUauVer) | [Frikkie Van Biljon](https://open.spotify.com/artist/2hKj68eTf7yvPN1eJLEuM6) | [Herders Op Die Ope Velde](https://open.spotify.com/album/4V5BiS2Dw4MbRRNjaCcUFj) | 3:20 | 2024-12-12 | 2024-12-20 |
 | [Het Jou Nodig](https://open.spotify.com/track/6YlnBWBaQcDrz9BSVqgDa2) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Het Jou Nodig](https://open.spotify.com/album/3CHi0GHPaDHlcPRTBILoNb) | 3:29 | 2025-05-15 | 2025-07-11 |
 | [Het Jy Iemand](https://open.spotify.com/track/6nxrtUmq5aNJlLef0zwKOP) | [Ollyvans](https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq), [Tasché](https://open.spotify.com/artist/0wRKymJElTHOM1zCZuGspN) | [Het Jy Iemand](https://open.spotify.com/album/0bVTa1xvnoVMRABEvcBPW2) | 2:47 | 2025-05-29 |  |
@@ -1141,6 +1142,7 @@
 | [My Ding](https://open.spotify.com/track/43mpE4NL8i5PrrTr78JjiE) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [My Ding](https://open.spotify.com/album/1pVN0N6nmFOEeWPMvtrjhf) | 3:52 | 2024-06-21 | 2024-08-16 |
 | [My Hart, Jou Hande\(Vraagteken?\)](https://open.spotify.com/track/0G3mbFqZ2i3W5xWoAlRNaf) | [Tweepuntplug](https://open.spotify.com/artist/0nvUx4ttABgwTiuqxxK2V5) | [My Hart, Jou Hande\(Vraagteken?\)](https://open.spotify.com/album/00V7WzRfuQY1TuWBLPiAI6) | 3:22 | 2025-07-17 | 2025-07-25 |
 | [My Hele Lyf \- Live](https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Seisoen 2 \- Top 5 \(Live\)](https://open.spotify.com/album/7mY9sILLbKkZjJOeoJp4Fp) | 3:06 | 2022-10-03 | 2022-11-25 |
+| [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 | 2025-08-08 |  |
 | [MY HUIS IS WAAR MY HART IS](https://open.spotify.com/track/4ooGCOGkyNcUaFVMHw6rUk) | [Lu\-Anel](https://open.spotify.com/artist/5gQEsU63jR0zFVIqgQBKJI) | [MY HUIS IS WAAR MY HART IS](https://open.spotify.com/album/4PA0HvP1uyoLkyxLVZ46Tg) | 2:41 | 2025-07-03 | 2025-08-08 |
 | [My Lied](https://open.spotify.com/track/17IIN0Z3ZVKCnxS6CTGwN4) | [ANDRE JUAN](https://open.spotify.com/artist/0GVtG5Ws4NdHRijvTseZWT) | [My Lied](https://open.spotify.com/album/0bOr8qfc2NG8o6ci7V8zM8) | 3:03 | 2024-03-21 | 2024-03-29 |
 | [My Liefde Is 'n Strandhuis](https://open.spotify.com/track/40Wins4l4Dtxy9igQhF70f) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Liefde Is 'n Strandhuis](https://open.spotify.com/album/6DAdarfiu7qkKYobs8Fn4D) | 3:14 | 2025-07-24 | 2025-08-01 |

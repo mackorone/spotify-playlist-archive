@@ -2,7 +2,7 @@
 
 ### [All New Latin](https://open.spotify.com/playlist/37i9dQZF1DX1hVRardJ30X)
 
-> New music by ROBI, Ruaw Alejandro, Chino Pacas, Emilia and more! Updates every Friday.
+> New music by TINI, Clave Especial, El Malilla, and more! Updates every Friday.
 
 10,163 songs - 22 day 1 hr 53 min
 

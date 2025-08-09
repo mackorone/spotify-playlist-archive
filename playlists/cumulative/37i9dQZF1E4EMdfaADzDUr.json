@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, Leblanc, winterburn and more",
+  "description": "With After Cooking, winterburn, Leblanc and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Instrumental Version",
       "url": "https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 241860,
       "name": "Adrenogate",
       "url": "https://open.spotify.com/track/0jMjnpl50merLHHWvpvVZi"
@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Abstract",
+        "url": "https://open.spotify.com/album/5HvMoKEq5es7VUTNjRTsDP"
+      },
+      "artists": [
+        {
+          "name": "Eagles & Butterflies",
+          "url": "https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122401,
+      "name": "Colours of Arps",
+      "url": "https://open.spotify.com/track/4lzPDJEyZFpw7K8h5m2OWG"
+    },
+    {
+      "album": {
         "name": "Cornfield Chase",
         "url": "https://open.spotify.com/album/4jwRKEl2N6RyKIeORApasG"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 138750,
       "name": "crush as you burn",
       "url": "https://open.spotify.com/track/5t6uN7HfHFlooRP005c5pi"
@@ -388,7 +406,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -464,10 +482,28 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 248175,
       "name": "Girei",
       "url": "https://open.spotify.com/track/39XVc9tJMwgBpaMgGp8wSB"
+    },
+    {
+      "album": {
+        "name": "Got Soul ?",
+        "url": "https://open.spotify.com/album/35vQABxuXZSE0uzcyAZbBt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208264,
+      "name": "Got Soul ?",
+      "url": "https://open.spotify.com/track/7imJbaRT6Krgc28m738sK5"
     },
     {
       "album": {
@@ -576,7 +612,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 195585,
       "name": "i think i'm everything",
       "url": "https://open.spotify.com/track/1lXgcIT8pPEYpyWuPo6Hsr"
@@ -652,7 +688,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 362449,
       "name": "Laminar",
       "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
@@ -674,7 +710,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -728,7 +764,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -764,7 +800,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -840,7 +876,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -876,7 +912,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -930,7 +966,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 286080,
       "name": "Planet of the Tapes",
       "url": "https://open.spotify.com/track/5ATXnnGXtYhDWF0IAcFVXB"
@@ -1020,7 +1056,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 191146,
       "name": "Some Garbage",
       "url": "https://open.spotify.com/track/2CnXzEqWKTFZavG50Tonjf"
@@ -1204,6 +1240,24 @@
       "duration_ms": 201724,
       "name": "Stalker",
       "url": "https://open.spotify.com/track/6TxEWIET8CrZAtN6VAdsAR"
+    },
+    {
+      "album": {
+        "name": "Axioma, Vol. 2",
+        "url": "https://open.spotify.com/album/1BWpBAW4S4N1rNnGjXa8ih"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230005,
+      "name": "Suicul",
+      "url": "https://open.spotify.com/track/6iUUDX6KuKKv0DUSUgmLjU"
     },
     {
       "album": {
@@ -1330,7 +1384,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-09",
       "duration_ms": 230169,
       "name": "Una Mattina",
       "url": "https://open.spotify.com/track/72FEuSrKYrhmTbm6LE7IQD"
@@ -1500,7 +1554,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"
