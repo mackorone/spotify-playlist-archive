@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 16 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 |
 | 17 | [Hooper](https://open.spotify.com/track/2QK35TtLvYlOpV2zjw6vtt) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:27 |
 | 18 | [NaaNaaNaa \- Live](https://open.spotify.com/track/3Q94flBRFGAqaCrebWRbno) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Revival \(Live\)](https://open.spotify.com/album/0BBOGZgcYEga1bPm244Od2) | 6:54 |
-| 19 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 |
-| 20 | [Therapy](https://open.spotify.com/track/75FQnbNzIeX9QAl21BEnKI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 4:05 |
+| 19 | [Therapy](https://open.spotify.com/track/75FQnbNzIeX9QAl21BEnKI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 4:05 |
+| 20 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 |
 | 21 | [Get Around](https://open.spotify.com/track/0S2F5ZzIuWJziqlWrd0M8P) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:39 |
 | 22 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 |
 | 23 | [The Perch](https://open.spotify.com/track/5wlbskdjfnE5PjaKhX4Yki) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:39 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 100 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
 | 101 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `Ab4+/AAAAACYyOUIA7HBC/iKTEoEEngO`
+Snapshot ID: `Ab5EiAAAAAA69L6ZdeI1AJJcvwvCVxz0`

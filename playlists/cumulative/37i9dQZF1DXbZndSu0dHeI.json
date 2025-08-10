@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "BIG BOYS CRY TOO",
+        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
+      },
+      "artists": [
+        {
+          "name": "Jo Hill",
+          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
+        }
+      ],
+      "date_added": "2025-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "BIG BOYS CRY TOO",
+      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
+    },
+    {
+      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
       },
@@ -3506,7 +3524,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 183392,
       "name": "Hole In A Frame",
       "url": "https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs"

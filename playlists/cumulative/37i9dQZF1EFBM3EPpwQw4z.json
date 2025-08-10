@@ -2749,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "What's a Gremlin?",
+        "url": "https://open.spotify.com/album/3HTO3cw9wh1ia9n9aryWhm"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140142,
+      "name": "What's a Gremlin?",
+      "url": "https://open.spotify.com/track/3wWdJGv0iqFJRQ82Uixaiu"
+    },
+    {
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/4aYoFMt08akFhioqk2iZDu"
       },

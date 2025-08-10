@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Glass Animals, Ed Sheeran, Ethel Cain and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,671 likes - 119 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,684 likes - 119 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 31 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 |
 | 32 | [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 |
 | 33 | [One Chance](https://open.spotify.com/track/0XnH6eXRTsSJoFQGUh0I6z) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Grace In Motion](https://open.spotify.com/album/2nwWZ9AxNZmGS1Bep29vzI) | 3:53 |
-| 34 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue EP](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 |
+| 34 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 |
 | 35 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 |
 | 36 | [kryptonite](https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [kryptonite](https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj) | 2:35 |
 | 37 | [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [Golden Teacher](https://open.spotify.com/track/4Nfnw3xcqaUJE22oRPsQHh) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Golden Teacher](https://open.spotify.com/album/4uFGTbMtV79Ul8w4Tr2zEK) | 3:32 |
 | 96 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 | 97 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:16 |
-| 98 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
+| 98 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
 | 99 | [JONNY](https://open.spotify.com/track/2E1KRn0TgPaGkZHNi1DRqT) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [JONNY](https://open.spotify.com/album/6PmkvXHv3spYHpRM4aoDqX) | 3:10 |
 | 100 | [city girls](https://open.spotify.com/track/1dkccY8q1lZ37A6lUClydz) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [city girls](https://open.spotify.com/album/26ybTHui5GQS02zA1De7oQ) | 2:27 |
 | 101 | [Mermaid](https://open.spotify.com/track/5UBoW6qFJ6Kz6EeARCyvAK) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D) | [Mermaid](https://open.spotify.com/album/54Bp6QQRdaNpv50GTe55sB) | 2:58 |

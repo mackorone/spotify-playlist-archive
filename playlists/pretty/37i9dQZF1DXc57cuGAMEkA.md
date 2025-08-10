@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Ed Sheeran, Jonas Brothers, Official髭男dism, ヨルシカ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,839 likes - 68 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,863 likes - 68 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

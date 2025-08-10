@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Buddy Guy
 
-496 songs - 1 day 9 hr 22 min
+497 songs - 1 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Emmylou](https://open.spotify.com/track/2cljs0ErJpveRVB383KVWE) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Strong](https://open.spotify.com/album/4mqWvIxFw14JnBriQgJ8Oy) | 3:26 | 2024-02-16 |  |
 | [End Of The Line](https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [End Of The Line \[Feat\. Aaron Neville\]](https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS) | 4:12 | 2022-08-19 | 2023-02-11 |
 | [Endless Highway](https://open.spotify.com/track/7j3Pyzwl0Hs0FqOBMu1MJU) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Endless Highway](https://open.spotify.com/album/1E0vAh8zIVaMykqwNzvFy3) | 3:45 | 2023-08-25 | 2025-07-15 |
+| [Escape](https://open.spotify.com/track/2Wr9h3vLxezbmjSe7PcKBQ) | [Angelique Francis](https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Not Defeated](https://open.spotify.com/album/4DAXqEoaWtsawroUt0mx6b) | 4:30 | 2025-08-08 |  |
 | [Everyone's Invited](https://open.spotify.com/track/5XsA2lri15tlZmRPYWQy3X) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [I Was Wrong](https://open.spotify.com/album/3sDjzJO62PTyeEXspT2LUX) | 3:52 | 2025-06-20 |  |
 | [Everything You Got](https://open.spotify.com/track/2qnPC8AZ3vfCjF7hHBWi93) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Everything You Got](https://open.spotify.com/album/5LD4eZGB8oCNCQ4eztNQvl) | 3:22 | 2022-08-05 | 2022-09-10 |
 | [Evil No More](https://open.spotify.com/track/72nKlhl1q9s7yCuP5DixYc) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Evil No More](https://open.spotify.com/album/40KojEJo2Z7pgCuQQeGuxg) | 2:47 | 2024-05-24 |  |
@@ -347,7 +348,7 @@
 | [Root City](https://open.spotify.com/track/047ghmBqV2962LxO24aUm9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Root City](https://open.spotify.com/album/3TnwdCTnQXlR3adEsOLoob) | 2:52 | 2021-04-30 | 2022-02-26 |
 | [Rum Boogie](https://open.spotify.com/track/5FBfO62TdPOvZcZTFxK36b) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Rum Boogie](https://open.spotify.com/album/4bfuTpL2T1fDU8xMyGgzCx) | 3:17 | 2025-01-31 | 2025-04-26 |
 | [Runaway \- Radio Edit](https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Runaway \(Radio Edit\)](https://open.spotify.com/album/3TBFyqswoBMZgHAJT8uaoK) | 3:31 | 2025-01-31 |  |
-| [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 | 2023-09-15 |  |
+| [Runaway Train](https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Runaway Train](https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y) | 4:15 | 2023-09-15 | 2025-08-10 |
 | [Running Away](https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Running Away](https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI) | 4:54 | 2024-05-31 |  |
 | [Sad Eyes](https://open.spotify.com/track/0yAnReI0lfX8IOfb46Vzf3) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Sad Eyes](https://open.spotify.com/album/4NBCzoD5BHJhJ5LOXtIr72) | 3:39 | 2025-04-11 | 2025-05-17 |
 | [Safari](https://open.spotify.com/track/5YuW3UCKDynB2gL9GTp7NS) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Safari](https://open.spotify.com/album/0LoxXyl0BZ2H4iJBvnzwvW) | 5:48 | 2023-01-13 | 2023-03-11 |

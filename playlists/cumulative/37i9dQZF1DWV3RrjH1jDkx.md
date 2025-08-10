@@ -4,7 +4,7 @@
 
 > Endelig fredag og ny musikk fra bla\. Highasakite og Rakkere!🎵
 
-6,931 songs - 14 day 21 hr 38 min
+6,932 songs - 14 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4484,6 +4484,7 @@
 | [Nothing But Love](https://open.spotify.com/track/03Cpo8eXUd12k8TXDAtExs) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Nothing But Love](https://open.spotify.com/album/5CZ7DmZ5Wjpat1kI11RcLK) | 2:23 | 2024-12-05 | 2024-12-13 |
 | [Nothing Else Matters](https://open.spotify.com/track/6tLROzSbYFyk3S5WaiZgo9) | [Lilja Scarfi](https://open.spotify.com/artist/6vyiITrPjtQaUGvoVSYQqX) | [Nothing Else Matters](https://open.spotify.com/album/5QXTa10EruQiiPnVQCS1Ra) | 3:16 | 2025-06-26 | 2025-07-04 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-27 | 2025-04-04 |
+| [Nothing Lasts Forever](https://open.spotify.com/track/5eGSOtR7j0LuzmM8F0dCAW) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Nothing Lasts Forever](https://open.spotify.com/album/6vbIgLq1rVTWWTlwkoy4IH) | 2:36 | 2025-08-08 |  |
 | [Nothing Wrong With Us](https://open.spotify.com/track/0kjslvZ1YfA6BzzdWQhG5o) | [Old S Resort](https://open.spotify.com/artist/0nSWYxuCRsF7yZ80m2omcC) | [Nothing Wrong With Us](https://open.spotify.com/album/63qNYwKSgAA9wbq3C4nS6s) | 3:36 | 2025-07-17 | 2025-07-25 |
 | [Nothing's Really Over, Not With Anyone](https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Catharsis](https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm) | 2:22 | 2025-01-09 | 2025-01-17 |
 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 | 2025-07-03 | 2025-07-11 |

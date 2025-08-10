@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 123816,
+  "num_followers": 124762,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAADP+d5h8V9daZXmIRS33czy",
+  "snapshot_id": "aJU+AAAAAADMGYa+Gr0iMFNJNWB1bETL",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOW KEY",
-        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
+        "name": "Heaven On My Mind (with Forrest Frank)",
+        "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
       },
       "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 150485,
-      "name": "LOW KEY",
-      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
+      "duration_ms": 181590,
+      "name": "Heaven On My Mind (with Forrest Frank)",
+      "url": "https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L"
     },
     {
       "added_at": null,
@@ -243,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven On My Mind (with Forrest Frank)",
-        "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
+        "name": "LOW KEY",
+        "url": "https://open.spotify.com/album/3LB9SqNsc9eLsGtnJOAOF8"
       },
       "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 181590,
-      "name": "Heaven On My Mind (with Forrest Frank)",
-      "url": "https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L"
+      "duration_ms": 150485,
+      "name": "LOW KEY",
+      "url": "https://open.spotify.com/track/1PPEVabQ8ggfXBGFpodjM6"
     },
     {
       "added_at": null,

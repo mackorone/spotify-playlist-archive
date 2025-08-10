@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema
 
-499 songs - 1 day 17 hr 45 min
+503 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Gerombolan Mantan](https://open.spotify.com/track/6OXCe6zKZnFNYM6NvyJMMd) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Gerombolan Mantan](https://open.spotify.com/album/3Gs9Z8x3X9dj00lJ5eLHVb) | 3:21 | 2023-03-02 | 2023-08-11 |
 | [Ginio](https://open.spotify.com/track/4EQ14BW8rUd94OZR5ISWMo) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ginio](https://open.spotify.com/album/5Za62voFdJjkyIe3AtUYhl) | 5:55 | 2023-06-09 | 2023-10-13 |
 | [Golek Upo Tekan Chino](https://open.spotify.com/track/35db0V5J0lg4WJxn61PGpx) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Golek Upo Tekan Chino](https://open.spotify.com/album/2XSeWKbDYZibDhqqyr4xyH) | 3:04 | 2024-10-11 | 2024-12-27 |
+| [Gulu Pedot \- Live](https://open.spotify.com/track/48ufGeB97D6pQsy5lZzq1P) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Gulu Pedot \(Live\)](https://open.spotify.com/album/42P3BhobI6farqfymog1qv) | 6:14 | 2025-08-08 |  |
 | [Gusti Tulung](https://open.spotify.com/track/0qFSr9ujrmarFe1XyXGQiV) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Gusti Tulung](https://open.spotify.com/album/0fV71kmSAoMBirovaccELT) | 4:48 | 2023-11-09 | 2024-04-05 |
 | [Gusti, Matur Nuwun \- From "Sekawan Limo"](https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Gusti, Matur Nuwun \(From "Sekawan Limo"\)](https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L) | 3:18 | 2024-07-02 | 2024-11-09 |
 | [HTS](https://open.spotify.com/track/6qDtRm3pWLFKFW02FoDHVt) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS](https://open.spotify.com/album/3cIn9ze7231HGFB6AD72cU) | 4:15 | 2024-06-13 |  |
@@ -156,6 +157,7 @@
 | [Kalih Welasku](https://open.spotify.com/track/1Ku6hA1iYecBzIW1JoIffi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kalih Welasku](https://open.spotify.com/album/5JOZgGxjTBpBlCvcz1W0ie) | 5:04 | 2023-12-08 | 2024-04-19 |
 | [Kalih Welasku](https://open.spotify.com/track/4JRp8Wma0HjHvkHx2Ctl2d) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kalih Welasku](https://open.spotify.com/album/7ft4oHOQSoZz805ZV4bRSX) | 5:04 | 2023-03-09 |  |
 | [KALIH WELASKU](https://open.spotify.com/track/7AtjD8ykb3pROEkYwrbJ1z) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [KALIH WELASKU](https://open.spotify.com/album/6g6l8WDLfmkUnHyQKxMBXo) | 5:28 | 2023-03-15 | 2023-10-13 |
+| [Kampoeng Warso](https://open.spotify.com/track/0W47hBBnzc8qqknuCe1Sdh) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Kampoeng Warso](https://open.spotify.com/album/3BNhsxpCSUMflBSH18jVGa) | 4:36 | 2025-08-08 |  |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0sp7XtTa4O9BqJIDBi8FhQ) | 3:19 | 2023-05-04 | 2023-07-29 |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU) | 3:19 | 2022-09-01 | 2023-05-08 |
 | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/track/4YQ5EKOsHCNKZLIuUQkDAM) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv), [Ajeng Yulia Abdilla](https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl) | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/album/0YLvl6OFE7wBC1uFRQgNPY) | 5:39 | 2023-12-08 | 2024-02-09 |
@@ -378,6 +380,7 @@
 | [RASAKNO](https://open.spotify.com/track/46nOLK8xQxwP5aL4YS3L30) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [RASAKNO](https://open.spotify.com/album/43wdc2mBasJtCauaGxph3C) | 4:48 | 2023-06-15 | 2024-06-07 |
 | [Rembulan 2](https://open.spotify.com/track/5jeRcjeyCqYDX5bsgRfrHy) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS), [Ki Akbar Syahalam](https://open.spotify.com/artist/0qHxqwYxcjAzKElp1X3X7N) | [Rembulan 2](https://open.spotify.com/album/15ESpPcGHuYyYKkEcWldlA) | 5:06 | 2024-02-23 | 2024-06-14 |
 | [Resiko Tresna Sejati](https://open.spotify.com/track/117nf2jn1zsHG9H7gZaEjv) | [ROFA](https://open.spotify.com/artist/24fOBtG2MUcVO490MuYSFL), [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Resiko Tresna Sejati](https://open.spotify.com/album/2wS1bp3iPDQarwtK1pXnFP) | 3:55 | 2023-10-12 | 2023-12-09 |
+| [Riting Kanan Mbelok Kiri](https://open.spotify.com/track/1fG0EmZ5PmsZIEZyGxpbCb) | [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Riting Kanan Mbelok Kiri](https://open.spotify.com/album/33ipme8mVLjVGwqXHez0yK) | 5:01 | 2025-08-08 |  |
 | [Roso Atiku](https://open.spotify.com/track/6OCoaRux8abVtVxPhE5N0M) | [Rindra Putra](https://open.spotify.com/artist/48eHObVYwCaw6k3ct9mWCO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Roso Atiku](https://open.spotify.com/album/6f3YYxy5mYMnH8Bx4iN6eJ) | 6:01 | 2022-05-26 | 2023-07-29 |
 | [Roso Atiku](https://open.spotify.com/track/1d8I3k13qDu1lbRQ8xDqeh) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP), [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Roso Atiku](https://open.spotify.com/album/6qHPSIAC97V7cV2SD8C3BO) | 4:45 | 2022-05-26 | 2022-06-10 |
 | [Rucah](https://open.spotify.com/track/2unTuqdiSehhL4G7Q5U01m) | [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Rucah](https://open.spotify.com/album/7CiVeWW4ERfswmLDGqh1AA) | 4:33 | 2023-10-12 | 2024-07-27 |
@@ -455,6 +458,7 @@
 | [Teko Lungo \- From "Cidro Asmoro"](https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Teko Lungo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3wxVo3tsPVoDz7ju9TWEd7) | 5:09 | 2022-06-16 | 2022-11-14 |
 | [Temanten](https://open.spotify.com/track/35ozv2GM8b55XTHGzvvaAx) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Temanten](https://open.spotify.com/album/26JAA7Ya33pam0GQJepOFv) | 5:09 | 2022-05-26 | 2022-06-10 |
 | [Tembang Ani Ani \(Music From Angel Pol Original Motion Picture Soundtrack\)](https://open.spotify.com/track/0WqXyqy5TpGKqmn8c5xGOl) | [Michelle Ziudith](https://open.spotify.com/artist/3bUtlTJugBUFNlyoVVFqhd) | [Tembang Ani Ani \(Music From Angel Pol Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xyliPNocFbfKj1An5XQwS) | 4:53 | 2025-04-17 | 2025-06-27 |
+| [Tembang Wengi](https://open.spotify.com/track/0AZdVEpngBr4ndqDMwcI0D) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Tembang Wengi](https://open.spotify.com/album/6fuXFmORl2e5zMKI5q9phF) | 5:14 | 2025-08-08 |  |
 | [TENANG LAN SABAR](https://open.spotify.com/track/09baBR44PhDHgkQHgAzykM) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [TENANG LAN SABAR](https://open.spotify.com/album/7C8sX3gVUJCk6Z5C1rkF6N) | 4:01 | 2025-06-26 |  |
 | [Terlantar](https://open.spotify.com/track/3zUiF9CWEBhGpfw7wePlEU) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Terlantar](https://open.spotify.com/album/0WZJL3kRGZ4jJkx8jeZ42i) | 5:02 | 2022-07-14 | 2022-09-16 |
 | [Terminal Tirtonadi](https://open.spotify.com/track/2DgmFXFljURR93j8NZIV1D) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Terminal Tirtonadi](https://open.spotify.com/album/1wwEvrBCq4jwHSMWrvhP51) | 4:21 | 2024-02-16 | 2024-10-11 |

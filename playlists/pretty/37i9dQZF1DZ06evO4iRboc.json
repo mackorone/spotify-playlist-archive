@@ -1,13 +1,29 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 302957,
+  "num_followers": 303299,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAAOEBvqmGl7WF6H/dalBNpM",
+  "snapshot_id": "aJU+AAAAAACyUlFvb/7tMT2/hPkVMbqB",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Snow White",
+        "url": "https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"
+    },
     {
       "added_at": null,
       "album": {

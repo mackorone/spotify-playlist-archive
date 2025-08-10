@@ -4,7 +4,7 @@
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-109 songs - 8 hr 44 min
+110 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 | 2023-02-14 |  |
 | [El Yerbero Del Barrio](https://open.spotify.com/track/0u8lmRThcVenfXivdewmFM) | [Roberto y Su Nuevo Montuno](https://open.spotify.com/artist/3IQ3oRmLQtb71i2TcO5Sxv) | [The Best](https://open.spotify.com/album/7sHJqlDvN5uK8WgcKlkw3e) | 4:54 | 2023-02-14 |  |
 | [Ella Quiere Salsa](https://open.spotify.com/track/6bWzqEarZ6n92VxLYRMxwD) | [Grupo Clase](https://open.spotify.com/artist/4oIdA7cUUwR7d4fVRVH1fu) | [Al Son Que Me Toquen, Vol\. 1](https://open.spotify.com/album/46dVNivZJ0eDzZf5Ciqc4i) | 4:09 | 2020-04-14 | 2023-02-14 |
-| [Estamos en Salsa](https://open.spotify.com/track/0M1R4sg4ANP9lsTeAszqQH) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Rockola Salsa, Vol\. 1](https://open.spotify.com/album/5Mm4NtnQ4QyM2VuGvbEnHn) | 4:48 | 2023-02-14 |  |
+| [Estamos en Salsa](https://open.spotify.com/track/0M1R4sg4ANP9lsTeAszqQH) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Rockola Salsa, Vol\. 1](https://open.spotify.com/album/5Mm4NtnQ4QyM2VuGvbEnHn) | 4:48 | 2023-02-14 | 2025-08-10 |
 | [Estamos en Salsa](https://open.spotify.com/track/2YLpAyy8e6F1I2Zol50AGq) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [Diciembre \(Éxitos de Siempre\)](https://open.spotify.com/album/7eITkxA5ZpTH8GZ58E4z61) | 4:49 | 2020-04-14 | 2022-11-13 |
 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 | 2020-04-14 | 2024-04-19 |
 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 | 2023-02-14 |  |
@@ -102,6 +102,7 @@
 | [Rumba En El Patio](https://open.spotify.com/track/2nCRjY5GCdAmZwQnjsCVro) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [El Gigante del Sur](https://open.spotify.com/album/3dnroWv7dsrbXlx9uHG0xZ) | 4:34 | 2020-04-14 | 2023-02-14 |
 | [Salsa Na'Ma](https://open.spotify.com/track/4MfB8k4EVPSBOcpQD3pXY3) | [David Cedeño](https://open.spotify.com/artist/6SViDxvuEgAhuSfo8XiDNB) | [Salsa Del Barrio](https://open.spotify.com/album/6cMCcIUu4pvNiZTB1WeTY7) | 4:13 | 2020-04-14 | 2022-11-13 |
 | [Salsa Y Control](https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Salsa Y Control](https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I) | 3:47 | 2020-04-14 |  |
+| [Salsa Y Sabor](https://open.spotify.com/track/4he1rcP6ui1ajgwSYoU0po) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/4ZzstVNvqC3maU63nCr4RK) | 3:01 | 2023-02-14 |  |
 | [Salsa Y Sabor](https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 3:01 | 2020-04-14 | 2024-04-19 |
 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 | 2020-04-14 |  |
 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 | 2020-04-14 |  |

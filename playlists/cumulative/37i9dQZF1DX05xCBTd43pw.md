@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
 
-386 songs - 19 hr 55 min
+387 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-10-03 | 2024-10-24 |
 | [I han es Zündhölzli azündt](https://open.spotify.com/track/1BgnJyDB7jEYoAMpHqKbcn) | [Mani Matter](https://open.spotify.com/artist/7wkPBPwF9oOZJ8lEbQjIVt) | [I han es Zündhölzli azündt](https://open.spotify.com/album/04MiVKnlpaFvjQY0LBLmry) | 1:33 | 2025-05-08 | 2025-05-16 |
 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-06 | 2025-05-29 |
+| [I Just Wanna Turn It Up](https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [I Just Wanna Turn It Up](https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld) | 2:44 | 2025-08-07 |  |
 | [I schänke dr mis Härz](https://open.spotify.com/track/16yQMAq01OKNB5oiEFajio) | [Züri West](https://open.spotify.com/artist/5whb6si9KY0ywOL5zeRlV9) | [Züriwest](https://open.spotify.com/album/0frrjFHdmIInWUPLnFGExA) | 3:28 | 2025-04-17 | 2025-05-16 |
 | [i think i'm in love](https://open.spotify.com/track/0U97wZxxQhrjUuTB9uqoke) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [i think i'm in love](https://open.spotify.com/album/3XoVhwa02RGA8RYIucnNe9) | 3:07 | 2024-08-09 | 2024-10-04 |
 | [I weiss das](https://open.spotify.com/track/6OqMGnEQzYpePPj7B1l0kT) | [Fischermätteli Hood Gäng](https://open.spotify.com/artist/12y9kQeYqRhyqDQsC7SI68) | [Turbo](https://open.spotify.com/album/2pOZ7Af7rkYWPPMi7NSXqX) | 2:48 | 2025-04-24 | 2025-05-02 |
@@ -348,7 +349,7 @@
 | [torn](https://open.spotify.com/track/4Q4pIhQUUoqDagBCc81rX4) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [torn](https://open.spotify.com/album/4tsVKMEScY3SQF6OkeDcbW) | 2:43 | 2024-06-27 | 2024-10-04 |
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
-| [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 |  |
+| [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 |  |
 | [trop tard](https://open.spotify.com/track/7FcgfdaESPyI7MVgItXpob) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [trop tard](https://open.spotify.com/album/4Rhio8XlmhIDdq9CT1fehd) | 2:57 | 2025-07-10 | 2025-07-30 |

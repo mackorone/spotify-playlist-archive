@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del Hip Hop para toda la familia a disfrutar.",
-  "num_followers": 14616,
+  "num_followers": 14627,
   "original_name": "Historia del Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -639,42 +639,6 @@
     {
       "added_at": "2021-04-21 17:09:31",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back",
-        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
-      },
-      "artists": [
-        {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        },
-        {
-          "name": "True Image",
-          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "It's a Shame (My Sister)",
-      "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
-    },
-    {
-      "added_at": "2021-04-21 17:09:31",
-      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/5wB26siHPt7fbEeUoZU5j7"
       },
@@ -695,6 +659,38 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2C0Y5RUvreuiElhHuce9Rv"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3qVeBPVeDw1ACfV0xK2cLP"
+      },
+      "artists": [
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Monie in the Middle",
+      "url": "https://open.spotify.com/track/03iVkiiPAFaAgc3qrwrzNa"
+    },
+    {
+      "added_at": "2021-04-21 17:09:31",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back",
+        "url": "https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
     },
     {
       "added_at": "2021-04-21 17:09:31",
@@ -742,11 +738,15 @@
         {
           "name": "Monie Love",
           "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        },
+        {
+          "name": "True Image",
+          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Monie in the Middle",
-      "url": "https://open.spotify.com/track/03iVkiiPAFaAgc3qrwrzNa"
+      "duration_ms": 222840,
+      "name": "It's a Shame (My Sister)",
+      "url": "https://open.spotify.com/track/2tFAP5PycKceC26ZnIqnBt"
     }
   ],
   "unique_name": "Historia del Hip Hop",

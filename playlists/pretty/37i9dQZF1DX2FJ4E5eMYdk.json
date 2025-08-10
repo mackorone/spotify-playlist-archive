@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 187549,
+  "num_followers": 187625,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,18 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
       "artists": [
         {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        },
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        },
-        {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 260090,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+      "duration_ms": 224946,
+      "name": "Amoeba - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -67,18 +59,26 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        },
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        },
+        {
+          "name": "Darryl Kissick",
+          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Amoeba - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
+      "duration_ms": 260090,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Existential Beast",
+        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lee Richards",
+          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Do What Feeds Your Soul",
         "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 155213,
       "name": "Do What Feeds Your Soul",
       "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Existential Beast",
-        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lee Richards",
-          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "The Sorry Sweater",
-        "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 206850,
-      "name": "The Sorry Sweater",
-      "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Confidence Man",
         "url": "https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 282975,
       "name": "Confidence Man",
       "url": "https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "The Sorry Sweater",
+        "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "The Sorry Sweater",
+      "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "More Of The Same",
-      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Phase Zero",
         "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
       },
@@ -819,18 +803,34 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
       "artists": [
         {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
+      "duration_ms": 248791,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -847,6 +847,22 @@
       "duration_ms": 258800,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -959,22 +975,6 @@
       "duration_ms": 228707,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
     },
     {
       "added_at": "2024-07-05 19:49:15",

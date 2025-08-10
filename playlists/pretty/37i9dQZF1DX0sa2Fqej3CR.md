@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: 다이나믹 듀오\) My Most Precious Side \- Listen to the song while thinking of your family\. \(Cover: Dynamic Duo\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,450 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,451 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

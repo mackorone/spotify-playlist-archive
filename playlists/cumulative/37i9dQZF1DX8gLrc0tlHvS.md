@@ -2,7 +2,7 @@
 
 ### [Stomp & Holler](https://open.spotify.com/playlist/37i9dQZF1DX8gLrc0tlHvS)
 
-> Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Drew Holcomb & The Neighbors
+> Stomping rhythms, rustic strings, communal harmonies, or maybe something cool like indie folk? Cover: Edward Sharpe & The Magnetic Zeros
 
 145 songs - 9 hr 23 min
 

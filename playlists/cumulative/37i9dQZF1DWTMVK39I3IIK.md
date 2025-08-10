@@ -4,11 +4,12 @@
 
 > de skarpeste knive i dansk musik  📸   Snuggle
 
-271 songs - 13 hr 50 min
+272 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Dag Er Vi 1 Minde](https://open.spotify.com/track/2VNuO7HSYgqtkxlzfnFtZd) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [1 Dag Er Vi 1 Minde](https://open.spotify.com/album/44WAdOT7BNFzQuz71Zuw1y) | 3:30 | 2024-07-04 | 2024-07-29 |
+| [1 gang til](https://open.spotify.com/track/4Pj63m6uNr1S6fAYo8Z4QF) | [Lisa Fosmark](https://open.spotify.com/artist/3GunZjrBeuApvoV5udcC91), [Anthon Edwards](https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [1 gang til](https://open.spotify.com/album/2EPMQ8giDjvy8tiwrxhZ09) | 2:33 | 2025-08-07 |  |
 | [10 ud af 10](https://open.spotify.com/track/6kqqErlEe7aIrUZztf5skM) | [Berg](https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD) | [10 ud af 10](https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p) | 2:30 | 2025-06-19 |  |
 | [1000 Hænder](https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ) | [1000 Hænder](https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z) | 3:05 | 2024-06-27 |  |
 | [4\. sal](https://open.spotify.com/track/0c4Wvo36qvLm1G2GzIhWY3) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [4\. sal](https://open.spotify.com/album/6QXbMT5OaF07K6AcDc8SZK) | 2:39 | 2025-02-13 | 2025-02-23 |
@@ -77,10 +78,10 @@
 | [Elsker Baglæns](https://open.spotify.com/track/3cAX47H0v2jJCxbCERnHWs) | [Rosa På Månen](https://open.spotify.com/artist/0IEqg7JbD6lmfu11MllHEd) | [Elsker Baglæns](https://open.spotify.com/album/3zZyhCehjeXxWxjwxGLD3I) | 3:45 | 2025-06-05 | 2025-06-13 |
 | [En Fremmed](https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Liber](https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj) | 3:40 | 2024-06-27 | 2025-05-04 |
 | [En Som Dig](https://open.spotify.com/track/4hCLByf2DyXB4RPsC2mNZd) | [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [En Som Dig](https://open.spotify.com/album/40AJcpbZh1cji3B6hgOXc0) | 2:32 | 2025-01-23 | 2025-03-02 |
-| [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 |  |
+| [En Som Dig](https://open.spotify.com/track/2D70stXApX10H7JKusia0x) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [En Som Dig](https://open.spotify.com/album/1CDNj8AV1BFoZsiOdEnNXf) | 3:12 | 2025-07-10 | 2025-08-10 |
 | [En Vandretur i Peru](https://open.spotify.com/track/08IL88yJTN613mf0G7IIiz) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [En Vandretur i Peru](https://open.spotify.com/album/7vL0hjoIGeOqDO2rWdz7YU) | 3:28 | 2025-04-10 | 2025-05-07 |
 | [ENDORFINER](https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENDORFINER \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg) | 3:08 | 2024-06-27 | 2024-09-19 |
-| [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 | 2025-06-16 |
+| [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 | 2025-03-13 |  |
 | [Falder I](https://open.spotify.com/track/4YtgUbrhVuBiGTemZ9BnO9) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Falder I](https://open.spotify.com/album/2dWHihGERxkPBR1zLKv3yw) | 3:00 | 2024-08-09 | 2024-08-30 |
 | [Feed The Good](https://open.spotify.com/track/1k1o50LNgNIBCHVEZn977a) | [Øyunn](https://open.spotify.com/artist/0h2Fx0No5huvQ7liqFOobL) | [Feed The Good](https://open.spotify.com/album/4uLDoFdGDdFT8UPivo6VYP) | 2:50 | 2025-07-31 | 2025-08-08 |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 | 2025-06-20 |
@@ -161,7 +162,7 @@
 | [Last Time](https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Last Time](https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5) | 2:42 | 2025-06-05 | 2025-06-13 |
 | [Levende Billeder](https://open.spotify.com/track/586R54PZL7ylXFu9UIiPTx) | [Carl Emil Petersen](https://open.spotify.com/artist/110Rr0Zj9wSL6vOlh9DEyW) | [Amager Forbrænding](https://open.spotify.com/album/4Bkf4gR14UujSaNy6WlX8H) | 3:04 | 2024-07-11 | 2024-08-18 |
 | [Life Witness](https://open.spotify.com/track/1wN0cNovbqCI9W4qW8mxyF) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Life Witness](https://open.spotify.com/album/0CB8vDMfO66UUAIaOskgUm) | 2:25 | 2025-01-30 | 2025-07-24 |
-| [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 |  |
+| [Lige Meget Hvor Langt Du Er](https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23) | [KALASET](https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7) | [Lige Meget Hvor Langt Du Er](https://open.spotify.com/album/6fYQkMjQHM0fNCLi92JJrA) | 4:18 | 2025-04-03 | 2025-08-10 |
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 | 2025-03-13 |
 | [Lyden Af Livet](https://open.spotify.com/track/4JfnZgT0ehB5Za52GOgKNZ) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Lyden Af Livet](https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv) | 3:50 | 2024-06-27 | 2025-02-10 |
 | [læs mig \(akustisk version\)](https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [dagdrømmer \(akustisk version\)](https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh) | 2:42 | 2024-06-27 | 2024-11-03 |

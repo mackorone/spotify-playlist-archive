@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-4,960 songs - 11 day 10 hr 39 min
+4,961 songs - 11 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1948,6 +1948,7 @@
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-07-26 | 2024-08-10 |
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-14 | 2025-02-22 |
 | [High On The Internet](https://open.spotify.com/track/06FGo1WHf20zKD7eF7veM6) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [High On The Internet](https://open.spotify.com/album/3GARsxwPT6bbyik0yn6NGu) | 3:22 | 2025-05-09 | 2025-05-17 |
+| [High Resolution Sadness](https://open.spotify.com/track/6CAUHFOLv9uwL5QdMaDQgz) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [High Resolution Sadness](https://open.spotify.com/album/0X111Khmy1geTHYk4j0CUn) | 2:48 | 2025-08-09 |  |
 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2024-11-08 | 2024-11-16 |
 | [High Voltaje](https://open.spotify.com/track/2lojFqPGxdDLo1c0SMuOiP) | [Femme Fatene](https://open.spotify.com/artist/0cdJn4T7hk8gGhlZYxk3uL), [Rubio Druida](https://open.spotify.com/artist/62LX9fIc9C2O67XdBfwOV6) | [High Voltaje](https://open.spotify.com/album/7yDTDzTMwkF0dm36eO2Gsg) | 3:07 | 2025-01-29 | 2025-02-01 |
 | [Higher](https://open.spotify.com/track/3xWOfgZzCg1jdEpEfM4oKi) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Higher](https://open.spotify.com/album/1TGiQpFGwQtuDcxNcKeFRb) | 2:40 | 2025-01-17 | 2025-01-25 |
@@ -3040,7 +3041,7 @@
 | [No Front Teeth](https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [No Front Teeth](https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI) | 4:46 | 2025-02-20 | 2025-02-28 |
 | [No Fruit](https://open.spotify.com/track/1c1cc2RY1oCNf0hr3jCy3x) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [No Fruit](https://open.spotify.com/album/1alqipQiyTiQJKSw83hRfc) | 2:33 | 2025-06-20 | 2025-06-28 |
 | [No Good](https://open.spotify.com/track/6mwcIWE0QocjNQpKp048JB) | [Christopher Owens](https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy) | [No Good](https://open.spotify.com/album/4njWA9h3sZldOfVpwLZTDG) | 3:33 | 2024-08-15 | 2024-08-24 |
-| [No Good For People](https://open.spotify.com/track/2uhoiTvEQ7pZEBQMIz8LTn) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [No Good For People](https://open.spotify.com/album/6mBlcuYbLSYwcEuUUkdD1T) | 2:32 | 2025-08-07 |  |
+| [No Good For People](https://open.spotify.com/track/2uhoiTvEQ7pZEBQMIz8LTn) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta) | [No Good For People](https://open.spotify.com/album/6mBlcuYbLSYwcEuUUkdD1T) | 2:32 | 2025-08-07 | 2025-08-10 |
 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 | 2024-08-30 | 2024-09-07 |
 | [NO GRITARÉ TU NOMBRE](https://open.spotify.com/track/0DHOq0zNiaAIEqvYhZ8BYv) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [NO GRITARÉ TU NOMBRE](https://open.spotify.com/album/48edR6gXJ7L4myjPBEILZq) | 3:05 | 2024-07-26 | 2024-08-10 |
 | [No Ha Sido Fácil](https://open.spotify.com/track/3hZqPIMJkGF7mnivtVSyFn) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI) | [No Ha Sido Fácil](https://open.spotify.com/album/6g7AUzGI96jcoN1SftAVMN) | 2:22 | 2025-01-24 | 2025-02-01 |

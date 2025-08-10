@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Shelly
 
-2,170 songs - 4 day 19 hr 0 min
+2,172 songs - 4 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Bang Bang](https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bang Bang](https://open.spotify.com/album/4ZFKLXH2lTaQn5GxVH6zYg) | 2:54 | 2022-02-25 | 2022-04-29 |
 | [Bang!](https://open.spotify.com/track/5zrvbvUB7T3d1mi69885VZ) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/0BMvSQK3y8nfvgN09KphZc) | 2:50 | 2021-02-25 | 2021-05-27 |
 | [Bardot](https://open.spotify.com/track/2EZU7r2uMayY1wFTN8WwQw) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [Bardot](https://open.spotify.com/album/6LkMmyyNYl0IyYCyWA6w3p) | 3:18 | 2020-11-20 | 2021-02-25 |
-| [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 |  |
+| [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-24 | 2025-08-10 |
 | [batman](https://open.spotify.com/track/3AqM4BZgbOgNIrGQslY2fa) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [batman](https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN) | 2:07 | 2021-06-02 | 2022-04-12 |
 | [battery life](https://open.spotify.com/track/7i9C0Fz89IABSEVwJTTJ4F) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [battery life](https://open.spotify.com/album/5m5DBETxSlESf5kx30pnBx) | 3:54 | 2020-10-16 | 2021-01-15 |
 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-03-24 | 2023-04-15 |
@@ -599,6 +599,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
+| [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-08 |  |
 | [Dusty](https://open.spotify.com/track/3YAbD6ZmkXerUDg7GY15zZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Dusty](https://open.spotify.com/album/7deK3zxoJuFhDhZAguSOvt) | 4:05 | 2025-04-04 | 2025-06-07 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-25 |  |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 | 2024-11-23 |
@@ -1221,7 +1222,7 @@
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-13 | 2024-10-26 |
 | [Make You Mine](https://open.spotify.com/track/6E6DXpiRT7ZgQzdYlBjWd4) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Make You Mine](https://open.spotify.com/album/5gGh7FZcnDw316kTGP0iYO) | 3:44 | 2020-10-20 | 2020-10-21 |
 | [Makes Me Happy](https://open.spotify.com/track/6doD2ZsNXzxHNXag1BAAuY) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Makes Me Happy](https://open.spotify.com/album/0GeVuYV8Dy2pTHpuDR3IH0) | 2:52 | 2022-01-28 | 2022-07-26 |
-| [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-06 |  |
+| [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-06 | 2025-08-10 |
 | [Malibu 1992](https://open.spotify.com/track/0nMqu5vN44GNv8UOQxmBJK) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 5:41 | 2022-01-18 | 2022-02-26 |
 | [malibu.](https://open.spotify.com/track/3LRQtyho3Sgn6tCCu1WKT0) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [malibu.](https://open.spotify.com/album/1gqX69tDVdC04HlhMEWG4p) | 3:20 | 2022-06-17 | 2022-07-30 |
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2020-10-20 | 2020-10-21 |
@@ -2031,6 +2032,7 @@
 | [USMO](https://open.spotify.com/track/1hblRUhOt2Yi618eAJGGiK) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [USMO](https://open.spotify.com/album/0dM6Nusk6TGd5X8DbHBQuF) | 2:33 | 2021-02-09 | 2021-06-03 |
 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 | 2024-05-15 |
 | [Valleyheart](https://open.spotify.com/track/3ebeGj7ac0mMlO5PhFK80L) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Valleyheart](https://open.spotify.com/album/42sitHkcawmZVLe2Kt45xK) | 2:28 | 2021-03-07 | 2021-08-11 |
+| [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-08 |  |
 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 | 2025-07-19 |
 | [victim of nostalgia](https://open.spotify.com/track/6oHXQQLzea4keyHSbFUxtS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [victim of nostalgia](https://open.spotify.com/album/1q368d6nMTceCEkSYdIqHl) | 2:36 | 2022-04-29 | 2022-05-21 |
 | [Victoria](https://open.spotify.com/track/4X8JkeMSFFiVpWqIpS6ajC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Victoria](https://open.spotify.com/album/36YM5gHJmJ415NomqukOME) | 3:18 | 2022-03-18 | 2022-04-20 |

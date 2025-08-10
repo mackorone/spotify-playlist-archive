@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,900 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,966 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [That's Right \(feat\. Akon\) \- Explicit Album Version](https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Last 2 Walk](https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn) | 2:56 |
 | 50 | [Never Really Mattered](https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [SIMIEN](https://open.spotify.com/artist/0IzBfoIbXMYXpBFV7oCsCm) | [Never Really Mattered](https://open.spotify.com/album/1R3wN06RH7P3nqAloY0f4U) | 3:19 |
 
-Snapshot ID: `aJPsgAAAAACDdT3E4p+5HMPJGAhDuWHg`
+Snapshot ID: `aJU+AAAAAAApd0HgeE4xSRVY1nhQmrT6`

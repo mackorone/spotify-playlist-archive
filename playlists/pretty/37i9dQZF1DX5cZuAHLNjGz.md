@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,379,284 likes - 102 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,379,984 likes - 102 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 43 | [0008](https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 2:12 |
 | 44 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 |
 | 45 | [Deewana](https://open.spotify.com/track/2KDDpTTvMODGoo3vmz29x4) | [BAGI MUNDA](https://open.spotify.com/artist/0HBnrWuJIS5VK5HVNP5y6Y), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [SANJU & SALLU RETURNS](https://open.spotify.com/album/14DNtUvxgQ2eIh7BCmo6D1) | 3:31 |
-| 46 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
+| 46 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [JAGDEEEP SANGALA](https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
 | 47 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 |
 | 48 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 |
 | 49 | [Big Things](https://open.spotify.com/track/2aCK04kzCID5znbfYOaH9n) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:18 |

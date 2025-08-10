@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 39673,
+  "num_followers": 39688,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAChg24dUGAxNXYtEGe0E5cW",
+  "snapshot_id": "aJU+AAAAAADrMKL+0vNq+EEtxyvGDkBb",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olv\u00eddame T\u00fa",
+        "url": "https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Olv\u00eddame T\u00fa",
+      "url": "https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El R2",
         "url": "https://open.spotify.com/album/6JRL0VebZ3cSQDrRPTCLBc"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 152351,
       "name": "EL R2",
       "url": "https://open.spotify.com/track/1BoIMCJxuORlJeEr7Zlv0c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olv\u00eddame T\u00fa",
-        "url": "https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Olv\u00eddame T\u00fa",
-      "url": "https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mimimi",
-        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 179778,
-      "name": "Mimimi",
-      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tierno",
         "url": "https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 138954,
       "name": "Tierno",
       "url": "https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mimimi",
+        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 179778,
+      "name": "Mimimi",
+      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
     },
     {
       "added_at": null,

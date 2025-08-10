@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-431 songs - 23 hr 12 min
+432 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH) | 2:38 | 2025-02-14 | 2025-08-01 |
 | [Noche](https://open.spotify.com/track/2osRPu8IcR8Uy2i7IChVrc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Noche](https://open.spotify.com/album/2AHMI2JrrwcibzSd6M3mPL) | 2:43 | 2025-02-14 |  |
 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 | 2024-07-05 | 2025-03-01 |
-| [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-05-13 |  |
+| [Noventa \(with J Balvin\) \- Tony Romera Remix](https://open.spotify.com/track/3RLVNDwFp3dVcdMnmhM8Kh) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Noventa \(with J Balvin\) \[Tony Romera Remix\]](https://open.spotify.com/album/47H6oGgrbPUsUviwtTYeo5) | 2:37 | 2025-08-08 |  |
+| [NYC](https://open.spotify.com/track/01xOb3gjIGLHsdKnL5QTi4) | [Quliano](https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323) | [NYC](https://open.spotify.com/album/0GhydGBqymdnwKofdoVmMQ) | 3:02 | 2025-05-13 | 2025-08-10 |
 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 | 2025-03-07 |  |
 | [OBSESION](https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [OBSESION](https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd) | 3:37 | 2024-11-15 |  |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2021-10-08 | 2023-11-11 |

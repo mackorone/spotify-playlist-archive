@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,390 likes - 103 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,393 likes - 103 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 7 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
 | 8 | [Perfectly](https://open.spotify.com/track/2kTnXxFUsLjpdkCf4PEPKg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Perfectly](https://open.spotify.com/album/46WZk8LNyCZvf04uSdwDyD) | 3:50 |
 | 9 | [Bad Lyfe](https://open.spotify.com/track/1VXu0Yy9VrzmVBjPGEI7Pd) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Bad Lyfe](https://open.spotify.com/album/6KC48Q44YsGLTqX9tWlAQO) | 3:04 |
-| 10 | [touch grass](https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr), [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8) | [unknown reasons](https://open.spotify.com/album/1pY9tTjFfRMV2tbSrxZLqL) | 3:45 |
+| 10 | [touch grass](https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth) | [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8), [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [unknown reasons](https://open.spotify.com/album/1pY9tTjFfRMV2tbSrxZLqL) | 3:45 |
 | 11 | [Cabin Feva](https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Cabin Feva](https://open.spotify.com/album/18ZMOxwR8uBaZc1n0X9uZx) | 2:48 |
 | 12 | [RAW](https://open.spotify.com/track/5hy99oQunwUFFrxWKIUorw) | [Cruel Sister](https://open.spotify.com/artist/3SZEdCibGdV5nwK99zdvs2) | [A CORPSE IS TALKING](https://open.spotify.com/album/1gCHTWAsIS44mSstCrdYLD) | 3:38 |
 | 13 | [Meant to Be](https://open.spotify.com/track/0pXt0UdacoAg0eYHvPukXF) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl), [© Linda Fox](https://open.spotify.com/artist/2DOGDrGDmfURr17vp3FYkJ) | [Meant to Be](https://open.spotify.com/album/7owhzox0MmtVOr95H3jYRR) | 4:33 |

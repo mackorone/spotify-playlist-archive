@@ -4,7 +4,7 @@
 
 > Today's top country hits\. Cover: Bailey Zimmerman
 
-912 songs - 2 day 1 hr 19 min
+913 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 | 2025-06-06 |  |
 | [Easy](https://open.spotify.com/track/5f9vvN6WCezcHMVreAvR2B) | [John King](https://open.spotify.com/artist/32Cj2WsRALt1SCWaPBR9QP) | [Easy](https://open.spotify.com/album/3bztzbbqYIdPU7ePsUu01r) | 3:05 | 2020-07-12 | 2020-08-30 |
 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 | 2024-04-26 | 2024-06-29 |
-| [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 |  |
+| [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 | 2024-10-25 | 2025-08-10 |
 | [Even Though I'm Leaving](https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel \- EP](https://open.spotify.com/album/4nFW5W1gIwov6e4lAzn2vA) | 3:45 | 2019-06-22 | 2020-02-01 |
 | [Every Girl in This Town](https://open.spotify.com/track/1TU7prccGLiAY0y59oa1at) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Every Girl in This Town](https://open.spotify.com/album/57aarCCujshcTwt0FggIY7) | 2:58 | 2019-06-22 | 2019-08-24 |
 | [Every Little Honky Tonk Bar](https://open.spotify.com/track/64Zm9wNGj6coqg4zsb0Soj) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Every Little Honky Tonk Bar](https://open.spotify.com/album/3YPIY3nVjvhEGX9yRwwYx6) | 3:14 | 2019-06-15 | 2019-07-06 |
@@ -496,6 +496,7 @@
 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 | 2025-01-24 | 2025-03-08 |
 | [Lose You](https://open.spotify.com/track/0vK1vDEvEMvSpFEKW62Qub) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Lose You](https://open.spotify.com/album/3roOLsfxMpvsd8cEGJPyrc) | 3:23 | 2020-11-22 | 2021-02-27 |
 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 | 2025-02-07 | 2025-04-12 |
+| [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 | 2025-08-08 |  |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2022-03-25 | 2022-06-18 |
 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 | 2019-05-26\* | 2019-12-14 |
 | [Love Ain't](https://open.spotify.com/track/6lUNNXp7M8boA7gUEd6PSm) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [This Is Eli Young Band: Greatest Hits](https://open.spotify.com/album/0IjcGyW09KmCKIntVY7Ain) | 3:06 | 2019-05-26\* | 2019-06-15 |

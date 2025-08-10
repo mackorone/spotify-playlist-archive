@@ -4,7 +4,7 @@
 
 > Latest music from Monali Thakur, Arijit Singh and more.
 
-1,554 songs - 3 day 16 hr 5 min
+1,555 songs - 3 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Badal Sa](https://open.spotify.com/track/7aB0YbU16AntRB6FkdaUQn) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [Badal Sa](https://open.spotify.com/album/3Bz0SEUV0RA0yhEXlU5Y8B) | 3:55 | 2023-09-22 | 2023-10-21 |
 | [Badariya](https://open.spotify.com/track/5IwDxCbs651v8M1cjlWaWO) | [Reewa Rathod](https://open.spotify.com/artist/0mzRkdWgrhQkFXs2ptJAch), [Swaransh Mishra](https://open.spotify.com/artist/6k8KVEJqdcGiVni3c6WmhY) | [Badariya](https://open.spotify.com/album/1QZeDxNotV0dAOe7KjUSZm) | 4:07 | 2022-06-03 | 2022-06-18 |
 | [Badastoor](https://open.spotify.com/track/4SctmiwRI2ygVHhgZ1s7C1) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Badastoor](https://open.spotify.com/album/1wIhDHHh84OmEaBOCOr85J) | 2:09 | 2024-07-26 | 2024-08-24 |
-| [Bade Adab](https://open.spotify.com/track/3ozW90Dd4X6TTVXLKtXQoH) | [Soham Naik](https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM) | [Bade Adab](https://open.spotify.com/album/2KWzHafYEYIXTuRwqMQHmZ) | 3:07 | 2025-06-20 |  |
+| [Bade Adab](https://open.spotify.com/track/3ozW90Dd4X6TTVXLKtXQoH) | [Soham Naik](https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM) | [Bade Adab](https://open.spotify.com/album/2KWzHafYEYIXTuRwqMQHmZ) | 3:07 | 2025-06-20 | 2025-08-10 |
 | [Badle Badle \(From "Vikram Hitlist \(Hindi\)"\)](https://open.spotify.com/track/0drQZvE3y9ReqPtarGiuQp) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Badle Badle \[From "Vikram Hitlist \(Hindi\)"\]](https://open.spotify.com/album/21eyeUuI1KpCZdFmZ1oS57) | 3:31 | 2022-06-10 | 2022-06-18 |
 | [Badmaash](https://open.spotify.com/track/18TBMMOs1NICUt1sQfCeuQ) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Badmaash](https://open.spotify.com/album/6lSoSyUIaSGvqoAu69xY4f) | 2:27 | 2025-07-25 | 2025-08-09 |
 | [Bahaane](https://open.spotify.com/track/7eQBzDRjBJ2bCkRKxNPbXm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Bahaane](https://open.spotify.com/album/0R3qoIMGjyEOrntY9seZCk) | 2:42 | 2023-10-27 | 2023-12-02 |
@@ -845,6 +845,7 @@
 | [Lil Bunty](https://open.spotify.com/track/1MGvSryQcSR7zsNG4lQOjN) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Lil Bunty](https://open.spotify.com/album/6XdkAvpVluO8BFG2RkOC1p) | 3:12 | 2022-05-27 | 2022-06-11 |
 | [Lo Aayi Baarishein](https://open.spotify.com/track/5xkNOFtqybVpHQj3Av8Cu8) | [Piyush Mehroliyaa](https://open.spotify.com/artist/5Gzv3tQFyqdp6x8OM9TMk8), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Sangita Singhh](https://open.spotify.com/artist/7F65kq27jBxkr7tLZo4Lzd) | [Lo Aayi Baarishein](https://open.spotify.com/album/2R3vIlC4Qf0KjkHMmVGIkj) | 3:33 | 2024-08-30 | 2024-10-05 |
 | [Lo Aayi Barsaat](https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Lo Aayi Barsaat](https://open.spotify.com/album/4A6JkFOHnUTSlZamQXCD58) | 3:42 | 2023-07-21 | 2023-08-25 |
+| [Loche](https://open.spotify.com/track/3k3VL5cOTHIOn0WdsLngjR) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Loche](https://open.spotify.com/album/0d5yq8rM2YPK28OGUClElW) | 2:44 | 2025-08-08 |  |
 | [Losing Myself \(feat\. Gunna\)](https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:58 | 2024-08-30 | 2024-09-28 |
 | [Lost & Found](https://open.spotify.com/track/1RiTw0VgHMdqwD9tpJhk3Q) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Lost & Found](https://open.spotify.com/album/0SXE6PNRua0kHN6kv4dD8K) | 3:09 | 2024-08-30 | 2024-10-19 |
 | [LOVE](https://open.spotify.com/track/4BbFL6xsZx3D2ePntfPOa7) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [LOVE](https://open.spotify.com/album/1BUizQrgTyI3GMXKKicwm0) | 2:52 | 2023-02-03 | 2023-03-18 |

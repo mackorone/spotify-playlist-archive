@@ -1,6 +1,6 @@
 {
   "description": "New music from Shekhinah, Gunna, Amaarae, Ed Sheeran and more.",
-  "num_followers": 141751,
+  "num_followers": 141828,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
@@ -151,7 +151,7 @@
     {
       "added_at": "2025-08-08 13:57:14",
       "album": {
-        "name": "Flight ya slahla (feat. Scotts Maphuma & Dj Maphorisa)",
+        "name": "Flight ya slahla (feat. Dj Maphorisa, Scotts Maphuma, Mellow & Sleazy, Blacko SA & DJ Njabsta)",
         "url": "https://open.spotify.com/album/0AFx7XWBSfeiZWfAHGUosb"
       },
       "artists": [
@@ -168,16 +168,28 @@
           "url": "https://open.spotify.com/artist/467V6Wi666JBwBY3YMHSuJ"
         },
         {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
           "name": "Scotts Maphuma",
           "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
         },
         {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Blacko SA",
+          "url": "https://open.spotify.com/artist/1apU1xLioEcDVmYQmmbXD8"
+        },
+        {
+          "name": "DJ Njabsta",
+          "url": "https://open.spotify.com/artist/7qZ8aOzDoBevTRvmfqNWXC"
         }
       ],
       "duration_ms": 407787,
-      "name": "Flight ya slahla (feat. Scotts Maphuma & Dj Maphorisa)",
+      "name": "Flight ya slahla (feat. Dj Maphorisa, Scotts Maphuma, Mellow & Sleazy, Blacko SA & DJ Njabsta)",
       "url": "https://open.spotify.com/track/2EHMXgbnzkyJOIx8iodxhq"
     },
     {
@@ -631,7 +643,7 @@
     {
       "added_at": "2025-08-08 13:57:14",
       "album": {
-        "name": "Hue EP",
+        "name": "Hue",
         "url": "https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh"
       },
       "artists": [
@@ -988,7 +1000,7 @@
           "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
         }
       ],
-      "duration_ms": 218500,
+      "duration_ms": 218499,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/0U1WdkgLfMjwe4jHhPDxd6"
     },

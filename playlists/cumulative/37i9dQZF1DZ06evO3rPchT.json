@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "All My Women",
+        "url": "https://open.spotify.com/album/4FoXl09p5HGAdf9UdTCo67"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "All My Women",
+      "url": "https://open.spotify.com/track/7v35UanWstlGp0icYiAH44"
+    },
+    {
+      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
       },
@@ -260,7 +282,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 189336,
       "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
       "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"

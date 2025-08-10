@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 233033,
+  "num_followers": 233073,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAABGj2RQBrKRSvftvzkIy0PX",
+  "snapshot_id": "aJU+AAAAAAC95p6BSa6HaCvWSLDjLjDE",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
-      "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 224739,
       "name": "De Ti",
       "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "De Mis Pasos (Unplugged) (En Vivo) (with Juan Son)",
+      "url": "https://open.spotify.com/track/6SjCCvEeJvxWfTsSkoL1DR"
     },
     {
       "added_at": null,

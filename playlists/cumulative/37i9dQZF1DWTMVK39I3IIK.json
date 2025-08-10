@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "1 gang til",
+        "url": "https://open.spotify.com/album/2EPMQ8giDjvy8tiwrxhZ09"
+      },
+      "artists": [
+        {
+          "name": "Lisa Fosmark",
+          "url": "https://open.spotify.com/artist/3GunZjrBeuApvoV5udcC91"
+        },
+        {
+          "name": "Anthon Edwards",
+          "url": "https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti"
+        },
+        {
+          "name": "Emil Kruse",
+          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153286,
+      "name": "1 gang til",
+      "url": "https://open.spotify.com/track/4Pj63m6uNr1S6fAYo8Z4QF"
+    },
+    {
+      "album": {
         "name": "10 ud af 10",
         "url": "https://open.spotify.com/album/16LdEi4c4yKZiNxjpIEi3p"
       },
@@ -1310,7 +1336,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 192474,
       "name": "En Som Dig",
       "url": "https://open.spotify.com/track/2D70stXApX10H7JKusia0x"
@@ -1364,7 +1390,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 148521,
       "name": "Et Sted p\u00e5 Vesterbro",
       "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
@@ -2862,7 +2888,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 258797,
       "name": "Lige Meget Hvor Langt Du Er",
       "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"

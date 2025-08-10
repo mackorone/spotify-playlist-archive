@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107123,
+  "num_followers": 107124,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAACIy6frGVlP7bSPO1GzBE2",
+  "snapshot_id": "aJU+AAAAAAD06QgmDvZ3dSSGN76tQGHY",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Diep In Mijn Hart",
-      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
+      "duration_ms": 226333,
+      "name": "Amor, Amor, Amor",
+      "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Amor, Amor, Amor",
-      "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
+      "duration_ms": 227693,
+      "name": "Diep In Mijn Hart",
+      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Hoogste Tijd",
-      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jij En Ik",
         "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
       },
@@ -783,22 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Been Loving You Too Long",
-        "url": "https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV"
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
       "artists": [
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        },
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
         }
       ],
-      "duration_ms": 181849,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G"
+      "duration_ms": 194640,
+      "name": "Hoogste Tijd",
+      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 181813,
       "name": "Jij Bent Het Leven Voor Mij",
       "url": "https://open.spotify.com/track/1es7Ebp9ALgRNFAA8GU2dl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Been Loving You Too Long",
+        "url": "https://open.spotify.com/album/3pED3uMrj2dxPX93RH2pEV"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        },
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 181849,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/1mUIwJfnYVcekP5TmjPy5G"
     },
     {
       "added_at": null,

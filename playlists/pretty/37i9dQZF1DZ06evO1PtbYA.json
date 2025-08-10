@@ -1,13 +1,33 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 55354,
+  "num_followers": 55447,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAACXaM4A0sWuJtaeXWs11N0G",
+  "snapshot_id": "aJU+AAAAAABsGSG3Y4o6/BJEIpiU2JQG",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "satisfaction (feat. Asake)",
+        "url": "https://open.spotify.com/album/3HMB3RSOEHKn7heSj0qlTm"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "satisfaction (feat. Asake)",
+      "url": "https://open.spotify.com/track/2rjXDlyaMpuqL7lzyEh7V4"
+    },
     {
       "added_at": null,
       "album": {

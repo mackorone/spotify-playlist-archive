@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-83 songs - 3 hr 37 min
+85 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2025-07-17 |  |
 | [Kut Student!](https://open.spotify.com/track/4eLGw6q1Fzl35fOALv9OsT) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Kut Student!](https://open.spotify.com/album/0YbCXR8ZanVW7NBJ0qZlXS) | 2:12 | 2025-08-04 |  |
 | [LET'S GO](https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [LET'S GO](https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe) | 3:13 | 2025-07-17 |  |
+| [Lichten van de Stad](https://open.spotify.com/track/0BoPbF4v5kotEFFRuG7qyu) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Faberyayo](https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0) | [Lichten van de Stad](https://open.spotify.com/album/4KauT6LanjSoLzFS3pkMbA) | 2:53 | 2025-08-09 |  |
 | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Salomé Das](https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77) | [Life Is Simple \(Move Your Body\) \[Feat Salomé Das\]](https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo) | 2:52 | 2025-07-17 |  |
 | [Lil Freakje](https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lil Freakje](https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A) | 3:34 | 2025-07-17 |  |
 | [Lotje \- Lil Kleine Remix](https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lotje \(Lil Kleine Remix\)](https://open.spotify.com/album/3YQU2E8ipf8HVHgHvMupSU) | 2:26 | 2025-07-17 |  |
@@ -90,6 +91,7 @@
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2025-07-17 |  |
 | [ZAAZAA \- NOA Remix](https://open.spotify.com/track/6KKy22zqeaWR8kfttjvPR2) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [NOA](https://open.spotify.com/artist/63bmzsKlelsGQepln0VuO1) | [REMIX PACK](https://open.spotify.com/album/1r7s5anqKnYFUZDgHFyH38) | 2:38 | 2025-07-17 |  |
 | [Zon Op M'n Piemel \- Zomerhit 2022](https://open.spotify.com/track/6b7T2rw6CwRgf843yzjWsX) | [Zonnie M](https://open.spotify.com/artist/0SpGCWhR4Oujlo6mS29w9I) | [Zon Op M'n Piemel \(Zomerhit 2022\)](https://open.spotify.com/album/1zzT9TSIBvbYEnYIzzRUXq) | 2:58 | 2025-07-17 |  |
+| [Zonder Route](https://open.spotify.com/track/1GwPCaLWdJl2h6wNxJgUpG) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Zonder Route](https://open.spotify.com/album/4AV2QTyoEI0pO8PdSU9hgf) | 2:19 | 2025-08-09 |  |
 | [Ça Va](https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ça Va](https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3) | 2:10 | 2025-07-17 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

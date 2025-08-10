@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Gunna",
-  "num_followers": 36365,
+  "num_followers": 36385,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-08-08 10:43:22",
       "album": {
-        "name": "Kat Slater (Native Remedies Remix)",
-        "url": "https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq"
-      },
-      "artists": [
-        {
-          "name": "Tim Duzit",
-          "url": "https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T"
-        }
-      ],
-      "duration_ms": 109585,
-      "name": "Kat Slater (Native Remedies Remix)",
-      "url": "https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3"
-    },
-    {
-      "added_at": "2025-08-08 10:43:22",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 109210,
       "name": "Indika",
       "url": "https://open.spotify.com/track/23REvMDaoGFRdMKGSVVK5z"
+    },
+    {
+      "added_at": "2025-08-08 10:43:22",
+      "album": {
+        "name": "Kat Slater (Native Remedies Remix)",
+        "url": "https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq"
+      },
+      "artists": [
+        {
+          "name": "Tim Duzit",
+          "url": "https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T"
+        }
+      ],
+      "duration_ms": 109585,
+      "name": "Kat Slater (Native Remedies Remix)",
+      "url": "https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3"
     },
     {
       "added_at": "2025-08-08 10:43:22",
@@ -1039,46 +1039,6 @@
     {
       "added_at": "2025-08-08 10:43:22",
       "album": {
-        "name": "444PLAY",
-        "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "i2SABI",
-      "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
-    },
-    {
-      "added_at": "2025-08-08 10:43:22",
-      "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
-    },
-    {
-      "added_at": "2025-08-08 10:43:22",
-      "album": {
         "name": "AREA BOYZ",
         "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
@@ -1099,6 +1059,46 @@
       "duration_ms": 229440,
       "name": "CORLEONE (feat. ODUMODUBLVCK & Steel Banglez)",
       "url": "https://open.spotify.com/track/1XKbhxFEvUnk5B6WCOSa9H"
+    },
+    {
+      "added_at": "2025-08-08 10:43:22",
+      "album": {
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
+    },
+    {
+      "added_at": "2025-08-08 10:43:22",
+      "album": {
+        "name": "444PLAY",
+        "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "i2SABI",
+      "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
     },
     {
       "added_at": "2025-08-08 10:43:22",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-08-08 10:43:22",
       "album": {
+        "name": "ESCAPE PLAN",
+        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
+    },
+    {
+      "added_at": "2025-08-08 10:43:22",
+      "album": {
         "name": "Florida Boy",
         "url": "https://open.spotify.com/album/1iNHQXges4h8fYaSDjVE6a"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 193774,
       "name": "New Year Same Me (feat. Rob49)",
       "url": "https://open.spotify.com/track/5pr2QExCqZcuwgge72Yj5h"
-    },
-    {
-      "added_at": "2025-08-08 10:43:22",
-      "album": {
-        "name": "ESCAPE PLAN",
-        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
-      },
-      "artists": [
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
     },
     {
       "added_at": "2025-08-08 10:43:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Broederliefde, Armin van Buuren, Eefje de Visser en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,056 likes - 92 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,078 likes - 92 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 63 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 |
 | 64 | [Can't Be Replaced](https://open.spotify.com/track/5Yr7wh7SHdiL0v0hazLtKJ) | [Isabel](https://open.spotify.com/artist/4A1Uwn4bWtrDMg53ioEa4Q), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B) | [Can't Be Replaced](https://open.spotify.com/album/1ndtioQmrypkHOvPWJCAsY) | 2:54 |
 | 65 | [SALLA BANA](https://open.spotify.com/track/4s9R47fdYtIVVHxe3uWUlQ) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [SALLA BANA](https://open.spotify.com/album/6vuvmEGMGBUIqO5ohvNXaA) | 2:06 |
-| 66 | [STRIPPERS ‘N MODELS \(feat\. KAY1\)](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS \(feat\. KAY1\)](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 |
+| 66 | [STRIPPERS ‘N MODELS](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 |
 | 67 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 | 68 | [I Knew We'd Talk About It One Day](https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [I Knew We'd Talk About It One Day](https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y) | 3:27 |
 | 69 | [Espiritú](https://open.spotify.com/track/1QLvwPTBeKKfUaG46IiHsE) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Niños Del Bosque](https://open.spotify.com/album/0cOMJwSdi2gNMIeMVtOkLZ) | 3:19 |

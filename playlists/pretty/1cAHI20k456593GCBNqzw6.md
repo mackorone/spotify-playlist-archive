@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1cAHI20k456593GCBNqzw6.md) - [plain]
 
 > An eclectic mix of new and old music frequently updated  by Danger Mouse.
 
-[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 80,904 likes - 51 songs - 3 hr 12 min
+[Danger Mouse](https://open.spotify.com/user/dangermouse_official) - 80,903 likes - 51 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

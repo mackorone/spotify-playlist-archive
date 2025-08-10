@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,218 likes - 76 songs - 3 hr 56 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,221 likes - 76 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 6 | [I Wanna Go Back](https://open.spotify.com/track/394JNMSUCATxGsv0KgGY8d) | [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [I Wanna Go Back](https://open.spotify.com/album/2piLxQ1m4XkVBM2SvV4Vyc) | 5:33 |
 | 7 | [BE MINE](https://open.spotify.com/track/6ajsaA5jXah6iiQtjU1AVP) | [That Gurl Bella](https://open.spotify.com/artist/1qMG4xNqbtKrqRQzFa5Mfj) | [BE MINE](https://open.spotify.com/album/1rA8dQyKYjG4Qh7dyxIlVZ) | 2:41 |
 | 8 | [Crossfire](https://open.spotify.com/track/1XXJgRBU1WK801k4g5OwK0) | [FELONY.](https://open.spotify.com/artist/1i9pNz3sJuxa6vWz60Dgd4) | [Midnight Money](https://open.spotify.com/album/336KnpF9YP6RTsEpSXbFxf) | 4:37 |
-| 9 | [Mr\. Hollywood \(Remix\)](https://open.spotify.com/track/7GtHl2doXpBFohcMhoJGPu) | [Stringer](https://open.spotify.com/artist/6DaF5M1QxZ84PIZqbr0zCA), [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Majeska](https://open.spotify.com/artist/5KsNaFxbZPeBOhRZ1gtlav) | [Mr\. Hollywood \(Remix\)](https://open.spotify.com/album/1kzStx2aYMM7sst6o9cP0C) | 2:39 |
+| 9 | [Mr\. Hollywood \(Stringer Remix\)](https://open.spotify.com/track/7GtHl2doXpBFohcMhoJGPu) | [Stringer](https://open.spotify.com/artist/6DaF5M1QxZ84PIZqbr0zCA), [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Majeska](https://open.spotify.com/artist/5KsNaFxbZPeBOhRZ1gtlav) | [Mr\. Hollywood \(Stringer Remix\)](https://open.spotify.com/album/1kzStx2aYMM7sst6o9cP0C) | 2:39 |
 | 10 | [Amin](https://open.spotify.com/track/7bgRm1ipItAlPiERru8mMA) | [Enam](https://open.spotify.com/artist/5f65bb50eWlg1WQkfHangF) | [Amin](https://open.spotify.com/album/3vTd9vbz3zuyp55POvf6dk) | 3:14 |
 | 11 | [1 of 1](https://open.spotify.com/track/1aygdJSkdbD9MhN6ubqE9c) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [1 of 1](https://open.spotify.com/album/2Qfcn94Qdy6keVR0tW9gGy) | 2:28 |
 | 12 | [The Love](https://open.spotify.com/track/6sIviVrgMCL6bAxL9buDxN) | [Larizzle](https://open.spotify.com/artist/6mmhTw2T6ai4vCudah2sXH), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [The Love](https://open.spotify.com/album/1VVs0TIP3RGyupaXoX9Dkk) | 3:23 |

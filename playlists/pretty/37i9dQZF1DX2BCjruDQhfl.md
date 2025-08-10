@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving feelings\. Cover: CHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,202 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,196 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 21 | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/track/1RC3n8iZgTi3mb0yU619zq) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [5 In De Nacht \(feat\. Ronnie Flex\)](https://open.spotify.com/album/746kcPHvl2QXI25D8cOUaZ) | 2:45 |
 | 22 | [Make U Mine](https://open.spotify.com/track/1s45mIvFaG0Ba3LuwxIll5) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Make U Mine](https://open.spotify.com/album/2ofvnah4cdhDkIQvDgBEgz) | 2:13 |
 | 23 | [Pressure](https://open.spotify.com/track/3aF2kDtJzDQvu91r2pluDP) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:46 |
-| 24 | [STRIPPERS ‘N MODELS \(feat\. KAY1\)](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS \(feat\. KAY1\)](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 |
+| 24 | [STRIPPERS ‘N MODELS](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 |
 | 25 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 26 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 |
 | 27 | [LAAT JE MIJ](https://open.spotify.com/track/6oLQQ9dwrcvl5f1WRoA8Zk) | [Lina Ice](https://open.spotify.com/artist/12E9KrxnskvuhWQymejsPm) | [LAAT JE MIJ](https://open.spotify.com/album/4JzN0JyPBccxTU2Aw3mUbf) | 3:12 |

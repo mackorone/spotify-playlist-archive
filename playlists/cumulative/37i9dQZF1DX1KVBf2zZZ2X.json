@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Arctic Moonlight",
+        "url": "https://open.spotify.com/album/72mA44EfRjxn54maxI7xCb"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2025-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Arctic Moonlight",
+      "url": "https://open.spotify.com/track/45v4Zei0RUP8FKB4FeRZWf"
+    },
+    {
+      "album": {
         "name": "At Dawn",
         "url": "https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 206000,
       "name": "Bogha Sound Bath",
       "url": "https://open.spotify.com/track/3WeUY3OjcntfpnRl1VuV9Q"

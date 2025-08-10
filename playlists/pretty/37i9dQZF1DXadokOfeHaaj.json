@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fcukers",
-  "num_followers": 37376,
+  "num_followers": 37397,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-08-07 23:00:21",
       "album": {
+        "name": "Mutt",
+        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Mutt",
+      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+    },
+    {
+      "added_at": "2025-08-07 23:00:21",
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 195960,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r"
-    },
-    {
-      "added_at": "2025-08-07 23:00:21",
-      "album": {
-        "name": "Mutt",
-        "url": "https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Mutt",
-      "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
     },
     {
       "added_at": "2025-08-07 23:00:21",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-08-07 23:00:21",
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
+    },
+    {
+      "added_at": "2025-08-07 23:00:21",
+      "album": {
         "name": "All that Glitters is not Gold",
         "url": "https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn"
       },
@@ -1035,26 +1055,6 @@
     {
       "added_at": "2025-08-07 23:00:21",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 227934,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
-    },
-    {
-      "added_at": "2025-08-07 23:00:21",
-      "album": {
         "name": "Hey Hi Hello",
         "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
       },
@@ -1067,6 +1067,30 @@
       "duration_ms": 189066,
       "name": "Hey Hi Hello",
       "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
+    },
+    {
+      "added_at": "2025-08-07 23:00:21",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 189330,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
     },
     {
       "added_at": "2025-08-07 23:00:21",
@@ -1087,26 +1111,6 @@
     {
       "added_at": "2025-08-07 23:00:21",
       "album": {
-        "name": "Stop Thinking Start Feeling",
-        "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 162807,
-      "name": "Eating Heartache (feat. spill tab)",
-      "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
-    },
-    {
-      "added_at": "2025-08-07 23:00:21",
-      "album": {
         "name": "Playa Paradiso",
         "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
       },
@@ -1123,6 +1127,26 @@
       "duration_ms": 185353,
       "name": "Playa Paradiso",
       "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
+    },
+    {
+      "added_at": "2025-08-07 23:00:21",
+      "album": {
+        "name": "Stop Thinking Start Feeling",
+        "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 162807,
+      "name": "Eating Heartache (feat. spill tab)",
+      "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
     },
     {
       "added_at": "2025-08-07 23:00:21",
@@ -1163,26 +1187,18 @@
     {
       "added_at": "2025-08-07 23:00:21",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
       },
       "artists": [
         {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 189330,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2025-08-07 23:00:21",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2025-08-07 23:00:21",
       "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2025-08-07 23:00:21",
-      "album": {
         "name": "Watching Me Dance",
         "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
@@ -1239,30 +1239,6 @@
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2025-08-07 23:00:21",
-      "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     },
     {
       "added_at": "2025-08-07 23:00:21",
@@ -1303,6 +1279,30 @@
       "duration_ms": 366149,
       "name": "I Have a Love (Overmono Remix)",
       "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
+    },
+    {
+      "added_at": "2025-08-07 23:00:21",
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
     }
   ],
   "unique_name": "Indie Electronic ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEvftu9yFoF.md) - [plain]
 
 > The Mandalorian and the Child continue their journey, facing enemies and rallying allies as they make their way through a dangerous galaxy in the tumultuous era after the collapse of the Galactic Empire\. Now streaming on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,262 likes - 119 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,272 likes - 119 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

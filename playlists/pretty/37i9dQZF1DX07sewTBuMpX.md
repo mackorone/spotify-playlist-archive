@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Cristian D
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,977 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,985 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 37 | [yawa](https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [yawa](https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw) | 3:00 |
 | 38 | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hypé \(feat\. Ayra Starr\)](https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD) | 2:37 |
 | 39 | [LOCO](https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [LOCO](https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha) | 2:41 |
-| 40 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 |
-| 41 | [Broski’s](https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Broski’s](https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V) | 2:59 |
+| 40 | [Broski’s](https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Broski’s](https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V) | 2:59 |
+| 41 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 |
 | 42 | [I Need Your Love](https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [I Need Your Love](https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0) | 2:43 |
 | 43 | [Niet Genoeg \(feat\. Idaly\)](https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Knock Knock 4](https://open.spotify.com/album/3apJGrdwV3LmHRoLvXSn0f) | 2:27 |
 | 44 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 |

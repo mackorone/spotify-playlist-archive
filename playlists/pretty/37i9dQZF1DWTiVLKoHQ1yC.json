@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 243345,
+  "num_followers": 243423,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-08-01 11:03:45",
       "album": {
+        "name": "If You're Here With Me",
+        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "If You're Here With Me",
+      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
+    },
+    {
+      "added_at": "2025-08-01 11:03:45",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
@@ -1179,42 +1195,22 @@
     {
       "added_at": "2025-08-01 11:03:45",
       "album": {
-        "name": "If You're Here With Me",
-        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
       "artists": [
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "If You're Here With Me",
-      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
-    },
-    {
-      "added_at": "2025-08-01 11:03:45",
-      "album": {
-        "name": "The Underground",
-        "url": "https://open.spotify.com/album/1EVXcljYwqRs05PCzODyWB"
-      },
-      "artists": [
-        {
-          "name": "Alan Dixon",
-          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         },
         {
-          "name": "mOat",
-          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
-        },
-        {
-          "name": "Tom Diesel",
-          "url": "https://open.spotify.com/artist/7rolJUC0OEHjIesmKcAGKX"
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
         }
       ],
-      "duration_ms": 206890,
-      "name": "The Underground",
-      "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     }
   ],
   "unique_name": "Melodic & Euphoric",

@@ -7188,6 +7188,28 @@
     {
       "album": {
         "name": "Papi",
+        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183528,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
+    },
+    {
+      "album": {
+        "name": "Papi",
         "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
       },
       "artists": [
@@ -8292,7 +8314,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 134607,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"

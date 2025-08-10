@@ -1,12 +1,12 @@
 {
   "description": "This is The White Stripes. The essential tracks, all in one playlist.",
-  "num_followers": 119712,
+  "num_followers": 119726,
   "original_name": "This Is The White Stripes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAB9i24Dd946XNVwciaQq24d",
+  "snapshot_id": "aJU+AAAAAACE2hOELyTFpzukkPq+rF7D",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephant (Deluxe)",
-        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+        "name": "Lafayette Blues",
+        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 160826,
-      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
+      "duration_ms": 135800,
+      "name": "Lafayette Blues",
+      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lafayette Blues",
-        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Lafayette Blues",
-      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elephant (Deluxe)",
         "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 132511,
-      "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
-      "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
+      "duration_ms": 160826,
+      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Under Great White Northern Lights (Live)",
+        "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "We Are Going to Be Friends - Live",
+      "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The White Stripes",
         "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
       },
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Great White Northern Lights (Live)",
-        "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 144120,
-      "name": "We Are Going to Be Friends - Live",
-      "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
+      "duration_ms": 132511,
+      "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
     }
   ],
   "unique_name": "This Is The White Stripes",

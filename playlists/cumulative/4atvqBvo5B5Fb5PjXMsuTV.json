@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Aug 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Aug 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 286040,
       "name": "(un)Folded",
       "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
@@ -7158,6 +7158,24 @@
       "duration_ms": 172105,
       "name": "Baby Girl On The Way",
       "url": "https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c"
+    },
+    {
+      "album": {
+        "name": "Baby Spoon",
+        "url": "https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180803,
+      "name": "Baby Spoon",
+      "url": "https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl"
     },
     {
       "album": {
@@ -20204,7 +20222,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 135583,
       "name": "CUT KNUCKLES",
       "url": "https://open.spotify.com/track/3o53Nz7ReyvVXSfwOStWQB"
@@ -26786,7 +26804,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 209000,
       "name": "Eliminator",
       "url": "https://open.spotify.com/track/7vkSJbtvgOx0uAjjpVKgxc"
@@ -29844,6 +29862,24 @@
       "duration_ms": 205765,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/7eDUdsz2b3R2qs0k1fNIzx"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/6VGug7OxdoXbwLE0Y7IUZZ"
+      },
+      "artists": [
+        {
+          "name": "TURQUOISEDEATH",
+          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462187,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/6ImYUu32noNZlEOBjRqFDV"
     },
     {
       "album": {
@@ -48766,7 +48802,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 168333,
       "name": "Knife",
       "url": "https://open.spotify.com/track/28G2DapPTTAZLPPdCndCcj"
@@ -64520,6 +64556,24 @@
       "duration_ms": 208220,
       "name": "Order Up",
       "url": "https://open.spotify.com/track/2LHXiCbjINmIwvE3HRlfTi"
+    },
+    {
+      "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "album": {
@@ -81225,6 +81279,24 @@
     },
     {
       "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+    },
+    {
+      "album": {
         "name": "STORM BREAKER",
         "url": "https://open.spotify.com/album/72EdXK0u1g3f7SvJ8MtPD2"
       },
@@ -96002,7 +96074,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 225794,
       "name": "where did you go?",
       "url": "https://open.spotify.com/track/5ZOcWbAXApsKHeQH6spuf0"
@@ -99988,6 +100060,24 @@
       "duration_ms": 130153,
       "name": "\u0411\u043e\u043b\u044c\u043d\u043e\u0439",
       "url": "https://open.spotify.com/track/6TeHkTppKC6Z548qme1KT4"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0440\u043e",
+        "url": "https://open.spotify.com/album/1W6hybxmg9S8yDtBUMdKoa"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "\u0411\u0440\u043e",
+      "url": "https://open.spotify.com/track/1Hga60HedFArPy1kZWskhO"
     },
     {
       "album": {

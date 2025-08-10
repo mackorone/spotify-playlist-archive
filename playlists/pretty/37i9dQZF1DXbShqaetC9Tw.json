@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 150617,
+  "num_followers": 150608,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-07-28 02:56:45",
       "album": {
+        "name": "OFOSUN",
+        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "duration_ms": 226499,
+      "name": "U",
+      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
+    },
+    {
+      "added_at": "2025-07-28 02:56:45",
+      "album": {
         "name": "LOVE.",
         "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 154803,
       "name": "want YOU",
       "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
-    },
-    {
-      "added_at": "2025-07-28 02:56:45",
-      "album": {
-        "name": "OFOSUN",
-        "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        }
-      ],
-      "duration_ms": 226499,
-      "name": "U",
-      "url": "https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj"
     },
     {
       "added_at": "2025-07-28 02:56:45",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-07-28 02:56:45",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2025-07-28 02:56:45",
-      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 175866,
       "name": "Promise",
       "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+    },
+    {
+      "added_at": "2025-07-28 02:56:45",
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
     },
     {
       "added_at": "2025-07-28 02:56:45",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-07-28 02:56:45",
       "album": {
+        "name": "bright #9",
+        "url": "https://open.spotify.com/album/44LkNR2ydGI4qVdaDPgEBg"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/4VnBF5nptyzyiY9AKJ95z9"
+    },
+    {
+      "added_at": "2025-07-28 02:56:45",
+      "album": {
         "name": "PEOPLE",
         "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
-    },
-    {
-      "added_at": "2025-07-28 02:56:45",
-      "album": {
-        "name": "bright #9",
-        "url": "https://open.spotify.com/album/44LkNR2ydGI4qVdaDPgEBg"
-      },
-      "artists": [
-        {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/4VnBF5nptyzyiY9AKJ95z9"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

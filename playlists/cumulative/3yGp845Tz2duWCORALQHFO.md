@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,606 songs - 8 day 4 hr 4 min
+3,608 songs - 8 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [Creator](https://open.spotify.com/track/7bBp2UDlnaBnbIdAZWW3Es) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [VOYD Vol\. 2.5](https://open.spotify.com/album/5NRAHykDmZy9YENzu5SYha) | 5:30 | 2025-06-27 | 2025-07-05 |
 | [Creepin](https://open.spotify.com/track/5I5iy2JHwju5NBwgFr2ilk) | [Jordan Suckley](https://open.spotify.com/artist/25jGdT0Q5ld9D9Lajg8JpD) | [Creepin](https://open.spotify.com/album/3fbkNhBDO8E6zvzSl5R1sC) | 3:51 | 2025-05-22 | 2025-05-30 |
 | [Creme Brulee Incubus \(Hi5 Remix\)](https://open.spotify.com/track/5VlY3Q6ejfPjtSEASgBa8k) | [Lucas Valiante](https://open.spotify.com/artist/69VubI8slxiAXvV36Axtuc), [Hi5](https://open.spotify.com/artist/0zBrIhPBSJbGTckvHfWCaY) | [Creme Brulee Incubus \(Hi5 Remix\)](https://open.spotify.com/album/3fArg5v2hFYm0O5IP3a7XY) | 5:43 | 2025-01-06 | 2025-01-11 |
+| [Cross The line](https://open.spotify.com/track/2CflhNcKxkpeMWO2br7Emq) | [Boris Metraux](https://open.spotify.com/artist/4w65DXZpFXTPisPLIn4yC5) | [Cross The Line](https://open.spotify.com/album/1PhNumjk6oGWQHg7rBLRDD) | 6:09 | 2025-08-09 |  |
 | [Crossed the Line \(All the Things\)](https://open.spotify.com/track/1XDZTgs8MOLTfkCAiGHZts) | [Future Kings](https://open.spotify.com/artist/4oDkont73KiwJOLTDJuSHV), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Crossed the Line \(All the Things\)](https://open.spotify.com/album/0obglgVf7TdYMja8vf6V1m) | 2:42 | 2024-06-07 | 2024-06-17 |
 | [Crossfire \- Brooks Remix](https://open.spotify.com/track/78xxLaqXAOyB6My5eyN9C6) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Crossfire \(Brooks Remix\)](https://open.spotify.com/album/2LmOdVfnpGqEGFQvs9l3EE) | 3:13 | 2024-12-05 | 2024-12-14 |
 | [Crown](https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Crown](https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC) | 4:00 | 2024-08-30 | 2024-09-06 |
@@ -2339,6 +2340,7 @@
 | [Orion](https://open.spotify.com/track/4jUfgt75bm6jogy5iMLVEZ) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss) | [Orion](https://open.spotify.com/album/0bzJlohenSutVgiW39yXI1) | 3:15 | 2024-07-25 | 2024-08-02 |
 | [Orion \- Misja Helsloot Remix](https://open.spotify.com/track/7ovUtwiW7LZCSCU32R78WV) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Hel:sløwed](https://open.spotify.com/artist/153wxN1mEz167KM0a34zss), [Misja Helsloot](https://open.spotify.com/artist/4V0bDVKeoOi3fwzTtjGeOu) | [Orion \(Misja Helsloot Remix\)](https://open.spotify.com/album/3U2NI923OKWp7X8mXBCfk4) | 3:32 | 2024-12-19 | 2025-01-04 |
 | [Osculate](https://open.spotify.com/track/1aBqacTN1GPoMggJCShzZM) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Osculate](https://open.spotify.com/album/53evrJHFfrypI1QvOt0uzK) | 2:44 | 2024-07-26 | 2024-08-02 |
+| [Otherside 2025 \- Radio Mix](https://open.spotify.com/track/5X9tfAtPCxW3B8AAkP8Rh8) | [Loudar](https://open.spotify.com/artist/6riic734IlPwWLCMxEBK1C) | [Otherside 2025](https://open.spotify.com/album/4CsgvoI6FUHXplkSAcOLF3) | 3:30 | 2025-08-09 |  |
 | [Our Future Is Now \- Nicole Moudaber Remix](https://open.spotify.com/track/4XpQO5x1Pe6EYbXskGXisq) | [Dr\. Motte](https://open.spotify.com/artist/16XHmIkkg5P1YR2EoBFPOp), [Marc Van Linden](https://open.spotify.com/artist/2bnp0PzMRKZX5ZuPcgL0P9), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Our Future Is Now \(Nicole Moudaber Remix\)](https://open.spotify.com/album/1v2UtOzVqCJi5LZ2HBCTMY) | 7:51 | 2025-07-04 | 2025-07-12 |
 | [Our Little Game](https://open.spotify.com/track/69SgjkyWPLLeFjazxSDt4a) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH), [Mallorca Lee](https://open.spotify.com/artist/03UkVcXgvym6TT0UaBSZIH) | [Our Little Game](https://open.spotify.com/album/79TrABkEB6m3Wh5SecBMEj) | 3:52 | 2025-07-25 | 2025-08-02 |
 | [Our Time](https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Our Time](https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz) | 2:41 | 2025-07-11 | 2025-07-21 |

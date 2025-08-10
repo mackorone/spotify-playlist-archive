@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Jenevieve
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,338 likes - 201 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,354 likes - 201 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 6 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
 | 7 | [Same Ol’ Love](https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [It's Me, Not You](https://open.spotify.com/album/2rPy6g5DGQBsb7g96xXFGI) | 4:42 |
 | 8 | [Kiss Me](https://open.spotify.com/track/4B3CzvwIJUqYREsIkRFM0z) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Kiss Me](https://open.spotify.com/album/632m6dG4ro7ZCtSWklXV8X) | 2:12 |
-| 9 | [Baby Girl](https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue EP](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 3:14 |
+| 9 | [Baby Girl](https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 3:14 |
 | 10 | [Sober](https://open.spotify.com/track/22P1oKO2J3A0f3QQ6zZKHy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 4:10 |
 | 11 | [Touch \- feat\. GoldLink](https://open.spotify.com/track/2fQFJOWin78fvUkSktiiz5) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Lotus Ave](https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D) | 3:36 |
 | 12 | [trick \(feat\. SWAVAY\)](https://open.spotify.com/track/16DYKDlACCslT3K158JVAc) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [anemoia](https://open.spotify.com/album/0d4MLEf1yzSnVrTTpGgVr7) | 2:20 |

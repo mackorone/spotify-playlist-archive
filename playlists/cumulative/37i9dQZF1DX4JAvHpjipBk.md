@@ -4,7 +4,7 @@
 
 > New music from Laufey, Ed Sheeran, Gunna, Bailey Zimmerman & The Kid LAROI, and more!
 
-30,068 songs - 66 day 3 hr 37 min
+30,069 songs - 66 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1864,7 +1864,7 @@
 | [Atopos](https://open.spotify.com/track/6BggRT92i1xD3MXCTt64J1) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Atopos](https://open.spotify.com/album/4gsVIuKRUMJCdNhHTx5GrI) | 4:46 | 2022-09-09 | 2022-09-17 |
 | [Attached](https://open.spotify.com/track/6eZ122gyfQimqcwY6o6YxG) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Attached](https://open.spotify.com/album/7CS2Y6LADQZC6qerMw0ceh) | 3:33 | 2024-07-05 | 2024-07-13 |
 | [Attaway](https://open.spotify.com/track/3HErXAS9DiVd8C9x6CJTYd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Memory Of A Day](https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1) | 4:00 | 2024-10-18 | 2024-10-26 |
-| [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue EP](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 | 2025-08-08 |  |
+| [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 | 2025-08-08 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-16 | 2023-06-24 |
 | [Attention](https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Attention](https://open.spotify.com/album/0fGPQwybhz88QkKXZpfkwj) | 3:00 | 2022-03-04 | 2022-03-12 |
 | [Attention](https://open.spotify.com/track/1KQRJQhB5W0eb68bhPaebT) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/5LO06DFO56CESiQ6BjGsVJ) | 2:49 | 2023-06-02 | 2023-06-10 |
@@ -2025,6 +2025,7 @@
 | [Baby Powder](https://open.spotify.com/track/7t4ihBlcMdkyUeO6W1DfYH) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Baby Powder](https://open.spotify.com/album/3nqQxvxUB95Bi2UBseY1u1) | 3:00 | 2020-03-27 | 2020-04-03 |
 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 | 2022-11-04 | 2022-11-12 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-01-20 | 2023-01-28 |
+| [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 | 2025-08-08 |  |
 | [Baby Teeth \(feat\. Mothica\)](https://open.spotify.com/track/1VRQFOvXE70lVleKrcopIh) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x), [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Baby Teeth \(feat\. Mothica\)](https://open.spotify.com/album/4eS0bDrkm4AD5z65zrmjcC) | 3:30 | 2021-07-24 | 2021-07-31 |
 | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/track/4SR1DZjH029uliUSSPZpJW) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Baby Wait \(feat\. SugarHill Ddot\)](https://open.spotify.com/album/1oKLEqv46j1DWOHQ1UMpbd) | 2:27 | 2023-12-22 | 2023-12-30 |
 | [Baby Who](https://open.spotify.com/track/2KgeYkljkGLetuA97xfU2Z) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Baby Who](https://open.spotify.com/album/0ZX2cJVCHqMIrmnNKKWZ0r) | 3:07 | 2021-01-29 | 2021-02-06 |

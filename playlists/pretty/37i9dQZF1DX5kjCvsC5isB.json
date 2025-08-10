@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 311879,
+  "num_followers": 311896,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "you were good to me (deluxe)",
         "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 151088,
       "name": "sound in my head",
       "url": "https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2025-05-23 18:58:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Streetwise",
         "url": "https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Other Side (feat. Charlotte Sands)",
-        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Other Side (feat. Charlotte Sands)",
-      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "RAT TRAP 5: the beginning",
         "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 163785,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Other Side (feat. Charlotte Sands)",
+        "url": "https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Other Side (feat. Charlotte Sands)",
+      "url": "https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 175386,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-07-05 22:18:14",

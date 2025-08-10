@@ -4,7 +4,7 @@
 
 > New Music from FOLA, Amaarae, Gunna and more
 
-3,491 songs - 7 day 8 hr 5 min
+3,492 songs - 7 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2074,6 +2074,7 @@
 | [Nadi Balance \(feat\. Sheila Maurice\-Grey\)](https://open.spotify.com/track/0T50W2ymtPwtJgtZMOXrGO) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Sheila Maurice\-Grey](https://open.spotify.com/artist/6213qnwAKa0wEJBVXxfOdC) | [Nadi Balance \(feat\. Sheila Maurice\-Grey\)](https://open.spotify.com/album/64l1BlE1c8ScUdi1aCPO4a) | 3:16 | 2025-07-04 | 2025-07-12 |
 | [Naija Anthem \- Afro Version](https://open.spotify.com/track/7BMECN8ISbVJaGG0dJ3uy0) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Naija Anthem \(Afro Version\)](https://open.spotify.com/album/1xQQxue3uG1jmx8yvEzdoX) | 2:31 | 2024-06-14 | 2024-06-21 |
 | [NAIJA MAN](https://open.spotify.com/track/7pg0rj6EdyjTtMLJNnkLer) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [NAIJA MAN](https://open.spotify.com/album/5tMFWa4T1ruMlCVYNhsUzd) | 2:58 | 2024-10-04 | 2024-10-11 |
+| [Nairobi](https://open.spotify.com/track/5gPH35UHKVryNzBnFwIS6P) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv), [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE) | [Nairobi](https://open.spotify.com/album/2ra5Ape5VOU1AhB3YvetpX) | 3:43 | 2025-08-08 |  |
 | [Naliya](https://open.spotify.com/track/1qestrPTHXzVMbCVhzGBrU) | [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [Naliya](https://open.spotify.com/album/7FRYDUhpkTF7qZBlnlzCa9) | 4:50 | 2025-05-30 | 2025-06-06 |
 | [Nama naa la torop](https://open.spotify.com/track/6XmCfKWS166RgtEBodiS2C) | [Dawda](https://open.spotify.com/artist/5CtgmVTepFFoGGtuXsPKFj) | [Nama naa la torop](https://open.spotify.com/album/6nM1gPpJcICvp9GWFFDdgP) | 2:58 | 2024-07-05 | 2024-07-12 |
 | [Namipa](https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Namipa](https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95) | 2:21 | 2025-06-27 | 2025-07-04 |

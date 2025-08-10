@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Sky Ferreira, Mareux and more
+> With Pastel Ghost, Sky Ferreira, Labyrinth Ear and more
 
 1,815 songs - 4 day 15 hr 40 min
 

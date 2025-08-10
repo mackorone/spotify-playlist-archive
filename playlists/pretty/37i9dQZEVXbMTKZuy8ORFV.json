@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
-  "num_followers": 12660,
+  "num_followers": 12661,
   "original_name": "Viral 50 - Bolivia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MClqeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MCrAqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "Caballo Negro",
         "url": "https://open.spotify.com/album/3jmoaHLiUucI1OLkEbvCs2"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6E2aBV4Kb5OTduEsi5gfwb"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "Soft Machine",
         "url": "https://open.spotify.com/album/4MHVx1PFPrYUzO0zbh95Q0"
@@ -45,51 +45,23 @@
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "New Heart",
-        "url": "https://open.spotify.com/album/4rPFQdwFV5oGH2UVRp3VTQ"
+        "name": "El Templo del Pop, Vol. 2",
+        "url": "https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl"
       },
       "artists": [
         {
-          "name": "Crash Adams",
-          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 184481,
-      "name": "New Heart",
-      "url": "https://open.spotify.com/track/4yI7z3Qd7n53y42T3sk0dK"
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Ba Ba Bad Remix",
-        "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Ba Ba Bad Remix",
-      "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -121,23 +93,51 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "El Templo del Pop, Vol. 2",
-        "url": "https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl"
+        "name": "Ba Ba Bad Remix",
+        "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Tu Misterioso Alguien",
-      "url": "https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY"
+      "duration_ms": 146938,
+      "name": "Ba Ba Bad Remix",
+      "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Crashing Into Your Living Room, Vol. 2",
+        "url": "https://open.spotify.com/album/4OcOVLS93F5K56hTtHYbYP"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "New Heart",
+      "url": "https://open.spotify.com/track/12JMdm8jRZuqrMVjMDIBfn"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "Entra En Mi Vida / La De La Mala Suerte (En Vivo)",
         "url": "https://open.spotify.com/album/3ULJmOsz4m4VafxGGXsDWB"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/0mYdCMOJH2nvHXx9VLzVBl"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
@@ -185,31 +169,7 @@
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Cai de Perna Aberta 2",
-        "url": "https://open.spotify.com/album/78owhP1ysG3groqWQqtDNm"
-      },
-      "artists": [
-        {
-          "name": "Gordinho Bolado",
-          "url": "https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77"
-        },
-        {
-          "name": "Mc Daninho",
-          "url": "https://open.spotify.com/artist/1IolYZJ7yk6zq7RfEXjnGF"
-        },
-        {
-          "name": "Trov\u00e3o no Beat",
-          "url": "https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1"
-        }
-      ],
-      "duration_ms": 172772,
-      "name": "Cai de Perna Aberta 2",
-      "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "El Sentimiento Que Une a los Bolivianos... El Mar",
         "url": "https://open.spotify.com/album/0w7tzV3B3R8ECL9BusZ4ra"
@@ -245,7 +205,7 @@
       "url": "https://open.spotify.com/track/7CW4Knu8oC0qhZhLQLlyFW"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
@@ -265,39 +225,7 @@
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Gracias / T\u00fa Con \u00c9l (ReMiX)",
-        "url": "https://open.spotify.com/album/3INbxUXcz0Iiz85jJW2tXU"
-      },
-      "artists": [
-        {
-          "name": "Turromantikos",
-          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
-        }
-      ],
-      "duration_ms": 329759,
-      "name": "Gracias / T\u00fa Con \u00c9l - ReMiX",
-      "url": "https://open.spotify.com/track/37RGYKi0hD8Rr3TVWsyANl"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/0JupivluMnxcM69zoFvxgb"
-      },
-      "artists": [
-        {
-          "name": "El Chavo",
-          "url": "https://open.spotify.com/artist/4PhFsMykdrr3rEwqkLMNwG"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Eso, Eso, Eso",
-      "url": "https://open.spotify.com/track/72CQbbg6cThL4ySSyhBZ1e"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
         "url": "https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c"
@@ -313,7 +241,47 @@
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Gracias / T\u00fa Con \u00c9l (ReMiX)",
+        "url": "https://open.spotify.com/album/3INbxUXcz0Iiz85jJW2tXU"
+      },
+      "artists": [
+        {
+          "name": "Turromantikos",
+          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+        }
+      ],
+      "duration_ms": 329759,
+      "name": "Gracias / T\u00fa Con \u00c9l - ReMiX",
+      "url": "https://open.spotify.com/track/37RGYKi0hD8Rr3TVWsyANl"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Cai de Perna Aberta 2",
+        "url": "https://open.spotify.com/album/78owhP1ysG3groqWQqtDNm"
+      },
+      "artists": [
+        {
+          "name": "Gordinho Bolado",
+          "url": "https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77"
+        },
+        {
+          "name": "Mc Daninho",
+          "url": "https://open.spotify.com/artist/1IolYZJ7yk6zq7RfEXjnGF"
+        },
+        {
+          "name": "Trov\u00e3o no Beat",
+          "url": "https://open.spotify.com/artist/6kS3lGSFbGHJbvsnD4MRl1"
+        }
+      ],
+      "duration_ms": 172772,
+      "name": "Cai de Perna Aberta 2",
+      "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -353,23 +321,39 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Devil in Disguise",
-        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/0JupivluMnxcM69zoFvxgb"
       },
       "artists": [
         {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+          "name": "El Chavo",
+          "url": "https://open.spotify.com/artist/4PhFsMykdrr3rEwqkLMNwG"
         }
       ],
-      "duration_ms": 104431,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
+      "duration_ms": 199453,
+      "name": "Eso, Eso, Eso",
+      "url": "https://open.spotify.com/track/72CQbbg6cThL4ySSyhBZ1e"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/5SiNNx3P8rKTudmBebWQXj"
+      },
+      "artists": [
+        {
+          "name": "Tiziano El Bomb\u00f3n de la Cumbia",
+          "url": "https://open.spotify.com/artist/3VQ35PnyCi0bUcfF9P2sxs"
+        }
+      ],
+      "duration_ms": 175516,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/39EwNrszVvAPchyRWetG3v"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "T\u00fa Con \u00c9l",
         "url": "https://open.spotify.com/album/2hSWoC0zqhr2Sgwq06W1Xz"
@@ -385,71 +369,59 @@
       "url": "https://open.spotify.com/track/2yPgEI0gh44TKVrTBbH0vI"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+        "name": "Pelotero A La Bola",
+        "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
       },
       "artists": [
         {
-          "name": "\u652c\u4f6cSKAI ISYOURGOD",
-          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Airam Paez",
+          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
         }
       ],
-      "duration_ms": 173037,
-      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
-      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+      "duration_ms": 156710,
+      "name": "Pelotero A La Bola",
+      "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
         }
       ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
+        "name": "WEEKND",
+        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
       },
       "artists": [
         {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
         }
       ],
-      "duration_ms": 214933,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
+      "duration_ms": 203333,
+      "name": "WEEKND",
+      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Sonr\u00edele",
-        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
-      },
-      "artists": [
-        {
-          "name": "DY",
-          "url": "https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ"
-        }
-      ],
-      "duration_ms": 178117,
-      "name": "Sonr\u00edele",
-      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -489,171 +461,23 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Una Fan Enamorada",
-        "url": "https://open.spotify.com/album/45KOQ9OQIYCub0JcrplPBq"
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
       "artists": [
         {
-          "name": "Turromantikos",
-          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 242069,
-      "name": "Una Fan Enamorada",
-      "url": "https://open.spotify.com/track/1MHyiAFf0LX50fGeEpNYN4"
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Montagem Supersonic",
-        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
-      },
-      "artists": [
-        {
-          "name": "KHAOS",
-          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
-        },
-        {
-          "name": "Jmilton",
-          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
-        }
-      ],
-      "duration_ms": 87816,
-      "name": "Montagem Supersonic",
-      "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Las Cosas Que No Dije",
-        "url": "https://open.spotify.com/album/2P0ZLlIOYFyrkanPKw8oE5"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Dlugonoga",
-          "url": "https://open.spotify.com/artist/6gGpi3mTRrqwA1FntShspR"
-        }
-      ],
-      "duration_ms": 132142,
-      "name": "Las Cosas Que No Dije",
-      "url": "https://open.spotify.com/track/0oOpGaV23qGzjaYcBYCldY"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/3wSb5M5CJt3HN2uHStVTIQ"
-      },
-      "artists": [
-        {
-          "name": "Turromantikos",
-          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3U6y2oi1po07erzVwJUQyc"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "FAMOSINHA",
-        "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
-      },
-      "artists": [
-        {
-          "name": "Dj Caio Vieira",
-          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 132922,
-      "name": "FAMOSINHA",
-      "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Pelotero A La Bola",
-        "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "Airam Paez",
-          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
-        }
-      ],
-      "duration_ms": 156710,
-      "name": "Pelotero A La Bola",
-      "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "WEEKND",
-        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "WEEKND",
-      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "LOVE PA TI NO HAY",
-        "url": "https://open.spotify.com/album/6WGtFJVs1FsyAgFIv5akUR"
-      },
-      "artists": [
-        {
-          "name": "Fer Ariza",
-          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 160260,
-      "name": "LOVE PA TI NO HAY",
-      "url": "https://open.spotify.com/track/67MBhIes3QKhQDuZWKHKBw"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "Himnos de Bolivia",
-        "url": "https://open.spotify.com/album/3xtmkIUFjLPhJAwAMrA44c"
-      },
-      "artists": [
-        {
-          "name": "Banda Militar Boliviana",
-          "url": "https://open.spotify.com/artist/6saMD4Q6gBk5LOn2LOyzn2"
-        }
-      ],
-      "duration_ms": 93760,
-      "name": "Himno nacional de Bolivia",
-      "url": "https://open.spotify.com/track/026wa16NAXT8B5BrkeQcKI"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "YO y T\u00da",
         "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
@@ -677,7 +501,107 @@
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Himnos de Bolivia",
+        "url": "https://open.spotify.com/album/3xtmkIUFjLPhJAwAMrA44c"
+      },
+      "artists": [
+        {
+          "name": "Banda Militar Boliviana",
+          "url": "https://open.spotify.com/artist/6saMD4Q6gBk5LOn2LOyzn2"
+        }
+      ],
+      "duration_ms": 93760,
+      "name": "Himno nacional de Bolivia",
+      "url": "https://open.spotify.com/track/026wa16NAXT8B5BrkeQcKI"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "LOVE PA TI NO HAY",
+        "url": "https://open.spotify.com/album/6WGtFJVs1FsyAgFIv5akUR"
+      },
+      "artists": [
+        {
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 160260,
+      "name": "LOVE PA TI NO HAY",
+      "url": "https://open.spotify.com/track/67MBhIes3QKhQDuZWKHKBw"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/2Ugw5XIyyp0cKLMsgUaOh4"
+      },
+      "artists": [
+        {
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Sonr\u00edele",
+        "url": "https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn"
+      },
+      "artists": [
+        {
+          "name": "DY",
+          "url": "https://open.spotify.com/artist/4bB4RtgglECAqYMNt1l8zQ"
+        }
+      ],
+      "duration_ms": 178117,
+      "name": "Sonr\u00edele",
+      "url": "https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+        "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
+      },
+      "artists": [
+        {
+          "name": "\u652c\u4f6cSKAI ISYOURGOD",
+          "url": "https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI"
+        }
+      ],
+      "duration_ms": 173037,
+      "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
+      "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -709,39 +633,67 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Deslocado",
-        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
+        "name": "Montagem Supersonic",
+        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
       },
       "artists": [
         {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+          "name": "KHAOS",
+          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
+        },
+        {
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
         }
       ],
-      "duration_ms": 179996,
-      "name": "Deslocado",
-      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
+      "duration_ms": 87816,
+      "name": "Montagem Supersonic",
+      "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/1q6CkFjXVnmDKO08OkyhXH"
+        "name": "FAMOSINHA",
+        "url": "https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26"
       },
       "artists": [
         {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         }
       ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/3rv9X334doTsKBfgFVfIbH"
+      "duration_ms": 132922,
+      "name": "FAMOSINHA",
+      "url": "https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "Mix Huaynos: Tu Partida / Verbenita / A Los Bosques",
         "url": "https://open.spotify.com/album/2P9Ho8U36e8ZX5JKsn4lkb"
@@ -757,43 +709,23 @@
       "url": "https://open.spotify.com/track/0KSH2IxJFUg400yGbzYSzp"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+        "name": "Deslocado",
+        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "NAPA",
+          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
         }
       ],
-      "duration_ms": 110495,
-      "name": "TU VAS SIN (fav)",
-      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+      "duration_ms": 179996,
+      "name": "Deslocado",
+      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "La Del Proceso",
-        "url": "https://open.spotify.com/album/6OJxH8hYHEmSRHkavCnlVJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 184050,
-      "name": "La Del Proceso",
-      "url": "https://open.spotify.com/track/1AH1OsF7LabIl5RjhXR0u2"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "MONTAGEM XONADA",
         "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
@@ -817,23 +749,87 @@
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/5SiNNx3P8rKTudmBebWQXj"
+        "name": "Que Pancada de Mulher",
+        "url": "https://open.spotify.com/album/1cXV0uVJkbPedCDV0JYBTJ"
       },
       "artists": [
         {
-          "name": "Tiziano El Bomb\u00f3n de la Cumbia",
-          "url": "https://open.spotify.com/artist/3VQ35PnyCi0bUcfF9P2sxs"
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         }
       ],
-      "duration_ms": 175516,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/39EwNrszVvAPchyRWetG3v"
+      "duration_ms": 143389,
+      "name": "DNA do Mato",
+      "url": "https://open.spotify.com/track/1hH4o1z48IoZfUHGmhDlf1"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Una Fan Enamorada",
+        "url": "https://open.spotify.com/album/45KOQ9OQIYCub0JcrplPBq"
+      },
+      "artists": [
+        {
+          "name": "Turromantikos",
+          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+        }
+      ],
+      "duration_ms": 242069,
+      "name": "Una Fan Enamorada",
+      "url": "https://open.spotify.com/track/1MHyiAFf0LX50fGeEpNYN4"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/3wSb5M5CJt3HN2uHStVTIQ"
+      },
+      "artists": [
+        {
+          "name": "Turromantikos",
+          "url": "https://open.spotify.com/artist/53uyY4DWcaGrNd5xegj5TC"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3U6y2oi1po07erzVwJUQyc"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Las Cosas Que No Dije",
+        "url": "https://open.spotify.com/album/2P0ZLlIOYFyrkanPKw8oE5"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Dlugonoga",
+          "url": "https://open.spotify.com/artist/6gGpi3mTRrqwA1FntShspR"
+        }
+      ],
+      "duration_ms": 132142,
+      "name": "Las Cosas Que No Dije",
+      "url": "https://open.spotify.com/track/0oOpGaV23qGzjaYcBYCldY"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/1q6CkFjXVnmDKO08OkyhXH"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/3rv9X334doTsKBfgFVfIbH"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
@@ -881,43 +877,43 @@
       "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Que Pancada de Mulher",
-        "url": "https://open.spotify.com/album/1cXV0uVJkbPedCDV0JYBTJ"
+        "name": "I.S.T.",
+        "url": "https://open.spotify.com/album/08aHAfQh86f8aj2YgsXavn"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+          "name": "And One",
+          "url": "https://open.spotify.com/artist/6OAueBADydAjR5lP5NqTvv"
         }
       ],
-      "duration_ms": 143389,
-      "name": "DNA do Mato",
-      "url": "https://open.spotify.com/track/1hH4o1z48IoZfUHGmhDlf1"
+      "duration_ms": 180373,
+      "name": "Driving with My Darling",
+      "url": "https://open.spotify.com/track/5HlRJ3ZIO1fOPXqKNAWrmT"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Caballo Negro",
-        "url": "https://open.spotify.com/album/3jmoaHLiUucI1OLkEbvCs2"
+        "name": "La Del Proceso",
+        "url": "https://open.spotify.com/album/6OJxH8hYHEmSRHkavCnlVJ"
       },
       "artists": [
         {
-          "name": "Ilan Amores",
-          "url": "https://open.spotify.com/artist/0gQKzAKJSt3Ko7SKEr9y9z"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "KUN EL PRINCIPE",
-          "url": "https://open.spotify.com/artist/20gzsVnwDNrHYk41Wh2rLz"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 191500,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/50rW9gQDRG3dIIfNdzGhRc"
+      "duration_ms": 184050,
+      "name": "La Del Proceso",
+      "url": "https://open.spotify.com/track/1AH1OsF7LabIl5RjhXR0u2"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -949,55 +945,39 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+        "name": "Redenci\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+      "duration_ms": 190431,
+      "name": "Frecuencia",
+      "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
-        "name": "Lo Mejor",
-        "url": "https://open.spotify.com/album/6O7OUjNx3YBuitOAAKvF5g"
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
       "artists": [
         {
-          "name": "Negro Y Blanco",
-          "url": "https://open.spotify.com/artist/4esjAweEfvQXILAFPnEpbp"
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
         }
       ],
-      "duration_ms": 209786,
-      "name": "P\u00edntame Bolivia",
-      "url": "https://open.spotify.com/track/2vhgLgrhTm7uUKo4hmWFqn"
+      "duration_ms": 174706,
+      "name": "Come Back - Buddha Remastered 2001",
+      "url": "https://open.spotify.com/track/7K6KRwyvE0plDEzxrVmCon"
     },
     {
-      "added_at": "2025-08-08 17:56:32",
-      "album": {
-        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-        "url": "https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 197668,
-      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "url": "https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX"
-    },
-    {
-      "added_at": "2025-08-08 17:56:32",
+      "added_at": "2025-08-09 16:18:21",
       "album": {
         "name": "Vem Vem",
         "url": "https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV"
@@ -1015,6 +995,22 @@
       "duration_ms": 83183,
       "name": "Vem Vem",
       "url": "https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI"
+    },
+    {
+      "added_at": "2025-08-09 16:18:21",
+      "album": {
+        "name": "Buen Tipo",
+        "url": "https://open.spotify.com/album/2VlnC62aUIGxC3QrklhZgt"
+      },
+      "artists": [
+        {
+          "name": "Ocasional Talento",
+          "url": "https://open.spotify.com/artist/5IeI26Ct0ocZiLgzvQw5Mt"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "Buen Tipo",
+      "url": "https://open.spotify.com/track/1ITyoiqlLwTl9GeIfKltYt"
     }
   ],
   "unique_name": "Viral 50 - Bolivia",

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,951 songs - 4 day 5 hr 4 min
+1,952 songs - 4 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Dimman](https://open.spotify.com/track/6c14bUlL2R9l4UKPWrxMUY) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Dimman](https://open.spotify.com/album/0QBceTky96ytILAsRJBDFU) | 2:15 | 2024-05-09 | 2024-06-07 |
 | [Dimman \(feat\. Lokal\)](https://open.spotify.com/track/2MYj0zSua8Oz430UyXZc0K) | [Oscar Ahlgren](https://open.spotify.com/artist/6oLsu8ooAijUGwF0Ed4fob), [Lokal](https://open.spotify.com/artist/1Gtx7uxcwFWqBHt9OeESgj) | [Dimman \(feat\. Lokal\)](https://open.spotify.com/album/22vTRvUZdtlE61AqsvkOkZ) | 3:22 | 2022-01-27 | 2022-02-06 |
 | [Din blomstertid nu kommer](https://open.spotify.com/track/7kFd9RMRnobIXL3CNtS968) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Din blomstertid nu kommer](https://open.spotify.com/album/6kxkTvgmJu4phBuW10rdUZ) | 3:15 | 2022-09-15 | 2022-09-30 |
-| [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 | 2025-04-24 |  |
+| [Din egen sol](https://open.spotify.com/track/0xlJhFNQkS15bFqiuzlcAH) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Din egen sol](https://open.spotify.com/album/3Sai4ZZurorGQHEZQAUL7W) | 3:51 | 2025-04-24 | 2025-08-10 |
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-10-06 |
 | [Din Sång](https://open.spotify.com/track/07V09KDvkEzG77VHbfaCNg) | [Kevin Jansson](https://open.spotify.com/artist/2MMvUIvS0qebMm75cT8I4y) | [Din Sång](https://open.spotify.com/album/0HStWEVo5p03Jc5MeXMNDF) | 2:41 | 2024-04-25 | 2024-05-24 |
 | [dina armar](https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [dina armar](https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV) | 3:16 | 2024-05-23 | 2024-06-21 |
@@ -1188,6 +1188,7 @@
 | [Never Enough](https://open.spotify.com/track/7dzSmIEjI8AO2ET2SLMUlw) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [Never Enough](https://open.spotify.com/album/3njKzpqfXbFpiZoSzPZeMe) | 3:06 | 2021-12-16 | 2022-02-15 |
 | [Never Look Down](https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m) | 3:37 | 2025-01-09 | 2025-05-23 |
 | [New World Coming](https://open.spotify.com/track/2vGSxCHc28CQFCLu45QGmL) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [New World Coming](https://open.spotify.com/album/6RkA5qwUrAGVe3mWn8KgFE) | 2:05 | 2022-11-10 | 2023-03-25 |
+| [Ni har oss i ryggen](https://open.spotify.com/track/51Snii1N9DXZjh7LLjnlVW) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa), [Friidrottslandslaget](https://open.spotify.com/artist/6mNsxXdt1dzWiW3q3mxcMm) | [Ni har oss i ryggen](https://open.spotify.com/album/1uAxVXLjWxBiLGj9Tr9Nlg) | 4:07 | 2025-08-08 |  |
 | [Nightwalker](https://open.spotify.com/track/7eSoFXUfgb7QKPGcAHQ5IH) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Nightwalker](https://open.spotify.com/album/1mHq9ulE1PvexkZnpv5Lrs) | 2:32 | 2021-12-16 | 2022-05-13 |
 | [Nine Minutes](https://open.spotify.com/track/6LtAO6yClMpD5rDpKl6D0p) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Nine Minutes](https://open.spotify.com/album/6IXocBzWyc3zqMBX63rOlQ) | 3:08 | 2022-06-02 | 2022-06-24 |
 | [Nitty Gritty](https://open.spotify.com/track/6YMzc4iQPZnfZmsKdHOFqG) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Nitty Gritty](https://open.spotify.com/album/5DsezeVQVXH142aHUnA7r0) | 3:38 | 2023-09-21 | 2024-01-19 |

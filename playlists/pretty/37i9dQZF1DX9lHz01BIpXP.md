@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: 21 Promo & Pengii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,828 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,835 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 24 | [Janneman](https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Janneman](https://open.spotify.com/album/1R2hS2DTI0QrpzkUbbZXgk) | 3:15 |
 | 25 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
 | 26 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 |
-| 27 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
-| 28 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
+| 27 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
+| 28 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
 | 29 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
 | 30 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
 | 31 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 45 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
 | 46 | [Exs Die Ou](https://open.spotify.com/track/3ka1g6KZDn50XNLVDatqcP) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Exs Die Ou](https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4) | 3:06 |
 | 47 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
-| 48 | [Op Fok](https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5) | [Op Fok](https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL) | 2:08 |
+| 48 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
 | 49 | [Plug Me S:2 EP:5](https://open.spotify.com/track/0MIUAndr30ezR8uvTcAFN8) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [SKIIPS](https://open.spotify.com/artist/1QquCeba1W051sM56tKu0Y), [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X), [PFLONERD](https://open.spotify.com/artist/2aIsStLkvT7pgYHtsYxSNB), [TrustedSLK](https://open.spotify.com/artist/4Qk7JOKXvTNoVCQuJCc5RU), [NAVYKIDD](https://open.spotify.com/artist/06I3yZkNfX0yDWHJI4OZ39) | [Plug Me S:2 EP:5](https://open.spotify.com/album/7AsBPeQHHVwbsGozmAhdEf) | 3:12 |
-| 50 | [Hewig](https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz) | [Nate Johnson SA](https://open.spotify.com/artist/7rE5IrzOqCnHwi2ePZ6FDN), [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Hewig](https://open.spotify.com/album/3aA38orHnU25drrbkGit6J) | 3:42 |
+| 50 | [Op Fok](https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5) | [Op Fok](https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL) | 2:08 |
 
 Snapshot ID: `AAAAAFkKK43d1Y4gpH4Wk0zbzZPMXdgN`

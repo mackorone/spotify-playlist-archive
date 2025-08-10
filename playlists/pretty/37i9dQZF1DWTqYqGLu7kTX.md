@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,615 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,742 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 19 | [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 |
 | 20 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
 | 21 | [Boo Thang](https://open.spotify.com/track/0cEvip6wJqYsKFbVa0DsZX) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Boo Thang](https://open.spotify.com/album/3qKcozXbPJeQC7ekUdLuG4) | 2:41 |
-| 22 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
+| 22 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [JAGDEEEP SANGALA](https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
 | 23 | [Deewana](https://open.spotify.com/track/2KDDpTTvMODGoo3vmz29x4) | [BAGI MUNDA](https://open.spotify.com/artist/0HBnrWuJIS5VK5HVNP5y6Y), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [SANJU & SALLU RETURNS](https://open.spotify.com/album/14DNtUvxgQ2eIh7BCmo6D1) | 3:31 |
 | 24 | [Brats](https://open.spotify.com/track/4vMnHQn0BjpBkHgzaJtqdQ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:41 |
 | 25 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |

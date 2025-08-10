@@ -1,13 +1,33 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 9065,
+  "num_followers": 9074,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAADcGv8/mMehZHCnl7Cm7+lr",
+  "snapshot_id": "aJU+AAAAAAAyyd2K210c52csMPhkQWC/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "voc\u00ea vai gostar",
+        "url": "https://open.spotify.com/album/3GSOqaNwIax15VWuAtwvls"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 204767,
+      "name": "voc\u00ea vai gostar",
+      "url": "https://open.spotify.com/track/6Tz1pVZASlwQAAEi7Rb9Ut"
+    },
     {
       "added_at": null,
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 955434,
+  "num_followers": 955411,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYn1eeBP4v/97G/NUbkqMUFCANr",
+  "snapshot_id": "AAAAAAc+5o9yQFAmvF4TIpWia5yD52ZE",
   "tracks": [
     {
       "added_at": "2025-07-25 15:59:25",
@@ -255,18 +255,22 @@
     {
       "added_at": "2025-07-25 15:59:25",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+        "name": "Facas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
       "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
         {
           "name": "Bruno & Marrone",
           "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 165074,
-      "name": "Na Conta Da Loucura - Ao Vivo",
-      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
+      "duration_ms": 196379,
+      "name": "Facas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
       "added_at": "2025-07-25 15:59:25",
@@ -287,22 +291,18 @@
     {
       "added_at": "2025-07-25 15:59:25",
       "album": {
-        "name": "Facas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
       "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
         {
           "name": "Bruno & Marrone",
           "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 196379,
-      "name": "Facas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
+      "duration_ms": 165074,
+      "name": "Na Conta Da Loucura - Ao Vivo",
+      "url": "https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P"
     },
     {
       "added_at": "2025-07-25 15:59:25",
@@ -455,18 +455,22 @@
     {
       "added_at": "2025-07-25 15:59:25",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+        "name": "Sonho - Ao Vivo",
+        "url": "https://open.spotify.com/album/324to6aHDVGAatV6pHuVP2"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 157460,
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
+      "duration_ms": 185237,
+      "name": "Quem Melhor Do Que N\u00f3s Dois - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ"
     },
     {
       "added_at": "2025-07-25 15:59:25",
@@ -487,22 +491,18 @@
     {
       "added_at": "2025-07-25 15:59:25",
       "album": {
-        "name": "AgroPlay Ver\u00e3o Vol.1",
-        "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
       "artists": [
         {
-          "name": "AgroPlay",
-          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 173698,
-      "name": "Nosso Quadro",
-      "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
+      "duration_ms": 157460,
+      "name": "Mulher Maravilha - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb"
     },
     {
       "added_at": "2025-07-25 15:59:25",
@@ -523,22 +523,22 @@
     {
       "added_at": "2025-07-25 15:59:25",
       "album": {
-        "name": "Sonho - Ao Vivo",
-        "url": "https://open.spotify.com/album/324to6aHDVGAatV6pHuVP2"
+        "name": "AgroPlay Ver\u00e3o Vol.1",
+        "url": "https://open.spotify.com/album/5nLj4u8xY6bfCAHNQVM87i"
       },
       "artists": [
         {
-          "name": "Hugo Henrique",
-          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
         },
         {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 185237,
-      "name": "Quem Melhor Do Que N\u00f3s Dois - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ"
+      "duration_ms": 173698,
+      "name": "Nosso Quadro",
+      "url": "https://open.spotify.com/track/1bzRhnrWU1l1u4Bby9ZbfQ"
     },
     {
       "added_at": "2025-07-25 15:59:25",

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 530922,
+  "num_followers": 531023,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAABa/Zfz3X9jjzJBUuDck9Ex",
+  "snapshot_id": "aJU+AAAAAACcW5uh/YCXbCk7RR6s0Wl8",
   "tracks": [
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elephunk",
-        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIMPLY THE BEST",
         "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 236190,
       "name": "SIMPLY THE BEST",
       "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elephunk",
+        "url": "https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f"
     },
     {
       "added_at": null,

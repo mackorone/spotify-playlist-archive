@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116521,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
+    },
+    {
+      "album": {
         "name": "Gam Gam (2023)",
         "url": "https://open.spotify.com/album/5WEryFgo8eJNlHd6WGDh6r"
       },
@@ -2232,7 +2254,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 193345,
       "name": "Holy Place",
       "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
@@ -3432,6 +3454,28 @@
       "duration_ms": 239585,
       "name": "Metro",
       "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
+    },
+    {
+      "album": {
+        "name": "Milky Way",
+        "url": "https://open.spotify.com/album/4UagjNEJgp7hg9O46irhE0"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/7yZ21ZsAUHsoKQozwfrLo1"
     },
     {
       "album": {
@@ -6404,7 +6448,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 115172,
       "name": "Winter (The Four Seasons) - Techno Mix",
       "url": "https://open.spotify.com/track/3UPltDNDxsC4rot0fJwBjv"

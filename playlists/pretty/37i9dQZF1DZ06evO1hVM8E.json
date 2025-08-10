@@ -1,12 +1,12 @@
 {
   "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 44592,
+  "num_followers": 44613,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAB1bw7H/xPpVhnxYpnAx5IK",
+  "snapshot_id": "aJU+AAAAAABDAXfebsmDudDC9EIyyWB7",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
+        "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Fruta Madura",
+      "url": "https://open.spotify.com/track/0INnxXLdKizPJY5DeDNRgH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda (En Vivo)",
         "url": "https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 229066,
       "name": "P\u00eddeme la Luna (En Vivo) (feat. La Original Banda el Lim\u00f3n de Salvador Liz\u00e1rraga)",
       "url": "https://open.spotify.com/track/4zDzGZIdKG1PdvguOGET8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Tu Maestro (\"45 Aniversario\" - Version Mexico)",
-        "url": "https://open.spotify.com/album/4um9670JOh3rRlgsrgKTCW"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Fruta Madura",
-      "url": "https://open.spotify.com/track/0INnxXLdKizPJY5DeDNRgH"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Traguitos De Licor",
-        "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 156408,
-      "name": "Traguitos De Licor",
-      "url": "https://open.spotify.com/track/6yTkItaHBv3bt9ZHF1z17d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/4o0obEAe45w9aMgAx6fXqs"
       },
@@ -447,8 +427,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
+        "name": "Traguitos De Licor",
+        "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 156408,
+      "name": "Traguitos De Licor",
+      "url": "https://open.spotify.com/track/6yTkItaHBv3bt9ZHF1z17d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Aqu\u00ed Pa'l Real",
+        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 159306,
-      "name": "Si por Casualidad",
-      "url": "https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee"
+      "duration_ms": 246746,
+      "name": "Sin Permiso Para Amarte",
+      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqu\u00ed Pa'l Real",
-        "url": "https://open.spotify.com/album/0JdVLsrQshSvoWiPSW6M8D"
+        "name": "Qu\u00e9 Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
       "artists": [
         {
@@ -508,15 +508,15 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 246746,
-      "name": "Sin Permiso Para Amarte",
-      "url": "https://open.spotify.com/track/3Dd6c1FZDaxvoPfPRLyhBa"
+      "duration_ms": 159306,
+      "name": "Si por Casualidad",
+      "url": "https://open.spotify.com/track/6kbB6X2qqS0XkAPkk7TLee"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
+        "name": "24 Kilates de Corridos",
+        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Los Traficantes",
-      "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
+      "duration_ms": 215720,
+      "name": "Las Dos Plebes",
+      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Kilates de Corridos",
-        "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
+        "name": "Nuestra Colecci\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Las Dos Plebes",
-      "url": "https://open.spotify.com/track/3kB3wftiZPmVym3UyoWkNM"
+      "duration_ms": 213640,
+      "name": "Los Traficantes",
+      "url": "https://open.spotify.com/track/03baQe85J4C8PH6TNTUcUC"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Lo Contaron Ayer",
+        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Entre Perico y Perico",
+      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enamorado",
         "url": "https://open.spotify.com/album/1StCFcV4mgSMCAAdIjHHYN"
       },
@@ -811,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Lo Contaron Ayer",
-        "url": "https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT"
+        "name": "Nuestras Favoritas De Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn"
       },
       "artists": [
         {
@@ -820,25 +836,9 @@
           "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Entre Perico y Perico",
-      "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Esta Doliendo el Alma",
-        "url": "https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 199950,
-      "name": "Me Esta Doliendo el Alma",
-      "url": "https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW"
+      "duration_ms": 183333,
+      "name": "Si Ya No Te Vuelvo A Ver",
+      "url": "https://open.spotify.com/track/0hF3fxYz8y2ylDQ66a3PuV"
     }
   ],
   "unique_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",

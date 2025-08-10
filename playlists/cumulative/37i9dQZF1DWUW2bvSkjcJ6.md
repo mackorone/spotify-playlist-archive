@@ -4,7 +4,7 @@
 
 > Neue Musik von RAF Camora und Ufo361, Ed Sheeran, Kraftklub, LUNAX und mehr!
 
-5,805 songs - 11 day 20 hr 36 min
+5,806 songs - 11 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3240,6 +3240,7 @@
 | [Lunae Veritatis \(Stay\) feat\. Drax Project](https://open.spotify.com/track/2k82YAk1mA5AF97XSBanpn) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Lunae Veritatis \(Stay\) feat\. Drax Project](https://open.spotify.com/album/4VfegOywgKkXVItS89E5WW) | 3:26 | 2025-04-11 | 2025-04-18 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-16 | 2024-05-24 |
 | [Lust](https://open.spotify.com/track/74YHzUOvNkD0IBjT0FHztc) | [becks](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Lust](https://open.spotify.com/album/3e1MxBXCQmZ43jCwVOkRee) | 2:07 | 2024-06-20 | 2024-06-28 |
+| [Luv U More](https://open.spotify.com/track/5WfL4VVFQaHhjkNowXoZSZ) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luv U More](https://open.spotify.com/album/0lAckFjUGpMs9g2J3N5WDn) | 2:42 | 2025-08-08 |  |
 | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/track/4kSXfaTJzXGkEdGBQBl0MB) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/album/5ypPFVTmsSQ5Os2hqHVxTM) | 2:37 | 2025-04-24 | 2025-05-02 |
 | [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 | 2025-05-15 | 2025-05-23 |
 | [LV](https://open.spotify.com/track/1d4VELKuRjmSWWXSssqLjL) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [LV / C ME NOW](https://open.spotify.com/album/5uTbmXAlq0U4ccP9vesebZ) | 2:20 | 2025-02-06 | 2025-02-14 |

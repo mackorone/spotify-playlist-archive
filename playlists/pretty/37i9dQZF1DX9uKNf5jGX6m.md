@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,051,856 likes - 167 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,052,024 likes - 167 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 166 | [Hope within](https://open.spotify.com/track/7LMTpRdFtXPC6tH68gomqY) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Hope within](https://open.spotify.com/album/5XEMPLGsKreHAb6ogAyeMu) | 2:24 |
 | 167 | [Somnielle](https://open.spotify.com/track/2qptIMekh0RwJonUXWBgXO) | [Joudinoire](https://open.spotify.com/artist/5mZP1quYaLv8h8ppurtqaX) | [Somnielle](https://open.spotify.com/album/30fXWdLu5Hgo8FHzx3K16M) | 2:39 |
 
-Snapshot ID: `AAAAANm8mH3ODjUMzoW7CFiTGXpx/KuF`
+Snapshot ID: `AAAAAM4VJrzDZzQ6OEG6xrw2E4PT4hDm`

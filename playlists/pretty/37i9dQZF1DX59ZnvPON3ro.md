@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ZnvPON3ro.md) - [plain]
 
 > The music from Someone Great on Netflix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,927 likes - 29 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,933 likes - 29 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

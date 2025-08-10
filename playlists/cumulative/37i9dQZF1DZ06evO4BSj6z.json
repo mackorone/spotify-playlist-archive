@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188899,
+      "name": "can't stop",
+      "url": "https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3"
+    },
+    {
+      "album": {
         "name": "Black Book",
         "url": "https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V"
       },
@@ -252,6 +270,24 @@
       "duration_ms": 188710,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/4SelzUrCidrhIGNrICgT0o"
+    },
+    {
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183401,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/7LmCQaJpg5o76eF27GbGIe"
     },
     {
       "album": {
@@ -782,6 +818,28 @@
       "duration_ms": 222900,
       "name": "WHY - Remix",
       "url": "https://open.spotify.com/track/7ENtzFdzmKM0xNvlb4Sgus"
+    },
+    {
+      "album": {
+        "name": "act right",
+        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195168,
+      "name": "work (feat. BEAM)",
+      "url": "https://open.spotify.com/track/7JA2ocpnZnEbGJwR6TfIDa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BSj6z"

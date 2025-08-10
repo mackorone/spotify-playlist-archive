@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-95 songs - 6 hr 16 min
+96 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Time To Say Goodbye \- English Version](https://open.spotify.com/track/633Zk0NRe7kuglSgPmUvSG) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Sarah Brightman](https://open.spotify.com/artist/7Ead768rc4ShGxnqtqccU5) | [Romanza \(Edición Especial En Español\)](https://open.spotify.com/album/3bqaZBUz92ypc2bCLinACW) | 4:06 | 2023-06-30 | 2024-04-19 |
 | [To Believe](https://open.spotify.com/track/7cA6XIZ5VD67qmIhwDTQeM) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [Dream With Me](https://open.spotify.com/album/4DELT3MlaCsncDA5KODmKo) | 4:27 | 2021-09-24 |  |
 | [To Make You Feel My Love](https://open.spotify.com/track/66z75O6SUOQxZnS7Spbp95) | [The Serenad3](https://open.spotify.com/artist/23r9OdwRI1XKiYES6p68gu) | [Romantic Serenade](https://open.spotify.com/album/4HPSlAA3McPFOUU41U5AfQ) | 3:43 | 2021-09-24 |  |
+| [Traditional: The Water Is Wide](https://open.spotify.com/track/2UxHkqKJCljF4omDswNqad) | [Camille Berthollet](https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI) | [The Water Is Wide](https://open.spotify.com/album/5SKDYCEWCoEhp0UyJQYQE0) | 3:23 | 2025-08-08 |  |
 | [Veni Creator Spiritus](https://open.spotify.com/track/6K1z9GdRDtg4wrclq649lZ) | [Juliette Pochin](https://open.spotify.com/artist/4UD32JlXGLthCDSEkkB5sV), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC), [Poor Clare Sisters Arundel](https://open.spotify.com/artist/2yEndu1Rs4a7uBoFUSZPla) | [Light for the World](https://open.spotify.com/album/5hBu1cttYYkclsdxeKzKRy) | 2:13 | 2021-09-24 |  |
 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 | 2024-08-30 |  |
 | [Volare](https://open.spotify.com/track/7r3YaTG6mKqouTw09iCNnZ) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [In Harmony](https://open.spotify.com/album/2QjdcIMXEny95djxh7lEN8) | 3:29 | 2021-09-24 |  |

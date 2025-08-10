@@ -4,7 +4,7 @@
 
 > 
 
-237 songs - 9 hr 18 min
+247 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [24\-7!](https://open.spotify.com/track/7MceGNdwAbMbpqibENFlwB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [24\-7!](https://open.spotify.com/album/6xprDMhS4ZCy2yNcmKE2yn) | 1:57 | 2024-12-08 |  |
 | [2RAD!](https://open.spotify.com/track/0ISfL8bvPAlioAsmmQOxQ2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:29 | 2024-12-08 |  |
 | [5’11!](https://open.spotify.com/track/2b6MTivv1hIBqctL6xUXDs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [5’11!](https://open.spotify.com/album/2iaDkvIoAlLz6pHVPcseeZ) | 1:55 | 2025-03-24 | 2025-04-10 |
+| [9568](https://open.spotify.com/track/3yP6Wgq45sDrMUHlE58ezR) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 1:56 | 2025-08-09 |  |
 | [:3](https://open.spotify.com/track/1etmzWh7Q85LfSxth8NJuk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [:3](https://open.spotify.com/album/50HL3HFWueMUpafaawJux4) | 1:42 | 2025-01-08 |  |
 | [ACID SPIT!](https://open.spotify.com/track/5aD2klS056YPdLDoPPkiAf) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ACID SPIT!](https://open.spotify.com/album/2uqkZChtv7ou30EmY9xDW6) | 2:04 | 2024-12-25 |  |
 | [ACT RIGHT](https://open.spotify.com/track/2sVjF25Z4JTJxi9BXm5GtJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [ACT RIGHT](https://open.spotify.com/album/4GHFjmhUZkJfE6kuIJWQuk) | 2:24 | 2025-03-06 |  |
@@ -239,11 +240,20 @@
 | [WTFG!](https://open.spotify.com/track/7kMFqDbwdxt6XMKGF2uyL6) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [BLCKK](https://open.spotify.com/artist/4Zs1wgcjD3aYvaN1lFRMRt), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [WTFG!](https://open.spotify.com/album/6kfvKS1TNG7bnqR2rRr9pV) | 2:44 | 2025-04-12 |  |
 | [wym](https://open.spotify.com/track/7GmvuP8jfJROLz27G0sqiT) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Stardust](https://open.spotify.com/album/2B9wUcdcHVW9H9OGMpd6Bn) | 3:20 | 2025-05-28 |  |
 | [Xet's Revenge 2](https://open.spotify.com/track/1WQGJFhNGJWisasPOUPY8s) | [xetonyl's archive](https://open.spotify.com/artist/0J2jBYZmdub00VdGsXrmfk) | [Xet's Revenge 2](https://open.spotify.com/album/1Ubsw50wKJtaX0ah2F5qh3) | 1:36 | 2025-07-25 |  |
+| [Yeyo!](https://open.spotify.com/track/4jvw60Iw8LpSRJwy1sOmoB) | [Шайни](https://open.spotify.com/artist/7gR1vQmVN37aNtYDE21Bae) | [Yeyo!](https://open.spotify.com/album/4JRqVH5lhTM3maALKAsIzI) | 1:51 | 2025-08-09 |  |
 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2025-05-20 |  |
 | [you](https://open.spotify.com/track/0WPubN7ZXjtulq7wyU5y5c) | [Jades](https://open.spotify.com/artist/5cpCYa1BaBS52GrkmLob1u) | [you](https://open.spotify.com/album/1FDv2gaNy1nRMtkBSkoxQr) | 2:23 | 2025-07-26 |  |
 | [YOU'RE TOO SLOW](https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [YOU'RE TOO SLOW](https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz) | 1:56 | 2025-04-12 |  |
 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 |  |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
+| [Биг Сити Лайф](https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:08 | 2025-08-09 |  |
+| [Другой стиль](https://open.spotify.com/track/1wIu4Ou0z7XJcLB0rs3Ufz) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 3:10 | 2025-08-09 |  |
+| [Жмурки](https://open.spotify.com/track/3WhjBLDn0rIae7vtTDKpCO) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:07 | 2025-08-09 |  |
+| [Магазин](https://open.spotify.com/track/0cxKqzCYTNND97CQOBWtha) | [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Excalibur](https://open.spotify.com/album/33rtyAHvVG2lU8ZFKVK5Mv) | 1:49 | 2025-08-09 |  |
+| [Окраина](https://open.spotify.com/track/4enCMfd6Ubyn2m9Tkb8lUV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Окраина](https://open.spotify.com/album/1ZBBU3IExZhUzvJPlNFNSe) | 3:00 | 2025-08-09 |  |
+| [Оффер](https://open.spotify.com/track/5eOle5suK36LQwLzPvZTZQ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:16 | 2025-08-09 |  |
 | [поговори со мной ольга](https://open.spotify.com/track/444pwWgwj1BAzRMdUsaL8Y) | [Nochnye Snaipery](https://open.spotify.com/artist/2GUwb2rxMKePzxDi94EEoZ) | [4 \[изобретение музыки\]](https://open.spotify.com/album/36jHbUizCZU6rukdJLJ3Io) | 2:51 | 2025-04-04 | 2025-05-02 |
+| [Разница](https://open.spotify.com/track/7eraH0QBa5UrNKyN9a8d75) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:20 | 2025-08-09 |  |
+| [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 | 2025-08-09 |  |
 
 \*This playlist was first scraped on 2025-03-24. Prior content cannot be recovered.

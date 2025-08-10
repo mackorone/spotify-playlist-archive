@@ -1,6 +1,6 @@
 {
   "description": "Schlechte Laune? Dr\u00fcck den Play Button!",
-  "num_followers": 1944383,
+  "num_followers": 1944260,
   "original_name": "Stimmungsmacher",
   "owner": {
     "name": "Spotify",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-08-06 13:31:01",
       "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 156721,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
-    },
-    {
-      "added_at": "2025-08-06 13:31:01",
-      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
+    },
+    {
+      "added_at": "2025-08-06 13:31:01",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "added_at": "2025-08-06 13:31:01",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-08-06 13:31:01",
       "album": {
-        "name": "Hoffnungslos Hoffnungsvoll",
-        "url": "https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc"
+        "name": "Hausparty",
+        "url": "https://open.spotify.com/album/6J9lyophqMTIt6jkrQZ70D"
       },
       "artists": [
         {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Herz \u00fcber Kopf",
-      "url": "https://open.spotify.com/track/2krwNGlAHQuClcMw0WMUiz"
+      "duration_ms": 151437,
+      "name": "Hausparty",
+      "url": "https://open.spotify.com/track/0L1e4NytVRR42Ip0KPVgdv"
     }
   ],
   "unique_name": "Stimmungsmacher",

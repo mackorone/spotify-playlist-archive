@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 139977,
+  "num_followers": 139985,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Broski\u2019s",
         "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 179346,
       "name": "Broski\u2019s",
       "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "added_at": "2025-07-17 22:00:46",

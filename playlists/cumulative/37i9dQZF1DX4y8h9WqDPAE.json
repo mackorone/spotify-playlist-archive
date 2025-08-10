@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Hue",
+        "url": "https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ"
+    },
+    {
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5"
       },
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 124954,
       "name": "Back and Forth",
       "url": "https://open.spotify.com/track/25TCMpyYN5FFaPxqtl9rWt"
@@ -3066,7 +3084,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 134952,
       "name": "BUSS AT YOU",
       "url": "https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 219948,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3dYzGTpOFFRniqwKIQV6WL"
@@ -9456,7 +9474,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 192202,
       "name": "In It With You",
       "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
@@ -13359,6 +13377,28 @@
     },
     {
       "album": {
+        "name": "No Sharing (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211717,
+      "name": "No Sharing (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
+    },
+    {
+      "album": {
         "name": "Next Chapter",
         "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
       },
@@ -15065,6 +15105,24 @@
     },
     {
       "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
+    },
+    {
+      "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
@@ -15652,7 +15710,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/6XODwIPXQmVJS1tRabXDiS"
@@ -20364,7 +20422,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
@@ -20600,6 +20658,28 @@
       "duration_ms": 152072,
       "name": "Undercover Lover",
       "url": "https://open.spotify.com/track/27z7oXTVCZnNL23hPI1cPj"
+    },
+    {
+      "album": {
+        "name": "Understood (Remix)",
+        "url": "https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195231,
+      "name": "Understood (Remix)",
+      "url": "https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS"
     },
     {
       "album": {
@@ -21002,7 +21082,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 141384,
       "name": "Wait So Yeah",
       "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
@@ -22778,6 +22858,24 @@
       "duration_ms": 169756,
       "name": "Your Love Is Dangerous",
       "url": "https://open.spotify.com/track/1sSirMADazMg5vdkpdQgy0"
+    },
+    {
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE"

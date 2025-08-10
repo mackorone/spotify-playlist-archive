@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36183,
+  "num_followers": 36181,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
+        "name": "Arc",
+        "url": "https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "duration_ms": 274211,
+      "name": "Arc",
+      "url": "https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe"
+    },
+    {
+      "added_at": "2024-09-30 12:18:54",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 160752,
       "name": "London",
       "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
-    },
-    {
-      "added_at": "2024-09-30 12:18:54",
-      "album": {
-        "name": "Arc",
-        "url": "https://open.spotify.com/album/3eHNdHMGISbfsjN9J4USOm"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 274211,
-      "name": "Arc",
-      "url": "https://open.spotify.com/track/1XvNkXo2iNQgNNxxqX7pIe"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "SHEDO F TARFO",
-        "url": "https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf"
+        "name": "Khalisni",
+        "url": "https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378"
       },
       "artists": [
         {
-          "name": "TURK",
-          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+          "name": "Saud G",
+          "url": "https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ"
+        },
+        {
+          "name": "Ahmedoo Biggie",
+          "url": "https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy"
         }
       ],
-      "duration_ms": 156736,
-      "name": "SHEDO F TARFO",
-      "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
+      "duration_ms": 189295,
+      "name": "Khalisni",
+      "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
     },
     {
       "added_at": "2024-09-30 12:18:54",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2024-09-30 12:18:54",
       "album": {
-        "name": "Khalisni",
-        "url": "https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378"
+        "name": "SHEDO F TARFO",
+        "url": "https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf"
       },
       "artists": [
         {
-          "name": "Saud G",
-          "url": "https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ"
-        },
-        {
-          "name": "Ahmedoo Biggie",
-          "url": "https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy"
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
         }
       ],
-      "duration_ms": 189295,
-      "name": "Khalisni",
-      "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
+      "duration_ms": 156736,
+      "name": "SHEDO F TARFO",
+      "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
     },
     {
       "added_at": "2024-09-30 12:18:54",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVUpHtKnGyE.md) - [plain]
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,402 likes - 54 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,580 likes - 54 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You Found Me \(From the Netflix Series "Too Much"\)](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 |
+| 1 | [You Found Me](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 |
 | 2 | [London Bridge](https://open.spotify.com/track/7K2IeEefMiK8sDL8RBvXw2) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz) | 4:01 |
 | 3 | [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 |
 | 4 | [Dead Or Alive](https://open.spotify.com/track/0oPAi9fDUBiYkTloK2TK8o) | [Cam'ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Jimmy Jones](https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 4:07 |

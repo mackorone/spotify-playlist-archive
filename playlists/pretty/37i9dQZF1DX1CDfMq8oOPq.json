@@ -1,6 +1,6 @@
 {
   "description": "o pior \u00e9 que a nanda avisou, parsa... \ud83e\udd0c\ud83c\udffe",
-  "num_followers": 69308,
+  "num_followers": 69342,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2025-08-01 19:29:14",
       "album": {
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
+    },
+    {
+      "added_at": "2025-08-01 19:29:14",
+      "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/7E5eMLXtr8OxdiJcIPtbpj"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 150508,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP"
-    },
-    {
-      "added_at": "2025-08-01 19:29:14",
-      "album": {
-        "name": "Regras",
-        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Regras",
-      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
     },
     {
       "added_at": "2025-08-01 19:29:14",

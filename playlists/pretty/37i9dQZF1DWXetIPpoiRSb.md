@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Pop's next level 🍬 Cover: Dolly Zoom ̷G̷r̷e̷t̷a̷ ̷I̷s̷a̷a̷c̷
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,175 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,132 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 29 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
 | 30 | [by Design \- DJ\_Dave remix](https://open.spotify.com/track/1DygHcmqGfZreWCKLYhqvz) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [by Design \(DJ\_Dave remix\)](https://open.spotify.com/album/73YQpToinoN0OBv8oH2MKE) | 2:55 |
 | 31 | [KNIFE](https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [KNIFE](https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q) | 2:48 |
-| 32 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
+| 32 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
 | 33 | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/track/0dC9OuZL5Qh70N37wtwGHJ) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Sugar \(feat\. Shygirl\)](https://open.spotify.com/album/1QTFFa1qM6luiHOk5ey5ue) | 3:04 |
 | 34 | [December Forever](https://open.spotify.com/track/0UcC12wAeKUCwpM1JqmkCj) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [December Forever](https://open.spotify.com/album/5kaCWnIlMZUknSb8m43UY6) | 2:38 |
 | 35 | [Cherish \(LUXE remix\)](https://open.spotify.com/track/2ffwPlNItRwA0j8ZkVlKBx) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Gramarye: Glistening Edition](https://open.spotify.com/album/2t7hTlgyZp61HeZgbPiWKt) | 3:09 |

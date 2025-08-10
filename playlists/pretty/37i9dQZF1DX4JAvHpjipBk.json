@@ -1,6 +1,6 @@
 {
   "description": "New music from Laufey, Ed Sheeran, Gunna, Bailey Zimmerman & The Kid LAROI, and more!",
-  "num_followers": 4424279,
+  "num_followers": 4424468,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -1467,7 +1467,7 @@
     {
       "added_at": "2025-08-08 04:00:56",
       "album": {
-        "name": "Hue EP",
+        "name": "Hue",
         "url": "https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh"
       },
       "artists": [
@@ -1755,6 +1755,22 @@
       "duration_ms": 183994,
       "name": "Then You Happened",
       "url": "https://open.spotify.com/track/6ecMgHh6mgKLjBTM1BynhM"
+    },
+    {
+      "added_at": "2025-08-08 04:35:53",
+      "album": {
+        "name": "Baby Spoon",
+        "url": "https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 180803,
+      "name": "Baby Spoon",
+      "url": "https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl"
     }
   ],
   "unique_name": "New Music Friday",

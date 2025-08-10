@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "Oh My Sweet Carolina",
+        "url": "https://open.spotify.com/album/1y1FC7jvsvGugTm9m0nrWz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254244,
+      "name": "Oh My Sweet Carolina",
+      "url": "https://open.spotify.com/track/20vlUj6CoLVNdZXlcM56mC"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 296724,
       "name": "Oh My Sweet Carolina",
       "url": "https://open.spotify.com/track/2Zcr8xMMZyNT5wMsj3SWmw"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 273047,
       "name": "There Is a Light That Never Goes Out",
       "url": "https://open.spotify.com/track/5gkW1Q4MDPD7gc7ukuGhbi"
@@ -4592,7 +4610,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 218363,
       "name": "Why Do They Leave?",
       "url": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,653 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,654 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 24 | [What We On \(feat\. E\-40\)](https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [What We On \(feat\. E\-40\)](https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql) | 2:53 |
 | 25 | [WHO ELSE YOU KNOW!?](https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:49 |
 | 26 | [Lo Lo](https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:23 |
-| 27 | [What's That?](https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN) | 2:20 |
-| 28 | [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 |
+| 27 | [shake ya ass \(feat\. P\-Lo\)](https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [drink bleach](https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r) | 3:21 |
+| 28 | [What's That?](https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN) | 2:20 |
 | 29 | [Power \(feat\. Nef The Pharaoh & P\-Lo\)](https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Nef The Pharaoh](https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [The Vault](https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE) | 3:19 |
 | 30 | [bamboo](https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [PRIME](https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL) | 2:39 |
 | 31 | [On One](https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:25 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 47 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
 | 48 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
 | 49 | [DAMN](https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:55 |
-| 50 | [Too Faded Remix](https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Stone Cold: DELUXE EDITION](https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql) | 4:28 |
+| 50 | [Vomit](https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc), [Nima Skeemz](https://open.spotify.com/artist/76eeQ1SvMw40dTDVx526Kw), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [My Wonderful, Horrible Life](https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR) | 2:48 |
 
-Snapshot ID: `aJPsgAAAAAAkyYlORbVyc7yAYii2jb15`
+Snapshot ID: `aJU+AAAAAAAVQhsVR0z5yQLQUjvdAF7x`

@@ -15574,7 +15574,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 140750,
       "name": "KA3I",
       "url": "https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5"
@@ -22986,7 +22986,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
@@ -23738,7 +23738,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 230401,
       "name": "OBSESSED",
       "url": "https://open.spotify.com/track/2B5Osu4kZuvlKow5pIg4TB"
@@ -32910,6 +32910,24 @@
       "duration_ms": 212938,
       "name": "Veto",
       "url": "https://open.spotify.com/track/5ABwojICrV4CA1aqregfRJ"
+    },
+    {
+      "album": {
+        "name": "VFC",
+        "url": "https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim"
+      },
+      "artists": [
+        {
+          "name": "Fat Mizzo",
+          "url": "https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209536,
+      "name": "VFC",
+      "url": "https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka"
     },
     {
       "album": {

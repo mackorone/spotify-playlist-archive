@@ -1,32 +1,34 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: Elijah Woods](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: LE SSERAFIM](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> He glows different when it’s live\. Cover: Elijah Woods
+> Warning: this setlist may cause spontaneous crying, screaming, and slaying\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,498 likes - 20 songs - 55 min 46 sec
+[Spotify](https://open.spotify.com/user/spotify) - 56,488 likes - 22 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sunlight!](https://open.spotify.com/track/0wAE8X8R3A0WqIBTuxwRvF) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Sunlight!](https://open.spotify.com/album/2SeBLWi60SECxWFI8LRgeR) | 2:29 |
-| 2 | [Could You Love Me?](https://open.spotify.com/track/0hBGzwzgTL5BhHRJhlogFN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Could You Love Me?](https://open.spotify.com/album/3x2NJ3esVtSF788RLMeyYZ) | 3:57 |
-| 3 | [We Should Stick Together](https://open.spotify.com/track/7Kfaoy9pQCcaARLkjFOn2Z) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Hey There Elijah](https://open.spotify.com/album/5WGHlb3tEgQ7qagXPTALYe) | 2:13 |
-| 4 | [Say Hello](https://open.spotify.com/track/46UecrThkYAYsWJ3xqANiz) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Elijah Would!](https://open.spotify.com/album/2LTl1LnmvSFhW6qzFJkAHB) | 2:55 |
-| 5 | [ilu](https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [ilu](https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0) | 2:49 |
-| 6 | [everything everywhere always](https://open.spotify.com/track/1sd2HaV5RYWN8ly7htaElN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [everything everywhere always](https://open.spotify.com/album/73HKMtn4WRIvvm1m2QEAdf) | 2:27 |
-| 7 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 |
-| 8 | [Ghost On The Radio](https://open.spotify.com/track/3bL20Max8LSiBfyAs6GGwV) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Ghost On The Radio](https://open.spotify.com/album/31NWcwWqUHwCd4ARHgJvJR) | 2:32 |
-| 9 | [wildfire](https://open.spotify.com/track/5qz7zyJ2YAhER8DXTcRyQg) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [look what i made](https://open.spotify.com/album/6hIBFEFTlljAeGdU1AAGl3) | 2:23 |
-| 10 | [Skin & Bones](https://open.spotify.com/track/42NTvEyFiluZCbMGoiyWyD) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Elijah Would!](https://open.spotify.com/album/2LTl1LnmvSFhW6qzFJkAHB) | 2:28 |
-| 11 | [last girl](https://open.spotify.com/track/1clbhXTQHTCnhAHx4efjXx) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [bright orange everglow](https://open.spotify.com/album/6VyR17Yjzo1zHMpWgT7oNC) | 3:20 |
-| 12 | [where we're going](https://open.spotify.com/track/4mm39wDyaVYByBLz5MN3kW) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [bright orange everglow](https://open.spotify.com/album/6VyR17Yjzo1zHMpWgT7oNC) | 2:58 |
-| 13 | [January Eyes](https://open.spotify.com/track/5JF8J7YAYj8G6nasF0tZcI) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Hey There Elijah](https://open.spotify.com/album/5WGHlb3tEgQ7qagXPTALYe) | 2:29 |
-| 14 | [past life](https://open.spotify.com/track/64c5wrsub6yGJRs7swMo8n) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [past life](https://open.spotify.com/album/2FABefwXffnBHvWY6DWJMy) | 2:44 |
-| 15 | [lights](https://open.spotify.com/track/77QZyszJ6v2UwjwNP9HLqp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [look what i made](https://open.spotify.com/album/6hIBFEFTlljAeGdU1AAGl3) | 2:54 |
-| 16 | [second guessing](https://open.spotify.com/track/7wuCZVsFR7V3OO8AbaXgLe) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [silver lining](https://open.spotify.com/album/7KMs4mopInKccB2HO6q2zK) | 3:29 |
-| 17 | [losing a friend](https://open.spotify.com/track/4RrUwu5F3oTm49ynM6sNhC) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [silver lining](https://open.spotify.com/album/7KMs4mopInKccB2HO6q2zK) | 3:34 |
-| 18 | [take care](https://open.spotify.com/track/6gLOoI4JgFzud04qD0GVuc) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [look what i made](https://open.spotify.com/album/6hIBFEFTlljAeGdU1AAGl3) | 2:08 |
-| 19 | [who you could be](https://open.spotify.com/track/39urlhjlKIeGLl3FpqKgJA) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [what if it was great?](https://open.spotify.com/album/45ppTSZcqg0tzMhoVx1kWG) | 2:17 |
-| 20 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 |
+| 1 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
+| 2 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 |
+| 3 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
+| 4 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 |
+| 5 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 |
+| 6 | [Smart](https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Smart \(Remixes\)](https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh) | 2:46 |
+| 7 | [UNFORGIVEN \(feat\. Nile Rodgers\)](https://open.spotify.com/track/51vRumtqbkNW9wrKfESwfu) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:02 |
+| 8 | [Fire in the belly](https://open.spotify.com/track/05RlBHEZg1RmL9DnPgv9Qq) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:18 |
+| 9 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 |
+| 10 | [HOT](https://open.spotify.com/track/406IpEtZPvbxApWTGM3twY) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:23 |
+| 11 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 |
+| 12 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 |
+| 13 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 |
+| 14 | [DIFFERENT \(English ver.\)](https://open.spotify.com/track/2SCxNm5hwaFAOxvnlzTz8c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT \(English ver.\)](https://open.spotify.com/album/0pEfoZpPVjHO8YmGfO7hGv) | 2:21 |
+| 15 | [Burn the Bridge](https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:34 |
+| 16 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 |
+| 17 | [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 |
+| 18 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 |
+| 19 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
+| 20 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 |
+| 21 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
+| 22 | [So Cynical \(Badum\)](https://open.spotify.com/track/1Hw8WhXlRjfUFDMykf92gA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:35 |
 
-Snapshot ID: `AAAAAGAO1x6PFQljfOhalviLlJ4xkq3W`
+Snapshot ID: `AAAAAKFqZ7AofC+uOYw5K29WZpOzEW60`

@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "1DK",
       "url": "https://open.spotify.com/track/1NbIgGzU9Xjj8XlDbQtN8I"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 220800,
       "name": "Halcyon",
       "url": "https://open.spotify.com/track/0StvsZs3EbWGSINUC5NEUT"
@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "RUSH.",
+        "url": "https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241616,
+      "name": "RUSH.",
+      "url": "https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe"
+    },
+    {
+      "album": {
         "name": "secrets!",
         "url": "https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 219769,
       "name": "U_KNOWN - 2021 Version",
       "url": "https://open.spotify.com/track/2FrS1ydBBI5gPeFSQOL1HN"

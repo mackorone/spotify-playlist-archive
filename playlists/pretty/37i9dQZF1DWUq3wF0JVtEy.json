@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 932672,
+  "num_followers": 932611,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuFM2ioQQnAOOWH5p7tHzL1xF44",
+  "snapshot_id": "AAAAAMUJlUojrU3nTod3luQux7rMmgVs",
   "tracks": [
     {
       "added_at": "2025-07-25 04:00:54",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 150128,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/6OMHgy8Biljd8XCAhIyjMD"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1Fu1vVpBhR2SvMOgifFsuT"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Arsonist",
         "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
       },
@@ -1119,6 +1103,42 @@
       "duration_ms": 135692,
       "name": "Arsonist",
       "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1143,26 +1163,6 @@
       "duration_ms": 167076,
       "name": "I'm a Man",
       "url": "https://open.spotify.com/track/3zzzMsXOCCkPAFr2zbmKzY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Ravers Bounce",
-        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        },
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "Ravers Bounce",
-      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Smash The Disco",
         "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 181875,
       "name": "Smash The Disco",
       "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Charged Up",
-        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 123222,
-      "name": "Charged Up",
-      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "C.R.E.A.M.",
         "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 149562,
       "name": "C.R.E.A.M.",
       "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/4HckeGUqZQrIUCOGbNJB30"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 123222,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/414AiThcDCEw5KDrpouSlQ"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
-      },
-      "artists": [
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
         "name": "Repeating",
         "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
         "name": "Make a Living",
         "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 171076,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+    },
+    {
+      "added_at": "2025-07-25 04:00:54",
+      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1619,22 +1639,22 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU"
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
         },
         {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 171076,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF"
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1675,42 +1695,38 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
       "artists": [
         {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
         }
       ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "Feel The Beat",
-        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
       },
       "artists": [
         {
-          "name": "Drop The Cheese",
-          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
-        },
-        {
-          "name": "Amero",
-          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 163124,
-      "name": "Feel The Beat",
-      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1763,38 +1779,22 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+        "name": "Feel The Beat",
+        "url": "https://open.spotify.com/album/0lNYFhvrwG8dAeUvAzLznh"
       },
       "artists": [
         {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+          "name": "Drop The Cheese",
+          "url": "https://open.spotify.com/artist/4DPCpJ3C1nIqEFVs37tiOJ"
         },
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
         }
       ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2025-07-25 04:00:54",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+      "duration_ms": 163124,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/5LKDemoQgpHqJ199IZnfoa"
     },
     {
       "added_at": "2025-07-25 04:00:54",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
-        "name": "HURTS",
-        "url": "https://open.spotify.com/album/7iGXbRdDe5xDcDfFgZCWv9"
+        "name": "All Nighter",
+        "url": "https://open.spotify.com/album/2LExouzWxTSOae5akA2lIm"
       },
       "artists": [
         {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
         }
       ],
-      "duration_ms": 145714,
-      "name": "HURTS",
-      "url": "https://open.spotify.com/track/1MHILK2QPFJtOA5O0bRZYN"
+      "duration_ms": 145153,
+      "name": "All Nighter",
+      "url": "https://open.spotify.com/track/28BZvLsaXAKGAfy7cucvRo"
     }
   ],
   "unique_name": "Shuffle Syndrome",

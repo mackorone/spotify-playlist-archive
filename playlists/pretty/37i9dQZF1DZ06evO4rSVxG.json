@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAACvE0oey8Y1sUJpbGOeaNT+",
+  "snapshot_id": "aJU+AAAAAAAZ6kkSWd+nc1VvXnuPhca+",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Revival",
+        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 356760,
+      "name": "I Care",
+      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
         "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 236124,
       "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
       "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Revival",
-        "url": "https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 356760,
-      "name": "I Care",
-      "url": "https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd"
     },
     {
       "added_at": null,
@@ -567,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Weather 42",
-      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "Who's Lovin You",
-      "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kick n Game Like Soccer",
         "url": "https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X"
       },
@@ -627,6 +595,38 @@
       "duration_ms": 225613,
       "name": "Addicted to You (feat. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone)",
       "url": "https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "Who's Lovin You",
+      "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 321760,
+      "name": "Weather 42",
+      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
     },
     {
       "added_at": null,

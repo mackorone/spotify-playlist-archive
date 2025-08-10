@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,987,191 likes - 180 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,986,481 likes - 180 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 20 | [tolerance](https://open.spotify.com/track/6hCHlNGUPq5nAUSVPGPEhT) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [tolerance](https://open.spotify.com/album/4sIcBCrZRD6yStBxSF3BnE) | 3:13 |
 | 21 | [Your New Place](https://open.spotify.com/track/27G7xkS9uc18t1FgTr89Pl) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Your New Place](https://open.spotify.com/album/0X2GVJ31G9U0rrbw4kneBa) | 7:32 |
 | 22 | [Lonely in the Jungle](https://open.spotify.com/track/1iKy0DFWOx1rEaeY3xZ5G7) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Lonely in the Jungle](https://open.spotify.com/album/2SrBp9iFFQAC3dhO1ADs3b) | 3:25 |
-| 23 | [You Found Me \(From the Netflix Series "Too Much"\)](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 |
+| 23 | [You Found Me](https://open.spotify.com/track/7Jyt9tIVvp3hB0HPFfMA6P) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [You Found Me](https://open.spotify.com/album/2jTjNvShtOPHj5PK1Bv4YQ) | 4:13 |
 | 24 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 |
 | 25 | [Under the Water](https://open.spotify.com/track/3iuWTzZmdXvej1UHt0iPLi) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Under the Water](https://open.spotify.com/album/4D7Le3a5adQuWkP76jfmTa) | 3:28 |
 | 26 | [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 |

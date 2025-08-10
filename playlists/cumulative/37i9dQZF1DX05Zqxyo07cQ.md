@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-798 songs - 1 day 14 hr 45 min
+800 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Atmosphere](https://open.spotify.com/track/3C65D3dNteVusdiWlMNrX3) | [Haldur](https://open.spotify.com/artist/4YtWA8Xtf6Qj764Q1xGfEx) | [Wings](https://open.spotify.com/album/1cKgjO3CA2LCGduYQfbjmW) | 2:33 | 2023-03-23 | 2024-05-21 |
 | [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-17 | 2024-03-21 |
 | [Atwined](https://open.spotify.com/track/1heAYXQYiL5e2VBRClCaif) | [Leonid Antonov](https://open.spotify.com/artist/32fb0CzojuxZhDwienUYu5) | [Atwined](https://open.spotify.com/album/6TTy6hUzyFliywFJLXfYsk) | 2:20 | 2023-03-23 | 2024-02-09 |
+| [Aufguss](https://open.spotify.com/track/4FvlcgEU63sSwcfmKLIUHT) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Aufguss](https://open.spotify.com/album/4zyGYZph2j0Tsdj5TexyKu) | 2:51 | 2025-07-24 |  |
 | [Auguries](https://open.spotify.com/track/0r6dzNmVBGVqNAe86v1YVw) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Auguries](https://open.spotify.com/album/4h4VsyU4i64AH1leEjfBSa) | 2:46 | 2024-03-06 | 2024-07-16 |
 | [Aura Barrier](https://open.spotify.com/track/23qgHINY0aPEzaIGZR91kk) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Aura Barrier](https://open.spotify.com/album/7K89M6jaOWsdXiJ3sm5UKg) | 2:56 | 2025-07-24 |  |
 | [Aura Serena](https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE) | [Coêlie Couvez](https://open.spotify.com/artist/76RIL7v2EFaMgfcMdLfIXq) | [Aura Serena](https://open.spotify.com/album/3ogABRGwm1rntxXBNxOFVX) | 2:36 | 2024-02-08 | 2024-11-07 |
@@ -314,7 +315,7 @@
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-03-23 | 2024-06-21 |
 | [Freeform](https://open.spotify.com/track/3YrLrT0dfvY3biwPDkecAq) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Freeform](https://open.spotify.com/album/6yahW3mslf0k9LRWEDfc7J) | 3:36 | 2023-03-23 | 2024-02-09 |
 | [From Within](https://open.spotify.com/track/7qxkgMuJLZ2jaDvk0RnjNf) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [From Within](https://open.spotify.com/album/0BK1COg9s24yNZTYqFKGtN) | 2:56 | 2023-03-23 | 2024-01-18 |
-| [Frosted Light](https://open.spotify.com/track/6oWqrdSeRc72l2xF19O2wg) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Frosted Light](https://open.spotify.com/album/1Gy08glB1f0IxY9VMc63vN) | 2:51 | 2025-03-05 |  |
+| [Frosted Light](https://open.spotify.com/track/6oWqrdSeRc72l2xF19O2wg) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Frosted Light](https://open.spotify.com/album/1Gy08glB1f0IxY9VMc63vN) | 2:51 | 2025-03-05 | 2025-08-10 |
 | [Frozen waves](https://open.spotify.com/track/6RA2OBqaRhntWewbRaFkQQ) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Frozen waves](https://open.spotify.com/album/0nuSAQCegaaVpIslk2buc4) | 2:41 | 2024-03-06 | 2024-03-21 |
 | [Fulfilled](https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Fulfilled](https://open.spotify.com/album/6oX4wwwqlA1hi4ELRlkOHV) | 2:59 | 2024-05-04 | 2025-01-23 |
 | [Galaxy Dream](https://open.spotify.com/track/4rt2bY3DXBxrYVIWnXdQ1I) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Galaxy Dream](https://open.spotify.com/album/3201S4iC4hthfy6I18VQcI) | 2:51 | 2025-07-17 |  |
@@ -535,6 +536,7 @@
 | [Paper Planes](https://open.spotify.com/track/6K3GQ0EUISQazk67bWfWCB) | [Gerda Holmes](https://open.spotify.com/artist/7dEtbCkGOQo1nDl8YweUnL) | [Paper Planes](https://open.spotify.com/album/3kBoTpDPMvijOGBClK9uKQ) | 3:30 | 2023-03-23 | 2023-09-01 |
 | [Paradigm](https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu) | [iavú](https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my) | [Paradigm](https://open.spotify.com/album/05RwFQSvi4XzEPlkoFsH0H) | 3:00 | 2025-01-22 | 2025-07-06 |
 | [Paradiso](https://open.spotify.com/track/0E90iMgBCVaX7euZDNIsmE) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradiso](https://open.spotify.com/album/4HRUgpgh8njMktYmTahkQh) | 2:42 | 2024-06-18 | 2025-02-01 |
+| [Particles](https://open.spotify.com/track/4HQhAXCaJqXtLvrinExlNc) | [Etherielle](https://open.spotify.com/artist/7JtsidGU22mCGPEkShvwrK) | [Particles](https://open.spotify.com/album/7uLkTrK61alKA0ECErIMCE) | 2:43 | 2025-07-24 |  |
 | [Path](https://open.spotify.com/track/59L4ILD0qkCBq7m3s6t5AY) | [Zeejo Report](https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h) | [Path](https://open.spotify.com/album/0Y4JIMczzUrYYa3xIb5F53) | 2:47 | 2024-01-17 | 2024-09-03 |
 | [Path to Rest](https://open.spotify.com/track/7gT8yP1YJALEULuyQD8lLO) | [Plasma Nomad](https://open.spotify.com/artist/6AeoATT3xJ1r5N65akHDUb) | [Path to Rest](https://open.spotify.com/album/22UJ6u3TBLwIHnOO9PgRcr) | 3:03 | 2024-05-20 |  |
 | [Path to Sleep](https://open.spotify.com/track/4s9W9B4fY7lZ1wriVJy11V) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Wisdom](https://open.spotify.com/album/1Zv1m9DKQhnyQ1ayAzCHXp) | 3:04 | 2023-03-23 | 2023-10-05 |
@@ -767,7 +769,7 @@
 | [Universal Harmony](https://open.spotify.com/track/6i2cmPsBjRAlmYag9iozVV) | [Diamonds](https://open.spotify.com/artist/08YqCNBmikiDU1oWmj4PGI) | [Universal Harmony](https://open.spotify.com/album/2iSXFy0w5E6z7fPYC92DZc) | 2:51 | 2025-03-19 |  |
 | [Universal Truth](https://open.spotify.com/track/2zP7XSG2knSBpMJGf77WjF) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Significance](https://open.spotify.com/album/1WUUamSMdvlzn8MbPFX9Jg) | 3:15 | 2023-07-14 | 2024-02-09 |
 | [Unless](https://open.spotify.com/track/5IJclkvUYCQDye82Ua9sig) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Unless](https://open.spotify.com/album/4ECUMqjFun808OFQ15nQ1B) | 2:58 | 2024-01-17 | 2024-07-16 |
-| [Unseen Paths](https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Unseen Paths](https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY) | 2:44 | 2024-10-14 |  |
+| [Unseen Paths](https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Unseen Paths](https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY) | 2:44 | 2024-10-14 | 2025-08-10 |
 | [Unveiled](https://open.spotify.com/track/4INn3PNrEaJ46wiMnjXLq6) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Face Of The Earth](https://open.spotify.com/album/0KgvZMkUou2JzuClwR2iOg) | 2:11 | 2023-03-23 | 2024-03-21 |
 | [Unwinding](https://open.spotify.com/track/6WKdeX144tnQNxDCDB1zlJ) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Unwinding](https://open.spotify.com/album/4Fuoa1o6tL0cFRTlJF4GCN) | 3:17 | 2025-01-08 | 2025-05-14 |
 | [unwinding mind](https://open.spotify.com/track/3cKtbvlmZLIGQlvlXVGWcO) | [vindi meta](https://open.spotify.com/artist/1KpJe8aYmtCJpH7LP8mX9s) | [unwinding mind](https://open.spotify.com/album/5mYhxCiyQnJY8oBdgL6i1M) | 3:00 | 2024-05-20 | 2025-08-04 |

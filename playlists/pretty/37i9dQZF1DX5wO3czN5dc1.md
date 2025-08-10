@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz?si=zaJrMwqnSiiE0nPWZYIkaw">Jazzworx</a>, <a href="https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n?si=lSSotVfYRkmhqoxJ\_g5qVA">Thukuthela</a>, <a href="https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG?si=WaqAwLuQQNanoTH4oKuslw">Babalwa M</a>, & <a href="https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD?si=b2qkLtMzSda\-jhTduSUZuw">Dlala Thukzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,780 likes - 61 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,854 likes - 61 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

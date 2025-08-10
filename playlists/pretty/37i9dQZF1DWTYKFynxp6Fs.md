@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,575 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,193 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Parudeesa \- From "Bheeshma Parvam"](https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9) | [Parudeesa \(From "Bheeshma Parvam"\)](https://open.spotify.com/album/3GyGzZ9smF8HkYLNtb2U0w) | 4:03 |
 | 50 | [Nilaavil Ellame](https://open.spotify.com/track/09KdVJCUon1OvPmST9uJKt) | [Sachin Warrier](https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK) | [Aanandam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LclXEFqKkhF2S481SsAWs) | 3:17 |
 
-Snapshot ID: `AAAAALh6z7xJDhYoaETTVfHcPepfPPk6`
+Snapshot ID: `AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT`

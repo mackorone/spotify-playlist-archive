@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,784 likes - 100 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,840 likes - 100 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 99 | [sweet mistake](https://open.spotify.com/track/33DCvVD0X0Ome2hzdOZ9BR) | [milow](https://open.spotify.com/artist/5Fhirk5jON5pzTHB3BJaAo) | [sweet mistake](https://open.spotify.com/album/3uYVj61iW6S9MwH0Ak8ImH) | 2:00 |
 | 100 | [Mi Paz](https://open.spotify.com/track/1WNvF5Acr6W9RnsQjJlWE4) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Mi Paz](https://open.spotify.com/album/17YW8q3dz7Up29ABLwntsE) | 1:35 |
 
-Snapshot ID: `AAAAAFRorS56izhoiuKbonsJvCrikjTv`
+Snapshot ID: `AAAAADpdvRdefBT+CUnSLTdghcQeHeA5`

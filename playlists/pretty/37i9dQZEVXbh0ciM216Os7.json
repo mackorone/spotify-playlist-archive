@@ -6,23 +6,27 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABbEJN3WU8nEPBltAgQTrC3",
+  "snapshot_id": "AAAAAAAAAAANtzQ7ah+unMPjb2P+D5hm",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "enjoy the ride",
-        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 171237,
-      "name": "enjoy the ride",
-      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -71,8 +75,8 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Butt Floss Boogie",
-        "url": "https://open.spotify.com/album/68twGf8Y4z5SH3UtlXSfVA"
+        "name": "Hurty Squirties",
+        "url": "https://open.spotify.com/album/3AcksUBGTSugJK1lQornH4"
       },
       "artists": [
         {
@@ -80,109 +84,9 @@
           "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
         }
       ],
-      "duration_ms": 104443,
-      "name": "Butt Floss Boogie",
-      "url": "https://open.spotify.com/track/6LQ9gKqcf8xlapGZJrgWzC"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Heartbeats",
-        "url": "https://open.spotify.com/album/6W2W6rhX9zMpvnaPL4FGog"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 146040,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/6aFkJnRIECUcLwC5uNMBg9"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "We Are Who We Say We Are",
-        "url": "https://open.spotify.com/album/5FsGG7pWS3tWVCBswZR7Wv"
-      },
-      "artists": [
-        {
-          "name": "AmirSaysNothing",
-          "url": "https://open.spotify.com/artist/6S2DUG8jgRzX8v9cnHo5J3"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        }
-      ],
-      "duration_ms": 207518,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/0s7GjleshZhVQLKVfoF46q"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Covers Only, Vol. 1",
-        "url": "https://open.spotify.com/album/0CVnhwtOpdoIkOatkGcVwO"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Your Idol (KPop Demon Hunters)",
-      "url": "https://open.spotify.com/track/4VmiSWsMVZ25tbf2HErZtC"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Let's Ride Away (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/4TIyF7eDVIhtCrv8OM84sf"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 167467,
-      "name": "Let's Ride Away - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/3UlgMr1Uy7PBQNRLKFvFTN"
+      "duration_ms": 127999,
+      "name": "Hurty Squirties",
+      "url": "https://open.spotify.com/track/5LDbMb0lYYFCkibuW6lQDX"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -215,6 +119,42 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
+        "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/6W2W6rhX9zMpvnaPL4FGog"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 146040,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/6aFkJnRIECUcLwC5uNMBg9"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "enjoy the ride",
+        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 171237,
+      "name": "enjoy the ride",
+      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
         "name": "On My",
         "url": "https://open.spotify.com/album/6b9lRjsR9dsyyP8ote1TXq"
       },
@@ -239,6 +179,26 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
+        "name": "Vela",
+        "url": "https://open.spotify.com/album/6KHd7qiKysNz8uaqjHWynV"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "Vela",
+      "url": "https://open.spotify.com/track/33UgUd58NlaSltdcR3velN"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
         "name": "Be Kind Be You",
         "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
       },
@@ -259,6 +219,122 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0UHPrq8smwU1HbupSKaYHe"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Covers Only, Vol. 1",
+        "url": "https://open.spotify.com/album/0CVnhwtOpdoIkOatkGcVwO"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Your Idol (KPop Demon Hunters)",
+      "url": "https://open.spotify.com/track/4VmiSWsMVZ25tbf2HErZtC"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "We Are Who We Say We Are",
+        "url": "https://open.spotify.com/album/5FsGG7pWS3tWVCBswZR7Wv"
+      },
+      "artists": [
+        {
+          "name": "AmirSaysNothing",
+          "url": "https://open.spotify.com/artist/6S2DUG8jgRzX8v9cnHo5J3"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "duration_ms": 207518,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/0s7GjleshZhVQLKVfoF46q"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Let's Ride Away (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/4TIyF7eDVIhtCrv8OM84sf"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 167467,
+      "name": "Let's Ride Away - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/3UlgMr1Uy7PBQNRLKFvFTN"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/7eXzyxs4NEArDLbgmxVRU2"
       },
@@ -271,26 +347,6 @@
       "duration_ms": 218818,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1WhjhJtYTgtHbANyLU8W1k"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Purveyor of Pleasure (Moby Remix)",
-        "url": "https://open.spotify.com/album/5eIguzF8e7DXOrixNMgPcB"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        },
-        {
-          "name": "Thunder Bae",
-          "url": "https://open.spotify.com/artist/2urVnN3dqfvm7e5z1jADT6"
-        }
-      ],
-      "duration_ms": 283931,
-      "name": "Purveyor of Pleasure - Moby Remix",
-      "url": "https://open.spotify.com/track/5jEylbU8PdYzwntd0LbrlY"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -311,6 +367,22 @@
       "duration_ms": 200698,
       "name": "My Queen (feat. Spiritbox)",
       "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -347,34 +419,6 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Wax On Wax Off",
-        "url": "https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        }
-      ],
-      "duration_ms": 171803,
-      "name": "Wax On Wax Off",
-      "url": "https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -431,46 +475,6 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Go Head Testify",
-        "url": "https://open.spotify.com/album/5aWJ2T8Eua2PjnIYC3lntl"
-      },
-      "artists": [
-        {
-          "name": "DJ Brisk",
-          "url": "https://open.spotify.com/artist/3fMe0GKQOM1OHKrvYqOqnO"
-        },
-        {
-          "name": "Duane's Primo",
-          "url": "https://open.spotify.com/artist/2kzIaMoPmHTD9tb1c9mETe"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 128576,
-      "name": "Go Head Testify",
-      "url": "https://open.spotify.com/track/13p6tEOo9jYWn3bbxNs6RS"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Kangaroos",
-        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 106511,
-      "name": "Kangaroos",
-      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/7v9yB3BnZdvZrgyeCEUJFm"
       },
@@ -491,22 +495,18 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Dingue (MARQUISE Remix)",
-        "url": "https://open.spotify.com/album/5WQFLD1oO8kxf7mcXVfqzz"
+        "name": "Kangaroos",
+        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
       },
       "artists": [
         {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        },
-        {
-          "name": "MARQUISE",
-          "url": "https://open.spotify.com/artist/6uMSoKOsBpwjti2bVPfKq7"
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
         }
       ],
-      "duration_ms": 143255,
-      "name": "Dingue - MARQUISE Remix",
-      "url": "https://open.spotify.com/track/7JdECRrMW00rvsdxY8ZoAr"
+      "duration_ms": 106511,
+      "name": "Kangaroos",
+      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -535,54 +535,6 @@
       "duration_ms": 98102,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/1QIiUC7hBcj65AnPta3IDt"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Declaime (Instrumentals)",
-        "url": "https://open.spotify.com/album/7aIzWunHSVDyaUZ8pBN8HP"
-      },
-      "artists": [
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        },
-        {
-          "name": "Declaime",
-          "url": "https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw"
-        }
-      ],
-      "duration_ms": 103750,
-      "name": "Poet - Instrumentals",
-      "url": "https://open.spotify.com/track/1b4sHCOFFYoO7sZrRikiLk"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Symphony No. 1 in C Major, Op. 21/III. Menuetto. Allegro molto e vivace",
-        "url": "https://open.spotify.com/album/3icD05FCQgAnXdIIl5Sw1i"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Leonidas Kavakos",
-          "url": "https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn"
-        },
-        {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Symphony No. 1 in C Major, Op. 21: III. Menuetto. Allegro molto e vivace",
-      "url": "https://open.spotify.com/track/2EHFAdUylTDSxW15HVxtui"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -627,6 +579,26 @@
       "duration_ms": 129250,
       "name": "HER",
       "url": "https://open.spotify.com/track/6fzuc9fVDLgRIFW1Y858NX"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Hatchlings From Circa 2010s",
+        "url": "https://open.spotify.com/album/2YOtiJL6rCuaVBJN9SZNGF"
+      },
+      "artists": [
+        {
+          "name": "The Magical Ducklings",
+          "url": "https://open.spotify.com/artist/4OytQe4qOX2OGYD8LxpjGa"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 221951,
+      "name": "Rains In Space",
+      "url": "https://open.spotify.com/track/1ZgJdiztRQKOpIJ3mP69eE"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

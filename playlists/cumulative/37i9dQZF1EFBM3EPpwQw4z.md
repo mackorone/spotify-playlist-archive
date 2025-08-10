@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 8 hr 18 min
+143 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Wash Wash Wash](https://open.spotify.com/track/5v45vvdQy7AKVSRXegwNWD) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:25 | 2023-12-30 |  |
 | [Watch Me Dance feat\. KLP](https://open.spotify.com/track/6kUEUqwdzK3u4xDx8uJesO) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Don't Wanna Be](https://open.spotify.com/album/5Q00EKheeNVRjXxvfzWzjT) | 4:08 | 2023-12-30 | 2025-07-24 |
 | [What I Got](https://open.spotify.com/track/2dSwYx6yx7wBuQcQMyXFTQ) | [Paluma](https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4), [ATHANASIA](https://open.spotify.com/artist/56sUrWqaCdTyKmSs4glQ7N) | [Waiting \- EP](https://open.spotify.com/album/3amD749bBCslLZkXzOb9Ji) | 3:12 | 2025-06-22 |  |
+| [What's a Gremlin?](https://open.spotify.com/track/3wWdJGv0iqFJRQ82Uixaiu) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [What's a Gremlin?](https://open.spotify.com/album/3HTO3cw9wh1ia9n9aryWhm) | 2:20 | 2025-08-09 |  |
 | [With Me](https://open.spotify.com/track/1SuQdtKPmZIaxrswtlV7SF) | [Commandeur](https://open.spotify.com/artist/4iht8vH9H3ieMmxlAz26c0) | [With Me](https://open.spotify.com/album/4aYoFMt08akFhioqk2iZDu) | 4:39 | 2023-12-30 | 2025-07-24 |
 | [Your Imagination](https://open.spotify.com/track/5xKSDUncybC3s9OIXw1iez) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 2:21 | 2023-12-30 |  |
 

@@ -3555,6 +3555,28 @@
     },
     {
       "album": {
+        "name": "CLIMA LINDO",
+        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
+      },
+      "artists": [
+        {
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
+        },
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81995,
+      "name": "CLIMA LINDO - SLOWED",
+      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
+    },
+    {
+      "album": {
         "name": "Lita",
         "url": "https://open.spotify.com/album/5nfd1bXqze24U3EZXP1Qlk"
       },
@@ -18722,7 +18744,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -29704,7 +29726,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 111124,
       "name": "\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u0440\u043e\u043b\u044c",
       "url": "https://open.spotify.com/track/03unkZidjzUbrOd35kUPXd"
@@ -35642,7 +35664,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 239533,
       "name": "\u304a\u3064\u304b\u308cSUMMER",
       "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"

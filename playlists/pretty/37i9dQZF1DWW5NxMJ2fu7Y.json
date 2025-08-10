@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 63676,
+  "num_followers": 63710,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "112",
-        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
-      },
-      "artists": [
-        {
-          "name": "Pause",
-          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
-        }
-      ],
-      "duration_ms": 288949,
-      "name": "L\u2019Bayda Mon Amour",
-      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "Doberwoman",
         "url": "https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 178214,
       "name": "Doberwoman",
       "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 288949,
+      "name": "L\u2019Bayda Mon Amour",
+      "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-08-07 10:28:18",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/3zHPs7oUe2fxD0zWxiHrv2"
-      },
-      "artists": [
-        {
-          "name": "KALIL",
-          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
-        }
-      ],
-      "duration_ms": 122555,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/6GIWJrb6waDyG2VBbqwz2X"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
         "name": "Bjouj",
         "url": "https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT"
       },
@@ -643,6 +627,38 @@
       "duration_ms": 207360,
       "name": "Bjouj",
       "url": "https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "Marceline",
+        "url": "https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "duration_ms": 175568,
+      "name": "Marceline",
+      "url": "https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR"
+    },
+    {
+      "added_at": "2025-08-07 10:28:18",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/3zHPs7oUe2fxD0zWxiHrv2"
+      },
+      "artists": [
+        {
+          "name": "KALIL",
+          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
+        }
+      ],
+      "duration_ms": 122555,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/6GIWJrb6waDyG2VBbqwz2X"
     },
     {
       "added_at": "2025-08-07 10:28:18",
@@ -663,26 +679,6 @@
       "duration_ms": 248785,
       "name": "Labass",
       "url": "https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu"
-    },
-    {
-      "added_at": "2025-08-07 10:28:18",
-      "album": {
-        "name": "07",
-        "url": "https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ"
-      },
-      "artists": [
-        {
-          "name": "Shayfeen",
-          "url": "https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O"
-        },
-        {
-          "name": "Xcep",
-          "url": "https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Maghandemch",
-      "url": "https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW"
     }
   ],
   "unique_name": "Tayer \u0637\u0627\u064a\u0631\u200e",

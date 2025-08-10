@@ -1,6 +1,6 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Paris Paloma",
-  "num_followers": 317585,
+  "num_followers": 317599,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/7t6jknbXRsm0Us3dxwcLbt"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 302600,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/1hRLLDcfLJZBu9L2WNnBwr"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "At the Purchaser's Option",
-      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Highway 101, Vol. 2",
         "url": "https://open.spotify.com/album/7BS3LIAvk1oHeS26khw3FL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 220586,
       "name": "(Do You Love Me) Just Say Yes",
       "url": "https://open.spotify.com/track/2g7CcEEAGuQIDEYasu4QUX"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
         "name": "Lighten Up",
         "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
       },
@@ -1375,18 +1391,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1407,22 +1423,6 @@
       "duration_ms": 259917,
       "name": "Not Dark Yet",
       "url": "https://open.spotify.com/track/1dEaOuZdcUDIzFWYzv2MG4"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+        "name": "Circles And Arrows",
+        "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
       },
       "artists": [
         {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+          "name": "Cheryl Wheeler",
+          "url": "https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ"
         }
       ],
-      "duration_ms": 125293,
-      "name": "Here Before",
-      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+      "duration_ms": 226000,
+      "name": "Northern Girl",
+      "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1715,22 +1731,6 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
-        "name": "Circles And Arrows",
-        "url": "https://open.spotify.com/album/5n7a1XEKjjbwh5gGt98tCo"
-      },
-      "artists": [
-        {
-          "name": "Cheryl Wheeler",
-          "url": "https://open.spotify.com/artist/4bvWv6KDmnNNJCfElUEgsZ"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Northern Girl",
-      "url": "https://open.spotify.com/track/7noNmrmVAtMU5v37MOS5s7"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
+        "name": "Clotho's Web",
+        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
+      },
+      "artists": [
+        {
+          "name": "Julie Felix",
+          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Fire, Water, Earth And Air",
+      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Clotho's Web",
-        "url": "https://open.spotify.com/album/5unf8DycGu4dBjZwFdPMjd"
-      },
-      "artists": [
-        {
-          "name": "Julie Felix",
-          "url": "https://open.spotify.com/artist/7jqjvT22ycFRTQD0lI6Vi8"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Fire, Water, Earth And Air",
-      "url": "https://open.spotify.com/track/08HfNqZtFpypCW5luKg0uX"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Mosh Pit",
-        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 323857,
-      "name": "Mosh Pit",
-      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -2023,6 +2007,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Mosh Pit",
+        "url": "https://open.spotify.com/album/7ncAtOiKpdlbUv43iMAF8l"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 323857,
+      "name": "Mosh Pit",
+      "url": "https://open.spotify.com/track/2YAQbdNjjUbpI0pBxLFV5r"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Do You See The Light Around Me?",
-        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 204034,
-      "name": "Do You See The Light Around Me?",
-      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Blonde On The Tracks (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 276576,
       "name": "Queen Jane Approximately",
       "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Stand In",
-        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
-      },
-      "artists": [
-        {
-          "name": "Deva Mahal",
-          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
-        }
-      ],
-      "duration_ms": 286388,
-      "name": "Stand In",
-      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "Freedom Highway",
         "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 157826,
       "name": "Will the Circle Be Unbroken",
       "url": "https://open.spotify.com/track/2XQlZQGMQKIElKRYSf5NWx"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Stand In",
+        "url": "https://open.spotify.com/album/2RWRXkpztNYWDRy73TJ49H"
+      },
+      "artists": [
+        {
+          "name": "Deva Mahal",
+          "url": "https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0"
+        }
+      ],
+      "duration_ms": 286388,
+      "name": "Stand In",
+      "url": "https://open.spotify.com/track/2WCtBAhKakTG4YT3hKpAbh"
     },
     {
       "added_at": "2025-05-02 17:33:18",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2025-05-02 17:33:18",
       "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2025-05-02 17:33:18",
-      "album": {
         "name": "The Best Of The BBC Recordings",
         "url": "https://open.spotify.com/album/1OSu5UcCqwDlN4wNmNsoK4"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 336333,
       "name": "Who Knows Where The Time Goes? - BBC Session - John Peel 11/9/73",
       "url": "https://open.spotify.com/track/0DDVBCMpype90FZ4fNTsbp"
+    },
+    {
+      "added_at": "2025-05-02 17:33:18",
+      "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     }
   ],
   "unique_name": "Women of Folk",

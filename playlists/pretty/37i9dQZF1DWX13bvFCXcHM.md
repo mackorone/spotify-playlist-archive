@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX13bvFCXcHM.md) - [plain]
 
 > Enjoy the LIVE SET including the voices of them on stage! \(아티스트의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,765 likes - 31 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769 likes - 31 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

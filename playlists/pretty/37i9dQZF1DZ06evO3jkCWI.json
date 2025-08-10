@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 187953,
+  "num_followers": 188026,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAD+Z35rSC9BuxNX7YwOzrzQ",
+  "snapshot_id": "aJU+AAAAAABSzley9fC9QqR9qxz/6VQ5",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Presumir",
-        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 135026,
-      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
-      "url": "https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bajo Mil Llaves",
         "url": "https://open.spotify.com/album/4lRqDjjNXMEoDpgynnWiKq"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 150533,
       "name": "Bajo Mil Llaves",
       "url": "https://open.spotify.com/track/4fSiPSoUlssxoUsafN5HLO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Presumir",
+        "url": "https://open.spotify.com/album/6wlLXm68UHg0WeTzY04BHi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 135026,
+      "name": "Qu\u00e9 M\u00e1s Quieres de M\u00ed",
+      "url": "https://open.spotify.com/track/1tk8qoiqnM3rsg64xvpRlN"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ventanas Al Viento",
-        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Te Quiero Para Mi",
-      "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
+      "duration_ms": 211200,
+      "name": "El Subteniente Linares",
+      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Ventanas Al Viento",
+        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 211200,
-      "name": "El Subteniente Linares",
-      "url": "https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX"
+      "duration_ms": 188960,
+      "name": "Te Quiero Para Mi",
+      "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Distancia Maldita",
-      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
+      "duration_ms": 181720,
+      "name": "Es Demasiado Tarde",
+      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 181720,
-      "name": "Es Demasiado Tarde",
-      "url": "https://open.spotify.com/track/70YMp6bVrVHMhgevfAbf63"
+      "duration_ms": 186173,
+      "name": "Distancia Maldita",
+      "url": "https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8"
     },
     {
       "added_at": null,

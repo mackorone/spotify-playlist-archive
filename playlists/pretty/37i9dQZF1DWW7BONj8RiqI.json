@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 234890,
+  "num_followers": 234965,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
+        "name": "In the Water",
+        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
+      },
+      "artists": [
+        {
+          "name": "Suhrawh",
+          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
+        },
+        {
+          "name": "Chow Minister",
+          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
+        }
+      ],
+      "duration_ms": 159873,
+      "name": "In the Water",
+      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
         "name": "King Bubba Mashup, Vol. 1",
         "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
@@ -591,42 +611,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "In the Water",
-        "url": "https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo"
-      },
-      "artists": [
-        {
-          "name": "Suhrawh",
-          "url": "https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL"
-        },
-        {
-          "name": "Chow Minister",
-          "url": "https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM"
-        }
-      ],
-      "duration_ms": 159873,
-      "name": "In the Water",
-      "url": "https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
-        "name": "How She Like It",
-        "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
-      },
-      "artists": [
-        {
-          "name": "Hypasounds",
-          "url": "https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF"
-        }
-      ],
-      "duration_ms": 181567,
-      "name": "How She Like It",
-      "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "How She Like It",
+        "url": "https://open.spotify.com/album/5a7HKhVmU3fP9iYF1OGglC"
+      },
+      "artists": [
+        {
+          "name": "Hypasounds",
+          "url": "https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF"
+        }
+      ],
+      "duration_ms": 181567,
+      "name": "How She Like It",
+      "url": "https://open.spotify.com/track/300GbHKFjB7jL4aegxIFcC"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -675,6 +675,22 @@
       "duration_ms": 160965,
       "name": "Big Bad Soca",
       "url": "https://open.spotify.com/track/2ObK7AEuXZmOv8h5WKSjj1"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "No Apology",
+        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
+      },
+      "artists": [
+        {
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "No Apology",
+      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "No Apology",
-        "url": "https://open.spotify.com/album/4xBzYe6nv1n6vLXYAD1awh"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "No Apology",
-      "url": "https://open.spotify.com/track/5HxPAd9PWcmSz55INDqx1W"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Back Bend (Remix)",
         "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "Down Dey",
-        "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
-      },
-      "artists": [
-        {
-          "name": "GBM Nutron",
-          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
-        },
-        {
-          "name": "DJ Spider",
-          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
-        }
-      ],
-      "duration_ms": 133141,
-      "name": "Down Dey",
-      "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Same 24 Riddim",
         "url": "https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 158250,
       "name": "Payroll",
       "url": "https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "Down Dey",
+        "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        },
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        }
+      ],
+      "duration_ms": 133141,
+      "name": "Down Dey",
+      "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -827,38 +827,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "Born Wit It (Bumpa Riddim)",
-        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
-      },
-      "artists": [
-        {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
-        }
-      ],
-      "duration_ms": 202448,
-      "name": "Born Wit It (Bumpa Riddim)",
-      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
-        "name": "Spirit Of Carnival Project",
-        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 184273,
-      "name": "Mental Day",
-      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Alien Head Riddim",
         "url": "https://open.spotify.com/album/4IPXzvDQQAvOVZK8a8GJZM"
       },
@@ -879,18 +847,18 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+        "name": "Born Wit It (Bumpa Riddim)",
+        "url": "https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g"
       },
       "artists": [
         {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
         }
       ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
+      "duration_ms": 202448,
+      "name": "Born Wit It (Bumpa Riddim)",
+      "url": "https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -907,6 +875,38 @@
       "duration_ms": 208615,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "Spirit Of Carnival Project",
+        "url": "https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 184273,
+      "name": "Mental Day",
+      "url": "https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "Big Links Riddim",
-        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
-      },
-      "artists": [
-        {
-          "name": "Yung Bredda",
-          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
-        },
-        {
-          "name": "Full Blown",
-          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "The Greatest Bend Over",
-      "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 238400,
       "name": "Carnival Contract",
       "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "Big Links Riddim",
+        "url": "https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Full Blown",
+          "url": "https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "The Greatest Bend Over",
+      "url": "https://open.spotify.com/track/6mZtcDKqMyUOcG0qi11zeE"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "BISON RIDDIM",
         "url": "https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 146556,
       "name": "PORTAL",
       "url": "https://open.spotify.com/track/2jLKAPwUGTji359kOZl3c9"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
+      },
+      "artists": [
+        {
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "Sit on My Face",
-        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
-      },
-      "artists": [
-        {
-          "name": "Zido",
-          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
-        }
-      ],
-      "duration_ms": 87086,
-      "name": "Sit on My Face",
-      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Charge",
         "url": "https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 276131,
       "name": "Footsteps",
       "url": "https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "Sit on My Face",
+        "url": "https://open.spotify.com/album/6ASsV15On3lnOIRSMFapBg"
+      },
+      "artists": [
+        {
+          "name": "Zido",
+          "url": "https://open.spotify.com/artist/1BXk9qMGTP648nRoWwCImq"
+        }
+      ],
+      "duration_ms": 87086,
+      "name": "Sit on My Face",
+      "url": "https://open.spotify.com/track/0uXePy8d0vmDmhrZgUhGrc"
     },
     {
       "added_at": "2025-08-06 13:01:16",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2025-08-06 13:01:16",
       "album": {
-        "name": "Whale Fu See",
-        "url": "https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ"
-      },
-      "artists": [
-        {
-          "name": "Og Park",
-          "url": "https://open.spotify.com/artist/4XjPgbIrJruyUIu7NotYhS"
-        },
-        {
-          "name": "Rum Lawd",
-          "url": "https://open.spotify.com/artist/3Ib51TwzOmZDXeUoUGhDOJ"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Whale Fu See",
-      "url": "https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh"
-    },
-    {
-      "added_at": "2025-08-06 13:01:16",
-      "album": {
         "name": "Hi & Bye",
         "url": "https://open.spotify.com/album/1r6F0umKEM8d10C8L4Sa3y"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 247450,
       "name": "Hi & Bye",
       "url": "https://open.spotify.com/track/5gJIue3f58TO6RHRxEAIgJ"
+    },
+    {
+      "added_at": "2025-08-06 13:01:16",
+      "album": {
+        "name": "Whale Fu See",
+        "url": "https://open.spotify.com/album/6toehnLuWC2276thkFeJaQ"
+      },
+      "artists": [
+        {
+          "name": "Og Park",
+          "url": "https://open.spotify.com/artist/4XjPgbIrJruyUIu7NotYhS"
+        },
+        {
+          "name": "Rum Lawd",
+          "url": "https://open.spotify.com/artist/3Ib51TwzOmZDXeUoUGhDOJ"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Whale Fu See",
+      "url": "https://open.spotify.com/track/1vo5iXgbv8sYVY2xBsZ0Xh"
     },
     {
       "added_at": "2025-08-06 13:01:16",

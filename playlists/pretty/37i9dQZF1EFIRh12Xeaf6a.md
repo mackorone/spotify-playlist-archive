@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,130 likes - 270 songs - 14 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,131 likes - 270 songs - 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 61 | [Brother, Brother](https://open.spotify.com/track/1TsajzaE7CbCxT3BmYJ5lk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 2:58 |
 | 62 | [Come Down Easy](https://open.spotify.com/track/4WhYHtwrNzjloBMdLOeK4o) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 3:05 |
 | 63 | [The Locomotion](https://open.spotify.com/track/6gAbcFfwCQZzEYlbmJdjNQ) | [Ashley Blanchet](https://open.spotify.com/artist/1b8cQfCNThrHkG97I4ZED9), [Beautiful Ensemble](https://open.spotify.com/artist/2L5cwN0hfqdtGmxl61RgbV) | [Beautiful: The Carole King Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7I3jBPoNAjuHVquCTeq9dA) | 2:11 |
-| 64 | [I Can't Hear You No More](https://open.spotify.com/track/0eDpq3XyvGUyrf01jfUSCy) | [Russ Ballard](https://open.spotify.com/artist/1TOvAjOdz0YBx2wVRlBvFA) | [Russ Ballard](https://open.spotify.com/album/1hGYJPEaXCWmspAjcQQfEC) | 5:52 |
-| 65 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
+| 64 | [All Life Long \(Edit\)](https://open.spotify.com/track/1tTr4Sp2vbbVwntgk1QStr) | [Freiboitar](https://open.spotify.com/artist/1HcMKF2zXr12XNvN95DKvA), [Jackie Queens](https://open.spotify.com/artist/2Fn9Ex39hElfpqz6HyUgwY) | [All Life Long](https://open.spotify.com/album/5qADZLOscQ71a0EPCmiu0l) | 3:23 |
+| 65 | [I Can't Hear You No More](https://open.spotify.com/track/0eDpq3XyvGUyrf01jfUSCy) | [Russ Ballard](https://open.spotify.com/artist/1TOvAjOdz0YBx2wVRlBvFA) | [Russ Ballard](https://open.spotify.com/album/1hGYJPEaXCWmspAjcQQfEC) | 5:52 |
 | 66 | [Believe In Humanity](https://open.spotify.com/track/1yl0FJKBVzqU9jhdvyDPo0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:19 |
 | 67 | [Hung On You](https://open.spotify.com/track/4HHI8Bjcxt6gsRpgAp9B7w) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Back To Back](https://open.spotify.com/album/0EDQbxkH9D3X5EFl1o18Yc) | 3:24 |
 | 68 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 269 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 270 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `Ab4+8gAAAABOMsmJyXhzvZcM84sl1jFj`
+Snapshot ID: `Ab5EiAAAAAA7/AVK7noM6qiZMMvOff97`

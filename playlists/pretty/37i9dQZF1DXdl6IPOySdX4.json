@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2060182,
+  "num_followers": 2060790,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/4mCdid0oWqylN7m1QgqbHu"
     },
     {
-      "added_at": "2024-12-27 05:00:40",
-      "album": {
-        "name": "Scream My Name",
-        "url": "https://open.spotify.com/album/7cmOh3Pvwom7ppTMfYd1u0"
-      },
-      "artists": [
-        {
-          "name": "Thomas LaRosa",
-          "url": "https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR"
-        }
-      ],
-      "duration_ms": 212898,
-      "name": "Scream My Name",
-      "url": "https://open.spotify.com/track/6scwcjmaGlV8n2PyZvN25g"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Dirty Thoughts",
@@ -1603,6 +1587,22 @@
       "duration_ms": 206400,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/2CQdlpK88QxuUyVKKXAxBF"
+    },
+    {
+      "added_at": "2024-12-27 05:00:40",
+      "album": {
+        "name": "Scream My Name",
+        "url": "https://open.spotify.com/album/7cmOh3Pvwom7ppTMfYd1u0"
+      },
+      "artists": [
+        {
+          "name": "Thomas LaRosa",
+          "url": "https://open.spotify.com/artist/1ZyUaNx0nDAzkGlAIXqXZR"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/6scwcjmaGlV8n2PyZvN25g"
     },
     {
       "added_at": "2024-09-20 04:00:00",

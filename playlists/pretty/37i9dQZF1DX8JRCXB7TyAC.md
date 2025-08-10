@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,429 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,447 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 44 | [Pistol](https://open.spotify.com/track/1sZtZDs3SYWyYA18M79f1I) | [Star Boy Loc](https://open.spotify.com/artist/3fa7rhEoajjrGyb6a3IAqv), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [G Skillz](https://open.spotify.com/artist/3V5mKE1yJ49wg4h4Aq4ynE), [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Suyyash Rai](https://open.spotify.com/artist/3pHc4pzMYKmMrz528fJs3T), [Aaryamann Sseth](https://open.spotify.com/artist/3CU5IBRlMqEUr7xQGkvOvd) | [Pistol](https://open.spotify.com/album/27NV0KZpszewPQkeWvSdqz) | 2:28 |
 | 45 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 |
 | 46 | [Choudhar](https://open.spotify.com/track/4A6ZZI5c6u598KGM5OL1RK) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Choudhar](https://open.spotify.com/album/0oyh3wxqoJTTsdv7CLLr4C) | 2:53 |
-| 47 | [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 |
-| 48 | [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 |
+| 47 | [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 |
+| 48 | [Pahalwani](https://open.spotify.com/track/3pIyIe9dwEnQyXUQfxaIcd) | [Krishan Madha](https://open.spotify.com/artist/7GTkzMSNgDarYvOGiBHRtL), [Moni Hooda](https://open.spotify.com/artist/7sTD73ts93UaMiWy1hk9KI) | [Pahalwani](https://open.spotify.com/album/7HfKGDVQgJcsZyXN5lklcl) | 4:00 |
 | 49 | [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/1rAdtSzr09FZquUOXkEMNQ) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 |
 | 50 | [Not Easy](https://open.spotify.com/track/5dqMj4M6sgJIVa12Qjqjlq) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Not Easy](https://open.spotify.com/album/0LTyNtAmZv7JENRDAFMA8Y) | 2:56 |
 

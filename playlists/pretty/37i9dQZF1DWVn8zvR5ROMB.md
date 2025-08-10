@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring BigXthaPlug with Ella Langley, Bailey Zimmerman with The Kid LAROI, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,178 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,349 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 32 | [Tell The Truth](https://open.spotify.com/track/4uXnL0SZAuxv3n41AqUNky) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Tell The Truth](https://open.spotify.com/album/5CDfmDWhAVsjP3fwa4dKmF) | 2:55 |
 | 33 | [Walk On Water](https://open.spotify.com/track/3CUDKrteJHLIv8x3sOAVz9) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Walk On Water](https://open.spotify.com/album/4Fba8Ye5OkJtITDyFhti5U) | 2:47 |
 | 34 | [Still](https://open.spotify.com/track/7FmanRXTKU0tDqOhbyFUpS) | [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Still](https://open.spotify.com/album/0J0BIqL3hCdAJ8ymWujsDP) | 2:56 |
-| 35 | [Middle Gound](https://open.spotify.com/track/69X4TXA1VBCpL1NB0VYc59) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Middle Gound](https://open.spotify.com/album/6Fwb3mzw15O0r4M1hF1tZa) | 3:00 |
+| 35 | [Middle Ground](https://open.spotify.com/track/69X4TXA1VBCpL1NB0VYc59) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Middle Ground](https://open.spotify.com/album/6Fwb3mzw15O0r4M1hF1tZa) | 3:00 |
 | 36 | [One More Cast](https://open.spotify.com/track/16fCwyHAoFwGuQBO1ENXPs) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [One More Cast](https://open.spotify.com/album/0958UFyBJFMHKJZD1CDupt) | 3:36 |
 | 37 | [Fool’s Gold](https://open.spotify.com/track/1WQ3fy3eUkoTx1t7yoY3Jq) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Fool’s Gold](https://open.spotify.com/album/7pZOvshBb8dbeb73uoz8f5) | 3:33 |
 | 38 | [Just For The Night](https://open.spotify.com/track/24ralVBDP527H9w4SGHmjz) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Just For The Night](https://open.spotify.com/album/0SbBHkJh2kPeJeGoiZZU75) | 3:07 |

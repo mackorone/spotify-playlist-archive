@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 17 | [Hier bij jou](https://open.spotify.com/track/4ppcWL675MFv1NRVP1SH6A) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Hier bij jou](https://open.spotify.com/album/43dUIyykCYWuvmnia0Ab4t) | 2:51 |
 | 18 | [Crazy over You](https://open.spotify.com/track/4xLVRYJxcQD9rPJmgxWpSS) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:21 |
 | 19 | [Say You're Mine](https://open.spotify.com/track/2i0YLaDthw6Zi1mwIW7E0o) | [Carl Clarks](https://open.spotify.com/artist/3OE3dz6RhP1rdri5pcQY0c), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Say You're Mine](https://open.spotify.com/album/7jdBTIrZUyapCtPEEvDwUx) | 2:56 |
-| 20 | [No One Else Is You](https://open.spotify.com/track/2Ca9iYfiSZQI7McfsR4yHj) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [No One Else Is You](https://open.spotify.com/album/68nfxAQeOzGqTJmSSLzqsx) | 2:44 |
+| 20 | [No One Else Is You](https://open.spotify.com/track/2Ca9iYfiSZQI7McfsR4yHj) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [No One Else Is You](https://open.spotify.com/album/68nfxAQeOzGqTJmSSLzqsx) | 2:44 |
 | 21 | [More Than a Million](https://open.spotify.com/track/79Vy5vakQDBmibAFHSjINh) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:29 |
 | 22 | [Reasons](https://open.spotify.com/track/2FUC4I9jmrmanxKFpIfhu6) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Reasons](https://open.spotify.com/album/7kHWiBH2vYL6hdemhtct01) | 2:20 |
 | 23 | [Change For The Better](https://open.spotify.com/track/0X0gfZVgyKJfAn1RUAEwOR) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8), [Jonas Brøg](https://open.spotify.com/artist/1xm9hG6S5fxyaUIhyGcEw3) | [Change For The Better](https://open.spotify.com/album/0KLp4ga9TmVQgYHxCIIk7P) | 2:18 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 51 | [The Lost One](https://open.spotify.com/track/1GwIQTJWPl4Ok3uZ2dIHnV) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Lost One](https://open.spotify.com/album/5ANQGGco2PooDfulRsUGEB) | 3:14 |
 | 52 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `Ab4+/AAAAAAeA+RD3bpHEucwnlSbgZRo`
+Snapshot ID: `Ab5EiAAAAADr7+HM1EAF29GYV6Ix1HPA`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Ollie Wride, Gunship, Siamese Youth and more",
+  "description": "With Ollie Wride, Gunship, Michael Oakley and more",
   "name": "The Midnight Radio",
   "tracks": [
     {
@@ -298,6 +298,28 @@
       "duration_ms": 236303,
       "name": "80's Girl",
       "url": "https://open.spotify.com/track/0pnUDyET3GULbTGOtgqOLE"
+    },
+    {
+      "album": {
+        "name": "80s Kids",
+        "url": "https://open.spotify.com/album/7FAb4CwRzKnS6u307A9L2k"
+      },
+      "artists": [
+        {
+          "name": "DRYVE",
+          "url": "https://open.spotify.com/artist/56Adjcmdh6qICMhFUOuPER"
+        },
+        {
+          "name": "Cassi\u00f8peia",
+          "url": "https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211891,
+      "name": "80s Song",
+      "url": "https://open.spotify.com/track/4leBfOVOw4JYyRM0gadbiT"
     },
     {
       "album": {
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 297272,
       "name": "Alice",
       "url": "https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ"
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "Blink Of An Eye",
       "url": "https://open.spotify.com/track/3u0e0Q1QuAV8BLSXU6QyJR"
@@ -4162,7 +4184,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 324521,
       "name": "Checkpoint",
       "url": "https://open.spotify.com/track/5dS5QGa0oIXoRn8jknDHfG"
@@ -4296,7 +4318,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "City Nights",
       "url": "https://open.spotify.com/track/7oeaTU3yc5WipFocCmRJPo"
@@ -4394,7 +4416,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 232738,
       "name": "Clean Eyes - The Midnight Remix",
       "url": "https://open.spotify.com/track/5OwQwWZwwlRFRejqWPCQnu"
@@ -4416,7 +4438,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 234444,
       "name": "Clean Eyes - The Midnight Remix Instrumental",
       "url": "https://open.spotify.com/track/6vZKhpqVDmOw7sjxq1oHGC"
@@ -5344,7 +5366,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 362410,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr"
@@ -5844,7 +5866,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 324018,
       "name": "Days of Thunder",
       "url": "https://open.spotify.com/track/28uitw2AXQQIUHvSJW9qy6"
@@ -7800,7 +7822,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 236311,
       "name": "End of the Night (feat. Doubleboy)",
       "url": "https://open.spotify.com/track/59q31baYiGMndSq261KEkq"
@@ -7836,7 +7858,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 405907,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/1EMPhniZKycZabKUTf74q6"
@@ -9578,7 +9600,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 252623,
       "name": "Fractions (feat. Jessie Frye)",
       "url": "https://open.spotify.com/track/2ulW5zd7SluGGWVZ1DMiTI"
@@ -11744,7 +11766,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 283218,
       "name": "I Recall (feat. Preston Knight)",
       "url": "https://open.spotify.com/track/7twMy6xI9y6KeQAuYTtDYt"
@@ -11896,7 +11918,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 311029,
       "name": "I'm a Believer",
       "url": "https://open.spotify.com/track/5642EiNwJmN0kjB62eOYTs"
@@ -13294,7 +13316,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-19",
+      "date_removed": null,
       "duration_ms": 240156,
       "name": "Just like in the Movies",
       "url": "https://open.spotify.com/track/4cxARXW6OJGdb6wQTDd5Nm"
@@ -13870,7 +13892,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 352052,
       "name": "Le Mirage",
       "url": "https://open.spotify.com/track/2Mf9TH7plJ0llCmgMd8cJG"
@@ -16272,7 +16294,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 209102,
       "name": "Missing Out - The Midnight Remix",
       "url": "https://open.spotify.com/track/0vhaMhozCr9SKpqRvEltsX"
@@ -16540,7 +16562,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 132991,
       "name": "Moon Kiss",
       "url": "https://open.spotify.com/track/0cTAWy8cAzSDFM4BueQfht"
@@ -22996,7 +23018,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 243033,
       "name": "Silence",
       "url": "https://open.spotify.com/track/08qnMBb5LTrDu705V0QAG3"
@@ -24188,7 +24210,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 293509,
       "name": "Static",
       "url": "https://open.spotify.com/track/0TiZDNPU2t4STNJW4Qdj22"
@@ -24748,7 +24770,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-16",
+      "date_removed": null,
       "duration_ms": 202129,
       "name": "Summer Eyes",
       "url": "https://open.spotify.com/track/1l9GWlY0FPr5Z7xRNoyNcV"
@@ -26088,7 +26110,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 220146,
       "name": "The Danger",
       "url": "https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof"
@@ -28164,7 +28186,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 317228,
       "name": "Vampires",
       "url": "https://open.spotify.com/track/5lVsAfvY2ij8A2T6oYdAyt"
@@ -29764,7 +29786,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 274905,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2OVUeLRtxnuyl8whgj840X"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Sky Ferreira, Mareux and more
+> With Pastel Ghost, Sky Ferreira, Labyrinth Ear and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,214 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,225 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Without Love](https://open.spotify.com/track/40G45aA4dDcFt6AalUBsCu) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Without Love](https://open.spotify.com/album/62aiSidvrWqKfFTVFtTbDE) | 3:55 |
 | 50 | [Mouthful of Diamonds](https://open.spotify.com/track/3TlE3i1S2I1HwOc7gH17dC) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/04hIZe3V1YuxOuS4Y0ymzL) | 4:13 |
 
-Snapshot ID: `aJae5wAAAABb4K09tRpsV+/J1BSd2d4j`
+Snapshot ID: `aJgRrQAAAAA+xauIujRmHy87VdoPXJ4g`

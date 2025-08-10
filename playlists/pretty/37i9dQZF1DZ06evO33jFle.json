@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 509014,
+  "num_followers": 509155,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAA5IE/obSTaMva4pLa9yjNf",
+  "snapshot_id": "aJU+AAAAAABKTtrzQ8Q21r/9UL84d5T0",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 31760,
+      "name": "Intro: Pimienta y Especies",
+      "url": "https://open.spotify.com/track/2n0aVaak5ssmX8DJ9NarQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 277653,
       "name": "Detr\u00e1s de Mi Ventana - Banda",
       "url": "https://open.spotify.com/track/5BwEvu0Spcv6zjOPFWw4HD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Dama Divina",
-      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,

@@ -2410,6 +2410,28 @@
     {
       "album": {
         "name": "Better Days",
+        "url": "https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180014,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu"
+    },
+    {
+      "album": {
+        "name": "Better Days",
         "url": "https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR"
       },
       "artists": [
@@ -3844,6 +3866,32 @@
       "duration_ms": 259650,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK"
+    },
+    {
+      "album": {
+        "name": "Cola (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Cola - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
     },
     {
       "album": {
@@ -6141,6 +6189,32 @@
     },
     {
       "album": {
+        "name": "Fire Fire",
+        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
+    },
+    {
+      "album": {
         "name": "Firedance EP",
         "url": "https://open.spotify.com/album/3PxySRX2mtpektDFcDXsQw"
       },
@@ -7586,7 +7660,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 192210,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/25ptHEGFaskKZQPv4dq4T7"
@@ -11990,7 +12064,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 279344,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
@@ -18464,7 +18538,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 206890,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house  🥷  Tech house technicians, featuring Disco Lines & Ship Wrek
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,992 likes - 134 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,055 likes - 134 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

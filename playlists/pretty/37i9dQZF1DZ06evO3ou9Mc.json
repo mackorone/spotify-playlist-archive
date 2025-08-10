@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 421083,
+  "num_followers": 421126,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAADZ5AS021cpop1KWgHe5+G9",
+  "snapshot_id": "aJU+AAAAAAAAUM8pDUDKq2JNOHnNE+4o",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
+        "name": "Ignition (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
+      "duration_ms": 152466,
+      "name": "Session - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignition (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF"
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 152466,
-      "name": "Session - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU"
+      "duration_ms": 241786,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2"
     },
     {
       "added_at": null,

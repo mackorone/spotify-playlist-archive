@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Blessing Offor
 
-9,910 songs - 27 day 1 hr 36 min
+9,911 songs - 27 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6087,7 +6087,7 @@
 | [Nothing Back \- Reimagined](https://open.spotify.com/track/5eFjy2abCLtnen1rttqRAA) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Nothing Back \- Reimagined](https://open.spotify.com/album/5j5TZkyN9mInybuLApPerb) | 3:26 | 2024-10-04 | 2024-10-12 |
 | [Nothing But Goodness](https://open.spotify.com/track/4DU8Zt3YZe75FHrcQj5QIu) | [Anchored Music](https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Nothing But Goodness](https://open.spotify.com/album/2QGV907RuLEKx6ynC8jjfW) | 8:42 | 2024-01-12 | 2024-01-27 |
 | [Nothing But Goodness \(Studio Version\)](https://open.spotify.com/track/33ASvfit1pt8Xcb1w4EDHl) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Nothing But Goodness \(Studio Version\)](https://open.spotify.com/album/3uKklbkdo89UZPAkegFUM9) | 3:58 | 2025-05-23 | 2025-05-31 |
-| [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/6zMKXgzvuhDvGQC0G2tBfQ) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 | 2025-08-01 |  |
+| [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/6zMKXgzvuhDvGQC0G2tBfQ) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 | 2025-08-01 | 2025-08-10 |
 | [Nothing but the Blood](https://open.spotify.com/track/6kKpPSjFUQHO4RdYKBuPVV) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Nothing but the Blood](https://open.spotify.com/album/17JQNF1nyHPSSDNjx1CbYE) | 2:55 | 2025-03-14 | 2025-03-29 |
 | [Nothing But The Blood](https://open.spotify.com/track/7jclwK9tMrEAbTskC7E4t3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Nothing But The Blood](https://open.spotify.com/album/2IJcWZ8vDouHlOD61LEb4b) | 3:07 | 2023-08-18 | 2023-09-02 |
 | [Nothing But The Blood](https://open.spotify.com/track/5TpY5xqQ6YI00qx3LvbusQ) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Nothing But The Blood](https://open.spotify.com/album/4EnOSdNsXJiKiIJAAv5wgH) | 2:33 | 2023-02-24 | 2023-03-04 |
@@ -7365,6 +7365,7 @@
 | [Seeking](https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Seeking](https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf) | 3:34 | 2023-09-01 | 2023-09-16 |
 | [Seen](https://open.spotify.com/track/2Sh77sFKOwDBGb7D4eziax) | [Anna Sailors](https://open.spotify.com/artist/6YpIY1C8gCb1SQNnpVq4BY) | [Seen](https://open.spotify.com/album/2pXjNdNgEAcCIpwri8Iksa) | 7:13 | 2024-02-09 | 2024-02-24 |
 | [Segunda Vida](https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv) | [Kingdom & Culture](https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Segunda Vida](https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD) | 2:37 | 2025-08-08 |  |
+| [SELAH](https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SELAH](https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI) | 3:22 | 2025-08-08 |  |
 | [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2022-05-20 | 2022-06-04 |
 | [Send a Revival \- Remix](https://open.spotify.com/track/4xanOo9w1qEAvrW7pdeVM2) | [Keith Wonderboy Johnson](https://open.spotify.com/artist/2DueTnHVGO5j6yZvfj3Xyy) | [Restructure, Renew & Reunion](https://open.spotify.com/album/5ik7CpgiMFUYSiMHDHIX2U) | 7:36 | 2022-04-29 | 2022-05-14 |
 | [Send It Down](https://open.spotify.com/track/5tVIywhdtlrN5UOI5kJVFY) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Send It Down](https://open.spotify.com/album/2UDNaZGx94UHwD9yeGkx9h) | 4:20 | 2023-10-27 | 2023-11-11 |

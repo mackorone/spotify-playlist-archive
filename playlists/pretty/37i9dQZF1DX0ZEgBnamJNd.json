@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 51827,
+  "num_followers": 51835,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 180055,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2021-03-29 13:28:49",
@@ -925,38 +925,6 @@
       "url": "https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v"
     },
     {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Come See About Me",
-      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "The Beatles 1967 - 1970 (Remastered)",
-        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 431333,
-      "name": "Hey Jude - Remastered 2009",
-      "url": "https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"
-    },
-    {
       "added_at": "2020-08-04 16:10:54",
       "album": {
         "name": "Then Play On (2013 Remaster; Expanded Edition)",
@@ -975,18 +943,34 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+        "name": "The Beatles 1967 - 1970 (Remastered)",
+        "url": "https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+      "duration_ms": 431333,
+      "name": "Hey Jude - Remastered 2009",
+      "url": "https://open.spotify.com/track/3m7V717IKZqZLW5qUIOxdD"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Come See About Me",
+      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1003,6 +987,22 @@
       "duration_ms": 182666,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
-        "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
-      },
-      "artists": [
-        {
-          "name": "Anneke Gronloh",
-          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "Brandend Zand",
-      "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
         "name": "B-A-B-Y",
         "url": "https://open.spotify.com/album/2EVSSXijDa2zw8m4mJbpyJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 173453,
       "name": "B-A-B-Y (From \"Baby Driver\")",
       "url": "https://open.spotify.com/track/3t7VYEzgcTDWXpEmHQAOVs"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
+        "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
+        "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
+      },
+      "artists": [
+        {
+          "name": "Anneke Gronloh",
+          "url": "https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Brandend Zand",
+      "url": "https://open.spotify.com/track/1MPsWWqqxot17KwgtMm6Xr"
     },
     {
       "added_at": "2020-04-20 05:39:13",

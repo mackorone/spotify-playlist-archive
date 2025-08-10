@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 14 min
+63 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Learn The Hard Way](https://open.spotify.com/track/3xB2R2tf0T2TXaB4AWoPjT) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/5FjaXd6Hjfzta2vJiPB7ra) | 2:48 | 2025-04-27 |  |
 | [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 | 2024-07-04 |  |
 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 | 2023-02-08 |  |
+| [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Louisiana Stick \(with Marcus King\)](https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF) | 2:28 | 2025-08-10 |  |
 | [Made That Way](https://open.spotify.com/track/2k4Chj6SG01uoySJzBK1lO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:53 | 2023-02-08 | 2024-06-01 |
 | [Midnight Crisis](https://open.spotify.com/track/7xIfvgLl8E4UGE8BAt0oA3) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Midnight Crisis](https://open.spotify.com/album/640Piuf9BkOLph0xUd98tc) | 3:23 | 2023-02-08 | 2023-03-10 |
 | [Money Isn't Real](https://open.spotify.com/track/1rNglbtKiHh3NuDvN7l3TV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Money Isn't Real](https://open.spotify.com/album/3GKMoWHdXCQoivyqQc2Pft) | 3:15 | 2023-02-08 | 2023-03-29 |

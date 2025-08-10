@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232127,
+  "num_followers": 232171,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-06-13 14:34:50",
       "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "Feijoada Completa",
-      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
-    },
-    {
-      "added_at": "2025-06-13 14:34:50",
-      "album": {
         "name": "Gostoso Veneno",
         "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 195493,
       "name": "Gostoso Veneno",
       "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+    },
+    {
+      "added_at": "2025-06-13 14:34:50",
+      "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "Feijoada Completa",
+      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
     },
     {
       "added_at": "2025-06-13 14:34:50",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-06-13 14:34:50",
       "album": {
+        "name": "Sambista Perfeito",
+        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Sambista Perfeito",
+      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
+    },
+    {
+      "added_at": "2025-06-13 14:34:50",
+      "album": {
         "name": "Argumento",
         "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 216933,
       "name": "Menina Voc\u00ea Bebeu",
       "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
-    },
-    {
-      "added_at": "2025-06-13 14:34:50",
-      "album": {
-        "name": "Sambista Perfeito",
-        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Sambista Perfeito",
-      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
     },
     {
       "added_at": "2025-06-13 14:34:50",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-06-13 14:34:50",
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
-      },
-      "artists": [
-        {
-          "name": "Adoniran Barbosa",
-          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Saudosa Maloca",
-      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
-    },
-    {
-      "added_at": "2025-06-13 14:34:50",
-      "album": {
         "name": "De M\u00e3os Dadas",
         "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 174000,
       "name": "Promessa",
       "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
+    },
+    {
+      "added_at": "2025-06-13 14:34:50",
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
     },
     {
       "added_at": "2025-06-13 14:34:50",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-06-13 14:34:50",
       "album": {
-        "name": "+ 100",
-        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
-      },
-      "artists": [
-        {
-          "name": "Casuarina",
-          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 151900,
-      "name": "Heran\u00e7a de Partideiro",
-      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
-    },
-    {
-      "added_at": "2025-06-13 14:34:50",
-      "album": {
         "name": "Na Veia",
         "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 188058,
       "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
       "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
+    },
+    {
+      "added_at": "2025-06-13 14:34:50",
+      "album": {
+        "name": "+ 100",
+        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
+      },
+      "artists": [
+        {
+          "name": "Casuarina",
+          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "duration_ms": 151900,
+      "name": "Heran\u00e7a de Partideiro",
+      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
     },
     {
       "added_at": "2025-06-13 14:34:50",

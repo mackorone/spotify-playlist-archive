@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 472248,
+  "num_followers": 472816,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-07-14 08:19:39",
       "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
+    },
+    {
+      "added_at": "2025-07-14 08:19:39",
+      "album": {
         "name": "Baden Powell - A B\u00ean\u00e7\u00e3o Baden Powell",
         "url": "https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 110811,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/3fBxGMlrjOhQ2NOiKfrRtf"
-    },
-    {
-      "added_at": "2025-07-14 08:19:39",
-      "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 139253,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
     },
     {
       "added_at": "2025-07-14 08:19:39",

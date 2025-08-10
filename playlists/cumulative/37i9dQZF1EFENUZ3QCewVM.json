@@ -1559,24 +1559,6 @@
     },
     {
       "album": {
-        "name": "Lost Your Faith (SONIKKU Remix)",
-        "url": "https://open.spotify.com/album/40H1SwsED1PpLUENraHydm"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "date_added": "2025-04-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193920,
-      "name": "Lost Your Faith",
-      "url": "https://open.spotify.com/track/3f7tDOrVlqeyqIvanQuSbw"
-    },
-    {
-      "album": {
         "name": "Lost Your Faith",
         "url": "https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd"
       },
@@ -1592,6 +1574,24 @@
       "duration_ms": 193920,
       "name": "Lost Your Faith",
       "url": "https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm"
+    },
+    {
+      "album": {
+        "name": "Lost Your Faith (SONIKKU Remix)",
+        "url": "https://open.spotify.com/album/40H1SwsED1PpLUENraHydm"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2025-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194153,
+      "name": "Lost Your Faith",
+      "url": "https://open.spotify.com/track/3f7tDOrVlqeyqIvanQuSbw"
     },
     {
       "album": {

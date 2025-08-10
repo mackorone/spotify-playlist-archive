@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG?si=qdILn\_9sT260KeE\_LkwZuA">Gemma Griffiths</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,998 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,002 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

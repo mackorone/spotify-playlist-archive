@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Karma K, FOCUS, Pierrii en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,738 likes - 66 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,737 likes - 66 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 6 | [CONSISTENT](https://open.spotify.com/track/2ooZJKlbugIWco7jDtFg4u) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [CONSISTENT](https://open.spotify.com/album/1opbKFBxtiSeiUurlVzYvR) | 2:46 |
 | 7 | [Chardonnay](https://open.spotify.com/track/3YZKZksIl2jQuFZFW9Jkcl) | [Ibrah](https://open.spotify.com/artist/3YeXFlCeJsYudHaerLcLkz), [Givi](https://open.spotify.com/artist/2pR2mSn8yL7BUuaCrTbuwc) | [Chardonnay](https://open.spotify.com/album/68SJbVrRlITUArMOcY9jrQ) | 2:12 |
 | 8 | [DE ZON SCHIJNT](https://open.spotify.com/track/0SCoB0HWVWJZRHx1debCi4) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [DE ZON SCHIJNT](https://open.spotify.com/album/7Lsmz2X42D66Cm1iIfki8a) | 2:16 |
-| 9 | [STRIPPERS ‘N MODELS \(feat\. KAY1\)](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS \(feat\. KAY1\)](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 |
+| 9 | [STRIPPERS ‘N MODELS](https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [KAY1](https://open.spotify.com/artist/0tk7l7SN3DymNNVoIsZUcP) | [STRIPPERS ‘N MODELS](https://open.spotify.com/album/6kJzI07r3Eezc4H93ddE91) | 3:24 |
 | 10 | [HAKIMI](https://open.spotify.com/track/19UkD9gQsKyFGNIdW1SwVF) | [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [HAKIMI](https://open.spotify.com/album/532Xd7ZKo2gXyBYxU2y7U2) | 2:13 |
 | 11 | [7 TIENTJES](https://open.spotify.com/track/6TIh2IzhNqMHdr206dPeJ6) | [Riico](https://open.spotify.com/artist/35Q9Jkoyt1TnlzDzKIrRoP), [MORAAAL](https://open.spotify.com/artist/6R1Q2sS3e5Kn1hpReULtQU) | [7 TIENTJES](https://open.spotify.com/album/6gumy6efHTApp4jB668b43) | 1:30 |
 | 12 | [Reputatie](https://open.spotify.com/track/6GswjjMeNBVHpk57bw6lLq) | [YS](https://open.spotify.com/artist/0tJ0McP1fjNvSzlGAVtMfc), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Reputatie](https://open.spotify.com/album/3G8ZsWOkfxEWkxSqvLq5Cp) | 2:11 |

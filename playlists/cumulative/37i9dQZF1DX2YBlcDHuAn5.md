@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-239 songs - 14 hr 10 min
+240 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Easy](https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Easy](https://open.spotify.com/album/10CEYxX8uDXJHef6ANwnlF) | 3:16 | 2024-07-04 | 2025-01-17 |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-05-22 |  |
 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2023-09-07 | 2024-09-20 |
-| [Eye of the Storm](https://open.spotify.com/track/1CAc81sLJsmg3pxC2P9raq) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4), [Jop Dorris](https://open.spotify.com/artist/5t2SmFNNI1Si5LssCNsrS3) | [Eye of the Storm](https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp) | 3:45 | 2025-04-25 |  |
+| [Eye of the Storm](https://open.spotify.com/track/1CAc81sLJsmg3pxC2P9raq) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4), [Jop Dorris](https://open.spotify.com/artist/5t2SmFNNI1Si5LssCNsrS3) | [Eye of the Storm](https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp) | 3:45 | 2025-04-25 | 2025-08-10 |
 | [Eyes On The Road](https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Eyes On The Road](https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue) | 3:10 | 2023-04-27 | 2023-05-01 |
 | [Factory](https://open.spotify.com/track/0P9JBppEaWN9m6yLW0wCBe) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Factory](https://open.spotify.com/album/5qyjhFDGMggOa3rP493M7u) | 3:20 | 2023-08-17 | 2025-01-17 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-01 | 2024-06-28 |
@@ -243,6 +243,7 @@
 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 | 2023-02-23 | 2023-10-06 |
 | [Wild Roses](https://open.spotify.com/track/18d5dlhKtJRqNBxNrB4gWU) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Wild Roses](https://open.spotify.com/album/2k6LkrFt3pS40RSvEb5Ntm) | 3:00 | 2024-06-27 | 2025-02-04 |
 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 | 2025-04-17 |  |
+| [Will I Ever Love Again \(feat\. Christina Barrett\)](https://open.spotify.com/track/6sKBBcC2A2LHQmu818UPdB) | [Blue Hue](https://open.spotify.com/artist/06Hn5bMvONssasZlSCJ7fU), [Christina Barrett](https://open.spotify.com/artist/0wCF391GJXKDyaKZcrvrEM) | [Birdsongs \(feat\. Christina Barrett\)](https://open.spotify.com/album/4ukEFrB5vzdV7UTnytGUgq) | 3:06 | 2025-08-09 |  |
 | [Win My Heart](https://open.spotify.com/track/04vYVXnigtNtKDfHtjLwS4) | [Mycah](https://open.spotify.com/artist/11LEf5PXavWVHgzSLXcaeV) | [Win My Heart](https://open.spotify.com/album/5rtIZDLfrJ5k2mtnvcaPu1) | 3:50 | 2024-09-19 | 2024-11-09 |
 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 | 2025-04-17 |  |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2023-02-23 | 2023-09-22 |

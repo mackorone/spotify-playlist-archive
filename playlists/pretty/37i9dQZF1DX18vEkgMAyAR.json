@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68484,
+  "num_followers": 68481,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -1007,30 +1007,6 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Leave The Door Open",
-        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 242096,
-      "name": "Leave The Door Open",
-      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
         "name": "Set Me Free (feat. MAX)",
         "url": "https://open.spotify.com/album/7Ll6kSs703zrmm60mTvw7v"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 193364,
       "name": "Set Me Free (feat. MAX)",
       "url": "https://open.spotify.com/track/1bmvJkAA8Yz9bv6y3WOj3U"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
     },
     {
       "added_at": "2024-05-10 06:34:25",

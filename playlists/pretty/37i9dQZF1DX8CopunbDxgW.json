@@ -1,6 +1,6 @@
 {
   "description": "New tune from Sam Gellaitry! \u2764\ufe0f it's all the best indie dance tracks of the moment",
-  "num_followers": 885567,
+  "num_followers": 885494,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAMbM+YhPSmNC2EEZNuP0PXv1zDF4",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200351,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+    },
     {
       "added_at": "2025-07-25 04:00:54",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2VnjDDXPUaTwIwt3AkmwZO"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 297943,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/179sUkLRDlrfmRAITyK456"
+    },
+    {
       "added_at": "2025-05-16 04:00:37",
       "album": {
         "name": "13 Months of Sunshine",
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/3q8mXT1racKde1h8zHY1ko"
     },
     {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
+    },
+    {
       "added_at": "2025-07-25 04:00:54",
       "album": {
         "name": "Hold Me",
@@ -77,20 +125,20 @@
       "url": "https://open.spotify.com/track/2JpFgRepWLFpY7Lrcd76nU"
     },
     {
-      "added_at": "2025-08-01 04:00:40",
+      "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Ma Sei Fuori",
-        "url": "https://open.spotify.com/album/7k5omlUhD5OYKL4au8Tbkn"
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/64socxGZJua0o3Nris1IXj"
       },
       "artists": [
         {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
         }
       ],
-      "duration_ms": 179789,
-      "name": "Ma Sei Fuori",
-      "url": "https://open.spotify.com/track/0VAkPZUjFxBMhIXHNE9Fai"
+      "duration_ms": 214000,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5wivAogdJSDWlnNHc1HghA"
     },
     {
       "added_at": "2025-06-20 04:00:52",
@@ -185,6 +233,38 @@
       "url": "https://open.spotify.com/track/6WbD3aKWfbOQNsrShunW6o"
     },
     {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "added_at": "2025-08-01 04:00:40",
+      "album": {
+        "name": "Ma Sei Fuori",
+        "url": "https://open.spotify.com/album/7k5omlUhD5OYKL4au8Tbkn"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "Ma Sei Fuori",
+      "url": "https://open.spotify.com/track/0VAkPZUjFxBMhIXHNE9Fai"
+    },
+    {
       "added_at": "2025-07-25 16:45:34",
       "album": {
         "name": "Down Like This",
@@ -269,6 +349,22 @@
       "url": "https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q"
     },
     {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "When I Call You",
+        "url": "https://open.spotify.com/album/51rO61BhFq1hWlAT3VR8NB"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "When I Call You",
+      "url": "https://open.spotify.com/track/7DE1A26mXzpWU1zguzRIMB"
+    },
+    {
       "added_at": "2025-06-27 04:00:20",
       "album": {
         "name": "Hypnotised",
@@ -287,6 +383,26 @@
       "duration_ms": 202787,
       "name": "Hypnotised (feat. Linden Jay)",
       "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Echoes of Dolphins",
+        "url": "https://open.spotify.com/album/2F0YGkZ2h2z3xtIG2OJarP"
+      },
+      "artists": [
+        {
+          "name": "Shubostar",
+          "url": "https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv"
+        },
+        {
+          "name": "Captain Mustache",
+          "url": "https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Echoes of Dolphins",
+      "url": "https://open.spotify.com/track/5mPvgiqs9MV2p2YDRAqqB1"
     },
     {
       "added_at": "2025-08-01 04:00:40",
@@ -449,6 +565,26 @@
       "url": "https://open.spotify.com/track/2pST9DiESfrGlgErIb0QNw"
     },
     {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/0zXkNrPiubPQ6xuBBN0ssu"
+      },
+      "artists": [
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 179949,
+      "name": "She's A Director",
+      "url": "https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3"
+    },
+    {
       "added_at": "2025-06-13 05:00:42",
       "album": {
         "name": "24h In A Disco (REFRESHED)",
@@ -471,6 +607,34 @@
       "duration_ms": 171839,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Feel The Beat (feat. Baccus)",
+        "url": "https://open.spotify.com/album/0jglKbPABd94nrcY5RcyPa"
+      },
+      "artists": [
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Baccus",
+          "url": "https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Feel The Beat (feat. Baccus)",
+      "url": "https://open.spotify.com/track/30rKHOBVqZCTGlZ1JAG86C"
     },
     {
       "added_at": "2025-07-11 04:00:25",
@@ -587,26 +751,6 @@
       "duration_ms": 236659,
       "name": "Vital Loop",
       "url": "https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht"
-    },
-    {
-      "added_at": "2025-07-11 04:00:25",
-      "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/1ywWvvGKD1tr5CysgqTyDD"
-      },
-      "artists": [
-        {
-          "name": "Gilligan Moss",
-          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/58FAQGIDRMXK5AsxJu9YNp"
-        }
-      ],
-      "duration_ms": 183130,
-      "name": "Who Loves You",
-      "url": "https://open.spotify.com/track/0c57OvZwYt8JpvlGYVfJu6"
     },
     {
       "added_at": "2025-07-11 04:00:25",
@@ -1233,22 +1377,6 @@
       "url": "https://open.spotify.com/track/5XRSepJrV6m6Y9aqKkgSyQ"
     },
     {
-      "added_at": "2025-06-13 05:00:42",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/7hR8EcMSuCVQtZWERtadDR"
-      },
-      "artists": [
-        {
-          "name": "Cameo Blush",
-          "url": "https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/7n99ugGKb1kbBCIOODKtHd"
-    },
-    {
       "added_at": "2025-06-27 04:00:20",
       "album": {
         "name": "Funky Dunk",
@@ -1497,22 +1625,6 @@
       "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
     },
     {
-      "added_at": "2025-06-06 04:00:24",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
-    },
-    {
       "added_at": "2025-05-13 14:39:18",
       "album": {
         "name": "Sailing Away",
@@ -1597,38 +1709,6 @@
       "url": "https://open.spotify.com/track/2nQuAbaYOF040MskXTwUTs"
     },
     {
-      "added_at": "2025-05-23 04:00:52",
-      "album": {
-        "name": "Aalto",
-        "url": "https://open.spotify.com/album/5ypNIcRrZrHFsREMTw1B6z"
-      },
-      "artists": [
-        {
-          "name": "Mont Duamel",
-          "url": "https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB"
-        }
-      ],
-      "duration_ms": 202788,
-      "name": "Aalto",
-      "url": "https://open.spotify.com/track/6sSYTxxoY7l2vVXFwADBWT"
-    },
-    {
-      "added_at": "2025-04-11 04:00:28",
-      "album": {
-        "name": "Modern Life",
-        "url": "https://open.spotify.com/album/5sejrpX8MyaFzQCox0cni0"
-      },
-      "artists": [
-        {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 169464,
-      "name": "Modern Life",
-      "url": "https://open.spotify.com/track/2bicTvHQXudRYQQSQcYRsS"
-    },
-    {
       "added_at": "2025-05-09 04:33:23",
       "album": {
         "name": "Marseille",
@@ -1669,22 +1749,6 @@
       "url": "https://open.spotify.com/track/0mkqkp5vBDrvfBvcAMADvW"
     },
     {
-      "added_at": "2025-03-28 04:00:46",
-      "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/0nKXBTOEQKcruuAky2rWDu"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 198455,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1jd6IJod2fzfi5aR2A5cEk"
-    },
-    {
       "added_at": "2025-05-16 04:00:37",
       "album": {
         "name": "Always Moving (Streaming Version)",
@@ -1703,22 +1767,6 @@
       "duration_ms": 269257,
       "name": "Electrical",
       "url": "https://open.spotify.com/track/5CMkxQ2oB8xBcdeCeoyuUe"
-    },
-    {
-      "added_at": "2025-04-18 04:00:55",
-      "album": {
-        "name": "Never Kissed an Angel",
-        "url": "https://open.spotify.com/album/5PMWHZgRvMNlfXn330us4K"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Never Kissed an Angel",
-      "url": "https://open.spotify.com/track/5hPTPgKVnHeX5Fx4BEwJ3f"
     },
     {
       "added_at": "2025-05-09 04:33:23",
@@ -1761,60 +1809,20 @@
       "url": "https://open.spotify.com/track/6jBwae7P8LQKjEvdaddgLU"
     },
     {
-      "added_at": "2025-04-18 04:00:55",
+      "added_at": "2025-05-23 04:00:52",
       "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/0n50MmQVlRojX3s8IZfbDe"
+        "name": "Aalto",
+        "url": "https://open.spotify.com/album/5ypNIcRrZrHFsREMTw1B6z"
       },
       "artists": [
         {
-          "name": "Arpy Brown",
-          "url": "https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V"
+          "name": "Mont Duamel",
+          "url": "https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB"
         }
       ],
-      "duration_ms": 214485,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0raEo5QTDeP4Iwy2P5BRn8"
-    },
-    {
-      "added_at": "2025-03-21 04:01:00",
-      "album": {
-        "name": "You'll Come Around",
-        "url": "https://open.spotify.com/album/1d3NVTfey783BopKFmoUVv"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "James Alexander Bright",
-          "url": "https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "You'll Come Around",
-      "url": "https://open.spotify.com/track/3djxXHSYegfcifFHNhGoP9"
-    },
-    {
-      "added_at": "2025-02-21 05:00:44",
-      "album": {
-        "name": "Know You Love Me",
-        "url": "https://open.spotify.com/album/6KwQvGbg3Zg4fP7A1DX8aw"
-      },
-      "artists": [
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        },
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "Know You Love Me",
-      "url": "https://open.spotify.com/track/0faiF7LFWA3ZArqE2dD0jh"
+      "duration_ms": 202788,
+      "name": "Aalto",
+      "url": "https://open.spotify.com/track/6sSYTxxoY7l2vVXFwADBWT"
     }
   ],
   "unique_name": "metropolis",

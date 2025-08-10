@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-05",
+      "date_removed": null,
       "duration_ms": 179016,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/31yljlcH1pEm4Dz85D1KGC"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 147702,
       "name": "Cherry Vanilli",
       "url": "https://open.spotify.com/track/5EUAGkEGtYhk96DHhR3Ghj"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 127006,
       "name": "Drank & Drugs",
       "url": "https://open.spotify.com/track/1oM7z8Rbdx7WohbQIgAcnq"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 172991,
       "name": "Gangsterchick",
       "url": "https://open.spotify.com/track/3w4LWcb5smE2GUlVOEAhF8"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -2312,6 +2312,24 @@
       "duration_ms": 185942,
       "name": "stay",
       "url": "https://open.spotify.com/track/56PS9rUrkwa1TYG6l1Vb0v"
+    },
+    {
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
       "album": {

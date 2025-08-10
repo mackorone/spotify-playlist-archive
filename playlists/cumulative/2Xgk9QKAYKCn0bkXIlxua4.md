@@ -4,7 +4,7 @@
 
 > 
 
-430 songs - 1 day 4 hr 41 min
+431 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 | 2022-12-07 |  |
 | [Wish I Never Met You \- Prison Tapes](https://open.spotify.com/track/7MOjhqpSpGkeRyT4agpg12) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wish I Never Met You \(Prison Tapes\)](https://open.spotify.com/album/4TLl0R69HVTnS5FWdZ0fOQ) | 3:44 | 2025-06-13 |  |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-03-12 |  |
+| [Would I Lie To You? \- Album Edit](https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You?](https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR) | 3:43 | 2025-08-09 |  |
 | [WY@](https://open.spotify.com/track/1aa4wUXY3Bkc1uAYSi1W2z) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/7lEvBQJNMgRGNaILZdeYkV) | 3:28 | 2023-09-22 |  |
 | [XSCAPE](https://open.spotify.com/track/0jNFDcGAXPs5ahngmD5R6n) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 2:36 | 2021-12-16 |  |
 | [YES IT IS](https://open.spotify.com/track/2JGzgavAN2NblF8nQRmcHT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:48 | 2025-06-13 |  |

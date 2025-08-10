@@ -1,6 +1,6 @@
 {
   "description": "The best in blues right now. Cover: Buddy Guy",
-  "num_followers": 140541,
+  "num_followers": 140575,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "AAAAABGCLjjmHmNsNOzTp+L9AUDuXuTw",
   "tracks": [
+    {
+      "added_at": "2025-08-08 04:00:33",
+      "album": {
+        "name": "Not Defeated",
+        "url": "https://open.spotify.com/album/4DAXqEoaWtsawroUt0mx6b"
+      },
+      "artists": [
+        {
+          "name": "Angelique Francis",
+          "url": "https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 270500,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/2Wr9h3vLxezbmjSe7PcKBQ"
+    },
     {
       "added_at": "2025-08-01 04:00:22",
       "album": {
@@ -1739,22 +1759,6 @@
       "duration_ms": 228904,
       "name": "Out Of Sight",
       "url": "https://open.spotify.com/track/3s6cuxFNe2so5aX2NTAM6Q"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/6TylTdm2xJghIX9o9sBp1Y"
-      },
-      "artists": [
-        {
-          "name": "Judith Hill",
-          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
-        }
-      ],
-      "duration_ms": 255084,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/0p0F9JbSXgllWzOAIeje7Y"
     },
     {
       "added_at": "2023-10-06 04:01:00",

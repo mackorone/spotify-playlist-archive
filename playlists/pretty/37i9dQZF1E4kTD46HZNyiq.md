@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 > With Laureline, The Wild Wind, Rhineland and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [hey, u up?](https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [III](https://open.spotify.com/album/2uo26B9q3QJwI6ihiQDJvm) | 4:12 |
 | 50 | [Entertainment](https://open.spotify.com/track/7iw9cLtkxLkZgHghAIp33A) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Entertainment](https://open.spotify.com/album/4M1aekfaXqqSG3TC11R0Nq) | 2:47 |
 
-Snapshot ID: `aJaz6QAAAACJ1x+gK5F+YZk0BTGyUnDR`
+Snapshot ID: `aJgbDAAAAADVYwVfkwdkkFDPHsXQvNY+`

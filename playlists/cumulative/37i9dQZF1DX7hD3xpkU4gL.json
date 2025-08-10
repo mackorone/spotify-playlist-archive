@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Con Todos Mis Respetos",
+        "url": "https://open.spotify.com/album/3b3yLF0wVJlkPUgLRRAPkP"
+      },
+      "artists": [
+        {
+          "name": "Miguel Campello",
+          "url": "https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248298,
+      "name": "Me Quedo Contigo",
+      "url": "https://open.spotify.com/track/5D0JfdpGhV0zLQicft0rE2"
+    },
+    {
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 170172,
       "name": "Que Me Lleve el Aire",
       "url": "https://open.spotify.com/track/5ticDLxAM5Y5r0mkGO1AHs"

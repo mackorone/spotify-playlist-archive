@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  ONSE Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,443 likes - 198 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,461 likes - 198 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

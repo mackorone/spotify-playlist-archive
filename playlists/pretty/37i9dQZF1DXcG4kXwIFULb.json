@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 206884,
+  "num_followers": 207012,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Permutation",
-        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
-      },
-      "artists": [
-        {
-          "name": "Amon Tobin",
-          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
-        }
-      ],
-      "duration_ms": 282573,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Cold Water Music",
         "url": "https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 344360,
       "name": "Cold Water Music",
       "url": "https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Permutation",
+        "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
+      },
+      "artists": [
+        {
+          "name": "Amon Tobin",
+          "url": "https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO"
+        }
+      ],
+      "duration_ms": 282573,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Electric Lazyland",
+        "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 352000,
+      "name": "Electric Lazyland",
+      "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 271520,
       "name": "In The Waiting Line",
       "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Electric Lazyland",
-        "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
-      },
-      "artists": [
-        {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
-        }
-      ],
-      "duration_ms": 352000,
-      "name": "Electric Lazyland",
-      "url": "https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 233226,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/6LWpqZwfSS8X4nmqS9g44S"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 422000,
       "name": "Inside My Mind (Blue Skies) - Elephant Remix",
       "url": "https://open.spotify.com/track/2ZLfTG0D2CVl773CLfNGbO"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Psyence Fiction",
-        "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
       },
       "artists": [
         {
-          "name": "UNKLE",
-          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
-        },
-        {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
         }
       ],
-      "duration_ms": 533013,
-      "name": "Lonely Soul",
-      "url": "https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX"
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1615,6 +1611,26 @@
       "duration_ms": 259106,
       "name": "Riders On the Storm",
       "url": "https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Psyence Fiction",
+        "url": "https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY"
+      },
+      "artists": [
+        {
+          "name": "UNKLE",
+          "url": "https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC"
+        },
+        {
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+        }
+      ],
+      "duration_ms": 533013,
+      "name": "Lonely Soul",
+      "url": "https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1667,22 +1683,6 @@
       "duration_ms": 337506,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/2pLBnncte8HnrPKM2D6ag5"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "There Is Love in You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6XoxeeeyZgzqUMzUBUSDG9"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 239432,
-      "name": "Angel Echoes",
-      "url": "https://open.spotify.com/track/0Zuw3doXy3H4HCfyb9cMK3"
     }
   ],
   "unique_name": "Chillout Classics",

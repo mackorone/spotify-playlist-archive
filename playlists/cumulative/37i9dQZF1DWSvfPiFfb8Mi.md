@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-395 songs - 1 day 1 hr 53 min
+396 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [NEVER ALONE](https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Alioth](https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF) | [NEVER ALONE](https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm) | 3:15 | 2024-06-17 |  |
 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 | 2024-01-26 |  |
 | [Never Let It Go](https://open.spotify.com/track/1IwaKRghYbdynuLDiCbemP) | [Final Djs](https://open.spotify.com/artist/591Lye06icbAJuSGpZ9hBa) | [Never Let It Go](https://open.spotify.com/album/1PzFixM8RxL243yEs2kd9Q) | 2:38 | 2023-05-19 | 2025-06-24 |
-| [New Direction](https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [New Direction](https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8) | 4:17 | 2025-03-28 |  |
+| [New Direction](https://open.spotify.com/track/13pCHTVZCepwmAF3lXR3Jd) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [New Direction](https://open.spotify.com/album/5bf5gnimLUAysx41VMNiV8) | 4:17 | 2025-03-28 | 2025-08-10 |
 | [No More Stress](https://open.spotify.com/track/6WVaITvyrPXuDjVthu95As) | [NOCUI](https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV) | [No More Stress](https://open.spotify.com/album/1duw7hSkfz60Ar7A5iQkyl) | 3:29 | 2024-11-15 | 2025-01-14 |
 | [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 | 2025-05-02 |  |
 | [Nothing Is Forever](https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Nothing Is Forever](https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9) | 3:32 | 2025-07-11 |  |
@@ -349,6 +349,7 @@
 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 | 2023-10-27 | 2025-05-17 |
 | [That's Right \- Edit](https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [That's Right \(Edit\)](https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z) | 4:36 | 2024-03-15 |  |
 | [The Baddest](https://open.spotify.com/track/6rcITsBAtOZV2m7p7faldT) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [The Baddest](https://open.spotify.com/album/6FDTsaviz1llJDeaAT58Ys) | 3:15 | 2023-05-19 | 2023-06-11 |
+| [The Bay \- Purple Disco Machine Edit](https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [The Bay \(Purple Disco Machine Remix\)](https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q) | 3:43 | 2025-08-08 |  |
 | [The Best Rapper Alive](https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [The Best Rapper Alive](https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm) | 8:07 | 2021-07-24 | 2025-07-19 |
 | [The Road To Love \- Session Victim Remix](https://open.spotify.com/track/4YOixxEQ37yJAk8oCeayMt) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Road To Love \(Session Victim Remix\)](https://open.spotify.com/album/1ZqSIQICM4yNHYiH9axKKG) | 7:15 | 2024-05-03 | 2024-05-06 |
 | [The Sea](https://open.spotify.com/track/0vDyt6VTJtFzyfnE9il1pf) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT) | [The Sea](https://open.spotify.com/album/5GutsKyXeAmABV8n6xM3Ea) | 3:14 | 2021-07-24 | 2023-05-20 |

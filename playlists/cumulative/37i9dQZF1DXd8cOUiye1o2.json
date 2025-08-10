@@ -2857,6 +2857,44 @@
     },
     {
       "album": {
+        "name": "Oh Mama! TETEMA",
+        "url": "https://open.spotify.com/album/4G9k7MbNWjUNT6Zlr4p6HA"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "The Plugz Europe",
+          "url": "https://open.spotify.com/artist/63qgmJRhJ07e8O9ez4IYql"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Oh Mama! TETEMA",
+      "url": "https://open.spotify.com/track/6LWd4TAkJt6kfHIQatolHP"
+    },
+    {
+      "album": {
         "name": "Papa",
         "url": "https://open.spotify.com/album/74xSHyU3VN8I7z1JtiniAc"
       },
@@ -4420,7 +4458,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 101721,
       "name": "Zaroori",
       "url": "https://open.spotify.com/track/639mTbZQtyB943hXWueUm7"

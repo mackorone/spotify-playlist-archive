@@ -1,29 +1,13 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15604,
+  "num_followers": 15611,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAACKz762E+vxieN1SfLCQOcB",
+  "snapshot_id": "aJU+AAAAAAD6c/NRK5vmvzqQrXJ28lgE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONE THING",
-        "url": "https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "ONE THING",
-      "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"
-    },
     {
       "added_at": null,
       "album": {
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ONE THING",
+        "url": "https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "ONE THING",
+      "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "It's You (feat. BIA)",
-      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
     },
     {
       "added_at": null,

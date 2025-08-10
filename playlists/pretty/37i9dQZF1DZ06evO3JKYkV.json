@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 76301,
+  "num_followers": 76314,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAC4qkOKRhHM/jJZcgHesyNf",
+  "snapshot_id": "aJU+AAAAAABLDyibX07xRmSi7XqVqMuA",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "IZ-US",
-      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 205186,
       "name": "Nanou2",
       "url": "https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "IZ-US",
+      "url": "https://open.spotify.com/track/6INSqTqDoz6ndc0oKTi0Sq"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xylem Tube EP",
-        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 286506,
-      "name": "Polynomial-C",
-      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
+      "duration_ms": 143880,
+      "name": "Jynweythek",
+      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+        "name": "Xylem Tube EP",
+        "url": "https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX"
       },
       "artists": [
         {
@@ -436,25 +436,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 143880,
-      "name": "Jynweythek",
-      "url": "https://open.spotify.com/track/3I0rWmF86CwQpajoZjkXtG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "4",
-      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
+      "duration_ms": 286506,
+      "name": "Polynomial-C",
+      "url": "https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Bbydhyonchord",
+      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Selected Ambient Works Volume II",
         "url": "https://open.spotify.com/album/2SZZihZiCsFo87NKxDfxlH"
       },
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 153320,
-      "name": "Bbydhyonchord",
-      "url": "https://open.spotify.com/track/0lLCH4mtQQYp6ASyJqhzgN"
+      "duration_ms": 217133,
+      "name": "4",
+      "url": "https://open.spotify.com/track/7yhDdQt66YaCfjlKjYjZKd"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 440333,
-      "name": "Blue Calx",
-      "url": "https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK"
+      "duration_ms": 459280,
+      "name": "Acrid Avid Jam Shred",
+      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 459280,
-      "name": "Acrid Avid Jam Shred",
-      "url": "https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs"
+      "duration_ms": 440333,
+      "name": "Blue Calx",
+      "url": "https://open.spotify.com/track/7cx5gNKRDzMfd5o9S6e9yK"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...I Care Because You Do",
-        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+        "name": "Blackbox Life Recorder 21f",
+        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 289693,
-      "name": "The Waxen Pith",
-      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
+      "duration_ms": 266558,
+      "name": "Blackbox Life Recorder 21f",
+      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "...I Care Because You Do",
+        "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 289693,
+      "name": "The Waxen Pith",
+      "url": "https://open.spotify.com/track/2O47kvC3i2H5u1SBSFU60B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blackbox Life Recorder 21f / in a room7 F760",
         "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 233755,
       "name": "in a room7 F760",
       "url": "https://open.spotify.com/track/3sFYzy26BTS3te7WV8QeLx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blackbox Life Recorder 21f",
-        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 266558,
-      "name": "Blackbox Life Recorder 21f",
-      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
     },
     {
       "added_at": null,

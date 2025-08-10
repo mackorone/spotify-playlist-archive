@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With After Cooking, winterburn, Leblanc and more
+> With After Cooking, winterburn, Birrd and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,074 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,076 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 | 49 | [Tesla](https://open.spotify.com/track/6I33IdXeXsU8anxBWIxSZO) | [Paul Sabin](https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S) | [Stalk 2 \(Original Series Soundtrack \- Saison 2\)](https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S) | 2:55 |
 | 50 | [Colours of Arps](https://open.spotify.com/track/4lzPDJEyZFpw7K8h5m2OWG) | [Eagles & Butterflies](https://open.spotify.com/artist/7lzrNOBAdfH8f4nVAWbRfk) | [Abstract](https://open.spotify.com/album/5HvMoKEq5es7VUTNjRTsDP) | 2:02 |
 
-Snapshot ID: `aJa7DwAAAABQpQiZxSGV6g61aqq+Qqxi`
+Snapshot ID: `aJgaxQAAAADPHYdjXQ8EHiqjWuinqWMX`

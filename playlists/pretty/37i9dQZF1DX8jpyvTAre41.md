@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: mgk
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,712 likes - 108 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,715 likes - 108 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

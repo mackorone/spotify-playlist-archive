@@ -166,6 +166,24 @@
     {
       "album": {
         "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp"
+    },
+    {
+      "album": {
+        "name": "El Cazador",
         "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
       },
       "artists": [
@@ -176,7 +194,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 174973,
       "name": "Cantarle a Ella",
       "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
@@ -328,6 +346,28 @@
       "duration_ms": 196040,
       "name": "Cumbia Vallenata",
       "url": "https://open.spotify.com/track/0Auf3tyYKtcf7tUX3K6kbH"
+    },
+    {
+      "album": {
+        "name": "Cumbia Vallenata (En Vivo)",
+        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217402,
+      "name": "Cumbia Vallenata - En Vivo",
+      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
     },
     {
       "album": {
@@ -1612,7 +1652,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 189933,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"

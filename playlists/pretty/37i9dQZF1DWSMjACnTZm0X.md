@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C?si=Ir\-jxYolQAa\_kEyVh8eDuQ">D'banj</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=MQIy0hxGSWSE56AjAIzpEg">DJ Maphorisa</a>, <a href="https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe?si=ddoaKh86SCanWqMsvMzAVg">DJ OBI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,236 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,237 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

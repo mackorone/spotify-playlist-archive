@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 360306,
+  "num_followers": 360370,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAA3xGaLR6avMDLCfiqllomF",
+  "snapshot_id": "aJU+AAAAAAAb7hrIeNcYYK3aZAB0Pani",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mariachi En Altos De Chav\u00f3n",
-        "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 475880,
-      "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
-      "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 245266,
       "name": "Voy a Ser",
       "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Mariachi En Altos De Chav\u00f3n",
+        "url": "https://open.spotify.com/album/0wcRCPlAtWszZ2QzRUnbpB"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 475880,
+      "name": "Medley Ranchero: Mi Talism\u00e1n/No Entiendo/Hechizo - Altos De Chav\u00f3n Live Version",
+      "url": "https://open.spotify.com/track/4Jw0iZI9fjtoKIHDDlkcEg"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 66258,
+  "num_followers": 66275,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAAj9aJliTPISOhFIW0hbVkT",
+  "snapshot_id": "aJU+AAAAAAAfkV/WFIKKpF/XhZN6FoWv",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
-        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
+        "name": "Una Historia M\u00e1s",
+        "url": "https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 169664,
-      "name": "Con Tu Imagen (EN VIVO DESDE EL DOMO CARE)",
-      "url": "https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP"
+      "duration_ms": 165355,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz"
     },
     {
       "added_at": null,
@@ -443,18 +435,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Historia M\u00e1s",
-        "url": "https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc"
+        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
+        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 165355,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz"
+      "duration_ms": 169664,
+      "name": "Con Tu Imagen (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las + Tocadas",
         "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 180860,
       "name": "El Corrido de Ramiro Quiroz",
       "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
     },
     {
       "added_at": null,

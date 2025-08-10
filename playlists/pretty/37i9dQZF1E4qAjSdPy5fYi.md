@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With STYXVII, UrvTek, Joshua Lanuarii and more
+> With STYXVII, Joshua Lanuarii, UrvTek and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 597 likes - 50 songs - 2 hr 10 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [FUKOUNA GIRL \- SPED UP](https://open.spotify.com/track/6iZn9g7wXyugUTuUSCgjSL) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN) | [FUKOUNA GIRL \(REMIX\)](https://open.spotify.com/album/4CzlyXXOI3kvMr890ZHjJk) | 3:17 |
 | 50 | [Who are you pretending to be?](https://open.spotify.com/track/69A4Q06Iti2SBP2bOr9keD) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:44 |
 
-Snapshot ID: `aJavhwAAAACn9QNNMvaoRc8eTK1a6h2I`
+Snapshot ID: `aJgWoAAAAABEUHmPo2wkx754heMl+UYz`

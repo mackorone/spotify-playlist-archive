@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 29982,
+  "num_followers": 29994,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAAEpnLc0sd6wbQhlYRLQta4",
+  "snapshot_id": "aJU+AAAAAADlL6qEshT44iWzxe53u+Go",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,26 @@
       "duration_ms": 218506,
       "name": "Para Que Baile Mi Pueblo - En Vivo",
       "url": "https://open.spotify.com/track/22Y5Bw87EUOdD4E72w2QK4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cumbia Vallenata (En Vivo)",
+        "url": "https://open.spotify.com/album/6lh0KAnbbfjKNROV6JStbH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Cumbia Vallenata - En Vivo",
+      "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
     },
     {
       "added_at": null,
@@ -387,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dias de Ayer",
-        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Algun D\u00eda",
-      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cu-Cu-Cu Cumbia!",
         "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
@@ -419,6 +423,22 @@
       "duration_ms": 228306,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dias de Ayer",
+        "url": "https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Algun D\u00eda",
+      "url": "https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7"
     },
     {
       "added_at": null,
@@ -507,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Cantarle a Ella",
+      "url": "https://open.spotify.com/track/0ZsPQwEVVdkNpKW1l76Utp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Montame",
         "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
@@ -519,22 +555,6 @@
       "duration_ms": 204026,
       "name": "M\u00f3ntame",
       "url": "https://open.spotify.com/track/5LGnVKG4TQeTNmJQSDF2oy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/19YgCrHv3ajrWnh4EiTv5I"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Cantarle a Ella",
-      "url": "https://open.spotify.com/track/6LyX5OTvWeJP2Sio5BfuDg"
     },
     {
       "added_at": null,
@@ -631,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los \u00c1ngeles Existen",
-        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 170426,
-      "name": "Me Derrito (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 187066,
       "name": "Besos y Copas - En Vivo",
       "url": "https://open.spotify.com/track/4U3pbbjrFtyLUIfiYZvuv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los \u00c1ngeles Existen",
+        "url": "https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 170426,
+      "name": "Me Derrito (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd"
     },
     {
       "added_at": null,
@@ -703,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cazador",
-        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol. 1 / En Vivo)",
         "url": "https://open.spotify.com/album/1n8dn1igCydDN4AKRnjMN8"
       },
@@ -739,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Cazador",
+        "url": "https://open.spotify.com/album/1stC6cYFtYDiKRnQEVgpTk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Como Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/5IQIQf56gG2Tlx2i3ubHJb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Te Lo Pido (En Vivo)",
         "url": "https://open.spotify.com/album/5k8O7c9p1Bn8ejkkwYKQG8"
       },
@@ -755,34 +775,6 @@
       "duration_ms": 287205,
       "name": "Y Te Lo Pido - En Vivo",
       "url": "https://open.spotify.com/track/55vESIhEP4GHWw36RnxFRu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Soledad (feat. Monica Saldivar)",
-        "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "LP Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
-        },
-        {
-          "name": "Monica Saldivar",
-          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
-        }
-      ],
-      "duration_ms": 235539,
-      "name": "La Soledad (feat. Monica Saldivar)",
-      "url": "https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9"
     },
     {
       "added_at": null,
@@ -823,6 +815,34 @@
       "duration_ms": 230722,
       "name": "Cosas Del Amor - En Vivo",
       "url": "https://open.spotify.com/track/2qI8I5XpG5sjhjzlxsp06j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Soledad (feat. Monica Saldivar)",
+        "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "LP Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5"
+        },
+        {
+          "name": "Monica Saldivar",
+          "url": "https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "La Soledad (feat. Monica Saldivar)",
+      "url": "https://open.spotify.com/track/6vZcycMT3468uKoSbXVJc9"
     },
     {
       "added_at": null,
@@ -943,22 +963,6 @@
       "duration_ms": 169000,
       "name": "No S\u00e9 Por Qu\u00e9",
       "url": "https://open.spotify.com/track/1DBsOzhJeIi46lFO3ITv5t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-209 songs - 17 hr 25 min
+210 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/track/7x4wq1V9AfzzryrsfSOkSH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/2wH0qd6qfjG0GCOig8hpO8) | 6:07 | 2023-05-15 | 2024-04-19 |
 | [I Wish I Knew How It Would Feel to Be Free \- Live – Montreux Jazz Festival 1976](https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Wish I Knew How It Would Feel to Be Free \(Live – Montreux Jazz Festival 1976\)](https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm) | 6:07 | 2022-02-10 | 2023-11-04 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Live From San Francisco](https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn) | 4:55 | 2022-02-10 |  |
+| [I'll Take You There \- Live At The Apollo Theater/1972](https://open.spotify.com/track/3fVvw3F8mEsI1Wb85mPtoS) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Get Down With James Brown: Live At The Apollo Vol\. IV](https://open.spotify.com/album/5h8mYFGE2upHNqHRAMoVBA) | 2:56 | 2024-10-25 |  |
 | [Inner City Blues \(Make Me Wanna Holler\) \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 3:55 | 2022-02-10 | 2025-04-21 |
 | [It's A Man's Man's Man's World \- Live](https://open.spotify.com/track/0Jv7rhNYIFk46JZNdCNbIp) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Super Duper Love](https://open.spotify.com/album/3CD5F4fRZgD89j8Vb9OR4v) | 3:35 | 2022-02-10 | 2023-03-26 |
 | [It's Love](https://open.spotify.com/track/5Q4UyRkhN85ZrNNzrVLxqu) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Experience: Jill Scott 826+](https://open.spotify.com/album/4qUhtl9sum7gV3mEbEoV2k) | 7:36 | 2022-02-10 | 2022-07-28 |
@@ -127,7 +128,7 @@
 | [Me And Those Dreamin Eyes Of Mine](https://open.spotify.com/track/6nnBuAz7hScFYjkYZdL6SX) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 4:46 | 2022-02-10 | 2022-07-27 |
 | [Misty Blue \- Live](https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Tour](https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S) | 5:08 | 2022-02-10 |  |
 | [Monkey See Monkey Do \(Live\)](https://open.spotify.com/track/4UUJ5wfsvfCRSr2CzT1nlp) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om), [Crossfire](https://open.spotify.com/artist/1v9OD6pSPWMs0N9WDMhk2S) | [Michael Franks with Crossfire \(Live\)](https://open.spotify.com/album/1umbPkbZ9KElFRAFPnx6ed) | 6:24 | 2022-02-10 | 2022-07-29 |
-| [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 | 2022-02-10 |  |
+| [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 | 2022-02-10 | 2025-08-10 |
 | [My Girl \- Live \(1964 Fox Theater\)](https://open.spotify.com/track/4aSpobarPve3IvDYBG4mzb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Lost & Found:The Temptations: You've Got To Earn It \(1962\-1968\)](https://open.spotify.com/album/7wrPrbiYeAizoeMAsRVoW5) | 2:59 | 2022-02-10 | 2022-07-29 |
 | [My Girl \[Paris\]](https://open.spotify.com/track/7fnUFbkKFYwm9WBxndODOs) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Live in London And Paris](https://open.spotify.com/album/3HVpDIHlaQuOcvmTGLPQQI) | 2:42 | 2022-02-10 | 2022-07-15 |
 | [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 | 2022-02-10 |  |

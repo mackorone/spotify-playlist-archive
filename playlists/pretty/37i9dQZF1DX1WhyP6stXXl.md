@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Cloudy June
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,618 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,599 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 54 | [Combust](https://open.spotify.com/track/0ovcYLTYKuN7cwOdDtnUCP) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Combust](https://open.spotify.com/album/7MCaVHM9Od0utS2fcJdMh3) | 2:18 |
 | 55 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 |
 | 56 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
-| 57 | [Tiny Voice](https://open.spotify.com/track/3nvzJUiZ0uQvZx8Y9tcVmR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Tiny Voice](https://open.spotify.com/album/2nZojnkjAvIcAuzJXS9uPu) | 2:20 |
-| 58 | [Hi, Everyone Leave Please](https://open.spotify.com/track/0Ck0qxEp2sPUSPBlHBXW5L) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Hi, Everyone Leave Please](https://open.spotify.com/album/3FfMPxFVDUfAbKE7UFwhte) | 2:55 |
-| 59 | [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 |
-| 60 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 |
-| 61 | [easy](https://open.spotify.com/track/12kvkByLJthKaIhk819aNA) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [easy](https://open.spotify.com/album/6dvFbVMwwqmnCeeU7VrGvr) | 2:20 |
-| 62 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
-| 63 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 |
-| 64 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |
-| 65 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
-| 66 | [Moonlit](https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Moonlit](https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC) | 3:41 |
-| 67 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
-| 68 | [All In](https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [All In](https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK) | 2:46 |
-| 69 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 |
-| 70 | [Dumb Girl](https://open.spotify.com/track/5ZT6xWFUUXSwKmMC0kBZL9) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur](https://open.spotify.com/album/5svjBxPc0CFYX8ftpZwVal) | 3:10 |
-| 71 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 |
-| 72 | [Radio Silent](https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Radio Silent](https://open.spotify.com/album/5LOO5N92RXbd6Ch3PJ3qa3) | 2:31 |
-| 73 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
-| 74 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
-| 75 | [Bitter Pill](https://open.spotify.com/track/4mWzxSV8E5QkaH2y97jBCy) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Missed Connections Collection](https://open.spotify.com/album/3VbZpY0kD7Ghx81QS8XMkC) | 2:45 |
+| 57 | [Risk](https://open.spotify.com/track/2ZaXLh6S6MX7hhEE3RiUUb) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Risk](https://open.spotify.com/album/3CcNPC5PEGXOBfNCaWxWop) | 3:12 |
+| 58 | [Tiny Voice](https://open.spotify.com/track/3nvzJUiZ0uQvZx8Y9tcVmR) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Tiny Voice](https://open.spotify.com/album/2nZojnkjAvIcAuzJXS9uPu) | 2:20 |
+| 59 | [Hi, Everyone Leave Please](https://open.spotify.com/track/0Ck0qxEp2sPUSPBlHBXW5L) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Hi, Everyone Leave Please](https://open.spotify.com/album/3FfMPxFVDUfAbKE7UFwhte) | 2:55 |
+| 60 | [Hotel Delilah](https://open.spotify.com/track/1wAqj59abDOcMAI2Jj3ZWM) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [The Wrong Side of 25](https://open.spotify.com/album/1ts3tatZuXKtmyTbyqybKS) | 4:25 |
+| 61 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 |
+| 62 | [easy](https://open.spotify.com/track/12kvkByLJthKaIhk819aNA) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [easy](https://open.spotify.com/album/6dvFbVMwwqmnCeeU7VrGvr) | 2:20 |
+| 63 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |
+| 64 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 |
+| 65 | [DRIVING](https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [DRIVING](https://open.spotify.com/album/5IolhHwXOqy3zVWba8AZZW) | 2:50 |
+| 66 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
+| 67 | [Moonlit](https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Moonlit](https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC) | 3:41 |
+| 68 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
+| 69 | [All In](https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [All In](https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK) | 2:46 |
+| 70 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 |
+| 71 | [Dumb Girl](https://open.spotify.com/track/5ZT6xWFUUXSwKmMC0kBZL9) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur](https://open.spotify.com/album/5svjBxPc0CFYX8ftpZwVal) | 3:10 |
+| 72 | [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 |
+| 73 | [Radio Silent](https://open.spotify.com/track/4f5VWMO6CqumeMlAd641MQ) | [Nina Caroline](https://open.spotify.com/artist/02qrlEbJniebMDLFOlxJzE) | [Radio Silent](https://open.spotify.com/album/5LOO5N92RXbd6Ch3PJ3qa3) | 2:31 |
+| 74 | [EURO\-COUNTRY](https://open.spotify.com/track/2WXpGxjskJAIDpyDqRQpZ0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/27yIhUQUHFVQmFmlgynyOU) | 4:56 |
+| 75 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
+| 76 | [Bitter Pill](https://open.spotify.com/track/4mWzxSV8E5QkaH2y97jBCy) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Missed Connections Collection](https://open.spotify.com/album/3VbZpY0kD7Ghx81QS8XMkC) | 2:45 |
 
 Snapshot ID: `AAAAAHTLFahbUCJlbQJkGKBT941eqXUE`

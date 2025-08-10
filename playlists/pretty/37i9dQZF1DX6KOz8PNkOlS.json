@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 565462,
+  "num_followers": 565553,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Notes from a Quiet Life",
+        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 176049,
+      "name": "Wait on You",
+      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "you loved me like a fool",
         "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 214638,
       "name": "you loved me like a fool",
       "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Notes from a Quiet Life",
-        "url": "https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 176049,
-      "name": "Wait on You",
-      "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "In The Half Light",
         "url": "https://open.spotify.com/album/7sV0NIlkRFHNBhbr3wD2AL"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 248400,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Run A Red Light",
+      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/5FQMRfSunEA660c3dYU2Mx"
-      },
-      "artists": [
-        {
-          "name": "Everything But The Girl",
-          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Run A Red Light",
-      "url": "https://open.spotify.com/track/74ixyNYERpYysIIIjcYGBK"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Marci",
-        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 209873,
-      "name": "Immaterial Girl",
-      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "20 Years Dope Noir - Oranje Album",
         "url": "https://open.spotify.com/album/0sZdCLGEGLayVCJaNgMnW6"
       },
@@ -1467,6 +1435,38 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210922,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
+      },
+      "artists": [
+        {
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
+        }
+      ],
+      "duration_ms": 209873,
+      "name": "Immaterial Girl",
+      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
     },
     {
       "added_at": "2025-05-16 06:00:17",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-05-16 06:00:17",
       "album": {
-        "name": "Home Cooking",
-        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
-      },
-      "artists": [
-        {
-          "name": "DJ Yoda",
-          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 207201,
-      "name": "Thornton Heath",
-      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
-    },
-    {
-      "added_at": "2025-05-16 06:00:17",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 198842,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
+    },
+    {
+      "added_at": "2025-05-16 06:00:17",
+      "album": {
+        "name": "Home Cooking",
+        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
+      },
+      "artists": [
+        {
+          "name": "DJ Yoda",
+          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "duration_ms": 207201,
+      "name": "Thornton Heath",
+      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     }
   ],
   "unique_name": "Soft Office",

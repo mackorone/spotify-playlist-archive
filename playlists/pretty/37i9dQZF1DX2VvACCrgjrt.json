@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 469002,
+  "num_followers": 469070,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Count On You",
-        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Sian-Lee",
-          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
-        }
-      ],
-      "duration_ms": 165923,
-      "name": "Count On You",
-      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Ridin' Dirty",
         "url": "https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 169657,
       "name": "Ridin' Dirty",
       "url": "https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Count On You",
+        "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Count On You",
+      "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1591,22 +1591,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
       },
       "artists": [
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
         },
         {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
         }
       ],
-      "duration_ms": 140654,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
+      "duration_ms": 178300,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
         }
       ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
+      "duration_ms": 140654,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1675,22 +1679,18 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/6FnqdQC9PHxPoLE5rQqtrn"
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
       },
       "artists": [
         {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        },
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 178300,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1715,6 +1715,22 @@
       "duration_ms": 274218,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7K8DIxlj4VrA0ayuxwkBTZ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1767,22 +1783,6 @@
       "duration_ms": 168440,
       "name": "Red Velvet",
       "url": "https://open.spotify.com/track/36EfR7HreYyTLh0fLylOUo"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Bass In Yo Face",
+        "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 187683,
+      "name": "Bass In Yo Face",
+      "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "MAMI",
         "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
       },
@@ -2387,22 +2403,6 @@
       "duration_ms": 110769,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Bass In Yo Face",
-        "url": "https://open.spotify.com/album/1XMX76i2nCTl52fvyV7zra"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 187683,
-      "name": "Bass In Yo Face",
-      "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
     },
     {
       "added_at": "2025-08-08 04:00:44",

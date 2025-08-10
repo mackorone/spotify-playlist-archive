@@ -1,6 +1,6 @@
 {
   "description": "Top trending country tracks from the last few months. Cover: Tyler Nance",
-  "num_followers": 624779,
+  "num_followers": 624922,
   "original_name": "Breakout Country",
   "owner": {
     "name": "Spotify",
@@ -9,7 +9,39 @@
   "snapshot_id": "AAAAAGKMl2TueRZqOfQ4VudEr8uASeL7",
   "tracks": [
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "20 Cigarettes",
+      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
+    },
+    {
+      "added_at": "2025-08-08 04:00:37",
+      "album": {
+        "name": "Damned If I Do",
+        "url": "https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 217446,
+      "name": "Damned If I Do",
+      "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
+    },
+    {
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Keeps Me Sane",
         "url": "https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA"
@@ -25,23 +57,7 @@
       "url": "https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "I Got Better",
-      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
-    },
-    {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Never Met Anyone Like You (feat. HARDY)",
         "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "About A Woman (From A Small Town)",
         "url": "https://open.spotify.com/album/3gWvwlZ4c5k8am80gBnlci"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Turn This Truck Around",
         "url": "https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Girl I Never Met",
         "url": "https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Lasso",
         "url": "https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
@@ -149,7 +165,23 @@
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "I Got Better",
+      "url": "https://open.spotify.com/track/4gfrYDtaRmp6HPvN80V2ob"
+    },
+    {
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "PATTERNS (DELUXE)",
         "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
@@ -165,7 +197,7 @@
       "url": "https://open.spotify.com/track/1epG8jhfeJW54B8dt6pCg9"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Scornful Woman",
         "url": "https://open.spotify.com/album/3Ueo8Ub5iBseNfSbHpCdEq"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Home Tonight",
         "url": "https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA"
@@ -197,27 +229,7 @@
       "url": "https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
-      "album": {
-        "name": "New Country (feat. Blake Shelton)",
-        "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "New Country (feat. Blake Shelton)",
-      "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
@@ -233,7 +245,23 @@
       "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
+      "album": {
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 224108,
+      "name": "Music for the Soul",
+      "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
+    },
+    {
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Funny Seeing You Here",
         "url": "https://open.spotify.com/album/0yZ5ADnfvKrxV9iP1i1OBy"
@@ -249,7 +277,7 @@
       "url": "https://open.spotify.com/track/7BVzUgIqxwiwPbMz35z3ZE"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Leather Deluxe Edition",
         "url": "https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0"
@@ -265,7 +293,7 @@
       "url": "https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Comin' In Cold",
         "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
@@ -281,7 +309,7 @@
       "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
         "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
@@ -301,23 +329,23 @@
       "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
-        "name": "Damned If I Do",
-        "url": "https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF"
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
       },
       "artists": [
         {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 217446,
-      "name": "Damned If I Do",
-      "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R"
@@ -333,7 +361,7 @@
       "url": "https://open.spotify.com/track/3GLjg6Zmjw3gPrKUheQZfR"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
@@ -349,7 +377,7 @@
       "url": "https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Cowboy Songs",
         "url": "https://open.spotify.com/album/4StCHyQ1HelsMkssFAjTei"
@@ -365,7 +393,7 @@
       "url": "https://open.spotify.com/track/6mXI5MGSfWzqwYXHpxKfnc"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
@@ -385,23 +413,7 @@
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
-      "album": {
-        "name": "Good Times & Tan Lines",
-        "url": "https://open.spotify.com/album/1DZO09ac5XmLpt0Utimknk"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 160635,
-      "name": "Good Times & Tan Lines",
-      "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
-    },
-    {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Leaving Carolina",
         "url": "https://open.spotify.com/album/5LXXVatilaIfc7XayYVhMe"
@@ -417,7 +429,7 @@
       "url": "https://open.spotify.com/track/5smjahcnDCjHK53UeG4YRt"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
@@ -433,7 +445,7 @@
       "url": "https://open.spotify.com/track/5t6VW9ocIgB84vD8uR5xXU"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Home (feat. Shaboozey)",
         "url": "https://open.spotify.com/album/50Gz1176FyXKAnBmVvc6GQ"
@@ -453,7 +465,7 @@
       "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Water At A Wedding",
         "url": "https://open.spotify.com/album/2Kjy6rn4SiL3N4tnMpHbHE"
@@ -469,23 +481,7 @@
       "url": "https://open.spotify.com/track/6h1vhmOA7RdRQACZ0yjGDq"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
-      "album": {
-        "name": "2 Pair",
-        "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 151534,
-      "name": "2 Pair",
-      "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
-    },
-    {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Happen To Me",
         "url": "https://open.spotify.com/album/5FzT4YTYR95DHUhUkKWjvb"
@@ -501,7 +497,7 @@
       "url": "https://open.spotify.com/track/64KV9vjChfN2w9vA4j7A2K"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Oneida",
         "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
@@ -517,7 +513,7 @@
       "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
@@ -537,7 +533,7 @@
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "DON'T WANNA GO HOME",
         "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
@@ -553,23 +549,7 @@
       "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "20 Cigarettes",
-      "url": "https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg"
-    },
-    {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "WHY (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/6MKxvTTzpmHNW8oThYHyBU"
@@ -589,7 +569,7 @@
       "url": "https://open.spotify.com/track/6GPjo7NPabOKxdOR5zRl4I"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Love Me Tonight",
         "url": "https://open.spotify.com/album/49mkNoZXgbUHUnB97bfP4e"
@@ -605,7 +585,7 @@
       "url": "https://open.spotify.com/track/2xtJzZk0TkqB3wD6qaNKuw"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Evangeline vs. The Machine",
         "url": "https://open.spotify.com/album/4wJxbo5ycw2j1cDM0LOiMl"
@@ -621,7 +601,23 @@
       "url": "https://open.spotify.com/track/6Y7329Uz6FhJS7bRlkOoxy"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
+      "album": {
+        "name": "South Of Sanity",
+        "url": "https://open.spotify.com/album/6NVclGrBOx2UG9z8pDIJGd"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 220726,
+      "name": "South Of Sanity",
+      "url": "https://open.spotify.com/track/0pwAGmv0r5LeEWaIIAK384"
+    },
+    {
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "What Could Go Right (feat. Lanie Gardner)",
         "url": "https://open.spotify.com/album/6SDYyML3WrQNUQVn6ds4If"
@@ -641,7 +637,7 @@
       "url": "https://open.spotify.com/track/2iMX5bHSf125ZHBIysZ9na"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "still hungover",
         "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
@@ -657,7 +653,7 @@
       "url": "https://open.spotify.com/track/13TtTCE6v8vwTSgWJPjwLl"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Big Sky",
         "url": "https://open.spotify.com/album/4sbFij3rJCbuzDUbGiOlae"
@@ -673,7 +669,7 @@
       "url": "https://open.spotify.com/track/0syywgDoE7Qaud0Kz1L3H0"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/72z8nsQyY1ncs5b7fodeYQ"
@@ -689,7 +685,7 @@
       "url": "https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Forget Tonight (ft. Tyler Hubbard)",
         "url": "https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Blink Twice",
         "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Stay Country or Die Tryin'",
         "url": "https://open.spotify.com/album/3SlFBTVQSdKBW6KVp5bulU"
@@ -745,7 +741,7 @@
       "url": "https://open.spotify.com/track/2OVJMopnpJFev3n1NxDJ92"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Watch My Necklace Swing",
         "url": "https://open.spotify.com/album/1JKhMKZo4K3zAnYn0b97os"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/5VjK9hpou3ESZDyIjyn8Vd"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "The Talco Tapes",
         "url": "https://open.spotify.com/album/4EEXpOAW6fuB8zB8yPfVFj"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Casino",
         "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Change My Mind",
         "url": "https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "I Got A New One",
         "url": "https://open.spotify.com/album/1pzzR7iluYWZd8l0SA1922"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/3YQzOzUKb2hcx64XQhmct5"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/5CKp1RqaCeUYDGqo14KMfU"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/4Mlb3TAFRXMpKGzwSf0yK3"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/16tR0x7Rf4ryBuTJmJV4O9"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Nobody Likes Your Girlfriend",
         "url": "https://open.spotify.com/album/5e3nfGmreblIZTTUJOYR7f"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/3MAfSTarsPGtSxlmA6IBSS"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Better Me For You (Brown Eyes)",
         "url": "https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Hard Fought Hallelujah (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Bad State of Mind",
         "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
@@ -929,7 +925,7 @@
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "weren't for the wind",
         "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
@@ -945,7 +941,7 @@
       "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Dyin' Flame",
         "url": "https://open.spotify.com/album/5LHo3GORejajFOvWzMKlVa"
@@ -961,7 +957,7 @@
       "url": "https://open.spotify.com/track/1DNG22ZpedEFqCkJoj4Ibs"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Tough People",
         "url": "https://open.spotify.com/album/6lyQYMu3krcoLPaCJbQ35V"
@@ -977,7 +973,7 @@
       "url": "https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/3NccNTsZeAlGl7MFCJkHNt"
@@ -993,7 +989,7 @@
       "url": "https://open.spotify.com/track/4DZU897k6LLzfg1JOEjKjK"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Day Late & A Buck Short",
         "url": "https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj"
@@ -1009,7 +1005,7 @@
       "url": "https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "I'd Be Delighted",
         "url": "https://open.spotify.com/album/5g2DpCsAsxxgth6kcSmXQX"
@@ -1025,7 +1021,7 @@
       "url": "https://open.spotify.com/track/6jS8b3W99Sa21l0WSl5poF"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
@@ -1045,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
     },
     {
-      "added_at": "2025-08-01 04:00:37",
+      "added_at": "2025-08-08 04:00:37",
       "album": {
         "name": "OIL MONEY",
         "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"

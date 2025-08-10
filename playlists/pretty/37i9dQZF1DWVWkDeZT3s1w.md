@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,860 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,886 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 70 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 |
 | 71 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |
 | 72 | [Benedicto](https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Benedicto](https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw) | 3:14 |
-| 73 | [Aire para Vivir](https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Aire para Vivir](https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta) | 3:43 |
-| 74 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
+| 73 | [Soy Pueblo](https://open.spotify.com/track/6Q1FsZ9JLsKWHQVwMdwk71) | [Facto](https://open.spotify.com/artist/74rJSaz1EmGYuS0WGZZ45m) | [Pólvora](https://open.spotify.com/album/6wfXg2gEg4atcD1jNZrzUf) | 3:24 |
+| 74 | [Aire para Vivir](https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM) | [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Aire para Vivir](https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta) | 3:43 |
 | 75 | [104](https://open.spotify.com/track/5OaGRA4vQjvKwSRVsFvgku) | [Fermin IV](https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm) | [104](https://open.spotify.com/album/3O0lfld5JKQuxjXPAmIZqy) | 3:08 |
 | 76 | [Escorpión](https://open.spotify.com/track/48djoywLHuEwUlOpZP1tMR) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Rodesens](https://open.spotify.com/artist/1ggnt5q0Sm1yZj7l45ovd8), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [Escorpión](https://open.spotify.com/album/3U0wjZVkZ7qtblFGLIzqpA) | 2:52 |
 | 77 | [Rimas Femeninas](https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Joaka](https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB), [Moyenei](https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB), [Yoez](https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE) | [Rimas Femeninas](https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq) | 3:13 |

@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Hot Mulligan
 
-278 songs - 15 hr 32 min
+279 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Don't Try](https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:40 | 2022-11-25 | 2023-01-26 |
 | [Down, Down](https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Down, Down](https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe) | 3:05 | 2023-09-29 | 2024-12-19 |
 | [Drink Milk and Run](https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Drink Milk and Run](https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG) | 2:50 | 2022-11-25 | 2023-03-18 |
+| [Dusty](https://open.spotify.com/track/6ixVpkrFvgd7EPVTLVXwwn) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Dusty](https://open.spotify.com/album/0aQlTOObqjOaKo7FYopRi5) | 2:33 | 2025-08-08 |  |
 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 | 2024-07-26 |  |
 | [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 | 2023-07-27 |
 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-04-14 | 2023-09-23 |
@@ -280,7 +281,7 @@
 | [World Apart](https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [World Apart](https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd) | 3:00 | 2024-10-11 |  |
 | [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 | 2025-08-08 |  |
 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 | 2023-06-16 |  |
-| [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 | 2025-03-28 |  |
+| [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 | 2025-03-28 | 2025-08-10 |
 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 | 2022-11-25 |  |
 | [You're On](https://open.spotify.com/track/48W2JId9H0kuWpCIsmvThJ) | [Kicksie](https://open.spotify.com/artist/3PzRKp3NSZzGSbf75iTuAL) | [You're On](https://open.spotify.com/album/3bY4mpoCmJbZ8y9qW4Tywg) | 3:53 | 2023-02-11 | 2024-10-12 |
 | [Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ) | [The Hotelier](https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa) | [Home, Like Noplace Is There](https://open.spotify.com/album/172GEyILIzsGA8PJqrsHmL) | 3:47 | 2023-04-14 | 2023-05-20 |

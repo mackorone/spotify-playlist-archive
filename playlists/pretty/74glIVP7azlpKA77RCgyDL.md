@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Bad Omens.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,989 likes - 190 songs - 11 hr 28 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,992 likes - 190 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

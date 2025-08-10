@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487719,
+  "num_followers": 487748,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "twenty bucks (the friend song)",
         "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 113232,
       "name": "twenty bucks (the friend song)",
       "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -793,6 +793,22 @@
       "url": "https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Naga Damai",
+        "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
+      },
+      "artists": [
+        {
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Naga Damai",
+      "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
+    },
+    {
       "added_at": "2025-03-27 13:00:14",
       "album": {
         "name": "Sunday Scaries",
@@ -811,38 +827,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Naga Damai",
-        "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
-      },
-      "artists": [
-        {
-          "name": "Cocobolo",
-          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
-        }
-      ],
-      "duration_ms": 217413,
-      "name": "Naga Damai",
-      "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+      },
+      "artists": [
+        {
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Floating By",
-        "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
-      },
-      "artists": [
-        {
-          "name": "Dawson James",
-          "url": "https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL"
-        }
-      ],
-      "duration_ms": 160703,
-      "name": "Floating By",
-      "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Carol",
         "url": "https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 160375,
       "name": "Carol",
       "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Floating By",
+        "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
+      },
+      "artists": [
+        {
+          "name": "Dawson James",
+          "url": "https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL"
+        }
+      ],
+      "duration_ms": 160703,
+      "name": "Floating By",
+      "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1111,38 +1111,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
-      },
-      "artists": [
-        {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
-        }
-      ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Ceviche",
-        "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
-      },
-      "artists": [
-        {
-          "name": "The Audio Visual Drop Kicks",
-          "url": "https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Ceviche",
-      "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Can You See The Sunshine? (EP)",
         "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
       },
@@ -1155,6 +1123,22 @@
       "duration_ms": 205376,
       "name": "Couch Sex",
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Heat Stroke",
+        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
+      },
+      "artists": [
+        {
+          "name": "Heat Wave",
+          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
+        }
+      ],
+      "duration_ms": 207247,
+      "name": "Heat Stroke",
+      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Spice It Up",
-        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+        "name": "Ceviche",
+        "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
       "artists": [
         {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+          "name": "The Audio Visual Drop Kicks",
+          "url": "https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI"
         }
       ],
-      "duration_ms": 146651,
-      "name": "Spice It Up",
-      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
+      "duration_ms": 245853,
+      "name": "Ceviche",
+      "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Spice It Up",
+        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+      },
+      "artists": [
+        {
+          "name": "Surf Trash",
+          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+        }
+      ],
+      "duration_ms": 146651,
+      "name": "Spice It Up",
+      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
     },
     {
       "added_at": "2024-10-11 04:00:00",

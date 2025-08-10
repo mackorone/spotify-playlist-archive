@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49353,
+  "num_followers": 49358,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAAzD4wTTBVvU0HlSQ9xvBy7",
+  "snapshot_id": "aJU+AAAAAACDNZMxa/jygDfJUwjvge3T",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 35572,
-      "name": "Don Giovanni",
-      "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
+      "duration_ms": 143546,
+      "name": "Where I'm Going",
+      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 143546,
-      "name": "Where I'm Going",
-      "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+      "duration_ms": 35572,
+      "name": "Don Giovanni",
+      "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
     },
     {
       "added_at": null,
@@ -456,15 +456,15 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+      "duration_ms": 113426,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
+      "duration_ms": 129400,
+      "name": "St. Mary",
+      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
     },
     {
       "added_at": null,
@@ -520,15 +520,15 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 113426,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 129400,
-      "name": "St. Mary",
-      "url": "https://open.spotify.com/track/56HYaw6svMu5B5hJoqpiwc"
+      "duration_ms": 160360,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 118618,
-      "name": "Devil In Disguise",
-      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 86133,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 118618,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/0r6Lwa3SvLeewLD1CzYIYP"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 58371,
-      "name": "Don't Make Me Do It",
-      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 96680,
       "name": "You Want It, You Got It",
       "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 81741,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 120480,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 157643,
-      "name": "New American",
-      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let The Dominoes Fall (Expanded Version)",
         "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 163506,
       "name": "Dominoes Fall",
       "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 157643,
+      "name": "New American",
+      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
     },
     {
       "added_at": null,

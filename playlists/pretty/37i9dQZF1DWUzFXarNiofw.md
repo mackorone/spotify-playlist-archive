@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaia Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,291 likes - 275 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,394 likes - 275 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
 | 2 | [can't stop](https://open.spotify.com/track/266NPG21d1RGm5GHxchVF3) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:08 |
 | 3 | [Last Call](https://open.spotify.com/track/08V6tvDH9sseE9hizL0VyR) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Last Call](https://open.spotify.com/album/3RQFgcuiH0uhebRSudYDeW) | 2:19 |
-| 4 | [Baby Girl](https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue EP](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 3:14 |
+| 4 | [Baby Girl](https://open.spotify.com/track/1MZu21tsJWN8t6ZqUhhlZQ) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 3:14 |
 | 5 | [Your Way](https://open.spotify.com/track/2g7uNji2ayan37eqJEemka) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 2:58 |
 | 6 | [Alone](https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Alone](https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO) | 2:25 |
 | 7 | [Hvn High](https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 3:14 |

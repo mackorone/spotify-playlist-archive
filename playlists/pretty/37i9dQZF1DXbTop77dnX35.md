@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FOLA, Amaarae, Gunna and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,149 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,282 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 46 | [Hey Now](https://open.spotify.com/track/0U1WdkgLfMjwe4jHhPDxd6) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Matt Davies](https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV) | [Hey Now](https://open.spotify.com/album/2lXgvUGOVaZP6kAebWd08j) | 3:38 |
 | 47 | [Mabebuza \- Atmos Blaq Remix](https://open.spotify.com/track/6vV8JlEgBLbBJ0uuX6ZJ2j) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM) | [Mabebuza \(Remix Pack\)](https://open.spotify.com/album/4vGq1zmOKTUXWDsQa2CHF0) | 6:46 |
 | 48 | [Home](https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Home](https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm) | 3:23 |
-| 49 | [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 |
-| 50 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
-| 51 | [KiSSMYTEET](https://open.spotify.com/track/13iIdlvRQrAXdO4MjjBLsb) | [INFAMOUSIZAK](https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [KiSSMYTEET](https://open.spotify.com/album/1QMBzwydoQOuJDLgP2Sohb) | 3:00 |
-| 52 | [Hvn High](https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 3:14 |
-| 53 | [Only Girl](https://open.spotify.com/track/6yjRjFRX16Vk4bUYFl13x4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Only Girl](https://open.spotify.com/album/5dV4k7tbseS5O9ySeFUDLz) | 2:14 |
-| 54 | [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 |
+| 49 | [Nairobi](https://open.spotify.com/track/5gPH35UHKVryNzBnFwIS6P) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv), [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE) | [Nairobi](https://open.spotify.com/album/2ra5Ape5VOU1AhB3YvetpX) | 3:43 |
+| 50 | [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 |
+| 51 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 |
+| 52 | [KiSSMYTEET](https://open.spotify.com/track/13iIdlvRQrAXdO4MjjBLsb) | [INFAMOUSIZAK](https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [KiSSMYTEET](https://open.spotify.com/album/1QMBzwydoQOuJDLgP2Sohb) | 3:00 |
+| 53 | [Hvn High](https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 3:14 |
+| 54 | [Only Girl](https://open.spotify.com/track/6yjRjFRX16Vk4bUYFl13x4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Only Girl](https://open.spotify.com/album/5dV4k7tbseS5O9ySeFUDLz) | 2:14 |
+| 55 | [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 |
 
 Snapshot ID: `AAAAAJVnck8gt3iEFOXsJz7N2FsYNWWR`

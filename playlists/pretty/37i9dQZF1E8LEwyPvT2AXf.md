@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, Lewis Capaldi, James Arthur and more
+> With Adele, Olivia Rodrigo, Harry Styles and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,070 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 | 49 | [Flashlight \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/4rkUEE5iTzG0szS8k8QzqR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Flashlight \(From "Pitch Perfect 2" Soundtrack\)](https://open.spotify.com/album/7JsgaEeIsP8gpRxmA30ErD) | 3:28 |
 | 50 | [Sweet Creature](https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:44 |
 
-Snapshot ID: `aJbEMgAAAADm/0qVd8un3QmptFj9mc7M`
+Snapshot ID: `aJgbEAAAAAA1TOZZ5C/k2c0JnVDVgrF6`

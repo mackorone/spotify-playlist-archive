@@ -4,7 +4,7 @@
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-238 songs - 12 hr 11 min
+239 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [When Can I See You Again?](https://open.spotify.com/track/0cA4MGnpNpjw03PANVR1nR) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Winter Songs](https://open.spotify.com/album/5mfmSSVrt4BOZScMKLROKd) | 3:50 | 2024-12-12 |  |
 | [When She Loved Me \- John Connearn Version](https://open.spotify.com/track/7i1ElAFtdc1ZQ35caqmjMy) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: The John Connearn Sessions](https://open.spotify.com/album/0s1MA78U1pEG2Bxcyg4n6u) | 3:19 | 2022-04-15 |  |
 | [When Will My Life Begin?](https://open.spotify.com/track/0iH7gzZzfhKOOFJYRN4oAB) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Self\-Care Day](https://open.spotify.com/album/2AWQhbb4GAH5zPhITUPPvJ) | 2:26 | 2022-04-15 |  |
+| [When Will My Life Begin?](https://open.spotify.com/track/5G6lCksWkdqPjxn3j0AJTf) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Princess Peaceful Strings: Garden Soirée](https://open.spotify.com/album/1eqMwXeYrIx0Aruo1WSqZx) | 2:28 | 2025-08-08 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2023-01-20 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/6F0zuV20MJqisv13pcGjFZ) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 2:09 | 2022-04-15 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/3PaDJuJpMegwoZXFyQEt6C) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Dream](https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR) | 3:20 | 2022-04-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 102250,
+  "num_followers": 102342,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,30 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "uThando",
+        "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
+      },
+      "artists": [
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
+        },
+        {
+          "name": "Soulful G",
+          "url": "https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz"
+        },
+        {
+          "name": "Shaun 101",
+          "url": "https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "uThando",
+      "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 244615,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "uThando",
-        "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
-      },
-      "artists": [
-        {
-          "name": "Soa Mattrix",
-          "url": "https://open.spotify.com/artist/6zfTCQmxqOy0kBpHrse3ro"
-        },
-        {
-          "name": "Soulful G",
-          "url": "https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz"
-        },
-        {
-          "name": "Shaun 101",
-          "url": "https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "uThando",
-      "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Odo",
-        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Sunday Blues",
         "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 225382,
       "name": "Sunday Blues",
       "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Odo",
+        "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 187285,
       "name": "Angela",
       "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2025-07-11 08:09:25",

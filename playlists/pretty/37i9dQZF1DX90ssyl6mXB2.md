@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Tyler Watts
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,517 likes - 182 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,565 likes - 182 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

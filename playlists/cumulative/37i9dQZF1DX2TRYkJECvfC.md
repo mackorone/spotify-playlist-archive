@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-617 songs - 2 day 3 hr 22 min
+618 songs - 2 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Childish](https://open.spotify.com/track/2BMhaksbPZEVPUx4U98WgK) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish](https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ) | 4:50 | 2024-10-01 |  |
 | [China Plate](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [China Plate / Sivonium](https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE) | 3:48 | 2023-05-26 |  |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
-| [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 |  |
+| [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 | 2025-08-10 |
 | [Come On Back With Your Love \- Sunrise Mix](https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Come On Back With Your Love](https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf) | 3:26 | 2025-01-17 |  |
 | [Cosmic Burst](https://open.spotify.com/track/08cpxxd1LWWD0ThphypIB6) | [Jason Krupp](https://open.spotify.com/artist/1IwXiIpWgZQ7txUBbdqCFf) | [Cosmic Burst](https://open.spotify.com/album/6NdKNFmfFEooVNv0SYCAK3) | 3:12 | 2024-03-01 |  |
 | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Could You Be Loved \(with LP Giobbi\)](https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY) | 4:46 | 2025-07-11 |  |
@@ -185,6 +185,7 @@
 | [For A Moment](https://open.spotify.com/track/01J7GlzTYwAp0kHGwLrHiB) | [Jazz Do It](https://open.spotify.com/artist/7Azr4EUr6i6tgtqMvlOpsw) | [Anjunadeep 10 Sampler: Part 1](https://open.spotify.com/album/179gfN119swKR4JooXjYyt) | 5:56 | 2021-12-08 | 2023-06-03 |
 | [For Now](https://open.spotify.com/track/3EMGPuLLcXxJkT8wipZjy9) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [For Now](https://open.spotify.com/album/7J4MlpzikCgbTSvjxUnD0q) | 3:52 | 2021-12-08 | 2024-07-13 |
 | [Found You](https://open.spotify.com/track/6FP6jfKtDrBUkxoLHwxq54) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Found You / Don't Change](https://open.spotify.com/album/2cn5LynJy1h02Vki4QMqcF) | 3:43 | 2024-12-20 |  |
+| [Found You](https://open.spotify.com/track/1S0L2brBcxSfs20Af2afUy) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm), [Maybemahri](https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL) | [Found You EP](https://open.spotify.com/album/7g0s4cPy9eFebIAaBmQ4GG) | 3:59 | 2025-08-08 |  |
 | [Four Feet](https://open.spotify.com/track/2JebL9WaaUylWLns0SmVuU) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Blasphemy](https://open.spotify.com/album/4csl0WC7mxhBhab5nYfBnW) | 6:35 | 2021-12-08 | 2022-07-08 |
 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 | 2023-02-14 |  |
 | [Free \(HOSH Edit\)](https://open.spotify.com/track/3sYqmgwyGHmbmGjRJtz9AK) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [Johannes Brecht](https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi), [Fetsum](https://open.spotify.com/artist/6woLhP7pzj8pbWsZ5VUOck), [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs) | [Free \(HOSH Edit\)](https://open.spotify.com/album/51FqS4tKuPKWkZAXEfhuR6) | 6:58 | 2022-10-28 | 2023-01-06 |

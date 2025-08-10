@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 228943,
+  "num_followers": 228977,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAADvuEi0K6TaRZGYtHaMQYRe",
+  "snapshot_id": "aJU+AAAAAAAEJKVqkDQlhsDlfR74h62s",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 417600,
+      "name": "It's Ecstasy When You Lay Down Next To Me",
+      "url": "https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wildest Dreams (Expanded Version)",
         "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 228573,
       "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
       "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 417600,
-      "name": "It's Ecstasy When You Lay Down Next To Me",
-      "url": "https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 294066,
       "name": "Dark And Lovely (You Over There)",
       "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Love Makin' Music",
-      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 234000,
       "name": "Oh Love, Well We Finally Made It",
       "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,
@@ -847,34 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlimited",
-        "url": "https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua"
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
       },
       "artists": [
         {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Al B. Sure!",
-          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "El DeBarge",
-          "url": "https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD"
         }
       ],
-      "duration_ms": 532706,
-      "name": "The Erotic Garden - After Hours Version Of Secret Garden",
-      "url": "https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF"
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     }
   ],
   "unique_name": "This Is Barry White",

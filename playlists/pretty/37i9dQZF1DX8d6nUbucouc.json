@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 62129,
+  "num_followers": 62146,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "De Machine",
+        "url": "https://open.spotify.com/album/63WtFhejAbCI1LqPhbwAVZ"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "Hollereer",
+      "url": "https://open.spotify.com/track/4JVFY7J6eiTQK9JyHn5O7z"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Fresku",
         "url": "https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 226693,
       "name": "Nieuwe Dag",
       "url": "https://open.spotify.com/track/7gq3uwW3kjZFupbrOtLvxQ"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "De Machine",
-        "url": "https://open.spotify.com/album/63WtFhejAbCI1LqPhbwAVZ"
-      },
-      "artists": [
-        {
-          "name": "De Jeugd Van Tegenwoordig",
-          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Hollereer",
-      "url": "https://open.spotify.com/track/4JVFY7J6eiTQK9JyHn5O7z"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Alleen Maar Nette Mensen",
-        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
-      },
-      "artists": [
-        {
-          "name": "Hydroboyz",
-          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Hindabuilding",
-      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 225693,
       "name": "Voor Dough",
       "url": "https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Alleen Maar Nette Mensen",
+        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
+      },
+      "artists": [
+        {
+          "name": "Hydroboyz",
+          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Hindabuilding",
+      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Succes/Ik Ben Twan",
-        "url": "https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp"
-      },
-      "artists": [
-        {
-          "name": "Willem",
-          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Succes",
-      "url": "https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Rock & Roll",
         "url": "https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Succes/Ik Ben Twan",
+        "url": "https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Succes",
+      "url": "https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Stille Wateren Diepe Gronden",
         "url": "https://open.spotify.com/album/1tHJfeKfn0b66kPah2ZJIW"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 247879,
       "name": "Superheld",
       "url": "https://open.spotify.com/track/5vWp375d8xJvYQfZpCM8mc"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
-      },
-      "artists": [
-        {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "De Flexte",
-      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -911,6 +895,22 @@
       "duration_ms": 272773,
       "name": "Wil je weten hoe et voelt",
       "url": "https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+      },
+      "artists": [
+        {
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "De Flexte",
+      "url": "https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Great Minds",
-        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
-      },
-      "artists": [
-        {
-          "name": "Great Minds",
-          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Nog 1 Keer",
-      "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Documents (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 254640,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Great Minds",
+        "url": "https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z"
+      },
+      "artists": [
+        {
+          "name": "Great Minds",
+          "url": "https://open.spotify.com/artist/1FRYercTve9gszoIb619JS"
+        }
+      ],
+      "duration_ms": 315826,
+      "name": "Nog 1 Keer",
+      "url": "https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Tussen Licht En Lucht",
-        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
-      },
-      "artists": [
-        {
-          "name": "Typhoon",
-          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Hotel Beschaving",
-      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Bliksemschicht",
         "url": "https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 259240,
       "name": "Vanaf Nu/Rauwe Hop",
       "url": "https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Tussen Licht En Lucht",
+        "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
+      },
+      "artists": [
+        {
+          "name": "Typhoon",
+          "url": "https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Hotel Beschaving",
+      "url": "https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "In Kleur",
+        "url": "https://open.spotify.com/album/4ihEfLKv4RGrqb3xBhclSQ"
+      },
+      "artists": [
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 197304,
+      "name": "Ze Zeggen",
+      "url": "https://open.spotify.com/track/473KmP1rRwpPL5Jaq8Jaix"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Winne Zonder Strijd",
         "url": "https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 275093,
       "name": "Geef 8 - Remix",
       "url": "https://open.spotify.com/track/7EGDiKgluq7D8DVpnTEy7F"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "In Kleur",
-        "url": "https://open.spotify.com/album/4ihEfLKv4RGrqb3xBhclSQ"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 197304,
-      "name": "Ze Zeggen",
-      "url": "https://open.spotify.com/track/473KmP1rRwpPL5Jaq8Jaix"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "Plakka",
+      "url": "https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Boulimia",
         "url": "https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 220026,
       "name": "Punt",
       "url": "https://open.spotify.com/track/48CfE8EAxOnx0OlWz51Zv5"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
-      },
-      "artists": [
-        {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "Plakka",
-      "url": "https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Kleine Jongen (feat. Diggy Dex, Def P & Jiggy Dje)",
-        "url": "https://open.spotify.com/album/2IE9K1EraYA3Vo7TaAeAEq"
-      },
-      "artists": [
-        {
-          "name": "Engel",
-          "url": "https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Kleine Jongen (feat. Def P, Jiggy Dje & Diggy Dex)",
-      "url": "https://open.spotify.com/track/42gIzFKsrPhWfcbeSpQ7KL"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Ut Zwarte Aap",
         "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 163320,
       "name": "Batterij",
       "url": "https://open.spotify.com/track/6lcwYclQz58gfAZrgAmBBx"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Kleine Jongen (feat. Diggy Dex, Def P & Jiggy Dje)",
+        "url": "https://open.spotify.com/album/2IE9K1EraYA3Vo7TaAeAEq"
+      },
+      "artists": [
+        {
+          "name": "Engel",
+          "url": "https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Kleine Jongen (feat. Def P, Jiggy Dje & Diggy Dex)",
+      "url": "https://open.spotify.com/track/42gIzFKsrPhWfcbeSpQ7KL"
     },
     {
       "added_at": "2024-09-09 11:56:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,418 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,423 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 20 | [O mio babbino caro](https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 2:35 |
 | 21 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 |
 | 22 | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923) | 2:53 |
-| 23 | [Overture \(Ship\)](https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj) | [The Brutalist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p) | 4:49 |
-| 24 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 |
+| 23 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 |
+| 24 | [Overture \(Ship\)](https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj) | [The Brutalist \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p) | 4:49 |
 | 25 | [Pure Love](https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Queer \(Original Score\)](https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9) | 4:34 |
 | 26 | [The Talented Mr\. Ripley \- FIN](https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Ripley \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt) | 3:35 |
 | 27 | [Hum](https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK), [Julia Newman](https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll) | [Monsters: The Lyle and Erik Menendez Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu) | 3:27 |

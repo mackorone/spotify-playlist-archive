@@ -1,6 +1,6 @@
 {
   "description": "Where R&B lives. Cover: Sasha Keable",
-  "num_followers": 6177862,
+  "num_followers": 6177158,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
@@ -9,40 +9,24 @@
   "snapshot_id": "AAAAAGJia/mbEZx/2AqOpWxaSNdJEYZI",
   "tracks": [
     {
-      "added_at": "2025-08-01 04:00:44",
+      "added_at": "2025-07-25 08:44:07",
       "album": {
-        "name": "Is It a Crime",
-        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": "2025-06-13 04:00:33",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -63,6 +47,22 @@
       "duration_ms": 271874,
       "name": "It Depends (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+    },
+    {
+      "added_at": "2025-06-13 04:00:33",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -95,6 +95,42 @@
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "added_at": "2025-08-01 04:00:44",
+      "album": {
+        "name": "Is It a Crime",
+        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
+    },
+    {
+      "added_at": "2025-08-08 04:00:52",
+      "album": {
+        "name": "Last Call",
+        "url": "https://open.spotify.com/album/3RQFgcuiH0uhebRSudYDeW"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 139976,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/08V6tvDH9sseE9hizL0VyR"
     },
     {
       "added_at": "2025-07-04 04:00:33",
@@ -331,26 +367,6 @@
       "duration_ms": 150038,
       "name": "SEARCHING",
       "url": "https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98"
-    },
-    {
-      "added_at": "2025-07-25 08:44:07",
-      "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
     },
     {
       "added_at": "2025-07-18 04:00:29",
@@ -831,26 +847,6 @@
       "duration_ms": 228047,
       "name": "YES IT IS",
       "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
-    },
-    {
-      "added_at": "2025-04-18 04:00:54",
-      "album": {
-        "name": "If Not Now, Then When?",
-        "url": "https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH"
-      },
-      "artists": [
-        {
-          "name": "Joe Kay",
-          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 168554,
-      "name": "Hesitation (with Karri)",
-      "url": "https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG"
     },
     {
       "added_at": "2025-01-31 10:10:19",

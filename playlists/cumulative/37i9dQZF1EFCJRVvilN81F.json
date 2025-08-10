@@ -2677,6 +2677,28 @@
     },
     {
       "album": {
+        "name": "Oh Lala",
+        "url": "https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230031,
+      "name": "Oh Lala",
+      "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
+    },
+    {
+      "album": {
         "name": "FACETS",
         "url": "https://open.spotify.com/album/0hfoDeUSQyNrSvLPFtIWvk"
       },

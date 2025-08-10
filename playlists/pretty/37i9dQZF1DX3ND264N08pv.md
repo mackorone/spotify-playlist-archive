@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,746 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,797 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Madness](https://open.spotify.com/track/7uakufDBCclVj27i5DUtwx) | [Soulblast](https://open.spotify.com/artist/3f6KorUYJp7dxTAJpgqKiY), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Madness](https://open.spotify.com/album/2YCJDUX94R7AM7JbMrR4QV) | 2:43 |
 | 47 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
 | 48 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 |
-| 49 | [WAS IST DAS](https://open.spotify.com/track/15tKh9aHfjbNPEbv4GmDhz) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [DitzKickz](https://open.spotify.com/artist/02Qk9K9AJwyQWcZ5BrSgd7) | [WAS IST DAS](https://open.spotify.com/album/0b8718BImvjDfo0d19wOfG) | 4:04 |
-| 50 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
+| 49 | [Stress](https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Stress](https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI) | 2:27 |
+| 50 | [WAS IST DAS](https://open.spotify.com/track/15tKh9aHfjbNPEbv4GmDhz) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [DitzKickz](https://open.spotify.com/artist/02Qk9K9AJwyQWcZ5BrSgd7) | [WAS IST DAS](https://open.spotify.com/album/0b8718BImvjDfo0d19wOfG) | 4:04 |
 
 Snapshot ID: `AAAAAJKPbYgt4dC+VK7ZEWGRnAEGL/6z`

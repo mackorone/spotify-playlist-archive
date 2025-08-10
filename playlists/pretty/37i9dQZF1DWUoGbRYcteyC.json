@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1947758,
+  "num_followers": 1947312,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-05-30 18:23:54",
       "album": {
-        "name": "Asondeguerra",
-        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Mi Bendici\u00f3n",
-      "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
-    },
-    {
-      "added_at": "2025-05-30 18:23:54",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2025-05-30 18:23:54",
+      "album": {
+        "name": "Asondeguerra",
+        "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Mi Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
     },
     {
       "added_at": "2025-05-30 18:23:54",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-05-30 18:23:54",
       "album": {
-        "name": "lib\u00e9lulas",
-        "url": "https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "lib\u00e9lulas",
-      "url": "https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr"
-    },
-    {
-      "added_at": "2025-05-30 18:23:54",
-      "album": {
         "name": "seu carinho",
         "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 158842,
       "name": "seu carinho",
       "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
+    },
+    {
+      "added_at": "2025-05-30 18:23:54",
+      "album": {
+        "name": "lib\u00e9lulas",
+        "url": "https://open.spotify.com/album/2Rqv4WMkgKGmzZlkFE3o3e"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "lib\u00e9lulas",
+      "url": "https://open.spotify.com/track/4jjdUBRP6gc3SrjaA9QxJr"
     }
   ],
   "unique_name": "Amor Amor",

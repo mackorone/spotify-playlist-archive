@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "500 kr",
+        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+      },
+      "artists": [
+        {
+          "name": "I$AK",
+          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "500 kr",
+      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "album": {
         "name": "8 Days",
         "url": "https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD"
       },
@@ -1766,7 +1788,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 177783,
       "name": "Falla",
       "url": "https://open.spotify.com/track/2TRoPIfG2IqShh7ZQ9MWE2"
@@ -2856,6 +2878,24 @@
       "duration_ms": 161434,
       "name": "Hur ska jag sova inatt",
       "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I"
+      },
+      "artists": [
+        {
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68"
     },
     {
       "album": {
@@ -6704,7 +6744,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 161780,
       "name": "Watershed",
       "url": "https://open.spotify.com/track/01Ft203H8gj8FW1ziTK0QI"

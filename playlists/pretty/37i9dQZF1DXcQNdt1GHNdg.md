@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,634 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,814 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 25 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
 | 26 | [LEVEL](https://open.spotify.com/track/3Som8HXULC5zwyCF4w754j) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [LEVEL](https://open.spotify.com/album/2LGsxAFGP9c2BPgP9r2m5M) | 2:35 |
 | 27 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
-| 28 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
+| 28 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [JAGDEEEP SANGALA](https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
 | 29 | [College](https://open.spotify.com/track/5eQiBWXIPFSku2v1GXRRqX) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [College](https://open.spotify.com/album/7uy48d7v5soYF2JPeWmKEL) | 2:58 |
 | 30 | [Mean](https://open.spotify.com/track/468Ifkgbs7PLVbhRT0RNZC) | [Sukhan Verma](https://open.spotify.com/artist/1AcRMgaDzeSN68BhA9mH2m), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Mean](https://open.spotify.com/album/31UWYMlGmuzLkNa3wDamf9) | 2:43 |
 | 31 | [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 |

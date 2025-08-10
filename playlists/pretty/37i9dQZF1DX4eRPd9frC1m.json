@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2587496,
+  "num_followers": 2587424,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        }
+      ],
+      "duration_ms": 164137,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "Shoot",
-        "url": "https://open.spotify.com/album/7ABQGNfnRm0vwcdPBr3NoY"
-      },
-      "artists": [
-        {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        }
-      ],
-      "duration_ms": 164137,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/2px94zB56yKPyaUuGeVyEP"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
+        "name": "Head Rock",
+        "url": "https://open.spotify.com/album/1Cnd7bE7fVlqAqXjf2cvUC"
+      },
+      "artists": [
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        },
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "Nat James",
+          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
+        }
+      ],
+      "duration_ms": 213428,
+      "name": "Head Rock",
+      "url": "https://open.spotify.com/track/2qs6tpFeTo3BFmc86Y0Y6Q"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
         "name": "M.D.E",
         "url": "https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9"
       },
@@ -1199,30 +1223,6 @@
       "duration_ms": 233142,
       "name": "Animal",
       "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "Head Rock",
-        "url": "https://open.spotify.com/album/1Cnd7bE7fVlqAqXjf2cvUC"
-      },
-      "artists": [
-        {
-          "name": "Mersiv",
-          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
-        },
-        {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
-        },
-        {
-          "name": "Nat James",
-          "url": "https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa"
-        }
-      ],
-      "duration_ms": 213428,
-      "name": "Head Rock",
-      "url": "https://open.spotify.com/track/2qs6tpFeTo3BFmc86Y0Y6Q"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1287,22 +1287,26 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/0v1cjI2NqvI8Quiq2s2SS8"
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
         },
         {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
         }
       ],
-      "duration_ms": 111627,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/6CT5bIT2xJ776subCQoxwd"
+      "duration_ms": 181069,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1347,30 +1351,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
-        }
-      ],
-      "duration_ms": 181069,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Rapid Fire",
         "url": "https://open.spotify.com/album/5hqK495WT7LZG2AKzOWyTV"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 166206,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/0YzrViv4LXpfLotDq58YKS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/0v1cjI2NqvI8Quiq2s2SS8"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/6CT5bIT2xJ776subCQoxwd"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "MOMENT",
-        "url": "https://open.spotify.com/album/0ubLDnKmOqfY51vQpwcoYF"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "MOMENT",
-      "url": "https://open.spotify.com/track/5YKwIYALi5TnCkKnJ5fSX2"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -1499,22 +1479,42 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "AHORA",
-        "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
+        "name": "MOMENT",
+        "url": "https://open.spotify.com/album/0ubLDnKmOqfY51vQpwcoYF"
       },
       "artists": [
         {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         },
         {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 145655,
-      "name": "AHORA",
-      "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
+      "duration_ms": 182400,
+      "name": "MOMENT",
+      "url": "https://open.spotify.com/track/5YKwIYALi5TnCkKnJ5fSX2"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "F.Y.U.",
+        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 161708,
+      "name": "F.Y.U.",
+      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1535,6 +1535,26 @@
       "duration_ms": 156710,
       "name": "AIRPLANE MODE",
       "url": "https://open.spotify.com/track/27K16LGxXQaTGAUTTIAJju"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "AHORA",
+        "url": "https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "AHORA",
+      "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -1579,26 +1599,6 @@
       "duration_ms": 270857,
       "name": "Mind Pluck",
       "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "F.Y.U.",
-        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        }
-      ],
-      "duration_ms": 161708,
-      "name": "F.Y.U.",
-      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     }
   ],
   "unique_name": "Hype",

@@ -1,6 +1,6 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 541713,
+  "num_followers": 541710,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "A Moment Apart",
+        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 234244,
+      "name": "A Moment Apart",
+      "url": "https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 320720,
       "name": "Boredom (feat. Rex Orange County & Anna of the North)",
       "url": "https://open.spotify.com/track/5WNYg3usc6H8N3MBEp4zVk"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "A Moment Apart",
-        "url": "https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 234244,
-      "name": "A Moment Apart",
-      "url": "https://open.spotify.com/track/59wlTaYOL5tDUgXnbBQ3my"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Spreading Rumours",
-        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 124504,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Spreading Rumours",
+        "url": "https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "I Wanna Help Your Mind",
+        "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 171937,
+      "name": "I Wanna Help Your Mind",
+      "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 198666,
       "name": "Iceblink Luck",
       "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "I Wanna Help Your Mind",
-        "url": "https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 171937,
-      "name": "I Wanna Help Your Mind",
-      "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Rockets (feat. Moe Moks)",
-        "url": "https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        },
-        {
-          "name": "Moe Moks",
-          "url": "https://open.spotify.com/artist/7DkftpjbqLhwjlCUe567y9"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "Rockets (feat. Moe Moks)",
-      "url": "https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Fkn Around (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Rockets (feat. Moe Moks)",
+        "url": "https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        },
+        {
+          "name": "Moe Moks",
+          "url": "https://open.spotify.com/artist/7DkftpjbqLhwjlCUe567y9"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "Rockets (feat. Moe Moks)",
+      "url": "https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy"
     },
     {
       "added_at": "2024-09-06 04:00:00",

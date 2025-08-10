@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269 likes - 139 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 139 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 67 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 68 | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Stop Talkin \(feat\. ALMA\)](https://open.spotify.com/album/55iVqhNXuBbgvx21VTDgdW) | 2:57 |
 | 69 | [WENN ICH DU WÄRE](https://open.spotify.com/track/2SGyGwqpuMqEbMv5kr79hW) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [GOOD DAYS & GOODBYES](https://open.spotify.com/album/6YKjcFLdoU8iFfUoZS4qYN) | 2:31 |
-| 70 | [Stay High](https://open.spotify.com/track/3IOxs33hfLDYe78bKFgD54) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Stay High](https://open.spotify.com/album/31atNeRS21BO9HTkuXv7x3) | 3:37 |
-| 71 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
+| 70 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 |
+| 71 | [Stay High](https://open.spotify.com/track/3IOxs33hfLDYe78bKFgD54) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Bad Paris](https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Stay High](https://open.spotify.com/album/31atNeRS21BO9HTkuXv7x3) | 3:37 |
 | 72 | [Back 2 Good](https://open.spotify.com/track/3y0t7V46qv0n5YSbWSmi02) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [Hearing Colour](https://open.spotify.com/album/4JRa8rklT1kE6cN1toiirY) | 3:06 |
 | 73 | [Timeline \(feat\. vito\)](https://open.spotify.com/track/4ZPNM1GpxgRN5aDJCbvYaj) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7), [vito](https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw) | [Moai](https://open.spotify.com/album/7yb5k9jqAjeXjT2q0ShQey) | 2:43 |
 | 74 | [Sag nicht sorry](https://open.spotify.com/track/5ibvn5zdOFkPvbszDbW9V1) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Fluss](https://open.spotify.com/album/1F46k12341LHQGIFlMjop4) | 2:26 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 138 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 |
 | 139 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Ab4+8gAAAACGzP8jvFHkVjt37oashiyz`
+Snapshot ID: `Ab5EiAAAAACymRBkf7mWd9zzlKXjWnPY`

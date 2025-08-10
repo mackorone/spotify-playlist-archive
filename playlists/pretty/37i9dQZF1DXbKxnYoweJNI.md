@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: VOOID
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,301 likes - 151 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,304 likes - 151 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 36 | [獨家記憶](https://open.spotify.com/track/2hUi8pqdfRk8mIJlF3Tll4) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [獨家記憶](https://open.spotify.com/album/2qBeO3aPMMhS1U2KbRDiGM) | 3:51 |
 | 37 | [關於她的星期天](https://open.spotify.com/track/30HtJ7KwZte0e2KeeHdKFd) | [T.J](https://open.spotify.com/artist/1WlQFCxYJ2dgsvGjalKx3c), [SeanT肖恩恩](https://open.spotify.com/artist/5N0UCZ9JOOzM0kNmW8j4Rw), [ChinoBroz \(奇童兄弟\)](https://open.spotify.com/artist/3MX4KjsPDjOYqdZ6Yns196) | [關於她的星期天](https://open.spotify.com/album/4MfSEcEdI48eZ80Sja9hnu) | 3:16 |
 | 38 | [記得忘了我](https://open.spotify.com/track/4OQ8GrrCav8daNO4cHO5dy) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [記得忘了我](https://open.spotify.com/album/4t7kBseOkE59T30RLii5nO) | 5:04 |
-| 39 | [你還在](https://open.spotify.com/track/64rxkm225enYGb8hAPXsbi) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [你還在](https://open.spotify.com/album/6Ha5JYiUzSrrdaZeEADw9W) | 3:30 |
+| 39 | [你還在（Back to December）](https://open.spotify.com/track/64rxkm225enYGb8hAPXsbi) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [你還在（Back to December）](https://open.spotify.com/album/6Ha5JYiUzSrrdaZeEADw9W) | 3:30 |
 | 40 | [愛情訊號](https://open.spotify.com/track/6IHWyp73QtPQ2zKbzlniMG) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [愛情訊號](https://open.spotify.com/album/6FPuEWkynIIDuQKzwSQC3X) | 3:28 |
 | 41 | [命運啊《民視「愛的榮耀」插曲》](https://open.spotify.com/track/2AmLmCxOHzp2N1QBsLWxzd) | [广土主任](https://open.spotify.com/artist/0gZ6cBqif4mY94tzTOOzsT) | [命運啊《民視「愛的榮耀」插曲》](https://open.spotify.com/album/7A0reHSNSBNGtU3OQJ0dY6) | 4:28 |
 | 42 | [偷偷](https://open.spotify.com/track/6RPziZlgNXlGETpD8dHMVl) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth), [Sherie](https://open.spotify.com/artist/1Vh7A8QzLe8WOjtOKiCAFC) | [偷偷](https://open.spotify.com/album/7kBO0BvFPS1gdSp6Pu1jdX) | 3:05 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 113 | [下輩子再跟你談戀愛](https://open.spotify.com/track/4rAk4PJG50nUQoRzkYIMnJ) | [PiEDí](https://open.spotify.com/artist/6Qm0RJU3ocGqFFSoqJq5JM) | [下輩子再跟你談戀愛](https://open.spotify.com/album/2k7Dq176jD7MigrMlzNab0) | 4:05 |
 | 114 | [你到底在選擇什麼](https://open.spotify.com/track/3tKi1rBzT8RPtAyId7iOJ7) | [公館青少年 GGteens](https://open.spotify.com/artist/70tzNPv1y3Ft17QI4KLdSp) | [你到底在選擇什麼](https://open.spotify.com/album/1rjvwp6Fbsik62WVAGsBFw) | 4:13 |
 | 115 | [連續劇Drama](https://open.spotify.com/track/10ZvQdcRRaa7S6st0mTnje) | [Showmaîn](https://open.spotify.com/artist/3Z0hrO5NvALfcVK5hk79CJ) | [連續劇Drama](https://open.spotify.com/album/2AcXVt6BLMXfyO55yTVPED) | 2:16 |
-| 116 | [水做的](https://open.spotify.com/track/5mNrtFODOf3AOQgri4G8CG) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [水做的](https://open.spotify.com/album/2aafYNsOGHRxbkLqic4rAw) | 2:39 |
+| 116 | [水做的](https://open.spotify.com/track/5mNrtFODOf3AOQgri4G8CG) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [水做的](https://open.spotify.com/album/2aafYNsOGHRxbkLqic4rAw) | 2:38 |
 | 117 | [TMSX](https://open.spotify.com/track/3v2jJs8xIZ2idUuOKA5ksQ) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV), [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [Flowstrong](https://open.spotify.com/artist/3KgKUvLzPtJSiXz0WC71YH), [someshiit 山姆](https://open.spotify.com/artist/1Se0FtmWSFmL81n85repGg), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB), [Star Wu](https://open.spotify.com/artist/41imUY7LVjxTpJwTDgDR6v), [DCIV](https://open.spotify.com/artist/1ek0Tv8frXGgW6GCCE2jit), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [FRαNKIE阿法](https://open.spotify.com/artist/3NvVbjPU6W2AOEWitAUqwe), [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp), [That's My Shhh](https://open.spotify.com/artist/5iUU1iEJjzYNmZv8l2rMVp) | [TMSX](https://open.spotify.com/album/0mgafvRtpk9xjxwPHEWKdS) | 4:04 |
 | 118 | [In the End of the World \(I Love You\) \- A\_LIVE PASS Session](https://open.spotify.com/track/0QG8PkqzGxlcw4Ihrx28ag) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\) \[A\_LIVE PASS Session\]](https://open.spotify.com/album/0xGQgPCgXOejgPStzXkNE8) | 3:44 |
 | 119 | [只想對你唱首鄧麗君 \- 電影《天作之合》中文主題曲](https://open.spotify.com/track/6Rj8C07rLFW4sLrA0G133g) | [鳳小岳&壓克力柿子](https://open.spotify.com/artist/0UT01VPSRhqvXKNDiyfxZN) | [只想對你唱首鄧麗君 \(電影《天作之合》中文主題曲\)](https://open.spotify.com/album/265IJdzkedf8T8SrD9ftda) | 4:33 |

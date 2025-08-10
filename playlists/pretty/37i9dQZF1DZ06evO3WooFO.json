@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 609413,
+  "num_followers": 609467,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAACi6+TZ7xiOKUn4dnoaZb9E",
+  "snapshot_id": "aJU+AAAAAABvf6rFlZ8Cuo0z5BAmmqyY",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 219540,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/6oRvk7PJW3PDKFZkEvJNkq"
+      "duration_ms": 115520,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 115520,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd"
+      "duration_ms": 219540,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/6oRvk7PJW3PDKFZkEvJNkq"
     },
     {
       "added_at": null,

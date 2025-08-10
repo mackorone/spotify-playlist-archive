@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von RAF Camora und Ufo361, Ed Sheeran, Kraftklub, LUNAX und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,766 likes - 84 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,814 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,11 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 76 | [KEIN IDOL](https://open.spotify.com/track/5LV4eJUl5l5ATBd0LW08Tc) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [KEIN IDOL](https://open.spotify.com/album/4JP6z7m7flIkAMHFBCUwrF) | 2:27 |
 | 77 | [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 |
 | 78 | [Schweben](https://open.spotify.com/track/2t7W57lDEEbXHMpE9K4T3Z) | [LVLV](https://open.spotify.com/artist/4f1nPBKEn1GBmx64v3r4uc) | [Schweben](https://open.spotify.com/album/5UtF05Pd0ZPIWUQwI6R7xa) | 2:44 |
-| 79 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:02 |
-| 80 | [derschönstetaginmeinemleben](https://open.spotify.com/track/5Kprro514Oz085OBVgi0V6) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Der schönste Tag in meinem Leben](https://open.spotify.com/album/4QDbk11Q45zzUzORFiTp59) | 3:02 |
-| 81 | [7 Minuten](https://open.spotify.com/track/2DeoESH7Y0kwrGBdFo8YM6) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [7 Minuten](https://open.spotify.com/album/2XcDI6BiJZbmv5gZl87nWU) | 3:33 |
-| 82 | [P4P](https://open.spotify.com/track/7DotUk0W2tGlxehSqa7zHE) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [P4P](https://open.spotify.com/album/4G3IyaX5kAAvyJ8D1HjGRe) | 2:22 |
-| 83 | [High](https://open.spotify.com/track/12Jnatk6BJiM855QZodXPT) | [Ina Müller](https://open.spotify.com/artist/4sX5aHE7Jnbl4bTrah2aDu) | [High](https://open.spotify.com/album/0zEIqyty1PSeR5gZ4QCwxh) | 3:26 |
-| 84 | [Espiritú](https://open.spotify.com/track/1QLvwPTBeKKfUaG46IiHsE) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Niños Del Bosque](https://open.spotify.com/album/0cOMJwSdi2gNMIeMVtOkLZ) | 3:19 |
+| 79 | [Luv U More](https://open.spotify.com/track/5WfL4VVFQaHhjkNowXoZSZ) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luv U More](https://open.spotify.com/album/0lAckFjUGpMs9g2J3N5WDn) | 2:42 |
+| 80 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:02 |
+| 81 | [derschönstetaginmeinemleben](https://open.spotify.com/track/5Kprro514Oz085OBVgi0V6) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Der schönste Tag in meinem Leben](https://open.spotify.com/album/4QDbk11Q45zzUzORFiTp59) | 3:02 |
+| 82 | [7 Minuten](https://open.spotify.com/track/2DeoESH7Y0kwrGBdFo8YM6) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [7 Minuten](https://open.spotify.com/album/2XcDI6BiJZbmv5gZl87nWU) | 3:33 |
+| 83 | [P4P](https://open.spotify.com/track/7DotUk0W2tGlxehSqa7zHE) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [P4P](https://open.spotify.com/album/4G3IyaX5kAAvyJ8D1HjGRe) | 2:22 |
+| 84 | [High](https://open.spotify.com/track/12Jnatk6BJiM855QZodXPT) | [Ina Müller](https://open.spotify.com/artist/4sX5aHE7Jnbl4bTrah2aDu) | [High](https://open.spotify.com/album/0zEIqyty1PSeR5gZ4QCwxh) | 3:26 |
+| 85 | [Espiritú](https://open.spotify.com/track/1QLvwPTBeKKfUaG46IiHsE) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Niños Del Bosque](https://open.spotify.com/album/0cOMJwSdi2gNMIeMVtOkLZ) | 3:19 |
 
 Snapshot ID: `AAAAAFy4GT9dgY2W7eGd1qLFAJmFg3fp`

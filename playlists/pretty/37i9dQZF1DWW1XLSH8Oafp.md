@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring SONIKKU
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,964 likes - 149 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,950 likes - 149 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 7 | [GOOD TIME GIRL](https://open.spotify.com/track/6A2CEALbfAIbxbYUy2ya6e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GOOD TIME GIRL](https://open.spotify.com/album/6jbsNqUzdc8GkVLPj7je1q) | 2:32 |
 | 8 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 |
 | 9 | [WISH I HAD ENOUGH](https://open.spotify.com/track/4JhGW51Mu0xELikL7RaZF3) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [WISH I HAD ENOUGH](https://open.spotify.com/album/4grutOB1gUeh2alQJ0gaRs) | 2:05 |
-| 10 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
+| 10 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
 | 11 | [More](https://open.spotify.com/track/79aYvOC7g1gyS9i2Jwm3uU) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More](https://open.spotify.com/album/0HcKFOUOM5DUcICjAdxhp7) | 2:38 |
 | 12 | [sealight](https://open.spotify.com/track/0RBuMInsBUvxIirprg2U7Q) | [fia](https://open.spotify.com/artist/2bKRwnFRyCdBzsUmHxUSFf) | [sealight](https://open.spotify.com/album/69cGptVLSKNpEItcueuETQ) | 3:51 |
 | 13 | [disappear](https://open.spotify.com/track/1rRGWpAgC4KRihY8p4N3c9) | [joanna ⋆ ☆](https://open.spotify.com/artist/6O6jCbxOSUMWYn3BqZxYLg) | [disappear](https://open.spotify.com/album/51AXabaBnHlAlMbLdZJPIZ) | 2:54 |

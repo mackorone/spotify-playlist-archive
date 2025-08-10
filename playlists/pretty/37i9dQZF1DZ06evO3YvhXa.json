@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 418340,
+  "num_followers": 418389,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAADJd5yqXo7l7GRd0ixEaCUN",
+  "snapshot_id": "aJU+AAAAAAC+1TWyyEmNbh8OSmph7Kpe",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 236946,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Cowboy (Remixes)",
         "url": "https://open.spotify.com/album/3yEBzDpFwVIfAUkeS0GYa7"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 243913,
       "name": "Space Cowboy (Classic Radio)",
       "url": "https://open.spotify.com/track/4SauVG68Oqmznmm04IQ0rm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 300226,
-      "name": "(Don't) Give Hate a Chance",
-      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
+      "duration_ms": 220080,
+      "name": "Travelling Without Moving - Remastered 2013",
+      "url": "https://open.spotify.com/track/4U0gBPfjAzs7V0IR6UhOM6"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Travelling Without Moving - Remastered 2013",
-      "url": "https://open.spotify.com/track/4U0gBPfjAzs7V0IR6UhOM6"
+      "duration_ms": 300226,
+      "name": "(Don't) Give Hate a Chance",
+      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
     },
     {
       "added_at": null,
@@ -443,38 +443,6 @@
       "duration_ms": 226613,
       "name": "Runaway - Remastered 2006",
       "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Time Won't Wait",
-      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
     },
     {
       "added_at": null,
@@ -503,6 +471,38 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 287960,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Time Won't Wait",
+      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
     },
     {
       "added_at": null,

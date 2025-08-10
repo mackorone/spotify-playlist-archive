@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751 likes - 130 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 130 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,10 +133,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 123 | [Gratitude](https://open.spotify.com/track/2cI7IM2jlIC7wKdfpQvctA) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love & Light](https://open.spotify.com/album/2XrzEmUgAStgYTQT8lDzHG) | 3:25 |
 | 124 | [Flaws](https://open.spotify.com/track/0SWDM8WYXyM1PkJUqRW0pn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 2:53 |
 | 125 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 |
-| 126 | [Lebih Dari Kekasihku](https://open.spotify.com/track/4ii3aTST1vQabcKhVPjrKZ) | [Classy](https://open.spotify.com/artist/23RnPEmrU2zuAYavcWZejp) | [X Factor Indonesia Season 2](https://open.spotify.com/album/2AEkMd7QfOCzUyuNqwOok7) | 3:53 |
-| 127 | [Through It All](https://open.spotify.com/track/1etCWXm5qem4qjgxe4rS4m) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Through It All](https://open.spotify.com/album/7jlCZb6phVSGZF73020ITC) | 2:50 |
+| 126 | [Through It All](https://open.spotify.com/track/1etCWXm5qem4qjgxe4rS4m) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Through It All](https://open.spotify.com/album/7jlCZb6phVSGZF73020ITC) | 2:50 |
+| 127 | [Lebih Dari Kekasihku](https://open.spotify.com/track/4ii3aTST1vQabcKhVPjrKZ) | [Classy](https://open.spotify.com/artist/23RnPEmrU2zuAYavcWZejp) | [X Factor Indonesia Season 2](https://open.spotify.com/album/2AEkMd7QfOCzUyuNqwOok7) | 3:53 |
 | 128 | [Still in Love \(Acoustic\)](https://open.spotify.com/track/1FOX7NEDh37v5xNXyESzsK) | [The Inner Voices](https://open.spotify.com/artist/6YNzFZMSy9yCYyXtS3JQQF) | [Still in Love \(Acoustic\)](https://open.spotify.com/album/68kr3m1lQzS0MlXXpVIeYW) | 4:14 |
 | 129 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 130 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Ab4+8gAAAAD47So8RMYRYzjT6b415ChY`
+Snapshot ID: `Ab5EiAAAAADbWN5fIhfzAgbp79k4eNOY`

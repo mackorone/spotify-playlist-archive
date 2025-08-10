@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Cloudy June
 
-1,323 songs - 2 day 18 hr 48 min
+1,324 songs - 2 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -961,6 +961,7 @@
 | [Ride or Die](https://open.spotify.com/track/67JUyAArsCY1j4H06Jt1NH) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Ride or Die](https://open.spotify.com/album/0FRhQSxPU2rsKUJWW6zTNI) | 2:15 | 2024-06-28 | 2024-07-05 |
 | [Right Here](https://open.spotify.com/track/3aFkqKSlsoT3YoIovuRB8h) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Right Here](https://open.spotify.com/album/29OYCTRQRLCf1s9UNlg1LX) | 2:42 | 2024-11-12 | 2024-12-13 |
 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 | 2024-08-15 | 2024-09-13 |
+| [Risk](https://open.spotify.com/track/2ZaXLh6S6MX7hhEE3RiUUb) | [Pablo Brooks](https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra) | [Risk](https://open.spotify.com/album/3CcNPC5PEGXOBfNCaWxWop) | 3:12 | 2025-08-08 |  |
 | [Risk It All](https://open.spotify.com/track/6hIbZfDmBigXP99678e6q0) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Risk It All](https://open.spotify.com/album/5WB7Dp0drdbK0sj9jnxw84) | 3:13 | 2024-11-07 | 2024-12-06 |
 | [Rock n Roll](https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Rock n Roll](https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb) | 2:38 | 2024-10-24 | 2024-11-22 |
 | [rock n roll healing](https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD) | [Eveline](https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0) | [rock n roll healing](https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF) | 2:47 | 2025-01-16 | 2025-01-31 |

@@ -4,7 +4,7 @@
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: PLUTO
 
-702 songs - 1 day 7 hr 28 min
+703 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Bet It \- from the "Bruised" Soundtrack](https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Bruised \(Soundtrack From and Inspired by the Netflix Film\)](https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA) | 2:40 | 2021-11-19 | 2022-02-05 |
 | [BGC](https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [BGC](https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR) | 2:36 | 2023-10-20 | 2024-02-10 |
 | [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 | 2021-10-22 | 2022-03-12 |
+| [Big Booty Judy](https://open.spotify.com/track/2vHdumPYawADlh7mY8YEbA) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [BOTH WAYS \(Deluxe\)](https://open.spotify.com/album/3OKrBNG5j0zJP0cgs2p98c) | 2:11 | 2025-08-08 |  |
 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 | 2021-10-22 | 2022-03-12 |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2021-09-24 | 2022-03-30 |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 | 2022-03-28 | 2022-07-16 |
@@ -219,7 +220,7 @@
 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 | 2025-01-24 | 2025-04-05 |
 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 | 2022-03-04 | 2022-07-23 |
 | [Fine Shit](https://open.spotify.com/track/5Bx56ljKGDDZ4CpjBO0CLJ) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Fine Shit](https://open.spotify.com/album/74rSU0L1zjIVR15DJ2HehY) | 2:41 | 2025-06-20 | 2025-07-12 |
-| [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 | 2025-07-25 |  |
+| [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 | 2025-07-25 | 2025-08-10 |
 | [First](https://open.spotify.com/track/0sMqGaH6o0HGQbT0Ttxcji) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [First](https://open.spotify.com/album/2kZwByLNOpxPu22QKwVoNZ) | 2:44 | 2025-08-01 |  |
 | [First](https://open.spotify.com/track/3SEmYQXL6TYQ6keii5TUiN) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [First](https://open.spotify.com/album/2yVoj5oLa2LwoRQfYmhYpj) | 2:44 | 2024-12-20 | 2025-05-24 |
 | [First \(Remix\)](https://open.spotify.com/track/5bp8lzqdJpsU8PC5jTpD7G) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [First \(Remix\)](https://open.spotify.com/album/2K1Ab2BbAmce2hsw07w7Dk) | 2:44 | 2025-05-23 | 2025-08-02 |

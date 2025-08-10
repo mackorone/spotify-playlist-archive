@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Alina Eremia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,574 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,313 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 67 | [Toronyházak](https://open.spotify.com/track/7cBgmJg3AEKGXQ3AqMjHhJ) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:44 |
 | 68 | [whatdoiknow? \(interlude\)](https://open.spotify.com/track/55lT3hzLThs7oT2WuwWRRW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 1:21 |
 | 69 | [Szex](https://open.spotify.com/track/3049QcCJ593nYs2r49uV71) | [alszok](https://open.spotify.com/artist/0zkdd59mkQoDJ1pAWuafK0), [fiatal csonti](https://open.spotify.com/artist/2lJvPjCSlPBw5OA6L9TGQU) | [Szex](https://open.spotify.com/album/6NtdGbCjNkF1f0iKi6eBgz) | 2:40 |
-| 70 | [still mine](https://open.spotify.com/track/3fYoLZPyyIClMECnkQdV6h) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu), [T2044](https://open.spotify.com/artist/4nS8duk3gmlhjsMuy4RAJb), [Joo](https://open.spotify.com/artist/4JP2ksLQhVP5Q55IKaSVoc) | [still mine](https://open.spotify.com/album/5GDaIdNRCx1EJvJp38N04x) | 3:16 |
+| 70 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
 | 71 | [esküszöm](https://open.spotify.com/track/5YVeMDv0kzBhClqRM5Lox0) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [esetek és minták](https://open.spotify.com/album/6gfo7h2cN3aqDyjZNoOsLa) | 2:03 |
-| 72 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
+| 72 | [still mine](https://open.spotify.com/track/3fYoLZPyyIClMECnkQdV6h) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu), [T2044](https://open.spotify.com/artist/4nS8duk3gmlhjsMuy4RAJb), [Joo](https://open.spotify.com/artist/4JP2ksLQhVP5Q55IKaSVoc) | [still mine](https://open.spotify.com/album/5GDaIdNRCx1EJvJp38N04x) | 3:16 |
 | 73 | [Hamvado cigarettaveg](https://open.spotify.com/track/07OqCQlAFiWXltHTewim1n) | [Karády Katalin](https://open.spotify.com/artist/0dapLiVAvNDfkzQXhhyAZJ) | [Hungarian Retro Music / Karády Katalin, Volume 4](https://open.spotify.com/album/0RJV1HSSG7ItgDTTooQIEP) | 3:33 |
 | 74 | [Szia Fényfolt](https://open.spotify.com/track/4qYgkPfLNskAzrhzaiKAo3) | [Barkóczi Noémi](https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc) | [Mindig kések, de hozzád jókor indultam](https://open.spotify.com/album/4XJfMiki4pUhzMAMsG9yDn) | 4:53 |
 | 75 | [Emésztőenzim \- Live at Nyúl](https://open.spotify.com/track/46i4ODEr4JNvmxkKqKSF7A) | [Noémo](https://open.spotify.com/artist/7bqH8KR1veILd32ZGJkbwC) | [Live at Nyúl](https://open.spotify.com/album/7506JqqAzsGJfza0Ottvka) | 3:27 |

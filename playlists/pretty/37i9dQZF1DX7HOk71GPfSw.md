@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > just got chilly 🥶🥶🥶🥶🥶🥶🥶
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,492 likes - 200 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,584 likes - 200 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 5 | [JAM !](https://open.spotify.com/track/2dgCHhgB4zsvKB8qcjHF7i) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [WOW!](https://open.spotify.com/album/6jG86C6kFmXlWJcTlHtHYR) | 3:43 |
 | 6 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
 | 7 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 |
-| 8 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
+| 8 | [Losing My Mind](https://open.spotify.com/track/0mjz5WjkCumo4btY4aXX9L) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Kissing In The Strobe Light EP](https://open.spotify.com/album/2TCDO979FncLHmmBUIPzFp) | 3:34 |
 | 9 | [Asheville](https://open.spotify.com/track/3kx7vZyN10rNA4hPpfZBGS) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Asheville](https://open.spotify.com/album/2H4P4WK9JJKAe7pRtW1sIa) | 2:38 |
 | 10 | [Again? Fuck.](https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Again? Fuck.](https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU) | 2:52 |
 | 11 | [HE'S SO GROSS](https://open.spotify.com/track/6F8qgEGftZCdwXLF6noYSc) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [HE'S SO GROSS](https://open.spotify.com/album/7tyJ5MjoBdnT3S8176kLFR) | 2:48 |

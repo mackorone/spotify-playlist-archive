@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAAI5r6uJLvN93ixUcYee2js",
+  "snapshot_id": "aJU+AAAAAADvYb8EkNyrLcLnKS9iIbVA",
   "tracks": [
     {
       "added_at": null,
@@ -55,22 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 237819,
-      "name": "Guia-Me",
-      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono dos Meus Dias",
         "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 237819,
+      "name": "Guia-Me",
+      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/5pURlji4i5aHLwEMWNCbAM"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Porto Seguro",
-      "url": "https://open.spotify.com/track/4i0f7BtiCQlPvopZK1b2w6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conoc\u00ed una Oveja",
         "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 274500,
       "name": "Del King",
       "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5pURlji4i5aHLwEMWNCbAM"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/4i0f7BtiCQlPvopZK1b2w6"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 262140,
+      "name": "Fa\u00e7a Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criador do Mundo",
         "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
@@ -579,42 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vitor Kivitz",
-          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
-        }
-      ],
-      "duration_ms": 229111,
-      "name": "Abril",
-      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 262140,
-      "name": "Fa\u00e7a Morada - Ao Vivo",
-      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 180188,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vitor Kivitz",
+          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
+        }
+      ],
+      "duration_ms": 229111,
+      "name": "Abril",
+      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
     },
     {
       "added_at": null,
@@ -707,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico, Vol. 2",
-        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Voc\u00ea Consegue Sim",
-      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+      "duration_ms": 216533,
+      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
     },
     {
       "added_at": null,
@@ -743,22 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
-      "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+      "duration_ms": 199600,
+      "name": "Voc\u00ea Consegue Sim",
+      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
     },
     {
       "added_at": null,

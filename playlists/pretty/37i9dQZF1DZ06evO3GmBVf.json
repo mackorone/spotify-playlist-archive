@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 204825,
+  "num_followers": 204868,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAABcWYEYjORk9YnKUlemb9dy",
+  "snapshot_id": "aJU+AAAAAACpb+d+tZC1ExXgec75c5NF",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sientelo",
+        "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 188264,
+      "name": "Sientelo",
+      "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Bais\u00f3n (feat. Toser One)",
         "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 219791,
       "name": "El Bais\u00f3n (feat. Toser One)",
       "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sientelo",
-        "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 188264,
-      "name": "Sientelo",
-      "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El Avi\u00f3n",
         "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,

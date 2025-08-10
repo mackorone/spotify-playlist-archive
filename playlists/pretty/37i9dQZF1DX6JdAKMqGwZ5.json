@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Roy Borland.",
-  "num_followers": 200070,
+  "num_followers": 200046,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Recardelino",
-        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
-      },
-      "artists": [
-        {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
-        }
-      ],
-      "duration_ms": 192850,
-      "name": "Nuestra Forma de Hablar",
-      "url": "https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "Un beso y una flor",
         "url": "https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 170862,
       "name": "Un beso y una flor",
       "url": "https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "Recardelino",
+        "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 192850,
+      "name": "Nuestra Forma de Hablar",
+      "url": "https://open.spotify.com/track/5ygPD4YuTA8Tn1GIaYq1E3"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "Vida Nueva",
+        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 169375,
+      "name": "Vida Nueva",
+      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Tachando los D\u00edas",
         "url": "https://open.spotify.com/album/3UL4sjMuMjkcBIjXZnkFwy"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 180434,
       "name": "Tachando los D\u00edas",
       "url": "https://open.spotify.com/track/0vXSZWdxv82KT8ccpwuzum"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "Vida Nueva",
-        "url": "https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "Vida Nueva",
-      "url": "https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Kryptonita",
-        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
+        "name": "ny affair",
+        "url": "https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
         }
       ],
-      "duration_ms": 164257,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
+      "duration_ms": 128315,
+      "name": "ny affair",
+      "url": "https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "Kryptonita",
+        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "As\u00ed me va",
         "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 155526,
       "name": "As\u00ed me va",
       "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "PERDEDOR",
-        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 216244,
-      "name": "PERDEDOR",
-      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -903,18 +903,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "ny affair",
-        "url": "https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H"
+        "name": "PERDEDOR",
+        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
       },
       "artists": [
         {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
         }
       ],
-      "duration_ms": 128315,
-      "name": "ny affair",
-      "url": "https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK"
+      "duration_ms": 216244,
+      "name": "PERDEDOR",
+      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -955,18 +955,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "ALKIMIA",
-        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
+        "name": "El lago de mi pena",
+        "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
       },
       "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        },
         {
           "name": "Gara Dur\u00e1n",
           "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 173168,
-      "name": "Cu\u00eddalas",
-      "url": "https://open.spotify.com/track/0OC8N9MIch9GK5YyXnycGO"
+      "duration_ms": 236138,
+      "name": "El lago de mi pena",
+      "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -983,6 +987,38 @@
       "duration_ms": 163200,
       "name": "La Suerte Que Tengo",
       "url": "https://open.spotify.com/track/37DfAS4yfIzdP7TgzrHk8b"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "ALKIMIA",
+        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 173168,
+      "name": "Cu\u00eddalas",
+      "url": "https://open.spotify.com/track/0OC8N9MIch9GK5YyXnycGO"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 166866,
+      "name": "Sexo Y Rock & Roll",
+      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1007,42 +1043,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 166866,
-      "name": "Sexo Y Rock & Roll",
-      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "El lago de mi pena",
-        "url": "https://open.spotify.com/album/16Ck8Zv5wTIE8Aealh3oxc"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        },
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 236138,
-      "name": "El lago de mi pena",
-      "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "Virgen de Magall\u00f3n",
         "url": "https://open.spotify.com/album/3bcrm514ZM8qCsRqbahmDi"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 151849,
       "name": "Virgen de Magall\u00f3n",
       "url": "https://open.spotify.com/track/4JrDAYHy48ZZWvjWk5M5uY"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 165742,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1151,6 +1135,22 @@
       "duration_ms": 157653,
       "name": "Gatos De Gasolinera",
       "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "El Bosque [2025]",
-        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+        "name": "El Laberinto [2012]",
+        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
         }
       ],
-      "duration_ms": 237242,
-      "name": "El Bosque [2025]",
-      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
+      "duration_ms": 231889,
+      "name": "El Laberinto [2012]",
+      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1575,8 +1575,8 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "El Laberinto [2012]",
-        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
+        "name": "El Bosque [2025]",
+        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
       },
       "artists": [
         {
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
         }
       ],
-      "duration_ms": 231889,
-      "name": "El Laberinto [2012]",
-      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
+      "duration_ms": 237242,
+      "name": "El Bosque [2025]",
+      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
     },
     {
       "added_at": "2025-08-07 22:00:53",

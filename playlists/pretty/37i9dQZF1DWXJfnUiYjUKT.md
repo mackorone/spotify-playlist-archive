@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Laufey on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,146 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,226 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 80 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
 | 81 | [Does It Again \(feat\. Sada Baby\)](https://open.spotify.com/track/26qqhZY3UvifpzQJLUnWHx) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Does It Again \(feat\. Sada Baby\)](https://open.spotify.com/album/33QsrYR6FXMy1A8cpFcA0W) | 1:47 |
 | 82 | [Fall Down](https://open.spotify.com/track/3jZPzLKqVtInvTsd9zmpKA) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [Kocky Ka](https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU) | [Fall Down](https://open.spotify.com/album/0x6QXaAFH2dDlYBD3wTRWq) | 3:00 |
-| 83 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue EP](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 |
+| 83 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 |
 | 84 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 |
 | 85 | [Wind of Tomorrow](https://open.spotify.com/track/4uOlsE5ivyrFxtY0nGhmoK) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:30 |
 | 86 | [Little Things](https://open.spotify.com/track/1vQtS9oKsjY6tWr3CizNAl) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Little Things](https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt) | 3:16 |

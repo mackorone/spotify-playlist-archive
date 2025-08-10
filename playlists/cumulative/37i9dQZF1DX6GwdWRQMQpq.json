@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "BOTH WAYS (Deluxe)",
+        "url": "https://open.spotify.com/album/3OKrBNG5j0zJP0cgs2p98c"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131657,
+      "name": "Big Booty Judy",
+      "url": "https://open.spotify.com/track/2vHdumPYawADlh7mY8YEbA"
+    },
+    {
+      "album": {
         "name": "FOR CERTAIN (Deluxe)",
         "url": "https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc"
       },
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 160066,
       "name": "Fine Shyt",
       "url": "https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3"

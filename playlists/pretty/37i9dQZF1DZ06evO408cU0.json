@@ -1,29 +1,13 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 61651,
+  "num_followers": 61655,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAAA6dW+QAe0AV6hp4PQY5WmO",
+  "snapshot_id": "aJU+AAAAAABBauegqyoZp67mfthVhf7+",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Vas \u00c1ngel M\u00edo",
-        "url": "https://open.spotify.com/album/43AUe0D5XNABIlA4XkWzvi"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 201585,
-      "name": "Te Vas \u00c1ngel M\u00edo",
-      "url": "https://open.spotify.com/track/2o5qbD2yCgCYGRVAiw39JL"
-    },
     {
       "added_at": null,
       "album": {
@@ -311,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
-      "url": "https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -339,6 +307,22 @@
       "duration_ms": 221626,
       "name": "C\u00f3mo No Adorarla",
       "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
+      "url": "https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0"
     },
     {
       "added_at": null,
@@ -519,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
       },
       "artists": [
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 173600,
-      "name": "En Qu\u00e9 Cabeza Cabe",
-      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
+      "duration_ms": 161493,
+      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
+      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
     },
     {
       "added_at": null,
@@ -567,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
-        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
       "artists": [
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 161493,
-      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
-      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
+      "duration_ms": 173600,
+      "name": "En Qu\u00e9 Cabeza Cabe",
+      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
     },
     {
       "added_at": null,
@@ -699,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "El N\u00famero 1",
-      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -727,6 +695,22 @@
       "duration_ms": 208973,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "El N\u00famero 1",
+      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
     },
     {
       "added_at": null,
@@ -799,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabes Que Lo Hago",
-        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Sabes Que Lo Hago",
-      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con La Tierra Encima",
         "url": "https://open.spotify.com/album/5fi4wC96OxrPAPi6Q2aom8"
       },
@@ -831,6 +799,22 @@
       "duration_ms": 188478,
       "name": "Con La Tierra Encima",
       "url": "https://open.spotify.com/track/7BSMwCPIQwvAtpVSb8WrHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabes Que Lo Hago",
+        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Sabes Que Lo Hago",
+      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
     },
     {
       "added_at": null,
@@ -875,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fibras Sensibles",
         "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
       },
@@ -907,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00edganme Tirando",
         "url": "https://open.spotify.com/album/61faNqNSGMoB925CzdoonK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 118250,
       "name": "Ya La Hice",
       "url": "https://open.spotify.com/track/3bMkWUcAtAat7K4qr5lWC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Vas \u00c1ngel M\u00edo",
+        "url": "https://open.spotify.com/album/43AUe0D5XNABIlA4XkWzvi"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 201585,
+      "name": "Te Vas \u00c1ngel M\u00edo",
+      "url": "https://open.spotify.com/track/2o5qbD2yCgCYGRVAiw39JL"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Funk Tribu
 
-542 songs - 1 day 9 hr 39 min
+543 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Open Air \- Bauernfeind & MRD Remix](https://open.spotify.com/track/67nT9OXkvqivVPdvLgNjwd) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd), [Bauernfeind](https://open.spotify.com/artist/0h154IoHceoxecVBZSopbt), [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR) | [TDJ123 DELUXE](https://open.spotify.com/album/2x1Ox1a7MYTamrbp11Y6LA) | 5:20 | 2023-03-10 | 2023-03-25 |
 | [P.A.R.T.Y.](https://open.spotify.com/track/6cdwuEuy9h42etVznXLTtd) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [P.A.R.T.Y.](https://open.spotify.com/album/0qYPyKXjit9qxZfehmx4xf) | 7:13 | 2023-03-10 | 2023-03-25 |
 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 | 2024-06-13 |  |
+| [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-07 |  |
 | [Papi](https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk) | [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Papi](https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr) | 3:36 | 2025-07-11 |  |
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-09-15 |  |
 | [Party People](https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Nik Sitz](https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Party People](https://open.spotify.com/album/1iTxUzn9DqvScz3SJVjdgz) | 3:15 | 2024-08-12 |  |
@@ -412,7 +413,7 @@
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-03-03 |  |
 | [Rush \(I don't wanna wait\)](https://open.spotify.com/track/7tkPw0P56OY7TunYp1PXnQ) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl) | [Rush \(I don't wanna wait\)](https://open.spotify.com/album/4Ft7cYMDNGAQt50FBfTnXk) | 2:33 | 2024-12-28 | 2025-01-07 |
 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 | 2023-06-29 |  |
-| [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-20 |  |
+| [Sarà perché ti amo](https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB) | [Sarà perché ti amo](https://open.spotify.com/album/42TliMaS2eKrHcVEzggsAh) | 2:14 | 2023-10-20 | 2025-08-10 |
 | [Satan Was A Babyboomer](https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Satan Was A Babyboomer](https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss) | 7:07 | 2024-12-28 |  |
 | [Save The Last Dance](https://open.spotify.com/track/6dXtAHx10RxPkffHGrlgSs) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Save The Last Dance](https://open.spotify.com/album/4oGVlj2GZGx5MmIVzy6WmR) | 4:23 | 2025-06-27 | 2025-07-04 |
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2024-12-09 |  |

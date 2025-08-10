@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Laufey, Ed Sheeran, Gunna, Bailey Zimmerman & The Kid LAROI, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,424,279 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,424,468 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 80 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
 | 81 | [Does It Again \(feat\. Sada Baby\)](https://open.spotify.com/track/26qqhZY3UvifpzQJLUnWHx) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Does It Again \(feat\. Sada Baby\)](https://open.spotify.com/album/33QsrYR6FXMy1A8cpFcA0W) | 1:47 |
 | 82 | [Fall Down](https://open.spotify.com/track/3jZPzLKqVtInvTsd9zmpKA) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [Kocky Ka](https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU) | [Fall Down](https://open.spotify.com/album/0x6QXaAFH2dDlYBD3wTRWq) | 3:00 |
-| 83 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue EP](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 |
+| 83 | [Attendance](https://open.spotify.com/track/2pYjR9TqU2gCma5jk3S2wD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Hue](https://open.spotify.com/album/20gO8aAvP1mX1TcEtIgkgh) | 2:29 |
 | 84 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 |
 | 85 | [Wind of Tomorrow](https://open.spotify.com/track/4uOlsE5ivyrFxtY0nGhmoK) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:30 |
 | 86 | [Little Things](https://open.spotify.com/track/1vQtS9oKsjY6tWr3CizNAl) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Little Things](https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt) | 3:16 |
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 97 | [Big Strap \(feat\. Young Nudy\)](https://open.spotify.com/track/0uuBknO8hGs1NevVGfU5zh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:06 |
 | 98 | [Wonder & Awe](https://open.spotify.com/track/1DTKaZqF5TqzEUCqVBLhvZ) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Wonder & Awe](https://open.spotify.com/album/5BHHmCWwiCPVFzbsHhzcJL) | 3:46 |
 | 99 | [Then You Happened](https://open.spotify.com/track/6ecMgHh6mgKLjBTM1BynhM) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Then You Happened](https://open.spotify.com/album/32Q4UfB1mCue1NGQaLER4H) | 3:03 |
+| 100 | [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 |
 
 Snapshot ID: `AAAAAMo+vHl8XBSaqSSYyuf3noQ/kexv`

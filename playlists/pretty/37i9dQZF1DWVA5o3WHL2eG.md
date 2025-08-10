@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,975 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,049 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
 | 16 | [mkgee](https://open.spotify.com/track/4CEfrOIldUMFo9RblPpM95) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [mkgee](https://open.spotify.com/album/7DlnVM0rPlJTCA6elSbKgY) | 2:54 |
 | 17 | [Ottić](https://open.spotify.com/track/3uGOm9FHDf9pk8ashpwp4P) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [Ottić](https://open.spotify.com/album/2jqelSP8ryG4KfZEuvuiIG) | 2:06 |
-| 18 | [Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autopilot](https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW) | 2:27 |
-| 19 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
+| 18 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
+| 19 | [Autopilot](https://open.spotify.com/track/5cP6xOgTrbqzG8DNMTyG2x) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Autopilot](https://open.spotify.com/album/7kKmN36e3lVev0XRVpnJEW) | 2:27 |
 | 20 | [Kopf gegen die Wand](https://open.spotify.com/track/11FgjKX6bMIKDg3lN5la0f) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Kopf gegen die Wand](https://open.spotify.com/album/2XocjA7TpKr6P2pLzU6Tz3) | 3:07 |
-| 21 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
-| 22 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
-| 23 | [MURDA MURDA](https://open.spotify.com/track/1IkWSFtfvIEqdFIG21XllU) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [MURDA MURDA](https://open.spotify.com/album/0nlebnTFv4fJtWnPnNhsFO) | 2:08 |
+| 21 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
+| 22 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
+| 23 | [Königin von Deutschland](https://open.spotify.com/track/1LV8CBywlpM080hUT3GlsJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Königin von Deutschland](https://open.spotify.com/album/2hR4SYvRt87E2HAggT9ZQY) | 2:21 |
 | 24 | [Ich nehm die Sonne mit](https://open.spotify.com/track/1gx7oxnWR9Aiw9CiMh2idj) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich nehm die Sonne mit](https://open.spotify.com/album/4HBIImyViKdxKae8JzvlUQ) | 2:50 |
 | 25 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
-| 26 | [Königin von Deutschland](https://open.spotify.com/track/1LV8CBywlpM080hUT3GlsJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Königin von Deutschland](https://open.spotify.com/album/2hR4SYvRt87E2HAggT9ZQY) | 2:21 |
+| 26 | [MURDA MURDA](https://open.spotify.com/track/1IkWSFtfvIEqdFIG21XllU) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [MURDA MURDA](https://open.spotify.com/album/0nlebnTFv4fJtWnPnNhsFO) | 2:08 |
 | 27 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
 | 28 | [So nah](https://open.spotify.com/track/3jiTUSjtdSekmfgZYkGjKl) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [So nah](https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg) | 3:26 |
 | 29 | [VIVA LA CHICA](https://open.spotify.com/track/6EHzMI4sAZmmICUTxPBxGH) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [VIVA LA CHICA](https://open.spotify.com/album/2CPR9JINpI5HnTR66m3q5c) | 2:10 |

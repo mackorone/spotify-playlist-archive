@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Chapo102
 
-248 songs - 11 hr 10 min
+249 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Du liebst mich nicht](https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Du liebst mich nicht](https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC) | 2:40 | 2024-06-28 | 2024-10-31 |
 | [Duftkerzen](https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Duftkerzen](https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J) | 2:30 | 2024-08-22 | 2024-09-23 |
 | [Dunya](https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Dunya](https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz) | 2:54 | 2025-07-03 |  |
-| [Edamame](https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Edamame](https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2) | 1:55 | 2025-07-03 |  |
+| [Edamame](https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Edamame](https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2) | 1:55 | 2025-07-03 | 2025-08-10 |
 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 | 2024-10-24 | 2024-11-12 |
+| [Eh zu kurz](https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Eh zu kurz](https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G) | 2:24 | 2025-08-07 |  |
 | [Eigentlich](https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Eigentlich](https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ) | 2:38 | 2024-06-28 |  |
 | [Ein Auge blau](https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF) | [Peter Fox](https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI) | [Ein Auge blau](https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF) | 3:02 | 2024-06-28 | 2024-10-11 |
 | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD) | 2:56 | 2024-07-25 | 2024-10-18 |

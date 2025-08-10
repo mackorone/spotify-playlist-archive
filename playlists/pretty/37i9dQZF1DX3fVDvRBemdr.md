@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > Wekelijkse update met Hollands en volks\. Cover: Frans Bauer & Django Wagner
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,654 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,677 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 |
 | 2 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 |
 | 3 | [Zeg me wat er overblijft](https://open.spotify.com/track/2qL7aeqirqV3aZwBNB8h1z) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Zeg me wat er overblijft](https://open.spotify.com/album/6Wcw24l3aqQorZlRbp8IiA) | 2:43 |
-| 4 | [Is Het Een Droom](https://open.spotify.com/track/6ui1EjGuf8QQPi6AUhI28e) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Is Het Een Droom](https://open.spotify.com/album/5MBUQmInGm8RCXa5ihoGKn) | 2:35 |
-| 5 | [Dansend Op Die Melodie](https://open.spotify.com/track/4keARjEt9p4Y2Cst04f19Y) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Dansend Op Die Melodie](https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb) | 2:39 |
-| 6 | [Neem Er Nog Een](https://open.spotify.com/track/6aE8Z4kbnbHq16WvnYAYNo) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Neem Er Nog Een](https://open.spotify.com/album/4Z6CtG9c9udKRzoGapGj9u) | 3:12 |
-| 7 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
-| 8 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
-| 9 | [Wat Heb Je Gedaan ?](https://open.spotify.com/track/0IljWFpIc75avph7Bk93Oa) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Wat Heb Je Gedaan ?](https://open.spotify.com/album/7fBipyDft5KH60MPo34sxl) | 2:32 |
-| 10 | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/track/35yUzQ46yiBD2FH9EDLcaU) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/album/7nC7I2Mi7ch4DQA7FZBn9A) | 2:53 |
+| 4 | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/track/35yUzQ46yiBD2FH9EDLcaU) | [Sani van Mullem](https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O) | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/album/7nC7I2Mi7ch4DQA7FZBn9A) | 2:53 |
+| 5 | [Is Het Een Droom](https://open.spotify.com/track/6ui1EjGuf8QQPi6AUhI28e) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Is Het Een Droom](https://open.spotify.com/album/5MBUQmInGm8RCXa5ihoGKn) | 2:35 |
+| 6 | [Dansend Op Die Melodie](https://open.spotify.com/track/4keARjEt9p4Y2Cst04f19Y) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Dansend Op Die Melodie](https://open.spotify.com/album/3nDvmiAgon6g46Xwm0oTJb) | 2:39 |
+| 7 | [Neem Er Nog Een](https://open.spotify.com/track/6aE8Z4kbnbHq16WvnYAYNo) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV), [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Neem Er Nog Een](https://open.spotify.com/album/4Z6CtG9c9udKRzoGapGj9u) | 3:12 |
+| 8 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 |
+| 9 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 |
+| 10 | [Wat Heb Je Gedaan ?](https://open.spotify.com/track/0IljWFpIc75avph7Bk93Oa) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Wat Heb Je Gedaan ?](https://open.spotify.com/album/7fBipyDft5KH60MPo34sxl) | 2:32 |
 | 11 | [De Grote Stad](https://open.spotify.com/track/1oINIoAU4hC3Zqm1FkgQ1h) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [De Grote Stad](https://open.spotify.com/album/3ZyvQbG8QVn4v75oo4z1HL) | 2:34 |
 | 12 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
 | 13 | [De Wereld Aan](https://open.spotify.com/track/2beXuG1FeDAxnytU87jr54) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [De Wereld Aan](https://open.spotify.com/album/4NZpsdMj7uwxMYx7VhwgRY) | 3:07 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 89 | [Serie A](https://open.spotify.com/track/7MlWIX6QHF52q3EqQX57OZ) | [Kevin Paré](https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU) | [Serie A](https://open.spotify.com/album/5qThiEzlcLnU38iuj2A2rJ) | 2:39 |
 | 90 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 |
 
-Snapshot ID: `AAAAAMZc2Xry2WZEY8V9vv4ko7AegGgl`
+Snapshot ID: `AAAAAHB9efbLjqyNThpC4NZb4wks047Q`

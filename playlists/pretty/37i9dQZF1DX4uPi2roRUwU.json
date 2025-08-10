@@ -1,6 +1,6 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 1351240,
+  "num_followers": 1351284,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-08-04 17:38:20",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
-      },
-      "artists": [
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 137222,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
-    },
-    {
-      "added_at": "2025-08-04 17:38:20",
-      "album": {
         "name": "Focus (feat. CLOVES)",
         "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 238242,
       "name": "Focus (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+    },
+    {
+      "added_at": "2025-08-04 17:38:20",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 137222,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
     },
     {
       "added_at": "2025-08-04 17:38:20",

@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
+    },
+    {
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -11774,7 +11792,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 254520,
       "name": "Home",
       "url": "https://open.spotify.com/track/1vo8399T9sWFZ9vbrEcTL5"
@@ -18454,7 +18472,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -18646,7 +18664,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 208800,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/0ZucqgZyAWeLzjFRExVDIW"
@@ -19566,7 +19584,7 @@
           "url": "https://open.spotify.com/artist/5eMYTXbbO2mmgauCnwLA67"
         },
         {
-          "name": "ShiGGa Shay",
+          "name": "SHIGGA SHAY",
           "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
         },
         {
@@ -19575,12 +19593,12 @@
         },
         {
           "name": "Fariz Jabba",
-          "url": "https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh"
+          "url": "https://open.spotify.com/artist/6KZYWV3exwt7yxLpaUBJLz"
         }
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 240419,
       "name": "Our Singapore - NDP 2019 Theme Song",
       "url": "https://open.spotify.com/track/3UDb3MiDrkUPLMvKBWy0Sn"
@@ -21968,7 +21986,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -23040,7 +23058,7 @@
           "url": "https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd"
         },
         {
-          "name": "ShiGGa Shay",
+          "name": "SHIGGA SHAY",
           "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
         },
         {
@@ -23054,7 +23072,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Shine Your Light",
       "url": "https://open.spotify.com/track/6gK7zSvaNXzwUTowopQuwW"
@@ -24934,7 +24952,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 166773,
       "name": "Strategy",
       "url": "https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5"
@@ -24996,7 +25014,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 166773,
       "name": "Strategy (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/22fSzde77hjB052Vo155LF"
@@ -25196,7 +25214,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 155000,
       "name": "Stylish",
       "url": "https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f"
@@ -26098,7 +26116,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq"
@@ -26134,7 +26152,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -27174,7 +27192,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 216288,
       "name": "The Road Ahead",
       "url": "https://open.spotify.com/track/6kuyKfMGPbxIMIdFLtlouQ"
@@ -27430,7 +27448,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
@@ -29218,6 +29236,24 @@
       "duration_ms": 189727,
       "name": "Wandered To LA (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4"
+    },
+    {
+      "album": {
+        "name": "WANTCHU",
+        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199896,
+      "name": "WANTCHU",
+      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
       "album": {
@@ -31656,7 +31692,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
@@ -31794,7 +31830,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 208523,
       "name": "\u5ea7\u4f4d",
       "url": "https://open.spotify.com/track/4s3iUkYgh9gCeGYqCODrQe"
@@ -32220,7 +32256,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 206080,
       "name": "\u70c2\u7247\u5267\u60c5",
       "url": "https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG"

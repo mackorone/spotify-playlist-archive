@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! babas tutsipop en portada.",
-  "num_followers": 36013,
+  "num_followers": 36018,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Tormentas Inesperadas",
         "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 229247,
       "name": "La \u00daltima Noche - con Estopa",
       "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Mientras La Ciudad Descansa con Jacinto (Re-versi\u00f3n)",
         "url": "https://open.spotify.com/album/5UHRl6swmNo1VhOB2CKQdr"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 134014,
       "name": "Mientras La Ciudad Descansa - Re-versi\u00f3n",
       "url": "https://open.spotify.com/track/4HDDaURdyjlURlWDlhcqaQ"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "Cuando Te Dejan De Querer",
-        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 155700,
-      "name": "Cuando Te Dejan De Querer",
-      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Que nadie me llore",
         "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 210970,
       "name": "Que nadie me llore",
       "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "Cuando Te Dejan De Querer",
+        "url": "https://open.spotify.com/album/0kuoEBCDBA3GVKycgN1Si0"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 155700,
+      "name": "Cuando Te Dejan De Querer",
+      "url": "https://open.spotify.com/track/2mWtH6oDhBg0tcM2joSVpj"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
         "name": "Te Desenamoraste",
         "url": "https://open.spotify.com/album/7LKSwnfdobqRHjOtUHMn1D"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 154514,
       "name": "sin nada",
       "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
     },
     {
       "added_at": "2025-07-04 06:00:11",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-07-04 06:00:11",
       "album": {
+        "name": "Consecuencias",
+        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 275380,
+      "name": "Consecuencias",
+      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
+    },
+    {
+      "added_at": "2025-07-04 06:00:11",
+      "album": {
         "name": "Qu\u00e9 Bien Se Te Ve",
         "url": "https://open.spotify.com/album/1PrHdsonw7QUGrOLmekfsN"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 151747,
       "name": "Qu\u00e9 Bien Se Te Ve",
       "url": "https://open.spotify.com/track/2Qu7k75pTkO1swHgMoHDus"
-    },
-    {
-      "added_at": "2025-07-04 06:00:11",
-      "album": {
-        "name": "Consecuencias",
-        "url": "https://open.spotify.com/album/35BQykQOrFaoEpCCN7w1MQ"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 275380,
-      "name": "Consecuencias",
-      "url": "https://open.spotify.com/track/7FvOpzLt6hZhPuebK5TIS6"
     },
     {
       "added_at": "2025-07-04 06:00:11",

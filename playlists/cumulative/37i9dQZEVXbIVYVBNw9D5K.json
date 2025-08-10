@@ -6586,7 +6586,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 185786,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/5pEpvR03HbLxkBtK73EeJw"
@@ -9168,7 +9168,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 186562,
       "name": "GELME \u0130STEMEM",
       "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
@@ -10161,6 +10161,28 @@
     },
     {
       "album": {
+        "name": "G\u00f6\u00e7ebe",
+        "url": "https://open.spotify.com/album/4QBR6vaCwYHe3PQQKhk4Cu"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Serdar Orta\u00e7",
+          "url": "https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "G\u00f6\u00e7ebe",
+      "url": "https://open.spotify.com/track/0wvcfZY5c8B2j0rsqMzWdy"
+    },
+    {
+      "album": {
         "name": "G\u00fcld\u00fc\u011f\u00fcn G\u00fcn",
         "url": "https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA"
       },
@@ -10538,7 +10560,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 133548,
       "name": "Hako diyorlar",
       "url": "https://open.spotify.com/track/2CdAVMxPhRsEHr3w5JzJu6"
@@ -14049,6 +14071,28 @@
     },
     {
       "album": {
+        "name": "ketojenik",
+        "url": "https://open.spotify.com/album/0pDKtMxJJzNrvYFPtZWddu"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "ketojenik",
+      "url": "https://open.spotify.com/track/58QSOYAIOBR6DTYwhLUEMh"
+    },
+    {
+      "album": {
         "name": "Virt\u00fc\u00f6z",
         "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
       },
@@ -16292,7 +16336,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 166568,
       "name": "Mesafeler",
       "url": "https://open.spotify.com/track/0g1yZORNiAs4BjQiPFwQdO"
@@ -19645,6 +19689,24 @@
     },
     {
       "album": {
+        "name": "Sakin Ol",
+        "url": "https://open.spotify.com/album/6QPUaFHx3eZfBfNime5aY0"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156372,
+      "name": "Sakin Ol",
+      "url": "https://open.spotify.com/track/1TsqyCcGctVZpyLraRRt2i"
+    },
+    {
+      "album": {
         "name": "SAKIN OLA",
         "url": "https://open.spotify.com/album/2CHcRXtH2WK6TcPHpoaP1G"
       },
@@ -22873,6 +22935,28 @@
     },
     {
       "album": {
+        "name": "WAG1",
+        "url": "https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Modd",
+          "url": "https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126401,
+      "name": "WAG1",
+      "url": "https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7"
+    },
+    {
+      "album": {
         "name": "Loyalty Over Royalty",
         "url": "https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G"
       },
@@ -23356,7 +23440,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 151512,
       "name": "YANKI X \u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
@@ -25236,7 +25320,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-10",
       "duration_ms": 139354,
       "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
       "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"

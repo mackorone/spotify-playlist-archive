@@ -4,7 +4,7 @@
 
 > Really lovely songs.
 
-501 songs - 1 day 6 hr 20 min
+502 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Beggar](https://open.spotify.com/track/1DseRcZXWabAhUpeFHnzPX) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Beggar](https://open.spotify.com/album/19DDCRVRxlGOrxkp4auzi7) | 4:49 | 2021-11-12 | 2022-07-23 |
 | [Better Late Than Never](https://open.spotify.com/track/1tdQHjUIHbWAPprSFRUD8b) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Better Late Than Never](https://open.spotify.com/album/5m8cl1QGDKzOaeoLiEnyuO) | 3:32 | 2022-06-22 | 2022-07-29 |
 | [Between Your Teeth](https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Between Your Teeth](https://open.spotify.com/album/7mwqbpDbLgAWr85eW1Vp3E) | 2:53 | 2021-11-12 | 2022-07-22 |
+| [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 | 2025-03-29 |  |
 | [Big Nothing](https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 2:22 | 2021-11-12 | 2022-07-25 |
 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 | 2022-02-04 | 2022-07-25 |
 | [Bigger](https://open.spotify.com/track/1UfGrmZa1bUQ6nsfDdSiNU) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Bigger](https://open.spotify.com/album/0Wt5pNo6es8RBwXUPIreWl) | 2:59 | 2022-03-19 | 2022-07-10 |
@@ -197,7 +198,7 @@
 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 | 2022-06-22 | 2022-12-12 |
 | [Hold On](https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh) | 3:46 | 2022-03-19 | 2022-04-12 |
 | [Hold On](https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC) | 3:46 | 2022-08-05 | 2024-04-19 |
-| [Hole In A Frame](https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Hole In A Frame / Pants](https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX) | 3:03 | 2025-03-29 |  |
+| [Hole In A Frame](https://open.spotify.com/track/21cWL7lvLaKQfPbC30Aejs) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Hole In A Frame / Pants](https://open.spotify.com/album/2UlP6ggb5jkWOOQROaPRaX) | 3:03 | 2025-03-29 | 2025-08-10 |
 | [Homesick](https://open.spotify.com/track/4l4OeUp1JGVk6ZbB3z24PG) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Homesick](https://open.spotify.com/album/2ZXdB4RuGqRvF74aajst3v) | 3:01 | 2023-01-26 | 2023-01-27 |
 | [honey](https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:14 | 2022-03-19 | 2025-03-30 |
 | [Honey](https://open.spotify.com/track/0mNoOaGPACxijG3wkudf6R) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Slack A](https://open.spotify.com/album/6yhwC2yFrX1js48ITVygoH) | 3:44 | 2025-03-29 |  |

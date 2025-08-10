@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 152176,
+  "num_followers": 152188,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJPsgAAAAADhh6BIJhUEYt46slM6NfkO",
+  "snapshot_id": "aJU+AAAAAAAP9K1coyS9Qdylt4tMfGFy",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 235672,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DiCaprio 2",
         "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 244801,
       "name": "Tiiied (feat. 6LACK & Ella Mai)",
       "url": "https://open.spotify.com/track/4kswfYbJFf6FPzMElZmtve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 194195,
-      "name": "Surface",
-      "url": "https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 210563,
       "name": "Love Me Like That (Champion Love)",
       "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 194195,
+      "name": "Surface",
+      "url": "https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm"
     },
     {
       "added_at": null,

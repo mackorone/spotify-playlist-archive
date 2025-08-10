@@ -1,6 +1,6 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
-  "num_followers": 117965,
+  "num_followers": 117976,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-08-05 15:00:32",
       "album": {
-        "name": "QUEEN",
-        "url": "https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "QUEEN",
-      "url": "https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j"
-    },
-    {
-      "added_at": "2025-08-05 15:00:32",
-      "album": {
         "name": "\u32f0\u8cac\u4efb\u96c6\u5408\u4f53",
         "url": "https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210777,
       "name": "\u32f0\u8cac\u4efb\u96c6\u5408\u4f53",
       "url": "https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc"
+    },
+    {
+      "added_at": "2025-08-05 15:00:32",
+      "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j"
     },
     {
       "added_at": "2025-08-05 15:00:32",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-08-05 15:00:32",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
-        "url": "https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs"
-      },
-      "artists": [
-        {
-          "name": "Chinozo",
-          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
-        }
-      ],
-      "duration_ms": 172470,
-      "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
-      "url": "https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9"
-    },
-    {
-      "added_at": "2025-08-05 15:00:32",
-      "album": {
         "name": "\u30c9\u5c51",
         "url": "https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 120000,
       "name": "\u30c9\u5c51",
       "url": "https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx"
+    },
+    {
+      "added_at": "2025-08-05 15:00:32",
+      "album": {
+        "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
+        "url": "https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs"
+      },
+      "artists": [
+        {
+          "name": "Chinozo",
+          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+        }
+      ],
+      "duration_ms": 172470,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9"
     }
   ],
   "unique_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",

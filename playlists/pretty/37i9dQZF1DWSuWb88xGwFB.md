@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,159 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,173 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 29 | [Carnival '95 \- Pride Vocal Mix](https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88) | [Club Ultimate](https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 6:04 |
 | 30 | [Got Me Burning Up \- Pierre's Pitch Fo\-Yo Ass!](https://open.spotify.com/track/74jbq4DsGiXh8JzYurUk34) | [Maurice](https://open.spotify.com/artist/6uDQPOr3XXiA2JVcUaoTqs) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 12:10 |
 | 31 | [My People \- My People Mix](https://open.spotify.com/track/0Wf3Ko5HwW390Y08KWh90L) | [Shadii](https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2) | [The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC \(Unmixed\)](https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr) | 5:42 |
-| 32 | [Alright \(feat\. Earl Bennett\) \- BOP Journey Remix](https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI) | [B.O.P.](https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf), [Earl Bennett](https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe) | [Alright \(feat\. Earl Bennett\)](https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6) | 10:05 |
-| 33 | [I Could Be This¦ \(The Remix\) \- Morel's That Mix](https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m) | [Androgeny](https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 8:14 |
+| 32 | [I Could Be This¦ \(The Remix\) \- Morel's That Mix](https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m) | [Androgeny](https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ) | [The Lost Tapes: Pride 95 \(Mixed by Lil' Louis\) \[DJ Edition; Unmixed\]](https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I) | 8:14 |
+| 33 | [Alright \(feat\. Earl Bennett\) \- BOP Journey Remix](https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI) | [B.O.P.](https://open.spotify.com/artist/4wgHscFAZfZ1SPzvNguxBf), [Earl Bennett](https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe) | [Alright \(feat\. Earl Bennett\)](https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6) | 10:05 |
 | 34 | [Boy \- MK Deep Dub](https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0) | [K.E.L.S.E.Y.](https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64) | [This Way / Boy](https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2) | 7:08 |
 | 35 | [Dancin](https://open.spotify.com/track/5U1FlG1YtpjFtM2AHp9u3d) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr) | [Dancin' EP](https://open.spotify.com/album/2xa9613s8FJNJ9pt22wQOS) | 12:11 |
 | 36 | [So Deep, So Good \- Ndako Gboya Mix](https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax) | [M & M](https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7) | [So Deep, So Good](https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG) | 7:36 |

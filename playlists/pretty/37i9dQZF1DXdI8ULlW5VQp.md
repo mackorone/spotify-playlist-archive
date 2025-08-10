@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Sueña lindo, corazón..\. 💖✨ Arath Herce en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,372 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,360 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 44 | [Lo Que Mis Ojos Ven](https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Lo Que Mis Ojos Ven](https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA) | 3:27 |
 | 45 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 |
 | 46 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
-| 47 | [tu foto x ahí](https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tu foto x ahí](https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b) | 2:36 |
-| 48 | [Amor Eterno](https://open.spotify.com/track/1h84pMokuANUjHQe87sOnq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [Hijo de Lope](https://open.spotify.com/artist/6oFThPHvAjFpHTS7JnkgJ6) | [Amor Eterno](https://open.spotify.com/album/2vnXyDHxgdKmrPZ66vPuuB) | 4:24 |
+| 47 | [Amor Eterno](https://open.spotify.com/track/1h84pMokuANUjHQe87sOnq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [Hijo de Lope](https://open.spotify.com/artist/6oFThPHvAjFpHTS7JnkgJ6) | [Amor Eterno](https://open.spotify.com/album/2vnXyDHxgdKmrPZ66vPuuB) | 4:24 |
+| 48 | [tu foto x ahí](https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [tu foto x ahí](https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b) | 2:36 |
 | 49 | [febrero](https://open.spotify.com/track/5d80aeDtbjALCuBUENE9rf) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [febrero](https://open.spotify.com/album/5kVqa2z1cseI8PorTtmEAX) | 3:46 |
 | 50 | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Cuanto antes \(feat\. Lali\)](https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV) | 3:46 |
 | 51 | [Truco Viejo](https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Truco Viejo](https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY) | 2:54 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 66 | [El lugar correcto \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/7jqPeQkJNXDXQXtpgNDKGx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [El lugar correcto \(En Vivo \[Live at Carnegie Hall\]\)](https://open.spotify.com/album/3ANUhdT7lKssCXcizHF3qN) | 3:30 |
 | 67 | [Ya Valió](https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Escribí Esto para Ti](https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K) | 3:00 |
 | 68 | [Polvo De Gigantes](https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Polvo De Gigantes](https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL) | 2:33 |
-| 69 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
-| 70 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
+| 69 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
+| 70 | [Sonora](https://open.spotify.com/track/6chfN5Qo4Z9dfuSHxxKSDM) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Sonora](https://open.spotify.com/album/7vPsHR8Mut9AcfpK0PzrhW) | 3:27 |
 | 71 | [Soledad y el Mar \(feat\. Omara Portuondo\) \- En Vivo \[Live at Carnegie Hall\]](https://open.spotify.com/track/61VLdQkaL52sOlAk5TV54k) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Natalia Lafourcade Live at Carnegie Hall](https://open.spotify.com/album/18JArdeamDNxXvj1SvtiiY) | 4:12 |
 | 72 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 73 | [Límite](https://open.spotify.com/track/2tRnLRsa95TerxZcp7TQw9) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Límite](https://open.spotify.com/album/2g726IZnfuq8IREWYwPvb1) | 3:12 |

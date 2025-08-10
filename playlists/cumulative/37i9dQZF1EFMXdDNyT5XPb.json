@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/76CqLU04318qHpjS8bCsxy"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2025-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186766,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2SUUnItpyZN8ZQRXyHdRiV"
+    },
+    {
+      "album": {
         "name": "Don't Even Know Your Name",
         "url": "https://open.spotify.com/album/2F3t7A71izLYlhfSuw6LZE"
       },

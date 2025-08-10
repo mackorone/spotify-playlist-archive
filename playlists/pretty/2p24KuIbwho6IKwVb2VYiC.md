@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: James Hype
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,437 likes - 152 songs - 7 hr 51 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,436 likes - 152 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

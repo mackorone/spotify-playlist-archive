@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 973592,
+  "num_followers": 973737,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Hit Single Anthology",
-        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
-      },
-      "artists": [
-        {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 184880,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Hit Single Anthology",
+        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
+      },
+      "artists": [
+        {
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
     },
     {
       "added_at": "2024-07-05 23:26:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Khan Bhaini and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,624 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,642 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 47 | [AMIRI](https://open.spotify.com/track/6lxvTBkpd6AEvqoL7knFSM) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [GRAVITY](https://open.spotify.com/album/1upZ0J1XNOfk4efImpsBHJ) | 1:51 |
 | 48 | [Zigana](https://open.spotify.com/track/2WUJZ1MxeBm5pSXBej6L2y) | [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Zigana](https://open.spotify.com/album/31W9PXaT4ZgtHCINhKoLhN) | 2:00 |
 | 49 | [Visionary](https://open.spotify.com/track/6OCMFbRCNF42DArqEY3Ewj) | [Big Scene](https://open.spotify.com/artist/27W0GoT0fL5RqmkozZ7aLo) | [Visionary](https://open.spotify.com/album/1dfxLOqFWKKHeJZWFsbsB2) | 2:10 |
-| 50 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Jagdeep Sangala](https://open.spotify.com/artist/11yV8UErIJ7UgqtNmUBJB8), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
+| 50 | [Akh Gabru Di](https://open.spotify.com/track/4p4n1ISof9WQG6USGDlGMe) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [JAGDEEEP SANGALA](https://open.spotify.com/artist/0uNWUtyWGwhQ2W13L27QW9), [Mann](https://open.spotify.com/artist/5h2PjbCpvbSUtQ8Cby3GAh) | [Akh Gabru Di](https://open.spotify.com/album/1QwUl17rzPmoP8LZJi7v0c) | 2:33 |
 | 51 | [Gen\-Z](https://open.spotify.com/track/0ZMVByrfaCZIFsFe04UPxO) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Gen\-Z](https://open.spotify.com/album/4YUtyODqnO8gXu8zgADbnS) | 2:17 |
 | 52 | [Superstar](https://open.spotify.com/track/5ZYdnrx8FCqb1Yt7xGfgck) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Superstar](https://open.spotify.com/album/4aTDCllLClADNAXO3Ifd6h) | 3:38 |
 | 53 | [Defender](https://open.spotify.com/track/437V4XGufH1ihlR6RpBlCY) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Inderbir Sidhu](https://open.spotify.com/artist/13OwxGA9oZ2lfD0okFH46g), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Defender](https://open.spotify.com/album/2t7GYKilGPmRbCfwYrZGxS) | 3:10 |
