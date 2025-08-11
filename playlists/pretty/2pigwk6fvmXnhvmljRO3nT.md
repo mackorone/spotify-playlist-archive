@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,504 songs - 19 day 11 hr 6 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,520 songs - 19 day 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7512,5 +7512,21 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7502 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 7503 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
 | 7504 | [First Light \- 2018 Remaster](https://open.spotify.com/track/5Dra6dW1mc7BOh833TDowz) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:33 |
+| 7505 | [心のチャイム\(2012 Version\)](https://open.spotify.com/track/0ldEDw9Zl9rhVfdbhk6AvP) | [hil](https://open.spotify.com/artist/2MbbIrdBoyD0U6tUfqDRKF) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 3:06 |
+| 7506 | [タイガー道場のテーマ\(2012 Version\)](https://open.spotify.com/track/4dMp0msHNy7jxHMDwAiz65) | [hil](https://open.spotify.com/artist/2MbbIrdBoyD0U6tUfqDRKF) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:40 |
+| 7507 | [移りゆく季節\(Realta Nua ver\. 2012\)](https://open.spotify.com/track/6ZlKjibJ0JPNYrk5kN5yNU) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 1:58 |
+| 7508 | [日差しの中で\(2012 Version\)](https://open.spotify.com/track/6dgkk8ZPFxACdZOJTsMrY8) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:35 |
+| 7509 | [穏やかな毎日\(2012 Version\)](https://open.spotify.com/track/3D0c0XlbEGpMj7A3CxKRI0) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 3:04 |
+| 7510 | [優しい風景\(2012 Version\)](https://open.spotify.com/track/0CDk8kdki47SW7TG2RMQzG) | [James Harris](https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:23 |
+| 7511 | [茜色の街\(2012 Version\)](https://open.spotify.com/track/5C8qnIU1tX70NvF2Y7Qufu) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:02 |
+| 7512 | [笑顔に囲まれて\(2012 Version\)](https://open.spotify.com/track/1m2wM3vJoaiU3Vxs5aHnyA) | [James Harris](https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 3:09 |
+| 7513 | [二人の時間\(2012 Version\)](https://open.spotify.com/track/4QmCv89tlMQmoOlMA8XOWM) | [James Harris](https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:13 |
+| 7514 | [消えない想い\(2012 Version\)](https://open.spotify.com/track/1LjhA2cQndxZkNg2BkqTm7) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:37 |
+| 7515 | [追憶の彼方\(2012 Version\)](https://open.spotify.com/track/3QHjcCgzVZqpCybJxinKpQ) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 1:32 |
+| 7516 | [This Side of Paradise](https://open.spotify.com/track/1hLTBInGs7KetRltXojS7X) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 1\) \[Original Game Soundtrack\]](https://open.spotify.com/album/1kh5E8u7JurLf7RnuyAIFg) | 2:03 |
+| 7517 | [The Big Sleep](https://open.spotify.com/track/3aqYJjUGsVYnynSoaam5Yd) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 1\) \[Original Game Soundtrack\]](https://open.spotify.com/album/1kh5E8u7JurLf7RnuyAIFg) | 2:08 |
+| 7518 | [Realitätsprinzip](https://open.spotify.com/track/7ek6wt4lmUVBtGuB6GXrOJ) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 1\) \[Original Game Soundtrack\]](https://open.spotify.com/album/1kh5E8u7JurLf7RnuyAIFg) | 2:22 |
+| 7519 | [Lustprinzip](https://open.spotify.com/track/04khRmLogSxBJrmAM5cQkE) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 1\) \[Original Game Soundtrack\]](https://open.spotify.com/album/1kh5E8u7JurLf7RnuyAIFg) | 1:46 |
+| 7520 | [If One Wakes at Midnight](https://open.spotify.com/track/4LiqXhSkVHCdbnDC2KnnGL) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- The Flapper Sinthome \(Part 1\) \[Original Game Soundtrack\]](https://open.spotify.com/album/1kh5E8u7JurLf7RnuyAIFg) | 1:00 |
 
-Snapshot ID: `AAAIHMfcCEr/GYmD6uyVF1VlhloscSh3`
+Snapshot ID: `AAAILGHngIhMUZXcj0FrwP4d/HD5NV9X`

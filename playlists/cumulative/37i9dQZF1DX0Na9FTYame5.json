@@ -1103,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Eintausend Farben",
+        "url": "https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156836,
+      "name": "Eintausend Farben",
+      "url": "https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx"
+    },
+    {
+      "album": {
         "name": "Elbe",
         "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 179411,
       "name": "Nicht Perfekt",
       "url": "https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN"
@@ -3314,7 +3332,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 206085,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -5004,6 +5022,24 @@
       "duration_ms": 146616,
       "name": "\u00dcber dem Himmel",
       "url": "https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4"
+    },
+    {
+      "album": {
+        "name": "\u00dcberlebt",
+        "url": "https://open.spotify.com/album/0Nrqk89YfPfTK1Zj2mG6Fz"
+      },
+      "artists": [
+        {
+          "name": "Vega",
+          "url": "https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241440,
+      "name": "\u00dcberlebt",
+      "url": "https://open.spotify.com/track/0K7h3qIpXruphMbAq3UtEB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Na9FTYame5"

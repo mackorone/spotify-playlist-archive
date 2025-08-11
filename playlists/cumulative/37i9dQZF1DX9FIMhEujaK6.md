@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-224 songs - 16 hr 33 min
+225 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2021-10-15 | 2022-09-29 |
 | [Sam Sam](https://open.spotify.com/track/32mQnFkAUENgNFJoxTebcP) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Time is A Gift Which We Share All The Time](https://open.spotify.com/album/3BzsH4g4BX3UuWy0cMa1uy) | 5:18 | 2021-10-15 | 2022-07-27 |
 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 | 2021-10-15 | 2022-12-19 |
-| [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 | 2025-05-01 |  |
+| [Say Tell Me \- Maya Jane Coles Remix](https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Say Tell Me \(Maya Jane Coles Remix\)](https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij) | 4:58 | 2025-05-01 | 2025-08-11 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2025-05-01 |  |
 | [Second Story Sunlight](https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Second Story Sunlight](https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6) | 3:59 | 2021-10-15 | 2022-07-29 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-05-01 |  |
@@ -223,6 +223,7 @@
 | [Unearth](https://open.spotify.com/track/1WOT5mxOjnf2HBKQN4Zmop) | [Aarigod](https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86), [Harry Kosminski](https://open.spotify.com/artist/7bCMn3cDvGs8Ua8f2JICZa) | [Unearth](https://open.spotify.com/album/4ibg33M3ACiEIxGl0gWCWJ) | 2:57 | 2021-10-15 | 2022-07-10 |
 | [Vesta](https://open.spotify.com/track/04B0Ufpp6kZOkVHW7GCwOM) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Vesta](https://open.spotify.com/album/0oTPIwc4yuuLFOVMyoOWOy) | 4:31 | 2023-09-22 | 2024-06-28 |
 | [Vesta](https://open.spotify.com/track/0fCUcQ4n4txZcZ5vv9UMcr) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Vesta](https://open.spotify.com/album/6fXa25F2g9vJ1QdAozvPSG) | 4:31 | 2023-10-20 | 2024-04-19 |
+| [Wanting More](https://open.spotify.com/track/1wf6TvA7nL1c7CFvQTFfsW) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Wanting More](https://open.spotify.com/album/3BXGNMbrUYZS3oWVcncbzq) | 4:19 | 2025-07-03 |  |
 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 | 2024-05-24 |  |
 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 | 2021-10-15 | 2024-03-28 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-03-27 |  |

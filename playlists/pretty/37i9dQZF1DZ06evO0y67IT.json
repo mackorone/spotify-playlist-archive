@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAApplN8w+AR0FixJrLfVfnG",
+  "snapshot_id": "aJaPgAAAAADRAYQdGtMsznO89LtuVaST",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI"
+      "duration_ms": 173614,
+      "name": "The Storm",
+      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Storm",
-        "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 173614,
-      "name": "The Storm",
-      "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+      "duration_ms": 187666,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/6DfiLZdV2DfYi1enJJr2AI"
     },
     {
       "added_at": null,
@@ -446,15 +446,11 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Anthony Raneri",
-          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Spray Paint It Black",
-      "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
+      "duration_ms": 245302,
+      "name": "Tired and Alone",
+      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
     },
     {
       "added_at": null,
@@ -514,11 +510,15 @@
         {
           "name": "Hawthorne Heights",
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        },
+        {
+          "name": "Anthony Raneri",
+          "url": "https://open.spotify.com/artist/2u1ZGZ0hhd48oZoiJ0MCoj"
         }
       ],
-      "duration_ms": 245302,
-      "name": "Tired and Alone",
-      "url": "https://open.spotify.com/track/4QWgINy84BQ3OAk9vgAVNU"
+      "duration_ms": 198066,
+      "name": "Spray Paint It Black",
+      "url": "https://open.spotify.com/track/24XKYC05n4pfwC8x9HxxCB"
     },
     {
       "added_at": null,

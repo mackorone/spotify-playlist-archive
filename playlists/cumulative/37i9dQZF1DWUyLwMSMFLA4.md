@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-343 songs - 19 hr 58 min
+344 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,8 +144,9 @@
 | [La Jarra Loca](https://open.spotify.com/track/32bLxXrec8cj3Y7U3SHwGV) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros Que Nunca](https://open.spotify.com/album/2TWHx7wSbzKYlygApoBK8C) | 3:58 | 2025-06-10 |  |
 | [La Lata](https://open.spotify.com/track/6vuVjYLw5uW8dOFitAtMzc) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 3:35 | 2025-06-27 |  |
 | [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 | 2023-08-25 | 2023-08-29 |
-| [La Marca de la Gorra](https://open.spotify.com/track/2eY5iKmq2BDcD9P3uEnr4L) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/4FRepkcajYPTo9cKW0dmXc) | 3:40 | 2025-07-04 |  |
+| [La Marca de la Gorra](https://open.spotify.com/track/2eY5iKmq2BDcD9P3uEnr4L) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Ritmo Sustancia](https://open.spotify.com/album/4FRepkcajYPTo9cKW0dmXc) | 3:40 | 2025-07-04 | 2025-08-11 |
 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 | 2023-08-25 | 2025-06-11 |
+| [La Motito de Carlitos](https://open.spotify.com/track/1Uc7vW9XoI4k5TDykNNNPZ) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4v9ZDHT6zrlW3y5CW0hovT) | 3:56 | 2025-07-04 |  |
 | [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-06-27 |  |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-08-16 | 2025-06-28 |
 | [La quiero a ella](https://open.spotify.com/track/305ayg5E2vWAIeIPLR4qJJ) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 3:01 | 2025-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Jenevieve
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,354 likes - 201 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,365 likes - 201 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

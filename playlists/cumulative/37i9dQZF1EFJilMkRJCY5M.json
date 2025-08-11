@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/78qFqIAO3RIsGmqgBLDtFt"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196389,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1vQtS9oKsjY6tWr3CizNAl"
+    },
+    {
+      "album": {
         "name": "EPISODE 5: DUMB / LONELY PLACE",
         "url": "https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb"
       },

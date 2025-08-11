@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 10 Aug 22:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 11 Aug 22:05 UTC.
 
-5,293 songs - 12 day 7 hr 4 min
+5,294 songs - 12 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1426,7 +1426,7 @@
 | [Endless Velocity](https://open.spotify.com/track/1NgPbytuaDH8onN25Th7tW) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Endless Velocity](https://open.spotify.com/album/3yPSPSVdiTP0sxTqdNoxT0) | 5:44 | 2025-02-20 | 2025-03-01 |
 | [Ends Meet](https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ends Meet](https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y) | 3:21 | 2025-02-07 | 2025-02-13 |
 | [Endsong \- Orbital Remix](https://open.spotify.com/track/0tFdxLhgh3KJubwOCKo3Y6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Endsong \(Orbital Remix\)](https://open.spotify.com/album/44AYABVfrU96YXOxhtVRjp) | 6:23 | 2025-05-21 | 2025-05-29 |
-| [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2025-07-29 |  |
+| [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2025-07-29 | 2025-08-11 |
 | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ENGINE \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb) | 3:04 | 2024-05-03 | 2024-05-05 |
 | [Enkaz](https://open.spotify.com/track/7KPGicOBoTxRp0OoT3HNC4) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Enkaz](https://open.spotify.com/album/0mIlvpoJmJ29xKtu8uNCpH) | 3:20 | 2024-12-17 | 2024-12-21 |
 | [Enmore](https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Enmore](https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw) | 2:42 | 2024-07-11 | 2024-07-13 |
@@ -2084,6 +2084,7 @@
 | [Hin Helga kvöl](https://open.spotify.com/track/4Al63sF8CtNkAegXTLcwKM) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Hin Helga kvöl](https://open.spotify.com/album/5X0eZLojAXvGHXpFZEzLRo) | 5:42 | 2024-06-12 | 2024-06-14 |
 | [Hinterlands](https://open.spotify.com/track/6h3wPSFFiJ7owyARNu8op8) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hinterlands](https://open.spotify.com/album/4rzEnGAJp4uWxc7h7Kn7fM) | 4:23 | 2024-10-29 | 2024-11-01 |
 | [His Lies](https://open.spotify.com/track/1sq1EJ9C5LSMgaPCzaqaic) | [Wretched Tongues](https://open.spotify.com/artist/4x0FG84m1lKUYZf343WSVH) | [His Lies](https://open.spotify.com/album/4aUtux0hKlWWudD9zTc70e) | 3:21 | 2024-06-15 | 2024-06-19 |
+| [Hit 'Em Up](https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Hit 'Em Up](https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ) | 4:10 | 2025-08-10 |  |
 | [Hit \(feat\. Lil Wayne\)](https://open.spotify.com/track/4PzSxga45btTghaYbKvB0z) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hit](https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7) | 3:18 | 2024-08-16 | 2024-08-22 |
 | [Hit Em Up](https://open.spotify.com/track/4pIutjvPOlkJPTPtpp0kwX) | [Мэйби Бэйби](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [Hit Em Up](https://open.spotify.com/album/1x6hgZVelrWvq2fQtc5BFA) | 2:39 | 2024-10-25 | 2024-10-30 |
 | [Hit It Once](https://open.spotify.com/track/15rXHZv72o3fWrxWaNCTsQ) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hit It Once](https://open.spotify.com/album/1YB7JUdshPZvJTCUDuxdzG) | 3:31 | 2024-12-06 | 2024-12-13 |

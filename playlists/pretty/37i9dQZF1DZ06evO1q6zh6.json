@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 179485,
+  "num_followers": 179512,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAACDk1B03Vys7VQ0Q0vB+b34",
+  "snapshot_id": "aJaPgAAAAAAHIaSjfhEj1YMp/VKfDpVK",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Of Retribution",
-        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 264200,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
+      "duration_ms": 238293,
+      "name": "Metal Gods",
+      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Angel Of Retribution",
+        "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 238293,
-      "name": "Metal Gods",
-      "url": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
+      "duration_ms": 264200,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+        "name": "British Steel",
+        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 39920,
-      "name": "The Hellion",
-      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
+      "duration_ms": 237800,
+      "name": "Grinder",
+      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "British Steel",
-        "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Grinder",
-      "url": "https://open.spotify.com/track/54IuIxOITRtbK8cU7fHIQf"
+      "duration_ms": 39920,
+      "name": "The Hellion",
+      "url": "https://open.spotify.com/track/7LLQxMvAYOpoC2PKe3VQn5"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 283120,
-      "name": "Screaming for Vengeance",
-      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel Of Retribution",
         "url": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 253093,
       "name": "Judas Rising",
       "url": "https://open.spotify.com/track/23aT0N006BZf43hZYTKoaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 283120,
+      "name": "Screaming for Vengeance",
+      "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
     },
     {
       "added_at": null,

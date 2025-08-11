@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:5qK8WYVzvkaBcoe4CDfuyY\">KUNTARI</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 190437,
+  "num_followers": 190453,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Distratta",
-        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
-      },
-      "artists": [
-        {
-          "name": "Silvia Tarozzi",
-          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
-        }
-      ],
-      "duration_ms": 169775,
-      "name": "Distratta",
-      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "F\u00fcr Therese",
         "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
       },
@@ -759,22 +743,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Harsh & Exciting",
-        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
-      },
-      "artists": [
-        {
-          "name": "Moonrisers",
-          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
-        }
-      ],
-      "duration_ms": 301606,
-      "name": "Circle Of The Seasons",
-      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Harmony of Irrelevant Facts",
         "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 312000,
       "name": "Harmony of Irrelevant Facts",
       "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Distratta",
+        "url": "https://open.spotify.com/album/0LC582TtftOkHG7J5KvFlJ"
+      },
+      "artists": [
+        {
+          "name": "Silvia Tarozzi",
+          "url": "https://open.spotify.com/artist/3QXW4xSGmwli3mbaKTgFxb"
+        }
+      ],
+      "duration_ms": 169775,
+      "name": "Distratta",
+      "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Harsh & Exciting",
+        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
+      },
+      "artists": [
+        {
+          "name": "Moonrisers",
+          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
+        }
+      ],
+      "duration_ms": 301606,
+      "name": "Circle Of The Seasons",
+      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
-        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
-      },
-      "artists": [
-        {
-          "name": "Festa del Perdono",
-          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nella regione della notte infinita",
-      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Call Me Resurging",
         "url": "https://open.spotify.com/album/7yuXQ3WAIR8JDvS5DzAP12"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 127875,
       "name": "SOPHIA",
       "url": "https://open.spotify.com/track/4cWLextkahfaw1YYlPRKiV"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
+        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
+      },
+      "artists": [
+        {
+          "name": "Festa del Perdono",
+          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nella regione della notte infinita",
+      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "The Scrollkeeper",
+        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
+      },
+      "artists": [
+        {
+          "name": "Heith",
+          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
+        }
+      ],
+      "duration_ms": 285738,
+      "name": "The Scrollkeeper",
+      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "I'll Wait for You in the Car Park",
         "url": "https://open.spotify.com/album/69xYnYghU3lHTWWOQTiqtr"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 237093,
       "name": "I Think I Just Died a Lil Bit",
       "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "The Scrollkeeper",
-        "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
-      },
-      "artists": [
-        {
-          "name": "Heith",
-          "url": "https://open.spotify.com/artist/5vU14I6K6uuqrxsP1jyoCy"
-        }
-      ],
-      "duration_ms": 285738,
-      "name": "The Scrollkeeper",
-      "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1363,6 +1363,42 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Wondrous is the Silence of My Master OST",
+        "url": "https://open.spotify.com/album/6A2rmvDWz9ORqwGDeFEpfH"
+      },
+      "artists": [
+        {
+          "name": "Mai Mai Mai",
+          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
+        },
+        {
+          "name": "Igor Bo\u017eani\u0107",
+          "url": "https://open.spotify.com/artist/5ObKVcjRF7bYuBZqZwzVxH"
+        }
+      ],
+      "duration_ms": 131328,
+      "name": "Mirabilis",
+      "url": "https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Activate Cities",
+        "url": "https://open.spotify.com/album/5rt0xcpHthjEtdha0silGG"
+      },
+      "artists": [
+        {
+          "name": "NSDOS",
+          "url": "https://open.spotify.com/artist/0MGkczyIO62gO9EUxGs5vC"
+        }
+      ],
+      "duration_ms": 475309,
+      "name": "Predisparadis",
+      "url": "https://open.spotify.com/track/1CBzfrWW56xJwsZeRLAB6l"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Chamber Music for Lawn Mowers",
         "url": "https://open.spotify.com/album/25VbFVsir31MRrpiuzxJfY"
       },
@@ -1387,22 +1423,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Activate Cities",
-        "url": "https://open.spotify.com/album/5rt0xcpHthjEtdha0silGG"
-      },
-      "artists": [
-        {
-          "name": "NSDOS",
-          "url": "https://open.spotify.com/artist/0MGkczyIO62gO9EUxGs5vC"
-        }
-      ],
-      "duration_ms": 475309,
-      "name": "Predisparadis",
-      "url": "https://open.spotify.com/track/1CBzfrWW56xJwsZeRLAB6l"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "METAMORFOSI (VOL. 2)",
         "url": "https://open.spotify.com/album/4bxrctZ1SWwRNZMJNqIVL0"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 183803,
       "name": "FIM DO MUNDO (feat. Mia Badgyal)",
       "url": "https://open.spotify.com/track/1Mr4jJlL2s7wtLJoDa44CW"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Wondrous is the Silence of My Master OST",
-        "url": "https://open.spotify.com/album/6A2rmvDWz9ORqwGDeFEpfH"
-      },
-      "artists": [
-        {
-          "name": "Mai Mai Mai",
-          "url": "https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3"
-        },
-        {
-          "name": "Igor Bo\u017eani\u0107",
-          "url": "https://open.spotify.com/artist/5ObKVcjRF7bYuBZqZwzVxH"
-        }
-      ],
-      "duration_ms": 131328,
-      "name": "Mirabilis",
-      "url": "https://open.spotify.com/track/00y4AKxM2nbFBJNkWKOE2p"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Oasi Estesa",
+        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
+      },
+      "artists": [
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 272137,
+      "name": "GITA IN TRAM",
+      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Cero",
         "url": "https://open.spotify.com/album/67mzZB3Tacqcr0gD52Dtfu"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 255104,
       "name": "Ventoscuro Pt. 2",
       "url": "https://open.spotify.com/track/3PYWpNpxlbeD7eKyTXtk9m"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Oasi Estesa",
-        "url": "https://open.spotify.com/album/6EiP5aoogQj7W178L09w2l"
-      },
-      "artists": [
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
-        }
-      ],
-      "duration_ms": 272137,
-      "name": "GITA IN TRAM",
-      "url": "https://open.spotify.com/track/2cXNSETwLqc0G2ttPY0RsF"
     },
     {
       "added_at": "2025-07-30 18:29:59",

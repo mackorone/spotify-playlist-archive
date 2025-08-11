@@ -3307,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ"
+      },
+      "artists": [
+        {
+          "name": "Chaos333",
+          "url": "https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV"
+    },
+    {
+      "album": {
         "name": "JEFE",
         "url": "https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM"
       },
@@ -6330,7 +6348,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 142222,
       "name": "Salt Bae",
       "url": "https://open.spotify.com/track/2GKH59rHgueXliY1onqFNe"

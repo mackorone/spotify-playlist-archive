@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 130953,
+  "num_followers": 130982,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAABVRi7fiQcH5vIrmviI/LSQ",
+  "snapshot_id": "aJaPgAAAAADtu075M2P7OfaroOGsBNxk",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Educated Horses",
+        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Lords Of Salem",
+      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn MF (feat. Rob Zombie)",
         "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Educated Horses",
-        "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 253746,
-      "name": "Lords Of Salem",
-      "url": "https://open.spotify.com/track/1TWYm9bNuRT8m8IrSmSDfN"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venomous Rat Regeneration Vendor",
-        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Lucifer Rising",
-      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Educated Horses",
         "url": "https://open.spotify.com/album/3zO9FORG6azJrddJu0XyKY"
       },
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+        "name": "Venomous Rat Regeneration Vendor",
+        "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
+      "duration_ms": 198613,
+      "name": "Lucifer Rising",
+      "url": "https://open.spotify.com/track/6mlkXrADJObRQXMPVBWFV0"
     },
     {
       "added_at": null,
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
       },
       "artists": [
         {
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Satanic Cyanide ! The Killer Rocks On !",
-      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
+      "duration_ms": 181253,
+      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
       "duration_ms": 249226,
       "name": "Let It All Bleed Out",
       "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Satanic Cyanide ! The Killer Rocks On !",
+      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
     },
     {
       "added_at": null,

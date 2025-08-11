@@ -3908,7 +3908,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 212962,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
@@ -5520,7 +5520,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "Bitin' List",
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
@@ -7998,7 +7998,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 104443,
       "name": "Butt Floss Boogie",
       "url": "https://open.spotify.com/track/6LQ9gKqcf8xlapGZJrgWzC"
@@ -24264,7 +24264,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 127999,
       "name": "Hurty Squirties",
       "url": "https://open.spotify.com/track/5LDbMb0lYYFCkibuW6lQDX"
@@ -24644,7 +24644,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 172800,
       "name": "I Love To Laugh",
       "url": "https://open.spotify.com/track/0foRV5h9JcJxnqxqj7ShI8"
@@ -31014,10 +31014,36 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 293500,
       "name": "LION MAN II",
       "url": "https://open.spotify.com/track/1bx4FTQbnRJtAbdyc2VIUH"
+    },
+    {
+      "album": {
+        "name": "LION MAN",
+        "url": "https://open.spotify.com/album/3bJhKulKkzNNg3xNLvQdzl"
+      },
+      "artists": [
+        {
+          "name": "Mac Matrix",
+          "url": "https://open.spotify.com/artist/7mbMfhRa3fUQ4rL2nBolCa"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208069,
+      "name": "LION MAN III",
+      "url": "https://open.spotify.com/track/6UKu02LVpyyoVFhZR5kWZs"
     },
     {
       "album": {
@@ -56188,6 +56214,28 @@
       "duration_ms": 383631,
       "name": "Vortex (from \"LAZARUS\" Soundtrack)",
       "url": "https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy"
+    },
+    {
+      "album": {
+        "name": "Be Kind Be You",
+        "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134464,
+      "name": "Vowel Song",
+      "url": "https://open.spotify.com/track/1ft8h4zOpRTVKeUcsphZYr"
     },
     {
       "album": {

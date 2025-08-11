@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Andorra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,993 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,996 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxjQJh4Um8T.md) - [plain]
 | 49 | [Actitud](https://open.spotify.com/track/0lVJxMzM3RVHj3dOBKc3oq) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Fraktal](https://open.spotify.com/artist/3E3CNsYCMGVEbSoHw0dgLn), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [Sempre dempeus](https://open.spotify.com/album/6I0qcmAHwIc6u4gOeLzTRk) | 3:06 |
 | 50 | [QUE NO S'ACABI](https://open.spotify.com/track/6jGRVhTB3P0306pQHpFcF8) | [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [LA CALÇOTADA](https://open.spotify.com/album/6HSvBc3euvGwa5kCDcfAkF) | 3:18 |
 
-Snapshot ID: `MCrAqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MCwSKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

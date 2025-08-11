@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 19605,
+  "num_followers": 19615,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-07-28 02:17:00",
       "album": {
+        "name": "Dear you (Romance 101 X LeeHi)",
+        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Dear you (Romance 101 X LeeHi)",
+      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "added_at": "2025-07-28 02:17:00",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
-    },
-    {
-      "added_at": "2025-07-28 02:17:00",
-      "album": {
-        "name": "Dear you (Romance 101 X LeeHi)",
-        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Dear you (Romance 101 X LeeHi)",
-      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
     },
     {
       "added_at": "2025-07-28 02:17:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-07-28 02:17:00",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
+    },
+    {
+      "added_at": "2025-07-28 02:17:00",
+      "album": {
         "name": "\uc81c30\ud68c \uc720\uc7ac\ud558 \uc74c\uc545\uacbd\uc5f0\ub300\ud68c",
         "url": "https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 201320,
       "name": "Spring days pass",
       "url": "https://open.spotify.com/track/1WACArKm987xYhEAiuetlx"
-    },
-    {
-      "added_at": "2025-07-28 02:17:00",
-      "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Without U",
-      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 183103,
+  "num_followers": 183120,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "AAAAAFigs3582cbs5i62NQaQ11aaVETp",
   "tracks": [
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "This Is Elodie",
+        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+      },
+      "artists": [
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Margarita (con Marracash)",
+      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+    },
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
@@ -35,22 +55,18 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "This Is Elodie",
-        "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Margarita (con Marracash)",
-      "url": "https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV"
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -67,22 +83,6 @@
       "duration_ms": 232666,
       "name": "Piccola Stella",
       "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Faccio un casino",
         "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 222794,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 240738,
-      "name": "Rondini Al Guinzaglio",
-      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 203880,
       "name": "\u00c8 sempre bello",
       "url": "https://open.spotify.com/track/4Wcrw9554hxM1Gk8Pl4Cyi"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 240738,
+      "name": "Rondini Al Guinzaglio",
+      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Io Non So Parlar D'Amore",
-        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
-      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Faccio un casino",
         "url": "https://open.spotify.com/album/3s3ThjVMEWRqXV8b4H6sy4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 179076,
       "name": "Le luci della citt\u00e0",
       "url": "https://open.spotify.com/track/2ovEk26S9eFIQJ8l7koWR9"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Io Non So Parlar D'Amore",
+        "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
+      "url": "https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Ligabue [Remastered Version]",
-        "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
-      },
-      "artists": [
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Piccola stella senza cielo",
-      "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "MAX 20",
         "url": "https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 253100,
       "name": "L'universo tranne noi",
       "url": "https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Ligabue [Remastered Version]",
+        "url": "https://open.spotify.com/album/63kdOUqVdcyYLQHzojxeFB"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Piccola stella senza cielo",
+      "url": "https://open.spotify.com/track/0HpKuz1HfXxRzNnUqfwzgF"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -635,38 +635,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Nessuno Vuole Essere Robin",
-      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
-        "name": "MATERIA (PELLE)",
-        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 225652,
-      "name": "Due Vite",
-      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Unica",
         "url": "https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Nessuno Vuole Essere Robin",
+      "url": "https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
         "name": "La canzone del sole/ Anche per te",
         "url": "https://open.spotify.com/album/0JLkr7dK5UuhWsPq9xCa2w"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 324826,
       "name": "La canzone del sole - Remastered",
       "url": "https://open.spotify.com/track/5XAGVMePJNaXHcdRN578Xi"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "MATERIA (PELLE)",
+        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 225652,
+      "name": "Due Vite",
+      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Grazie",
         "url": "https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 270346,
       "name": "Sei nell'anima",
       "url": "https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
-        "name": "Oltre",
-        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
-      },
-      "artists": [
-        {
-          "name": "Claudio Baglioni",
-          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Mille giorni di te e di me",
-      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -959,18 +927,34 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Il Primo Bacio Sulla Luna",
-        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
       "artists": [
         {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 284906,
-      "name": "Le Sei E Ventisei",
-      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Oltre",
+        "url": "https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP"
+      },
+      "artists": [
+        {
+          "name": "Claudio Baglioni",
+          "url": "https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Mille giorni di te e di me",
+      "url": "https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -991,6 +975,22 @@
       "duration_ms": 196615,
       "name": "Stanza Singola (feat. Tommaso Paradiso)",
       "url": "https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Il Primo Bacio Sulla Luna",
+        "url": "https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Le Sei E Ventisei",
+      "url": "https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
         "name": "Non Avere Paura",
         "url": "https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP"
       },
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+        "name": "it.pop",
+        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
       },
       "artists": [
         {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+          "name": "Alex Britti",
+          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
         }
       ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+      "duration_ms": 228986,
+      "name": "Oggi Sono Io",
+      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -1123,22 +1139,6 @@
       "duration_ms": 221093,
       "name": "Anna E Marco",
       "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
-        "name": "it.pop",
-        "url": "https://open.spotify.com/album/5HCZg475b1R5XJvgmiAN7t"
-      },
-      "artists": [
-        {
-          "name": "Alex Britti",
-          "url": "https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Oggi Sono Io",
-      "url": "https://open.spotify.com/track/4EsU1itX1LEPptKwjhGbVl"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
+        "name": "L'ultima notte",
+        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
+      },
+      "artists": [
+        {
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+        }
+      ],
+      "duration_ms": 157566,
+      "name": "L'ultima notte",
+      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
         "name": "Il primo amore",
         "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "L'ultima notte",
-        "url": "https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40"
-      },
-      "artists": [
-        {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
-        }
-      ],
-      "duration_ms": 157566,
-      "name": "L'ultima notte",
-      "url": "https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "\u00c8 sempre bello",
         "url": "https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Tempo Reale Extra",
-        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
-      },
-      "artists": [
-        {
-          "name": "Francesco Renga",
-          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "Il mio giorno pi\u00f9 bello nel mondo",
-      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Come Thelma E Louise",
         "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Tempo Reale Extra",
+        "url": "https://open.spotify.com/album/4g3w53fwewnSPWR8lMCksi"
+      },
+      "artists": [
+        {
+          "name": "Francesco Renga",
+          "url": "https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "Il mio giorno pi\u00f9 bello nel mondo",
+      "url": "https://open.spotify.com/track/4cSq4KBk4i19g30NtyBZ3c"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Odissea",
-        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
-        }
-      ],
-      "duration_ms": 270003,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Dispetto",
         "url": "https://open.spotify.com/album/40UQvvujKUy6xAWqjxx1C5"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 272000,
       "name": "Meravigliosa creatura",
       "url": "https://open.spotify.com/track/22PDt2TH3TezXffYMOMUzc"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Odissea",
+        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
+        }
+      ],
+      "duration_ms": 270003,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25"
     },
     {
       "added_at": "2025-06-30 10:21:22",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Oh, Vita!",
-        "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Chiaro Di Luna",
-      "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "T'appartengo",
         "url": "https://open.spotify.com/album/5pW2d9bppftATKKN8Eq6lO"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 206640,
       "name": "T'appartengo",
       "url": "https://open.spotify.com/track/1PIxiDD82CyJLeB7GteWek"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Oh, Vita!",
+        "url": "https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Chiaro Di Luna",
+      "url": "https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx"
     },
     {
       "added_at": "2025-06-30 10:21:22",

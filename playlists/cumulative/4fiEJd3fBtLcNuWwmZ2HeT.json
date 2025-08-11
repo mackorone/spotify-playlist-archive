@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "moshimoshi",
+        "url": "https://open.spotify.com/album/7MyLRzjdYbEhfG7AGz0fPP"
+      },
+      "artists": [
+        {
+          "name": "Mamireta",
+          "url": "https://open.spotify.com/artist/70fpaWdKERbVq5PNXEWcjk"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "moshimoshi",
+      "url": "https://open.spotify.com/track/6ioQplGa4tsMtgGtH2vrcu"
+    },
+    {
+      "album": {
         "name": "Montgomery Ricky",
         "url": "https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3"
       },

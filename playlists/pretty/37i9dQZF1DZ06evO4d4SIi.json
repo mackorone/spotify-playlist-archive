@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 49301,
+  "num_followers": 49353,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAABXDfJvJOKVQCBLI6Lh4HEa",
+  "snapshot_id": "aJaPgAAAAAD7unojFs6fG9cGn3k6p6wN",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detours",
         "url": "https://open.spotify.com/album/4PSZ6uPL4zeQ07hFQSvrXj"
       },
@@ -527,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 161553,
-      "name": "Ruin My Weekend",
-      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluebird Days",
         "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
@@ -555,6 +559,22 @@
       "duration_ms": 169346,
       "name": "Short Fuse",
       "url": "https://open.spotify.com/track/5CIliLPf7eZTas08EoDXoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 161553,
+      "name": "Ruin My Weekend",
+      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
     },
     {
       "added_at": null,
@@ -607,26 +627,6 @@
       "duration_ms": 203432,
       "name": "Good News Sold",
       "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louisiana Stick (with Marcus King)",
-        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "Louisiana Stick (with Marcus King)",
-      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "added_at": null,

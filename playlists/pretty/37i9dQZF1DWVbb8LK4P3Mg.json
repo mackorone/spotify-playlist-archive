@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 145598,
+  "num_followers": 145576,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "My Christmas Sweet Love",
+      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "THE BOYZ Special Single 'Christmassy!'",
         "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 303297,
       "name": "Maybe Christmas - Orchestra Version",
       "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "My Christmas Sweet Love",
-      "url": "https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
-        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Grey Christmas",
-      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "[My Christmas Sweet Love]",
         "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
@@ -683,54 +667,6 @@
       "duration_ms": 197160,
       "name": "Wonderland (Carol ver.)",
       "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 259339,
-      "name": "Christmas without You",
-      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "The Winter's Tale",
-        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 259030,
-      "name": "The Winter's Tale",
-      "url": "https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "FIRST SNOW",
-        "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
-      },
-      "artists": [
-        {
-          "name": "XODIAC",
-          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "FIRST SNOW",
-      "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -751,6 +687,54 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 259339,
+      "name": "Christmas without You",
+      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
+        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Grey Christmas",
+      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "The Winter's Tale",
+        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 259030,
+      "name": "The Winter's Tale",
+      "url": "https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "[My Christmas Sweet Love]",
         "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232746,
       "name": "Jazz Bar (Carol ver.)",
       "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "FIRST SNOW",
+        "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "FIRST SNOW",
+      "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Christmas Gift",
         "url": "https://open.spotify.com/album/48DteS8oPnYiwJsA0aM9Dv"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 165493,
       "name": "Christmas Gift (feat. Ashley Alisha & Sonny Zero)",
       "url": "https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Winter Bloom",
         "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 179684,
       "name": "Winter Bloom",
       "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "X-MAS TREE",
-        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "X-MAS TREE",
-      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "This Christmas - Single",
         "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 227825,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "X-MAS TREE",
+        "url": "https://open.spotify.com/album/46Xgz5NzGXt1DIfqNjdYBG"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "X-MAS TREE",
+      "url": "https://open.spotify.com/track/6xh1O3D62j6aQ0TQmqsEbs"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Mr. Santa",
-        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
-      },
-      "artists": [
-        {
-          "name": "LUNCH",
-          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Mr. Santa",
-      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "TEEN TOP Snow Kiss",
         "url": "https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 199000,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Mr. Santa",
+        "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Mr. Santa",
+      "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Candle",
-        "url": "https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS"
-      },
-      "artists": [
-        {
-          "name": "COLL!N",
-          "url": "https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Candle",
-      "url": "https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "\u30e1\u30ea\u30af\u30ea",
         "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 310833,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Candle",
+        "url": "https://open.spotify.com/album/6lzlBNGpzNf5P7IsVXNpzS"
+      },
+      "artists": [
+        {
+          "name": "COLL!N",
+          "url": "https://open.spotify.com/artist/3EmUmzIFFTstnAgwjuGDAN"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Candle",
+      "url": "https://open.spotify.com/track/7LhjwLkKvbjT30PBvKePTP"
     },
     {
       "added_at": "2025-01-18 02:25:33",

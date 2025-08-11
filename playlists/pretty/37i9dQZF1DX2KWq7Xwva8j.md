@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: Julieta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,707 likes - 42 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,706 likes - 42 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 41 | [Enamorada de tu](https://open.spotify.com/track/6YKh9DusNfJJcLgfEv72b9) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.III : COM AQUELL AGOST](https://open.spotify.com/album/4GBj3aiTw8fXmShzPoe5CI) | 3:09 |
 | 42 | [Me gustaría gustarte](https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Me gustaría gustarte](https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI) | 2:21 |
 
-Snapshot ID: `AAAAAF0+e6ND1aVpnMQ/A6Bu/bOBu6/t`
+Snapshot ID: `AAAAAFxNQo5mcS5sTCAmwqqXXH4v+aX/`

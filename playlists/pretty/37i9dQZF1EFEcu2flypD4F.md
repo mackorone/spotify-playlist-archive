@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,298 likes - 339 songs - 21 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,297 likes - 339 songs - 21 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 224 | [This Fine Social Scene](https://open.spotify.com/track/09zk1bZdY5IStGDJ8jiv32) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 4:27 |
 | 225 | [Natale's Song](https://open.spotify.com/track/3JyS1Di4qK8NYwvBPEeo51) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 2:28 |
 | 226 | [Pictures](https://open.spotify.com/track/1qsw4CHZCaF7TcPPLGg07O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 3:37 |
-| 227 | [Kiss Me Once](https://open.spotify.com/track/02QVTlWdmSfDkDdOyPNewF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:17 |
-| 228 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 |
+| 227 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 |
+| 228 | [Kiss Me Once](https://open.spotify.com/track/02QVTlWdmSfDkDdOyPNewF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:17 |
 | 229 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
 | 230 | [Dreaming](https://open.spotify.com/track/3wXFZOXzoole2NXH3orG8I) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [The Early Albums Collection 1957\-1963 \[Disc 4\]](https://open.spotify.com/album/56S5sGov4GPA5HDiih0id7) | 2:44 |
 | 231 | [Music](https://open.spotify.com/track/4XCQTLPs84Ct8kzOQ6Wiqs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:58 |
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 290 | [Hologram \(Smoke and Mirrors\)](https://open.spotify.com/track/6sycwOBtYqgQ7ZFzImjsc2) | [Raffey Cassidy](https://open.spotify.com/artist/0BHyFQDnozqjy1EoKpoiRT) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:38 |
 | 291 | [Biting Tongue](https://open.spotify.com/track/5rU6aPN2OfTopFSpTog5Sv) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Turn It Around](https://open.spotify.com/album/3ycQqRwQMmGRxftasUhY5w) | 1:07 |
 | 292 | [Firecracker](https://open.spotify.com/track/1iUNZuYz6hYoGgDWN8fAjm) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human \(Deluxe\)](https://open.spotify.com/album/4YCGJ4vLqqnKGYjVhv6HB4) | 3:32 |
-| 293 | [Round Your Little Finger](https://open.spotify.com/track/7q3SFkjxhRKhEmUDuJJEcw) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:38 |
-| 294 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
+| 293 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
+| 294 | [Round Your Little Finger](https://open.spotify.com/track/7q3SFkjxhRKhEmUDuJJEcw) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:38 |
 | 295 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 |
 | 296 | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/track/6JVj1kLMutHGrDDP1vsdys) | [Nina Sofie](https://open.spotify.com/artist/3lJmsswS82rAa5qaOyrICa) | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/album/5KDJEzHwSvD9yi7f8XQ7z8) | 3:32 |
 | 297 | [Plaster](https://open.spotify.com/track/2pofAwAUipRcvvlMDS8Ftq) | [Marco Carola](https://open.spotify.com/artist/2p8O7NCyfWf1sIZamrU9N1) | [The Tribe](https://open.spotify.com/album/1AsyuED8iHFezYSTEDNVkV) | 7:46 |
@@ -313,7 +313,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 303 | [Your Body Talk](https://open.spotify.com/track/67HmaRfj87if7pXaXPkXwR) | [Raffey Cassidy](https://open.spotify.com/artist/0BHyFQDnozqjy1EoKpoiRT) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:47 |
 | 304 | [Waiting for you](https://open.spotify.com/track/4X0Ud6znFzgWcS6bLwWAOe) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg) | [Waiting \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2x682cgqLMcAOliQqtkE72) | 3:25 |
 | 305 | [Cheap Thrills](https://open.spotify.com/track/0vKLbE4mDhNX2uEyBKseKA) | [Peter Gergely](https://open.spotify.com/artist/1rM7GiyPW7mPqDTtLfXRoZ) | [Cheap Thrills](https://open.spotify.com/album/2OdzDkiHCWh7Kp8fUJGmyo) | 2:22 |
-| 306 | [Gentlemen](https://open.spotify.com/track/5A6dJZZqjMtKNrZkykl93p) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/3DdyiWsJLZHdg37VNAjOCf) | 4:12 |
+| 306 | [Gentlemen](https://open.spotify.com/track/6yRSRiD5xvH0X7pWVfWory) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 4:12 |
 | 307 | [Ever \- Original Mix](https://open.spotify.com/track/76M3CpU4603Wnhx70fKs3b) | [Audio Werner](https://open.spotify.com/artist/3sAiPMoERiyl61BoNpOI1l) | [Rushograph EP](https://open.spotify.com/album/24mLp734ROBxISw2bGf4vP) | 11:01 |
 | 308 | [Sweat and Tears](https://open.spotify.com/track/7xlqKLHfdjxerFBsR36Ylc) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:42 |
 | 309 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
@@ -348,4 +348,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 338 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 339 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Ab5EiAAAAAD6W/FMKPiD/2UTurGeKUuy`
+Snapshot ID: `Ab5KFAAAAADqxADbZqKSKuH3WeOPqr/X`

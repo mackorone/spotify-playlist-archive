@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 16204,
+  "num_followers": 16222,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAA6YRZoohfZqMrlNsUvps6p",
+  "snapshot_id": "aJaPgAAAAABUHV8IXcVPXqS5ejsZTs/j",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
         "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 158000,
       "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
       "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta el Dia de Hoy",
-        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 189450,
-      "name": "Hasta el Dia de Hoy",
-      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
+        "name": "Hasta el Dia de Hoy",
+        "url": "https://open.spotify.com/album/6GSeGmTye0w8QJ99CDy3oh"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
+      "duration_ms": 189450,
+      "name": "Hasta el Dia de Hoy",
+      "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
     },
     {
       "added_at": null,

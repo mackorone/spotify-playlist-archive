@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 77631,
+  "num_followers": 77650,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2025-07-01 15:41:20",
       "album": {
+        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
+        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 316861,
+      "name": "Poetic Tone Pictures, Op.85: IX. Serenade",
+      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
         "name": "Dvor\u00e1k: Symphonies Nos.4-6",
         "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 381786,
       "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: III. Scherzo. Allegro feroce",
       "url": "https://open.spotify.com/track/74iJOgBl4hfjC1eUnKNGCU"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
-        "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
-        "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 316861,
-      "name": "Poetic Tone Pictures, Op.85: IX. Serenade",
-      "url": "https://open.spotify.com/track/0SRigmImBiUL3k3Wvm9dy8"
     },
     {
       "added_at": "2025-07-01 15:41:20",
@@ -451,30 +451,6 @@
     {
       "added_at": "2025-07-01 15:41:20",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
-        }
-      ],
-      "duration_ms": 680200,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: II. Andante sostenuto e molto cantabile",
-      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
         "name": "Dvorak: Slavonic Dances; Miniatures",
         "url": "https://open.spotify.com/album/77gtdVHmeJclSLc34WdUkY"
       },
@@ -516,9 +492,81 @@
           "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
         }
       ],
+      "duration_ms": 680200,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: II. Andante sostenuto e molto cantabile",
+      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
       "duration_ms": 587133,
       "name": "Symphony No. 4 in D Minor, Op. 13, B. 41: IV. Finale. Allegro con brio",
       "url": "https://open.spotify.com/track/4aO0XveetjfaLtRIIcl56X"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major: I. Allegro, ma non troppo",
+        "url": "https://open.spotify.com/album/1mXvB41expLzfhBqMCRO8S"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Jaime Martin",
+          "url": "https://open.spotify.com/artist/5pf59s93BwFYfj6L6gQGSM"
+        },
+        {
+          "name": "Melbourne Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH"
+        }
+      ],
+      "duration_ms": 751333,
+      "name": "Symphony No. 5 in F Major, Op. 76, B. 54: I. Allegro, ma non troppo",
+      "url": "https://open.spotify.com/track/0pnL44gmpTvB2Lr9Mij83R"
+    },
+    {
+      "added_at": "2025-07-01 15:41:20",
+      "album": {
+        "name": "Dvorak: Complete Symphonies, Slavonic Dances, Overtures, Symphonic Poems",
+        "url": "https://open.spotify.com/album/5ADW9zoheuwgIx7iTdlUHF"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Theodore Kuchar",
+          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
+        },
+        {
+          "name": "Jan\u00e1\u010dek Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2YyyRcMjrl3vk2PGrtIOgN"
+        }
+      ],
+      "duration_ms": 818293,
+      "name": "The Noon Witch, Op. 108, B. 196",
+      "url": "https://open.spotify.com/track/6t4UbRhVWEujHjheDfmkDd"
     },
     {
       "added_at": "2025-07-01 15:41:20",
@@ -555,30 +603,6 @@
     {
       "added_at": "2025-07-01 15:41:20",
       "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 5 in F Major: I. Allegro, ma non troppo",
-        "url": "https://open.spotify.com/album/1mXvB41expLzfhBqMCRO8S"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Jaime Martin",
-          "url": "https://open.spotify.com/artist/5pf59s93BwFYfj6L6gQGSM"
-        },
-        {
-          "name": "Melbourne Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5CHXXNuReinAFGk3pjWgOH"
-        }
-      ],
-      "duration_ms": 751333,
-      "name": "Symphony No. 5 in F Major, Op. 76, B. 54: I. Allegro, ma non troppo",
-      "url": "https://open.spotify.com/track/0pnL44gmpTvB2Lr9Mij83R"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
         "name": "The Dvorak Album",
         "url": "https://open.spotify.com/album/5fpF7IymM8VdjpTuMsw1SK"
       },
@@ -603,30 +627,6 @@
       "duration_ms": 230146,
       "name": "Piano Trio No. 4 in E Minor, Op. 90, B.166, \"Dumky\": V. Allegro",
       "url": "https://open.spotify.com/track/08OqQ7q3lKggZbQzAWwHGH"
-    },
-    {
-      "added_at": "2025-07-01 15:41:20",
-      "album": {
-        "name": "Dvorak: Complete Symphonies, Slavonic Dances, Overtures, Symphonic Poems",
-        "url": "https://open.spotify.com/album/5ADW9zoheuwgIx7iTdlUHF"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Theodore Kuchar",
-          "url": "https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC"
-        },
-        {
-          "name": "Jan\u00e1\u010dek Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2YyyRcMjrl3vk2PGrtIOgN"
-        }
-      ],
-      "duration_ms": 818293,
-      "name": "The Noon Witch, Op. 108, B. 196",
-      "url": "https://open.spotify.com/track/6t4UbRhVWEujHjheDfmkDd"
     },
     {
       "added_at": "2025-07-01 15:41:20",

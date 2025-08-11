@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8039,
+  "num_followers": 8046,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAC8MfNPv0FHHGmy7OKQDXcq",
+  "snapshot_id": "aJaPgAAAAABo9qljWDAmt5D21j5SL83H",
   "tracks": [
     {
       "added_at": null,
@@ -111,30 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 aqui, Slip nos ajudou",
-        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "Eles S\u00e3o Fracos",
-      "url": "https://open.spotify.com/track/4ZMkVpeTbQUO2fO6MRd8BQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SALA VERMELHA #31 - Slipmami",
         "url": "https://open.spotify.com/album/5MKkPTLOt6yR0NGj328ToX"
       },
@@ -159,6 +135,30 @@
       "duration_ms": 119225,
       "name": "SALA VERMELHA #31 - Slipmami",
       "url": "https://open.spotify.com/track/6BfldmhgnMCt8PHM8xHY7n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 aqui, Slip nos ajudou",
+        "url": "https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "Eles S\u00e3o Fracos",
+      "url": "https://open.spotify.com/track/4ZMkVpeTbQUO2fO6MRd8BQ"
     },
     {
       "added_at": null,
@@ -931,26 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Voc\u00ea Ficar a Vontade",
-        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+        "name": "MONTE RUSH+",
+        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
       },
       "artists": [
         {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "BREEZE",
-          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Pra Voc\u00ea Ficar a Vontade",
-      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+      "duration_ms": 135521,
+      "name": "O PAPO",
+      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
     },
     {
       "added_at": null,
@@ -975,22 +971,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTE RUSH+",
-        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
+        "name": "Pra Voc\u00ea Ficar a Vontade",
+        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
       },
       "artists": [
         {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
         }
       ],
-      "duration_ms": 135521,
-      "name": "O PAPO",
-      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
+      "duration_ms": 207272,
+      "name": "Pra Voc\u00ea Ficar a Vontade",
+      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
     },
     {
       "added_at": null,

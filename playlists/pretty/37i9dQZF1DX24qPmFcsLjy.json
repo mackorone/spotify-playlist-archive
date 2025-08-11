@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 135337,
+  "num_followers": 135372,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Guilty",
-        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Woman in Love",
-      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 287933,
       "name": "Wonderful Life",
       "url": "https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Guilty",
+        "url": "https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Woman in Love",
+      "url": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 255936,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295520,
-      "name": "With Or Without You - Remastered 2007",
-      "url": "https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Het Beste Van Klein Orkest",
         "url": "https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 209493,
       "name": "Over De Muur",
       "url": "https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "With Or Without You - Remastered 2007",
+      "url": "https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Best Of Bzn",
-        "url": "https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J"
-      },
-      "artists": [
-        {
-          "name": "BZN",
-          "url": "https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Rockin' The Trolls",
-      "url": "https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Hit Story",
         "url": "https://open.spotify.com/album/2J1TbXAta6c4XDQTmzRArs"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 229146,
       "name": "She's a Liar",
       "url": "https://open.spotify.com/track/2WoozePgluOVStfhp6jKsD"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Best Of Bzn",
+        "url": "https://open.spotify.com/album/1RpZLWCTg891sLear2kA7J"
+      },
+      "artists": [
+        {
+          "name": "BZN",
+          "url": "https://open.spotify.com/artist/1tF9HtIFX8fJfBo64FIJ8S"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Rockin' The Trolls",
+      "url": "https://open.spotify.com/track/091S7IqNRQoxuaK3bjs7yp"
     },
     {
       "added_at": "2024-07-09 16:44:07",

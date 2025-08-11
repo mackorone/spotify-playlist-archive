@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaia Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,394 likes - 275 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,473 likes - 275 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,7 +218,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 208 | [Work it Out](https://open.spotify.com/track/0prfGgEUQBSdeZCuhaOswM) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Work it Out](https://open.spotify.com/album/46XVvIZNMuXdfaFvuC9GGH) | 2:59 |
 | 209 | [Ain't I Good For You](https://open.spotify.com/track/77WEFz4sR98WRO01patyZm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Ain't I Good For You](https://open.spotify.com/album/5xljYFeXxR6vWQwHhyESSb) | 2:41 |
 | 210 | [DON'T GO](https://open.spotify.com/track/5tUB2wLW8Cm7yovnJMNjNK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [DON'T GO](https://open.spotify.com/album/099NpAg36lYBfjHhlm0cbC) | 2:27 |
-| 211 | [Want You \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/track/2FTgm5uZfuWOoTaVp4bCCa) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Want You \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/album/64e8tTJ3jGpplrXghXQKZn) | 3:19 |
+| 211 | [WANT YOU \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/track/2FTgm5uZfuWOoTaVp4bCCa) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [WANT YOU \(feat\. DESTIN CONRAD & JayO\)](https://open.spotify.com/album/64e8tTJ3jGpplrXghXQKZn) | 3:19 |
 | 212 | [Must Be Love](https://open.spotify.com/track/6S02kzNoDXJyvkV33TXcc6) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [The Co\-Star](https://open.spotify.com/album/65vEwsXYAjfVreDIoF1CVi) | 3:23 |
 | 213 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 |
 | 214 | [Is This Love?](https://open.spotify.com/track/43Ha9dTAQLXaGF2aDeEzyH) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Is This Love?](https://open.spotify.com/album/69BacA7EcUTy0yOIEsYO3M) | 3:30 |

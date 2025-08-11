@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 303081,
+  "num_followers": 303089,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAAA2dtdHRaDFS87EA2XPSL8",
+  "snapshot_id": "aJaPgAAAAAC984frGZ2fj0DPLA70a973",
   "tracks": [
     {
       "added_at": null,
@@ -871,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+        "name": "Tina Snow",
+        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
       },
       "artists": [
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 187794,
-      "name": "Spin (feat. Victoria Mon\u00e9t)",
-      "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
+      "duration_ms": 196281,
+      "name": "Hot Girl",
+      "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
     },
     {
       "added_at": null,
@@ -907,18 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tina Snow",
-        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
       "artists": [
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 196281,
-      "name": "Hot Girl",
-      "url": "https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k"
+      "duration_ms": 187794,
+      "name": "Spin (feat. Victoria Mon\u00e9t)",
+      "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
     }
   ],
   "unique_name": "This Is Megan Thee Stallion",

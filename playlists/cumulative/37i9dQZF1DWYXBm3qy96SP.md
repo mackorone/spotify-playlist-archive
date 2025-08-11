@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Black Keys
 
-1,660 songs - 3 day 23 hr 45 min
+1,661 songs - 3 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Bad Remake](https://open.spotify.com/track/5UH4N852wbIVUcMfPGquu1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens \(5th Anniversary Edition\)](https://open.spotify.com/album/3GbofUquULdgvfmK83AXVz) | 3:08 | 2024-07-18 | 2024-08-02 |
 | [Bad Time](https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bad Time](https://open.spotify.com/album/3QgyHF06SLRbdwjk1cBxty) | 2:55 | 2023-11-30 | 2023-12-08 |
 | [BADMAN](https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [BADMAN](https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt) | 2:48 | 2024-07-18 | 2024-08-10 |
-| [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 |  |
+| [Bag of Bones](https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Bag of Bones](https://open.spotify.com/album/4tWOuqMX9aMpFxvNU1WkYl) | 4:04 | 2025-06-26 | 2025-08-11 |
 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2023-12-21 | 2024-02-09 |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-06-16 |
 | [Balu](https://open.spotify.com/track/5zCxHFdFyn3bi9hA9EQ6u3) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [Balu](https://open.spotify.com/album/0k3Iu4vn19MBPYtefVrJPX) | 3:52 | 2024-02-29 | 2024-05-03 |
@@ -923,6 +923,7 @@
 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 | 2023-06-08 | 2023-06-16 |
 | [Might Love Myself](https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:39 | 2023-07-20 | 2023-10-15 |
 | [Might Love Myself](https://open.spotify.com/track/1VLM75hY5fluRorkbIt6NT) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:39 | 2023-11-09 | 2024-01-05 |
+| [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-08 |  |
 | [Million](https://open.spotify.com/track/3OUiCMfFfJ9iJWS4J2Gdh6) | [633](https://open.spotify.com/artist/4Se8CLAm2KKicIi7YNNzrR) | [Million](https://open.spotify.com/album/2yT6WSWNF7KEOYuoUhohRr) | 3:48 | 2023-06-01 | 2023-09-29 |
 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 | 2024-01-18 | 2024-01-26 |
 | [Mind is Light](https://open.spotify.com/track/4n5G4vTYpVOpgU1lQLnjSi) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Mind is Light](https://open.spotify.com/album/09xrm1F88FL1OI9kJ8pTkk) | 3:35 | 2023-07-06 | 2023-07-14 |

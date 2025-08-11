@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español, con Maximiliano Calvo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,548 likes - 67 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,556 likes - 67 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 19 | [Cuando Estamos Tú Y Yo](https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Cuando Estamos Tú Y Yo](https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF) | 2:39 |
 | 20 | [Na Na Nothing](https://open.spotify.com/track/6tbLag7qfKzMotLboJPYmV) | [Migrant Motel](https://open.spotify.com/artist/0T63uYYYnOxOXV7bDF0K0G) | [Na Na Nothing](https://open.spotify.com/album/35Cg2yupRua7J9burKKkf3) | 2:27 |
 | 21 | [EL MAR EN LOS OJOS](https://open.spotify.com/track/6TCfQ0QJx8XDEOMyadI1DY) | [Sinkope](https://open.spotify.com/artist/3pGly9FAB9GLVX1wkNTXoP) | [El MAR EN LOS OJOS](https://open.spotify.com/album/4MHjPi5ZUqbKF2CBFm8rwB) | 6:22 |
-| 22 | [Otro Día en la Oficina](https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Otro Día en la Oficina](https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9) | 4:19 |
+| 22 | [Otro día en la oficina](https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Otro día en la oficina](https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9) | 4:19 |
 | 23 | [Es una Mentira \(Boys Don't Cry\)](https://open.spotify.com/track/01ImKDr4fsNxEkPxsa9vuA) | [Young Aleexx](https://open.spotify.com/artist/0EJnKc0HF9dtK9u9n5n5tL), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Es una Mentira \(Boys Don't Cry\)](https://open.spotify.com/album/5G53t86XyGgkFOsftG4dhk) | 2:30 |
 | 24 | [PASO AL AIRE](https://open.spotify.com/track/0EcQoH6cU0Ph8f9tFZruac) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [PASO AL AIRE](https://open.spotify.com/album/00FkxF6xOtTDNB9AGniV0z) | 3:30 |
 | 25 | [Última Llamada](https://open.spotify.com/track/2Gvaq6t9jSRkMIf1X5LTL9) | [Monte Carlo](https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K) | [Ya No Voy A Estar](https://open.spotify.com/album/2Hckaq3RmyUhjgdxnBpYzf) | 3:48 |

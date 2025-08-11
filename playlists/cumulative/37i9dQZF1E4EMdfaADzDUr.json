@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
+        "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
+      },
+      "artists": [
+        {
+          "name": "Paul Sabin",
+          "url": "https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "711",
+      "url": "https://open.spotify.com/track/5r2Rbf1RxKG5ge8wbzzqOF"
+    },
+    {
+      "album": {
         "name": "A Name I Don't Know",
         "url": "https://open.spotify.com/album/7byiOin8CKEoRc8EubU74Q"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Instrumental Version",
       "url": "https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY"
@@ -34,7 +52,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 272156,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
@@ -96,6 +114,50 @@
       "duration_ms": 131000,
       "name": "ALMA",
       "url": "https://open.spotify.com/track/7gh7yT4rhI3E51byIWhgjM"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/1Tq1vKnXeT8EDM83VkpEWa"
+      },
+      "artists": [
+        {
+          "name": "TribalNeed",
+          "url": "https://open.spotify.com/artist/3tV1ipbS5TGXvXcnEFzNYL"
+        },
+        {
+          "name": "Matteo Rivetto",
+          "url": "https://open.spotify.com/artist/0XjXl6F418bXUDGrOGd4jv"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287213,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
+    },
+    {
+      "album": {
+        "name": "Never Tried",
+        "url": "https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Rangleklods",
+          "url": "https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318145,
+      "name": "Beautiful Losers (feat. Rangleklods)",
+      "url": "https://open.spotify.com/track/0qVXTIQedCfQU4mXL0HmHw"
     },
     {
       "album": {
@@ -164,7 +226,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 366942,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/3hS7bI9vIRu1kflLaqj61a"
@@ -298,7 +360,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 337920,
       "name": "Dissociative",
       "url": "https://open.spotify.com/track/4oNnLEVCRyD3Into7UwOKy"
@@ -395,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Exhausted",
+        "url": "https://open.spotify.com/album/5MTawBsjNs1HAppJuDC3fd"
+      },
+      "artists": [
+        {
+          "name": "Diode Eins",
+          "url": "https://open.spotify.com/artist/6SDn6pAFOILXizOex6vrRr"
+        },
+        {
+          "name": "Disappeared Completely",
+          "url": "https://open.spotify.com/artist/4R5wiVl9fXPuS71ws235Ch"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306885,
+      "name": "Exhausted",
+      "url": "https://open.spotify.com/track/6jMGsyol8kq1SxuLXyVkSb"
+    },
+    {
+      "album": {
         "name": "Fairytale of Berlin",
         "url": "https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB"
       },
@@ -464,7 +548,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 366512,
       "name": "Ghost (Find Me Again)",
       "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
@@ -500,7 +584,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 208264,
       "name": "Got Soul ?",
       "url": "https://open.spotify.com/track/7imJbaRT6Krgc28m738sK5"
@@ -670,7 +754,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -688,7 +772,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 362449,
       "name": "Laminar",
       "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
@@ -710,7 +794,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -764,10 +848,36 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
+    },
+    {
+      "album": {
+        "name": "Moonchild (Club Edit)",
+        "url": "https://open.spotify.com/album/0LOflkwoAFYQwqLWjKLOuj"
+      },
+      "artists": [
+        {
+          "name": "Nicon\u00e9",
+          "url": "https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI"
+        },
+        {
+          "name": "Dirty Doering",
+          "url": "https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea"
+        },
+        {
+          "name": "Leonie Sky",
+          "url": "https://open.spotify.com/artist/62TTff6qfxmi6xWbVH3nER"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374820,
+      "name": "Moonchild - Club Edit",
+      "url": "https://open.spotify.com/track/2mD6bD4dYbpXOze6U9hwCj"
     },
     {
       "album": {
@@ -789,6 +899,24 @@
     },
     {
       "album": {
+        "name": "My mind is heavy",
+        "url": "https://open.spotify.com/album/6aee9fR64ls093IqpAFkec"
+      },
+      "artists": [
+        {
+          "name": "Gl\u00fcckskind",
+          "url": "https://open.spotify.com/artist/0xNA7naxc98lqPi8SEW5aQ"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222389,
+      "name": "My mind is heavy",
+      "url": "https://open.spotify.com/track/256oObpbROJwMUaEN9aqAr"
+    },
+    {
+      "album": {
         "name": "Contagious",
         "url": "https://open.spotify.com/album/6soKatxMxJdAuzC6eOAT7b"
       },
@@ -800,7 +928,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -912,7 +1040,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -930,7 +1058,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 142496,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1"
@@ -955,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Everybody Dreams EP",
+        "url": "https://open.spotify.com/album/0D1LuZmqTLxYtzuBjPGNoN"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285213,
+      "name": "Pave Your Way",
+      "url": "https://open.spotify.com/track/6veznedhcZMQNRWxCudFtm"
+    },
+    {
+      "album": {
         "name": "Planet of the Tapes",
         "url": "https://open.spotify.com/album/54QTNPMlWXhpeh6DJ1E6JR"
       },
@@ -966,7 +1112,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 286080,
       "name": "Planet of the Tapes",
       "url": "https://open.spotify.com/track/5ATXnnGXtYhDWF0IAcFVXB"
@@ -1020,10 +1166,28 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 237600,
       "name": "Pulsing",
       "url": "https://open.spotify.com/track/0rS06cXxKSTEQbvUXFL3Sm"
+    },
+    {
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0g0moUCxmSIVazYz8YvDNo"
+      },
+      "artists": [
+        {
+          "name": "Traf",
+          "url": "https://open.spotify.com/artist/3M1kdGJP7DlEBGPb1JtKJX"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411720,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/5bgSkiClqBmuItDcFADjf6"
     },
     {
       "album": {
@@ -1092,7 +1256,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -1254,7 +1418,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 230005,
       "name": "Suicul",
       "url": "https://open.spotify.com/track/6iUUDX6KuKKv0DUSUgmLjU"
@@ -1294,7 +1458,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 175102,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/6I33IdXeXsU8anxBWIxSZO"
@@ -1420,7 +1584,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -1442,7 +1606,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 234390,
       "name": "Wardenclyffe - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/59s4wikOZ2H0YpHVz9Bfsu"
@@ -1464,6 +1628,24 @@
       "duration_ms": 184373,
       "name": "Water Waves",
       "url": "https://open.spotify.com/track/6LDsKCfIoxcyUXthWn5iYW"
+    },
+    {
+      "album": {
+        "name": "Syamo",
+        "url": "https://open.spotify.com/album/1fp5VOyTSZXrfOiZyDSJFh"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191026,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3HnWv0RHxCHGxqSqbZmJjT"
     },
     {
       "album": {
@@ -1554,7 +1736,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

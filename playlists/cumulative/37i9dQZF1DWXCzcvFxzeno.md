@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-292 songs - 20 hr 50 min
+293 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/track/3RotPxA6cgLQ9sduyM64yX) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Fist On Acid \(Techno Mix\)](https://open.spotify.com/album/4hnP64S9CyCy6LzzcOiseW) | 3:50 | 2024-04-09 |  |
 | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/track/1ezQNsp5el8von7KkY99py) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE), [DJ Thomas Newson](https://open.spotify.com/artist/0tZlnuodIwYzEMCLP86mnt), [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V) | [Flute \(KNTRLVRLST Remix\)](https://open.spotify.com/album/4AAypVDSpB05qmvIeArFso) | 3:07 | 2025-06-20 |  |
 | [Follow Me](https://open.spotify.com/track/1GgYSbkGStGbUey8oyB5LH) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO) | [Follow Me](https://open.spotify.com/album/6pRYh2gOVr4GW3Qkv9Kmuh) | 3:42 | 2025-01-18 | 2025-06-16 |
-| [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-15 |  |
+| [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-15 | 2025-08-11 |
 | [Fractured Reality](https://open.spotify.com/track/6cIOLPd3uInITUTJKmnTO7) | [BLNK](https://open.spotify.com/artist/6c4dKwBxfp4bTz118Y3LJf), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Resident of Evil](https://open.spotify.com/album/6scBDlzufkha65gcJlfLTN) | 5:50 | 2024-04-09 | 2024-04-29 |
 | [Frei](https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 3](https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd) | 6:09 | 2024-04-09 | 2024-09-27 |
 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 | 2025-07-25 |  |
@@ -201,6 +201,7 @@
 | [Orbit Motion](https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Orbit Motion](https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS) | 3:49 | 2025-04-04 |  |
 | [Out of Time](https://open.spotify.com/track/443M0kCEyrSg4V7R5mtq8X) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Out of Time](https://open.spotify.com/album/5qwxuDwCYHD0sH8wCfzAnS) | 3:04 | 2025-05-30 |  |
 | [Peer Pressure](https://open.spotify.com/track/0rCCdYPJO7N2vYWQihflBh) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Incoming](https://open.spotify.com/album/4iFbFjCa3Kc4zS6tkQ9dbO) | 6:10 | 2024-04-09 | 2024-08-03 |
+| [People Stomping](https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [People Stomping](https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy) | 3:20 | 2025-08-08 |  |
 | [Phatt Bass](https://open.spotify.com/track/60NIQobRG98JBVgQYU9gyi) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T), [Drakk](https://open.spotify.com/artist/1J0JESP0VUhLs4zYm62l5Q) | [Phatt Bass](https://open.spotify.com/album/5HTz9g0VedB4AA1tbdi8DX) | 4:15 | 2024-08-05 |  |
 | [Phiom Enhah](https://open.spotify.com/track/1cNkaK5pxDe0J8lQt7bH4e) | [Rikhter](https://open.spotify.com/artist/01wXJJ2iH73waMzLrINVY6) | [Rik1](https://open.spotify.com/album/4gC5qeoacwAk63tLRB518u) | 5:31 | 2024-04-09 | 2024-06-14 |
 | [pkds](https://open.spotify.com/track/27maGlIjDHFDLD4WgkVA2A) | [Buttechno](https://open.spotify.com/artist/4XbQUkFYWthjpAPp96lHWt) | [badtrip](https://open.spotify.com/album/0MIXx7RTmFktP7Tbvn70AB) | 5:49 | 2024-04-09 | 2024-04-17 |

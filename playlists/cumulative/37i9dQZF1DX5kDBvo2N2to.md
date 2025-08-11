@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-377 songs - 20 hr 17 min
+378 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-12 |  |
 | [Dominos](https://open.spotify.com/track/7wI92IXumenyQgway6FaKs) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Dominos](https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg) | 2:40 | 2025-04-24 |  |
 | [Driver dagg faller regn](https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Driver dagg faller regn](https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N) | 3:47 | 2024-11-08 | 2025-02-02 |
+| [Du kan inte ljuga för mig](https://open.spotify.com/track/7FUHlgux4d0OKwSfHr5GjR) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA), [JULI](https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf) | [Du kan inte ljuga för mig](https://open.spotify.com/album/5wffGfpzCjHgaXe3SUndLN) | 2:27 | 2025-08-07 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 |  |
 | [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-28 | 2025-04-18 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-06-28 | 2024-08-30 |
@@ -255,7 +256,7 @@
 | [Mr\. Vibe Killer](https://open.spotify.com/track/2aBQL5TBYfsI76U98vX9WR) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [Mr\. Vibe Killer](https://open.spotify.com/album/0yRDW91fBRvdL2CUNYG3wK) | 3:20 | 2025-03-20 | 2025-07-02 |
 | [MSN & Lunar](https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [MSN & Lunar](https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk) | 3:33 | 2025-04-24 |  |
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-06-28 | 2024-08-23 |
-| [Nere på golvet](https://open.spotify.com/track/4KYz0f2OYDQLJEE5B8y2Zy) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Nere på golvet](https://open.spotify.com/album/3GnlXSvdW3BO8SFlOGrsiE) | 2:51 | 2025-04-24 |  |
+| [Nere på golvet](https://open.spotify.com/track/4KYz0f2OYDQLJEE5B8y2Zy) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Nere på golvet](https://open.spotify.com/album/3GnlXSvdW3BO8SFlOGrsiE) | 2:51 | 2025-04-24 | 2025-08-11 |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-12 |  |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 | 2024-09-20 |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-06-28 | 2024-08-23 |
@@ -306,7 +307,7 @@
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-06-27 |
 | [Skyddar mig från dig](https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Skyddar mig från dig](https://open.spotify.com/album/2P30uc37KVrUgKCkLvBeB9) | 3:05 | 2025-06-19 |  |
 | [Slutat bry mig](https://open.spotify.com/track/23EKxveViwvrcoWTfCyuwa) | [JULIETT](https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH) | [Slutat bry mig](https://open.spotify.com/album/0kPBXLUWO15ZXKE1yKg370) | 2:47 | 2025-05-08 |  |
-| [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 |  |
+| [Slå mig en signal](https://open.spotify.com/track/6gcUauPKL3onITNKZYHZxU) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kärleksrum](https://open.spotify.com/album/5HTtYR7SHbZXCT4hMZfGjo) | 2:19 | 2025-03-20 | 2025-08-11 |
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 | 2025-05-23 |
 | [snackar för mycket](https://open.spotify.com/track/5DXQmPqBUuf51HpIxfZst4) | [Chris Taylor](https://open.spotify.com/artist/2X6nKUSF2b8qXr9pcMno7Q) | [snackar för mycket](https://open.spotify.com/album/35IFjmzMQ5iQJxeHqzuVoq) | 2:41 | 2025-04-24 | 2025-08-01 |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
@@ -372,7 +373,7 @@
 | [violet](https://open.spotify.com/track/636roEe0dWBQwgTLJoBr9j) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [i guess this is me now?](https://open.spotify.com/album/0fr8btLAWf5vRidQtFtVxc) | 2:28 | 2025-02-24 |  |
 | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Världen är inte vacker \(men det är vi\)](https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR) | 3:08 | 2024-10-04 | 2025-02-20 |
 | [Waiting For A Star To Fall](https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Waiting For A Star To Fall](https://open.spotify.com/album/7vRRyAIjUrdVy40CeqV8yF) | 2:46 | 2025-08-07 |  |
-| [Watershed](https://open.spotify.com/track/01Ft203H8gj8FW1ziTK0QI) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/5DD63LXBQgk9mfD7V0euLs) | 2:41 | 2025-08-07 | 2025-08-10 |
+| [Watershed](https://open.spotify.com/track/01Ft203H8gj8FW1ziTK0QI) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/5DD63LXBQgk9mfD7V0euLs) | 2:41 | 2025-08-07 |  |
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 | 2025-04-11 |

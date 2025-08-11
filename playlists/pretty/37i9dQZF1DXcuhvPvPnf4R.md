@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,893 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,895 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,15 +40,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 30 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
 | 31 | [You're the One](https://open.spotify.com/track/0G0ky7lWhrwkds6MobBqvu) | [Dondria](https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO) | [Dondria vs\. Phatfffat](https://open.spotify.com/album/7m1vzSK4S0pSgqWWJJbRNP) | 2:53 |
 | 32 | [Dr\. Carter](https://open.spotify.com/track/3QjQ9c1ooHiJDCqrKGC9fK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:24 |
-| 33 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 |
-| 34 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
+| 33 | [Ravers Gas](https://open.spotify.com/track/79mzjmI59sxbnk5NOPKiFP) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Ravers Gas \- Single](https://open.spotify.com/album/2Tjwu0ywbCuXdTGfOnr7oO) | 3:10 |
+| 34 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 |
 | 35 | [She's All I Got \- Radio Edit](https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw) | [J\. Cozier](https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG) | [Jimmy Cozier](https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W) | 3:31 |
 | 36 | [Hood Blues \(feat\. Westside Gunn, Benny The Butcher & Conway The Machine\)](https://open.spotify.com/track/1OaIvyH1IbX31m4JY6yBej) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Exodus](https://open.spotify.com/album/4kztTaq5iUKFXuWj06wbRM) | 4:36 |
 | 37 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 38 | [Tables Will Turn](https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:32 |
 | 39 | [DON'T GO HUNGRY](https://open.spotify.com/track/6KxNnt4NVFyAk4MJveC133) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [BIG BAD...](https://open.spotify.com/album/0a1J2oCvOyL3lfqgG0ViyT) | 4:10 |
-| 40 | [Hop On](https://open.spotify.com/track/1F8xlznQgz0BKTXZpOXCwx) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Hop On](https://open.spotify.com/album/1bRNXuSz43dKGLF2EdkpY5) | 3:22 |
-| 41 | [Dobale](https://open.spotify.com/track/5A2S9kOi1Kj13sxXCQJOId) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Dobale](https://open.spotify.com/album/2AM7noC8ah9wpla6ySLeBl) | 2:34 |
+| 40 | [Dobale](https://open.spotify.com/track/5A2S9kOi1Kj13sxXCQJOId) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Dobale](https://open.spotify.com/album/2AM7noC8ah9wpla6ySLeBl) | 2:34 |
+| 41 | [Hop On](https://open.spotify.com/track/1F8xlznQgz0BKTXZpOXCwx) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Hop On](https://open.spotify.com/album/1bRNXuSz43dKGLF2EdkpY5) | 3:22 |
 | 42 | [Preach \(feat\. Jim Jones\)](https://open.spotify.com/track/4c1ziBFAuQKKeJE6NXjuuG) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [POISON](https://open.spotify.com/album/7wQWfHMlE9OVghvW74yfz3) | 2:18 |
 | 43 | [Middle Finger](https://open.spotify.com/track/2M2zpLfK5GaNKA5PINPP0b) | [Baby Cham](https://open.spotify.com/artist/1lIuiMR0YIpNeg3GMVsm3b) | [Reggae Gold 2002](https://open.spotify.com/album/6JPjYKnOWIzK5k6RlhUWMv) | 4:16 |
 | 44 | [Reverse Di Ting](https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Ragga Ragga Ragga 2007](https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j) | 3:56 |

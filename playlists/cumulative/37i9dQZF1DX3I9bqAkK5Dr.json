@@ -366,7 +366,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 199180,
       "name": "Baapu",
       "url": "https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co"
@@ -3170,7 +3170,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 176337,
       "name": "Luv U Ne",
       "url": "https://open.spotify.com/track/01xxsSx2Qo8HBBC0gTbYgZ"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 151282,
       "name": "Maayavi",
       "url": "https://open.spotify.com/track/2tnpCaqgdBxJ9N4ucsPWUC"
@@ -6490,6 +6490,32 @@
       "duration_ms": 267272,
       "name": "Saagave Manasa",
       "url": "https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW"
+    },
+    {
+      "album": {
+        "name": "Sahana",
+        "url": "https://open.spotify.com/album/1bhNBRh21pX1ED6J1ll4L3"
+      },
+      "artists": [
+        {
+          "name": "K Phanindra Kumar",
+          "url": "https://open.spotify.com/artist/0sxUF5jWFnoLMv0rgcd6i2"
+        },
+        {
+          "name": "Premchand Kancharla",
+          "url": "https://open.spotify.com/artist/1QUhgE5qQTC0b3asusvSUi"
+        },
+        {
+          "name": "Chirag Shetty",
+          "url": "https://open.spotify.com/artist/4xkgZE1iV3kOXtoZ1kqzTO"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Sahana",
+      "url": "https://open.spotify.com/track/2E7qd2YJGFGFrHv4NuHsfv"
     },
     {
       "album": {

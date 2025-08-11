@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-494 songs - 2 day 1 hr 39 min
+495 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Filinta \- Spaniol Remix](https://open.spotify.com/track/3Ea68m51Xmg5JbZ3i8DEhO) | [Headwaters](https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Filinta \(Remixes\)](https://open.spotify.com/album/0kUAstyyjQxG13cKqjhItw) | 6:43 | 2021-02-28 | 2022-07-26 |
 | [Firefly](https://open.spotify.com/track/4bKJlLA8hJZyuxzsyI3PfT) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Whistleman EP](https://open.spotify.com/album/4DsrW4pmJMdYm1QHxfKr70) | 7:10 | 2020-04-18 | 2020-09-26 |
 | [Flood](https://open.spotify.com/track/1o5xfwWuhS4oe7zgZdQTPy) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Cycles](https://open.spotify.com/album/1arG7wuAlcDNaXD8let4Et) | 5:42 | 2020-10-09 | 2021-01-15 |
+| [Flores Blancas](https://open.spotify.com/track/4eCDvHu3fUH35yIiajE8wX) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [4Rain](https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME), [Anlly Marín](https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr) | [Flores Blancas](https://open.spotify.com/album/1uSNpU4aKLg7nyOAr3ylS6) | 3:12 | 2025-07-25 |  |
 | [Flou](https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy) | [Planet Caravan](https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5) | [Mirage](https://open.spotify.com/album/3q7mbrmrkvkmAJNz9aRW1h) | 6:25 | 2019-08-02\* | 2023-02-01 |
 | [Flowers in Mind](https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz) | [Agawe](https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn) | [Solstice Vibes III](https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF) | 6:43 | 2020-09-26 | 2025-08-01 |
 | [For Your Love](https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [BL SUEDE](https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j) | [For Your Love](https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5) | 3:54 | 2025-06-23 |  |
@@ -427,7 +428,7 @@
 | [Tasi](https://open.spotify.com/track/2ydBAmSGC32VDh34Libi1G) | [REYSIS](https://open.spotify.com/artist/19lIvmbu4jVhIIFhtbV2LC), [SIS](https://open.spotify.com/artist/4wzvXCxUnFdUjNgTwqPOf3), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Tasi Lua](https://open.spotify.com/album/2bg07HDf5MxkkeNcnXgzul) | 8:43 | 2022-05-06 | 2022-07-27 |
 | [Tembo](https://open.spotify.com/track/5pGuUCGpycumIFUa0vJQyC) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 8:41 | 2023-02-17 | 2024-04-03 |
 | [Temple](https://open.spotify.com/track/4WtA5xiOoM3NvQgFUGkgNd) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [Temple Dream](https://open.spotify.com/album/7jOqBniEJ1hn7nyPocGrVT) | 8:12 | 2020-12-05 | 2021-05-28 |
-| [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 | 2021-05-09 |  |
+| [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 | 2021-05-09 | 2025-08-11 |
 | [Terra Rasgada \- Santiago Garcia Remix](https://open.spotify.com/track/0pmAFbgm9YdB1teCoD8yY2) | [Embatucadores](https://open.spotify.com/artist/26WcldLimxcEG1SkHgP3ky), [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Terra Rasgada \(Santiago Garcia Remix\)](https://open.spotify.com/album/7kFv48dGaYfsVwpzBfVOWN) | 6:24 | 2019-09-20 | 2020-03-16 |
 | [The Calling](https://open.spotify.com/track/2g7ddQ7Mx0eHkIrzybmNUc) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The Calling](https://open.spotify.com/album/79GjobeCofjoHI8cmwgUvo) | 4:21 | 2020-09-26 | 2021-01-15 |
 | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Theus Mago](https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [The Dream \(feat\. Martina Camargo\)](https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep) | 3:30 | 2023-09-01 | 2025-04-20 |

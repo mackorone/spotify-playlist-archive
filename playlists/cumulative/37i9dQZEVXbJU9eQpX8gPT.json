@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -9622,7 +9622,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 186502,
       "name": "D\u00e9sert",
       "url": "https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y"
@@ -15115,6 +15115,24 @@
     },
     {
       "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ"
+      },
+      "artists": [
+        {
+          "name": "Chaos333",
+          "url": "https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV"
+    },
+    {
+      "album": {
         "name": "Jedi ou Jedek",
         "url": "https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv"
       },
@@ -15574,7 +15592,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 140750,
       "name": "KA3I",
       "url": "https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5"
@@ -19152,7 +19170,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 144576,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/1RpfpLMsvQB9voSXa973SP"
@@ -22986,7 +23004,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"

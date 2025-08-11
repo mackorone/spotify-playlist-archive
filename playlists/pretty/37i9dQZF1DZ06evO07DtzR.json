@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 40927,
+  "num_followers": 40934,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAAG45G+5wrMlzg7QN/QMjsh",
+  "snapshot_id": "aJaPgAAAAADbBA23mqZYIhpd2utDBnUu",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Alone With You",
-        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
+        "name": "KABANERI OF THE IRON FORTRESS",
+        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 250893,
-      "name": "elbadaernU",
-      "url": "https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT"
+      "duration_ms": 247586,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS",
-        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
+        "name": "All Alone With You",
+        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 247586,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
+      "duration_ms": 250893,
+      "name": "elbadaernU",
+      "url": "https://open.spotify.com/track/7hWcW1U8ZUkjFYRo3sHEzT"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 96893,
-      "name": "The Everlasting Guilty Crown -TV Edit-",
-      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fallen-TV edit-",
         "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 89990,
       "name": "Fallen-TV edit-",
       "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 96893,
+      "name": "The Everlasting Guilty Crown -TV Edit-",
+      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
     },
     {
       "added_at": null,

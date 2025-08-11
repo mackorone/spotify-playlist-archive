@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-655 songs - 1 day 21 hr 19 min
+656 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 | 2024-07-10 |  |
 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 | 2023-12-30 |  |
 | [Need to Be Next to You](https://open.spotify.com/track/4WuojYI1z4yKqDQu2NzbTu) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:29 | 2023-12-30 |  |
-| [Never Changing Love](https://open.spotify.com/track/64qO6AAaDncpMt2rZJc2fB) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Ultimate Collection: Shanice](https://open.spotify.com/album/5tjVOvUObHGTP3XPOKtRIe) | 4:16 | 2023-12-30 |  |
+| [Never Changing Love](https://open.spotify.com/track/64qO6AAaDncpMt2rZJc2fB) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Ultimate Collection: Shanice](https://open.spotify.com/album/5tjVOvUObHGTP3XPOKtRIe) | 4:16 | 2023-12-30 | 2025-08-11 |
+| [Never Changing Love](https://open.spotify.com/track/6Gvle1zxRejXZh57PLpDNS) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [21..\. Ways To Grow \(Expanded Edition\)](https://open.spotify.com/album/1LCN1FSKjERpebIGF7TmtU) | 4:16 | 2025-08-10 |  |
 | [Never Dance Again](https://open.spotify.com/track/1VyIDVy3CCOEEswyYL0TkQ) | [Samantha Harvey](https://open.spotify.com/artist/78c7nvjh7AbOgTNV7QKMxZ) | [Never Dance Again](https://open.spotify.com/album/2XkZcDIBftWVKPWlKA50rH) | 4:05 | 2023-12-30 |  |
 | [Never Get Enough of Your Love](https://open.spotify.com/track/2ocPyUO7kuJwkVKHRBAgW1) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:06 | 2023-12-30 |  |
 | [Never Gonna Break My Heart Again](https://open.spotify.com/track/7BEg23J2vdnoAbQ46styWQ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Deborah Cox \(Expanded\)](https://open.spotify.com/album/2SM60rNc5lbJXIxe7Ru4Xd) | 4:10 | 2023-12-30 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAANtzQ7ah+unMPjb2P+D5hm",
+  "snapshot_id": "AAAAAAAAAADwgNIMxB3xZW6f6u9gjmqG",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:00",
@@ -55,70 +55,6 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "A Milli (FreeStyle)",
-        "url": "https://open.spotify.com/album/20qxF65YfKA7oA6zqzglx4"
-      },
-      "artists": [
-        {
-          "name": "Brady Sanders",
-          "url": "https://open.spotify.com/artist/66itZ8nSNb77j60LjVyBPn"
-        },
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 342073,
-      "name": "A Milli (FreeStyle)",
-      "url": "https://open.spotify.com/track/3qxo1w2tuKn8XQGgbJ03cS"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Hurty Squirties",
-        "url": "https://open.spotify.com/album/3AcksUBGTSugJK1lQornH4"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 127999,
-      "name": "Hurty Squirties",
-      "url": "https://open.spotify.com/track/5LDbMb0lYYFCkibuW6lQDX"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "LION MAN",
-        "url": "https://open.spotify.com/album/3bJhKulKkzNNg3xNLvQdzl"
-      },
-      "artists": [
-        {
-          "name": "Mac Matrix",
-          "url": "https://open.spotify.com/artist/7mbMfhRa3fUQ4rL2nBolCa"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
-        }
-      ],
-      "duration_ms": 293500,
-      "name": "LION MAN II",
-      "url": "https://open.spotify.com/track/1bx4FTQbnRJtAbdyc2VIUH"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
         "name": "Heartbeats",
         "url": "https://open.spotify.com/album/6W2W6rhX9zMpvnaPL4FGog"
       },
@@ -139,18 +75,26 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "enjoy the ride",
-        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
+        "name": "LION MAN",
+        "url": "https://open.spotify.com/album/3bJhKulKkzNNg3xNLvQdzl"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Mac Matrix",
+          "url": "https://open.spotify.com/artist/7mbMfhRa3fUQ4rL2nBolCa"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 171237,
-      "name": "enjoy the ride",
-      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+      "duration_ms": 208069,
+      "name": "LION MAN III",
+      "url": "https://open.spotify.com/track/6UKu02LVpyyoVFhZR5kWZs"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -179,58 +123,54 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Vela",
-        "url": "https://open.spotify.com/album/6KHd7qiKysNz8uaqjHWynV"
+        "name": "A Milli (FreeStyle)",
+        "url": "https://open.spotify.com/album/20qxF65YfKA7oA6zqzglx4"
       },
       "artists": [
         {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+          "name": "Brady Sanders",
+          "url": "https://open.spotify.com/artist/66itZ8nSNb77j60LjVyBPn"
         },
         {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 141187,
-      "name": "Vela",
-      "url": "https://open.spotify.com/track/33UgUd58NlaSltdcR3velN"
+      "duration_ms": 342073,
+      "name": "A Milli (FreeStyle)",
+      "url": "https://open.spotify.com/track/3qxo1w2tuKn8XQGgbJ03cS"
     },
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Be Kind Be You",
-        "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
+        "name": "enjoy the ride",
+        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
       },
       "artists": [
         {
-          "name": "Doggyland",
-          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 172800,
-      "name": "I Love To Laugh",
-      "url": "https://open.spotify.com/track/0foRV5h9JcJxnqxqj7ShI8"
+      "duration_ms": 171237,
+      "name": "enjoy the ride",
+      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
     },
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
+        "name": "Butt Floss Boogie",
+        "url": "https://open.spotify.com/album/68twGf8Y4z5SH3UtlXSfVA"
       },
       "artists": [
         {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
+      "duration_ms": 104443,
+      "name": "Butt Floss Boogie",
+      "url": "https://open.spotify.com/track/6LQ9gKqcf8xlapGZJrgWzC"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -255,22 +195,78 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/0UHPrq8smwU1HbupSKaYHe"
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         },
         {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Be Kind Be You",
+        "url": "https://open.spotify.com/album/3ZMakxOH49FKu7SHkqd1EV"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 134464,
+      "name": "Vowel Song",
+      "url": "https://open.spotify.com/track/1ft8h4zOpRTVKeUcsphZYr"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Vela",
+        "url": "https://open.spotify.com/album/6KHd7qiKysNz8uaqjHWynV"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "Vela",
+      "url": "https://open.spotify.com/track/33UgUd58NlaSltdcR3velN"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -291,22 +287,22 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "We Are Who We Say We Are",
-        "url": "https://open.spotify.com/album/5FsGG7pWS3tWVCBswZR7Wv"
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/0UHPrq8smwU1HbupSKaYHe"
       },
       "artists": [
         {
-          "name": "AmirSaysNothing",
-          "url": "https://open.spotify.com/artist/6S2DUG8jgRzX8v9cnHo5J3"
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
         },
         {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
         }
       ],
-      "duration_ms": 207518,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/0s7GjleshZhVQLKVfoF46q"
+      "duration_ms": 202000,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -351,38 +347,38 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+        "name": "We Are Who We Say We Are",
+        "url": "https://open.spotify.com/album/5FsGG7pWS3tWVCBswZR7Wv"
       },
       "artists": [
         {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+          "name": "AmirSaysNothing",
+          "url": "https://open.spotify.com/artist/6S2DUG8jgRzX8v9cnHo5J3"
         },
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
         }
       ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+      "duration_ms": 207518,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/0s7GjleshZhVQLKVfoF46q"
     },
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 212962,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+      "duration_ms": 176800,
+      "name": "Bitin' List",
+      "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -475,6 +471,22 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
+        "name": "Kangaroos",
+        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
+      },
+      "artists": [
+        {
+          "name": "Anthony Vincent",
+          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
+        }
+      ],
+      "duration_ms": 106511,
+      "name": "Kangaroos",
+      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/7v9yB3BnZdvZrgyeCEUJFm"
       },
@@ -491,22 +503,6 @@
       "duration_ms": 154511,
       "name": "Survive",
       "url": "https://open.spotify.com/track/7JqKGUaipBzwxv9mVDUl7n"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Kangaroos",
-        "url": "https://open.spotify.com/album/1jd6fttdJ6hpa5uHhoDiH5"
-      },
-      "artists": [
-        {
-          "name": "Anthony Vincent",
-          "url": "https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6"
-        }
-      ],
-      "duration_ms": 106511,
-      "name": "Kangaroos",
-      "url": "https://open.spotify.com/track/7EVpTQzh5RGEzuqh1Ewr2u"
     },
     {
       "added_at": "2025-08-08 04:00:00",

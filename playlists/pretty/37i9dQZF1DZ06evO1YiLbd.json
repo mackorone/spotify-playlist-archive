@@ -1,12 +1,12 @@
 {
   "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
-  "num_followers": 7911,
+  "num_followers": 7913,
   "original_name": "This Is Yuki Hayashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAA55HT0oEMldUNzlDS+Fwz8",
+  "snapshot_id": "aJaPgAAAAADcmO6aIRXW1+IZeGSGLS2g",
   "tracks": [
     {
       "added_at": null,
@@ -344,41 +344,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 160000,
-      "name": "\u6094\u3057\u3055",
-      "url": "https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 149320,
-      "name": "All Might with U.A. Students",
-      "url": "https://open.spotify.com/track/59h3i22MBicerNR1llNXqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Death Parade Original Soundtrack",
-        "url": "https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 280760,
-      "name": "moonlit night",
-      "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
+      "duration_ms": 173000,
+      "name": "\u795e\u696d\u901f\u653b",
+      "url": "https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E"
     },
     {
       "added_at": null,
@@ -399,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
-        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
       },
       "artists": [
         {
@@ -408,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 173000,
-      "name": "\u795e\u696d\u901f\u653b",
-      "url": "https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E"
+      "duration_ms": 149320,
+      "name": "All Might with U.A. Students",
+      "url": "https://open.spotify.com/track/59h3i22MBicerNR1llNXqv"
     },
     {
       "added_at": null,
@@ -435,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u6094\u3057\u3055",
+      "url": "https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 208000,
       "name": "\u76ee\u6a19",
       "url": "https://open.spotify.com/track/1bnHb1q8DePjvo7sH20ugT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Parade Original Soundtrack",
+        "url": "https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "moonlit night",
+      "url": "https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
       "duration_ms": 113100,
       "name": "Go Straight!",
       "url": "https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 124706,
+      "name": "\u304a\u4e92\u3044",
+      "url": "https://open.spotify.com/track/3xoR0KaRRbNGfJZwz2zm6n"
     },
     {
       "added_at": null,
@@ -563,38 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u98a8\u304c\u5f37\u304f\u5439\u3044\u3066\u3044\u308b\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/15qSa1T6OKegsLuFcvh7nW"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 124706,
-      "name": "\u304a\u4e92\u3044",
-      "url": "https://open.spotify.com/track/3xoR0KaRRbNGfJZwz2zm6n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
-        "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "\u6975\u9650\u30b9\u30a4\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My\u2606Hero",
-        "url": "https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
+        "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
       },
       "artists": [
         {
           "name": "Yuki Hayashi",
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        },
-        {
-          "name": "POP STEP",
-          "url": "https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX"
         }
       ],
-      "duration_ms": 182600,
-      "name": "My\u2606Hero",
-      "url": "https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ"
+      "duration_ms": 162253,
+      "name": "\u6975\u9650\u30b9\u30a4\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1NZo15KUTNsKN5cR7NIZ6P"
     },
     {
       "added_at": null,
@@ -656,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 78680,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY"
+      "duration_ms": 81666,
+      "name": "From Me to You",
+      "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 199866,
       "name": "\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My\u2606Hero",
+        "url": "https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "POP STEP",
+          "url": "https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "My\u2606Hero",
+      "url": "https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "\u5316\u5b66\u5909\u5316",
+      "url": "https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 204426,
       "name": "Just Another Hero",
       "url": "https://open.spotify.com/track/7p6b4Z4Z9Pvn4qPYe3XRpX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "\u5316\u5b66\u5909\u5316",
-      "url": "https://open.spotify.com/track/4Hgr3afG2PcXmIIsEIaBJ3"
     },
     {
       "added_at": null,

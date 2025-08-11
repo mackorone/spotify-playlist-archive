@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,661 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,662 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMTKZuy8ORFV.md) - [plain]
 | 49 | [Vem Vem](https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Vem Vem](https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV) | 1:23 |
 | 50 | [Buen Tipo](https://open.spotify.com/track/1ITyoiqlLwTl9GeIfKltYt) | [Ocasional Talento](https://open.spotify.com/artist/5IeI26Ct0ocZiLgzvQw5Mt) | [Buen Tipo](https://open.spotify.com/album/2VlnC62aUIGxC3QrklhZgt) | 2:06 |
 
-Snapshot ID: `MCrAqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MCwSKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

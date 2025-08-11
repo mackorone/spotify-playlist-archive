@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-101 songs - 7 hr 34 min
+102 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Deliverer](https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:25 | 2022-09-14 |  |
 | [Echoes One](https://open.spotify.com/track/19oOSjEyj3ieUb3hamiUcA) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 1:29 | 2022-09-14 | 2022-10-13 |
 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 | 2022-09-21 | 2025-04-06 |
+| [Finished Work](https://open.spotify.com/track/1XcSkwXf1MJbfiXjKHj387) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The Praise Belongs](https://open.spotify.com/album/4Ua9C43QMyNlHOgV3QnT8G) | 3:38 | 2025-08-11 |  |
 | [Firelight](https://open.spotify.com/track/1j5N5RTJPkawg8eYodXo9z) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 4:14 | 2022-09-14 | 2022-10-13 |
 | [Flesh And Bone](https://open.spotify.com/track/6ZY1RmNRqBosEHmgQP5I8B) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 6:05 | 2022-09-14 | 2022-10-08 |
 | [Give Thanks To God](https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Give Thanks To God](https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g) | 3:34 | 2024-09-23 |  |
@@ -105,7 +106,7 @@
 | [With A Little Help From My Friends \- Live](https://open.spotify.com/track/1DvuS4n9s9GE3BqCQw6Vo5) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [With A Little Help From My Friends \(Live\)](https://open.spotify.com/album/58Z5rBOC7zxqEMELvZK2e4) | 4:19 | 2024-06-23 | 2024-07-23 |
 | [You Revive Me \- Live](https://open.spotify.com/track/2WbXqdFSIRYeGxc4kEhBNk) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Captivate Us \(Live From Keeper's Branch\)](https://open.spotify.com/album/0zxzPQFa4Fx4gd4AZJVYZ6) | 7:11 | 2024-07-16 | 2024-07-27 |
 | [You Revive Me \- Live](https://open.spotify.com/track/6u11FVFbt4aNEXN6ft02Ot) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [You Revive Me \(Live From Keeper's Branch\)](https://open.spotify.com/album/3shNnK3y50olcCFqA4l9cJ) | 7:11 | 2024-03-13 | 2024-07-11 |
-| [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 | 2022-09-14 |  |
+| [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 | 2022-09-14 | 2025-08-11 |
 | [Your Grace Is Enough](https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:25 | 2022-09-14 |  |
 | [Your Grace Is Enough/Here I Am Lord \(Live\)](https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 6:05 | 2022-09-14 |  |
 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2022-09-14 |  |

@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Aug 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Aug 22:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAT2fGH4lb+AqwdjQR13Q/ohmPxujvW",
+  "snapshot_id": "AAAT22S3aNxc9jY5qzLyqU0CLZSXS5JR",
   "tracks": [
+    {
+      "added_at": "2025-08-10 22:05:35",
+      "album": {
+        "name": "Hit 'Em Up",
+        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "duration_ms": 250785,
+      "name": "Hit 'Em Up",
+      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
+    },
     {
       "added_at": "2025-08-09 03:04:15",
       "album": {
@@ -807,22 +823,6 @@
       "duration_ms": 144631,
       "name": "All Da Same",
       "url": "https://open.spotify.com/track/4n4SppfXnfxYXfdLUSHGBs"
-    },
-    {
-      "added_at": "2025-07-29 22:06:28",
-      "album": {
-        "name": "ENEMY",
-        "url": "https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 161949,
-      "name": "ENEMY",
-      "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
     }
   ],
   "unique_name": "New Singles Now",

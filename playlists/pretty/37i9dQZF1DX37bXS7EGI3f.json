@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Doro\n",
-  "num_followers": 806207,
+  "num_followers": 806274,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
+        "name": "Of Silence",
+        "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
+      },
+      "artists": [
+        {
+          "name": "Dawn of Destiny",
+          "url": "https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45"
+        },
+        {
+          "name": "Chris Harms",
+          "url": "https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
         "name": "Vermillion",
         "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 239266,
       "name": "Cradle To The Grave",
       "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
-        "name": "Of Silence",
-        "url": "https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1"
-      },
-      "artists": [
-        {
-          "name": "Dawn of Destiny",
-          "url": "https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45"
-        },
-        {
-          "name": "Chris Harms",
-          "url": "https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "1066",
-        "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 272013,
-      "name": "1066",
-      "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 233343,
       "name": "On the Sea",
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "1066",
+        "url": "https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 272013,
+      "name": "1066",
+      "url": "https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Dance Till We Sink",
-        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
-      },
-      "artists": [
-        {
-          "name": "A Wildheart's Tale",
-          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
-        }
-      ],
-      "duration_ms": 178999,
-      "name": "Dance Till We Sink",
-      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "Winter Storm Vigilantes",
         "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 312426,
       "name": "Winter Storm Vigilantes",
       "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Dance Till We Sink",
+        "url": "https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt"
+      },
+      "artists": [
+        {
+          "name": "A Wildheart's Tale",
+          "url": "https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb"
+        }
+      ],
+      "duration_ms": 178999,
+      "name": "Dance Till We Sink",
+      "url": "https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm"
     },
     {
       "added_at": "2025-07-04 04:00:16",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-07-04 04:00:16",
       "album": {
-        "name": "Sorrowbreaker",
-        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "Retrospectator",
-      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
-    },
-    {
-      "added_at": "2025-07-04 04:00:16",
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
+    },
+    {
+      "added_at": "2025-07-04 04:00:16",
+      "album": {
+        "name": "Sorrowbreaker",
+        "url": "https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 177640,
+      "name": "Retrospectator",
+      "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
     },
     {
       "added_at": "2025-07-04 04:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Jay Webb
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,323 likes - 206 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,385 likes - 206 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

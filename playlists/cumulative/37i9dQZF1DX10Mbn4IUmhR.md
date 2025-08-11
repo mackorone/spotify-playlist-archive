@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks via ZA Cover: <a href="https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=6f\_VpuwoSg6vVCWu7FndLw">Shekhinah</a>
 
-618 songs - 1 day 9 hr 0 min
+619 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-29 | 2025-07-09 |
 | [Boys](https://open.spotify.com/track/0LiZn4knA2ebtAQt6ganjF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Boys](https://open.spotify.com/album/2KEZGLqtsIBhnowSjamL47) | 2:33 | 2024-11-21 | 2024-11-29 |
 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 | 2025-04-04 | 2025-04-30 |
+| [Break up Season](https://open.spotify.com/track/6wxdwkyu7rkYMJca8Ctq4L) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Less Trouble](https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp) | 4:10 | 2025-08-10 |  |
 | [BURN WITH YOU](https://open.spotify.com/track/6zCTWOe7N8vCbKB9ZA6KsM) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [BURN WITH YOU](https://open.spotify.com/album/6K2xkAntfy0HWXUG1ONpoY) | 2:54 | 2025-07-17 |  |
 | [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 | 2025-06-12 | 2025-06-21 |
 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 | 2025-02-13 | 2025-03-21 |
@@ -566,7 +567,7 @@
 | [Uncool](https://open.spotify.com/track/346O6IxI7I5L3vd4es9lvI) | [Mikhaela Faye](https://open.spotify.com/artist/2GL4xifkoDW8sxMHNbbeX7) | [I'm Bored](https://open.spotify.com/album/793xgnKGtdlTQAHfzhHdks) | 2:27 | 2025-07-10 | 2025-07-18 |
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-11-28 | 2025-01-24 |
 | [UNDERCOVER](https://open.spotify.com/track/4EvbMQMievM4jmeBpWEUvZ) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [UNDERCOVER](https://open.spotify.com/album/3T6iKrglvo69iLvTvfx66j) | 3:29 | 2024-07-25 | 2024-08-10 |
-| [Until Until](https://open.spotify.com/track/0UKaP4Oxb0BAif2emox76G) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Less Trouble](https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp) | 4:04 | 2025-08-07 |  |
+| [Until Until](https://open.spotify.com/track/0UKaP4Oxb0BAif2emox76G) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Less Trouble](https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp) | 4:04 | 2025-08-07 | 2025-08-11 |
 | [Vicious](https://open.spotify.com/track/2iYd12EeJxCs9Oxqk7UlHo) | [Tokyo Project](https://open.spotify.com/artist/6b6w8DXrLFEPxnG4kTqUnT), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Vicious](https://open.spotify.com/album/3QP3Thp7juEUMEDAKsH1Dt) | 2:37 | 2025-04-17 | 2025-06-24 |
 | [Vodka Cranberry](https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Vodka Cranberry](https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt) | 4:05 | 2025-07-10 | 2025-07-25 |
 | [Voodoo Doll](https://open.spotify.com/track/4o1nG9It5PNu8S2rV8xjsT) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Voodoo Doll](https://open.spotify.com/album/36YSVWHHTwuoBaejDH7v1z) | 2:07 | 2024-11-07 | 2024-11-16 |

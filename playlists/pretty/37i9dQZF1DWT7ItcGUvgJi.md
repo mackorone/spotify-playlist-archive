@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7ItcGUvgJi.md) - [plain]
 
 > Where two indie music powerhouses meet!<br/>Get in the groove and gear up for the show with the best tracks from the lineup\. 🎶✨ \(인디음악을 지원하는 두 프로그램의 만남! 공연 라인업의 베스트 곡들을 들으며 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 29 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 29 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

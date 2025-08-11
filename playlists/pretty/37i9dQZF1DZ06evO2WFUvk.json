@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3863,
+  "num_followers": 3866,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAADo/qwsELxLlV+yF9cnjKoF",
+  "snapshot_id": "aJaPgAAAAAD8J74hQPRXgmzJY1uF6M7r",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria Under the Stars",
+        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 128673,
+      "name": "Euphoria Under the Stars",
+      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Viaje (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 199306,
       "name": "La Partida",
       "url": "https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria Under the Stars",
-        "url": "https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 128673,
-      "name": "Euphoria Under the Stars",
-      "url": "https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL"
     },
     {
       "added_at": null,

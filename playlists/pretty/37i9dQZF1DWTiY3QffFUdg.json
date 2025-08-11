@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 140340,
+  "num_followers": 140499,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121771,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121771,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Voices In My Head (Amelie Lens Remix)",
         "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Don't You Want Me (KI/KI Remix)",
+        "url": "https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ"
+      },
+      "artists": [
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
+        },
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 227006,
+      "name": "Don't You Want Me - KI/KI Remix",
+      "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -1411,26 +1431,6 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Don't You Want Me (KI/KI Remix)",
-        "url": "https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ"
-      },
-      "artists": [
-        {
-          "name": "Felix",
-          "url": "https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk"
-        },
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 227006,
-      "name": "Don't You Want Me - KI/KI Remix",
-      "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "The Realm",
+        "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 358099,
+      "name": "The Realm",
+      "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Party So Hard",
         "url": "https://open.spotify.com/album/5nHZegXHDO2Fw7fLMwFfqa"
       },
@@ -1663,18 +1679,26 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "The Realm",
-        "url": "https://open.spotify.com/album/28xAYfAYLe2gCkKcNz5pZO"
+        "name": "Come On Baddie Let's Go Party",
+        "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "NOYSE",
+          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
         }
       ],
-      "duration_ms": 358099,
-      "name": "The Realm",
-      "url": "https://open.spotify.com/track/7n0x9UPBlBlp35Nr6GMLj5"
+      "duration_ms": 153311,
+      "name": "Come On Baddie Let's Go Party",
+      "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1699,30 +1723,6 @@
       "duration_ms": 153158,
       "name": "Rave Eternally",
       "url": "https://open.spotify.com/track/041BvHQOCDXBsovbWqgxsU"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Come On Baddie Let's Go Party",
-        "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
-      },
-      "artists": [
-        {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
-          "name": "NOYSE",
-          "url": "https://open.spotify.com/artist/3e1EBvnyj3mke3HnMa5Uq2"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 153311,
-      "name": "Come On Baddie Let's Go Party",
-      "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1831,6 +1831,30 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        },
+        {
+          "name": "STORM",
+          "url": "https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP"
+        },
+        {
+          "name": "AENJAY",
+          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
+        }
+      ],
+      "duration_ms": 142991,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Gimme That Noise",
         "url": "https://open.spotify.com/album/25EH7sB7gsAhUNKvu5yv1x"
       },
@@ -1875,6 +1899,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Overdrive EP",
+        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 254836,
+      "name": "Overdrive - Edit",
+      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Global Awakening",
         "url": "https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9"
       },
@@ -1899,46 +1939,6 @@
       "duration_ms": 173500,
       "name": "Young Birds",
       "url": "https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Overdrive EP",
-        "url": "https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 254836,
-      "name": "Overdrive - Edit",
-      "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/21kaF8OYz66A91XR46Npx0"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        },
-        {
-          "name": "STORM",
-          "url": "https://open.spotify.com/artist/1atOL5ZdWQS8elntF1tByP"
-        },
-        {
-          "name": "AENJAY",
-          "url": "https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ"
-        }
-      ],
-      "duration_ms": 142991,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/1Ty8EUqUPzUv6nWqqwc9RL"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1983,26 +1983,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "The Kingdom",
-        "url": "https://open.spotify.com/album/2huIIggdRS5Ndv1887BiKq"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Radical Redemption",
-          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "The Kingdom",
-      "url": "https://open.spotify.com/track/3rv5ILFO1NYZMymrk6962N"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -2039,26 +2019,46 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+        "name": "The Kingdom",
+        "url": "https://open.spotify.com/album/2huIIggdRS5Ndv1887BiKq"
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "Stisema",
-          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
-        },
-        {
-          "name": "Lulu Voxx",
-          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         }
       ],
-      "duration_ms": 168124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+      "duration_ms": 154838,
+      "name": "The Kingdom",
+      "url": "https://open.spotify.com/track/3rv5ILFO1NYZMymrk6962N"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Winter (The Four Seasons) [Techno Mix]",
+        "url": "https://open.spotify.com/album/2yEIqIvFwLaz1WIthNjff3"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Blaze U",
+          "url": "https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1"
+        },
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        }
+      ],
+      "duration_ms": 115172,
+      "name": "Winter (The Four Seasons) - Techno Mix",
+      "url": "https://open.spotify.com/track/3UPltDNDxsC4rot0fJwBjv"
     }
   ],
   "unique_name": "techno party",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 222 songs - 21 hr 26 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 223 songs - 21 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,5 +230,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 220 | [somebody else \- KI/KI Remix](https://open.spotify.com/track/2SQ1Qyi2zNm40V5G5eFzgq) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [somebody else \(KI/KI Remix\)](https://open.spotify.com/album/5rMgUypEYuDx8AASsih7rR) | 2:55 |
 | 221 | [You Are The Only One](https://open.spotify.com/track/6kjjiuFtJ6uNnonwY1AioP) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [You Are The Only One](https://open.spotify.com/album/7dztEddHwUAJTkFNtSTEGv) | 5:13 |
 | 222 | [Let Me Down](https://open.spotify.com/track/2YvuRuHYvsoVOBrbs4LYCe) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Dark of the Night](https://open.spotify.com/album/5maXd17AVV4IaFH8UTDUY6) | 4:45 |
+| 223 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 
-Snapshot ID: `AAABA0KiTbkHr+jY9FyyczHhmOvswDMT`
+Snapshot ID: `AAABBEF4hq6BQBQ8chgJmB5ytM8wQg8d`

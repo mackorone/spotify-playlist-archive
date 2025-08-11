@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 867734,
+  "num_followers": 868017,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "Oro (feat. Sofiane Pamart)",
+        "url": "https://open.spotify.com/album/4GGzMyM3MeJk4iFN3f4woK"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "duration_ms": 165440,
+      "name": "Oro (feat. Sofiane Pamart)",
+      "url": "https://open.spotify.com/track/58ip4yjN2Ho65FQQ0hmJAc"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Kamili",
         "url": "https://open.spotify.com/album/59q5fTLywgfKCoensSHdxG"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 226500,
       "name": "Kamili",
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Oro (feat. Sofiane Pamart)",
-        "url": "https://open.spotify.com/album/4GGzMyM3MeJk4iFN3f4woK"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 165440,
-      "name": "Oro (feat. Sofiane Pamart)",
-      "url": "https://open.spotify.com/track/58ip4yjN2Ho65FQQ0hmJAc"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "Sentimental (Sombras)",
-        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 213442,
-      "name": "Sentimental - Sombras",
-      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
+        "name": "Sentimental (Sombras)",
+        "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 213442,
+      "name": "Sentimental - Sombras",
+      "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "Back 2 Me",
+        "url": "https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi"
+      },
+      "artists": [
+        {
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "Back 2 Me",
+      "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/66MArV9C0dNXz5P76eN4Kb"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "Back 2 Me",
-        "url": "https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi"
+        "name": "Akenza",
+        "url": "https://open.spotify.com/album/3UHmB0lFBUwSdsP65b8qcH"
       },
       "artists": [
         {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+          "name": "El Khatib",
+          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
         }
       ],
-      "duration_ms": 161622,
-      "name": "Back 2 Me",
-      "url": "https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj"
+      "duration_ms": 139312,
+      "name": "Akenza",
+      "url": "https://open.spotify.com/track/67RI2O6JgdeBENhn6rY4eG"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -959,22 +975,6 @@
       "duration_ms": 449509,
       "name": "Se Va, Se Va",
       "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Akenza",
-        "url": "https://open.spotify.com/album/3UHmB0lFBUwSdsP65b8qcH"
-      },
-      "artists": [
-        {
-          "name": "El Khatib",
-          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
-        }
-      ],
-      "duration_ms": 139312,
-      "name": "Akenza",
-      "url": "https://open.spotify.com/track/67RI2O6JgdeBENhn6rY4eG"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "Meka",
-        "url": "https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 194938,
-      "name": "Meka",
-      "url": "https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
         "name": "Chaak",
         "url": "https://open.spotify.com/album/0vY8kHv6gujFCWyUCnQ1Eq"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
+        "name": "Meka",
+        "url": "https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 194938,
+      "name": "Meka",
+      "url": "https://open.spotify.com/track/6YPiDqUt8ITVVOqMBabOSB"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 342853,
       "name": "Karanfilce Devojce - PACHIRA Remix",
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "La China",
+        "url": "https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "duration_ms": 263731,
+      "name": "La China",
+      "url": "https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -1439,22 +1459,26 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "La China",
-        "url": "https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2"
+        "name": "Sorofe",
+        "url": "https://open.spotify.com/album/1IC43G0XM6s7P6NhSgfKgN"
       },
       "artists": [
         {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
         },
         {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+          "name": "Niraj Naik",
+          "url": "https://open.spotify.com/artist/1b6fkBCxVg18jRbQX5vyYk"
+        },
+        {
+          "name": "Nicolle Rochelle",
+          "url": "https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL"
         }
       ],
-      "duration_ms": 263731,
-      "name": "La China",
-      "url": "https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn"
+      "duration_ms": 252055,
+      "name": "Sorofe",
+      "url": "https://open.spotify.com/track/4bfbIvejny3qtgWJYXFLE3"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1503,42 +1527,26 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "Sorofe",
-        "url": "https://open.spotify.com/album/1IC43G0XM6s7P6NhSgfKgN"
+        "name": "Flores Blancas",
+        "url": "https://open.spotify.com/album/1uSNpU4aKLg7nyOAr3ylS6"
       },
       "artists": [
         {
-          "name": "THEMBA",
-          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
         },
         {
-          "name": "Niraj Naik",
-          "url": "https://open.spotify.com/artist/1b6fkBCxVg18jRbQX5vyYk"
+          "name": "4Rain",
+          "url": "https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME"
         },
         {
-          "name": "Nicolle Rochelle",
-          "url": "https://open.spotify.com/artist/6KqrWNQDVycyqwk8G1SkQL"
+          "name": "Anlly Mar\u00edn",
+          "url": "https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr"
         }
       ],
-      "duration_ms": 252055,
-      "name": "Sorofe",
-      "url": "https://open.spotify.com/track/4bfbIvejny3qtgWJYXFLE3"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 115090,
-      "name": "Terra",
-      "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+      "duration_ms": 192000,
+      "name": "Flores Blancas",
+      "url": "https://open.spotify.com/track/4eCDvHu3fUH35yIiajE8wX"
     }
   ],
   "unique_name": "Org\u00e1nica",

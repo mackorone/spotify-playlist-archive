@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Tw\u00f3j, Dawid",
-  "num_followers": 19310,
+  "num_followers": 19312,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
+        "name": "TRYB SPORTH",
+        "url": "https://open.spotify.com/album/6lAuXrWaQ9L6yw5mr725Lz"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+        },
+        {
+          "name": "PlanBe",
+          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Loth",
+      "url": "https://open.spotify.com/track/01jQGw3iWmLOpAgpDxwqo8"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
         "name": "\u017bONIE",
         "url": "https://open.spotify.com/album/13pwEQWl3tIeG1q8WLyRtN"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 189000,
       "name": "\u017bONIE",
       "url": "https://open.spotify.com/track/5vzl2NKDPj5FTzFXUCULfb"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "TRYB SPORTH",
-        "url": "https://open.spotify.com/album/6lAuXrWaQ9L6yw5mr725Lz"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
-        },
-        {
-          "name": "PlanBe",
-          "url": "https://open.spotify.com/artist/7FwxJtVorL07N6kbqmkPr6"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Loth",
-      "url": "https://open.spotify.com/track/01jQGw3iWmLOpAgpDxwqo8"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "TEQUILA I BILARD",
-        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
+        "name": "KALMARY",
+        "url": "https://open.spotify.com/album/0Q26P0wv8VtSa1rtBt3nBf"
       },
       "artists": [
         {
-          "name": "Kaespen",
-          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
+          "name": "KiNi",
+          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
         }
       ],
-      "duration_ms": 200111,
-      "name": "TEQUILA I BILARD",
-      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
+      "duration_ms": 148571,
+      "name": "KALMARY",
+      "url": "https://open.spotify.com/track/2d89iyrzwHLViITUUP1BDR"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "KALMARY",
-        "url": "https://open.spotify.com/album/0Q26P0wv8VtSa1rtBt3nBf"
+        "name": "TEQUILA I BILARD",
+        "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
       },
       "artists": [
         {
-          "name": "KiNi",
-          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
+          "name": "Kaespen",
+          "url": "https://open.spotify.com/artist/10PJudnCduYdRAWt6ej8by"
         }
       ],
-      "duration_ms": 148571,
-      "name": "KALMARY",
-      "url": "https://open.spotify.com/track/2d89iyrzwHLViITUUP1BDR"
+      "duration_ms": 200111,
+      "name": "TEQUILA I BILARD",
+      "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "Jailbreak",
-        "url": "https://open.spotify.com/album/29QcrPeNlGsOpiGGD1biFi"
-      },
-      "artists": [
-        {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
-        },
-        {
-          "name": "Marceli Bober",
-          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
-        },
-        {
-          "name": "karawan",
-          "url": "https://open.spotify.com/artist/3R1fpb0D1SfcMwqzsGYkHU"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Funt",
-      "url": "https://open.spotify.com/track/6RNx5oJS8apJ0ZRv6Y1muu"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "TikToker?",
         "url": "https://open.spotify.com/album/2WDfQpDEkmFva6i9cFXk8Q"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 185945,
       "name": "WWW",
       "url": "https://open.spotify.com/track/3wVfo8T47QOhWmw5gdw7tW"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "Jailbreak",
+        "url": "https://open.spotify.com/album/29QcrPeNlGsOpiGGD1biFi"
+      },
+      "artists": [
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
+        },
+        {
+          "name": "Marceli Bober",
+          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
+        },
+        {
+          "name": "karawan",
+          "url": "https://open.spotify.com/artist/3R1fpb0D1SfcMwqzsGYkHU"
+        }
+      ],
+      "duration_ms": 139636,
+      "name": "Funt",
+      "url": "https://open.spotify.com/track/6RNx5oJS8apJ0ZRv6Y1muu"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "jezus",
-        "url": "https://open.spotify.com/album/6y0C25NRurw7EP4OOCxxvO"
-      },
-      "artists": [
-        {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "jezus",
-      "url": "https://open.spotify.com/track/2VsjCLFYIDZEF8hOvXhMMm"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
         "url": "https://open.spotify.com/album/3Da3R3T5AzWHvnNZp3D7SE"
       },
@@ -1355,6 +1335,26 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
+        "name": "jezus",
+        "url": "https://open.spotify.com/album/6y0C25NRurw7EP4OOCxxvO"
+      },
+      "artists": [
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "jezus",
+      "url": "https://open.spotify.com/track/2VsjCLFYIDZEF8hOvXhMMm"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
         "name": "PU\u0141AP",
         "url": "https://open.spotify.com/album/5dNwOn0L4ucFcomLVeI9rC"
       },
@@ -1371,6 +1371,42 @@
       "duration_ms": 165000,
       "name": "PU\u0141AP",
       "url": "https://open.spotify.com/track/7zhCaspWo9A8O12kPhlsoz"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "WHOOP WHOOP",
+        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
+      },
+      "artists": [
+        {
+          "name": "Spectra",
+          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
+        }
+      ],
+      "duration_ms": 117015,
+      "name": "WHOOP WHOOP",
+      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "oxox",
+        "url": "https://open.spotify.com/album/5aUhE535NVxD9cUFPXXVB9"
+      },
+      "artists": [
+        {
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+        },
+        {
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
+        }
+      ],
+      "duration_ms": 178151,
+      "name": "oxox",
+      "url": "https://open.spotify.com/track/2oF5fQQwf0ZNtsdXSyzCxb"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1403,42 +1439,6 @@
       "duration_ms": 142135,
       "name": "Alergia",
       "url": "https://open.spotify.com/track/26bW5bv8vgdwvWplYyUiK8"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "oxox",
-        "url": "https://open.spotify.com/album/5aUhE535NVxD9cUFPXXVB9"
-      },
-      "artists": [
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        },
-        {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
-        }
-      ],
-      "duration_ms": 178151,
-      "name": "oxox",
-      "url": "https://open.spotify.com/track/2oF5fQQwf0ZNtsdXSyzCxb"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "WHOOP WHOOP",
-        "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
-      },
-      "artists": [
-        {
-          "name": "Spectra",
-          "url": "https://open.spotify.com/artist/2JJM6C5XV1q6Pigdy5lGUp"
-        }
-      ],
-      "duration_ms": 117015,
-      "name": "WHOOP WHOOP",
-      "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
+        "name": "AEIOUY",
+        "url": "https://open.spotify.com/album/3Ce4FIXmAUvAo2DtwwTdEA"
+      },
+      "artists": [
+        {
+          "name": "KiNi",
+          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
+        }
+      ],
+      "duration_ms": 124665,
+      "name": "AEIOUY",
+      "url": "https://open.spotify.com/track/48O8c0hzKbZp1fQ87Ga4Mm"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
         "name": "CHYBA NA ODWR\u00d3T",
         "url": "https://open.spotify.com/album/2Ju0farwYHqyRsA0boHtXi"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
-        "name": "AEIOUY",
-        "url": "https://open.spotify.com/album/3Ce4FIXmAUvAo2DtwwTdEA"
-      },
-      "artists": [
-        {
-          "name": "KiNi",
-          "url": "https://open.spotify.com/artist/0TlcxBhHsEmrr3wi0dlgvZ"
-        }
-      ],
-      "duration_ms": 124665,
-      "name": "AEIOUY",
-      "url": "https://open.spotify.com/track/48O8c0hzKbZp1fQ87Ga4Mm"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
         "name": "Nowe Legendy",
         "url": "https://open.spotify.com/album/5IW12kFhuCrJKOYNeIJEcn"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 178746,
       "name": "Nowe Legendy",
       "url": "https://open.spotify.com/track/140k0TgBJp73p1EIii5M2Z"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
+        "name": "ELECTRO COLOR +",
+        "url": "https://open.spotify.com/album/4BUY9m3NSbidxdRTm4wTKX"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        },
+        {
+          "name": "Pers",
+          "url": "https://open.spotify.com/artist/6C3KMofGcxnVUqmg8jPgp4"
+        }
+      ],
+      "duration_ms": 167523,
+      "name": "Ariana Grande",
+      "url": "https://open.spotify.com/track/1JLkeF0BZv7cqKhsXalCc3"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1635,26 +1655,6 @@
       "duration_ms": 248000,
       "name": "Hi8",
       "url": "https://open.spotify.com/track/3Tm5gpmJpKg3LUVbNKhzQk"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "ELECTRO COLOR +",
-        "url": "https://open.spotify.com/album/4BUY9m3NSbidxdRTm4wTKX"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        },
-        {
-          "name": "Pers",
-          "url": "https://open.spotify.com/artist/6C3KMofGcxnVUqmg8jPgp4"
-        }
-      ],
-      "duration_ms": 167523,
-      "name": "Ariana Grande",
-      "url": "https://open.spotify.com/track/1JLkeF0BZv7cqKhsXalCc3"
     },
     {
       "added_at": "2025-07-18 09:42:51",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-07-18 09:42:51",
       "album": {
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
+    },
+    {
+      "added_at": "2025-07-18 09:42:51",
+      "album": {
         "name": "ACID MORO AFTERGLOW",
         "url": "https://open.spotify.com/album/628qTbHKYJCeatPUkyHFrp"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 174857,
       "name": "FULL TIME RAVER - LOUD ABOUT US! REMIX",
       "url": "https://open.spotify.com/track/30xmFBFVKpRLvQazLPqdE8"
-    },
-    {
-      "added_at": "2025-07-18 09:42:51",
-      "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2025-07-18 09:42:51",

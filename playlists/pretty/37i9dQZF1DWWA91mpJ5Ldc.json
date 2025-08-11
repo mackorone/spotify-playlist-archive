@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 135288,
+  "num_followers": 135320,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPCoCSs0al/DcfQrbsJGOd0RU4k",
+  "snapshot_id": "AAAAAHN4of9givXy6B2xKtqjGAkAOHVU",
   "tracks": [
     {
       "added_at": "2025-07-25 17:46:23",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "Garota do Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 172618,
-      "name": "Garota do Fant\u00e1stico",
-      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
         "name": "Para Dias Ruins",
         "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 190387,
       "name": "Qual \u00c9 A Sua?",
       "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "Garota do Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 172618,
+      "name": "Garota do Fant\u00e1stico",
+      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "segredo",
-        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 192555,
-      "name": "segredo",
-      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
-    },
-    {
-      "added_at": "2025-07-25 17:46:23",
-      "album": {
         "name": "Parafuso",
         "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 279003,
       "name": "Parafuso",
       "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
+    },
+    {
+      "added_at": "2025-07-25 17:46:23",
+      "album": {
+        "name": "segredo",
+        "url": "https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 192555,
+      "name": "segredo",
+      "url": "https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ"
     },
     {
       "added_at": "2025-07-25 17:46:23",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-07-25 17:46:23",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+        "name": "Minha Cara",
+        "url": "https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 242130,
-      "name": "Caju",
-      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
+      "duration_ms": 237306,
+      "name": "Entretanto",
+      "url": "https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR"
     }
   ],
   "unique_name": "Cozinhando em Casa",

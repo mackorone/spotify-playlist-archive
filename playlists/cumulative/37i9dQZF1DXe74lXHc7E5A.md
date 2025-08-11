@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Gunna
 
-582 songs - 1 day 5 hr 20 min
+583 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Machete](https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Machete](https://open.spotify.com/album/79Wm9Oj6zGEx6yRYvajE7Q) | 2:34 | 2025-06-20 | 2025-07-18 |
 | [MACHO \(feat\. NLE Choppa\)](https://open.spotify.com/track/4swwVMD32piZe5BwgpYRTF) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:43 | 2025-02-21 |  |
 | [Magic \(feat\. I.A.\)](https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [I.A.](https://open.spotify.com/artist/1X3wBxJjbLALzN8QqaXIFZ) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:00 | 2025-05-30 | 2025-06-20 |
-| [Marco Polo](https://open.spotify.com/track/78RrafIVtzx0ObqAGRljs7) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Big Boy II](https://open.spotify.com/album/3U7aiDvqW3bD8X6MTAgqjs) | 2:12 | 2025-07-29 |  |
+| [Marco Polo](https://open.spotify.com/track/78RrafIVtzx0ObqAGRljs7) | [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Big Boy II](https://open.spotify.com/album/3U7aiDvqW3bD8X6MTAgqjs) | 2:12 | 2025-07-29 | 2025-08-11 |
 | [Maybach](https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Maybach](https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB) | 2:45 | 2025-05-30 | 2025-06-20 |
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2023-09-15 | 2023-10-02 |
 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 | 2023-02-10 | 2023-09-19 |
@@ -392,6 +392,7 @@
 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 | 2022-07-27 | 2025-06-28 |
 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 | 2024-02-23 | 2024-06-21 |
 | [OMW \(Feeling Great\)](https://open.spotify.com/track/5rqqWCei81XF0x5x3L1b9a) | [Tim Grey](https://open.spotify.com/artist/1vxBfMX5C2kQPrWu7fhTt2) | [Brown Roofs](https://open.spotify.com/album/28hYCynTL2UeGSXBpXmZzz) | 3:01 | 2022-12-08 | 2023-01-13 |
+| [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 | 2025-08-08 |  |
 | [On My Life](https://open.spotify.com/track/4Q80vNHSXSLYvmcQ0sYgWZ) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA) | [On My Life](https://open.spotify.com/album/3Y2ydko8AudJ9Rc6N7yYUJ) | 2:05 | 2023-09-08 | 2023-09-15 |
 | [ON TEN](https://open.spotify.com/track/4Sbtvgkqpay8iMF6xDKZzF) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg), [DRILL SZN](https://open.spotify.com/artist/5XFxkRmijQ1JmSHmGSBSzj) | [ON TEN](https://open.spotify.com/album/3PmvDqSRCk9UkW94hFFvr4) | 1:46 | 2023-02-23 | 2023-03-18 |
 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 | 2023-07-28 | 2023-09-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 Barbi Recanati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,720 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,712 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 4 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
 | 5 | [Roma](https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Los Lobos](https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP) | 3:48 |
 | 6 | [La Máquina](https://open.spotify.com/track/00RN1so6DXcJo1zFqlfezf) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [La Máquina](https://open.spotify.com/album/7jDD7GuuMirFLeNX7ksSjw) | 2:59 |
-| 7 | [Otro Día en la Oficina](https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Otro Día en la Oficina](https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9) | 4:19 |
+| 7 | [Otro día en la oficina](https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Otro día en la oficina](https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9) | 4:19 |
 | 8 | [Cuando Me Muera](https://open.spotify.com/track/1rvg63zCuXz8gLYDnASEmK) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame](https://open.spotify.com/album/7lVtD74Hhay5GHEC74kEsP) | 2:57 |
 | 9 | [Las increíbles andanzas del Capitán Buscapina en Cybersiberia \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/43Low02moUHi1BXkE4gTaT) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Las increíbles andanzas del Capitán Buscapina en Cybersiberia \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/3RUPsKlFOZ4Dx6AWoOToSj) | 4:32 |
 | 10 | [Contacto](https://open.spotify.com/track/3e5hUklU9dx6AUOOoxAF0A) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Contacto](https://open.spotify.com/album/7h31BriQ8NqZraj3Zt32lL) | 4:01 |

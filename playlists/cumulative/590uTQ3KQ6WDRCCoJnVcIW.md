@@ -4,7 +4,7 @@
 
 > 
 
-58 songs - 5 hr 32 min
+59 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Kammy \(like i do\)](https://open.spotify.com/track/1tOEEEM8DFyZq3CxSHeq5f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:58 | 2023-10-10 |  |
 | [Lightbringers](https://open.spotify.com/track/4vlYC3s6Ps8fA8hLGcaiNG) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [In Memoro](https://open.spotify.com/album/4JCLZDz9EdRh48aRjDSNLm) | 5:10 | 2023-07-01 |  |
 | [Long Gone Memory \- Extended Mix](https://open.spotify.com/track/1xNLf29EoICgDn4mLXhrC0) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Arlissa](https://open.spotify.com/artist/4tEua1nRjRrMX0PZUrCZ3H) | [Long Gone Memory](https://open.spotify.com/album/74V5FlrXUKRxi42tPdCA8I) | 4:13 | 2021-01-10 |  |
+| [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-10 |  |
 | [Magnetic Empathy](https://open.spotify.com/track/5vw2sQcTm9TX1DSGLo0sJW) | [Transcode](https://open.spotify.com/artist/0A1wu73Im00lBOBgUM7Ati) | [Fideles / Transcode](https://open.spotify.com/album/0k0PlC4phDmYO1sXSydqUv) | 7:13 | 2021-01-25 |  |
 | [No Tomorrow](https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Sophie Lindinger](https://open.spotify.com/artist/3b3qQWQgIMIyHcYSMY4P3g) | [No Tomorrow](https://open.spotify.com/album/703rIQ63KazLUQbBUSlCx1) | 4:31 | 2021-05-20 |  |
 | [Now Or Never \- TRYM Remix](https://open.spotify.com/track/3LszpDExdEv2y2VvOvKW4Y) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [TRYM](https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z) | [Now Or Never \(Remixes\)](https://open.spotify.com/album/5QCYnQxEnb9dHs2foMfZtX) | 5:17 | 2023-08-28 |  |

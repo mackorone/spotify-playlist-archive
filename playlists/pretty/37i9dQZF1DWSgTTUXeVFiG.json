@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 28863,
+  "num_followers": 28918,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,30 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At The Cheetah, Vol. 2",
-        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
+        "name": "Live At The Red Garter, Vol. 1",
+        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
       },
       "artists": [
         {
           "name": "Fania All Stars",
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 444960,
-      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
-      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
+      "duration_ms": 320000,
+      "name": "Sabor Sabor - Live",
+      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -427,30 +439,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At The Red Garter, Vol. 1",
-        "url": "https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM"
+        "name": "Live At The Cheetah, Vol. 2",
+        "url": "https://open.spotify.com/album/4EawW1gi6378jsFlWr81sZ"
       },
       "artists": [
         {
           "name": "Fania All Stars",
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 320000,
-      "name": "Sabor Sabor - Live",
-      "url": "https://open.spotify.com/track/5VTPcuOVHyIPxh0T6SxoBJ"
+      "duration_ms": 444960,
+      "name": "Estrellas de Fania - Live At The Cheetah Club / New York, NY / August 26, 1971",
+      "url": "https://open.spotify.com/track/2jeQ960qCjTtyPXc3wdWcZ"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Un Sonido Bestial El Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
-      },
-      "artists": [
-        {
-          "name": "Richie Ray",
-          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
-        },
-        {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        }
-      ],
-      "duration_ms": 371813,
-      "name": "Sonido Bestial - En Vivo",
-      "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "En Vivo Desde Bellas Artes",
         "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 373400,
       "name": "Lluvia - En Vivo",
       "url": "https://open.spotify.com/track/4C8vE5FZ6oQRsKjX96803M"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Un Sonido Bestial El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/47KtIx9HvtgMaoWL4jGmMg"
+      },
+      "artists": [
+        {
+          "name": "Richie Ray",
+          "url": "https://open.spotify.com/artist/1mX1TP27ndNVthqdB95bMf"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        }
+      ],
+      "duration_ms": 371813,
+      "name": "Sonido Bestial - En Vivo",
+      "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
     },
     {
       "added_at": "2024-09-24 20:35:55",

@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-100 songs - 3 hr 18 min
+101 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [break stuff](https://open.spotify.com/track/0ll2Wkt2es0W8KCRkCa6Th) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [break stuff](https://open.spotify.com/album/1iQn9UGhVpgNm2rh7ayJsS) | 1:44 | 2024-12-26 |  |
 | [broken dream](https://open.spotify.com/track/14qLjGDICy21a5xY9ED6bp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:27 | 2025-02-13 | 2025-02-27 |
 | [bumpin' tails](https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:31 | 2025-07-11 |  |
-| [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-12-14 |  |
+| [butterfly in paradise !!](https://open.spotify.com/track/4CFWxSpRpd2czdbeE1fBe4) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [butterfly in paradise !!](https://open.spotify.com/album/5VBkb4aMbtz0duhjNhzLM6) | 1:44 | 2024-12-14 | 2025-08-11 |
 | [byte girlfriend](https://open.spotify.com/track/0Gsv7r7jP9nhMhnrgGqFF8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 1:12 | 2025-04-14 | 2025-04-19 |
 | [celebrity](https://open.spotify.com/track/55PRekiHsbKlOZjtbJ3dek) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [celebrity](https://open.spotify.com/album/0MlRjWZIFdeWRTFoGkMWjU) | 1:20 | 2025-04-16 | 2025-05-07 |
 | [chasing the stars, living the dream](https://open.spotify.com/track/0iOCZvQTXz2riKgUfDjUw8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:39 | 2025-02-02 | 2025-03-23 |
@@ -51,6 +51,7 @@
 | [Highlighted and Underlined](https://open.spotify.com/track/3vKLIvioZ1Dz02Qw3GCuWH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Highlighted and Underlined](https://open.spotify.com/album/4ifTA4qzcBkinIqTunikCO) | 1:44 | 2025-03-01 | 2025-05-21 |
 | [I NEED THAT](https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:17 | 2025-07-11 |  |
 | [i only got one](https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i only got one](https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7) | 1:10 | 2024-12-14 |  |
+| [i peed i farded i shidded i camed](https://open.spotify.com/track/4B2dSRRyDEDHKWOtBZnMUt) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i peed i farded i shidded i camed](https://open.spotify.com/album/4HPZAdbYCKwoBx022xB58N) | 1:39 | 2025-08-11 |  |
 | [i rly lost my shit](https://open.spotify.com/track/5ilfJDwlPFHzaEj17ybqFi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 1:52 | 2025-02-23 | 2025-03-03 |
 | [i'm done wasting my time](https://open.spotify.com/track/3R8sCNH2lPWFe58PAadQBd) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 0:59 | 2024-12-14 | 2025-02-28 |
 | [i'm down](https://open.spotify.com/track/4GFcBGQ5pMFFgeVhLSm2X9) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i'm down](https://open.spotify.com/album/57K2bPZI0lDBQdKUTxSFjM) | 4:38 | 2025-03-05 | 2025-03-06 |

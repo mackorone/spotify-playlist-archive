@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "PORTATE BIEN",
+        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207882,
+      "name": "BOLERITO",
+      "url": "https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO"
+    },
+    {
+      "album": {
         "name": "Buena",
         "url": "https://open.spotify.com/album/5qX4MWfoFf18oBL95wfkqN"
       },

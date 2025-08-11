@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5amwhRzLzfE.md) - [plain]
 
 > Enjoy music from the world\-famous figure skating anime <a href="https://yurionice.com/">"YURI!!! on ICE"</a> \. <a href="spotify:album:1YCzHcY9H5X6309OyGCEQ3">「ユーリ!!! on CONCERT」</a>Live CD好評発売中！©HTP／YoIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,494 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,503 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

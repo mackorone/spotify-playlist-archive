@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 27 | [Recovery](https://open.spotify.com/track/6MumOKtUlcnSy0OvaDDBVB) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 4:37 |
 | 28 | [Breathe](https://open.spotify.com/track/5hrbuCjGxws7txUEr8XDgb) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:19 |
 | 29 | [Go For Broke \(feat\. James Arthur\)](https://open.spotify.com/track/7w1JDEjmXYw2DwllK1EwCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [bloom](https://open.spotify.com/album/3yWRq9Dd2UO5xyqxTjLDmp) | 3:30 |
-| 30 | [Let Me Love the Lonely](https://open.spotify.com/track/1hOHz9pmlqNVxHE1fyzbkr) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 2:52 |
-| 31 | [Just Us](https://open.spotify.com/track/4OLtcsg17zj25oARUaaPpp) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:34 |
+| 30 | [Just Us](https://open.spotify.com/track/4OLtcsg17zj25oARUaaPpp) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:34 |
+| 31 | [Let Me Love the Lonely](https://open.spotify.com/track/1hOHz9pmlqNVxHE1fyzbkr) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 2:52 |
 | 32 | [Sermon \(feat\. Shotty Horroh\)](https://open.spotify.com/track/0zzdXBwYgPZR88QZr86hWF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [SHOTTY HORROH](https://open.spotify.com/artist/4a95izyFgvXS2JYqL8rANq) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:32 |
 | 33 | [You're Nobody 'Til Somebody Loves You](https://open.spotify.com/track/0WVTyiKS6Ka0ApFhZSNh4H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:21 |
 | 34 | [Avalanche](https://open.spotify.com/track/2vGiHaabBrlK7JcFPlAIsJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:47 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 96 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
 | 97 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `Ab5EiAAAAADMaBDCcFK2Ylt0ZXNbapQ/`
+Snapshot ID: `Ab5KKAAAAABpNEHl7NQDh+JAx7MH+QVS`

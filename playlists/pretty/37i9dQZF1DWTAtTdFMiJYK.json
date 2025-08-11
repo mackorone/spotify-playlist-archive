@@ -1,13 +1,29 @@
 {
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Mansa Jimmy",
-  "num_followers": 185246,
+  "description": "Most exciting artists from the Indian Indie scene. Cover: W.i.S.H.",
+  "num_followers": 185250,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB26DVJL6JYhhetd93WuSK3ZW4Ys",
+  "snapshot_id": "AAAAANtCi3eXUr7KkFNUBwv/SwWCst/I",
   "tracks": [
+    {
+      "added_at": "2025-08-10 03:30:34",
+      "album": {
+        "name": "Sweetburn",
+        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
+    },
     {
       "added_at": "2025-07-28 07:31:21",
       "album": {
@@ -251,6 +267,26 @@
       "duration_ms": 172352,
       "name": "Dariya",
       "url": "https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w"
+    },
+    {
+      "added_at": "2025-08-10 03:30:34",
+      "album": {
+        "name": "Bolo Bolo",
+        "url": "https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "duration_ms": 237378,
+      "name": "Bolo Bolo",
+      "url": "https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9"
     },
     {
       "added_at": "2025-07-28 07:31:21",
@@ -927,34 +963,6 @@
     {
       "added_at": "2025-07-28 07:31:21",
       "album": {
-        "name": "Doob Rahe",
-        "url": "https://open.spotify.com/album/0KILWgIiuzqtP99zanSeFB"
-      },
-      "artists": [
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
-        },
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Shayra Apoorva",
-          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
-        }
-      ],
-      "duration_ms": 143111,
-      "name": "Doob Rahe",
-      "url": "https://open.spotify.com/track/1WRDp1AySdILhmOmMNx20r"
-    },
-    {
-      "added_at": "2025-07-28 07:31:21",
-      "album": {
         "name": "Saiyaare",
         "url": "https://open.spotify.com/album/2L67cAFcd093MAvmKokSc9"
       },
@@ -1335,22 +1343,6 @@
       "duration_ms": 250124,
       "name": "Tum Jaise Ho",
       "url": "https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo"
-    },
-    {
-      "added_at": "2025-07-28 07:31:21",
-      "album": {
-        "name": "Saara Jahaan",
-        "url": "https://open.spotify.com/album/16kYRDEJT3bwQ5StFGCGPV"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        }
-      ],
-      "duration_ms": 157659,
-      "name": "Saara Jahaan",
-      "url": "https://open.spotify.com/track/6PCFM6hZ5CZb6MZhNXvX92"
     },
     {
       "added_at": "2025-07-28 07:31:21",

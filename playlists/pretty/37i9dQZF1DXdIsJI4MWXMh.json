@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 75011,
+  "num_followers": 75028,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-08-01 15:40:16",
       "album": {
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
+      },
+      "artists": [
+        {
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
+    },
+    {
+      "added_at": "2025-08-01 15:40:16",
+      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 186513,
       "name": "Ni Que Fueras la Mas Buena",
       "url": "https://open.spotify.com/track/69CiCaacgCf6S6GBMIgpm0"
-    },
-    {
-      "added_at": "2025-08-01 15:40:16",
-      "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
-      },
-      "artists": [
-        {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2025-08-01 15:40:16",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-08-01 15:40:16",
       "album": {
-        "name": "EN HONOR A NUESTRO HERMANO",
-        "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
       },
       "artists": [
         {
-          "name": "Los Flores de Rucalhue",
-          "url": "https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf"
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
         }
       ],
-      "duration_ms": 238057,
-      "name": "Asosegando Cachorras",
-      "url": "https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD"
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2025-08-01 15:40:16",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-01 15:40:16",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
-    },
-    {
-      "added_at": "2025-08-01 15:40:16",
-      "album": {
         "name": "La Carta N\u00b0 3",
         "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 181026,
       "name": "La Carta N\u00b03 - 1986 Digital Remaster",
       "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
+    },
+    {
+      "added_at": "2025-08-01 15:40:16",
+      "album": {
+        "name": "EN HONOR A NUESTRO HERMANO",
+        "url": "https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY"
+      },
+      "artists": [
+        {
+          "name": "Los Flores de Rucalhue",
+          "url": "https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf"
+        }
+      ],
+      "duration_ms": 238057,
+      "name": "Asosegando Cachorras",
+      "url": "https://open.spotify.com/track/0NVLkYmGkUKKRJXWIVHzRD"
     },
     {
       "added_at": "2025-08-01 15:40:16",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-08-01 15:40:16",
       "album": {
+        "name": "Guarachas Rancheras",
+        "url": "https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI"
+      },
+      "artists": [
+        {
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+        },
+        {
+          "name": "Ren\u00e9 Inostroza",
+          "url": "https://open.spotify.com/artist/6XV9G9NCLb6xx1FCxLddDG"
+        }
+      ],
+      "duration_ms": 188156,
+      "name": "Dame Tu Pelo Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI"
+    },
+    {
+      "added_at": "2025-08-01 15:40:16",
+      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 178586,
       "name": "La Rumbera",
       "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2025-08-01 15:40:16",
-      "album": {
-        "name": "Guarachas Rancheras",
-        "url": "https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI"
-      },
-      "artists": [
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        },
-        {
-          "name": "Ren\u00e9 Inostroza",
-          "url": "https://open.spotify.com/artist/6XV9G9NCLb6xx1FCxLddDG"
-        }
-      ],
-      "duration_ms": 188156,
-      "name": "Dame Tu Pelo Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI"
     },
     {
       "added_at": "2025-08-01 15:40:16",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-08-01 15:40:16",
       "album": {
-        "name": "El Regreso",
-        "url": "https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu"
-      },
-      "artists": [
-        {
-          "name": "Los Vaqueros Del Sur",
-          "url": "https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p"
-        }
-      ],
-      "duration_ms": 275249,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl"
-    },
-    {
-      "added_at": "2025-08-01 15:40:16",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+    },
+    {
+      "added_at": "2025-08-01 15:40:16",
+      "album": {
+        "name": "El Regreso",
+        "url": "https://open.spotify.com/album/6VQm0giHf7eAuMfqPZqEpu"
+      },
+      "artists": [
+        {
+          "name": "Los Vaqueros Del Sur",
+          "url": "https://open.spotify.com/artist/0r8NXIbmbXpE6drioTrX5p"
+        }
+      ],
+      "duration_ms": 275249,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/2x5COOGasiDIfK7oHgpeJl"
     },
     {
       "added_at": "2025-08-01 15:40:16",

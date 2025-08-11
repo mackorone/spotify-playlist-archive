@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,994 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,002 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 18 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
 | 19 | [1 Team](https://open.spotify.com/track/0Hyn9l85xe3mgDLHPKFERe) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [1 Team](https://open.spotify.com/album/48DFwSlZ74X0yPX3bRm080) | 3:18 |
 | 20 | [Popcorn](https://open.spotify.com/track/2WEAjQeoTRm7T3leqV2YfQ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Anita Doth](https://open.spotify.com/artist/7xhR4wM8X8SeGTKKPujotA) | [Popcorn](https://open.spotify.com/album/2pM2KhElow7DCyDuf1vZ4O) | 3:16 |
-| 21 | [Puberbrein \- Outsiders Remix](https://open.spotify.com/track/1J1pj5hRtDhvqEuSleAFrZ) | [STUK](https://open.spotify.com/artist/0MnM8NE69iw1cVc7GVIZ41), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Puberbrein \(Outsiders Remix\)](https://open.spotify.com/album/04njY5hDefPtnKZRpb6Ppk) | 1:58 |
-| 22 | [Engelbewaarder \(Outsiders Remix\)](https://open.spotify.com/track/4L4FR9VSIk6ndxDHw228kK) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder \(Outsiders Remix\)](https://open.spotify.com/album/3mmyyKKsIy1qHjMughg7lA) | 3:26 |
+| 21 | [Engelbewaarder \(Outsiders Remix\)](https://open.spotify.com/track/4L4FR9VSIk6ndxDHw228kK) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder \(Outsiders Remix\)](https://open.spotify.com/album/3mmyyKKsIy1qHjMughg7lA) | 3:26 |
+| 22 | [Puberbrein \- Outsiders Remix](https://open.spotify.com/track/1J1pj5hRtDhvqEuSleAFrZ) | [STUK](https://open.spotify.com/artist/0MnM8NE69iw1cVc7GVIZ41), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Puberbrein \(Outsiders Remix\)](https://open.spotify.com/album/04njY5hDefPtnKZRpb6Ppk) | 1:58 |
 | 23 | [Vaderland](https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Vaderland](https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg) | 3:28 |
 | 24 | [Leven Voor De Rave](https://open.spotify.com/track/1Othclu13izG3c1oFKbbMJ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Leven Voor De Rave](https://open.spotify.com/album/1fJLR7t5nuGiDi8xDSoEbl) | 2:58 |
 | 25 | [Het Zwarte Schaap](https://open.spotify.com/track/2oJanqscZDqDY7Xf6ds4FV) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Het Zwarte Schaap](https://open.spotify.com/album/43ua8DSEx8NSWnAcOa19Rt) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebel Baby](https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebel Baby](https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne) | 4:12 |
 | 50 | [Gekkenhuis](https://open.spotify.com/track/50YtDweB0gTi03ym25nF9J) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Gekkenhuis](https://open.spotify.com/album/3T4uVJnsaLcmXYSwIRuIl3) | 3:15 |
 
-Snapshot ID: `aJU+AAAAAACywTHGyyAK7L7Q0kxCrL3K`
+Snapshot ID: `aJaPgAAAAACX9i9SQ88ngd7xJL4ujDBo`

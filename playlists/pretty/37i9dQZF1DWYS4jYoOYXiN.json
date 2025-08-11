@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 95574,
+  "num_followers": 95613,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Barretto",
-        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Tito G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
-        }
-      ],
-      "duration_ms": 338520,
-      "name": "Guarar\u00e9",
-      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Latin Bugalu",
         "url": "https://open.spotify.com/album/16HyMNJ8doPkWJLQZvKmMH"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 213426,
       "name": "Pow Wow",
       "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Exitos de Oro (Golden Hits)",
-        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
-      },
-      "artists": [
-        {
-          "name": "Joe Quijano",
-          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
-        }
-      ],
-      "duration_ms": 147236,
-      "name": "En Puerta de Tierra",
-      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
         "name": "Vud\u00fa",
         "url": "https://open.spotify.com/album/0d8hdKL44cTmxslCxB8QLU"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 242226,
       "name": "Everything's Gonna Change",
       "url": "https://open.spotify.com/track/7qbv1zhuYItEPWqPUnakks"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
+        "name": "Exitos de Oro (Golden Hits)",
+        "url": "https://open.spotify.com/album/1ujwAoQz5zOF8ikwkaSTTH"
+      },
+      "artists": [
+        {
+          "name": "Joe Quijano",
+          "url": "https://open.spotify.com/artist/7EXzlOmGLgyPnduF7UfFp4"
+        }
+      ],
+      "duration_ms": 147236,
+      "name": "En Puerta de Tierra",
+      "url": "https://open.spotify.com/track/0tGw4jBmEu5PwJcjqmZc3g"
     },
     {
       "added_at": "2024-07-18 20:57:58",

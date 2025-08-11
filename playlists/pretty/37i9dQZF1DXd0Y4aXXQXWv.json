@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 492927,
+  "num_followers": 492983,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Calog3ro",
         "url": "https://open.spotify.com/album/1TfzspRmvBkDuIPZEG4ZdF"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 223333,
       "name": "Face \u00e0 la mer",
       "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Rose des vents",
-        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Si j'avais su",
-      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Engelberg",
         "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
       },
@@ -683,22 +667,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Place des grands hommes",
-      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Sahra",
         "url": "https://open.spotify.com/album/2Ul6M5sIJdZjKVxwgDG7dC"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 259600,
       "name": "A\u00efcha - Version Mixte",
       "url": "https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Place des grands hommes",
+      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Claudio Cap\u00e9o (Version deluxe)",
-        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Un homme debout",
-      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Regarde-moi",
         "url": "https://open.spotify.com/album/0yHJkjaOVLRH5VZajnYHr9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 164567,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5klPZRehMLpiKUchPAzKyR"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Claudio Cap\u00e9o (Version deluxe)",
+        "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Un homme debout",
+      "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
     },
     {
       "added_at": "2024-10-21 08:32:27",

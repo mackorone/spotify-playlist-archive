@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Slovakia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,631 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,632 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK3Iy2zvpfp4.md) - [plain]
 | 49 | [Gianna](https://open.spotify.com/track/01JATpwGBlirlrNfDHTjaD) | [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc) | [Grande Amore](https://open.spotify.com/album/1r1Nzairl8K0xtzGi3Il1b) | 3:37 |
 | 50 | [TY A JA](https://open.spotify.com/track/2xR7lQvCRF53gYz7H8IZfD) | [Alan Murin](https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss), [Kali](https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [TY A JA](https://open.spotify.com/album/379fJvRCADB40d3C7Lcauk) | 2:49 |
 
-Snapshot ID: `MCrAqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MCwSKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

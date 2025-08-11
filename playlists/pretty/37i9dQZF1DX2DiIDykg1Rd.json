@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 981,
+  "num_followers": 982,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "VIOLET SKIES",
+      "url": "https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Sixtape",
         "url": "https://open.spotify.com/album/75BeQjQ3BwrcWPwf6RCS7P"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 182883,
       "name": "Bacc Home",
       "url": "https://open.spotify.com/track/79zXkvfi2y5VsqJMcD3TAP"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
-        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "VIOLET SKIES",
-      "url": "https://open.spotify.com/track/50mNDRWNIKysdc8v07H8iu"
     },
     {
       "added_at": "2023-01-01 05:00:00",

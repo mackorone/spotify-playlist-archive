@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-587 songs - 1 day 2 hr 18 min
+588 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [KNFYTNM](https://open.spotify.com/track/32xteHW5eOsL406D6a5uf1) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Saucy Experiments](https://open.spotify.com/album/3pT0BraDKSpJ24WtUruJ6n) | 2:55 | 2023-08-22 | 2025-04-12 |
 | [Koma](https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Post Koma](https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh) | 1:38 | 2024-01-26 | 2024-09-12 |
 | [Komorebi](https://open.spotify.com/track/145yNxsDqrlai3CzO2ynzT) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Komorebi](https://open.spotify.com/album/7dUOsLy3GavnlQp1rKx6BH) | 2:17 | 2025-04-25 |  |
-| [La Boca](https://open.spotify.com/track/2IPNk7wMlojjnFmmLHbCVA) | [Flowzz](https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Voyagers](https://open.spotify.com/album/5g7thjIC6IfjOBWZvQtcH1) | 1:42 | 2025-05-23 |  |
+| [La Boca](https://open.spotify.com/track/2IPNk7wMlojjnFmmLHbCVA) | [Flowzz](https://open.spotify.com/artist/2advJF5OsuXyDXirKe9rOv), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Voyagers](https://open.spotify.com/album/5g7thjIC6IfjOBWZvQtcH1) | 1:42 | 2025-05-23 | 2025-08-11 |
 | [La Ligne Claire](https://open.spotify.com/track/3TTzfXXU5wkQAMJ4vlcmfj) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [La Ligne Claire](https://open.spotify.com/album/3YCCIOLbIJTG6ZYQdVFv3h) | 2:42 | 2024-01-26 | 2024-08-27 |
 | [La Luz](https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [La Luz](https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz) | 2:00 | 2024-08-23 | 2025-05-17 |
 | [Laidback Bounce](https://open.spotify.com/track/1nr6U6YnRTyLKlCINKKRcX) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Laidback Bounce](https://open.spotify.com/album/4W5oUndxu3F0sr00WUgqui) | 1:48 | 2025-06-20 | 2025-07-26 |
@@ -468,6 +468,7 @@
 | [Spektar](https://open.spotify.com/track/2x0XLG0gGdqUzqnAtRzH7Q) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Spektar](https://open.spotify.com/album/7oeC39Ld0uXtNR5jnz3zLv) | 2:06 | 2024-11-29 |  |
 | [Spin Minutes](https://open.spotify.com/track/7kz3vD839iC8PvQo4XkjnO) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Spin Minutes](https://open.spotify.com/album/4XkY6AKCPm0qwfwqdhXIXZ) | 1:57 | 2025-03-07 | 2025-03-15 |
 | [Sport Man](https://open.spotify.com/track/6SzP10os8D81Pj1CeEbbk1) | [The World](https://open.spotify.com/artist/669koPKDS5yqhf6AL6MRIs) | [Sport Man](https://open.spotify.com/album/5kHUOTl5cpRaU4XjVS75wQ) | 4:37 | 2023-08-22 | 2024-09-07 |
+| [Spring Season](https://open.spotify.com/track/0vs2BZ04zODRZbcVw5YN3q) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Spring Season](https://open.spotify.com/album/1oSwpc2aFvqdCpacfS6TD9) | 2:14 | 2025-07-25 |  |
 | [Springtime Secret](https://open.spotify.com/track/07fTTeHJx7q3cqJJwiHOma) | [Aleph](https://open.spotify.com/artist/1UbGhSo6X9OypkMO9BLNVe), [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF), [Alexandre Elias](https://open.spotify.com/artist/72xKqeAh9QfV1S7TAgYipb) | [Springtime Secret](https://open.spotify.com/album/32qrcl8UtGMXQy2bnSAUcZ) | 2:09 | 2023-08-22 | 2025-04-12 |
 | [Starry Sky](https://open.spotify.com/track/0TWhRkw2Nwessg5cnNSOf4) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Starry Sky](https://open.spotify.com/album/23Xy21Ts7DjSGcrq2fzOga) | 2:11 | 2024-11-08 |  |
 | [Stations](https://open.spotify.com/track/2GGAVfkgf8ze2U7ckpHAYQ) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Stations](https://open.spotify.com/album/2mrzldr66aHRPeXyazgulm) | 3:12 | 2023-08-22 | 2024-12-26 |

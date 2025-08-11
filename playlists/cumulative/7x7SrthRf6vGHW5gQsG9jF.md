@@ -4,7 +4,7 @@
 
 > mostly rock
 
-924 songs - 2 day 11 hr 7 min
+929 songs - 2 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [I couldn't have done this without you.](https://open.spotify.com/track/1ZMetBQzS5LA6FYRBqwzaQ) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 2:40 | 2024-04-25 |  |
 | [I think about Mary Poppins](https://open.spotify.com/track/5dM99PU9YJ7gdDqM9e5huo) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [hades \(the nine stages of change at the deceased remains\)](https://open.spotify.com/album/4hBL8N0YTn1d8P1c0AZdLw) | 6:36 | 2023-12-22 |  |
 | [I Want You By My Side](https://open.spotify.com/track/6RVfG5WnuumV1I5pCIhB1N) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 5:21 | 2023-07-30 |  |
+| [I'll take you everywhere](https://open.spotify.com/track/0lqFVpn21UdR91xS39zE9H) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [I'll take you everywhere](https://open.spotify.com/album/5vsMnXOdqeASFUQveoh1C6) | 4:22 | 2025-08-10 |  |
 | [I'm Humanity](https://open.spotify.com/track/3mXv150wPzNN3NfHRvW6MP) | [YAKUSHIMARU Etsuko](https://open.spotify.com/artist/6h32A03szyWpPmQCZSJ4Mi) | [I'm Humanity](https://open.spotify.com/album/2kpQlGnwl0ihsAhp4MwvmB) | 4:32 | 2024-01-07 |  |
 | [Ice box](https://open.spotify.com/track/7KnENnojxAeThkGAkY9C4j) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [Ice box](https://open.spotify.com/album/6fRIXKsgSJo0Qefn0iBn0A) | 3:22 | 2024-07-04 |  |
 | [iliad](https://open.spotify.com/track/1DuhcBBIIG4OD76TfnPL9C) | [my dead girlfriend](https://open.spotify.com/artist/0s4Ma1D3irgqrQCRBUhc73) | [shaman's daughter](https://open.spotify.com/album/7GYwD0h6YroMt5MZzFMNSZ) | 3:38 | 2023-07-12 |  |
@@ -396,6 +397,7 @@
 | [Prism](https://open.spotify.com/track/4INz0XBe0JgMNYXBmcPpqV) | [Seventeen Years Old And Berlin Wall](https://open.spotify.com/artist/00epidt1rfpJJKIfi7dSQJ) | [Reflect](https://open.spotify.com/album/0gpNUbtnFvOx2goh27SMsN) | 4:23 | 2024-05-03 |  |
 | [PUMP! feat.chelmico](https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 3:00 | 2024-05-03 |  |
 | [PYGMALY](https://open.spotify.com/track/1UeAEZcazCI6GDcuWNGW6I) | [minimum electric design](https://open.spotify.com/artist/7svUhAecDXz2c6X3ejlROK) | [RENOVATION](https://open.spotify.com/album/0BskyVVPcyKeJTcrkyTUXR) | 4:39 | 2025-05-18 |  |
+| [qualia](https://open.spotify.com/track/0bk13Sz8myBsKxeSA7KvtT) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Yuta Hashimoto](https://open.spotify.com/artist/1POqojlFdpitdDlQl2vO81) | [qualia](https://open.spotify.com/album/1dyzrKcxjjxZYM5IepSBW4) | 3:58 | 2025-08-10 |  |
 | [rabbit](https://open.spotify.com/track/24FpmtvLCN7ExbThu78Ppe) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ANGRY DOG](https://open.spotify.com/album/3XlpgvHos5aLXf6QufH8B4) | 2:27 | 2023-09-22 |  |
 | [RAIN](https://open.spotify.com/track/7aCdXnpn7oPN1sz3i78t7x) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Lip](https://open.spotify.com/album/6yZiidnATIgSBcKsrjZxji) | 5:10 | 2025-04-27 |  |
 | [Rainy Tapestry](https://open.spotify.com/track/3INsIMe6Ap6EJ2xXgt9NB8) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 5:26 | 2024-04-22 |  |
@@ -675,6 +677,7 @@
 | [タイムマシーン・ラヴ](https://open.spotify.com/track/0AO2xrN18wJXehA76y8wAv) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TOKYO SNIPER](https://open.spotify.com/album/7HuoLofdIeVeDPGfDVHTCP) | 4:26 | 2024-06-30 |  |
 | [タペタ](https://open.spotify.com/track/15BDbj5RPDsrLjr8bRNX2x) | [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [ムームート](https://open.spotify.com/album/6BlavVWbI2Poa6fBFMQWMk) | 3:45 | 2024-06-30 |  |
 | [ダブル・プラトニツク・スウイサイド](https://open.spotify.com/track/7g7FhT46VNTOsUrkKVIj9l) | [溶けない名前](https://open.spotify.com/artist/2kFFIxf8oy58ydskv0UdOj) | [制服甘露倶楽部](https://open.spotify.com/album/61AbD3MWgCJoyDISQzqQpu) | 4:13 | 2024-05-03 |  |
+| [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 | 2025-08-10 |  |
 | [チューイン・ディスコ](https://open.spotify.com/track/4BQDsKhTfd2JX1M2ajkOJu) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh) | [チューイン・ディスコ](https://open.spotify.com/album/5halVD4PFLhrdjnJuxTAgH) | 2:57 | 2024-08-21 |  |
 | [ツギハギスタッカート](https://open.spotify.com/track/0V7RxFamMkLN6tXR7S2t1W) | [Toa](https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b) | [ツギハギスタッカート](https://open.spotify.com/album/334dtoC0dImpN25UZ62DMD) | 4:10 | 2024-01-20 |  |
 | [ティーンエイジはきみのもの](https://open.spotify.com/track/1yp340UbDsQVdt7zeDjLXK) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe) | [夏のルール3](https://open.spotify.com/album/3oWQDH6QSSlAMnhgKFHXgE) | 4:05 | 2024-05-18 |  |
@@ -898,6 +901,7 @@
 | [若者たち](https://open.spotify.com/track/3FNutHk4RmvSRp0tT8zj8P) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [where?](https://open.spotify.com/album/4meJFweZ1aga9P067NAKSK) | 2:59 | 2024-05-18 |  |
 | [菩提樹](https://open.spotify.com/track/7LLP3yy6b2wfGAkSx89KtK) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [檻、子供達。](https://open.spotify.com/album/5qMSRgNOMcRjcXqBOi1E5U) | 1:28 | 2024-03-05 |  |
 | [落花](https://open.spotify.com/track/4UZ4TZKOvlsRAtCYDoYl8s) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [月を歩いている](https://open.spotify.com/album/47TMb87XIOKlX8J0OLdDym) | 1:57 | 2023-10-25 |  |
+| [葡萄の木](https://open.spotify.com/track/7CJYRZ7Qko8NbSjMExo0Lw) | [Mellow](https://open.spotify.com/artist/2NXLZT6l35uwgxjZ3b0bA6) | [葡萄の木](https://open.spotify.com/album/7JIE3lvYxNd6I0Jz1V20WY) | 3:38 | 2025-08-10 |  |
 | [蕾に雷](https://open.spotify.com/track/1r9AZ4llWMS3QC4Ln13u52) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [蕾に雷](https://open.spotify.com/album/5XFwj6131BsKFUPWhXaU83) | 4:07 | 2024-03-05 |  |
 | [街のドルフィン](https://open.spotify.com/track/5w6EvyvomUSWsF430iixmc) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 3:52 | 2024-09-26 |  |
 | [被害妄想癖](https://open.spotify.com/track/7wnkgZXVPjinBPMuQjpLE3) | [Stereo Type](https://open.spotify.com/artist/2J2ulUwLz2ItsDwB5V4LxU) | [Split](https://open.spotify.com/album/2eJ1ReCLvXlELGRRlCHpm5) | 1:08 | 2023-10-07 |  |
@@ -917,6 +921,7 @@
 | [金木犀の夜](https://open.spotify.com/track/27udJcfu06TvbbOpgfxIlw) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [タイム・ラプス](https://open.spotify.com/album/3g010J7Tee9KgJEjzBb2TX) | 4:05 | 2023-07-28 |  |
 | [銃口](https://open.spotify.com/track/18I04SbLIEJevFjz96f5Jj) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [袖の汀](https://open.spotify.com/album/0Rq3AhkgTk8m15vfDllorO) | 4:36 | 2024-05-18 |  |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2025-03-15 | 2025-07-31 |
+| [門出](https://open.spotify.com/track/098QWH47pFJG40fDJsaDEu) | [帰国子女](https://open.spotify.com/artist/5XBccWsRQFbw1CNQ8Bp8IO) | [体育理論](https://open.spotify.com/album/6KeSObMtaWzwwPc0bqQHfI) | 1:05 | 2025-08-10 |  |
 | [陽差しはつかの間](https://open.spotify.com/track/65Pp8mDGVuZOHJvhXcj9kl) | [Kikuo feat\. si\_ku](https://open.spotify.com/artist/09YHTS3RVl5jJ8LQ8Pybb8) | [いきものの魂のゆくえ](https://open.spotify.com/album/3oyeILSYIp6nkBmwmc7dqw) | 4:58 | 2023-12-15 |  |
 | [隣り合う緑](https://open.spotify.com/track/7BG3c0cs2ifCb2ayWPqNOC) | [Stereo Type](https://open.spotify.com/artist/2J2ulUwLz2ItsDwB5V4LxU) | [Tokyo Blue](https://open.spotify.com/album/3kjLrCvrOLAyy0jgQDaT6S) | 4:38 | 2023-12-05 |  |
 | [雨上がり](https://open.spotify.com/track/78kPbdzorf9Cgy8aQ7Mse5) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [愛のゆくえ](https://open.spotify.com/album/7jcYC4Z8pW0Uv80lsDYFfg) | 3:29 | 2023-12-12 |  |

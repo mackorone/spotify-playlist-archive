@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-752 songs - 1 day 14 hr 1 min
+756 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,10 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-02-23 | 2023-05-02 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-17 | 2023-07-05 |
 | [Champagne Coast](https://open.spotify.com/track/2kSGp5ZmO7u1Ine84Rx0w1) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Champagne Coast](https://open.spotify.com/album/4TsFGVDbd2kmlT1uLTsgeE) | 4:52 | 2024-07-10 | 2024-10-02 |
+| [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-08-09 |  |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-25 | 2023-06-27 |
 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2023-04-14 | 2023-06-27 |
+| [Cherry Vanilli](https://open.spotify.com/track/5EUAGkEGtYhk96DHhR3Ghj) | [Béla](https://open.spotify.com/artist/2qrK1JzNruSNOHzQsIaiBP) | [Cherry Vanilli](https://open.spotify.com/album/6CD3tcmJeHymIMm9stJNhY) | 2:27 | 2025-08-09 |  |
 | [chille guy](https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [chille guy](https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR) | 1:40 | 2025-01-17 |  |
 | [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-18 | 2025-01-16 |
 | [Christmas Bae](https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Christmas Bae](https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank) | 3:10 | 2024-12-18 | 2024-12-27 |
@@ -493,6 +495,7 @@
 | [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-02-23 | 2023-03-28 |
 | [One Of The Girls](https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 | 2023-12-14 | 2024-03-19 |
 | [Ongezien](https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Ongezien](https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM) | 2:29 | 2023-07-30 | 2024-01-07 |
+| [Ontzettond](https://open.spotify.com/track/4S0XHr1xvMkXnR9hh7mLVq) | [DavineP](https://open.spotify.com/artist/1LPGs7TFPT9ssRp0c4ZFDf) | [Ontzettond](https://open.spotify.com/album/04IZE98cgDygUwlIlqFWSG) | 2:12 | 2025-08-09 |  |
 | [Oompa Loompa](https://open.spotify.com/track/17bN37TI0A1ZqTB5XGvQj7) | [Hugh Grant](https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT), [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 1:04 | 2024-01-10 | 2024-02-27 |
 | [Op Date Met \(Selma\)](https://open.spotify.com/track/0TDmBIJcX2Nu3eApH2sKgD) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Op Date Met \(Selma\)](https://open.spotify.com/album/16M51zLb1LnFAMF6ZBz0HM) | 1:29 | 2024-12-19 | 2025-04-11 |
 | [Orange Blossoms](https://open.spotify.com/track/4IZTru7nKgBE8sBq6aMY56) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Orange Blossoms](https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao) | 3:12 | 2024-04-16 | 2024-04-26 |
@@ -720,6 +723,7 @@
 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 | 2025-07-08 |  |
 | [Wasmachine](https://open.spotify.com/track/07ljnBvIzzbVuiKciLLEm1) | [Romy Indy](https://open.spotify.com/artist/6JhADekMjsEbsfmBxjsmjQ) | [Wasmachine](https://open.spotify.com/album/5sGEhRZFrnLB3K9brHUqVF) | 1:37 | 2025-06-04 |  |
 | [Wat Een Droom Kan Doen](https://open.spotify.com/track/79AxAgyA3ahLtiZIAm9lV9) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Wat Een Droom Kan Doen](https://open.spotify.com/album/1LvAqwKxsCvF7FQ0IsiI4h) | 1:34 | 2024-07-11 | 2024-07-18 |
+| [Wat Ik Doe](https://open.spotify.com/track/4RCGoyfqGJLGYu8fsFTydp) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Wat Ik Doe](https://open.spotify.com/album/5KIOgfssSbSfV9aqcNhnhR) | 2:26 | 2025-08-09 |  |
 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-02-10 | 2025-06-21 |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-07 | 2023-05-10 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-10 |

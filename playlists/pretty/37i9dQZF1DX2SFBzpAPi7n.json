@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HANRORO) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 244973,
+  "num_followers": 244964,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
+        "name": "Soar - The 2nd Album",
+        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 307750,
       "name": "love.",
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "Soar - The 2nd Album",
-        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
     },
     {
       "added_at": "2025-08-08 02:48:59",
@@ -403,38 +403,6 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
-        "name": "To Reach You",
-        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "To Reach You",
-      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -447,6 +415,22 @@
       "duration_ms": 265000,
       "name": "for lovers who hesitate",
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
+        "name": "To Reach You",
+        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "To Reach You",
+      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
     },
     {
       "added_at": "2025-08-08 02:48:59",
@@ -467,6 +451,22 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
       },
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
     },
     {
       "added_at": "2025-08-08 02:48:59",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 275173,
+      "name": "Coming Of Age Story",
+      "url": "https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
       },
@@ -559,6 +575,22 @@
       "duration_ms": 215476,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
       "added_at": "2025-08-08 02:48:59",
@@ -579,22 +611,6 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 275173,
-      "name": "Coming Of Age Story",
-      "url": "https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
       },
@@ -607,54 +623,6 @@
       "duration_ms": 250573,
       "name": "If I have you only (My love X Nerd Connection)",
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "D-DAY",
-      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
       "added_at": "2025-08-08 02:48:59",
@@ -691,6 +659,22 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
+        "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "D-DAY",
+      "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
@@ -727,8 +727,8 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
-        "name": "WRLD",
-        "url": "https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ"
+        "name": "RED",
+        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
       },
       "artists": [
         {
@@ -736,41 +736,9 @@
           "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 282053,
-      "name": "O",
-      "url": "https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
-    },
-    {
-      "added_at": "2025-08-08 02:48:59",
-      "album": {
-        "name": "YOUTH - The 1st Album",
-        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Little Light",
-      "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
     },
     {
       "added_at": "2025-08-08 02:48:59",
@@ -791,6 +759,22 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
+        "name": "YOUTH - The 1st Album",
+        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Little Light",
+      "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
         "name": "Fermata",
         "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2025-08-08 02:48:59",
       "album": {
-        "name": "Pump Up The Volume!",
-        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
+        "name": "LIVE and FALL",
+        "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
         }
       ],
-      "duration_ms": 179386,
-      "name": "Pump Up The Volume!",
-      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
+      "duration_ms": 220094,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
+    },
+    {
+      "added_at": "2025-08-08 02:48:59",
+      "album": {
+        "name": "Fourever",
+        "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 217067,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

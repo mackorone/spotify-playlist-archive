@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-327 songs - 18 hr 36 min
+328 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-06-03 |  |
 | [MOKA!](https://open.spotify.com/track/2aN0K87tjNGCdNRUKZ4qJ9) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [MOKA!](https://open.spotify.com/album/1kZWcaTRXJkn5jy0oawRsX) | 2:31 | 2024-04-06 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-11-28 |  |
+| [moshimoshi](https://open.spotify.com/track/6ioQplGa4tsMtgGtH2vrcu) | [Mamireta](https://open.spotify.com/artist/70fpaWdKERbVq5PNXEWcjk) | [moshimoshi](https://open.spotify.com/album/7MyLRzjdYbEhfG7AGz0fPP) | 3:18 | 2025-08-10 |  |
 | [Mr\. Loverman](https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:36 | 2023-12-17 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-07-04 |  |
 | [My September](https://open.spotify.com/track/79YWz8oV1RZxdi2UVpbrB7) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 4:40 | 2024-08-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Geniet van de zon met hits van KAROL G, Martin Garrix, Sabrina Carpenter en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 134,024 likes - 98 songs - 5 hr 3 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 133,971 likes - 98 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

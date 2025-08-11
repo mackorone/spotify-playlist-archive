@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 
 > You should be dancing, yeah\. \(This ain't your typical disco either...\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,209 likes - 53 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,208 likes - 53 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

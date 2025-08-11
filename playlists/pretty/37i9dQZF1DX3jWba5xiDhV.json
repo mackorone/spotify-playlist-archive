@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 344668,
+  "num_followers": 345093,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-07-31 22:01:20",
       "album": {
+        "name": "Gary Low: The Best of",
+        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
+      },
+      "artists": [
+        {
+          "name": "Gary Low",
+          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
+        }
+      ],
+      "duration_ms": 509240,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2025-07-31 22:01:20",
+      "album": {
         "name": "Che Caldo",
         "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 205903,
       "name": "Che Caldo",
       "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
-    },
-    {
-      "added_at": "2025-07-31 22:01:20",
-      "album": {
-        "name": "Gary Low: The Best of",
-        "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
-      },
-      "artists": [
-        {
-          "name": "Gary Low",
-          "url": "https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b"
-        }
-      ],
-      "duration_ms": 509240,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
     },
     {
       "added_at": "2025-07-31 22:01:20",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-07-31 22:01:20",
       "album": {
-        "name": "Find You (Gerd Janson Remix)",
-        "url": "https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 374379,
-      "name": "Find You (Gerd Janson Remix)",
-      "url": "https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51"
-    },
-    {
-      "added_at": "2025-07-31 22:01:20",
-      "album": {
         "name": "Volpe",
         "url": "https://open.spotify.com/album/3KMTbb5X36oxIslKZMtcCQ"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 467869,
       "name": "Volpi Polari",
       "url": "https://open.spotify.com/track/4RVhp9KUMiu9OwvHk5g3bf"
+    },
+    {
+      "added_at": "2025-07-31 22:01:20",
+      "album": {
+        "name": "Find You (Gerd Janson Remix)",
+        "url": "https://open.spotify.com/album/7hW9Z12KBU2Wb5Ikx993eU"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 374379,
+      "name": "Find You (Gerd Janson Remix)",
+      "url": "https://open.spotify.com/track/3Jxo5oojrX6Xmm69sP7T51"
     },
     {
       "added_at": "2025-07-31 22:01:20",

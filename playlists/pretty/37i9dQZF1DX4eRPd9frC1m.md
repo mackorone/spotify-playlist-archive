@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587,424 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587,333 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 45 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 |
 | 46 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 |
 | 47 | [Restless](https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Liquid Stranger](https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Restless](https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu) | 3:25 |
-| 48 | [GET SMACKED](https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [GET SMACKED](https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j) | 3:40 |
-| 49 | [Turn It Up](https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Turn It Up](https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak) | 3:13 |
-| 50 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
+| 48 | [Turn It Up](https://open.spotify.com/track/12jJ4mKhg46jC26kluQD46) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Turn It Up](https://open.spotify.com/album/0LCAXrcV78YZVUNhpDPFak) | 3:13 |
+| 49 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
+| 50 | [GET SMACKED](https://open.spotify.com/track/4d9PS5dlzlRd3oGhNLxPCb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [GET SMACKED](https://open.spotify.com/album/4fxtTnPxoJpfL2z9FgFZ2j) | 3:40 |
 | 51 | [Keep Pushin' \(Beast\)](https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Control Alt Delete](https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd) | [Keep Pushin' \(Beast\)](https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC) | 3:05 |
 | 52 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 |
 | 53 | [Up Top](https://open.spotify.com/track/69kk00cqircAGyCr4VhSGf) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Up Top](https://open.spotify.com/album/02dhPSTWLTNeVjyplTQBiG) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 |
 | 75 | [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 |
 
-Snapshot ID: `AAAAAP/0A4aWTARo5F83mqbEmMBmCMDH`
+Snapshot ID: `AAAAAL1IDYbyFM/OT0/58DrAZQLSgKjd`

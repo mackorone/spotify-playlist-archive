@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAFUA5C5L4EIZDmOn8yigcSFZ0zGdm/",
+  "snapshot_id": "AAAFV8PG0zqelFMLfgqvI2JUsTiIjRDG",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -14839,6 +14839,90 @@
       "duration_ms": 236083,
       "name": "\u4fee\u7f85",
       "url": "https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p"
+    },
+    {
+      "added_at": "2025-08-10 15:22:50",
+      "album": {
+        "name": "\u8461\u8404\u306e\u6728",
+        "url": "https://open.spotify.com/album/7JIE3lvYxNd6I0Jz1V20WY"
+      },
+      "artists": [
+        {
+          "name": "Mellow",
+          "url": "https://open.spotify.com/artist/2NXLZT6l35uwgxjZ3b0bA6"
+        }
+      ],
+      "duration_ms": 218799,
+      "name": "\u8461\u8404\u306e\u6728",
+      "url": "https://open.spotify.com/track/7CJYRZ7Qko8NbSjMExo0Lw"
+    },
+    {
+      "added_at": "2025-08-10 15:46:12",
+      "album": {
+        "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2EP",
+        "url": "https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9"
+      },
+      "artists": [
+        {
+          "name": "LAYRUS LOOP",
+          "url": "https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk"
+        }
+      ],
+      "duration_ms": 235325,
+      "name": "\u30c0\u30f3\u30b9\u30d5\u30ed\u30a2",
+      "url": "https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF"
+    },
+    {
+      "added_at": "2025-08-10 15:46:28",
+      "album": {
+        "name": "I'll take you everywhere",
+        "url": "https://open.spotify.com/album/5vsMnXOdqeASFUQveoh1C6"
+      },
+      "artists": [
+        {
+          "name": "\u00d6sterreich",
+          "url": "https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx"
+        }
+      ],
+      "duration_ms": 262538,
+      "name": "I'll take you everywhere",
+      "url": "https://open.spotify.com/track/0lqFVpn21UdR91xS39zE9H"
+    },
+    {
+      "added_at": "2025-08-10 15:54:46",
+      "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/1dyzrKcxjjxZYM5IepSBW4"
+      },
+      "artists": [
+        {
+          "name": "Rin\u97f3",
+          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+        },
+        {
+          "name": "Yuta Hashimoto",
+          "url": "https://open.spotify.com/artist/1POqojlFdpitdDlQl2vO81"
+        }
+      ],
+      "duration_ms": 238181,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/0bk13Sz8myBsKxeSA7KvtT"
+    },
+    {
+      "added_at": "2025-08-10 16:14:29",
+      "album": {
+        "name": "\u4f53\u80b2\u7406\u8ad6",
+        "url": "https://open.spotify.com/album/6KeSObMtaWzwwPc0bqQHfI"
+      },
+      "artists": [
+        {
+          "name": "\u5e30\u56fd\u5b50\u5973",
+          "url": "https://open.spotify.com/artist/5XBccWsRQFbw1CNQ8Bp8IO"
+        }
+      ],
+      "duration_ms": 65586,
+      "name": "\u9580\u51fa",
+      "url": "https://open.spotify.com/track/098QWH47pFJG40fDJsaDEu"
     }
   ],
   "unique_name": "japan",

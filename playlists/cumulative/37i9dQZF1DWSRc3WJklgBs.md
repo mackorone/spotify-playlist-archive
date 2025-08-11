@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,478 songs - 3 day 13 hr 15 min
+1,479 songs - 3 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,7 @@
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2022-08-05 | 2024-04-10 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 |  |
 | [Hold Me](https://open.spotify.com/track/0ceMBaAB2nX6xRInXssoW5) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Hold Me](https://open.spotify.com/album/4f2V3LHn1UesKbYesOvI25) | 3:39 | 2019-08-20 | 2020-10-30 |
-| [Hold Me](https://open.spotify.com/track/41oQHj22UB6se03Cqi5PLV) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Hold Me](https://open.spotify.com/album/3eGZc6Aj2TI3FjAr4hbbwX) | 4:42 | 2025-06-27 |  |
+| [Hold Me](https://open.spotify.com/track/41oQHj22UB6se03Cqi5PLV) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Hold Me](https://open.spotify.com/album/3eGZc6Aj2TI3FjAr4hbbwX) | 4:42 | 2025-06-27 | 2025-08-11 |
 | [Hold Me Close](https://open.spotify.com/track/0jwuzX0eIK4O4gFfeaR6vR) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [REAL](https://open.spotify.com/album/32XwG199a5gGcwhbMJOZBH) | 3:05 | 2020-09-07 | 2020-10-30 |
 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 | 2020-04-15 | 2021-09-25 |
 | [Hold My Girl \- Martin Jensen Remix](https://open.spotify.com/track/4jin3VK3FfPc7l3LFLxt0e) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Hold My Girl \(Remixes\)](https://open.spotify.com/album/3anZxW27ZZHQZwT1QTUor2) | 3:05 | 2019-08-29 | 2020-10-30 |
@@ -734,6 +734,7 @@
 | [Lessons In Love v3](https://open.spotify.com/track/2nMt4SLvhxTRbh1xtHBEWF) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [Fire & Ice v3](https://open.spotify.com/album/5RkEOMGonDpzB3BAGhlRe9) | 4:00 | 2022-09-30 | 2023-06-17 |
 | [Lessons In Love v3](https://open.spotify.com/track/2uBwusfzbuqmr3WXkOkuIX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Cayson Renshaw](https://open.spotify.com/artist/2hVHQSQmwraIZSyISHOWEf) | [Lessons In Love v3](https://open.spotify.com/album/1YfxnTXiwi92YojN0HB3gi) | 4:00 | 2021-12-17 | 2022-10-14 |
 | [Let Me Love You](https://open.spotify.com/track/5HE47kIIYLqPQ6wueARnQo) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Let Me Love You](https://open.spotify.com/album/2ANJD5fyA5G87C7jjH0erg) | 3:56 | 2021-10-23 | 2022-05-14 |
+| [Let the Lips Fall Where They May](https://open.spotify.com/track/5eH0Jh6P971WZ76oeQq43x) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Let the Lips Fall Where They May](https://open.spotify.com/album/2RdDzLj9oPuly44KbJ8HQI) | 3:48 | 2025-08-08 |  |
 | [Let You Go](https://open.spotify.com/track/11HaRxNpnJz2cHjm5WBtFu) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Emina Sonnad](https://open.spotify.com/artist/42x2L7eaYJd1j2nqyVzWmz) | [Let You Go](https://open.spotify.com/album/1SgyTFGZD5uNLugaAnfwSc) | 3:37 | 2021-05-29 | 2022-05-14 |
 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2024-10-11 |  |
 | [Liberate](https://open.spotify.com/track/6X0WsSsMMwam5AzVxlUUzo) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Liberate](https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47) | 5:13 | 2019-08-09\* | 2019-08-27 |

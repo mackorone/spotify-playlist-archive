@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-248 songs - 17 hr 1 min
+249 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Losing It](https://open.spotify.com/track/5Nbsv7ERwYRaG9fH8Zssvc) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/3sGhny7zoKJrmEuVblwZap) | 4:08 | 2020-11-06 | 2022-07-28 |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2020-11-06 | 2024-01-18 |
 | [Lost In Your Love](https://open.spotify.com/track/0YHO4FoviUi3v4q5d81bS1) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Lost In Your Love](https://open.spotify.com/album/6LFFQHqGu0AhDQNjkCyxpF) | 3:49 | 2020-11-06 | 2022-07-29 |
-| [LOVE DESIRE](https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [LOVE DESIRE](https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3) | 2:51 | 2025-05-16 |  |
+| [LOVE DESIRE](https://open.spotify.com/track/4N3yU64ssk2LKTB98nQvoA) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [LOVE DESIRE](https://open.spotify.com/album/3o0mUc0qIqFIQE5q7qQZk3) | 2:51 | 2025-05-16 | 2025-08-11 |
 | [Low Frequency \- Radio Edit](https://open.spotify.com/track/6BllD3i0p0CuCP0MmkNmv9) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Low Frequency \(Radio Edit\)](https://open.spotify.com/album/4LxCVPvUgub106lO5CKw5J) | 7:15 | 2020-11-06 | 2022-07-10 |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-05-16 |  |
 | [Make It Hot](https://open.spotify.com/track/6pdgjp4LLvSPXGPOLRN9oo) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [JOSÉPHINE](https://open.spotify.com/artist/12pfYeZ791ghFuc59SZOf7) | [Make It Hot](https://open.spotify.com/album/6jbtfprot9CSfANCq9R0Eq) | 2:57 | 2024-02-02 | 2024-05-17 |
@@ -252,6 +252,7 @@
 | [Woman of the Ghetto \- Catz 'n Dogz Remix](https://open.spotify.com/track/7vPeeVHtpJIJwy6PsONjvb) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Woman of the Ghetto](https://open.spotify.com/album/2qAYzFQzljys16Tvf63YLE) | 5:56 | 2020-11-06 | 2022-07-25 |
 | [Ya Kidding](https://open.spotify.com/track/23u8Srx4MNpBjrM66Tj7On) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3pmLTOrDeJHsj01Fnu5030) | 3:58 | 2020-11-06 | 2024-04-19 |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-11-06 | 2023-10-16 |
+| [Yeah Yeah Yeah \- Edit](https://open.spotify.com/track/2yp1kALznMhk5uVd8PdA0j) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Yeah Yeah Yeah \(Edit\)](https://open.spotify.com/album/5CgHBjU9PiSUruJqKbVvx8) | 3:39 | 2025-08-07 |  |
 | [Yosemite](https://open.spotify.com/track/00aaxjGeWqhsDSqPIVf3AK) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Gotta Have It](https://open.spotify.com/album/5NovyjdqAKa8Sj2ck8BAka) | 4:26 | 2025-05-01 |  |
 | [You Know It](https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [You Know It](https://open.spotify.com/album/1pQyujwr8WMM8nXV21a5tY) | 3:55 | 2024-03-01 | 2024-07-05 |
 | [You're Not a Popstar](https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [You're Not a Popstar](https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW) | 3:44 | 2025-05-29 | 2025-07-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwkbFYEItuo.md) - [plain]
 
 > The best of comedy, music, and culture from the Black and Brown Diaspora \-\- picked by Anik Khan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 4 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 153 likes - 4 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

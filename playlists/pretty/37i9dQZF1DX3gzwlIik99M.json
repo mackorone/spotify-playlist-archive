@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 205953,
+  "num_followers": 205956,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Fugitive State of Mind",
+        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
+      },
+      "artists": [
+        {
+          "name": "Voltax",
+          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Acero Inmortal",
+      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Fugitive State of Mind",
-        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
-      },
-      "artists": [
-        {
-          "name": "Voltax",
-          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Acero Inmortal",
-      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Radix Nebul\u00e6",
-        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
+        "name": "Creation of Insanity",
+        "url": "https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98"
       },
       "artists": [
         {
-          "name": "SYRACUS\u00c6",
-          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
+          "name": "Introtyl",
+          "url": "https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A"
         }
       ],
-      "duration_ms": 241333,
-      "name": "Exoplanets",
-      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
+      "duration_ms": 161881,
+      "name": "Regresi\u00f3n",
+      "url": "https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7"
     }
   ],
   "unique_name": "Metal del Nuestro",

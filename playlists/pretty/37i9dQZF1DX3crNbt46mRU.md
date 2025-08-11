@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Stefanie Heinzmann, Jul, Ed Sheeran, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,784 likes - 101 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,786 likes - 101 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 49 | [Cld Wrld](https://open.spotify.com/track/6KHpBPzE33PAONW4sON6NX) | [Jamal](https://open.spotify.com/artist/1tYOWKifYJqpVJ3nnHR3FC), [NEAL](https://open.spotify.com/artist/0t9wsK8mdUR0jArU0YhArq) | [Cld Wrld](https://open.spotify.com/album/0jn9yLqV10mMP3iScbdeYh) | 3:12 |
 | 50 | [Nothing Lasts Forever](https://open.spotify.com/track/5eGSOtR7j0LuzmM8F0dCAW) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Nothing Lasts Forever](https://open.spotify.com/album/6vbIgLq1rVTWWTlwkoy4IH) | 2:36 |
 | 51 | [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 |
-| 52 | [sonne und schmerz \(outro\)](https://open.spotify.com/track/7sKqgNW97o7mVNcIY5KPza) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Sonne und Schmerz](https://open.spotify.com/album/6IsFN7JqYIL2EErbU4GEJ5) | 2:19 |
+| 52 | [sonne und schmerz \- outro](https://open.spotify.com/track/7sKqgNW97o7mVNcIY5KPza) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [Sonne und Schmerz](https://open.spotify.com/album/6IsFN7JqYIL2EErbU4GEJ5) | 2:19 |
 | 53 | [Anima](https://open.spotify.com/track/0QA3ocYJoaDq0YwusQrYqs) | [Freezy](https://open.spotify.com/artist/246r0Tdt5EFMQvxoANmkvK), [Josha Hewitt](https://open.spotify.com/artist/0TT0Jq7scu8wq1tTqEktOl), [Olen Blackbird](https://open.spotify.com/artist/0jqEqLB2Nzj2ymPSgNmi5o) | [Anima](https://open.spotify.com/album/71cn2qbRtwoye4Ei2A0EQD) | 2:34 |
 | 54 | [Spring Cleaning](https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Reason To Hate You](https://open.spotify.com/album/7fLXDsRokVOibKg5oTALze) | 3:15 |
 | 55 | [ALBATROSS](https://open.spotify.com/track/2dlN2bZbVjAv4EE0xk1bIk) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [ALBATROSS](https://open.spotify.com/album/4duBJzy6OIPWu8lltipbfZ) | 2:53 |

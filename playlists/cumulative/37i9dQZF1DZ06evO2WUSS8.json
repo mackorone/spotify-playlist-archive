@@ -786,7 +786,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 189394,
       "name": "Colour Of My Skin",
       "url": "https://open.spotify.com/track/1sD9YouSRyzTd7WWAJuP62"
@@ -1028,6 +1028,28 @@
       "duration_ms": 209266,
       "name": "Emma",
       "url": "https://open.spotify.com/track/6HMMRTuMEf9xiZsVEaijiQ"
+    },
+    {
+      "album": {
+        "name": "EVE",
+        "url": "https://open.spotify.com/album/7809ieIOof167f7FIyLiCr"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201652,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/5HZzpzzDxZWtZlyn9EFWGE"
     },
     {
       "album": {
@@ -1298,7 +1320,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 226826,
       "name": "Iwoya (feat. Dave Matthews)",
       "url": "https://open.spotify.com/track/69Fn1hfYXOe8qJxqzsl9gE"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 97266,
       "name": "Yemaya",
       "url": "https://open.spotify.com/track/6MsCWGRgENTvcMN59G206p"

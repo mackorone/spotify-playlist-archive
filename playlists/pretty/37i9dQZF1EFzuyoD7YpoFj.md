@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443 likes - 383 songs - 19 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 383 songs - 19 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,8 +327,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 317 | [Out of This World: What Do You Think About Men?](https://open.spotify.com/track/5XpbxryyJxZlCBykblWQjO) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Priscilla Gillette](https://open.spotify.com/artist/7iJul9QVEKoGesI95tLDvL), [Barbara Ashley](https://open.spotify.com/artist/5qZMExK4W9MBRTYo2zNUdk), [Pembroke Davenport](https://open.spotify.com/artist/4fdPrPKYcvauQeQEJFmX8S) | [Out of This World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5XaCug531Bjw4e0nUBhazb) | 2:24 |
 | 318 | [Why Shouldn't I Have You?](https://open.spotify.com/track/0qZpeBK1vXw8IBbUbszLTq) | [Howard McGillin](https://open.spotify.com/artist/5ULluSxmW77lt0IpatHeoP) | [Fifty Million Frenchmen](https://open.spotify.com/album/6iPfoCguDCvtCNEgkNh9lc) | 1:37 |
 | 319 | [Dawn](https://open.spotify.com/track/1hcUyz4cOlKXm2MTR5HmkY) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Pathways](https://open.spotify.com/album/3dS22d3wLc9yVxz0ZK4pAz) | 6:34 |
-| 320 | [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 |
-| 321 | [When Love Comes to Call](https://open.spotify.com/track/59H1HzteXBydFYXLhPPRQa) | [Colleen McHugh](https://open.spotify.com/artist/2TqSw1TR6Y6k0loiPm0HqZ) | [Prêt\-À\-Porter: Cole Porter's French Connections](https://open.spotify.com/album/1XN9mapEkySEuryLadcT9z) | 2:36 |
+| 320 | [When Love Comes to Call](https://open.spotify.com/track/59H1HzteXBydFYXLhPPRQa) | [Colleen McHugh](https://open.spotify.com/artist/2TqSw1TR6Y6k0loiPm0HqZ) | [Prêt\-À\-Porter: Cole Porter's French Connections](https://open.spotify.com/album/1XN9mapEkySEuryLadcT9z) | 2:36 |
+| 321 | [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 |
 | 322 | [There Must Be Someone For Me \(From "Mexican Hayride”\)](https://open.spotify.com/track/5nFVh3MdTDF8hdD6OUjRAX) | [June Havoc](https://open.spotify.com/artist/0VaHp8EJmfc5MjGC7bTHcD) | [Best of the Early Years](https://open.spotify.com/album/1Znl70amjjAyyKCGLjSsVl) | 3:13 |
 | 323 | [Une Chanson Qui Revient \(Full Vocal Version\) \[In the Style of Julio Iglesias \(French\)\]](https://open.spotify.com/track/0wdprtyoNHqtlorvbpf95O) | [Karaoke Library](https://open.spotify.com/artist/6IkKvcB77pnK30tY65DGGv) | [In the Style of Julio Iglesias \(French\) \(Karaoke \- Professional Performance Tracks\)](https://open.spotify.com/album/3zJ79UMWkkQqTWX2TLByf1) | 4:35 |
 | 324 | [Mister Bing](https://open.spotify.com/track/0WHckZYByGLQOZulisF69n) | [Guy Marchand](https://open.spotify.com/artist/5QBrJzbX0Xj4cEc7YjHjBU) | [Guy Marchand](https://open.spotify.com/album/3tJ9GZxMAKnj1IlUTHUytc) | 2:54 |
@@ -392,4 +392,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 382 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 | 383 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 
-Snapshot ID: `Ab5EiAAAAAB9syRj1qXtOD6Xqfml8PrI`
+Snapshot ID: `Ab5KKAAAAADKO1jTJ2tdF64/yxanIGFh`

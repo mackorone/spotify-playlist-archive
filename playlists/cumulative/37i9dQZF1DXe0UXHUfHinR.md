@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-807 songs - 2 day 16 hr 19 min
+809 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 | 2022-10-27 | 2024-04-19 |
 | [Dream Gypsy](https://open.spotify.com/track/1mee9jicUVtzLghXPgvhrX) | [Bill Evans](https://open.spotify.com/artist/6W5H7ELG8CsfvslV2WnvZ5), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:34 | 2024-07-17 | 2025-01-27 |
 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 | 2022-10-27 | 2024-08-31 |
+| [Easy Living](https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 3:44 | 2024-07-17 |  |
 | [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-10-27 |  |
 | [Easy To Love](https://open.spotify.com/track/0oVWNxNOoezPVN2g8Jcml4) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:20 | 2023-12-14 | 2024-04-28 |
 | [Ebb Tide](https://open.spotify.com/track/30WYlOTUkGayw4Qo4Y9sYX) | [Ben Flocks](https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ) | [Mask of the Muse](https://open.spotify.com/album/3oFFsDmGaUmFeAgljXFexD) | 3:06 | 2023-08-10 |  |
@@ -480,7 +481,7 @@
 | [Moon River](https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r) | 5:10 | 2022-10-27 |  |
 | [Moon River](https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus](https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY) | 5:18 | 2022-12-07 | 2022-12-29 |
 | [Moonglow \- Take 1](https://open.spotify.com/track/7uyZDmvtrj60HzN1OmV3ZC) | [Benny Goodman Quartet](https://open.spotify.com/artist/26vAEAV08relvScS4FUsIt) | [Ultimate Big Band Collection: Benny Goodman](https://open.spotify.com/album/60jktWaF2LDsHnhD42QHR3) | 3:23 | 2023-02-23 | 2024-12-20 |
-| [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 | 2023-02-15 |  |
+| [Moonlight in Vermont](https://open.spotify.com/track/5SjukQ9cPwYxzUkrxrh4Ri) | [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [City of Sounds](https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr) | 6:53 | 2023-02-15 | 2025-08-11 |
 | [Moonlight Serenade](https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:22 | 2022-10-27 |  |
 | [Morning Of The Carnival \- From "Black Orpheus"](https://open.spotify.com/track/6GQ6rapsknPIutGbpv0DTR) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 5:30 | 2022-10-27 |  |
 | [Mrs\. Robinson](https://open.spotify.com/track/0RYJnTy9kC4KreZKEGRDdd) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:40 | 2023-01-18 | 2024-04-19 |
@@ -679,6 +680,7 @@
 | [That's The Way Love Goes](https://open.spotify.com/track/6UkHSbQcqBwWZr98OSELoL) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 4:45 | 2022-10-27 |  |
 | [The Awakening](https://open.spotify.com/track/4QC4XLTPHiSdexDsKO5Vi7) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 6:21 | 2023-06-21 | 2025-05-16 |
 | [The Boy From Ipanema](https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [How Glad I Am](https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt) | 2:14 | 2022-10-27 |  |
+| [The Call](https://open.spotify.com/track/2rb45s3pCXLMZGD1WiKFjG) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [53](https://open.spotify.com/album/4Z5gPQXauPwNq1XhzpwKA9) | 4:03 | 2024-07-17 |  |
 | [The Cat](https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Cat](https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs) | 3:24 | 2022-10-27 |  |
 | [The Feeling Of Jazz](https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:29 | 2023-06-21 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-10-27 |  |
@@ -728,7 +730,7 @@
 | [Till There Was You](https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Gene Ammons Story: Gentle Jug](https://open.spotify.com/album/0CCKExA36huR4N871Qkszm) | 7:10 | 2024-07-17 | 2024-12-23 |
 | [Time After Time \- Vocal Version](https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:46 | 2022-10-27 | 2025-07-15 |
 | [Together \- Special Edition](https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46) | 11:12 | 2022-10-27 |  |
-| [Too Close For Comfort](https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:52 | 2023-08-10 |  |
+| [Too Close For Comfort](https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:52 | 2023-08-10 | 2025-08-11 |
 | [Too Young To Go Steady](https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:19 | 2022-10-27 |  |
 | [True Blue](https://open.spotify.com/track/1s1UN3QMJGyhXQAuMqNcbK) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [True Blue](https://open.spotify.com/album/2E4Zyg78Slt7IyJhIbYbtW) | 4:57 | 2024-07-17 |  |
 | [Trust](https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Nothing Serious](https://open.spotify.com/album/5sjpnIdONG9n6c6ipjpAFo) | 5:25 | 2022-10-27 |  |

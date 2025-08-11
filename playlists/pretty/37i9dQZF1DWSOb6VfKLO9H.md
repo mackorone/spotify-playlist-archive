@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,637 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,670 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 77 | [Op en Neer](https://open.spotify.com/track/6ASXDkfwJWkwfIUvXVXP5s) | [Two Crooks](https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Op en Neer](https://open.spotify.com/album/2K2Jya77c2tHXPMRNuT8bl) | 3:07 |
 | 78 | [fallin'](https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [IDALY](https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA) | 3:38 |
 | 79 | [Bon Dia](https://open.spotify.com/track/1edwhO9JqK22yqrgyAaoXe) | [Aliyah](https://open.spotify.com/artist/7E7VmEW6CxpkGNipjVQywD), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Bon Dia](https://open.spotify.com/album/4sBPQTmJDyHTkqet9DwoUo) | 3:13 |
-| 80 | [Naar Beneden](https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VBALERT](https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u) | 3:20 |
-| 81 | [Spiritual](https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Spiritual](https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR) | 2:56 |
+| 80 | [Spiritual](https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5) | [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Spiritual](https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR) | 2:56 |
+| 81 | [Naar Beneden](https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VBALERT](https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u) | 3:20 |
 | 82 | [Niet Zo](https://open.spotify.com/track/3BPj1UADA4VyAUGvp9Vx4V) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [We Doen Ons Best](https://open.spotify.com/album/6nqXDeemQeUvHHduoZxRjp) | 2:55 |
 | 83 | [Woozy](https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Woozy](https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU) | 2:24 |
 | 84 | [C'est la vie](https://open.spotify.com/track/3TUafDwB2Oygi8lyZlLyQt) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Broertje](https://open.spotify.com/artist/0906u9DO6IhSeFljQ7AXHZ), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Nachtwacht](https://open.spotify.com/album/0ZakSoY5lCsL5vBf1LFlJw) | 4:00 |

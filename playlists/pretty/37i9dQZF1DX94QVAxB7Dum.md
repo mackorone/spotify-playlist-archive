@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,245 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,393 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 42 | [Your Precious Love \- Stereo Version](https://open.spotify.com/track/62CNdmc3n7hdddhqVXilEz) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Marvin Gaye '50' \(International Version\)](https://open.spotify.com/album/6dP88Q6t9UMPowre0Gaywa) | 3:02 |
 | 43 | [Groove Me](https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:01 |
 | 44 | [Hercules](https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Anthology](https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO) | 4:11 |
-| 45 | [Smiling Faces Sometimes](https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 3:15 |
-| 46 | [My World Is Empty Without You \- Single Version \(Mono\)](https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Story Of The Supremes \(2CD Set\)](https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl) | 2:32 |
+| 45 | [My World Is Empty Without You \- Single Version \(Mono\)](https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Story Of The Supremes \(2CD Set\)](https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl) | 2:32 |
+| 46 | [Smiling Faces Sometimes](https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 3:15 |
 | 47 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
 | 48 | [Son Of A Preacher Man](https://open.spotify.com/track/4UCIi4gRVUG7x4nFGQiKmo) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Silver Collection](https://open.spotify.com/album/4HpfxzhcJ8a3zoUvLG0R5R) | 2:26 |
 | 49 | [It's Your Thing](https://open.spotify.com/track/6M9LLUNwl8tBZCeWS9nH4c) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 2:46 |

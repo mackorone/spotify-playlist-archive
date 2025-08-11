@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,091 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,314 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 97 | [Bololo](https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Bololo](https://open.spotify.com/album/3lAXuWE03SI0lL0n0Y6fnV) | 2:57 |
 | 98 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
 | 99 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
-| 100 | [Wataki](https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu) | [Wataki](https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU) | 3:38 |
+| 100 | [Rulay](https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Rulay](https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN) | 2:45 |
 
 Snapshot ID: `AAAAAHPZoJzGonkIJinl1+iCgXQGX1i1`

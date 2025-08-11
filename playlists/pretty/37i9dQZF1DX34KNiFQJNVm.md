@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DUDA BEAT, Diego & Victor Hugo, Luan Pereira, Ed Sheeran e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,130,331 likes - 69 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,130,200 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,438 songs - 5 day 7 hr 34 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,447 songs - 5 day 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2446,5 +2446,14 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2436 | [DANCE \- S3RL Remix](https://open.spotify.com/track/4Qnj7Aat56mNwjb6MJWeuY) | [RomancePlanet](https://open.spotify.com/artist/37wN6xD9duyyxRWmObUUxE), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [DANCE \(S3RL Remix\)](https://open.spotify.com/album/5UQeh6OHQp8Ao5FBjBN2xq) | 3:05 |
 | 2437 | [That Night](https://open.spotify.com/track/7o3JiOwUxzKiOqVU4L9zgt) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH), [Brisk](https://open.spotify.com/artist/67es8ZtGIcV80XDLwlQkU3), [Kayliana](https://open.spotify.com/artist/3G6siqYCWmO40U16g4GG3j) | [That Night](https://open.spotify.com/album/5r9Kq43nQvmznqK21GwFBh) | 3:00 |
 | 2438 | [We're Back](https://open.spotify.com/track/2ZV6Y1lSdLoMiMbLdncLpE) | [The Twins Artcore](https://open.spotify.com/artist/3MjXGUDYLeHQ7oaYBymcp7) | [Fucking Hardcore \#12 \- World Resistance](https://open.spotify.com/album/1FfcPJqFtefuCESQqPIV74) | 5:47 |
+| 2439 | [Empty Pistols](https://open.spotify.com/track/3mW5ck7bEj6TJJn8WZm2jj) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Empty Pistols](https://open.spotify.com/album/1DYs1RKHXbfVJGCIuo3leb) | 3:18 |
+| 2440 | [BURN IT DOWN](https://open.spotify.com/track/2dMYYyNz7UIaatEeRJvwtJ) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [BURN IT DOWN](https://open.spotify.com/album/031zP9jo1bjuNuW0DFfGCy) | 2:43 |
+| 2441 | [Land Of Lunacy \(Into The Madness 2025 Anthem\)](https://open.spotify.com/track/0KXQjfVuMPX6PABCvjuWXj) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Land Of Lunacy \(Into The Madness 2025 Anthem\)](https://open.spotify.com/album/3jSV7ojNHXP1HVYZeyoRMt) | 3:46 |
+| 2442 | [Harder Styles United \(Official Knockout Anthem 2025\)](https://open.spotify.com/track/4tZgM0PdoK8MG5jvMKdJkC) | [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Harder Styles United \(Official Knockout Anthem 2025\)](https://open.spotify.com/album/3KVDDyVlrnMaqxp8jcvMF4) | 5:31 |
+| 2443 | [GTFU](https://open.spotify.com/track/75UUYrjfZVwFUcmqrKpzHv) | [Redhot](https://open.spotify.com/artist/3YnnRFY9QQ9F91WEnvTILG) | [GTFU](https://open.spotify.com/album/4E8rCRh7BVmpqO2XcwnmtX) | 2:41 |
+| 2444 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
+| 2445 | [Closer To Heaven](https://open.spotify.com/track/47uMxnTVnuXLqV2lCcdGBK) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Closer To Heaven](https://open.spotify.com/album/5S3Bz8imeDeLH5XnRWyKIe) | 3:12 |
+| 2446 | [Heaven Knows](https://open.spotify.com/track/2i7LD970z7EQ0LgkNIXS3Q) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [THE DAY OF HARDCORE 2025](https://open.spotify.com/album/2CaVJtgbxExSagnr652VqP) | 4:28 |
+| 2447 | [Wanna Hear It](https://open.spotify.com/track/5LCrVxMvTexBrmo5MoqKLj) | [Eraized](https://open.spotify.com/artist/0VEjc5A4klmwhWVMjLLJPD) | [Wanna Hear It](https://open.spotify.com/album/5qEdUTcxkmHM3Ftbxs28zW) | 2:45 |
 
-Snapshot ID: `AAAJxijAYmWou95EyUZ4nRRT8olsVDEj`
+Snapshot ID: `AAAJz3pZAq1tyRZoOMC3P24JlcmzeK/L`

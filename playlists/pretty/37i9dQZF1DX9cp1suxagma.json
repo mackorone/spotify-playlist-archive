@@ -1,6 +1,6 @@
 {
   "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Valentina Rico",
-  "num_followers": 123089,
+  "num_followers": 123091,
   "original_name": "Pop Colombia",
   "owner": {
     "name": "Spotify",
@@ -216,12 +216,12 @@
       },
       "artists": [
         {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
           "name": "Opa!",
           "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
       "duration_ms": 305898,

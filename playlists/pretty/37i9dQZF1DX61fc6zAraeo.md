@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,538 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,553 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 70 | [Chemistry](https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Chemistry](https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa) | 2:31 |
 | 71 | [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 |
 | 72 | [Cross Your Heart](https://open.spotify.com/track/1LzbKvuwOGpiau7B5nRdfK) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Cross Your Heart](https://open.spotify.com/album/5MaPvkxRrsE9HhrRBacY1l) | 2:24 |
-| 73 | [Beat Of The Drum](https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Beat Of The Drum](https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC) | 2:54 |
-| 74 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 |
+| 73 | [Cumbia Buena](https://open.spotify.com/track/2i6VTVzBnl3mMKnLi8hDEB) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Cumbia Buena](https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM) | 2:29 |
+| 74 | [Beat Of The Drum](https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Beat Of The Drum](https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC) | 2:54 |
 | 75 | [Look Into My Eyes](https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [2:M](https://open.spotify.com/album/7MLuUXFHdDcGHRshuBATOs) | 3:40 |
 | 76 | [Underwater](https://open.spotify.com/track/5j1XuqSJqLDRceRqMjcUhT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Underwater](https://open.spotify.com/album/2lHojU2mWFc5mVAkz3B9x2) | 3:01 |
 | 77 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |

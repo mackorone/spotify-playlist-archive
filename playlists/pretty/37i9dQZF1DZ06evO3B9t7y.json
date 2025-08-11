@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1080086,
+  "num_followers": 1080307,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAADtZuX4lU85uSdVeWCPySMH",
+  "snapshot_id": "aJaPgAAAAADhUAPmmoBUJgKOrbWgt+ho",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUE\u00d1O DE TI",
-        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 212222,
-      "name": "DUE\u00d1O DE TI",
-      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios (En Vivo)",
       "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUE\u00d1O DE TI",
+        "url": "https://open.spotify.com/album/0h4n1Mx0fmZQYm27TfS7xR"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 212222,
+      "name": "DUE\u00d1O DE TI",
+      "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
     },
     {
       "added_at": null,

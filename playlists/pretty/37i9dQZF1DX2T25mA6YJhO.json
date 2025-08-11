@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Anabel Lee.",
-  "num_followers": 29129,
+  "num_followers": 29143,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Flores a la Guerra",
-        "url": "https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 232143,
-      "name": "Flores a la Guerra",
-      "url": "https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Entre Amores y Errores",
         "url": "https://open.spotify.com/album/071E2UPxi3oZfLm9vHTxpc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 165197,
       "name": "Amores y Errores",
       "url": "https://open.spotify.com/track/0m9HSvl7fLvBxNPDSFTW2D"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Flores a la Guerra",
+        "url": "https://open.spotify.com/album/2gaEAA8H24C9yst7jH3KiO"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 232143,
+      "name": "Flores a la Guerra",
+      "url": "https://open.spotify.com/track/1egWhb5waRWLWKegCYnpMY"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Ma\u00f1ana No Existe",
-        "url": "https://open.spotify.com/album/305845acU1v7ITS0sLiP2g"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 182568,
-      "name": "Ma\u00f1ana No Existe",
-      "url": "https://open.spotify.com/track/777fBnjDxkxeQCM9pOkTBd"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "El Palco",
         "url": "https://open.spotify.com/album/1QJx2XWmPZetIlNTV2ffEd"
       },
@@ -827,18 +811,34 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "FIESTAS DE PUEBLO",
-        "url": "https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym"
+        "name": "Ma\u00f1ana No Existe",
+        "url": "https://open.spotify.com/album/305845acU1v7ITS0sLiP2g"
       },
       "artists": [
         {
-          "name": "HORROCRUX",
-          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
         }
       ],
-      "duration_ms": 185687,
-      "name": "FIESTAS DE PUEBLO",
-      "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
+      "duration_ms": 182568,
+      "name": "Ma\u00f1ana No Existe",
+      "url": "https://open.spotify.com/track/777fBnjDxkxeQCM9pOkTBd"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Viernes con Rufus T. Firefly",
+        "url": "https://open.spotify.com/album/1GVKFgxvOHTi8uKpX2Z9nv"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 172042,
+      "name": "Viernes con Rufus T. Firefly",
+      "url": "https://open.spotify.com/track/4foBjqNMLRtSgTHpK458hR"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Viernes con Rufus T. Firefly",
-        "url": "https://open.spotify.com/album/1GVKFgxvOHTi8uKpX2Z9nv"
+        "name": "FIESTAS DE PUEBLO",
+        "url": "https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym"
       },
       "artists": [
         {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
         }
       ],
-      "duration_ms": 172042,
-      "name": "Viernes con Rufus T. Firefly",
-      "url": "https://open.spotify.com/track/4foBjqNMLRtSgTHpK458hR"
+      "duration_ms": 185687,
+      "name": "FIESTAS DE PUEBLO",
+      "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "Pogo",
-        "url": "https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN"
-      },
-      "artists": [
-        {
-          "name": "Sexy Zebras",
-          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
-        }
-      ],
-      "duration_ms": 184112,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "HASTA QUE EL CUERPO REVIENTE",
         "url": "https://open.spotify.com/album/2pvmCOPps09JNDeLxGJrg9"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 152068,
       "name": "HASTA QUE EL CUERPO REVIENTE",
       "url": "https://open.spotify.com/track/0YXEGfhal4UJTtOspZQSll"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Pogo",
+        "url": "https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN"
+      },
+      "artists": [
+        {
+          "name": "Sexy Zebras",
+          "url": "https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd"
+        }
+      ],
+      "duration_ms": 184112,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
+        "name": "COMERTE",
+        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
+      },
+      "artists": [
+        {
+          "name": "Barder",
+          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "COMERTE",
+      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
         "name": "PARAR EL TIEMPO",
         "url": "https://open.spotify.com/album/6SDYi499w2SeknkNGxh0cB"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 231283,
       "name": "L\u00ednea 11",
       "url": "https://open.spotify.com/track/3syB1AAFEgXtuP8xBnyJzz"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
-        "name": "COMERTE",
-        "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
-      },
-      "artists": [
-        {
-          "name": "Barder",
-          "url": "https://open.spotify.com/artist/5qUVWZrViriqK73n0ZLWTY"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "COMERTE",
-      "url": "https://open.spotify.com/track/6qpU83yEgdtwboavDokkyO"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
+        "name": "Segunda capa",
+        "url": "https://open.spotify.com/album/4fkLGdzlpWrkxfs4JWRRQ3"
+      },
+      "artists": [
+        {
+          "name": "Palo Domado",
+          "url": "https://open.spotify.com/artist/60GbO5gsiJcZaocfjElok5"
+        }
+      ],
+      "duration_ms": 169558,
+      "name": "Segunda capa",
+      "url": "https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
         "name": "Ganas de verte",
         "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
-        "name": "Segunda capa",
-        "url": "https://open.spotify.com/album/4fkLGdzlpWrkxfs4JWRRQ3"
-      },
-      "artists": [
-        {
-          "name": "Palo Domado",
-          "url": "https://open.spotify.com/artist/60GbO5gsiJcZaocfjElok5"
-        }
-      ],
-      "duration_ms": 169558,
-      "name": "Segunda capa",
-      "url": "https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1331,22 +1331,6 @@
       "duration_ms": 293982,
       "name": "Gravedad Zero",
       "url": "https://open.spotify.com/track/2wV9vXj68Fq1QsKjyKDrXs"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1395,6 +1379,22 @@
       "duration_ms": 163761,
       "name": "Minibar",
       "url": "https://open.spotify.com/track/6chGqPI2ZVRcSj8eL8L2BD"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
-        "name": "instantes (antes de caer)",
-        "url": "https://open.spotify.com/album/2TESrbykXn2HJZOHkM15R8"
-      },
-      "artists": [
-        {
-          "name": "grima",
-          "url": "https://open.spotify.com/artist/6DyTFqXa8gxRB2H952Jdxj"
-        }
-      ],
-      "duration_ms": 175139,
-      "name": "ficciones",
-      "url": "https://open.spotify.com/track/10OCSh0kl1CiIIjQvomCPV"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
         "name": "Himno de las flores",
         "url": "https://open.spotify.com/album/1CuoTbdRdHm9e3yOl0mt0T"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2025-08-07 22:00:33",
       "album": {
+        "name": "instantes (antes de caer)",
+        "url": "https://open.spotify.com/album/2TESrbykXn2HJZOHkM15R8"
+      },
+      "artists": [
+        {
+          "name": "grima",
+          "url": "https://open.spotify.com/artist/6DyTFqXa8gxRB2H952Jdxj"
+        }
+      ],
+      "duration_ms": 175139,
+      "name": "ficciones",
+      "url": "https://open.spotify.com/track/10OCSh0kl1CiIIjQvomCPV"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
         "name": "Vivo En Las Nubes",
         "url": "https://open.spotify.com/album/3YVZJjd2b52xDJkyIfQgJ5"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 192888,
       "name": "Vivo En Las Nubes",
       "url": "https://open.spotify.com/track/6VO74FC18dbxuAYFUV6G4p"
+    },
+    {
+      "added_at": "2025-08-07 22:00:33",
+      "album": {
+        "name": "Al Dente",
+        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
+      },
+      "artists": [
+        {
+          "name": "Supercremalleras",
+          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Al Dente",
+      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
     },
     {
       "added_at": "2025-08-07 22:00:33",
@@ -1643,22 +1659,6 @@
       "duration_ms": 190093,
       "name": "Boston",
       "url": "https://open.spotify.com/track/7llrXhMFcbVZjhptqQeaIw"
-    },
-    {
-      "added_at": "2025-08-07 22:00:33",
-      "album": {
-        "name": "Al Dente",
-        "url": "https://open.spotify.com/album/4OLOKo1vSt98i6B96JiXWm"
-      },
-      "artists": [
-        {
-          "name": "Supercremalleras",
-          "url": "https://open.spotify.com/artist/4cAysvzMGJCTc4696hNE15"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Al Dente",
-      "url": "https://open.spotify.com/track/0E8mlkq1hrdwqJI3sRzfbh"
     },
     {
       "added_at": "2025-08-07 22:00:33",

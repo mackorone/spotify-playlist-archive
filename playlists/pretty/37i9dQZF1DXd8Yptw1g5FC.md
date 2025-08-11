@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > cakal, Serdar Ortaç ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,735 likes - 102 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,748 likes - 102 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

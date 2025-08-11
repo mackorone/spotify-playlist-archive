@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-379 songs - 20 hr 11 min
+380 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2022-06-06 | 2022-07-29 |
 | [IT’S COMPLICATED!](https://open.spotify.com/track/3hpvMehmJJTsEKfld0hi8X) | [Timmy Albert](https://open.spotify.com/artist/4acGozsQZscrP4YKMg2Xwn) | [IT’S COMPLICATED!](https://open.spotify.com/album/7r6vYoLLh9Ix4X6MjZQzyU) | 2:59 | 2023-06-05 | 2023-06-20 |
 | [Jenny](https://open.spotify.com/track/2wBWnLzt1RKMwEFjraNXXK) | [Goodmorning Pancake](https://open.spotify.com/artist/7Bezyy4h6Ftw2pjtq8NcbE) | [Jenny](https://open.spotify.com/album/1vKTtL98SYXOK8fxTS5N2X) | 3:09 | 2022-08-22 | 2022-08-30 |
-| [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 | 2024-04-08 | 2025-07-02 |
+| [Jet Black \(feat\. Brandy\)](https://open.spotify.com/track/70pZIQqQ37SrNCADx0FiPN) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:28 | 2024-04-08 |  |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2022-07-25 | 2024-04-19 |
 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 | 2022-07-25 |  |
 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 | 2022-08-08 | 2022-08-16 |
@@ -222,7 +222,7 @@
 | [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2023-11-06 | 2024-04-19 |
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2022-07-25 | 2023-10-25 |
 | [matters of the heart](https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [matters of the heart](https://open.spotify.com/album/1UbN4K1Lyl81gPo92g7uK4) | 3:24 | 2024-04-22 | 2024-04-29 |
-| [Me & You](https://open.spotify.com/track/0p5Mn82abOsrwtuZzLLbUD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Me & You](https://open.spotify.com/album/2bASjA1zJwXPCs3ytsi3Pk) | 2:33 | 2025-07-27 |  |
+| [Me & You](https://open.spotify.com/track/0p5Mn82abOsrwtuZzLLbUD) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [Me & You](https://open.spotify.com/album/2bASjA1zJwXPCs3ytsi3Pk) | 2:33 | 2025-07-27 | 2025-08-11 |
 | [Mean It](https://open.spotify.com/track/3GRSqlALWISqLeNncZMbpX) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/4aoWQU2gSUjl4AZeCPSo1b) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 | 2022-07-25 | 2022-11-18 |
 | [Mean It](https://open.spotify.com/track/6mXdCcFnPKQznj4CmMRmHC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:52 | 2022-12-26 | 2024-04-19 |
@@ -278,6 +278,7 @@
 | [Purple Teeth, The Bravery](https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Purple Teeth, The Bravery](https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV) | 3:04 | 2024-08-19 | 2024-08-26 |
 | [Put Up With The Weather!](https://open.spotify.com/track/3kSoTDNEnPeEYN0uB5yZXt) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Put Up With The Weather!](https://open.spotify.com/album/33OT5Ny3ayPwip0vB8HbQi) | 3:59 | 2022-09-19 | 2022-10-04 |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2022-07-25 |  |
+| [Rain](https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Rain](https://open.spotify.com/album/6effz36583EebaQcS3ZOrM) | 3:34 | 2025-08-11 |  |
 | [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-02-13 | 2023-02-21 |
 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 | 2024-07-29 |  |
 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 | 2023-02-13 | 2023-02-21 |
@@ -371,7 +372,7 @@
 | [Unless We Try](https://open.spotify.com/track/0vXHyEyJDEVGGPssnhmsgn) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [Hyperlnk](https://open.spotify.com/artist/4hCOz7uKIaWamRdtryWXW1) | [Unless We Try](https://open.spotify.com/album/53Ev9gXUcanBW1mFgj7lkZ) | 2:49 | 2024-01-22 | 2024-01-29 |
 | [Vacation](https://open.spotify.com/track/7n99sQC9Y4OyCGMjXPRe0r) | [Aaron Yan](https://open.spotify.com/artist/3rRfC7TqmIAjmSxLcadqe1) | [Vacation](https://open.spotify.com/album/5qgdOjFd9iCObeRtZaKShw) | 3:24 | 2022-06-06 | 2022-07-27 |
 | [Vibin'](https://open.spotify.com/track/1JNyTBzuW5boU3PltBjTzp) | [Beck](https://open.spotify.com/artist/43rF0ezbI0BApStNet2EWk) | [Vibin'](https://open.spotify.com/album/7A3GYpyF6MMplyxgKMo1nL) | 3:02 | 2024-08-19 | 2024-08-26 |
-| [Vitamin](https://open.spotify.com/track/5qAh2ElE046joY1b6XkVeN) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Vitamin](https://open.spotify.com/album/1NQBKkiuqfxbFxakaX72XK) | 2:27 | 2025-07-27 |  |
+| [Vitamin](https://open.spotify.com/track/5qAh2ElE046joY1b6XkVeN) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Vitamin](https://open.spotify.com/album/1NQBKkiuqfxbFxakaX72XK) | 2:27 | 2025-07-27 | 2025-08-11 |
 | [Vulnerable](https://open.spotify.com/track/5G6sPdp9sDuvlJ62o98g12) | [Foon](https://open.spotify.com/artist/5EIOF2u4SZ1l51AOpm2rhg) | [Vulnerable](https://open.spotify.com/album/5DLmQNebQS21OXsSK14ocV) | 3:26 | 2025-05-11 | 2025-05-19 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-04-10 |  |
 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 | 2022-07-25 |  |

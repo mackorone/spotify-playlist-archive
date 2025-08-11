@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 940018,
+  "num_followers": 940212,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAELoLA4Zr5PPUODxLF2FhlFx2oSC",
+  "snapshot_id": "AAAAALRBthNUVWU9otCAeSgdHoj2vET4",
   "tracks": [
     {
       "added_at": "2025-07-25 04:00:45",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
         "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "BRODYAGA FUNK",
         "url": "https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 134785,
       "name": "BRODYAGA FUNK",
       "url": "https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -371,6 +355,22 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "BOUNCE FUNK (Slowed)",
-        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
-      },
-      "artists": [
-        {
-          "name": "SAPFIR",
-          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
-        }
-      ],
-      "duration_ms": 97368,
-      "name": "BOUNCE FUNK - Slowed",
-      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "GANO",
         "url": "https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 77923,
       "name": "GANO - Slowed",
       "url": "https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "BOUNCE FUNK (Slowed)",
+        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
+      },
+      "artists": [
+        {
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
+        }
+      ],
+      "duration_ms": 97368,
+      "name": "BOUNCE FUNK - Slowed",
+      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "NEON BLADE",
-        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
-      },
-      "artists": [
-        {
-          "name": "MoonDeity",
-          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "NEON BLADE",
-      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "NEON BLADE",
+        "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "NEON BLADE",
+      "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
       "added_at": "2025-07-25 04:00:45",

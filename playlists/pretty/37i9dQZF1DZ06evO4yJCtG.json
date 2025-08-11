@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 152188,
+  "num_followers": 152197,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAAP9K1coyS9Qdylt4tMfGFy",
+  "snapshot_id": "aJaPgAAAAAA2TAs5VLyopLsZYDvW56rR",
   "tracks": [
     {
       "added_at": null,
@@ -567,38 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 191503,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -619,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
@@ -628,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 253520,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": null,
@@ -644,29 +612,25 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 89443,
-      "name": "Old Dog, New Bitch",
-      "url": "https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR"
+      "duration_ms": 191503,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
       },
       "artists": [
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 233826,
-      "name": "A Mess (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
+      "duration_ms": 253520,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
     },
     {
       "added_at": null,
@@ -695,6 +659,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "A Mess (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 89443,
+      "name": "Old Dog, New Bitch",
+      "url": "https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DiCaprio 2",
         "url": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 235672,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 230582,
+      "name": "Switch Sider",
+      "url": "https://open.spotify.com/track/65UGfLSTxHAw8CwgkwqeL1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Conspiracy",
         "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 206840,
       "name": "One and Only (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 230582,
-      "name": "Switch Sider",
-      "url": "https://open.spotify.com/track/65UGfLSTxHAw8CwgkwqeL1"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creed II: The Album",
-        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 210563,
-      "name": "Love Me Like That (Champion Love)",
-      "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 194195,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creed II: The Album",
+        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 210563,
+      "name": "Love Me Like That (Champion Love)",
+      "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
     },
     {
       "added_at": null,

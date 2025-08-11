@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 136315,
+  "num_followers": 136326,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u306f\u306a\u3088\u3069",
-        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
-      },
-      "artists": [
-        {
-          "name": "Natsuko Nisshoku",
-          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
-        }
-      ],
-      "duration_ms": 261282,
-      "name": "\u3084\u3048",
-      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/6X0e48IHrHjAtgb00eYxsp"
       },
@@ -1111,22 +1095,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "Night Flow",
-        "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
+        "name": "\u306f\u306a\u3088\u3069",
+        "url": "https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8"
       },
       "artists": [
         {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        },
-        {
-          "name": "\u30a4\u30ce\u30a6\u30a8\u30ef\u30e9\u30d3",
-          "url": "https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44"
+          "name": "Natsuko Nisshoku",
+          "url": "https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK"
         }
       ],
-      "duration_ms": 249940,
-      "name": "reiji no machi",
-      "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
+      "duration_ms": 261282,
+      "name": "\u3084\u3048",
+      "url": "https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1147,6 +1127,26 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "Night Flow",
+        "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "\u30a4\u30ce\u30a6\u30a8\u30ef\u30e9\u30d3",
+          "url": "https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "reiji no machi",
+      "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30c0\uff0f\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
+        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
       "artists": [
         {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+          "name": "Fuyumi Abe",
+          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
         }
       ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
+      "duration_ms": 245746,
+      "name": "\u5e0c\u671b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1251,22 +1267,6 @@
       "duration_ms": 228005,
       "name": "Separate Seasons",
       "url": "https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
-        "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
-      },
-      "artists": [
-        {
-          "name": "Fuyumi Abe",
-          "url": "https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej"
-        }
-      ],
-      "duration_ms": 245746,
-      "name": "\u5e0c\u671b\u306e\u3046\u305f",
-      "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "Double Rift",
         "url": "https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 280786,
       "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
       "url": "https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
-        "name": "Voices Of Love",
-        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
-      },
-      "artists": [
-        {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
-        }
-      ],
-      "duration_ms": 258346,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1463,6 +1447,22 @@
       "duration_ms": 233666,
       "name": "NEVER FALL IN LOVE AGAIN",
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "Voices Of Love",
+        "url": "https://open.spotify.com/album/3vyGVRUQaAS4g2ztBZX9t9"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 258346,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/5Uc0WlK2e5B5NYvS72fCHp"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u6620\u753b\u300c\u304a\u3058\u3044\u3061\u3083\u3093\u3001\u6b7b\u3093\u3058\u3083\u3063\u305f\u3063\u3066\u3002\u300d\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8"
-      },
-      "artists": [
-        {
-          "name": "yuma yamaguchi",
-          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "\u305d\u308c\u3067\u3082\u5bb6\u65cf",
-      "url": "https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 235186,
       "name": "\u6700\u5f8c\u306e\u30cb\u30e5\u30fc\u30b9 - Remastered 2018",
       "url": "https://open.spotify.com/track/00BOdVi0sE9haJwaw3rT22"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u6620\u753b\u300c\u304a\u3058\u3044\u3061\u3083\u3093\u3001\u6b7b\u3093\u3058\u3083\u3063\u305f\u3063\u3066\u3002\u300d\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0rI3aaQ2Ij6uKwDWyIald8"
+      },
+      "artists": [
+        {
+          "name": "yuma yamaguchi",
+          "url": "https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "\u305d\u308c\u3067\u3082\u5bb6\u65cf",
+      "url": "https://open.spotify.com/track/4iqy8c3PaPQreAfeROJg1E"
     },
     {
       "added_at": "2025-07-17 15:02:14",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-07-17 15:02:14",
       "album": {
-        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
-        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
-      },
-      "artists": [
-        {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 359693,
-      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
-      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
-    },
-    {
-      "added_at": "2025-07-17 15:02:14",
-      "album": {
         "name": "A Rainy Night in NY",
         "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 178546,
       "name": "A Rainy Night in NY",
       "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+    },
+    {
+      "added_at": "2025-07-17 15:02:14",
+      "album": {
+        "name": "\u79cb \u305d\u3070\u306b\u3044\u308b\u3088",
+        "url": "https://open.spotify.com/album/3VWtvGEGzET3ztfQSKTkUc"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "duration_ms": 359693,
+      "name": "\u304a\u3084\u3059\u307f\u306a\u3055\u3044",
+      "url": "https://open.spotify.com/track/3fGUorfiin7I5V8YvTaoFK"
     },
     {
       "added_at": "2025-07-17 15:02:14",

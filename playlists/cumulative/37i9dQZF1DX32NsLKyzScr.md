@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,280 songs - 2 day 21 hr 28 min
+1,281 songs - 2 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,7 +958,7 @@
 | [Shake & Pop \- John Summit Remix](https://open.spotify.com/track/7DVKT810ffmiryCXXn8Htu) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Shake & Pop \(John Summit Remix\)](https://open.spotify.com/album/6S7FUcseVxYePq84Fmv1hx) | 3:37 | 2024-10-25 | 2025-02-01 |
 | [Shake It](https://open.spotify.com/track/1Eh1KT8TVoRISpnphcMG5W) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Shake It](https://open.spotify.com/album/0glqj5fGTpYXiAibo9MP9s) | 3:04 | 2020-09-21\* | 2021-01-23 |
 | [Shapes \- Oliver Smith Remix \(Mixed\)](https://open.spotify.com/track/4G8P3HXG8O3gRUcy5nv1NP) | [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he), [Oliver Smith](https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic) | [Mat Zo Presents: 20 Years Of Anjunabeats](https://open.spotify.com/album/11y5JIlnyXqKjzkenVTfU5) | 6:25 | 2020-09-21\* | 2020-11-03 |
-| [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-03-28 |  |
+| [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-03-28 | 2025-08-11 |
 | [Shine](https://open.spotify.com/track/6dm4tlxk2CbSV9grb2hILi) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Shine](https://open.spotify.com/album/015OdKtK69kpEuN3jHTAw0) | 3:06 | 2020-09-21\* | 2020-10-10 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-16 | 2024-10-13 |
 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 | 2022-03-11 | 2022-12-03 |
@@ -979,6 +979,7 @@
 | [Skymelody](https://open.spotify.com/track/7G3oEWLqKGkQ80JSSbrvjB) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Skymelody](https://open.spotify.com/album/4roPAxDyarOPre37XLOTmN) | 2:43 | 2020-09-21\* | 2021-01-23 |
 | [Slash](https://open.spotify.com/track/0bcLx0UsT4ymdoWM6Khj56) | [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Slash](https://open.spotify.com/album/1ynynxd2DOaoVUFroF2Dui) | 3:01 | 2020-09-21\* | 2020-11-03 |
 | [Sleepless](https://open.spotify.com/track/4Okf5BGuRXit4uEvs5uhCA) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [Sleepless](https://open.spotify.com/album/13nWYMLMWYPSPTvj2VWspy) | 5:32 | 2020-09-21\* | 2020-10-10 |
+| [Sleepless Nights](https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sleepless Nights](https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW) | 3:00 | 2025-08-08 |  |
 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 | 2025-03-07 |  |
 | [Slow Lane](https://open.spotify.com/track/2GvnieNPXvvgnrQne1HEtl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Euthymia EP](https://open.spotify.com/album/4hEE5xua0kBzXm0DRPJKxJ) | 3:14 | 2020-12-18 | 2021-07-24 |
 | [So Hï](https://open.spotify.com/track/4TNiHQs5zO3slGpbBwutVB) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï](https://open.spotify.com/album/5GA1vg8Xv8zqtNedFbHasK) | 3:32 | 2024-04-19 | 2025-08-02 |

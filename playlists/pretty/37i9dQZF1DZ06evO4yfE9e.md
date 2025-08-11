@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,460 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,461 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 28 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 | 29 | [Lavender](https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn) | [EZ Ice](https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lavender](https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA) | 2:43 |
 
-Snapshot ID: `aJU+AAAAAAA2jjTr64egil3VrY1+iQN+`
+Snapshot ID: `aJaPgAAAAABs4beU6+iWubzxXbAS2Bg1`

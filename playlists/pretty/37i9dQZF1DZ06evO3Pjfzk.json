@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 96585,
+  "num_followers": 96721,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAACp71gbKB2rRhNt2xs/Cbtr",
+  "snapshot_id": "aJaPgAAAAAAvjOcAVAwGDLT5m3H43Poa",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
-        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
       "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 226753,
-      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
-      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
     },
     {
       "added_at": null,
@@ -543,18 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+        "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+        "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
       "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
+      "duration_ms": 226753,
+      "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
     },
     {
       "added_at": null,

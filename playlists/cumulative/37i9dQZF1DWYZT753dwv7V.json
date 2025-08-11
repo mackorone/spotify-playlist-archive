@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
+        "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138920,
+      "name": "24 mila baci",
+      "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
+    },
+    {
+      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-11",
       "duration_ms": 224163,
       "name": "Cosa ti aspetti da me",
       "url": "https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-400 songs - 1 day 1 hr 23 min
+401 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Freeze You Out](https://open.spotify.com/track/36FL3mxfAupY7iA8b6K9BS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:07 | 2023-12-30 |  |
 | [Galaxy \- Gawler Remix / Radio Edit](https://open.spotify.com/track/3FQhlhZK98XKIPEyZ1AySj) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Gawler](https://open.spotify.com/artist/0ZWeSRSlrHHs0thSzvAfyp) | [Galaxy \(Gawler Remix\)](https://open.spotify.com/album/3WLcNk9ZWrMry1tKdSjBGH) | 3:44 | 2023-12-30 |  |
 | [Genius \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:33 | 2023-12-30 |  |
-| [Gentlemen](https://open.spotify.com/track/5A6dJZZqjMtKNrZkykl93p) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/3DdyiWsJLZHdg37VNAjOCf) | 4:12 | 2023-12-30 |  |
+| [Gentlemen](https://open.spotify.com/track/5A6dJZZqjMtKNrZkykl93p) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/3DdyiWsJLZHdg37VNAjOCf) | 4:12 | 2023-12-30 | 2025-08-11 |
+| [Gentlemen](https://open.spotify.com/track/6yRSRiD5xvH0X7pWVfWory) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 4:12 | 2025-08-10 |  |
 | [Get Me](https://open.spotify.com/track/1L0fGe5sfqUDoacJwTdhlt) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Amplified Heart](https://open.spotify.com/album/6gFFQtaTdZcbu97Xo6wVvH) | 3:34 | 2023-12-30 |  |
 | [Get over U](https://open.spotify.com/track/5HvN5wQFNTNxlNBgeaPGbf) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe) | [Get Over U](https://open.spotify.com/album/1vleMZIYYhBSXyAWPUeSIX) | 3:24 | 2023-12-30 |  |
 | [Gimme Love](https://open.spotify.com/track/5i7frb9AXQjMS2iibNF4Jv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8) | 2:57 | 2024-05-15 |  |

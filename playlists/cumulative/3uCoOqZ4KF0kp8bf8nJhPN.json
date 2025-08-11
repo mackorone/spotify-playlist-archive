@@ -4677,6 +4677,24 @@
     },
     {
       "album": {
+        "name": "NO TYPE",
+        "url": "https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf"
+      },
+      "artists": [
+        {
+          "name": "Whole Lotta Swag",
+          "url": "https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114824,
+      "name": "\u0427\u0430\u0441\u0438\u043a",
+      "url": "https://open.spotify.com/track/5SOcbgdNmV0sFmmKOIbVuV"
+    },
+    {
+      "album": {
         "name": "NEW COAST",
         "url": "https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL"
       },

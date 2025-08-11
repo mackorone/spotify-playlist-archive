@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,657 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,708 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 54 | [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 |
 | 55 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
 | 56 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 |
-| 57 | [Falling 4 U](https://open.spotify.com/track/7g041SdEW1CgvWxi5KT6rN) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Falling 4 U](https://open.spotify.com/album/6XW53yYoCcc8nZCWAKLMF2) | 3:17 |
+| 57 | [When I'm With You](https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [When I'm With U](https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe) | 4:47 |
 | 58 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 |
 | 59 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
-| 60 | [When I'm With You](https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [When I'm With U](https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe) | 4:47 |
+| 60 | [Falling 4 U](https://open.spotify.com/track/7g041SdEW1CgvWxi5KT6rN) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Falling 4 U](https://open.spotify.com/album/6XW53yYoCcc8nZCWAKLMF2) | 3:17 |
 | 61 | [Afters \(feat\. Scrufizzer\)](https://open.spotify.com/track/4aFiJfrymnGXR9VFuOmDJn) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Danny Graft](https://open.spotify.com/artist/3ISZ1VZuptBz1fwHiOJNdv), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Afters \(feat\. Scrufizzer\)](https://open.spotify.com/album/38JsJCxEYCjzwpcZHw1u9X) | 2:54 |
 | 62 | [LOVELOVE](https://open.spotify.com/track/1CuXRKxg5QXaQu3NgGi2Z7) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [LOVELOVE](https://open.spotify.com/album/2giaF7Lwvy9ddscpF9iaP9) | 3:06 |
 | 63 | [Going On](https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Going On](https://open.spotify.com/album/4xyoHJX2KL01cxZBEPYI9P) | 2:38 |
 | 64 | [lose my head](https://open.spotify.com/track/1KvFu6zoNcPc6TvjykGtPr) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [lose my head](https://open.spotify.com/album/6uZQgll8GIBJ2KvAfW5TtE) | 3:13 |
 | 65 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 66 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
-| 67 | [Mash Up](https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [Mash Up](https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04) | 3:05 |
-| 68 | [Speedy Sax](https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT) | [Ken Spieker](https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2) | [Speedy Sax](https://open.spotify.com/album/6QfzkEhE46wIat9LSbldk1) | 3:37 |
+| 67 | [Speedy Sax](https://open.spotify.com/track/5iwr0fsr4BV2sDep67lMaT) | [Ken Spieker](https://open.spotify.com/artist/1hFWjKEaPnMKiM73jlEIt2) | [Speedy Sax](https://open.spotify.com/album/6QfzkEhE46wIat9LSbldk1) | 3:37 |
+| 68 | [Mash Up](https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [Mash Up](https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04) | 3:05 |
 | 69 | [Badman Control](https://open.spotify.com/track/4NmbdhxOHSryHgqMYxLpEs) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [ATW](https://open.spotify.com/artist/69Nx0ikrUq0IMY7aJMt4V6) | [Badman Control](https://open.spotify.com/album/3R9SndcM89m7kAcIOlv54O) | 3:34 |
 | 70 | [Feel The Rush](https://open.spotify.com/track/3qAHlj0o7h3WkiMTVjMuKr) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Feel The Rush](https://open.spotify.com/album/0RJI2RE716kMq0TWZGPPwi) | 3:53 |
 

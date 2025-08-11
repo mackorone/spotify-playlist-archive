@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Bad Omens
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,623 likes - 101 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,807 likes - 101 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

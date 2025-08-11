@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 522 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 49 | [Some Enchanted Evening \(From "South Pacific"\)](https://open.spotify.com/track/1wrmfmLogYsH5lcs0VntZZ) | [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6), [Giorgio Tozzi](https://open.spotify.com/artist/4OEwK9zvDEcRKWnW4dYjv0) | [Mitzi and Morris At the Movies](https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4) | 5:53 |
 | 50 | [Honey Bun](https://open.spotify.com/track/3XYEV3l6Dfm0skHyzknAGn) | [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:45 |
 | 51 | [This Nearly Was Mine](https://open.spotify.com/track/4BKxQQcll17isb1T6OL3fo) | [Emile De Becque](https://open.spotify.com/artist/1plfcn0c0NhdTZhoaEm6Qd) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 2:09 |
-| 52 | [I Enjoy Being A Girl](https://open.spotify.com/track/75tcdNn1SLvufUs3SY6Emw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [The Marvelous Mrs\. Maisel: Season 1 \(Music From The Prime Original Series\)](https://open.spotify.com/album/2aZqQ4xF5qTlEhrXmyJtcu) | 3:15 |
-| 53 | [Mister Snow](https://open.spotify.com/track/6PhehL1B9KoHF8OYP8NsIh) | [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 5:02 |
+| 52 | [Mister Snow](https://open.spotify.com/track/6PhehL1B9KoHF8OYP8NsIh) | [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2), [Jessie Mueller](https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 5:02 |
+| 53 | [I Enjoy Being A Girl](https://open.spotify.com/track/75tcdNn1SLvufUs3SY6Emw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO) | [The Marvelous Mrs\. Maisel: Season 1 \(Music From The Prime Original Series\)](https://open.spotify.com/album/2aZqQ4xF5qTlEhrXmyJtcu) | 3:15 |
 | 54 | [Bloody Mary](https://open.spotify.com/track/0sqkZeU248LS8Hs5xco8eL) | [Ken Darby Male Chorus](https://open.spotify.com/artist/59Gk1wc3QsasqaglzYllZX) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:54 |
 | 55 | [Something Wonderful](https://open.spotify.com/track/2F9Fa6OjqlWr41VgkulONg) | [Ruthie Ann Miles](https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:51 |
 | 56 | [My Girl Back Home](https://open.spotify.com/track/51olew3lXYIWqsNxeYUizR) | [Lt\. Cable](https://open.spotify.com/artist/4a65sNLFtwrbOHN3DNPnX5), [Nellie Forbush](https://open.spotify.com/artist/7hb3ZNPr7nR8AaSEw4Rf2S) | [South Pacific \(Original Soundtrack Recording\)](https://open.spotify.com/album/2WQ4A0NReQExTbR70sFLtN) | 1:40 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `Ab5EsAAAAADsipSRIftMyr9v9qkVh0Ac`
+Snapshot ID: `Ab5KKAAAAABOER8ct5tKvNng3JLSnA5y`

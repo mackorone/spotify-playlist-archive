@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,096 songs - 4 day 12 hr 11 min
+2,097 songs - 4 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [a l d r i g h a f t e n v e n s o m m i g](https://open.spotify.com/track/1kXMQiJu9SlhaXtZdGrNcR) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 3:04 | 2025-06-21 | 2025-06-23 |
 | [a l l e s a m m e n](https://open.spotify.com/track/5eFYaZXg6He7Epqfuv6Q2z) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 3:22 | 2025-06-21 | 2025-06-23 |
 | [A List \(Intro\)](https://open.spotify.com/track/38MRF4igGDBhv6CSZN1K50) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 2:48 | 2023-03-21 | 2023-03-23 |
-| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-09 |  |
+| [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-09 | 2025-08-11 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-22 |
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2023-07-07 | 2023-07-09 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-10 |
@@ -862,6 +862,7 @@
 | [HOODRAT](https://open.spotify.com/track/71MzcOebEC5KoWBbzvFPkj) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:42 | 2024-02-12 | 2024-02-15 |
 | [Hop Ind I Bilen \(feat\. Gilli\)](https://open.spotify.com/track/5UweB9ExGhruhWeEYSHmG1) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 3:18 | 2023-03-11 | 2023-03-18 |
 | [Hope This Song Is For You \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/3gOPaJJHoZiTi24moIyJyZ) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 2:35 | 2023-06-04 | 2023-08-27 |
+| [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8) | 3:11 | 2025-08-10 |  |
 | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/track/1JnBJ0HxKhcgeFCIp1efGp) | [Elias Buch](https://open.spotify.com/artist/5r8dWcI1AJLYOkxyP5twtQ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/album/78dKPGZQ2BCRvKJiwsXFHX) | 2:21 | 2024-05-27 | 2024-06-01 |
 | [Hot!](https://open.spotify.com/track/7xWiCG3N7tFgPTNGVYQoq8) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Nik & Jay](https://open.spotify.com/album/0cINk796XT7YhwuL0okHpE) | 3:12 | 2023-01-01 | 2025-01-04 |
 | [HOTBOYZ](https://open.spotify.com/track/6FPE8PdEpNUty0GIpN9Lne) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 1:49 | 2021-09-25 | 2021-10-10 |

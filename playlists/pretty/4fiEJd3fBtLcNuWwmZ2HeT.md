@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 323 songs - 18 hr 19 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 324 songs - 18 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -331,5 +331,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 321 | [存在A](https://open.spotify.com/track/1QbIt51B9yck9AJLRyFlt2) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [存在A](https://open.spotify.com/album/0SUtRT1ULnZyvMjvBGvUZB) | 3:15 |
 | 322 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
 | 323 | [Something more awesome than a ghost](https://open.spotify.com/track/47f3tIWTiD6wHB2AaCmkkp) | [null](https://open.spotify.com/artist/2uunASYD2lq4NEKTWE0O6V), [warabe](https://open.spotify.com/artist/6o7QGeizvqvNU5Aq2Okw13) | [Something more awesome than a ghost](https://open.spotify.com/album/49TixC2pbSlrKHpGZBntp1) | 3:10 |
+| 324 | [moshimoshi](https://open.spotify.com/track/6ioQplGa4tsMtgGtH2vrcu) | [Mamireta](https://open.spotify.com/artist/70fpaWdKERbVq5PNXEWcjk) | [moshimoshi](https://open.spotify.com/album/7MyLRzjdYbEhfG7AGz0fPP) | 3:18 |
 
-Snapshot ID: `AAAJLXBg/QPplNn+T4kXmw10B99ahLML`
+Snapshot ID: `AAAJLvZCoXdW7Zs3qiDrOBSg9ffQ45Ij`

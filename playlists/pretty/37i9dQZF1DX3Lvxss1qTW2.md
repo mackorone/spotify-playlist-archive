@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover:  FOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,340 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,380 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 63 | [Ladies](https://open.spotify.com/track/3mXRxKuMj8DoSVR3G3Zyi4) | [The Majeek](https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8) | [The Majeekcian \(Vol\. 1\)](https://open.spotify.com/album/05LIPfZE7G6FPGvMGU1H12) | 2:21 |
 | 64 | [WHAT CAN WE DO?](https://open.spotify.com/track/2b4elKTFnT6cpDqpGsj8p6) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr), [Hollerdotun](https://open.spotify.com/artist/28enztbjcicO6gDgNROB8p), [Banging beats](https://open.spotify.com/artist/2sGkNuYqxsaYdeCmyX7d06) | [WHAT CAN WE DO](https://open.spotify.com/album/1NAuPMofsg6e2OchlOh54L) | 2:51 |
 | 65 | [Chikodi](https://open.spotify.com/track/2COXefGU8iHfRH8eIam3P6) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Chikodi](https://open.spotify.com/album/3cPY70vy3FT8zc0CUgL0FA) | 2:59 |
-| 66 | [Unconditional](https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Unconditional](https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX) | 2:51 |
+| 66 | [unconditional](https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Unconditional](https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX) | 2:51 |
 | 67 | [SAY WETIN](https://open.spotify.com/track/62zDBe4PUN7JZM3OczBPAo) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [SAY WETIN](https://open.spotify.com/album/0wfgAjSgqP8CNtDbTKWcdb) | 2:03 |
 | 68 | [Trumpet](https://open.spotify.com/track/3jb5QvmkcKEfTvdwRLI7z4) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm) | [Trumpet](https://open.spotify.com/album/6RITxdYBGIaSyaCp7yael6) | 2:10 |
 | 69 | [Sinner](https://open.spotify.com/track/6vm4fsrfhkJnWXTys1UnqR) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Sinner](https://open.spotify.com/album/6rDkLaotjRbxgDN8LXVyGL) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,828 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,825 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 53 | [Moja ostatnia łza](https://open.spotify.com/track/6JrKFVSweX0dRqEWhCX9Ay) | [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg), [2check](https://open.spotify.com/artist/0QG6AhOd5otKsN1s2jsnzt) | [Moja ostatnia łza](https://open.spotify.com/album/4OQXNiqpRBoX7Am4Wrg0FI) | 2:55 |
 | 54 | [A co, jeśli się uda? \- 1989 Musical](https://open.spotify.com/track/24t6BlxeSZQutmFglHchu9) | [Łona I Webber](https://open.spotify.com/artist/6DMuRVdgTNmZCYRlekKWvO), [Teatr im\. Juliusza Słowackiego w Krakowie](https://open.spotify.com/artist/0D0rzwQq48o4RqbDbDvqsL), [GDAŃSKI TEATR SZEKSPIROWSKI](https://open.spotify.com/artist/4QbXmjlpmE8ZNHkaeHTdqs) | [A co, jeśli się uda? \(1989 Musical\)](https://open.spotify.com/album/13PpDhgpA9XQ6OrtzkjOc2) | 4:10 |
 | 55 | [GRABEN](https://open.spotify.com/track/5YtI4iiYGprhUWnWqbLSH8) | [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [GRABEN](https://open.spotify.com/album/4q79kvzlrcUXObNtW3QAGc) | 2:57 |
-| 56 | [DRUGI RAZ](https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [DRUGI RAZ](https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm) | 2:07 |
-| 57 | [Street Credit](https://open.spotify.com/track/2ZDVnvjGjyhVCZEIyY8WFX) | [Tau](https://open.spotify.com/artist/3k4IXngEeRFfKiBNiUn4qV), [Medium](https://open.spotify.com/artist/7fbVF9Qj3qzbtQzOtbjlOZ) | [Remedium II](https://open.spotify.com/album/6nPt4gCKYI8CW847YkaPUt) | 3:33 |
+| 56 | [Street Credit](https://open.spotify.com/track/2ZDVnvjGjyhVCZEIyY8WFX) | [Tau](https://open.spotify.com/artist/3k4IXngEeRFfKiBNiUn4qV), [Medium](https://open.spotify.com/artist/7fbVF9Qj3qzbtQzOtbjlOZ) | [Remedium II](https://open.spotify.com/album/6nPt4gCKYI8CW847YkaPUt) | 3:33 |
+| 57 | [DRUGI RAZ](https://open.spotify.com/track/1JtzklHvsTQcrpFXfg5eeC) | [Qry](https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy), [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [DRUGI RAZ](https://open.spotify.com/album/7ebpxbXFX2Mk5nw7OrOiAm) | 2:07 |
 | 58 | [TREBUSZ: RZUCAM KAMIENIE](https://open.spotify.com/track/7802miaqccUHlUH659znra) | [Adi Nowak](https://open.spotify.com/artist/2TyQ1OI79kcdS0CLsNb3Ax), [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [ANTISOCIAL](https://open.spotify.com/artist/4kAUqgRV05jg5vkVugGar1) | [TREBUSZ](https://open.spotify.com/album/3AEVJWwT4m2TIzg6MjcsX4) | 3:20 |
 | 59 | [depeche\_mood](https://open.spotify.com/track/2OyVBfYhZUFyUgGXl5xxCy) | [Slums Attack](https://open.spotify.com/artist/5G2bin17kewcOvJbA5MHWx), [Peja](https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59), [Dj Decks](https://open.spotify.com/artist/7rRsXnU1mpJwuBNMwH0Tsn) | [depeche\_mood](https://open.spotify.com/album/1qkhonUkoj7xUdTELEu2yi) | 2:45 |
 | 60 | [Północe](https://open.spotify.com/track/3iuW64FbqJte52l3S5Yv5r) | [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ), [KOSA](https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4) | [Lata](https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN) | 3:18 |

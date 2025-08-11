@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Hot Mulligan
 
-279 songs - 15 hr 35 min
+281 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Don't Try](https://open.spotify.com/track/2TePq5MmzqGyRfFPAL4CgS) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:40 | 2022-11-25 | 2023-01-26 |
 | [Down, Down](https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Down, Down](https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe) | 3:05 | 2023-09-29 | 2024-12-19 |
 | [Drink Milk and Run](https://open.spotify.com/track/3ZKGPsRTyFBnZETepLrDVl) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Drink Milk and Run](https://open.spotify.com/album/5DCxVycZRkODZCbWyGBZFG) | 2:50 | 2022-11-25 | 2023-03-18 |
+| [Dunce Hat](https://open.spotify.com/track/0iQYIcRhqOqyNxA1dV5CLG) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [Dunce Hat](https://open.spotify.com/album/59Qgi3ocRFrE9wykOvPTAS) | 2:21 | 2025-08-08 |  |
 | [Dusty](https://open.spotify.com/track/6ixVpkrFvgd7EPVTLVXwwn) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Dusty](https://open.spotify.com/album/0aQlTOObqjOaKo7FYopRi5) | 2:33 | 2025-08-08 |  |
 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 | 2024-07-26 |  |
 | [Echoes](https://open.spotify.com/track/2fZqHbDbCkQZVBv9DrGsao) | [LIES](https://open.spotify.com/artist/2hxqbp5J0oHXcXMMGpx8U8) | [Lies](https://open.spotify.com/album/2BTekyCKf74Wi5QAyzvQNs) | 6:15 | 2023-04-03 | 2023-07-27 |
@@ -165,7 +166,7 @@
 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 | 2023-03-17 |  |
 | [Make It Happen](https://open.spotify.com/track/2PtUBYpj5WHsmlzLxTQslG) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Denent](https://open.spotify.com/album/0rIM5fJXyZXGL27qoaqeuu) | 3:07 | 2022-11-25 | 2023-08-22 |
 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 | 2024-09-10 |  |
-| [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 | 2022-11-25 |  |
+| [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 | 2022-11-25 | 2025-08-11 |
 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 | 2025-08-08 |  |
 | [Meeting In the Middle](https://open.spotify.com/track/1vxzfaU2E9ohOVQVvCKenF) | [Double Gainer](https://open.spotify.com/artist/0hHsbAgpJ0aBndZX3oVrCh) | [Such is Life](https://open.spotify.com/album/2BHVEv8oWTNCMTAwfp8Lm9) | 2:44 | 2022-11-25 | 2023-08-09 |
 | [Million Times](https://open.spotify.com/track/6UoLnwakyaivbENQWHU7rW) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Between the Richness](https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG) | 2:45 | 2023-02-11 | 2023-07-27 |
@@ -201,7 +202,7 @@
 | [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 | 2022-11-25 | 2023-01-06 |
 | [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 | 2023-04-03 | 2023-08-02 |
 | [Real Life](https://open.spotify.com/track/4wGPKwafLV9d9DNzQN6sMN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me To Pieces](https://open.spotify.com/album/1ohT6MAJ9gIZtH4WwNHWWR) | 2:44 | 2022-11-25 | 2023-04-14 |
-| [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 | 2024-04-19 |  |
+| [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 | 2024-04-19 | 2025-08-11 |
 | [Really Big Shrimp](https://open.spotify.com/track/1HrlVqg8nu86YRdMIGOGzT) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Really Big Shrimp](https://open.spotify.com/album/3sOldd5oq7qesemjhPgcei) | 4:07 | 2024-03-08 |  |
 | [Really Big Shrimp](https://open.spotify.com/track/7I8HTkZlxAebopq8TuQrj2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [See You in Chemistry](https://open.spotify.com/album/6UOPV8qxODA82L1pZAiNd1) | 4:23 | 2022-11-25 | 2023-02-12 |
 | [Rock Bottom \- Demo](https://open.spotify.com/track/1BKg6PWpynctmDnxopUFYu) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Two Demos](https://open.spotify.com/album/2VjFQvMuzBpLTMB4TUr4RX) | 2:13 | 2024-06-28 | 2024-12-19 |
@@ -219,6 +220,7 @@
 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 | 2023-04-14 | 2024-04-19 |
 | [Sick As Your Secrets](https://open.spotify.com/track/1v7zwwBb8iKquvkApcnCHn) | [Mikey Erg](https://open.spotify.com/artist/5YuPLav1vGZmaeeASQrsQK) | [Love At Leeds](https://open.spotify.com/album/3xEWVX0nsMdrElVih8p62M) | 2:39 | 2022-11-25 | 2023-03-18 |
 | [Silhouettes In Motion](https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Respite For A Tragic Tale / Silhouettes in Motion](https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa) | 2:47 | 2024-03-08 | 2024-07-13 |
+| [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 | 2025-08-08 |  |
 | [Solstice](https://open.spotify.com/track/5zIX0xubhZoDYkTBG1pm49) | [Downhaul](https://open.spotify.com/artist/5g4PKgeQwXYLTktYSIYPXR) | [Solstice](https://open.spotify.com/album/3Lc9EedJrBItDSjC0Vd8na) | 3:07 | 2024-09-10 | 2024-10-12 |
 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 | 2022-11-25 |  |
 | [Speaking in Tongues](https://open.spotify.com/track/16sWPx7xLq8iyVTHATLULA) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Keepsakes & Reminders \(Deluxe\)](https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj) | 3:08 | 2022-11-25 | 2024-06-22 |

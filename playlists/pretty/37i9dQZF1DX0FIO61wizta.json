@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 84706,
+  "num_followers": 84725,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -340,42 +340,6 @@
           "url": "https://open.spotify.com/artist/56SwUOjz5uygqaYo0kjMTT"
         },
         {
-          "name": "Leo Nucci",
-          "url": "https://open.spotify.com/artist/6cZwAByKmb7tZhpHTLdU8b"
-        },
-        {
-          "name": "Coro del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/3NBbsGQbuX0Vx15B0gPpj4"
-        },
-        {
-          "name": "Orchestra del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Rigoletto / Act 1: Zitti, zitti...Soccorso, padre mio",
-      "url": "https://open.spotify.com/track/0lwh0r181aPU0ef3y5JZwL"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
-        "name": "Verdi: Rigoletto",
-        "url": "https://open.spotify.com/album/1NLwPDTSFM1qIqYBCUfLHe"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "June Anderson",
-          "url": "https://open.spotify.com/artist/56SwUOjz5uygqaYo0kjMTT"
-        },
-        {
           "name": "Piero de Palma",
           "url": "https://open.spotify.com/artist/7gxxE0IbP9hFZeJVwdWCSc"
         },
@@ -403,6 +367,42 @@
       "duration_ms": 397000,
       "name": "Rigoletto / Act 1: Scena ed Aria. \"Gualtier Mald\u00e8\" - \"Caro nome\"",
       "url": "https://open.spotify.com/track/3sQFYiGgpKJ50szB91M2A7"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
+        "name": "Verdi: Rigoletto",
+        "url": "https://open.spotify.com/album/1NLwPDTSFM1qIqYBCUfLHe"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "June Anderson",
+          "url": "https://open.spotify.com/artist/56SwUOjz5uygqaYo0kjMTT"
+        },
+        {
+          "name": "Leo Nucci",
+          "url": "https://open.spotify.com/artist/6cZwAByKmb7tZhpHTLdU8b"
+        },
+        {
+          "name": "Coro del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/3NBbsGQbuX0Vx15B0gPpj4"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Rigoletto / Act 1: Zitti, zitti...Soccorso, padre mio",
+      "url": "https://open.spotify.com/track/0lwh0r181aPU0ef3y5JZwL"
     },
     {
       "added_at": "2025-07-02 10:06:13",
@@ -507,6 +507,34 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
+        "name": "Verdi: Rigoletto - highlights",
+        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Rigoletto / Act 1: \"Pari siamo\"",
+      "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -563,34 +591,6 @@
       "duration_ms": 85733,
       "name": "Aida: Danza di piccoli schiavi mori",
       "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
-        "name": "Verdi: Rigoletto - highlights",
-        "url": "https://open.spotify.com/album/5px6Ru4KO8RFVqioyGnwtr"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Renato Bruson",
-          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Rigoletto / Act 1: \"Pari siamo\"",
-      "url": "https://open.spotify.com/track/6h7UtnJlcAA0WC3d41269s"
     },
     {
       "added_at": "2025-07-02 10:06:13",
@@ -827,30 +827,6 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: Aida, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 123333,
       "name": "Aida: Danza Sacre delle Sacerdotesse",
       "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: Aida, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
     },
     {
       "added_at": "2025-07-02 10:06:13",
@@ -999,34 +999,6 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Paul Daniel",
-          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
-      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
         "name": "Romantic Arias",
         "url": "https://open.spotify.com/album/4qA4Q7Fs4oj8mfBZBYR386"
       },
@@ -1079,6 +1051,34 @@
       "duration_ms": 110000,
       "name": "Rigoletto / Act 1: \"Questa o quella\"",
       "url": "https://open.spotify.com/track/2rHyEmuWvR2frVn1DyUxPp"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Paul Daniel",
+          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
+      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
     },
     {
       "added_at": "2025-07-02 10:06:13",

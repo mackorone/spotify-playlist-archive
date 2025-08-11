@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Daichi Yamamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,211 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,217 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 35 | [hasen](https://open.spotify.com/track/4jFsjD9nZ3mTQxE1bACzr6) | [T.V.NOT JANUARY](https://open.spotify.com/artist/0HjSv6roo4DAPPjjbB9bbv) | [hasen](https://open.spotify.com/album/2h44ALKcy2Aad08qAFSh4E) | 3:20 |
 | 36 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
 | 37 | [What Is Now? \- feat\. Qim Isle, SOMAOTA](https://open.spotify.com/track/5F6W5GryRf2Obg7Yf58H0g) | [Nishikawa Yasunari](https://open.spotify.com/artist/4T4XV8dtDHj25BswN0I47y), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK), [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O) | [What Is Now? \(feat\. Qim Isle, SOMAOTA\)](https://open.spotify.com/album/5S4vH5cioXF6bqh6TQawzH) | 3:22 |
-| 38 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
+| 38 | [南新町](https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [南新町](https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N) | 4:07 |
 | 39 | [luminous](https://open.spotify.com/track/5yVn7Xb0dREcvuYlhRlkXK) | [Kommune](https://open.spotify.com/artist/6tjKHGawD4coezOXOTA9Dm), [Konfig](https://open.spotify.com/artist/5AzATX8fUWqcIMJWS5GQWu), [meyumo](https://open.spotify.com/artist/3o7pIoKHJ5n2r4TAAfblTC) | [luminous](https://open.spotify.com/album/4b3VuDaZdAeCozgW3JJ8On) | 4:15 |
-| 40 | [南新町](https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [南新町](https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N) | 4:07 |
+| 40 | [僕らの行進曲](https://open.spotify.com/track/0U8htexvwrGW6rdG4BMr1E) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅲ](https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts) | 3:30 |
 | 41 | [Ms.Sunshine](https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Ms.Sunshine](https://open.spotify.com/album/7j1l29Ti2xp76Dj0Q5XlLm) | 4:11 |
 | 42 | [HOPE](https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [HOPE](https://open.spotify.com/album/2vSANlvNVEfUl0maUcNeoD) | 3:23 |
 | 43 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 54 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 |
 | 55 | [新しいsummer](https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [LUMINOUS](https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe) | 3:09 |
 | 56 | [Who's In My House?](https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in My House?](https://open.spotify.com/album/3Ak37Feu5PK03x4hjujdnf) | 6:41 |
-| 57 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
-| 58 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
+| 57 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
+| 58 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
 | 59 | [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 |
 | 60 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
 | 61 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
-| 62 | [真珠色](https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光の路](https://open.spotify.com/album/582c8uDijGKHpheqhprwdm) | 4:00 |
-| 63 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 62 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 63 | [真珠色](https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光の路](https://open.spotify.com/album/582c8uDijGKHpheqhprwdm) | 4:00 |
 | 64 | [たぶん悪魔が](https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [MY CHEMICAL ROMANCE](https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn) | 3:57 |
 | 65 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
 | 66 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 71 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
 | 72 | [Goodnight](https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Goodnight](https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX) | 3:31 |
 | 73 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
-| 74 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
-| 75 | [カンしてパイして乾杯！ \(feat\. ハナレグミ\)](https://open.spotify.com/track/10dZD07eK7WlqkkzMjwF5m) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Tabla Dhi, Tabla Dha](https://open.spotify.com/album/0AKcBNfcB3BS1nCZZgH9O2) | 4:55 |
+| 74 | [カンしてパイして乾杯！ \(feat\. ハナレグミ\)](https://open.spotify.com/track/10dZD07eK7WlqkkzMjwF5m) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Tabla Dhi, Tabla Dha](https://open.spotify.com/album/0AKcBNfcB3BS1nCZZgH9O2) | 4:55 |
+| 75 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
 
 Snapshot ID: `AAAAAHBxTfSigv3prtXuY4zn+b3qRyaE`

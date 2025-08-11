@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ed Sheeran, Jul et Jonas Brothers x Dean Lewis au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,632 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,610 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "You know all the tracks, you just can't sing-along. Cover: Martin Garrix.",
-  "num_followers": 560,
+  "num_followers": 332,
   "original_name": "Instrumental Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,26 @@
     {
       "added_at": "2021-12-22 06:41:48",
       "album": {
+        "name": "Gold Skies",
+        "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jay Hardway",
+          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
+        }
+      ],
+      "duration_ms": 281666,
+      "name": "Wizard",
+      "url": "https://open.spotify.com/track/4hfYGVqQ0ElgeibMocRUvi"
+    },
+    {
+      "added_at": "2021-12-22 06:41:48",
+      "album": {
         "name": "Bigroom Never Dies",
         "url": "https://open.spotify.com/album/4jwqi9A7Hw1zZkI7aobhrz"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 175846,
       "name": "Bigroom Never Dies",
       "url": "https://open.spotify.com/track/7sV8l9oBVkyNlHXgZQZg6a"
-    },
-    {
-      "added_at": "2021-12-22 06:41:48",
-      "album": {
-        "name": "Gold Skies",
-        "url": "https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Jay Hardway",
-          "url": "https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr"
-        }
-      ],
-      "duration_ms": 281666,
-      "name": "Wizard",
-      "url": "https://open.spotify.com/track/4hfYGVqQ0ElgeibMocRUvi"
     },
     {
       "added_at": "2022-06-10 11:59:02",

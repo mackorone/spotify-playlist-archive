@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-575 songs - 2 day 5 hr 8 min
+576 songs - 2 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 | 2025-06-06 |  |
 | [HAVE YOUR WAY \- Acoustic](https://open.spotify.com/track/7632UEos9JCznD1UCFsLDI) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [HAVE YOUR WAY \(Acoustic\)](https://open.spotify.com/album/4NnDJ5elFwPykKxpRr13ez) | 4:01 | 2025-05-26 | 2025-07-11 |
 | [Have Your Way \- Extended Version](https://open.spotify.com/track/03eLLtNoCSQwYBRBqglw2p) | [Adzo Gordon](https://open.spotify.com/artist/60PXU18yxODtaQJFPKsB9W) | [Have Your Way](https://open.spotify.com/album/3IxSKjvMTojVMBhji8w5Jw) | 22:53 | 2022-07-14 | 2023-03-18 |
-| [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-26 |  |
+| [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-26 | 2025-08-11 |
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 | 2025-06-16 |
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |
 | [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2025-04-13 |
@@ -451,6 +451,7 @@
 | [Soldier](https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Soldier](https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm) | 2:12 | 2023-03-30 | 2023-05-13 |
 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 | 2024-05-10 | 2024-07-27 |
 | [Something New](https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Something New](https://open.spotify.com/album/3KgdeUh3A3NUYw528hbfVg) | 7:02 | 2024-12-27 | 2025-02-26 |
+| [Sound The Alarm \(Anazao\)](https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Sound The Alarm \(Anazao\)](https://open.spotify.com/album/06OnIFZvM0jKjrJM5vEgJm) | 6:22 | 2025-05-30 |  |
 | [Sounds Of Many Waters](https://open.spotify.com/track/17KHqvA0xhvnbBqJ0l3kBB) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Sounds Of Many Waters](https://open.spotify.com/album/2hoD5ioNgzA7YJUR1hRF1P) | 4:23 | 2023-11-17 | 2023-12-09 |
 | [Sovereign GOD](https://open.spotify.com/track/66Hp9EnzGr3LzbP8NALo2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Sovereign GOD](https://open.spotify.com/album/4Jq4NUeLjKz8opDMAOQmO5) | 5:11 | 2025-05-16 | 2025-05-31 |
 | [Spirit Break Out](https://open.spotify.com/track/5Knr4U9EA8KYUq0C3WB76L) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Trinity Anderson](https://open.spotify.com/artist/6dCn9t1NVjEKPvsBzxrf0h) | [Sounds of Revival](https://open.spotify.com/album/4MrzDQ9k53AxUJoFG7qgoK) | 4:14 | 2023-12-05 | 2023-12-11 |

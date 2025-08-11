@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=\_0StPZkBSwex7TYkA6xHaw">Surreal Sessions</a>, <a href="https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=TMZQHyATTb\-1ziuMSGOP7w">DBN Gogo</a>, <a href="https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=S2HHoQESToyE5qaDbpLx5w">Nobantu Vilakazi</a>, & <a href="https://open.spotify.com/artist/2aMcD0EYQmyygKRyRiQhZA?si=ZjdNacLFRWe6THsK0s1AqA">Ty Slique</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,964 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,223 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

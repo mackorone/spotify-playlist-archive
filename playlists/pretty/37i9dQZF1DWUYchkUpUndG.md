@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Angeloh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,791 likes - 99 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,797 likes - 99 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

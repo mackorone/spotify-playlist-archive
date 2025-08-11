@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,224 likes - 477 songs - 1 day 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,236 likes - 477 songs - 1 day 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,8 +308,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 298 | [Take Me Back To London \(Sir Spyro Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/track/4iYxrnTvYsTtyphOTqTvkh) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Take Me Back To London \(Remix\) \[feat\. Stormzy, Jaykae & Aitch\]](https://open.spotify.com/album/71znMnnyOF4NIe4UpTYbw7) | 3:51 |
 | 299 | ['Cuz I Can](https://open.spotify.com/track/7u01ucT7UCQBun9v9N4ZkX) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:43 |
 | 300 | [Electric](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:36 |
-| 301 | [Blinding Lights \- Chromatics Remix](https://open.spotify.com/track/5932dbzLjkEdE7T8BGPL50) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR) | [Blinding Lights](https://open.spotify.com/album/3sL9Myf7JF1k9TbrXE46ou) | 4:21 |
-| 302 | [iAAM](https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:03 |
+| 301 | [iAAM](https://open.spotify.com/track/2uaihUX7HbKyXBpFxOUT2a) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 3:03 |
+| 302 | [Blinding Lights \- Chromatics Remix](https://open.spotify.com/track/5932dbzLjkEdE7T8BGPL50) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE), [Johnny Jewel](https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR) | [Blinding Lights](https://open.spotify.com/album/3sL9Myf7JF1k9TbrXE46ou) | 4:21 |
 | 303 | [Come N Go \(feat\. Enrique Iglesias\)](https://open.spotify.com/track/5Zc3d993GDKljZ5d6NNk3b) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 3:50 |
 | 304 | [Dinosaur](https://open.spotify.com/track/74cq6AFbsKdUVZMpG2TPEr) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 2:55 |
 | 305 | [Blank Space](https://open.spotify.com/track/5mRAG78zUjsakidiVqYzqn) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX) | [Blank Space](https://open.spotify.com/album/5rJt6afdkioBpYOAB5PDR4) | 3:18 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 476 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 477 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `Ab5EiAAAAAD201EWUI1fNUG/aeM29zQ3`
+Snapshot ID: `Ab5KKAAAAAD63jJrgj1feK7WDQGdcitA`

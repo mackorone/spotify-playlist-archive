@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa vivian ja Mikael Laurent.",
-  "num_followers": 25920,
+  "num_followers": 25919,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "The Contract",
         "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
       },
@@ -611,26 +627,6 @@
       "duration_ms": 228000,
       "name": "The Contract",
       "url": "https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -671,18 +667,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -887,34 +887,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Not Like That Anymore",
-        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 202412,
-      "name": "Not Like That Anymore",
-      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "God Went Crazy",
-        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
-      },
-      "artists": [
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -943,22 +931,34 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "Not Like That Anymore",
+        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 202412,
+      "name": "Not Like That Anymore",
+      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "God Went Crazy",
+        "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 164213,
       "name": "IRL (FEAT. SZA)",
       "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Onneks",
+        "url": "https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "duration_ms": 160343,
+      "name": "Onneks",
+      "url": "https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "TaTaTa (feat. Travis Scott)",
         "url": "https://open.spotify.com/album/1SRyHwbELEzf0SJTtF739b"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 150651,
       "name": "TaTaTa (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2JkIrQmiFXvqYQHhnPiY5D"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Onneks",
-        "url": "https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        }
-      ],
-      "duration_ms": 160343,
-      "name": "Onneks",
-      "url": "https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "F1 The Album (Cinematic Edition)",
-        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185590,
-      "name": "Don't Let Me Drown",
-      "url": "https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "Mun Type",
         "url": "https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9"
       },
@@ -1519,6 +1487,22 @@
       "duration_ms": 149098,
       "name": "Mun Type",
       "url": "https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "F1 The Album (Cinematic Edition)",
+        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185590,
+      "name": "Don't Let Me Drown",
+      "url": "https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "Kaiken arvoinen",
         "url": "https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Nuori Mut Ei Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 159224,
+      "name": "Nuori Mut Ei Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
       },
@@ -1607,42 +1623,6 @@
       "duration_ms": 207661,
       "name": "Truth",
       "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "I'll Be Waiting",
-        "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
-        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 205270,
-      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
-      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1667,6 +1647,42 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 205270,
+      "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
+      "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "I'll Be Waiting",
+        "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 123692,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "Heart By Heart",
         "url": "https://open.spotify.com/album/2QasGAycrDSiVNtUtTslgU"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 190754,
       "name": "Heart By Heart",
       "url": "https://open.spotify.com/track/6NUoW7RwcO1jcrSvJ2V6od"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Nuori Mut Ei Tyhm\u00e4",
-        "url": "https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0"
-      },
-      "artists": [
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 159224,
-      "name": "Nuori Mut Ei Tyhm\u00e4",
-      "url": "https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "OJOJOJ",
+        "url": "https://open.spotify.com/album/7tpfGKlZ7BgyPRmbIeSnpu"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "OJOJOJ",
+      "url": "https://open.spotify.com/track/1tm4w2K1EpRguWS0PuhnQh"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "Mind Reader (with Meghan Trainor)",
         "url": "https://open.spotify.com/album/4t4REL6KQpg2leApBEG23W"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 151810,
       "name": "Mind Reader (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/7oN7VcpfjpSyuzScL3930l"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "OJOJOJ",
-        "url": "https://open.spotify.com/album/7tpfGKlZ7BgyPRmbIeSnpu"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "OJOJOJ",
-      "url": "https://open.spotify.com/track/1tm4w2K1EpRguWS0PuhnQh"
     }
   ],
   "unique_name": "Ensisoitossa",

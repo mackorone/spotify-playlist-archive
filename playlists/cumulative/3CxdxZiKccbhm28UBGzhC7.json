@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/4nbnUaUzLFai1ZW3SP8vOb"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140613,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/3dw3CbKSsae5LFuP5uRIeV"
+    },
+    {
+      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -266,6 +284,24 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "album": {
+        "name": "Crush, TX",
+        "url": "https://open.spotify.com/album/24ufWBsYoWRNu4jvMHIcMV"
+      },
+      "artists": [
+        {
+          "name": "Red Rum Club",
+          "url": "https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138773,
+      "name": "Crush, TX",
+      "url": "https://open.spotify.com/track/1FiwhDc9M96wCkIGLdTXkY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Warning: this setlist may cause spontaneous crying, screaming, and slaying\. Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,488 likes - 22 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,460 likes - 22 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

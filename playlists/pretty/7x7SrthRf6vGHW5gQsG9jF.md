@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 
 > mostly rock
 
-[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 896 songs - 2 day 9 hr 27 min
+[dio](https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i) - 0 likes - 901 songs - 2 day 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -904,5 +904,10 @@ pretty - [cumulative](/playlists/cumulative/7x7SrthRf6vGHW5gQsG9jF.md) - [plain]
 | 894 | [Needle of Words](https://open.spotify.com/track/0KRpwQle4Ob0QwY9mP80rd) | [Nanatsukaze](https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH) | [Needle of Words](https://open.spotify.com/album/676VYNo0uR1lMHCowR3ZFT) | 2:52 |
 | 895 | [ハルライト](https://open.spotify.com/track/2dMUsmlbd1tI5pMKTf6Auy) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [僕らじゃなきゃダメになって](https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s) | 3:40 |
 | 896 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 |
+| 897 | [葡萄の木](https://open.spotify.com/track/7CJYRZ7Qko8NbSjMExo0Lw) | [Mellow](https://open.spotify.com/artist/2NXLZT6l35uwgxjZ3b0bA6) | [葡萄の木](https://open.spotify.com/album/7JIE3lvYxNd6I0Jz1V20WY) | 3:38 |
+| 898 | [ダンスフロア](https://open.spotify.com/track/4DB9XpxWVdGXsHjX8YoIzF) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ダンスフロアEP](https://open.spotify.com/album/0OqXDoI0GTKevz8B96ueE9) | 3:55 |
+| 899 | [I'll take you everywhere](https://open.spotify.com/track/0lqFVpn21UdR91xS39zE9H) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [I'll take you everywhere](https://open.spotify.com/album/5vsMnXOdqeASFUQveoh1C6) | 4:22 |
+| 900 | [qualia](https://open.spotify.com/track/0bk13Sz8myBsKxeSA7KvtT) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Yuta Hashimoto](https://open.spotify.com/artist/1POqojlFdpitdDlQl2vO81) | [qualia](https://open.spotify.com/album/1dyzrKcxjjxZYM5IepSBW4) | 3:58 |
+| 901 | [門出](https://open.spotify.com/track/098QWH47pFJG40fDJsaDEu) | [帰国子女](https://open.spotify.com/artist/5XBccWsRQFbw1CNQ8Bp8IO) | [体育理論](https://open.spotify.com/album/6KeSObMtaWzwwPc0bqQHfI) | 1:05 |
 
-Snapshot ID: `AAAFUA5C5L4EIZDmOn8yigcSFZ0zGdm/`
+Snapshot ID: `AAAFV8PG0zqelFMLfgqvI2JUsTiIjRDG`

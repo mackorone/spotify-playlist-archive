@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,714 likes - 35 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,717 likes - 35 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 34 | [TIMBINDY](https://open.spotify.com/track/5tmj1qvK1JquYi8yRcgupj) | [Juanma Nieto](https://open.spotify.com/artist/0cFwwkjCHNZc5JAOvlBZ4N), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [SABAR MEETS JAZZ](https://open.spotify.com/album/1PrNSteU1B6rQM797Petp6) | 3:24 |
 | 35 | [Safari](https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:48 |
 
-Snapshot ID: `aJU+AAAAAABNrQGQoFLWXzXZVklC5TUj`
+Snapshot ID: `aJaPgAAAAACy/1SnL3KwaW1WuPLfD4QG`

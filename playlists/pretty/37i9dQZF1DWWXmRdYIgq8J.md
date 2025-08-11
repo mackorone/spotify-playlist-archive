@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,432 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,440 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 5 | [Gunga Ghana](https://open.spotify.com/track/6scC03TvTwI1VbEGIYrD8R) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Dubraj Persad](https://open.spotify.com/artist/4utj62fmWsquEdUPamiUDX) | [Gunga Ghana](https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk) | 4:07 |
 | 6 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
 | 7 | [Vitamin D](https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Vitamin D](https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK) | 2:50 |
-| 8 | [No Sweetness](https://open.spotify.com/track/6NJneVB6XCTHnrGaYoG55N) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:09 |
+| 8 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/7tx0yanNumgzEBs3qd9urM) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
 | 9 | [Tek Meh Gul \(feat\. Hitman & Andy Singh\)](https://open.spotify.com/track/76bp1DQTIHFWdWGFc9yOyz) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Andy Singh](https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz), [Hitman](https://open.spotify.com/artist/7v1sbPiulgV8DjbanWz8VG) | [Karmageddon](https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc) | 5:00 |
-| 10 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/7tx0yanNumgzEBs3qd9urM) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
+| 10 | [No Sweetness](https://open.spotify.com/track/6NJneVB6XCTHnrGaYoG55N) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:09 |
 | 11 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 |
-| 12 | [Free Like a Bird](https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Free Like a Bird](https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY) | 2:57 |
-| 13 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/6cdpdaVlpkJculgkHz5WRE) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
+| 12 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/6cdpdaVlpkJculgkHz5WRE) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
+| 13 | [Free Like a Bird](https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Free Like a Bird](https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY) | 2:57 |
 | 14 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
 | 15 | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl) | [Nisha B](https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE) | 4:16 |
 | 16 | [Prescription](https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 3:31 |

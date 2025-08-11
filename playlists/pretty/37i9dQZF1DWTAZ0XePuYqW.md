@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > Rochelle Jordan's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,561 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,595 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

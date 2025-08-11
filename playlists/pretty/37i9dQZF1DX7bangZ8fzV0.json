@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Appel",
-  "num_followers": 131258,
+  "num_followers": 131341,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "Omdat Jy Mag",
-        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Madelein",
-      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
         "name": "Buffel Van Buffelsfontein",
         "url": "https://open.spotify.com/album/1ymtneTgrVB8wGgrit6N3Z"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 176750,
       "name": "Buffel Van Buffelsfontein",
       "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Die Lot",
+        "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Bosveldterapie",
+      "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
     },
     {
       "added_at": "2025-08-07 22:00:50",
@@ -391,6 +391,38 @@
       "duration_ms": 189183,
       "name": "As Ek Dalk (feat. Eloff)",
       "url": "https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Omdat Jy Mag",
+        "url": "https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Madelein",
+      "url": "https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Boer Ding",
+        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "duration_ms": 212242,
+      "name": "Boer Ding",
+      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
     },
     {
       "added_at": "2025-08-07 22:00:50",
@@ -423,38 +455,6 @@
       "duration_ms": 198970,
       "name": "Jagtrip",
       "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Boer Ding",
-        "url": "https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16"
-      },
-      "artists": [
-        {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
-        }
-      ],
-      "duration_ms": 212242,
-      "name": "Boer Ding",
-      "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Die Lot",
-        "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Bosveldterapie",
-      "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
     },
     {
       "added_at": "2025-08-07 22:00:50",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-08-07 22:00:50",
       "album": {
+        "name": "Liewe Jinne!",
+        "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
+      },
+      "artists": [
+        {
+          "name": "Juanita du Plessis",
+          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
+        }
+      ],
+      "duration_ms": 211154,
+      "name": "Liewe Jinne!",
+      "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
         "name": "Ek Verstaan",
         "url": "https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 164746,
       "name": "Ek Verstaan",
       "url": "https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Liewe Jinne!",
-        "url": "https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm"
-      },
-      "artists": [
-        {
-          "name": "Juanita du Plessis",
-          "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
-        }
-      ],
-      "duration_ms": 211154,
-      "name": "Liewe Jinne!",
-      "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
     },
     {
       "added_at": "2025-08-07 22:00:50",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "Die Mooi In Jou",
-        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Die Mooi In Jou",
-      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
         "name": "AVBOB Se Stoep",
         "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 208969,
       "name": "AVBOB Se Stoep",
       "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Die Mooi In Jou",
+        "url": "https://open.spotify.com/album/1wmMYG1jDa0am7pDsJagNt"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Die Mooi In Jou",
+      "url": "https://open.spotify.com/track/551wpFlZhakx7qZfvHAAzK"
     },
     {
       "added_at": "2025-08-07 22:00:50",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "Koue Kole",
-        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Koue Kole",
-      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
         "name": "Net Dans",
         "url": "https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 228473,
       "name": "Net Dans",
       "url": "https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Koue Kole",
+        "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "Koue Kole",
+      "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
     },
     {
       "added_at": "2025-08-07 22:00:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "In Die Bos",
-        "url": "https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "In Die Bos",
-      "url": "https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
         "name": "Stoom",
         "url": "https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "In Die Bos",
+        "url": "https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "In Die Bos",
+      "url": "https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv"
     },
     {
       "added_at": "2025-08-07 22:00:50",

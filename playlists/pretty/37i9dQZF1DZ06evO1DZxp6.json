@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 233073,
+  "num_followers": 233118,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAAC95p6BSa6HaCvWSLDjLjDE",
+  "snapshot_id": "aJaPgAAAAACsE/Pa593QU+hZD6+5qwvO",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+        "url": "https://open.spotify.com/album/04tuXr19nHC8iXMBnoh74M"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento (Canci\u00f3n de la Serie Original de Prime)",
+      "url": "https://open.spotify.com/track/3IQulMlnptSOhfblnvFuvN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 206343,
       "name": "Lo Siento BB:/",
       "url": "https://open.spotify.com/track/04x1x0L8BYyIv1XlcJxWfi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Nos Va A Extra\u00f1ar (Banda Sonora De La Serie Original De Prime)",
-        "url": "https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento",
-      "url": "https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 240120,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Papito (Deluxe)",
         "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 225373,
       "name": "Morenam\u00eda (Dueto 2007)",
       "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tristeza de la Ciudad",
         "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 164925,
       "name": "Tristeza de la Ciudad",
       "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
-        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Tu Nombre - Live",
-      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
     },
     {
       "added_at": null,

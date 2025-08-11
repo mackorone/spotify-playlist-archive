@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Xeva Al Gazel
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,998 likes - 129 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,010 likes - 129 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

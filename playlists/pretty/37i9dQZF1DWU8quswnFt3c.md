@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Alina Eremia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075,313 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,081 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 56 | [Hip\-Hop](https://open.spotify.com/track/204FxPIguRWJs264WXedmK) | [Rúzsa Magdi](https://open.spotify.com/artist/2BKQHZAdIa0XciezK1qbAb) | [Ördögi Angyal](https://open.spotify.com/album/2JtzlCNPt2dtKjui0caBFh) | 3:43 |
 | 57 | [Nem hittek Lennonnak](https://open.spotify.com/track/1cFHg6kbExLzclRIdG4m3m) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Sötét villám](https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T) | 3:28 |
 | 58 | [control](https://open.spotify.com/track/5ulpPkBYYuWI3nECebDfIt) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [control](https://open.spotify.com/album/3wrlN3pFbnt6jgdjc14H1m) | 2:53 |
-| 59 | [Chasing the Dust](https://open.spotify.com/track/4UeFnKoo6dspzAON0PhoB6) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Chasing the Dust](https://open.spotify.com/album/3JYG0fab0J51q5bDpfVIBa) | 2:30 |
-| 60 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 59 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 60 | [Chasing the Dust](https://open.spotify.com/track/4UeFnKoo6dspzAON0PhoB6) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Chasing the Dust](https://open.spotify.com/album/3JYG0fab0J51q5bDpfVIBa) | 2:30 |
 | 61 | [V\-01C3](https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3](https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ) | 2:32 |
 | 62 | [Játsszál mással](https://open.spotify.com/track/6AJsvb1VnDyEuSQAudNauH) | [Mayberian Sanskülotts](https://open.spotify.com/artist/76NgT67VLqbEyGy4HKBhqy) | [Rekult I.](https://open.spotify.com/album/66HEMVm1tsJag4zheUXvPb) | 2:22 |
 | 63 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |

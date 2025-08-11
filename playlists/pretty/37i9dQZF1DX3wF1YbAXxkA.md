@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,385 likes - 114 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,446 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wF1YbAXxkA.md) - [plain]
 | 82 | [DESI TRILL \(Remix\)](https://open.spotify.com/track/0qMN3VcL0CiV369ck1IZph) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Malkit Singh](https://open.spotify.com/artist/79V1EiUrtTyJHQNSKXZC7X), [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW) | [DESI TRILL \(Remix\)](https://open.spotify.com/album/7GfuV0dxcEH9nXUg2rtDv4) | 2:40 |
 | 83 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 |
 | 84 | [Escándalo](https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Escándalo](https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4) | 2:31 |
-| 85 | [What Type Of Girl Am I?](https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 2:33 |
-| 86 | [LDN PLNQ](https://open.spotify.com/track/4LWZjrwwKq6IsC0LLq3Dcr) | [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI), [Kombilesa Mi](https://open.spotify.com/artist/2B8vGTY8HOEr0Vms29broY) | [LDN PLNQ](https://open.spotify.com/album/3RfEykb15wH4GY9REsmm3E) | 4:14 |
+| 85 | [LDN PLNQ](https://open.spotify.com/track/4LWZjrwwKq6IsC0LLq3Dcr) | [Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI), [Kombilesa Mi](https://open.spotify.com/artist/2B8vGTY8HOEr0Vms29broY) | [LDN PLNQ](https://open.spotify.com/album/3RfEykb15wH4GY9REsmm3E) | 4:14 |
+| 86 | [What Type Of Girl Am I?](https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 2:33 |
 | 87 | [Soul](https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Soul](https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c) | 2:37 |
 | 88 | [Fighter](https://open.spotify.com/track/7voFl01BoIdLzFRNDPjjc7) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Fighter](https://open.spotify.com/album/7JkXyHCZGVaCrogkuS1j6K) | 3:22 |
 | 89 | [Billete](https://open.spotify.com/track/1SZJ4NWbgf6i8Clttt1Wq4) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Hombres También Lloran](https://open.spotify.com/album/16w7wDjUaxn5XGoWMaSgj2) | 2:11 |

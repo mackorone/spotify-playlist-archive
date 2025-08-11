@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 387338,
+  "num_followers": 387479,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Amor Bom",
+        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Amor Bom",
+      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 170608,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Tropical",
-        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 230016,
-      "name": "Paradis\u00edaca",
-      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Amor Bom",
-        "url": "https://open.spotify.com/album/4KkmyxP2I3gGOEnCgIAtkw"
+        "name": "Tropical",
+        "url": "https://open.spotify.com/album/0em8tKAYFmbJuSChPQNRqf"
       },
       "artists": [
         {
@@ -764,9 +748,25 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 197834,
-      "name": "Amor Bom",
-      "url": "https://open.spotify.com/track/2X8vLcevE21SJQRxWaJZzC"
+      "duration_ms": 230016,
+      "name": "Paradis\u00edaca",
+      "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -799,26 +799,6 @@
       "duration_ms": 198340,
       "name": "S\u00f3 Pra Brilhar",
       "url": "https://open.spotify.com/track/4qvkuxl7BcnTZWLXeTZPbH"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Sol da Meia-Noite",
-        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        },
-        {
-          "name": "Zeider",
-          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
-        }
-      ],
-      "duration_ms": 209971,
-      "name": "Sol da Meia-Noite",
-      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -859,18 +839,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Linhas De Cerol",
-        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
+        "name": "Sol da Meia-Noite",
+        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        },
+        {
+          "name": "Zeider",
+          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
         }
       ],
-      "duration_ms": 193122,
-      "name": "Um Sonho Na Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
+      "duration_ms": 209971,
+      "name": "Sol da Meia-Noite",
+      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -891,6 +875,22 @@
       "duration_ms": 177535,
       "name": "Olha Pra Mim",
       "url": "https://open.spotify.com/track/5qW2lWtDCcADcISlAYY1PP"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Linhas De Cerol",
+        "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 193122,
+      "name": "Um Sonho Na Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -955,8 +955,8 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Magn\u00e9tica",
         "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
       },
@@ -1019,34 +1003,18 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Minha Ilha",
-        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
       },
       "artists": [
         {
-          "name": "Gabriel Oliveira",
-          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
         }
       ],
-      "duration_ms": 223157,
-      "name": "Minha Ilha",
-      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -1063,6 +1031,38 @@
       "duration_ms": 215172,
       "name": "Filho do Mar",
       "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "Minha Ilha",
+        "url": "https://open.spotify.com/album/0sOnQvXTfgv9zyrf1Mi7Zj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Oliveira",
+          "url": "https://open.spotify.com/artist/5tvMRnrx7V0hJc4XhbqEtr"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Minha Ilha",
+      "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
     },
     {
       "added_at": "2025-07-11 18:31:12",

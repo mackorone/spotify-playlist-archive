@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Chapo102
 
-249 songs - 11 hr 13 min
+251 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Ein Jahr \(feat\. Montez\)](https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD) | 2:56 | 2024-07-25 | 2024-10-18 |
 | [Ein letztes Mal noch](https://open.spotify.com/track/6U0ONSf8rDjrOvFo2ZYOw0) | [CALO](https://open.spotify.com/artist/474Q0FLKeKJZpGZgvo8QdD), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [Ein letztes Mal noch](https://open.spotify.com/album/3I8ZRT8pH3GEaqMjQR58HM) | 2:29 | 2025-06-09 | 2025-07-29 |
 | [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-03 |  |
+| [Eintausend Farben](https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Eintausend Farben](https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ) | 2:36 | 2025-08-07 |  |
 | [Elbe](https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy) | [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb) | [Elbe](https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg) | 3:15 | 2024-06-28 |  |
 | [Ende](https://open.spotify.com/track/0hB4Nsxw9ENjf3y13lHmc1) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Ende](https://open.spotify.com/album/4a93EgYKbcOmW5aSeL6ODf) | 2:53 | 2025-02-27 | 2025-04-22 |
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 | 2025-01-03 |
@@ -165,7 +166,7 @@
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 | 2024-09-10 |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 | 2025-04-13 |
 | [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 | 2025-02-28 |
-| [Nicht Perfekt](https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nicht Perfekt](https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0) | 2:59 | 2025-03-24 |  |
+| [Nicht Perfekt](https://open.spotify.com/track/2a4V6o8HRSWtKB6vqsbFZN) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Nicht Perfekt](https://open.spotify.com/album/1mZwJkUMW0LbSwru2fbnG0) | 2:59 | 2025-03-24 | 2025-08-11 |
 | [Nie wieder](https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Nie wieder](https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC) | 2:59 | 2025-07-17 |  |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2024-06-28 |  |
 | [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 | 2025-07-03 |
@@ -173,7 +174,7 @@
 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 | 2024-06-28 | 2024-10-11 |
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 |  |
 | [Nur Du](https://open.spotify.com/track/4O8cfDg1j2N0RnHkePORhM) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Nur Du](https://open.spotify.com/album/4oFnxFvcUhYzJCz2pQkvDk) | 2:16 | 2025-05-15 |  |
-| [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 |  |
+| [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 | 2025-08-11 |
 | [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 | 2025-07-06 |
 | [OMG](https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [OMG](https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM) | 2:41 | 2024-08-12 | 2025-01-21 |
 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 | 2025-06-10 |
@@ -257,5 +258,6 @@
 | [Zemer <3](https://open.spotify.com/track/04xkyS0g9ZQVauyOukMu1r) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Zemer <3](https://open.spotify.com/album/7zOaDFEjjNb8j0uEEfhqC6) | 2:29 | 2025-04-17 | 2025-07-31 |
 | [Zwischenphase](https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Zwischenphase](https://open.spotify.com/album/191TZlivZyXydwrNA3vl04) | 2:30 | 2025-03-14 |  |
 | [Über dem Himmel](https://open.spotify.com/track/2L3haxcF7UmI94PEx25VZ4) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Über dem Himmel](https://open.spotify.com/album/0dD2s725NhOZk8K1aHWUpK) | 2:26 | 2024-06-28 | 2024-08-13 |
+| [Überlebt](https://open.spotify.com/track/0K7h3qIpXruphMbAq3UtEB) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO) | [Überlebt](https://open.spotify.com/album/0Nrqk89YfPfTK1Zj2mG6Fz) | 4:01 | 2025-08-07 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

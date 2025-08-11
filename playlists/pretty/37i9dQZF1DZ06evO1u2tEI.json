@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 83969,
+  "num_followers": 83987,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJU+AAAAAACiSPUHlgmkCrNYaxVfyexd",
+  "snapshot_id": "aJaPgAAAAABs/p7bRevoiMzp1bnjx/cc",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song in C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137800,
-      "name": "Whatever (Folk Song in C)",
-      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
+      "duration_ms": 214853,
+      "name": "Condor Ave",
+      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
     },
     {
       "added_at": null,
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Condor Ave",
-      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
+      "duration_ms": 231560,
+      "name": "Going Nowhere",
+      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
     },
     {
       "added_at": null,
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 231560,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/3j7kIRldLpus5gJK21dhId"
+      "duration_ms": 214800,
+      "name": "No Name #2",
+      "url": "https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV"
     },
     {
       "added_at": null,
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -584,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 214800,
-      "name": "No Name #2",
-      "url": "https://open.spotify.com/track/3QAHvJbzjFne5mMLSEMmdV"
+      "duration_ms": 204573,
+      "name": "Pretty Mary K - Other Version",
+      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
     },
     {
       "added_at": null,
@@ -607,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Pretty Mary K - Other Version",
-      "url": "https://open.spotify.com/track/5m80zPT09wNZd3MO7flmEv"
+      "duration_ms": 278013,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
     },
     {
       "added_at": null,
@@ -639,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 278013,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
+      "duration_ms": 147266,
+      "name": "Either/Or",
+      "url": "https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK"
     },
     {
       "added_at": null,
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 147266,
-      "name": "Either/Or",
-      "url": "https://open.spotify.com/track/2gEGEZKBFSPajolkBb3szK"
+      "duration_ms": 163266,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 84013,
       "name": "Untitled Guitar Finger Picking - Demo",
       "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Thirteen",
-      "url": "https://open.spotify.com/track/5iU2CYMavJ66Gg1XuzloLU"
     }
   ],
   "unique_name": "This Is Elliott Smith",

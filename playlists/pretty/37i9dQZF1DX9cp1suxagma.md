@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,089 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,091 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 10 | [Lunática](https://open.spotify.com/track/5Oo8vxfhgLZglkEWps4KMl) | [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Lunática](https://open.spotify.com/album/6ZTH865EudN0PxlcjXCNAm) | 3:10 |
 | 11 | [¿Cómo Pasó? Con Morat \- Live](https://open.spotify.com/track/7FpqL8i3LVBYWm5RvMsdS8) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:11 |
 | 12 | [Una Noche Contigo](https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Una Noche Contigo](https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3) | 3:13 |
-| 13 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
+| 13 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
 | 14 | [Karma](https://open.spotify.com/track/7M4HP9qLthoJZ3XAAamZfY) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Karma](https://open.spotify.com/album/45f9J6QgWfofdF8v98Uc1l) | 2:24 |
 | 15 | [Todos Tenemos Cicatrices](https://open.spotify.com/track/7vEDuljzjMXQOyrZZh8ipu) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Todos Tenemos Cicatrices](https://open.spotify.com/album/6FkTpFrUi4EZEPDKmCtIX0) | 3:38 |
 | 16 | [Quisiera odiarte](https://open.spotify.com/track/2OnLqTKaED5zI5CAK4VHVS) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [La Chinita](https://open.spotify.com/album/3nwQRr8iXfZlXdszesno3v) | 3:38 |
