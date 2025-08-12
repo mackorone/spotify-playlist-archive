@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of The Nice Guy\. \(착한 사나이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-22 songs - 1 hr 23 min
+23 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 | 2025-07-29 |  |
 | [For myself](https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP) | [ Seo Youngju](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4Wa3VLLWGqL0WKzgZfhhaA) | 4:01 | 2025-08-04 |  |
 | [I Dream](https://open.spotify.com/track/08JJmLKnp7DGshAEei6Blt) | [15&](https://open.spotify.com/artist/1AAJLswvl7anW1RhTTFzxN) | [I Dream](https://open.spotify.com/album/6IQbIkyXzSUMQhvyY7xhmo) | 4:35 | 2025-07-29 |  |
+| [Just like the first time](https://open.spotify.com/track/74Z7QCo8ljNVz6TSJoyLB9) | [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5v8Kd8kSNY3Bx2CElkOho3) | 3:42 | 2025-08-11 |  |
 | [Love used to be](https://open.spotify.com/track/11Eq2x9rPXo43edwf3UyHS) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2xJZOBir2b23lqpNRX2eSA) | 3:45 | 2025-07-29 |  |
 | [Love used to be \- Instrumental](https://open.spotify.com/track/0jydYGYVKKLqDrkOSSE7Zv) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2xJZOBir2b23lqpNRX2eSA) | 3:45 | 2025-07-29 | 2025-08-04 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-07-29 |  |

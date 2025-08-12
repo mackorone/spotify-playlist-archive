@@ -1037,6 +1037,32 @@
     },
     {
       "album": {
+        "name": "Time (Remixed)",
+        "url": "https://open.spotify.com/album/46nbKke2T7v13hzVazDpP4"
+      },
+      "artists": [
+        {
+          "name": "Cortese",
+          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
+        },
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        },
+        {
+          "name": "Neumonic",
+          "url": "https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Bleep - Neumonic Remix",
+      "url": "https://open.spotify.com/track/6abjYWMrPTw8eTL15jYsfE"
+    },
+    {
+      "album": {
         "name": "SoulCity EP",
         "url": "https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI"
       },
@@ -1196,6 +1222,24 @@
       "duration_ms": 196000,
       "name": "Breathe Cre8",
       "url": "https://open.spotify.com/track/4L75OEom1UKUALCLguUpig"
+    },
+    {
+      "album": {
+        "name": "British Columbia",
+        "url": "https://open.spotify.com/album/55v5y2ktJYN61fithDiTDb"
+      },
+      "artists": [
+        {
+          "name": "Alps 2",
+          "url": "https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226976,
+      "name": "British Columbia",
+      "url": "https://open.spotify.com/track/6sKA3OL7Sz5Bpzn9CzaLnF"
     },
     {
       "album": {
@@ -2724,7 +2768,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 198000,
       "name": "Flatworm Meets Sea Slug",
       "url": "https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2"
@@ -7460,7 +7504,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 107996,
       "name": "U Were Nvr Rlly Here",
       "url": "https://open.spotify.com/track/2KTb35IFTih0RFcqyomXiv"
@@ -7732,6 +7776,24 @@
       "duration_ms": 408678,
       "name": "Verona Walls",
       "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
+    },
+    {
+      "album": {
+        "name": "Versilitude",
+        "url": "https://open.spotify.com/album/5iWnPmWGkfpDCrmG0vvBIs"
+      },
+      "artists": [
+        {
+          "name": "lynyn",
+          "url": "https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288856,
+      "name": "Versilitude",
+      "url": "https://open.spotify.com/track/2NxmrHb0ElEbD0kT9mJLac"
     },
     {
       "album": {
@@ -8052,7 +8114,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 149448,
       "name": "wood",
       "url": "https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl"

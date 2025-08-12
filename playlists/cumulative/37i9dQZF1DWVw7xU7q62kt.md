@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-588 songs - 1 day 2 hr 20 min
+589 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Growing Season](https://open.spotify.com/track/21qtuIFQb8HQg0aYNNhvFa) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Growing Season](https://open.spotify.com/album/4awunKCrufzXXpOwfXnxs1) | 2:51 | 2025-03-03 |  |
 | [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Hand](https://open.spotify.com/track/4glF0mDJfHRguZYXgKoCoX) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Hand / Kanji](https://open.spotify.com/album/4oPxZTV0GELOEb6v8ElLtj) | 2:13 | 2025-07-11 |  |
-| [Hasta Siempre](https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Hasta Siempre](https://open.spotify.com/album/4wvIW65Wlt4odSfZJZeIfZ) | 2:50 | 2025-05-16 |  |
+| [Hasta Siempre](https://open.spotify.com/track/1aN5yFeqz9Sl1g5Jb83XO2) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Hasta Siempre](https://open.spotify.com/album/4wvIW65Wlt4odSfZJZeIfZ) | 2:50 | 2025-05-16 | 2025-08-12 |
 | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 | 2024-08-31 |
 | [Headlights](https://open.spotify.com/track/0E4XPubqUlPIihiYi4pgRb) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Cozy](https://open.spotify.com/album/3RsSbsa04lZcRND0tWG1IC) | 2:06 | 2025-07-25 |  |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 | 2024-10-03 |
@@ -480,6 +480,7 @@
 | [Subdivisão](https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [Subdivisão](https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql) | 2:44 | 2024-01-26 | 2025-05-17 |
 | [Sultry](https://open.spotify.com/track/6ZUhnFzIxYcDX8wfJVLyn0) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Imperial Sax](https://open.spotify.com/artist/3Br54UjOUik54bV82AUdLa) | [Sultry](https://open.spotify.com/album/05mvyTGHSOo7rleio6zJT6) | 2:09 | 2024-10-25 |  |
 | [Summer in the City](https://open.spotify.com/track/2VM8QaUVpwrVCjWh0bNYwf) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Summer in the City](https://open.spotify.com/album/06ahpWeq75UuU5nFnAMoAv) | 2:54 | 2025-07-11 | 2025-07-26 |
+| [Summon](https://open.spotify.com/track/3VD4p3yiCiETURBvBUsvn3) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Phortran](https://open.spotify.com/artist/3K8D9vZPMObIrZoDGSBK3M) | [Summon](https://open.spotify.com/album/5A4tIY7MJPGzl8UDahVJVH) | 2:33 | 2025-07-25 |  |
 | [Sun Drops](https://open.spotify.com/track/329x1AzCPqgaeiYLayRKQt) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Sun Drops](https://open.spotify.com/album/6JhhmF9rjvZ7rIIMqsa91k) | 3:04 | 2023-08-22 | 2025-04-12 |
 | [Sun Gazing](https://open.spotify.com/track/6xiI4Pkk5g3N2xCAsp1zBw) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Sun Gazing](https://open.spotify.com/album/2qGJaBsVHZtmJd5VcWky3u) | 2:06 | 2024-08-30 | 2025-04-19 |
 | [Sun Go Down](https://open.spotify.com/track/1M9UnuKIPJd9kVdz45GIML) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Blowout](https://open.spotify.com/album/1PtMyRufUsbQ81yMxXjSym) | 3:12 | 2024-01-26 | 2024-04-19 |

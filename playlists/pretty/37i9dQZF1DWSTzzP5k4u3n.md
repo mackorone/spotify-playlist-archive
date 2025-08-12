@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,219 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,217 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kesävieraat](https://open.spotify.com/track/5nrCMYvV23bw9THeTgGFrW) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kesävieraat](https://open.spotify.com/album/5a8scIkc9EqfeJtpMnQmlL) | 3:06 |
-| 2 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
-| 3 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 |
-| 4 | [Sinä hymyilit mulle](https://open.spotify.com/track/10Upl6zlzU6QtMhpupRhOD) | [Kauko Röyhkä & Riku Mattila](https://open.spotify.com/artist/0EXksZ0trRoQXfaOd6ZPM1) | [Sinä hymyilit mulle](https://open.spotify.com/album/2h8Z6q1Oxu6W6lCXRgt714) | 4:28 |
-| 5 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
-| 6 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
-| 7 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
+| 2 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
+| 3 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
+| 4 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 |
+| 5 | [Sinä hymyilit mulle](https://open.spotify.com/track/10Upl6zlzU6QtMhpupRhOD) | [Kauko Röyhkä & Riku Mattila](https://open.spotify.com/artist/0EXksZ0trRoQXfaOd6ZPM1) | [Sinä hymyilit mulle](https://open.spotify.com/album/2h8Z6q1Oxu6W6lCXRgt714) | 4:28 |
+| 6 | [Radio pois](https://open.spotify.com/track/3b9Uw8TwUEuYfXvenwi1O4) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Radio pois](https://open.spotify.com/album/5hLxUUUYRUacrMaIwyOvXN) | 3:18 |
+| 7 | [Auta mua!](https://open.spotify.com/track/5dP1Zmg31Riu7IiANIVsyh) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Auta mua!](https://open.spotify.com/album/0JsU9CfFkAjd33kXaT4WAh) | 3:34 |
 | 8 | [Kotona](https://open.spotify.com/track/6JRfqKHhAIMol3ZuvGcamg) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Kotona](https://open.spotify.com/album/5XMLrsh36JzQAXTAGueyGh) | 2:57 |
 | 9 | [Pellava](https://open.spotify.com/track/3FJzwZBjFSzIeh13pnFRuS) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Pellava](https://open.spotify.com/album/1d2yBZwUYZGY23W3bjCZFg) | 2:55 |
 | 10 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Yhen yön terapia](https://open.spotify.com/track/7qXuK2hqFCmIYvDrUJqpfX) | [MINÄMINÄ](https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl) | [Pari terapiaa](https://open.spotify.com/album/1O6NJhNKL4TXcZa4x5nmQy) | 3:56 |
 | 80 | [Ennen kuin linnut vaikenee](https://open.spotify.com/track/4LkjEAQP3sihKg82Cb3V9Y) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Ennen kuin linnut vaikenee](https://open.spotify.com/album/0MnLtJlF4tWtu3vpy7K46X) | 3:22 |
 
-Snapshot ID: `AAAAAJZHdvwfzu1kBtW8eTGyzEqz07mE`
+Snapshot ID: `AAAAAKppzmCdo28Ix3CYR8RTV71Na+4k`

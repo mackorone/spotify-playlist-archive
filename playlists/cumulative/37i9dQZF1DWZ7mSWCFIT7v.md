@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-447 songs - 1 day 11 hr 44 min
+450 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bergen](https://open.spotify.com/track/6AhRffpaXubqSn4lHMfmyk) | [Ertoz](https://open.spotify.com/artist/4d7FnTdZG753sLDlnOOzOH) | [Bergen](https://open.spotify.com/album/1iDL1GIkT2T7EkXUwcw7Xy) | 5:50 | 2021-10-06 | 2025-07-17 |
 | [Between here and Home](https://open.spotify.com/track/51bxq4EgwFyQdQwfo1foJm) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 5:38 | 2025-04-11 |  |
 | [Blackbox Life Recorder 22 \[Parallax Mix\]](https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 3:32 | 2023-07-28 | 2025-06-21 |
+| [Bleep \- Neumonic Remix](https://open.spotify.com/track/6abjYWMrPTw8eTL15jYsfE) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77), [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32), [Neumonic](https://open.spotify.com/artist/2vmS0sFSxIZccEf510Xb52) | [Time \(Remixed\)](https://open.spotify.com/album/46nbKke2T7v13hzVazDpP4) | 4:21 | 2025-08-11 |  |
 | [Blobject](https://open.spotify.com/track/2fo83TJRtbirzVwANgZvTo) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [SoulCity EP](https://open.spotify.com/album/1u8OYI31zSwRKa8uzjAEvI) | 5:56 | 2021-10-06 | 2022-09-10 |
 | [Blobject](https://open.spotify.com/track/4R49HTqdoT2EkLHrFOODYf) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Blobject](https://open.spotify.com/album/5rtc7nqGQrjHG7aQwZmRf2) | 5:56 | 2021-10-06 | 2022-07-27 |
 | [Blooms](https://open.spotify.com/track/6xan1MjlzLAtVosllpvCjA) | [Sau Poler](https://open.spotify.com/artist/0l8zZZXgZJ11aGj4P2psXu) | [Blooms](https://open.spotify.com/album/1kpy3gVhdV8VmstOxIVBIz) | 5:46 | 2021-10-06 | 2025-07-17 |
@@ -71,6 +72,7 @@
 | [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 | 2021-10-06 | 2025-06-07 |
 | [Brand Blvd](https://open.spotify.com/track/6sNGEPiyxsdvJOeukUG7lQ) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [Brand Blvd](https://open.spotify.com/album/1kvOOTA97CyACYKp0VypX6) | 4:14 | 2025-07-16 |  |
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2025-07-17 |
+| [British Columbia](https://open.spotify.com/track/6sKA3OL7Sz5Bpzn9CzaLnF) | [Alps 2](https://open.spotify.com/artist/3ZGwQcTbkx3ubLRoXUBcCd) | [British Columbia](https://open.spotify.com/album/55v5y2ktJYN61fithDiTDb) | 3:46 | 2025-08-11 |  |
 | [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2025-07-17 |
 | [Bundeena](https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 4:22 | 2021-10-06 | 2024-04-19 |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2025-07-17 |
@@ -152,7 +154,7 @@
 | [Fena](https://open.spotify.com/track/6aO8Nz4Q4sY0LFoF19woBM) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena](https://open.spotify.com/album/7dyMd5Q323re0dsPrbMldv) | 4:44 | 2025-06-13 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2025-06-07 |
 | [Fi](https://open.spotify.com/track/65oqnwkByGPqrSghuq3cEw) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Fi ⋰ Sol](https://open.spotify.com/album/0P0ugNHZL6uEpEiP1o1p4Y) | 2:22 | 2025-07-30 |  |
-| [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 | 2024-10-25 |  |
+| [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 | 2024-10-25 | 2025-08-12 |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2025-07-17 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2025-07-17 |
@@ -404,7 +406,7 @@
 | [Twist](https://open.spotify.com/track/4905lIuy3D3OHnMMkQ9Zf3) | [Klara Lewis](https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt) | [Too](https://open.spotify.com/album/0ehlpK5bslOMgNPXNGDQun) | 3:20 | 2021-10-06 | 2022-07-21 |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2021-10-06 | 2023-06-02 |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/3yogEdp82IygdtF6fYj42Z) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Two Thousand and Seventeen](https://open.spotify.com/album/2Ty8kEME4UGkA4cNymLQHa) | 4:12 | 2021-10-06 | 2022-07-17 |
-| [U Were Nvr Rlly Here](https://open.spotify.com/track/2KTb35IFTih0RFcqyomXiv) | [awkskord](https://open.spotify.com/artist/0KZAdftdIbJZwWPNNIUXbN) | [All Dreams Are Cut\-Scenes](https://open.spotify.com/album/4mfvBthB0MLWacMHyGvREN) | 1:47 | 2025-07-16 |  |
+| [U Were Nvr Rlly Here](https://open.spotify.com/track/2KTb35IFTih0RFcqyomXiv) | [awkskord](https://open.spotify.com/artist/0KZAdftdIbJZwWPNNIUXbN) | [All Dreams Are Cut\-Scenes](https://open.spotify.com/album/4mfvBthB0MLWacMHyGvREN) | 1:47 | 2025-07-16 | 2025-08-12 |
 | [Uforia2](https://open.spotify.com/track/1naY9jtsdeOExa34heIlRg) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Uforia2](https://open.spotify.com/album/1znqfNbpTiwZ201yA6lrrc) | 6:32 | 2025-04-25 |  |
 | [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 | 2023-01-07 | 2025-07-17 |
 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 | 2023-01-07 | 2024-04-19 |
@@ -419,6 +421,7 @@
 | [Vegetal Passivity](https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Vegetal Passivity](https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW) | 3:58 | 2023-03-03 |  |
 | [Verbal Drift](https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c) | [Emeka Ogboh](https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7) | [6°30′33.372″N 3°22′0.66″E](https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49) | 5:39 | 2022-08-03 | 2025-07-17 |
 | [Verona Walls](https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 6:48 | 2025-01-23 |  |
+| [Versilitude](https://open.spotify.com/track/2NxmrHb0ElEbD0kT9mJLac) | [lynyn](https://open.spotify.com/artist/5OW8ofHCXltPKgzTdSe1l8) | [Versilitude](https://open.spotify.com/album/5iWnPmWGkfpDCrmG0vvBIs) | 4:48 | 2025-08-11 |  |
 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 | 2022-09-07 | 2025-07-17 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 | 2025-07-17 |
 | [Vidrio Roto](https://open.spotify.com/track/6m1VL8mzWuPnlMAogYluy0) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Vidrio Roto](https://open.spotify.com/album/3YiWqsTiIlKh5et6TMi8ft) | 4:24 | 2021-10-06 | 2025-07-17 |
@@ -436,7 +439,7 @@
 | [Whatcomesup96 \- Mixed](https://open.spotify.com/track/2XnbmppKbtdRDNojRPyjM5) | [Zebrablood](https://open.spotify.com/artist/6YzavuXwWlGoDfXEZ7qnsb) | [fabric presents Leon Vynehall \(Mixed\)](https://open.spotify.com/album/491w2IyyumxBPJf06RZZJD) | 0:58 | 2022-04-06 | 2022-07-29 |
 | [Whipping Spree](https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro) | [Afrikan Sciences](https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U) | [Journey into Mr Re](https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC) | 6:51 | 2023-06-01 | 2023-08-09 |
 | [Wiegenmusik](https://open.spotify.com/track/2iiaNKiT2UG0cKMJ6OiwCA) | [Simon Lovermann](https://open.spotify.com/artist/2nWefmRaZ5x1QNWjbPD7xr) | [Wiegenmusik / Constant Structure](https://open.spotify.com/album/4FGpW60vq60Y4K8CFF9tKJ) | 2:32 | 2023-10-28 |  |
-| [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 |  |
+| [wood](https://open.spotify.com/track/7JW9510PEnMMAQu0hHD8wl) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [wood](https://open.spotify.com/album/41sz86ZfgSLTs8CyXfptWa) | 2:29 | 2023-11-15 | 2025-08-12 |
 | [Workaround Four](https://open.spotify.com/track/4T9tdiYQ583ngVEyUGfDge) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Kuljit Bhamra](https://open.spotify.com/artist/6MPSPUcWWZsIVbFiw35Ygg) | [Workaround](https://open.spotify.com/album/1kGLxIjski3cSPhXBJRnw9) | 5:50 | 2021-10-06 | 2022-07-27 |
 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 | 2024-03-19 | 2025-06-07 |
 | [Xai](https://open.spotify.com/track/3trWBbNMteWnN2KHJCpxcF) | [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [Xai](https://open.spotify.com/album/7jxZViRGb4p4oQBdQM3Fkj) | 3:28 | 2025-04-04 | 2025-08-02 |

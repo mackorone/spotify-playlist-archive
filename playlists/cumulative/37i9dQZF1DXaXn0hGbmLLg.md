@@ -4,7 +4,7 @@
 
 > Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:7qvjUtp2ccRD9AiDnukyFF">NOVAH</a>
 
-2,595 songs - 5 day 15 hr 49 min
+2,596 songs - 5 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2357,6 +2357,7 @@
 | [vices](https://open.spotify.com/track/06nsVdKP6nUbqzTaD0ow7I) | [YOUANDI](https://open.spotify.com/artist/1yqXgr7ZqAhQRgR8wt7GOz) | [vices](https://open.spotify.com/album/3V8ldCeRAnU76T8cToAs6l) | 4:01 | 2023-04-04 | 2023-05-03 |
 | [Videotheek](https://open.spotify.com/track/2iZXgpnN2CfCiJHYXegZTc) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Videotheek](https://open.spotify.com/album/6Q7BoxR9QUff5NhFVtKeN8) | 3:13 | 2024-11-05 | 2024-12-04 |
 | [Violet](https://open.spotify.com/track/1IfsFBQ5UsRcIt6netHlT7) | [Silver Lake](https://open.spotify.com/artist/43vS7K1kRXq4b4nQoscPVb) | [Violet](https://open.spotify.com/album/19ij2NHdSYwfKni3MdcoKr) | 3:18 | 2022-05-03 | 2022-06-01 |
+| [Vision](https://open.spotify.com/track/3iet8NSu6S6ZbSTS8EMUsC) | [Julia Mandoki](https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR) | [Vision](https://open.spotify.com/album/1wH2O2N6a7Z24QIYvu4Tej) | 4:21 | 2025-08-11 |  |
 | [Vitamin Bee](https://open.spotify.com/track/0g9aYSfGVOnMVksqUQE8e8) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Vitamin Bee](https://open.spotify.com/album/6VWsZxdQFC9XPnCGtCjCVb) | 2:25 | 2022-06-01 | 2022-07-06 |
 | [Vlammen](https://open.spotify.com/track/0rNbnftds39PJOL8HzdLho) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 3:51 | 2024-12-03 | 2025-01-08 |
 | [Vlammen](https://open.spotify.com/track/0nDJJVGLslkfaNib8rOrJ6) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Vlammen](https://open.spotify.com/album/4omj9jgCzkR0INuGpTOqzG) | 3:57 | 2024-04-02 | 2024-05-08 |

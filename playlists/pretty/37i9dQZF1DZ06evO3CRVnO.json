@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 313650,
+  "num_followers": 313685,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAABv4mZM8WjEX1ksFOV4J9ez",
+  "snapshot_id": "aJfhAAAAAABUHNr1XnNB3JjbLSa6rwYi",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die Lit",
-        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "R.I.P.",
-      "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 166234,
       "name": "Over",
       "url": "https://open.spotify.com/track/08dz3ygXyFur6bL7Au8u8J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv"
     },
     {
       "added_at": null,

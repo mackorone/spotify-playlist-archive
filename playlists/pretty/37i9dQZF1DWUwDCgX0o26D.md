@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 ### [最Hit西洋榜](https://open.spotify.com/playlist/37i9dQZF1DWUwDCgX0o26D)
 
-> 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Henry Moodie
+> 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,032 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,045 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [I Can’t Lose](https://open.spotify.com/track/6YggkCJwokciQdyL9Zbx4H) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Can't Lose](https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ) | 3:03 |
 | 50 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
 
-Snapshot ID: `AAAAAD+YlS81V6Ph0SooKYe/a5ahxqDa`
+Snapshot ID: `AAAAAGDzUYd5stfpEj54Ad4GMScSJQIL`

@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Speeding",
+        "url": "https://open.spotify.com/album/3xUNzOaYhCQT3GarYKpWG6"
+      },
+      "artists": [
+        {
+          "name": "David Arlo",
+          "url": "https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Speeding",
+      "url": "https://open.spotify.com/track/3bgi6jmYXxdEyUq3buRRr3"
+    },
+    {
+      "album": {
         "name": "Spin the Block",
         "url": "https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6"
       },

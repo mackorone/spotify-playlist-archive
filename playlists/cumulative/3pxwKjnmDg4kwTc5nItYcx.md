@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-842 songs - 1 day 21 hr 13 min
+843 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Lonely](https://open.spotify.com/track/4FnSCrqa0lzbJUF1TRoCkQ) | [George Moir](https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu), [Blossom Caldarone](https://open.spotify.com/artist/0BrUMx34x84azYCP7QvEU0) | [Lonely](https://open.spotify.com/album/7JYEia78Au9reCguu5Kjmn) | 3:05 | 2020-10-09 | 2021-05-12 |
 | [Lonely Hearts](https://open.spotify.com/track/0uQBTf6XWp27hSegB3zV92) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [good to know](https://open.spotify.com/album/0W7KBrn4FQOvz5eWsGz8T8) | 3:23 | 2020-05-01 | 2021-05-12 |
 | [Lonely Hearts](https://open.spotify.com/track/63l4LmmYVH2KSWLmVOD8gA) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Lonely Hearts](https://open.spotify.com/album/4P5b0d1PPIue25OfqE7Ffv) | 3:23 | 2020-04-24 | 2020-05-12 |
+| [Lonyo!](https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Lonyo!](https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE) | 3:35 | 2025-08-11 |  |
 | [Los Angeles](https://open.spotify.com/track/7gDXne51D4DEBHQSHHedYq) | [Thomston](https://open.spotify.com/artist/0VQKssIfRKfSd7IfW3JIP1) | [En\-Route: Los Angeles](https://open.spotify.com/album/6AS93NOEEpTJhayGi6hQZN) | 4:00 | 2019-10-25 | 2021-05-12 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2023-06-23 |  |
 | [Lose Me Like You Mean It](https://open.spotify.com/track/2UzVHw7DgzRhI9o9fvEN6K) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:59 | 2025-03-07 |  |

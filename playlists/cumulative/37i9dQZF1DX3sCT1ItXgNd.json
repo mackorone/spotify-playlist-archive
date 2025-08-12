@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Marta Santos",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Hey Kid",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -3284,6 +3284,24 @@
       "duration_ms": 212080,
       "name": "DE NOTA EN NOTA",
       "url": "https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt"
+    },
+    {
+      "album": {
+        "name": "De Papel",
+        "url": "https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166753,
+      "name": "De Papel",
+      "url": "https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu"
     },
     {
       "album": {
@@ -11074,7 +11092,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 171000,
       "name": "Por Qu\u00e9 No Ser Amigos",
       "url": "https://open.spotify.com/track/35asUXcK4uvCEcJCRIlHXz"
@@ -12500,6 +12518,28 @@
       "duration_ms": 146784,
       "name": "Si es contigo si",
       "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
+    },
+    {
+      "album": {
+        "name": "Si Juegas Conmigo (ASA25)",
+        "url": "https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Si Juegas Conmigo (ASA25)",
+      "url": "https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2"
     },
     {
       "album": {
@@ -15338,7 +15378,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 235093,
       "name": "\u00daltima Noche",
       "url": "https://open.spotify.com/track/08iQaBBx5pkyEam6jxJegI"

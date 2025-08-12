@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,132 songs - 5 day 12 hr 6 min
+2,134 songs - 5 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [Emerald](https://open.spotify.com/track/5rQwo1SwmsvhZbLWB2SH7u) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [Shiroto Hanataba](https://open.spotify.com/album/3L54iB93jb24Qy6LXApy9R) | 3:40 | 2023-05-23 | 2023-06-14 |
 | [EMPEROR TIME](https://open.spotify.com/track/7hYGzczP3w04NVdiy5DIZ8) | [ビバラッシュ](https://open.spotify.com/artist/3BsBgnE7jE2Y06f2whXnXi) | [EMPEROR TIME](https://open.spotify.com/album/6ARtEeAR1UN1Ygnr4z9vIk) | 3:37 | 2024-07-03 | 2024-07-24 |
 | [End of Days](https://open.spotify.com/track/7496eOsY66VYmI91bHfJqq) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [End of Days](https://open.spotify.com/album/7frsZXqNIZrhQQZljXzup9) | 4:02 | 2025-07-14 |  |
-| [ENDLESS DANCE \- 花海咲季・月村手毬・藤田ことね ver.](https://open.spotify.com/track/2ttsl75Uxo6AH7UZm0rmrg) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN), [月村手毬](https://open.spotify.com/artist/1TdCkttAqnqM1TqyjwXqGi), [藤田ことね](https://open.spotify.com/artist/6L7jieQ3QgDPkfFDk41GCw) | [ENDLESS DANCE \(花海咲季・月村手毬・藤田ことね ver.\)](https://open.spotify.com/album/7AjvrVLAP7zZsaUeoJQjbq) | 3:21 | 2025-08-05 |  |
+| [ENDLESS DANCE \- 花海咲季・月村手毬・藤田ことね ver.](https://open.spotify.com/track/2ttsl75Uxo6AH7UZm0rmrg) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN), [月村手毬](https://open.spotify.com/artist/1TdCkttAqnqM1TqyjwXqGi), [藤田ことね](https://open.spotify.com/artist/6L7jieQ3QgDPkfFDk41GCw) | [ENDLESS DANCE \(花海咲季・月村手毬・藤田ことね ver.\)](https://open.spotify.com/album/7AjvrVLAP7zZsaUeoJQjbq) | 3:21 | 2025-08-05 | 2025-08-12 |
 | [Endless Happy\-Ending](https://open.spotify.com/track/7ITqaIWbrZIypAwlrtx4T3) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Endless Happy\-Ending](https://open.spotify.com/album/3vYoZofiKCs1378cMmjWCM) | 3:50 | 2024-10-08 | 2024-11-13 |
 | [ENDLESS LABYRINTH](https://open.spotify.com/track/2jtA0PU9bCmIuUCDxVoNFC) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [ENDLESS LABYRINTH](https://open.spotify.com/album/2ZD2G7ou2ascCvgLX2DM6H) | 3:20 | 2023-04-11 | 2023-05-11 |
 | [Endless Love](https://open.spotify.com/track/0StYBemv9yt0DmbCPNUnC7) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love/仲良ピース](https://open.spotify.com/album/329JSn2SToLHrtusx8fN55) | 1:42 | 2022-10-01 | 2022-10-03 |
@@ -822,6 +822,7 @@
 | [Professionalism](https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [Professionalism](https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1) | 4:52 | 2024-04-10 | 2024-07-06 |
 | [Protect You](https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Protect You](https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy) | 3:12 | 2024-07-05 | 2024-10-04 |
 | [PSYCHO:LOGY](https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [PSYCHO:LOGY](https://open.spotify.com/album/7396ox4eZXw2eCJNpYIs7B) | 3:54 | 2022-10-11 | 2022-11-25 |
+| [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-08-11 |  |
 | [Q](https://open.spotify.com/track/3quLLbcBipdInn9sHY3q7e) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [Q](https://open.spotify.com/album/2AlYyM8w72MVLy0BPtu1nI) | 3:35 | 2025-05-27 | 2025-07-05 |
 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 | 2024-10-25 | 2025-01-12 |
 | [Queen of the Night](https://open.spotify.com/track/1gzlOAq7ozJ8X8VIbUN8yd) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [Queen of the Night](https://open.spotify.com/album/3lU8QCp5YQfe488NNe7qQ2) | 4:13 | 2023-10-07 | 2023-12-20 |
@@ -1042,7 +1043,7 @@
 | [TENTO](https://open.spotify.com/track/69Zbz5sTyrvn3v7vIyWYGW) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [OPENING THEME FROM TV SERIES ”IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? IV” TENTO](https://open.spotify.com/album/4aMD2s6KojE4jFNKEhfSID) | 3:40 | 2022-08-23 | 2022-10-19 |
 | [Tenuto](https://open.spotify.com/track/5GITkeU06Cn3mrFCz2eQ55) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Tenuto](https://open.spotify.com/album/5zI76VBCBUciGGE2gErCYo) | 2:50 | 2025-04-15 | 2025-04-30 |
 | [thaumazein \-theme from "Orb: On the Movements of the Earth"](https://open.spotify.com/track/4bAIeBjw6v2z3uxMS8dwuu) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [アニメ「チ。 ー地球の運動についてー」オリジナル・サウンドトラック](https://open.spotify.com/album/39wfmKWvJDJ71CUcSgeytz) | 3:16 | 2025-04-08 | 2025-04-23 |
-| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-04-30 |  |
+| [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 | 2025-04-30 | 2025-08-12 |
 | [The Battle](https://open.spotify.com/track/2W1ZHJtr7vsn2AoUDJCNGv) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [The Battle](https://open.spotify.com/album/4WGyVLdOR7K7WynokIzsl1) | 3:07 | 2024-07-05 | 2024-07-31 |
 | [The Beast](https://open.spotify.com/track/1MkW4oHTfqhCUFsPlvK2cQ) | [WagakkiBand](https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn) | [The Beast](https://open.spotify.com/album/6aZBb7UTppzChDhjWcXmbh) | 3:12 | 2023-07-13 | 2023-10-04 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19LKgWBrXVo5J9bWqJpmGZ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5yVWYuYdwGNCp4fnzsuGOP) | 3:26 | 2022-10-27 | 2022-11-03 |
@@ -1411,6 +1412,7 @@
 | [カラー・リリィの恋文](https://open.spotify.com/track/7Eojb2w0e8zV8r8M6z0geM) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [カラー・リリィの恋文](https://open.spotify.com/album/4cNFuAvGpB1Cp1E8FWL7Fh) | 3:47 | 2022-07-14 | 2022-10-09 |
 | [カレイドスコープ](https://open.spotify.com/track/51Wo6T2rYiQQjpA9BiIaj2) | [古川 慎](https://open.spotify.com/artist/7cqs65sOpEfqF5T0XFnAWc) | [カレイドスコープ](https://open.spotify.com/album/5eedjvP47632slZe95tgan) | 4:11 | 2024-06-12 | 2024-06-26 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-19 | 2024-10-23 |
+| [カーマイン](https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [カーマイン](https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c) | 3:24 | 2025-08-11 |  |
 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-01-09 | 2024-04-05 |
 | [キタカゼ](https://open.spotify.com/track/2KiZEAlUsTNSDzihxCRnB6) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [キタカゼ](https://open.spotify.com/album/4necvS3oFQ2YyMxJrGvyjG) | 3:31 | 2023-01-10 | 2023-04-09 |
 | [キミといた夏を](https://open.spotify.com/track/3RkPDH8p1REs3A4vZxwzla) | [矢野妃菜喜](https://open.spotify.com/artist/63mY6BnojhjJkonAg5CqnS) | [キミといた夏を](https://open.spotify.com/album/4ECO4eetOhlwHzAZtUW7kZ) | 3:55 | 2024-09-10 | 2024-09-20 |

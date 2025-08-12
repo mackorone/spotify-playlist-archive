@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ITZY\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,044 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 18,054 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAMQPJ3HGjx7y+4JGN3RlKU844hGL`
+Snapshot ID: `AAAAAKMS6z+daDRarnvFINvffjgYOJwh`

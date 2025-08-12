@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,289 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,306 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 56 | [Azul Diamante](https://open.spotify.com/track/1BtpSRFBPXnuz3XhrcuGIy) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Romântico, Pt\. 2](https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS) | 3:43 |
 | 57 | [Bagunça na Mente](https://open.spotify.com/track/76LOUbijiT76FQHGfARbAD) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Direto da Selva](https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV) | 3:56 |
 | 58 | [te amo minha mãe](https://open.spotify.com/track/558bTImAD0brWPJaMxDPEn) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI) | [tempo.zip](https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY) | 3:38 |
-| 59 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
+| 59 | [Imaginando Coisas](https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [icedmob](https://open.spotify.com/artist/2c6lGDjkOP3A9RsFP4DVrz), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Cold](https://open.spotify.com/artist/2yj5kYctrH6DViY3gKGUUm) | [Imaginando Coisas](https://open.spotify.com/album/19fl2xItHFfkV3zzZtGYXf) | 3:33 |
 | 60 | [Lares](https://open.spotify.com/track/1iIg8oHDiAdZ3bCRfAba9h) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Pastor](https://open.spotify.com/artist/4o1yYKtnF4zkHTrHvb1wUs) | [Lares](https://open.spotify.com/album/3btWcR2QL8AReqKp8TL7Gw) | 2:19 |
 | 61 | [157 DA PAIXÃO](https://open.spotify.com/track/5fbtLqaCTdccLCXfapABgm) | [GVBE](https://open.spotify.com/artist/2MHy3p4PeBgsb7WMIftgpM), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [157 da Paixão](https://open.spotify.com/album/4xUlSyopGmnUp7BojEjreQ) | 2:49 |
 | 62 | [Quarta de cinzas](https://open.spotify.com/track/4tJklWo2MaSlxSQQlwX1Ec) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Dos Mlk](https://open.spotify.com/artist/6dWDdfqdDSVt4BltsyDBqH) | [Até o Próximo Carnaval Vol.2](https://open.spotify.com/album/7fSiapRFBXxlbVTjJxAe8X) | 2:43 |

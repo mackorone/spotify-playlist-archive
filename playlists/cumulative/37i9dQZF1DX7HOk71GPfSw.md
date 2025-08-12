@@ -4,7 +4,7 @@
 
 > just got chilly 🥶🥶🥶🥶🥶🥶🥶
 
-2,406 songs - 4 day 13 hr 52 min
+2,408 songs - 4 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [blossom](https://open.spotify.com/track/5ebrwLFQKMjDllVyQmxnRF) | [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4), [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P) | [blossom](https://open.spotify.com/album/1c5sBkX4MRDirR4S50GrsT) | 1:56 | 2021-04-19 | 2021-09-21 |
 | [blow in the wind](https://open.spotify.com/track/4sJGikulSfsE9sSaBR4vKK) | [arkko](https://open.spotify.com/artist/6qEyaO9tfXUuTmBp49zUJR), [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [blow in the wind](https://open.spotify.com/album/6qQyiLhCt9romNRH7BsBet) | 2:44 | 2022-11-11 | 2023-02-11 |
 | [blue](https://open.spotify.com/track/5kB8rEV7y5HzSFHCq8ReOV) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [sport 2.0](https://open.spotify.com/album/6fwu1wQfVbGrwrcCJgRQ85) | 1:56 | 2024-01-18 | 2024-03-05 |
-| [blueberries](https://open.spotify.com/track/61f2lolHdWr80POha6Uhxn) | [Aiko Tomi](https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t) | [blueberries](https://open.spotify.com/album/7upK20g19mKrsZkSi9Z4lR) | 2:36 | 2025-04-25 |  |
+| [blueberries](https://open.spotify.com/track/61f2lolHdWr80POha6Uhxn) | [Aiko Tomi](https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t) | [blueberries](https://open.spotify.com/album/7upK20g19mKrsZkSi9Z4lR) | 2:36 | 2025-04-25 | 2025-08-12 |
 | [Bluee](https://open.spotify.com/track/6TxUgi7lC9QkrP2xAn7oAX) | [Angelwinter](https://open.spotify.com/artist/5BMEsJkF3ydybarxMW4BrN) | [Sanitation Crew](https://open.spotify.com/album/234NrrMbPAfkbYKF4xvTW8) | 2:10 | 2021-02-10 | 2021-09-18 |
 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 | 2025-04-04 |  |
 | [Bluffing](https://open.spotify.com/track/1NNJMmLuZuUvqhaB9PC4tz) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Bluffing](https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P) | 2:06 | 2021-12-10 | 2022-02-26 |
@@ -652,6 +652,7 @@
 | [enemies](https://open.spotify.com/track/7nt1sqqWvJFPtbVIKEyp0f) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [headaches](https://open.spotify.com/album/3bjRDHvAsNcF4R9BxW4drH) | 2:13 | 2021-01-23 | 2021-02-26 |
 | [enemy](https://open.spotify.com/track/4Wexl1sQ5LV3xNPFdnEMjv) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [enemy](https://open.spotify.com/album/6HhSMIesyQ2q5tkcM19b0X) | 2:21 | 2020-11-14 | 2021-01-08 |
 | [ENGINE IN THE BACK](https://open.spotify.com/track/3d0N2sq1boRwjmdK1Pc1ma) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR), [Kid Trash](https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh), [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [ENGINE IN THE BACK](https://open.spotify.com/album/2b6EUsEThRPhdFRgdlhHCr) | 2:47 | 2022-04-29 | 2022-08-12 |
+| [Enjoy Yourself \- very cool tutorials Remix](https://open.spotify.com/track/7MVgoiNaYhQaQmkEfzdGU6) | [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua), [very cool tutorials](https://open.spotify.com/artist/15AcC9c53zJObzwpvgY5yO) | [Enjoy Yourself \(very cool tutorials Remix\)](https://open.spotify.com/album/6E1ZtxNZe5CjMni64qIfHF) | 2:42 | 2025-08-11 |  |
 | [ENOUGH!](https://open.spotify.com/track/4WLHZdwcQTzfG8dJN8EP3Z) | [Button Maker](https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ), [billy !](https://open.spotify.com/artist/1GbZO4X2RxogaxtZS4wuPK), [1Booth](https://open.spotify.com/artist/5FIgq85jvm3CcjkjNkb58k) | [ENOUGH!](https://open.spotify.com/album/65vsaiM0kbE1ZEzUn7cj2s) | 1:37 | 2022-05-20 | 2022-10-22 |
 | [errors](https://open.spotify.com/track/6Y5DiwgN7dPztYJofjMXdA) | [Janghoon](https://open.spotify.com/artist/5lBtF5rXbldeAL93fWvuVY) | [errors](https://open.spotify.com/album/4j7Nwy0GuiOSxMBv6zaYJt) | 2:16 | 2021-05-08 | 2021-05-15 |
 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 | 2023-07-21 | 2024-01-23 |
@@ -1268,7 +1269,8 @@
 | [let me die \(feat\. polearm\)](https://open.spotify.com/track/76PniOSbK2YMnHuR85IaOD) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [polearm](https://open.spotify.com/artist/6o0hI3oqnxFcUAqzyQOGPC) | [the long halloween](https://open.spotify.com/album/1AKwe9Ib9H2xHAr9K3Wr52) | 1:55 | 2020-10-16 | 2021-01-08 |
 | [Let Me Fight](https://open.spotify.com/track/08tAIp0mVArkmIdUAnKMsb) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Let Me Fight](https://open.spotify.com/album/0tbp6MUMK5mIJd4GG8soi3) | 2:48 | 2023-07-28 | 2024-01-23 |
 | [LET ME IN](https://open.spotify.com/track/3BH1bCV8rKSRLRtXr7B7CT) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [LET ME IN](https://open.spotify.com/album/1K5HbKJKASHAqunUFc8A2J) | 1:47 | 2024-10-04 | 2025-03-15 |
-| [LET THE MUSIC TALK](https://open.spotify.com/track/4LWqyLie60yP3iMaKc8rYR) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [TURN UP MUSIC VOL\. 1](https://open.spotify.com/album/4jnbc69ZnYJtUogth2x4re) | 2:07 | 2025-05-30 |  |
+| [LET THE MUSIC TALK](https://open.spotify.com/track/4LWqyLie60yP3iMaKc8rYR) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [TURN UP MUSIC VOL\. 1](https://open.spotify.com/album/4jnbc69ZnYJtUogth2x4re) | 2:07 | 2025-05-30 | 2025-08-12 |
+| [LET'S FIND A GOOD MANAGER](https://open.spotify.com/track/7tXoQ1pVNjeG475XTYVgPT) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ) | [pullup to busan 4 morE hypEr summEr it’s gonna bE a fuckin moviE](https://open.spotify.com/album/4TJQ4ze7fqMJIzGB1Y4vTy) | 2:07 | 2025-08-11 |  |
 | [lets go bitch](https://open.spotify.com/track/3ahdEGiKa3Fn5bZfTO4813) | [recovery girl](https://open.spotify.com/artist/2PiVpr8UjimvqGWBq11Hod), [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [recovery girl \(deluxe edition\)](https://open.spotify.com/album/7IhZtbHfEcLfL6f4oBVyAd) | 0:46 | 2020-10-13\* | 2021-02-10 |
 | [letterfromadeathbed](https://open.spotify.com/track/0V2rYqtBTcm9YKU7GnHpEr) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [letterfromadeathbed](https://open.spotify.com/album/4Wqck6hF61ejSvbMCtzMJo) | 2:55 | 2022-06-17 | 2022-08-12 |
 | [lew manifest](https://open.spotify.com/track/0CdirDwBhXNisSHgErKdme) | [clearlew](https://open.spotify.com/artist/1G7GO69qXe0bNbenX5GQjb) | [Aspect Place](https://open.spotify.com/album/3AEvce049jfIQfkafpWZYy) | 3:13 | 2025-08-01 |  |

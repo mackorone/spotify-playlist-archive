@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Israel Salazar
 
-181 songs - 18 hr 54 min
+182 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Eu Tenho Você](https://open.spotify.com/track/7HLxTNn9psg9mipna5QjIC) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Eu Tenho Você](https://open.spotify.com/album/0BepCUYcUCobNvuZ7IaSN8) | 6:34 | 2022-09-02 |  |
 | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex) | [Incendiários](https://open.spotify.com/artist/2jEIa3BLL1ZFailXlZGm0x), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Eu Tenho Você \(Ao Vivo\)](https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T) | 7:51 | 2025-04-25 |  |
 | [Eu Vou Fazer \- Ao Vivo](https://open.spotify.com/track/4xrPTTStNmUyjpuI5bVRxy) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Vou Fazer \(Ao Vivo\)](https://open.spotify.com/album/5qgTVU2kTbNcDmm26KLT2r) | 4:36 | 2025-06-13 |  |
-| [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-14 |  |
+| [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-14 | 2025-08-12 |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-02 | 2023-09-02 |
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2024-07-19 |  |
 | [Fumaça \(Ao Vivo\)](https://open.spotify.com/track/6V37HbGkTESO25ksBhRIxf) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Fumaça \(Ao Vivo\)](https://open.spotify.com/album/2vbxSLyfnhIGgnrxmTZcbz) | 6:48 | 2022-09-02 | 2022-10-08 |
@@ -102,6 +102,7 @@
 | [Lugar Secreto](https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 | 2022-09-02 | 2024-04-19 |
 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 | 2023-02-24 | 2025-05-03 |
 | [Me Lembro \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Lembro \(feat\. Gabriela Rocha\) \[Ao Vivo\]](https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw) | 8:55 | 2022-09-02 | 2023-02-07 |
+| [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 | 2025-08-11 |  |
 | [Mesmo Sem Entender](https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE) | 3:40 | 2022-09-02 |  |
 | [Mesmo Sem Entender](https://open.spotify.com/track/6KDsJnkSLvgIKgDxLa2fza) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 3:40 | 2024-01-05 | 2024-09-05 |
 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 | 2025-02-21 |  |

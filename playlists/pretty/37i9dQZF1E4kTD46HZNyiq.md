@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, The Wild Wind, Laureline and more
+> With Laureline, Rhineland, The Wild Wind and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,125 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Looking for Love](https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:58 |
 | 50 | [Dissonance](https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Dissonance](https://open.spotify.com/album/3cEKSeXdmw4sOgRGcSrWWU) | 2:35 |
 
-Snapshot ID: `aJlE9QAAAAA1T3PrIxk+0bya1dVujVAP`
+Snapshot ID: `aJqfWwAAAAC9ruJSrDwq591hugtkhhsH`

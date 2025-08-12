@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "My Blue has always been Shattered by the Night",
+        "url": "https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "Nothing but Morning",
+      "url": "https://open.spotify.com/track/1orzWbS2okDKB1vWEBP7KL"
+    },
+    {
+      "album": {
         "name": "One Confess (Original Soundtrack from Hear Me: Our Summer)",
         "url": "https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 180000,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/0qVuFvG0cSQgsPt9AxqKYk"
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 196244,
       "name": "To My Beloved",
       "url": "https://open.spotify.com/track/1UL1Xm1RRo2SZqVJ2lzS33"
@@ -2410,6 +2428,24 @@
       "duration_ms": 217400,
       "name": "\uc624\ub298\ub3c4 \uad7f\ub098\uc787 Good Night",
       "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
+    },
+    {
+      "album": {
+        "name": "\ub9d0\ubfd0\uc778 \ub9d0",
+        "url": "https://open.spotify.com/album/1WUuPmt9jury1pbp6tLvrB"
+      },
+      "artists": [
+        {
+          "name": "\uc774\ucd08\uc5f0",
+          "url": "https://open.spotify.com/artist/2f5mws01llDCNyprTimrpq"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191047,
+      "name": "\uc695\uc2ec\uc7c1\uc774",
+      "url": "https://open.spotify.com/track/29A5fbYZGS3SulWGjPH0jH"
     },
     {
       "album": {

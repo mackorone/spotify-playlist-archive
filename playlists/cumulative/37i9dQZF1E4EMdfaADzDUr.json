@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, winterburn, Birrd and more",
+  "description": "With After Cooking, winterburn, Leblanc and more",
   "name": "Klangphonics Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "Marius",
+        "url": "https://open.spotify.com/album/1SIk51DJvRm5m7auCKrWwO"
+      },
+      "artists": [
+        {
+          "name": "Mokado",
+          "url": "https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "1968",
+      "url": "https://open.spotify.com/track/00rxTXpdxJd0iMnP7ltuya"
+    },
     {
       "album": {
         "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
@@ -16,7 +34,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 210000,
       "name": "711",
       "url": "https://open.spotify.com/track/5r2Rbf1RxKG5ge8wbzzqOF"
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 272156,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4ZqVASqps0VbRI7ar8NmNh"
@@ -154,7 +172,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 318145,
       "name": "Beautiful Losers (feat. Rangleklods)",
       "url": "https://open.spotify.com/track/0qVXTIQedCfQU4mXL0HmHw"
@@ -226,7 +244,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 366942,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/3hS7bI9vIRu1kflLaqj61a"
@@ -342,7 +360,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -432,7 +450,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 165800,
       "name": "Eternal Bond",
       "url": "https://open.spotify.com/track/0B2GF5eu7ODZfyY5EE25EI"
@@ -472,7 +490,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 306885,
       "name": "Exhausted",
       "url": "https://open.spotify.com/track/6jMGsyol8kq1SxuLXyVkSb"
@@ -548,7 +566,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 366512,
       "name": "Ghost (Find Me Again)",
       "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
@@ -584,7 +602,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 208264,
       "name": "Got Soul ?",
       "url": "https://open.spotify.com/track/7imJbaRT6Krgc28m738sK5"
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/0nwMcEP1SLR4w3OtxXJJKo"
+      },
+      "artists": [
+        {
+          "name": "Marek Hemmann",
+          "url": "https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Jumbo",
+      "url": "https://open.spotify.com/track/3dUNxIrkkvqS8cDXR48R8V"
+    },
+    {
+      "album": {
         "name": "La Dibona",
         "url": "https://open.spotify.com/album/3r5LEiMFCNcGaZbDT2a5vl"
       },
@@ -754,7 +790,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -874,7 +910,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 374820,
       "name": "Moonchild - Club Edit",
       "url": "https://open.spotify.com/track/2mD6bD4dYbpXOze6U9hwCj"
@@ -928,7 +964,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 160350,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/6xhPA7A3DkKodKHBiD6KKm"
@@ -1094,7 +1130,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 285213,
       "name": "Pave Your Way",
       "url": "https://open.spotify.com/track/6veznedhcZMQNRWxCudFtm"
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 411720,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/5bgSkiClqBmuItDcFADjf6"
@@ -1274,7 +1310,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 269471,
       "name": "Sf",
       "url": "https://open.spotify.com/track/1EHBSrr2pavrLkYwHn9IHD"
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 230005,
       "name": "Suicul",
       "url": "https://open.spotify.com/track/6iUUDX6KuKKv0DUSUgmLjU"
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 175102,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/6I33IdXeXsU8anxBWIxSZO"
@@ -1494,7 +1530,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 280312,
       "name": "there is nothing to be afraid of",
       "url": "https://open.spotify.com/track/3hHbItjQktd8Ycyam2TZIJ"
@@ -1584,7 +1620,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -1642,7 +1678,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 191026,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3HnWv0RHxCHGxqSqbZmJjT"
@@ -1682,6 +1718,24 @@
       "duration_ms": 245542,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
+    },
+    {
+      "album": {
+        "name": "White Clouds",
+        "url": "https://open.spotify.com/album/3Y0O2how8slBvpRxbmWH1t"
+      },
+      "artists": [
+        {
+          "name": "Adrien Kepler",
+          "url": "https://open.spotify.com/artist/5EfRMGFkSBRPFA7PtqqC4x"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489523,
+      "name": "White Clouds",
+      "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"
     },
     {
       "album": {
@@ -1736,7 +1790,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

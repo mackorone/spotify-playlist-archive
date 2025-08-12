@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,097 songs - 4 day 12 hr 15 min
+2,098 songs - 4 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,7 +862,7 @@
 | [HOODRAT](https://open.spotify.com/track/71MzcOebEC5KoWBbzvFPkj) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:42 | 2024-02-12 | 2024-02-15 |
 | [Hop Ind I Bilen \(feat\. Gilli\)](https://open.spotify.com/track/5UweB9ExGhruhWeEYSHmG1) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Dit Liv Dit Valg](https://open.spotify.com/album/09R2hCTELJT7zgswNn3uj4) | 3:18 | 2023-03-11 | 2023-03-18 |
 | [Hope This Song Is For You \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/3gOPaJJHoZiTi24moIyJyZ) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 2:35 | 2023-06-04 | 2023-08-27 |
-| [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8) | 3:11 | 2025-08-10 |  |
+| [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/track/0yDtk8qHW7gg4obQ96cG0z) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Horsens \(feat\. Sofie1998\)](https://open.spotify.com/album/1kwC9j8e9iu2MckYWWGPh8) | 3:11 | 2025-08-10 | 2025-08-12 |
 | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/track/1JnBJ0HxKhcgeFCIp1efGp) | [Elias Buch](https://open.spotify.com/artist/5r8dWcI1AJLYOkxyP5twtQ), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Hot Girl Summer \(feat\. Amara\)](https://open.spotify.com/album/78dKPGZQ2BCRvKJiwsXFHX) | 2:21 | 2024-05-27 | 2024-06-01 |
 | [Hot!](https://open.spotify.com/track/7xWiCG3N7tFgPTNGVYQoq8) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Nik & Jay](https://open.spotify.com/album/0cINk796XT7YhwuL0okHpE) | 3:12 | 2023-01-01 | 2025-01-04 |
 | [HOTBOYZ](https://open.spotify.com/track/6FPE8PdEpNUty0GIpN9Lne) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 1:49 | 2021-09-25 | 2021-10-10 |
@@ -874,6 +874,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-23 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 | 2022-11-05 | 2023-04-02 |
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2022-09-03 | 2022-11-06 |
+| [How It’s Done](https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:56 | 2025-08-11 |  |
 | [Hugos Vuggevise](https://open.spotify.com/track/6o7Araj8IZRSBA2hTJMcbF) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Sortedam](https://open.spotify.com/album/1XJYMVpTiA0OrK7mgBsAnv) | 3:57 | 2024-10-26 | 2024-11-02 |
 | [Humør \(Artigeardit X Lamin\)](https://open.spotify.com/track/6Xw6U43zV89WSBkx2a0NfW) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Agenda](https://open.spotify.com/album/04DGAw94srEOUmHovIOyWW) | 2:42 | 2021-10-17 | 2021-10-23 |
 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 | 2024-05-11 | 2025-04-02 |

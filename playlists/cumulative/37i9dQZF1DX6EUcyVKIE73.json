@@ -82,7 +82,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 1048794,
       "name": "Chhayanat: Sakhi Mora in Rupak",
       "url": "https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-30",
+      "date_removed": null,
       "duration_ms": 603173,
       "name": "Jin Ke Man Ram Biraaje - Raga Malkauns - Khayal Vilambit - Ektaal / Angan Aaye Balama - Raga Malakauns - Khayal Drut - Ektaal",
       "url": "https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO"
@@ -1332,16 +1332,16 @@
       },
       "artists": [
         {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
-        {
           "name": "Zakir Hussain",
           "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
         },
         {
           "name": "Shankar Mahadevan",
           "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
         },
         {
           "name": "Nakul Chugh",

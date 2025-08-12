@@ -1,6 +1,6 @@
 {
   "description": "Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place \ud83c\udf24\ufe0f",
-  "num_followers": 287577,
+  "num_followers": 287587,
   "original_name": "Ambient Bliss",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
+        "name": "take care",
+        "url": "https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj"
+      },
+      "artists": [
+        {
+          "name": "limbus vita",
+          "url": "https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ"
+        }
+      ],
+      "duration_ms": 103906,
+      "name": "take care",
+      "url": "https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
         "name": "Alaskan Dream",
         "url": "https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 320965,
       "name": "Alaskan Dream",
       "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
-        "name": "take care",
-        "url": "https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj"
-      },
-      "artists": [
-        {
-          "name": "limbus vita",
-          "url": "https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ"
-        }
-      ],
-      "duration_ms": 103906,
-      "name": "take care",
-      "url": "https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Makes Me Want You",
-        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 201457,
-      "name": "Makes Me Want You",
-      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "3PM",
         "url": "https://open.spotify.com/album/4IP1cqhzUIMgb6KYzW8SZG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 135000,
       "name": "3PM",
       "url": "https://open.spotify.com/track/0W8BAhQCzcccgD4EABB33E"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Makes Me Want You",
+        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 201457,
+      "name": "Makes Me Want You",
+      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1175,38 +1175,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
-      },
-      "artists": [
-        {
-          "name": "INFINITY",
-          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
-        }
-      ],
-      "duration_ms": 644500,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
-      },
-      "artists": [
-        {
-          "name": "Hiroshi Yoshimura",
-          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
-        }
-      ],
-      "duration_ms": 362320,
-      "name": "Flora",
-      "url": "https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "Infinite Present",
         "url": "https://open.spotify.com/album/6Gx1dNtc2JOmqio0hi3f9q"
       },
@@ -1227,22 +1195,34 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Amaryllis Dream",
-        "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
       },
       "artists": [
         {
-          "name": "Ishq",
-          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
-        },
-        {
-          "name": "Yunomi",
-          "url": "https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu"
+          "name": "Hiroshi Yoshimura",
+          "url": "https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB"
         }
       ],
-      "duration_ms": 238701,
-      "name": "Fire Flys",
-      "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
+      "duration_ms": 362320,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/2pIFJqak7JsXzoYbdslbmU"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
+      },
+      "artists": [
+        {
+          "name": "INFINITY",
+          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
+        }
+      ],
+      "duration_ms": 644500,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1259,6 +1239,26 @@
       "duration_ms": 642066,
       "name": "PHANTOM BRICKWORKS VII",
       "url": "https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Amaryllis Dream",
+        "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        },
+        {
+          "name": "Yunomi",
+          "url": "https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu"
+        }
+      ],
+      "duration_ms": 238701,
+      "name": "Fire Flys",
+      "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "The Double Life Of A Seahorse",
-        "url": "https://open.spotify.com/album/4jkoHLwt4QrMGhYP3Xv95D"
-      },
-      "artists": [
-        {
-          "name": "Pan-American",
-          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
-        },
-        {
-          "name": "Kramer",
-          "url": "https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg"
-        }
-      ],
-      "duration_ms": 325737,
-      "name": "The Double Life Of A Seahorse",
-      "url": "https://open.spotify.com/track/3PTWXjyQiSYkkVAhPsVQ3G"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/2Ity2dYqiNbbL5Mc8DJNyN"
       },
@@ -1375,18 +1355,22 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/10WiPwjWxFLLYMhcj8E9BC"
+        "name": "The Double Life Of A Seahorse",
+        "url": "https://open.spotify.com/album/4jkoHLwt4QrMGhYP3Xv95D"
       },
       "artists": [
         {
-          "name": "Devon Rea",
-          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
+          "name": "Pan-American",
+          "url": "https://open.spotify.com/artist/7idm1Z2kk9ffIobkLlZ2Ds"
+        },
+        {
+          "name": "Kramer",
+          "url": "https://open.spotify.com/artist/1jacVtMSOup3dqdSEeegZg"
         }
       ],
-      "duration_ms": 126000,
-      "name": "While We Wait",
-      "url": "https://open.spotify.com/track/61YkyQUuii0m5rHxcD1ntq"
+      "duration_ms": 325737,
+      "name": "The Double Life Of A Seahorse",
+      "url": "https://open.spotify.com/track/3PTWXjyQiSYkkVAhPsVQ3G"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1407,22 +1391,18 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Que llueva ```",
-        "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/10WiPwjWxFLLYMhcj8E9BC"
       },
       "artists": [
         {
-          "name": "Fernanda Ulibarri",
-          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
-        },
-        {
-          "name": "David Ralicke",
-          "url": "https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y"
+          "name": "Devon Rea",
+          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
         }
       ],
-      "duration_ms": 268327,
-      "name": "Que llueva ```",
-      "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
+      "duration_ms": 126000,
+      "name": "While We Wait",
+      "url": "https://open.spotify.com/track/61YkyQUuii0m5rHxcD1ntq"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1439,6 +1419,26 @@
       "duration_ms": 501453,
       "name": "Making Gardens Out of Silence",
       "url": "https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Que llueva ```",
+        "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Ulibarri",
+          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
+        },
+        {
+          "name": "David Ralicke",
+          "url": "https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y"
+        }
+      ],
+      "duration_ms": 268327,
+      "name": "Que llueva ```",
+      "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1515,30 +1515,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Openness",
-        "url": "https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc"
-      },
-      "artists": [
-        {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
-        },
-        {
-          "name": "Josh Johnson",
-          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
-        },
-        {
-          "name": "Carlos Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
-        }
-      ],
-      "duration_ms": 199495,
-      "name": "Openness",
-      "url": "https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "Music To Work To",
         "url": "https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 377560,
       "name": "Mudita",
       "url": "https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Openness",
+        "url": "https://open.spotify.com/album/5fThzHVAwnDedRdlqsQQTc"
+      },
+      "artists": [
+        {
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "duration_ms": 199495,
+      "name": "Openness",
+      "url": "https://open.spotify.com/track/4UoPQ2JPcVLpb3J45ddOyK"
     },
     {
       "added_at": "2025-07-17 09:41:07",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-07-17 09:41:07",
       "album": {
-        "name": "Blizz",
-        "url": "https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9"
-      },
-      "artists": [
-        {
-          "name": "Simon Popp",
-          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
-        }
-      ],
-      "duration_ms": 328778,
-      "name": "Lithe",
-      "url": "https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5"
-    },
-    {
-      "added_at": "2025-07-17 09:41:07",
-      "album": {
         "name": "among the trees",
         "url": "https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 118500,
       "name": "among the trees",
       "url": "https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b"
+    },
+    {
+      "added_at": "2025-07-17 09:41:07",
+      "album": {
+        "name": "Blizz",
+        "url": "https://open.spotify.com/album/6rzMe09QPlvWFvW1hhrxS9"
+      },
+      "artists": [
+        {
+          "name": "Simon Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
+        }
+      ],
+      "duration_ms": 328778,
+      "name": "Lithe",
+      "url": "https://open.spotify.com/track/5tFLJyoBQkbIFz3YZ2SfF5"
     },
     {
       "added_at": "2025-07-17 09:41:07",

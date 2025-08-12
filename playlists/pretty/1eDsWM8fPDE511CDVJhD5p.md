@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1eDsWM8fPDE511CDVJhD5p.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、クラブで聴きたいクールなボカロ曲を選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 203 likes - 40 songs - 2 hr 27 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 214 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

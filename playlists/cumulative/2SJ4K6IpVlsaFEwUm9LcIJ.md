@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-679 songs - 1 day 15 hr 48 min
+682 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Almost Sleeping \- Edit](https://open.spotify.com/track/0wmL7X2D8eUb99yNFjdqgs) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Almost Sleeping](https://open.spotify.com/album/6MQmfI8qfBUgtk9t16unvy) | 3:48 | 2025-07-27 |  |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2024-01-13 | 2024-03-10 |
 | [Alonzo](https://open.spotify.com/track/1xpGsiXL52FHxR6jCr8gzL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [This Time](https://open.spotify.com/album/4UsDilRDkv7adgos4EJlF6) | 5:26 | 2024-12-06 | 2025-01-12 |
+| [Also With Each Other](https://open.spotify.com/track/7rqFfHYHu9QmuCyPJY47u8) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 2:30 | 2025-08-11 |  |
 | [Amanogawa](https://open.spotify.com/track/2BnVjXTKGlDgBw6QMWuXOw) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Image 1983 \- 1998](https://open.spotify.com/album/1VOLtARcWRJTQHf0NJJG4v) | 3:12 | 2025-01-21 | 2025-03-02 |
 | [Amponsah](https://open.spotify.com/track/3QXQ4J0akuPQjXS8SRpOrd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/3fS88YBSilKVWgbZ4BksxS) | 4:17 | 2024-05-16 | 2024-07-12 |
 | [Amy](https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 2:40 | 2024-09-28 | 2024-11-14 |
@@ -66,6 +67,7 @@
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
 | [Be Good To Them Always](https://open.spotify.com/track/6ZjuwJor7BsyPUUXilxGQE) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 4:51 | 2025-06-22 | 2025-07-04 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 | 2024-07-12 |
+| [Believe Me](https://open.spotify.com/track/3Gh6jgFviAJ4rgjZM69ME2) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 3:36 | 2025-08-11 |  |
 | [Believer \- Fingers Deep\-Funk Remix](https://open.spotify.com/track/6Pg1k2lHck2HUrAcMuWz4o) | [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z), [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Believer / Can U Read Me?](https://open.spotify.com/album/4l8FsRiQpbxROp8cQEDPil) | 8:38 | 2025-06-15 | 2025-07-04 |
 | [Bell Buoy](https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 4:16 | 2024-03-09 | 2024-05-16 |
 | [ber3ft](https://open.spotify.com/track/5HiL7kT2F6vtzGuBEhxrQc) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0) | [ber3ft](https://open.spotify.com/album/4Vls2ltBHw9qeDJzap7xCs) | 1:37 | 2025-05-19 | 2025-07-04 |
@@ -654,6 +656,7 @@
 | [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 | 2025-07-17 |  |
 | [What A Day For Me](https://open.spotify.com/track/7osv3MQ5sRaX2XMCil2Xp9) | [Harumi](https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO) | [Harumi](https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi) | 2:47 | 2024-06-03 | 2024-07-12 |
 | [What About Me](https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk) | [The Exceptional Three](https://open.spotify.com/artist/2tQWtWlNuBkDHrb61qnmuZ) | [Eccentric Soul: The Way Out Label](https://open.spotify.com/album/62l0ON6TJvgt4Bacsy80Lj) | 3:00 | 2024-09-18 | 2024-11-14 |
+| [What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0) | [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [5'll Getcha Ten](https://open.spotify.com/album/1aj1yHiy7gu8AqNsu97zij) | 3:28 | 2025-08-11 |  |
 | [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 | 2025-04-15 | 2025-05-09 |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
 | [When You Love Someone](https://open.spotify.com/track/37LXvMkc6YhGGEoTQn6CHi) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 7:11 | 2025-05-17 | 2025-07-04 |

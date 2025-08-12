@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125095,
+  "num_followers": 125090,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUc1KkQmgKyjZB+dKv7HYcAiBUledb",
+  "snapshot_id": "AAAUdKa1ku3QzSX/5Nt90FzlXfftf6/4",
   "tracks": [
+    {
+      "added_at": "2025-08-11 15:03:58",
+      "album": {
+        "name": "Remember, There's Always a Tomorrow",
+        "url": "https://open.spotify.com/album/0IbCDkoHPgqsns4S7v0inh"
+      },
+      "artists": [
+        {
+          "name": "No Mana",
+          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
+        }
+      ],
+      "duration_ms": 194361,
+      "name": "Remember, There's Always a Tomorrow",
+      "url": "https://open.spotify.com/track/0PiN9eFw4GJ4k4E8ZI911P"
+    },
     {
       "added_at": "2025-08-08 14:38:38",
       "album": {

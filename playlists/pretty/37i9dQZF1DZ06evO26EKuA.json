@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 456173,
+  "num_followers": 456217,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAADzZ3R7dYxSTymHLyybxofy",
+  "snapshot_id": "aJfhAAAAAADD6AOs9Yob8aPebv6B8Yzg",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Se Parece A T\u00ed",
-        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "Y Se Parece A Ti",
-      "url": "https://open.spotify.com/track/0XRCG6jacQjl0EkLJheIR8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lobo Domesticado",
         "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 206386,
       "name": "Porque Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Se Parece A T\u00ed",
+        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "Y Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0XRCG6jacQjl0EkLJheIR8"
     },
     {
       "added_at": null,

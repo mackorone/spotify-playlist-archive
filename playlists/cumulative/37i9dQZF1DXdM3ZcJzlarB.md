@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese
 
-302 songs - 1 day 5 hr 11 min
+302 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Si te Vas](https://open.spotify.com/track/6WRLeJo5Z889waku7dElld) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [Si te Vas](https://open.spotify.com/album/4C1XtgaJyNHJGmIg1v9jYV) | 3:45 | 2025-02-28 |  |
 | [Smoothy](https://open.spotify.com/track/1kKlDmOKaMLAj3gbu0O1xK) | [Chapa & Castelo](https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH) | [Smoothy](https://open.spotify.com/album/0bXhaJCdZZTSaZxMjBbWMm) | 7:06 | 2025-03-19 |  |
 | [Solo le pido a Dios](https://open.spotify.com/track/1skkPGNyYlH65spqAIgs0Q) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Solo le pido a Dios](https://open.spotify.com/album/6LrfdNpjcDWf0lljGfqrKY) | 6:14 | 2025-02-28 | 2025-03-20 |
-| [Someday](https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Someday](https://open.spotify.com/album/67f7jfkzTyzPvdEVE3mBpQ) | 1:15 | 2025-07-25 |  |
+| [Someday](https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Someday](https://open.spotify.com/album/67f7jfkzTyzPvdEVE3mBpQ) | 3:15 | 2025-07-25 |  |
 | [Something Like This](https://open.spotify.com/track/1kNCtmGN7BKuWZZC3coMDV) | [Muter](https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk) | [Something Like This](https://open.spotify.com/album/1Uvh6MoYnao9DEPoqg91wZ) | 2:49 | 2025-03-19 |  |
 | [Southern Sun \- Anunnakis Remix](https://open.spotify.com/track/3tRyvyNRKsj5GVp6HzZ4Ln) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Anunnakis](https://open.spotify.com/artist/558YA9OfxNMkjUzyRyGRmn), [Carla Werner](https://open.spotify.com/artist/3SMF5D7b8NM3YFSsgu9WQ9) | [Southern Sun \(Anunnakis Remix\)](https://open.spotify.com/album/4o93VExtyaKljkFk3mxJez) | 4:19 | 2024-03-15 |  |
 | [Speak Your Truth](https://open.spotify.com/track/3zyNnvdvhR6uYkpkuFfLNB) | [Zisko](https://open.spotify.com/artist/7zGd5iIunxYB9juugujqqS) | [Speak Your Truth EP](https://open.spotify.com/album/2om3kx2VVpQuk1pLlU7SaM) | 4:52 | 2025-03-20 | 2025-06-06 |

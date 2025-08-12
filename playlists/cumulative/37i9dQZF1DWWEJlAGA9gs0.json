@@ -1125,6 +1125,32 @@
     },
     {
       "album": {
+        "name": "Brahms: Cello Sonatas - Stanford: Ballata",
+        "url": "https://open.spotify.com/album/1TFv4wvn50Secdb40t5pdw"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Steffan Morris",
+          "url": "https://open.spotify.com/artist/5SiGTrEzp95IAN2YDsNDhM"
+        },
+        {
+          "name": "Alasdair Beatson",
+          "url": "https://open.spotify.com/artist/2E3fERoPtQRVvs5gfbxPmK"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350333,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: II. Allegro quasi Menuetto",
+      "url": "https://open.spotify.com/track/3jlPUJL3VLDVT9M9j3DmzT"
+    },
+    {
+      "album": {
         "name": "Bach: Unaccompanied Cello Suites (Remastered)",
         "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
       },

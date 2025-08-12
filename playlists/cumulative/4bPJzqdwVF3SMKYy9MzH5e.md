@@ -4,7 +4,7 @@
 
 > 
 
-2,229 songs - 4 day 23 hr 43 min
+2,233 songs - 4 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Baby in Blue](https://open.spotify.com/track/4SSpUNIZ8HnX52jWrmyVmJ) | [Madisenxoxo](https://open.spotify.com/artist/2S2x3n1BXskbkRdEdj5gSB) | [Baby in Blue](https://open.spotify.com/album/1hbf7WZ4YxDJ4CQ7rLCQ8m) | 3:55 | 2021-08-05 |  |
 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 | 2021-08-05 |  |
 | [Babyface Savage \(feat\. Tory Lanez\)](https://open.spotify.com/track/2xB64x7pRS8Qa9uuZktOnA) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Babyface Savage \(feat\. Tory Lanez\)](https://open.spotify.com/album/77mSJtFjKK4LgSezqLH6yT) | 2:41 | 2021-08-05 |  |
+| [back of my mind](https://open.spotify.com/track/1uFjhHmje5HzyAqU0SXJ2g) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [back of my mind](https://open.spotify.com/album/4e1CZR6MJ1njKbxxAajWG5) | 1:47 | 2025-08-11 |  |
 | [Back of the Bar](https://open.spotify.com/track/76tQeZYkmTgfYY0zyKdWWs) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 2:35 | 2021-08-05 |  |
 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 | 2022-02-18 |  |
 | [Backmask](https://open.spotify.com/track/24Mp5KQUyFUD1L94a671Hr) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [Frankenstein Girls Will Seem Strangely Sexy](https://open.spotify.com/album/4Ii2BtJDsrOXL8EkrLvzAm) | 2:39 | 2023-05-09 |  |
@@ -429,6 +430,7 @@
 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 | 2025-03-30 |  |
 | [Cola Song \(feat\. J Balvin\)](https://open.spotify.com/track/2fO3YS5ACT08fn42bBd3HA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:18 | 2021-08-05 |  |
 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 | 2022-02-04 |  |
+| [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 | 2025-08-11 |  |
 | [COLMILLO](https://open.spotify.com/track/15U5RHzuLMPNFThQqfKL0U) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 4:25 | 2024-08-26 |  |
 | [Coma](https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I Want to Die In New Orleans](https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn) | 2:17 | 2023-02-20 |  |
 | [Combat](https://open.spotify.com/track/054IXIFI9vkYEzsMW0bgNi) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:46 | 2022-04-03 |  |
@@ -968,6 +970,7 @@
 | [I Miss The Rage \- Majetso Remix](https://open.spotify.com/track/00FVftitVz66eYdKDeV1d4) | [Majesto Mixer](https://open.spotify.com/artist/3n8hx07ig0HwaiQhWRaRtU), [Mario Judah](https://open.spotify.com/artist/3PBfT9rikL0dBYKlM4e9DW) | [I Miss The Rage \(Majetso Remix\)](https://open.spotify.com/album/7AOjpAvXD2KjMd0lNlAu5p) | 2:55 | 2021-08-05 |  |
 | [I Must Apologise](https://open.spotify.com/track/2rrq3SGYxk90xLx5fMmPhZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:48 | 2021-11-14 |  |
 | [I Need Help Immediately](https://open.spotify.com/track/5U5k9RioW2s5hCU3sT8pP7) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:21 | 2021-11-14 |  |
+| [I Need You Lovin](https://open.spotify.com/track/12KGCLMVt2cm25rjlrhJRl) | [El Gordo](https://open.spotify.com/artist/5aMlxNKj1GyPyxzvc4DWkI) | [I Need You Lovin](https://open.spotify.com/album/6tBBSBIudTiUscaldk3NQr) | 5:39 | 2025-08-11 |  |
 | [I Saw an Angel](https://open.spotify.com/track/4PqdOR9uAfyNp67P9k3bH2) | [Puzzle](https://open.spotify.com/artist/3JDZy6EWo6V8yABANunf6V) | [Soaring](https://open.spotify.com/album/3piPM3MXYU1wmB9yz7UHcQ) | 2:43 | 2021-08-05 |  |
 | [I Still Do](https://open.spotify.com/track/6MKUyShKqxQIIe3i07UgTg) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [I Still Do](https://open.spotify.com/album/4gHkEZp2eeMft0cTTHwmH9) | 2:27 | 2021-08-05 |  |
 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:37 | 2021-08-05 |  |
@@ -1523,6 +1526,7 @@
 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 | 2024-08-13 |  |
 | [Pop like this Pt\. 2](https://open.spotify.com/track/2Ct0MnmqHDvjLqpi5gxcSM) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2](https://open.spotify.com/album/6pNuMVebkxgLAeQsYOQNyQ) | 1:39 | 2024-06-17 |  |
 | [Pop Style](https://open.spotify.com/track/5mPSyjLatqB00IkPqRlbTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:32 | 2021-08-05 |  |
+| [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2025-08-11 |  |
 | [Portrait of Ned](https://open.spotify.com/track/70iAPmTJ1w6QQq4zMYmFBy) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 1:53 | 2021-08-05 |  |
 | [Posing in Bondage](https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Polyvinyl 4\-Track Singles Series, Vol\. 3](https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak) | 2:07 | 2023-06-16 |  |
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-08-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 119527,
+  "num_followers": 119566,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-03-14 05:25:23",
       "album": {
+        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
+        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 199067,
+      "name": "Dancing Time",
+      "url": "https://open.spotify.com/track/6GIBtvIijjv5EzlgEO04I7"
+    },
+    {
+      "added_at": "2025-03-14 05:25:23",
+      "album": {
         "name": "Neria",
         "url": "https://open.spotify.com/album/5B7lY3JZxODBU5wiC3q8E2"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 357181,
       "name": "Neria",
       "url": "https://open.spotify.com/track/2WvXv4HvAc3giCyj79UdSt"
-    },
-    {
-      "added_at": "2025-03-14 05:25:23",
-      "album": {
-        "name": "Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",
-        "url": "https://open.spotify.com/album/639rxZbr7rGfrEmpphgWuj"
-      },
-      "artists": [
-        {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
-        }
-      ],
-      "duration_ms": 199067,
-      "name": "Dancing Time",
-      "url": "https://open.spotify.com/track/6GIBtvIijjv5EzlgEO04I7"
     }
   ],
   "unique_name": "Classic Afropop",

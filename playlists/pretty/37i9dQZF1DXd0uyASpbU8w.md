@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Shekhinah, Gunna, Amaarae, Ed Sheeran and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,864 likes - 78 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,927 likes - 78 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 77 | [Sound](https://open.spotify.com/track/6Qn7OQLi6UyI9uwGnzykvj) | [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Sound](https://open.spotify.com/album/17KYUfKL2ytG7IHCynUhyf) | 3:15 |
 | 78 | [The End.](https://open.spotify.com/track/5nRf4G17MhntEFntMcvfjE) | [TVPIWA](https://open.spotify.com/artist/3YjWqx16pQDCg9sHVBTr00), [Shona Prince](https://open.spotify.com/artist/46TiDPwFWUaAnii3eMjcme), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [The End.](https://open.spotify.com/album/51GP9Glh7p8rzr0DaQL841) | 2:36 |
 
-Snapshot ID: `AAAAAPzuLIOgXcH9KPNzab6a810KqTlw`
+Snapshot ID: `AAAAANJ3sdeaQho8eiJOeRcF4mY+ug/t`

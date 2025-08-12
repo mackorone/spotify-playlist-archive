@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 204121,
+  "num_followers": 204348,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAAAGpdx5FcoQCMbvyJWwFoRN",
+  "snapshot_id": "aJfhAAAAAABw/BLAkpUVyz3l9WCrQqhM",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Wish (Live from The O2 Arena)",
-        "url": "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 227351,
-      "name": "Death Wish - Live from The O2 Arena",
-      "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
+      "duration_ms": 164693,
+      "name": "Felt Good About You",
+      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Death Wish (Live from The O2 Arena)",
+        "url": "https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Felt Good About You",
-      "url": "https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg"
+      "duration_ms": 227351,
+      "name": "Death Wish - Live from The O2 Arena",
+      "url": "https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
       "duration_ms": 258901,
       "name": "Difficult",
       "url": "https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 256868,
+      "name": "I Knew It, I Know You - Live From Vevo",
+      "url": "https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 252850,
       "name": "Cedar",
       "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 256868,
-      "name": "I Knew It, I Know You - Live From Vevo",
-      "url": "https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1"
     },
     {
       "added_at": null,

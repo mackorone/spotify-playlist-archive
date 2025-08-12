@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 203649,
       "name": "20 Anymore",
       "url": "https://open.spotify.com/track/3N5tAq8nKHJ7pTwYJ4Fdhr"
@@ -9898,12 +9898,12 @@
       },
       "artists": [
         {
-          "name": "Shubostar",
-          "url": "https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv"
-        },
-        {
           "name": "Captain Mustache",
           "url": "https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF"
+        },
+        {
+          "name": "Shubostar",
+          "url": "https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv"
         }
       ],
       "date_added": "2025-08-08",
@@ -20476,6 +20476,24 @@
       "duration_ms": 176640,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3lRX4cmV9miVBF06ZOEtLC"
+    },
+    {
+      "album": {
+        "name": "Lonyo!",
+        "url": "https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215051,
+      "name": "Lonyo!",
+      "url": "https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP"
     },
     {
       "album": {
@@ -33279,6 +33297,28 @@
     },
     {
       "album": {
+        "name": "The Bay (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223824,
+      "name": "The Bay - Purple Disco Machine Edit",
+      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
+    },
+    {
+      "album": {
         "name": "Bastard Jargon",
         "url": "https://open.spotify.com/album/3nE6brVq6wCo0RnBvfN5W6"
       },
@@ -37358,7 +37398,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 243914,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/6EbED5jPQiMpFftw4qJ7UA"

@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.",
-  "num_followers": 5376,
+  "num_followers": 5378,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -372,22 +372,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5"
       },
       "artists": [
@@ -399,6 +383,22 @@
       "duration_ms": 156371,
       "name": "b\u00e9same mucho - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 197815,
+      "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "RELAX CON MAX - Spotify Singles",
         "url": "https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1"
       },
@@ -876,22 +892,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 197815,
-      "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5"
       },
       "artists": [
@@ -903,6 +903,34 @@
       "duration_ms": 312528,
       "name": "MAFIOSA - Live - Spotify Singles",
       "url": "https://open.spotify.com/track/0QwD3AF2EQC6CQRraLvcBB"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Barbie - Spotify Singles (feat. FARIANA)",
+        "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
+      },
+      "artists": [
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 169424,
+      "name": "Barbie - Spotify Singles (feat. FARIANA)",
+      "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -943,34 +971,6 @@
       "duration_ms": 260213,
       "name": "Flaco - Spotify Singles",
       "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Barbie - Spotify Singles (feat. FARIANA)",
-        "url": "https://open.spotify.com/album/5CU5MAvKXgVvMzEhYIrhOT"
-      },
-      "artists": [
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 169424,
-      "name": "Barbie - Spotify Singles (feat. FARIANA)",
-      "url": "https://open.spotify.com/track/5xsk1jDIPQv1zptUIb4Ote"
     },
     {
       "added_at": "2024-11-07 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,994 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,992 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 50 | [Vento Bom](https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2) | [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ), [Mc Tekáda\-B](https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU) | [Vento Bom](https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l) | 2:49 |
 | 51 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 |
 | 52 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalu](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
-| 53 | [Dono do Coração Solitário](https://open.spotify.com/track/4HDASrpki0xjdTdXf4PQ7Q) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Victú SL](https://open.spotify.com/artist/0EYbTOMQzsAt1wpKgwGvTn), [Salazar](https://open.spotify.com/artist/4i5vdurg0oY5DKOV6YMoK8) | [Psicodelia Rap Dub Urbana](https://open.spotify.com/album/01e2Go7PxEK9kAteyCE8qC) | 3:56 |
-| 54 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 |
-| 55 | [Visões](https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Visões](https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7) | 2:39 |
+| 53 | [Nossas Mídias](https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA) | [Gabziim](https://open.spotify.com/artist/7BWtfkxYpBQaca6WNohCQ6), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Nossas Mídias](https://open.spotify.com/album/7vdMBWuWRuasIRlEGptvpt) | 3:26 |
+| 54 | [Visões](https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Visões](https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7) | 2:39 |
+| 55 | [Dono do Coração Solitário](https://open.spotify.com/track/4HDASrpki0xjdTdXf4PQ7Q) | [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW), [Victú SL](https://open.spotify.com/artist/0EYbTOMQzsAt1wpKgwGvTn), [Salazar](https://open.spotify.com/artist/4i5vdurg0oY5DKOV6YMoK8) | [Psicodelia Rap Dub Urbana](https://open.spotify.com/album/01e2Go7PxEK9kAteyCE8qC) | 3:56 |
 | 56 | [Astro Rei](https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme) | [Zapi](https://open.spotify.com/artist/3GabjOPnWsQikvKkBTp4Eu), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Astro Rei](https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr) | 2:57 |
 | 57 | [Agradeço](https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa), [Felipe Brasil](https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9) | [Agradeço](https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn) | 3:33 |
 | 58 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |

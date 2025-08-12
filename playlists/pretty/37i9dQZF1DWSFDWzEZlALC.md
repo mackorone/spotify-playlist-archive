@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,273 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,309 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mann der vielen Worte](https://open.spotify.com/track/6pZmxevZKecO2CWwJ5HbqY) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Mann der vielen Worte](https://open.spotify.com/album/4lilKn1npleKtiLGrLkY8u) | 2:51 |
-| 2 | [Nur bei mir](https://open.spotify.com/track/3YcZKKhe100rWxpzSr9KiP) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Nur bei mir](https://open.spotify.com/album/0H0UYnNzX59q2fiuGRxuVw) | 2:16 |
-| 3 | [99 Sorgen](https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [99 Sorgen](https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX) | 2:38 |
-| 4 | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/album/38KsuTCAeC7HCnR3yYChUx) | 2:56 |
+| 2 | [99 Sorgen](https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [99 Sorgen](https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX) | 2:38 |
+| 3 | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/album/38KsuTCAeC7HCnR3yYChUx) | 2:56 |
+| 4 | [Nur bei mir](https://open.spotify.com/track/3YcZKKhe100rWxpzSr9KiP) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Nur bei mir](https://open.spotify.com/album/0H0UYnNzX59q2fiuGRxuVw) | 2:16 |
 | 5 | [du küsst jetzt jemand anderen :/](https://open.spotify.com/track/5l6PzhyfB3A0cnv8OnoD7T) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [du küsst jetzt jemand anderen :/](https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe) | 2:19 |
-| 6 | [Angst](https://open.spotify.com/track/5flXEtnmx7VsADuAYdEiIO) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Dreiundzwanzig](https://open.spotify.com/album/6i6I3dfo8SHBqLq9MHfJt4) | 3:00 |
-| 7 | [fühl ich](https://open.spotify.com/track/1YaNZ0YiRArV4k8akieibd) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [fühl ich](https://open.spotify.com/album/2KGB64iAGJezOLVQfpj7FA) | 2:00 |
-| 8 | [ed hardy walzer](https://open.spotify.com/track/08pOhi3ERDYUVVSqfyHlq3) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [ed hardy walzer](https://open.spotify.com/album/4oLYzNrkxfXr5zbi2ZTJJ5) | 2:45 |
+| 6 | [fühl ich](https://open.spotify.com/track/1YaNZ0YiRArV4k8akieibd) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [fühl ich](https://open.spotify.com/album/2KGB64iAGJezOLVQfpj7FA) | 2:00 |
+| 7 | [ed hardy walzer](https://open.spotify.com/track/08pOhi3ERDYUVVSqfyHlq3) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [ed hardy walzer](https://open.spotify.com/album/4oLYzNrkxfXr5zbi2ZTJJ5) | 2:45 |
+| 8 | [Angst](https://open.spotify.com/track/5flXEtnmx7VsADuAYdEiIO) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Dreiundzwanzig](https://open.spotify.com/album/6i6I3dfo8SHBqLq9MHfJt4) | 3:00 |
 | 9 | [dumachstmich](https://open.spotify.com/track/3feQGDYKgbP8kJNDMWzRgo) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [dumachstmich](https://open.spotify.com/album/2mMT0mZTAEtuVp82ienABu) | 2:10 |
 | 10 | [Das Glück gehört Versagern](https://open.spotify.com/track/1z2GenlspZ6QIU3kl1XyLl) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Das Glück gehört Versagern](https://open.spotify.com/album/5NiqrjXmfY2OwAhdNJ9fV5) | 3:28 |
 | 11 | [Besser so](https://open.spotify.com/track/2L8iluMvGbHCXdQjrYxdf1) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Ein Gefühl, das immer bleibt](https://open.spotify.com/album/2JgY6X5Q237lZUlYKlbJlQ) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
 | 75 | [Spaced Out](https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Spaced Out](https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I) | 3:57 |
 
-Snapshot ID: `AAAAALRziuya/TbK+Z854Asl22a5C2M4`
+Snapshot ID: `AAAAAH+4/72Ng74HHNHJ/6rb8cOHxEZ4`

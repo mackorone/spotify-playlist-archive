@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Minz",
-  "num_followers": 67700,
+  "num_followers": 67734,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "PITY THIS BOY",
         "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 174117,
       "name": "FLAKO",
       "url": "https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "Olufunmi (The Missing Recipe)",
-        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Olufunmi (The Missing Recipe)",
-      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
         "name": "Lazy Baby",
         "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
       },
@@ -919,26 +899,6 @@
       "duration_ms": 126131,
       "name": "Lazy Baby",
       "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "DSC",
-        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        },
-        {
-          "name": "Kashcpt",
-          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
-        }
-      ],
-      "duration_ms": 156256,
-      "name": "DSC",
-      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -967,6 +927,46 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "Olufunmi (The Missing Recipe)",
+        "url": "https://open.spotify.com/album/7MfB9wSvVjmxV7VfD1gU7q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Olufunmi (The Missing Recipe)",
+      "url": "https://open.spotify.com/track/5UKjVTABJpQSx1UynzpHon"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "DSC",
+        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        }
+      ],
+      "duration_ms": 156256,
+      "name": "DSC",
+      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 169018,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/10tuqT05957Cs0VIS2GGaZ"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN"
-      },
-      "artists": [
-        {
-          "name": "Elestee",
-          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1031,34 +1011,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
-        "name": "ESCAPE PLAN",
-        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2mJtN5UazYAF27M68FOjZN"
       },
       "artists": [
         {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
-    },
-    {
-      "added_at": "2025-08-01 00:01:38",
-      "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
+      "duration_ms": 186352,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/00qWmyg2cpJuP7nLDBTdqN"
     },
     {
       "added_at": "2025-08-01 00:01:38",
@@ -1103,6 +1071,22 @@
     {
       "added_at": "2025-08-01 00:01:38",
       "album": {
+        "name": "ESCAPE PLAN",
+        "url": "https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
         "name": "The Shift (feat. Cruel Santino, Knucks & Jeriq)",
         "url": "https://open.spotify.com/album/7kxwXRVkyYBzn3UgzmUdhP"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 180619,
       "name": "The Shift (feat. Cruel Santino, Knucks & Jeriq)",
       "url": "https://open.spotify.com/track/7pSD2G8uLfbnWpK7DEnr3E"
+    },
+    {
+      "added_at": "2025-08-01 00:01:38",
+      "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2025-08-01 00:01:38",

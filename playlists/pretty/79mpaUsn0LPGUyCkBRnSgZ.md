@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 561 songs - 1 day 12 hr 39 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 559 songs - 1 day 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -560,14 +560,12 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 550 | [Quartz](https://open.spotify.com/track/0xXmPzAdGlPBaJ0csqYxYs) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 4:00 |
 | 551 | [TECHNOPOLIS \- 2018 Bob Ludwig Remastering](https://open.spotify.com/track/2ZFSgNZWT6Jvp3nAc3ncJv) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [Solid State Survivor](https://open.spotify.com/album/5z480Ywi9Hn3EQV8N4UwEN) | 4:14 |
 | 552 | [J & J](https://open.spotify.com/track/5pZxlslpcJfWZS7Hg5yAK2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Mainframe](https://open.spotify.com/artist/6KOrnW75O2TRNDXzHSXm9h) | [Johnson & Jonson](https://open.spotify.com/album/1bTbPZOjvjsNRD1EKTKt1h) | 4:21 |
-| 553 | [Across My Jaw](https://open.spotify.com/track/2dYwmQKGTqHEFEafnNwr60) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 3:33 |
-| 554 | [little](https://open.spotify.com/track/5mOLwb99LIMkgVwNqBNhH8) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 0:48 |
-| 555 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 |
-| 556 | [Dedicated To The World](https://open.spotify.com/track/7mrg21PgRujbDGdMhZZNFL) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY) | 3:02 |
-| 557 | [Open Up](https://open.spotify.com/track/5zHvtyKQLeABXy9TEOFtaF) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 2:41 |
-| 558 | [Be My Love](https://open.spotify.com/track/3VDZHydhAOVI7L0PngrZRC) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:19 |
-| 559 | [YouUgly \(with Westside Gunn\)](https://open.spotify.com/track/2m2AbCpeWgms32FdLfBBdk) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:43 |
-| 560 | [A Place Called Space](https://open.spotify.com/track/7lQipY7uqLs4aAdN5xQaao) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [In A Dream](https://open.spotify.com/album/50yWNOYhYoHyciWGUeXEAD) | 8:18 |
-| 561 | [Okay](https://open.spotify.com/track/1saiatbdGSdjCJ5X4TrnJz) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Dynamics](https://open.spotify.com/album/7MIE4SvUeO6fWPrHJFnzaP) | 4:33 |
+| 553 | [little](https://open.spotify.com/track/5mOLwb99LIMkgVwNqBNhH8) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Galore](https://open.spotify.com/album/6s7TtMHRcoy8D0ipc0wmjE) | 0:48 |
+| 554 | [Feel The Love](https://open.spotify.com/track/6h9iDNJ7dGChTOSyJqbzAU) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/2Lq7benweaez2kNFKHMape) | 4:29 |
+| 555 | [Open Up](https://open.spotify.com/track/5zHvtyKQLeABXy9TEOFtaF) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 2:41 |
+| 556 | [YouUgly \(with Westside Gunn\)](https://open.spotify.com/track/2m2AbCpeWgms32FdLfBBdk) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:43 |
+| 557 | [A Place Called Space](https://open.spotify.com/track/7lQipY7uqLs4aAdN5xQaao) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [In A Dream](https://open.spotify.com/album/50yWNOYhYoHyciWGUeXEAD) | 8:18 |
+| 558 | [Okay](https://open.spotify.com/track/1saiatbdGSdjCJ5X4TrnJz) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Dynamics](https://open.spotify.com/album/7MIE4SvUeO6fWPrHJFnzaP) | 4:33 |
+| 559 | [NO QUESTIONS ASKED](https://open.spotify.com/track/1OzmA3aBR7QK94L2tReAeD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:59 |
 
-Snapshot ID: `AAAHdjNQEoUAuLMNNha8Jnw2ZMUk5yBf`
+Snapshot ID: `AAAHevsJ6cEjTXq48Xh0TEcAO+Oc0ml1`

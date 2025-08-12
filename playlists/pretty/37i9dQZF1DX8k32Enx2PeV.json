@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 13988,
+  "num_followers": 13998,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "R-A-B-I-A",
-        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
-      },
-      "artists": [
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 185210,
-      "name": "No me opongo",
-      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Afro Vibes",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 196271,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "R-A-B-I-A",
+        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 185210,
+      "name": "No me opongo",
+      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Quiz\u00e1s (La Historia de Nosotros)",
-        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
-      },
-      "artists": [
-        {
-          "name": "Alex Eugenio",
-          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
-        }
-      ],
-      "duration_ms": 203761,
-      "name": "Quiz\u00e1s (La Historia de Nosotros)",
-      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Perdiendo el Control",
         "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 202221,
       "name": "Perdiendo el Control",
       "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Gambeta",
-        "url": "https://open.spotify.com/album/4JAs0TfGxk2SI9EpD1sWhg"
-      },
-      "artists": [
-        {
-          "name": "Tostao",
-          "url": "https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Gambeta",
-      "url": "https://open.spotify.com/track/1QqMvDt9jLx8KftqqZSX6g"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Gambeta",
+        "url": "https://open.spotify.com/album/4JAs0TfGxk2SI9EpD1sWhg"
+      },
+      "artists": [
+        {
+          "name": "Tostao",
+          "url": "https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT"
+        }
+      ],
+      "duration_ms": 173028,
+      "name": "Gambeta",
+      "url": "https://open.spotify.com/track/1QqMvDt9jLx8KftqqZSX6g"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
+        "name": "Losken Roland",
+        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 140955,
+      "name": "Losken Roland",
+      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/0G8qT6fC0rJBzUpGL2qp5m"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Losken Roland",
-        "url": "https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 140955,
-      "name": "Losken Roland",
-      "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Pa' que lo bailen (Radio Edit)",
+        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 194770,
+      "name": "Pa' que lo bailen - Radio Edit",
+      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1463,22 +1479,6 @@
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
-        "name": "Pa' que lo bailen (Radio Edit)",
-        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 194770,
-      "name": "Pa' que lo bailen - Radio Edit",
-      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "added_at": "2025-05-30 15:44:41",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-05-30 15:44:41",
       "album": {
-        "name": "Ma Vie",
-        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
-      },
-      "artists": [
-        {
-          "name": "Valerian\u00e4",
-          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Ma Vie",
-      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
-    },
-    {
-      "added_at": "2025-05-30 15:44:41",
-      "album": {
         "name": "Respiro",
         "url": "https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 195317,
       "name": "Respiro",
       "url": "https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh"
+    },
+    {
+      "added_at": "2025-05-30 15:44:41",
+      "album": {
+        "name": "Ma Vie",
+        "url": "https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8"
+      },
+      "artists": [
+        {
+          "name": "Valerian\u00e4",
+          "url": "https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Ma Vie",
+      "url": "https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt"
     },
     {
       "added_at": "2025-05-30 15:44:41",

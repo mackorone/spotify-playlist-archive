@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: Jay Park(\ubc15\uc7ac\ubc94)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: JEON SOMI(\uc804\uc18c\ubbf8)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -2775,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
+    },
+    {
+      "album": {
         "name": "Closer (IMITATION X LA LIMA)",
         "url": "https://open.spotify.com/album/0lN6IiUrohIUJUHNggH95p"
       },
@@ -3215,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "DAMDADI",
+        "url": "https://open.spotify.com/album/3qdFRG1zkTaht99iEXpWD3"
+      },
+      "artists": [
+        {
+          "name": "R.Tee",
+          "url": "https://open.spotify.com/artist/0dfMk1lwRlX5Zmg2KHjwjN"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142057,
+      "name": "DAMDADI (feat. SOYEON of i-dle)",
+      "url": "https://open.spotify.com/track/07ZnlXOp6nKEKtXOMJxgPp"
+    },
+    {
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/6ac1vhzcDj1k5BKgXBH0k0"
       },
@@ -3248,6 +3288,24 @@
       "duration_ms": 180809,
       "name": "Dance The Night Away",
       "url": "https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH"
+    },
+    {
+      "album": {
+        "name": "DANCING ALONE",
+        "url": "https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198876,
+      "name": "DANCING ALONE",
+      "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
     },
     {
       "album": {
@@ -4194,7 +4252,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 164545,
       "name": "EASY",
       "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
@@ -6677,6 +6735,24 @@
     },
     {
       "album": {
+        "name": "HUNTER - The 3rd Album",
+        "url": "https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "HUNTER",
+      "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
+    },
+    {
+      "album": {
         "name": "I burn",
         "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
       },
@@ -7554,7 +7630,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 129039,
       "name": "k bye",
       "url": "https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa"
@@ -10818,7 +10894,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 193000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/6dQfthVqZvG39aBUdWOnb9"
@@ -12344,7 +12420,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"

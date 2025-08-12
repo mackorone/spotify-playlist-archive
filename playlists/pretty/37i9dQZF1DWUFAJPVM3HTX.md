@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5?si=Fc2pusVWSpyDt4lQ0091ZQ"> Isaiah Kaleo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,096 likes - 430 songs - 21 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,151 likes - 430 songs - 21 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 3 | [DRIVE ME CRAZY](https://open.spotify.com/track/1fXFSgHDXwt7nk1rXbssG1) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [DRIVE ME CRAZY](https://open.spotify.com/album/6h6Xan7tLrBewRwzZcFZNF) | 3:24 |
 | 4 | [Lover Girl](https://open.spotify.com/track/18esDfvZY10HpVweLoiYW5) | [Sól](https://open.spotify.com/artist/4I6xMOQQaCrWV5yQ8qzlF7) | [Lover Girl](https://open.spotify.com/album/7KGnCojMYJyBBQ3Jhi2DRS) | 3:06 |
 | 5 | [SUGAR HONEY ICED TEA](https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [MONOCHROME RADIO \(DELUXE\)](https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3) | 3:42 |
-| 6 | [addicted](https://open.spotify.com/track/72FAWiIOIcDEK4uMCJx8nQ) | [Flyy Armani](https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9) | [addicted](https://open.spotify.com/album/0hdPALrccdsYlAEOpc2bRB) | 2:33 |
+| 6 | [addicted.](https://open.spotify.com/track/72FAWiIOIcDEK4uMCJx8nQ) | [Flyy Armani](https://open.spotify.com/artist/1zpQUYwOMrhBBHfzgdr2n9) | [addicted.](https://open.spotify.com/album/0hdPALrccdsYlAEOpc2bRB) | 2:33 |
 | 7 | [On & On](https://open.spotify.com/track/02frfyWWBOpCjBaPXi0Qcl) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [On & On](https://open.spotify.com/album/3PgXof706UfW9aZw13O8Vx) | 1:00 |
 | 8 | [Freak & A Friend](https://open.spotify.com/track/3aLexKSJUByg49fRnVLG9C) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Freak & A Friend](https://open.spotify.com/album/1xZoFlfMDbElbUxFfFCHqn) | 2:25 |
 | 9 | [Hindsight](https://open.spotify.com/track/5DTRDKxTsfGkrqzKti7zRu) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Hindsight](https://open.spotify.com/album/11x1EjJ6DfYS1v6uGiMSAP) | 2:46 |

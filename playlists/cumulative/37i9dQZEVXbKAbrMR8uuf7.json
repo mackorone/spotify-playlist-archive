@@ -16614,7 +16614,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
@@ -17096,7 +17096,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -24729,6 +24729,28 @@
     },
     {
       "album": {
+        "name": "Never Stop Dreaming",
+        "url": "https://open.spotify.com/album/2D3zu3n6ZVpr4cWolfNm3z"
+      },
+      "artists": [
+        {
+          "name": "BTG",
+          "url": "https://open.spotify.com/artist/252QLNw7gOVXjuDeTQ5RQ3"
+        },
+        {
+          "name": "Black Chaka 227",
+          "url": "https://open.spotify.com/artist/52gMmoTLpsIDEY5INIMy6L"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "NO ME VOY A RENDIR",
+      "url": "https://open.spotify.com/track/2nimqWdsJx1lk64zytdePz"
+    },
+    {
+      "album": {
         "name": "NO PARE (REMIX)",
         "url": "https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k"
       },
@@ -28342,7 +28364,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"

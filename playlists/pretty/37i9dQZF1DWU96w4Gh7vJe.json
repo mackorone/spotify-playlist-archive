@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 581165,
+  "num_followers": 581209,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "Byahe",
-        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Dati (feat. Skusta Clee)",
-      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
-    },
-    {
-      "added_at": "2025-08-08 02:10:48",
-      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+    },
+    {
+      "added_at": "2025-08-08 02:10:48",
+      "album": {
+        "name": "Byahe",
+        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Dati (feat. Skusta Clee)",
+      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
     },
     {
       "added_at": "2025-08-08 02:10:48",

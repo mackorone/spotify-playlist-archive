@@ -2,7 +2,7 @@
 
 ### [\#vainsuomihitit](https://open.spotify.com/playlist/37i9dQZF1DWUvzPS8uIABd)
 
-> Tämän hetken kovimmat suomihitit.
+> Tämän hetken kovimmat suomihitit\. Kannessa Joe L.
 
 665 songs - 1 day 9 hr 8 min
 

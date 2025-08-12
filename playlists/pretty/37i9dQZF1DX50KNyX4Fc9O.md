@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Guy Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,577 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,581 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 13 | [Spring Cleaning](https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Reason To Hate You](https://open.spotify.com/album/7fLXDsRokVOibKg5oTALze) | 3:15 |
 | 14 | [Got Away](https://open.spotify.com/track/5wPp86j1A1ytLQ8DJ5vDc2) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Got Away](https://open.spotify.com/album/1OKMjpkOhbIl9XUl0P8i9L) | 2:50 |
 | 15 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |
-| 16 | [Give Me A Little](https://open.spotify.com/track/4HnEmULhZnWFWNjxNtHFjy) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Give Me A Little](https://open.spotify.com/album/3hMX8KBpQfxoCCIlElgHSd) | 3:01 |
-| 17 | [Girlfriend](https://open.spotify.com/track/53lh1N2XntXWKXYCIyTniO) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Girlfriend](https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h) | 3:50 |
-| 18 | [PORN STAR](https://open.spotify.com/track/3x6CBiYkTKlBoP1VrDzGNP) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [PORN STAR](https://open.spotify.com/album/1QIvF1yCQRSipqKvMs7yEO) | 2:51 |
-| 19 | [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 |
-| 20 | [Uh Huh!](https://open.spotify.com/track/5pyAtJ1tgxuiFtasHa7vPw) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [Uh Huh!](https://open.spotify.com/album/14u55VH2G9mVxlOH6FvkEH) | 3:00 |
-| 21 | [Crying In The Bathroom](https://open.spotify.com/track/0Jwdlyx20ApHnnzb2UwHGB) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Crying In The Bathroom](https://open.spotify.com/album/66WSBNJTsc02lvX2QBYSks) | 3:10 |
-| 22 | [Bye](https://open.spotify.com/track/2OLChTG4uarZlP8GxxRZNc) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Bye](https://open.spotify.com/album/0rzQDM1XEkyeDOzvgM1E43) | 2:17 |
+| 16 | [Girlfriend](https://open.spotify.com/track/53lh1N2XntXWKXYCIyTniO) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [Girlfriend](https://open.spotify.com/album/3hiqNDirWqhevI3Q9hoq1h) | 3:50 |
+| 17 | [Bye](https://open.spotify.com/track/2OLChTG4uarZlP8GxxRZNc) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Bye](https://open.spotify.com/album/0rzQDM1XEkyeDOzvgM1E43) | 2:17 |
+| 18 | [Give Me A Little](https://open.spotify.com/track/4HnEmULhZnWFWNjxNtHFjy) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Give Me A Little](https://open.spotify.com/album/3hMX8KBpQfxoCCIlElgHSd) | 3:01 |
+| 19 | [PORN STAR](https://open.spotify.com/track/3x6CBiYkTKlBoP1VrDzGNP) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [PORN STAR](https://open.spotify.com/album/1QIvF1yCQRSipqKvMs7yEO) | 2:51 |
+| 20 | [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 |
+| 21 | [Uh Huh!](https://open.spotify.com/track/5pyAtJ1tgxuiFtasHa7vPw) | [Salty](https://open.spotify.com/artist/57DpXexlXW4QPUzFAm4NpD) | [Uh Huh!](https://open.spotify.com/album/14u55VH2G9mVxlOH6FvkEH) | 3:00 |
+| 22 | [Crying In The Bathroom](https://open.spotify.com/track/0Jwdlyx20ApHnnzb2UwHGB) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Crying In The Bathroom](https://open.spotify.com/album/66WSBNJTsc02lvX2QBYSks) | 3:10 |
 | 23 | [In Another Life](https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [In Another Life](https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb) | 3:28 |
 | 24 | [Blame It On You](https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Blame It On You](https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b) | 2:41 |
 | 25 | [Sweet n' Low](https://open.spotify.com/track/1OG3R8TE8KMIIjXFQBxRic) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Sweet n' Low](https://open.spotify.com/album/20DAgaZMBGBBIbdUbfStci) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 |
 | 100 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
 
-Snapshot ID: `AAAAAGaueViYyPE7/ftXHOMl7Zl34NoK`
+Snapshot ID: `AAAAAEvHP8c8wsfP4C/rH7JVkWeOjy/x`

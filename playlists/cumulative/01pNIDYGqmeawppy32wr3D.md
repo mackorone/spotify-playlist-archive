@@ -4,7 +4,7 @@
 
 > Best hip hop throwbacks from the 2000 – 2010s with hits from Missy Elliott, T.I., Dr\. Dre, and more! Over 8 hours to take you into the night.
 
-221 songs - 15 hr 2 min
+222 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Daydreamin' \(feat\. Jill Scott\)](https://open.spotify.com/track/50M2QjfSM82wkJ1d0iV4mh) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:54 | 2022-01-10 | 2022-07-10 |
 | [Dem Boyz](https://open.spotify.com/track/59xyRqG06dGbTmmJFVFbyQ) | [Boyz N Da Hood](https://open.spotify.com/artist/030sRm1rnXI9MeQ23pdax8) | [Boyz N Da Hood](https://open.spotify.com/album/56SzsFOWRCqayvViYU63kk) | 4:16 | 2023-02-17 |  |
 | [Diddy \(feat\. The Neptunes\)](https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 3:54 | 2023-02-17 | 2024-07-03 |
+| [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 | 2025-08-11 |  |
 | [Don't Matter](https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted](https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S) | 4:53 | 2022-01-10 | 2022-07-10 |
 | [Don't Trip](https://open.spotify.com/track/2VMn1qUPFKRclST2sJLrEK) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Glamorest Life](https://open.spotify.com/album/7lxPWM0F06HwejiYAroSha) | 3:28 | 2022-07-15 |  |
 | [Drive Slow \(feat\. Kanye West & GLC\)](https://open.spotify.com/track/5iHO0dAm9FmDA017mWdFkB) | [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The People's Champ](https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr) | 4:33 | 2022-07-15 |  |

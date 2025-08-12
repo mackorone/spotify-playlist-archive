@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-68 songs - 4 hr 36 min
+70 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [One day](https://open.spotify.com/track/4H4mvjFyIqE5OMYf5zJLBP) | [The ROOTLESS](https://open.spotify.com/artist/6N3SuSq2rXAfZ2W8LLbBZp) | [One day](https://open.spotify.com/album/00z0k8RlIXQ736CXCA7aox) | 4:18 | 2023-08-23 |  |
 | [OVER THE TOP](https://open.spotify.com/track/3TSe07q4ZTuJFrw6S4K8ij) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [OVER THE TOP](https://open.spotify.com/album/2OQ4pCRx5xooSECzVftnPM) | 5:01 | 2023-08-23 |  |
 | [PAINT](https://open.spotify.com/track/0n099xB2P5c2ZLDazd3dgr) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [PAINT](https://open.spotify.com/album/3nLZFXpFIcKU6BxGqPit3Y) | 3:28 | 2023-08-23 |  |
+| [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-08-11 |  |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2023-08-23 |  |
 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [MORI JUNTA](https://open.spotify.com/artist/3brl5UMCC0mmdVaSJDFvfg), [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 | 2023-08-23 |  |
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-04 |  |
@@ -51,6 +52,7 @@
 | [エターナルポーズ](https://open.spotify.com/track/53FC7Hz9CaWLrYMiIYzDnI) | [Asia Engineer](https://open.spotify.com/artist/74wZs5STRphhABONtu04tt) | [エターナルポーズ](https://open.spotify.com/album/5TuF8BaJ6bEOWHPVSSIZBX) | 5:03 | 2023-08-23 |  |
 | [エースを受け継ぐ!!!](https://open.spotify.com/track/2Ib0XkjwhDsu9LHWl5sr2H) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:20 | 2023-08-23 | 2025-01-08 |
 | [カタクリのテーマ](https://open.spotify.com/track/2WWc5nAx3baWLnZRH251SA) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 2:37 | 2023-08-23 | 2024-01-26 |
+| [カーマイン](https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [カーマイン](https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c) | 3:24 | 2025-08-11 |  |
 | [ココロのちず](https://open.spotify.com/track/281YQGSeSsRpPgKjWEnyDp) | [BOYSTYLE](https://open.spotify.com/artist/5DTWsxuQv9Sb9QszMjUQZT) | [ココロのちず](https://open.spotify.com/album/1ZfdO4WpyRXad4BEhftN7x) | 4:23 | 2023-08-23 |  |
 | [コロシアムでの戦闘](https://open.spotify.com/track/6nkNjCS7JJrRjEIy07kDgu) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:08 | 2023-08-23 | 2024-02-28 |
 | [ヒカリへ](https://open.spotify.com/track/226aIqHPRKcxtrz7kpJLvw) | [The BabyStars](https://open.spotify.com/artist/1mj0NmmfWyzHsJsmWyBtge) | [ベビスタ](https://open.spotify.com/album/1i79L0SNJ3OUMBgLLf01Vp) | 3:43 | 2023-08-23 |  |

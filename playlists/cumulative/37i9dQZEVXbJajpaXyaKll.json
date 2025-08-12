@@ -7690,7 +7690,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-09",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "DETR\u00c1S DE TU ALMA",
       "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
@@ -18191,6 +18191,24 @@
     },
     {
       "album": {
+        "name": "MI BRILLO (GUARACHA)",
+        "url": "https://open.spotify.com/album/1vp8Zot47oXMuQHxbjJOsW"
+      },
+      "artists": [
+        {
+          "name": "LUCIANO SANTILLAN",
+          "url": "https://open.spotify.com/artist/6mwDVpGqUTgjjbYuiTdKM6"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150014,
+      "name": "MI BRILLO (GUARACHA)",
+      "url": "https://open.spotify.com/track/6dOkxmFR5J23ANidebK3br"
+    },
+    {
+      "album": {
         "name": "Mi Chica de Pueblo",
         "url": "https://open.spotify.com/album/4U34xyInaGSd9nI7JI76PN"
       },
@@ -19228,7 +19246,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
@@ -29976,7 +29994,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 180480,
       "name": "TIKI",
       "url": "https://open.spotify.com/track/2JQqRkmssIH5s68Q4jY3FU"
@@ -30848,6 +30866,24 @@
       "duration_ms": 244800,
       "name": "Tu Misterioso Alguien",
       "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "album": {
+        "name": "Vacomoloko (En Vivo)",
+        "url": "https://open.spotify.com/album/5Y7tPPxsrDhnny2sNurV97"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243565,
+      "name": "Tu Misterioso Alguien - En Vivo",
+      "url": "https://open.spotify.com/track/5USN6KumP2gXRI0BFDdAlg"
     },
     {
       "album": {
@@ -32910,7 +32946,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"

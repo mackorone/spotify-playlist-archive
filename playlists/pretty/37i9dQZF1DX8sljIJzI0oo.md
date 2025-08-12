@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Rauw Alejandro is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,960 likes - 20 songs - 59 min 39 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,935 likes - 20 songs - 59 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

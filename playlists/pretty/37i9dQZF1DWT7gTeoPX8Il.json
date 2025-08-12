@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 152896,
+  "num_followers": 152941,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "Tak Kan Terganti",
-        "url": "https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR"
-      },
-      "artists": [
-        {
-          "name": "Shabrina Leanor",
-          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
-        },
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        }
-      ],
-      "duration_ms": 237798,
-      "name": "Tak Kan Terganti",
-      "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 262341,
       "name": "Masih Hatiku",
       "url": "https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
+        "name": "Tak Kan Terganti",
+        "url": "https://open.spotify.com/album/1QSwTwZoeKZPNXb5DQ7agR"
+      },
+      "artists": [
+        {
+          "name": "Shabrina Leanor",
+          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
+        },
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        }
+      ],
+      "duration_ms": 237798,
+      "name": "Tak Kan Terganti",
+      "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
     },
     {
       "added_at": "2025-07-28 01:06:11",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "P.U.S.P.A.",
-        "url": "https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE"
-      },
-      "artists": [
-        {
-          "name": "ST12",
-          "url": "https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Putri Iklan",
-      "url": "https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ"
-    },
-    {
-      "added_at": "2025-07-28 01:06:11",
-      "album": {
         "name": "Sampai Menutup Mata",
         "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 248666,
       "name": "Sampai Menutup Mata",
       "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+    },
+    {
+      "added_at": "2025-07-28 01:06:11",
+      "album": {
+        "name": "P.U.S.P.A.",
+        "url": "https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE"
+      },
+      "artists": [
+        {
+          "name": "ST12",
+          "url": "https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Putri Iklan",
+      "url": "https://open.spotify.com/track/0wlZGWWK9M6KRHky1IfBYZ"
     },
     {
       "added_at": "2025-07-28 01:06:11",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-07-28 01:06:11",
       "album": {
-        "name": "Untukmu Selamanya",
-        "url": "https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva"
+        "name": "Seni Berdamai Dengan Takdir",
+        "url": "https://open.spotify.com/album/6I7hDjHmpbJUMbKHW7iC1y"
       },
       "artists": [
         {
-          "name": "Ungu",
-          "url": "https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5"
+          "name": "Naim Daniel",
+          "url": "https://open.spotify.com/artist/5PCDJjJ5dx6Py83CvfvRIO"
+        },
+        {
+          "name": "Adnin Roslan",
+          "url": "https://open.spotify.com/artist/6I25GBSpfW8w8czYCmUFcg"
         }
       ],
-      "duration_ms": 283360,
-      "name": "Cinta Dalam Hati",
-      "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
+      "duration_ms": 235890,
+      "name": "Seni Berdamai Dengan Takdir",
+      "url": "https://open.spotify.com/track/79HHRLEs61LSjrrKjlCUSt"
     }
   ],
   "unique_name": "galau rabak",

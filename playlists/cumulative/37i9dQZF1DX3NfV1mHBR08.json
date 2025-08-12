@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Everything's okay",
+        "url": "https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O"
+      },
+      "artists": [
+        {
+          "name": "87dance",
+          "url": "https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255488,
+      "name": "Everything's okay",
+      "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
+    },
+    {
+      "album": {
         "name": "Fighting!",
         "url": "https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80"
       },
@@ -746,6 +764,24 @@
       "duration_ms": 198280,
       "name": "Flow",
       "url": "https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U"
+    },
+    {
+      "album": {
+        "name": "The Nice Guy (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/4Wa3VLLWGqL0WKzgZfhhaA"
+      },
+      "artists": [
+        {
+          "name": " Seo Youngju",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "For myself",
+      "url": "https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP"
     },
     {
       "album": {
@@ -912,6 +948,24 @@
       "duration_ms": 224875,
       "name": "Grown-Up",
       "url": "https://open.spotify.com/track/4nxIf8foq4IQCRNo8PCzJv"
+    },
+    {
+      "album": {
+        "name": "Collection of Short Stories (Almost Like Missing You)",
+        "url": "https://open.spotify.com/album/7MzSbEsQfPfapuDZF2EWIK"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258482,
+      "name": "Hang in there when you feel down",
+      "url": "https://open.spotify.com/track/5Udc3QfJAbejlkufcVgl2g"
     },
     {
       "album": {
@@ -1554,7 +1608,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 240280,
       "name": "NO WHERE, NOW HERE",
       "url": "https://open.spotify.com/track/28l1FPRsb1TcvotgqZjbAL"
@@ -2038,7 +2092,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 246720,
       "name": "To. Me",
       "url": "https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e"
@@ -2240,7 +2294,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 244026,
       "name": "When Tomorrow Comes",
       "url": "https://open.spotify.com/track/63TNk68P5HkI3FXxLIslFn"

@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-659 songs - 1 day 8 hr 39 min
+660 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 | 2023-11-23 | 2025-04-09 |
 | [Cumbia Con Soda \- En Vivo](https://open.spotify.com/track/2jW6blJZO7ZgBICluafKRl) | [Pasto Seco](https://open.spotify.com/artist/5il1LfQizqVTfjSzhi1bt7) | [Cumbia Con Soda \(En Vivo\)](https://open.spotify.com/album/70luQUrkuFFdxBtmUe7GkK) | 3:32 | 2022-06-17 | 2022-07-02 |
 | [Cumbia de Antes](https://open.spotify.com/track/4oXjgj94T3tEagqvv8npZV) | [Olvidate!](https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je) | [Cumbia de Antes](https://open.spotify.com/album/4nBcpRMyEjq1BBdD5ichS3) | 3:12 | 2023-10-13 | 2023-10-21 |
-| [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 | 2022-12-02 |  |
+| [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 | 2022-12-02 | 2025-08-12 |
 | [Cumbia De Rolo](https://open.spotify.com/track/20Z0rJrkMZK17YvZeNPvHY) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [LUCATO](https://open.spotify.com/artist/7g45ys9hIN4FYd3evubK8l) | [Cumbia De Rolo](https://open.spotify.com/album/7uonbjbs5uvqp8XjxLCc5k) | 2:18 | 2024-03-15 | 2024-03-30 |
 | [Cumbia en la Vereda, Vol\. 1, No Es Chamullo](https://open.spotify.com/track/7fQwZnGaSWgyCeE3Tm3Rjg) | [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT) | [Cumbia en la Vereda, Vol\. 1, No Es Chamullo](https://open.spotify.com/album/3yUmVoNRIxbvvnMaPdL06o) | 2:13 | 2025-02-28 | 2025-07-05 |
 | [Cumbia en Miami](https://open.spotify.com/track/3QO5QsOrOqFHUg4HAz3NDz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Cumbia en Miami](https://open.spotify.com/album/7GPHGBex8PVdkOKlxzXxSp) | 2:22 | 2021-12-23 | 2022-07-17 |
@@ -613,6 +613,7 @@
 | [Un Philly](https://open.spotify.com/track/5wgEBx5fRmtDUnEC9KWOXn) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Un Philly](https://open.spotify.com/album/3lXstvLqYMdSor2qP1da6m) | 2:17 | 2023-03-24 | 2023-04-04 |
 | [Un Segundo](https://open.spotify.com/track/6Y2kcA3zgF7NMlhqzSbtP9) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [Un Segundo](https://open.spotify.com/album/0btQsQKAnpJwjGHtg2FZV4) | 2:44 | 2024-05-24 | 2024-06-08 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/3DsXV8kdzLcHkpYo5PBrry) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un Verano Sin Ti](https://open.spotify.com/album/2Fjfa3X3uAu6UlAj3cmcnn) | 3:09 | 2022-05-27 | 2022-07-16 |
+| [Un x100to](https://open.spotify.com/track/5tsrtSh045Y9yxmc0DSGtP) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Malagata](https://open.spotify.com/artist/549gX84eSqoYRJp8BglJqy) | [Session \#19 CLÁSICOS II](https://open.spotify.com/album/0b4wz0JxCh6v2qUCXdAmbj) | 1:31 | 2025-08-11 |  |
 | [Un x100to](https://open.spotify.com/track/3bDCF4Wq05hXbUnEli8R66) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un x100to](https://open.spotify.com/album/6Er3zESnv8HdXuabBR1BtK) | 2:59 | 2023-04-21 | 2023-04-29 |
 | [Una Cerveza \- Versión 2018](https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza \(Versión 2018\)](https://open.spotify.com/album/1dITUaScyif6DqZs7ESCxL) | 3:58 | 2021-12-23 | 2023-01-12 |
 | [Una Cumbia](https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Una Cumbia](https://open.spotify.com/album/0x5gIzkxBkX890iLnH2oKM) | 2:03 | 2021-12-23 | 2023-01-20 |

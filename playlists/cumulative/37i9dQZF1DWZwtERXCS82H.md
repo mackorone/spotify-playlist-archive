@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-826 songs - 1 day 11 hr 43 min
+829 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2022-04-15 | 2024-02-14 |
 | [Ghosts](https://open.spotify.com/track/0XBg77iBp7PDgS1WVTaALa) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Ghosts](https://open.spotify.com/album/3QryOljEG3HSBwKts56jM0) | 2:24 | 2024-03-18 |  |
 | [Gocce d'acqua](https://open.spotify.com/track/5GYKdUcKo5iuhHla2ekgS9) | [Andrea Binotto](https://open.spotify.com/artist/5Xns08ygOlTCdopDUjG9x7) | [Gocce d'acqua](https://open.spotify.com/album/575inVw37bOZM4Kn5Pa37f) | 1:49 | 2022-04-15 | 2023-07-25 |
+| [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 | 2025-08-11 |  |
 | [Gouttes](https://open.spotify.com/track/6FEpVWSgpAadjPVuKNwCcx) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Gouttes](https://open.spotify.com/album/5Fws3ZQPPNC8m9vcR3H2Yx) | 3:14 | 2022-04-15 | 2022-05-14 |
 | [Gouttes de pluie](https://open.spotify.com/track/2aWlN3NzJxxY8AXlYYDj8S) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Gouttes de pluie](https://open.spotify.com/album/2ZBtySzL3lB1Kk06oBQX4x) | 2:15 | 2022-04-15 | 2024-03-26 |
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-15 | 2022-05-14 |
@@ -776,6 +777,7 @@
 | [Vejez](https://open.spotify.com/track/47Ii11LwTCgCh8COwyUl4A) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/29Xsf0VtVumQRAjDoXUOAo) | 2:18 | 2024-01-05 | 2024-04-19 |
 | [Vejez](https://open.spotify.com/track/7JqiCSsdTJ8pbELhBGcTi8) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Vejez](https://open.spotify.com/album/6z16FGd8h6MyiYSJrUhu3l) | 2:18 | 2022-04-27 | 2024-11-20 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-04-15 | 2023-07-04 |
+| [Velvet Sand](https://open.spotify.com/track/6NpYIWLXwpktlYLszUvM3N) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Velvet Sand](https://open.spotify.com/album/2HQ6HwxInVsuXsDK9SKTfm) | 2:47 | 2025-08-11 |  |
 | [Venjan](https://open.spotify.com/track/1Q2GGydtsco68kLjwfyTMu) | [Harry Bergqvist](https://open.spotify.com/artist/7edUGJR9gORcdARCKR76ks) | [Venjan](https://open.spotify.com/album/7qnL09lriGNex377C6R0Ma) | 1:51 | 2022-04-15 | 2022-04-28 |
 | [Vergessene Zeiten](https://open.spotify.com/track/2U7hQHEbYzlYYhV0yqYaQI) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Vergessene Zeiten](https://open.spotify.com/album/2xisx6CwKCefRI1EXVQ1rB) | 2:42 | 2022-08-09 | 2022-11-19 |
 | [Verlorene Liebe](https://open.spotify.com/track/6NQqhCtPoQ544wmrmnYtYL) | [Jillian Wasser](https://open.spotify.com/artist/5eI8E7aI0efbASULeju84q) | [Verlorene Liebe](https://open.spotify.com/album/36MOUe0F7DpMC0MHG0h777) | 3:02 | 2022-04-15 | 2022-11-19 |
@@ -792,6 +794,7 @@
 | [Waltz in F minor](https://open.spotify.com/track/20DUpGAFEPRFEBD3FbxUHK) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Waltz in F minor](https://open.spotify.com/album/0eFKKxmv0SE3SL3Z1YwmKi) | 2:24 | 2022-04-15 | 2022-11-19 |
 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 | 2022-04-15 | 2023-11-07 |
 | [Watching North](https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Watching North](https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd) | 2:16 | 2023-09-25 | 2025-05-22 |
+| [Water](https://open.spotify.com/track/1RYyyfkC5oiqpAubtkc6k2) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Water](https://open.spotify.com/album/49YyZgXdyepJ30xVYIqOiV) | 2:25 | 2025-08-11 |  |
 | [Water Lilly Pond](https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Water Lilly Pond](https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt) | 3:08 | 2022-04-15 | 2024-02-03 |
 | [Waves](https://open.spotify.com/track/0AZDlFjlawdbKtsF8kWi0z) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:04 | 2022-04-15 | 2022-05-14 |
 | [Waves of Marble](https://open.spotify.com/track/3zNvafczZLmOUSLGCiYFy1) | [Lea Lee](https://open.spotify.com/artist/6T1R8ktiNOtCgSRGOap63X) | [Waves of Marble](https://open.spotify.com/album/5vlfHvQdu5KjrCVvHsbzwu) | 2:45 | 2025-07-08 |  |

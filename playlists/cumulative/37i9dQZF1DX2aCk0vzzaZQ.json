@@ -157,6 +157,32 @@
     },
     {
       "album": {
+        "name": "Brahms: Cello Sonatas - Stanford: Ballata",
+        "url": "https://open.spotify.com/album/1TFv4wvn50Secdb40t5pdw"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Steffan Morris",
+          "url": "https://open.spotify.com/artist/5SiGTrEzp95IAN2YDsNDhM"
+        },
+        {
+          "name": "Alasdair Beatson",
+          "url": "https://open.spotify.com/artist/2E3fERoPtQRVvs5gfbxPmK"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: III. Allegro",
+      "url": "https://open.spotify.com/track/0rYcMcZuNt79IQEBvnyCpg"
+    },
+    {
+      "album": {
         "name": "Bach: \"Double\" Concerto for Two Violins in D minor; Violin Concertos Nos. 1 & 2 [Expanded Edition]",
         "url": "https://open.spotify.com/album/5ei1Nzj3ZmA7CnuXNNOIhX"
       },

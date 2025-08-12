@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,225 songs - 12 day 4 hr 15 min
+5,227 songs - 12 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [Checklist Kind of Love \- Radio Edit](https://open.spotify.com/track/2mTbRBceYPjJ88ENpE8Kln) | [Weaux](https://open.spotify.com/artist/5ur7jdLPnLXvtG0ADIinNn) | [Checklist Kind of Love](https://open.spotify.com/album/19xDTi8XBVnDsf1viJjYGV) | 3:19 | 2025-05-11 | 2025-05-23 |
 | [Checkmate](https://open.spotify.com/track/3f8km6ORmu1OhqhjGyOhdB) | [Syren's Belle](https://open.spotify.com/artist/06Z8L8m7iA95ZfQBl6xf0a) | [GODDESSS OF METAMORPHOSIS](https://open.spotify.com/album/0QXpg6GkETJWONn9zeADTU) | 2:18 | 2024-12-09 | 2024-12-24 |
 | [Cheers](https://open.spotify.com/track/62ph4Qd50TdRiH0XiimYFr) | [BELARO](https://open.spotify.com/artist/3XUsaUWtL1t1L2aAq2rwOd) | [THIS IS GON' GET MESSY](https://open.spotify.com/album/3InjNRIR1N0kjlmPYZkhVL) | 2:24 | 2022-11-04 | 2022-11-27 |
+| [Cheers](https://open.spotify.com/track/6IgY9dCz4wEmPZ5jePaz6X) | [V.Kiing](https://open.spotify.com/artist/23iCIdLKo6AWMZIT7AFz7q) | [Cheers](https://open.spotify.com/album/1WyhPbHl3sTt7Cd7Y3FmhA) | 2:20 | 2025-08-11 |  |
 | [Cheers To New Beginnings](https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Cheers To New Beginnings](https://open.spotify.com/album/7uRM9iuJfa6PhQfkTF1MyP) | 2:54 | 2023-04-07 | 2023-04-30 |
 | [Cheirinho \- Feat\. YOÙN](https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Cheirinho \(Feat\. YOÙN\)](https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw) | 2:53 | 2025-08-01 |  |
 | [CHEMICAL](https://open.spotify.com/track/7zz97MLC97l8rSQXBqsNeo) | [7KY](https://open.spotify.com/artist/4Ro5nyci5mmWSB5ot6YtIj) | [CHEMICAL](https://open.spotify.com/album/50LVcuzYlG3m1q7kpQ6FZ9) | 1:43 | 2023-08-10 | 2023-08-28 |
@@ -2905,6 +2906,7 @@
 | [Merry Christmas Darling](https://open.spotify.com/track/02eqqkTcPZhY38FSC27o2U) | [Steve Stout](https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie) | [Merry Christmas Darling](https://open.spotify.com/album/16xz0Dd0Jku1E2GEpAfyPl) | 3:08 | 2024-12-23 | 2025-01-04 |
 | [Merry Christmas, Lucy](https://open.spotify.com/track/6CgJTzr849rHkQvNZDEPtL) | [Dillon Greenberg](https://open.spotify.com/artist/44xQFKYsrlrqSAAb8gsvN3), [Krizmas Kaeli](https://open.spotify.com/artist/0qbXPnJ3h5FTUmevWOa0Mt) | [Merry Christmas, Lucy](https://open.spotify.com/album/5MivrvUSIRHY5Fq7l0WrlS) | 3:40 | 2023-12-14 | 2024-01-02 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-03-10 |  |
+| [Metamorphosis](https://open.spotify.com/track/2wNj4k7HMjWNaLbKHWRpj7) | [Carson Ripley](https://open.spotify.com/artist/6fvQZyhW1A06kSd3VCBLrL) | [Metamorphosis](https://open.spotify.com/album/1GjzvvezRvhBvDdoNI46AV) | 3:59 | 2025-08-11 |  |
 | [Metamorphosis](https://open.spotify.com/track/1uw7a3Mf9uM7JyCsJzJPSo) | [Ujwal.](https://open.spotify.com/artist/3gp5V3GGo7UuiuMLWP0AsB) | [Metamorphosis](https://open.spotify.com/album/6QNiROXzk864gRmHrWFmDV) | 3:13 | 2024-10-11 | 2024-10-23 |
 | [METAPHOR](https://open.spotify.com/track/7vzyUpvHpHcNjmO0ihe0dJ) | [CAPSULE](https://open.spotify.com/artist/4ILSGJ6h30d3KuJLnzk0EZ) | [METAPHOR](https://open.spotify.com/album/5xxo8K1ckY4juG2wCRdtjg) | 3:26 | 2023-02-16 | 2023-03-13 |
 | [Meteors](https://open.spotify.com/track/0CBaaXYtRTHpmzmg8DCiew) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [What I've Found](https://open.spotify.com/album/2QWfWlbGrrNtT3LR03hYys) | 2:38 | 2020-08-03 | 2020-08-20 |

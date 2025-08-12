@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 149484,
+  "num_followers": 149536,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Jammer Dan",
+        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 185137,
+      "name": "Jammer Dan",
+      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 254266,
       "name": "Een Beetje Verliefd",
       "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Jammer Dan",
-        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 185137,
-      "name": "Jammer Dan",
-      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 148467,
       "name": "Vluchtstrook",
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -615,38 +615,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Met Heel Mijn Hart",
-        "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Uit M'n Bol",
-      "url": "https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Live In Het Philips Stadion",
-        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Geef Mij Je Angst",
-      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Schultenbr\u00e4u",
         "url": "https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu"
       },
@@ -667,6 +635,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Met Heel Mijn Hart",
+        "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Uit M'n Bol",
+      "url": "https://open.spotify.com/track/0uCGho2Tyzcq3vTKerkWiQ"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 163125,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Live In Het Philips Stadion",
+        "url": "https://open.spotify.com/album/1BegCmidDeh43ntUxDGODt"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Geef Mij Je Angst",
+      "url": "https://open.spotify.com/track/1dHkLKpYhYiJ7tPThULrbK"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Zij Weet Het (Studio Versie)",
+        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 241583,
+      "name": "Zij Weet Het - Studio Versie",
+      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
         "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
       },
@@ -835,38 +851,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "In Spanje",
-        "url": "https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1"
-      },
-      "artists": [
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 179161,
-      "name": "In Spanje",
-      "url": "https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "Zij Weet Het (Studio Versie)",
-        "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 241583,
-      "name": "Zij Weet Het - Studio Versie",
-      "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Hobbelen",
         "url": "https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 183831,
       "name": "Hobbelen",
       "url": "https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "In Spanje",
+        "url": "https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1"
+      },
+      "artists": [
+        {
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
+        }
+      ],
+      "duration_ms": 179161,
+      "name": "In Spanje",
+      "url": "https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
-      },
-      "artists": [
-        {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
         "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 200891,
       "name": "Sinds 1 Dag Of 2 (32 Jaar)",
       "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Turk Uit De Kroeg",
+        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+      },
+      "artists": [
+        {
+          "name": "Ammar",
+          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Turk Uit De Kroeg",
+      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Hoe Kan Ik Je Hart Bereiken",
-        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
-      },
-      "artists": [
-        {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Hoe Kan Ik Je Hart Bereiken",
-      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 171508,
       "name": "Pa Olvidarte",
       "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Hoe Kan Ik Je Hart Bereiken",
+        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Hoe Kan Ik Je Hart Bereiken",
+      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Jannes hitmedley",
+      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Stapje",
         "url": "https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 133000,
       "name": "Stapje",
       "url": "https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Jannes hitmedley",
-      "url": "https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Sexy Lady",
-        "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
-      },
-      "artists": [
-        {
-          "name": "John West",
-          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 196632,
-      "name": "Sexy Lady",
-      "url": "https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
         "name": "5 In De Klok",
         "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 178868,
       "name": "Haal Alles Uit Het Leven",
       "url": "https://open.spotify.com/track/30hbG5ooVS1Koomc6Vrp9R"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
+        "name": "Sexy Lady",
+        "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "duration_ms": 196632,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
+        "name": "Helena 2.0",
+        "url": "https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Helena 2.0",
+      "url": "https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0"
+    },
+    {
+      "added_at": "2025-06-06 09:13:23",
+      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2025-06-06 09:13:23",
       "album": {
-        "name": "Helena 2.0",
-        "url": "https://open.spotify.com/album/27UELHV6awvdAjsLtsh5Uf"
+        "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
+        "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
       },
       "artists": [
         {
-          "name": "Rutger van Barneveld",
-          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Helena 2.0",
-      "url": "https://open.spotify.com/track/2J0br43id0NFuqLt5fJDe0"
+      "duration_ms": 230203,
+      "name": "Ik Laat Je Nooit Meer Gaan",
+      "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
     },
     {
       "added_at": "2025-06-06 09:13:23",
@@ -1595,22 +1611,6 @@
       "duration_ms": 189352,
       "name": "Mijn Loterij",
       "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
-    },
-    {
-      "added_at": "2025-06-06 09:13:23",
-      "album": {
-        "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
-        "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 230203,
-      "name": "Ik Laat Je Nooit Meer Gaan",
-      "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
     },
     {
       "added_at": "2025-06-06 09:13:23",

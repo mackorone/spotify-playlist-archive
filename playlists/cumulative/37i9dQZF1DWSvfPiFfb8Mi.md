@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-396 songs - 1 day 1 hr 57 min
+397 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [girlgetdown](https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [girlgetdown](https://open.spotify.com/album/44N3y65SMG5JBz3WC4uUQV) | 2:07 | 2024-05-31 | 2024-08-19 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-07-24 | 2023-06-10 |
 | [Glitter Fonk](https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Cosmic Fonk](https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc) | 3:33 | 2023-05-19 | 2025-06-28 |
-| [Golden Hour](https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Golden Hour](https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y) | 3:02 | 2025-07-25 |  |
+| [Golden Hour](https://open.spotify.com/track/1Mwukx2jPsPsurJRN9fRYn) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Golden Hour](https://open.spotify.com/album/7925ysUpNzHNZ1ixyBrq3Y) | 3:02 | 2025-07-25 | 2025-08-12 |
 | [Golden Hour](https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT) | [Moment in Time](https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq) | [Golden Hour](https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O) | 2:20 | 2025-04-11 |  |
 | [Good Night](https://open.spotify.com/track/41LjtnwZM4J0tKXnqiNZPM) | [Bamily](https://open.spotify.com/artist/6oMh7pGcBIgfpdKKUHmJAy) | [Good Night](https://open.spotify.com/album/0O2Bokijinn4vODXGSb9ge) | 4:37 | 2023-05-19 | 2023-10-28 |
 | [Good Times](https://open.spotify.com/track/4ElhB6q5C4ugz6owedGbQZ) | [Mikey Lion](https://open.spotify.com/artist/50iz6mQhjUfbM0UjtZxWIp) | [Good Times](https://open.spotify.com/album/3ozbJ3UJy7n4rgD8yAMNmz) | 3:56 | 2025-04-25 | 2025-08-06 |
@@ -367,6 +367,7 @@
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2021-07-24 | 2023-05-20 |
 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-10 |  |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-16 | 2025-07-11 |
+| [Turn Up The Love \- Roosevelt Remix](https://open.spotify.com/track/6PoriAHnwpIM3EDFUAZNSI) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Turn Up The Love \(Roosevelt Remix\)](https://open.spotify.com/album/71wq1IxTjclhzDx1PUlkU1) | 3:45 | 2025-08-08 |  |
 | [Turning My Heart Blue](https://open.spotify.com/track/4gIfhN6xTKfPDupplMF5xu) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Turning My Heart Blue](https://open.spotify.com/album/7fIfDMV8cMkrikHlLyt93R) | 3:54 | 2024-06-14 | 2024-07-21 |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2023-09-15 |  |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-06-20 | 2023-07-07 |

@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Maybe I Don't Know You",
+      "url": "https://open.spotify.com/track/4z86SxkZA9unRSm7k2EoaJ"
+    },
+    {
+      "album": {
         "name": "Land Of Hope & Dreams",
         "url": "https://open.spotify.com/album/1wWm7MPHSIpBX7Wiw8LAAq"
       },
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 170280,
       "name": "Sugarland",
       "url": "https://open.spotify.com/track/3jOVo8n6mnpkWNO6tUruT3"

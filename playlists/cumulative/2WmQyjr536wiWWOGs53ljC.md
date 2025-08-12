@@ -4,7 +4,7 @@
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-117 songs - 6 hr 43 min
+118 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [GRACE MY EYES](https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:31 | 2024-12-27 |  |
 | [hatred](https://open.spotify.com/track/5WsnVQmlvwfUQR81hAE86D) | [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk) | [hatred](https://open.spotify.com/album/4ryGDCO0SymxLi9umkTxTa) | 2:40 | 2020-11-06 |  |
 | [haunted](https://open.spotify.com/track/7lGJA3LZF5EM1b30ReCqFt) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Squiblers](https://open.spotify.com/artist/4MkQCthzhtcdweul1bWqxk), [kamikaze's endless](https://open.spotify.com/artist/7k3CYBOdj2p7mSf9vxtz7J) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/5f0j7F675Kv00GwG8L7D2M) | 3:54 | 2022-09-30 |  |
+| [Heyyy](https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei) | [MaskBoi X](https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heyyy](https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb) | 3:36 | 2025-08-11 |  |
 | [hide away!](https://open.spotify.com/track/7LvXyaINmVG0yHKTOflLC1) | [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [A](https://open.spotify.com/album/6RpRLV9dJvlmn1OYyNgdyM) | 1:28 | 2021-07-17 |  |
 | [higher](https://open.spotify.com/track/7cB3mVn65NcQhJlFtcQUqj) | [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [A](https://open.spotify.com/album/6RpRLV9dJvlmn1OYyNgdyM) | 2:20 | 2021-08-27 |  |
 | [HOW 2 GET STURDY](https://open.spotify.com/track/083kLLlo5wFsSNzAgGRZ2i) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Sam.Avi](https://open.spotify.com/artist/1PL965p0zMKhwMWIXt9iHh), [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Enoch](https://open.spotify.com/artist/1eApSp71ywW186fZquLihy) | [DANCE DANCE BABY](https://open.spotify.com/album/0kNyvop4MS6vXZEgWM5RCt) | 1:49 | 2024-04-04 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAeGQhihErRAHdYeRYfj34GZjOGL",
+  "snapshot_id": "AAAAAFG6hLu3kv/3xB0XtHzxDl9f2wVj",
   "tracks": [
     {
       "added_at": "2025-08-07 22:00:55",
@@ -31,30 +31,6 @@
       "duration_ms": 180765,
       "name": "Ewo",
       "url": "https://open.spotify.com/track/3w0eFAME3IxlonearUIaXJ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Tobari",
-        "url": "https://open.spotify.com/album/4fYZYxMsH3tuTHWWaUT3ON"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "DJ OBI",
-          "url": "https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe"
-        }
-      ],
-      "duration_ms": 216458,
-      "name": "Tobari",
-      "url": "https://open.spotify.com/track/7ahXRjwY8TjK8zJmrW9aQA"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -91,58 +67,26 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
-        "name": "JUJU (feat. Shallipopi)",
-        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+        "name": "Tobari",
+        "url": "https://open.spotify.com/album/4fYZYxMsH3tuTHWWaUT3ON"
       },
       "artists": [
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "DJ OBI",
+          "url": "https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe"
         }
       ],
-      "duration_ms": 157756,
-      "name": "JUJU (feat. Shallipopi)",
-      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Lagos Dance Riidim - Wire",
-        "url": "https://open.spotify.com/album/4eFqFTPgvJbixwhHS0lWmV"
-      },
-      "artists": [
-        {
-          "name": "AJIMOVOIX DRUMS",
-          "url": "https://open.spotify.com/artist/7yIkWOCQGXIJnArztUyK5e"
-        }
-      ],
-      "duration_ms": 74395,
-      "name": "Lagos Dance Riidim - Wire",
-      "url": "https://open.spotify.com/track/6kj8cDqKIaz3BFiKzbUeDi"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Loyal",
-        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 160134,
-      "name": "Loyal",
-      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
+      "duration_ms": 216458,
+      "name": "Tobari",
+      "url": "https://open.spotify.com/track/7ahXRjwY8TjK8zJmrW9aQA"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -167,6 +111,30 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
       },
@@ -179,6 +147,22 @@
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Loyal",
+        "url": "https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 160134,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -199,30 +183,6 @@
       "duration_ms": 134609,
       "name": "Jo Vibe Remix",
       "url": "https://open.spotify.com/track/0Z9FI7KCUie4rowDZMJvbK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Kautaka",
-        "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
-      },
-      "artists": [
-        {
-          "name": "Jaivah",
-          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
-        },
-        {
-          "name": "JFS Music",
-          "url": "https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1"
-        },
-        {
-          "name": "King Tone SA",
-          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Kautaka",
-      "url": "https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -255,38 +215,58 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
-        "name": "Ebumnandini",
-        "url": "https://open.spotify.com/album/24qe8LEqOaDwm3xIpAM6Pw"
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
       "artists": [
         {
-          "name": "Henri Schappert",
-          "url": "https://open.spotify.com/artist/5DK3pVvoAqts4o1gvXMQY7"
-        },
-        {
-          "name": "Onset Music Group",
-          "url": "https://open.spotify.com/artist/191W2veGxkx4OXrhyN89RI"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 226238,
-      "name": "Ebumnandini",
-      "url": "https://open.spotify.com/track/3rqyMBzYD3Sb20z92ixEVA"
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/3bnmdLCHduZjZG2DW41yHb"
+        "name": "Kautaka",
+        "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
       },
       "artists": [
         {
-          "name": "Alorman",
-          "url": "https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8"
+          "name": "Jaivah",
+          "url": "https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3"
+        },
+        {
+          "name": "JFS Music",
+          "url": "https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1"
+        },
+        {
+          "name": "King Tone SA",
+          "url": "https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA"
         }
       ],
-      "duration_ms": 157168,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/2zqEsH7mM1EFJzcIEcxdgZ"
+      "duration_ms": 199285,
+      "name": "Kautaka",
+      "url": "https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Lagos Dance Riidim - Wire",
+        "url": "https://open.spotify.com/album/4eFqFTPgvJbixwhHS0lWmV"
+      },
+      "artists": [
+        {
+          "name": "AJIMOVOIX DRUMS",
+          "url": "https://open.spotify.com/artist/7yIkWOCQGXIJnArztUyK5e"
+        }
+      ],
+      "duration_ms": 74395,
+      "name": "Lagos Dance Riidim - Wire",
+      "url": "https://open.spotify.com/track/6kj8cDqKIaz3BFiKzbUeDi"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -307,30 +287,6 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
         "name": "KUMA",
         "url": "https://open.spotify.com/album/5BIf3ryXTZrp8UUkjGgocJ"
       },
@@ -343,22 +299,6 @@
       "duration_ms": 197000,
       "name": "KUMA",
       "url": "https://open.spotify.com/track/17LwvKRf3imewn97Ycy5VG"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -387,54 +327,6 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "HAUSAPIANO",
-        "url": "https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH"
-      },
-      "artists": [
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 103318,
-      "name": "HAUSAPIANO",
-      "url": "https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
         "name": "KEROSENE",
         "url": "https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8"
       },
@@ -451,50 +343,6 @@
       "duration_ms": 158608,
       "name": "KEROSENE",
       "url": "https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Biri Marung (Edit) (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
-        "url": "https://open.spotify.com/album/5ij2sDcWlxsVQF5UKSQKbc"
-      },
-      "artists": [
-        {
-          "name": "Mr Pilato",
-          "url": "https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa"
-        },
-        {
-          "name": "Ego Slimflow",
-          "url": "https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy"
-        },
-        {
-          "name": "Tebogo G Mashego",
-          "url": "https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM"
-        },
-        {
-          "name": "Sje Konka",
-          "url": "https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "CowBoii",
-          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
-        }
-      ],
-      "duration_ms": 242179,
-      "name": "Biri Marung (Edit) (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
-      "url": "https://open.spotify.com/track/44Z9yOoNfCafT8nPZCimMs"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -543,26 +391,6 @@
       "duration_ms": 317220,
       "name": "Ngishutheni",
       "url": "https://open.spotify.com/track/3JW9hNUjUN51X9jZyn2HVV"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
     },
     {
       "added_at": "2025-08-07 22:00:55",
@@ -1067,6 +895,26 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
+        "name": "Egwu",
+        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "Egwu",
+      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
         "name": "Full Time Job",
         "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
@@ -1115,26 +963,6 @@
     {
       "added_at": "2025-08-07 22:00:55",
       "album": {
-        "name": "Egwu",
-        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 136132,
-      "name": "Egwu",
-      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
-    },
-    {
-      "added_at": "2025-08-07 22:00:55",
-      "album": {
         "name": "Management",
         "url": "https://open.spotify.com/album/7HRbB37rfjzopeNej7TPsg"
       },
@@ -1151,6 +979,178 @@
       "duration_ms": 155669,
       "name": "Management",
       "url": "https://open.spotify.com/track/7L1DT2ByQ331AJkDfjvI5N"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Ebumnandini",
+        "url": "https://open.spotify.com/album/24qe8LEqOaDwm3xIpAM6Pw"
+      },
+      "artists": [
+        {
+          "name": "Henri Schappert",
+          "url": "https://open.spotify.com/artist/5DK3pVvoAqts4o1gvXMQY7"
+        },
+        {
+          "name": "Onset Music Group",
+          "url": "https://open.spotify.com/artist/191W2veGxkx4OXrhyN89RI"
+        }
+      ],
+      "duration_ms": 226238,
+      "name": "Ebumnandini",
+      "url": "https://open.spotify.com/track/3rqyMBzYD3Sb20z92ixEVA"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Biri Marung (Edit) (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
+        "url": "https://open.spotify.com/album/5ij2sDcWlxsVQF5UKSQKbc"
+      },
+      "artists": [
+        {
+          "name": "Mr Pilato",
+          "url": "https://open.spotify.com/artist/3qqJxbB40F5AmjBiO4akVa"
+        },
+        {
+          "name": "Ego Slimflow",
+          "url": "https://open.spotify.com/artist/4hADccnhJWKgtjTKues1oy"
+        },
+        {
+          "name": "Tebogo G Mashego",
+          "url": "https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM"
+        },
+        {
+          "name": "Sje Konka",
+          "url": "https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        }
+      ],
+      "duration_ms": 242179,
+      "name": "Biri Marung (Edit) (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
+      "url": "https://open.spotify.com/track/44Z9yOoNfCafT8nPZCimMs"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Be There Still",
+        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "HAUSAPIANO",
+        "url": "https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH"
+      },
+      "artists": [
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 103318,
+      "name": "HAUSAPIANO",
+      "url": "https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/3bnmdLCHduZjZG2DW41yHb"
+      },
+      "artists": [
+        {
+          "name": "Alorman",
+          "url": "https://open.spotify.com/artist/3OelS3yY60GFusvCkaFJv8"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/2zqEsH7mM1EFJzcIEcxdgZ"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+    },
+    {
+      "added_at": "2025-08-07 22:00:55",
+      "album": {
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     }
   ],
   "unique_name": "Amapiano to the World",

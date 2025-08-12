@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 474647,
+  "num_followers": 474835,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Amor Real",
+        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "4t",
         "url": "https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 255879,
       "name": "Quien Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Amor Real",
-        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Lo Peor de Mi",
-        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 280450,
-      "name": "Lo Peor de Mi",
-      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Glorioso D\u00eda",
         "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 266947,
       "name": "Bendecir Tu Nombre",
       "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Lo Peor de Mi",
+        "url": "https://open.spotify.com/album/5UFzpt6lNQaxCOI6tVkAsn"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 280450,
+      "name": "Lo Peor de Mi",
+      "url": "https://open.spotify.com/track/53E2uYu1w4yMbZyh1UD4Hs"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Aproape de Tine",
-        "url": "https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ"
-      },
-      "artists": [
-        {
-          "name": "PAS",
-          "url": "https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu"
-        }
-      ],
-      "duration_ms": 213270,
-      "name": "Inima Mea Va Canta",
-      "url": "https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Atracci\u00f3n",
         "url": "https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 372640,
       "name": "Nuestro Encuentro",
       "url": "https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Aproape de Tine",
+        "url": "https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ"
+      },
+      "artists": [
+        {
+          "name": "PAS",
+          "url": "https://open.spotify.com/artist/6FAriCKEIsbXXlLdXebgXu"
+        }
+      ],
+      "duration_ms": 213270,
+      "name": "Inima Mea Va Canta",
+      "url": "https://open.spotify.com/track/4RWLO76SLaRgXmFpKcLPyN"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2024-12-11 11:03:37",

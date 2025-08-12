@@ -4301,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "HUNTER - The 3rd Album",
+        "url": "https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2025-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "HUNTER",
+      "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
+    },
+    {
+      "album": {
         "name": "Hurry up ~\u4eca\u3059\u3050\u306b\u541b\u306e\u624b\u3092~",
         "url": "https://open.spotify.com/album/0WBuetifaEDUBcIPqpdrkx"
       },

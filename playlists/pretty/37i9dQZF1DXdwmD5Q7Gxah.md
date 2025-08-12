@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,633 likes - 183 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,641 likes - 183 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

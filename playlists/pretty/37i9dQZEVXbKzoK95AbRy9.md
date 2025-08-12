@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,347 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,398 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Senta Olhando Pra Mim](https://open.spotify.com/track/64dVFcA71XYsuqTYgIWzqf) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Mc Diguinho](https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8), [Mc Buret](https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu) | [M.B.D.T](https://open.spotify.com/album/0vMwwYJAjFjeeZHPCtA2eq) | 1:59 |
 | 50 | [MONTAGEM BAILÃO](https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh) | [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [MONTAGEM BAILÃO](https://open.spotify.com/album/2VW8krMRkhGJmdlcHbyTfZ) | 1:43 |
 
-Snapshot ID: `MCwSKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MC1e+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -148433,6 +148433,24 @@
     },
     {
       "album": {
+        "name": "Small Town Anthem",
+        "url": "https://open.spotify.com/album/4ERGKt21cZ40nbCe68PocN"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "Small Town Anthem",
+      "url": "https://open.spotify.com/track/416qRAJLm9OZmYvuu7vZZp"
+    },
+    {
+      "album": {
         "name": "Honky Tonk BS",
         "url": "https://open.spotify.com/album/2YGCgcMSl5INi5WZ9QCkcs"
       },
@@ -169170,6 +169188,10 @@
         {
           "name": "Jake Owen",
           "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        },
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
         }
       ],
       "date_added": "2025-08-08",

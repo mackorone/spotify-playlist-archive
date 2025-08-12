@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 38166,
+  "num_followers": 38176,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAAD767pgZMXUnlrLvv7yaJMa",
+  "snapshot_id": "aJfhAAAAAAAECARglFdWFVcM/YWR4WaC",
   "tracks": [
     {
       "added_at": null,
@@ -399,18 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Rolitas de Amor, Vol. 8",
-        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
       },
       "artists": [
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
     },
     {
       "added_at": null,
@@ -431,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Perdiendo La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+        "name": "15 Rolitas de Amor, Vol. 8",
+        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
       },
       "artists": [
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 202556,
-      "name": "Estoy Perdiendo La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+      "duration_ms": 258933,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
     },
     {
       "added_at": null,

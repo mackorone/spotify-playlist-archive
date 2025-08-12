@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Brazen Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,545 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,547 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold It Back](https://open.spotify.com/track/3iiGvAASl95ZDdzP44tEBl) | [WILS\*RISH](https://open.spotify.com/artist/5cK541UGPFSPZ8TjsVDU2h), [DoloRRes](https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC) | [Hold It Back](https://open.spotify.com/album/5c1w1LV5MtWkxsLq1LM250) | 5:03 |
+| 1 | [Hold It Back \(feat\. DoloRRes\)](https://open.spotify.com/track/3iiGvAASl95ZDdzP44tEBl) | [WILS\*RISH](https://open.spotify.com/artist/5cK541UGPFSPZ8TjsVDU2h), [DoloRRes](https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC) | [Hold It Back \(feat\. DoloRRes\)](https://open.spotify.com/album/5c1w1LV5MtWkxsLq1LM250) | 5:03 |
 | 2 | [DEEP END](https://open.spotify.com/track/6KcxzTcm5k37XRoXnh1EBC) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [BRAZEN](https://open.spotify.com/album/0rHdsM0FF6LshyUpD5BOyC) | 2:31 |
 | 3 | [What Line?](https://open.spotify.com/track/4xGJfHUgmuXXJIKgWvNlb9) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [What Line?](https://open.spotify.com/album/5bH6EJdqZzCNSOVhONDsfl) | 4:55 |
 | 4 | [10Tall](https://open.spotify.com/track/04LjJGH3w4RDrAbNki1nOx) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [10Tall](https://open.spotify.com/album/3wHvldNqZyWfl1wUSKQcTC) | 3:41 |

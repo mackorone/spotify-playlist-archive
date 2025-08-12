@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,955 songs - 4 day 5 hr 17 min
+1,956 songs - 4 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,7 @@
 | [Djävulen på axeln](https://open.spotify.com/track/2nWG6W5lqaMGVEjRXsvJJl) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Djävulen på axeln](https://open.spotify.com/album/14kj30ODGR8DCnkp4yYn3p) | 3:40 | 2025-01-23 | 2025-01-31 |
 | [DNA](https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM) | [William Stridh](https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR) | [DNA](https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw) | 3:10 | 2024-03-28 | 2024-05-03 |
 | [Do I Make Sense](https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf) | [Helly](https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16) | [Side Effects](https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g) | 3:24 | 2024-01-25 | 2024-02-25 |
-| [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-19 |  |
+| [Do You Love Me](https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Do You Love Me](https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I) | 2:54 | 2025-06-19 | 2025-08-12 |
 | [Do Yourself A Favor](https://open.spotify.com/track/3z6JKCqhbQn3ugsudRGYvj) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Do Yourself A Favor](https://open.spotify.com/album/2600bCiDKk5STWQQAjiU5Y) | 2:35 | 2021-12-16 | 2021-12-22 |
 | [Dom Kallar Mig För…](https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Dom Kallar Mig För…](https://open.spotify.com/album/5E2K65cY1XssPNMQjPQrwZ) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-12-16 | 2022-03-10 |
@@ -509,6 +509,7 @@
 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 | 2023-08-17 | 2023-09-09 |
 | [Faller](https://open.spotify.com/track/2ap9hdHdrR9QOiosR9vcwu) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr), [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Faller](https://open.spotify.com/album/0prJNOqGxgOhTVs52VUlFY) | 2:40 | 2021-12-16 | 2022-03-06 |
 | [Faller](https://open.spotify.com/track/5HhWunSVvHtEGoYYrFobvK) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Faller](https://open.spotify.com/album/4KG76mDkkFzMeKhSPgColG) | 3:53 | 2022-02-17 | 2022-05-12 |
+| [Faller](https://open.spotify.com/track/75TBgrrDbNB6QJnYIO0j8t) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Faller](https://open.spotify.com/album/0wsMXwZUEjMDk3OdHhk00K) | 3:11 | 2025-08-08 |  |
 | [Faller lågt](https://open.spotify.com/track/084ybk6C8yqXeywfJzOlcM) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Faller lågt](https://open.spotify.com/album/6CicQWy2IYtoeEG3rgnjiH) | 2:15 | 2023-10-20 | 2024-01-26 |
 | [Faller Ner](https://open.spotify.com/track/4wNyKgv2tmSXQd87efe6PT) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Faller Ner](https://open.spotify.com/album/4Ac2VukiWnfghWhtCuO04b) | 2:29 | 2024-02-24 | 2024-04-12 |
 | [Faller tillbaks](https://open.spotify.com/track/7p1kRbPVjeXLSFk3ZFKlyH) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Faller tillbaks](https://open.spotify.com/album/17dugdiTQctuhzPaPAEeYb) | 2:48 | 2021-12-16 | 2022-03-11 |

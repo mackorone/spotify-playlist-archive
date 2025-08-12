@@ -2873,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Brain on Dubstep",
+        "url": "https://open.spotify.com/album/3SlM8I6e0nUnXxQL77bZtJ"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Brain on Dubstep",
+      "url": "https://open.spotify.com/track/4JGa3zbZtAWCivMzyenoL1"
+    },
+    {
+      "album": {
         "name": "Brain Rot",
         "url": "https://open.spotify.com/album/4zKDr1BE6sbBncvG4etINM"
       },
@@ -5086,7 +5104,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 218482,
       "name": "Death Zone",
       "url": "https://open.spotify.com/track/36BVb4KMtZfgtfyhCd6jHm"
@@ -10972,7 +10990,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 174400,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/172fEHxGJMdwxcD2ZR1er6"
@@ -14022,7 +14040,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 159204,
       "name": "New Sound",
       "url": "https://open.spotify.com/track/4l5ipa1fcZnPlKWHmRHvoS"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: HANRORO) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: KEY) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -8002,7 +8002,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 239000,
       "name": "aether",
       "url": "https://open.spotify.com/track/7w0H1kb9iTkxbeGYnJaLxz"
@@ -32625,6 +32625,24 @@
     },
     {
       "album": {
+        "name": "California Love",
+        "url": "https://open.spotify.com/album/3F5dqSATE4SfH42IWjpeCV"
+      },
+      "artists": [
+        {
+          "name": "Seong Young Joo",
+          "url": "https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "California Love",
+      "url": "https://open.spotify.com/track/1PV20gAvXYeamxejFDeEMT"
+    },
+    {
+      "album": {
         "name": "CALL BACK - The 1st Album",
         "url": "https://open.spotify.com/album/1VePAESUefVV2SCMFeo3TY"
       },
@@ -38592,6 +38610,24 @@
       "duration_ms": 194139,
       "name": "Closely far away",
       "url": "https://open.spotify.com/track/6RmYYUqEqblIdN01DkcjSI"
+    },
+    {
+      "album": {
+        "name": "Chaotic & Confused",
+        "url": "https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158917,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
     },
     {
       "album": {
@@ -91259,6 +91295,24 @@
     },
     {
       "album": {
+        "name": "HUNTER - The 3rd Album",
+        "url": "https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "HUNTER",
+      "url": "https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8"
+    },
+    {
+      "album": {
         "name": "GRB01",
         "url": "https://open.spotify.com/album/1VXiBulpY2Otih9AvmhtdY"
       },
@@ -104604,7 +104658,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 192697,
       "name": "In Your Fantasy",
       "url": "https://open.spotify.com/track/3Z4BxvgOJ8KupcDIV3OV2f"
@@ -118089,6 +118143,28 @@
     },
     {
       "album": {
+        "name": "Light (Feat. Chin)",
+        "url": "https://open.spotify.com/album/3R1JCcMciOI1Go665PFYrQ"
+      },
+      "artists": [
+        {
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175007,
+      "name": "Light (Feat. Chin)",
+      "url": "https://open.spotify.com/track/13FAhHkHqmJQVwoTsxLnwB"
+    },
+    {
+      "album": {
         "name": "Light (Feat. Ex8er, Nucksal, QUAIMO)",
         "url": "https://open.spotify.com/album/5ruiknJ8jV1yVFy9IODmnn"
       },
@@ -121633,6 +121709,24 @@
     },
     {
       "album": {
+        "name": "Long live us",
+        "url": "https://open.spotify.com/album/1TQyNQBLzjzERaRxMwQZCu"
+      },
+      "artists": [
+        {
+          "name": "Romantic Punch",
+          "url": "https://open.spotify.com/artist/5AwL954EM1Rkus1lsy8JmU"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230185,
+      "name": "Long live us",
+      "url": "https://open.spotify.com/track/7nhk4wWXAHbtAmNhNOccvl"
+    },
+    {
+      "album": {
         "name": "Long long night",
         "url": "https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy"
       },
@@ -124554,6 +124648,24 @@
       "duration_ms": 167142,
       "name": "Love has left again",
       "url": "https://open.spotify.com/track/6ZJHfm5W4ZuHf3jcEN2wnU"
+    },
+    {
+      "album": {
+        "name": "SUMMER SPECIAL SINGLE [LOVE HIGH]",
+        "url": "https://open.spotify.com/album/6fMA5ATYXwX0jL5CCHGb3l"
+      },
+      "artists": [
+        {
+          "name": "LOVEONE",
+          "url": "https://open.spotify.com/artist/4PMPD2EeaqBCSccsWUkgNS"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "LOVE HIGH",
+      "url": "https://open.spotify.com/track/05yQyKQKWFeoL1iU5bzn7f"
     },
     {
       "album": {
@@ -129110,7 +129222,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 164949,
       "name": "Loyalty",
       "url": "https://open.spotify.com/track/6GQgnnQBQqc6tjYc2vWXWO"
@@ -134982,7 +135094,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 190000,
       "name": "Midnight Dream",
       "url": "https://open.spotify.com/track/2qtAI8NFuO6BpeKH31hRMB"
@@ -146444,7 +146556,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 203076,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/10cALwBMTI3k18luTjDRiH"
@@ -154364,7 +154476,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 203000,
       "name": "Only Forward",
       "url": "https://open.spotify.com/track/48U3KFipj0Z1mJ3BCqOQH0"
@@ -182976,7 +183088,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 159040,
       "name": "Simon Says (feat. KALLITECHNIS)",
       "url": "https://open.spotify.com/track/5m1VGyk7qdOKaWuRM0LrpI"
@@ -195810,7 +195922,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 155000,
       "name": "Stylish",
       "url": "https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f"
@@ -198164,6 +198276,24 @@
       "duration_ms": 325956,
       "name": "Sunflower I Waltz - Allegretto",
       "url": "https://open.spotify.com/track/1Wmi3U8vMqI7xSjyTuEBNV"
+    },
+    {
+      "album": {
+        "name": "Sunflower(Only)",
+        "url": "https://open.spotify.com/album/4vIzAlcxyh60tUPDVMBytL"
+      },
+      "artists": [
+        {
+          "name": "Lee Jun Hyung",
+          "url": "https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190842,
+      "name": "Sunflower(Only)",
+      "url": "https://open.spotify.com/track/5LFLfrjH4HZ89oB4PCoHpm"
     },
     {
       "album": {
@@ -210418,7 +210548,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/3fwjo4HYqaQcvdJP3d4twX"
@@ -211744,6 +211874,24 @@
       "duration_ms": 204184,
       "name": "Tiki-taka of Love",
       "url": "https://open.spotify.com/track/26klCY10W3wlfDFbQpCLkN"
+    },
+    {
+      "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/0Sg1ylnQ7yT1Qy83Chyr1q"
+      },
+      "artists": [
+        {
+          "name": "1000\u00b0",
+          "url": "https://open.spotify.com/artist/1rLtJPgKYrRnlby0yaB59C"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200549,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/2hr9wVYYNTHKnU7jCJfd2p"
     },
     {
       "album": {
@@ -240188,6 +240336,24 @@
       "duration_ms": 197810,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/7MyQXWcycyzBUEFAPc843o"
+    },
+    {
+      "album": {
+        "name": "<unevermet>",
+        "url": "https://open.spotify.com/album/0S2dJbEtUpgIfqFi1s3ULC"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "You Never Met",
+      "url": "https://open.spotify.com/track/0b6bPE0LseDlm0JApbKnlY"
     },
     {
       "album": {

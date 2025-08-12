@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 799645,
+  "num_followers": 799652,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,26 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "Crashing (with Kali Uchis)",
+        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187660,
+      "name": "Crashing (with Kali Uchis)",
+      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -459,22 +479,6 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "Gee Whiz But This Is a Lonesome Town",
-        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
-      },
-      "artists": [
-        {
-          "name": "Moriarty",
-          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Jimmy",
-      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -495,22 +499,18 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Crashing (with Kali Uchis)",
-        "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
+        "name": "Gee Whiz But This Is a Lonesome Town",
+        "url": "https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Moriarty",
+          "url": "https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa"
         }
       ],
-      "duration_ms": 187660,
-      "name": "Crashing (with Kali Uchis)",
-      "url": "https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW"
+      "duration_ms": 264826,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -679,6 +679,22 @@
       "duration_ms": 234454,
       "name": "Gordon in the Willows",
       "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "I Saw The Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 264664,
+      "name": "I Saw The Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -715,18 +731,18 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+        "name": "The Pirate's Gospel (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
         }
       ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
+      "duration_ms": 175453,
+      "name": "The Pirate's Gospel",
+      "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -743,22 +759,6 @@
       "duration_ms": 229293,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "The Pirate's Gospel (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "The Pirate's Gospel",
-      "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Colour Me Free",
-        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 306266,
-      "name": "4 And 20",
-      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Enzo Enzo",
         "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 208200,
       "name": "Les yeux ouverts",
       "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Colour Me Free",
+        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 306266,
+      "name": "4 And 20",
+      "url": "https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Skin & Bone",
-        "url": "https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW"
-      },
-      "artists": [
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "duration_ms": 163220,
-      "name": "Just for Tonight",
-      "url": "https://open.spotify.com/track/3f2MxvJB9kQYSJFADpwE0A"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Skin & Bone",
+        "url": "https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 163220,
+      "name": "Just for Tonight",
+      "url": "https://open.spotify.com/track/3f2MxvJB9kQYSJFADpwE0A"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Better Believe It",
-        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
-      },
-      "artists": [
-        {
-          "name": "Carla Geneve",
-          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
-        }
-      ],
-      "duration_ms": 142892,
-      "name": "Better Believe It",
-      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "I Found (with Freya Ridings)",
         "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 180973,
       "name": "You",
       "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Better Believe It",
+        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
+      },
+      "artists": [
+        {
+          "name": "Carla Geneve",
+          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+        }
+      ],
+      "duration_ms": 142892,
+      "name": "Better Believe It",
+      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Qu'en restera-t-il ?",
         "url": "https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 252413,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1667,18 +1667,22 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+        "name": "Why Can't I Cry About It?",
+        "url": "https://open.spotify.com/album/6LiaRWi95Dn6JMMGhs3zh0"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        },
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
+      "duration_ms": 164690,
+      "name": "Why Can't I Cry About It?",
+      "url": "https://open.spotify.com/track/6jZUN3N3oDTuePPCVxpP3W"
     }
   ],
   "unique_name": "Au calme",

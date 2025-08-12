@@ -2,7 +2,7 @@
 
 ### [最Hit西洋榜](https://open.spotify.com/playlist/37i9dQZF1DWUwDCgX0o26D)
 
-> 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Henry Moodie
+> 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Ed Sheeran
 
 953 songs - 2 day 1 hr 32 min
 

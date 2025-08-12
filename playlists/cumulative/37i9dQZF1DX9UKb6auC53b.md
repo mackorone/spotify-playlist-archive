@@ -4,7 +4,7 @@
 
 > Music from "DAN DA DAN"! ©龍幸伸／集英社・ダンダダン製作委員会
 
-37 songs - 1 hr 29 min
+38 songs - 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [code : DDD\(Ver.H\)](https://open.spotify.com/track/0Y4CPjsk7lbLd6NCQRPJBi) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 2:20 | 2024-12-23 |  |
 | [code : DDD\(Ver.O\)](https://open.spotify.com/track/1hHCYUVSe0GFq02MDnwmyz) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 2:23 | 2024-12-23 |  |
 | [curse](https://open.spotify.com/track/3luIBp65zOSGyO0nfbArAB) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 1:38 | 2024-12-23 |  |
+| [Hunting Soul](https://open.spotify.com/track/3jmeANcyx6s6NACZEUycoB) | [トシロウ（CV.谷山紀章）](https://open.spotify.com/artist/3SQQcJqSiQ4ytuStSlvwNU) | [Hunting Soul](https://open.spotify.com/album/5gTvrJN2cwVgWUtWnMKqwS) | 3:59 | 2025-08-11 |  |
 | [jiji!](https://open.spotify.com/track/5TqkarqhjixZ2U71Hg34g6) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 1:37 | 2024-12-23 |  |
 | [less than lovers](https://open.spotify.com/track/57MGyEB2txs4XgVu73uXGy) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 3:19 | 2024-12-23 |  |
 | [like a fire](https://open.spotify.com/track/4SV7GstQjssB8BxsAil6ue) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック Lead Trax](https://open.spotify.com/album/60HdGnL9QqES8iziaG8piJ) | 1:44 | 2024-12-23 |  |

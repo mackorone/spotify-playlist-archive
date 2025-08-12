@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,309 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,438 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [King In The North](https://open.spotify.com/track/0MYd8A1gDPJf9uCm2Zcd8P) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:46 |
 | 2 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 |
 | 3 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 |
-| 4 | [9 KI 9](https://open.spotify.com/track/6yr1IcmvJJpCtEGBsxKyuq) | [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3), [Dc](https://open.spotify.com/artist/1FvyJ5LJ5n9Db4FkuMOYs3) | [9 KI 9](https://open.spotify.com/album/7dsEdiPsMadqsZxPiXF8Hc) | 2:45 |
+| 4 | [9 KI 9](https://open.spotify.com/track/6yr1IcmvJJpCtEGBsxKyuq) | [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3), [Dc](https://open.spotify.com/artist/2FOKZV8ZRTKsJ9v90qIxoU) | [9 KI 9](https://open.spotify.com/album/7dsEdiPsMadqsZxPiXF8Hc) | 2:45 |
 | 5 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
 | 6 | [Haryanvi Hangover](https://open.spotify.com/track/2NxlVrbDDffvb4hXpTMxDp) | [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh), [Sorav Tanwar](https://open.spotify.com/artist/6lccdV2K1v2BybgRr1h6qV), [Bali Sharma](https://open.spotify.com/artist/31nYPOQ5rlZjCvvBKOmcJn) | [Haryanvi Hangover](https://open.spotify.com/album/3GAFVseL7k25ECbWzJ25ov) | 2:41 |
 | 7 | [Not Like You](https://open.spotify.com/track/4N1ExTZqjnU5D2sfiK8Xvj) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Not Like You](https://open.spotify.com/album/27eYgmQwzC3JT6FbCsIYlF) | 2:21 |

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-731 songs - 2 day 6 hr 22 min
+733 songs - 2 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bongoloco](https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA) | 3:26 | 2023-02-10 | 2023-11-06 |
 | [Bongoloco](https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Bongoloco](https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV) | 3:26 | 2023-10-27 | 2024-04-19 |
 | [Bonito](https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Bonito](https://open.spotify.com/album/0GRAvBOREScwdewiySp05v) | 3:15 | 2024-03-22 | 2024-09-07 |
+| [BOOM](https://open.spotify.com/track/2F5vyJXCFLsgbZhmMk5uOy) | [Slugg](https://open.spotify.com/artist/5Q2x75NUXnoDOXCKItVxZ0) | [BOOM](https://open.spotify.com/album/3qljcB7kA7DZIOe1KtYITC) | 3:40 | 2025-08-11 |  |
 | [Bouncer](https://open.spotify.com/track/2cPp9AOTQcVcZUklahBmab) | [KI Creighton](https://open.spotify.com/artist/54fZiNN8CtExTWCj5Gbeu4) | [Bouncer](https://open.spotify.com/album/6JPQh64ynH13iEoRDdSMqK) | 4:01 | 2022-06-03 | 2022-07-31 |
 | [Break Down \- Dennis Cruz Remix](https://open.spotify.com/track/1pCmhqRqwfiugXI1vtY2a5) | [Hector Couto](https://open.spotify.com/artist/4TeakFq7Xbpo0ihpTQrekM), [Rendher](https://open.spotify.com/artist/4Icdw6ZLVk2NkjIjMhJSc6), [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Break Down EP](https://open.spotify.com/album/2cYJheonNoIlqXcS9g2GIK) | 5:42 | 2024-01-05 | 2024-10-30 |
 | [Break It Down](https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:09 | 2024-11-04 | 2025-03-06 |
@@ -322,6 +323,7 @@
 | [Invincible](https://open.spotify.com/track/4CHBnWN01zAnVa8YlsPyZQ) | [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [Invincible EP](https://open.spotify.com/album/3IP2AX5yWgDc0g6GJoo6rC) | 4:00 | 2025-03-21 | 2025-05-31 |
 | [It's About Us](https://open.spotify.com/track/2QJwMBAnrB6HDsS4dhTaNT) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It's About Us](https://open.spotify.com/album/1obE6RQ5LGUFgIhvfg35e6) | 3:52 | 2025-01-31 | 2025-04-12 |
 | [It's Alright](https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Focus \- EP](https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79) | 5:47 | 2024-03-22 | 2024-05-12 |
+| [It's Your Duty](https://open.spotify.com/track/3ISE5iLV52T0TdSmebBX7x) | [Occibel](https://open.spotify.com/artist/4GiHpolMbDwXRiEDKsRyDb) | [PILOT23](https://open.spotify.com/album/2qB6LhFAL5p5dCkxAQcz9d) | 6:35 | 2025-08-11 |  |
 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 | 2023-09-22 | 2025-03-01 |
 | [Jam Is Pumping](https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 3:46 | 2024-08-23 | 2025-05-24 |
 | [JOYSTICK](https://open.spotify.com/track/6xXw7zobixBrmZxXg2MvUs) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA) | [MOOG STICK EP](https://open.spotify.com/album/6iYNReNevuuzYqMZbeIUFs) | 3:02 | 2025-07-04 |  |
@@ -380,7 +382,7 @@
 | [Lucky Bastard](https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Lucky Bastard](https://open.spotify.com/album/026hdeEIIpCADMGbXyVlcQ) | 3:05 | 2023-05-12 | 2024-03-09 |
 | [Magic Moment](https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o) | [Francesca Lombardo](https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju), [VIKTORIIA](https://open.spotify.com/artist/0qXSZNPQ4kmgIamSn1ndHy) | [Magic Moment](https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ) | 9:21 | 2022-07-15 | 2022-08-02 |
 | [Mainframe](https://open.spotify.com/track/4GpRdW1ljkq1xoo0S94cOc) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [Mainframe](https://open.spotify.com/album/4zMAO2w4rA8HwGazrdgZVs) | 4:18 | 2025-07-11 |  |
-| [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 | 2025-05-09 |  |
+| [Malikan](https://open.spotify.com/track/1RNUW7puT3hGr9Gsy8lx4I) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Malikan](https://open.spotify.com/album/2RRwRafJxXPBCEchkTlMFl) | 3:13 | 2025-05-09 | 2025-08-12 |
 | [Mandarino](https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Puff \(ITA\)](https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf) | [Mandarino](https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW) | 5:08 | 2023-05-26 | 2024-09-14 |
 | [Mantra](https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Mantra](https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB) | 3:21 | 2023-11-06 | 2024-04-19 |
 | [Mantra](https://open.spotify.com/track/6m2GHTkdEcvC4fIgRfanUR) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Mantra](https://open.spotify.com/album/31MajCztXKcijDcKi9fSGe) | 3:21 | 2023-03-17 | 2023-11-06 |
@@ -499,7 +501,7 @@
 | [put it to music.](https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [fall '23](https://open.spotify.com/album/4gc9G4LYsWG3Fj2OMirwE7) | 6:46 | 2023-12-01 | 2024-04-20 |
 | [Quantize](https://open.spotify.com/track/4CbCRWtTsjZvgtNdvevWAE) | [Kidoo](https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD) | [Quantize EP](https://open.spotify.com/album/3ISYOikixhhUwM2nhi7QXw) | 3:43 | 2025-07-25 |  |
 | [Rain](https://open.spotify.com/track/42EMEx5UEHL7NTeTx4IG8b) | [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Rain](https://open.spotify.com/album/6AouW9IqWg1GscmYMbrB2a) | 3:07 | 2023-08-25 | 2023-09-24 |
-| [Rain in LA](https://open.spotify.com/track/5wHzO3DYsfXyuYniOhHIaH) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Rain in LA EP](https://open.spotify.com/album/62YTfKtALuNWKRH79hGJMO) | 6:21 | 2025-05-16 |  |
+| [Rain in LA](https://open.spotify.com/track/5wHzO3DYsfXyuYniOhHIaH) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Rain in LA EP](https://open.spotify.com/album/62YTfKtALuNWKRH79hGJMO) | 6:21 | 2025-05-16 | 2025-08-12 |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2022-06-03 | 2022-09-11 |
 | [Ramona](https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 7:03 | 2023-03-17 | 2023-05-23 |
 | [Rave Culture](https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [Rave Culture](https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX) | 6:21 | 2024-09-20 | 2024-11-05 |

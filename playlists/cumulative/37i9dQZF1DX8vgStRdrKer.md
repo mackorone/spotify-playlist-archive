@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=\_Bm2yIUuTyuvKe816A31UQ>Onos</a>
 
-551 songs - 1 day 20 hr 24 min
+552 songs - 1 day 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [I Carry God](https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp) | [Abimbola Funke Fagun](https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [I Carry God](https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn) | 3:31 | 2024-05-24 | 2024-07-14 |
 | [I Choose to Be](https://open.spotify.com/track/4hgrMvvWacZcUdED5UvK8F) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Nimekuja Kusema](https://open.spotify.com/album/38tMf7KWRMc9IZPDuF7EP6) | 7:15 | 2025-06-27 | 2025-07-15 |
 | [I Decree \- Live](https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [I Decree \(Live\)](https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli) | 6:06 | 2025-08-01 |  |
-| [I Di Nma](https://open.spotify.com/track/5Pbsedj5IZKL5ZlrGvi7zg) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [I Di Nma](https://open.spotify.com/album/44gmFtUfJZowGXQKxYVRxq) | 4:33 | 2025-07-11 |  |
+| [I Di Nma](https://open.spotify.com/track/5Pbsedj5IZKL5ZlrGvi7zg) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [I Di Nma](https://open.spotify.com/album/44gmFtUfJZowGXQKxYVRxq) | 4:33 | 2025-07-11 | 2025-08-12 |
 | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/track/5yCCJK8o5g7vAPBGVNlJ2V) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/album/4OT93FOVowh9DWBoXdb6i5) | 5:59 | 2025-06-20 |  |
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-09-15 | 2024-03-16 |
 | [I give you praise](https://open.spotify.com/track/3aQcVHyOORVlwSFKgz5aDU) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [I give you praise](https://open.spotify.com/album/0bqQE5CKXex5wgd7H2fJnY) | 13:36 | 2025-05-23 |  |
@@ -253,6 +253,7 @@
 | [Jabulani Sesingabantwana \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/6av4onqqefCvfPob7iiC8L) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jabulani Sesingabantwana \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/1pKQ3u99NvR1u1qj7b1Y5u) | 7:35 | 2024-02-09 | 2024-07-12 |
 | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \- Praise Medley](https://open.spotify.com/track/5NbW6HlZHQ2feIrjUw1hSu) | [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \(Praise Medley\)](https://open.spotify.com/album/1O14EQo4yplyxrRYVy190w) | 13:53 | 2025-06-06 | 2025-06-27 |
 | [Jeso O Ntekane \(Reprise\) \- Live](https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Jesus To The City, Vol\. 2 \(Live\)](https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU) | 3:06 | 2024-03-15 | 2024-05-24 |
+| [Jesu](https://open.spotify.com/track/0fAPkHRtJxBGa5rm2eaG54) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6), [Eyitayo](https://open.spotify.com/artist/6Kap9dyPjFhrJOBK0fbhx0) | [Jesu](https://open.spotify.com/album/4dRsOegj5MMdaPk3gWTlf7) | 8:44 | 2025-08-01 |  |
 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 | 2025-07-25 |  |
 | [Jesu Tiṣe](https://open.spotify.com/track/1zXDwgJUsywfAxMcCmdLqg) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Jesu Tiṣe](https://open.spotify.com/album/2cE9hDKzcMxO9W70zivKJZ) | 5:00 | 2025-04-19 | 2025-04-25 |
 | [Jesus](https://open.spotify.com/track/3jmhduNlWjLP5WFAVGnBFA) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Jesus](https://open.spotify.com/album/0D5Z2iIhORhu3pjdzLsbke) | 4:36 | 2025-06-27 | 2025-07-18 |

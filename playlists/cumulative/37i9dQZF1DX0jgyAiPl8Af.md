@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-884 songs - 1 day 14 hr 7 min
+889 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2022-10-28 | 2024-10-02 |
 | [Aneto](https://open.spotify.com/track/4UV0FMugzIiE8kVB8SqhrT) | [Andrea Sason](https://open.spotify.com/artist/64lOTag6a3vJGmEiW3lAJP) | [Aneto](https://open.spotify.com/album/0KFdc4Sh8UYggKtoDVao0Q) | 2:48 | 2021-12-08 | 2022-05-11 |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 | 2025-06-17 |
-| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 |  |
+| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 | 2025-08-12 |
 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2022-07-01 | 2024-05-25 |
 | [Apex](https://open.spotify.com/track/0hszWwnBHYA7WmKeBnaF37) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Apex](https://open.spotify.com/album/5CsVDwvXW4hyQqBfcqRptQ) | 2:12 | 2022-09-02 | 2024-04-05 |
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 |  |
@@ -266,6 +266,7 @@
 | [Fernweh](https://open.spotify.com/track/4jyZ8BAopVzHdBEfZvPsc1) | [Tyler Terrance](https://open.spotify.com/artist/0zlPwa6fDx2ICOMDWUzTA7) | [Fernweh](https://open.spotify.com/album/5j46p6AXYRKgYkgPvmStQR) | 3:32 | 2021-12-08 | 2023-02-11 |
 | [Ferry](https://open.spotify.com/track/7lJRSS6MFE1xNIRpQ6rVDM) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Ferry](https://open.spotify.com/album/7uMck64d5mPtB3eOOgGf2J) | 2:39 | 2024-11-26 |  |
 | [Field](https://open.spotify.com/track/4LrY7WhlwMyEl6dY03ckGP) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Field](https://open.spotify.com/album/4diUNRlr7IBAx9TiL9EKjl) | 2:17 | 2025-06-11 |  |
+| [Fields](https://open.spotify.com/track/6iXzzfVie4I5FvTU2XYRij) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Fields](https://open.spotify.com/album/6eRatVkktAPBJPEZJHGRC6) | 2:25 | 2025-08-11 |  |
 | [Fields](https://open.spotify.com/track/5QY21npYCzGrIMkhBlRAbX) | [Mike Hense](https://open.spotify.com/artist/3NU4JVUYY3da2SyQjksPDh) | [Fields](https://open.spotify.com/album/41VAtxYHmGoChMv7ENrVeD) | 2:16 | 2024-07-18 |  |
 | [Fields of rice](https://open.spotify.com/track/1R8TCihTnLIbSjyUiGg2ZV) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Fields of rice](https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w) | 1:47 | 2023-06-08 | 2023-08-19 |
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2022-10-29 |
@@ -431,6 +432,7 @@
 | [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
 | [Les Ondes](https://open.spotify.com/track/06vt7BIMyVW3CrvWNQ5vCx) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Les Ondes](https://open.spotify.com/album/47iTH8q00rx6DxOhU6UQcp) | 1:44 | 2022-06-10 | 2023-08-19 |
 | [Les Yeux Noisette](https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Les Yeux Noisette](https://open.spotify.com/album/4L3J11sHAt33LIzhGMyuCU) | 2:22 | 2022-11-25 | 2024-05-25 |
+| [Less Than Before](https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Less Than Before](https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6) | 2:21 | 2025-08-11 |  |
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-08 | 2023-02-11 |
 | [Liberty Citadel](https://open.spotify.com/track/5eUiPRtlLZ3RsiueUsEF7c) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Liberty Citadel](https://open.spotify.com/album/2SwSwKTalOQfps83H33y2b) | 2:36 | 2022-08-19 | 2024-09-26 |
 | [Life In Harmony](https://open.spotify.com/track/2lkyqgKBQiDCY2sr4Yb2c5) | [Enrico Carmona](https://open.spotify.com/artist/2OLPnV33rp4wu202KB7ini) | [Life In Harmony](https://open.spotify.com/album/0Tr2bKHuN6P1SlBU7R5tp3) | 2:08 | 2022-12-09 | 2023-04-21 |
@@ -606,6 +608,7 @@
 | [Pluto](https://open.spotify.com/track/1TsvBJoYAYrQbLDFnNE1MB) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [Pluto](https://open.spotify.com/album/1PAkHoLZyHQYJdnco9Ugpr) | 1:53 | 2022-10-07 | 2023-08-19 |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-08 |  |
 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2022-06-10 | 2024-04-05 |
+| [Point of Return](https://open.spotify.com/track/7cFmjmSlKLJ4nwQrG9Q3mw) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Point of Return](https://open.spotify.com/album/3Rcai3wjFJvLfqpYiJCuUq) | 2:34 | 2025-08-11 |  |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2022-10-07 | 2024-07-30 |
 | [Porto Salvo](https://open.spotify.com/track/09Z2QZNcoyz6hxQPfGSwd4) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Ericeira](https://open.spotify.com/album/32NGueMRUQl0zGowxzQIbG) | 2:54 | 2022-05-27 | 2022-09-17 |
 | [Pragmatique](https://open.spotify.com/track/4oOgOAn9AgPDygYgN8nXhc) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Pragmatique](https://open.spotify.com/album/7GJvN3Murt1srya715Qjut) | 2:03 | 2021-12-08 | 2022-06-17 |
@@ -702,6 +705,7 @@
 | [Sirius](https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Sirius](https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6) | 1:52 | 2023-01-06 | 2023-08-19 |
 | [Situatie](https://open.spotify.com/track/6gppQeAHYa7eary500daO1) | [Elle Vorink](https://open.spotify.com/artist/1qY54CD9iY4Y5yKywqCYqG) | [Situatie](https://open.spotify.com/album/398miCQf8mAmxGt7agtqGI) | 3:09 | 2021-12-08 | 2023-05-13 |
 | [Slaap Niet Meer](https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Slaap Niet Meer](https://open.spotify.com/album/2ZyTh0oFrwe5HhUUKPQmw4) | 2:27 | 2022-09-02 | 2024-06-01 |
+| [Slowly Moments](https://open.spotify.com/track/0mnj0mPIYL05zr8WAHS9MN) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Slowly Moments](https://open.spotify.com/album/3as2aYAMd8ZPbo4WZI5UgG) | 2:06 | 2025-08-11 |  |
 | [Smile](https://open.spotify.com/track/2U1vBJccBgHLok37WqNUM4) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Smile](https://open.spotify.com/album/6WgzKrrzhbuZ7cnuCgXb2k) | 2:20 | 2025-01-07 |  |
 | [Snowbound](https://open.spotify.com/track/1qcfNVwh2pXCbXYMkzLw8l) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Snowbound](https://open.spotify.com/album/2pDaJIUSykL55ow4EzScl0) | 2:40 | 2022-11-18 | 2023-05-13 |
 | [So Close](https://open.spotify.com/track/3wz1TYEdO1O0Y217x8fkV1) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [So Close](https://open.spotify.com/album/6Q4SI5mpUxi0dwms50VNzz) | 3:39 | 2021-12-08 | 2022-04-06 |
@@ -782,6 +786,7 @@
 | [The Joker And The Queen](https://open.spotify.com/track/3G2ZshUqIBTDsyc9MWXNRJ) | [duo](https://open.spotify.com/artist/0Six3FVWVLG3jWr9UDLk6e) | [The Joker And The Queen](https://open.spotify.com/album/0sJU4C5EAU9XQ0pufWwRIX) | 2:37 | 2022-06-10 | 2022-07-15 |
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2022-12-09 | 2023-06-09 |
 | [The Little Island Bossa](https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [The Little Island Bossa](https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW) | 4:06 | 2021-12-08 | 2022-05-11 |
+| [The Lone Wanderer](https://open.spotify.com/track/2Z7ZFMH8kzImUmJohr1NTv) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [The Lone Wanderer](https://open.spotify.com/album/5cfNxyzbXNjojEUHIQIE35) | 2:11 | 2025-08-11 |  |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2022-12-09 | 2024-04-05 |
 | [The Lost And Found](https://open.spotify.com/track/5f8NhwC26zx7WA1eGfmPBU) | [Yasmine Cothran](https://open.spotify.com/artist/1FP3tpIYHIZrF4Dj4x0YNC) | [The Lost And Found](https://open.spotify.com/album/1YKyTpvzOJr2KGzxg7ncaX) | 2:08 | 2022-10-28 | 2023-04-21 |
 | [The Musketeer](https://open.spotify.com/track/4ZRQlbLtinCvmA8IlyI5MN) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [The Musketeer](https://open.spotify.com/album/3KUGSodq68t8EZAGJQ42rM) | 2:20 | 2024-12-17 |  |

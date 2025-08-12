@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-722 songs - 2 day 21 hr 14 min
+723 songs - 2 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [In A Dream](https://open.spotify.com/track/0WUI5sIb9cmFeRfNptr0eu) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [In A Dream](https://open.spotify.com/album/1RxcifSP1CkuR6gTIbuIZQ) | 3:42 | 2021-02-28 | 2022-07-29 |
 | [In Between \(Memories and Dreams\)](https://open.spotify.com/track/6GTRvFO1ymxw6IEN9bWvBb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [LUCIE](https://open.spotify.com/artist/4pYgti9cm1t0gPHRJ5wtMI) | [In Between \(Memories and Dreams\)](https://open.spotify.com/album/4Z3p2fGC88qnOfQJPVZMUd) | 6:37 | 2024-06-14 | 2024-07-19 |
 | [In Our Hearts](https://open.spotify.com/track/2WK0vNlEM3pWOMpe4UIoMm) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt) | [In Our Hearts/Hesze](https://open.spotify.com/album/36SRSN4NfYWgimLYAT5a5e) | 4:00 | 2020-06-12 | 2021-03-19 |
-| [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-11-11 |  |
+| [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-11-11 | 2025-08-12 |
 | [In The End \- Lost Tapes](https://open.spotify.com/track/4vrkipzHOkljzaA19vOrIj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Man Without Country](https://open.spotify.com/artist/00b3RKsk2pv5VWSnYAKW8u) | [In The End \(Lost Tapes\)](https://open.spotify.com/album/2kV6pH3XJUUifDTR5K21dB) | 6:16 | 2019-08-06\* | 2019-09-19 |
 | [In the Moment \- Adriatique Remix](https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [In the Moment \(Adriatique Remix\)](https://open.spotify.com/album/4f7J80jlBhnA3TSWdjc5KF) | 4:10 | 2025-04-04 |  |
 | [Indulgence](https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Indulgence](https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou) | 4:29 | 2023-04-28 |  |
@@ -342,6 +342,7 @@
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
+| [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 |  |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-24 |  |
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 | 2025-01-26 |

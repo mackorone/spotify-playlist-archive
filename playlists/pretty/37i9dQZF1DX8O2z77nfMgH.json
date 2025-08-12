@@ -1,12 +1,12 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: TINI",
-  "num_followers": 879308,
+  "num_followers": 879109,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAt2nkhwU7/q9oMcGkrADlnjjO75",
+  "snapshot_id": "AAAAAHUQe4Z09zwFVlQy6zx2JNCEBBHu",
   "tracks": [
     {
       "added_at": "2025-08-08 03:00:31",
@@ -47,6 +47,26 @@
     {
       "added_at": "2025-08-08 03:00:31",
       "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
+    },
+    {
+      "added_at": "2025-08-08 03:00:31",
+      "album": {
         "name": "NUevo",
         "url": "https://open.spotify.com/album/4AFTVyAhS0jVISXLOWTKtD"
       },
@@ -63,22 +83,6 @@
     {
       "added_at": "2025-08-08 03:00:31",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/6QsDV1URVhCM5DADPgNHzt"
-      },
-      "artists": [
-        {
-          "name": "Huan62",
-          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
-        }
-      ],
-      "duration_ms": 112566,
-      "name": "Muerte",
-      "url": "https://open.spotify.com/track/5B0NM5TZRb4mBO6yYhIrPD"
-    },
-    {
-      "added_at": "2025-08-08 03:00:31",
-      "album": {
         "name": "Te Juro Que Te Amo",
         "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
       },
@@ -91,6 +95,46 @@
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
+    },
+    {
+      "added_at": "2025-08-08 03:00:31",
+      "album": {
+        "name": "OE OE",
+        "url": "https://open.spotify.com/album/43bR439dpdSQXAIfUu3e3o"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Louis BPM",
+          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "OE OE",
+      "url": "https://open.spotify.com/track/6e92Lu8Wh05ZwAJEnE9qRa"
+    },
+    {
+      "added_at": "2025-08-08 03:00:31",
+      "album": {
+        "name": "UNA VALIJA EN SENTIMIENTO",
+        "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "MU\u00d1ECA DE URBA",
+      "url": "https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN"
     },
     {
       "added_at": "2025-08-08 03:00:31",
@@ -115,26 +159,6 @@
       "duration_ms": 213947,
       "name": "Frijolero",
       "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
-    },
-    {
-      "added_at": "2025-08-08 03:00:31",
-      "album": {
-        "name": "lo que pase",
-        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
-      },
-      "artists": [
-        {
-          "name": "tatool",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 152784,
-      "name": "lo que pase",
-      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
     },
     {
       "added_at": "2025-08-08 03:00:31",
@@ -188,33 +212,29 @@
           "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
         },
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 182608,
-      "name": "MU\u00d1ECA DE URBA",
-      "url": "https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN"
+      "duration_ms": 206117,
+      "name": "COSITAS",
+      "url": "https://open.spotify.com/track/3ClyThLf2bguwdMcm7hqZ2"
     },
     {
       "added_at": "2025-08-08 03:00:31",
       "album": {
-        "name": "OE OE",
-        "url": "https://open.spotify.com/album/43bR439dpdSQXAIfUu3e3o"
+        "name": "DIME QUE PREFIERES",
+        "url": "https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Louis BPM",
-          "url": "https://open.spotify.com/artist/54NBSkiOmMBEfacGfefPq0"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
         }
       ],
-      "duration_ms": 182000,
-      "name": "OE OE",
-      "url": "https://open.spotify.com/track/6e92Lu8Wh05ZwAJEnE9qRa"
+      "duration_ms": 201931,
+      "name": "DIME QUE PREFIERES",
+      "url": "https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA"
     },
     {
       "added_at": "2025-08-08 03:00:31",
@@ -235,6 +255,22 @@
       "duration_ms": 150705,
       "name": "Rebeca",
       "url": "https://open.spotify.com/track/235wpWfuG8l9AFsH21nxAG"
+    },
+    {
+      "added_at": "2025-08-08 03:00:31",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/6QsDV1URVhCM5DADPgNHzt"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        }
+      ],
+      "duration_ms": 112566,
+      "name": "Muerte",
+      "url": "https://open.spotify.com/track/5B0NM5TZRb4mBO6yYhIrPD"
     },
     {
       "added_at": "2025-08-08 03:00:31",
@@ -331,26 +367,6 @@
     {
       "added_at": "2025-08-08 03:00:31",
       "album": {
-        "name": "UNA VALIJA EN SENTIMIENTO",
-        "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
-      },
-      "artists": [
-        {
-          "name": "Kris R.",
-          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "COSITAS",
-      "url": "https://open.spotify.com/track/3ClyThLf2bguwdMcm7hqZ2"
-    },
-    {
-      "added_at": "2025-08-08 03:00:31",
-      "album": {
         "name": "Pa mis hermanos :')",
         "url": "https://open.spotify.com/album/346u8lZVQJjAS8AYeZnvku"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 187408,
       "name": "Se Equivoc\u00f3",
       "url": "https://open.spotify.com/track/3bE4gHRsdObm0BuRfWMJMc"
-    },
-    {
-      "added_at": "2025-08-08 03:00:31",
-      "album": {
-        "name": "DIME QUE PREFIERES",
-        "url": "https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "DIME QUE PREFIERES",
-      "url": "https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA"
     },
     {
       "added_at": "2025-08-08 03:00:31",
@@ -966,6 +966,10 @@
         {
           "name": "KBP EL ALIEN",
           "url": "https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM"
+        },
+        {
+          "name": "ALEMVN",
+          "url": "https://open.spotify.com/artist/4rqn0QVR8LdxsaEqtc6pJz"
         }
       ],
       "duration_ms": 139857,

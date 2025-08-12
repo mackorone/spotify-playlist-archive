@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,292 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,352 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 91 | [VANDAL](https://open.spotify.com/track/2LkLmsfSfYHcAOGY9TTvgX) | [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [VANDAL](https://open.spotify.com/album/5gTPPFypRVHUn13Z3z17so) | 2:38 |
 | 92 | [Run That](https://open.spotify.com/track/3YXh89Tf0LPFbEcWkTIHbr) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Run That](https://open.spotify.com/album/4nAd9j2Zz7h6sSKgr9fOJJ) | 1:25 |
 | 93 | [There Goes My Mind](https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [There Goes My Mind](https://open.spotify.com/album/7fwRXiCAcXsWASv4XDzMY6) | 3:38 |
-| 94 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Sect Unit](https://open.spotify.com/artist/4TXeQRGLUNGv4C6wgwA7Ju) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 |
+| 94 | [Hearse](https://open.spotify.com/track/3nWjClTcD4IfHDNrgfKLsD) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw), [Cardeairè Jack](https://open.spotify.com/artist/4sfmEOY7tGToa7HzK3Hr5F) | [Hearse](https://open.spotify.com/album/2k0qVhJOTZBHjUKNQ3zleM) | 3:33 |
 | 95 | [777](https://open.spotify.com/track/4poMkivkZVPt6cWRPfSOUv) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [777](https://open.spotify.com/album/49MakTH6EbCMvPszbwvRAN) | 2:11 |
 | 96 | [SMOKED OUT](https://open.spotify.com/track/7qVirIXBlcvFjsegkp5VMx) | [BlxckTal0n](https://open.spotify.com/artist/3SLp4cFNNs4hynaJX1dS4N), [SVBSTXNCE ABVSE](https://open.spotify.com/artist/6ABYpmqLpvwDPXpBIKkgkQ), [SWITCHBLADE](https://open.spotify.com/artist/5a2jNOqhAbKBxB9UBOCm5y) | [SMOKED OUT](https://open.spotify.com/album/22UhSG1l9dRu9S7yp9eFq5) | 2:03 |
 | 97 | [My Bleed](https://open.spotify.com/track/22MYBIrdhB2kX5S5zYHkMJ) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [My Bleed](https://open.spotify.com/album/5gbPJKdDpkCHPoJJuSNcAs) | 2:31 |

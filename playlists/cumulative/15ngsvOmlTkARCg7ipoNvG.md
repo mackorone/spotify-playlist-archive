@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,997 songs - 1 day 16 hr 24 min
+1,998 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1528,6 +1528,7 @@
 | [Silent Celebration](https://open.spotify.com/track/7aM5GmqGmzDHmdyUZpt3To) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Carry Me Away](https://open.spotify.com/album/3dlqG3m3IlYnsISyOLygAE) | 1:05 | 2022-03-03 |  |
 | [Silent Ceremony](https://open.spotify.com/track/5sukbOEGYFYBb0xYqUfs18) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:05 | 2022-01-12 |  |
 | [Silent Drift](https://open.spotify.com/track/7wqCeQix4Yh0cCHV3wYK31) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Our Dreams](https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl) | 1:23 | 2022-01-12 |  |
+| [Silent Joy](https://open.spotify.com/track/2GLGsZPiwD9yNo0H8lVlSM) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Silent Joy](https://open.spotify.com/album/1X1DVB4SKnYfIf5NG21mCC) | 1:00 | 2025-08-12 |  |
 | [Silent Rooms](https://open.spotify.com/track/0S6WNxqCEEPFWJukC175u4) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello Reflections](https://open.spotify.com/album/3a4E60s56WkQRylOD84uJB) | 1:34 | 2022-01-20 | 2024-01-30 |
 | [Silent Swell](https://open.spotify.com/track/2dPMZCeYcXH9HGIt2sG3xo) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:00 | 2022-05-25 |  |
 | [Silent Waves](https://open.spotify.com/track/6uKOKssyfhyoGp7KAy4oaH) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Silent Waves](https://open.spotify.com/album/66QYaVG7A7jpp1EWs8yaay) | 1:00 | 2025-02-15 |  |

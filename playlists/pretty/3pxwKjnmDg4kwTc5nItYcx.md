@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,661 likes - 352 songs - 18 hr 49 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,661 likes - 353 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -360,5 +360,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 350 | [Hide and Seek](https://open.spotify.com/track/4FgBUh8huqyoADFZehpcA3) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hide and Seek](https://open.spotify.com/album/1DVlm76hYqYnAGtiK2QstP) | 3:05 |
 | 351 | [Partners In Crime](https://open.spotify.com/track/156zwzmARLb5lGbhI3LiNB) | [Tim Gallagher](https://open.spotify.com/artist/6o48etq0sWdCaAjVq1i9Fb) | [Partners In Crime](https://open.spotify.com/album/6CmxmAViic57Dhmi0JH2ps) | 3:27 |
 | 352 | [Bad Tattoo](https://open.spotify.com/track/79VJHtRYfW6UQ2drtnozV0) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Bad Tattoo](https://open.spotify.com/album/3gKSl42Qz9Kwv9LKyPffrx) | 3:14 |
+| 353 | [Lonyo!](https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Lonyo!](https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE) | 3:35 |
 
-Snapshot ID: `AAAHhO0VSrmYwbLjzBExTdm6mJJemU2L`
+Snapshot ID: `AAAHhUO36lNqcEs4VGFhMD5n/YIbYm79`

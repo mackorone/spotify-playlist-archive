@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:6ic6GUo8AVIRLHee4iEOLg">Tira essa brisa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,817 likes - 8 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,816 likes - 8 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

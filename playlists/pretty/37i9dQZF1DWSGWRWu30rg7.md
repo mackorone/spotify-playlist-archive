@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Kiesha Alvaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,262 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,261 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 79 | [Kita Pasti Bertemu](https://open.spotify.com/track/7mdOUUHfY9EhHLYPnBIGsV) | [Arsun](https://open.spotify.com/artist/1V4C54IqLGgIxBj5MpGZrK), [Eressa](https://open.spotify.com/artist/3kntur7C4jSGd5DfPPmVZa) | [Kita Pasti Bertemu](https://open.spotify.com/album/2s4wE6eYuMpyEjBIbtuEHb) | 3:09 |
 | 80 | [Sesuka Hatimu](https://open.spotify.com/track/5UNhW9Gna0wtdu0h6o958W) | [GUNGS](https://open.spotify.com/artist/174qi9GGFldNKbeeQ3qM1h) | [Sesuka Hatimu / Entah Sama](https://open.spotify.com/album/2Xf4yCxHQ4TIzYAQmR58j3) | 3:06 |
 
-Snapshot ID: `AAAAAAuYkF24BF66YD48lSWjc3y6IC+l`
+Snapshot ID: `AAAAAHiQLZAB5hw6ALMj8lEoisOM+iyy`

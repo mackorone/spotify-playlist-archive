@@ -4,7 +4,7 @@
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: GALCHANIE, Tobii
 
-491 songs - 1 day 5 hr 51 min
+492 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/4XvJZRnsThtRqESBoxcjjs) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 | 2024-09-19 | 2024-10-12 |
 | [กั๊ก \(No\-status Status\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/2P2qSPBjQfeyxBRDxFivHZ) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [กั๊ก \(No\-status Status\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/1bg1urEY0Qyd7MpPRY6iWL) | 3:08 | 2025-01-30 | 2025-02-07 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 | 2025-04-03 |
+| [กุญแจรถอยู่ในบ้าน กุญแจบ้านอยู่ในรถ](https://open.spotify.com/track/0EeYnUtRVVMHHDlfY7IYJF) | [PorMorLor](https://open.spotify.com/artist/4bjCz80mrdGPZmH6UXWmXy) | [กุญแจรถอยู่ในบ้าน กุญแจบ้านอยู่ในรถ](https://open.spotify.com/album/1hVdj1pjuC3DmPDqvz3Dg0) | 3:13 | 2025-08-11 |  |
 | [กุหลาบ](https://open.spotify.com/track/1uFvvFnus5WZFizuRH02Q0) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [กุหลาบ](https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V) | 3:55 | 2025-02-28 |  |
 | [ก็พอ](https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [ก็พอ](https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE) | 3:27 | 2025-01-09 | 2025-01-17 |
 | [ก็แค่พูดมา \(feat\. The TOYS\)](https://open.spotify.com/track/4eHSk6QunWx0Riz8VnrN6G) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [III](https://open.spotify.com/album/59hXVrRW78L0BTtrZ1pn9M) | 4:06 | 2025-06-25 | 2025-07-26 |
@@ -285,7 +286,7 @@
 | [ดีซะกว่า](https://open.spotify.com/track/5xEvqW08y7weoZlFJU667d) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ดีซะกว่า \- Single](https://open.spotify.com/album/0xtdT0Pv0NZV9UN4xzqpld) | 5:33 | 2024-08-09 |  |
 | [ดีอยู่แล้ว ที่ต้องลา \(I’m Good\)](https://open.spotify.com/track/3sbTe6C4kfaGoGSKmDCqY5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ดีอยู่แล้ว ที่ต้องลา \(I’m Good\)](https://open.spotify.com/album/5X0wKDAHXF8QcTIUrY5prK) | 4:00 | 2025-07-25 | 2025-08-09 |
 | [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 | 2024-06-27 | 2025-05-02 |
-| [ดื่มเพื่อลืม \(Wasted\)](https://open.spotify.com/track/1RqIK2jRjU8IrscMQnHZ20) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG), [Zeal](https://open.spotify.com/artist/6f1tNwK04d6t8jFSOXGvrY) | [ดื่มเพื่อลืม \(Wasted\)](https://open.spotify.com/album/6iXYUaarDAnZH5j9rJwtSA) | 4:16 | 2025-07-31 |  |
+| [ดื่มเพื่อลืม \(Wasted\)](https://open.spotify.com/track/1RqIK2jRjU8IrscMQnHZ20) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG), [Zeal](https://open.spotify.com/artist/6f1tNwK04d6t8jFSOXGvrY) | [ดื่มเพื่อลืม \(Wasted\)](https://open.spotify.com/album/6iXYUaarDAnZH5j9rJwtSA) | 4:16 | 2025-07-31 | 2025-08-12 |
 | [ดูมีไร \(DO ME RIGHT\)](https://open.spotify.com/track/0WCpX9pvNy081MsecZY0Nk) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q), [เบบี้โจลี่สตาร์](https://open.spotify.com/artist/7lMpWIQxYjz9P1BXYQ3XAt) | [ดูมีไร \(DO ME RIGHT\)](https://open.spotify.com/album/4A5ylS0UkAv23sj1Xa4IHI) | 3:16 | 2025-01-24 | 2025-02-14 |
 | [ตกกะใจทำได้ลง \(Oops.\)](https://open.spotify.com/track/7s9HxP7Oi2S5RpnEdQ3E6v) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ตกกะใจทำได้ลง \(Oops.\)](https://open.spotify.com/album/0X2Zoned5hpJUmS85ntwKp) | 3:14 | 2025-01-24 | 2025-02-14 |
 | [ตลกร้าย \(Bad Comedy\)](https://open.spotify.com/track/2lkLuNr0EStdud0Hxxt55L) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ตลกร้าย \(Bad Comedy\)](https://open.spotify.com/album/2wi2wQnnBKSnVgyJtCmPCH) | 2:50 | 2025-07-18 | 2025-08-09 |

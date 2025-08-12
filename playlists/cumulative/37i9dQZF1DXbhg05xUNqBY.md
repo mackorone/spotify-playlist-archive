@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-297 songs - 19 hr 50 min
+298 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Be Still](https://open.spotify.com/track/1Teva30jEfi9cEfDbQ1D9A) | [Amanda Danziger](https://open.spotify.com/artist/6l3sdAWFkzODyjVA2TXp6i), [Filipe Michael](https://open.spotify.com/artist/1lj5Uym0VUFOqO5R6cE3OC) | [Seasons](https://open.spotify.com/album/3nUYvwazbTWIhGSjVHbfCu) | 3:52 | 2024-07-26 | 2025-04-05 |
 | [Be Still and Know](https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Be Still and Know](https://open.spotify.com/album/3TXcaiiumNrakisWU7UFv1) | 5:04 | 2024-07-26 | 2025-04-05 |
 | [Be Still and Know](https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Be Still and Know](https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF) | 4:43 | 2024-06-23 | 2025-08-09 |
-| [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV) | 3:19 | 2024-07-26 |  |
+| [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/track/3VA7CpYINh4vDtaitU90az) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Be Still and Know His Name \(Even the Wind and the Waves\)](https://open.spotify.com/album/64szHbQOTmhNi0w5Bl8PsV) | 3:19 | 2024-07-26 | 2025-08-12 |
 | [Be Still, My Soul](https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW) | [Nathan Pacheco](https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Abide with Me](https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q) | 4:20 | 2024-07-26 | 2025-04-05 |
 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 | 2021-10-31 | 2024-07-27 |
 | [Be With You](https://open.spotify.com/track/2GNV0qwulPbZTDZUb1XR2b) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Like Flowers In The Sun](https://open.spotify.com/album/4nbH1p3U2Dy1qYITuu3rff) | 3:58 | 2025-04-05 |  |
+| [Beautiful](https://open.spotify.com/track/7wQaAiowCmh3TaTMwv2i46) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Beautiful](https://open.spotify.com/album/30fP7ylLbRJJVKIkVIBgqo) | 3:27 | 2025-08-08 |  |
 | [Belovedness](https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness](https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m) | 3:42 | 2021-10-31 | 2024-07-27 |
 | [Better View](https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View](https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5) | 2:48 | 2021-10-31 | 2022-12-06 |
 | [Breathe](https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Note To Self](https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw) | 2:52 | 2024-06-23 | 2025-04-05 |

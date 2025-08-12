@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,820 likes - 124 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,722 likes - 124 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

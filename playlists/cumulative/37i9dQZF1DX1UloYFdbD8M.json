@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 327115,
       "name": "areela",
       "url": "https://open.spotify.com/track/60v5x9mDad7bte4noqbMk4"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 219427,
       "name": "Disco Madama",
       "url": "https://open.spotify.com/track/07QKkyhZ8QvxNh5Q29oZoz"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 201783,
       "name": "Kanmashi",
       "url": "https://open.spotify.com/track/2pHekrQI1PBtRpIcf7IlYv"
@@ -3973,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Mallu Funk",
+        "url": "https://open.spotify.com/album/5ku4rA9Rdms1XtKfOW7xHt"
+      },
+      "artists": [
+        {
+          "name": "RHYTHOM",
+          "url": "https://open.spotify.com/artist/4TRwdVEDrdpaeYiP7iohlu"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Mallu Funk",
+      "url": "https://open.spotify.com/track/2hnKY2EenI3ZBKNlHDoI9H"
+    },
+    {
+      "album": {
         "name": "Manamaake Nee",
         "url": "https://open.spotify.com/album/7MGejeCUntcWxRrTpKPBue"
       },
@@ -4490,6 +4508,32 @@
       "duration_ms": 221395,
       "name": "Muthaane Chankaane",
       "url": "https://open.spotify.com/track/5X527N2Czc8NjGunkSLzjn"
+    },
+    {
+      "album": {
+        "name": "My Life My Way",
+        "url": "https://open.spotify.com/album/0vj9OtLQBo2WvwOyMml4wJ"
+      },
+      "artists": [
+        {
+          "name": "YadaL Arafa Zayn",
+          "url": "https://open.spotify.com/artist/1n3MEa1WuEn1INKThAJcth"
+        },
+        {
+          "name": "Raniaah RAH",
+          "url": "https://open.spotify.com/artist/0eIFw7qWDoCvJrREz56vLo"
+        },
+        {
+          "name": "Joardean Ousepp",
+          "url": "https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159836,
+      "name": "My Life My Way",
+      "url": "https://open.spotify.com/track/1720fI0KdAg8M0uNmKuQZl"
     },
     {
       "album": {
@@ -5066,6 +5110,28 @@
       "duration_ms": 285428,
       "name": "Nerin Naadu - Live Version",
       "url": "https://open.spotify.com/track/1t5cOvtJI4O3C0uOTEHNYA"
+    },
+    {
+      "album": {
+        "name": "Never Mind",
+        "url": "https://open.spotify.com/album/4hpyIzKVclubKEJE8zpXkE"
+      },
+      "artists": [
+        {
+          "name": "Derby Tomhills",
+          "url": "https://open.spotify.com/artist/2cdukNqEfEWuFupQIfjen8"
+        },
+        {
+          "name": "Hijaz",
+          "url": "https://open.spotify.com/artist/3sEu2YHVQXAjHylWx6prpI"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151511,
+      "name": "Never Mind",
+      "url": "https://open.spotify.com/track/1kxIkWEbiOatIXGHa0McZ7"
     },
     {
       "album": {
@@ -8302,6 +8368,32 @@
       "duration_ms": 292235,
       "name": "Yele",
       "url": "https://open.spotify.com/track/2k1pxoTf0NjqlFvyyKm9gT"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/10VAucGQfXiaN3ySb3MaJH"
+      },
+      "artists": [
+        {
+          "name": "Anurag Vinod",
+          "url": "https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy"
+        },
+        {
+          "name": "Ajin Vijayan",
+          "url": "https://open.spotify.com/artist/6yufwH6FwuhuVwYhXTtKyb"
+        },
+        {
+          "name": "Swathy Sang",
+          "url": "https://open.spotify.com/artist/28yT2Df1751DCKtgdnyx4w"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140115,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1GaJivxwPGqooXbPWkuT2I"
     },
     {
       "album": {

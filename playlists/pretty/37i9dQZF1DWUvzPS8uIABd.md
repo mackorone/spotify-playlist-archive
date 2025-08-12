@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 ### [\#vainsuomihitit](https://open.spotify.com/playlist/37i9dQZF1DWUvzPS8uIABd)
 
-> Tämän hetken kovimmat suomihitit.
+> Tämän hetken kovimmat suomihitit\. Kannessa Joe L.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,059 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,056 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Elokuu](https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Elokuu](https://open.spotify.com/album/6R117BmNLL04GB9YobAwON) | 2:21 |
 | 2 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
-| 3 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |
-| 4 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
+| 3 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
+| 4 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |
 | 5 | [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 |
 | 6 | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/track/5WfCy8iS2IOdwnLuJktPJX) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab), [Antti](https://open.spotify.com/artist/4tIEawwvJlYytKn6WXxviI) | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/album/5kftHf2AemMf3oP1gNGDs8) | 3:26 |
 | 7 | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 100 | [Kuka sä luulit et mä oon?](https://open.spotify.com/track/6rfRgjZ5IrLlGqpTcytRQo) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Kuka sä luulit et mä oon?](https://open.spotify.com/album/2cNltXIjkuCZxJugsd7Fxe) | 2:36 |
 | 101 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
 
-Snapshot ID: `AAAAAGrCvHqA3ePTVb/SXBieD9Sj+zro`
+Snapshot ID: `AAAAAEXHuJ9f0/NtHuh0SRyyret6aI9/`

@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 116446,
+  "num_followers": 116518,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 245985,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Exactly As It Seems",
         "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 245985,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Esc\u00e1ndalo",
-        "url": "https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        },
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 151280,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "LDN PLNQ",
         "url": "https://open.spotify.com/album/3RfEykb15wH4GY9REsmm3E"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 254125,
       "name": "LDN PLNQ",
       "url": "https://open.spotify.com/track/4LWZjrwwKq6IsC0LLq3Dcr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/6Mp58UKdaVCgx0q2QzT3p4"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 151280,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/5rZ4PCqytdmyY44GmUP04w"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1696,8 +1696,8 @@
           "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Yawanawa Saiti Kaya",
-          "url": "https://open.spotify.com/artist/5MfMwcmD7YoH6QLYhcTCl1"
+          "name": "Br\u00f4 MC's",
+          "url": "https://open.spotify.com/artist/5nwwplsLg8wQ93qamvX4Pq"
         },
         {
           "name": "Cole\u00e7\u00e3o Som Nativo",

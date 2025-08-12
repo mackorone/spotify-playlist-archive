@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "Sweetburn",
+        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164181,
+      "name": "Mera Aasmaan",
+      "url": "https://open.spotify.com/track/7EGUWx4v8Z8WbI0cOAtdhT"
+    },
+    {
+      "album": {
         "name": "Rana Naidu Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0l9QKKZG09kkACPJ5raPM3"
       },
@@ -2618,6 +2636,62 @@
       "duration_ms": 181911,
       "name": "Mila Tujhe - From \"Aap Jaisa Koi\"",
       "url": "https://open.spotify.com/track/7l0XCPhhiM1JeR7kMCkEli"
+    },
+    {
+      "album": {
+        "name": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3M8EP5fXlCWyp7XMYB237G"
+      },
+      "artists": [
+        {
+          "name": "Sai Smriti",
+          "url": "https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229376,
+      "name": "Milna Ye Aakhri Hai Kya",
+      "url": "https://open.spotify.com/track/2xn2l8WtvWBNvuQulccxTE"
+    },
+    {
+      "album": {
+        "name": "Coolie The Powerhouse (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3M8EP5fXlCWyp7XMYB237G"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Asal Kolaar",
+          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/5iegccQ9Mwub6iXqCdIyiw"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188505,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/06WDWEcMgaqv4XfXwkwD3s"
     },
     {
       "album": {
@@ -4274,7 +4348,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 261254,
       "name": "Ve Mahiya (From \"Sarzameen\")",
       "url": "https://open.spotify.com/track/1N69uoU8VYLDmNzFHKGk1i"

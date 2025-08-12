@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-581 songs - 1 day 9 hr 4 min
+582 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Thuhila](https://open.spotify.com/track/1oBnbrjFdHXL5Duoc8PWpk) | [Nicky.M](https://open.spotify.com/artist/58QgZsCB2X7kk31Og7Fw3Q), [Rajaganapathy](https://open.spotify.com/artist/2VuJo5b1VcEIruE52GtNLq), [Aathreya](https://open.spotify.com/artist/4YSpoNee7EIL8olUEZAQqs), [Jasomitha](https://open.spotify.com/artist/6kDxxqHkVJoLihu5tEpnj2), [Pranitha](https://open.spotify.com/artist/4k6qwsZB8oduj7v8eFsbNB), [Sathustica](https://open.spotify.com/artist/1P2nVyWqmPWbGiLGThqalS), [Sulaxshi](https://open.spotify.com/artist/21A7zn3z5igDaobPTQklK2) | [Thuhila](https://open.spotify.com/album/0Q76oGNJkWaBkkqLDDO45y) | 3:26 | 2024-06-14 | 2024-08-24 |
 | [Tiku Tiku](https://open.spotify.com/track/2zkaNq1IKAMj6ZJtrnJ8QS) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3), [Semma Beatz](https://open.spotify.com/artist/4tsBTuI0pVEH7tcFVf2AT0) | [Tiku Tiku](https://open.spotify.com/album/6RgQLkX8shhcr54Ptc2lJ0) | 2:33 | 2023-08-31 | 2023-10-07 |
 | [Toronto Ponnu](https://open.spotify.com/track/3HrJDBYIIbkXROmZ9YqV3B) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Darshikan](https://open.spotify.com/artist/2QznH02fqwtDUfaLpCMd2R) | [Toronto Ponnu](https://open.spotify.com/album/27SM4A1kqDLmhorc3hBp4a) | 4:07 | 2024-11-12 | 2024-12-26 |
+| [Toxic Doomeru](https://open.spotify.com/track/2O9gBc2srr49dzCctIZ6ga) | [Yatish Mahadev](https://open.spotify.com/artist/0Of3WHTGhHzQkmHpwnti9h), [Marana Mitty](https://open.spotify.com/artist/4KWZnx2ResSohEWzEvP4Du), [Diya Ashreen](https://open.spotify.com/artist/7gEYX9v6LtVBrBiOJzjJ4r) | [Toxic Doomeru](https://open.spotify.com/album/2pz1walRyy1aiIRAD6f9eZ) | 3:31 | 2025-08-11 |  |
 | [Toxic Kadhal](https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn) | [Arun Raj](https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF), [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Toxic Kadhal](https://open.spotify.com/album/0BDNnJKefhW86IjcnwREHN) | 3:07 | 2024-09-16 | 2025-01-31 |
 | [Trippila](https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3) | [Supaveen](https://open.spotify.com/artist/4amcdwiQHHj0QWiWt7DzDt), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A) | [Trippila](https://open.spotify.com/album/0GazuCuHE6SvoJwFa7ssBv) | 2:37 | 2024-12-23 | 2025-04-10 |
 | [Ulagam Nee](https://open.spotify.com/track/0ACSHNzNI60yrSb0mJ5OjP) | [Arun VT](https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf), [Julia Jarzyna](https://open.spotify.com/artist/5u7JCyDmmVMJhOgKqMVKkk), [Vaishnavi Ram](https://open.spotify.com/artist/74eCmKPynbdqAdGMeaRLjo) | [Ulagam Nee](https://open.spotify.com/album/3n2LpLN5PN9zO9tccrKEwc) | 5:06 | 2024-04-05 | 2024-09-21 |

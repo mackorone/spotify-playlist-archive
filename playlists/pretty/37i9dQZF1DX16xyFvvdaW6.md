@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,918 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,933 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 69 | [Libre Para Adorar](https://open.spotify.com/track/4YbjKXcWB81ycfhUM4C4OW) | [Gerry Marquez](https://open.spotify.com/artist/5Duuy8GUonNkuVCTZnz5ds) | [Un Tiempo Nuevo](https://open.spotify.com/album/39gtt13f79a9EtHbYimHHx) | 4:13 |
 | 70 | [Es Una Fiesta](https://open.spotify.com/track/1jqXqSdZ6NNsu4PNmsfkzy) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Es Una Fiesta](https://open.spotify.com/album/4ULBU0vwhkmfXdGbxHcxvs) | 4:01 |
 
-Snapshot ID: `AAAAAF50IMEpNYBSjeb0aq8goYLpI58L`
+Snapshot ID: `AAAAAMwz0UGG5OrFxrQNP0gIn6lldfG7`

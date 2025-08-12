@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,047 songs - 2 day 15 hr 35 min
+1,049 songs - 2 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Everything Bagel](https://open.spotify.com/track/5MKVBVQrjVRONziiVVA3Z3) | [Chawool](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Everything Bagel](https://open.spotify.com/album/2Kp8ezqdUoEN3kYE7iecCB) | 3:09 | 2024-11-06 | 2024-12-20 |
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
 | [Everything's okay](https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [Everything's okay](https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O) | 4:15 | 2025-08-08 |  |
-| [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-04 |  |
+| [exchange \- student](https://open.spotify.com/track/7w90M3IH9VZSalGnoljU0N) | [kimseungjoo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [exchange \- student](https://open.spotify.com/album/288jSWKVSfWiN9eeaVQtXt) | 3:09 | 2025-07-04 | 2025-08-12 |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
 | [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2024-08-06 |
@@ -350,6 +350,7 @@
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-05-10 | 2025-07-30 |
 | [Guitar Pick](https://open.spotify.com/track/3RZwNqLYaZInBhnWmRiHBD) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [M3MI](https://open.spotify.com/album/58oTIGEYaR2zXeDNxgIG8K) | 2:28 | 2023-12-12 | 2023-12-19 |
 | [Gut Feeling](https://open.spotify.com/track/2sB6NQ3hZIbbXkk6Wz0JZZ) | [Boo So\-jeong](https://open.spotify.com/artist/1hpGzIEQidijpOaREckGXH) | [Gut Feeling](https://open.spotify.com/album/0xhhDrQFca3Zfr1aUg6QTk) | 2:51 | 2025-07-29 |  |
+| [GYEONG](https://open.spotify.com/track/2GzQoLY9dtkfdIZFNhn9RI) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [GYEONG](https://open.spotify.com/album/3xjvLLvqETukRNPTeC2y84) | 4:29 | 2025-08-11 |  |
 | [H O M E](https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:51 | 2024-05-28 | 2025-07-23 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 | 2024-06-17 |
 | [Hanagae](https://open.spotify.com/track/4hnhipRrUg7yUCAqT9yvsR) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Hanagae](https://open.spotify.com/album/69ojcNwWWhvRkaTxxdFkGY) | 3:13 | 2021-12-12 | 2022-07-20 |
@@ -551,7 +552,7 @@
 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2024-04-30 | 2024-05-10 |
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2022-03-31 | 2022-04-16 |
 | [May](https://open.spotify.com/track/5UEpIKEVFExPkB7CiRKvAo) | [WINee](https://open.spotify.com/artist/64a5GQVxMxmTZkTynKykHE) | [May](https://open.spotify.com/album/2onzUozBjKro4XIAwVYMOm) | 3:06 | 2022-04-12 | 2022-04-17 |
-| [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-04-28 |  |
+| [May the TENDERNESS be with you! \(feat\. KARINA of aespa\)](https://open.spotify.com/track/4dA19AW8ehIYVOScdWu4IT) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS), [KARINA](https://open.spotify.com/artist/2qwDjeSYANOOBFU8jwtBXx) | [Sound of Music pt.1](https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu) | 3:25 | 2025-04-28 | 2025-08-12 |
 | [Maybe We Could Be a Thing](https://open.spotify.com/track/2yjDmSX8ukT00SXmRs04T6) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Maybe We Could Be a Thing](https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI) | 2:56 | 2022-03-31 | 2025-07-23 |
 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 | 2023-02-14 | 2023-04-22 |
 | [Medicine \(feat\. 10CM\)](https://open.spotify.com/track/4nBguHEdWhaWYhw5bOpXLh) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Medicine \(feat\. 10CM\)](https://open.spotify.com/album/2WoDp3yDQZOoCH9qVQlKFn) | 2:57 | 2024-07-22 | 2024-08-06 |
@@ -820,6 +821,7 @@
 | [starlight](https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [hivill](https://open.spotify.com/album/5Di4zjlL4NuRIDKcPZ3OdC) | 4:52 | 2021-12-21 | 2022-06-25 |
 | [STARS](https://open.spotify.com/track/0Wes8mildhpOo1pguWGG9d) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [SPACE STATION](https://open.spotify.com/album/5HtxTb1Y4w2DlZ0NUisnJJ) | 3:32 | 2024-03-15 | 2024-04-07 |
 | [Stars](https://open.spotify.com/track/2n7Nx1FGB3kMnN9C3OYQbB) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [STARS](https://open.spotify.com/album/6VAof7sDeEJlWNpL6uc7ze) | 3:32 | 2024-04-30 | 2024-05-10 |
+| [Starting With You ❍](https://open.spotify.com/track/2bXfRqleAnaby2h4F6SnHR) | [Park Da Hye](https://open.spotify.com/artist/3USv3ctdZFPKt8qMpzbnca), [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ❍ ハジマリのコ Starting With You : ♡](https://open.spotify.com/album/7Ibu5MOhSbrqrrQ9NPjgZV) | 4:17 | 2025-08-11 |  |
 | [Stay](https://open.spotify.com/track/3Fjk6CiT6vSZsAaujFR8zz) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Winter](https://open.spotify.com/album/1BOy3rPbjmkYMRFLTG2fmb) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Stay \(Prod\. DAUL\)](https://open.spotify.com/track/3yK9Ogqib9SUDUhFLH79Wm) | [Evy](https://open.spotify.com/artist/44OgeGpGaQMX5KtmK4kTbN) | [Stay](https://open.spotify.com/album/2wQSS9wBUj62VWsVgahFxt) | 2:40 | 2022-06-18 | 2022-06-21 |
 | [Stay, there](https://open.spotify.com/track/52r4FaIzEa9VGSi1ftzIzc) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [Stay, there](https://open.spotify.com/album/1vPQqRYXMxU1HPy1VTABWC) | 4:04 | 2024-11-20 | 2025-01-31 |

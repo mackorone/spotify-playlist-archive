@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 이창섭\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,528 songs - 4 day 3 hr 7 min
+1,529 songs - 4 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1077,6 +1077,7 @@
 | [Smile Good Bye](https://open.spotify.com/track/1vu1wBqNQrb4xd1LkGZUhP) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [Fu Bao and Grandfather, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/63VEhZPp18K6viQ4NNb0Zt) | 3:48 | 2024-03-25 | 2024-09-24 |
 | [Snow Blanket](https://open.spotify.com/track/6TOJpU7DiZnzzncC0OCMQG) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Been](https://open.spotify.com/album/0stsEEw9pc3Sd9WqyHGn8N) | 3:27 | 2023-12-28 | 2024-06-05 |
 | [Snow Flower](https://open.spotify.com/track/2qflAmVMghM3O9YpridUng) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [I'm Sorry, I Love You 2024 \(Original Television Soundtrack\) \- Wavve New Classic Project](https://open.spotify.com/album/2Ymac6gT4xh0tM7waxKeiu) | 5:52 | 2024-11-27 | 2025-04-25 |
+| [Snow Flower](https://open.spotify.com/track/300rehwJvy60882jzmAOXZ) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Snow Flower \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/4g4ICsj6Xa7FnE5KNx2bUU) | 4:55 | 2025-08-11 |  |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-20 | 2023-02-25 |
 | [snow light](https://open.spotify.com/track/0EyCQNMWu43sU6Iz6b1K9W) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [snow light](https://open.spotify.com/album/795rDvVKt9nAga7CBw6NLi) | 3:57 | 2023-02-06 | 2023-03-28 |
 | [Snow Of April \(feat\. Huh Gak\)](https://open.spotify.com/track/1gew8nB5cdat82ZnVoyXtx) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR), [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [H.Y.B\. Project \- Your Song, My Voice \#3 ‘Snow Of April’](https://open.spotify.com/album/08cpnkhr3LxH8c5Puju0vj) | 3:55 | 2025-04-16 |  |
@@ -1216,7 +1217,7 @@
 | [The garden of adverbs \(feat\. Lee Hi\)](https://open.spotify.com/track/6wP9dxp1ZYIe9qrcpJhzko) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 3:52 | 2024-04-26 | 2024-08-11 |
 | [The Homework of Goodbye](https://open.spotify.com/track/04btnsdOITgvLcdOIHOcGr) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The Homework of Goodbye](https://open.spotify.com/album/4kTO5C4sjdAa9BRoej39hY) | 3:33 | 2025-06-02 |  |
 | [The Island](https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir) | [88\-Keys](https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE) | [YUMI's Cells 2, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE) | 4:00 | 2022-08-01 | 2022-11-02 |
-| [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-11 |  |
+| [The Look In Your Eyes](https://open.spotify.com/track/0Cg4pZkNpOYNUXxmEYzuAd) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Spring of Youth \(Original Soundtrack\) Part.7](https://open.spotify.com/album/5mAsdROsHGDlu1FK9sdOkM) | 3:45 | 2025-06-11 | 2025-08-12 |
 | [The Man](https://open.spotify.com/track/6lDWYtXTFgHUjMybqYc88U) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [The Man](https://open.spotify.com/album/4i2vNNCgU467jng2k7EGi2) | 5:04 | 2023-09-18 | 2023-11-14 |
 | [The Memory of Star](https://open.spotify.com/track/29XPPKL4f4X9BqyiKyKyvY) | [You Chae Hoon](https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n) | [Podium](https://open.spotify.com/album/5rS51gsMjupGnMSe4mYSOv) | 4:12 | 2022-07-07 | 2022-10-15 |
 | [The Memory of Wind](https://open.spotify.com/track/11YAu0s6aRVtilRhyE12h0) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Jinxed at First \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/2wjeSZdPvolhKnKQAtV4gd) | 4:03 | 2022-07-07 | 2022-08-20 |

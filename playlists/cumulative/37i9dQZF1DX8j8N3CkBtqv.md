@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Anumita Nadesan, Janisht Joshi,  and other exciting artists.
 
-1,132 songs - 2 day 13 hr 50 min
+1,133 songs - 2 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [into the mind](https://open.spotify.com/track/4idQOMJrZsLKmk1yBxIwA7) | [aswekeepsearching](https://open.spotify.com/artist/3K1oloNu09kQTV0Idz378q) | [kyun?](https://open.spotify.com/album/5NIXIZNrcS9djbxSP7LLFX) | 4:07 | 2025-07-11 | 2025-08-02 |
 | [Is It Okay?](https://open.spotify.com/track/2KTzGihwWGpWXi3ysoAnW8) | [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Anahita Dawar](https://open.spotify.com/artist/5QBO7zupabRkodbX53gLug) | [Is It Okay?](https://open.spotify.com/album/5ATVhjWHv6fKepQnjYPPRb) | 3:32 | 2025-03-27 | 2025-05-03 |
 | [Ishaare](https://open.spotify.com/track/33ZSjdEUt5LmAgF1DRizHF) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [Finding Joy](https://open.spotify.com/album/0eAenznPhLMhCpuKNmcNJW) | 1:53 | 2025-03-21 | 2025-04-19 |
+| [Ishaare](https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Sweetburn](https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX) | 2:47 | 2025-08-11 |  |
 | [Ishq](https://open.spotify.com/track/7d4xV9QurriaLxYwxbUZxa) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ishq](https://open.spotify.com/album/6ZQ8vCY94TRUNz5B6SAscW) | 4:14 | 2024-04-19 | 2024-06-15 |
 | [Ishq Chalawa](https://open.spotify.com/track/45ZPKXU7QFh3Bz3HUh4uRj) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Ishq Chalawa](https://open.spotify.com/album/4fj1oANSu69BUrvX50cZaC) | 3:26 | 2025-07-18 |  |
 | [Ishq Rang Reza](https://open.spotify.com/track/5wEfczCkc17dZ3mQu8meA1) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Poorvi Koutish](https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p) | [Ishq Rang Reza](https://open.spotify.com/album/7iOpJU0Ky0R4YmkNARz5LP) | 2:47 | 2024-11-29 | 2024-12-14 |
@@ -1010,7 +1011,7 @@
 | [The Other Side](https://open.spotify.com/track/1NZcWNXk2ZsMSiiFen25nN) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv), [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [The Other Side](https://open.spotify.com/album/3b3V9Xrmq468GwoZuiuTRG) | 3:20 | 2025-02-07 | 2025-03-01 |
 | [The Search for Wild Geese](https://open.spotify.com/track/3D9oBcbBI8BoFs8cNbO7Nc) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph), [Cosmic Grooves](https://open.spotify.com/artist/3dhy3RnTmsYSl0kZwIPOpn) | [The Search for Wild Geese](https://open.spotify.com/album/31vFwTEramFgkSBd38LEf4) | 4:26 | 2023-04-14 | 2023-06-24 |
 | [Thikana](https://open.spotify.com/track/7tGwilnEe5wNfQ097nTWOC) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Gautam Aditya](https://open.spotify.com/artist/1RYvJWl1FrAPcH8Rg5xOV3) | [Thikana](https://open.spotify.com/album/6NlJIRAUjQoJCaSRbz2viR) | 4:54 | 2024-02-09 | 2024-03-09 |
-| [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 | 2025-08-01 |  |
+| [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 | 2025-08-01 | 2025-08-12 |
 | [Time Is Money](https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Time Is Money](https://open.spotify.com/album/0h894TP5cKaz0Lc5tERtvf) | 3:04 | 2024-03-01 | 2024-03-16 |
 | [Tinke Ka Sahara](https://open.spotify.com/track/5BYTgO5v9eSV9T6oY8jSck) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Tinke Ka Sahara](https://open.spotify.com/album/60lgMNVsqFGRFsxaIgWyY4) | 2:09 | 2025-03-14 | 2025-03-22 |
 | [Titli](https://open.spotify.com/track/7hIo0oSJq396AsNH0r1zCv) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Titli](https://open.spotify.com/album/2kmK65y29xEQc9N6ZaYDOO) | 3:02 | 2025-06-20 |  |

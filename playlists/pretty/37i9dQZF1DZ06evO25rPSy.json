@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAAAre0seA4KcR1dj9n9L7A9R",
+  "snapshot_id": "aJfhAAAAAABAC3V6/tfNQIruXIOkVAq6",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Buscando Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6FGWfN7Y8ag1wnTgooJgx9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00f3ntelo en la Lengua",
+        "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Sentimiento Increible",
+      "url": "https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
         "url": "https://open.spotify.com/album/5WckkHkSVlDEpMdf0KtNr9"
       },
@@ -403,38 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00f3ntelo en la Lengua",
-        "url": "https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Sentimiento Increible",
-      "url": "https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Buscando Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6FGWfN7Y8ag1wnTgooJgx9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(No Existen) T\u00e9cnicas para Olvidar",
         "url": "https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "Cuando El Sol Va A Salir",
-      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 204480,
       "name": "Los Ni\u00f1os Se Enamoran",
       "url": "https://open.spotify.com/track/12A6D4178vfnvBJx2zBuvX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "Cuando El Sol Va A Salir",
+      "url": "https://open.spotify.com/track/1LWcPRF650pL8Df9WpB7vz"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "Tren Sexual",
-      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 268266,
       "name": "Qu\u00e9 Oscuridad",
       "url": "https://open.spotify.com/track/0lIij3INQIJ8jBkkBa7N1M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 248346,
+      "name": "Tren Sexual",
+      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 259252,
       "name": "Bailar",
       "url": "https://open.spotify.com/track/71cSItAD9NSPQl8ZqhszFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 282266,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Chance Peña
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,508 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,512 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 4 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 | 5 | [Peace](https://open.spotify.com/track/0HJuwBpU9bpH3Zt5r1PtNS) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Peace](https://open.spotify.com/album/06nx9W0SidRp29RNFPwMQX) | 4:25 |
 | 6 | [Caught Light](https://open.spotify.com/track/0TMYG4N8EtUQnnhIXiPxGE) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Caught Light](https://open.spotify.com/album/0khfthMsAcz4Y4pHWMniel) | 5:32 |
-| 7 | [O\-Ren Ishii \- Stripped Version](https://open.spotify.com/track/3du4fYE1fAHDoCcrhwa6Oh) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [O\-Ren Ishii \(Stripped Version\)](https://open.spotify.com/album/4NjTv8mS9ZioL1IUyUYBOe) | 3:08 |
+| 7 | [O\-Ren Ishii \(Stripped Version\)](https://open.spotify.com/track/3du4fYE1fAHDoCcrhwa6Oh) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [O\-Ren Ishii \(Stripped Version\)](https://open.spotify.com/album/4NjTv8mS9ZioL1IUyUYBOe) | 3:08 |
 | 8 | [Welcome Stranger](https://open.spotify.com/track/4JnvPtHlD3TGmuYuVhSTjl) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Welcome Stranger](https://open.spotify.com/album/0zlV9JrYYlWxY9GgkfjaVL) | 3:37 |
 | 9 | [i don’t want your garden](https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [i don’t want your garden](https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq) | 3:45 |
 | 10 | [Dime](https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dime](https://open.spotify.com/album/5rcb27gz7zYhz2LASit9cF) | 3:40 |

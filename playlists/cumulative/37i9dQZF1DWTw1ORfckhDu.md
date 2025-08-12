@@ -2,9 +2,9 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯
+> 100 Suomi 💯  Kannessa ibe.
 
-961 songs - 1 day 21 hr 39 min
+962 songs - 1 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Muija on ku kone](https://open.spotify.com/track/4H3tZOuDW6SQsexjO45nYe) | [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Muija on ku kone](https://open.spotify.com/album/18aAtK2ZIO8KXjf1COHs2S) | 2:35 | 2023-11-02 | 2023-12-01 |
 | [Mulle riittää yks](https://open.spotify.com/track/1uo81rXi7lKlT9dI7ZeSyz) | [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D) | [Mulle riittää yks](https://open.spotify.com/album/3b3VdVgdMxspknuFuXJLR3) | 3:31 | 2024-12-12 | 2024-12-27 |
 | [Mun Kengis](https://open.spotify.com/track/7JJxs4WEki6FXWUqgTkPHL) | [Brakston](https://open.spotify.com/artist/77ZjNgQTMhh1PbwnmFzIp9) | [Mun Kengis](https://open.spotify.com/album/5H2uAXqwlbB9Xm5JpDaNKo) | 2:35 | 2023-12-21 | 2024-01-05 |
+| [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 | 2025-08-11 |  |
 | [MURDV](https://open.spotify.com/track/1AWpTnYMAIyuENulfwT0j4) | [MJ](https://open.spotify.com/artist/6DuYuCr5tT6QMfDVjjivcj) | [MURDV](https://open.spotify.com/album/4Ht1Eiy3hAjV1RJ53486Sq) | 2:01 | 2024-03-07 | 2024-04-12 |
 | [Mussukka \- Hugo Soniver Remix](https://open.spotify.com/track/3OEkXzTX8CzrqSKV8QzVCH) | [Hugo Soniver](https://open.spotify.com/artist/3xyLz8SaiijXKUqqS7y7TP), [Vesa Heimo](https://open.spotify.com/artist/0RyalZn9vXsKHJ4qlpX53I) | [Mussukka \(Hugo Soniver Remix\)](https://open.spotify.com/album/4ybjSeqG4816QOGrNjmuIk) | 2:42 | 2023-12-08 | 2023-12-22 |
 | [Musta hevonen](https://open.spotify.com/track/1JA6J5kzRNUYagv2WmjxqY) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Musta hevonen](https://open.spotify.com/album/2WnDVAp5xi9mUOKbrBLvZG) | 2:42 | 2025-02-13 | 2025-03-28 |

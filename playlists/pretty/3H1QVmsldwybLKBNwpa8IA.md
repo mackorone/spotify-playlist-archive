@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,730 likes - 131 songs - 7 hr 3 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,727 likes - 131 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 88 | [Christmas \(Baby Please Come Home\) \(feat\. Bryan Adams\)](https://open.spotify.com/track/5MrUeMnwotFhQCLlb2qEZK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Christmas Present \(Deluxe\)](https://open.spotify.com/album/1JDeu83sZU5nmRu2OTSk4F) | 2:43 |
 | 89 | [All I Want for Christmas Is You](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [All I Want for Christmas Is You](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) | 3:48 |
 | 90 | [Sleigh Ride \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/6XAdcAseYtijN0QUnQFsH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Merry Christmas \(with Percy Faith & His Orchestra\)](https://open.spotify.com/album/3pHNZvjNOHJX8G9Y0OmIzG) | 2:58 |
-| 91 | [Jingle Bell Rock \- Cover of Bobby Helms](https://open.spotify.com/track/77GcYr9JP6uvJM0kPa6Nzk) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:32 |
+| 91 | [Jingle Bell Rock](https://open.spotify.com/track/77GcYr9JP6uvJM0kPa6Nzk) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:32 |
 | 92 | [Last December \- Acoustic Version](https://open.spotify.com/track/2eP5TN745mw3cctQoUKBVZ) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/4Wi489dcX4owpM21EcKKz7) | 4:32 |
 | 93 | [My Favorite Things](https://open.spotify.com/track/01i3BDtgXG4mXQ3lXIWfqj) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 2:49 |
 | 94 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:34 |

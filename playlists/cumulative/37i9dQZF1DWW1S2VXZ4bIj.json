@@ -4131,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e23\u0e16\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e1a\u0e49\u0e32\u0e19 \u0e01\u0e38\u0e0d\u0e41\u0e08\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e23\u0e16",
+        "url": "https://open.spotify.com/album/1hVdj1pjuC3DmPDqvz3Dg0"
+      },
+      "artists": [
+        {
+          "name": "PorMorLor",
+          "url": "https://open.spotify.com/artist/4bjCz80mrdGPZmH6UXWmXy"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e23\u0e16\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e1a\u0e49\u0e32\u0e19 \u0e01\u0e38\u0e0d\u0e41\u0e08\u0e1a\u0e49\u0e32\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e23\u0e16",
+      "url": "https://open.spotify.com/track/0EeYnUtRVVMHHDlfY7IYJF"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e38\u0e2b\u0e25\u0e32\u0e1a",
         "url": "https://open.spotify.com/album/4E9BRdA6hdnLEdTUwJJs5V"
       },
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 256049,
       "name": "\u0e14\u0e37\u0e48\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e25\u0e37\u0e21 (Wasted)",
       "url": "https://open.spotify.com/track/1RqIK2jRjU8IrscMQnHZ20"

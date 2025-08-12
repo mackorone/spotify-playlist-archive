@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Cameron Whitcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,632 likes - 66 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,634 likes - 66 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

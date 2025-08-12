@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Lusaint
 
-443 songs - 1 day 1 hr 19 min
+444 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [suffer](https://open.spotify.com/track/46gYDd1STZWpjFi7rKWy1n) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [suffer](https://open.spotify.com/album/4safZcciEZzvvznTt9Sf18) | 4:46 | 2021-12-03 | 2022-04-29 |
 | [Sugarcane](https://open.spotify.com/track/7pzoOz4tiF2KA76FNM70ms) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Sugarcane](https://open.spotify.com/album/0NRpX7UAG0LJVkqtx3jFze) | 3:54 | 2021-12-03 | 2022-07-23 |
 | [Summertime](https://open.spotify.com/track/1DEHkieaXEuXm2SumbWQG1) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Summertime](https://open.spotify.com/album/3bzu8rRotavOgVPrQFPmwT) | 4:17 | 2022-04-29 | 2023-02-16 |
+| [Summertime](https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Summertime](https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2) | 3:02 | 2025-08-11 |  |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-27 |  |
 | [Sunblind](https://open.spotify.com/track/1Kpt4G3LsCeKYLqTnRYBio) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/5tXJchExPrWfcj1JwoDeZy) | 4:13 | 2021-12-03 | 2022-09-03 |
 | [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 | 2024-03-22 |  |

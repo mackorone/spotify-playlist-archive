@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 115500,
       "name": "Edamame",
       "url": "https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 150973,
       "name": "Junimond",
       "url": "https://open.spotify.com/track/1VVXleOdSTlRz9jrvPMLYh"
@@ -3478,7 +3478,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 170476,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp"
@@ -4373,7 +4373,7 @@
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145652,
+      "duration_ms": 145654,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
     },
@@ -5964,7 +5964,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 137142,
       "name": "Vespa",
       "url": "https://open.spotify.com/track/4cQXzeob93WskDrYumvoqn"
@@ -6078,7 +6078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 117656,
       "name": "Vorbei",
       "url": "https://open.spotify.com/track/7xq0ZfsN1ZjYcmdE5FYjWk"
@@ -6492,6 +6492,36 @@
       "duration_ms": 125901,
       "name": "Yamaha Yz",
       "url": "https://open.spotify.com/track/3XHESdkyiPRgBbpL17wkH9"
+    },
+    {
+      "album": {
+        "name": "Yerinde Dur Remix feat. Amo & Aymen",
+        "url": "https://open.spotify.com/album/3e966JmhN3SrKx6QLTtwY2"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Yerinde Dur Remix feat. Amo & Aymen",
+      "url": "https://open.spotify.com/track/4jsF4LQHWHm1hwWzjExyOg"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Pop con Ñ](https://open.spotify.com/playlist/37i9dQZF1DX3sCT1ItXgNd)
 
-> Lo mejor del pop en español\. Foto: Marta Santos
+> Lo mejor del pop en español\. Foto: Hey Kid
 
-772 songs - 1 day 14 hr 43 min
+774 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-08-28 | 2023-09-08 |
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-16 | 2023-10-28 |
 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 | 2025-01-20 | 2025-02-11 |
+| [De Papel](https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [De Papel](https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ) | 2:46 | 2025-08-11 |  |
 | [DE PLASTILINA](https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [DE PLASTILINA](https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa) | 3:29 | 2023-10-19 | 2023-11-29 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-04 | 2025-03-28 |
 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 | 2023-10-19 | 2023-10-28 |
@@ -561,7 +562,7 @@
 | [POR LOS DOS](https://open.spotify.com/track/4xZljchUKqZ7H1OxgbFLqO) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [POR LOS DOS](https://open.spotify.com/album/5dzt1f81snIZTttryWqhOb) | 3:07 | 2025-03-25 | 2025-06-24 |
 | [Por no bailar contigo](https://open.spotify.com/track/1KUM4xjiOvx5u9bySqbWsp) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Por no bailar contigo](https://open.spotify.com/album/58TFewhjiVeUGeuh4K9K2U) | 3:08 | 2024-10-21 | 2025-02-11 |
 | [POR NO DECIR TU NOMBRE](https://open.spotify.com/track/5xDrj4AzyHFm4ihYhIbOt2) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [POR NO DECIR TU NOMBRE](https://open.spotify.com/album/3QWPDIOf4MzsIwvpsMtM48) | 3:12 | 2023-07-10 | 2023-08-02 |
-| [Por Qué No Ser Amigos](https://open.spotify.com/track/35asUXcK4uvCEcJCRIlHXz) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Por Qué No Ser Amigos](https://open.spotify.com/album/3bUGdqNPPzX8uVXOlt5aQX) | 2:51 | 2025-07-08 |  |
+| [Por Qué No Ser Amigos](https://open.spotify.com/track/35asUXcK4uvCEcJCRIlHXz) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Por Qué No Ser Amigos](https://open.spotify.com/album/3bUGdqNPPzX8uVXOlt5aQX) | 2:51 | 2025-07-08 | 2025-08-12 |
 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 | 2024-06-10 | 2024-06-29 |
 | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/track/20enjIUEen7tNZXTRLDxXi) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Por Si No Te Vuelvo A Ver](https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP) | 3:05 | 2024-09-17 | 2024-12-10 |
 | [Por si vuelves](https://open.spotify.com/track/3qxEHTh0gvgmnKOLUE3FZq) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Por si vuelves](https://open.spotify.com/album/5U3ktgfbytevPED96BwXdo) | 3:14 | 2023-09-18 | 2023-09-29 |
@@ -633,6 +634,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 | 2024-10-01 |
 | [SI ELLA SUPIERA](https://open.spotify.com/track/2GXCmc3A6ahTNnBsrkrRuh) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [SI ELLA SUPIERA](https://open.spotify.com/album/4MTPsE7cVMXfxZAjsTopE3) | 3:53 | 2023-03-13 | 2023-08-29 |
 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 | 2024-02-15 | 2024-02-27 |
+| [Si Juegas Conmigo \(ASA25\)](https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Si Juegas Conmigo \(ASA25\)](https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX) | 3:26 | 2025-08-11 |  |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-09-18 | 2024-01-26 |
 | [Si no fuera por ti](https://open.spotify.com/track/4tgJisrpPVo6VUpz9gLrDK) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Si no fuera por ti](https://open.spotify.com/album/5rYq6aRlL38zL8ZGHkNHZT) | 2:51 | 2024-02-12 | 2024-03-05 |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-06 | 2024-05-14 |
@@ -775,7 +777,7 @@
 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 | 2024-10-04 | 2024-10-15 |
 | [¿Y si lo hacemos? \(feat\. Valeria Castro\)](https://open.spotify.com/track/1VamVCJejLZh212lNhygVw) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 4:35 | 2024-10-28 | 2025-01-21 |
 | [échame la culpa <3](https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [échame la culpa <3](https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h) | 2:59 | 2025-02-24 | 2025-03-14 |
-| [Última Noche](https://open.spotify.com/track/08iQaBBx5pkyEam6jxJegI) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Última Noche](https://open.spotify.com/album/1pavsMs5Dq5wLxUsf7HlIp) | 3:55 | 2025-07-18 |  |
+| [Última Noche](https://open.spotify.com/track/08iQaBBx5pkyEam6jxJegI) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Última Noche](https://open.spotify.com/album/1pavsMs5Dq5wLxUsf7HlIp) | 3:55 | 2025-07-18 | 2025-08-12 |
 | [Último Baile](https://open.spotify.com/track/1ApFykPxKmhP4iNbFmgXw9) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Último Baile](https://open.spotify.com/album/17DfT2KcMr4WSeXp2e6egd) | 2:59 | 2023-05-30 | 2023-09-26 |
 | [ÚLTIMO BESO](https://open.spotify.com/track/7ntgFD12mCXEkrH93HHete) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [ÚLTIMO BESO](https://open.spotify.com/album/47E82wCsxHPZkPyvCiokG1) | 2:29 | 2023-05-03 | 2023-05-20 |
 | [Último Verano](https://open.spotify.com/track/0KTP8GWIao5RGBBu6DyVe9) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Último Verano](https://open.spotify.com/album/2p2YybvC7qkeqatcy8Zy1l) | 2:49 | 2024-04-16 | 2024-07-31 |

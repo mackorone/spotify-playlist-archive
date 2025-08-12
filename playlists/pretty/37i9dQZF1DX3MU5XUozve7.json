@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1057525,
+  "num_followers": 1057706,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Have a Ball",
-        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 219773,
       "name": "Die for the Government",
       "url": "https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Have a Ball",
+        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Take a Break",
-        "url": "https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "I Believe I Can Fly",
-      "url": "https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Good For Me",
         "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 239560,
       "name": "The Best I Ever Had",
       "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Take a Break",
+        "url": "https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "I Believe I Can Fly",
+      "url": "https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Exile in Oblivion",
-        "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
-      },
-      "artists": [
-        {
-          "name": "Strung Out",
-          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
-        }
-      ],
-      "duration_ms": 175826,
-      "name": "Analog",
-      "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Scandinavian Leather",
         "url": "https://open.spotify.com/album/1qK9Xlui8xqhWkMiVPIQbP"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 254226,
       "name": "Fuck The World",
       "url": "https://open.spotify.com/track/1VyXtvIHF8eytwxxDLsE3Z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Exile in Oblivion",
+        "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
+      },
+      "artists": [
+        {
+          "name": "Strung Out",
+          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
+        }
+      ],
+      "duration_ms": 175826,
+      "name": "Analog",
+      "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Change Is A Sound",
-        "url": "https://open.spotify.com/album/6idenDZFGxyQLsVM7z9zuD"
+        "name": "Thrash Metal Cassette",
+        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
       },
       "artists": [
         {
-          "name": "Strike Anywhere",
-          "url": "https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 161680,
-      "name": "Refusal",
-      "url": "https://open.spotify.com/track/1nDAlB9sVAeJfMt2rGM0Hi"
+      "duration_ms": 219866,
+      "name": "Thrash Metal Cassette",
+      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
     }
   ],
   "unique_name": "Skatepark Punks",

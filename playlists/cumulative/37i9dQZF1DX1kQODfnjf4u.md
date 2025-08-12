@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Nik Tendo, Decky
 
-140 songs - 6 hr 54 min
+141 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-02-04 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-07-01 | 2024-07-30 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 | 2025-04-08 |
-| [Ewa Farna](https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [ERNE100](https://open.spotify.com/artist/2PsXHmUVTryvflJlh19Fr5), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Ewa Farna](https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT) | 3:43 | 2025-03-31 |  |
+| [Ewa Farna](https://open.spotify.com/track/2SKRhxWAr43tlNHM8yN3jE) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [ERNE100](https://open.spotify.com/artist/2PsXHmUVTryvflJlh19Fr5), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Ewa Farna](https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT) | 3:43 | 2025-03-31 | 2025-08-12 |
 | [Ex\-Opps](https://open.spotify.com/track/4vymz2jIglZLuULsMTHx6v) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Ex\-Opps](https://open.spotify.com/album/0DNQNUzuaW1fIa4AnoXyqJ) | 2:22 | 2024-07-01 | 2024-07-16 |
 | [FaceTime](https://open.spotify.com/track/7cygxRmLVXDCQWt15xdRXB) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [HRA1](https://open.spotify.com/album/5dvyybxV1Inueqg9XSSMXw) | 2:58 | 2024-07-01 | 2024-10-08 |
 | [FANCY](https://open.spotify.com/track/6RXu4x7xRO1CpJbHCjguET) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [FANCY](https://open.spotify.com/album/4SCeI1CpSjYAwyyQ6nhr6Q) | 2:52 | 2025-05-19 |  |
@@ -146,6 +146,7 @@
 | [Vítej mezi náma \(feat\. STEIN27\)](https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 3:13 | 2024-12-16 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-29 | 2024-09-17 |
 | [Window Shopper](https://open.spotify.com/track/2x39J1ztiWV60Q7WeSHIpW) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:00 | 2024-07-01 |  |
+| [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 | 2025-08-11 |  |
 | [Zasloužený](https://open.spotify.com/track/7HdlQ15U3u9fLIzH5st0lq) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [SEPTUM](https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu) | 2:42 | 2025-01-20 | 2025-03-18 |
 | [ŘEKNI MI PRAVDU](https://open.spotify.com/track/6m6T2GEUhecN8weKqdoE8x) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Decky](https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [GoldKiid](https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU) | 3:19 | 2025-08-04 |  |
 

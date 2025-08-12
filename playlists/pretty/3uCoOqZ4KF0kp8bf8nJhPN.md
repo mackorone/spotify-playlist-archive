@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 209 songs - 8 hr 22 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 216 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,13 +209,20 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 199 | [Tell Me Everything](https://open.spotify.com/track/4EsOG03rteaFIZBMXalYd1) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Safe And Sound](https://open.spotify.com/album/0QPgqLJiQi4dHrvmS4qYbi) | 3:07 |
 | 200 | [Магазин](https://open.spotify.com/track/0cxKqzCYTNND97CQOBWtha) | [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Excalibur](https://open.spotify.com/album/33rtyAHvVG2lU8ZFKVK5Mv) | 1:49 |
 | 201 | [Жмурки](https://open.spotify.com/track/3WhjBLDn0rIae7vtTDKpCO) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:07 |
-| 202 | [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 |
-| 203 | [Другой стиль](https://open.spotify.com/track/1wIu4Ou0z7XJcLB0rs3Ufz) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 3:10 |
-| 204 | [Разница](https://open.spotify.com/track/7eraH0QBa5UrNKyN9a8d75) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:20 |
-| 205 | [Окраина](https://open.spotify.com/track/4enCMfd6Ubyn2m9Tkb8lUV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Окраина](https://open.spotify.com/album/1ZBBU3IExZhUzvJPlNFNSe) | 3:00 |
+| 202 | [Окраина](https://open.spotify.com/track/4enCMfd6Ubyn2m9Tkb8lUV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Окраина](https://open.spotify.com/album/1ZBBU3IExZhUzvJPlNFNSe) | 3:00 |
+| 203 | [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 |
+| 204 | [Другой стиль](https://open.spotify.com/track/1wIu4Ou0z7XJcLB0rs3Ufz) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 3:10 |
+| 205 | [Разница](https://open.spotify.com/track/7eraH0QBa5UrNKyN9a8d75) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:20 |
 | 206 | [Биг Сити Лайф](https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:08 |
 | 207 | [9568](https://open.spotify.com/track/3yP6Wgq45sDrMUHlE58ezR) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 1:56 |
 | 208 | [Оффер](https://open.spotify.com/track/5eOle5suK36LQwLzPvZTZQ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:16 |
 | 209 | [Часик](https://open.spotify.com/track/5SOcbgdNmV0sFmmKOIbVuV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:54 |
+| 210 | [1000000₽](https://open.spotify.com/track/2iqXJeFj27ZuRrJvieUpP2) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [VERi RERi](https://open.spotify.com/artist/3bVvrbMo8AcqPG7lrJfopQ) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:34 |
+| 211 | [Тревога](https://open.spotify.com/track/7Kxl7lGeiXmdZryYTMLwXv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:30 |
+| 212 | [Вибрация](https://open.spotify.com/track/6gUU3AMtg5PQqXy6BoouAi) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [68 Languages](https://open.spotify.com/album/4ADAI0tu0p8NnxYcVE4GtD) | 2:14 |
+| 213 | [Биг Сити Лайф](https://open.spotify.com/track/3cqVWI3s0TgcesZsyi42Xp) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [Биг Сити Лайф](https://open.spotify.com/album/4GIGtvvVL4PTa25xN6dnMP) | 2:08 |
+| 214 | [Страгл](https://open.spotify.com/track/0dNFnJTdR6JrO9n1dQOiMk) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:06 |
+| 215 | [Правда](https://open.spotify.com/track/0BnL9eUbwpI0lA6WRMgXf0) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:19 |
+| 216 | [Никому не верить](https://open.spotify.com/track/3yEXRe4siLLNZGOYQnbwWg) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:11 |
 
-Snapshot ID: `AAAFx8tavqEXEQYva86xXIqn40f+Pxiz`
+Snapshot ID: `AAAFzxTh0tNmUL0IBppc3sxtNkQPzFUn`

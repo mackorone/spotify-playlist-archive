@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 69783,
+  "num_followers": 69800,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -264,8 +264,8 @@
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "Luthuli",
+          "url": "https://open.spotify.com/artist/67roWJuzF5VP3zNpxaFfw0"
         }
       ],
       "duration_ms": 208617,
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-08-01 19:12:24",
       "album": {
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
+        {
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
+    },
+    {
+      "added_at": "2025-08-01 19:12:24",
+      "album": {
         "name": "Inspirar",
         "url": "https://open.spotify.com/album/6B6RJjlQrekXNwbPHcmz8g"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 262105,
       "name": "Inspirar",
       "url": "https://open.spotify.com/track/1b69e6NGyvu8c8d0MFDPUG"
-    },
-    {
-      "added_at": "2025-08-01 19:12:24",
-      "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2025-08-01 19:12:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,286 likes - 280 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,499 likes - 280 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 279 | [Can't Help Falling In Love](https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Can't Help Falling In Love](https://open.spotify.com/album/05Fg2jM0E5fmpR2XBY9mwl) | 2:39 |
 | 280 | [Inside Of Me](https://open.spotify.com/track/2XyVb6wPtV92EqwIPBhcJB) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [Inside Of Me](https://open.spotify.com/album/1feTbnUKnfGDWKQYiGVjUc) | 2:38 |
 
-Snapshot ID: `AAAAAJFt3+VG2KvkDoQpxZduxgjn03pk`
+Snapshot ID: `AAAAAKF+bTH8f0kLxuAsvYjOjTpaODPX`

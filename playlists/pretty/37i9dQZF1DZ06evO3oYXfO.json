@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 485707,
+  "num_followers": 485902,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAACeV/K8lyU/3g0qJGnqQiPv",
+  "snapshot_id": "aJfhAAAAAABhNJJH7Vv0tz8y5ipAaFf7",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sabbath",
-        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "Sleeping Village - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Say Die!",
         "url": "https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 227306,
       "name": "Never Say Die - 2009 Remaster",
       "url": "https://open.spotify.com/track/42aY1pEcjp3GWENE6LUPnx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "Sleeping Village - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg"
     },
     {
       "added_at": null,

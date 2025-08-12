@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,013 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,010 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 33 | [ПОВОД](https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ALISHER](https://open.spotify.com/album/4Y8nQDihhjaKefzE3rmoAM) | 2:33 |
 | 34 | [ПАПА](https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [ПАПА](https://open.spotify.com/album/1bIRpktyLvf7jvPZyfmEFP) | 1:42 |
 | 35 | [виски с молоком](https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO) | [снялцепи](https://open.spotify.com/artist/2U8WjSfWrXusGaZXinLUtl) | [виски с молоком](https://open.spotify.com/album/4qb91eb53PXwNF00uMFaVO) | 1:01 |
-| 36 | [Rock That Body](https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:28 |
+| 36 | [Rock That Body](https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:28 |
 | 37 | [Hoodtrapstar](https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [From Sparta to Padre](https://open.spotify.com/album/5H12u8bLTbrdlLQ96iETPL) | 2:07 |
 | 38 | [AGENT\-PROVOCATEUR](https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [ENEMY](https://open.spotify.com/album/6Cou92zlMJIMHCInVfrVW4) | 1:42 |
 | 39 | [Здравствуй](https://open.spotify.com/track/0qC4BgAbK9YI3fJ31n2fOO) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU), [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [BRATLAND](https://open.spotify.com/album/0LsI3DFSoCXBSSXCtriNRj) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Who \(Shibuyakei Remix\)](https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WANDER ver.\)](https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS) | 2:46 |
 | 50 | [цветы](https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [мрачные треды](https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx) | 1:38 |
 
-Snapshot ID: `MCwSKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MC1e+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

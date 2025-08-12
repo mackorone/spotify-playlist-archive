@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "Halal Selamanya",
+        "url": "https://open.spotify.com/album/6AkRaIeU2rjDAsIL3S0T7E"
+      },
+      "artists": [
+        {
+          "name": "Dikta Wicaksono",
+          "url": "https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232678,
+      "name": "Halal Selamanya",
+      "url": "https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K"
+    },
+    {
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68"
       },
@@ -2910,7 +2928,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 250538,
       "name": "Suara Hati Seorang Kekasih",
       "url": "https://open.spotify.com/track/5X9OuU8BRgCBNJyxIIFBVG"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 252093,
       "name": "Terpukau",
       "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"

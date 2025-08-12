@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Silly Silky\(실리실키\)\)
 
-253 songs - 14 hr 26 min
+254 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Baggy Jeans \- KIM MINCHEOL & HAYATE Remix](https://open.spotify.com/track/7zxw70wfBUsKWmOXS3fkq4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ), [KIM MINCHEOL & HAYATE](https://open.spotify.com/artist/0KF5ZsmNgMLjLtqNsWwhbm) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:08 | 2024-04-05 | 2024-04-19 |
 | [Bail\-E](https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8), [Mogwaa](https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy) | [Eu li EP](https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG) | 7:52 | 2024-04-05 |  |
 | [Bambi \- BRLLNT Remix](https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [BRLLNT](https://open.spotify.com/artist/78EdVeIJjaqrSJdEaps9rt) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 2:51 | 2024-04-05 |  |
-| [Bambi \- h4rdy Remix](https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 4:00 | 2024-04-05 |  |
+| [Bambi \- h4rdy Remix](https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.8 : Bambi Remixes](https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj) | 4:00 | 2024-04-05 | 2025-08-12 |
 | [Be Your Breeze \- Dyako Remix](https://open.spotify.com/track/0CufLeUWzEjOisimpSDVXl) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Be Your Breeze \(Remixes\)](https://open.spotify.com/album/50OdjnCJjGLB3aw1rN2CZo) | 3:38 | 2024-09-04 | 2024-09-21 |
 | [Before the Dawn](https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx) | [GLORY](https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr) | [Before the Dawn](https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk) | 2:56 | 2024-04-05 | 2024-06-09 |
 | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C) | [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP), [FLANNEL ALBERT](https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC) | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/album/0s10sDLTOXD2jDXqEqS7nf) | 3:13 | 2024-06-28 | 2024-07-17 |
@@ -73,6 +73,7 @@
 | [Criminal \- Minit Remix](https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:44 | 2024-04-05 | 2024-06-29 |
 | [Criminal \- SUMIN Remix](https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [iScreaM Vol.5 : Criminal Remixes](https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq) | 3:31 | 2024-04-05 | 2025-04-12 |
 | [Dance First \(La La La\)](https://open.spotify.com/track/4X0CDb5Bs9kBVrT2ogDOcn) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV) | [CÖURAGE](https://open.spotify.com/album/3cxbXJDckUeaweTcWZ0nWX) | 4:58 | 2024-09-27 | 2024-10-16 |
+| [DAT SHIT](https://open.spotify.com/track/1fMvmvAiy8uBuUAI1a7cC3) | [YUNB](https://open.spotify.com/artist/2Z7teNgQJnz6qUp8FmhEtG), [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [DAT SHIT](https://open.spotify.com/album/5EZo6KVu0somD1rbrXA8An) | 2:39 | 2025-08-11 |  |
 | [Dazed & Confused \- Japanese Version](https://open.spotify.com/track/6au6BQ6Uz9VimjCguRpisw) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Dazed & Confused \(Japanese Version\)](https://open.spotify.com/album/7z4DoXWr2pIU2hId9dh70U) | 3:55 | 2024-09-24 | 2024-12-18 |
 | [DEEP \- 4B Remix](https://open.spotify.com/track/2PFR9yNzA9ExoGulaFY2IU) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 2:34 | 2024-04-05 | 2025-02-12 |
 | [DEEP \- h4rdy Remix](https://open.spotify.com/track/32ublq72W447prf0jOntiJ) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [iScreaM Vol.17 : DEEP Remixes](https://open.spotify.com/album/52y8oOuU1sVpx7MmvaaIOk) | 3:45 | 2024-04-05 | 2024-06-29 |

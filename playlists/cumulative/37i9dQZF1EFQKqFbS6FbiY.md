@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-682 songs - 1 day 9 hr 13 min
+683 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Ainda Sou O Mesmo](https://open.spotify.com/track/2G0aziZzX1n5OsNEQ7fHas) | [Leonardo](https://open.spotify.com/artist/2YWOP324cKGfkTo2PydgJR) | [Vivo Apaixonado](https://open.spotify.com/album/4kIg4gaDN2YzfSHVVs91xH) | 4:22 | 2023-12-30 |  |
 | [Ajuda De Outra \- Ao vivo](https://open.spotify.com/track/03jnlJ0pKlhIw3gKi4FXEI) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Tudo Começa Aqui \(Ao vivo\)](https://open.spotify.com/album/1ZtaLjtq8Lec0kYVdRBpEa) | 3:04 | 2023-12-30 |  |
 | [Alcolizando Sentimento \- Ao Vivo](https://open.spotify.com/track/1Wtf0D2GoPXNDXJxduj3Mv) | [Valéria Barros](https://open.spotify.com/artist/6chBeSeseWsOrJqfLq1EPv), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Amigos e Modão \(Ao Vivo\)](https://open.spotify.com/album/7ALuSupXxEKHyFB7XZmTKu) | 2:54 | 2023-12-30 | 2025-06-28 |
-| [Algo Mais](https://open.spotify.com/track/3Gk9fAoU4v9L2rOrzuSkCf) | [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [Volume 07 \- Edição Summer 2019](https://open.spotify.com/album/3Wpv8yNHxtXsYu0UddiGPl) | 3:25 | 2025-06-27 |  |
+| [Algo Mais](https://open.spotify.com/track/3Gk9fAoU4v9L2rOrzuSkCf) | [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [Volume 07 \- Edição Summer 2019](https://open.spotify.com/album/3Wpv8yNHxtXsYu0UddiGPl) | 3:25 | 2025-06-27 | 2025-08-12 |
+| [Algo Mais](https://open.spotify.com/track/5RQq5p7mPM1o0ZogDqp6zE) | [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [Sofrência](https://open.spotify.com/album/7phdWem7cPNiHf8qFv8MAO) | 3:44 | 2025-08-11 |  |
 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2023-12-30 | 2025-06-28 |
 | [Ali te ama](https://open.spotify.com/track/0FeV19uDTGI3Ib5A54WgZ0) | [Milord](https://open.spotify.com/artist/6FBgdfsSHL91n4Be3qfAaK) | [Verão 2024](https://open.spotify.com/album/7rjxAtzuAOlrZ6FgbieMu1) | 2:48 | 2024-01-26 | 2024-10-19 |
 | [Ali Te Ama \- Ao Vivo](https://open.spotify.com/track/4D25RP3yiJWfW9utK9dMyv) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Rayane & Rafaela, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3alOXtWjiWAlFbCYcpvvni) | 2:48 | 2025-05-31 |  |

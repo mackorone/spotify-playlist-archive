@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: for King & Country, KB, and Steven Malcolm
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,784 likes - 380 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,804 likes - 380 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

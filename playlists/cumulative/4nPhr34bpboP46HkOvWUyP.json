@@ -621,6 +621,28 @@
     },
     {
       "album": {
+        "name": "Heyyy",
+        "url": "https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb"
+      },
+      "artists": [
+        {
+          "name": "MaskBoi X",
+          "url": "https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm"
+        },
+        {
+          "name": "Joshua Lanuarii",
+          "url": "https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216470,
+      "name": "Heyyy",
+      "url": "https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei"
+    },
+    {
+      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/6RpRLV9dJvlmn1OYyNgdyM"
       },

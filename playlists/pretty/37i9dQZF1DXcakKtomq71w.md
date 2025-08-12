@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,348 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,360 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [Cada Noche \- Radio Edit](https://open.spotify.com/track/7ogSgVXefTQwOS11q9f6Et) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Cada Noche](https://open.spotify.com/album/1fpVDpAuPd1lWbiXG346Rx) | 3:54 |
 | 50 | [Mood Swing \- Radio Edit](https://open.spotify.com/track/76DwMrwpAY9El8AZXlWxyW) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mood Swing \(Sinego Remix\)](https://open.spotify.com/album/6LSJZ1zDqxWhVL3hDydSFB) | 4:05 |
 
-Snapshot ID: `AAAAAFcxJj5QbcG5dQWXbf/PQqOGDjfS`
+Snapshot ID: `AAAAAGKTquF4bikUtMU9114BsaWewbtK`

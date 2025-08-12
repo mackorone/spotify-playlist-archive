@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 
 > REINVENTED IN 2024\. FEATURING: Joshua Lanuarii, Kittydog, Squiblers, MouSa, nbmusic &amp; Vincent &amp; The Black Rabbit.
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 31 likes - 117 songs - 6 hr 43 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 31 likes - 118 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,6 @@ pretty - [cumulative](/playlists/cumulative/2WmQyjr536wiWWOGs53ljC.md) - [plain]
 | 115 | [BANG BANG \(MY BABY SHOT ME DOWN\)](https://open.spotify.com/track/0uz0qDHL80vqkEAOCs4Wum) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 3:28 |
 | 116 | [DAMSEL IN DISTRESS](https://open.spotify.com/track/6aypVvoftS3gKkBE5WJE3Y) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [NotSoFinest](https://open.spotify.com/artist/2Uk2YETdcoV8fXzX2DUnwQ) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:01 |
 | 117 | [LAMENT](https://open.spotify.com/track/3Cv0icGRvbEqGW2rjNvx0C) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [NEVER CATCH THE LIGHT](https://open.spotify.com/album/6rIOkuaebeu7vaXeWzt1wO) | 5:52 |
+| 118 | [Heyyy](https://open.spotify.com/track/75vHzcntF1WRrRh5yCLxei) | [MaskBoi X](https://open.spotify.com/artist/2ZyPKZF7fHCV4iQG7Bw7wm), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [Heyyy](https://open.spotify.com/album/2Wev8hyf5e9bPtOswNa5pb) | 3:36 |
 
-Snapshot ID: `AAACbsQfamrCJYSF4QybKh0Y+19CCA7L`
+Snapshot ID: `AAACbw0bY+Ww5YQ0VoOqrqVPTFvY0vT6`

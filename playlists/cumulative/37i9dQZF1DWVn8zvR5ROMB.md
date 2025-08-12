@@ -4,7 +4,7 @@
 
 > All of the newest country songs in one playlist! Featuring BigXthaPlug with Ella Langley, Bailey Zimmerman with The Kid LAROI, and more.
 
-10,602 songs - 24 day 3 hr 33 min
+10,603 songs - 24 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8012,6 +8012,7 @@
 | [Small Talk](https://open.spotify.com/track/7iktIdboIAWlvf6vLixtdG) | [Todd Cameron](https://open.spotify.com/artist/1GDTrfwX4qatgMsAdV5WiL) | [Small Talk](https://open.spotify.com/album/5w71QnOkMJtiVoBQ2gI4Dp) | 3:33 | 2023-06-23 | 2023-07-01 |
 | [Small Town](https://open.spotify.com/track/0lvvlI1yJxlLmK3ZRqQMSl) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Small Town](https://open.spotify.com/album/7HOALEfTwqs734tvYauYIG) | 3:03 | 2022-06-24 | 2022-07-02 |
 | [Small Town \(feat\. Jack Ingram\)](https://open.spotify.com/track/1kvJ9en9px0ktmheYTEBhE) | [Chase Bryant](https://open.spotify.com/artist/7io3MyhMxDZoBYXp4rlRFA), [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Cayo del Grullo](https://open.spotify.com/album/2vA6rOlnB3TnTujBvnsNOp) | 3:37 | 2024-08-02 | 2024-08-10 |
+| [Small Town Anthem](https://open.spotify.com/track/416qRAJLm9OZmYvuu7vZZp) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Small Town Anthem](https://open.spotify.com/album/4ERGKt21cZ40nbCe68PocN) | 3:03 | 2025-08-11 |  |
 | [Small Town BS](https://open.spotify.com/track/7xMD3QzEBf687tRm4xc8mN) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Honky Tonk BS](https://open.spotify.com/album/2YGCgcMSl5INi5WZ9QCkcs) | 2:47 | 2022-11-18 | 2022-11-26 |
 | [Small Town Does](https://open.spotify.com/track/5xx8iJA0LC5WEMjW9TV50H) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Small Town Does](https://open.spotify.com/album/1N6ejzwf9kwEZuX9W02ukU) | 2:51 | 2025-06-20 | 2025-07-05 |
 | [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 | 2022-10-07 | 2022-10-15 |
@@ -9131,7 +9132,7 @@
 | [Them Boots](https://open.spotify.com/track/62lPn0q2XJfU60tepP4QDT) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [Them Boots](https://open.spotify.com/album/1R4FrKzzvGSUInE6E6jKl4) | 2:35 | 2025-07-18 | 2025-07-26 |
 | [Them Cowboys](https://open.spotify.com/track/6WCVwUs6QyeWLmlzyggEFb) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Them Cowboys](https://open.spotify.com/album/5y2IuhwOiLGZBX9CSVETCs) | 3:21 | 2024-05-31 | 2024-06-08 |
 | [Them Girls Do](https://open.spotify.com/track/5ZBqTdhua0ADInEXNOhwJP) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Them Girls Do](https://open.spotify.com/album/667A3pB1bWGSqBBpmjJJAZ) | 2:52 | 2023-02-03 | 2023-02-11 |
-| [Them Old Love Songs](https://open.spotify.com/track/7zIF4r4XXWGL71IhdpOCca) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Them Old Love Songs](https://open.spotify.com/album/2N6LZ2CwgnnWjwNCo4qpva) | 3:41 | 2025-08-08 |  |
+| [Them Old Love Songs](https://open.spotify.com/track/7zIF4r4XXWGL71IhdpOCca) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Them Old Love Songs](https://open.spotify.com/album/2N6LZ2CwgnnWjwNCo4qpva) | 3:41 | 2025-08-08 |  |
 | [Them Things](https://open.spotify.com/track/2TwOynwUTjh523etXyBWjb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Them Things](https://open.spotify.com/album/0vtJA2HP8P5IoDjDwNpQU2) | 2:40 | 2023-04-28 | 2023-05-06 |
 | [Then I Met a Girl](https://open.spotify.com/track/6TDhp2MMzLjrWlJSLYrHPc) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [Then I Met a Girl](https://open.spotify.com/album/5SH0UenMGwNr4cGz3yBoaU) | 3:23 | 2022-02-18 | 2022-05-20 |
 | [Then There Were Two](https://open.spotify.com/track/00n47GCL6MYcjTbhdgBsnk) | [The Tuten Brothers](https://open.spotify.com/artist/1SKdnfGF5KypZsRJCb7M7h) | [Then There Were Two](https://open.spotify.com/album/6UfTkOblTPXJ0FE1E1M4po) | 3:18 | 2023-04-07 | 2023-04-15 |

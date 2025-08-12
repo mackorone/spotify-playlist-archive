@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > o pior é que a nanda avisou, parsa..\. 🤌🏾
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,371 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,413 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/track/63WnyGxOCAcsf21YlEoAV6) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [SARTØR](https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 2:10 |
 | 42 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 43 | [Eu Só Tenho Isso \- Bonus Track](https://open.spotify.com/track/7JgtxgLdHHycAv4xvgEmrE) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 3:16 |
-| 44 | [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 |
-| 45 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
+| 44 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
+| 45 | [Gin de Bandida é Pink](https://open.spotify.com/track/0tBVXXrtKmQvQ9n8Xic77b) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v) | [Gin de Bandida é Pink](https://open.spotify.com/album/76RT6Lsmx1YXYYHi7teHtZ) | 2:28 |
 | 46 | [8KG](https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J) | 2:12 |
 | 47 | [Seu Particular](https://open.spotify.com/track/7FbeeyMWZsJw36SaRbFNMk) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu) | 3:19 |
 | 48 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |

@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 11 Aug 22:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Aug 03:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAT22S3aNxc9jY5qzLyqU0CLZSXS5JR",
+  "snapshot_id": "AAAT3+axXH6r8i2VOio9exisOHM0AQWI",
   "tracks": [
     {
       "added_at": "2025-08-10 22:05:35",
@@ -23,6 +23,22 @@
       "duration_ms": 250785,
       "name": "Hit 'Em Up",
       "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
+    },
+    {
+      "added_at": "2025-08-11 18:05:29",
+      "album": {
+        "name": "Topping",
+        "url": "https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "Topping",
+      "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"
     },
     {
       "added_at": "2025-08-09 03:04:15",
@@ -151,6 +167,22 @@
       "duration_ms": 199896,
       "name": "WANTCHU",
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
+    },
+    {
+      "added_at": "2025-08-12 03:05:30",
+      "album": {
+        "name": "Lonyo!",
+        "url": "https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 215051,
+      "name": "Lonyo!",
+      "url": "https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP"
     },
     {
       "added_at": "2025-08-09 22:03:57",
@@ -319,6 +351,22 @@
       "duration_ms": 221859,
       "name": "Manny's Ready to Roll",
       "url": "https://open.spotify.com/track/6GQgySvc7L8B740ekKc0kV"
+    },
+    {
+      "added_at": "2025-08-11 18:05:29",
+      "album": {
+        "name": "Sensitive",
+        "url": "https://open.spotify.com/album/2EIV94ZKTReh9azuzXIznj"
+      },
+      "artists": [
+        {
+          "name": "n\u00e6vis",
+          "url": "https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Sensitive",
+      "url": "https://open.spotify.com/track/0ZMgXnTp7LYIRwplJ287Eb"
     },
     {
       "added_at": "2025-08-09 03:04:15",
@@ -775,54 +823,6 @@
       "duration_ms": 375000,
       "name": "Sixes",
       "url": "https://open.spotify.com/track/0yv5yFvvsv5eFyVQOulWEx"
-    },
-    {
-      "added_at": "2025-08-05 03:05:55",
-      "album": {
-        "name": "Heavens Sirens",
-        "url": "https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 176974,
-      "name": "Heavens Sirens",
-      "url": "https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn"
-    },
-    {
-      "added_at": "2025-08-01 03:06:42",
-      "album": {
-        "name": "Rap Kingpin",
-        "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 164084,
-      "name": "Rap Kingpin",
-      "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
-    },
-    {
-      "added_at": "2025-08-01 13:06:25",
-      "album": {
-        "name": "All Da Same",
-        "url": "https://open.spotify.com/album/0Yjbfdt0RSEDFxWD4BbD6D"
-      },
-      "artists": [
-        {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
-        }
-      ],
-      "duration_ms": 144631,
-      "name": "All Da Same",
-      "url": "https://open.spotify.com/track/4n4SppfXnfxYXfdLUSHGBs"
     }
   ],
   "unique_name": "New Singles Now",

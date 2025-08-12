@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Charli xcx \[One Universe Festival\] 8월 15일 @ 서울대공원 주차광장
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,323 likes - 20 songs - 59 min 47 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,478 likes - 20 songs - 59 min 47 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

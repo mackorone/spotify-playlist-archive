@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,485 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,466 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYTNedJ22GVG.md) - [plain]
 | 59 | [Santa Baby](https://open.spotify.com/track/41XCLKG0xl01mGprBDtTNS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [Christmas Kisses](https://open.spotify.com/album/7nIbIFeXJSBFWY0C7xGg9O) | 2:50 |
 | 60 | [Feliz Navidad](https://open.spotify.com/track/7DNB4gBzWIe8Pwml3hGHbH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 3:21 |
 | 61 | [Santa Tell Me](https://open.spotify.com/track/5kQ6UcHEUizCPFQM3E3dZ0) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:04 |
-| 62 | [We Need A Little Christmas \- Cover of Johnny Mathis](https://open.spotify.com/track/1KTopLtzIdyLEa9fxSlpjp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Two](https://open.spotify.com/album/6WlzaRoDShdgVgaqJRjyNH) | 2:44 |
+| 62 | [We Need A Little Christmas](https://open.spotify.com/track/1KTopLtzIdyLEa9fxSlpjp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Two](https://open.spotify.com/album/6WlzaRoDShdgVgaqJRjyNH) | 2:44 |
 | 63 | [December](https://open.spotify.com/track/2r3gfGANsuPbAwmLWGv0ET) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/5BFg8l4NYyZ90DWqcBjbt6) | 1:56 |
 | 64 | [Little Drummer Boy](https://open.spotify.com/track/0eiFwEYsRxsNzPBHLwAMaJ) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTXmas \(Deluxe Edition\)](https://open.spotify.com/album/3eJ3HI0rEodDcOF3NpbHXH) | 4:15 |
 | 65 | [Holidays \(feat\. Earth, Wind & Fire\)](https://open.spotify.com/track/0Yeh2VJCsxSgbftSGTiUbN) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:45 |

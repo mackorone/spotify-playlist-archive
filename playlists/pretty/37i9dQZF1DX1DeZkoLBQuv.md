@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > os louvores que dão força à irmã do cross, <a href="https://www.instagram.com/irmamarlucesantosof/">@irmamarluceof</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,307 likes - 20 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,305 likes - 20 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 19 | [Enche o Templo](https://open.spotify.com/track/5lpLGKN9aEVbXgz83oFVzF) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Deus Não Te Rejeita](https://open.spotify.com/album/3GngFfEXaZrfS87aIC5seZ) | 5:58 |
 | 20 | [Nasci Pra te Adorar](https://open.spotify.com/track/0tyLE98lzEO4wfHWcZTZdZ) | [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz) | [Trajetória de um Fiel](https://open.spotify.com/album/4GKcrCaIf6Uyh1Bfz3MJxK) | 4:51 |
 
-Snapshot ID: `AAAAANP1CN+dQWpvHouXzI6bigXPMDin`
+Snapshot ID: `Z0kRcwAAAAB67RfgT+4QZrBqfPLkoAfR`

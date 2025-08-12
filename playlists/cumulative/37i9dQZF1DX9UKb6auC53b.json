@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Hunting Soul",
+        "url": "https://open.spotify.com/album/5gTvrJN2cwVgWUtWnMKqwS"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b7\u30ed\u30a6\uff08CV.\u8c37\u5c71\u7d00\u7ae0\uff09",
+          "url": "https://open.spotify.com/artist/3SQQcJqSiQ4ytuStSlvwNU"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239872,
+      "name": "Hunting Soul",
+      "url": "https://open.spotify.com/track/3jmeANcyx6s6NACZEUycoB"
+    },
+    {
+      "album": {
         "name": "\u300c\u30c0\u30f3\u30c0\u30c0\u30f3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53"
       },

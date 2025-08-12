@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Omar Courtz, Bassyy, Derek Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,496 likes - 190 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,455 likes - 190 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

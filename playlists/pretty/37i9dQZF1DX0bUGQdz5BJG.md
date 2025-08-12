@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Jay Webb
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,385 likes - 206 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,464 likes - 206 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 7 | [pretty much](https://open.spotify.com/track/0c9PJ7XBOKOlCDzE8SlpU7) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [pretty much](https://open.spotify.com/album/0eFdgrlzGyLwO9N74dru6F) | 3:30 |
 | 8 | [Love Was Just a Feeling](https://open.spotify.com/track/0q5Ef6n4WfDXFx0qmWsajA) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Love Was Just a Feeling](https://open.spotify.com/album/3Rs1IqCy0iDQGoqJb2zbha) | 3:22 |
 | 9 | [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 |
-| 10 | [Them Old Love Songs](https://open.spotify.com/track/7zIF4r4XXWGL71IhdpOCca) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Them Old Love Songs](https://open.spotify.com/album/2N6LZ2CwgnnWjwNCo4qpva) | 3:41 |
+| 10 | [Them Old Love Songs](https://open.spotify.com/track/7zIF4r4XXWGL71IhdpOCca) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT), [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Them Old Love Songs](https://open.spotify.com/album/2N6LZ2CwgnnWjwNCo4qpva) | 3:41 |
 | 11 | [Save Me from Myself](https://open.spotify.com/track/1pgMTGrUAETMaXLUgUV7Gx) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Save Me from Myself](https://open.spotify.com/album/2YWOhrsvYkOjGbbFbHiCNe) | 2:28 |
 | 12 | [Fool’s Gold](https://open.spotify.com/track/1WQ3fy3eUkoTx1t7yoY3Jq) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Fool’s Gold](https://open.spotify.com/album/7pZOvshBb8dbeb73uoz8f5) | 3:33 |
 | 13 | [Hangman](https://open.spotify.com/track/2mVWbrAIn4CEvz9b6tkdsf) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Hangman](https://open.spotify.com/album/5FuLeS3LzoWQ7UoAHaFXm8) | 2:48 |

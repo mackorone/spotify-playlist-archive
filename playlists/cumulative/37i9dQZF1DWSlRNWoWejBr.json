@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 190100,
       "name": "Agudo M\u00e1gico 4",
       "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 235037,
       "name": "Medley de Igarat\u00e1 6",
       "url": "https://open.spotify.com/track/2E8sqeYKsbhxrEio1U7CxM"
@@ -4506,7 +4506,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 240000,
       "name": "Mina De Vermelho - Dancehall",
       "url": "https://open.spotify.com/track/1aSgnNAmuFQlMWIyvNbdWZ"
@@ -5052,6 +5052,32 @@
       "duration_ms": 145351,
       "name": "Montagem Totally Strange",
       "url": "https://open.spotify.com/track/5K79Sqmi1GcFB0rjrzoVXf"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM XONADA",
+        "url": "https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7"
+      },
+      "artists": [
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        },
+        {
+          "name": "Dj Samir",
+          "url": "https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk"
+        },
+        {
+          "name": "DJ Javi26",
+          "url": "https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75682,
+      "name": "MONTAGEM XONADA",
+      "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
     },
     {
       "album": {
@@ -5992,7 +6018,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 135692,
       "name": "Novinha Patricinha",
       "url": "https://open.spotify.com/track/17OVoKYoyVlIl8HtrdVDUH"
@@ -6906,6 +6932,40 @@
       "duration_ms": 120813,
       "name": "PUTARIA NO COMPLEXO X SELVA DO URSO",
       "url": "https://open.spotify.com/track/1jFaGv9IAS5hsoBeqjniCJ"
+    },
+    {
+      "album": {
+        "name": "Put\u00edfero Pro Max",
+        "url": "https://open.spotify.com/album/7nrYxHELVPbJWxKuXrcFZv"
+      },
+      "artists": [
+        {
+          "name": "Dornelles",
+          "url": "https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV"
+        },
+        {
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "name": "ZUMBICORE",
+          "url": "https://open.spotify.com/artist/7mJo0mAHZ97aIjoHfeJeXN"
+        },
+        {
+          "name": "Jonas kaik",
+          "url": "https://open.spotify.com/artist/4arZfUmA1DbiqMYab9wLB8"
+        },
+        {
+          "name": "Kalef Castro",
+          "url": "https://open.spotify.com/artist/65UPl7SfgEtJRmkfHUsjbn"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126515,
+      "name": "Put\u00edfero Pro Max",
+      "url": "https://open.spotify.com/track/5Raqxm1zg9Kd5gm9MXiRw5"
     },
     {
       "album": {
@@ -8295,6 +8355,32 @@
     },
     {
       "album": {
+        "name": "THAIN\u00c1 THAIN\u00c1",
+        "url": "https://open.spotify.com/album/5yue6fyNIP1zuzlF0k9TBU"
+      },
+      "artists": [
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        },
+        {
+          "name": "MT DO PALACIO",
+          "url": "https://open.spotify.com/artist/197KB7Uh46h1OZhx9nERiH"
+        },
+        {
+          "name": "BK2P",
+          "url": "https://open.spotify.com/artist/47gch4yYiV3nWaETQKghkC"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99111,
+      "name": "THAIN\u00c1 THAIN\u00c1",
+      "url": "https://open.spotify.com/track/68Qn3HtP5XnQVAIw1e9rvO"
+    },
+    {
+      "album": {
         "name": "The Box Medley Funk",
         "url": "https://open.spotify.com/album/2fMZBQingxx3s1vYlfdiWf"
       },
@@ -8472,6 +8558,32 @@
       "duration_ms": 193913,
       "name": "Tipo Hollywood",
       "url": "https://open.spotify.com/track/1XqpohNsprDGymtJ6uPD3g"
+    },
+    {
+      "album": {
+        "name": "Tipo Insta do Buzeira",
+        "url": "https://open.spotify.com/album/7t355sjxyYwWth3RmyfPJF"
+      },
+      "artists": [
+        {
+          "name": "Jhow",
+          "url": "https://open.spotify.com/artist/25OOXt52LeFqr5wwv5cYcI"
+        },
+        {
+          "name": "MC Makauli",
+          "url": "https://open.spotify.com/artist/3yEYK0ziQxY02hCEZwpR9w"
+        },
+        {
+          "name": "GP DA ZL",
+          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101514,
+      "name": "Tipo Insta do Buzeira",
+      "url": "https://open.spotify.com/track/2kap2PwtaXA1OeDBlNw5wZ"
     },
     {
       "album": {
@@ -8680,7 +8792,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 109915,
       "name": "Tropa dos n\u00e3o Rejeita",
       "url": "https://open.spotify.com/track/6T8XftyGM4LcbQyPnkQ9YR"
@@ -8780,6 +8892,36 @@
       "duration_ms": 172747,
       "name": "Um Sabad\u00e3o Desse Uma Lua Dessa",
       "url": "https://open.spotify.com/track/2CyChYO3yjIgxBwiyenaWb"
+    },
+    {
+      "album": {
+        "name": "Uma Foda Com Ela e Mil",
+        "url": "https://open.spotify.com/album/4RoOWGmnFrFt2HoBufJt27"
+      },
+      "artists": [
+        {
+          "name": "Mc Yuri Bala",
+          "url": "https://open.spotify.com/artist/2RqQmIDHtUJboRoaHj26SR"
+        },
+        {
+          "name": "DJ DIOGO AGUILAR",
+          "url": "https://open.spotify.com/artist/0Xlxurgif95eksYFs4zWRJ"
+        },
+        {
+          "name": "DJ JO\u00c3O BALA",
+          "url": "https://open.spotify.com/artist/1xoIfzj5TNbAa4fzJ4Ryij"
+        },
+        {
+          "name": "MC BLACK DA PENHA",
+          "url": "https://open.spotify.com/artist/1t2B2bRVOsLdt5eNHIV7ZF"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Uma Foda Com Ela e Mil",
+      "url": "https://open.spotify.com/track/4LgFVm9DlfPYB5lM4r146L"
     },
     {
       "album": {

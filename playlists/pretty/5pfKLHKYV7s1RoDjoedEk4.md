@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 
 > 
 
-[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 293 songs - 16 hr 26 min
+[Maslame](https://open.spotify.com/user/blg0aay1oftz0eev110eckeao) - 1 like - 294 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,5 +301,6 @@ pretty - [cumulative](/playlists/cumulative/5pfKLHKYV7s1RoDjoedEk4.md) - [plain]
 | 291 | [Symphonia IX](https://open.spotify.com/track/1rluwEqsWp5tz0lgyOT9rE) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/6vQngf6iEG8xC6ArsIurXq) | 3:01 |
 | 292 | [Dream Girl](https://open.spotify.com/track/3Z6cltU0OfbUdSZtZlzKPL) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Dream Girl](https://open.spotify.com/album/2BVQCnH3Sj7lcBGAP9wPh1) | 2:59 |
 | 293 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
+| 294 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 
-Snapshot ID: `AAABTsGobupssWvDcXoknxUftYRvYG7L`
+Snapshot ID: `AAABT10WTY+TsyjsGmTnxHkbRLQ8De9w`

@@ -369,6 +369,32 @@
     },
     {
       "album": {
+        "name": "Brahms: Cello Sonatas - Stanford: Ballata",
+        "url": "https://open.spotify.com/album/1TFv4wvn50Secdb40t5pdw"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Steffan Morris",
+          "url": "https://open.spotify.com/artist/5SiGTrEzp95IAN2YDsNDhM"
+        },
+        {
+          "name": "Alasdair Beatson",
+          "url": "https://open.spotify.com/artist/2E3fERoPtQRVvs5gfbxPmK"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350333,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: II. Allegro quasi Menuetto",
+      "url": "https://open.spotify.com/track/3jlPUJL3VLDVT9M9j3DmzT"
+    },
+    {
+      "album": {
         "name": "Bach: Cello Suites",
         "url": "https://open.spotify.com/album/2CAPFGnqtqzx5LjuWILaC9"
       },
@@ -2156,6 +2182,28 @@
       "duration_ms": 129360,
       "name": "Suite d'orchestre dans le style ancien, Op. 2: II. Sarabande. Mesto",
       "url": "https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1"
+    },
+    {
+      "album": {
+        "name": "Summer Fantasy (From \u201cJustice Online\u201d)",
+        "url": "https://open.spotify.com/album/2egmNxgYnLxHaHrNXgzMo2"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154493,
+      "name": "Summer Fantasy - From \u201cJustice Online\u201d",
+      "url": "https://open.spotify.com/track/2pKV2fkNDcCyy7u0oHumAI"
     },
     {
       "album": {

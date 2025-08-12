@@ -1,12 +1,12 @@
 {
   "description": "she\u2019s back (what i&#x27;m listening to july-aug 2025)",
-  "num_followers": 23190,
+  "num_followers": 23193,
   "original_name": "the return of cookie",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAM6eiCJJ8wZzIYY3i39DkZN3qY264Z",
+  "snapshot_id": "AAAM7hPYjf6QEX0QFoyivUuo42SzeQaR",
   "tracks": [
     {
       "added_at": "2025-07-03 23:45:51",
@@ -779,6 +779,54 @@
       "duration_ms": 485866,
       "name": "happy",
       "url": "https://open.spotify.com/track/0GUTqJbl8V0CUL6rmAfK2H"
+    },
+    {
+      "added_at": "2025-08-11 18:17:26",
+      "album": {
+        "name": "5'll Getcha Ten",
+        "url": "https://open.spotify.com/album/1aj1yHiy7gu8AqNsu97zij"
+      },
+      "artists": [
+        {
+          "name": "Cowboy",
+          "url": "https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "What I Want Is You",
+      "url": "https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0"
+    },
+    {
+      "added_at": "2025-08-11 15:57:32",
+      "album": {
+        "name": "Also With Each Other / Believe Me (Single)",
+        "url": "https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH"
+      },
+      "artists": [
+        {
+          "name": "Requisit",
+          "url": "https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM"
+        }
+      ],
+      "duration_ms": 150374,
+      "name": "Also With Each Other",
+      "url": "https://open.spotify.com/track/7rqFfHYHu9QmuCyPJY47u8"
+    },
+    {
+      "added_at": "2025-08-11 15:59:50",
+      "album": {
+        "name": "Also With Each Other / Believe Me (Single)",
+        "url": "https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH"
+      },
+      "artists": [
+        {
+          "name": "Requisit",
+          "url": "https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/3Gh6jgFviAJ4rgjZM69ME2"
     }
   ],
   "unique_name": "the return of cookie",

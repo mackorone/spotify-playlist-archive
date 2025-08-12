@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 144162,
+  "num_followers": 144158,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Oh My (feat. Moby)",
         "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
       },
@@ -271,26 +287,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "iluv",
-        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "iluv",
-      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "iPod Touch",
         "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
       },
@@ -303,22 +299,6 @@
       "duration_ms": 196524,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -339,6 +319,26 @@
       "duration_ms": 184783,
       "name": "Love Tonight (Robin Schulz Remix)",
       "url": "https://open.spotify.com/track/0J07ya7WC09FaQADutoBRZ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -375,6 +375,38 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Cross Your Mind",
+        "url": "https://open.spotify.com/album/4uVGMNsQuYnMMkXGTgv0YZ"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 151410,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/5GbsM9xps85Q3ZyHHGdHvX"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 328655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Miracle Maker (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb"
       },
@@ -407,38 +439,6 @@
       "duration_ms": 231978,
       "name": "DEVOTION",
       "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 328655,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Cross Your Mind",
-        "url": "https://open.spotify.com/album/4uVGMNsQuYnMMkXGTgv0YZ"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 151410,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/5GbsM9xps85Q3ZyHHGdHvX"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Chase the Sun (Odd Mob Remix)",
         "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 258750,
       "name": "Chase the Sun (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Morning Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
-        }
-      ],
-      "duration_ms": 203806,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Morning Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+        }
+      ],
+      "duration_ms": 203806,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Ripples In The Timeline",
         "url": "https://open.spotify.com/album/5rTRTf5rMAJSftfOQQD0FB"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 159187,
       "name": "So Alive",
       "url": "https://open.spotify.com/track/4Pvf9J97mPFi8xE6FNLfIK"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Blue Light",
         "url": "https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 236434,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Sirena Deep",
-        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 341500,
-      "name": "Sirena Deep",
-      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Drift / Long Story Short",
         "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Sirena Deep",
+        "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "duration_ms": 341500,
+      "name": "Sirena Deep",
+      "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Everything Begins Again",
         "url": "https://open.spotify.com/album/4NJRCRC3nqmw1uKscmZBd4"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 211904,
       "name": "Say No More",
       "url": "https://open.spotify.com/track/7tLGJbAhl7jmIAwOhNomI9"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Come Over",
-        "url": "https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E"
-      },
-      "artists": [
-        {
-          "name": "Open Till L8",
-          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
-        },
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/2QyYJpfGdEtHFunrVZmuHx"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E"
+      },
+      "artists": [
+        {
+          "name": "Open Till L8",
+          "url": "https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ"
+        },
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/2QyYJpfGdEtHFunrVZmuHx"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Move Ya Body",
+        "url": "https://open.spotify.com/album/0OzvqL4iqJa92nxgHs2mkN"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 175021,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/2XvL3AOBDXqgQljhj9ksm2"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 150927,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Move Ya Body",
-        "url": "https://open.spotify.com/album/0OzvqL4iqJa92nxgHs2mkN"
-      },
-      "artists": [
-        {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
-        }
-      ],
-      "duration_ms": 175021,
-      "name": "Move Ya Body",
-      "url": "https://open.spotify.com/track/2XvL3AOBDXqgQljhj9ksm2"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1711,42 +1711,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Mirror Mountain",
-        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
-      },
-      "artists": [
-        {
-          "name": "Hermitude",
-          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
-        }
-      ],
-      "duration_ms": 295198,
-      "name": "Flush with Love",
-      "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Feel It (Claptone Remix)",
-        "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
-      },
-      "artists": [
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        },
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Feel It - Claptone Remix",
-      "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Turn Up The Sunshine (PNAU Remix / From 'Minions: The Rise of Gru' Soundtrack)",
         "url": "https://open.spotify.com/album/0TJtS7EZReyGKsyXn08eOc"
       },
@@ -1771,22 +1735,38 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/26zYyUQZWrSkWggGmnqZ5f"
+        "name": "Feel It (Claptone Remix)",
+        "url": "https://open.spotify.com/album/1EYNtwX4XZClAvBiozcLNA"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 266977,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/7u7EEK1938YLwisU38x8j8"
+      "duration_ms": 200813,
+      "name": "Feel It - Claptone Remix",
+      "url": "https://open.spotify.com/track/4Gnz8xgMWStsGMSU8ITxNS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Mirror Mountain",
+        "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "duration_ms": 295198,
+      "name": "Flush with Love",
+      "url": "https://open.spotify.com/track/5pbpePKq40EPcbfQSlFHD3"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1827,6 +1807,26 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/26zYyUQZWrSkWggGmnqZ5f"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 266977,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/7u7EEK1938YLwisU38x8j8"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Everything In Its Right Place",
         "url": "https://open.spotify.com/album/0qpueDQNULFJYh1eQJYKhH"
       },
@@ -1847,22 +1847,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Missing Piece (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M"
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 206349,
-      "name": "Missing Piece - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW"
+      "duration_ms": 215269,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
     }
   ],
   "unique_name": "Sunday Sessions",

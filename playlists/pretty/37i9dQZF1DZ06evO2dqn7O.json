@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 56842,
+  "num_followers": 56848,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAAAuJJh98EDscyIb1fP0sfOP",
+  "snapshot_id": "aJfhAAAAAACl9EvDUHYJLEeGzgWtvYCo",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/386PuaIwJSmvEYhwgSKJoF"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "The Devil You Know",
+      "url": "https://open.spotify.com/track/5MEKqNAOlgt3sh5o0iq8EM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X Ambassadors | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 175832,
       "name": "Fragile (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/01qg03uODrcMCIOPhRX5nK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/386PuaIwJSmvEYhwgSKJoF"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "The Devil You Know",
-      "url": "https://open.spotify.com/track/5MEKqNAOlgt3sh5o0iq8EM"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X Ambassadors | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
-        }
-      ],
-      "duration_ms": 338282,
-      "name": "Follow the Sound of My Voice (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cannonball",
         "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 235426,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X Ambassadors | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/7eghKP5hH7lsBQJzVCCV8O"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 338282,
+      "name": "Follow the Sound of My Voice (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/4eFuusfxsqiKxbkd1IrlBw"
     },
     {
       "added_at": null,

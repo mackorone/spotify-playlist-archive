@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 152197,
+  "num_followers": 152218,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJaPgAAAAAA2TAs5VLyopLsZYDvW56rR",
+  "snapshot_id": "aJfhAAAAAABSHUOVmGnEy+xh5ih1nZZP",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 237758,
+      "name": "Breakfast In Bed",
+      "url": "https://open.spotify.com/track/2j0FtLNpLPaSX9rKuIdBFH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Conspiracy",
         "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 206840,
       "name": "One and Only (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 237758,
-      "name": "Breakfast In Bed",
-      "url": "https://open.spotify.com/track/2j0FtLNpLPaSX9rKuIdBFH"
     },
     {
       "added_at": null,

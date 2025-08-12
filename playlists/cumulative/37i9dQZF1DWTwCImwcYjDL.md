@@ -4,11 +4,11 @@
 
 > De beste dance hits\. Cover: Armin van Buuren, Martin Garrix & Libby Whitehouse
 
-68 songs - 3 hr 21 min
+69 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/71oIM8UUirGH9SE3Ywkpfz) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/2mR67MB5ty3Y0sNqTlSliQ) | 2:59 | 2025-07-17 |  |
+| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/71oIM8UUirGH9SE3Ywkpfz) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/2mR67MB5ty3Y0sNqTlSliQ) | 2:59 | 2025-07-17 | 2025-08-12 |
 | [All My Life](https://open.spotify.com/track/2pTii4tBijcsczNsmeBcSY) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All My Life](https://open.spotify.com/album/0dHxrUuzYnUMgkulehzveD) | 2:07 | 2025-07-17 |  |
 | [Ameno](https://open.spotify.com/track/7Lf4dyCF2KpCZJovDpYiLQ) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj) | [Ameno](https://open.spotify.com/album/4NtHv2QjYDXmG2HticILU6) | 1:51 | 2025-07-17 |  |
 | [Arpegia \(Without You\)](https://open.spotify.com/track/1C6a4U5RlF9TuccFEJTaki) | [Amber Broos](https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz), [The Mackenzie](https://open.spotify.com/artist/2ldC3ttdH00Mhsxwp6LMeP), [Jessy](https://open.spotify.com/artist/1mstPPE7LtpbNpOYihsCzj) | [Arpegia \(Without You\)](https://open.spotify.com/album/0KuqAxl5g1bXP81nvX3Ly6) | 3:48 | 2025-07-17 |  |
@@ -44,6 +44,7 @@
 | [Lift Off](https://open.spotify.com/track/4LGn8oQ0bzByeJ5XxUueIx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Lift Off](https://open.spotify.com/album/3IslzywfEKTs1f2MyP3H6X) | 2:36 | 2025-07-17 | 2025-08-08 |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-07-17 | 2025-08-08 |
 | [Lights](https://open.spotify.com/track/48Kgy7vzliRbcQ3GAOPbsD) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U), [Carlyn](https://open.spotify.com/artist/12D87T2sauvafmdyGDhu87) | [Lights](https://open.spotify.com/album/58US0k9s4PeMLsiSEnghgG) | 2:29 | 2025-07-17 |  |
+| [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-11 |  |
 | [MAD](https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [MAD](https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV) | 3:19 | 2025-07-17 |  |
 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 | 2025-07-17 |  |
 | [Movie Star](https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Movie Star](https://open.spotify.com/album/5cRJaHx3DiAQAg5MfGkHWs) | 2:17 | 2025-07-17 |  |

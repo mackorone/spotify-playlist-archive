@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-814 songs - 1 day 14 hr 51 min
+815 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [In the Garden](https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT) | [Vonte Grace](https://open.spotify.com/artist/30AhNQp84UNri9KgWyA0XQ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [In the Garden](https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf) | 3:40 | 2022-04-30 | 2022-07-18 |
 | [In The Light](https://open.spotify.com/track/4NTtsz3d37EUTpqEJVKGus) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [In The Light](https://open.spotify.com/album/4pu1OrN2gFrpR2nkO24gZS) | 3:04 | 2024-03-20 | 2024-11-09 |
 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 | 2023-11-02 | 2024-06-08 |
+| [In Your Presence](https://open.spotify.com/track/1bsf0zU9fDzxEBkAm72Ba5) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [In Your Presence](https://open.spotify.com/album/2NYSiJht5JkoIptjQlHM3f) | 2:28 | 2025-08-07 |  |
 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 | 2022-03-23 | 2024-01-13 |
 | [INSTAGRAM ISN'T GOD](https://open.spotify.com/track/6Cz0ypaJiF2XsN55qal85r) | [Christopher Syncere](https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u) | [INSTAGRAM ISN'T GOD](https://open.spotify.com/album/7JuTPs6BCHyrhYYf68okJh) | 3:07 | 2022-12-16 | 2023-07-18 |
 | [It Ain't Safe](https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:57 | 2024-03-20 |  |
@@ -723,7 +724,7 @@
 | [TIL ITS DONE](https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [TIL ITS DONE](https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9) | 2:52 | 2023-12-01 | 2024-06-08 |
 | [Til The Day I Die](https://open.spotify.com/track/2v49NJk4EhgM4xVkNKrfqc) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:47 | 2022-02-04 | 2022-07-18 |
 | [Titanic](https://open.spotify.com/track/3u0qKeWXEDx9uNzfqkSeVU) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Titanic](https://open.spotify.com/album/34SaCTNbV2gRAY7kkBsgHB) | 2:20 | 2025-07-18 |  |
-| [To The Head](https://open.spotify.com/track/2ui7RopSVofoxGZWRDYyA5) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [To The Head](https://open.spotify.com/album/6TSbsglo7oguQQzANQvUWU) | 3:07 | 2024-06-07 |  |
+| [To The Head](https://open.spotify.com/track/2ui7RopSVofoxGZWRDYyA5) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [To The Head](https://open.spotify.com/album/6TSbsglo7oguQQzANQvUWU) | 3:07 | 2024-06-07 | 2025-08-12 |
 | [Today](https://open.spotify.com/track/2NGZ6qTITDhWxRtB2GQ30B) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Today](https://open.spotify.com/album/0bpirtY2C9rDko6GSTZzzh) | 2:09 | 2022-12-16 | 2023-08-12 |
 | [TOMBSTONE](https://open.spotify.com/track/7IbYFxNFopKUnMsXXVf0He) | [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH) | [TOMBSTONE](https://open.spotify.com/album/4oT9v40g0rPwJuguqr9zTi) | 2:26 | 2025-06-09 |  |
 | [TON TON](https://open.spotify.com/track/5asLRM4YbxAELKkOeRrnHS) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [TON TON](https://open.spotify.com/album/3Oh5smyODqhHcgvjccAzfB) | 2:23 | 2025-05-09 |  |

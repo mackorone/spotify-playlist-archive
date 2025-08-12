@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,500 likes - 110 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,504 likes - 110 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 6 | [White Room](https://open.spotify.com/track/0cxjbvdlo5pNWJWgfOzZir) | [Redspace](https://open.spotify.com/artist/7DW9eqgg0IgQOQBhtCLAfc), [Unusual Soul](https://open.spotify.com/artist/6YBBrivtOKECLloC5BnCwF) | [Shadows of Consciousness / White Room](https://open.spotify.com/album/0DimlZahIrvQ9AdKn51nkc) | 7:27 |
 | 7 | [ReAnimation](https://open.spotify.com/track/43ofk81krK92e5sM12mfPC) | [Ezequiel Arias](https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ) | [ReAnimation EP](https://open.spotify.com/album/7s33cENsj5k8o0VHzID87K) | 4:20 |
 | 8 | [Lifeline \- Hernan Cattaneo & Simply City Remix](https://open.spotify.com/track/5qjcU88QJddF5igdZneGIB) | [J Lauda](https://open.spotify.com/artist/5lKQ05oFwm17Qlsctpr1BL), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Simply City](https://open.spotify.com/artist/3MdR0nAA5pQ7DJ72YapcRj) | [Lifeline \(Hernan Cattaneo & Simply City Remix\)](https://open.spotify.com/album/15kMi4Cc8dQKziRsc6HsgJ) | 3:58 |
-| 9 | [Someday](https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Someday](https://open.spotify.com/album/67f7jfkzTyzPvdEVE3mBpQ) | 1:15 |
+| 9 | [Someday](https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Someday](https://open.spotify.com/album/67f7jfkzTyzPvdEVE3mBpQ) | 3:15 |
 | 10 | [Virtual Escape](https://open.spotify.com/track/4lyhpmlKNpMfJrvTadObcV) | [Juan Deminicis](https://open.spotify.com/artist/7DN8Db1uGrW7eUDjKf3Bfi) | [Solar Reign \| Virtual Escape](https://open.spotify.com/album/68StK8Ps3HWU73Do3XwhFe) | 7:18 |
 | 11 | [Yo Soy la Disco \(Pabels, Signo & Mago House Mix\)](https://open.spotify.com/track/5TRezAlW81XxWzUEYYgO9B) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Pabels](https://open.spotify.com/artist/5qKjf9qDULKtHRhg8UswBv), [Signo](https://open.spotify.com/artist/1AGaft2KynjUSNdghwmXuW), [Mago](https://open.spotify.com/artist/0rTHbJdnnGLUv6KWioxJCK) | [Disco Remix](https://open.spotify.com/album/1hsuJ2uYMXfpUlEzRFOvm3) | 5:03 |
 | 12 | [Hundred Secrets](https://open.spotify.com/track/2qiCqr7UJTqWGiLh1Mkv3k) | [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo), [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Hundred Secrets EP](https://open.spotify.com/album/0hZVQP1JYf66JOkQABLTy2) | 4:34 |

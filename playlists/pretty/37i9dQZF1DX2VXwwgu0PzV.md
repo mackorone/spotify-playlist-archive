@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Festizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,247 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,265 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 140 | [For You](https://open.spotify.com/track/7woEuu10MOUZDzb9OFMDbY) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [For You](https://open.spotify.com/album/26YQuw36DR7u5Qmfyad5Ob) | 2:42 |
 | 141 | [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 |
 | 142 | [Trust In You: TIY](https://open.spotify.com/track/4OW2XVZYgV63tLYGwQv3YE) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Daraaa](https://open.spotify.com/artist/4gXPHQnawRp8WMBeTWtWys), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Trust In You: TIY](https://open.spotify.com/album/5NmJ9x1iDEIAd2rgLf62Qq) | 3:01 |
-| 143 | [City On The Hill](https://open.spotify.com/track/64zc5jlST8fznswHfuUoOt) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [City On The Hill](https://open.spotify.com/album/7GwikS8qorwZ88eZhsUCYD) | 2:36 |
+| 143 | [City On The Hill](https://open.spotify.com/track/64zc5jlST8fznswHfuUoOt) | [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [City On The Hill](https://open.spotify.com/album/7GwikS8qorwZ88eZhsUCYD) | 3:14 |
 | 144 | [Moving forward](https://open.spotify.com/track/3csf2n4WnJhsKAZsLMLtXi) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Moving forward](https://open.spotify.com/album/6V6iJ7TeErriUcj8Epx4SR) | 3:50 |
 | 145 | [Devour](https://open.spotify.com/track/6nvtrRljnxm11qz4l4VvP7) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jlinez](https://open.spotify.com/artist/1IG4PSCy1OokQbRYILUrnN), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Devour](https://open.spotify.com/album/1bZKLu4bThEhXWFJdpgNcN) | 1:48 |
 | 146 | [Prayer](https://open.spotify.com/track/6kESTNY3rhbE5yDFQJ0kEh) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Prayer](https://open.spotify.com/album/6RsJ8zdUYTTUZ2OVavjxpb) | 2:26 |

@@ -6305,6 +6305,28 @@
     },
     {
       "album": {
+        "name": "The Coldest Profession",
+        "url": "https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157454,
+      "name": "Glory Hole",
+      "url": "https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m"
+    },
+    {
+      "album": {
         "name": "Glowing Mics (Founders RMX)",
         "url": "https://open.spotify.com/album/6G0PjYvizKiO0mFyCvCR91"
       },
@@ -7462,7 +7484,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 154466,
       "name": "I Been",
       "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"

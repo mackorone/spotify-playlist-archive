@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 216902,
+  "num_followers": 216946,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -460,13 +460,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Tru-Skool",
-          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
+          "name": "Tee L",
+          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
         }
       ],
-      "duration_ms": 209933,
-      "name": "Truck",
-      "url": "https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7"
+      "duration_ms": 224733,
+      "name": "Poh Di Raat",
+      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
     },
     {
       "added_at": "2025-05-13 13:17:03",
@@ -480,13 +480,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Tee L",
-          "url": "https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv"
+          "name": "Tru-Skool",
+          "url": "https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2"
         }
       ],
-      "duration_ms": 224733,
-      "name": "Poh Di Raat",
-      "url": "https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe"
+      "duration_ms": 209933,
+      "name": "Truck",
+      "url": "https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7"
     },
     {
       "added_at": "2025-05-13 13:17:03",
@@ -843,6 +843,26 @@
     {
       "added_at": "2025-05-13 13:17:03",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
+    },
+    {
+      "added_at": "2025-05-13 13:17:03",
+      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 198260,
       "name": "Track Suit",
       "url": "https://open.spotify.com/track/7ABCuDLEY2GyAwnGcqkmt2"
-    },
-    {
-      "added_at": "2025-05-13 13:17:03",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2025-05-13 13:17:03",
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 180855,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
+      "duration_ms": 180698,
+      "name": "Kehkashan",
+      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
     },
     {
       "added_at": "2025-05-13 13:17:03",
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 180698,
-      "name": "Kehkashan",
-      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
+      "duration_ms": 180855,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2750,
+  "num_followers": 2755,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -231,30 +231,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "BELLA STRONZA",
-        "url": "https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        },
-        {
-          "name": "Marco Masini",
-          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "BELLA STRONZA",
-      "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "La voglia la pazzia l'incoscienza l'allegria",
         "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 173866,
       "name": "La voglia, la pazzia",
       "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "BELLA STRONZA",
+        "url": "https://open.spotify.com/album/5hfRrnvwwazuFYUkh5KPNc"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Marco Masini",
+          "url": "https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "BELLA STRONZA",
+      "url": "https://open.spotify.com/track/2qgKFtVm0Ls6WC72sm9ELe"
     },
     {
       "added_at": "2025-03-03 09:30:09",
@@ -447,38 +447,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Il Meglio Di Domenico Modugno",
-        "url": "https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL"
-      },
-      "artists": [
-        {
-          "name": "Domenico Modugno",
-          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Nel blu dipinto di blu",
-      "url": "https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
-        "name": "Non Escludo Il Ritorno",
-        "url": "https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Un Tempo piccolo",
-      "url": "https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Sulla riva del fiume",
         "url": "https://open.spotify.com/album/2r9qoPdgNW8SEADIXtYeH6"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 225982,
       "name": "Un tempo piccolo (feat. Tiromancino & Ditonellapiaga)",
       "url": "https://open.spotify.com/track/2N68dlweJK3bjxCprbmm75"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Non Escludo Il Ritorno",
+        "url": "https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Un Tempo piccolo",
+      "url": "https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Il Meglio Di Domenico Modugno",
+        "url": "https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL"
+      },
+      "artists": [
+        {
+          "name": "Domenico Modugno",
+          "url": "https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Nel blu dipinto di blu",
+      "url": "https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1"
     },
     {
       "added_at": "2025-03-03 09:30:09",

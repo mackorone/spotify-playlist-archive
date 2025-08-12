@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (3/8/2025)",
+  "name": "LA LLISTA DE FLAIXBAC (10/8/2025)",
   "tracks": [
     {
       "album": {
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -1424,6 +1424,28 @@
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
+    },
+    {
+      "album": {
+        "name": "Hot summer night (Oh La La La)",
+        "url": "https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG"
+      },
+      "artists": [
+        {
+          "name": "Smil",
+          "url": "https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI"
+        },
+        {
+          "name": "Just Ben",
+          "url": "https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Hot summer night - Oh La La La",
+      "url": "https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN"
     },
     {
       "album": {
@@ -2515,6 +2537,24 @@
     },
     {
       "album": {
+        "name": "Poquet a Poquet",
+        "url": "https://open.spotify.com/album/48WQLL3k3832YJhs9Bvoj1"
+      },
+      "artists": [
+        {
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163824,
+      "name": "Poquet a Poquet",
+      "url": "https://open.spotify.com/track/6yoiXEkArH3S2b2fU34hIK"
+    },
+    {
+      "album": {
         "name": "Punter\u00eda",
         "url": "https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp"
       },
@@ -3382,7 +3422,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 166809,
       "name": "Una altra vegada",
       "url": "https://open.spotify.com/track/6GnoUEGyzoAymJ1C6ztDOF"

@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 56141,
+  "num_followers": 56147,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Vagabonds Of The Western World",
-        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The Rocker",
-      "url": "https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Skylarkin",
         "url": "https://open.spotify.com/album/44L1rL0PE0HtRQlRygsR28"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 232413,
       "name": "Heyday",
       "url": "https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Vagabonds Of The Western World",
+        "url": "https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The Rocker",
+      "url": "https://open.spotify.com/track/2qRF6tYwmXy6oMUSI4bKQA"
     },
     {
       "added_at": "2022-03-17 10:54:32",

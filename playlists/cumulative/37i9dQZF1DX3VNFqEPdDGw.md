@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Gippy Grewal & Sargun Mehta
 
-335 songs - 17 hr 19 min
+336 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [MALAYI WARGI](https://open.spotify.com/track/04f2KFYjBARqShVTvG4htv) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Prithvi Missile](https://open.spotify.com/album/2OS2Tw88npn817gUub8Qxx) | 3:03 | 2025-01-08 |  |
 | [Malwa Block](https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:59 | 2021-12-18 | 2025-02-26 |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2021-12-18 | 2025-02-20 |
-| [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 | 2025-05-08 |  |
+| [Maroon Maroon](https://open.spotify.com/track/48Ocih6gAv9L7ubcRhqzK5) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV), [Agaazz](https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX) | [Maroon Maroon](https://open.spotify.com/album/5V3rsvYypCRaHP8OK3Mm6T) | 3:47 | 2025-05-08 | 2025-08-12 |
 | [Maruye Da Boota](https://open.spotify.com/track/5JBakgUfXMtHBkqVyX2QBH) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Maruye Da Boota](https://open.spotify.com/album/4rJFeBJmdC1my6SZWCwJPS) | 3:03 | 2025-07-18 |  |
 | [Me and My Girlfriend](https://open.spotify.com/track/1cQQk3EyZsWrbIzRBz68P9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 | 2021-12-18 | 2022-01-11 |
 | [Medicine](https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Medicine](https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ) | 3:56 | 2025-01-08 |  |
@@ -338,6 +338,7 @@
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-01-10 | 2024-11-21 |
 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 | 2023-07-26 | 2025-04-12 |
 | [Wrong Report](https://open.spotify.com/track/36CCkZjcXOfcztsCJAi7nU) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wrong Report](https://open.spotify.com/album/1G7hhMpVeGDYJrbtH8G2JK) | 3:41 | 2025-01-08 | 2025-01-25 |
+| [Yaar Bawara \(From "Raunak"\)](https://open.spotify.com/track/6Ns79GWBJVRjzaBpTdKCVb) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Jaidev Kumar](https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Yaar Bawara \(From "Raunak"\)](https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7) | 2:29 | 2025-08-07 |  |
 | [Yaaran Vich Jee](https://open.spotify.com/track/261PVPZEar9zZTlcBkB52O) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Yaaran Vich Jee](https://open.spotify.com/album/30HWbDk5maW6hn3UEIHc2f) | 2:52 | 2022-09-10 | 2023-10-21 |
 | [Yaari Chandigarh Waliye](https://open.spotify.com/track/2xzuUPOffYMIdOkOG7D0BI) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Mitti Da Bawa](https://open.spotify.com/album/0yrvrlpDvPM05MJQyVPKvW) | 3:04 | 2025-01-08 |  |
 | [Youngest In Charge](https://open.spotify.com/track/2V52mICuJnWB3C4lrJZd7v) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [Youngest In Charge](https://open.spotify.com/album/1vgjx6xmhIKGa5eiKeJvSB) | 3:18 | 2022-02-14 | 2023-07-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 88041,
+  "num_followers": 88054,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnNuNe7G6CWorDar0tH7yyCfGa4",
+  "snapshot_id": "AAAAALwzTnCyekQiROPIhOC5tfoHXRvA",
   "tracks": [
     {
       "added_at": "2025-07-26 06:25:21",
@@ -67,14 +67,26 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
+        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
+        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "duration_ms": 1398866,
+      "name": "Raga Nata Bhairav - Remastered",
+      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
         "name": "Shiva Shankara",
         "url": "https://open.spotify.com/album/07yZ6g1QTLfys8PHs6Dd1l"
       },
       "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
         {
           "name": "Zakir Hussain",
           "url": "https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6"
@@ -82,6 +94,10 @@
         {
           "name": "Shankar Mahadevan",
           "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
         },
         {
           "name": "Nakul Chugh",
@@ -95,22 +111,6 @@
       "duration_ms": 618000,
       "name": "Shiva Shankara",
       "url": "https://open.spotify.com/track/3RRAr1F7Oap2CwLE1q6nqD"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
-        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
-        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
-      },
-      "artists": [
-        {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
-        }
-      ],
-      "duration_ms": 1398866,
-      "name": "Raga Nata Bhairav - Remastered",
-      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
+        "name": "Hamri Atariya",
+        "url": "https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg"
+      },
+      "artists": [
+        {
+          "name": "Rita Dev",
+          "url": "https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E"
+        }
+      ],
+      "duration_ms": 636842,
+      "name": "Hamri Atariya",
+      "url": "https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
         "name": "Yaman Madhya Laya",
         "url": "https://open.spotify.com/album/7LYdyUiJp5MeO0l2Krp0zl"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
-        "name": "Hamri Atariya",
-        "url": "https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg"
-      },
-      "artists": [
-        {
-          "name": "Rita Dev",
-          "url": "https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E"
-        }
-      ],
-      "duration_ms": 636842,
-      "name": "Hamri Atariya",
-      "url": "https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
         "name": "Maestro's Choice - Vilayet Khan",
         "url": "https://open.spotify.com/album/4i83PHlwgynhFALhCfWeef"
       },
@@ -231,6 +231,26 @@
       "duration_ms": 559960,
       "name": "Raga Mand Bhairav",
       "url": "https://open.spotify.com/track/4wYMQoYxttFTyDXFeVIxK6"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
+        "name": "Mori Painjainiya (Raag Hamsadhwani)",
+        "url": "https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw"
+      },
+      "artists": [
+        {
+          "name": "Ronkini Gupta",
+          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+        },
+        {
+          "name": "Ashish Ragwani",
+          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
+        }
+      ],
+      "duration_ms": 336045,
+      "name": "Mori Painjainiya (Raag Hamsadhwani)",
+      "url": "https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -255,26 +275,6 @@
       "duration_ms": 595500,
       "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
       "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
-        "name": "Mori Painjainiya (Raag Hamsadhwani)",
-        "url": "https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw"
-      },
-      "artists": [
-        {
-          "name": "Ronkini Gupta",
-          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
-        },
-        {
-          "name": "Ashish Ragwani",
-          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
-        }
-      ],
-      "duration_ms": 336045,
-      "name": "Mori Painjainiya (Raag Hamsadhwani)",
-      "url": "https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -427,6 +427,26 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
+        "name": "Navyaa",
+        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+      },
+      "artists": [
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        },
+        {
+          "name": "Tejovrush Joshi",
+          "url": "https://open.spotify.com/artist/1IKhVfKv1Hh0l6XwygDEpi"
+        }
+      ],
+      "duration_ms": 580000,
+      "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
+      "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
         "name": "Jugalbandi II",
         "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 1309209,
       "name": "Raag Mishra Shirvranjani Taal Deepchandi",
       "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
-        "name": "Navyaa",
-        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
-      },
-      "artists": [
-        {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
-        },
-        {
-          "name": "Tejovrush Joshi",
-          "url": "https://open.spotify.com/artist/1IKhVfKv1Hh0l6XwygDEpi"
-        }
-      ],
-      "duration_ms": 580000,
-      "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
-      "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -527,18 +527,42 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
-        "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
-        "url": "https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB"
+        "name": "Taaron Bhari Raat - Raga Malkauns",
+        "url": "https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI"
       },
       "artists": [
         {
           "name": "Ronkini Gupta",
           "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+        },
+        {
+          "name": "Ashish Ragwani",
+          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
+        },
+        {
+          "name": "Abhinay Ravande",
+          "url": "https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx"
         }
       ],
-      "duration_ms": 449320,
-      "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
-      "url": "https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F"
+      "duration_ms": 625520,
+      "name": "Taaron Bhari Raat - Raga Malkauns - Raga Malkauns - Drut Ektala",
+      "url": "https://open.spotify.com/track/0DtWXjhnx8FMJhj8uTsZWB"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
+        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
+      },
+      "artists": [
+        {
+          "name": "Jyoti Debnath",
+          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
+        }
+      ],
+      "duration_ms": 335109,
+      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
+      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -563,22 +587,6 @@
       "duration_ms": 729660,
       "name": "Raga Mishra Manjh Khamaj: Chhitak Junaiya (Pasar Ke Geet: Laoni Taal)",
       "url": "https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
-        "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-        "url": "https://open.spotify.com/album/40GaEcinaieQsIXisQygW7"
-      },
-      "artists": [
-        {
-          "name": "Jyoti Debnath",
-          "url": "https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk"
-        }
-      ],
-      "duration_ms": 335109,
-      "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
-      "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -619,26 +627,18 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
-        "name": "Taaron Bhari Raat - Raga Malkauns",
-        "url": "https://open.spotify.com/album/7pAJD1ZAIiHkkwYxQQazQI"
+        "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
+        "url": "https://open.spotify.com/album/3tMVOSJYaRu0yIv6kGHaRB"
       },
       "artists": [
         {
           "name": "Ronkini Gupta",
           "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
-        },
-        {
-          "name": "Ashish Ragwani",
-          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
-        },
-        {
-          "name": "Abhinay Ravande",
-          "url": "https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx"
         }
       ],
-      "duration_ms": 625520,
-      "name": "Taaron Bhari Raat - Raga Malkauns - Raga Malkauns - Drut Ektala",
-      "url": "https://open.spotify.com/track/0DtWXjhnx8FMJhj8uTsZWB"
+      "duration_ms": 449320,
+      "name": "Dheer Kaise: Raag Bageshri (Drut Ektaal)",
+      "url": "https://open.spotify.com/track/5xmT8n8OpkGzuYe7Tp111F"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -719,6 +719,34 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
+        "name": "Saath Saath",
+        "url": "https://open.spotify.com/album/1x1NLTjnFDodYTn31ida5k"
+      },
+      "artists": [
+        {
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        },
+        {
+          "name": "Satyajit Talwalkar",
+          "url": "https://open.spotify.com/artist/12i115642dNlreloDOzrtK"
+        }
+      ],
+      "duration_ms": 1073000,
+      "name": "Pahadi",
+      "url": "https://open.spotify.com/track/65ctZ5wpladHzbFFHM64ag"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
         "name": "Le Chant - Khayal",
         "url": "https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX"
       },
@@ -747,34 +775,6 @@
       "duration_ms": 1767200,
       "name": "Raga Basant Bahar - Raga Basant Bahar - Ektaal - Teentaal",
       "url": "https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
-        "name": "Saath Saath",
-        "url": "https://open.spotify.com/album/1x1NLTjnFDodYTn31ida5k"
-      },
-      "artists": [
-        {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
-        },
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
-        {
-          "name": "Ojas Adhiya",
-          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
-        },
-        {
-          "name": "Satyajit Talwalkar",
-          "url": "https://open.spotify.com/artist/12i115642dNlreloDOzrtK"
-        }
-      ],
-      "duration_ms": 1073000,
-      "name": "Pahadi",
-      "url": "https://open.spotify.com/track/65ctZ5wpladHzbFFHM64ag"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
+        "name": "Bharat Ratna",
+        "url": "https://open.spotify.com/album/3krH4l3Zt87BKLdx9NYKge"
+      },
+      "artists": [
+        {
+          "name": "Bismillah Khan",
+          "url": "https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ"
+        }
+      ],
+      "duration_ms": 900040,
+      "name": "Raga Mishra Mel Ki Malhar",
+      "url": "https://open.spotify.com/track/6ZCh9SU89sivV8AAcnu07R"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
         "name": "Padma Talwalkar",
         "url": "https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 1633890,
       "name": "Dev Dev Sat Sang - Khayal Vilambit - Jhap Taal / Maanat Nahin - Raag Sawani - Khayal Drut - Teentaal",
       "url": "https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
-        "name": "Bharat Ratna",
-        "url": "https://open.spotify.com/album/3krH4l3Zt87BKLdx9NYKge"
-      },
-      "artists": [
-        {
-          "name": "Bismillah Khan",
-          "url": "https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ"
-        }
-      ],
-      "duration_ms": 900040,
-      "name": "Raga Mishra Mel Ki Malhar",
-      "url": "https://open.spotify.com/track/6ZCh9SU89sivV8AAcnu07R"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
-        "name": "Navyaa",
-        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
-      },
-      "artists": [
-        {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
-        }
-      ],
-      "duration_ms": 693955,
-      "name": "Meditative Gurjari Todi",
-      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
-    },
-    {
-      "added_at": "2025-07-26 06:25:21",
-      "album": {
         "name": "Saptrang",
         "url": "https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 1896026,
       "name": "Rag Gurjari Todi",
       "url": "https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS"
+    },
+    {
+      "added_at": "2025-07-26 06:25:21",
+      "album": {
+        "name": "Navyaa",
+        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+      },
+      "artists": [
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        }
+      ],
+      "duration_ms": 693955,
+      "name": "Meditative Gurjari Todi",
+      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
     },
     {
       "added_at": "2025-07-26 06:25:21",
@@ -955,26 +955,22 @@
     {
       "added_at": "2025-07-26 06:25:21",
       "album": {
-        "name": "Chhayanat: Sakhi Mora in Rupak",
-        "url": "https://open.spotify.com/album/6HkB8bvQTWnPLkKThPiP0e"
+        "name": "Rajan / Sajan Mishra",
+        "url": "https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m"
       },
       "artists": [
         {
-          "name": "Ronkini Gupta",
-          "url": "https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4"
+          "name": "Rajan Mishra",
+          "url": "https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9"
         },
         {
-          "name": "Abhinay Ravande",
-          "url": "https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx"
-        },
-        {
-          "name": "Ashish Ragwani",
-          "url": "https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO"
+          "name": "Sajan Mishra",
+          "url": "https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p"
         }
       ],
-      "duration_ms": 1048794,
-      "name": "Chhayanat: Sakhi Mora in Rupak",
-      "url": "https://open.spotify.com/track/5E4zz8g5IuX6hlWyuKRgEn"
+      "duration_ms": 603173,
+      "name": "Jin Ke Man Ram Biraaje - Raga Malkauns - Khayal Vilambit - Ektaal / Angan Aaye Balama - Raga Malakauns - Khayal Drut - Ektaal",
+      "url": "https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO"
     }
   ],
   "unique_name": "Hindustani Classical",

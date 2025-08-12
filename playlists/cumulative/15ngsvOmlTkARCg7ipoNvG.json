@@ -27437,6 +27437,24 @@
     },
     {
       "album": {
+        "name": "Silent Joy",
+        "url": "https://open.spotify.com/album/1X1DVB4SKnYfIf5NG21mCC"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60413,
+      "name": "Silent Joy",
+      "url": "https://open.spotify.com/track/2GLGsZPiwD9yNo0H8lVlSM"
+    },
+    {
+      "album": {
         "name": "Cello Reflections",
         "url": "https://open.spotify.com/album/3a4E60s56WkQRylOD84uJB"
       },

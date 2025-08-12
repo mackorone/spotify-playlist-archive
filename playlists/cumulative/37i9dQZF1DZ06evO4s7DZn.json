@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "El Caballito",
+      "url": "https://open.spotify.com/track/6gxoEcHKRYz4l29Tup5WaP"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82"
       },
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 173706,
       "name": "Mismo Nivel",
       "url": "https://open.spotify.com/track/7xixj6x39YYlW2LjuRH2hl"

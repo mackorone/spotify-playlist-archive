@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,190 likes - 47 songs - 3 hr 14 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,193 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,5 +55,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 45 | [Daybreak](https://open.spotify.com/track/2PAjjwVX1lIPsDLo04UrjH) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Three Chord Trick](https://open.spotify.com/album/3mjzDTUEi3sABdt3Wb4udC) | 2:48 |
 | 46 | [Threads of Soul](https://open.spotify.com/track/0oM7egZ2SwvjXeXs1mbCPh) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [The Same As A Flower](https://open.spotify.com/album/140XeX1MjYRdex0dfe5mSS) | 4:50 |
 | 47 | [happy](https://open.spotify.com/track/0GUTqJbl8V0CUL6rmAfK2H) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Happy](https://open.spotify.com/album/1Bnk68HL9uJ7sJFeGW9LQv) | 8:05 |
+| 48 | [What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0) | [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [5'll Getcha Ten](https://open.spotify.com/album/1aj1yHiy7gu8AqNsu97zij) | 3:28 |
+| 49 | [Also With Each Other](https://open.spotify.com/track/7rqFfHYHu9QmuCyPJY47u8) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 2:30 |
+| 50 | [Believe Me](https://open.spotify.com/track/3Gh6jgFviAJ4rgjZM69ME2) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 3:36 |
 
-Snapshot ID: `AAAM6eiCJJ8wZzIYY3i39DkZN3qY264Z`
+Snapshot ID: `AAAM7hPYjf6QEX0QFoyivUuo42SzeQaR`

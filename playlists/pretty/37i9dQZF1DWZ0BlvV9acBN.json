@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 146877,
+  "num_followers": 146892,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -171,30 +171,6 @@
     {
       "added_at": "2025-06-20 03:01:28",
       "album": {
-        "name": "Rei da Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
-      },
-      "artists": [
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        },
-        {
-          "name": "Pev\u00ea Brito",
-          "url": "https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g"
-        },
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        }
-      ],
-      "duration_ms": 339580,
-      "name": "Rei da Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
-    },
-    {
-      "added_at": "2025-06-20 03:01:28",
-      "album": {
         "name": "Onde Tem Lenha",
         "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
       },
@@ -215,6 +191,30 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+    },
+    {
+      "added_at": "2025-06-20 03:01:28",
+      "album": {
+        "name": "Rei da Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
+      },
+      "artists": [
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        },
+        {
+          "name": "Pev\u00ea Brito",
+          "url": "https://open.spotify.com/artist/33HOfKvN2YRwhHkqO0Gj6g"
+        },
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        }
+      ],
+      "duration_ms": 339580,
+      "name": "Rei da Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
     },
     {
       "added_at": "2025-06-20 03:01:28",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-06-20 03:01:28",
       "album": {
-        "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 339354,
-      "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
-    },
-    {
-      "added_at": "2025-06-20 03:01:28",
-      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2025-06-20 03:01:28",
+      "album": {
+        "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
+      },
+      "artists": [
+        {
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+        }
+      ],
+      "duration_ms": 339354,
+      "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
     },
     {
       "added_at": "2025-06-20 03:01:28",

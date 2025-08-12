@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-685 songs - 1 day 16 hr 15 min
+686 songs - 1 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dope](https://open.spotify.com/track/6xkzTg34yOZdXsWkG0at4k) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Dope](https://open.spotify.com/album/1DP9Sd9EmMtfteqwatNRPZ) | 2:21 | 2023-04-28 | 2023-07-11 |
 | [Durai Sleeping \- From "Think Originals"](https://open.spotify.com/track/197dZDgejcTSZ8RYPEDowe) | [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Durai Sleeping \(From "Think Originals"\)](https://open.spotify.com/album/6mYSDtZpONcrjnJCqFXPR1) | 2:31 | 2023-03-03 | 2023-03-23 |
 | [Ean Machi](https://open.spotify.com/track/6IxYter8iWxtHJgQzK0DPQ) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Ean Machi](https://open.spotify.com/album/7JPauQxNNTAYPLXnxSOZlx) | 3:37 | 2022-12-15 | 2023-02-07 |
+| [Edhirpaarthen](https://open.spotify.com/track/29T3IgO0qArdvkuO5RR797) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H) | [Edhirpaarthen](https://open.spotify.com/album/2bSn0WWPsyOmkLdX9nYQ50) | 3:34 | 2025-08-11 |  |
 | [Edho Unnale](https://open.spotify.com/track/7FNKAUfUFqnK3hmQdaL38D) | [Praveen Arris](https://open.spotify.com/artist/1owcWmHWTwVlRWjYJA2YE8), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Darini Hariharan](https://open.spotify.com/artist/5MYdWjprWPQD05hTPmRd8E) | [Edho Unnale](https://open.spotify.com/album/2w92uIb1AtSnh6CqQxwvOQ) | 3:03 | 2023-12-15 | 2024-06-14 |
 | [Edhuvum Kedaikalana? \- From "Think Indie"](https://open.spotify.com/track/5Qbu0YMMuM7CfiAmPhhFlb) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Edhuvum Kedaikalana? \(From "Think Indie"\)](https://open.spotify.com/album/15uNR5mPqm88Kj5Y614Oxc) | 2:49 | 2022-10-10 | 2023-11-07 |
 | [Elley Loh](https://open.spotify.com/track/7yC4h7vt7rKqkUm5Xd5Fk6) | [Ram Nath RNB](https://open.spotify.com/artist/4ZhOflcedK9HGUVUeZzyWg) | [Elley Loh](https://open.spotify.com/album/5pp4p2QpfEVkZajZZVMWdw) | 3:11 | 2022-01-10 | 2022-07-18 |

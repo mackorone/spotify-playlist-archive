@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,591 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,598 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 2 | [Don't Wanna Go Home \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/5pVwwTrPd0UNmcOUsTO5LR) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dont Wanna Go Home \(feat\. Joe Bonamassa\)](https://open.spotify.com/album/6qWmhd3HsIHSaNRWz4NftB) | 5:23 |
 | 3 | [LONELY AVENUE \(feat\. Randy Newman\)](https://open.spotify.com/track/43fnovfvtK8e3PFuiYx2Wt) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [LONELY AVENUE](https://open.spotify.com/album/57t7JEyilKnh23rmBNRCCM) | 3:40 |
 | 4 | [Been There Done That](https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 3:48 |
-| 5 | [One Kind Favor](https://open.spotify.com/track/7pMvQN1WG5Blmtlf6AwzWh) | [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Datrian Johnson](https://open.spotify.com/artist/7jc3GCmBMxWrV9Rci2XyyJ), [MEM\_MODS](https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv) | [One Kind Favor](https://open.spotify.com/album/22pbmmk7EVQsrI2YEo9d4b) | 3:25 |
+| 5 | [One Kind Favor](https://open.spotify.com/track/7pMvQN1WG5Blmtlf6AwzWh) | [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk), [Datrian Johnson](https://open.spotify.com/artist/1ta7b6Oo2nNK918tfmFJ4A), [MEM\_MODS](https://open.spotify.com/artist/2NS7SoCNyg1AWORYD54jSv) | [One Kind Favor](https://open.spotify.com/album/22pbmmk7EVQsrI2YEo9d4b) | 3:25 |
 | 6 | [Broken Record](https://open.spotify.com/track/5SC1EaTcQ4ndI9sQkHpjVT) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 6:58 |
 | 7 | [See Through](https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [See Through](https://open.spotify.com/album/64xN67Mp1r0LoKCyMJ9Jsb) | 4:13 |
 | 8 | [Voodoo Charm](https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Voodoo Charm](https://open.spotify.com/album/0aaGePntScMAQkV87h4rr3) | 3:47 |

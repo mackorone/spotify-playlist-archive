@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 192089,
       "name": "Airflow",
       "url": "https://open.spotify.com/track/4Ip1ZWHSxJ7zaXI4Sk94MM"
@@ -2274,6 +2274,24 @@
       "duration_ms": 142222,
       "name": "Donia",
       "url": "https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV"
+    },
+    {
+      "album": {
+        "name": "Dorma",
+        "url": "https://open.spotify.com/album/4CaG6K6ojSCt3q2UHfA1mN"
+      },
+      "artists": [
+        {
+          "name": "Muqamar",
+          "url": "https://open.spotify.com/artist/7gsxvS8Av0NLwn6VwaJR1f"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159926,
+      "name": "Dorma",
+      "url": "https://open.spotify.com/track/1jF98bFbddOY8YqUo3lawO"
     },
     {
       "album": {
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 162600,
       "name": "Nothing else mattered",
       "url": "https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO"
@@ -9334,6 +9352,24 @@
       "duration_ms": 159000,
       "name": "Tenksom",
       "url": "https://open.spotify.com/track/3Fo0yfu7owI9okMGgQZtbm"
+    },
+    {
+      "album": {
+        "name": "The Brightest Shadow",
+        "url": "https://open.spotify.com/album/1wFJQ7WupjUMvJB9c3vRKQ"
+      },
+      "artists": [
+        {
+          "name": "Isoflimmasy",
+          "url": "https://open.spotify.com/artist/5cRByeIrAELSSOwZ9ch3Wc"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146427,
+      "name": "The Brightest Shadow",
+      "url": "https://open.spotify.com/track/0hYWqes6gVJiAc6I8Nl98P"
     },
     {
       "album": {

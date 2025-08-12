@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Shedeur Sanders
+> Fourth quarter, two minutes left .\. get locked in\. Cover: A'ja Wilson
 
 832 songs - 1 day 18 hr 37 min
 

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Aahat",
+        "url": "https://open.spotify.com/album/2A2Dicx7WTCkEHaRinvrxy"
+      },
+      "artists": [
+        {
+          "name": "Musical Tarsh",
+          "url": "https://open.spotify.com/artist/1COWZLBBTINIyZIornthQd"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139038,
+      "name": "Aahat",
+      "url": "https://open.spotify.com/track/3h0rGr8B6cH738G1dF69Di"
+    },
+    {
+      "album": {
         "name": "Aahatien",
         "url": "https://open.spotify.com/album/2B2ctyT0LkheNR31bJQ4u9"
       },
@@ -2923,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "Gehraiyaan (Unplugged)",
+        "url": "https://open.spotify.com/album/1UOwKdUWpadVuUZBbrxC3V"
+      },
+      "artists": [
+        {
+          "name": "Aditya Narayan",
+          "url": "https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187864,
+      "name": "Gehraiyaan - Unplugged",
+      "url": "https://open.spotify.com/track/4cFTI9GC52rZo29rAQ2Af2"
+    },
+    {
+      "album": {
         "name": "Ghar",
         "url": "https://open.spotify.com/album/5mlwIwCNFVgrNXstZEjioq"
       },
@@ -4318,7 +4358,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 64807,
       "name": "Jiya - Acoustic",
       "url": "https://open.spotify.com/track/2k66hTa45HXKxvw0nkdImV"
@@ -9140,7 +9180,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-12",
       "duration_ms": 216240,
       "name": "Sehar",
       "url": "https://open.spotify.com/track/1IWXDizuyzuBz7nXI6Wgdn"
