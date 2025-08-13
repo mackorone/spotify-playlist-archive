@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Bailey Zimmerman & The Kid LAROI, Ed Sheeran, mgk, Gunna, Rochelle Jordan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,668 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,676 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 71 | [Grind 4](https://open.spotify.com/track/67OmIoO9BrHxxj4BFMJldX) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Grind 4](https://open.spotify.com/album/5QncAixFEsY4IeVf1WplTw) | 2:27 |
 | 72 | [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 |
 | 73 | [lo que pase](https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase](https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO) | 2:32 |
-| 74 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:02 |
+| 74 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:01 |
 | 75 | [DADA](https://open.spotify.com/track/51OEKsTq9Vzj1yHZruJaDm) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [DADA](https://open.spotify.com/album/3eUYSh3MjmBl6Va32AFYEW) | 1:56 |
 | 76 | [Quint It](https://open.spotify.com/track/5gdPDCKm6bMvopOjBrTBY8) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Quint It](https://open.spotify.com/album/68xBB8xbXUa3f3li27DvCi) | 2:43 |
 | 77 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |

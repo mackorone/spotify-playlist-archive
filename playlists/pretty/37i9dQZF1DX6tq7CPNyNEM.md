@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 
 > "Remember who we are." Music from and inspired by Black Panther and Black Panther: Wakanda Forever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,821 likes - 57 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,807 likes - 58 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,5 +65,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tq7CPNyNEM.md) - [plain]
 | 55 | [The Great Mound Battle](https://open.spotify.com/track/5aZgBFCQfYn5LrmMGgB7PB) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 3:48 |
 | 56 | [A King's Sunset](https://open.spotify.com/track/7sALWqhJo9Bv2QHVWyDjZa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 4:28 |
 | 57 | [United Nations / End Titles](https://open.spotify.com/track/1vIXp4rlWChyPTSA3ZgsXa) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 7:32 |
+| 58 | [Eyes of Wakanda Main Title](https://open.spotify.com/track/68OvoLY0aaC3QoZNCLwQjs) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Eyes of Wakanda \(Original Soundtrack\)](https://open.spotify.com/album/7d954NsLk8Outte8CNw2XX) | 1:16 |
 
-Snapshot ID: `AAAAAL5KbT4LU1US8Cn1w64+6R53zIrj`
+Snapshot ID: `AAAAAHtzqaFGyYr0P1ODeZlrBqVy+ZnP`

@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182315,
+      "name": "Last Chance With You",
+      "url": "https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF"
+    },
+    {
+      "album": {
         "name": "falling or flying (Deluxe)",
         "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
       },
@@ -544,7 +562,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 242173,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 216573,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
@@ -690,6 +708,24 @@
       "duration_ms": 235733,
       "name": "Officially Yours",
       "url": "https://open.spotify.com/track/4sofx1s0nDS4LG1Tx3uxpG"
+    },
+    {
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207543,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/2bFeml4Q8bOqXuy6Lybz7L"
     },
     {
       "album": {

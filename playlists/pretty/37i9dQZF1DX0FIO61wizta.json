@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 84737,
+  "num_followers": 84756,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -791,66 +791,6 @@
     {
       "added_at": "2025-07-02 10:06:13",
       "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Metropolitan Opera Orchestra",
-          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
-        },
-        {
-          "name": "Samuel Ramey",
-          "url": "https://open.spotify.com/artist/4z6dlDfmoZstfKLVC60nM0"
-        },
-        {
-          "name": "Aprile Millo",
-          "url": "https://open.spotify.com/artist/6S3PdC8vRGu1xIFKjhExMy"
-        },
-        {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Dolora Zajick",
-          "url": "https://open.spotify.com/artist/1DmqAu6u4VD8SB2bCfAqpG"
-        },
-        {
-          "name": "James Morris",
-          "url": "https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2"
-        },
-        {
-          "name": "Charles Anthony",
-          "url": "https://open.spotify.com/artist/33SHnOsF4AKtwSyBmsbW9J"
-        },
-        {
-          "name": "Hei-Kyung Hong",
-          "url": "https://open.spotify.com/artist/3E5grQmgVbtiH7GkLoqgE3"
-        },
-        {
-          "name": "Terry Cook",
-          "url": "https://open.spotify.com/artist/7ANRn62g9PfzRxW1IyPiNJ"
-        },
-        {
-          "name": "Metropolitan Opera Chorus",
-          "url": "https://open.spotify.com/artist/5MoELXFkrkYdWaeBk8rQ94"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Aida: Danza Sacre delle Sacerdotesse",
-      "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
-    },
-    {
-      "added_at": "2025-07-02 10:06:13",
-      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -935,6 +875,66 @@
       "duration_ms": 239333,
       "name": "La forza del destino - Original St.Petersburg version - Act 1: \"Me pellegrina ed orfana\"",
       "url": "https://open.spotify.com/track/0wbGVlJdN0XtwelbwgNLL2"
+    },
+    {
+      "added_at": "2025-07-02 10:06:13",
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Metropolitan Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
+        },
+        {
+          "name": "Samuel Ramey",
+          "url": "https://open.spotify.com/artist/4z6dlDfmoZstfKLVC60nM0"
+        },
+        {
+          "name": "Aprile Millo",
+          "url": "https://open.spotify.com/artist/6S3PdC8vRGu1xIFKjhExMy"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Dolora Zajick",
+          "url": "https://open.spotify.com/artist/1DmqAu6u4VD8SB2bCfAqpG"
+        },
+        {
+          "name": "James Morris",
+          "url": "https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2"
+        },
+        {
+          "name": "Charles Anthony",
+          "url": "https://open.spotify.com/artist/33SHnOsF4AKtwSyBmsbW9J"
+        },
+        {
+          "name": "Hei-Kyung Hong",
+          "url": "https://open.spotify.com/artist/3E5grQmgVbtiH7GkLoqgE3"
+        },
+        {
+          "name": "Terry Cook",
+          "url": "https://open.spotify.com/artist/7ANRn62g9PfzRxW1IyPiNJ"
+        },
+        {
+          "name": "Metropolitan Opera Chorus",
+          "url": "https://open.spotify.com/artist/5MoELXFkrkYdWaeBk8rQ94"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Aida: Danza Sacre delle Sacerdotesse",
+      "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
     },
     {
       "added_at": "2025-07-02 10:06:13",

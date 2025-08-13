@@ -1,6 +1,6 @@
 {
   "description": "Boss music for boss people. Cover: James Marriott ",
-  "num_followers": 128470,
+  "num_followers": 128508,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Cartwheels",
-        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
-      },
-      "artists": [
-        {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
-        }
-      ],
-      "duration_ms": 124013,
-      "name": "Cartwheels",
-      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
         "name": "Inaction",
         "url": "https://open.spotify.com/album/2pB6NLUOEyMdybOjH0Cgl9"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 186437,
       "name": "Inaction",
       "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
+        "name": "Cartwheels",
+        "url": "https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN"
+      },
+      "artists": [
+        {
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+        }
+      ],
+      "duration_ms": 124013,
+      "name": "Cartwheels",
+      "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
+    },
+    {
+      "added_at": "2025-06-23 00:26:18",
+      "album": {
         "name": "When Youth Fades Away",
         "url": "https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 161816,
       "name": "Hippodrome",
       "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
-    },
-    {
-      "added_at": "2025-06-23 00:26:18",
-      "album": {
-        "name": "Mind Metro",
-        "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
-      },
-      "artists": [
-        {
-          "name": "The Cheap Thrills",
-          "url": "https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz"
-        }
-      ],
-      "duration_ms": 232197,
-      "name": "Calypso Blue",
-      "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
     },
     {
       "added_at": "2025-06-23 00:26:18",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-06-23 00:26:18",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI"
+        "name": "Mind Metro",
+        "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "The Cheap Thrills",
+          "url": "https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
+      "duration_ms": 232197,
+      "name": "Calypso Blue",
+      "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
     }
   ],
   "unique_name": "Proper Belters",

@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 165640,
       "name": "Simti",
       "url": "https://open.spotify.com/track/0EYrMu9FdtUTMZ8EK6cg5Q"
@@ -6966,6 +6966,28 @@
       "duration_ms": 198000,
       "name": "Windy",
       "url": "https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY"
+    },
+    {
+      "album": {
+        "name": "Woh",
+        "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
+      },
+      "artists": [
+        {
+          "name": "Khatth",
+          "url": "https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY"
+        },
+        {
+          "name": "Sthiti",
+          "url": "https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194522,
+      "name": "Woh",
+      "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
     },
     {
       "album": {

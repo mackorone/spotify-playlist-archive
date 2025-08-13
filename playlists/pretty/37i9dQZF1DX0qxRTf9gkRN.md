@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,370 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,403 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

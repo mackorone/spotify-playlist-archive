@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 
 > The songs of Detty December 2024 as chosen by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,051 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,053 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s0fi1qwiiS.md) - [plain]
 | 40 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 |
 | 41 | [Beba](https://open.spotify.com/track/6kyRoqKqBvm6djNl95lNYA) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [En Route](https://open.spotify.com/album/14E0umxMJDrXssbQ1z7pNE) | 4:04 |
 | 42 | [Pabi Jo \(feat\. Lajere man & DJ DADAMAN\)](https://open.spotify.com/track/0UCv4K0MMGf7OLKAcKYFwR) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Thebuu](https://open.spotify.com/artist/71sePyklre8L4YJuE9Qf7D), [Lajere man](https://open.spotify.com/artist/5H7UcHG42hqQZzkGJ8QqIt), [DJ DADAMAN](https://open.spotify.com/artist/1f5s8gmQ3SgDc6TtlegNkS) | [Pabi Jo \(feat\. Lajere man & DJ DADAMAN\)](https://open.spotify.com/album/13c5bl6tw6GHLgEGdkqU8L) | 5:52 |
-| 43 | [Tabbu](https://open.spotify.com/track/4kIz5ju9JjYrN8IEJHxM5f) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Tabbu](https://open.spotify.com/album/5Qj0H4VqbtcwQ1wDxqqmTU) | 3:07 |
-| 44 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 |
+| 43 | [Makoma](https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Makoma](https://open.spotify.com/album/5nUG6KJs5P1tPgMa3tWU7Q) | 2:44 |
+| 44 | [Tabbu](https://open.spotify.com/track/4kIz5ju9JjYrN8IEJHxM5f) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [Ava Peace](https://open.spotify.com/artist/69W7xi5UQXD8Y4SyHzHZJE) | [Tabbu](https://open.spotify.com/album/5Qj0H4VqbtcwQ1wDxqqmTU) | 3:07 |
 | 45 | [NAMKATAA](https://open.spotify.com/track/6PNJlK25YXKwjtgppI9Ejp) | [HOOD BOYZ](https://open.spotify.com/artist/1yONcOLoE5kSfTqTHmqrdR) | [NAMKATAA](https://open.spotify.com/album/0hsAL9NL1ioXQV6qT6Cgwt) | 2:24 |
 | 46 | [NO SIR](https://open.spotify.com/track/1xq5og7HPgvbujGR9NR1V6) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [NO SIR](https://open.spotify.com/album/3jXQqOdt2mGJASugFOWYZr) | 2:21 |
 | 47 | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/0XFBfGFjH7oG2fs1LUMUwI) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/47dA6MzeREthztzSXZB1TU) | 3:53 |

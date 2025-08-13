@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,134 songs - 5 day 12 hr 13 min
+2,135 songs - 5 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1220,7 +1220,7 @@
 | [あいむいんらぶ](https://open.spotify.com/track/2i3ihydtP73D243Blgkrm8) | [Hack'nBerry](https://open.spotify.com/artist/1wiMSmZSzfDSdnMY60exZZ), [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [あいむいんらぶ](https://open.spotify.com/album/0JU9Yrn0S7YSuu4q3AxFQs) | 4:27 | 2022-07-05 | 2022-08-05 |
 | [あかね組活動日誌 \~戌班\~](https://open.spotify.com/track/3Qa8YxZnfvB5fOAXeMxRsH) | [ツバキ\(CV.夏吉ゆうこ\)](https://open.spotify.com/artist/7tOxPicOurwzotqSOOyJ3e), [サザンカ\(CV.根本京里\)](https://open.spotify.com/artist/05ofTrdMQI3YIRgSMRTcYR), [アサガオ\(CV.鈴代紗弓\)](https://open.spotify.com/artist/4fs0KnSXQVtyQI9Wk8CNLp) | [くノ一ツバキの胸の内 あかね組音楽集](https://open.spotify.com/album/5CqMoquYlIMeLagF72UxLW) | 1:31 | 2023-01-19 | 2023-01-25 |
 | [あきらめられないのさ](https://open.spotify.com/track/5tu6DxsHNH021fNW2Cb2zK) | [GENIC](https://open.spotify.com/artist/1vpKcfxN3KfVmbyddl9sYT) | [あきらめられないのさ](https://open.spotify.com/album/24P3Rk1NDI9gGm876EUu3z) | 3:08 | 2025-06-17 | 2025-07-02 |
-| [あしあと](https://open.spotify.com/track/6nWBz6FV2ebQ1SvbcwmFlg) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [Rabbit Girl](https://open.spotify.com/album/1TZztXzNnVc2TkKFIGEJyq) | 3:21 | 2025-08-05 |  |
+| [あしあと](https://open.spotify.com/track/6nWBz6FV2ebQ1SvbcwmFlg) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [Rabbit Girl](https://open.spotify.com/album/1TZztXzNnVc2TkKFIGEJyq) | 3:21 | 2025-08-05 | 2025-08-13 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 | 2023-07-12 |
 | [あなたに](https://open.spotify.com/track/1gJ5uea5uL4DjH12o5Y3GB) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「あなたに」](https://open.spotify.com/album/17S1V070Wo47UCIoYemN3B) | 3:11 | 2025-01-11 | 2025-01-22 |
 | [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:50 | 2025-07-22 |  |
@@ -1728,6 +1728,7 @@
 | [八芒星ダンス](https://open.spotify.com/track/4eR1tqIsDouIiI1cbTuCMy) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:49 | 2025-04-22 | 2025-06-04 |
 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 | 2024-07-19 | 2024-10-18 |
 | [共感されなくてもいいじゃない](https://open.spotify.com/track/1WiNgf25GMxurtnGFYRe6F) | [高橋李依](https://open.spotify.com/artist/12iQR4yHrznblXyarjpvoh) | [共感されなくてもいいじゃない](https://open.spotify.com/album/25Ff7KFRmdA2WmvfErCfpx) | 3:53 | 2022-10-06 | 2022-10-08 |
+| [円鈴](https://open.spotify.com/track/5dZqdJOcIoZnXMAQv0BUHF) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [円鈴](https://open.spotify.com/album/5jSCX3iBcSHO79n89zbNZM) | 3:56 | 2025-08-12 |  |
 | [再会](https://open.spotify.com/track/10ACXnQKEBvb8Tgzl3DmZd) | [V.W.P](https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1) | [再会](https://open.spotify.com/album/1bJD2yH4SsmowfbYhfo9tL) | 4:12 | 2022-12-20 | 2023-01-18 |
 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-07-14 |  |
 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 | 2022-05-28 | 2022-07-13 |
@@ -2070,8 +2071,8 @@
 | [赤猫](https://open.spotify.com/track/1LHWCYSHXcIuCSUO8LvXJi) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x) | 3:34 | 2024-06-04 | 2024-10-04 |
 | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-11 | 2025-04-11 |
 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 | 2025-04-05 | 2025-07-09 |
-| [超カリスマ凡踊り](https://open.spotify.com/track/2ot1k2vBbsWL9Z7HbO7Snr) | [七人のカリスマ](https://open.spotify.com/artist/7x8dSDNiUU6XRwJGRIrZDz), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [超カリスマ凡踊り](https://open.spotify.com/album/7dUVysbr79NdwBgEfplxbH) | 4:12 | 2025-08-07 |  |
-| [距離。](https://open.spotify.com/track/7sSnqHbWVLuP1h2oDo70DB) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [距離。](https://open.spotify.com/album/0MM7dclSbHGJPgmb4rnDQT) | 3:57 | 2025-08-05 |  |
+| [超カリスマ凡踊り](https://open.spotify.com/track/2ot1k2vBbsWL9Z7HbO7Snr) | [七人のカリスマ](https://open.spotify.com/artist/7x8dSDNiUU6XRwJGRIrZDz), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [超カリスマ凡踊り](https://open.spotify.com/album/7dUVysbr79NdwBgEfplxbH) | 4:12 | 2025-08-07 | 2025-08-13 |
+| [距離。](https://open.spotify.com/track/7sSnqHbWVLuP1h2oDo70DB) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [距離。](https://open.spotify.com/album/0MM7dclSbHGJPgmb4rnDQT) | 3:57 | 2025-08-05 | 2025-08-13 |
 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 | 2023-07-13 | 2023-10-06 |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2022-12-27 | 2023-01-02 |
 | [追いかける夢の先で](https://open.spotify.com/track/3V2S19yA5qkUp6qxSVG5zr) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [追いかける夢の先で](https://open.spotify.com/album/65vtvzicbNmETsvabUGAh4) | 3:43 | 2022-08-16 | 2022-10-04 |

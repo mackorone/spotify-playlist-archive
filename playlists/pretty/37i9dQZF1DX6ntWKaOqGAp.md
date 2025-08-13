@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 ### [J\-Rock ON!!](https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp)
 
-> 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Saucy Dog
+> 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,253 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,302 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [天職](https://open.spotify.com/track/2uHNkEJPAuaepBpr6NfQnE) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [天職](https://open.spotify.com/album/3SDXPdj35eW5AhdOltCCpY) | 3:15 |
 | 100 | [doyes](https://open.spotify.com/track/0ksRi1N5G5fU909OFG2vdh) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [doyes](https://open.spotify.com/album/4YzX55qAFw9TBcELr9eRLn) | 4:06 |
 
-Snapshot ID: `AAAAAN2VjpXr4sVKTw0WrD57BQ23EP4u`
+Snapshot ID: `AAAAAIzB7hFaL4Ya8IVRKOJNaRGM2Oj1`

@@ -475,26 +475,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Chouchou",
-        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Chouchou",
-      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Alba",
         "url": "https://open.spotify.com/album/63jS0Pw5PqB2xXHJVvwTFl"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 160353,
       "name": "Laponie",
       "url": "https://open.spotify.com/track/16PdkWi7CVsCuFcRbERudr"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Chouchou",
+        "url": "https://open.spotify.com/album/1j3VYcnCeMzxcorZi5W6yJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Chouchou",
+      "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 159545,
-      "name": "SELEK",
-      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/2EurhJLQsbr7BP8VTeMg6c"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 195163,
       "name": "VHS",
       "url": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 159545,
+      "name": "SELEK",
+      "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
     },
     {
       "added_at": "2025-08-01 04:00:28",

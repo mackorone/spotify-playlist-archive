@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Clara et Robert Schumann, Romances, Variations, Grande sonate",
+        "url": "https://open.spotify.com/album/39n5wrHWx5GHQkFpUzG7t1"
+      },
+      "artists": [
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        },
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372986,
+      "name": "Romance sans num\u00e9ro d'opus",
+      "url": "https://open.spotify.com/track/3lMTAVWatmWNlFFKdnuzL5"
+    },
+    {
+      "album": {
         "name": "Cool Classics",
         "url": "https://open.spotify.com/album/1YpocsSklI96xbJxmH8TYm"
       },
@@ -798,7 +820,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 311253,
       "name": "Romance, Op. 21, No. 1",
       "url": "https://open.spotify.com/track/1eaE50Xt2fF5XMKILqvkhk"
@@ -1162,7 +1184,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 179072,
       "name": "Vier Polonaisen op. 1 - Polonaise Nr. 3",
       "url": "https://open.spotify.com/track/2dRrRkjVX3nEYBZq94D3Tm"

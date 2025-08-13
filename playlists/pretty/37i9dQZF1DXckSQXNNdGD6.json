@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  AMORE.",
-  "num_followers": 20855,
+  "num_followers": 20863,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-08-06 09:35:45",
       "album": {
-        "name": "Gritando Amor",
-        "url": "https://open.spotify.com/album/76QEBMEFhoNBb8EWIjiTBY"
-      },
-      "artists": [
-        {
-          "name": "Samantha Hudson",
-          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
-        },
-        {
-          "name": "Luis Migu\u00e9lez",
-          "url": "https://open.spotify.com/artist/4JgdZuefWOh72vRe1WWQMF"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Gritando Amor",
-      "url": "https://open.spotify.com/track/6w8DDYLQJW6PRei3DJbktj"
-    },
-    {
-      "added_at": "2025-08-06 09:35:45",
-      "album": {
         "name": "GORGONA",
         "url": "https://open.spotify.com/album/7Ae5Sye34ZPoRJiogQv7LD"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 274887,
       "name": "La M\u00e1s Guapa (feat. Las Cheerlerdas)",
       "url": "https://open.spotify.com/track/4ZZDNasBm2sflO2B8VKghu"
+    },
+    {
+      "added_at": "2025-08-06 09:35:45",
+      "album": {
+        "name": "Gritando Amor",
+        "url": "https://open.spotify.com/album/76QEBMEFhoNBb8EWIjiTBY"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        },
+        {
+          "name": "Luis Migu\u00e9lez",
+          "url": "https://open.spotify.com/artist/4JgdZuefWOh72vRe1WWQMF"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Gritando Amor",
+      "url": "https://open.spotify.com/track/6w8DDYLQJW6PRei3DJbktj"
     },
     {
       "added_at": "2025-08-06 09:35:45",

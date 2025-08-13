@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Lydia Night
 
-955 songs - 1 day 20 hr 3 min
+956 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,7 +640,7 @@
 | [PATTERNS](https://open.spotify.com/track/7htM3PtOqbtanwimghnf1u) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [PATTERNS](https://open.spotify.com/album/5KgUxgS8yrb4mdsWyfHa7T) | 2:05 | 2022-09-09 | 2022-10-08 |
 | [PAYRI$E](https://open.spotify.com/track/5oihHH2Lw051Y0mFWz7fMM) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [PAYRI$E](https://open.spotify.com/album/4bFgVrzjZ5PyVsW1BgXIok) | 2:56 | 2022-04-15 | 2022-05-20 |
 | [perfect communicators](https://open.spotify.com/track/0J30WAjo9JNAhVXHGqRS7R) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [perfect communicators](https://open.spotify.com/album/6AY0N5mt3Uq40cbmRW3eua) | 2:31 | 2023-06-02 | 2023-08-19 |
-| [Phantom Limb](https://open.spotify.com/track/0ztCJyjFzDkWUGQogDBioF) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/65t0i9VT9K6A2NX6LFvRik) | 3:15 | 2025-04-18 |  |
+| [Phantom Limb](https://open.spotify.com/track/0ztCJyjFzDkWUGQogDBioF) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/65t0i9VT9K6A2NX6LFvRik) | 3:15 | 2025-04-18 | 2025-08-13 |
 | [PHUCKBOI REJECTS](https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [PHUCKBOI REJECTS](https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG) | 2:07 | 2022-01-07 | 2022-03-12 |
 | [Pink \(Freak\) \(feat\. GIRLI\) \- GIRLI Remix](https://open.spotify.com/track/439OoVge6koA2fON3GQmpb) | [Elliot Lee](https://open.spotify.com/artist/6PZUrbjktV3P6m9RSuqzX5), [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Pink \(Freak\) \(feat\. GIRLI\) \[GIRLI Remix\]](https://open.spotify.com/album/7G8tSjcMTO5Gokr7GT6Eyz) | 3:42 | 2022-01-07 | 2022-03-18 |
 | [Pink Noise](https://open.spotify.com/track/79SnA3wt0c7znm70kwRxEm) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Baby Teeth](https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL) | 2:19 | 2023-11-10 | 2024-02-09 |
@@ -679,6 +679,7 @@
 | [Quarter Life Crisis](https://open.spotify.com/track/3W7uzoZe8xxHVv75WvhHaZ) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis](https://open.spotify.com/album/5bTGBed0FKungdHiISflgl) | 3:03 | 2023-09-08 | 2023-10-21 |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-09-23 | 2022-11-12 |
 | [Queen Of Ice](https://open.spotify.com/track/0PzcMfqECraaBGxX7zr7wV) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Queen of Ice](https://open.spotify.com/album/3lKrTWon6PLcdzIjgTAOWm) | 4:04 | 2021-11-05 | 2022-03-18 |
+| [R U Still Awake?](https://open.spotify.com/track/2zsRMJbXNBYiIDTSgozKHM) | [Luca Malina](https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ) | [R u still awake?](https://open.spotify.com/album/1fmN7UueKkaBhaaRMRJXXN) | 2:26 | 2025-08-12 |  |
 | [R.I.P](https://open.spotify.com/track/37PZSNSxLG6iuJAlUo8Wqv) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [R.I.P](https://open.spotify.com/album/2PkakWXe2YnTBVv0QsRyNc) | 3:05 | 2022-03-25 | 2022-04-09 |
 | [R.I.P.](https://open.spotify.com/track/2NsT14VbcsVEZksjccxkvH) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [R.I.P.](https://open.spotify.com/album/6AIk8FOlSBxFtJik5iuyBq) | 2:56 | 2021-12-10 | 2022-03-18 |
 | [r.i.p.](https://open.spotify.com/track/09evlWu6OJKMJSJA0txcwx) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [r.i.p.](https://open.spotify.com/album/65ln1ZIQCDkgzaYESQxIdL) | 2:50 | 2024-06-07 | 2024-08-31 |

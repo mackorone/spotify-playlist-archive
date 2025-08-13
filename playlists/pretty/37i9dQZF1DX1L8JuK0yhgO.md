@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,161 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,164 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 63 | [000 \(u are the moonlight\)](https://open.spotify.com/track/0DGLSC6qCnhlAjHzmTUMav) | [AYA GLOOMY](https://open.spotify.com/artist/4BbC7CqmVa2JxUqVVduZ9K) | [u are the moonlight](https://open.spotify.com/album/2JtB0uWlTeEszI0cuCTrqR) | 3:31 |
 | 64 | [恋するとしたら](https://open.spotify.com/track/41wkjFvt2cWFEc9cm5g6Dk) | [ぶっ恋呂百花](https://open.spotify.com/artist/1QMYNH5FHUaUdVtfmNyHY8) | [幽霊のように](https://open.spotify.com/album/2HdHj10JEBwNompRBqNMtd) | 3:32 |
 | 65 | [Don't Say No](https://open.spotify.com/track/4sNerWXD5XHxaTxUn3iYAR) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [Wide Awake](https://open.spotify.com/album/0zXkNrPiubPQ6xuBBN0ssu) | 2:18 |
-| 66 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:28 |
+| 66 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 67 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 |
 | 68 | [Red Lights](https://open.spotify.com/track/1M7FWAED7yPzGhRaZwtol6) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Red Lights](https://open.spotify.com/album/251iGxnvDjU1Kl8wruMS4n) | 2:50 |
 | 69 | [Anti\-People Pleaser](https://open.spotify.com/track/6j65YOcbj0pGduNN8UYpp6) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Anti\-People Pleaser](https://open.spotify.com/album/4bQx1k53gBMW9vBnRkmaHy) | 3:54 |

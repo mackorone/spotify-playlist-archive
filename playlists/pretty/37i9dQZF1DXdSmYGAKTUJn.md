@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 
 > John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,092 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,127 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 | 28 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 29 | [Animals \- Live at Sun Plaza Tokyo](https://open.spotify.com/track/2rHOy5exSCbFJWZmcoX86N) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 4:05 |
 | 30 | [Teenage Wildlife \- 2017 Remaster](https://open.spotify.com/track/57NAaXLQGp5ZgEvpVOYtFe) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 6:58 |
-| 31 | [Company \- Original Broadway Cast: Another Hundred People](https://open.spotify.com/track/22mHSHFMsa9wx7jSRtqUsk) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Pamela Myers](https://open.spotify.com/artist/28XtNqZJ8glfXoHXP3TyEG), [Harold Hastings](https://open.spotify.com/artist/0n9VWV8iDO1Pi0yN9wTVxk), [Original Broadway Cast Orchestra](https://open.spotify.com/artist/1r7rgWu1xhUhk11oCFjkFp) | [Company \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6UbNkEqfwOVchQcmAYxJvZ) | 2:41 |
+| 31 | [Company \- Original Broadway Cast: Another Hundred People](https://open.spotify.com/track/22mHSHFMsa9wx7jSRtqUsk) | [Stephen Sondheim](https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1), [Pamela Myers](https://open.spotify.com/artist/28XtNqZJ8glfXoHXP3TyEG), [Company Orchestra](https://open.spotify.com/artist/2apdAD7jEZYm1BkelXZjvp), [Harold Hastings](https://open.spotify.com/artist/0n9VWV8iDO1Pi0yN9wTVxk), [Original Broadway Cast Orchestra](https://open.spotify.com/artist/1r7rgWu1xhUhk11oCFjkFp) | [Company \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6UbNkEqfwOVchQcmAYxJvZ) | 2:41 |
 | 32 | [Funeral At The Movies](https://open.spotify.com/track/7baM7B9X2usD7IGtLu0TLl) | [Shudder To Think](https://open.spotify.com/artist/3PP5Hnii2zI9Ufm7jFkers) | [Funeral At The Movies](https://open.spotify.com/album/57mB5QiLeB1owgZ4fkZRf2) | 3:14 |
 | 33 | [Hang On Bill](https://open.spotify.com/track/4tlw5np6HbB0UKO2roDYOy) | [Little Lisa](https://open.spotify.com/artist/2xaOOtLaV8BOds7mm41qnp) | [The Complete Motown Singles, Vol\. 5: 1965](https://open.spotify.com/album/6pPH5BskG0nTxEGdkIl58Y) | 2:50 |
 | 34 | [Sway \- 2009 Mix](https://open.spotify.com/track/1ZS5HBMAmZk3gjFcedts66) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:52 |

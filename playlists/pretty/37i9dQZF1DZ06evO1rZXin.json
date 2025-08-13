@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6673,
+  "num_followers": 6675,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJfhAAAAAAAth2fxmsqAjyH+tbzauol3",
+  "snapshot_id": "aJkygAAAAAAa+AJxVoVAjLqdrdE1taWI",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando En Grande",
         "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 177000,
       "name": "El Hombliguito",
       "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Ves Bien Buena...",
-        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 162693,
-      "name": "Palo Bonito",
-      "url": "https://open.spotify.com/track/3p4dd79mwiFMQDExCzbCFO"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 162693,
+      "name": "Palo Bonito",
+      "url": "https://open.spotify.com/track/3p4dd79mwiFMQDExCzbCFO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 168200,
       "name": "Me Esta Esperando Mar\u00eda",
       "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Ves Bien Buena...",
-        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Domingo Corrales",
-      "url": "https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 145973,
-      "name": "La Primera Caricia",
-      "url": "https://open.spotify.com/track/5UVrUzx3P58h5bOqEluApd"
+      "duration_ms": 195893,
+      "name": "El Ultimo Rodeo",
+      "url": "https://open.spotify.com/track/602nYaYlgOn9RZtcPrOXdf"
     },
     {
       "added_at": null,

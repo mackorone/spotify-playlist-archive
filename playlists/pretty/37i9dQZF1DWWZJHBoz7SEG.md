@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya es Viernes y el cuerpo lo sabeeeee, empieza el finde con lo más nuevo de Victor Cibrian 👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,734 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,825 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

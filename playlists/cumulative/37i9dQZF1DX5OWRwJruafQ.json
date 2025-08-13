@@ -2155,6 +2155,28 @@
     },
     {
       "album": {
+        "name": "Burst",
+        "url": "https://open.spotify.com/album/5I4AjBJh0KbDOXe3pgw8nr"
+      },
+      "artists": [
+        {
+          "name": "Veer Sandhu",
+          "url": "https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ"
+        },
+        {
+          "name": "RXTRO",
+          "url": "https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173529,
+      "name": "Burst",
+      "url": "https://open.spotify.com/track/11vjabZrLgRHaKqT9KlpfS"
+    },
+    {
+      "album": {
         "name": "Busy Doin Nothin",
         "url": "https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx"
       },
@@ -5012,7 +5034,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 129473,
       "name": "Glance",
       "url": "https://open.spotify.com/track/72J8WSzWwpGt3v9hlrinhi"
@@ -7048,6 +7070,24 @@
       "duration_ms": 145764,
       "name": "Judge",
       "url": "https://open.spotify.com/track/2t3u2kqwm3GgZtXh6AZLNN"
+    },
+    {
+      "album": {
+        "name": "From The Streets",
+        "url": "https://open.spotify.com/album/5tQkmGEKfc0rvGnKzqj8XE"
+      },
+      "artists": [
+        {
+          "name": "Ekam Sudhar",
+          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0AvlSSm420INCV2uL1YGxP"
     },
     {
       "album": {
@@ -11524,7 +11564,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 141818,
       "name": "Roughrider",
       "url": "https://open.spotify.com/track/3pnkTPFYfkvdQw1QRnSPCZ"

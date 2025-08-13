@@ -4,7 +4,7 @@
 
 > CMAT e tutte le migliori nuove uscite 🇮🇹 e 🌎!
 
-1,839 songs - 3 day 22 hr 1 min
+1,840 songs - 3 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1439,6 +1439,7 @@
 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-03 | 2025-04-25 |
 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-26 | 2024-10-25 |
 | [SINCERO](https://open.spotify.com/track/33Ll0tKMKNLwuUapU5UvKk) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:17 | 2025-05-08 | 2025-06-06 |
+| [Singapore \- PLUTONE](https://open.spotify.com/track/6wX7bkmq8pe9w6g2ZSMhbs) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Singapore \- PLUTONE](https://open.spotify.com/album/16qvTf0x36VYD0ZkYfa2JP) | 2:55 | 2025-08-12 |  |
 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 | 2024-07-11 | 2024-08-02 |
 | [SINNER](https://open.spotify.com/track/7Iiw9C8gu4NdbBKUNDkeKD) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [.](https://open.spotify.com/album/3O6VSdQElvi8Eq1iYbvFMS) | 2:56 | 2025-02-28 | 2025-03-21 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-28 | 2025-03-21 |

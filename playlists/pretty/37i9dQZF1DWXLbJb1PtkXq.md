@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 ### [Hits Français 90](https://open.spotify.com/playlist/37i9dQZF1DWXLbJb1PtkXq)
 
-> Les plus grands hits français des années 90\. Photo: Francis Cabrel
+> Les plus grands hits français des années 90\. Photo: Tryo
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,189 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,265 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
+| 1 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/4gbY28n5Sbg5yZGpyjyP6G) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/4ULRsDjf1MbeI5SJiMLBnt) | 3:26 |
 | 2 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
 | 3 | [Sur la route](https://open.spotify.com/track/4O1JvKJX1rRjrtZUSoWrkr) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [la derniere annee](https://open.spotify.com/album/4RsCznr9KijetUXt2Q7rd4) | 3:41 |
 | 4 | [J'irai où tu iras \(with Jean\-Jacques Goldman\)](https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [D'eux \- Édition 15ème Anniversaire](https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk) | 3:27 |
-| 5 | [L'hymne de nos campagnes \- Live](https://open.spotify.com/track/4gbY28n5Sbg5yZGpyjyP6G) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Mamagubida](https://open.spotify.com/album/4ULRsDjf1MbeI5SJiMLBnt) | 3:26 |
+| 5 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 6 | [Je ne t'aime plus](https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Clandestino](https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq) | 2:02 |
 | 7 | [Aller Plus Haut](https://open.spotify.com/track/5qcSLeAHIEQTtzGOSjYI9u) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/7DmS2EqSpQNLaDOu0lUhlV) | 5:03 |
 | 8 | [J't'emmène au vent](https://open.spotify.com/track/0Wr98MVkENZXddiLB3bPb0) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Les poèmes de Michelle](https://open.spotify.com/track/7o66Lbfoq3QGkBpZpt3VCd) | [Teri Moïse](https://open.spotify.com/artist/3E0D2fyt1NbcmBP1QpKkUL) | [Teri Moïse \(Edition Deluxe\)](https://open.spotify.com/album/1Lc9O8OMMXJYcHjHpWLrIx) | 3:57 |
 | 50 | [Tellement je t'aime](https://open.spotify.com/track/4leqIALehUHLsdMSWZAdGG) | [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [L'essentiel Faudel](https://open.spotify.com/album/0Vu3IkVBDFEzkSSAYfDo60) | 4:05 |
 
-Snapshot ID: `AAAAAD29vsXAxznBp0Lk5bIe7zZQ+NWo`
+Snapshot ID: `AAAAAG4IVLfXVqEtv5gaFdAgUNsN7pn2`

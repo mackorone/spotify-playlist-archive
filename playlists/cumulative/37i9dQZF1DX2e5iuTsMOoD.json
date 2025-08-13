@@ -355,32 +355,6 @@
     },
     {
       "album": {
-        "name": "Big Fish (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/3xzFIcun38dKeUM0YRkrfm"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "Norman Petty",
-          "url": "https://open.spotify.com/artist/5M0cZ39iat2YdgcQX627oq"
-        },
-        {
-          "name": "C. Hardin",
-          "url": "https://open.spotify.com/artist/3YJENnOpwu0HbubqaijXGn"
-        }
-      ],
-      "date_added": "2023-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 129039,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6XJvB9UZYiJiUh8gWGWfXd"
-    },
-    {
-      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -400,6 +374,32 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "album": {
+        "name": "Big Fish (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/3xzFIcun38dKeUM0YRkrfm"
+      },
+      "artists": [
+        {
+          "name": "Norman Petty",
+          "url": "https://open.spotify.com/artist/5M0cZ39iat2YdgcQX627oq"
+        },
+        {
+          "name": "C. Hardin",
+          "url": "https://open.spotify.com/artist/3YJENnOpwu0HbubqaijXGn"
+        },
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129039,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6XJvB9UZYiJiUh8gWGWfXd"
     },
     {
       "album": {

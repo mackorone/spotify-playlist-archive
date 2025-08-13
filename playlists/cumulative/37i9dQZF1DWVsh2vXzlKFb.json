@@ -4361,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+    },
+    {
+      "album": {
         "name": "Howlin' At The New Moon (feat. Mayer Hawthorne)",
         "url": "https://open.spotify.com/album/6KaaEX144VYrAUJNU5RrtJ"
       },
@@ -8806,7 +8824,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 213493,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4TwaeQT1YTeBUBRB8NeSCo"

@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8050,
+  "num_followers": 8051,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJfhAAAAAABNNnpwHbLiJ50Yn971vSW9",
+  "snapshot_id": "aJkygAAAAAA3WyOPisFafwS+JIK9bq/W",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tentar",
-        "url": "https://open.spotify.com/album/2Hip6f21AznxijIyxps6da"
+        "name": "Moranguinho",
+        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
       },
       "artists": [
         {
-          "name": "Mc Safira",
-          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 121103,
-      "name": "Se Tentar",
-      "url": "https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1"
+      "duration_ms": 114465,
+      "name": "Moranguinho",
+      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
     },
     {
       "added_at": null,
@@ -891,18 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moranguinho",
-        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
+        "name": "Se Tentar",
+        "url": "https://open.spotify.com/album/2Hip6f21AznxijIyxps6da"
       },
       "artists": [
         {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
+        },
+        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 114465,
-      "name": "Moranguinho",
-      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
+      "duration_ms": 121103,
+      "name": "Se Tentar",
+      "url": "https://open.spotify.com/track/5UnZaD1USnKbS00KWlnzH1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Yaeger
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,152 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,258 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 46 | [Cut Me Loose](https://open.spotify.com/track/6L6RbwcSK7msQJGtaDyxaZ) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Cut Me Loose](https://open.spotify.com/album/3vcVimmEEjg9dUIHqyXJOa) | 2:27 |
 | 47 | [Got Away](https://open.spotify.com/track/5wPp86j1A1ytLQ8DJ5vDc2) | [Ripley Alexander](https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K) | [Got Away](https://open.spotify.com/album/1OKMjpkOhbIl9XUl0P8i9L) | 2:50 |
 | 48 | [Push & Pull](https://open.spotify.com/track/75aI6dB3LZFvEkEJqH9RdW) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Push & Pull](https://open.spotify.com/album/6gZVzSGWj4bJoADLPGKzs4) | 3:33 |
-| 49 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:28 |
+| 49 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 50 | [Rorschach Baby](https://open.spotify.com/track/0O2RsuGEalMk2zUGoBAAKp) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Rorschach Baby](https://open.spotify.com/album/4YpKVvfqpCMdO3A3wI4DGu) | 3:26 |
 | 51 | [Apples](https://open.spotify.com/track/14rIlyTo7ZRzgIDbzhmK2b) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Apples](https://open.spotify.com/album/2VmOnJT6VkmkfB3erQ4Jv6) | 3:42 |
 | 52 | [Kiss](https://open.spotify.com/track/6dzBzOOeBpTvv5iotTf2HJ) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Kiss](https://open.spotify.com/album/612DnDByAB32nznB5oe5lT) | 2:31 |

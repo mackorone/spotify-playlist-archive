@@ -4,7 +4,7 @@
 
 > \#fyp
 
-841 songs - 1 day 19 hr 57 min
+842 songs - 1 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/track/7tOKLFOf8RW3ttYXFS8xeM) | [La Pig chenilliste](https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a) | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/album/4Ijge3supi4RJtaNotI4N2) | 3:23 | 2023-11-10 | 2024-02-10 |
 | [La clé](https://open.spotify.com/track/2JBnBUqpC3hrhMZv1Z9JKO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:52 | 2023-03-24 | 2023-11-11 |
 | [La cosa](https://open.spotify.com/track/5eIYYCyRdXK3V2OqJ1i1Kw) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [La cosa](https://open.spotify.com/album/1WsiZRAFRsrCqDHjD3u5et) | 2:48 | 2023-10-27 | 2023-11-18 |
-| [La course](https://open.spotify.com/track/70Ir94LOppFxnvuNpM0a7Q) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ??](https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR) | 3:26 | 2025-07-18 |  |
+| [La course](https://open.spotify.com/track/70Ir94LOppFxnvuNpM0a7Q) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ??](https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR) | 3:26 | 2025-07-18 | 2025-08-13 |
 | [La Danse de Forêt](https://open.spotify.com/track/1K3YGxu5qiTir1Jv2jJ9Dd) | [Peyruis](https://open.spotify.com/artist/6qu7S8mXY2eKcqkDEGiGMN) | [La danse de forêt](https://open.spotify.com/album/7pj2yfSb11SdX2LJDTaejg) | 1:42 | 2024-10-04 | 2024-11-16 |
 | [La Douille](https://open.spotify.com/track/22gd1m0jmpLhrnTascIcqb) | [Chicaille Argenté](https://open.spotify.com/artist/22VOejB8RaATr9yhodu6U3), [Neskoo](https://open.spotify.com/artist/26IN1E0wPY76DtfOUhnTgU) | [La Douille](https://open.spotify.com/album/4Rn0gDNQOchUlMH1D4pepg) | 2:32 | 2024-09-13 | 2024-10-05 |
 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2025-01-03 | 2025-03-22 |
@@ -433,6 +433,7 @@
 | [Le Graal](https://open.spotify.com/track/4hMsrR2JpxCeybyWN786qk) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [L'équilibre](https://open.spotify.com/album/4CkUoxJjBE1QLFMwJYcDwC) | 3:11 | 2025-02-27 | 2025-05-03 |
 | [Le miel](https://open.spotify.com/track/1lQGfiIqrzHj9YF2vH94Ec) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:59 | 2023-10-27 | 2024-02-10 |
 | [Le Monde \- From Talk to Me](https://open.spotify.com/track/424DkevE18QJazwlljiTD4) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [Talk to Me \(Original Soundtrack\)](https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw) | 2:14 | 2023-09-15 | 2023-11-18 |
+| [Le P'tit](https://open.spotify.com/track/2LwX4RESg60WS043x1ohD3) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Le P'tit](https://open.spotify.com/album/3W9RcU9NZt2GyHNsJjD1YT) | 2:04 | 2025-08-12 |  |
 | [Le vent nous portera](https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [1983](https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv) | 3:46 | 2025-06-20 |  |
 | [Les anges](https://open.spotify.com/track/7MaKuS9KzMCqjtmDsJMF7z) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Les anges](https://open.spotify.com/album/7v2HPIhdykFuJXivdwrizq) | 2:25 | 2023-09-15 | 2023-12-15 |
 | [Les Boss](https://open.spotify.com/track/197DrQNZuJmXILLAx0iKYO) | [Lebouseuh](https://open.spotify.com/artist/66RsL7LgNRvHNp09UqdtTf), [Pidi](https://open.spotify.com/artist/1r1Ugmy3z4r3lrsxurxBDx) | [Les Boss](https://open.spotify.com/album/3qDOGxShfquBWe2bjUK4AH) | 2:57 | 2024-02-23 | 2024-03-23 |

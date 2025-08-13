@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,779 likes - 175 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,922 likes - 175 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 85 | [Whirl of White Noise](https://open.spotify.com/track/52gLFB1JwnwesroSmsqkok) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Study White Noise](https://open.spotify.com/album/4D2CPrnRBsaHuDAHxfwSqN) | 2:57 |
 | 86 | [White Noise Flakes](https://open.spotify.com/track/0wVyUtOvYWJvniPRidlNnQ) | [The White Noise Travelers](https://open.spotify.com/artist/2lzZvKC270yTvCR38zFsH5) | [White Noise Flakes](https://open.spotify.com/album/186AWO9dm1Ly8aNBWBuA2p) | 4:32 |
 | 87 | [Nap Noise](https://open.spotify.com/track/3ZoQVbQygzjKMERzQCuUll) | [Alpha Noise](https://open.spotify.com/artist/3D11xwI7KbEPyQxdYCoyI6) | [Sounds of Serenity](https://open.spotify.com/album/5torbd6LM91zIYzUDvRGhW) | 2:38 |
-| 88 | [Hemelse Witte Ruis](https://open.spotify.com/track/3nRv6eO0ZxOnwr8n62QTvH) | [Audio signaal](https://open.spotify.com/artist/0pv53NCu9RJRbpPDcqiRcI) | [Stille Witte Ruis](https://open.spotify.com/album/2O6y5VNrswpWapUGZ3yftm) | 3:07 |
-| 89 | [The Mellow White Noise](https://open.spotify.com/track/5Asz0Oq8YPGfnPcoOJb3x9) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Mellow White Noise](https://open.spotify.com/album/7qbCZcXeUi10DDer7g0Nl7) | 3:08 |
+| 88 | [The Mellow White Noise](https://open.spotify.com/track/5Asz0Oq8YPGfnPcoOJb3x9) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [The Mellow White Noise](https://open.spotify.com/album/7qbCZcXeUi10DDer7g0Nl7) | 3:08 |
+| 89 | [Hemelse Witte Ruis](https://open.spotify.com/track/3nRv6eO0ZxOnwr8n62QTvH) | [Audio signaal](https://open.spotify.com/artist/0pv53NCu9RJRbpPDcqiRcI) | [Stille Witte Ruis](https://open.spotify.com/album/2O6y5VNrswpWapUGZ3yftm) | 3:07 |
 | 90 | [White Noise for Productivity](https://open.spotify.com/track/5c2gzZ7ZjePKD9jq2Fw3im) | [Noise Makers](https://open.spotify.com/artist/53wxoSkjgilHcCqng9HK1y) | [White Noise Meditation Realm](https://open.spotify.com/album/1BOyXnbTBY0FbrAUGTncIS) | 2:38 |
 | 91 | [white noise hall](https://open.spotify.com/track/040R2K1gn128MwftR0bdyJ) | [tenuous](https://open.spotify.com/artist/2c0w3O1CdURTp36ZzxPPFO) | [lamentation](https://open.spotify.com/album/6wOx6IDIrIDJ30g68UoPWQ) | 2:41 |
 | 92 | [Sound of the sky](https://open.spotify.com/track/6YiKHnPQKzY0wM7zHDMPy0) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Sound of the sky](https://open.spotify.com/album/1HGH7m5sXj7xbdx2NPE7Tr) | 2:53 |
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 160 | [A Waterfall of Noise](https://open.spotify.com/track/75F6mSyntGM0rpInOaOP0r) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [A Waterfall of Noise](https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex) | 2:09 |
 | 161 | [White Noise Atmosphere](https://open.spotify.com/track/6QipFn0tv5QAaVy3CxxH43) | [Digital \- Docile](https://open.spotify.com/artist/6m0V1eIgnybq5pZ4gTWadj) | [Ocean Floor White Noise](https://open.spotify.com/album/6ElMKqSUv4vaA5L22uPrRx) | 3:04 |
 | 162 | [White Noise At Night](https://open.spotify.com/track/2h9V5sbpqHvhbX3PnnRY5m) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [White Noise At Night](https://open.spotify.com/album/2DUmvJCxuqkBOEtqvyvDM7) | 2:52 |
-| 163 | [White Noise Pause](https://open.spotify.com/track/7azDwsIQrfUJJsWOBf0to3) | [Ataxis](https://open.spotify.com/artist/6l7o2ZM0uTohKUfkiY0U40) | [White Noise Pause](https://open.spotify.com/album/405kg88AroBbqzmbZIdbfT) | 2:41 |
-| 164 | [Bruit Apaisant](https://open.spotify.com/track/3bwsjtYOVEFWtLSQBujmbj) | [Di Melting Point](https://open.spotify.com/artist/00BUyp4ARwFm96JWiIaDFK) | [Bruit Inconscient](https://open.spotify.com/album/3ZKjY9ByrYwyTUc5NkwyiM) | 2:36 |
+| 163 | [Bruit Apaisant](https://open.spotify.com/track/3bwsjtYOVEFWtLSQBujmbj) | [Di Melting Point](https://open.spotify.com/artist/00BUyp4ARwFm96JWiIaDFK) | [Bruit Inconscient](https://open.spotify.com/album/3ZKjY9ByrYwyTUc5NkwyiM) | 2:36 |
+| 164 | [White Noise Pause](https://open.spotify.com/track/7azDwsIQrfUJJsWOBf0to3) | [Ataxis](https://open.spotify.com/artist/6l7o2ZM0uTohKUfkiY0U40) | [White Noise Pause](https://open.spotify.com/album/405kg88AroBbqzmbZIdbfT) | 2:41 |
 | 165 | [Dreamy White Water](https://open.spotify.com/track/6RW7Mx0mQeEDXCxPu8Fpnu) | [The SubOceaners](https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R) | [Dreaming under Water](https://open.spotify.com/album/7GEjOabKlEyD4nXEpDuuop) | 4:06 |
 | 166 | [White Noise Shade 1](https://open.spotify.com/track/57VQEFgAfv2uChGSv6xBjx) | [Octobas](https://open.spotify.com/artist/7LxuQFfTwNk6V8sS7sAha4) | [Shades Of White Noise](https://open.spotify.com/album/7qrxvqiTX2CcS87UKtg1ea) | 2:27 |
 | 167 | [Infrasound](https://open.spotify.com/track/1HPFWKZICLjNWfrKs9WV0W) | [Fluffy Duffy](https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p) | [Infrasound](https://open.spotify.com/album/1LIIxRKvZZfGTIVl2kpscl) | 2:55 |

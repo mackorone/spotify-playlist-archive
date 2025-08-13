@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,951 likes - 115 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,012 likes - 115 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [Time Twister](https://open.spotify.com/track/4VYW06X5XL7g9YeoAgsT57) | [Rupert Ellis](https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T) | [Midnight Voices](https://open.spotify.com/album/1Q36yRBq0D2uegppsXoVua) | 6:11 |
 | 115 | [50 INCH WOOFAS](https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg) | [Facu Baez](https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN), [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [50 INCH WOOFAS](https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb) | 2:56 |
 
-Snapshot ID: `AAAAAMkQ6mrQZUSBk5LN7ah+zAXazgKp`
+Snapshot ID: `AAAAAMQ4jiuvpqqkvhc6SCL4FST5bZju`

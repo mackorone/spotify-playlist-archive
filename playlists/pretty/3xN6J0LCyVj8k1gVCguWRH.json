@@ -1,12 +1,12 @@
 {
   "description": "What&#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&#x27;s taste in music. ",
-  "num_followers": 131908,
+  "num_followers": 131909,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAz0C9h7hsg1Kn3Mm+X8WecAWAcG7Mv",
+  "snapshot_id": "AAAz1aCIbCnOxxSiyzslgeP6scKRI7V+",
   "tracks": [
     {
       "added_at": "2025-07-04 19:24:06",
@@ -107,22 +107,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
-    },
-    {
-      "added_at": "2025-08-11 23:21:55",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/1GjzvvezRvhBvDdoNI46AV"
-      },
-      "artists": [
-        {
-          "name": "Carson Ripley",
-          "url": "https://open.spotify.com/artist/6fvQZyhW1A06kSd3VCBLrL"
-        }
-      ],
-      "duration_ms": 239729,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/2wNj4k7HMjWNaLbKHWRpj7"
     },
     {
       "added_at": "2025-07-04 19:08:37",
@@ -529,22 +513,6 @@
       "url": "https://open.spotify.com/track/5WBmqnu38FEBNOJFfjEY59"
     },
     {
-      "added_at": "2025-08-11 23:26:13",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/1WyhPbHl3sTt7Cd7Y3FmhA"
-      },
-      "artists": [
-        {
-          "name": "V.Kiing",
-          "url": "https://open.spotify.com/artist/23iCIdLKo6AWMZIT7AFz7q"
-        }
-      ],
-      "duration_ms": 140550,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/6IgY9dCz4wEmPZ5jePaz6X"
-    },
-    {
       "added_at": "2025-07-29 23:03:02",
       "album": {
         "name": "It Was Fate",
@@ -559,6 +527,22 @@
       "duration_ms": 120789,
       "name": "Over It",
       "url": "https://open.spotify.com/track/14ncjajc7MH3h9v9o5vALT"
+    },
+    {
+      "added_at": "2025-08-12 23:22:00",
+      "album": {
+        "name": "Moments Of Clarity",
+        "url": "https://open.spotify.com/album/0dCF85cXPyhCO8OuDBOz7m"
+      },
+      "artists": [
+        {
+          "name": "hyyypnos",
+          "url": "https://open.spotify.com/artist/7LDhRcHi7qPPXiJ38FwH19"
+        }
+      ],
+      "duration_ms": 135901,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/6a6tmiEEetntXXQhlBgyzI"
     },
     {
       "added_at": "2025-07-18 13:15:44",
@@ -1123,6 +1107,22 @@
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-08-12 14:07:50",
+      "album": {
+        "name": "TREAT ME",
+        "url": "https://open.spotify.com/album/3t75ftuVsjFiUMxcCC3N1X"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "TREAT ME",
+      "url": "https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl"
     },
     {
       "added_at": "2025-08-06 14:34:57",
@@ -2743,6 +2743,38 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2025-08-11 23:21:55",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1GjzvvezRvhBvDdoNI46AV"
+      },
+      "artists": [
+        {
+          "name": "Carson Ripley",
+          "url": "https://open.spotify.com/artist/6fvQZyhW1A06kSd3VCBLrL"
+        }
+      ],
+      "duration_ms": 239729,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/2wNj4k7HMjWNaLbKHWRpj7"
+    },
+    {
+      "added_at": "2025-08-11 23:26:13",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/1WyhPbHl3sTt7Cd7Y3FmhA"
+      },
+      "artists": [
+        {
+          "name": "V.Kiing",
+          "url": "https://open.spotify.com/artist/23iCIdLKo6AWMZIT7AFz7q"
+        }
+      ],
+      "duration_ms": 140550,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/6IgY9dCz4wEmPZ5jePaz6X"
     },
     {
       "added_at": "2025-08-07 23:35:27",

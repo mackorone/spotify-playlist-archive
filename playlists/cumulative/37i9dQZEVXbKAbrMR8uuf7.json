@@ -14141,6 +14141,32 @@
     },
     {
       "album": {
+        "name": "Glizzy Zaza",
+        "url": "https://open.spotify.com/album/5C4QPuorht0yq5xvt9dQrk"
+      },
+      "artists": [
+        {
+          "name": "Huan62",
+          "url": "https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU"
+        },
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        },
+        {
+          "name": "Pillao VRT",
+          "url": "https://open.spotify.com/artist/4qI1N0SIFGyoI3ko2pi3Io"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122593,
+      "name": "Glizzy Zaza",
+      "url": "https://open.spotify.com/track/2JpofFhHQh6ObR1eMQtpDm"
+    },
+    {
+      "album": {
         "name": "Goat",
         "url": "https://open.spotify.com/album/25fFwkkbY2UleVQGrshs36"
       },
@@ -17096,7 +17122,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -20184,7 +20210,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
@@ -24744,7 +24770,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 185624,
       "name": "NO ME VOY A RENDIR",
       "url": "https://open.spotify.com/track/2nimqWdsJx1lk64zytdePz"

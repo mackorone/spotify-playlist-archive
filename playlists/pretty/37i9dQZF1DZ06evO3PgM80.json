@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21144,
+  "num_followers": 21145,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJfhAAAAAAACaiZVO0ySnCROPsuwGbim",
+  "snapshot_id": "aJkygAAAAACUa3B+Ue143YIzlkX45pl0",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Luciano Camargo",
+          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "Sem Palavras",
+      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Luciano Camargo",
-          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "Sem Palavras",
-      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mystery Of Christ",
-        "url": "https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449054,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ess\u00eancia Da Adora\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4eHRqZGfau4CfUQ7oWF6t3"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 317360,
       "name": "Ess\u00eancia Da Adora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/5zKbPk3SYmPAGM0yxoIo1C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mystery Of Christ",
+        "url": "https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG"
     },
     {
       "added_at": null,

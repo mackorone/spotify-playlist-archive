@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Gunawan
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,159 likes - 91 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,163 likes - 91 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

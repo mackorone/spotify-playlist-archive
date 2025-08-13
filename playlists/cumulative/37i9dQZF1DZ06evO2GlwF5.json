@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "LIVE TOUR 2015-2016\u201cFOLLOW ME UP\u201dFINAL at \u4e2d\u91ce\u30b5\u30f3\u30d7\u30e9\u30b6",
+        "url": "https://open.spotify.com/album/4vXPcYYrRD6kkgI6laagi4"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327826,
+      "name": "Gift 2015-2016 Live Ver.",
+      "url": "https://open.spotify.com/track/2yXEZ1VXw2lFfVE2HxyJiE"
+    },
+    {
+      "album": {
         "name": "WOLF'S RAIN",
         "url": "https://open.spotify.com/album/6x1nU2XGUsJKANdgJ4W1Q9"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 304604,
       "name": "\u30e2\u30a2\u30b6\u30f3\u30ef\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3cozilW7AMWosrQItKbitH"

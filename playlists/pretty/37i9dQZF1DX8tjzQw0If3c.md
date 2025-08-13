@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,159 likes - 81 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,160 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 |
 | 2 | [Laut Kelabu](https://open.spotify.com/track/6euN3gFQhWPjhrAF702WRz) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh), [Syiqin Azln](https://open.spotify.com/artist/0TFLxpXh2OoCO6fqGPJVgK), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [Laut Kelabu](https://open.spotify.com/album/42EQMlaWuo2SyGq3jNq4gl) | 3:06 |
-| 3 | [“唱歌學中文”之千言萬語 \- 國風版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/track/6c8rpXgFVHHjByA6dKsXUz) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [“唱歌學中文”之千言萬語 \- 國風版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/album/29jbKwJcZZSVsBDdigFaGn) | 3:24 |
+| 3 | [“唱歌學中文”之千言萬語 \- 國風版](https://open.spotify.com/track/6c8rpXgFVHHjByA6dKsXUz) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [“唱歌學中文”之千言萬語 \- 國風版 \(2025年【繞口歌韻挑戰季】挑戰曲\)](https://open.spotify.com/album/29jbKwJcZZSVsBDdigFaGn) | 3:24 |
 | 4 | [MADELINE](https://open.spotify.com/track/3D824LVyFynyKdvMBgEYHe) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [FUN N FRENS](https://open.spotify.com/album/2FhWYE5T1lmT4fX56QQUDi) | 2:59 |
 | 5 | [YOURS \(TONIGHT\)](https://open.spotify.com/track/15tHdxOUY51MdJkxbA73jX) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [YOURS \(TONIGHT\)](https://open.spotify.com/album/7xTtkJm1dgJOOn7jInhU2n) | 3:07 |
 | 6 | [Tatapan Nona](https://open.spotify.com/track/0Br1eA0epYgm2BF9b0602o) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Tatapan Nona](https://open.spotify.com/album/1uibhRDKoBMQJ8jdItACFi) | 3:26 |

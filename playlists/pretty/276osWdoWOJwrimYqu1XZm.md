@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 118 songs - 12 hr 58 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 119 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/276osWdoWOJwrimYqu1XZm.md) - [plain]
 | 116 | [Luzifer \(feat\. Ufo361\)](https://open.spotify.com/track/6trzYzEIrJuP1qTTlooVqd) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Rk5](https://open.spotify.com/album/3U5f7F8vWN3TIbdQHYpEji) | 5:29 |
 | 117 | [Don't Stop \- emotional mix](https://open.spotify.com/track/5y5Hz9N0TUzO2DslpSgKmK) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 010 \- 5 Mins Of Acid](https://open.spotify.com/album/7kPaOFIJ0jqmVtMJBKJpRY) | 4:41 |
 | 118 | [Die Welt Wie Wir Sie Kennen](https://open.spotify.com/track/1fUaHDlXA4L8zoX9YcqeVK) | [Death of Mars](https://open.spotify.com/artist/4ZRk7tfHiyALjBS1B0XJ0E) | [Die Welt Wie Wir Sie Kennen](https://open.spotify.com/album/0vkcQKeMGi0hs04ooF9Hep) | 7:05 |
+| 119 | [Kaleidoscope](https://open.spotify.com/track/1mB1Gxy7b7CmjQalfJh676) | [Amazingblaze](https://open.spotify.com/artist/5Z6jglUTEzwgV5LknPAYDQ) | [Touch The Sky EP](https://open.spotify.com/album/43fJmIA9tFqfpCErDVkluQ) | 5:56 |
 
-Snapshot ID: `AAAAf3MfLb4JKFr9cgfLsc9a8eKWEyPh`
+Snapshot ID: `AAAAgLzjr6hqpNMIR4mxSAtTrWFuIbWM`

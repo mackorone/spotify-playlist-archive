@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Tobias Rahim & Mille, Ed Sheeran og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,247 likes - 93 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,262 likes - 93 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

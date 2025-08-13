@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ninajirachi, Bailey Zimmerman, The Kid LAROI, Guy Sebastian, mgk + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,824 likes - 81 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,837 likes - 81 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 
 > Lo que necesita cualquier verbena veraniega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,976 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,944 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 105 | [Mari Carmen](https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Xapomelön](https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7) | 2:25 |
 | 106 | [Flying Free \- Original Mix](https://open.spotify.com/track/5yqiverYlKEA0ly96HPq01) | [Pont Aeri](https://open.spotify.com/artist/3jlq566oG3nXIG5HzPcc67), [Marian Dacal](https://open.spotify.com/artist/3iYLbtSFtQfUDWO5RKfIem) | [Pont Aeri, Vol\. 4 EP](https://open.spotify.com/album/4H7DY3MoS1FIQmHtNGe54Q) | 6:46 |
 | 107 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
-| 108 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
-| 109 | [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 |
+| 108 | [Aquí No Hay Playa](https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY) | [The Refrescos](https://open.spotify.com/artist/2dN0tlioLsFZ6319yNUNlX) | [The Refrescos](https://open.spotify.com/album/7jaz1BgGyjVENL2vpkbR7L) | 3:37 |
+| 109 | [Sólo Se Vive una Vez](https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Mucho Azucar \(Grandes Exitos\)](https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV) | 3:30 |
 | 110 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
 | 111 | [Las cosas pequeñitas \- Mix](https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj) | [Nolasco](https://open.spotify.com/artist/1iydw0OqyICpB5XlyfZ7qP), [Junior Miguez](https://open.spotify.com/artist/1xaTQJ5aqoB5QcklnScxky) | [Como te dé la gana](https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8) | 5:00 |
 | 112 | [Dolores se llamaba Lola](https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Ese día piensa en mí](https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu) | 5:11 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 120 | [Que La Detengan](https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl) | [David Civera](https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF) | [En Cuerpo Y Alma](https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC) | 3:32 |
 | 121 | [La Luna y el Toro](https://open.spotify.com/track/2fow2c3MQ5qlj0AzzTqktt) | [El Matador](https://open.spotify.com/artist/6ErWALskhNtDPw3dYDtHjG) | [La Luna y el Toro \(Made In Spain\)](https://open.spotify.com/album/6K9PyNTelZbYHxplIMoq10) | 4:27 |
 | 122 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
-| 123 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 |
-| 124 | [Te Quiero Más](https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk) | [Fórmula Abierta](https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4) | [Aún Hay Más](https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii) | 4:15 |
+| 123 | [Te Quiero Más](https://open.spotify.com/track/0byd9zFQjdxxRdCNpPMFVk) | [Fórmula Abierta](https://open.spotify.com/artist/6M9dhOPSCKEj8FRChUojr4) | [Aún Hay Más](https://open.spotify.com/album/0BZruvai22EVf0l4cd1Gii) | 4:15 |
+| 124 | [Candela](https://open.spotify.com/track/1SkrlJrTEbMP0UF1zBMZ1J) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [Noelia](https://open.spotify.com/album/2slvRFExgEeUIYzb55N0h9) | 3:55 |
 | 125 | [Moving](https://open.spotify.com/track/2wvmkXG4foIJ2xUiwLhBjA) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Puerto Presente](https://open.spotify.com/album/0NfmXeIvmXywovqG2uGVpr) | 3:19 |
 | 126 | [Chica Ye Ye](https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog) | [Concha Velasco](https://open.spotify.com/artist/65wHdzrkQGEUFBFLkte7WO) | [Cuentame](https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs) | 2:23 |
 | 127 | [María Caipirinha \(with Dj Dero\)](https://open.spotify.com/track/2X1P55Lrz0g5X2OQd8n4c9) | [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [DJ Dero](https://open.spotify.com/artist/5qeaKQ7gFhK3wGupHw90fT) | [Latin Fitness Dance 2012 \- Workout Cardio Music \- The Hits for Your Workout \(Pop Kuduro, Cumbia, Latin House, Dembow, Merengue, Salsa, Bachata\)](https://open.spotify.com/album/7KjAiKUf6oqUMqPa8VWni1) | 4:09 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xhHijlMyjN.md) - [plain]
 | 134 | [Eva Maria](https://open.spotify.com/track/5fc3XWSpJo6jTlbjnhGOJQ) | [Formula V](https://open.spotify.com/artist/71Hp04UVv3eXJAn3BGsKJe) | [Ayer Y Hoy](https://open.spotify.com/album/6Q8IfiJa5VOCfjVAaZW8RW) | 2:55 |
 | 135 | [Limbo](https://open.spotify.com/track/6EIO3HCU6WmnRk2rEX86aN) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/2I4tV7CMavQflSlHJ52RX1) | 3:44 |
 | 136 | [Oye](https://open.spotify.com/track/34js2TOQm9tf6xhefJ97HI) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Gloria!](https://open.spotify.com/album/2JpDKOMTykF3Z1dbTCO6CK) | 4:39 |
-| 137 | [Ella \(Tu Piel Morena\)](https://open.spotify.com/track/2DAeRk6J5C1Zu8iy32sUPf) | [Viceversa](https://open.spotify.com/artist/401RKKAmr5xOK3FpoXud68) | [Lo Mejor De Viceversa](https://open.spotify.com/album/6mbQGg061o7PBBnb68rvZD) | 4:17 |
-| 138 | [Pa´ mi guerrera \- Reprise](https://open.spotify.com/track/7JO1bBzuVQ14rIR6T5D0UK) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Huecco](https://open.spotify.com/album/0ZvyDGG1IMq6FyxJrnv2Ub) | 4:20 |
+| 137 | [Pa´ mi guerrera \- Reprise](https://open.spotify.com/track/7JO1bBzuVQ14rIR6T5D0UK) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Huecco](https://open.spotify.com/album/0ZvyDGG1IMq6FyxJrnv2Ub) | 4:20 |
+| 138 | [Ella \(Tu Piel Morena\)](https://open.spotify.com/track/2DAeRk6J5C1Zu8iy32sUPf) | [Viceversa](https://open.spotify.com/artist/401RKKAmr5xOK3FpoXud68) | [Lo Mejor De Viceversa](https://open.spotify.com/album/6mbQGg061o7PBBnb68rvZD) | 4:17 |
 | 139 | [Salsa Con Reggaetón](https://open.spotify.com/track/7KnfMJhMvciKC9TKEWVXi8) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR) | [Hombres Con Pañales](https://open.spotify.com/album/0hS0znsJelROTBJXG6l8sT) | 3:25 |
 | 140 | [Waka Waka \(Esto es Africa\) \(feat\. Freshlyground\)](https://open.spotify.com/track/2AbysJuxNuYJnSgbJ5F0vT) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Los Nº1 De 40 Principales 2010](https://open.spotify.com/album/5PIoj4o0tZSIQjoS46BeLD) | 3:22 |
 | 141 | [No me llames iluso](https://open.spotify.com/track/1xobZzJ5b478hISL3oKskp) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Ni jaulas ni peceras](https://open.spotify.com/album/4YQKh4b18oo805c9LP89dw) | 3:11 |

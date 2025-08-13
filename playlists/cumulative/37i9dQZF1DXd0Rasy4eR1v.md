@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pakistan](https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v)
 
-> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Omar Mukhtar
+> Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Abdullah Maharvi
 
-1,079 songs - 2 day 9 hr 53 min
+1,082 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,6 +834,7 @@
 | [Sajna](https://open.spotify.com/track/5vzPyTGOFaQ0g225aWoR1A) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Syed Hamza](https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA) | [Sajna](https://open.spotify.com/album/2orPTOnSyTuUHEl0yXMnlJ) | 2:37 | 2025-08-01 |  |
 | [Sajna da Dil Torya](https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Sajna da Dil Torya](https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p) | 4:13 | 2024-12-04 | 2025-08-02 |
 | [Sajna Ve](https://open.spotify.com/track/5NDDRbeM0wNvYkhz5tGIJ9) | [Fahad Akram](https://open.spotify.com/artist/2bXsl9z1Jrby3by1GEhxxO) | [Sajna Ve](https://open.spotify.com/album/5G8WRJvg1XDTgt2NGwPLDG) | 3:50 | 2022-10-26 | 2022-11-18 |
+| [SAKHI](https://open.spotify.com/track/3FbucTbdGeF4XFcIgbjKBP) | [Raazi Hussain](https://open.spotify.com/artist/5eiwHvmSkJ1m21Rbeevn6G), [Ahsan Pervaiz Mehdi](https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon) | [SAKHI](https://open.spotify.com/album/7Cia6yJEDjarMrQ1aKJ64g) | 3:25 | 2025-08-12 |  |
 | [Samajh Na Saki](https://open.spotify.com/track/0mFo9Htd8FZYdvzTwoLsfy) | [Sharmeen Javed](https://open.spotify.com/artist/58BZTZbr9WYBP7EqIm5BaA), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Samajh Na Saki](https://open.spotify.com/album/4IlQZhjIe7XmRyM8Sc5MHi) | 3:11 | 2022-10-26 | 2022-11-18 |
 | [Samandar](https://open.spotify.com/track/4b0QZDXdvaQqicZ9OXf3AF) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Samandar](https://open.spotify.com/album/2U9RU7YA5nPtlykb8xHREk) | 2:37 | 2024-07-01 | 2024-08-13 |
 | [same day, same place](https://open.spotify.com/track/7AQ59NZNxED7Ee8ZuBNQ8a) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [same day, same place](https://open.spotify.com/album/3jw2yy75PD1zyMKQvht9fU) | 3:28 | 2023-11-02 | 2023-12-09 |
@@ -870,6 +871,7 @@
 | [She Come My Way](https://open.spotify.com/track/3RL8dm448ANHnouj7ZaLAa) | [Montego Scott](https://open.spotify.com/artist/6gEIEXGVZWurndyX5KaRdf), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF), [Ashez](https://open.spotify.com/artist/6qlB4oDA9wpmWVISLtep60) | [Hustle Beam](https://open.spotify.com/album/6sEQpGV3vHeuPli7y9rjWa) | 3:29 | 2022-10-26 | 2022-11-18 |
 | [Sheesha](https://open.spotify.com/track/3ENvxpQf78f8fK7YvWzSco) | [Muheet Khan](https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9), [Illuminhadi](https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf) | [Sheesha](https://open.spotify.com/album/0K65XKaIUZSYbBqAPIyhlK) | 2:51 | 2024-06-04 | 2024-12-05 |
 | [SHEESHA TOOT GAYA](https://open.spotify.com/track/2vYNBoxURqF2wudDHiAfsu) | [Sohail Shahzad](https://open.spotify.com/artist/6KgDK2ubUwfKLwgh9uCSKb), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn) | [SHEESHA TOOT GAYA](https://open.spotify.com/album/62nTUXkjqDSJX3qQ28xeHx) | 2:52 | 2025-02-28 | 2025-08-02 |
+| [Shehzadi](https://open.spotify.com/track/0Jd79zoQ0ATCbpRfSn1CMe) | [Ahmad Sohail](https://open.spotify.com/artist/7J8OrVC7fcmcjPnsZEh1pP), [Khawaja Ahmad](https://open.spotify.com/artist/2T0kYlPd03vI2uldqiQ7kX) | [Pyaari](https://open.spotify.com/album/5YafizDLi4Qruoq3tO0I7X) | 2:59 | 2025-08-12 |  |
 | [Shikayat](https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Shikayat](https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ) | 4:30 | 2024-01-04 | 2024-09-06 |
 | [Shor](https://open.spotify.com/track/5bNH6hZp6OkWHDT74c2Pcx) | [Hatim](https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8) | [Shor](https://open.spotify.com/album/2zG1DXtxFfSCBUFhaeaPST) | 2:45 | 2023-05-05 | 2023-06-10 |
 | [Shor Sharaba](https://open.spotify.com/track/4WqfQsWgHJqXEiXPcSJlYR) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Shor Sharaba](https://open.spotify.com/album/5t2fI1hY9L8u6MfHUFcg7O) | 2:13 | 2023-11-17 | 2023-12-09 |
@@ -958,6 +960,7 @@
 | [Tere Naam](https://open.spotify.com/track/3wGwjq6RoIYeWHxXx0NHVb) | [Ramees](https://open.spotify.com/artist/0Y3hNjXiFT4AaOaDTvBsgd), [M I R Z A](https://open.spotify.com/artist/2GjdfcJM9zwBHZZY6DBhTJ) | [Tere Naam](https://open.spotify.com/album/3PjlR6o82hlzj92n7AHSRR) | 2:51 | 2024-05-09 | 2024-06-05 |
 | [Tere Rung \(From "Carma"\)](https://open.spotify.com/track/3fgpqRxG6DjhoFtIsX8JAY) | [Khurram Iqbal](https://open.spotify.com/artist/0MLY7M4cZxMdQ99ByHSUdK), [Kashan Admani](https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE) | [Tere Rung \(From "Carma"\)](https://open.spotify.com/album/74cxAmaNyBSORYYMDQexbt) | 3:09 | 2022-10-26 | 2022-11-18 |
 | [Terey Liye](https://open.spotify.com/track/1we0JhNfT5u1tjSj8YcxNf) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [Terey Liye](https://open.spotify.com/album/3ruwQc6m8xY9tdI8cIrtHA) | 4:20 | 2023-01-10 | 2023-05-06 |
+| [Teri Kami](https://open.spotify.com/track/5dlnhxCu3lnypDhg9E1c90) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Teri Kami](https://open.spotify.com/album/5SpLVAwRU1EYneHxKooSlf) | 3:15 | 2025-08-12 |  |
 | [Teri Meri Gall](https://open.spotify.com/track/4JumavrjQa5AF0Gw1Q87u4) | [Rahul Lakhanpal](https://open.spotify.com/artist/07stvYeofLHxQJZnk458kQ), [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Teri Meri Gall](https://open.spotify.com/album/3vFQIaqPGub4eX2TdRBtUw) | 2:54 | 2022-11-17 | 2023-02-22 |
 | [Teri Muskurahat](https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ) | [Ch Azan Ahmad](https://open.spotify.com/artist/0Sg9mWWjJEv4btRVUa98FW) | [Teri Muskurahat](https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ) | 3:12 | 2024-09-05 | 2024-10-02 |
 | [Teri Yaad](https://open.spotify.com/track/0dopnHIPsGFWZHk3ZNdWG5) | [Sanan Khalid](https://open.spotify.com/artist/0NDyAM1Wxd2yKhm5XAybTN), [Mubeen Butt](https://open.spotify.com/artist/3V31XUiNbWuxPmFuZVCDmF), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Teri Yaad](https://open.spotify.com/album/5RTUuUnkQDwdyIZHCMmR91) | 3:26 | 2024-02-23 | 2024-05-10 |

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-832 songs - 1 day 6 hr 19 min
+833 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Do Or Die \- VYPER 깨물다 PHONK REMIX](https://open.spotify.com/track/16daDDrOxuj4IhofaSHIFN) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [VYPER 깨물다](https://open.spotify.com/artist/0hb4fvsnN8bSS30ufdWWgx) | [Do Or Die \(Alternate Versions\)](https://open.spotify.com/album/6C2Xchyqz7zTOBrhUTTCnd) | 2:28 | 2023-03-31 | 2023-04-15 |
 | [DODGE THIS](https://open.spotify.com/track/69dAPEKgjAUhtLBaOeI2BI) | [core5k](https://open.spotify.com/artist/660yiS4PKmTfYnO7X1nGBw) | [DODGE THIS](https://open.spotify.com/album/3FMai0CAnJMqm28fixkWkb) | 1:23 | 2024-01-05 | 2024-11-09 |
 | [DON'T STOP](https://open.spotify.com/track/1ojYSWxYilEgtWyRiwEX0b) | [CURSEDEVIL](https://open.spotify.com/artist/6rzNFUmaEVnYb8kzh9tBTt), [Zackow](https://open.spotify.com/artist/6jjJFy1CTfPlilqMGF1yMY) | [DON'T STOP](https://open.spotify.com/album/1pCj1u8toHNtw0C9oVxf33) | 2:09 | 2022-10-07 | 2022-12-03 |
+| [DOORS LIGHT FUNK \- SLOWED](https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F) | [DOORS LIGHT FUNK](https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV) | 1:43 | 2025-08-11 |  |
 | [DOWNING ME](https://open.spotify.com/track/3rxBuyFbUbsfslCAliycO7) | [FORGOTTENAGE](https://open.spotify.com/artist/75eUSWg8Tt9PZLiFWjascC) | [DREAM](https://open.spotify.com/album/3Zo5srzZBKt75pN3MhAZ6W) | 2:12 | 2022-04-04 | 2022-11-05 |
 | [DREAM](https://open.spotify.com/track/1CImTSCf5OK1OnREaqO2zz) | [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm), [purvs](https://open.spotify.com/artist/7M6W8YUKURFl1LicSEpmDl) | [DREAM](https://open.spotify.com/album/03raL7kX63rd7YZkHKrdeH) | 2:16 | 2022-01-14 | 2022-05-14 |
 | [DRESS!](https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [DRESS!](https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI) | 1:30 | 2024-05-17 |  |
@@ -282,7 +283,7 @@
 | [Force of Nature](https://open.spotify.com/track/1tU8uSGm5STmi3FPJ3VnUc) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Force of Nature](https://open.spotify.com/album/2ODshRfVNQfKaSHa7bD3DH) | 3:28 | 2022-04-04 | 2022-05-14 |
 | [Freaks!](https://open.spotify.com/track/229ECn6HmJvHcB3PYnDd4j) | [DEDLINE](https://open.spotify.com/artist/75nE6Q3wOe3nB5aUrrzwvw) | [Freaks!](https://open.spotify.com/album/6f50uY0tcZLAMurIAD0zfR) | 2:41 | 2022-09-09 | 2022-10-29 |
 | [FREETATO](https://open.spotify.com/track/3nTrjR697Wt8FVLEIZqwiO) | [apillsinjuice](https://open.spotify.com/artist/2rhyPC4RI2bJ3XDFvdBVeo) | [FREETATO](https://open.spotify.com/album/1Q27gGAujyIvzDLxpuecsV) | 1:49 | 2024-01-12 | 2024-02-03 |
-| [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-06-09 |  |
+| [FRESH](https://open.spotify.com/track/4hcnbu7PdISGGj82ZuDpFQ) | [NXVAMANE](https://open.spotify.com/artist/4f0duKhSmQubrgvVjUAKvh) | [FRESH](https://open.spotify.com/album/5eRHyCycBt78BNaa8vR4Si) | 1:08 | 2023-06-09 | 2025-08-13 |
 | [Frikitona \- Slowboy Remix](https://open.spotify.com/track/07Ts6jLwH9HjpfPPADlCEg) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja) | [Frikitona \(Slowboy Remix\)](https://open.spotify.com/album/7AoJKxer9fWPnOonk3DtMA) | 2:18 | 2024-03-22 | 2024-03-30 |
 | [FTP](https://open.spotify.com/track/6hT9GcKOTN8P0gcmuNtVyU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [FTP](https://open.spotify.com/album/41WOnjsI2bXuQsrgC8VXHD) | 2:05 | 2022-01-14 | 2022-07-02 |
 | [Fuck Your Mind](https://open.spotify.com/track/2fxTylxOAfxV0R2YVNWWy7) | [Bad Smith](https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw) | [Homicide](https://open.spotify.com/album/2bq7fho2th0ny1eGeo2fDN) | 2:18 | 2021-06-24 | 2022-05-14 |
@@ -744,7 +745,7 @@
 | [The Perfect Phonk](https://open.spotify.com/track/4auagVkC2xBJvBctdjl5Nw) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB) | [The Perfect Phonk](https://open.spotify.com/album/0F1Ayes06VaRJjmfrmu56q) | 3:06 | 2023-02-17 | 2023-05-13 |
 | [The Wayfarer](https://open.spotify.com/track/57srjZapbmyTq9DqYWhyPa) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [The Wayfarer](https://open.spotify.com/album/2tAn7b0IgeD4zOmawNysLp) | 3:15 | 2022-06-03 | 2022-07-30 |
 | [THERMAL IMAGER](https://open.spotify.com/track/7nkz4AApDoQGA8jDmonQWX) | [HIDEOUS MORBID](https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6) | [THERMAL IMAGER](https://open.spotify.com/album/75tC6AHimWwoZqgL0gXTbd) | 2:12 | 2022-07-01 | 2022-09-17 |
-| [THOMAS](https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [THOMAS](https://open.spotify.com/album/6s28IiIJ7ElbJfTPn03D6Y) | 1:30 | 2024-05-10 |  |
+| [THOMAS](https://open.spotify.com/track/3cjg55upztjI5bIsBQqSN1) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [THOMAS](https://open.spotify.com/album/6s28IiIJ7ElbJfTPn03D6Y) | 1:30 | 2024-05-10 | 2025-08-13 |
 | [THUNDERSTRIKE](https://open.spotify.com/track/5D8MCa8Q05Urj343Hci4eq) | [ditro](https://open.spotify.com/artist/22Hb8KWTIUTq3WmUBwXWoJ) | [THUNDERSTRIKE](https://open.spotify.com/album/1PiVZsCuQtFRTa4x7zLoeX) | 3:04 | 2022-09-23 | 2022-11-05 |
 | [TIRED OF PROBLEMS](https://open.spotify.com/track/5L7h1PCOF5lrX3e3v8sJAx) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [TIRED OF PROBLEMS](https://open.spotify.com/album/040xi1cygyTX9odMDiNkpU) | 1:49 | 2023-07-28 | 2024-02-03 |
 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 | 2021-09-24 | 2024-02-03 |

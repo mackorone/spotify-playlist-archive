@@ -4,7 +4,7 @@
 
 > 💫giovane💫pop💫z💫 Cover: Olly
 
-801 songs - 1 day 13 hr 7 min
+802 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [si balla](https://open.spotify.com/track/74BwSf4chWpIK1Je1yY4mq) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [si balla](https://open.spotify.com/album/11cUhiW285mUK0BP6cjNVJ) | 3:16 | 2025-05-01 | 2025-06-13 |
 | [SI STAT’ TU](https://open.spotify.com/track/6s5DJ2zRf9T3A2VidCCHxZ) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:25 | 2024-06-20 | 2024-07-05 |
 | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/track/2nWVJWO9bQRH6OsvG5bWIO) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Si è spenta anche la luna \- LUNA](https://open.spotify.com/album/0XMf0lGQAJmxdo2r9x1ob0) | 3:23 | 2023-12-15 | 2024-03-22 |
+| [Singapore \- PLUTONE](https://open.spotify.com/track/6wX7bkmq8pe9w6g2ZSMhbs) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Singapore \- PLUTONE](https://open.spotify.com/album/16qvTf0x36VYD0ZkYfa2JP) | 2:55 | 2025-08-12 |  |
 | [SISSI](https://open.spotify.com/track/64Rux1qrtoeSTrRxa0mzcI) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [SISSI](https://open.spotify.com/album/2g0DfpvEt5BOEUb7aCl4Vo) | 2:17 | 2023-06-29 | 2023-07-21 |
 | [SLOWMO](https://open.spotify.com/track/529bB6UwVaHjMJpQNFljdp) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng), [Cripo](https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0) | [SLOWMO](https://open.spotify.com/album/2epcYFPYHrcOcYZuiKMFSN) | 2:51 | 2024-06-27 | 2024-09-06 |
 | [SOBRIO](https://open.spotify.com/track/1eFWY1K9xr166GR7BZeJnp) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [SOBRIO](https://open.spotify.com/album/4mY1mXs3WPhQFlUuBuKvw6) | 2:15 | 2023-10-12 | 2023-10-27 |

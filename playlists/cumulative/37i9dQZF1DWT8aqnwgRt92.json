@@ -22912,7 +22912,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 201706,
       "name": "\u3042\u3057\u3042\u3068",
       "url": "https://open.spotify.com/track/6nWBz6FV2ebQ1SvbcwmFlg"
@@ -32581,6 +32581,24 @@
     },
     {
       "album": {
+        "name": "\u5186\u9234",
+        "url": "https://open.spotify.com/album/5jSCX3iBcSHO79n89zbNZM"
+      },
+      "artists": [
+        {
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236372,
+      "name": "\u5186\u9234",
+      "url": "https://open.spotify.com/track/5dZqdJOcIoZnXMAQv0BUHF"
+    },
+    {
+      "album": {
         "name": "\u518d\u4f1a",
         "url": "https://open.spotify.com/album/1bJD2yH4SsmowfbYhfo9tL"
       },
@@ -39048,7 +39066,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 252209,
       "name": "\u8d85\u30ab\u30ea\u30b9\u30de\u51e1\u8e0a\u308a",
       "url": "https://open.spotify.com/track/2ot1k2vBbsWL9Z7HbO7Snr"
@@ -39066,7 +39084,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 237639,
       "name": "\u8ddd\u96e2\u3002",
       "url": "https://open.spotify.com/track/7sSnqHbWVLuP1h2oDo70DB"

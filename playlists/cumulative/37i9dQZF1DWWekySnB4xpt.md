@@ -4,11 +4,11 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky, Danny Ocean, Yorghaki
 
-176 songs - 10 hr 24 min
+177 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 | 2021-12-17 |  |
+| [](https://open.spotify.com/track/5s1iyXPMky0HrAgVViB1L9) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/5bnl9ilE3a6GjeIJa662dz) | 0:00 | 2021-12-17 | 2025-08-13 |
 | [3 de La Mañana \- con Sebastián Yatra & Mora](https://open.spotify.com/track/1PkE8LrFiHRqMq4Ik3w1pk) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [3 de La Mañana \(con Sebastián Yatra & Mora\)](https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt) | 3:40 | 2021-12-17 | 2023-09-23 |
 | [A Usted](https://open.spotify.com/track/4PX3v1a24ji1lKcK1XLyOJ) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/7FFD7wBmJN2GA2GiY3Hmfx) | 2:59 | 2021-12-17 |  |
 | [A Usted](https://open.spotify.com/track/5LSC9zM0ppYJJjHwvVvFef) | [Reynaldo Armas](https://open.spotify.com/artist/4f9PE0QPtTbplq7CUj0Ots) | [La Flor de la Amistad](https://open.spotify.com/album/5MaoWlg2pDE2YD4meTjq0n) | 2:59 | 2023-11-21 | 2024-04-19 |
@@ -41,6 +41,7 @@
 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 | 2021-12-17 |  |
 | [Coquette \(Remix\)](https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Coquette \(Remix\)](https://open.spotify.com/album/30WEmCF5a1YNZv5uzBMdvA) | 3:36 | 2024-06-07 | 2025-05-24 |
 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2023-02-10 | 2023-03-04 |
+| [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 | 2025-08-12 |  |
 | [Cremosa](https://open.spotify.com/track/6UMKk8R4XdJFouZUNHIG5I) | [El Arka](https://open.spotify.com/artist/70Dxh945oypt9niP4GLc67), [Budu](https://open.spotify.com/artist/7n0qv6tQpogYMmeLs0nYAD) | [Cremosa](https://open.spotify.com/album/46KPvKMJ7XHo4Ml6IIbf8K) | 3:42 | 2021-12-17 |  |
 | [Culpable Soy Yo](https://open.spotify.com/track/1ASbVP7bURAn44DmhqCNjY) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 3:22 | 2021-12-17 | 2022-04-23 |
 | [Cómo No Voy a Decirlo](https://open.spotify.com/track/2t0dKVFtDolRZKh2vi1wEZ) | [Luis Silva](https://open.spotify.com/artist/3B53VdSraW2MeEeLYAvEs1) | [Cómo No Voy a Decirlo](https://open.spotify.com/album/1KFJK6q57o7aKvjquy2nmi) | 3:31 | 2022-09-30 | 2022-11-13 |

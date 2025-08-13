@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125090,
+  "num_followers": 125087,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUdKa1ku3QzSX/5Nt90FzlXfftf6/4",
+  "snapshot_id": "AAAUdQP9k9+IhFEkgfwMfcRDaIbOkQMJ",
   "tracks": [
+    {
+      "added_at": "2025-08-12 14:25:45",
+      "album": {
+        "name": "bones",
+        "url": "https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT"
+      },
+      "artists": [
+        {
+          "name": "oncor",
+          "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB"
+    },
     {
       "added_at": "2025-08-11 15:03:58",
       "album": {

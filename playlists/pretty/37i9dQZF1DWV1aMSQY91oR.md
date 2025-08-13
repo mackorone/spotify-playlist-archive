@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: JID
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,396 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,408 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 13 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
 | 14 | [Eat Couch](https://open.spotify.com/track/1P1rtkHy4Xa2IYkaYqRUuW) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Spank Nitti James](https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD) | [Eat Couch](https://open.spotify.com/album/0L1vbOXKcrGwkG5S8Vguzf) | 2:53 |
 | 15 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
-| 16 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:02 |
+| 16 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:01 |
 | 17 | [See The World \(feat\. BossMan Dlow\)](https://open.spotify.com/track/4OyCEPKYDnMdf3c5mMpPR7) | [Buddah Bless](https://open.spotify.com/artist/6F6Kv1EpOjiXonTNYFdXWW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [See The World \(feat\. BossMan Dlow\)](https://open.spotify.com/album/5hEuYRgfjxufbFnb1UuwEM) | 3:43 |
 | 18 | [team\. \(Game Anthem\)](https://open.spotify.com/track/68efXPybhz7MUgQMBvs9Bg) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [team\. \(Game Anthem\)](https://open.spotify.com/album/1QpctG5LJs0qoGvtibINkZ) | 2:23 |
 | 19 | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/track/2rW9H7P0Nsq2K5AtNsNtam) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/album/3UAz8CcBdTCOilabW1AxNe) | 3:00 |

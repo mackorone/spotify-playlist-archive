@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAB95ZXVZpd4S1nvrpS3m5Vi",
+  "snapshot_id": "AAAAAAAAAADkXUtBreJFuWYDqWYUujIW",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:00",
@@ -51,6 +51,26 @@
       "duration_ms": 218250,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7gcoVfFoEcUiJCqHgkPsZj"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -103,26 +123,6 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
         "name": "On My",
         "url": "https://open.spotify.com/album/6b9lRjsR9dsyyP8ote1TXq"
       },
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
+        "name": "enjoy the ride",
+        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 171237,
+      "name": "enjoy the ride",
+      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
         "name": "A Milli (FreeStyle)",
         "url": "https://open.spotify.com/album/20qxF65YfKA7oA6zqzglx4"
       },
@@ -167,18 +183,22 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "enjoy the ride",
-        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 171237,
-      "name": "enjoy the ride",
-      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -199,26 +219,6 @@
       "duration_ms": 109333,
       "name": "I Did A New Thing",
       "url": "https://open.spotify.com/track/58fF9M8zrhR7RxGPbG52LI"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Louisiana Stick (with Marcus King)",
-        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "Louisiana Stick (with Marcus King)",
-      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -255,42 +255,6 @@
       "duration_ms": 202000,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/2y000ADqI2YYr9uIPzm4PM"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Vela",
-        "url": "https://open.spotify.com/album/6KHd7qiKysNz8uaqjHWynV"
-      },
-      "artists": [
-        {
-          "name": "KaizanBlu",
-          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
-        },
-        {
-          "name": "Ignacio Arr\u00faa",
-          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
-        }
-      ],
-      "duration_ms": 141187,
-      "name": "Vela",
-      "url": "https://open.spotify.com/track/33UgUd58NlaSltdcR3velN"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
-      },
-      "artists": [
-        {
-          "name": "thebandfriday",
-          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -335,6 +299,26 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
+        "name": "Vela",
+        "url": "https://open.spotify.com/album/6KHd7qiKysNz8uaqjHWynV"
+      },
+      "artists": [
+        {
+          "name": "KaizanBlu",
+          "url": "https://open.spotify.com/artist/7xSBYOQmRbnWrhKJQETfNV"
+        },
+        {
+          "name": "Ignacio Arr\u00faa",
+          "url": "https://open.spotify.com/artist/3hh15aODtgiToY2V2lR9qD"
+        }
+      ],
+      "duration_ms": 141187,
+      "name": "Vela",
+      "url": "https://open.spotify.com/track/33UgUd58NlaSltdcR3velN"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/7eXzyxs4NEArDLbgmxVRU2"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 207518,
       "name": "Rome",
       "url": "https://open.spotify.com/track/0s7GjleshZhVQLKVfoF46q"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Back in the Saddle",
+        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 212962,
+      "name": "Back in the Saddle",
+      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "The Emperor's New Clothes",
-        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 144201,
-      "name": "Bear Hill",
-      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
         "name": "Friends Forever",
         "url": "https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 170727,
       "name": "Friends Forever",
       "url": "https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "The Emperor's New Clothes",
+        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 144201,
+      "name": "Bear Hill",
+      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
     },
     {
       "added_at": "2025-08-08 04:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-08-08 04:00:00",
       "album": {
-        "name": "Philip Glass: Two Etudes",
-        "url": "https://open.spotify.com/album/7itFIfdp7j13iHBazp701A"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Duo Multicorde",
-          "url": "https://open.spotify.com/artist/2OJUkxf7UnWIyOHY5W08yv"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Etude No.2 (arranged for harp & guitar)",
-      "url": "https://open.spotify.com/track/4hveuAVOTw5dqc1WfSnjZn"
-    },
-    {
-      "added_at": "2025-08-08 04:00:00",
-      "album": {
         "name": "PACT: Poetry and Sax",
         "url": "https://open.spotify.com/album/6RGU0DPC2JESpocdE4l9nr"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 129250,
       "name": "HER",
       "url": "https://open.spotify.com/track/6fzuc9fVDLgRIFW1Y858NX"
+    },
+    {
+      "added_at": "2025-08-08 04:00:00",
+      "album": {
+        "name": "Philip Glass: Two Etudes",
+        "url": "https://open.spotify.com/album/7itFIfdp7j13iHBazp701A"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Duo Multicorde",
+          "url": "https://open.spotify.com/artist/2OJUkxf7UnWIyOHY5W08yv"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Etude No.2 (arranged for harp & guitar)",
+      "url": "https://open.spotify.com/track/4hveuAVOTw5dqc1WfSnjZn"
     },
     {
       "added_at": "2025-08-08 04:00:00",

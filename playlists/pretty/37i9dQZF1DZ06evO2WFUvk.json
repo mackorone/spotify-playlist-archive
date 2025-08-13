@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3868,
+  "num_followers": 3866,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJfhAAAAAAB0Vn6mLGpSq45zPjNk98MY",
+  "snapshot_id": "aJkygAAAAAA9Hjdgdh1Cd7pzrp2bVGm3",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 228066,
-      "name": "El Campe\u00f3n",
-      "url": "https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t"
+      "duration_ms": 132466,
+      "name": "Oh, Yo No S\u00e9",
+      "url": "https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 132466,
-      "name": "Oh, Yo No S\u00e9",
-      "url": "https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g"
+      "duration_ms": 228066,
+      "name": "El Campe\u00f3n",
+      "url": "https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
       "duration_ms": 323301,
       "name": "Samambaila - Original Mix",
       "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

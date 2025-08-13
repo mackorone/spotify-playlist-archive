@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-347 songs - 18 hr 57 min
+348 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Hardcore Life](https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Hardcore Life](https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w) | 2:45 | 2024-01-24 | 2025-04-26 |
 | [Hardcore MF](https://open.spotify.com/track/0hLTLlucRrfvDDng4954pc) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Hardcore MF](https://open.spotify.com/album/7ahAMYkwgCm0bCNTm4b5kS) | 2:46 | 2024-11-18 | 2025-04-09 |
 | [Hardcore Riot](https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Hardcore Riot](https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP) | 2:40 | 2025-04-25 |  |
+| [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 | 2025-08-07 |  |
 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 | 2022-12-08 | 2023-09-15 |
 | [HARI HARI \(2024 RMX\)](https://open.spotify.com/track/7huXZkJSKKIdk9kEQ5jvYU) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [HARI HARI \(2024 RMX\)](https://open.spotify.com/album/21TAQ8FTR3StxaSFckS4MM) | 3:16 | 2024-01-24 | 2024-02-09 |
 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 | 2025-04-17 |  |
@@ -341,7 +342,7 @@
 | [Warriors](https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Warriors](https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl) | 3:20 | 2022-12-08 | 2023-04-14 |
 | [Warriors \(2022 Refix\)](https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8) | [Tyfon](https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs), [The Fuze](https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY) | [Runes of Retribution](https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5) | 4:12 | 2022-12-08 | 2023-06-02 |
 | [Warriors Of Valhalla](https://open.spotify.com/track/1uRTpjcx6qdbo9NPWosv8H) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Warriors Of Valhalla](https://open.spotify.com/album/4TQLZCdkZ4VRMy8U31vfMw) | 2:39 | 2023-06-22 | 2024-06-28 |
-| [WAS IST DAS](https://open.spotify.com/track/15tKh9aHfjbNPEbv4GmDhz) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [DitzKickz](https://open.spotify.com/artist/02Qk9K9AJwyQWcZ5BrSgd7) | [WAS IST DAS](https://open.spotify.com/album/0b8718BImvjDfo0d19wOfG) | 4:04 | 2025-08-07 |  |
+| [WAS IST DAS](https://open.spotify.com/track/15tKh9aHfjbNPEbv4GmDhz) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [DitzKickz](https://open.spotify.com/artist/02Qk9K9AJwyQWcZ5BrSgd7) | [WAS IST DAS](https://open.spotify.com/album/0b8718BImvjDfo0d19wOfG) | 4:04 | 2025-08-07 | 2025-08-13 |
 | [Wave of Destruction](https://open.spotify.com/track/2mTSCJKqM5TaZXxPdWALaP) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s), [Runeforce](https://open.spotify.com/artist/7fzicDRhTE3rhGdO4ssCcH) | [Wave Of Destruction](https://open.spotify.com/album/7J4zZlQKZlAohMDKkGMwJ5) | 4:25 | 2023-09-01 | 2023-11-03 |
 | [We are Frenchcore](https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [We are Frenchcore](https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz) | 3:24 | 2023-05-15 | 2023-06-30 |
 | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Broken Brains](https://open.spotify.com/artist/5pgM0qfyjqqr1lMQCLxtL8), [Mc Braincase](https://open.spotify.com/artist/51itOrfxQckDhcRHOB1Fve) | [We are One \(Official Leaderz 2023 Anthem\)](https://open.spotify.com/album/3HeTRsYD6njlshBXB6097j) | 4:01 | 2023-10-06 | 2024-02-01 |

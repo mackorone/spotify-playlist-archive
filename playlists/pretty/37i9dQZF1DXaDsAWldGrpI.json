@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Alex Warren & Luke Combs",
-  "num_followers": 142481,
+  "num_followers": 142512,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "Sounds Like The Radio (Live)",
-        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
       "artists": [
         {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 214561,
-      "name": "Sounds Like the Radio - Live",
-      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
+      "duration_ms": 261839,
+      "name": "When You Say Nothing At All - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+        "name": "Sounds Like The Radio (Live)",
+        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
         }
       ],
-      "duration_ms": 261839,
-      "name": "When You Say Nothing At All - Live From The Louisville Palace, Kentucky / 2002",
-      "url": "https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0"
+      "duration_ms": 214561,
+      "name": "Sounds Like the Radio - Live",
+      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "No Horse To Ride (Live From Boston)",
-        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 226523,
-      "name": "No Horse To Ride - Live From Boston",
-      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
-    },
-    {
-      "added_at": "2025-07-25 04:00:51",
-      "album": {
         "name": "Brooks & Dunn and Friends - Live from CMT Crossroads",
         "url": "https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 254653,
       "name": "Brand New Man (with Luke Combs) - Live from CMT Crossroads",
       "url": "https://open.spotify.com/track/2u2TK3JmzoBXlMQJ1s7Skq"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "No Horse To Ride (Live From Boston)",
+        "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 226523,
+      "name": "No Horse To Ride - Live From Boston",
+      "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "Drinkin' Problem (Live From Red Rocks)",
-        "url": "https://open.spotify.com/album/0jEWne1bCq6uPwlAE8YeAl"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 277493,
-      "name": "Drinkin' Problem - Live From Red Rocks",
-      "url": "https://open.spotify.com/track/4naDfPPsElr2GuaX4nxcuG"
-    },
-    {
-      "added_at": "2025-07-25 04:00:51",
-      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 211706,
       "name": "Write This Down - Live",
       "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "Drinkin' Problem (Live From Red Rocks)",
+        "url": "https://open.spotify.com/album/0jEWne1bCq6uPwlAE8YeAl"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Drinkin' Problem - Live From Red Rocks",
+      "url": "https://open.spotify.com/track/4naDfPPsElr2GuaX4nxcuG"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "Sweet Home Alabama (Live)",
-        "url": "https://open.spotify.com/album/6eEk7jSo8GcjbpQ4ad2G4B"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 406602,
-      "name": "Sweet Home Alabama - Live",
-      "url": "https://open.spotify.com/track/056DF8pkGziZlPEIeh5s9k"
-    },
-    {
-      "added_at": "2025-07-25 04:00:51",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 297640,
       "name": "(If You're Not In It For Love) I'm Outta Here! - Live",
       "url": "https://open.spotify.com/track/3awAtCdmdZukTe4S0WGOz4"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "Sweet Home Alabama (Live)",
+        "url": "https://open.spotify.com/album/6eEk7jSo8GcjbpQ4ad2G4B"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 406602,
+      "name": "Sweet Home Alabama - Live",
+      "url": "https://open.spotify.com/track/056DF8pkGziZlPEIeh5s9k"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
+        "name": "Humble And Kind (Live)",
+        "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 230970,
+      "name": "Humble And Kind - Live",
+      "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
         "name": "Live At The Ryman",
         "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 189080,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7KfM4dvjWNxKhqEZljtMEQ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:51",
-      "album": {
-        "name": "Humble And Kind (Live)",
-        "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 230970,
-      "name": "Humble And Kind - Live",
-      "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "West Of Tulsa (Live At Cain\u2019s Ballroom)",
-        "url": "https://open.spotify.com/album/7EzPKCSMN4lV7vGEo00GDn"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 415817,
-      "name": "West Of Tulsa - Live At Cain\u2019s Ballroom",
-      "url": "https://open.spotify.com/track/2R2FFQ1LTqhUmutBkrUA5D"
-    },
-    {
-      "added_at": "2025-07-25 04:00:51",
-      "album": {
         "name": "Good as You (Live)",
         "url": "https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9"
       },
@@ -1735,18 +1719,38 @@
     {
       "added_at": "2025-07-25 04:00:51",
       "album": {
-        "name": "61 Days In Church Volume 3",
-        "url": "https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3"
+        "name": "61 Days In Church Volume 5",
+        "url": "https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp"
       },
       "artists": [
         {
           "name": "Eric Church",
           "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "Chuck Leavell",
+          "url": "https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9"
         }
       ],
-      "duration_ms": 240356,
-      "name": "These Boots - Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017",
-      "url": "https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv"
+      "duration_ms": 311273,
+      "name": "Jack Daniels - Live At Pepsi Center, Denver, CO / April 5, 2017",
+      "url": "https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz"
+    },
+    {
+      "added_at": "2025-07-25 04:00:51",
+      "album": {
+        "name": "West Of Tulsa (Live At Cain\u2019s Ballroom)",
+        "url": "https://open.spotify.com/album/7EzPKCSMN4lV7vGEo00GDn"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 415817,
+      "name": "West Of Tulsa - Live At Cain\u2019s Ballroom",
+      "url": "https://open.spotify.com/track/2R2FFQ1LTqhUmutBkrUA5D"
     }
   ],
   "unique_name": "Country Live",

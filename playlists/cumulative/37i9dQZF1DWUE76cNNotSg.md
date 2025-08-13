@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-600 songs - 1 day 13 hr 6 min
+601 songs - 1 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Done It All Wrongh](https://open.spotify.com/track/2y3rFDdYs6AKLrUJYtiCrX) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Regress](https://open.spotify.com/album/3jNs26bwkz3e4yIcoSFoYO) | 3:27 | 2020-12-22 | 2022-04-24 |
 | [Downtown](https://open.spotify.com/track/3MAkPH0PUgcz8QSCnlq7ts) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/26O1KQ5LTFvMI2XH2POMXd) | 4:45 | 2020-12-22 | 2022-07-29 |
 | [Downtown](https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol) | 4:45 | 2023-08-18 | 2024-03-30 |
+| [Dream](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream](https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d) | 2:44 | 2025-08-11 |  |
 | [Dream with You \- Bosq Remix](https://open.spotify.com/track/5Kw5LPKOu0HqRMLbFCk8OQ) | [Jeffrey Paradise](https://open.spotify.com/artist/3ZiAPWZArTIpiFG6L06Fwy) | [Dream with You](https://open.spotify.com/album/4HmnbASaQNUkcQTRx7pw5Q) | 4:30 | 2020-12-22 | 2022-07-20 |
 | [Dreams \- Lil Texas Remix](https://open.spotify.com/track/2lfUpF2DryDUrNmQMe4Qr4) | [Kid Froopy](https://open.spotify.com/artist/4yXRQkCMWWkfZSSTA2oKjU), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Drive Slow](https://open.spotify.com/album/4HaHzvVVqxq4q1DWppTWjH) | 4:00 | 2020-12-22 | 2022-07-26 |
 | [Drift](https://open.spotify.com/track/1LdV2QpLGtA3E6WNMwAPGE) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Drift](https://open.spotify.com/album/39dR49LCVjZ5j8WvNC4JB4) | 3:42 | 2020-12-22 | 2022-04-19 |
@@ -460,7 +461,7 @@
 | [Simmer](https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Simmer](https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d) | 2:37 | 2025-08-01 |  |
 | [Simple](https://open.spotify.com/track/05LiQlMRX2PlThoHWPjGae) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Simple](https://open.spotify.com/album/4w3xE0xHZhglqAd8hXofGw) | 3:48 | 2020-12-22 | 2022-04-19 |
 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 | 2020-12-22 | 2024-05-15 |
-| [Skin](https://open.spotify.com/track/2MlkJm5HS8suQmkAuRs6QL) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Skin](https://open.spotify.com/album/43qXSM4fTEvZqvENZor3zK) | 2:08 | 2025-02-14 |  |
+| [Skin](https://open.spotify.com/track/2MlkJm5HS8suQmkAuRs6QL) | [Arpy Brown](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Skin](https://open.spotify.com/album/43qXSM4fTEvZqvENZor3zK) | 2:08 | 2025-02-14 | 2025-08-13 |
 | [Sleep In](https://open.spotify.com/track/3AnlNDM6RIFcljsQVlW33z) | [Telekinesis](https://open.spotify.com/artist/3faZppLa0MVUYBlyp7zDAo) | [Sleep In](https://open.spotify.com/album/6eak6RgXakNttqksWm8080) | 4:20 | 2020-12-22 | 2022-04-21 |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 | 2024-01-05 |  |
 | [Slowly](https://open.spotify.com/track/6kvbQejVPvLcWqBOVLmy81) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Matosic](https://open.spotify.com/artist/5yo76RIviltvqXHd1QcYOR) | [Slowly](https://open.spotify.com/album/1Wtivl62TYCi65MPFT96Zp) | 3:36 | 2020-12-22 | 2022-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Laufey on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,254 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,261 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 47 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
 | 48 | [Spring Cleaning](https://open.spotify.com/track/7h1q0wZnMYSQl4Q8JWHN54) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Reason To Hate You](https://open.spotify.com/album/7fLXDsRokVOibKg5oTALze) | 3:15 |
 | 49 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 |
-| 50 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:02 |
+| 50 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:01 |
 | 51 | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z) | 3:00 |
 | 52 | [She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3) | [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Wide Awake](https://open.spotify.com/album/0zXkNrPiubPQ6xuBBN0ssu) | 2:59 |
 | 53 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |

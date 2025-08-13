@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Groove it to the biggest bangers of the decade. Cover - Om Shanti Om",
+  "description": "Groove it to the biggest bangers of the decade. Cover - Tashan",
   "name": "00's Dance Bollywood",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 203933,
       "name": "Aisa Jadoo",
       "url": "https://open.spotify.com/track/3NEW0n3CQRFsmsIOPHcOOK"
@@ -1665,6 +1665,32 @@
     },
     {
       "album": {
+        "name": "Maine Pyaar Kyun Kiya",
+        "url": "https://open.spotify.com/album/6nyWgwT9ZHj85XYpLtrIs9"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Neeraj",
+          "url": "https://open.spotify.com/artist/1vKAthxJWQmTEcB1ZVqUGB"
+        },
+        {
+          "name": "Shaznine",
+          "url": "https://open.spotify.com/artist/4qiiwDv76O8pI8hqppXGTS"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323053,
+      "name": "Dil Dil Nazar",
+      "url": "https://open.spotify.com/track/1ZpsPt7Ayxhd35QXHdLGEY"
+    },
+    {
+      "album": {
         "name": "Dhoom:2",
         "url": "https://open.spotify.com/album/3UVShsbsHHCVunUeoKT46E"
       },
@@ -1808,6 +1834,32 @@
       "duration_ms": 303613,
       "name": "Dupatta Tera Nau Rang Da",
       "url": "https://open.spotify.com/track/3wiKJ8i3Ixdrc3qxBFFbPM"
+    },
+    {
+      "album": {
+        "name": "Dus",
+        "url": "https://open.spotify.com/album/2ZMv24PkdTVTdFBCtSMJiX"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "Dus Bahane",
+      "url": "https://open.spotify.com/track/1vBmaijoCBoqmwc3zs5n3s"
     },
     {
       "album": {
@@ -4098,7 +4150,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 321240,
       "name": "Saaki",
       "url": "https://open.spotify.com/track/3zEkqnyPzhHBuHCeoWLYjQ"

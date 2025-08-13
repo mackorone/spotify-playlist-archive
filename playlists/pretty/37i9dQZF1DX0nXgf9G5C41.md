@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 
 ### [Deep Dive: Trip\-Hop Revival](https://open.spotify.com/playlist/37i9dQZF1DX0nXgf9G5C41)
 
-> A dive into the past, present, and future of trip\-hop — from its mid\-90s pioneers to current artists flirting with the genre.
+> A dive into the past, present, and future of trip\-hop — from its mid\-90s pioneers to current artists flirting with the <a href="https://open.spotify.com/playlist/37i9dQZF1DWVXbA4kjkg6G?si=6206dd712ced4fca">genre.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXgf9G5C41.md) - [plain]
 | 49 | [Object Permanence](https://open.spotify.com/track/4VuiAY5tY67krKYAAFimXi) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 4:20 |
 | 50 | [Moto Verse](https://open.spotify.com/track/2mAi1hi14o15lmBLAMwcgS) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [orbs](https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe) | 2:56 |
 
-Snapshot ID: `AAAAAHmQO4XE7bFgdQ7nBFltdvR+oZRA`
+Snapshot ID: `AAAAAACOJgZRS6dvJMxrgyPOXyseiiPq`

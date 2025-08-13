@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 221906,
       "name": "Because we loved",
       "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
@@ -2308,6 +2308,28 @@
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
+    },
+    {
+      "album": {
+        "name": "SOMEHOW",
+        "url": "https://open.spotify.com/album/4fQm8diEQZbuO8R5hG5vjy"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "LIKE NOTHING HAPPENED (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/0Wtka71lRuIJOc7PrhuJTu"
     },
     {
       "album": {

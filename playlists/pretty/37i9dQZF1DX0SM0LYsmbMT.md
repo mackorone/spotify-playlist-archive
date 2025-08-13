@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,233,162 likes - 300 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,233,232 likes - 300 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Nonobody](https://open.spotify.com/track/5WZMjTa13So2h5OGcEB42m) | [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Asphalt Oasis](https://open.spotify.com/album/5sXx0DiHHz643FboZdwu2v) | 2:24 |
 | 300 | [Moon Shades](https://open.spotify.com/track/2HQKaNWXU1qecVs7hSAtFs) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Lowkey](https://open.spotify.com/artist/7toCka0iNs3DkEyWv94JmO) | [Moon Shades](https://open.spotify.com/album/6c8Iq1Oi5SD5qbu0c6C2mz) | 2:00 |
 
-Snapshot ID: `AAAAAB5mHl2GVh6YcwlHvghOWnX3L/56`
+Snapshot ID: `AAAAALca8Mzgo0h/GBdvW2zrxzcm4Dgo`

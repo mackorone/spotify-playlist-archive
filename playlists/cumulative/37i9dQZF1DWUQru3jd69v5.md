@@ -4,7 +4,7 @@
 
 > Sadturs, KIID, Flaco G e Lubi in cover della playlist con il futuro del rap italiano 📈
 
-1,965 songs - 3 day 11 hr 33 min
+1,966 songs - 3 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [AMMÒ](https://open.spotify.com/track/00GgIQHKgPpplvmVKGQtpN) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [AMMÒ](https://open.spotify.com/album/6X5CMh0Bs3EJRTfvDqkvFI) | 2:35 | 2023-12-14 | 2024-01-05 |
 | [Ammò T'aspett](https://open.spotify.com/track/4vBvnTnP6RP0LVA63wfagz) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [LilTony](https://open.spotify.com/artist/6iqapqgOqZ9HEt3G6ByUrh) | [RISCATTO](https://open.spotify.com/album/5CpLnTgOZiyHvGVc0yQPp9) | 2:19 | 2025-01-30 | 2025-02-19 |
 | [Amo Gli Animali](https://open.spotify.com/track/1OHdhOpZnHOjzt6AReu3iU) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Amo Gli Animali](https://open.spotify.com/album/1HAjmtGr0jiIh8ZmrcEfhZ) | 2:27 | 2025-07-03 | 2025-07-18 |
-| [Amore & Odio](https://open.spotify.com/track/3GzWHXqq7Dd25CEByUFQdF) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Amore & Odio](https://open.spotify.com/album/6UUeGa0joX7k3AI0SwibYr) | 1:46 | 2025-07-31 |  |
+| [Amore & Odio](https://open.spotify.com/track/3GzWHXqq7Dd25CEByUFQdF) | [Marshe](https://open.spotify.com/artist/7Fl8QB9g3Mc3n90XPXferx) | [Amore & Odio](https://open.spotify.com/album/6UUeGa0joX7k3AI0SwibYr) | 1:46 | 2025-07-31 | 2025-08-13 |
 | [AMORE E ODIO](https://open.spotify.com/track/58Xg7tSx5PEmAPeVChMTpg) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [AMORE E ODIO](https://open.spotify.com/album/28etAEckVtY9eIZN87g2za) | 2:24 | 2023-11-09 | 2023-11-23 |
 | [AMY](https://open.spotify.com/track/6NAEv22DbaW1gvaky5bonx) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [AMY](https://open.spotify.com/album/3Ll26DVdHQdS3hJVjDfECb) | 2:32 | 2025-02-27 | 2025-03-28 |
 | [AN$IA](https://open.spotify.com/track/2LIeDgYAiWcFv6sc9Y8Qs1) | [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR) | [AN$IA](https://open.spotify.com/album/258nqg66bFVTU9qX5O0bQS) | 2:05 | 2025-01-30 | 2025-04-04 |
@@ -938,6 +938,7 @@
 | [Lamborghini](https://open.spotify.com/track/0NQ0Ilzjq6lwTyDXpGsKNd) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [Lamborghini](https://open.spotify.com/album/0HbBVK1x0yvDPbNdKLJh7f) | 2:18 | 2022-05-26 | 2022-06-10 |
 | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD) | 2:38 | 2023-12-14 | 2024-01-19 |
 | [LAMBORGHINI URUS](https://open.spotify.com/track/7dyOsHxaj8fSUI8QohzjpJ) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [LAMBORGHINI URUS](https://open.spotify.com/album/5zR0xE3ZlefSbTWjCybjhh) | 2:04 | 2023-11-30 | 2023-12-22 |
+| [Lamelo](https://open.spotify.com/track/5I8NuBULtzqtZE067UA36R) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Lamelo](https://open.spotify.com/album/3hjaiAGv1Lm0LzTcnLR00l) | 2:52 | 2025-08-12 |  |
 | [Landing \(feat\. Low\-Red\)](https://open.spotify.com/track/5BAGDRm7iSlnMCgbMFJm0C) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 | 2024-05-31 | 2024-06-21 |
 | [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 | 2024-12-04 | 2025-01-31 |
 | [LANE SPLITTING](https://open.spotify.com/track/4me7G5fyWadZwQ245NfLiJ) | [leim](https://open.spotify.com/artist/7u30etyKSZYjudAyKaNb9N), [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [LANE SPLITTING](https://open.spotify.com/album/7q7fkTZHdm9ti3eigczbYk) | 3:04 | 2025-02-06 | 2025-02-19 |

@@ -3501,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Great I Am",
+        "url": "https://open.spotify.com/album/1QwUFrZEGrQsiKAZtOM7co"
+      },
+      "artists": [
+        {
+          "name": "Prosper King",
+          "url": "https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282070,
+      "name": "Great I Am",
+      "url": "https://open.spotify.com/track/3y3x4S2SIinqdfSGn0gDF4"
+    },
+    {
+      "album": {
         "name": "GREAT IS YOUR NAME",
         "url": "https://open.spotify.com/album/5A00N0IrVMDAMoAvVNnSMl"
       },
@@ -5707,6 +5725,32 @@
     },
     {
       "album": {
+        "name": "Lele",
+        "url": "https://open.spotify.com/album/5k69vdLz3lQwYpQziYSqA5"
+      },
+      "artists": [
+        {
+          "name": "Clinton Flames",
+          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        },
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141718,
+      "name": "Lele",
+      "url": "https://open.spotify.com/track/4bVtiW5R5mr9b5sCMhjGI9"
+    },
+    {
+      "album": {
         "name": "Why Not Right Now? (Live)",
         "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
       },
@@ -7392,7 +7436,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 295416,
       "name": "Oloruko Aperire",
       "url": "https://open.spotify.com/track/48QoGRjNBnczAjWumJXU44"
@@ -8734,7 +8778,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 511913,
       "name": "So Good Medley",
       "url": "https://open.spotify.com/track/7gI7LeTrGBOJLJi3MeZoOa"

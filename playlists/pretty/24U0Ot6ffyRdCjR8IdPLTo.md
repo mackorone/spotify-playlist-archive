@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-[Topsify](https://open.spotify.com/user/topsify) - 10,019 likes - 101 songs - 5 hr 22 min
+[Topsify](https://open.spotify.com/user/topsify) - 10,017 likes - 101 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 57 | [Heaven](https://open.spotify.com/track/1G2kMwKAoqgHLPwi0hviHJ) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Heaven](https://open.spotify.com/album/3Qbyc7jDRAi4akv2JPbsV4) | 2:35 |
 | 58 | [Feel Better](https://open.spotify.com/track/1AvD21gCNCSxF0Qxzj2Su6) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Feel Better](https://open.spotify.com/album/0tUFOGJeITsBtvbIJZHhDn) | 3:49 |
 | 59 | [Coldest Century](https://open.spotify.com/track/4tE6WPgDKliTWybODgsuxl) | [New Translations](https://open.spotify.com/artist/1qVQwF3vK1r0TkCZwP9Xbo) | [Coldest Century](https://open.spotify.com/album/6d7204FVeZNf0qZlNLwDd1) | 3:04 |
-| 60 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:28 |
+| 60 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 61 | [Nobody Does It Like You](https://open.spotify.com/track/0TkKfx51dQk1ca2TE17Z3R) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Nobody Does It Like You](https://open.spotify.com/album/1BtCxE61J2CFSvDc27ETVZ) | 3:04 |
 | 62 | [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:55 |
 | 63 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 |

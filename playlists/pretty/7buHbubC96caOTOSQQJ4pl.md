@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain]
 
 > Another great metal year is coming to a close\. Explore this year's highlights in metal with this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,882 likes - 116 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,876 likes - 116 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/7buHbubC96caOTOSQQJ4pl.md) - [plain]
 | 96 | [Raise Your Voice](https://open.spotify.com/track/4BagQ3bMxiNtLhOY00Fghe) | [Obey The Brave](https://open.spotify.com/artist/5heEwugc3JGxjIIivDEAg3) | [Salvation](https://open.spotify.com/album/12NSRNkFRDp63pZjIm0TH2) | 3:36 |
 | 97 | [From the Kettle Onto the Coil](https://open.spotify.com/track/2b1tihlVPRKJVhnsuX0g3g) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [From the Kettle Onto the Coil](https://open.spotify.com/album/3maK4TyAm96OM9pTsgUdju) | 6:36 |
 | 98 | [A Gluttonous Abomination](https://open.spotify.com/track/4ywlVADMEchrtcD15nx2EG) | [Acrania](https://open.spotify.com/artist/6D3PbIyyqH2NaqPZSE6X5N) | [Totalitarian Dystopia](https://open.spotify.com/album/0rjLXJXYSchgldcJ592bgW) | 6:22 |
-| 99 | [\. \_ \_ \_ \_](https://open.spotify.com/track/0gkkfUbuGoQ4nGblM1As5L) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [Away With Words, Part 1](https://open.spotify.com/album/6kpahkQqZJ1vJxCpaxgThh) | 5:11 |
+| 99 | [One](https://open.spotify.com/track/0gkkfUbuGoQ4nGblM1As5L) | [Angel Vivaldi](https://open.spotify.com/artist/6fpCjyVnRPfrf9zxE3ZfcN) | [Away With Words, Pt.1](https://open.spotify.com/album/6kpahkQqZJ1vJxCpaxgThh) | 5:11 |
 | 100 | [Last Warning](https://open.spotify.com/track/3BD65moylQUqAEnhQCcogY) | [Shear](https://open.spotify.com/artist/3IuE8RO3y9Y6MhNMOCFJH2) | [Katharsis](https://open.spotify.com/album/76CG8hdwqoSrL8xMWmCvNv) | 4:38 |
 | 101 | [Chains](https://open.spotify.com/track/06OJS3L2Sl0IKCY5OgRvBz) | [Morbus Chron](https://open.spotify.com/artist/44ZkVgSsYmdOvX4Pho8e0E) | [Sweven](https://open.spotify.com/album/3Cr9wXHP7u3EejI1Bo9yQQ) | 4:49 |
 | 102 | [Death Mask](https://open.spotify.com/track/5YGMiq65UKuWiSS09DItGB) | [Lord Mantis](https://open.spotify.com/artist/1LslKyduMzQNZ4jSBis6xg) | [Death Mask](https://open.spotify.com/album/3lIiMLGEeHJZgLvNx4GxaJ) | 6:37 |

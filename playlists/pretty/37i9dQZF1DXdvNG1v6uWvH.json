@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Of Monsters and Men, Laufey, Ed Sheeran og m\u00f6rgum fleiri!",
-  "num_followers": 9357,
+  "num_followers": 9364,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
         "name": "God Does Like Ugly",
         "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 170066,
       "name": "On McAfee (with Baby Kia)",
       "url": "https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Los Angeles / Grandmother",
-        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 237134,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
         "name": "WRK",
         "url": "https://open.spotify.com/album/7ExlJ95Ktgz2nHRouKBdxu"
       },
@@ -555,34 +539,18 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "No Rain, No Flowers",
-        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 217019,
-      "name": "A Little Too High",
-      "url": "https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Ugly",
-        "url": "https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG"
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -603,18 +571,50 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 270866,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 217019,
+      "name": "A Little Too High",
+      "url": "https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Los Angeles / Grandmother",
+        "url": "https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 237134,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
         "name": "Let's Ride Away (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/4TIyF7eDVIhtCrv8OM84sf"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
         "name": "Motel Du Cap",
         "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 221037,
       "name": "I Don\u2019t Work Here Anymore",
       "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Louisiana Stick (with Marcus King)",
-        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "Louisiana Stick (with Marcus King)",
-      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -815,6 +795,26 @@
       "duration_ms": 154423,
       "name": "Wavy Crete",
       "url": "https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
         "name": "Baby Spoon",
         "url": "https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2"
       },
@@ -903,34 +919,18 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+        "name": "But, I loved",
+        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
         }
       ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Vill du ha mig?",
-        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Vill du ha mig?",
-      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
+      "duration_ms": 217560,
+      "name": "But, I loved",
+      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -951,50 +951,18 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "But, I loved",
-        "url": "https://open.spotify.com/album/3TL74molXWcYuTcR2XOl1m"
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
       },
       "artists": [
         {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 217560,
-      "name": "But, I loved",
-      "url": "https://open.spotify.com/track/2yopReiRBsaWcuCW4Ge5QZ"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "enjoy the ride",
-        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 171237,
-      "name": "enjoy the ride",
-      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1023,18 +991,50 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Cast Away",
-        "url": "https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA"
+        "name": "enjoy the ride",
+        "url": "https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU"
       },
       "artists": [
         {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 194800,
-      "name": "Cast Away",
-      "url": "https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf"
+      "duration_ms": 171237,
+      "name": "enjoy the ride",
+      "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "CRYSALIS",
+        "url": "https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Hvn High",
+      "url": "https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "CRYSALIS",
-        "url": "https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX"
+        "name": "Cast Away",
+        "url": "https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 194320,
-      "name": "Hvn High",
-      "url": "https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad"
+      "duration_ms": 194800,
+      "name": "Cast Away",
+      "url": "https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/6k0Yctrsoamssd58C55yIp"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/1SmoCnXdtjyaPV8Ac9kJIS"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
         "name": "Less Trouble",
         "url": "https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 138252,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/05DM5t3frwgqX4OSgEYX1O"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/6k0Yctrsoamssd58C55yIp"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/1SmoCnXdtjyaPV8Ac9kJIS"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/0F6GGtpOpeS0Tl5Ks74X0W"
+      },
+      "artists": [
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 167606,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/5uGaLNt0lvdPJmywdZcHRP"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 211315,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/7wjV5Z7vRHPP9UHniItXpf"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "MINT",
-        "url": "https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3"
-      },
-      "artists": [
-        {
-          "name": "ziproom",
-          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
-        }
-      ],
-      "duration_ms": 141145,
-      "name": "MINT",
-      "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/0F6GGtpOpeS0Tl5Ks74X0W"
+        "name": "Cut Me Loose",
+        "url": "https://open.spotify.com/album/3vcVimmEEjg9dUIHqyXJOa"
       },
       "artists": [
         {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
         }
       ],
-      "duration_ms": 167606,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+      "duration_ms": 147301,
+      "name": "Cut Me Loose",
+      "url": "https://open.spotify.com/track/6L6RbwcSK7msQJGtaDyxaZ"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1503,18 +1487,34 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Cut Me Loose",
-        "url": "https://open.spotify.com/album/3vcVimmEEjg9dUIHqyXJOa"
+        "name": "MINT",
+        "url": "https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3"
       },
       "artists": [
         {
-          "name": "Naomi Scott",
-          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
         }
       ],
-      "duration_ms": 147301,
-      "name": "Cut Me Loose",
-      "url": "https://open.spotify.com/track/6L6RbwcSK7msQJGtaDyxaZ"
+      "duration_ms": 141145,
+      "name": "MINT",
+      "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Ekki eitt t\u00e1r",
-        "url": "https://open.spotify.com/album/70vy3Y0to0Vddr3xu254e3"
+        "name": "Summer Dream",
+        "url": "https://open.spotify.com/album/2EEDDPJG70fxFefFOWgmGa"
       },
       "artists": [
         {
-          "name": "S\u00f3lstafir",
-          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+          "name": "Yiigaa",
+          "url": "https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Ekki eitt t\u00e1r",
-      "url": "https://open.spotify.com/track/4rq3ugtuGH02V5DfrA1PWQ"
+      "duration_ms": 175609,
+      "name": "Summer Dream",
+      "url": "https://open.spotify.com/track/1DUkHsP2kRITwF9GZrKtl2"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
+        "name": "Ekki eitt t\u00e1r",
+        "url": "https://open.spotify.com/album/70vy3Y0to0Vddr3xu254e3"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3lstafir",
+          "url": "https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ekki eitt t\u00e1r",
+      "url": "https://open.spotify.com/track/4rq3ugtuGH02V5DfrA1PWQ"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I"
       },
@@ -1631,18 +1647,34 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "Summer Dream",
-        "url": "https://open.spotify.com/album/2EEDDPJG70fxFefFOWgmGa"
+        "name": "MONOCHROME RADIO (DELUXE)",
+        "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
       },
       "artists": [
         {
-          "name": "Yiigaa",
-          "url": "https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
         }
       ],
-      "duration_ms": 175609,
-      "name": "Summer Dream",
-      "url": "https://open.spotify.com/track/1DUkHsP2kRITwF9GZrKtl2"
+      "duration_ms": 222516,
+      "name": "SUGAR HONEY ICED TEA",
+      "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Who Was I To Want You?",
+        "url": "https://open.spotify.com/album/4qhqDZJR96FgMGQMZ5mNls"
+      },
+      "artists": [
+        {
+          "name": "Cameron Hayes",
+          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Who Was I To Want You?",
+      "url": "https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1671,22 +1703,6 @@
     {
       "added_at": "2025-08-08 00:00:13",
       "album": {
-        "name": "MONOCHROME RADIO (DELUXE)",
-        "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 222516,
-      "name": "SUGAR HONEY ICED TEA",
-      "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3vVizqZhF4SCy8lDuXaDJX"
       },
@@ -1699,38 +1715,6 @@
       "duration_ms": 154303,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/65NMyr1OzM0ptm5txwvzSN"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Who Was I To Want You?",
-        "url": "https://open.spotify.com/album/4qhqDZJR96FgMGQMZ5mNls"
-      },
-      "artists": [
-        {
-          "name": "Cameron Hayes",
-          "url": "https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Who Was I To Want You?",
-      "url": "https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5"
-    },
-    {
-      "added_at": "2025-08-08 00:00:13",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/1blwBeuknRb6ZWUNuVvmXA"
-      },
-      "artists": [
-        {
-          "name": "Fig Tape",
-          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/113RFsE4pPm8SjDHpVUNDi"
     },
     {
       "added_at": "2025-08-08 00:00:13",
@@ -1751,6 +1735,22 @@
       "duration_ms": 167568,
       "name": "FOTO (feat. Olivetheboy)",
       "url": "https://open.spotify.com/track/62YA8oIfNjNIrvR8ZgVMft"
+    },
+    {
+      "added_at": "2025-08-08 00:00:13",
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1blwBeuknRb6ZWUNuVvmXA"
+      },
+      "artists": [
+        {
+          "name": "Fig Tape",
+          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/113RFsE4pPm8SjDHpVUNDi"
     },
     {
       "added_at": "2025-08-08 00:00:13",

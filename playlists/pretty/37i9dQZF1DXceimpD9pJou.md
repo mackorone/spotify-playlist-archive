@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: TOMATULUGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,470 likes - 99 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,491 likes - 99 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 21 | [Segunda Vida](https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv) | [Kingdom & Culture](https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Segunda Vida](https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD) | 2:37 |
 | 22 | [Nací Otra Vez](https://open.spotify.com/track/0lnhH9lRqNrfePmoajzMKr) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Nací Otra Vez](https://open.spotify.com/album/0M3IJSmCdaMON43j6LvBJQ) | 3:15 |
 | 23 | [LA NENA](https://open.spotify.com/track/7xQQ13GBlcbxKuIDIpa05y) | [LINARES](https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8) | [LA NENA](https://open.spotify.com/album/1ffbgSXEQkbdW6ETywjnCJ) | 2:57 |
-| 24 | [Won’t Let Me Down](https://open.spotify.com/track/6hdr5CZYViKUszTACW3pZB) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [Eliel B](https://open.spotify.com/artist/4PzhRJwZpGGxbmIiKpBvBm) | [Won’t Let Me Down](https://open.spotify.com/album/1Ai7aNekY1U0O4BgIQlq31) | 2:46 |
+| 24 | [Won't Let Me Down](https://open.spotify.com/track/6hdr5CZYViKUszTACW3pZB) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE), [Eliel B](https://open.spotify.com/artist/4PzhRJwZpGGxbmIiKpBvBm) | [Won’t Let Me Down](https://open.spotify.com/album/1Ai7aNekY1U0O4BgIQlq31) | 2:46 |
 | 25 | [Abrázame Más](https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Abrázame Más](https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M) | 2:52 |
 | 26 | [Incalculable](https://open.spotify.com/track/01fA33eA3lyGPwX7NqyQtG) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Incalculable](https://open.spotify.com/album/2vrBwteOCXI5lD2LNet6o1) | 5:01 |
 | 27 | [Le Llego](https://open.spotify.com/track/0XQ4WOBvSjoqh1pWjBvLE3) | [Lenny Mora](https://open.spotify.com/artist/4vLYHxBZf0EcNaV8TRVb9i), [Yeniell](https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91) | [Le Llego](https://open.spotify.com/album/17eUK5Q2KvADDnlvOtYePz) | 3:05 |

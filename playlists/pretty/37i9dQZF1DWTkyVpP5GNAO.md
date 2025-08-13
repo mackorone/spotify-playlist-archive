@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Ingrid Rosario & Ke'Erron
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,492 likes - 80 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,629 likes - 80 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

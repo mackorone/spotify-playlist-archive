@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA Cover: <a href="https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB?si=6f\_VpuwoSg6vVCWu7FndLw">Shekhinah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,338 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,400 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Hardcore Strikes Back",
+        "url": "https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Hardcore Strikes Back",
+      "url": "https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE"
+    },
+    {
+      "album": {
         "name": "The Bones Collection",
         "url": "https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR"
       },
@@ -7042,7 +7060,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 244814,
       "name": "WAS IST DAS",
       "url": "https://open.spotify.com/track/15tKh9aHfjbNPEbv4GmDhz"

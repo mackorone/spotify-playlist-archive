@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 738,
+  "num_followers": 741,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJfhAAAAAABcEVF1p/EWw4XgquF4HMiL",
+  "snapshot_id": "aJkygAAAAAAN00i6K7IdYU0GlxFDSNY7",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "'99",
+      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Day x2 (feat. MIKE & Marco Bernardis)",
         "url": "https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 199613,
       "name": "Day x2 (feat. MIKE & Marco Bernardis)",
       "url": "https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "'99",
-      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prophet",
-        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 296186,
-      "name": "Prophet",
-      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 188186,
       "name": "Mount Shasta",
       "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prophet",
+        "url": "https://open.spotify.com/album/41NWZwV3VvcM5luISJZipe"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 296186,
+      "name": "Prophet",
+      "url": "https://open.spotify.com/track/5DCm4IQDLYZ9L81DOglQ3p"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "nag champa",
         "url": "https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 172190,
       "name": "so simple",
       "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
     },
     {
       "added_at": null,

@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\. \_ \_ \_ \_](https://open.spotify.com/track/0gkkfUbuGoQ4nGblM1As5L) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [Away With Words, Part 1](https://open.spotify.com/album/6kpahkQqZJ1vJxCpaxgThh) | 5:11 | 2014-12-05 |  |
 | [1.618](https://open.spotify.com/track/5gvEv8RLtvH4YumbCQp3wQ) | [Allegaeon](https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1) | [Elements of the Infinite](https://open.spotify.com/album/1Kv7456N8uscm87kQwf4ZV) | 4:17 | 2014-12-05 |  |
 | [2053](https://open.spotify.com/track/5xRKgEi7nskkrhPPiCwkww) | [Xerath](https://open.spotify.com/artist/7ICyuIXqcbrfGmYwUjTzIA) | [III](https://open.spotify.com/album/2oa30rbh4Gmd5sqKPOhfrq) | 4:51 | 2014-12-05 |  |
 | [A Gluttonous Abomination](https://open.spotify.com/track/4ywlVADMEchrtcD15nx2EG) | [Acrania](https://open.spotify.com/artist/6D3PbIyyqH2NaqPZSE6X5N) | [Totalitarian Dystopia](https://open.spotify.com/album/0rjLXJXYSchgldcJ592bgW) | 6:22 | 2014-12-05 |  |
@@ -87,6 +86,7 @@
 | [Nothing Stands in Our Way](https://open.spotify.com/track/5VIeld8wneRwROoEgHxW76) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Broken Crown Halo](https://open.spotify.com/album/0gIndthuazxK3r7eFPwROB) | 4:07 | 2014-12-05 |  |
 | [Nothing to Win](https://open.spotify.com/track/20So2w5Vo9pOdZBFm0mpZW) | [YOB](https://open.spotify.com/artist/1hiIe6hmDchjc246cpoAOM) | [Clearing the Path to Ascend](https://open.spotify.com/album/6i97CIfeHYCaTFcTBn6gYK) | 11:21 | 2014-12-05 |  |
 | [Now We Die](https://open.spotify.com/track/5z7IRTefh2f7SCpXqTB5qJ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Now We Die](https://open.spotify.com/album/1vwC74NCHZjWWEDKcQut9c) | 7:10 | 2014-12-05 |  |
+| [One](https://open.spotify.com/track/0gkkfUbuGoQ4nGblM1As5L) | [Angel Vivaldi](https://open.spotify.com/artist/6fpCjyVnRPfrf9zxE3ZfcN) | [Away With Words, Pt.1](https://open.spotify.com/album/6kpahkQqZJ1vJxCpaxgThh) | 5:11 | 2014-12-05 |  |
 | [PsyWar](https://open.spotify.com/track/5AaCiaRivZnJavr5UIQ63r) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Esoteric Warfare](https://open.spotify.com/album/1s5V59lynJBXYHFcpK98SB) | 3:25 | 2014-12-05 |  |
 | [Pyrrhic](https://open.spotify.com/track/2tIvTqZYNTz9zPfyeunqd4) | [Ne Obliviscaris](https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4) | [Citadel](https://open.spotify.com/album/33nUO3fqIvPePbq6pg1Fgh) | 9:50 | 2014-12-05 |  |
 | [Raise Your Voice](https://open.spotify.com/track/4BagQ3bMxiNtLhOY00Fghe) | [Obey The Brave](https://open.spotify.com/artist/5heEwugc3JGxjIIivDEAg3) | [Salvation](https://open.spotify.com/album/12NSRNkFRDp63pZjIm0TH2) | 3:36 | 2014-12-05 |  |

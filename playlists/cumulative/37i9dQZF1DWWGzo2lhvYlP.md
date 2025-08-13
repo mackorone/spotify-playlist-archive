@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWGzo2lhvYlP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWGzo2lhvYlP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGzo2lhvYlP)
 
-### [Homework motivation](https://open.spotify.com/playlist/37i9dQZF1DWWGzo2lhvYlP)
+### [Academic Comeback](https://open.spotify.com/playlist/37i9dQZF1DWWGzo2lhvYlP)
 
 > nothing but bangers to help you with the grind
 

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Brodha V
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,519 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,565 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OM](https://open.spotify.com/track/64whxGk19WtoxDzHRbcXJI) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [OM](https://open.spotify.com/album/1gzJo2q9a9ZhgJbibcBBsA) | 5:10 |
 | 2 | [BTDT \(Been There Done That\)](https://open.spotify.com/track/0hVdUJRUZYDNtOztuJSWoz) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [BTDT \(Been There Done That\)](https://open.spotify.com/album/1tRD8Rx1R1BbfRXBhUyEwU) | 2:49 |
-| 3 | [Floating \- Feat\. Future](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
+| 3 | [Floating \- \(feat\. Future\)](https://open.spotify.com/track/1Y2wcqUyiK15x3mkHGcVcB) | [Sorrow Sky](https://open.spotify.com/artist/6qvJ9z3Idesciq5NOHDaFZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Floating](https://open.spotify.com/album/2qinuiw8anUFuVGbqiyHaZ) | 2:19 |
 | 4 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 |
 | 5 | [Billy Naghma](https://open.spotify.com/track/18DQElUP9fZQRt3kP7YWAq) | [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [ibrahim zaheer](https://open.spotify.com/artist/1jegwfLf8iYGET41yDXNLM) | [New Garden Sound](https://open.spotify.com/album/2HiR50BqYpJ4hRicONRRz1) | 2:11 |
 | 6 | [Maharani](https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [GHILDIYAL](https://open.spotify.com/artist/19oE1SHCKszlQciGXQGtbW) | [Maharani](https://open.spotify.com/album/6da96K6wuRyf61We22UBPe) | 6:29 |

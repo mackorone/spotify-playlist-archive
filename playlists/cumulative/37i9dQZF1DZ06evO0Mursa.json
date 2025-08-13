@@ -361,6 +361,48 @@
     },
     {
       "album": {
+        "name": "Adiemus II: Cantata Mundi",
+        "url": "https://open.spotify.com/album/59CePotGR37Bhf0a2xVDOp"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Adiemus",
+          "url": "https://open.spotify.com/artist/73GJmUlQIaIhau1wiDsXVB"
+        },
+        {
+          "name": "Mary Carewe",
+          "url": "https://open.spotify.com/artist/2ZYdpQgTZ31R3tjiX25XNT"
+        },
+        {
+          "name": "Pamela Thorby",
+          "url": "https://open.spotify.com/artist/2bYLKlxYrygI6cFZVtsfRP"
+        },
+        {
+          "name": "Miriam Stockley",
+          "url": "https://open.spotify.com/artist/3yBHmpIPyOHa80cQxSedau"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Jody K. Jenkins",
+          "url": "https://open.spotify.com/artist/4FjeS3mNCRfJqN4jRTr4Er"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542946,
+      "name": "Cantus: Song of Tears",
+      "url": "https://open.spotify.com/track/356Ba3qgYbEGfRA1zfq2i2"
+    },
+    {
+      "album": {
         "name": "Symphonic Adiemus",
         "url": "https://open.spotify.com/album/3ROSZyD97Qw2M1ZCsrsDgg"
       },
@@ -2296,7 +2338,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 102466,
       "name": "The Armed Man - A Mass For Peace: IV. Save Me from Bloody Men",
       "url": "https://open.spotify.com/track/7cip67flmdZuxgDxqBWp0h"

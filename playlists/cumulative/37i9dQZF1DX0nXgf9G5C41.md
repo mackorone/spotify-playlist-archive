@@ -2,7 +2,7 @@
 
 ### [Deep Dive: Trip\-Hop Revival](https://open.spotify.com/playlist/37i9dQZF1DX0nXgf9G5C41)
 
-> A dive into the past, present, and future of trip\-hop — from its mid\-90s pioneers to current artists flirting with the genre.
+> A dive into the past, present, and future of trip\-hop — from its mid\-90s pioneers to current artists flirting with the <a href="https://open.spotify.com/playlist/37i9dQZF1DWVXbA4kjkg6G?si=6206dd712ced4fca">genre.</a>
 
 50 songs - 3 hr 19 min
 

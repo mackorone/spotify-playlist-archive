@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/339857">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Kvi Baba \*👉 <a href="https://spice.eplus.jp/articles/339857">連動記事</a>をSPICEでチェック!
 
 11,512 songs - 30 day 0 hr 50 min
 

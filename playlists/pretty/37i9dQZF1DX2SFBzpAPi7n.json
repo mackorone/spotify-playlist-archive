@@ -1,15 +1,31 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HANRORO) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 244950,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \ud130\uce58\ub4dc(TOUCHED)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 245015,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJNQrxpCQ/Qc8JXa69WrZyR5YOUw",
+  "snapshot_id": "AAAAALSFZw4TY5kVAXs2a8QYYNR172pe",
   "tracks": [
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
+      "album": {
+        "name": "Red Signal",
+        "url": "https://open.spotify.com/album/1lxMHSVNpocUb4ls28XvET"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "duration_ms": 283693,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/1pha3bEl2w7TmudxbEq9rN"
+    },
+    {
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
-      "album": {
-        "name": "I Want You (2025 Band Ver.)",
-        "url": "https://open.spotify.com/album/0gsIPuIhrJOHvmIgnvBQng"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "I Want You (2025 Band Ver.)",
-      "url": "https://open.spotify.com/track/70da5uZdhDR0BTqDVEyEsx"
-    },
-    {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/2nZeaSN1gaZoPKeS2dkxJJ"
@@ -57,39 +57,7 @@
       "url": "https://open.spotify.com/track/1wJNpkpNrZEZId1F2Gz83K"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
-      "album": {
-        "name": "5.0",
-        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "CDEFG",
-      "url": "https://open.spotify.com/track/2jz2OCkYGhRB7EEcHM6YOW"
-    },
-    {
-      "added_at": "2025-08-11 07:59:52",
-      "album": {
-        "name": "The Nice Guy (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/4Wa3VLLWGqL0WKzgZfhhaA"
-      },
-      "artists": [
-        {
-          "name": " Seo Youngju",
-          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "For myself",
-      "url": "https://open.spotify.com/track/4qCZ6II6kGDEqZyCWEgrAP"
-    },
-    {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Serenade Blue",
         "url": "https://open.spotify.com/album/2ZfGqm9pflkoHNlZolUgaw"
@@ -105,7 +73,23 @@
       "url": "https://open.spotify.com/track/0wfmq23ZBILF7kFDahpuTy"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
+      "album": {
+        "name": "Everything's okay",
+        "url": "https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O"
+      },
+      "artists": [
+        {
+          "name": "87dance",
+          "url": "https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3"
+        }
+      ],
+      "duration_ms": 255488,
+      "name": "Everything's okay",
+      "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
+    },
+    {
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Summer Vacation Edition",
         "url": "https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3"
@@ -121,7 +105,23 @@
       "url": "https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "CDEFG",
+      "url": "https://open.spotify.com/track/2jz2OCkYGhRB7EEcHM6YOW"
+    },
+    {
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Demons [The Seasons: Cantabile of Park Bo Gum]",
         "url": "https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Soar - The 2nd Album",
         "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "SEVENTEEN 5th Album 'HAPPY BURSTDAY'",
         "url": "https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0z2DWFjnHhuWjlMFqAH4GN"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
         "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "To Reach You",
         "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Shoot Me : Youth Part 1",
         "url": "https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Episode 25",
         "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Really Like You",
         "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "when the rain stopped following me",
         "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "H1-KEY 4th Mini Album [Lovestruck]",
         "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "ENTITY",
         "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "UNSTABLE MINDSET",
         "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Head over Heels, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Forever Has Always Been",
         "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "YOUTH - The 1st Album",
         "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Fermata",
         "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
-      "added_at": "2025-08-11 07:59:52",
+      "added_at": "2025-08-12 09:19:31",
       "album": {
         "name": "WRLD",
         "url": "https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ"

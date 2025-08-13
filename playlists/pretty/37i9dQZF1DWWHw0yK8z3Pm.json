@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Mariel Buckley",
-  "num_followers": 68387,
+  "num_followers": 68391,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "King of Possibilities",
+        "url": "https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 156566,
+      "name": "King of Possibilities",
+      "url": "https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "California Sober (feat. Willie Nelson)",
         "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 230033,
       "name": "California Sober (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "King of Possibilities",
-        "url": "https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 156566,
-      "name": "King of Possibilities",
-      "url": "https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Trail Of Flowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 218967,
+      "name": "Don\u2019t Let Your Deal Go Down",
+      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
+    },
+    {
       "added_at": "2025-08-08 00:01:27",
       "album": {
         "name": "Don't Wake Me Up [Feat. Jesse Welles]",
@@ -1035,22 +1051,6 @@
       "duration_ms": 253561,
       "name": "Don't Wake Me Up [Feat. Jesse Welles]",
       "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Trail Of Flowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 218967,
-      "name": "Don\u2019t Let Your Deal Go Down",
-      "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Mean Old Sun",
-        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Mean Old Sun",
-      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Misty Morning",
         "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182866,
       "name": "Misty Morning",
       "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Mean Old Sun",
+        "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Mean Old Sun",
+      "url": "https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "War Cry",
-        "url": "https://open.spotify.com/album/4kPEjIl5E72ElHbYxcQFS8"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 95623,
-      "name": "War Cry",
-      "url": "https://open.spotify.com/track/7C2ojelGd6Pc6w1qOjECcj"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Lonely Cowboy",
         "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 203235,
       "name": "Lonely Cowboy - Radio Edit",
       "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "War Cry",
+        "url": "https://open.spotify.com/album/4kPEjIl5E72ElHbYxcQFS8"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 95623,
+      "name": "War Cry",
+      "url": "https://open.spotify.com/track/7C2ojelGd6Pc6w1qOjECcj"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Me More Cowboy Than You (Demo)",
-        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 163750,
-      "name": "Me More Cowboy Than You - Demo",
-      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Down Rounder",
         "url": "https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO"
       },
@@ -1603,22 +1587,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Bobcaygeon",
-        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 283687,
-      "name": "Bobcaygeon",
-      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Bobcaygeon",
+        "url": "https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 283687,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Me More Cowboy Than You (Demo)",
+        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Me More Cowboy Than You - Demo",
+      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
     },
     {
       "added_at": "2025-07-11 04:00:29",

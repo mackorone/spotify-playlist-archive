@@ -1,6 +1,6 @@
 {
   "description": "Uma viagem no tempo atrav\u00e9s de grandes cl\u00e1ssicos do Rock!",
-  "num_followers": 196613,
+  "num_followers": 196604,
   "original_name": "Rock Retr\u00f4",
   "owner": {
     "name": "Spotify",
@@ -612,16 +612,16 @@
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
           "name": "Norman Petty",
           "url": "https://open.spotify.com/artist/5M0cZ39iat2YdgcQX627oq"
         },
         {
           "name": "C. Hardin",
           "url": "https://open.spotify.com/artist/3YJENnOpwu0HbubqaijXGn"
+        },
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
         }
       ],
       "duration_ms": 129039,

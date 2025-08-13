@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 148406,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/2wwkUAQnTjsW2PPCe5MIkE"
@@ -4252,7 +4252,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 117019,
       "name": "DO YOU LIKE ZAAG?",
       "url": "https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE"
@@ -11019,6 +11019,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7EGF97NWc4QFu74AGBsvTY"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218560,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3gMtUqKbVoFviLiPQGAjBT"
+    },
+    {
+      "album": {
         "name": "Memory (feat. Justin J. Moore)",
         "url": "https://open.spotify.com/album/4agBrxS1RJAARpQlwwdKeF"
       },
@@ -13286,6 +13304,28 @@
       "duration_ms": 186750,
       "name": "Pills & Potions",
       "url": "https://open.spotify.com/track/5tv2IPbF3xZqfX7dAzwYKA"
+    },
+    {
+      "album": {
+        "name": "Pirates",
+        "url": "https://open.spotify.com/album/4oTskP5dIwKiWXj1E9tCLM"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        },
+        {
+          "name": "Bmberjck",
+          "url": "https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "Pirates",
+      "url": "https://open.spotify.com/track/2EjvWicbybvDByZkKOzbZk"
     },
     {
       "album": {

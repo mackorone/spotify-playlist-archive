@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,860 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,854 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 42 | [Merindu Lagi](https://open.spotify.com/track/49cQR3bjxEndbqK2qARYds) | [Mesa Hira](https://open.spotify.com/artist/7ynP6OqOCJe3k4JTk1Tjwc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Merindu Lagi](https://open.spotify.com/album/3b54FSMtFWyHk0CpeinEch) | 2:55 |
 | 43 | [Who let The D out?](https://open.spotify.com/track/48Qyy4TMDYTuxZdeFK4S0b) | [Nartok](https://open.spotify.com/artist/0AQRX7zjIcvx9wfT7PY8Q8) | [Dynamite](https://open.spotify.com/album/6htO1KHO8YUSxk1hNDlF9c) | 3:02 |
 | 44 | [Moving On](https://open.spotify.com/track/5n7fG5PX6YPFnCFzToYctM) | [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [Moving On](https://open.spotify.com/album/6YM9AyV9mOHDnDu8idfHbZ) | 3:27 |
-| 45 | [Hayati](https://open.spotify.com/track/12ugEklfQyLHjtvFVoKKxz) | [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Revival](https://open.spotify.com/album/78N2GDMu4FBQrF2iTf1SzR) | 3:28 |
+| 45 | [Hayati](https://open.spotify.com/track/12ugEklfQyLHjtvFVoKKxz) | [Harris J](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [Revival](https://open.spotify.com/album/78N2GDMu4FBQrF2iTf1SzR) | 3:28 |
 | 46 | [Jika Bukan Karenamu](https://open.spotify.com/track/7iVUpVWUKjUnYAd8vnH24P) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Jika Bukan Karenamu](https://open.spotify.com/album/0AUUtiiCcjBj27ncscvyjK) | 3:18 |
 | 47 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:13 |
 | 48 | [Shy](https://open.spotify.com/track/2N6md2JtrNake4sJ14KJ72) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 3:12 |

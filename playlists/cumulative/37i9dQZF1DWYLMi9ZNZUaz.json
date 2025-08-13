@@ -3579,6 +3579,32 @@
     },
     {
       "album": {
+        "name": "Purpose",
+        "url": "https://open.spotify.com/album/6TDlZZyASibSlbyD9VJDND"
+      },
+      "artists": [
+        {
+          "name": "Thai VG",
+          "url": "https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE"
+        },
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "DJ Feliks",
+          "url": "https://open.spotify.com/artist/7hcK77zeh3khl6cf6wGahR"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259605,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/7r8mtuap9IKsMXIDXdmFN7"
+    },
+    {
+      "album": {
         "name": "\u0110an Xinh In Love",
         "url": "https://open.spotify.com/album/3e5xMNYYXwVCpLwxUJDud5"
       },
@@ -5118,7 +5144,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 161948,
       "name": "Simp G\u00e1i 808",
       "url": "https://open.spotify.com/track/5J3m0taZ0W1E9HTE0MwcSv"
@@ -5584,7 +5610,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 239783,
       "name": "The One For Me",
       "url": "https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB"
@@ -6010,7 +6036,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 219036,
       "name": "Tr\u01b0\u01a1ng \u0110\u00ecnh Ho\u00e0ng",
       "url": "https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj"

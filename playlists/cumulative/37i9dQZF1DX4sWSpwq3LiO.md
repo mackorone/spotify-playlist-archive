@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,801 songs - 3 day 7 hr 56 min
+1,803 songs - 3 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1165,6 +1165,7 @@
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2020-08-04 | 2020-09-22 |
 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 | 2022-02-23 | 2022-12-21 |
 | [Plana](https://open.spotify.com/track/5EgicUflBxJWed0lriJNBz) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Plana](https://open.spotify.com/album/1h4kOi7wn2tcW8O4sMRbwg) | 2:25 | 2019-11-05 | 2019-11-19 |
+| [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 | 2025-08-11 |  |
 | [Plus tôt](https://open.spotify.com/track/3ODEuZjfxec5fYnzVhxANv) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Plus tôt](https://open.spotify.com/album/4ukvU27yDBfmArCFR3tY2C) | 2:59 | 2019-05-26\* | 2020-09-30 |
 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 | 2023-01-27 |  |
 | [Portmeirion](https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:11 | 2019-06-13 | 2020-08-04 |
@@ -1687,6 +1688,7 @@
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2021-09-09 | 2022-07-07 |
 | [Velez\-Malaga](https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq) | [Rosa Monteiro](https://open.spotify.com/artist/52Lag2Pn0WtKwomc2lCtZ1) | [Velez\-Malaga](https://open.spotify.com/album/6bmGfliwOLuAcStJqB9sNl) | 3:14 | 2021-09-09 | 2022-05-13 |
 | [Vellichor](https://open.spotify.com/track/6wHTJ1Bx98S9qILhLsgeQO) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Vellichor](https://open.spotify.com/album/5VbKExVj5IMx2M4ABGZCN7) | 2:37 | 2021-08-25 | 2022-04-15 |
+| [Veloura](https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Veloura](https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG) | 2:26 | 2025-08-11 |  |
 | [Velvet](https://open.spotify.com/track/4bZareX9vtIFFamGuEfWm3) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Velvet](https://open.spotify.com/album/2kfN2LxIyts9erM7arhUlj) | 4:56 | 2020-11-11 | 2020-11-27 |
 | [Veracity](https://open.spotify.com/track/3ClKFHLvLvVEyCxFXg9lEi) | [Helene Roche](https://open.spotify.com/artist/35rUAUQHv5PFbWv1L6CMrq) | [Veracity](https://open.spotify.com/album/5GxPPNwT35iYXeLZPXNf7M) | 2:28 | 2019-07-11 | 2020-09-15 |
 | [Verba Aymara](https://open.spotify.com/track/2P9eiPf0MsHHCkf3FKNqEs) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Verba Aymara](https://open.spotify.com/album/6RtdvqF0ZrVCtw2GRC9YB9) | 3:07 | 2021-09-01 | 2022-07-16 |

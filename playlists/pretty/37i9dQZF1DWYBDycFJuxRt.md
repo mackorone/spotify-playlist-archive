@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Official髭男dism \*👉 <a href="https://spice.eplus.jp/articles/339857">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Kvi Baba \*👉 <a href="https://spice.eplus.jp/articles/339857">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,716 likes - 79 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,813 likes - 79 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 78 | [Mermaid \-Never Ending Summer\-](https://open.spotify.com/track/2aiNYWnLBkF8qgHKzQTkgt) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [Mermaid \-Never Ending Summer\-](https://open.spotify.com/album/3dPFmKqZk8zE2tQLwPIW0l) | 3:36 |
 | 79 | [Alone Together](https://open.spotify.com/track/2SfaNmVySgqWhegRciNlFX) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Alone Together](https://open.spotify.com/album/3fong1iWBskKEDCMIhEasq) | 6:02 |
 
-Snapshot ID: `AAAAAB63ak1u8CmBhFSCO3tgLHkg/sNZ`
+Snapshot ID: `AAAAAJVQyISq+Hn5IwH6/fNgenxAQRQL`

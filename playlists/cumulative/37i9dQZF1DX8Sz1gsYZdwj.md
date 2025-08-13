@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-236 songs - 11 hr 12 min
+238 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [In the Quiet Hours](https://open.spotify.com/track/0mhzqS1uEIQm49i8yH7eUh) | [Harmonic Reverie](https://open.spotify.com/artist/5MQgVlRZZAASmBxSk6bbqi) | [In the Quiet Hours](https://open.spotify.com/album/0Hxyrm1hOIXjJFcXb51kn8) | 3:19 | 2025-05-28 |  |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2023-02-28 | 2025-05-17 |
 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 | 2022-06-21 | 2024-10-02 |
+| [invisible grace](https://open.spotify.com/track/6L1TN7HFt94qtFC1vJw7Rr) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [invisible grace](https://open.spotify.com/album/76H71qIvsrDgdCM8fNlOPL) | 2:47 | 2025-08-12 |  |
 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 | 2022-02-21 |  |
 | [Jeux d'enfants, Op\. 22 WD 56: 3\. La poupée](https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Bizet: Jeux d'enfants / Fauré: Dolly Suite / Ravel: Ma Mère l'oye](https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE) | 2:22 | 2021-11-09 | 2022-07-29 |
 | [Jeux d'enfants, Op\. 22 WD 56: 3\. La poupée](https://open.spotify.com/track/6e0ioWeLv2ezDGvqrprqlP) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Classically Opera](https://open.spotify.com/album/5C7l9QMUAqZRlwBAzofEG1) | 2:22 | 2022-11-10 | 2022-11-13 |
@@ -156,6 +157,7 @@
 | [Pauls Way](https://open.spotify.com/track/2CPb3HzkSrQFhOjGBEoV0t) | [Northern Quest](https://open.spotify.com/artist/0kBhfmZQ4cAg1an1vTbXEe) | [Pauls Way](https://open.spotify.com/album/3EdXQv7enzxPkCR5LKS8Sa) | 2:23 | 2023-09-29 | 2025-05-17 |
 | [Pictures](https://open.spotify.com/track/3cAcOh208CARldES110g2a) | [Diminuendo](https://open.spotify.com/artist/4y0wtNlcARoHFJ6Q8E2fK0) | [Diminuendo](https://open.spotify.com/album/1GCs1pumT2n5CNxjEt6DAS) | 2:40 | 2021-11-09 | 2023-03-01 |
 | [Placid Minds](https://open.spotify.com/track/62NuL99XSrl7IC1lEAAtKi) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Placid Minds](https://open.spotify.com/album/0SGfPPdJ7Azwx3rSDv6Z1f) | 2:42 | 2023-02-28 | 2023-04-01 |
+| [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 | 2025-08-12 |  |
 | [Portrait Gallery](https://open.spotify.com/track/3oRuCzqdduzZ2CBhAtv8zO) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Sun, Cloud](https://open.spotify.com/album/25ePjvtvxfiYd3XjPQFuDj) | 6:07 | 2021-11-09 | 2022-02-01 |
 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 | 2021-11-09 | 2023-04-01 |
 | [premier amour](https://open.spotify.com/track/3dLwUzb6aiBJnjsIGpfOOH) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [premier amour](https://open.spotify.com/album/0zRTkkUJhHUpRh3Go2X6Yz) | 2:38 | 2024-12-11 |  |

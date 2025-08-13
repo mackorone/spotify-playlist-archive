@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 
 > Slip into slumber with soothing sea sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,394 likes - 175 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,425 likes - 175 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 430920,
+  "num_followers": 430952,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2025-07-31 22:00:26",
-      "album": {
         "name": "The Bakman Tapes",
         "url": "https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 212017,
       "name": "I Do",
       "url": "https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu"
+    },
+    {
+      "added_at": "2025-07-31 22:00:26",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2025-07-31 22:00:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
-    },
-    {
-      "added_at": "2025-07-31 22:00:26",
-      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 160695,
       "name": "el sur",
       "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
+    },
+    {
+      "added_at": "2025-07-31 22:00:26",
+      "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2025-07-31 22:00:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "C\u00f3gelo fuerte (antes de que cambie)",
-        "url": "https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Yfeu",
-          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
-        }
-      ],
-      "duration_ms": 207439,
-      "name": "C\u00f3gelo fuerte (antes de que cambie)",
-      "url": "https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG"
-    },
-    {
-      "added_at": "2025-07-31 22:00:26",
-      "album": {
         "name": "Hold Your Head Up High",
         "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
+        "name": "C\u00f3gelo fuerte (antes de que cambie)",
+        "url": "https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 207439,
+      "name": "C\u00f3gelo fuerte (antes de que cambie)",
+      "url": "https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG"
+    },
+    {
+      "added_at": "2025-07-31 22:00:26",
+      "album": {
         "name": "Una y otra vez",
         "url": "https://open.spotify.com/album/26wOMg1h4v6nqQzXng3n9T"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
-      },
-      "artists": [
-        {
-          "name": "Casual",
-          "url": "https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "Suspicious Minds",
-      "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
-    },
-    {
-      "added_at": "2025-07-31 22:00:26",
-      "album": {
         "name": "Cosmic Wacho",
         "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 205577,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+    },
+    {
+      "added_at": "2025-07-31 22:00:26",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
+      },
+      "artists": [
+        {
+          "name": "Casual",
+          "url": "https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "Suspicious Minds",
+      "url": "https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF"
     },
     {
       "added_at": "2025-07-31 22:00:26",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "Gara",
-        "url": "https://open.spotify.com/album/7HDR2yQrKhyCXViL6Dzqn2"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Gara",
-      "url": "https://open.spotify.com/track/0KXmw8ZMt0eQntsjNrMq6p"
-    },
-    {
-      "added_at": "2025-07-31 22:00:26",
-      "album": {
         "name": "Mi Bolero",
         "url": "https://open.spotify.com/album/40o1tVepGEcMeg9BEToJCb"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 155526,
       "name": "As\u00ed me va",
       "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
+    },
+    {
+      "added_at": "2025-07-31 22:00:26",
+      "album": {
+        "name": "Gara",
+        "url": "https://open.spotify.com/album/7HDR2yQrKhyCXViL6Dzqn2"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Gara",
+      "url": "https://open.spotify.com/track/0KXmw8ZMt0eQntsjNrMq6p"
     },
     {
       "added_at": "2025-07-31 22:00:26",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2025-07-31 22:00:26",
-      "album": {
         "name": "\ua52b\u2661una gatita como tu\u2661\ua52b",
         "url": "https://open.spotify.com/album/064mptX3WwS6GvjoFJFCrn"
       },
@@ -1659,18 +1643,18 @@
     {
       "added_at": "2025-07-31 22:00:26",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
       "artists": [
         {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
     },
     {
       "added_at": "2025-07-31 22:00:26",
@@ -1687,6 +1671,22 @@
       "duration_ms": 190502,
       "name": "Cruzando el Charco",
       "url": "https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO"
+    },
+    {
+      "added_at": "2025-07-31 22:00:26",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2025-07-31 22:00:26",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nh3hyeon(\ud669\uc138\ud604))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBIBI(\ube44\ube44))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -8370,7 +8370,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 161000,
       "name": "LIKE NOTHING HAPPENED (Feat. DeVita)",
       "url": "https://open.spotify.com/track/0Wtka71lRuIJOc7PrhuJTu"
@@ -12039,6 +12039,28 @@
     },
     {
       "album": {
+        "name": "POP (feat. BIBI)",
+        "url": "https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN"
+      },
+      "artists": [
+        {
+          "name": "THE NEED",
+          "url": "https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140769,
+      "name": "POP (feat. BIBI)",
+      "url": "https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc"
+    },
+    {
+      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A"
       },
@@ -13216,6 +13238,24 @@
       "duration_ms": 179382,
       "name": "Shy (feat. Gist)",
       "url": "https://open.spotify.com/track/27ycVdLcd29r4NxhS4v6yF"
+    },
+    {
+      "album": {
+        "name": "shy girl",
+        "url": "https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163681,
+      "name": "shy girl",
+      "url": "https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP"
     },
     {
       "album": {
@@ -15918,7 +15958,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 171000,
       "name": "Wanna catch up? (feat. Rothy)",
       "url": "https://open.spotify.com/track/1IOQtbBsqtSZVD32LQ2lTx"

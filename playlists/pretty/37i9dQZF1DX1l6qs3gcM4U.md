@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: William Araujo
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,294 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,387 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 32 | [Viagem](https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Ney Chiqui](https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Viagem](https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO) | 3:57 |
 | 33 | [Preta](https://open.spotify.com/track/4aYX27PWIeyMVpxJhTMXjv) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Preta](https://open.spotify.com/album/1PfAv5hpqTc0Zc6rrgTKJi) | 3:23 |
 | 34 | [Vem Ser Feliz](https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO) | [Lurhany](https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi) | [Vem Ser Feliz](https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK) | 3:25 |
-| 35 | [Início do Fim](https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Início do Fim](https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI) | 3:11 |
-| 36 | [AROMA INSANO](https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [AROMA INSANO](https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV) | 2:30 |
+| 35 | [AROMA INSANO](https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [AROMA INSANO](https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV) | 2:30 |
+| 36 | [Início do Fim](https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Início do Fim](https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI) | 3:11 |
 | 37 | [Com Quem Será](https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Com Quem Será](https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL) | 4:28 |
 | 38 | [Só Nós 2](https://open.spotify.com/track/2u9wh68pKs26SY0N18d8U3) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Só Nós 2](https://open.spotify.com/album/7aQGaHD6kD0z3v6OMbKY18) | 3:49 |
 | 39 | [Você Prometeu](https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [Você Prometeu](https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F) | 3:13 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 91 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
 | 92 | [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 |
 | 93 | [Si Ki Min Krè](https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Si Ki Min Krè](https://open.spotify.com/album/0VW7FjphPCaebGCrlTlpzW) | 2:39 |
-| 94 | [Alice](https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce) | [Joelson JB](https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8), [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Alice](https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M) | 3:39 |
-| 95 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
+| 94 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
+| 95 | [Alice](https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce) | [Joelson JB](https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8), [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Alice](https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M) | 3:39 |
 | 96 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
 | 97 | [Marilia Mendonça](https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1) | [Cleyton David](https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq), [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g) | [Marilia Mendonça](https://open.spotify.com/album/6HE6oZIUPnHaoui0RccW8B) | 2:54 |
 | 98 | [TROMPETE](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [TROMPETE](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 |

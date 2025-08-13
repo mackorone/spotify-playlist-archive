@@ -4,7 +4,7 @@
 
 > Go inside the Marvel worlds that you love, with music from films including The Fantastic Four: First Steps, in theaters soon.
 
-220 songs - 9 hr 29 min
+221 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Eternals Theme](https://open.spotify.com/track/2IMCpvfw7vdBgK054H0FPE) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 3:47 | 2024-01-05 |  |
 | [Everybody's Groot](https://open.spotify.com/track/0DYuk9yQ2lkLxBVif6UR0q) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF) | [I Am Groot: Season 2](https://open.spotify.com/album/6yWMCUS4EmYTDDQNFcgmL8) | 2:32 | 2024-01-05 |  |
 | [Explorer](https://open.spotify.com/track/3Eun97bPFxQvti5Z1JNSO9) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...T'Challa Became a Star\-Lord? \(Original Soundtrack\)](https://open.spotify.com/album/2MYSnenXp8RIchyqzjf87d) | 1:39 | 2024-01-05 |  |
+| [Eyes of Wakanda Main Title](https://open.spotify.com/track/68OvoLY0aaC3QoZNCLwQjs) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Eyes of Wakanda \(Original Soundtrack\)](https://open.spotify.com/album/7d954NsLk8Outte8CNw2XX) | 1:16 | 2025-08-12 |  |
 | [Fa La La](https://open.spotify.com/track/6IXiFdmK9vZ7mmffeNpjsy) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 1:11 | 2024-05-22 | 2025-01-31 |
 | [Fate of Both Worlds \- From "MARVEL Rivals: Galactic Tunes"/Summer Remix](https://open.spotify.com/track/2VvK0FkSq5o8MbdK1OMSN8) | [Luna Snow](https://open.spotify.com/artist/2GP1Zfa8XEcPmeXvoTVc4M), [AL Ho](https://open.spotify.com/artist/0KnLrkMoSkPyPJXwA8EV2t) | [Fate of Both Worlds \(From "MARVEL Rivals: Galactic Tunes"/Summer Remix\)](https://open.spotify.com/album/0e7ogJZPnhlxocijWl4ZYh) | 3:53 | 2025-07-18 |  |
 | [Figure Out Your Life](https://open.spotify.com/track/6FLIReCyVOkDpzdhhtXzOI) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [Ms\. Marvel: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/7dcPn4IdB0lC5Wd54kA8l5) | 1:24 | 2024-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 
 > <a href="spotify:artist:5tuhrLilxNi6N7D6VeQZnc">Cedric Burnside</a> is taking over
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,901 likes - 31 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,911 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

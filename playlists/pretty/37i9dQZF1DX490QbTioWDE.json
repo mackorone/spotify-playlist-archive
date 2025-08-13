@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 762481,
+  "num_followers": 762622,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
+        "name": "Conv\u00e9nceme",
+        "url": "https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO"
       },
       "artists": [
         {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 192523,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
+      "duration_ms": 190045,
+      "name": "Conv\u00e9nceme",
+      "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "Conv\u00e9nceme",
-        "url": "https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO"
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
       },
       "artists": [
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
-      "duration_ms": 190045,
-      "name": "Conv\u00e9nceme",
-      "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
+      "duration_ms": 192523,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -931,38 +931,6 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "Nominado",
-        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
-    },
-    {
-      "added_at": "2025-08-08 16:58:25",
-      "album": {
-        "name": "Cuarteto Caracter\u00edstico (A2000)",
-        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        }
-      ],
-      "duration_ms": 302800,
-      "name": "Soy Cordobes",
-      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2025-08-08 16:58:25",
-      "album": {
         "name": "Fama de Diabla",
         "url": "https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 208979,
       "name": "Fama de Diabla",
       "url": "https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd"
+    },
+    {
+      "added_at": "2025-08-08 16:58:25",
+      "album": {
+        "name": "Cuarteto Caracter\u00edstico (A2000)",
+        "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "duration_ms": 302800,
+      "name": "Soy Cordobes",
+      "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
+    },
+    {
+      "added_at": "2025-08-08 16:58:25",
+      "album": {
+        "name": "Nominado",
+        "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "Aguardiente",
-        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
+        "name": "Esto Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 152432,
-      "name": "Aguardiente",
-      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+      "duration_ms": 199651,
+      "name": "Esto se Acab\u00f3",
+      "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "Esto Se Acab\u00f3",
-        "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
       },
       "artists": [
         {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        },
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
         }
       ],
-      "duration_ms": 199651,
-      "name": "Esto se Acab\u00f3",
-      "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
+      "duration_ms": 152432,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
+        "name": "La \u00daltima Granada (DQV Premium)",
+        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "La \u00daltima Granada (DQV Premium)",
+      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+    },
+    {
+      "added_at": "2025-08-08 16:58:25",
+      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "La \u00daltima Granada (DQV Premium)",
-        "url": "https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1"
+        "name": "Como Te Va Mi Amor - Hasta Hoy",
+        "url": "https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
-      "duration_ms": 182532,
-      "name": "La \u00daltima Granada (DQV Premium)",
-      "url": "https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79"
+      "duration_ms": 327488,
+      "name": "Como Te Va Mi Amor - Hasta Hoy",
+      "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1575,22 +1591,6 @@
       "duration_ms": 187022,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5Gr7v3mNpqN0ruxUpRstst"
-    },
-    {
-      "added_at": "2025-08-08 16:58:25",
-      "album": {
-        "name": "Como Te Va Mi Amor - Hasta Hoy",
-        "url": "https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 327488,
-      "name": "Como Te Va Mi Amor - Hasta Hoy",
-      "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
+        "name": "Esta de Moda",
+        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+      },
+      "artists": [
+        {
+          "name": "Pitty Murua",
+          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+        }
+      ],
+      "duration_ms": 204382,
+      "name": "Lo Aprend\u00ed de Ti",
+      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+    },
+    {
+      "added_at": "2025-08-08 16:58:25",
+      "album": {
         "name": "Dejame Intentar",
         "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 121551,
       "name": "Dejame Intentar",
       "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
-    },
-    {
-      "added_at": "2025-08-08 16:58:25",
-      "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
-      },
-      "artists": [
-        {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "Esta de Moda",
-        "url": "https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3"
+        "name": "Ni Lo Pienses",
+        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
       },
       "artists": [
         {
-          "name": "Pitty Murua",
-          "url": "https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9"
+          "name": "Banda Registrada",
+          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
         }
       ],
-      "duration_ms": 204382,
-      "name": "Lo Aprend\u00ed de Ti",
-      "url": "https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7"
+      "duration_ms": 254053,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-08-08 16:58:25",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
-    },
-    {
-      "added_at": "2025-08-08 16:58:25",
-      "album": {
         "name": "Buena Vida",
         "url": "https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu"
       },
@@ -1799,6 +1783,42 @@
       "duration_ms": 142463,
       "name": "Buena Vida",
       "url": "https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV"
+    },
+    {
+      "added_at": "2025-08-08 16:58:25",
+      "album": {
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2025-08-08 16:58:25",
+      "album": {
+        "name": "\u00bfQui\u00e9n te dijo?",
+        "url": "https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        },
+        {
+          "name": "NHAY",
+          "url": "https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "\u00bfQui\u00e9n te dijo?",
+      "url": "https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT"
     },
     {
       "added_at": "2025-08-08 16:58:25",
@@ -1831,26 +1851,6 @@
       "duration_ms": 263986,
       "name": "Luis",
       "url": "https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh"
-    },
-    {
-      "added_at": "2025-08-08 16:58:25",
-      "album": {
-        "name": "\u00bfQui\u00e9n te dijo?",
-        "url": "https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn"
-      },
-      "artists": [
-        {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
-        },
-        {
-          "name": "NHAY",
-          "url": "https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "\u00bfQui\u00e9n te dijo?",
-      "url": "https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT"
     },
     {
       "added_at": "2025-08-08 16:58:25",

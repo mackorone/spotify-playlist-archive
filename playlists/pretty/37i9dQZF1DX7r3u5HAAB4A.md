@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\.  Cover: Skillibeng
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,046 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,197 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 28 | [Way Too Fast](https://open.spotify.com/track/23zaP6LH6X2i3pdKhTUU9J) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx) | [Spain Root](https://open.spotify.com/album/3mZEERgUIhUcuKlZzVWku9) | 2:21 |
 | 29 | [Rich N Richer \- Raw](https://open.spotify.com/track/4sW8m27NH2o0PlctCResMv) | [Pablo YG](https://open.spotify.com/artist/0JFNiVq6LHCFEJk9ilmh9K) | [Rich N Richer \(Raw\)](https://open.spotify.com/album/4ah18uKOA9IrEF4P9ykKFU) | 3:27 |
 | 30 | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Wheel Up \(feat\. Byron Messia\)](https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx) | 3:03 |
-| 31 | [WiiCKEDEST](https://open.spotify.com/track/3eHRK2CDI9pPYU1AOEw25h) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WiiCKEDEST](https://open.spotify.com/album/4VjGBUistJMaNFowMJSirs) | 3:39 |
+| 31 | [WiiCKEDEST](https://open.spotify.com/track/3eHRK2CDI9pPYU1AOEw25h) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WiiCKEDEST](https://open.spotify.com/album/4VjGBUistJMaNFowMJSirs) | 3:40 |
 | 32 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
 | 33 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 34 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |

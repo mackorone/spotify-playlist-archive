@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-315 songs - 17 hr 15 min
+317 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Bad Moon Rising](https://open.spotify.com/track/7fOo5e67qKZg3NfgGO6SGL) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Bad Moon Rising](https://open.spotify.com/album/0nAtQD7Ff7AbEGwYSyyLLE) | 2:48 | 2024-05-07 | 2025-04-26 |
 | [Barbara / Arr Tharaud for Piano: J'ai tué l'amour](https://open.spotify.com/track/6lvsVdP4KobNe6WqZKqOyh) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Barbara](https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds) | 3:03 | 2021-11-25 | 2025-02-20 |
 | [Basket Case](https://open.spotify.com/track/4mfmAY5dBCLi5eFNz55HGM) | [Thomas Bryan Parker](https://open.spotify.com/artist/1Vx6UkHtcpcqVTg0pGY9fn) | [Basket Case](https://open.spotify.com/album/3phKXRZBfYzJjv3hglhVr4) | 2:49 | 2021-11-25 | 2024-10-02 |
-| [Beautiful Things](https://open.spotify.com/track/79BGIOUfSuR6dgzC7aLSjr) | [Allegra Maple](https://open.spotify.com/artist/0MeMU799QAvYXgTWdtGFgw) | [Beautiful Things](https://open.spotify.com/album/3Ah6jcvls9vliWzWgHHXZP) | 2:49 | 2025-03-18 |  |
+| [Beautiful Things](https://open.spotify.com/track/79BGIOUfSuR6dgzC7aLSjr) | [Allegra Maple](https://open.spotify.com/artist/0MeMU799QAvYXgTWdtGFgw) | [Beautiful Things](https://open.spotify.com/album/3Ah6jcvls9vliWzWgHHXZP) | 2:49 | 2025-03-18 | 2025-08-13 |
+| [Beautiful Things](https://open.spotify.com/track/4UXcuhVhDshck0InvWwMH5) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [Beautiful Things](https://open.spotify.com/album/3M6mh7QqgJ9ooyLLG4cku0) | 3:38 | 2025-08-12 |  |
 | [Beautiful Things](https://open.spotify.com/track/0D9nsRK6vBGT4VftiZekQ5) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [Beautiful Things](https://open.spotify.com/album/2OhkPafzvJpI5mnssJopSE) | 2:53 | 2025-03-07 | 2025-03-29 |
 | [Believe \- Piano Version](https://open.spotify.com/track/43dhdQCqo7Hl6eVaVllPaH) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [90s Piano Covers \(Vol\. 1\)](https://open.spotify.com/album/2m5eShSE6Mu4IL00sePped) | 3:17 | 2022-02-18 |  |
 | [Bella Notte](https://open.spotify.com/track/5bNvn5G0TOs1N27Z48muK1) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [Bella Notte](https://open.spotify.com/album/7gZ9q64kSDitC0fBT4tXUz) | 2:45 | 2024-11-19 |  |
@@ -268,6 +269,7 @@
 | [Tattoo](https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Tattoo](https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt) | 3:09 | 2023-07-24 | 2025-04-26 |
 | [Tears in Heaven](https://open.spotify.com/track/1diA0qxa31zuUw6e14P15n) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Tears in Heaven](https://open.spotify.com/album/6VfC5Ha40EKxopc0SJtsJy) | 3:13 | 2024-08-13 |  |
 | [That’s So True](https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [That’s So True](https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB) | 2:22 | 2025-04-15 |  |
+| [The A Team](https://open.spotify.com/track/69Q1L0hNIqfoxiKLpH0Mqc) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [The A Team](https://open.spotify.com/album/2iiZrN66jif43eBFSYspqf) | 2:38 | 2025-08-12 |  |
 | [The Rose](https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Rose](https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7) | 2:38 | 2024-03-04 |  |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 | 2025-04-26 |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |

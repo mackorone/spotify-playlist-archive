@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Fig Tape
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,513 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,528 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Run It](https://open.spotify.com/track/113RFsE4pPm8SjDHpVUNDi) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Run It](https://open.spotify.com/album/1blwBeuknRb6ZWUNuVvmXA) | 3:08 |
-| 2 | [allyougot](https://open.spotify.com/track/06UP7iP6HNm9iuq8RdWmYx) | [heyviktor](https://open.spotify.com/artist/7cct2uwuSioES9d47spIB9) | [allyougot](https://open.spotify.com/album/1bVOXhdOpvvz9GBwvlltXx) | 3:03 |
+| 2 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 |
 | 3 | [within](https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [within](https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin) | 3:11 |
-| 4 | [No Te Metas](https://open.spotify.com/track/6t2gQy5UR8QpUHz86ycB7p) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [No Te Metas](https://open.spotify.com/album/1q0JFZ57Inm8DbvFub29Wb) | 3:04 |
-| 5 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 |
-| 6 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 |
-| 7 | [Lose My Mind](https://open.spotify.com/track/7wjV5Z7vRHPP9UHniItXpf) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Lose My Mind](https://open.spotify.com/album/5uGaLNt0lvdPJmywdZcHRP) | 3:31 |
+| 4 | [Lose My Mind](https://open.spotify.com/track/7wjV5Z7vRHPP9UHniItXpf) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Lose My Mind](https://open.spotify.com/album/5uGaLNt0lvdPJmywdZcHRP) | 3:31 |
+| 5 | [No Te Metas](https://open.spotify.com/track/6t2gQy5UR8QpUHz86ycB7p) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [No Te Metas](https://open.spotify.com/album/1q0JFZ57Inm8DbvFub29Wb) | 3:04 |
+| 6 | [allyougot](https://open.spotify.com/track/06UP7iP6HNm9iuq8RdWmYx) | [heyviktor](https://open.spotify.com/artist/7cct2uwuSioES9d47spIB9) | [allyougot](https://open.spotify.com/album/1bVOXhdOpvvz9GBwvlltXx) | 3:03 |
+| 7 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 |
 | 8 | [myomy](https://open.spotify.com/track/5IsoULlO8leMiwQSj3WMv0) | [pelleklund](https://open.spotify.com/artist/6Es6ICW5sEgL7nOnWam1ep) | [myomy](https://open.spotify.com/album/56TfzdB8Nosgkqqegsfk2d) | 2:30 |
 | 9 | [Wolf Boy](https://open.spotify.com/track/02iATFfw65dORZrckOEYmk) | [Elín Hall](https://open.spotify.com/artist/1hfm4VS7hTtOZF08Qd9OTb) | [Wolf Boy](https://open.spotify.com/album/2iQ92vDSwPyhEo0m4jgA1r) | 4:21 |
 | 10 | [Star](https://open.spotify.com/track/3vQX9YgUaOj6jlUsUAbtyc) | [EILA](https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf) | [Star](https://open.spotify.com/album/4jgfgMtDRZZJkqPCuNlYI9) | 2:09 |

@@ -2,7 +2,7 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 藤井 風
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ヨルシカ
 
 1,168 songs - 2 day 18 hr 52 min
 

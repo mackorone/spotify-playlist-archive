@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Bad Thoughts",
+        "url": "https://open.spotify.com/album/790dXl1NNHQRXvNB4MUI4y"
+      },
+      "artists": [
+        {
+          "name": "Holy Priest",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Bad Thoughts",
+      "url": "https://open.spotify.com/track/2R7CPbBX9zRtzkp9tcAIXo"
+    },
+    {
+      "album": {
         "name": "GOODBYE SAL\u00d2",
         "url": "https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1"
       },
@@ -6404,7 +6422,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 137500,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU"

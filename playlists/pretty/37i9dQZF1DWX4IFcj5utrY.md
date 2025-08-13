@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: <a href="https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon?si=5kd\_6Dc8RCyQdqSg6f5DPA">Kamo Mphela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,378 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,604 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

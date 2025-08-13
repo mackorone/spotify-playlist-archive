@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/15ngsvOmlTkARCg7ipoNvG.md) - [plain]
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-[IW Music](https://open.spotify.com/user/ikwong1979) - 18,573 likes - 1,313 songs - 1 day 2 hr 21 min
+[IW Music](https://open.spotify.com/user/ikwong1979) - 18,572 likes - 1,313 songs - 1 day 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

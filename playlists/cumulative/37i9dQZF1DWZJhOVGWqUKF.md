@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Bad Wolves
 
-595 songs - 1 day 9 hr 49 min
+596 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bad Thoughts](https://open.spotify.com/track/4Yi6q2kLPdMxYRbICdXL02) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Bad Thoughts](https://open.spotify.com/album/36xNTQGdSQGFK4qA7b3K6q) | 3:41 | 2025-03-06 | 2025-03-21 |
 | [Ballerina \(with The Word Alive\)](https://open.spotify.com/track/6I3bYyPJGUxqiKp4pIv4SC) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Ballerina](https://open.spotify.com/album/3AxzoUigdPzyJeABdeki41) | 3:35 | 2024-11-07 | 2024-12-20 |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-07-11 |
-| [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 | 2024-06-27 |  |
+| [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 | 2024-06-27 | 2025-08-13 |
 | [Battle Scars](https://open.spotify.com/track/4xpdE5F04euZIm4AJE1zGZ) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Battle Scars](https://open.spotify.com/album/3TwgeexywW2I4VgSYIKsOp) | 2:56 | 2025-07-10 | 2025-07-18 |
 | [Been Here Before](https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Been Here Before](https://open.spotify.com/album/71S6zEj9bB6MAYURARKQ4g) | 4:27 | 2024-08-01 | 2025-03-22 |
 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 | 2025-05-30 |  |
@@ -483,6 +483,7 @@
 | [Something To Do](https://open.spotify.com/track/1R4WmMTZxs7BcuHmHsbqu5) | [The Journey Back](https://open.spotify.com/artist/55CvD5dJc8ykAoramtPS71), [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [Something To Do](https://open.spotify.com/album/1UhKtIWvOiiTtJhzgHo5FE) | 3:32 | 2024-11-28 | 2024-12-06 |
 | [SORRY I'M LATE](https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [SORRY I'M LATE](https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us) | 3:15 | 2024-10-03 | 2025-03-17 |
 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-10 | 2024-12-17 |
+| [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 | 2025-08-11 |  |
 | [Sports Bar](https://open.spotify.com/track/0wYK8HyYTKsjrQb9brdGvt) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Sports Bar](https://open.spotify.com/album/2vlC2Xx8sijAEAaOjfX1DC) | 3:18 | 2025-04-24 | 2025-05-02 |
 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 | 2024-08-22 | 2024-08-30 |
 | [Starting Over](https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Starting Over](https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2) | 3:14 | 2025-01-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84831,
+  "num_followers": 84823,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Boa Noite, DEUS (Sped Up)",
+        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
+      },
+      "artists": [
+        {
+          "name": "Nick Die",
+          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
+        },
+        {
+          "name": "WMBR",
+          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
+        }
+      ],
+      "duration_ms": 168857,
+      "name": "Boa Noite, DEUS (Sped Up)",
+      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
         "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
       },
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Boa Noite, DEUS (Sped Up)",
-        "url": "https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj"
-      },
-      "artists": [
-        {
-          "name": "Nick Die",
-          "url": "https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS"
-        },
-        {
-          "name": "WMBR",
-          "url": "https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28"
-        }
-      ],
-      "duration_ms": 168857,
-      "name": "Boa Noite, DEUS (Sped Up)",
-      "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Amizade Colorida, \u00c9 QUE AGENTE TRANZA E NUNCA BRIGA",
         "url": "https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
-      },
-      "artists": [
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        }
-      ],
-      "duration_ms": 153795,
-      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
-      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Agora que eu estou sozinho nesse mal caminho speed up",
         "url": "https://open.spotify.com/album/5GCBeMjrGOegor93rvS7q3"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 96548,
       "name": "Agora que eu estou sozinho nesse mal caminho speed up",
       "url": "https://open.spotify.com/track/1kdn6uBhMG1vnJB68HqoOj"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+        "url": "https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU"
+      },
+      "artists": [
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        }
+      ],
+      "duration_ms": 153795,
+      "name": "SIMPLESMENTE ELA, N\u00c3O CONSIGO VIVER LONGE DESSA SURTADA",
+      "url": "https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy"
     },
     {
       "added_at": "2024-07-08 19:10:57",

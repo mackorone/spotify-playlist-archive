@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30ec\u30c8\u30ed\u30ea\u30ed\u30f3\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: AKASAKI",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 203380,
       "name": "1000 days of moments",
       "url": "https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa"
@@ -546,6 +546,32 @@
       "duration_ms": 208955,
       "name": "27:00",
       "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
+    },
+    {
+      "album": {
+        "name": "2CITIES",
+        "url": "https://open.spotify.com/album/6HYHgr5FWpLVizJ6J8NeBk"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        },
+        {
+          "name": "Madkosmos",
+          "url": "https://open.spotify.com/artist/0JRNvckf8Yk6kgZh9tbe1a"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158936,
+      "name": "3layer",
+      "url": "https://open.spotify.com/track/6UO1UID2ax80nPLPvwNJbc"
     },
     {
       "album": {
@@ -8724,7 +8750,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 180000,
       "name": "I can't stand the heat",
       "url": "https://open.spotify.com/track/1XBtjxNVcMxWNsLKb87Dsa"
@@ -10024,6 +10050,24 @@
       "duration_ms": 234733,
       "name": "kireinamono",
       "url": "https://open.spotify.com/track/68eGqsBmUIkXbx12RWiVvg"
+    },
+    {
+      "album": {
+        "name": "Kiss Kiss Kiss",
+        "url": "https://open.spotify.com/album/09kDSsRW2LELBw2Pjk8tWf"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129349,
+      "name": "Kiss Kiss Kiss",
+      "url": "https://open.spotify.com/track/0t2jF8atu9yRgeO1IiHrBV"
     },
     {
       "album": {
@@ -11908,7 +11952,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 141145,
       "name": "MINT",
       "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
@@ -18840,7 +18884,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 191717,
       "name": "The 1",
       "url": "https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp"
@@ -21262,7 +21306,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 204032,
       "name": "yokogao.",
       "url": "https://open.spotify.com/track/7htFEPyFsjAPcMBZvhXL76"
@@ -22400,6 +22444,24 @@
       "duration_ms": 182666,
       "name": "\u304a\u3082\u3061\u3083\u5e1d\u56fd",
       "url": "https://open.spotify.com/track/7kzFsWhg6ybjZEFcwm66Zq"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3084\u3059\u307fTaxi",
+        "url": "https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe"
+      },
+      "artists": [
+        {
+          "name": "MON7A",
+          "url": "https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "\u304a\u3084\u3059\u307fTaxi",
+      "url": "https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ"
     },
     {
       "album": {
@@ -29982,7 +30044,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 146624,
       "name": "\u56db\u5b63\u56de\u751f",
       "url": "https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD"
@@ -34170,6 +34232,24 @@
       "duration_ms": 295261,
       "name": "\u71c8\u300c\u72ec\u5531\u300d",
       "url": "https://open.spotify.com/track/5S81ZEgJnL7htOyYRBPaF9"
+    },
+    {
+      "album": {
+        "name": "\u71d5",
+        "url": "https://open.spotify.com/album/685yIpLHwzuyHX3TepAVir"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
+          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229043,
+      "name": "\u71d5",
+      "url": "https://open.spotify.com/track/6toPGhuVJ5qwD7odP82bxG"
     },
     {
       "album": {

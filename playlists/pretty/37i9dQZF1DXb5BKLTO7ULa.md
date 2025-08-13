@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Broederliefde, Armin van Buuren, Eefje de Visser en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,080 likes - 92 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,073 likes - 92 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 89 | [OE NA NA](https://open.spotify.com/track/7m2Udw9TeVbRiZv0rxshas) | [Iamroyston](https://open.spotify.com/artist/2LJ7EXcNlX7Vdtd83Nrk2i), [DJ MBA](https://open.spotify.com/artist/1Rj45d7hzCL7Cz1A3dTFv3), [Jerrih](https://open.spotify.com/artist/0eKtd8T6YEkhuD9He27Jns) | [OE NA NA](https://open.spotify.com/album/6Z4W1yIGWTHX7MztYGyQlV) | 2:10 |
 | 90 | [Lichaamstaal](https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n) | [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Lichaamstaal](https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62) | 2:28 |
 | 91 | [Raak Me Niet Meer](https://open.spotify.com/track/6PHWZioqvGvH8sxUvJ3COB) | [Donson](https://open.spotify.com/artist/5BWlGj95oqmytrojTyBBvo) | [Raak Me Niet Meer](https://open.spotify.com/album/2WDNDPPSTqQ9w0EI74JTNY) | 2:13 |
-| 92 | [VAMONOS](https://open.spotify.com/track/05hrUYRhKBPitIJkUZg14M) | [Altijd Larstig & Rob Gasd'rop](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa) | [VAMONOS](https://open.spotify.com/album/6WeIhHYnVsgmiOgzK8Kjsy) | 2:00 |
+| 92 | [VAMONOS](https://open.spotify.com/track/05hrUYRhKBPitIJkUZg14M) | [LARSTIG & GASDROP](https://open.spotify.com/artist/5l0QvCc2QkgliOz3gtkZ2c), [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa) | [VAMONOS](https://open.spotify.com/album/6WeIhHYnVsgmiOgzK8Kjsy) | 2:00 |
 
 Snapshot ID: `AAAAAPGtXjaIXowgTbfuTx9Nxzu/4ofI`

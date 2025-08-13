@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF?si=acOpl02vSlCqtRwqOxMu3A">Moonlight Afriqa</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp?si=bVnkSRUsQ9CTho6A0kELIQ">Phiwo</a>\. Artwork: Isu Kim.
 
 1,362 songs - 2 day 20 hr 12 min
 

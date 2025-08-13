@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa vivian ja Mikael Laurent.",
-  "num_followers": 25920,
+  "num_followers": 25921,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Headphones On",
-        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 240308,
-      "name": "Headphones On",
-      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "moody",
         "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 175833,
       "name": "moody",
       "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Headphones On",
+        "url": "https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 240308,
+      "name": "Headphones On",
+      "url": "https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Not Like That Anymore",
-        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 202412,
-      "name": "Not Like That Anymore",
-      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "This Song",
         "url": "https://open.spotify.com/album/5PawlLnqcZnrqiAEDLwH2G"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 213895,
       "name": "This Song",
       "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Not Like That Anymore",
+        "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 202412,
+      "name": "Not Like That Anymore",
+      "url": "https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "Cha Cha Cha / Rim Tim Tagi Dim (Battle Mashup)",
         "url": "https://open.spotify.com/album/37GedKbVaIqIkF5LDJf7oq"
       },
@@ -1219,6 +1203,42 @@
       "duration_ms": 115075,
       "name": "Cha Cha Cha / Rim Tim Tagi Dim (Battle Mashup)",
       "url": "https://open.spotify.com/track/20K4ACwbRhAQAsY07m96Ca"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Naadindoo (feat. Ege Zulu)",
+        "url": "https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        },
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "duration_ms": 157788,
+      "name": "Naadindoo (feat. Ege Zulu)",
+      "url": "https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1263,26 +1283,6 @@
       "duration_ms": 164285,
       "name": "\u00c4iti Teresa (feat. Bizi)",
       "url": "https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Naadindoo (feat. Ege Zulu)",
-        "url": "https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        },
-        {
-          "name": "Ege Zulu",
-          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
-        }
-      ],
-      "duration_ms": 157788,
-      "name": "Naadindoo (feat. Ege Zulu)",
-      "url": "https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Onneks",
-        "url": "https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        }
-      ],
-      "duration_ms": 160343,
-      "name": "Onneks",
-      "url": "https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "Don Julio",
         "url": "https://open.spotify.com/album/7wJ9y8b9Yf5t9awj3z1IkX"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 175875,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/5pOJlSzz39LNDSTbM9556B"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Onneks",
+        "url": "https://open.spotify.com/album/47CR0XQ5zbMS7Rg8KIs87e"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "duration_ms": 160343,
+      "name": "Onneks",
+      "url": "https://open.spotify.com/track/6Pnv2q27FEAXKAPeuny5w5"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Mun Type",
+        "url": "https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        }
+      ],
+      "duration_ms": 149098,
+      "name": "Mun Type",
+      "url": "https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "Hand That Feeds (From the Film Ballerina)",
         "url": "https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Mun Type",
-        "url": "https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9"
-      },
-      "artists": [
-        {
-          "name": "Lage",
-          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
-        }
-      ],
-      "duration_ms": 149098,
-      "name": "Mun Type",
-      "url": "https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 212487,
       "name": "Voices",
       "url": "https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Nuori Mut Ei Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 159224,
+      "name": "Nuori Mut Ei Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1519,26 +1535,6 @@
       "duration_ms": 231680,
       "name": "Don't Cry, Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Rastat / Nelson Mandela (feat. Jukka Poika)",
-        "url": "https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H"
-      },
-      "artists": [
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        },
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 180056,
-      "name": "Rastat (feat. Jukka Poika)",
-      "url": "https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1595,22 +1591,6 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 207661,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
         "name": "Yks mun ongelmist (feat. Jore & Zpoppa)",
         "url": "https://open.spotify.com/album/5PvUchPy7xwCHJGCgSzGKG"
       },
@@ -1631,6 +1611,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 207661,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
       },
@@ -1643,6 +1639,26 @@
       "duration_ms": 205270,
       "name": "Friend Of Mine - from the Smurfs Movie Soundtrack",
       "url": "https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
+        "name": "Rastat / Nelson Mandela (feat. Jukka Poika)",
+        "url": "https://open.spotify.com/album/140ZYIlhbrz18KaTvD394H"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        },
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 180056,
+      "name": "Rastat (feat. Jukka Poika)",
+      "url": "https://open.spotify.com/track/04URb3phAOfTFNB5f8pyEm"
     },
     {
       "added_at": "2025-08-07 21:01:07",
@@ -1683,6 +1699,22 @@
     {
       "added_at": "2025-08-07 21:01:07",
       "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
+    },
+    {
+      "added_at": "2025-08-07 21:01:07",
+      "album": {
         "name": "I'll Be Waiting",
         "url": "https://open.spotify.com/album/3tBpgP3wphhWXwSI0Rxva0"
       },
@@ -1699,38 +1731,6 @@
       "duration_ms": 123692,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Nuori Mut Ei Tyhm\u00e4",
-        "url": "https://open.spotify.com/album/5XOyA2s8G2vEJ02gLUAKf0"
-      },
-      "artists": [
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 159224,
-      "name": "Nuori Mut Ei Tyhm\u00e4",
-      "url": "https://open.spotify.com/track/2OVePVQs93HnTZ1Z52WTph"
-    },
-    {
-      "added_at": "2025-08-07 21:01:07",
-      "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2025-08-07 21:01:07",

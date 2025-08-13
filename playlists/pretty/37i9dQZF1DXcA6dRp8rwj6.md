@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: JID\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,280 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,301 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 2 | [On McAfee \(with Baby Kia\)](https://open.spotify.com/track/5KMB0DItRBrLbYWN6CDJed) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 2:50 |
 | 3 | [NOBODY SAFE](https://open.spotify.com/track/5PjOxRWKD3aUvNHTf4bgAe) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [NOBODY SAFE](https://open.spotify.com/album/20N6yVUaJ0M8pgYvQRcZEE) | 1:42 |
 | 4 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 |
-| 5 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:02 |
+| 5 | [Early Morning](https://open.spotify.com/track/6F0XQ7jxOqR6j2MSP3ltdR) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Early Morning](https://open.spotify.com/album/5J55OWYUlK7fH11LeI2qDu) | 4:01 |
 | 6 | [Ah G.O.D](https://open.spotify.com/track/5np8DsZ1esdwsVq09B3wEd) | [Nartok](https://open.spotify.com/artist/0AQRX7zjIcvx9wfT7PY8Q8) | [Dynamite](https://open.spotify.com/album/6htO1KHO8YUSxk1hNDlF9c) | 3:09 |
 | 7 | [CINDERELLA](https://open.spotify.com/track/1Lv5XZL1pIu51ucD07BXF8) | [ASYRAF NASIR](https://open.spotify.com/artist/0AuICTYmANWThRroYVxJrT) | [CINDERELLA](https://open.spotify.com/album/3yEYdfPOv2685OcDJEPAn2) | 2:30 |
 | 8 | [Tak Tidur Malam](https://open.spotify.com/track/6Aac7jJ6IgzpsW8M4dlJLp) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Seharum Nama](https://open.spotify.com/album/4uPtgYPxvRpPJywCa6wvgH) | 3:08 |

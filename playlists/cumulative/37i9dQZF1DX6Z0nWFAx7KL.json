@@ -1961,6 +1961,28 @@
     },
     {
       "album": {
+        "name": "Echoes Of Us",
+        "url": "https://open.spotify.com/album/5fdQiFENnAb09njZgu3om3"
+      },
+      "artists": [
+        {
+          "name": "Roger Beck",
+          "url": "https://open.spotify.com/artist/0GmCCVtFsBJ1bid0fiBc99"
+        },
+        {
+          "name": "Natio",
+          "url": "https://open.spotify.com/artist/1kPCI44Jh0btRRRHjouPSc"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Echoes Of Us",
+      "url": "https://open.spotify.com/track/1sPjoQXelaOPf6hvhKNIId"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0"
       },
@@ -6974,7 +6996,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 133924,
       "name": "You Have To Have A Goal",
       "url": "https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E"

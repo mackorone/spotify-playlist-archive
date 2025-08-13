@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,343 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,378 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 8 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 | 9 | [Supreme Dee](https://open.spotify.com/track/4JEkyWx4exs9TAmeV4e06P) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Supreme Dee](https://open.spotify.com/album/0xuHVcGvttTmGcFxhhLPze) | 2:08 |
 | 10 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
-| 11 | [FRENCH BOSSA NOVA](https://open.spotify.com/track/38dNnsL9yYygLYiX5ORf6B) | [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm), [gracegrace](https://open.spotify.com/artist/3ORiPD4KjKZ3mOYOVko4Ud), [aupinard](https://open.spotify.com/artist/53EA17A3lcuQ2kJYYYkYTh) | [FRENCH BOSSA NOVA](https://open.spotify.com/album/1U25ArvtrbFkbAgke4NltV) | 3:50 |
+| 11 | [FRENCH BOSSA NOVA](https://open.spotify.com/track/38dNnsL9yYygLYiX5ORf6B) | [Ladji Mouflet](https://open.spotify.com/artist/2NNTIDSDRlsf4lzYW9fpKm), [aupinard](https://open.spotify.com/artist/53EA17A3lcuQ2kJYYYkYTh), [gracegrace](https://open.spotify.com/artist/3ORiPD4KjKZ3mOYOVko4Ud) | [FRENCH BOSSA NOVA](https://open.spotify.com/album/1U25ArvtrbFkbAgke4NltV) | 3:50 |
 | 12 | [Cant Go Broke \- Remix](https://open.spotify.com/track/7AoojPsB5RqnlgmAbBTelz) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cant Go Broke \(Remix\)](https://open.spotify.com/album/2mkUnlEIvymQmfNikypqYg) | 1:47 |
 | 13 | [Friendly Fire](https://open.spotify.com/track/1X9kEJ1M3ZxcGdckUbb47w) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Friendly Fire](https://open.spotify.com/album/58mKKCSrebioH3JkRYKfcq) | 2:49 |
 | 14 | [Backstage Pass \(with Monte Booker & The Drums\)](https://open.spotify.com/track/4LLNd36WeJKv8pzjGeoMXZ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Backstage Pass \(with Monte Booker & The Drums\)](https://open.spotify.com/album/4KOW0gXsh6Q736BgeF56hk) | 3:44 |

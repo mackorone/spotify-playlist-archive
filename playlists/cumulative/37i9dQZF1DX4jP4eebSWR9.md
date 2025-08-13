@@ -2,7 +2,7 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Tinashe, Disco Lines
+> 50 Hits in einer Playlist! Cover: Jassin
 
 241 songs - 11 hr 30 min
 

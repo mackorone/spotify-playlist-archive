@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,227 songs - 12 day 4 hr 22 min
+5,229 songs - 12 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1698,6 +1698,7 @@
 | [Future You](https://open.spotify.com/track/1pTuQlC7RG08TFSDXHR1PP) | [Many Words](https://open.spotify.com/artist/2x0QUmQILWL5fwJ8gmkRRb) | [EXPLORATIONS 001 // Weekends: Austin](https://open.spotify.com/album/6v6Rs5Cn9Srabwe3CUaWw3) | 0:48 | 2024-03-18 | 2024-03-29 |
 | [FUXIA](https://open.spotify.com/track/359SZXsa5CJtP0FNVqfzQ3) | [Pascal Pirita](https://open.spotify.com/artist/0WgC9CJAK1wJHsFXrv4Qz4) | [Un Lugar](https://open.spotify.com/album/0kmxhIVSlawqdE8JAaL2sJ) | 3:21 | 2023-12-18 | 2023-12-27 |
 | [FwL](https://open.spotify.com/track/3VuvmrFAGq7wUt7gYRVtOC) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS) | [FwL](https://open.spotify.com/album/10E1baAWyxCY6SpJHoH4S7) | 2:48 | 2025-06-28 | 2025-07-12 |
+| [FWU](https://open.spotify.com/track/6a6tmiEEetntXXQhlBgyzI) | [hyyypnos](https://open.spotify.com/artist/7LDhRcHi7qPPXiJ38FwH19) | [Moments Of Clarity](https://open.spotify.com/album/0dCF85cXPyhCO8OuDBOz7m) | 2:15 | 2025-08-12 |  |
 | [Fyne Shyt \- R&B Version](https://open.spotify.com/track/677TvUNmO8UKaXMDM8ec6Y) | [GNHVibez](https://open.spotify.com/artist/4czlOqyE9JqXDDUqxgmZUK) | [Fyne Shyt \(R&B Version\)](https://open.spotify.com/album/6bKyenN8n74w9zQmMGtL2m) | 2:52 | 2025-06-22 | 2025-07-04 |
 | [G](https://open.spotify.com/track/02REBPzejm75Yqm8cnYrPC) | [S.F.H.](https://open.spotify.com/artist/2CvYO3hLvErhr88F4IbX6s) | [G](https://open.spotify.com/album/22gXJUPsRW9H6cekQ21XS0) | 4:28 | 2021-02-26 | 2021-03-14 |
 | [G In Georgia](https://open.spotify.com/track/0LOv13KH2TSoHbO7WaW31n) | [Tyler Neal](https://open.spotify.com/artist/3FCIOAlI83je5C3dD4Fma9) | [G In Georgia](https://open.spotify.com/album/7iOojwj2vksT6dYGEqRSLv) | 3:44 | 2023-07-08 | 2023-07-29 |
@@ -4686,6 +4687,7 @@
 | [Travel](https://open.spotify.com/track/7uoqCg03levMntncQq8ru4) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Travel](https://open.spotify.com/album/13LKBMMdUtEo8vhEWBIEb3) | 4:20 | 2020-06-07 | 2020-07-02 |
 | [Traversée du désert et sa tempête](https://open.spotify.com/track/5x2RPstDoNypaPE04LizMY) | [Orchid Big Band](https://open.spotify.com/artist/0CFOJppNQ8VUADgdzsQQKY) | [Traversée du désert et sa tempête](https://open.spotify.com/album/3ZSQZFII8AQRkXH13TCatz) | 7:02 | 2023-02-17 | 2023-03-18 |
 | [Treading Water](https://open.spotify.com/track/5mjcasctAnzukkWQmzJH7V) | [Joint Stability](https://open.spotify.com/artist/1w8GfHhJI3ij3wQZMYOb4p), [Lola Sola](https://open.spotify.com/artist/660fHawLCEw8jDK5VHQIhX) | [Everything For A Little While](https://open.spotify.com/album/37j5SsnLBmIMFUeSVbH4Og) | 3:43 | 2023-02-03 | 2023-02-25 |
+| [TREAT ME](https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [TREAT ME](https://open.spotify.com/album/3t75ftuVsjFiUMxcCC3N1X) | 2:11 | 2025-08-12 |  |
 | [Treat Me Like Fire](https://open.spotify.com/track/0kVpBFWUMLPCujNTgpxW9c) | [Amoin](https://open.spotify.com/artist/1BI3P3KS5cQBojJMNpXUIT) | [Treat Me Like Fire](https://open.spotify.com/album/49FbP66AuXCE58G1e2s0Uh) | 2:51 | 2025-07-05 | 2025-07-20 |
 | [Treated Like Grass](https://open.spotify.com/track/61qpbdjUDiGifoTytJIBMU) | [Johnny Franco](https://open.spotify.com/artist/4JrSPyzLVPKQlEHHpqt4c3) | [Treated Like Grass](https://open.spotify.com/album/6JY6azHizPC0MU39QNQX4z) | 3:34 | 2019-12-04 | 2019-12-17 |
 | [Triangle](https://open.spotify.com/track/6YPBn9891Gdk9m9pny2n1e) | [Kristii](https://open.spotify.com/artist/4zs9TM0fX4iHk9ZcV71ftL) | [Triangle](https://open.spotify.com/album/5ywDAyJXRg6xmQm8rfB1mb) | 3:12 | 2024-09-04 | 2024-09-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,613 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,604 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 | 35 | [Reet Petite](https://open.spotify.com/track/533NW3XHuW3MjO4vLqY2iV) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 2:42 |
 | 36 | [Boppin' the Blues](https://open.spotify.com/track/0YmHUmDF5y9TQcnDxYdvpw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/3BVjcVyGYi1yQN8hVmAFlO) | 2:47 |
 | 37 | [Rock'A \- Billy](https://open.spotify.com/track/5jtS8QypkXqhiwFOL46w8D) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Singin' The Blues](https://open.spotify.com/album/5VyTvjkzmIWhO25EuBc0nO) | 2:10 |
-| 38 | [Everyday](https://open.spotify.com/track/6XJvB9UZYiJiUh8gWGWfXd) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [Norman Petty](https://open.spotify.com/artist/5M0cZ39iat2YdgcQX627oq), [C\. Hardin](https://open.spotify.com/artist/3YJENnOpwu0HbubqaijXGn) | [Big Fish \(Music from the Motion Picture\)](https://open.spotify.com/album/3xzFIcun38dKeUM0YRkrfm) | 2:09 |
+| 38 | [Everyday](https://open.spotify.com/track/6XJvB9UZYiJiUh8gWGWfXd) | [Norman Petty](https://open.spotify.com/artist/5M0cZ39iat2YdgcQX627oq), [C\. Hardin](https://open.spotify.com/artist/3YJENnOpwu0HbubqaijXGn), [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Big Fish \(Music from the Motion Picture\)](https://open.spotify.com/album/3xzFIcun38dKeUM0YRkrfm) | 2:09 |
 | 39 | [Let's Twist Again](https://open.spotify.com/track/2IH4PRZxA3W6sIWcFU0GKZ) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Let's Twist Again](https://open.spotify.com/album/0IEInSb6G0je73hLIOPl5l) | 2:19 |
 | 40 | [Burning Love](https://open.spotify.com/track/4VK3MDt1FAP101D0mnFJkz) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 2:49 |
 | 41 | [You Got It](https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Mystery Girl](https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU) | 3:30 |

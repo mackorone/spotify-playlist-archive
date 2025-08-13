@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 8902,
+  "num_followers": 8936,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-07-08 05:46:42",
       "album": {
+        "name": "WEAK",
+        "url": "https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 197291,
+      "name": "NOT OK (Feat. MINNIE)",
+      "url": "https://open.spotify.com/track/0tSDqQOK8EgoRxYXWkP5rR"
+    },
+    {
+      "added_at": "2025-07-08 05:46:42",
+      "album": {
         "name": "Airman Morning Diaries",
         "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 201077,
       "name": "Blue Island (feat. 1Ho & Chan)",
       "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
-    },
-    {
-      "added_at": "2025-07-08 05:46:42",
-      "album": {
-        "name": "WEAK",
-        "url": "https://open.spotify.com/album/7JErMWy5j6BAaQ6brtCsU5"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 197291,
-      "name": "NOT OK (Feat. MINNIE)",
-      "url": "https://open.spotify.com/track/0tSDqQOK8EgoRxYXWkP5rR"
     },
     {
       "added_at": "2025-07-08 05:46:42",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-07-08 05:46:42",
       "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 214950,
+      "name": "dance all night",
+      "url": "https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO"
+    },
+    {
+      "added_at": "2025-07-08 05:46:42",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2025-07-08 05:46:42",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/34Q2W5StgW4WC6HhbsNWnv"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 214950,
-      "name": "dance all night",
-      "url": "https://open.spotify.com/track/05v68b039L6DcXHhbkL2wO"
     },
     {
       "added_at": "2025-07-08 05:46:42",

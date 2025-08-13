@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Halestorm",
-  "num_followers": 407471,
+  "num_followers": 407546,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 209835,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
+    },
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
         "name": "HURT (feat. The Warning)",
         "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
@@ -1031,18 +1047,18 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
+        "name": "The Jaws Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS"
       },
       "artists": [
         {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 209835,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
+      "duration_ms": 256268,
+      "name": "Kiss Me Now",
+      "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1059,22 +1075,6 @@
       "duration_ms": 196774,
       "name": "No Rain, No Flowers",
       "url": "https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
-        "name": "The Jaws Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 256268,
-      "name": "Kiss Me Now",
-      "url": "https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "Darkness Always Wins",
-        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 290309,
-      "name": "Darkness Always Wins",
-      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 287159,
       "name": "NEVER ENOUGH",
       "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
+    },
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
+        "name": "Darkness Always Wins",
+        "url": "https://open.spotify.com/album/6WWNTFaiCuC8rQvDRVIQWr"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 290309,
+      "name": "Darkness Always Wins",
+      "url": "https://open.spotify.com/track/7wBKXbleeJQuQDnfKlOOGe"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1459,8 +1459,8 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "TokSik",
-        "url": "https://open.spotify.com/album/0lQauEzDsukvFsjxeU5pAB"
+        "name": "dark things",
+        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
       },
       "artists": [
         {
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
         }
       ],
-      "duration_ms": 231385,
-      "name": "TokSik",
-      "url": "https://open.spotify.com/track/2A1vltKnglFQrMFEUoyFSE"
+      "duration_ms": 280776,
+      "name": "dark things",
+      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1563,8 +1563,8 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "dark things",
-        "url": "https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO"
+        "name": "TokSik",
+        "url": "https://open.spotify.com/album/0lQauEzDsukvFsjxeU5pAB"
       },
       "artists": [
         {
@@ -1572,9 +1572,9 @@
           "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
         }
       ],
-      "duration_ms": 280776,
-      "name": "dark things",
-      "url": "https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5"
+      "duration_ms": 231385,
+      "name": "TokSik",
+      "url": "https://open.spotify.com/track/2A1vltKnglFQrMFEUoyFSE"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "Addicted To The Violence",
-        "url": "https://open.spotify.com/album/6CWO5GdXfUd6mjbDDD5Hln"
-      },
-      "artists": [
-        {
-          "name": "Daron Malakian and Scars On Broadway",
-          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Done Me Wrong",
-      "url": "https://open.spotify.com/track/01ywKW2yXAkTjnttwrZgGm"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
         "name": "Precious Space",
         "url": "https://open.spotify.com/album/62bSzTXBWIfTZoCOtf2cgV"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 161016,
       "name": "Perfect Strangers",
       "url": "https://open.spotify.com/track/1UUIQlzikG5RI9J93lNjCS"
+    },
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
+        "name": "Addicted To The Violence",
+        "url": "https://open.spotify.com/album/6CWO5GdXfUd6mjbDDD5Hln"
+      },
+      "artists": [
+        {
+          "name": "Daron Malakian and Scars On Broadway",
+          "url": "https://open.spotify.com/artist/5vbtZfRJjn2QLhPhtYpiqi"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Done Me Wrong",
+      "url": "https://open.spotify.com/track/01ywKW2yXAkTjnttwrZgGm"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
+        "name": "The Father of Make Believe",
+        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 256028,
+      "name": "Goodbye, Sunshine",
+      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
+    },
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/1sADPht6zP5bBXlNitLRuQ"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 180615,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
-        "name": "The Father of Make Believe",
-        "url": "https://open.spotify.com/album/7fj1TOW6bJglJWQ8MqxNUH"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 256028,
-      "name": "Goodbye, Sunshine",
-      "url": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm"
     },
     {
       "added_at": "2025-08-08 04:00:45",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-08-08 04:00:45",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 183187,
-      "name": "III",
-      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
-    },
-    {
-      "added_at": "2025-08-08 04:00:45",
-      "album": {
         "name": "PRAY TO ME",
         "url": "https://open.spotify.com/album/71kIIbBZIrVzJaJQaiQeQN"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 188177,
       "name": "PRAY TO ME",
       "url": "https://open.spotify.com/track/0yBNJ0WpqR0Ck7EwSdkG7j"
+    },
+    {
+      "added_at": "2025-08-08 04:00:45",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/33k6y0sxFbgW1I0GBcUrN3"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 183187,
+      "name": "III",
+      "url": "https://open.spotify.com/track/4TNV2F6yCqt5ska9ojuEnA"
     },
     {
       "added_at": "2025-08-08 04:00:45",

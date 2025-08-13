@@ -1,12 +1,12 @@
 {
   "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Superman",
-  "num_followers": 158804,
+  "num_followers": 158823,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI1gzYJPOV1LMQZCmM1KdjqmIvdt",
+  "snapshot_id": "AAAAAMqZV7Nrb2pyMCIftDOW9XIm49Db",
   "tracks": [
     {
       "added_at": "2025-07-16 16:05:37",
@@ -59,6 +59,22 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "added_at": "2025-08-12 19:57:29",
+      "album": {
+        "name": "Best Loved Melodies",
+        "url": "https://open.spotify.com/album/2P1yIVMnwTLyVcVTlphNod"
+      },
+      "artists": [
+        {
+          "name": "The Lennon Sisters",
+          "url": "https://open.spotify.com/artist/6FQRjLSuGHEAdioKxIGBdZ"
+        }
+      ],
+      "duration_ms": 151173,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/7BZZUAOGqScBb9wciuBHa7"
     },
     {
       "added_at": "2025-08-05 02:38:39",
@@ -115,6 +131,38 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+    },
+    {
+      "added_at": "2025-08-12 19:57:29",
+      "album": {
+        "name": "Wednesday: Season 2, Vol. 1 (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Addams",
+          "url": "https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03"
+        },
+        {
+          "name": "Nevermore Academy Orchestra",
+          "url": "https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU"
+        },
+        {
+          "name": "Catherine Zeta-Jones",
+          "url": "https://open.spotify.com/artist/5i4JbHYkeCa702YXS68RGf"
+        },
+        {
+          "name": "Billie Piper",
+          "url": "https://open.spotify.com/artist/3RjnAn8EWb7zaLlGWVxQeP"
+        },
+        {
+          "name": "Bobby Studley",
+          "url": "https://open.spotify.com/artist/1TsT3aFQoH4MNqUr9bjQmx"
+        }
+      ],
+      "duration_ms": 184783,
+      "name": "Bad Moon Rising - from \"Wednesday: Season 2\"",
+      "url": "https://open.spotify.com/track/3osgFGQCpFrT7FEdxMVPfq"
     },
     {
       "added_at": "2025-08-08 16:07:32",
@@ -915,46 +963,6 @@
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Queer (Original Score)",
-        "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 274463,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
     }
   ],
   "unique_name": "needle drop",

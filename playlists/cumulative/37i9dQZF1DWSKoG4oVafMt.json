@@ -2423,6 +2423,28 @@
     },
     {
       "album": {
+        "name": "Intense (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pVwv7THPN2KGH6sKd0lwJ"
+      },
+      "artists": [
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Harpreet Sran",
+          "url": "https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179074,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/30cdthGmCUtEHTlsEexhpK"
+    },
+    {
+      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd"
       },
@@ -5826,6 +5848,28 @@
       "duration_ms": 216537,
       "name": "Firozi",
       "url": "https://open.spotify.com/track/3C1CI7A7stRCh6gpBWCEQS"
+    },
+    {
+      "album": {
+        "name": "MOODBOARD",
+        "url": "https://open.spotify.com/album/0dEWzhpR6tABssev2QxWDT"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Josh Sidhu",
+          "url": "https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166638,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/0i4m3NaYFt8MCLid2PRgRx"
     },
     {
       "album": {
@@ -21888,7 +21932,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 221538,
       "name": "Udh Di Phiran",
       "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
@@ -22730,7 +22774,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 210422,
       "name": "Whenever",
       "url": "https://open.spotify.com/track/75NrYaibnoCgQZASqWrcYs"

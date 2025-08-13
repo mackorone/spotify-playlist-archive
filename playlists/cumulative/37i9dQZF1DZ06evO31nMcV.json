@@ -517,6 +517,44 @@
     },
     {
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "James Morgan",
+          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
+        },
+        {
+          "name": "Tina Guo",
+          "url": "https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV"
+        },
+        {
+          "name": "Rob Derbyshire",
+          "url": "https://open.spotify.com/artist/3cH6jwySd6wMM0OxMTh5CP"
+        },
+        {
+          "name": "Tim Garland",
+          "url": "https://open.spotify.com/artist/7atdKYaPCT9zvJW2OTedhz"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208023,
+      "name": "Forever Song",
+      "url": "https://open.spotify.com/track/3QT8S7ZBD5kfQX3aJ7Nb5Y"
+    },
+    {
+      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -594,7 +632,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 237111,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/6MlSaMQB3H6xDU903HfUF0"

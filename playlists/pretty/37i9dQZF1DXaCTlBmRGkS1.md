@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 
 > 都市型音楽フェス「<a href="https://metrock.jp/">METROPOLITAN ROCK FESTIVAL 2024</a>」（METROCK2024）の出演アーティストを特集。5月11日（土）\- 12日（日）大阪府 海とのふれあい広場、5月18日（土）\-19日（日）東京都 若洲公園にて開催！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

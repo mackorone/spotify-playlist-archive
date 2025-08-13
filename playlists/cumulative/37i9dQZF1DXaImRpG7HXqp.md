@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-840 songs - 1 day 12 hr 29 min
+842 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 | 2022-09-09 | 2024-04-05 |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2021-12-08 | 2022-07-22 |
 | [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 | 2024-01-12 |  |
+| [By the Sea](https://open.spotify.com/track/6Lt9b5oL5on7REgC3FarN2) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [By the Sea](https://open.spotify.com/album/4f8DinTrpgO48Fc6pNUjgi) | 2:09 | 2025-08-11 |  |
 | [By your Bedside](https://open.spotify.com/track/24Z0ctP962NKQuYgyv6L4D) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [By your Bedside](https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3) | 1:49 | 2023-04-21 | 2023-06-23 |
 | [Búsqueda De Sentido](https://open.spotify.com/track/2XRK0vzGIyxQK6MsVuJHji) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Búsqueda De Sentido](https://open.spotify.com/album/55jt44ng8AMCCUmAjLWka8) | 3:06 | 2022-10-07 | 2024-05-04 |
 | [Calida Brisa](https://open.spotify.com/track/76nQ333SbxQgLdDlw2gahj) | [Juliana Gonsales](https://open.spotify.com/artist/0rASXzSswkFvGnrpmKIR8D) | [Calida Brisa](https://open.spotify.com/album/5otzWkJXdKTzk2ldIGIcTp) | 1:55 | 2023-06-02 | 2023-08-19 |
@@ -564,6 +565,7 @@
 | [Poulenc’s Dream](https://open.spotify.com/track/0wXXgNfz4Dp6qu6UsxYTHf) | [Callum Welch](https://open.spotify.com/artist/5xHojkpWvFQNmyVcAW6RKe) | [Até o Fim](https://open.spotify.com/album/1qK7kniKkgorGEAmuRBCTn) | 2:41 | 2021-12-08 | 2024-06-07 |
 | [Pragmatique](https://open.spotify.com/track/4oOgOAn9AgPDygYgN8nXhc) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Pragmatique](https://open.spotify.com/album/7GJvN3Murt1srya715Qjut) | 2:03 | 2021-12-08 | 2022-06-10 |
 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 | 2021-12-08 | 2022-04-22 |
+| [Prolepsis](https://open.spotify.com/track/2nXKLx6twOnsoPnP6Mb6bP) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Prolepsis](https://open.spotify.com/album/653TASouF1WGqXxbQhXvjn) | 2:39 | 2025-08-11 |  |
 | [Promise](https://open.spotify.com/track/7a26pDubE6apyx3BucvKKt) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [Promise](https://open.spotify.com/album/2CZN9ANjx4cG4L9EywcLmM) | 1:44 | 2023-06-22 | 2023-08-19 |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-21 | 2025-03-12 |
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |

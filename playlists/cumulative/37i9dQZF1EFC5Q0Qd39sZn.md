@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-656 songs - 1 day 21 hr 23 min
+658 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Constantemente Mía](https://open.spotify.com/track/24fTpKCVry3bLF00HrxckI) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:03 | 2023-12-30 |  |
 | [Could I Have This Kiss Forever](https://open.spotify.com/track/01qCxvpyyIm0a0RG3uYxEm) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Enrique](https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci) | 3:55 | 2023-12-30 |  |
 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 | 2023-12-30 |  |
-| [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 | 2023-12-30 |  |
+| [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 | 2025-08-12 |  |
+| [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 | 2023-12-30 | 2025-08-13 |
 | [Counterfeit](https://open.spotify.com/track/5PYoVbt8FHP2RF54we98q2) | [Tulisa](https://open.spotify.com/artist/2T2FygBhNFzuzjLefPpsdv) | [The Female Boss](https://open.spotify.com/album/0zXYx82zuw2TWYR96aaFNH) | 4:07 | 2023-12-30 |  |
 | [Cover Up](https://open.spotify.com/track/67PeTDuHzkzlt2DfTQTzKv) | [La'Porsha Renae](https://open.spotify.com/artist/24C4CBrPP5KOOIl31D68kd) | [Already All Ready](https://open.spotify.com/album/5812DKXEzLlj0RrGNJShaH) | 3:40 | 2023-12-30 |  |
 | [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 | 2025-05-13 |  |
@@ -410,7 +411,8 @@
 | [Old Motown Music \(Radio,Radio\)](https://open.spotify.com/track/6N8ESjbiYSdxSL9TFhTO4P) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Midnight Man](https://open.spotify.com/album/0Zw3wxwgIaVhfqmcC1E2MM) | 3:58 | 2023-12-30 |  |
 | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/track/2kNdcf6YKLNC8mtQalv4H6) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [OLI MAZI \(We Are All Together\)](https://open.spotify.com/album/0BaHbx9vN3XE8tBJMp6T38) | 3:18 | 2023-12-30 |  |
 | [Once In A Lifetime](https://open.spotify.com/track/5MPaYcjSRsQIIjStlGmtX2) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [That's Me](https://open.spotify.com/album/62CDxOlX4fNlDStY5CbSUK) | 5:53 | 2023-12-30 |  |
-| [One Day You Will](https://open.spotify.com/track/40Z7VBIbGq5TBGr8Ueloue) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:13 | 2023-12-30 |  |
+| [One Day You Will](https://open.spotify.com/track/40Z7VBIbGq5TBGr8Ueloue) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:13 | 2023-12-30 | 2025-08-13 |
+| [One Day You Will](https://open.spotify.com/track/6k0MYs7iejQfLAtJBmxCiC) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:13 | 2025-08-12 |  |
 | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/track/2vR4pJKdFMt2Mqk3j9ZPOI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/album/5cXDAJMKRcHtGdoVAHxIfc) | 3:21 | 2024-09-07 |  |
 | [One In This World](https://open.spotify.com/track/2hyLXM40ZAV9rMBtRNpJL1) | [Haylie Duff](https://open.spotify.com/artist/02T6rhlQ5X6rO01HUOIjLT) | [A Cinderella Story](https://open.spotify.com/album/0v7wAUSuX97AEwuJrcFJHb) | 4:11 | 2023-12-30 |  |
 | [One Less Lonely Heart](https://open.spotify.com/track/1VuOHhfq5IMKolMQP9nms3) | [Smokey Mountain](https://open.spotify.com/artist/4kqsp7WTMpLUKe9GDJfY97) | [Know You Will](https://open.spotify.com/album/0aQ3iPqAB5roQwAqF4t4bf) | 4:33 | 2023-12-30 |  |

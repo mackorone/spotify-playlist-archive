@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: ONF) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: \uc570\ud37c\uc0cc\ub4dc\uc6d0 (AMPERS&ONE)) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "tracks": [
     {
@@ -4880,7 +4880,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Grateful to Tears",
       "url": "https://open.spotify.com/track/0nH5APUOWnlWfXKfhz51De"
@@ -5810,7 +5810,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 183494,
       "name": "Ice On My Teeth",
       "url": "https://open.spotify.com/track/62eDE0RR8Sgh7yw8ZLeyAM"
@@ -5828,7 +5828,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 206748,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/4BSx3P80BGTTh0hRmvSvxL"
@@ -8574,7 +8574,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 171000,
       "name": "OBEY",
       "url": "https://open.spotify.com/track/6Er2MCGafVTPHoVG0EHIoB"
@@ -10404,7 +10404,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 177000,
       "name": "SLAM DUNK",
       "url": "https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN"
@@ -11123,6 +11123,24 @@
     },
     {
       "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/5XC6zgE2x581zlkJdOxjsZ"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/2bJI4NceMjye26SmzewutW"
+    },
+    {
+      "album": {
         "name": "SWEAT",
         "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
       },
@@ -11372,6 +11390,24 @@
       "duration_ms": 246786,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/082T4CgUFyV0tjPdzaq6ml"
+    },
+    {
+      "album": {
+        "name": "LOUD & PROUD",
+        "url": "https://open.spotify.com/album/4s6H9i2JkMF58sij9Xa26W"
+      },
+      "artists": [
+        {
+          "name": "AMPERS&ONE",
+          "url": "https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "That\u2019s That",
+      "url": "https://open.spotify.com/track/2Sf6SXb3LAq4aWq6Pm9akt"
     },
     {
       "album": {
@@ -12324,7 +12360,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-13",
       "duration_ms": 174000,
       "name": "Waste No Time",
       "url": "https://open.spotify.com/track/2PrUUUaajXyCOZYQAQVdwC"

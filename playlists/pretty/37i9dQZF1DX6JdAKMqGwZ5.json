@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Roy Borland.",
-  "num_followers": 200016,
+  "num_followers": 200001,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "\u00c7a Va? BBY",
-        "url": "https://open.spotify.com/album/0JOqlJW7vIg6tEuRmoQujg"
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/5GhvmERcZCHt8D4BUrQgRd"
       },
       "artists": [
         {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
         }
       ],
-      "duration_ms": 155705,
-      "name": "\u00c7a Va? BBY",
-      "url": "https://open.spotify.com/track/3WudgNqzn2HxnyaATSaHha"
+      "duration_ms": 178620,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/5cGG2CzNcWygO1Qxc8K4X4"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/5GhvmERcZCHt8D4BUrQgRd"
+        "name": "\u00c7a Va? BBY",
+        "url": "https://open.spotify.com/album/0JOqlJW7vIg6tEuRmoQujg"
       },
       "artists": [
         {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 178620,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/5cGG2CzNcWygO1Qxc8K4X4"
+      "duration_ms": 155705,
+      "name": "\u00c7a Va? BBY",
+      "url": "https://open.spotify.com/track/3WudgNqzn2HxnyaATSaHha"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "Virgen de Magall\u00f3n",
+        "url": "https://open.spotify.com/album/3bcrm514ZM8qCsRqbahmDi"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 151849,
+      "name": "Virgen de Magall\u00f3n",
+      "url": "https://open.spotify.com/track/4JrDAYHy48ZZWvjWk5M5uY"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "ny affair",
         "url": "https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H"
       },
@@ -791,26 +807,6 @@
       "duration_ms": 128315,
       "name": "ny affair",
       "url": "https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "ella es",
-        "url": "https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        },
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 167730,
-      "name": "ella es",
-      "url": "https://open.spotify.com/track/4Z6qlqb112fVPqCAtZ8j2Z"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -863,6 +859,26 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "ella es",
+        "url": "https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        },
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 167730,
+      "name": "ella es",
+      "url": "https://open.spotify.com/track/4Z6qlqb112fVPqCAtZ8j2Z"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "As\u00ed me va",
         "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "PERDEDOR",
-        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 216244,
-      "name": "PERDEDOR",
-      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "hibernarse",
         "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
       },
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "PERDEDOR",
+        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
+      },
+      "artists": [
+        {
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
+        }
+      ],
+      "duration_ms": 216244,
+      "name": "PERDEDOR",
+      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "ALKIMIA",
         "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Virgen de Magall\u00f3n",
-        "url": "https://open.spotify.com/album/3bcrm514ZM8qCsRqbahmDi"
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
       "artists": [
         {
-          "name": "Juanjo Bona",
-          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
         }
       ],
-      "duration_ms": 151849,
-      "name": "Virgen de Magall\u00f3n",
-      "url": "https://open.spotify.com/track/4JrDAYHy48ZZWvjWk5M5uY"
+      "duration_ms": 166866,
+      "name": "Sexo Y Rock & Roll",
+      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1003,22 +1019,6 @@
       "duration_ms": 236138,
       "name": "El lago de mi pena",
       "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 166866,
-      "name": "Sexo Y Rock & Roll",
-      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Se Nota",
-        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
-      },
-      "artists": [
-        {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Se Nota",
-      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "MIRLO PARDO \u00b7 LA VEREDA",
         "url": "https://open.spotify.com/album/3pw1YIdUqTd2snkAG5boM3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 203244,
       "name": "Mirlo pardo",
       "url": "https://open.spotify.com/track/5Pio0OlA5NWk7GfPjdx8nd"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "Se Nota",
+        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Se Nota",
+      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 165742,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "ZULOA",
         "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
       },
@@ -1135,22 +1119,6 @@
       "duration_ms": 212000,
       "name": "Mejor*",
       "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Gatos De Gasolinera",
-      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1171,18 +1139,34 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Polvo de hadas",
-        "url": "https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF"
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 268651,
-      "name": "Polvo de hadas",
-      "url": "https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g"
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Gatos De Gasolinera",
+      "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+        "name": "Polvo de hadas",
+        "url": "https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF"
       },
       "artists": [
         {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
         }
       ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
+      "duration_ms": 268651,
+      "name": "Polvo de hadas",
+      "url": "https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Un Cl\u00e1sico [2022]",
-        "url": "https://open.spotify.com/album/49Ljbuf0AX1mUWMz2HBtZ8"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "Un Cl\u00e1sico [2022]",
-      "url": "https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "tu pel\u00edcula",
         "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
       },
@@ -1263,6 +1231,22 @@
       "duration_ms": 174467,
       "name": "tu pel\u00edcula",
       "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "Un Cl\u00e1sico [2022]",
+        "url": "https://open.spotify.com/album/49Ljbuf0AX1mUWMz2HBtZ8"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Un Cl\u00e1sico [2022]",
+      "url": "https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1295,6 +1279,22 @@
       "duration_ms": 190127,
       "name": "( ali despierta )",
       "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 193006,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 225221,
       "name": "Fases",
       "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "La Plaza",
-        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
-      },
-      "artists": [
-        {
-          "name": "Rufus T. Firefly",
-          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
-        }
-      ],
-      "duration_ms": 204559,
-      "name": "La Plaza",
-      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
+        "name": "La Plaza",
+        "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+          "name": "Rufus T. Firefly",
+          "url": "https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1"
         }
       ],
-      "duration_ms": 193006,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
+      "duration_ms": 204559,
+      "name": "La Plaza",
+      "url": "https://open.spotify.com/track/6jLHr0PQiEXs0hjltWBkKj"
     },
     {
       "added_at": "2025-08-07 22:00:53",

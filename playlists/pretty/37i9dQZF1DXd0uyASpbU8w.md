@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Shekhinah, Gunna, Amaarae, Ed Sheeran and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,927 likes - 78 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,981 likes - 78 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

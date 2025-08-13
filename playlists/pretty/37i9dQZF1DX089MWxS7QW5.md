@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Yoon Da Hye\(윤다혜\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,661 likes - 49 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,665 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 6 | [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/track/1IOQtbBsqtSZVD32LQ2lTx) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/album/7pqvmRg7MgVDeSLdrNR6F4) | 2:51 |
 | 7 | [Stay in the rain](https://open.spotify.com/track/1JgdUQfckERI9wlInwJSWq) | [A+B](https://open.spotify.com/artist/0fb0qL1tkelypiiXXs2Y3X) | [Stay in the rain \(A+B X Urban City\)](https://open.spotify.com/album/7uzZfSDNqfjqsvvqCQyUco) | 3:00 |
 | 8 | [With You](https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [With You](https://open.spotify.com/album/1DT0IXcV3E12LYsRU7eVW0) | 3:17 |
-| 9 | [Tomato Marinade \(feat\. Yoon Hyeong Jun\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 |
+| 9 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 |
 | 10 | [SPARK](https://open.spotify.com/track/0yD5CKSEHpbZYn9WPTrqIF) | [DOO](https://open.spotify.com/artist/6oVkbN2mniaq9HGsM0gLxW) | [SPARK](https://open.spotify.com/album/4cR43mVJqjQ7uVQQvwZrbh) | 4:36 |
 | 11 | [PLOP! \(feat\. Ja Mezz\)](https://open.spotify.com/track/1oAHZbOqxuObwQDBpEM028) | [YOUS](https://open.spotify.com/artist/2QqoL1AFpV7fyOMBuVmITB), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [PLOP!](https://open.spotify.com/album/56jnNGjXaeqKayetMZrute) | 2:52 |
 | 12 | [nothing sweeter](https://open.spotify.com/track/019hqR7ZWRlJJcAuNHq0tV) | [PYO](https://open.spotify.com/artist/3lHB6siiwdcLxgPkj5ovpQ) | [PIN PROJECT X PYO](https://open.spotify.com/album/3ovxTMRz2DhiLg57bT6leR) | 3:25 |

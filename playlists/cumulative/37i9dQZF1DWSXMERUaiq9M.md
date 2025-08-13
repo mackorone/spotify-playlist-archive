@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Funk Tribu
 
-543 songs - 1 day 9 hr 42 min
+544 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Baby](https://open.spotify.com/track/7q6BicHo0SQEK5Z7G9iVWc) | [Jim Jonathan](https://open.spotify.com/artist/72w1EkEE1vlElW5FnbVAiY) | [Baby](https://open.spotify.com/album/6prxL4sHmXWAmQ7A9vfmJF) | 6:26 | 2024-08-26 | 2024-08-30 |
 | [Back To My Love](https://open.spotify.com/track/6w4Z8LfJ7aIU09mmkYADNt) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Back To My Love](https://open.spotify.com/album/26mbxEeOe1nc8tPPYZ1me0) | 3:16 | 2025-06-19 | 2025-07-04 |
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-02-22 |  |
+| [Bad Thoughts](https://open.spotify.com/track/2R7CPbBX9zRtzkp9tcAIXo) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Bad Thoughts](https://open.spotify.com/album/790dXl1NNHQRXvNB4MUI4y) | 2:36 | 2025-08-07 |  |
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2024-12-20 |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-03-10 | 2024-05-28 |
 | [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 | 2025-01-25 |
@@ -320,7 +321,7 @@
 | [MOVE IT](https://open.spotify.com/track/6cONtKwkzZM9dXjRn9KxHh) | [Ollie Lishman](https://open.spotify.com/artist/266LAiHzDxPPRJldh2CPX0) | [WATCH YO STEP](https://open.spotify.com/album/6tl4o9o6XIIXwz95fGYRLQ) | 4:58 | 2024-12-28 | 2025-01-07 |
 | [Move My Body \(feat\. Lucy Dye\)](https://open.spotify.com/track/26xw61UppTKPySjw3RLvx6) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Move My Body \(feat\. Lucy Dye\)](https://open.spotify.com/album/4BAyc37k3eWHs93aMT21XA) | 2:47 | 2024-07-25 | 2025-01-07 |
 | [Move Your Feet](https://open.spotify.com/track/7tIa5zvbBjTKNqa3T99Ki5) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Move Your Feet](https://open.spotify.com/album/7gmF0w2kmwBfUJUFxUkeiM) | 2:52 | 2024-10-10 | 2024-11-12 |
-| [Movie Star](https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Movie Star](https://open.spotify.com/album/5cRJaHx3DiAQAg5MfGkHWs) | 2:17 | 2025-04-24 |  |
+| [Movie Star](https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Movie Star](https://open.spotify.com/album/5cRJaHx3DiAQAg5MfGkHWs) | 2:17 | 2025-04-24 | 2025-08-13 |
 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2023-07-07 | 2023-07-11 |
 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 | 2023-07-10 | 2024-06-28 |
 | [MY BODY IS GOD ON ACID](https://open.spotify.com/track/4qf2TmjFImuZkpAwmP1LKE) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [MY BODY IS GOD ON ACID](https://open.spotify.com/album/5ON20qgoweG6jjxVXrQdZh) | 6:09 | 2023-03-10 | 2023-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Pop's next level 🍬 Cover: Dolly Zoom ̷G̷r̷e̷t̷a̷ ̷I̷s̷a̷a̷c̷
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,015 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,956 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 18 | [Want It](https://open.spotify.com/track/03kl31ZkWyNhMnhFVBRRSz) | [Rahul.mp3](https://open.spotify.com/artist/3Y3lcQULVuy43NluZDkr1N) | [Want It](https://open.spotify.com/album/2029MRuYZndypKEE70tK0R) | 3:03 |
 | 19 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 |
 | 20 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
-| 21 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:28 |
+| 21 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
 | 22 | [dance criteria](https://open.spotify.com/track/61O9bBlR1osCoN9UJzntcg) | [clearlew](https://open.spotify.com/artist/1G7GO69qXe0bNbenX5GQjb) | [dance criteria](https://open.spotify.com/album/369eaZivHmMUTQe5caBczH) | 3:41 |
 | 23 | [Million Dollarz](https://open.spotify.com/track/0wNRT3FlMdcWfN7bTtBrVn) | [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL) | [Million Dollarz](https://open.spotify.com/album/4dGWssuU8rTHJpwr50wfEl) | 2:39 |
 | 24 | [M.I.A](https://open.spotify.com/track/2HKLLlg6erdvg9CXcTEY3E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 2:09 |

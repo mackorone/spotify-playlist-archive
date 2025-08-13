@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:5qK8WYVzvkaBcoe4CDfuyY\">KUNTARI</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 190458,
+  "num_followers": 190467,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Remsc\u00e9la",
+        "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
+      },
+      "artists": [
+        {
+          "name": "Milkweed",
+          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
+        }
+      ],
+      "duration_ms": 201375,
+      "name": "How Conchobor was Begotten",
+      "url": "https://open.spotify.com/track/7EX6x6SUSu0sv6Soc2Z4dR"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
       },
@@ -99,22 +115,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Sepia Rainbow",
         "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
       },
@@ -131,18 +131,18 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Remsc\u00e9la",
-        "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
       },
       "artists": [
         {
-          "name": "Milkweed",
-          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
         }
       ],
-      "duration_ms": 201375,
-      "name": "How Conchobor was Begotten",
-      "url": "https://open.spotify.com/track/7EX6x6SUSu0sv6Soc2Z4dR"
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
-      },
-      "artists": [
-        {
-          "name": "moreru",
-          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
-        }
-      ],
-      "duration_ms": 255154,
-      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+      },
+      "artists": [
+        {
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+        }
+      ],
+      "duration_ms": 255154,
+      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Peronospera",
-        "url": "https://open.spotify.com/album/2QxFIXJB8u6hLTm0xauquL"
-      },
-      "artists": [
-        {
-          "name": "DDUMA",
-          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Peronospera",
-      "url": "https://open.spotify.com/track/20Inl2dtYzvW7PekmKHOX5"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Peronospera",
+        "url": "https://open.spotify.com/album/2QxFIXJB8u6hLTm0xauquL"
+      },
+      "artists": [
+        {
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Peronospera",
+      "url": "https://open.spotify.com/track/20Inl2dtYzvW7PekmKHOX5"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": ",,, as long as i long to memorise your sky ,,,",
-        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
       "artists": [
         {
-          "name": "elijah jamal asani",
-          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 194455,
-      "name": "~~~littleriverhypothesis\u2022\u2022",
-      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+        "name": ",,, as long as i long to memorise your sky ,,,",
+        "url": "https://open.spotify.com/album/7bxK9dMmBNb2hAdW5Us5KU"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "elijah jamal asani",
+          "url": "https://open.spotify.com/artist/0IuS5J6QzarmBEOnCvjmSl"
         }
       ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+      "duration_ms": 194455,
+      "name": "~~~littleriverhypothesis\u2022\u2022",
+      "url": "https://open.spotify.com/track/3WfU1PNZuuYDGgvtOxg4od"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -703,6 +703,22 @@
       "duration_ms": 159642,
       "name": "By Night",
       "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Harmony of Irrelevant Facts",
+        "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Harmony of Irrelevant Facts",
+      "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -743,22 +759,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Harmony of Irrelevant Facts",
-        "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
-      },
-      "artists": [
-        {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Harmony of Irrelevant Facts",
-      "url": "https://open.spotify.com/track/1BFCZFKIMBBrSrqMyonK7s"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Harsh & Exciting",
         "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
       },
@@ -787,42 +787,6 @@
       "duration_ms": 169775,
       "name": "Distratta",
       "url": "https://open.spotify.com/track/7hinjcS3WbroKjp04bDj0i"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Pythagoras",
-        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
-      },
-      "artists": [
-        {
-          "name": "Pyramids",
-          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
-        }
-      ],
-      "duration_ms": 314500,
-      "name": "Pretty Pigs",
-      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Hand To Mouth",
-        "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
-      },
-      "artists": [
-        {
-          "name": "Keeley Forsyth",
-          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
-        },
-        {
-          "name": "Matthew Bourne",
-          "url": "https://open.spotify.com/artist/2gj26qPHNxw4PByxx0GBZp"
-        }
-      ],
-      "duration_ms": 218962,
-      "name": "Consider This",
-      "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -863,6 +827,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Pythagoras",
+        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
+      },
+      "artists": [
+        {
+          "name": "Pyramids",
+          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
+        }
+      ],
+      "duration_ms": 314500,
+      "name": "Pretty Pigs",
+      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "TIDE/TIED",
         "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 343545,
       "name": "I am here now",
       "url": "https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Hand To Mouth",
+        "url": "https://open.spotify.com/album/3wGORzE4SH5K6toBJhzGnX"
+      },
+      "artists": [
+        {
+          "name": "Keeley Forsyth",
+          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
+        },
+        {
+          "name": "Matthew Bourne",
+          "url": "https://open.spotify.com/artist/2gj26qPHNxw4PByxx0GBZp"
+        }
+      ],
+      "duration_ms": 218962,
+      "name": "Consider This",
+      "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "sound for people's spaces",
-        "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
-      },
-      "artists": [
-        {
-          "name": "Drew Seele",
-          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "a new object found dirt in my left eye but i keep looking",
-      "url": "https://open.spotify.com/track/6O0vGPbpPJCILp8gT9GNgE"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Iti Eta No",
         "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 251164,
       "name": "Iti Eta No",
       "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "sound for people's spaces",
+        "url": "https://open.spotify.com/album/0uja4DPzq4bfeJ43HXrH23"
+      },
+      "artists": [
+        {
+          "name": "Drew Seele",
+          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "a new object found dirt in my left eye but i keep looking",
+      "url": "https://open.spotify.com/track/6O0vGPbpPJCILp8gT9GNgE"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "Scintille",
-        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
-      },
-      "artists": [
-        {
-          "name": "Ehua",
-          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Scintille",
-      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Charged Up 2",
         "url": "https://open.spotify.com/album/0whw8OyYCpRqelxXYawD2b"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 264902,
       "name": "Cross Road",
       "url": "https://open.spotify.com/track/2tvaoRPWrVprKZrLkg69lW"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "Scintille",
+        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
+      },
+      "artists": [
+        {
+          "name": "Ehua",
+          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Scintille",
+      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
+        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
+        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
+      },
+      "artists": [
+        {
+          "name": "Festa del Perdono",
+          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nella regione della notte infinita",
+      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
         "name": "Thinking about you",
         "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 196340,
       "name": "Thinking about you",
       "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
-        "name": "Galactic Jazz Night Pt.1: Nella regione della notte infinita",
-        "url": "https://open.spotify.com/album/054JUIRHDfoDZnCgSGQ8aD"
-      },
-      "artists": [
-        {
-          "name": "Festa del Perdono",
-          "url": "https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nella regione della notte infinita",
-      "url": "https://open.spotify.com/track/6ue9LNm3XGMtpR2Xprqc8y"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "METAMORFOSI (VOL. 2)",
-        "url": "https://open.spotify.com/album/4bxrctZ1SWwRNZMJNqIVL0"
-      },
-      "artists": [
-        {
-          "name": "Ethan",
-          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
-        },
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "3ron",
-          "url": "https://open.spotify.com/artist/2KbJGrhq98HHDmmMC4tslZ"
-        }
-      ],
-      "duration_ms": 183803,
-      "name": "FIM DO MUNDO (feat. Mia Badgyal)",
-      "url": "https://open.spotify.com/track/1Mr4jJlL2s7wtLJoDa44CW"
-    },
-    {
-      "added_at": "2025-07-30 18:29:59",
-      "album": {
         "name": "Feels Like Love (Visceral)",
         "url": "https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN"
       },
@@ -1547,18 +1523,26 @@
     {
       "added_at": "2025-07-30 18:29:59",
       "album": {
-        "name": "part of u",
-        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
+        "name": "METAMORFOSI (VOL. 2)",
+        "url": "https://open.spotify.com/album/4bxrctZ1SWwRNZMJNqIVL0"
       },
       "artists": [
         {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70"
+        },
+        {
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "3ron",
+          "url": "https://open.spotify.com/artist/2KbJGrhq98HHDmmMC4tslZ"
         }
       ],
-      "duration_ms": 157623,
-      "name": "part of u",
-      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
+      "duration_ms": 183803,
+      "name": "FIM DO MUNDO (feat. Mia Badgyal)",
+      "url": "https://open.spotify.com/track/1Mr4jJlL2s7wtLJoDa44CW"
     },
     {
       "added_at": "2025-07-30 18:29:59",
@@ -1575,6 +1559,22 @@
       "duration_ms": 255104,
       "name": "Ventoscuro Pt. 2",
       "url": "https://open.spotify.com/track/3PYWpNpxlbeD7eKyTXtk9m"
+    },
+    {
+      "added_at": "2025-07-30 18:29:59",
+      "album": {
+        "name": "part of u",
+        "url": "https://open.spotify.com/album/5cMSNDgNhAXFS88W2gnB0X"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 157623,
+      "name": "part of u",
+      "url": "https://open.spotify.com/track/19o5GQI0U3EVf0HbCvavqf"
     },
     {
       "added_at": "2025-07-30 18:29:59",

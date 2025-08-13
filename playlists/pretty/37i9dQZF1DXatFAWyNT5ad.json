@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 149912,
+  "num_followers": 149926,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-07-25 04:00:43",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2025-07-25 04:00:43",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2025-07-25 04:00:43",
+      "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
     },
     {
       "added_at": "2025-07-25 04:00:43",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-07-25 04:00:43",
       "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh"
       },
       "artists": [
         {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
         }
       ],
-      "duration_ms": 144074,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+      "duration_ms": 203033,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ"
     },
     {
       "added_at": "2025-07-25 04:00:43",
@@ -1619,34 +1619,18 @@
     {
       "added_at": "2025-07-25 04:00:43",
       "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh"
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
       },
       "artists": [
         {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         }
       ],
-      "duration_ms": 203033,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:43",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 128696,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
+      "duration_ms": 144074,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
     },
     {
       "added_at": "2025-07-25 04:00:43",
@@ -1679,6 +1663,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:43",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 128696,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
     },
     {
       "added_at": "2025-07-25 04:00:43",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2025-07-25 04:00:43",
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Vultures (feat. PVRIS)",
-      "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:43",
-      "album": {
         "name": "lightweight",
         "url": "https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO"
       },
@@ -2095,6 +2075,26 @@
       "duration_ms": 142596,
       "name": "Young Broke",
       "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
+    },
+    {
+      "added_at": "2025-07-25 04:00:43",
+      "album": {
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Vultures (feat. PVRIS)",
+      "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
     },
     {
       "added_at": "2025-07-25 04:00:43",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2025-07-25 04:00:43",
       "album": {
-        "name": "White Casket",
-        "url": "https://open.spotify.com/album/6vIy8qzPJAWvr1g6Yvp3lE"
-      },
-      "artists": [
-        {
-          "name": "Jady",
-          "url": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1"
-        }
-      ],
-      "duration_ms": 150176,
-      "name": "White Casket",
-      "url": "https://open.spotify.com/track/3o2xKwz3oNhm3f2BywSrWm"
-    },
-    {
-      "added_at": "2025-07-25 04:00:43",
-      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2025-07-25 04:00:43",
+      "album": {
+        "name": "White Casket",
+        "url": "https://open.spotify.com/album/6vIy8qzPJAWvr1g6Yvp3lE"
+      },
+      "artists": [
+        {
+          "name": "Jady",
+          "url": "https://open.spotify.com/artist/17KoLQGv2wtWE3yujz4jq1"
+        }
+      ],
+      "duration_ms": 150176,
+      "name": "White Casket",
+      "url": "https://open.spotify.com/track/3o2xKwz3oNhm3f2BywSrWm"
     },
     {
       "added_at": "2025-07-25 04:00:43",

@@ -2123,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "By the Sea",
+        "url": "https://open.spotify.com/album/4f8DinTrpgO48Fc6pNUjgi"
+      },
+      "artists": [
+        {
+          "name": "Mattias Blom",
+          "url": "https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129302,
+      "name": "By the Sea",
+      "url": "https://open.spotify.com/track/6Lt9b5oL5on7REgC3FarN2"
+    },
+    {
+      "album": {
         "name": "By your Bedside",
         "url": "https://open.spotify.com/album/4SBb617xCyvHfu7I5R59J3"
       },
@@ -10046,6 +10064,24 @@
       "duration_ms": 184076,
       "name": "Private Investigation",
       "url": "https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv"
+    },
+    {
+      "album": {
+        "name": "Prolepsis",
+        "url": "https://open.spotify.com/album/653TASouF1WGqXxbQhXvjn"
+      },
+      "artists": [
+        {
+          "name": "Diego Bellucci",
+          "url": "https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159024,
+      "name": "Prolepsis",
+      "url": "https://open.spotify.com/track/2nXKLx6twOnsoPnP6Mb6bP"
     },
     {
       "album": {

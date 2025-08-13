@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Luccas Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,643 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,630 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 34 | [MINHA JÓIA](https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [MINHA JÓIA](https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy) | 3:41 |
 | 35 | [Fica De Dengo](https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Fica De Dengo](https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ) | 2:25 |
 | 36 | [Ombro Amigo](https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu) | [Zecca Gomes](https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ), [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Ombro Amigo](https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu) | 2:55 |
-| 37 | [Mar Manso](https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Mar Manso](https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki) | 3:09 |
-| 38 | [Vestígios](https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Vestígios](https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE) | 2:33 |
+| 37 | [Vestígios](https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Vestígios](https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE) | 2:33 |
+| 38 | [Mar Manso](https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui), [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Mar Manso](https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki) | 3:09 |
 | 39 | [sinto saudade](https://open.spotify.com/track/3UJcDOvKEJKQ2gqW8GJ7T5) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [sinto saudade](https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk) | 2:30 |
 | 40 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 |
 | 41 | [Poder Amar](https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R) | [Zecca Gomes](https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ) | [Ombro Amigo](https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H) | 2:54 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 47 | [me chama](https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [me chama](https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R) | 2:37 |
 | 48 | [Tanto](https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Tanto](https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1) | 3:06 |
 | 49 | [Me Deixa Ser Só Teu](https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Me Deixa Ser Só Teu](https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo) | 2:40 |
-| 50 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 |
-| 51 | [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 |
+| 50 | [Só sei dançar com você](https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR) | [Só sei dançar com você](https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo) | 4:00 |
+| 51 | [Astronauta](https://open.spotify.com/track/6DmbO42wnaJi6e9RJW8Uef) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Todos os Futuros](https://open.spotify.com/album/2rmRmWUOyyaUHZypMO7ipf) | 2:32 |
 | 52 | [Áudios Antigos](https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Áudios Antigos](https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9) | 3:24 |
 | 53 | [acende essa ponta](https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5) | [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Entre o Nada e o Infinito](https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H) | 2:55 |
 | 54 | [Sol de São Paulo](https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp) | [Jay Horsth](https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B) | [Sol de São Paulo](https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y) | 2:54 |

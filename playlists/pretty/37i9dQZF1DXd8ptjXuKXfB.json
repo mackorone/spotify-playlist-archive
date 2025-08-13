@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon!",
-  "num_followers": 27742,
+  "num_followers": 27753,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-08-11 10:44:29",
       "album": {
-        "name": "Frida Kahlo",
-        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        },
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 163107,
-      "name": "Frida Kahlo",
-      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
-    },
-    {
-      "added_at": "2025-08-11 10:44:29",
-      "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
+    },
+    {
+      "added_at": "2025-08-11 10:44:29",
+      "album": {
+        "name": "Frida Kahlo",
+        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 163107,
+      "name": "Frida Kahlo",
+      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
     },
     {
       "added_at": "2025-08-11 10:44:29",

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: <br/>h3hyeon\(황세현\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: <br/>BIBI\(비비\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,167 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,628 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LIKE NOTHING HAPPENED \(Feat\. DeVita\)](https://open.spotify.com/track/0Wtka71lRuIJOc7PrhuJTu) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [SOMEHOW](https://open.spotify.com/album/4fQm8diEQZbuO8R5hG5vjy) | 2:41 |
+| 1 | [POP \(feat\. BIBI\)](https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc) | [THE NEED](https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [POP \(feat\. BIBI\)](https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN) | 2:20 |
 | 2 | [Love Power Warrior \(Prod\. hyeminsong\)](https://open.spotify.com/track/7wFLMYAba4y9quHtt1KRVR) | [Yoon Da Hye](https://open.spotify.com/artist/1MMvp9AK4S9WKByz3xt83F), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 3:33 |
-| 3 | [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/track/1IOQtbBsqtSZVD32LQ2lTx) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Wanna catch up? \(feat\. Rothy\)](https://open.spotify.com/album/7pqvmRg7MgVDeSLdrNR6F4) | 2:51 |
+| 3 | [shy girl](https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [shy girl](https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh) | 2:43 |
 | 4 | [One and Done \(Prod\. TII\)](https://open.spotify.com/track/71KkV0s6EpFsXVy401HT9n) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD) | [AP Melodies](https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi) | 2:54 |
 | 5 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
 | 6 | [PDA](https://open.spotify.com/track/67SdDCd4AgsXf9bMSqWx5G) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [PDA](https://open.spotify.com/album/441CBoBxPuKC9ZGBSJpAoL) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 74 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
 | 75 | [R.E.M](https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [R.E.M](https://open.spotify.com/album/4xcIr0rkoIBPmoSPamCorO) | 2:52 |
 
-Snapshot ID: `AAAAAFKMOQRir0F0Fn5Ww4sDevcrmpkY`
+Snapshot ID: `AAAAAFnIZ3x14pf0PAaFTkfTNam6KoA5`
