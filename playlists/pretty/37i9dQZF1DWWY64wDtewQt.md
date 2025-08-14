@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,501,749 likes - 99 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,507,197 likes - 99 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 78 | [Montagem Solar Atmosfera](https://open.spotify.com/track/1tBsFgHlgn9oCUXxlXlTaw) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR), [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n), [MC MN](https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp) | [Montagem Solar Atmosfera](https://open.spotify.com/album/3Iz4fcwWN3Uf5KESTQwrsY) | 2:13 |
 | 79 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q), [Duduzinho](https://open.spotify.com/artist/5lneW4gwuALhTWZSDdz1rY) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 |
 | 80 | [Faz de Chicote](https://open.spotify.com/track/19xg284tQrdnm4zZGnajs0) | [Lyu](https://open.spotify.com/artist/56zHTpLLVZ6otn4eInVwJf), [ITALO SENA](https://open.spotify.com/artist/1YVpgYKow2RgW5ZDLmApGf), [DJ PBeats](https://open.spotify.com/artist/6tQDQivRhULyEMBCneS7f9), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [Faz de Chicote](https://open.spotify.com/album/2cuIEt1nONL2bu9HnSXjVT) | 2:30 |
-| 81 | [NUNCA MUDA?](https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL) | [NUNCA MUDA?](https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2) | 1:21 |
+| 81 | [NUNCA MUDA?](https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H) | [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [NXGHT!](https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF) | [NUNCA MUDA?](https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2) | 1:21 |
 | 82 | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr) | [TOKYOPHILE](https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n) | [Montagem Lunar Celestia 1.0 \(SLOWED\)](https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ) | 1:37 |
 | 83 | [MONTAGEM RELACIONISTA JUDICIAL RKT \- Super Slowed](https://open.spotify.com/track/3MPNlK986yp4QOFBChLeEJ) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ SILVER ZN](https://open.spotify.com/artist/5Tw17pvNrZXqQdR9mS2iwf), [DJ MZK 07](https://open.spotify.com/artist/1gmTz8LJrWE1de6mXsmOnT) | [MONTAGEM RELACIONISTA JUDICIAL RKT](https://open.spotify.com/album/3LU0DRjeMAUlGV4vGEyCdS) | 1:11 |
 | 84 | [Turu R9 \- Slowed](https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1) | [DJ Ikeraus](https://open.spotify.com/artist/21zPGluD0MD68ctSgkuMXi), [MC FERNANDINHO FN](https://open.spotify.com/artist/5lfW7OqzTLDhvIcHFpxFDB) | [Turu R9](https://open.spotify.com/album/7cNqBJdXx8dgoXegihUPVN) | 1:18 |

@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Aug 22:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Aug 18:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAT52DPsc4dbNEwZkVP8Bbe1nYmCC+H",
+  "snapshot_id": "AAAT60to1WaVcse6QiQCZ43XvxVs2lmW",
   "tracks": [
+    {
+      "added_at": "2025-08-13 18:05:44",
+      "album": {
+        "name": "Last Escape",
+        "url": "https://open.spotify.com/album/3GcwDpRz8bZk6YHWLGeu2C"
+      },
+      "artists": [
+        {
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "Last Escape",
+      "url": "https://open.spotify.com/track/16zQU3BcRmUpDcIj2Fwixp"
+    },
+    {
+      "added_at": "2025-08-13 13:06:59",
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs"
+    },
     {
       "added_at": "2025-08-12 22:05:03",
       "album": {
@@ -791,38 +823,6 @@
       "duration_ms": 295365,
       "name": "Aviator",
       "url": "https://open.spotify.com/track/6oz4BYPua3p3pPI8D1GZcY"
-    },
-    {
-      "added_at": "2025-08-01 22:04:58",
-      "album": {
-        "name": "Tambourine",
-        "url": "https://open.spotify.com/album/3NyJ2rOwJUIEL1WlaYmhKP"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 209470,
-      "name": "Tambourine",
-      "url": "https://open.spotify.com/track/3eIhHWOMaTAPvJ6azg0b2L"
-    },
-    {
-      "added_at": "2025-08-02 03:05:22",
-      "album": {
-        "name": "Seasalt & Teardrops",
-        "url": "https://open.spotify.com/album/5H4p5XKauaYQ1I1E79ZLQG"
-      },
-      "artists": [
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 178071,
-      "name": "Seasalt & Teardrops",
-      "url": "https://open.spotify.com/track/0K0rN4ZN1xJpwEK0METl5t"
     }
   ],
   "unique_name": "New Singles Now",

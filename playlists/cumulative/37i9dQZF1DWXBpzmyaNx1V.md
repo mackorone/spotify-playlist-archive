@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXBpzmyaNx1V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXBpzmyaNx1V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBpzmyaNx1V)
 
-### [Bandemia \- La Playlist Oficial](https://open.spotify.com/playlist/37i9dQZF1DWXBpzmyaNx1V)
+### [performativo](https://open.spotify.com/playlist/37i9dQZF1DWXBpzmyaNx1V)
 
-> Nos vemos en el Primer Gran Festival de Bandemia, 2 de agosto del 2025 en la CDMX.
+> nací en la generación correcta: matcha, tote bags y joyería.
 
 221 songs - 14 hr 52 min
 

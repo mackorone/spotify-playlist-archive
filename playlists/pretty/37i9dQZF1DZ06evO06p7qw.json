@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 182268,
+  "num_followers": 182324,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAABJgqY2iSlPTIpzw3joltNP",
+  "snapshot_id": "aJqEAAAAAADQkTQgcVgJg/n5TzsnE4YV",
   "tracks": [
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+        "name": "PORTATE BIEN",
+        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
       "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 303990,
-      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
+      "duration_ms": 207882,
+      "name": "BOLERITO",
+      "url": "https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO"
     },
     {
       "added_at": null,
@@ -679,6 +683,22 @@
       "duration_ms": 141626,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manuel Medrano En Concierto 10 A\u00f1os (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 303990,
+      "name": "Bajo El Agua - En Vivo Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC"
     },
     {
       "added_at": null,
@@ -719,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PORTATE BIEN",
-        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
-      },
-      "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 207882,
-      "name": "BOLERITO",
-      "url": "https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 221211,
       "name": "Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/644e2A7OrjKecbT31eZ3dU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERFECTO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Aut\u00e9ntica",
-      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERFECTO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0G49MuVQPNUQFXDtLarlQC"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Aut\u00e9ntica",
+      "url": "https://open.spotify.com/track/5PZh6XWxtHP2Paj5W60PAv"
     },
     {
       "added_at": null,

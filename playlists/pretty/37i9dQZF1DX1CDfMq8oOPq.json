@@ -1,6 +1,6 @@
 {
   "description": "o pior \u00e9 que a nanda avisou, parsa... \ud83e\udd0c\ud83c\udffe",
-  "num_followers": 69464,
+  "num_followers": 69504,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,30 @@
     {
       "added_at": "2025-08-01 19:29:14",
       "album": {
+        "name": "SALA VERMELHA #03 - Ajuliacosta",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "SALA VERMELHA #03 - Ajuliacosta",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
+    },
+    {
+      "added_at": "2025-08-01 19:29:14",
+      "album": {
         "name": "Do Corre",
         "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 195692,
       "name": "Do Corre",
       "url": "https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ"
-    },
-    {
-      "added_at": "2025-08-01 19:29:14",
-      "album": {
-        "name": "SALA VERMELHA #03 - Ajuliacosta",
-        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "duration_ms": 111157,
-      "name": "SALA VERMELHA #03 - Ajuliacosta",
-      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
     },
     {
       "added_at": "2025-08-01 19:29:14",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-08-01 19:29:14",
       "album": {
-        "name": "Faz Assim",
-        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Faz Assim",
-      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
-    },
-    {
-      "added_at": "2025-08-01 19:29:14",
-      "album": {
         "name": "Alvo",
         "url": "https://open.spotify.com/album/40kVaqAwkXZqex3ZNkcVoD"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 94222,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/3fu29XDWtWRxc78fJ7Lc54"
+    },
+    {
+      "added_at": "2025-08-01 19:29:14",
+      "album": {
+        "name": "Faz Assim",
+        "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Faz Assim",
+      "url": "https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM"
     },
     {
       "added_at": "2025-08-01 19:29:14",

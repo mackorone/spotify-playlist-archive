@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,930 likes - 193 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,941 likes - 193 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

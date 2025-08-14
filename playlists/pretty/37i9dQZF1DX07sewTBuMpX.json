@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 140017,
+  "num_followers": 140029,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "Reset The Levels IV",
+        "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "duration_ms": 196389,
+      "name": "100 BOTTLES",
+      "url": "https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Reset The Levels IV",
-        "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        }
-      ],
-      "duration_ms": 196389,
-      "name": "100 BOTTLES",
-      "url": "https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Niet Verstandig",
-        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 142875,
-      "name": "Niet Verstandig",
-      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "Niet Verstandig",
+        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 142875,
+      "name": "Niet Verstandig",
+      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "Love = Scary",
+        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 147090,
+      "name": "Love = Scary",
+      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "Zonder Mij",
         "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
       },
@@ -1335,18 +1351,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Love = Scary",
-        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
         }
       ],
-      "duration_ms": 147090,
-      "name": "Love = Scary",
-      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1375,26 +1395,6 @@
       "duration_ms": 219500,
       "name": "Soweto (with Don Toliver, Rema and Tempoe)",
       "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2025-07-17 22:00:46",

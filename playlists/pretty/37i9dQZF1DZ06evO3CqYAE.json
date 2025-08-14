@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13281,
+  "num_followers": 13286,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAADy8CINExz7kHxdtsspKIl4",
+  "snapshot_id": "aJqEAAAAAAB5DdbhUjpn6TF22mUu1qmS",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 629497,
-      "name": "Who Is on the Lord's Side",
-      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/2hPoJ6ylg4KRyaWV7Qa832"
       },
@@ -459,22 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyedikagi (feat. Glowrie)",
-        "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
         },
         {
-          "name": "Glowrie",
-          "url": "https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 297966,
-      "name": "Onyedikagi (feat. Glowrie)",
-      "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
+      "duration_ms": 629497,
+      "name": "Who Is on the Lord's Side",
+      "url": "https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
       "duration_ms": 264026,
       "name": "Lifter",
       "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onyedikagi (feat. Glowrie)",
+        "url": "https://open.spotify.com/album/028rmY503DhNp5XFDbJFUo"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Glowrie",
+          "url": "https://open.spotify.com/artist/6RPz4GRgdIj0D0kogq25BF"
+        }
+      ],
+      "duration_ms": 297966,
+      "name": "Onyedikagi (feat. Glowrie)",
+      "url": "https://open.spotify.com/track/4ktpl2Qr30Ul3hELVOoD3y"
     },
     {
       "added_at": null,

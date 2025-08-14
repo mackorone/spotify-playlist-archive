@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 20225,
+  "num_followers": 20236,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2025-08-11 06:03:26",
       "album": {
-        "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
-        "url": "https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX"
-      },
-      "artists": [
-        {
-          "name": "paulkyte",
-          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
-        },
-        {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
-      "url": "https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU"
-    },
-    {
-      "added_at": "2025-08-11 06:03:26",
-      "album": {
         "name": "NOI MAS",
         "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 216601,
       "name": "Never Leave Me (Feat. pH-1)",
       "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
+    },
+    {
+      "added_at": "2025-08-11 06:03:26",
+      "album": {
+        "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
+        "url": "https://open.spotify.com/album/6r81HcByuYKc59QKuukKxX"
+      },
+      "artists": [
+        {
+          "name": "paulkyte",
+          "url": "https://open.spotify.com/artist/5RO4x4GZYSAIrRkEQFhs2x"
+        },
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Even if I\u2019m dying (feat. Young K (DAY6))",
+      "url": "https://open.spotify.com/track/3nteYfnCaASGDB070QmgmU"
     },
     {
       "added_at": "2025-08-11 06:03:26",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-08-11 06:03:26",
       "album": {
-        "name": "The Dreamest",
-        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Dear My Childhood",
-      "url": "https://open.spotify.com/track/6Vy7FsMTd1jc4Xk8o2GBps"
-    },
-    {
-      "added_at": "2025-08-11 06:03:26",
-      "album": {
         "name": "summerless",
         "url": "https://open.spotify.com/album/15UTXE6WIeQZsKt1qJALsL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 186155,
       "name": "summerless",
       "url": "https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl"
+    },
+    {
+      "added_at": "2025-08-11 06:03:26",
+      "album": {
+        "name": "The Dreamest",
+        "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Dear My Childhood",
+      "url": "https://open.spotify.com/track/6Vy7FsMTd1jc4Xk8o2GBps"
     },
     {
       "added_at": "2025-08-11 06:03:26",
@@ -659,18 +659,22 @@
     {
       "added_at": "2025-08-11 06:03:26",
       "album": {
-        "name": "Green Tree Frog",
-        "url": "https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8"
+        "name": "Echo (feat .JUKJAE)",
+        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
       "artists": [
         {
-          "name": "chiyoonhae",
-          "url": "https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        },
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
         }
       ],
-      "duration_ms": 149418,
-      "name": "Green Tree Frog",
-      "url": "https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ"
+      "duration_ms": 192586,
+      "name": "Echo (feat. JUKJAE)",
+      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
     },
     {
       "added_at": "2025-08-11 06:03:26",
@@ -691,22 +695,18 @@
     {
       "added_at": "2025-08-11 06:03:26",
       "album": {
-        "name": "Echo (feat .JUKJAE)",
-        "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
+        "name": "Green Tree Frog",
+        "url": "https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8"
       },
       "artists": [
         {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        },
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+          "name": "chiyoonhae",
+          "url": "https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq"
         }
       ],
-      "duration_ms": 192586,
-      "name": "Echo (feat. JUKJAE)",
-      "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
+      "duration_ms": 149418,
+      "name": "Green Tree Frog",
+      "url": "https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ"
     },
     {
       "added_at": "2025-08-11 06:03:26",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-08-11 06:03:26",
       "album": {
+        "name": "Han River 220625",
+        "url": "https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "Han River 220625",
+      "url": "https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4"
+    },
+    {
+      "added_at": "2025-08-11 06:03:26",
+      "album": {
         "name": "Asteroid",
         "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
-    },
-    {
-      "added_at": "2025-08-11 06:03:26",
-      "album": {
-        "name": "Free Giveaway",
-        "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
-      },
-      "artists": [
-        {
-          "name": "Coffeeboy",
-          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
-        }
-      ],
-      "duration_ms": 211456,
-      "name": "Free Giveaway",
-      "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

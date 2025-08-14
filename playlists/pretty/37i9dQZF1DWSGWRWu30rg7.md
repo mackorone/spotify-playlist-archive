@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Kiesha Alvaro
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,265 likes - 81 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,270 likes - 81 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

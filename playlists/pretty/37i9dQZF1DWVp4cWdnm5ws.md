@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon this 2025\. Cover: Zae
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,388 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,402 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 13 | [Baby Girl](https://open.spotify.com/track/7IA3kgXFupu6eke77kd93n) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Baby Girl](https://open.spotify.com/album/3P0dIqUcznPkh3KXtIZioC) | 2:57 |
 | 14 | [Cutterpillow](https://open.spotify.com/track/49jaaNDXs4MtSB385rYBmG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Cutterpillow](https://open.spotify.com/album/4UWQh3BN66Ba2Q8FHFEujq) | 2:17 |
 | 15 | [Ediwag](https://open.spotify.com/track/2XinWhSXtDDgwPKR0cxjjE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Ediwag](https://open.spotify.com/album/1qUvXmwbKYMLtrDXJ1qmBf) | 4:08 |
-| 16 | [Flying Kiss](https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Flying Kiss](https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA) | 3:25 |
+| 16 | [FLYING KISS](https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [FLYING KISS](https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA) | 3:25 |
 | 17 | [little sunny baby](https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [little sunny baby](https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4) | 2:11 |
 | 18 | [Telepono \(feat\. Clara Benin\)](https://open.spotify.com/track/2fgvCvfyOjemSAwyzC8rjE) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ), [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Telepono EP](https://open.spotify.com/album/4TV8FbUQ89itYDPRrSmhor) | 3:41 |
 | 19 | [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 |

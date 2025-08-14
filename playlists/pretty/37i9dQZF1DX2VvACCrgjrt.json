@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 469253,
+  "num_followers": 469307,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Count On You",
         "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0ucS4VfiOsQYMBA2z38uxj"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Maleigh Zan",
-          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
-        }
-      ],
-      "duration_ms": 274218,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/7K8DIxlj4VrA0ayuxwkBTZ"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "N9",
         "url": "https://open.spotify.com/album/2bsLNsuW1Au5kRLivucJ3c"
       },
@@ -1791,6 +1767,30 @@
       "duration_ms": 225000,
       "name": "N9",
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0ucS4VfiOsQYMBA2z38uxj"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Maleigh Zan",
+          "url": "https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG"
+        }
+      ],
+      "duration_ms": 274218,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/7K8DIxlj4VrA0ayuxwkBTZ"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2095,30 +2095,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/34cwLFc3QmyRTmNGGgZ60a"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "Yana Mahal",
-          "url": "https://open.spotify.com/artist/5Nmskigiv8LDxohxxGUYFB"
-        }
-      ],
-      "duration_ms": 236718,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/5W6ODgCKVlH6jSHF5MYkSI"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Pump (AC Slater Remix)",
         "url": "https://open.spotify.com/album/2lHuSOPxXJQ38afCptC9A2"
       },
@@ -2135,26 +2111,6 @@
       "duration_ms": 257342,
       "name": "Pump (AC Slater Remix)",
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "The Sound",
-        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 155147,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2179,6 +2135,50 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/34cwLFc3QmyRTmNGGgZ60a"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "Yana Mahal",
+          "url": "https://open.spotify.com/artist/5Nmskigiv8LDxohxxGUYFB"
+        }
+      ],
+      "duration_ms": 236718,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/5W6ODgCKVlH6jSHF5MYkSI"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "The Sound",
+        "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 155147,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Choose Violence",
         "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
       },
@@ -2195,26 +2195,6 @@
       "duration_ms": 195071,
       "name": "Choose Violence",
       "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Fader",
-        "url": "https://open.spotify.com/album/2nb0Hxn7k8wv4R9c1jTlgM"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        }
-      ],
-      "duration_ms": 145810,
-      "name": "Fader",
-      "url": "https://open.spotify.com/track/2iakEZOHqzJ7ret430eLry"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2239,22 +2219,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Whole Lotta Drugs / Over The Edge",
-        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+        "name": "Fader",
+        "url": "https://open.spotify.com/album/2nb0Hxn7k8wv4R9c1jTlgM"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
         },
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
         }
       ],
-      "duration_ms": 208550,
-      "name": "Whole Lotta Drugs",
-      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+      "duration_ms": 145810,
+      "name": "Fader",
+      "url": "https://open.spotify.com/track/2iakEZOHqzJ7ret430eLry"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2279,6 +2259,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Whole Lotta Drugs / Over The Edge",
+        "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 208550,
+      "name": "Whole Lotta Drugs",
+      "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "MANSA MUSA",
         "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
       },
@@ -2291,46 +2291,6 @@
       "duration_ms": 204000,
       "name": "MANSA MUSA",
       "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Move Over",
-        "url": "https://open.spotify.com/album/465qMkcnqLbRLsWAboYu0z"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 167727,
-      "name": "Move Over",
-      "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "NEVER STOPPIN'",
-        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "Nouni",
-          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
-        }
-      ],
-      "duration_ms": 143809,
-      "name": "NEVER STOPPIN'",
-      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2355,6 +2315,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "NEVER STOPPIN'",
+        "url": "https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Nouni",
+          "url": "https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww"
+        }
+      ],
+      "duration_ms": 143809,
+      "name": "NEVER STOPPIN'",
+      "url": "https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Rock The Party",
         "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 204923,
       "name": "Rock The Party",
       "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Move Over",
+        "url": "https://open.spotify.com/album/465qMkcnqLbRLsWAboYu0z"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 167727,
+      "name": "Move Over",
+      "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2423,26 +2423,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Got That",
-        "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Got That",
-      "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "Like This",
         "url": "https://open.spotify.com/album/1k4s0DDRx9nymD1HGwtyGs"
       },
@@ -2455,6 +2435,26 @@
       "duration_ms": 216562,
       "name": "Like This",
       "url": "https://open.spotify.com/track/6XLjxYyrr6r40l5RPZR9WO"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 210937,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     }
   ],
   "unique_name": "Nasty Bits",

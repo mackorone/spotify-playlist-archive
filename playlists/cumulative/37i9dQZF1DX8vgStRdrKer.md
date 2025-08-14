@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=\_Bm2yIUuTyuvKe816A31UQ>Onos</a>
 
-554 songs - 1 day 20 hr 40 min
+555 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [I Really Love You \- Live 2025](https://open.spotify.com/track/2T7N3RsR2iw0kQBWNlgkKd) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW), [Sarah Effiong](https://open.spotify.com/artist/3wcv17rONIyfQUWVCs98vX) | [I Really Love You \(Live 2025\)](https://open.spotify.com/album/4XInQNtJKca6gS7wUaK1S5) | 9:54 | 2025-05-30 | 2025-06-27 |
 | [I Repent](https://open.spotify.com/track/7JyDQxW9VgMDuf93aqM028) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [DENY MYSELF](https://open.spotify.com/album/7BRFeWHquy2D8QKHELablI) | 2:43 | 2025-06-27 | 2025-07-13 |
 | [I surrender](https://open.spotify.com/track/2vYX9gNqqhWFfOhVJGnlLd) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [I surrender](https://open.spotify.com/album/0nrwP6PN2SmSa0Ulttccwo) | 2:51 | 2025-07-04 | 2025-07-29 |
+| [I surrender](https://open.spotify.com/track/4OTZiVgPtkJsYAftgOIQEu) | [Richy Okechukwu](https://open.spotify.com/artist/1xx5Qcso7kYFgcZgnfoqGW) | [I surrender](https://open.spotify.com/album/3Nm2FBMLY48THNMIi9IPRs) | 5:26 | 2025-08-08 |  |
 | [I Surrender \- Live](https://open.spotify.com/track/1urrG04mC0IopJD7vpKiiW) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Cornerstone \(Live\)](https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8) | 5:46 | 2023-09-15 | 2024-03-16 |
 | [I Testify \- Live](https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [I Testify \(Live\)](https://open.spotify.com/album/7haaOtocoEP2jJlX5Q0gqX) | 14:27 | 2024-03-08 | 2025-06-13 |
 | [I Thank the Lord](https://open.spotify.com/track/1vHb7ovFeTKo031f6WSIIA) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [I Thank the Lord](https://open.spotify.com/album/6DxGpp2IN37GnoEO8zGEDB) | 3:16 | 2023-12-15 | 2024-01-05 |
@@ -512,7 +513,7 @@
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2025-06-20 |
 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 |  |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
-| [Wewe Ni Zaidi](https://open.spotify.com/track/3nJcZmXfi1euuEuj5lbd2M) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Wewe Ni Zaidi](https://open.spotify.com/album/04lDZZW67Js2hT48OjZPtp) | 4:22 | 2025-07-11 |  |
+| [Wewe Ni Zaidi](https://open.spotify.com/track/3nJcZmXfi1euuEuj5lbd2M) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Wewe Ni Zaidi](https://open.spotify.com/album/04lDZZW67Js2hT48OjZPtp) | 4:22 | 2025-07-11 | 2025-08-14 |
 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 | 2023-09-15 | 2024-03-16 |
 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 | 2023-09-15 | 2024-03-16 |
 | [What Kind of Love \- Flow Mix](https://open.spotify.com/track/3Jwg37On8OhLaWEyUArEpM) | [Boye Ray](https://open.spotify.com/artist/08Bv8fWux8twM4sfzSzSf9) | [What Kind of Love \(Flow Mix\)](https://open.spotify.com/album/6XoNkMXFjnVmnygBujYar1) | 3:22 | 2024-01-26 | 2024-03-17 |

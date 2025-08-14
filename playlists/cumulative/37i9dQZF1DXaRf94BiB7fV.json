@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Abeer Chopra",
+  "description": "The best new music by independent artists and labels in India. Cover - Curry",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 347038,
       "name": "Aabruu",
       "url": "https://open.spotify.com/track/2Qr2FGwE5DUa9V0qWAF8PI"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 293760,
       "name": "Aakhri Manzil",
       "url": "https://open.spotify.com/track/1WoswTeeU1sYPT6Ryub1sR"
@@ -3539,6 +3539,28 @@
     },
     {
       "album": {
+        "name": "Beqaaboo",
+        "url": "https://open.spotify.com/album/7yui22Z5fNjmhjDmaNKcyu"
+      },
+      "artists": [
+        {
+          "name": "Rumii",
+          "url": "https://open.spotify.com/artist/72mOygqSqfOoHLiiL9s7ig"
+        },
+        {
+          "name": "Krameri",
+          "url": "https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Beqaaboo",
+      "url": "https://open.spotify.com/track/3YLexwYPRyl9ULHCYe9Pny"
+    },
+    {
+      "album": {
         "name": "Berukh Hai Hum",
         "url": "https://open.spotify.com/album/6KVvpw8RcFj5aO0nm4kvR3"
       },
@@ -4786,7 +4808,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 291520,
       "name": "Chal",
       "url": "https://open.spotify.com/track/1v8sVWYJF0Mgo9jgnCCTJC"
@@ -6881,6 +6903,24 @@
     },
     {
       "album": {
+        "name": "Dil Na Jaane",
+        "url": "https://open.spotify.com/album/0Yx6RmMu8mSz0Ymf8A96ub"
+      },
+      "artists": [
+        {
+          "name": "Neha Karode",
+          "url": "https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143986,
+      "name": "Dil Na Jaane",
+      "url": "https://open.spotify.com/track/45z0UXCS17iPx48jwvwV1f"
+    },
+    {
+      "album": {
         "name": "Dil Patang",
         "url": "https://open.spotify.com/album/6IaWMrvJQLgudyIHa6r0dj"
       },
@@ -7456,7 +7496,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 183680,
       "name": "Dooriyan",
       "url": "https://open.spotify.com/track/5dJuKZcuBR32E2Tizq0CqM"
@@ -7874,7 +7914,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 248620,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/1ZFAlPkgLCQNR1LueGR3bE"
@@ -8928,6 +8968,24 @@
       "duration_ms": 223455,
       "name": "For Who I Am",
       "url": "https://open.spotify.com/track/4a3nN5NuU0Ifmuy10Nxt41"
+    },
+    {
+      "album": {
+        "name": "Forever Unsaid",
+        "url": "https://open.spotify.com/album/5m5AcItsk8hXIjsY2DEOPS"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Saxena",
+          "url": "https://open.spotify.com/artist/3r5R1trVnU7brROboyrk9Z"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Forever Unsaid",
+      "url": "https://open.spotify.com/track/7mxhYqUOpfHzNDHoSEbmJz"
     },
     {
       "album": {
@@ -15684,7 +15742,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 165217,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/0zgimUYk63x1Mhd3MMiVgD"
@@ -18437,6 +18495,28 @@
     },
     {
       "album": {
+        "name": "Madno",
+        "url": "https://open.spotify.com/album/6wd9WoTQ7x0IzMl3U0TkPl"
+      },
+      "artists": [
+        {
+          "name": "Sonam Negi",
+          "url": "https://open.spotify.com/artist/6771Zk6kW4JJwPwF7ohqCR"
+        },
+        {
+          "name": "Z3NESIS",
+          "url": "https://open.spotify.com/artist/5St3P8FFIXzyXFJtANN2Cp"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279477,
+      "name": "Madno",
+      "url": "https://open.spotify.com/track/42wv2YIr3K7C8U4PxnerKi"
+    },
+    {
+      "album": {
         "name": "Magic Potion",
         "url": "https://open.spotify.com/album/7sgMvxLAtwqn34OivbZUVq"
       },
@@ -20552,7 +20632,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 416640,
       "name": "Muddat Hui Hai",
       "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
@@ -21395,6 +21475,28 @@
     },
     {
       "album": {
+        "name": "Nazaaro Se",
+        "url": "https://open.spotify.com/album/3r1PhtIuzpk9pRZ6bO582f"
+      },
+      "artists": [
+        {
+          "name": "Gopal Chauhan",
+          "url": "https://open.spotify.com/artist/5O0q67O1RZJeYbLvPjFHJ4"
+        },
+        {
+          "name": "Carry On",
+          "url": "https://open.spotify.com/artist/5YGf3E7WV8sCzOgToPx0zi"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214370,
+      "name": "Nazaaro Se",
+      "url": "https://open.spotify.com/track/0v7pE8aimmmQ1wRI1blKje"
+    },
+    {
+      "album": {
         "name": "Nazar (Baby, Chill!)",
         "url": "https://open.spotify.com/album/0Cn5SDJN0qSlbPVGv4yEHu"
       },
@@ -21870,7 +21972,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 168666,
       "name": "O Piya",
       "url": "https://open.spotify.com/track/36gVBx8Vpr9GBYrSYWrz4X"
@@ -22534,6 +22636,32 @@
       "duration_ms": 196714,
       "name": "Pahadon Mein",
       "url": "https://open.spotify.com/track/2M2ebFEyGa12BfpVVJBcuG"
+    },
+    {
+      "album": {
+        "name": "Pakeezah",
+        "url": "https://open.spotify.com/album/15PsbV2sIuMxGq4sEaf7bU"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Surya Venkat",
+          "url": "https://open.spotify.com/artist/0oS6cE82qxeBJ46rWAfFtR"
+        },
+        {
+          "name": "Mrudula Kadam",
+          "url": "https://open.spotify.com/artist/5Fwp2tF5wzy0UTB0RtyIfz"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225391,
+      "name": "Pakeezah",
+      "url": "https://open.spotify.com/track/30Vgmw5zzNtDWn1Us5hRs9"
     },
     {
       "album": {
@@ -23810,6 +23938,28 @@
       "duration_ms": 227755,
       "name": "Raahguzar",
       "url": "https://open.spotify.com/track/7KCgRtQkqxmcKUPpJOm4O0"
+    },
+    {
+      "album": {
+        "name": "Raahi",
+        "url": "https://open.spotify.com/album/4lWdOOc5Y01eQW4Hsyg1IV"
+      },
+      "artists": [
+        {
+          "name": "DR\u00c6DEX",
+          "url": "https://open.spotify.com/artist/084SSUO6WXjg0yEy5eGCsd"
+        },
+        {
+          "name": "Upkar Thakur",
+          "url": "https://open.spotify.com/artist/0l5icZuvZegstUrB8rWevf"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "Raahi",
+      "url": "https://open.spotify.com/track/5xPPYWXn9MfnKZN8Wa3X1e"
     },
     {
       "album": {
@@ -28160,6 +28310,24 @@
     {
       "album": {
         "name": "Sukoon",
+        "url": "https://open.spotify.com/album/56pqZrbhF90QlLgLJuAvUA"
+      },
+      "artists": [
+        {
+          "name": "Curry",
+          "url": "https://open.spotify.com/artist/1sHWKJ2CYul8vAS8wL2Yl5"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281632,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/6aLMrkZvokci8lXe2SLOpl"
+    },
+    {
+      "album": {
+        "name": "Sukoon",
         "url": "https://open.spotify.com/album/3N87bmpNLSdg7mu3Vi2Dk0"
       },
       "artists": [
@@ -28964,7 +29132,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 185260,
       "name": "Tera Mera Qissa",
       "url": "https://open.spotify.com/track/5T2NHdHlHOvkp4e72KsR6f"
@@ -29370,6 +29538,24 @@
       "duration_ms": 111999,
       "name": "Teri Aankhein",
       "url": "https://open.spotify.com/track/59TIrEZy3cj0mj09ynvCqb"
+    },
+    {
+      "album": {
+        "name": "Teri Baaton Mein",
+        "url": "https://open.spotify.com/album/1XE0ISZ49WGVH4xIztT3pX"
+      },
+      "artists": [
+        {
+          "name": "GaaneZaraHatke",
+          "url": "https://open.spotify.com/artist/723a5xX7DiBjeaJn6XwIS9"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135079,
+      "name": "Teri Baaton Mein",
+      "url": "https://open.spotify.com/track/40DE2h1XqUnDAozIDikS9h"
     },
     {
       "album": {
@@ -30635,6 +30821,24 @@
     },
     {
       "album": {
+        "name": "tu hi saza",
+        "url": "https://open.spotify.com/album/1CVYqHifakaAndbnQNWgee"
+      },
+      "artists": [
+        {
+          "name": "Tanay Chaturvedi",
+          "url": "https://open.spotify.com/artist/05RI77swu2dVSJU8fRfEZk"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161307,
+      "name": "tu hi saza",
+      "url": "https://open.spotify.com/track/4Z1FNZL7Kiz1N0BS92y4oq"
+    },
+    {
+      "album": {
         "name": "Tu Ik Vaari",
         "url": "https://open.spotify.com/album/4qKyP5mFxt7PQTcHCEESpk"
       },
@@ -30734,7 +30938,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 211448,
       "name": "Tu Jo Mila Hai",
       "url": "https://open.spotify.com/track/3VnFhbuHMcNtqtdp4t4jFs"

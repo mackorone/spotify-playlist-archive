@@ -2,7 +2,7 @@
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music by independent artists in the UK & Ireland\. Cover: Summer Banton
+> The best new music by independent artists in the UK & Ireland\. Cover: Green Gardens
 
 3,107 songs - 6 day 20 hr 14 min
 

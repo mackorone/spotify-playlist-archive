@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: sleepazoid",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: 9Million",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -506,6 +506,24 @@
       "duration_ms": 225023,
       "name": "555",
       "url": "https://open.spotify.com/track/7aQnb6sTiQto4mh02kHd1G"
+    },
+    {
+      "album": {
+        "name": "Filler Migration",
+        "url": "https://open.spotify.com/album/0gmKMzJr7kZpN032yuCiXo"
+      },
+      "artists": [
+        {
+          "name": "Autobahn",
+          "url": "https://open.spotify.com/artist/5VcaMHYjITajUyU3PbgX9M"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236424,
+      "name": "7 Window Still",
+      "url": "https://open.spotify.com/track/1gfkJ2R7zpbxoaNRl7mGiD"
     },
     {
       "album": {
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 201104,
       "name": "Blame",
       "url": "https://open.spotify.com/track/0G96CfiSRKinhnsreRHvXq"
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 171618,
       "name": "Change",
       "url": "https://open.spotify.com/track/47hi5MwsPta3Q1wD2DaK7p"
@@ -7969,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "Dagger",
+        "url": "https://open.spotify.com/album/0zPLLwNMAsiMfQJ716sDUR"
+      },
+      "artists": [
+        {
+          "name": "Essencer",
+          "url": "https://open.spotify.com/artist/4dpDJM4UH2I0md56TX4STg"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235111,
+      "name": "Dagger",
+      "url": "https://open.spotify.com/track/4A6rJ6S5O23jzRK33SmpfG"
+    },
+    {
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ"
       },
@@ -8834,7 +8870,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 258586,
       "name": "Delete Key",
       "url": "https://open.spotify.com/track/5NPI91Nl7JnICH2MtN6cHf"
@@ -9965,6 +10001,24 @@
     },
     {
       "album": {
+        "name": "Drawbacks",
+        "url": "https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp"
+      },
+      "artists": [
+        {
+          "name": "dust",
+          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248114,
+      "name": "Drawbacks",
+      "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/5L3BtUPVVxB7duCuAZDxo7"
       },
@@ -9998,6 +10052,24 @@
       "duration_ms": 147005,
       "name": "Dreamsickle",
       "url": "https://open.spotify.com/track/5hhYYTvx7PkLMCABivfYVS"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/5GX1sM8X8wPn5QkqFMiBmu"
+      },
+      "artists": [
+        {
+          "name": "Silverdeer",
+          "url": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213176,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/0nF85GFq7dPC56E7fVKoW9"
     },
     {
       "album": {
@@ -11100,7 +11172,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 149781,
       "name": "Eyesight",
       "url": "https://open.spotify.com/track/0sfKK8BCtC1wOmnkrPWX67"
@@ -13380,7 +13452,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 178920,
       "name": "Girotondo",
       "url": "https://open.spotify.com/track/3JHkcUD528nUi5VSSaAAKj"
@@ -14890,7 +14962,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 200053,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
@@ -15132,6 +15204,24 @@
       "duration_ms": 108283,
       "name": "HEY WHAT'S HAPPENIN?",
       "url": "https://open.spotify.com/track/1JoGT0DC76LoABejDyTpz2"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
       "album": {
@@ -16540,7 +16630,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 211626,
       "name": "I Lied, Amber",
       "url": "https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG"
@@ -17070,7 +17160,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 218066,
       "name": "I'm Your Boy",
       "url": "https://open.spotify.com/track/2vCC6lLU4mdBZNrN203F1R"
@@ -17864,6 +17954,24 @@
       "duration_ms": 249902,
       "name": "Iron Will",
       "url": "https://open.spotify.com/track/2S9fK0Z5GYjro2hEMYPfRC"
+    },
+    {
+      "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/5EHA5GSkhMn8abc7TQTQbi"
+      },
+      "artists": [
+        {
+          "name": "The Thing",
+          "url": "https://open.spotify.com/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "Irresistible",
+      "url": "https://open.spotify.com/track/3JZozbWIyv8rbd8EkZkXoG"
     },
     {
       "album": {
@@ -22096,7 +22204,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 141226,
       "name": "My Eating Disorder",
       "url": "https://open.spotify.com/track/6J1FEcduNJ49VqSwnr2WXC"
@@ -23192,6 +23300,24 @@
       "duration_ms": 199017,
       "name": "Not a Friend",
       "url": "https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq"
+    },
+    {
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/3qHFu3J19uZQyKgY9tvZfP"
+      },
+      "artists": [
+        {
+          "name": "allike!",
+          "url": "https://open.spotify.com/artist/5PMX0s9hmSzABF16k2SEXK"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323125,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1HexZviExJ9zwg6k3fTJ9N"
     },
     {
       "album": {
@@ -26290,7 +26416,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 180866,
       "name": "Real Power",
       "url": "https://open.spotify.com/track/5njyGv6YdkdsJvPOxthQ9p"
@@ -26618,6 +26744,24 @@
       "duration_ms": 243076,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/1IrFThsLj5TDaPAxILkSNC"
+    },
+    {
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/2ghx4eCfzYwbWZGj8gvsIw"
+      },
+      "artists": [
+        {
+          "name": "My Transparent Eye",
+          "url": "https://open.spotify.com/artist/6D9BQI3d6y8lOkC6EB7lkU"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235135,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/3V27RRDIZ9LokW2aN9yG3i"
     },
     {
       "album": {
@@ -27692,7 +27836,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 188449,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/4WaYnpLZQ4C76XH4Z4GapO"
@@ -28244,6 +28388,24 @@
       "duration_ms": 161500,
       "name": "she wants me too",
       "url": "https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E"
+    },
+    {
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/1gF9Z1pOgPatMtwV1hGrmP"
+      },
+      "artists": [
+        {
+          "name": "9Million",
+          "url": "https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279735,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/0ryxHlNmyypx3sHBsUj9zI"
     },
     {
       "album": {
@@ -36494,7 +36656,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 212880,
       "name": "Wrong Planet",
       "url": "https://open.spotify.com/track/2zSvNyq5LUgOKHjDlXcH6V"
@@ -36618,7 +36780,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 409280,
       "name": "Y'all Tower",
       "url": "https://open.spotify.com/track/3MCy0lWaKCA0Ij21GjA9ph"
@@ -37140,7 +37302,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 273603,
       "name": "Zombies",
       "url": "https://open.spotify.com/track/3gpW3GpvFgOJSJBDlSXDUl"

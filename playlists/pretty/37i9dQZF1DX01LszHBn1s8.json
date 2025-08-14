@@ -1,13 +1,33 @@
 {
-  "description": "gonna be, gonna be \ud83d\udc9b\u2b50\ufe0f\ud83d\udc51\u269c\ufe0f golden \u269c\ufe0f\ud83d\udc51\u2b50\ufe0f\ud83d\udc9b",
-  "num_followers": 265570,
+  "description": "Alexander Hamilton, come back to sleep \ud83d\udcdc\ud83e\udeb6\ud83d\udd70\ufe0f",
+  "num_followers": 265557,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAP3M+uLnhFjAFJWVEAkwlQv4j5j",
+  "snapshot_id": "AAAAABm26O53kEJLCjY9s3q7mOJd/+KN",
   "tracks": [
+    {
+      "added_at": "2025-08-13 10:57:59",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        }
+      ],
+      "duration_ms": 47943,
+      "name": "Best of Wives and Best of Women",
+      "url": "https://open.spotify.com/track/1dZutYKh4BtPlxbC81wV34"
+    },
     {
       "added_at": "2025-08-01 06:47:45",
       "album": {
@@ -39,22 +59,6 @@
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "Midnight Sun (Bundle)",
-        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 238807,
-      "name": "Midnight Sun - Live",
-      "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
     },
     {
       "added_at": "2025-08-01 06:47:45",
@@ -95,6 +99,42 @@
     {
       "added_at": "2025-08-01 06:47:45",
       "album": {
+        "name": "Midnight Sun (Bundle)",
+        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 238807,
+      "name": "Midnight Sun - Live",
+      "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
+    },
+    {
+      "added_at": "2025-08-01 06:47:45",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-08-01 06:47:45",
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -111,6 +151,90 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
+    },
+    {
+      "added_at": "2025-08-13 10:57:59",
+      "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2025-08-13 10:57:59",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
+    },
+    {
+      "added_at": "2025-08-01 06:47:45",
+      "album": {
+        "name": "Om",
+        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
+      },
+      "artists": [
+        {
+          "name": "Niklas Str\u00f6mstedt",
+          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
+    },
+    {
+      "added_at": "2025-08-01 06:47:45",
+      "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "added_at": "2025-08-01 06:47:45",
+      "album": {
+        "name": "Dame Tu Cosita",
+        "url": "https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        },
+        {
+          "name": "Cutty Ranks",
+          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Dame Tu Cosita",
+      "url": "https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv"
     },
     {
       "added_at": "2025-08-01 06:47:45",
@@ -167,90 +291,22 @@
     {
       "added_at": "2025-08-01 06:47:45",
       "album": {
-        "name": "new friends",
-        "url": "https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt"
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 165668,
-      "name": "new friends",
-      "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
         },
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
         }
       ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "Om",
-        "url": "https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM"
-      },
-      "artists": [
-        {
-          "name": "Niklas Str\u00f6mstedt",
-          "url": "https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Om",
-      "url": "https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "Dame Tu Cosita",
-        "url": "https://open.spotify.com/album/1a82dRyyxsHvpzcpIDUtqT"
-      },
-      "artists": [
-        {
-          "name": "El Chombo",
-          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
-        },
-        {
-          "name": "Cutty Ranks",
-          "url": "https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Dame Tu Cosita",
-      "url": "https://open.spotify.com/track/5tq6gO0LuNjmo9SRT1UcMv"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2025-08-01 06:47:45",
@@ -271,6 +327,22 @@
     {
       "added_at": "2025-08-01 06:47:45",
       "album": {
+        "name": "BASSIANI",
+        "url": "https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB"
+      },
+      "artists": [
+        {
+          "name": "Soppgirobygget",
+          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "BASSIANI",
+      "url": "https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo"
+    },
+    {
+      "added_at": "2025-08-01 06:47:45",
+      "album": {
         "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
       },
@@ -287,22 +359,6 @@
     {
       "added_at": "2025-08-01 06:47:45",
       "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
         "name": "Bitters\u00fc\u00df",
         "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
       },
@@ -315,26 +371,6 @@
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
     },
     {
       "added_at": "2025-08-01 06:47:45",
@@ -399,22 +435,6 @@
       "duration_ms": 34400,
       "name": "Steve's Lava Chicken",
       "url": "https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr"
-    },
-    {
-      "added_at": "2025-08-01 06:47:45",
-      "album": {
-        "name": "BASSIANI",
-        "url": "https://open.spotify.com/album/6pAxDrhGFM30xRSPtweNHB"
-      },
-      "artists": [
-        {
-          "name": "Soppgirobygget",
-          "url": "https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "BASSIANI",
-      "url": "https://open.spotify.com/track/22j80vyQCwoILJQuWTkQoo"
     },
     {
       "added_at": "2025-08-01 06:47:45",

@@ -4,7 +4,7 @@
 
 > All of the newest country songs in one playlist! Featuring BigXthaPlug with Ella Langley, Bailey Zimmerman with The Kid LAROI, and more.
 
-10,603 songs - 24 day 3 hr 36 min
+10,604 songs - 24 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9523,6 +9523,7 @@
 | [TUNED OUT](https://open.spotify.com/track/02DldDk3atLN9vBqbH31eP) | [Nick Nash](https://open.spotify.com/artist/03evdtQP9vcuqdDU6hOluN) | [TUNED OUT](https://open.spotify.com/album/1ssosu5Ryxhmmvbda8w2WH) | 2:40 | 2025-03-14 | 2025-03-22 |
 | [Turn](https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Turn](https://open.spotify.com/album/6wvwfOXlSxL3pbQwJmea10) | 3:25 | 2024-01-26 | 2024-02-03 |
 | [Turn a Round](https://open.spotify.com/track/1saelE3NoBxdepEfKtaaRN) | [Alex Angelo](https://open.spotify.com/artist/6BnmXRCOnTy4iTBlbsgZ5J) | [Turn a Round](https://open.spotify.com/album/5XuqLceZbtUVJJDVeDAEqW) | 2:35 | 2024-11-08 | 2024-11-16 |
+| [Turn Down The Lights](https://open.spotify.com/track/1fnTkzDmuVlyMY7dHkYJtQ) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Turn Down The Lights](https://open.spotify.com/album/73locSD67S8KYGeZJulPMA) | 3:27 | 2025-08-13 |  |
 | [Turn It Down](https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [Turn It Down](https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4) | 3:12 | 2023-08-25 | 2023-09-02 |
 | [Turn It Down \(with Ashland Craft\)](https://open.spotify.com/track/6GGdHtj1oe3UbtgfDvKAdA) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Turn It Down \(with Ashland Craft\)](https://open.spotify.com/album/64LmbL4yIxCE6NwwK6WLPK) | 3:12 | 2024-02-09 | 2024-02-17 |
 | [Turn It Up](https://open.spotify.com/track/72df2gPeJ0YLkeeNtTEPv2) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Turn It Up](https://open.spotify.com/album/3XVHFeb0Ui1BuTereuINnm) | 2:56 | 2022-09-30 | 2022-10-08 |

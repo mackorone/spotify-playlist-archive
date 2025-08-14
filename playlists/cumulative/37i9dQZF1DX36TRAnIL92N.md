@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-270 songs - 22 hr 39 min
+271 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Doppler](https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5) | 7:13 | 2022-07-05 | 2023-11-05 |
 | [Doppler](https://open.spotify.com/track/7J2ZnqSaDNijHboyFFkwpV) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Formula EP](https://open.spotify.com/album/3KjkZXHlDZMbQKqdYPtsUn) | 7:13 | 2023-10-13 | 2024-04-19 |
 | [Driving Mad](https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK), [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Driving Mad](https://open.spotify.com/album/1yZvuAfsG01K9gad20PbqF) | 6:00 | 2022-07-05 | 2023-11-09 |
+| [Drop It \- Charlotte de Witte Rework](https://open.spotify.com/track/1HLn3hITdl2Zo33y0v6mf3) | [Scoop](https://open.spotify.com/artist/0Zur4QJ1dnchOrcH8HNxGS), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Drop It \(Charlotte de Witte Rework\)](https://open.spotify.com/album/3iGB5kHsek3qr6z8ydgFfB) | 5:43 | 2025-08-08 |  |
 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 | 2022-07-05 | 2025-02-24 |
 | [Endless](https://open.spotify.com/track/1P7gXbnZAqtAfRmW0R4Ovw) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Endless](https://open.spotify.com/album/3c31jZDrixWGeAypQK3tS0) | 6:42 | 2022-07-05 | 2022-07-29 |
 | [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 | 2024-08-16 |  |
@@ -124,7 +125,7 @@
 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 | 2024-06-21 |  |
 | [Katarze](https://open.spotify.com/track/47HUapTIiVAORkL3Eu04Su) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Katarze](https://open.spotify.com/album/5oadbRzPuGPkHAy3sRSINV) | 6:11 | 2022-07-05 | 2022-07-27 |
 | [Kernkraft 400](https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO) | [GYMBRO](https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D), [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Kernkraft 400](https://open.spotify.com/album/4ysx834hTZuHbl2ZtsGdTT) | 2:06 | 2023-11-10 |  |
-| [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-08-16 |  |
+| [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-08-16 | 2025-08-14 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-02-16 |  |
 | [Let's Be Free](https://open.spotify.com/track/2zbHr6Xp7gc9LUKeDWB7pB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Let's Be Free](https://open.spotify.com/album/2RQ7Tg8QJ46zF4jkiF1dAE) | 6:02 | 2022-11-25 | 2023-01-05 |
 | [Life](https://open.spotify.com/track/0hgBCww9bE8ufZPndRdURi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Life](https://open.spotify.com/album/7lViivbC59hJG6hr6aYuJj) | 6:09 | 2022-07-05 | 2022-07-12 |

@@ -6965,6 +6965,28 @@
     },
     {
       "album": {
+        "name": "Liquor Store (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/4s6ArJmKtOG3xOtV7AsdjZ"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137404,
+      "name": "Liquor Store (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/1Ofr85G2VL1z2Ge4g0R6CT"
+    },
+    {
+      "album": {
         "name": "Don't Touch That Dial EP",
         "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
       },
@@ -8902,7 +8924,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 180000,
       "name": "P!NK",
       "url": "https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV"

@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12870,
+  "num_followers": 12868,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
+      },
+      "artists": [
+        {
+          "name": "Tinguely d\u00e4 Chn\u00e4cht",
+          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Mini Homeboys",
+      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 248000,
       "name": "Hip Hop Kultur (feat. Black Tiger & Skelt!)",
       "url": "https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/6qpKhE3dGE8rFVAssczdHG"
-      },
-      "artists": [
-        {
-          "name": "Tinguely d\u00e4 Chn\u00e4cht",
-          "url": "https://open.spotify.com/artist/30pdt4YkBYxYPIr0RVdxRj"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Mini Homeboys",
-      "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
     },
     {
       "added_at": "2025-07-24 13:47:10",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "Deheim?",
-        "url": "https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1"
-      },
-      "artists": [
-        {
-          "name": "Webba",
-          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
-        },
-        {
-          "name": "Baze",
-          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
-        }
-      ],
-      "duration_ms": 273005,
-      "name": "Du Hesch Ke",
-      "url": "https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "Eifach n\u00fct",
         "url": "https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 253074,
       "name": "Figg mitt",
       "url": "https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "Deheim?",
+        "url": "https://open.spotify.com/album/5FcPc8QMIXG8DdH66yLqY1"
+      },
+      "artists": [
+        {
+          "name": "Webba",
+          "url": "https://open.spotify.com/artist/017QhuKZfqKAxJHG2ZmolS"
+        },
+        {
+          "name": "Baze",
+          "url": "https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH"
+        }
+      ],
+      "duration_ms": 273005,
+      "name": "Du Hesch Ke",
+      "url": "https://open.spotify.com/track/6uUqFin8qIVVTP8ch9MMmW"
     },
     {
       "added_at": "2025-07-24 13:47:10",

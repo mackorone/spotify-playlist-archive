@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,998 songs - 1 day 16 hr 25 min
+1,999 songs - 1 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Dawn](https://open.spotify.com/track/0LShF4AH2Zesro1MDHWmy3) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dawn](https://open.spotify.com/album/4Ql2uzbyE8fUadqpoPKgdO) | 1:00 | 2024-08-19 |  |
 | [Dawn](https://open.spotify.com/track/2HrjMZtzxnVMYjW6MUJnyJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:09 | 2022-01-12 | 2024-01-30 |
 | [Dawn Glow](https://open.spotify.com/track/4rlat72mFEQ2XMLWLyM6X8) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Unending](https://open.spotify.com/album/0kM59KRjGYra61RlIexAjK) | 1:00 | 2024-02-02 |  |
+| [Day Of Rest](https://open.spotify.com/track/0EsXTX1W8TtaDAirwZzI2D) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Day Of Rest](https://open.spotify.com/album/0Bq52Hff03UGr3xgVXWis5) | 1:00 | 2025-08-13 |  |
 | [Day Of Rest Arr\. For Cello](https://open.spotify.com/track/1twSqWIZbQtpjo63k0X4kB) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 |  |
 | [Day Of Rest Arr\. For Strings](https://open.spotify.com/track/0ZBMm1Wt1r4Ke0OK3yKW4L) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Day One](https://open.spotify.com/track/4W8Hn8N5cqZ9LU42tMHKpR) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Reflections](https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2) | 1:10 | 2022-01-12 |  |

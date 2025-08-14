@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAADspZeD8auviUELnJpUIuJb",
+  "snapshot_id": "aJqEAAAAAADLLExZrQ+9xWyx9u1mnUiy",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 134997,
-      "name": "Absent Minded Solo",
-      "url": "https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solon Islandus (Deluxe)",
         "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 168085,
       "name": "The Drifter",
       "url": "https://open.spotify.com/track/4lSVZHhtD1Fh2GTfgiK0UJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 134997,
+      "name": "Absent Minded Solo",
+      "url": "https://open.spotify.com/track/0G8CCPN2EpfaC9JgEc1qhK"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Works",
-        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 147774,
-      "name": "Cyclist Waltz Solo",
-      "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambal\u00f3",
         "url": "https://open.spotify.com/album/2Pxg7kjXogc6wNNmP80rHL"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 161129,
       "name": "Bambal\u00f3",
       "url": "https://open.spotify.com/track/5rzY2HPvGBe7E2yKxXbRAE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Works",
+        "url": "https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 147774,
+      "name": "Cyclist Waltz Solo",
+      "url": "https://open.spotify.com/track/24wjI8OjrQdeLVLduvu8rl"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 156229,
-      "name": "Whale Variation",
-      "url": "https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The True Meaning Of Forever",
         "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 173927,
       "name": "Coda",
       "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 156229,
+      "name": "Whale Variation",
+      "url": "https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lullabies for Piano and Cello (Deluxe)",
-        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 171564,
-      "name": "Fantas\u00eda Variation",
-      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
+      "duration_ms": 241131,
+      "name": "The Winds",
+      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+        "name": "Lullabies for Piano and Cello (Deluxe)",
+        "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 241131,
-      "name": "The Winds",
-      "url": "https://open.spotify.com/track/1ekC0Et4hZTIq1a93Fxjfj"
+      "duration_ms": 171564,
+      "name": "Fantas\u00eda Variation",
+      "url": "https://open.spotify.com/track/1mGI0euU3McUKLk4SJGfC2"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Filma",
-      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
+      "duration_ms": 163440,
+      "name": "Another Fall, Another Spring",
+      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean Variation II",
-        "url": "https://open.spotify.com/album/73mAxVVAg6kN8allcaHGaW"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 115364,
-      "name": "Ocean Variation II",
-      "url": "https://open.spotify.com/track/6JVP9fK785jsoAfckPHd56"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solon Islandus (Deluxe)",
         "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
       },
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ocean Variation II",
+        "url": "https://open.spotify.com/album/73mAxVVAg6kN8allcaHGaW"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 115364,
+      "name": "Ocean Variation II",
+      "url": "https://open.spotify.com/track/6JVP9fK785jsoAfckPHd56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Another Fall, Another Spring",
-      "url": "https://open.spotify.com/track/3In8znUcyeunAVkfuD6ppM"
+      "duration_ms": 198946,
+      "name": "Filma",
+      "url": "https://open.spotify.com/track/3dXWzjmmYSHwWQKSGhy9gQ"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 232617,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
+      "duration_ms": 214551,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6yIAZ0N0NgYqSJ7z6dGRYl"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 214551,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6yIAZ0N0NgYqSJ7z6dGRYl"
+      "duration_ms": 232617,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
     },
     {
       "added_at": null,

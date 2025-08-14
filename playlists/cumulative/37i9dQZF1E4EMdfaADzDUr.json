@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, winterburn, Birrd and more",
+  "description": "With After Cooking, Leblanc, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 210000,
       "name": "711",
       "url": "https://open.spotify.com/track/5r2Rbf1RxKG5ge8wbzzqOF"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 241860,
       "name": "Adrenogate",
       "url": "https://open.spotify.com/track/0jMjnpl50merLHHWvpvVZi"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 291786,
       "name": "Alba",
       "url": "https://open.spotify.com/track/7dZQqNPWP4mBH935sp3Bkw"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 254516,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/2rR2DzYaP5fTFv65HDqm2x"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 318145,
       "name": "Beautiful Losers (feat. Rangleklods)",
       "url": "https://open.spotify.com/track/0qVXTIQedCfQU4mXL0HmHw"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 122401,
       "name": "Colours of Arps",
       "url": "https://open.spotify.com/track/4lzPDJEyZFpw7K8h5m2OWG"
@@ -316,10 +316,32 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "crush as you burn",
       "url": "https://open.spotify.com/track/5t6uN7HfHFlooRP005c5pi"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur Noir",
+        "url": "https://open.spotify.com/album/6XYaNLpStLI3vkOgzYY6bz"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274545,
+      "name": "C\u0153ur Noir",
+      "url": "https://open.spotify.com/track/0zbaWzgpzP1gFpEvgwI8YI"
     },
     {
       "album": {
@@ -378,7 +400,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -403,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Don't Run",
+        "url": "https://open.spotify.com/album/00n27v5R8lmiUHX8UUZccm"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/4YKnGOuyBtW9TZBLQUl2x9"
+    },
+    {
+      "album": {
         "name": "Down The Line",
         "url": "https://open.spotify.com/album/5JLcRWNMxaeviaa9dA9zlE"
       },
@@ -414,7 +454,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 250826,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/3scWnhahRG6x0Ul4bn1L62"
@@ -508,7 +548,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 306885,
       "name": "Exhausted",
       "url": "https://open.spotify.com/track/6jMGsyol8kq1SxuLXyVkSb"
@@ -584,7 +624,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 366512,
       "name": "Ghost (Find Me Again)",
       "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
@@ -700,6 +740,24 @@
       "duration_ms": 414600,
       "name": "Holocene, Pt. II",
       "url": "https://open.spotify.com/track/1H2Dq1kyLUWl0QW8CLzDZb"
+    },
+    {
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/0sVSukDxUwtyQiU7jYAN2m"
+      },
+      "artists": [
+        {
+          "name": "La Giang",
+          "url": "https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425487,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/7gOyfkVFbzlMSozTcB6Ami"
     },
     {
       "album": {
@@ -964,7 +1022,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 222389,
       "name": "My mind is heavy",
       "url": "https://open.spotify.com/track/256oObpbROJwMUaEN9aqAr"
@@ -1058,7 +1116,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -1202,7 +1260,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 281920,
       "name": "Prince Caster",
       "url": "https://open.spotify.com/track/6XxJfXxQAeyUOVl8Pg0gMY"
@@ -1364,7 +1422,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -1440,6 +1498,24 @@
       "duration_ms": 472698,
       "name": "Space Bunny",
       "url": "https://open.spotify.com/track/1FTpgO7f4gWEpKwSUo7tHE"
+    },
+    {
+      "album": {
+        "name": "To the Other Side",
+        "url": "https://open.spotify.com/album/5o5mo6GTWRfGwssThNcnij"
+      },
+      "artists": [
+        {
+          "name": "This Other Space",
+          "url": "https://open.spotify.com/artist/6lhdbR7pr8RR29VgTh2lqT"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282464,
+      "name": "Space Race",
+      "url": "https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY"
     },
     {
       "album": {
@@ -1548,7 +1624,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 280312,
       "name": "there is nothing to be afraid of",
       "url": "https://open.spotify.com/track/3hHbItjQktd8Ycyam2TZIJ"
@@ -1606,6 +1682,24 @@
       "duration_ms": 230169,
       "name": "Una Mattina",
       "url": "https://open.spotify.com/track/72FEuSrKYrhmTbm6LE7IQD"
+    },
+    {
+      "album": {
+        "name": "Unknown",
+        "url": "https://open.spotify.com/album/4DUwRq0sNXfrpVV0IKWb6F"
+      },
+      "artists": [
+        {
+          "name": "Leblanc",
+          "url": "https://open.spotify.com/artist/4M8rXGu8B5kwIAqDLrG5cb"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259303,
+      "name": "Unknown",
+      "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
     },
     {
       "album": {
@@ -1732,7 +1826,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 245542,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
@@ -1768,7 +1862,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 429760,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/4p4DDw6j5D14J8OOnalkqj"

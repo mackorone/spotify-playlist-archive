@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Jay Webb
 
-3,325 songs - 7 day 10 hr 22 min
+3,326 songs - 7 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2972,6 +2972,7 @@
 | [Tulsa](https://open.spotify.com/track/5CHTb3y86FOW1GEdq54gQG) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Tulsa](https://open.spotify.com/album/1YKgRL0lIKuP8xxd41YBRA) | 4:14 | 2024-06-28 | 2024-08-10 |
 | [Tumbleweed](https://open.spotify.com/track/3cnq0cLgzivsNFovclKyE3) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Tumbleweed](https://open.spotify.com/album/49dhviXblwnf2Drbb7Kldp) | 3:09 | 2024-12-06 | 2025-03-08 |
 | [TURN](https://open.spotify.com/track/2ViLWun5UAU8md6uT2TnSS) | [Darrell Rae](https://open.spotify.com/artist/5TvKDiFVilbhywmcNNELbY) | [TURN](https://open.spotify.com/album/3WtzP2mo29GR6D4iJD5su4) | 3:21 | 2021-12-31 | 2022-01-22 |
+| [Turn Down The Lights](https://open.spotify.com/track/1fnTkzDmuVlyMY7dHkYJtQ) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Turn Down The Lights](https://open.spotify.com/album/73locSD67S8KYGeZJulPMA) | 3:27 | 2025-08-13 |  |
 | [Turn It Down \(with Ashland Craft\)](https://open.spotify.com/track/6GGdHtj1oe3UbtgfDvKAdA) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Turn It Down \(with Ashland Craft\)](https://open.spotify.com/album/64LmbL4yIxCE6NwwK6WLPK) | 3:12 | 2024-02-09 | 2024-07-13 |
 | [Turn On The Lights](https://open.spotify.com/track/0dFJxcjmxNma9wt40UAn41) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Turn On The Lights](https://open.spotify.com/album/3oCS87hsUM8NDpoGsvrRBL) | 3:34 | 2025-07-18 |  |
 | [Turned Into Missing You](https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Turned Into Missing You](https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW) | 3:08 | 2024-02-23 | 2024-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,185 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,201 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 56 | [Spraakwater Lest De Dorst!](https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT) | [Extince](https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5) | [De Avonturen...](https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX) | 3:23 |
 | 57 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
 | 58 | [Time Flies](https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mystery Repeats](https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M) | 4:20 |
-| 59 | [Vanaf Nu/Rauwe Hop](https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 4:19 |
-| 60 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |
+| 59 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |
+| 60 | [Vanaf Nu/Rauwe Hop](https://open.spotify.com/track/4QflCpkH3K3A64KYiZS2df) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 4:19 |
 | 61 | [Utopia](https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS) | [Sticks & Delic](https://open.spotify.com/artist/6RQVbkxQcRhkvDEtOUc3Pn), [James](https://open.spotify.com/artist/1AJcyFwtpIj2RqsqYVqKKG), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Fakkelteit](https://open.spotify.com/album/5YGJo9Oc4OuSYdKEtUJ2fJ) | 4:10 |
 | 62 | [Ik Heb Je](https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:03 |
 | 63 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |

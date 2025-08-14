@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158987,
+  "num_followers": 159001,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,30 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": "2025-08-01 19:27:29",
+      "album": {
         "name": "Bate A Onda",
         "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
-    },
-    {
-      "added_at": "2025-08-01 19:27:29",
-      "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": "2025-08-01 19:27:29",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
-        "name": "AIRBNB",
-        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "AIRBNB",
-      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
-    },
-    {
-      "added_at": "2025-08-01 19:27:29",
-      "album": {
         "name": "Mensagem",
         "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 190833,
       "name": "Comemorar?",
       "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
+    },
+    {
+      "added_at": "2025-08-01 19:27:29",
+      "album": {
+        "name": "AIRBNB",
+        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "AIRBNB",
+      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
     },
     {
       "added_at": "2025-08-01 19:27:29",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
-        "name": "Ela N\u00e3o Cansa",
-        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
-      },
-      "artists": [
-        {
-          "name": "Coffee Zk",
-          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
-        },
-        {
-          "name": "Mel",
-          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
-        }
-      ],
-      "duration_ms": 174715,
-      "name": "Ela N\u00e3o Cansa",
-      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
-    },
-    {
-      "added_at": "2025-08-01 19:27:29",
-      "album": {
         "name": "MIXTRAPISEIRO",
         "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 189687,
       "name": "BEM VINDO A 4TAL",
       "url": "https://open.spotify.com/track/5RkgebjAEJ8hHboAzE3Zl1"
+    },
+    {
+      "added_at": "2025-08-01 19:27:29",
+      "album": {
+        "name": "Ela N\u00e3o Cansa",
+        "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
+      },
+      "artists": [
+        {
+          "name": "Coffee Zk",
+          "url": "https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK"
+        },
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/5a5NeXda5Km8VQLSJQIa94"
+        }
+      ],
+      "duration_ms": 174715,
+      "name": "Ela N\u00e3o Cansa",
+      "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
     },
     {
       "added_at": "2025-08-01 19:27:29",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2025-08-01 19:27:29",
       "album": {
-        "name": "Psicodelia Rap Dub Urbana",
-        "url": "https://open.spotify.com/album/01e2Go7PxEK9kAteyCE8qC"
-      },
-      "artists": [
-        {
-          "name": "Freitera",
-          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
-        },
-        {
-          "name": "Vict\u00fa SL",
-          "url": "https://open.spotify.com/artist/0EYbTOMQzsAt1wpKgwGvTn"
-        },
-        {
-          "name": "Salazar",
-          "url": "https://open.spotify.com/artist/4i5vdurg0oY5DKOV6YMoK8"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Dono do Cora\u00e7\u00e3o Solit\u00e1rio",
-      "url": "https://open.spotify.com/track/4HDASrpki0xjdTdXf4PQ7Q"
-    },
-    {
-      "added_at": "2025-08-01 19:27:29",
-      "album": {
         "name": "Astro Rei",
         "url": "https://open.spotify.com/album/1IxiiZj9kjC1s5EHnwO3wr"
       },
@@ -1239,6 +1215,30 @@
       "duration_ms": 177000,
       "name": "Astro Rei",
       "url": "https://open.spotify.com/track/0d4LrgSfIQ6oLxMQbGhTme"
+    },
+    {
+      "added_at": "2025-08-01 19:27:29",
+      "album": {
+        "name": "Psicodelia Rap Dub Urbana",
+        "url": "https://open.spotify.com/album/01e2Go7PxEK9kAteyCE8qC"
+      },
+      "artists": [
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "Vict\u00fa SL",
+          "url": "https://open.spotify.com/artist/0EYbTOMQzsAt1wpKgwGvTn"
+        },
+        {
+          "name": "Salazar",
+          "url": "https://open.spotify.com/artist/4i5vdurg0oY5DKOV6YMoK8"
+        }
+      ],
+      "duration_ms": 236373,
+      "name": "Dono do Cora\u00e7\u00e3o Solit\u00e1rio",
+      "url": "https://open.spotify.com/track/4HDASrpki0xjdTdXf4PQ7Q"
     },
     {
       "added_at": "2025-08-01 19:27:29",

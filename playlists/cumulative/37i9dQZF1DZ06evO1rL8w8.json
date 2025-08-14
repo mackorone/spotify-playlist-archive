@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "El Movimiento Alterado",
+          "url": "https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Carteles Unidos",
+      "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
+    },
+    {
+      "album": {
         "name": "Champagne O Cerveza",
         "url": "https://open.spotify.com/album/2VopIXebtG4ryyoSORu4QX"
       },
@@ -930,7 +952,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 143829,
       "name": "Lo Mejor Que Me Pas\u00f3",
       "url": "https://open.spotify.com/track/79Bd8kGg0yT3I5xsSTNpPa"

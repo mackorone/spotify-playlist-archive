@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 41531,
+  "num_followers": 41552,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-07-09 14:41:46",
       "album": {
+        "name": "Hoeveel Tranen Moet Ik Huilen",
+        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
+      },
+      "artists": [
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        }
+      ],
+      "duration_ms": 208977,
+      "name": "Hoeveel Tranen Moet Ik Huilen",
+      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
+    },
+    {
+      "added_at": "2025-07-09 14:41:46",
+      "album": {
         "name": "Dag & Nacht",
         "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
-    },
-    {
-      "added_at": "2025-07-09 14:41:46",
-      "album": {
-        "name": "Hoeveel Tranen Moet Ik Huilen",
-        "url": "https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm"
-      },
-      "artists": [
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        }
-      ],
-      "duration_ms": 208977,
-      "name": "Hoeveel Tranen Moet Ik Huilen",
-      "url": "https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe"
     },
     {
       "added_at": "2025-07-09 14:41:46",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-07-09 14:41:46",
       "album": {
-        "name": "Na alles",
-        "url": "https://open.spotify.com/album/76K342zT9QDjcn9laqL5Rs"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        }
-      ],
-      "duration_ms": 200940,
-      "name": "Na alles",
-      "url": "https://open.spotify.com/track/13irTQj1JC2lJEysoQN3Oe"
-    },
-    {
-      "added_at": "2025-07-09 14:41:46",
-      "album": {
         "name": "La Pression",
         "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 161311,
       "name": "La Pression",
       "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
+    },
+    {
+      "added_at": "2025-07-09 14:41:46",
+      "album": {
+        "name": "Na alles",
+        "url": "https://open.spotify.com/album/76K342zT9QDjcn9laqL5Rs"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Na alles",
+      "url": "https://open.spotify.com/track/13irTQj1JC2lJEysoQN3Oe"
     },
     {
       "added_at": "2025-07-09 14:41:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-07-09 14:41:46",
       "album": {
-        "name": "Nu Jij Hier Niet Meer Bent",
-        "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 250269,
-      "name": "Nu Jij Hier Niet Meer Bent",
-      "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
-    },
-    {
-      "added_at": "2025-07-09 14:41:46",
-      "album": {
         "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
         "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
+    },
+    {
+      "added_at": "2025-07-09 14:41:46",
+      "album": {
+        "name": "Nu Jij Hier Niet Meer Bent",
+        "url": "https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 250269,
+      "name": "Nu Jij Hier Niet Meer Bent",
+      "url": "https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn"
     },
     {
       "added_at": "2025-07-09 14:41:46",

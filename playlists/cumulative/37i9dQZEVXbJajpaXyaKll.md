@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,619 songs - 3 day 13 hr 43 min
+1,620 songs - 3 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1255,7 +1255,7 @@
 | [SENTIMIENTO FLAITE](https://open.spotify.com/track/3lD0ngjCfOdT3Xulr36Sut) | [ELMASKFILTRA](https://open.spotify.com/artist/6w3AiDhw6l0b6QLNFJVa4B), [Visionari](https://open.spotify.com/artist/7DcygNwiKuFD4ua58D4Jeq), [Deery](https://open.spotify.com/artist/6j5aud5eJjrg05Q2g5Zr3u) | [SENTIMIENTO FLAITE](https://open.spotify.com/album/25rPcrOSK5c7Mk1TcCz3kv) | 2:06 | 2025-05-19 | 2025-05-22 |
 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2024-09-23 | 2024-09-30 |
 | [Serenidad](https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV) | 3:28 | 2024-10-09 | 2024-10-23 |
-| [seu carinho](https://open.spotify.com/track/7ilPm2UECerc207US1aEst) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [le tengo miedo a las alturas](https://open.spotify.com/album/2TU2lOLZzS9XstxnIiZBmz) | 2:38 | 2025-08-12 |  |
+| [seu carinho](https://open.spotify.com/track/7ilPm2UECerc207US1aEst) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [le tengo miedo a las alturas](https://open.spotify.com/album/2TU2lOLZzS9XstxnIiZBmz) | 2:38 | 2025-08-12 | 2025-08-14 |
 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2025-04-13 | 2025-05-08 |
 | [Sexo Seguro](https://open.spotify.com/track/6UulhuFnVh60zaE2q4tavZ) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Reggaeton Viejo](https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An) | 3:40 | 2025-05-07 | 2025-05-09 |
 | [Señorita \- Remix](https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH) | [Jean Pi](https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Señorita \(Remix\)](https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT) | 3:01 | 2024-02-06 | 2024-02-21 |
@@ -1627,5 +1627,6 @@
 | [オトノケ \- Otonoke \- Opening Theme to DAN DA DAN](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke \(Opening Theme to DAN DA DAN\)](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-22 | 2024-12-24 |
 | [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3cG6423elE49gy76onK3VK) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 4:24 | 2024-12-06 | 2024-12-22 |
 | [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2ZIqGTUu9YpNm8R6cKfdJV) | 4:24 | 2024-12-03 | 2024-12-07 |
+| [革命道中 \- On The Way](https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk) | 3:17 | 2025-08-13 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

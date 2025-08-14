@@ -561,6 +561,28 @@
     },
     {
       "album": {
+        "name": "Bendi",
+        "url": "https://open.spotify.com/album/3MyKmKk8IvDH6orgNbpxik"
+      },
+      "artists": [
+        {
+          "name": "Benwal",
+          "url": "https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl"
+        },
+        {
+          "name": "Freddi",
+          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195882,
+      "name": "Drum's Dance",
+      "url": "https://open.spotify.com/track/6MFd1j72QFianNyQlvBzcE"
+    },
+    {
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/3ZpvU5Y6F5zLoSPatKT6ih"
       },
@@ -3120,7 +3142,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 200181,
       "name": "Wake Up (With You Mine)",
       "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"

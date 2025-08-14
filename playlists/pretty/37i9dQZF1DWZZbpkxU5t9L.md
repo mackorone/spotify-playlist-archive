@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: HUNTR/X
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,168 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,180 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 20 | [革命道中 \- On The Way](https://open.spotify.com/track/5l1GC6kB10b5myLMLdVqEX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/1Lynrklw4pfQ9aZ4XWh1Tk) | 3:17 |
 | 21 | [夢?](https://open.spotify.com/track/1DAJpvV2JWXgx1RMR2qyBq) | [はてな](https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM) | [夢?](https://open.spotify.com/album/7t5SZYoNDIYO6B6Hn03CbX) | 4:14 |
 | 22 | [DOMINANCE](https://open.spotify.com/track/7kNqn2JADquq4tOvoKzAM1) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE ORIGIN](https://open.spotify.com/album/5BTHGzCMlg05u2ZSZcRQbd) | 2:56 |
-| 23 | [Love Myself \- Team E Ver\. from Audition THE LAST PIECE \-](https://open.spotify.com/track/3WVxplKlsrqR0OVj7Eqwuj) | [THE LAST PIECE](https://open.spotify.com/artist/3EPAHLryIdT2n58SgdNCWX) | ["THE LAST PIECE" Creative Round](https://open.spotify.com/album/2KIlNdlIqlOFvn7frvxi29) | 2:47 |
+| 23 | [Love Myself \- Team E Ver\. from Audition THE LAST PIECE \-](https://open.spotify.com/track/3WVxplKlsrqR0OVj7Eqwuj) | [THE LAST PIECE](https://open.spotify.com/artist/3EPAHLryIdT2n58SgdNCWX), [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | ["THE LAST PIECE" Creative Round](https://open.spotify.com/album/2KIlNdlIqlOFvn7frvxi29) | 2:47 |
 | 24 | [マリーゴールド](https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 5:06 |
 | 25 | [TWILIGHT!!!](https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [TWILIGHT!!!](https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6) | 3:37 |
 | 26 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |

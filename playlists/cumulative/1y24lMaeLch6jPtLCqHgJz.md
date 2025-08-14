@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-420 songs - 21 hr 11 min
+421 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Wasted](https://open.spotify.com/track/42lP15vqZBDGbWxe4QcbSE) | [Meikle](https://open.spotify.com/artist/6um9ebhW2OZFKdx89X3w07), [Riley James](https://open.spotify.com/artist/5jRgxHYG8ayHyuBTSQjiGg), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Wasted](https://open.spotify.com/album/0alUNmsRrVuckujLRVFNK5) | 3:00 | 2022-08-19 | 2023-09-09 |
 | [Way Back Home](https://open.spotify.com/track/6riS71XbaX6Z21ECZQyaNN) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Way Back Home](https://open.spotify.com/album/2LUY8WC7hkAiOCO7AcPyao) | 2:57 | 2022-07-29 | 2023-06-17 |
 | [Way For Us](https://open.spotify.com/track/2XgyJqzQHipTiU683LJLUJ) | [Antrex](https://open.spotify.com/artist/5hOuIXHYebxxydOAEtHVbm), [Wilder](https://open.spotify.com/artist/7oqasNI1VoFA5VsXys23v2) | [Way For Us](https://open.spotify.com/album/2vdBgGhyRx1JMrvLDunUZE) | 2:50 | 2022-07-29 | 2023-08-11 |
+| [We Came To Rave](https://open.spotify.com/track/1umI54UmdpNaFpU8Sk7RBH) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [We Came To Rave](https://open.spotify.com/album/7AHHg0QvLsnob9kmKxuJ5s) | 2:06 | 2025-08-13 |  |
 | [We Fight](https://open.spotify.com/track/43F4XlADKdd1IHds72gTgm) | [Voster & Gallardo](https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl), [Aryue](https://open.spotify.com/artist/2lna8m2wZ99CFigsSOAqcb) | [We Fight](https://open.spotify.com/album/087hvZIdWhgOT0qcrTJWNO) | 2:23 | 2022-09-23 | 2023-02-07 |
 | [We Live Forever \- Giuseppe Ottaviani Retouch](https://open.spotify.com/track/7GlpFKNmwBezCJRDSSe1zm) | [Bonka](https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [We Live Forever \(Giuseppe Ottaviani Retouch\)](https://open.spotify.com/album/6g63dJgmqmEjFXAgJ9LQsQ) | 2:56 | 2023-10-12 | 2024-01-10 |
 | [We Made It](https://open.spotify.com/track/0ejDlgGyrvUNEyYUfNdcjf) | [BLCKØUT](https://open.spotify.com/artist/7EZyaSx7ZEqa0LHMsubhbT) | [We Made It](https://open.spotify.com/album/4pPMc8MqHiGrJ5fdg6jKjU) | 2:22 | 2022-09-09 | 2022-09-24 |

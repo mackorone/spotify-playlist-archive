@@ -2,7 +2,7 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Seaside \(Indonesia\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
 234 songs - 16 hr 14 min
 

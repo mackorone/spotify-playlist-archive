@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 232180,
+  "num_followers": 232202,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAABOUsYaEtxBfNkCNKHhVoqZ",
+  "snapshot_id": "aJqEAAAAAAB1yn0XZSeM8EO8eNeLby1k",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Un Derecho de Nacimiento",
+      "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
       },
@@ -775,22 +795,6 @@
       "duration_ms": 186678,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cha-Cha Love",
-        "url": "https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Cha-Cha Love",
-      "url": "https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+        "name": "Cha-Cha Love",
+        "url": "https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue"
       },
       "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 321120,
-      "name": "Un Derecho de Nacimiento",
-      "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
+      "duration_ms": 214942,
+      "name": "Cha-Cha Love",
+      "url": "https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW"
     },
     {
       "added_at": null,

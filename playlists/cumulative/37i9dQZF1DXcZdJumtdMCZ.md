@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
 
-213 songs - 11 hr 57 min
+214 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,11 +214,12 @@
 | [Vinayagane](https://open.spotify.com/track/6wmdzlkYB7gJHTI2GGvYBj) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Sirkazhi Govindarajan](https://open.spotify.com/artist/0POTtVVziAK15RvxYMP3H1) | [Vinayagane](https://open.spotify.com/album/0t5Kd5beolLS0GtKHLcIu7) | 1:15 | 2024-12-29 | 2025-01-28 |
 | [Viyugam](https://open.spotify.com/track/2Ps6Zt8739dZimrJvzbxZt) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Fight Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV) | 2:52 | 2023-12-13 | 2024-09-24 |
 | [Volume Vachi Kelu](https://open.spotify.com/track/5sjawV7i11W86TgV6kbQvq) | [Zy Scenez](https://open.spotify.com/artist/6Dv2e5rJCOuKLZ606S24ik) | [Volume Vachi Kelu](https://open.spotify.com/album/07hP2XYvgsqzFGm5Mczwqc) | 3:57 | 2025-01-06 | 2025-06-05 |
-| [Welcome To Thiruvizha](https://open.spotify.com/track/6CzLr7SMDZTMXYeBkzPIjl) | [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp) | [Welcome To Thiruvizha](https://open.spotify.com/album/1b7ubyqtZR3cGyTqZu4eMr) | 2:46 | 2025-05-16 |  |
+| [Welcome To Thiruvizha](https://open.spotify.com/track/6CzLr7SMDZTMXYeBkzPIjl) | [RAK](https://open.spotify.com/artist/5fRjKFvGLlv4XCjkgWuPoT), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp) | [Welcome To Thiruvizha](https://open.spotify.com/album/1b7ubyqtZR3cGyTqZu4eMr) | 2:46 | 2025-05-16 | 2025-08-14 |
 | [Written By Holy Cow!](https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Written By Holy Cow!](https://open.spotify.com/album/3Ubf6xEUMzT0HqKsGy3Q6B) | 3:23 | 2024-12-29 | 2025-04-19 |
 | [X](https://open.spotify.com/track/0nT73oHjn18NGqReso88f7) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [SHIV PAUL](https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f) | [X](https://open.spotify.com/album/75DAoGEmmgDdS9nVm4b1zs) | 2:08 | 2025-01-24 |  |
 | [Yaana Katha](https://open.spotify.com/track/7u3856hcrH8n7ijjDel4E4) | [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu) | [Yaana Katha](https://open.spotify.com/album/7BMzmPlY95JVY2gZQURwN1) | 4:11 | 2024-12-29 | 2025-01-17 |
 | [Yan Adaiyalam](https://open.spotify.com/track/0fY37pUbxyumQnExq4dZ0d) | [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu) | [Yan Adaiyalam](https://open.spotify.com/album/5tYlFSHSFtOYTlelROBNKD) | 4:19 | 2024-12-29 |  |
+| [YEDA YUNG \(Tamil Remix\)](https://open.spotify.com/track/3jlfA88tVVL8TOe6AvV0oH) | [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG \(Tamil Remix\)](https://open.spotify.com/album/5wK6HCJIMzV2gtOTkaAnYO) | 1:45 | 2025-08-13 |  |
 | [Yedho Mayakkam](https://open.spotify.com/track/5MGdVJRHRfZ95yWQ2hCwRC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Billa 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79crxQ8cTRX053j88cHks0) | 4:22 | 2022-02-08 | 2025-05-03 |
 | [Yeththana Poi](https://open.spotify.com/track/74JSMYUsWd5M4xBjB2gzHd) | [Thiraiyan](https://open.spotify.com/artist/6khZoRA9gHZZUhpKexKuli) | [Yeththana Poi](https://open.spotify.com/album/5vYpMUxXwUh4KWosUbdGbi) | 3:11 | 2025-04-18 | 2025-06-07 |
 

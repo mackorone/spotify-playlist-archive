@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,799 songs - 5 day 2 hr 30 min
+1,800 songs - 5 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
 | [Benidorm](https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Benidorm](https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj) | 2:14 | 2024-08-02 | 2024-08-27 |
+| [Beside You](https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Beside You](https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS) | 4:41 | 2025-08-08 |  |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 | 2025-06-23 |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2021-08-13 | 2022-08-20 |
 | [Better Man](https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98) | [Klaverson](https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr) | [Above Ground](https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl) | 3:28 | 2025-06-27 |  |
@@ -237,7 +238,7 @@
 | [California Heaven \- Medasin Remix](https://open.spotify.com/track/0SIxPkBt6iyocxMSLgcxI7) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [California Heaven \(Medasin Remix\)](https://open.spotify.com/album/3aT2WqA7Fsnrm8e0UcUZAZ) | 3:36 | 2020-05-18 | 2020-07-18 |
 | [Call Katie](https://open.spotify.com/track/0CRs7vCuzxgxjSGqjckzjn) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Call Katie](https://open.spotify.com/album/2XM03VGtZTKcotiQzxrnFO) | 3:01 | 2021-03-19 | 2021-09-11 |
 | [Call my name](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Call my name](https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we) | 2:54 | 2024-02-09 | 2025-03-22 |
-| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 |  |
+| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 | 2025-08-14 |
 | [Called](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Called](https://open.spotify.com/album/4pT6jidjPodWkfoVSEHViq) | 6:04 | 2020-03-17 | 2022-04-19 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-04-06 |
 | [can't hold the light](https://open.spotify.com/track/4DBmErhbpFFYN1ugnu4wCy) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Nick Shadow](https://open.spotify.com/artist/7tZfUc01UkhgbBUWZvRNf0), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [can't hold the light](https://open.spotify.com/album/2MbcAJPVC3u2vlg8aa0xRn) | 2:36 | 2025-05-23 | 2025-07-16 |

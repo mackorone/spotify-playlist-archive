@@ -4,7 +4,7 @@
 
 > The biggest Dancehall playlist in the world\. Cover: Konshens
 
-548 songs - 1 day 2 hr 45 min
+549 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 | 2022-03-21 | 2023-07-11 |
 | [Ride It](https://open.spotify.com/track/53hnQycSOPNhkIRyOSXw0I) | [Shaneil Muir](https://open.spotify.com/artist/6ilIhmo2Ijzq3BnKuxf2KQ), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shabdon Records](https://open.spotify.com/artist/4hDq2gP1jbxtCXSK5JwwCy) | [Ride It](https://open.spotify.com/album/1PYLZgSkcnw0CrK27NrA0A) | 2:17 | 2022-07-29 | 2022-09-10 |
 | [Ring Mi Cellie](https://open.spotify.com/track/4c5F52vIf0FFmQqrPp6AgV) | [Lexxus](https://open.spotify.com/artist/6LCFuJlEO46XKJlT3ZguIa) | [Mr\. Lex](https://open.spotify.com/album/4UlHEMFf5UE4nJrCYrr3i0) | 3:20 | 2023-07-10 | 2023-08-08 |
-| [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 | 2025-06-23 |  |
+| [Road Runner](https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux) | [Yeza](https://open.spotify.com/artist/36jYC060pMMY4uSbkj50cu), [Rorystonelove](https://open.spotify.com/artist/31hI4ZIjeMbbfxXgSsaRJC) | [Road Runner](https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY) | 2:58 | 2025-06-23 | 2025-08-14 |
 | [Roll Deep](https://open.spotify.com/track/5I55hcZJTmdVtyJC4Sn7ae) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/0DVnruHgsqHFIoYnmpYlc2) | 3:27 | 2022-09-09 | 2023-02-01 |
 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 | 2021-12-20 | 2022-11-12 |
 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 | 2023-07-10 |  |
@@ -522,6 +522,7 @@
 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 | 2023-07-10 | 2023-08-08 |
 | [Waan Rich](https://open.spotify.com/track/3QzUGpmTPuc3VFspvKs9r1) | [Substannzz](https://open.spotify.com/artist/4fxi2UicZbAG6CuZB7AqcH) | [Waan Rich](https://open.spotify.com/album/4EjZzdqiAs4NWtVS5LWCKA) | 3:09 | 2024-08-05 | 2025-08-09 |
 | [Wah Kinda Life Dis](https://open.spotify.com/track/1eJcunExwe0IjHeqPJYuCQ) | [Raw Cashh](https://open.spotify.com/artist/56SrM228HXYsTWrB3mK44n) | [Wah Kinda Life Dis](https://open.spotify.com/album/6IbCxQ09hh5nu1lVWuJO6p) | 3:10 | 2024-04-26 | 2025-01-31 |
+| [Wah Yo Deh Pan](https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [Wah Yo Deh Pan](https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75) | 2:22 | 2025-08-13 |  |
 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 | 2023-09-24 | 2024-02-28 |
 | [Walk Out](https://open.spotify.com/track/2VhF9BHXtQBp7OtIievozf) | [ReniGAD](https://open.spotify.com/artist/57sumTgxSpKI0Su0ggOtl3), [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Walk Out](https://open.spotify.com/album/4Ny7iUZ8gClDzRYtM9NEmm) | 2:10 | 2025-02-24 |  |
 | [Want You Back](https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Alandon](https://open.spotify.com/artist/1eEatPjBX7GUArLsabmJVo), [DJ Smo](https://open.spotify.com/artist/65O3QUAeUUs925oniksGJp), [Reid Waters](https://open.spotify.com/artist/0dUCgtuvTnnLNohdnNECkL) | [Want You Back](https://open.spotify.com/album/7DyRjxogpXhnbhSeTKj80P) | 2:33 | 2023-03-03 | 2023-07-11 |

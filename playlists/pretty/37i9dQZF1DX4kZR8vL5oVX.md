@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Nilusi \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,571 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,569 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 29 | [dramatique](https://open.spotify.com/track/78neFQZWJzjsyhh7A36GlU) | [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [dramatique](https://open.spotify.com/album/40OwdbxhOAxwT0cD60SG1Q) | 2:01 |
 | 30 | [Mentalité block](https://open.spotify.com/track/5ru5UnMC867LvGneHo2knC) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Mentalité block](https://open.spotify.com/album/6lOc8tSYvIukNgw9SWaYqA) | 3:15 |
 | 31 | [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 |
-| 32 | [Zone interdite](https://open.spotify.com/track/0d0zzSo36NQBQgVen71PSw) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Zone interdite](https://open.spotify.com/album/7nzLub4KK8qTnlw28XCAIB) | 2:20 |
+| 32 | [Zone interdite](https://open.spotify.com/track/0d0zzSo36NQBQgVen71PSw) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Safarian](https://open.spotify.com/artist/1bXSaPtQuz4Xss952caBZk) | [Zone interdite](https://open.spotify.com/album/7nzLub4KK8qTnlw28XCAIB) | 2:20 |
 | 33 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 |
 | 34 | [CAVALE! CAVALE!](https://open.spotify.com/track/2FMbT1utC3bpnltjnccrNM) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [COMÈTE](https://open.spotify.com/album/4CKVF1Nic1t4j02iZnfi8Y) | 2:31 |
 | 35 | [Fumée Blanche](https://open.spotify.com/track/72Wv7tnQhlVyvc4VaBDBDe) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Fumée Blanche](https://open.spotify.com/album/4LzlgK3TJqL8ivGKIsdUfN) | 3:04 |

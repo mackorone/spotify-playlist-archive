@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125087,
+  "num_followers": 125083,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUdQP9k9+IhFEkgfwMfcRDaIbOkQMJ",
+  "snapshot_id": "AAAUdkXuTu8RRMmbYuQWDIYjUVvMKCF5",
   "tracks": [
+    {
+      "added_at": "2025-08-13 14:46:08",
+      "album": {
+        "name": "Between",
+        "url": "https://open.spotify.com/album/0Z7L3gEHByeBMuzk66tViT"
+      },
+      "artists": [
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Between",
+      "url": "https://open.spotify.com/track/1cdmC5U4jiWu6cEkMYFnht"
+    },
     {
       "added_at": "2025-08-12 14:25:45",
       "album": {

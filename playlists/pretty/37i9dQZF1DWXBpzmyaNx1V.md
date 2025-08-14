@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain](/playlists/plain/37i9dQZF1DWXBpzmyaNx1V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBpzmyaNx1V)
 
-### [Bandemia \- La Playlist Oficial](https://open.spotify.com/playlist/37i9dQZF1DWXBpzmyaNx1V)
+### [performativo](https://open.spotify.com/playlist/37i9dQZF1DWXBpzmyaNx1V)
 
-> Nos vemos en el Primer Gran Festival de Bandemia, 2 de agosto del 2025 en la CDMX.
+> nací en la generación correcta: matcha, tote bags y joyería.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,333 likes - 56 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,326 likes - 56 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 55 | [Uga Buga](https://open.spotify.com/track/2vZWCXzDSVGEgJKspXjh0O) | [Demencia Infantil](https://open.spotify.com/artist/1ONfyqqsW6Y86ioE8iLoMg) | [Uga Buga](https://open.spotify.com/album/0tqmRtr1LlJB1iqXUKbLu5) | 5:26 |
 | 56 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 
-Snapshot ID: `AAAAAKuelX6s9ehcsv4tR6yrv6Z0ZfO6`
+Snapshot ID: `AAAAABajvZfGPeSBiLr3I9t63zyfkL6M`

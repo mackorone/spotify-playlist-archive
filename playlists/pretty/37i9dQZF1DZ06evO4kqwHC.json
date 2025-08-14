@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1090231,
+  "num_followers": 1090260,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAAB2LjmPaRWVUY+htbbMKbrz",
+  "snapshot_id": "aJqEAAAAAABafXMcso8TDfat58v0P4jF",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 321053,
-      "name": "Stranger Things Have Happened",
-      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
+      "duration_ms": 244960,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
+      "duration_ms": 321053,
+      "name": "Stranger Things Have Happened",
+      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
     },
     {
       "added_at": null,

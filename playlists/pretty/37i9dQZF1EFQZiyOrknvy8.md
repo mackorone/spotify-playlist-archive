@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 139 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 268 likes - 140 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,16 +136,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 126 | [Delfine](https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei \(Deluxe Edition\)](https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq) | 3:09 |
 | 127 | [sommer im regen](https://open.spotify.com/track/1b13KFdvFNKQheoHS5rGUr) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [25/8](https://open.spotify.com/album/3WDlcgQsuzTCLkBY7WzTLn) | 2:02 |
 | 128 | [Hab ich dich nicht schonmal geseh'n \(Boah Ey\)](https://open.spotify.com/track/6QkjnlPK39IFDmq49J3mIz) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:47 |
-| 129 | [Mowgli](https://open.spotify.com/track/2jvvCAGt7dxnpTHio3U5JF) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Mowgli](https://open.spotify.com/album/2pJjJ9LQmHgp0F5fXG7lHu) | 3:06 |
-| 130 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
-| 131 | [Hafen](https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Hafen](https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv) | 2:56 |
-| 132 | [Not About You](https://open.spotify.com/track/2qxVLzNuYZ5krJAhUQmC1E) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Stay](https://open.spotify.com/album/6hLb1BSmPR9aglZsak7vHT) | 3:31 |
-| 133 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 |
-| 134 | [Ich will es immer noch wissen](https://open.spotify.com/track/0nuY3YYcCBjHB0CG42Ao3J) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:22 |
-| 135 | [Like Loving You](https://open.spotify.com/track/61olI0SR0iDnj9zLdQJXi4) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [c.wong](https://open.spotify.com/artist/3ktcNCcaSIg4TEU9anN428) | [Like Loving You](https://open.spotify.com/album/6S5JGXzO1NBeoRLFRAPrW6) | 3:01 |
-| 136 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 |
-| 137 | [Ciao Bella \- Instrumental](https://open.spotify.com/track/1eXLlliAXuNAbZ3JwzR6cv) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:06 |
-| 138 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 |
-| 139 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
+| 129 | [Pump It Up](https://open.spotify.com/track/6lfLIn5VTnc4tON8B9ECBd) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Pump It Up](https://open.spotify.com/album/023Y4lyKXWsx8XFzqgsELA) | 2:54 |
+| 130 | [Mowgli](https://open.spotify.com/track/2jvvCAGt7dxnpTHio3U5JF) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Mowgli](https://open.spotify.com/album/2pJjJ9LQmHgp0F5fXG7lHu) | 3:06 |
+| 131 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 |
+| 132 | [Hafen](https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Hafen](https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv) | 2:56 |
+| 133 | [Not About You](https://open.spotify.com/track/2qxVLzNuYZ5krJAhUQmC1E) | [Mario Novembre](https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo) | [Stay](https://open.spotify.com/album/6hLb1BSmPR9aglZsak7vHT) | 3:31 |
+| 134 | [Ich flieg zu dir](https://open.spotify.com/track/5qrwJRBdBzkLTjv9TojkO5) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:53 |
+| 135 | [Ich will es immer noch wissen](https://open.spotify.com/track/0nuY3YYcCBjHB0CG42Ao3J) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:22 |
+| 136 | [Like Loving You](https://open.spotify.com/track/61olI0SR0iDnj9zLdQJXi4) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb), [c.wong](https://open.spotify.com/artist/3ktcNCcaSIg4TEU9anN428) | [Like Loving You](https://open.spotify.com/album/6S5JGXzO1NBeoRLFRAPrW6) | 3:01 |
+| 137 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 |
+| 138 | [Ciao Bella \- Instrumental](https://open.spotify.com/track/1eXLlliAXuNAbZ3JwzR6cv) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:06 |
+| 139 | [My Own Terms](https://open.spotify.com/track/0dzdRefABYGCjjlFzbd5IK) | [Ivy Quainoo](https://open.spotify.com/artist/7wUvXN7DpyN99eIzMa9pcn) | [My Own Terms](https://open.spotify.com/album/1Dk0Iy7NjCH6aqO0zkOJz5) | 3:34 |
+| 140 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 
-Snapshot ID: `Ab5VcgAAAACh66h4ogOlR1r7GmpYm1Yv`
+Snapshot ID: `Ab5a/gAAAAAOr0+6DODPWZfiwJMTHMC4`

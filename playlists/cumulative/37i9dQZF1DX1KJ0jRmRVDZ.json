@@ -15077,6 +15077,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
+        "url": "https://open.spotify.com/album/0uXsNd7F9LeqlgRvnRr3zH"
+      },
+      "artists": [
+        {
+          "name": "\u5e78\u795c",
+          "url": "https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh"
+        }
+      ],
+      "date_added": "2025-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264566,
+      "name": "\u30b7\u30e3\u30f3\u30b0\u30ea\u30e9",
+      "url": "https://open.spotify.com/track/67CFpEEWGFHGGN5QNnDfOU"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30f3\u30c6\u30a3",
         "url": "https://open.spotify.com/album/5o2WaZt2xiFY1gAGd1Y8Xj"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by TINI, Clave Especial, El Malilla, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,549 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,579 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 19 | [Se Equivocó](https://open.spotify.com/track/3bE4gHRsdObm0BuRfWMJMc) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Se Equivocó](https://open.spotify.com/album/08mqfMVd84vSVL18LntcIF) | 3:07 |
 | 20 | [Nadie Como Tú](https://open.spotify.com/track/1HVeALwKakchTMEpD13G95) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Sara Schell](https://open.spotify.com/artist/3f1VtaRxbXskRTovfbEbM0) | [Nadie Como Tú](https://open.spotify.com/album/4EoxJcD7u03TNPv0tawyMW) | 3:38 |
 | 21 | [No se me Olvida](https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No se me Olvida](https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd) | 3:07 |
-| 22 | [Low Rider](https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Low Rider](https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf) | 3:15 |
+| 22 | [Lowrider](https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Lowrider](https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf) | 3:15 |
 | 23 | [Blasta](https://open.spotify.com/track/6AI1fCOCArgvxosZ3twonU) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt), [DJ Urba](https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z) | [Blasta](https://open.spotify.com/album/6Jm6e3Soh9lbWkgwe33bdZ) | 2:33 |
 | 24 | [Como Soñe](https://open.spotify.com/track/473mtjB2MZjeP4Ze2mPiTy) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Como Soñe](https://open.spotify.com/album/13RauZUlmByhvKHxedwkfC) | 2:18 |
 | 25 | [EN LA ORILLA](https://open.spotify.com/track/76IxtHU8QbwvGBMKJdu307) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [EN LA ORILLA](https://open.spotify.com/album/2UuKMLldn6bnJkdG85N2oq) | 3:11 |

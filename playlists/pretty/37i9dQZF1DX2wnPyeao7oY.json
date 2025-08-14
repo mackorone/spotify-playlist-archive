@@ -1,76 +1,28 @@
 {
-  "description": "New music by the heaviest independent artists every Wednesday. Cover: RinRin",
-  "num_followers": 24606,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Frayle",
+  "num_followers": 24655,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFtfyV3HMQiRJ/bgOYFuwpygddBs",
+  "snapshot_id": "AAAAANSqYd4s+4KSVPbgAfhkM+XVq7K5",
   "tracks": [
     {
-      "added_at": "2025-07-18 04:00:14",
+      "added_at": "2025-08-13 04:00:29",
       "album": {
-        "name": "Blue Sky",
-        "url": "https://open.spotify.com/album/7I1V7YD4he3QzI7QiZzAI8"
+        "name": "Summertime Sadness",
+        "url": "https://open.spotify.com/album/5JnMm5ravnwFtOKRS62kWB"
       },
       "artists": [
         {
-          "name": "Clayton King",
-          "url": "https://open.spotify.com/artist/6leIUaxGFuKr0UZ9MGPABQ"
+          "name": "Frayle",
+          "url": "https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1"
         }
       ],
-      "duration_ms": 197704,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/159KpGM4Tim1oFPZl7QhLL"
-    },
-    {
-      "added_at": "2025-08-06 04:00:06",
-      "album": {
-        "name": "Copacetic",
-        "url": "https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Copacetic",
-      "url": "https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj"
-    },
-    {
-      "added_at": "2025-07-18 04:00:14",
-      "album": {
-        "name": "Hunting Ghosts, Finding Demons",
-        "url": "https://open.spotify.com/album/0Dbj4qDn7Hsmbi7IKT8Wph"
-      },
-      "artists": [
-        {
-          "name": "Sunken State",
-          "url": "https://open.spotify.com/artist/49224p0ptI8BQrj0Wt2Ra4"
-        }
-      ],
-      "duration_ms": 194419,
-      "name": "Bring Back the Guillotine",
-      "url": "https://open.spotify.com/track/5tL0FZEJBwtmUAlegAvKxI"
-    },
-    {
-      "added_at": "2025-08-06 04:00:06",
-      "album": {
-        "name": "Death In Sonic",
-        "url": "https://open.spotify.com/album/583O3Syc3pwKZVlIoPv5CR"
-      },
-      "artists": [
-        {
-          "name": "Darkmatter",
-          "url": "https://open.spotify.com/artist/6eftKndDms3JdNUfvzo7Fu"
-        }
-      ],
-      "duration_ms": 194262,
-      "name": "Death in Sonic",
-      "url": "https://open.spotify.com/track/5BY0nLbijJ90n59GWFpyFe"
+      "duration_ms": 266785,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/7bSBrmuDIKpRm9PXT8ffat"
     },
     {
       "added_at": "2025-07-18 04:00:14",
@@ -89,6 +41,150 @@
       "url": "https://open.spotify.com/track/4aC5cgC8yvmxyukDiFqVgf"
     },
     {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Covert One",
+        "url": "https://open.spotify.com/album/5vfS6nAS1z0jg5YLnqiBRM"
+      },
+      "artists": [
+        {
+          "name": "LEVELS",
+          "url": "https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd"
+        }
+      ],
+      "duration_ms": 186168,
+      "name": "Covert One",
+      "url": "https://open.spotify.com/track/2VUzSTz4X7u60BCPMKqHBc"
+    },
+    {
+      "added_at": "2025-07-18 04:00:14",
+      "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/7I1V7YD4he3QzI7QiZzAI8"
+      },
+      "artists": [
+        {
+          "name": "Clayton King",
+          "url": "https://open.spotify.com/artist/6leIUaxGFuKr0UZ9MGPABQ"
+        }
+      ],
+      "duration_ms": 197704,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/159KpGM4Tim1oFPZl7QhLL"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Simulacra",
+        "url": "https://open.spotify.com/album/2MSLItYHPRpsejl0Q3jPyv"
+      },
+      "artists": [
+        {
+          "name": "Bad Juju",
+          "url": "https://open.spotify.com/artist/0JEXbU5CMLdo03UvBqAvyB"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Simulacra",
+      "url": "https://open.spotify.com/track/7zJ5TghDDQEIyFMXEGYASq"
+    },
+    {
+      "added_at": "2025-08-06 04:00:06",
+      "album": {
+        "name": "Copacetic",
+        "url": "https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Copacetic",
+      "url": "https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Neon Demons",
+        "url": "https://open.spotify.com/album/0MxCBNh31WMna6zaJNmtYs"
+      },
+      "artists": [
+        {
+          "name": "Revoid",
+          "url": "https://open.spotify.com/artist/4bFfNjcl5q8NMo2dbsje7o"
+        }
+      ],
+      "duration_ms": 219045,
+      "name": "Neon Demons",
+      "url": "https://open.spotify.com/track/3p79nCk0tCuqft6sqDcHNK"
+    },
+    {
+      "added_at": "2025-07-18 04:00:14",
+      "album": {
+        "name": "Hunting Ghosts, Finding Demons",
+        "url": "https://open.spotify.com/album/0Dbj4qDn7Hsmbi7IKT8Wph"
+      },
+      "artists": [
+        {
+          "name": "Sunken State",
+          "url": "https://open.spotify.com/artist/49224p0ptI8BQrj0Wt2Ra4"
+        }
+      ],
+      "duration_ms": 194419,
+      "name": "Bring Back the Guillotine",
+      "url": "https://open.spotify.com/track/5tL0FZEJBwtmUAlegAvKxI"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Fractures",
+        "url": "https://open.spotify.com/album/1WLu4cIrIXC6pQ8TR8WV6A"
+      },
+      "artists": [
+        {
+          "name": "Face Yourself",
+          "url": "https://open.spotify.com/artist/26DU5Lk20t68F2rYc2DcNU"
+        }
+      ],
+      "duration_ms": 224514,
+      "name": "Fractures",
+      "url": "https://open.spotify.com/track/6lcHJqb5k4w7dGsBpB9rJn"
+    },
+    {
+      "added_at": "2025-08-06 04:00:06",
+      "album": {
+        "name": "Death In Sonic",
+        "url": "https://open.spotify.com/album/583O3Syc3pwKZVlIoPv5CR"
+      },
+      "artists": [
+        {
+          "name": "Darkmatter",
+          "url": "https://open.spotify.com/artist/6eftKndDms3JdNUfvzo7Fu"
+        }
+      ],
+      "duration_ms": 194262,
+      "name": "Death in Sonic",
+      "url": "https://open.spotify.com/track/5BY0nLbijJ90n59GWFpyFe"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Tarnished",
+        "url": "https://open.spotify.com/album/25raEkyFZf9PzsVZBSXENk"
+      },
+      "artists": [
+        {
+          "name": "Asleep At The Helm",
+          "url": "https://open.spotify.com/artist/52KDgZWodiRXEWhGBODF3C"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Tarnished",
+      "url": "https://open.spotify.com/track/3fqo4doDvEd6sItAmpfZVA"
+    },
+    {
       "added_at": "2025-08-06 04:00:06",
       "album": {
         "name": "HOPELESS",
@@ -103,6 +199,22 @@
       "duration_ms": 198987,
       "name": "HOPELESS",
       "url": "https://open.spotify.com/track/7A9Tk8yUzaqgN8gt6jdaKV"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Dead & Gone",
+        "url": "https://open.spotify.com/album/7803WHnzqcYzacC26JK00j"
+      },
+      "artists": [
+        {
+          "name": "Sever",
+          "url": "https://open.spotify.com/artist/2EEOsdvu1oJzCKk9rUNQFq"
+        }
+      ],
+      "duration_ms": 181142,
+      "name": "Dead & Gone",
+      "url": "https://open.spotify.com/track/5qa1Z8uiWItEsTTAKmORlk"
     },
     {
       "added_at": "2025-07-04 04:00:15",
@@ -121,6 +233,22 @@
       "url": "https://open.spotify.com/track/5p7OMwE9yZ51iogUilhLxf"
     },
     {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Expiration Date",
+        "url": "https://open.spotify.com/album/1genizStgIUtlH6omtOVzk"
+      },
+      "artists": [
+        {
+          "name": "Latter",
+          "url": "https://open.spotify.com/artist/5rPX9qL8KQ5XyWPy252IKD"
+        }
+      ],
+      "duration_ms": 152191,
+      "name": "Expiration Date",
+      "url": "https://open.spotify.com/track/7jfExfelmrHCD2h0OtoYBC"
+    },
+    {
       "added_at": "2025-08-06 04:00:06",
       "album": {
         "name": "Dope",
@@ -135,6 +263,22 @@
       "duration_ms": 137624,
       "name": "Dope",
       "url": "https://open.spotify.com/track/6hpnjVqEa7LSyG5cJOuqc4"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/2vxxczel8vaV7sB7cQEwHA"
+      },
+      "artists": [
+        {
+          "name": "We Weren't Invited",
+          "url": "https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa"
+        }
+      ],
+      "duration_ms": 137458,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/0EXcEg3jbsSBvDKdv2Poyr"
     },
     {
       "added_at": "2025-07-04 04:00:15",
@@ -153,24 +297,52 @@
       "url": "https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV"
     },
     {
-      "added_at": "2025-08-06 04:00:06",
+      "added_at": "2025-08-13 04:00:29",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/41CB2xn9CTk52ee0QAzIYF"
+        "name": "My Body, You'll Alter",
+        "url": "https://open.spotify.com/album/5HSjFssld0XJiLGIVUXaEW"
       },
       "artists": [
         {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        },
-        {
-          "name": "Nick Thurl Mavromatis",
-          "url": "https://open.spotify.com/artist/5uihSWYEGNiEzjV5h43VW9"
+          "name": "Variant",
+          "url": "https://open.spotify.com/artist/06zlkRyX3FUcq4phMLKUcM"
         }
       ],
-      "duration_ms": 185000,
-      "name": "HEAVY",
-      "url": "https://open.spotify.com/track/7K9ukB3P4IaWTCa6lHFPOT"
+      "duration_ms": 180056,
+      "name": "Nice to Meet You",
+      "url": "https://open.spotify.com/track/5UqXJT6kI3Y4a82k5HkqPD"
+    },
+    {
+      "added_at": "2025-08-06 04:00:06",
+      "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/3Iti1LR377P8GOrwtAiCae"
+      },
+      "artists": [
+        {
+          "name": "Wake Me",
+          "url": "https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj"
+        }
+      ],
+      "duration_ms": 218343,
+      "name": "THE END OF EVERYTHING",
+      "url": "https://open.spotify.com/track/4r5JlxHcqmSXarddrnauT5"
+    },
+    {
+      "added_at": "2025-08-13 04:00:29",
+      "album": {
+        "name": "Neurosis",
+        "url": "https://open.spotify.com/album/3wZ7pcKJjBsJIDwooUn5Rt"
+      },
+      "artists": [
+        {
+          "name": "Parma Violence",
+          "url": "https://open.spotify.com/artist/2oCH3kHyMUGdxRiA8roL2H"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Neurosis",
+      "url": "https://open.spotify.com/track/14tKEJqz1gNitOSbnhuz87"
     },
     {
       "added_at": "2025-07-04 04:00:15",
@@ -189,20 +361,20 @@
       "url": "https://open.spotify.com/track/7dXnA1Bo45j8ktMZphrV50"
     },
     {
-      "added_at": "2025-08-06 04:00:06",
+      "added_at": "2025-07-04 04:00:15",
       "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/3Iti1LR377P8GOrwtAiCae"
+        "name": "U(phoria)",
+        "url": "https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg"
       },
       "artists": [
         {
-          "name": "Wake Me",
-          "url": "https://open.spotify.com/artist/2OKWC39MELd0cAePTukUxj"
+          "name": "Mirrorcell",
+          "url": "https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j"
         }
       ],
-      "duration_ms": 218343,
-      "name": "THE END OF EVERYTHING",
-      "url": "https://open.spotify.com/track/4r5JlxHcqmSXarddrnauT5"
+      "duration_ms": 213333,
+      "name": "U(phoria)",
+      "url": "https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj"
     },
     {
       "added_at": "2025-07-30 04:00:26",
@@ -237,20 +409,24 @@
       "url": "https://open.spotify.com/track/0I0Pm0mHC23QbMIzqpFNPa"
     },
     {
-      "added_at": "2025-07-04 04:00:15",
+      "added_at": "2025-08-06 04:00:06",
       "album": {
-        "name": "U(phoria)",
-        "url": "https://open.spotify.com/album/56N7Ywq4IWoVuQuvNS3cZg"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/41CB2xn9CTk52ee0QAzIYF"
       },
       "artists": [
         {
-          "name": "Mirrorcell",
-          "url": "https://open.spotify.com/artist/18MQzgqh7Afpja2i3phf4j"
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        },
+        {
+          "name": "Nick Thurl Mavromatis",
+          "url": "https://open.spotify.com/artist/5uihSWYEGNiEzjV5h43VW9"
         }
       ],
-      "duration_ms": 213333,
-      "name": "U(phoria)",
-      "url": "https://open.spotify.com/track/1N1btMf2cMZFiGFTHPL3yj"
+      "duration_ms": 185000,
+      "name": "HEAVY",
+      "url": "https://open.spotify.com/track/7K9ukB3P4IaWTCa6lHFPOT"
     },
     {
       "added_at": "2025-08-06 04:00:06",
@@ -267,6 +443,22 @@
       "duration_ms": 216111,
       "name": "COLOURED IN",
       "url": "https://open.spotify.com/track/5MLJKggIN2d9VAiklXVDHZ"
+    },
+    {
+      "added_at": "2025-07-30 04:00:26",
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/6haT6SkIwEvJWr2wWx1UpD"
+      },
+      "artists": [
+        {
+          "name": "Broken By The Scream",
+          "url": "https://open.spotify.com/artist/0QJjaDqswcLyjDOgcBBf1Z"
+        }
+      ],
+      "duration_ms": 253525,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/13N9MODFp9ncMU2FMuWHJB"
     },
     {
       "added_at": "2025-07-04 04:00:15",
@@ -299,22 +491,6 @@
       "duration_ms": 190431,
       "name": "It's Not Me",
       "url": "https://open.spotify.com/track/2f8UuyxUAkJX9zrjPazk6e"
-    },
-    {
-      "added_at": "2025-07-30 04:00:26",
-      "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/6haT6SkIwEvJWr2wWx1UpD"
-      },
-      "artists": [
-        {
-          "name": "Broken By The Scream",
-          "url": "https://open.spotify.com/artist/0QJjaDqswcLyjDOgcBBf1Z"
-        }
-      ],
-      "duration_ms": 253525,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/13N9MODFp9ncMU2FMuWHJB"
     },
     {
       "added_at": "2025-08-06 04:00:06",
@@ -1131,182 +1307,6 @@
       "duration_ms": 250401,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4Fml0YNyT7BCVYLzHrkGii"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Premonition",
-        "url": "https://open.spotify.com/album/6Yo5hBiGk7conhjqa0VeL6"
-      },
-      "artists": [
-        {
-          "name": "Via Sky",
-          "url": "https://open.spotify.com/artist/7BhceVGe9yQLMUuTKC21bo"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Premonition",
-      "url": "https://open.spotify.com/track/3nLxrJC1vQFUeFuHYAcwNm"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "HOLE",
-        "url": "https://open.spotify.com/album/5tbhja1rblGsTq03L0y4wt"
-      },
-      "artists": [
-        {
-          "name": "dead7",
-          "url": "https://open.spotify.com/artist/35iAdp3TrZPJT5UCv9bq7V"
-        }
-      ],
-      "duration_ms": 189235,
-      "name": "HOLE",
-      "url": "https://open.spotify.com/track/7INAXZcbpMPCAxZOg5Ltev"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Curwen",
-        "url": "https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt"
-      },
-      "artists": [
-        {
-          "name": "UNIVERSITY",
-          "url": "https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Curwen",
-      "url": "https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/119tys0tH16SxmySVdx9oF"
-      },
-      "artists": [
-        {
-          "name": "Sunborn",
-          "url": "https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS"
-        }
-      ],
-      "duration_ms": 254210,
-      "name": "LOTUS",
-      "url": "https://open.spotify.com/track/6thJgJ3d4vxlAbDac2Z6Zw"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/7CY0PR4nzx5oiDGVh1M3nx"
-      },
-      "artists": [
-        {
-          "name": "Packers",
-          "url": "https://open.spotify.com/artist/6qLVcqEgz0XnB2tKhIkGJh"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/3BqmxJZ5rAX47T1p01linH"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1xRnHvJoPjhIPVLv3Onnvd"
-      },
-      "artists": [
-        {
-          "name": "Waxed",
-          "url": "https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY"
-        }
-      ],
-      "duration_ms": 165720,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/3P9sADlTfW3HMVpI1Dg9Pt"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/4bx8XLYHnuKv4VnOgn5FcZ"
-      },
-      "artists": [
-        {
-          "name": "Matter Of Mind",
-          "url": "https://open.spotify.com/artist/0OUKObtDiU0yOxyns51bpb"
-        }
-      ],
-      "duration_ms": 192578,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/7qMQZ5TNQGBzE0SkYYrb4D"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "66 Sins",
-        "url": "https://open.spotify.com/album/7MzsJvxlQXJKds8cnuPSoz"
-      },
-      "artists": [
-        {
-          "name": "Hollowborn",
-          "url": "https://open.spotify.com/artist/68EFK8JNO8AqRzaT8cxppl"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Aeon",
-      "url": "https://open.spotify.com/track/3tHs5MPqTl35hLkivCKclx"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Call of the Infinite",
-        "url": "https://open.spotify.com/album/5ga6tW4gmd7LqBU9BvzrKH"
-      },
-      "artists": [
-        {
-          "name": "URSA",
-          "url": "https://open.spotify.com/artist/5vHShL6Y7oe3QoEuTGSABf"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Deconstruct",
-      "url": "https://open.spotify.com/track/4aPQhK7LjodfShzIRcdh4R"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "Blood War",
-        "url": "https://open.spotify.com/album/6Zlyyy0PhdcG1f9glVOVXk"
-      },
-      "artists": [
-        {
-          "name": "A Moments Notice",
-          "url": "https://open.spotify.com/artist/1sz0RJzPpzXkA0Njm1tPra"
-        }
-      ],
-      "duration_ms": 203470,
-      "name": "Blood War",
-      "url": "https://open.spotify.com/track/6uUZvAjOldmrNBOKvlL3L6"
-    },
-    {
-      "added_at": "2025-07-04 04:00:15",
-      "album": {
-        "name": "DINY",
-        "url": "https://open.spotify.com/album/5Va25nS5MtLDTO0ro1lbY3"
-      },
-      "artists": [
-        {
-          "name": "Pridian",
-          "url": "https://open.spotify.com/artist/6j9qQhHkmEilFly1bGSvpN"
-        }
-      ],
-      "duration_ms": 267426,
-      "name": "DINY",
-      "url": "https://open.spotify.com/track/6qSb8xljIGls8DjEZitzCH"
     }
   ],
   "unique_name": "Fresh Finds Heavy",

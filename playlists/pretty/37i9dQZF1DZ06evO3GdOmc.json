@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 43383,
+  "num_followers": 43401,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAAB+PgAVBpSVSTulQGjjBlSl",
+  "snapshot_id": "aJqEAAAAAACW2vY+9C6BvgkbeE5GXe6i",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 379213,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 232893,
       "name": "Your Love Is Extravagant",
       "url": "https://open.spotify.com/track/45odkrz6e8NWiM8vdJrgZi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 379213,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is the range of R&B in Canada\. Elevate your aura with Osé from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,445 likes - 73 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,472 likes - 73 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

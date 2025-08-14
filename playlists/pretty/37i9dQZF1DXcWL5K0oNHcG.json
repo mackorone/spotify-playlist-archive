@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE. Artwork: Joy Yamusangie.",
-  "num_followers": 238338,
+  "num_followers": 238356,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2+GcIk6BOiS31S1FaXRYOdba5h",
+  "snapshot_id": "AAAAALwIPntpUPpfmb23POlgHRymwJwu",
   "tracks": [
+    {
+      "added_at": "2025-08-13 14:00:17",
+      "album": {
+        "name": "Molasses",
+        "url": "https://open.spotify.com/album/6pVAp4fmmmMmsLisAgW5Yb"
+      },
+      "artists": [
+        {
+          "name": "Natalie Slade",
+          "url": "https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ"
+        }
+      ],
+      "duration_ms": 233773,
+      "name": "The Lesson",
+      "url": "https://open.spotify.com/track/1NTdvJQ5GSdzf62o5GAmzq"
+    },
     {
       "added_at": "2025-08-06 15:46:55",
       "album": {
@@ -831,22 +847,6 @@
       "duration_ms": 270326,
       "name": "Dig Deep (feat.Jairo\uff09",
       "url": "https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "Umut",
-        "url": "https://open.spotify.com/album/77A7xkLwDGQSeL0MNZ8I6F"
-      },
-      "artists": [
-        {
-          "name": "\u0130stanbul West Side Collective",
-          "url": "https://open.spotify.com/artist/1CmYDzZsEskChgwiEuPXsX"
-        }
-      ],
-      "duration_ms": 321547,
-      "name": "Umut",
-      "url": "https://open.spotify.com/track/4Obnl7r6X3hVWv59DGXavM"
     },
     {
       "added_at": "2025-01-22 14:46:34",

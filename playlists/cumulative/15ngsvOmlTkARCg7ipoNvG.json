@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "Day Of Rest",
+        "url": "https://open.spotify.com/album/0Bq52Hff03UGr3xgVXWis5"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60768,
+      "name": "Day Of Rest",
+      "url": "https://open.spotify.com/track/0EsXTX1W8TtaDAirwZzI2D"
+    },
+    {
+      "album": {
         "name": "Day Of Rest (Strings Versions)",
         "url": "https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ"
       },

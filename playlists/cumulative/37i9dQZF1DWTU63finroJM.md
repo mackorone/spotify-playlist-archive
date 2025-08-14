@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maahi.
 
-2,051 songs - 4 day 14 hr 46 min
+2,052 songs - 4 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,7 +745,7 @@
 | [Hạt Giống Số 1](https://open.spotify.com/track/4jFnLSoqJ9Q8GrXdgCplG9) | [Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [Hạt Giống Số 1](https://open.spotify.com/album/0szmEuno6QqSPt8S6nUuyu) | 1:50 | 2022-03-24 | 2022-04-19 |
 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 | 2024-09-23 | 2025-03-29 |
 | [I Beg](https://open.spotify.com/track/48r2oRtw3RSOZHnuQFWZWb) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [I Beg](https://open.spotify.com/album/4GskNwqLX1y2uHhL73JH9j) | 2:52 | 2022-03-24 | 2023-04-18 |
-| [I Can Do Anything](https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [I Can Do Anything](https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98) | 3:10 | 2025-07-04 |  |
+| [I Can Do Anything](https://open.spotify.com/track/12m7YgRtLVk18cYlu0ebbo) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [I Can Do Anything](https://open.spotify.com/album/3fO9QNSdwsOdwiYOukKm98) | 3:10 | 2025-07-04 | 2025-08-14 |
 | [I Can't Go There](https://open.spotify.com/track/3X2zPuuOzFAbupE0LOigfn) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [I Can't Go There](https://open.spotify.com/album/2KEDQNs9BLogSL7xI0Iikf) | 3:10 | 2024-08-23 | 2024-09-24 |
 | [I Can't Sleep](https://open.spotify.com/track/43WhcZ84dxsSO9T2njoFIQ) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [I Can't Sleep](https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y) | 2:31 | 2022-02-03 | 2022-08-02 |
 | [I Do](https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [First of My Kind EP](https://open.spotify.com/album/3EjU6cq2Y8htvd5ozgkmE1) | 2:37 | 2024-10-11 | 2025-01-12 |
@@ -1590,6 +1590,7 @@
 | [TALKSHIT](https://open.spotify.com/track/6wWxz6Qg8OUnuntgSkeP4N) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [TALKSHIT](https://open.spotify.com/album/09mUig5tOtFDbYbHmPAk8H) | 2:06 | 2025-04-04 |  |
 | [Tangerine Dream](https://open.spotify.com/track/0l466Sdh5FNmn8kSYzSO0E) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:49 | 2023-05-30 | 2023-12-02 |
 | [Tapu Te Po](https://open.spotify.com/track/1327O2x1SfFA5wMTag96ou) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [VĀRUA](https://open.spotify.com/album/7jgSag5L2lSg2Ycbn1XAyS) | 4:42 | 2022-04-07 | 2023-01-21 |
+| [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 | 2025-04-04 |  |
 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-01-31 | 2025-02-22 |
 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 | 2024-02-02 | 2024-08-03 |
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-25 | 2023-09-16 |

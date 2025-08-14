@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 160260,
       "name": "b my wife!!!",
       "url": "https://open.spotify.com/track/0lFMYVknhjtmRGviL3bnSb"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 135335,
       "name": "Birds Be Like",
       "url": "https://open.spotify.com/track/4i81dqSMGtv3imzSC5hVLf"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 193096,
       "name": "CHANGED",
       "url": "https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 224125,
       "name": "CHOKING!!!",
       "url": "https://open.spotify.com/track/3hEqkwt2WjiKYMBtei76Yz"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 181130,
       "name": "Directions",
       "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 97430,
       "name": "EDGE PLAY - theSpackster Remix",
       "url": "https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 117408,
       "name": "freeze up",
       "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 197746,
       "name": "FUKOUNA GIRL - SPED UP",
       "url": "https://open.spotify.com/track/6iZn9g7wXyugUTuUSCgjSL"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 284265,
       "name": "FURFAG",
       "url": "https://open.spotify.com/track/7G1vLoPNQrF6aV0pwnhTrF"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 173947,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/7uWPcxNE6mdtDzKR9hinlN"
@@ -2267,6 +2267,24 @@
     },
     {
       "album": {
+        "name": "manic euphoria",
+        "url": "https://open.spotify.com/album/5CYCvoCIFJ5SUXRC2YvRvB"
+      },
+      "artists": [
+        {
+          "name": "ebaycarson",
+          "url": "https://open.spotify.com/artist/114YUBC5k6tQXnyhaLKBwq"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130664,
+      "name": "manic euphoria",
+      "url": "https://open.spotify.com/track/3eacGwUh9HtdoyiMAeRse8"
+    },
+    {
+      "album": {
         "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
         "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/0c7ZCKYxiFa9sedoVxV195"
@@ -2658,7 +2676,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 123245,
       "name": "One Day You'll Die (I do not like this)",
       "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
@@ -2766,7 +2784,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 213482,
       "name": "PAY ME BACK",
       "url": "https://open.spotify.com/track/4Oq3K9tf8q51eJwvAwDVvg"
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 257148,
       "name": "Poison",
       "url": "https://open.spotify.com/track/4BTQE2k73nlnLIGixrfOgF"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 85500,
       "name": "PUPPY TF",
       "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -3840,7 +3858,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 205125,
       "name": "www.PUPPYLUV.xoxo",
       "url": "https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ"

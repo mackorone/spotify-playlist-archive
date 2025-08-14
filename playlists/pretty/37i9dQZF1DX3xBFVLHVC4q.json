@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
         }
       ],
-      "duration_ms": 272466,
-      "name": "\u30b9\u30ea\u30ea\u30f3\u30b0\u30fb\u30ef\u30f3\u30a6\u30a7\u30a4",
-      "url": "https://open.spotify.com/track/0tJ6EW7EqnasppXMSXujDR"
+      "duration_ms": 275173,
+      "name": "Daydream Warrior",
+      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
         }
       ],
-      "duration_ms": 275173,
-      "name": "Daydream Warrior",
-      "url": "https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs"
+      "duration_ms": 272466,
+      "name": "\u30b9\u30ea\u30ea\u30f3\u30b0\u30fb\u30ef\u30f3\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/0tJ6EW7EqnasppXMSXujDR"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
+      },
+      "artists": [
+        {
+          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
+          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+        },
+        {
+          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
+          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+        }
+      ],
+      "duration_ms": 277133,
+      "name": "\u771f\u590f\u306f\u8ab0\u306e\u30e2\u30ce?",
+      "url": "https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "\u308f\u30fc\u3044\u308f\u3044\u308f\u3044 \u308f\u3044\u308f\u3044\u308f\u3044\uff01",
         "url": "https://open.spotify.com/album/2OHTwcMbvQRnUkWeZSbDe4"
       },
@@ -636,17 +656,17 @@
       },
       "artists": [
         {
-          "name": "\u9ed2\u6fa4\u30c0\u30a4\u30e4 (CV.\u5c0f\u5bae\u6709\u7d17)",
-          "url": "https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb"
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
         },
         {
-          "name": "\u9ed2\u6fa4\u30eb\u30d3\u30a3 (CV.\u964d\u5e61 \u611b)",
-          "url": "https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO"
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
         }
       ],
-      "duration_ms": 277133,
-      "name": "\u771f\u590f\u306f\u8ab0\u306e\u30e2\u30ce?",
-      "url": "https://open.spotify.com/track/2NPr06O7VHTXOwdBoUSEJL"
+      "duration_ms": 321266,
+      "name": "\u590f\u306e\u7d42\u308f\u308a\u306e\u96e8\u97f3\u304c",
+      "url": "https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -663,26 +683,6 @@
       "duration_ms": 229426,
       "name": "\u3082\u3063\u3068\u306d!",
       "url": "https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
-        "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
-          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
-        },
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
-          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
-        }
-      ],
-      "duration_ms": 321266,
-      "name": "\u590f\u306e\u7d42\u308f\u308a\u306e\u96e8\u97f3\u304c",
-      "url": "https://open.spotify.com/track/4YKBQ79ioNaMJJlXpCK74l"
     },
     {
       "added_at": "2024-12-17 16:20:41",

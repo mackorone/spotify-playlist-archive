@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-806 songs - 2 day 14 hr 16 min
+807 songs - 2 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Vanished Garden](https://open.spotify.com/track/3iScMPhH2AjZ0YwFpyUx3z) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Invisible Island](https://open.spotify.com/album/2AoNiTLj9aTVAn7FU0VQ8P) | 3:13 | 2022-04-07 | 2022-06-28 |
 | [Vapors](https://open.spotify.com/track/36IKYrCq4bWJAI2NHbQRlI) | [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6) | [4 \| 2 \| 3](https://open.spotify.com/album/3eqCTYlnPPoRVtq9039lkT) | 2:29 | 2024-11-15 | 2024-12-10 |
 | [Variation・III](https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ) | [Masashi Kitamura + Phonogenix](https://open.spotify.com/artist/55aj1GWBgBPNoVICgtbl7s) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:35 | 2022-04-16 | 2022-04-18 |
+| [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 |  |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 | 2024-02-09 |
 | [View 4](https://open.spotify.com/track/1yaOmrXya2YvrVk6ypnnlW) | [COMPUMA](https://open.spotify.com/artist/3FoF5nY23QZfvFlrOAmb5f) | [A View](https://open.spotify.com/album/6zWAv8ROkziYVAbhCSiTiR) | 4:34 | 2023-03-01 | 2023-04-21 |
 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 | 2022-04-07 | 2024-02-09 |
@@ -746,7 +747,7 @@
 | [Weightless Moonlit Night](https://open.spotify.com/track/4MgDI6XeKfKuinjmKc0o8D) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Weightless Moonlit Night](https://open.spotify.com/album/2oszBYBz8X6dDOfTo75TKG) | 3:40 | 2022-11-17 | 2022-12-24 |
 | [What A Life \(I\)](https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ) | [Hayes Bradley](https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak) | [Recommence \(I/VII\)](https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY) | 2:22 | 2024-12-10 |  |
 | [When the Earth Yelled Back at Me](https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Something Ephemeral](https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL) | 3:21 | 2024-12-10 |  |
-| [When The Sun Comes Out](https://open.spotify.com/track/19fWeHgp9MBX16WMmh3Ayh) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Silver Shadow](https://open.spotify.com/album/77D07PWUVtGQXMW2nBStG2) | 2:53 | 2024-12-10 |  |
+| [When The Sun Comes Out](https://open.spotify.com/track/19fWeHgp9MBX16WMmh3Ayh) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Silver Shadow](https://open.spotify.com/album/77D07PWUVtGQXMW2nBStG2) | 2:53 | 2024-12-10 | 2025-08-14 |
 | [White Sand](https://open.spotify.com/track/4rNeeZnRjs0dCxpZ6Jdpfg) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Haze](https://open.spotify.com/album/4hI1EoRGSpR9SXb0QIFDYq) | 2:43 | 2024-05-23 | 2024-09-12 |
 | [White Tape](https://open.spotify.com/track/6306HPSCNNFPDISly6VQFq) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/56PwTEBmFR9GRCSCP8KMWg) | 4:08 | 2022-04-07 | 2022-05-30 |
 | [Wilderness House](https://open.spotify.com/track/5SkfuTaEb1bRH9rNlBuKZG) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Stellar](https://open.spotify.com/album/7GgKzRZKi9JFcD9EMG1IwT) | 2:59 | 2024-12-14 |  |

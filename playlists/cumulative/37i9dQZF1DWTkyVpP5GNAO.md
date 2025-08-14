@@ -2,7 +2,7 @@
 
 ### [Alabanzas y Gloria](https://open.spotify.com/playlist/37i9dQZF1DWTkyVpP5GNAO)
 
-> Dale a Dios toda la gloria y alabanza! Foto: Ingrid Rosario & Ke'Erron
+> Dale a Dios toda la gloria y alabanza! Foto: Barak
 
 240 songs - 23 hr 47 min
 

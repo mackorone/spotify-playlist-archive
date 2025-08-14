@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > Celebrating 10 years of  the best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5?si=Fc2pusVWSpyDt4lQ0091ZQ"> Isaiah Kaleo</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,200 likes - 430 songs - 21 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,258 likes - 430 songs - 21 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

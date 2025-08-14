@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-684 songs - 1 day 8 hr 32 min
+685 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Cream](https://open.spotify.com/track/7LgYzp5DkC6wPE3WPU3dZS) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Cream](https://open.spotify.com/album/1Z3AIHg848JJGQ2rDWz7Hj) | 3:22 | 2025-01-28 | 2025-02-20 |
 | [CREDENTIALS](https://open.spotify.com/track/5Iv2d84UF1HkkkPGmI1Dvf) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:30 | 2024-07-19 | 2024-08-30 |
 | [Cult](https://open.spotify.com/track/6khPfBEdrUMNK9ukBL7yzc) | [Sukhpall Channi](https://open.spotify.com/artist/1o2oKjgjDjZwAjaLnKB2LX) | [Cult](https://open.spotify.com/album/4qefqfL9uEPInY8EYMJAmr) | 2:31 | 2024-12-05 | 2025-03-28 |
+| [CULT](https://open.spotify.com/track/0PQYu4I5csxnSNDDMN6xPk) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [CULT](https://open.spotify.com/album/6RERD6AfphwkNzmP5sLOBG) | 2:49 | 2025-08-13 |  |
 | [Da Boyz](https://open.spotify.com/track/3g8pr3GIUlFFya9RfEpBtw) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Da Boyz](https://open.spotify.com/album/1fT7lCZ3sfwNWDe6nSXKrD) | 1:44 | 2023-08-03 | 2023-09-12 |
 | [Daadey](https://open.spotify.com/track/4wQoYEtHU6oXo9z62GITtH) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Divrose](https://open.spotify.com/artist/2vozhmDOGI7uIqNM1v7GHE), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Daadey](https://open.spotify.com/album/432wkwsdlyvcW99ePM2I85) | 2:07 | 2023-10-26 | 2023-11-07 |
 | [Daang Te Dera \- From "Khadari"](https://open.spotify.com/track/4kTuCpxZpGrUwiEnbHIEfU) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb) | [Daang Te Dera \(From "Khadari"\)](https://open.spotify.com/album/3Jd5vtPICSYKSyLwVg6Jkx) | 2:33 | 2024-01-22 | 2024-01-25 |
@@ -463,7 +464,7 @@
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2023-03-29 | 2023-07-02 |
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-06-30 | 2023-07-15 |
 | [NOW](https://open.spotify.com/track/1E6UgMP4e9mod52TJDpmdz) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [NOW](https://open.spotify.com/album/4tddGC4KJCTe6OaT4OmnlW) | 2:24 | 2023-11-24 | 2024-01-26 |
-| [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 | 2024-04-11 |  |
+| [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 | 2024-04-11 | 2025-08-14 |
 | [Nukra](https://open.spotify.com/track/113NNK55hGq1KmKOyz7qH2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Nukra](https://open.spotify.com/album/4GI47LHmkl0zcuAOph2lXO) | 2:30 | 2023-03-29 | 2023-04-21 |
 | [Off Limits](https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Off Limits](https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57) | 2:02 | 2024-12-03 |  |
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 | 2024-01-20 |

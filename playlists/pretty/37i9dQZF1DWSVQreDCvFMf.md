@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Mark Carpio
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,157 likes - 129 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,187 likes - 129 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 112 | [Pwede Bang Mamaya?](https://open.spotify.com/track/1lSl4z3hsgkLIRQfTVE5t8) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Pwede Bang Mamaya?](https://open.spotify.com/album/6MxeFZNhrUf0Y9abB4YjpY) | 3:25 |
 | 113 | [Sa Madaling Araw](https://open.spotify.com/track/2McnK2hTamoKRZs1xB0gtg) | [Hilera](https://open.spotify.com/artist/4iCXhwhRhgWLl57sj9hhbY) | [Sa Madaling Araw](https://open.spotify.com/album/4CALKiBiNt0KOkOzWuf816) | 4:10 |
 | 114 | [LNP](https://open.spotify.com/track/6jhiq2JcvZMLFSPpezkgpP) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [LNP](https://open.spotify.com/album/4KnI9jHizxfkvyegXahVpR) | 3:55 |
-| 115 | [Flying Kiss](https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Flying Kiss](https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA) | 3:25 |
+| 115 | [FLYING KISS](https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [FLYING KISS](https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA) | 3:25 |
 | 116 | [Pikit Mata](https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Pikit Mata](https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r) | 3:25 |
 | 117 | [Ediwag](https://open.spotify.com/track/2XinWhSXtDDgwPKR0cxjjE) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Ediwag](https://open.spotify.com/album/1qUvXmwbKYMLtrDXJ1qmBf) | 4:08 |
 | 118 | [Superman](https://open.spotify.com/track/1IjJp3vQBTOnCT8yypNboJ) | [Sid Lily](https://open.spotify.com/artist/4bzdCZCwPuP3PLODp7axlq) | [Superman](https://open.spotify.com/album/2Ye2kMhtfKp8ImDYSDcaF6) | 3:42 |

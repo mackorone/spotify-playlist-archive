@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,329 likes - 74 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,403 likes - 74 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 38 | [One Name](https://open.spotify.com/track/38S3cC6HmKMwnGypZ15KnU) | [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp), [Anchored Music](https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB) | [One Name](https://open.spotify.com/album/0mh8zIXLCUR0Kk02W89h5w) | 4:13 |
 | 39 | [Cathedral \- Live](https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej) | [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Cageless Birds](https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR) | [Cathedral \(Live\)](https://open.spotify.com/album/7fROF1qFAmHeUvzAhVfkJj) | 5:56 |
 | 40 | [Just That Good](https://open.spotify.com/track/41Z1kDTRyaclKHmXkR0vn7) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/0gDdrITVEHF5puxOo0ma1o) | 3:37 |
-| 41 | [Swing Wide \- Live](https://open.spotify.com/track/4Ffb55JzVxvHyXbwRPNlOa) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Swing Wide \(Live\)](https://open.spotify.com/album/3INtOnUwU0r1N2rBu3ZOyk) | 4:43 |
+| 41 | [Swing Wide \- Live](https://open.spotify.com/track/4Ffb55JzVxvHyXbwRPNlOa) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Lizzy Reid](https://open.spotify.com/artist/1AqOkx136OyrqkPC1vIntP) | [Swing Wide \(Live\)](https://open.spotify.com/album/3INtOnUwU0r1N2rBu3ZOyk) | 4:43 |
 | 42 | [Who Else](https://open.spotify.com/track/6UMkiHDvUY6B4sGfJ61Q2e) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Who Else](https://open.spotify.com/album/3AYrV3AtPND8ryIBEhWsxx) | 3:09 |
 | 43 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 44 | [Nothing But Holy And Worthy](https://open.spotify.com/track/4gFEbYGFO1WEoXZFNxyQop) | [Covenant Worship](https://open.spotify.com/artist/2F2932LEa8ahflK2xDYKWj), [Kristian Binion](https://open.spotify.com/artist/6zMKXgzvuhDvGQC0G2tBfQ) | [Nothing But Holy And Worthy](https://open.spotify.com/album/5M5rwlcZyx0j4cpl4llX0A) | 7:17 |

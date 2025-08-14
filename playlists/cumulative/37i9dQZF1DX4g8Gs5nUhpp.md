@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: RIO, 52Hz
 
-414 songs - 1 day 1 hr 1 min
+415 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Cuối Tuần \(1825\)](https://open.spotify.com/track/47cMihvydPnDYWWrfp6iP6) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Lelarec](https://open.spotify.com/artist/66KVPHSpvejcXEkiPQ7djq) | [Cuối Tuần \(1825\)](https://open.spotify.com/album/78AJ8syflYYWeZIbAWPcXj) | 2:55 | 2025-01-23 | 2025-02-14 |
 | [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 | 2025-01-23 | 2025-02-12 |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-05-27 | 2024-06-17 |
+| [Còn Gì Đẹp Hơn \- Mưa Đỏ Original Soundtrack](https://open.spotify.com/track/5zXCoF69UxPNLrpar8Rk7e) | [Nguyễn Hùng](https://open.spotify.com/artist/7oxw8G3qB7DwjCs18JWJt5) | [Còn Gì Đẹp Hơn \(Mưa Đỏ Original Soundtrack\)](https://open.spotify.com/album/3Ao9JM14LnPabEUT4UQDK5) | 4:41 | 2025-08-13 |  |
 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2023-01-31 | 2025-01-24 |
 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 | 2022-10-05 | 2022-12-19 |
 | [Có em](https://open.spotify.com/track/2Lag4WL4j3AMXzqWbEzmV6) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs) | 3:38 | 2022-05-27 | 2024-09-04 |

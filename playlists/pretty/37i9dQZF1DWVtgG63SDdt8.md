@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,010 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,048 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [dwell](https://open.spotify.com/track/2VSjXXXPMFDOYp3W4T0ETk) | [the King will come](https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8), [Sean Stevens](https://open.spotify.com/artist/2QCJmP0KH93wpPqXMhFTvv), [ysabelle](https://open.spotify.com/artist/6dNoiei43MgIz6y3h4nyGE) | [conversations with God](https://open.spotify.com/album/39YPdK3Yt6j2BClxLAoJR4) | 8:02 |
 | 98 | [Nothing Is Over](https://open.spotify.com/track/16JITzWPFUMY1uNgFIPmxc) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexandra Osteen](https://open.spotify.com/artist/0dTif6geJ7jyFWTFA73Lda) | [Nothing Is Over](https://open.spotify.com/album/3eFnq8loN5U5hUtJTSSy4E) | 4:24 |
 | 99 | [STEADY HANDS](https://open.spotify.com/track/05wUeTZB3eB4g17LrWJixt) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [STEADY HANDS](https://open.spotify.com/album/6cb3lLCEsvPTf2opmvgOwH) | 3:53 |
-| 100 | [Swing Wide \- Live](https://open.spotify.com/track/4Ffb55JzVxvHyXbwRPNlOa) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL) | [Swing Wide \(Live\)](https://open.spotify.com/album/3INtOnUwU0r1N2rBu3ZOyk) | 4:43 |
+| 100 | [Swing Wide \- Live](https://open.spotify.com/track/4Ffb55JzVxvHyXbwRPNlOa) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Lizzy Reid](https://open.spotify.com/artist/1AqOkx136OyrqkPC1vIntP) | [Swing Wide \(Live\)](https://open.spotify.com/album/3INtOnUwU0r1N2rBu3ZOyk) | 4:43 |
 
 Snapshot ID: `AAAAAKw+hQZaS3BOqyEKMnuKt5nUO0hN`

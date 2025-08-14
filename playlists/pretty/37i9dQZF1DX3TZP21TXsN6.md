@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Karma K, FOCUS, Pierrii en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,730 likes - 66 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,724 likes - 66 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 65 | [Hoelang](https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Hoelang](https://open.spotify.com/album/0XMlh8RJF5RqNaX6D1bbLg) | 2:53 |
 | 66 | [Duizend Volle Manen](https://open.spotify.com/track/7EZ45ylqoplWkFJpN3lxkd) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd), [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Duizend Volle Manen](https://open.spotify.com/album/4xJmuGamirTFgurCtUQfoU) | 3:46 |
 
-Snapshot ID: `AAAAANdOjZkmy6epiH3ERLI2W41e7dNY`
+Snapshot ID: `AAAAAJSDS4S8+5Ir/UXIBq2xf7sBeDqf`

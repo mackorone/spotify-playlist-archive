@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 103495,
+  "num_followers": 103530,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -151,18 +151,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
-        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 286253,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
+      "duration_ms": 278373,
+      "name": "Dirty Paws",
+      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -183,18 +183,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+        "name": "Born To Die \u2013 Paradise Edition (Special Version)",
+        "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Dirty Paws",
-      "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+      "duration_ms": 286253,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5wEreUfwxZxWnEol61ulIi"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Fear Fun",
         "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 234160,
       "name": "Nancy From Now On",
       "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 368773,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -343,18 +343,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
         }
       ],
-      "duration_ms": 224680,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM"
+      "duration_ms": 368773,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/4sCYKMatyhazyy6r2N7Hp2"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Synthetica",
-        "url": "https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Allah-Las",
-        "url": "https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV"
+        "name": "Synthetica",
+        "url": "https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4"
       },
       "artists": [
         {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "duration_ms": 212986,
-      "name": "Catamaran",
-      "url": "https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE"
+      "duration_ms": 238440,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Allah-Las",
+        "url": "https://open.spotify.com/album/1aAKZy0fdFn57xgka1xeDV"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "Catamaran",
+      "url": "https://open.spotify.com/track/5WI4GytPeTnIoVRnUiP8TE"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "The John Wayne",
         "url": "https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E"
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 204031,
-      "name": "Good As New",
-      "url": "https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN"
+      "duration_ms": 218240,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"
     }
   ],
   "unique_name": "Best of Indie 2012",

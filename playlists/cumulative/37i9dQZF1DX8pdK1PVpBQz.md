@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Bumpy
 
-4,186 songs - 9 day 14 hr 31 min
+4,187 songs - 9 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1621,6 +1621,7 @@
 | [Hesitate](https://open.spotify.com/track/4KsmtIjWSk9RwGB60bTdq7) | [Chloe Dadd](https://open.spotify.com/artist/7uXyXCNAbNu5X6BdPFBWrj) | [Hesitate](https://open.spotify.com/album/6gXqHGus0zabCatZ9F65xX) | 3:24 | 2023-09-27 | 2023-10-20 |
 | [Hey](https://open.spotify.com/track/7rBNJKnqq8m717RsTOsJQi) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Hey](https://open.spotify.com/album/4kiVwF4algaMfLFsqmM0SW) | 3:08 | 2022-08-24 | 2022-09-22 |
 | [Hey Lover](https://open.spotify.com/track/4ATEuhAbwJ5JjVVBC8uu3k) | [Ariela Jacobs](https://open.spotify.com/artist/5aSJ7lyKNRh4luVJU9gT6p) | [Hey Lover](https://open.spotify.com/album/7n5QrtpjnWv7hC9gBi7iry) | 3:24 | 2022-11-16 | 2022-12-01 |
+| [Hey You](https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Hey You](https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2) | 3:31 | 2025-08-14 |  |
 | [Hey!](https://open.spotify.com/track/4DLvgo9meVl1hkkAPw10dF) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA) | [Hey!](https://open.spotify.com/album/0TKTNV8WrjVzdwKmFiKQGj) | 2:29 | 2022-11-23 | 2022-12-01 |
 | [Hey...](https://open.spotify.com/track/5kEyWXpQE5hYbqmKHhehkp) | [Bronte Alva](https://open.spotify.com/artist/0pOi3jQPLxu1ruQahY1Twm) | [Hey...](https://open.spotify.com/album/7C4Hm4v7wvvSFV6pRHkCX4) | 3:05 | 2024-07-09 | 2025-01-08 |
 | [Hi Lo](https://open.spotify.com/track/7crSXx6HOFrB7aTRgJXVAy) | [MANE](https://open.spotify.com/artist/1CtWPi5HGDgyjTTL4o2SvO) | [Hi Lo](https://open.spotify.com/album/2p09JJe77lsUy5jrQmJZvZ) | 4:02 | 2022-01-12 | 2022-01-26 |
@@ -3579,7 +3580,7 @@
 | [Teenager Of The Year](https://open.spotify.com/track/2HAtwjPgVETsSLtQ6Kxbqq) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Teenager Of The Year](https://open.spotify.com/album/47yBOeSyO1AHkMVIdjl0TT) | 4:18 | 2023-03-15 | 2023-04-05 |
 | [Tell me](https://open.spotify.com/track/1fvBMuF6xLXQInwVvTCHgj) | [Beryl](https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n) | [Keeping score](https://open.spotify.com/album/1FNhtFM1N5QdaWAdDEDXJH) | 3:19 | 2022-11-23 | 2022-12-01 |
 | [TELL ME](https://open.spotify.com/track/4KHafHbVn6xp0HmAufJ2Kc) | [Kwest](https://open.spotify.com/artist/4d5kNx2Bv7ieK2en82Dgzu) | [TELL ME](https://open.spotify.com/album/0ozhOOtj0wB8p55EsfNiDp) | 3:20 | 2024-01-25 | 2024-03-07 |
-| [Tell Me](https://open.spotify.com/track/4NMcMaJ4BnALsGIiM3RHJn) | [lefty](https://open.spotify.com/artist/7gkTrwRr6RPlDI26SUChFC) | [Tell Me](https://open.spotify.com/album/79f8StqbfMfyB21Hwgr1vb) | 3:49 | 2025-07-01 |  |
+| [Tell Me](https://open.spotify.com/track/4NMcMaJ4BnALsGIiM3RHJn) | [lefty](https://open.spotify.com/artist/7gkTrwRr6RPlDI26SUChFC) | [Tell Me](https://open.spotify.com/album/79f8StqbfMfyB21Hwgr1vb) | 3:49 | 2025-07-01 | 2025-08-14 |
 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 | 2023-05-03 | 2023-05-31 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-03-30 | 2022-04-21 |
 | [Tell Me When](https://open.spotify.com/track/4P5dDFZTJ9OEDBuOSwfpRi) | [Altai](https://open.spotify.com/artist/0iNIJkKMOZrBPjL0n8skbw) | [Tell Me When](https://open.spotify.com/album/6DSMn2w1ZkPb7huFndHKzS) | 4:56 | 2025-07-01 |  |

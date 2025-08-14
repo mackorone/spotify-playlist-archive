@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cleo Reed
 
-1,817 songs - 4 day 12 hr 37 min
+1,818 songs - 4 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Date Night at Daddy Joe's](https://open.spotify.com/track/7HgoZbwo2u4obD00htOZE4) | [Aubrey Key](https://open.spotify.com/artist/4Y5o0OEWjquf3Npdb8OANS) | [Date Night at Daddy Joe's](https://open.spotify.com/album/2pPdJJ7vwmxt61GmQofm0u) | 2:06 | 2023-03-01 | 2023-03-30 |
 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 | 2025-04-09 | 2025-06-19 |
 | [Dave](https://open.spotify.com/track/7o3Q82Yb6whC6shTgAz5Or) | [Ray](https://open.spotify.com/artist/1Nt2hBKPlqqZ2IGyu0XlLb) | [Someone's speaking](https://open.spotify.com/album/25UP2JDlEZR8zBnF9Sotit) | 2:38 | 2024-12-04 | 2025-01-16 |
-| [David](https://open.spotify.com/track/4PbLDIXUSYF9rwNg86Jt8i) | [Andrew Lucier](https://open.spotify.com/artist/5fqAKTeGBFD1bdZhEJ3CJl) | [David](https://open.spotify.com/album/2E30ZuCKqtcIKj6F31cGJB) | 3:46 | 2025-01-15 | 2025-03-13 |
+| [David](https://open.spotify.com/track/4PbLDIXUSYF9rwNg86Jt8i) | [Andrew Lucier](https://open.spotify.com/artist/5fqAKTeGBFD1bdZhEJ3CJl) | [David](https://open.spotify.com/album/2E30ZuCKqtcIKj6F31cGJB) | 3:46 | 2025-01-15 |  |
 | [Dawn](https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [Dawn](https://open.spotify.com/album/22i1EuwuPIc25Z5E8zKdzB) | 4:13 | 2024-03-20 | 2024-06-06 |
 | [Daydream](https://open.spotify.com/track/0E12FUPGpS0DYu6C1zegiu) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Earthling on the Road to Self Love](https://open.spotify.com/album/4sRPrF3Ev4HPurzyxcbpdr) | 4:03 | 2023-02-08 | 2023-03-16 |
 | [Daydream](https://open.spotify.com/track/2Mh9ifVSvGj6l80ZPi9o7Q) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Daydream](https://open.spotify.com/album/4bTMGUi39C1EEMJW8Fmpbd) | 4:03 | 2023-01-25 | 2023-02-13 |
@@ -767,6 +767,7 @@
 | [How long](https://open.spotify.com/track/65dGvhhSg65PUUpTTJdwIb) | [Joel Sundkvist](https://open.spotify.com/artist/7uuTT33JCupBqe9tB9CZUM), [Arüna](https://open.spotify.com/artist/3wxpakEyvBC9NXree33C3Z) | [How long](https://open.spotify.com/album/1jwBRA70U1w5cGfZdajTfS) | 2:48 | 2025-04-09 | 2025-06-19 |
 | [How Long](https://open.spotify.com/track/4Nj7olHNFww7pswTjw5K69) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/6kotQsMomxpJKZtGWyNUS0) | 3:30 | 2024-12-04 | 2025-01-16 |
 | [How Long](https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [How Long](https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe) | 3:30 | 2024-06-12 | 2024-08-15 |
+| [How The Mind Can Be A Trap](https://open.spotify.com/track/2OD6T3M48RGRKGnHBW7PzN) | [Amy Jay](https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3) | [How The Mind Can Be A Trap](https://open.spotify.com/album/18bgPBnHMZ2QQgrX3PTsp4) | 3:11 | 2025-08-13 |  |
 | [How to Forget](https://open.spotify.com/track/5E7ShoQeHx2WoEa5uFwRWW) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [How to Forget](https://open.spotify.com/album/3MYJWD831kp1HuvlBCE61X) | 3:54 | 2024-02-28 | 2024-05-09 |
 | [how to love you](https://open.spotify.com/track/6VUjf6bc1XdfFoKFk7ZC66) | [mor](https://open.spotify.com/artist/0yvVfS792TJ08fVhNZzPQd) | [how to love you](https://open.spotify.com/album/3RnqpmRh0O8LyVH48ys2YK) | 3:19 | 2025-07-09 |  |
 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 | 2023-04-12 | 2023-06-22 |

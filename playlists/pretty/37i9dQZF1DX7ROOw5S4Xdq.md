@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,940 likes - 48 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,019 likes - 48 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 19 | [Festa no Deserto \- Ao Vivo](https://open.spotify.com/track/31FV1KWZD274iuKlqRe08T) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Festa no Deserto \(Ao Vivo\)](https://open.spotify.com/album/5KVAXZ4gX0alasxFXhi2QC) | 3:47 |
 | 20 | [Agora Tenho Vida](https://open.spotify.com/track/0KPuy0EzUTayLRk96DM6u0) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Agora Tenho Vida](https://open.spotify.com/album/63weaS7ZzokLThqyztvCe9) | 3:59 |
 | 21 | [Ezequiel 47 \- Ao Vivo](https://open.spotify.com/track/193wb5ugpQBN13sIEzXyn8) | [Thiago Brito](https://open.spotify.com/artist/2cPZP8k1AfSggcUQz9H8BR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Ezequiel 47 \(Ao Vivo\)](https://open.spotify.com/album/68PwebAgE0leiFR2KKgiPH) | 9:05 |
-| 22 | [Valeu a Pena Esperar \- Ao Vivo](https://open.spotify.com/track/3Lmwg7vW9hGMmJYpgjLeMT) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Valeu a Pena Esperar \(43 Anos Louvor Eterno\)](https://open.spotify.com/album/5HrWhF5kKsHoDOnPs57J2r) | 5:30 |
+| 22 | [Valeu a Pena \(43 Anos Louvor Eterno\) \- Ao Vivo](https://open.spotify.com/track/3Lmwg7vW9hGMmJYpgjLeMT) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Valeu a Pena \(43 Anos Louvor Eterno\)](https://open.spotify.com/album/5HrWhF5kKsHoDOnPs57J2r) | 5:30 |
 | 23 | [Uma Nova História \- Ao Vivo](https://open.spotify.com/track/0UF5nmfPoSy5SxOsjxPrnG) | [Duda Santos Oficial](https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG) | [Uma Nova História \(Ao Vivo\)](https://open.spotify.com/album/2xw0hBApl6KwUPS8hT2YgE) | 3:51 |
 | 24 | [Quero Carregar Tua Arca \- Ao Vivo](https://open.spotify.com/track/6lbE1JWTAtXuAUEmWxt3lo) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Quero Carregar Tua Arca \(Ao Vivo\)](https://open.spotify.com/album/2z83RmEoutn3N0YbS5MmtS) | 5:33 |
 | 25 | [Deus Tremendo \- Acoustic](https://open.spotify.com/track/6nQK3H1j5FfZTBkucl6c3H) | [Roberto Carvalhaes](https://open.spotify.com/artist/2pD4lj56TZJIWv3OshcF1M) | [Deus Tremendo](https://open.spotify.com/album/2T6qqZbp02h9E4079Y2eo7) | 4:08 |

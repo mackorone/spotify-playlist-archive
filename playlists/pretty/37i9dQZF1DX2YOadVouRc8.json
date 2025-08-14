@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 38687,
+  "num_followers": 38730,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-08-08 10:47:02",
       "album": {
-        "name": "Toro - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 194436,
-      "name": "Toro - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
-    },
-    {
-      "added_at": "2025-08-08 10:47:02",
-      "album": {
         "name": "Fall In Love (feat. Ayo Jay)",
         "url": "https://open.spotify.com/album/6Df2qCBg6t8oSSpqWkb5pE"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 205238,
       "name": "Fall In Love (feat. Ayo Jay)",
       "url": "https://open.spotify.com/track/4GdnJEbOxXMJMSzdkql8X3"
+    },
+    {
+      "added_at": "2025-08-08 10:47:02",
+      "album": {
+        "name": "Toro - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 194436,
+      "name": "Toro - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
     },
     {
       "added_at": "2025-08-08 10:47:02",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-08-08 10:47:02",
       "album": {
-        "name": "Soundtrack to Great Sex",
-        "url": "https://open.spotify.com/album/7GHxdwWkHmX8whDmKFpski"
-      },
-      "artists": [
-        {
-          "name": "Eli Jae",
-          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
-        }
-      ],
-      "duration_ms": 144516,
-      "name": "No Yawa",
-      "url": "https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX"
-    },
-    {
-      "added_at": "2025-08-08 10:47:02",
-      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 209550,
       "name": "Pot of Gold",
       "url": "https://open.spotify.com/track/5k6wuWfwLk7ok1uA8uDteR"
+    },
+    {
+      "added_at": "2025-08-08 10:47:02",
+      "album": {
+        "name": "Soundtrack to Great Sex",
+        "url": "https://open.spotify.com/album/7GHxdwWkHmX8whDmKFpski"
+      },
+      "artists": [
+        {
+          "name": "Eli Jae",
+          "url": "https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ"
+        }
+      ],
+      "duration_ms": 144516,
+      "name": "No Yawa",
+      "url": "https://open.spotify.com/track/4UeTcl6NfFc85bZyuaB6BX"
     },
     {
       "added_at": "2025-08-08 10:47:02",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2025-08-08 10:47:02",
       "album": {
-        "name": "Lock In",
-        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
-      },
-      "artists": [
-        {
-          "name": "Tim Lyre",
-          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 173839,
-      "name": "Lock In",
-      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
-    },
-    {
-      "added_at": "2025-08-08 10:47:02",
-      "album": {
         "name": "Reflection Station",
         "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 169146,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/4BYukA1XrZsr7O07yqghgM"
+    },
+    {
+      "added_at": "2025-08-08 10:47:02",
+      "album": {
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/5ziFmKymfaKOe3b1axOjjS"
+      },
+      "artists": [
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 173839,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
     },
     {
       "added_at": "2025-08-08 10:47:02",

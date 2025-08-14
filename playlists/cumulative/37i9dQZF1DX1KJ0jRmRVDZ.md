@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,487 songs - 3 day 12 hr 32 min
+1,488 songs - 3 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -792,6 +792,7 @@
 | [シャルル](https://open.spotify.com/track/5ixum2qfNvOkG7CsC1SvJk) | [うみくん](https://open.spotify.com/artist/7AeFUOB2BZuIkeq2S6FpIp) | [シャルル](https://open.spotify.com/album/0bsDcu5BN7FA222wV07gO1) | 3:50 | 2022-10-06 | 2022-10-19 |
 | [シャルル feat.松下](https://open.spotify.com/track/3oOp8RI9kvdKckEVqPme86) | [Mada Mitakoto no Nai Sekai](https://open.spotify.com/artist/0p1pmY1X6Waf3rd4K5vY5y) | [シャルル feat.松下](https://open.spotify.com/album/45jyNfFUz5hqSsSAk31N25) | 3:48 | 2022-10-18 | 2022-10-26 |
 | [シャワールームランデブー](https://open.spotify.com/track/746svnxRSFBJOHEh84XsmE) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シャワールームランデブー](https://open.spotify.com/album/3Phsmc2oKgMslU1URpjoRs) | 3:24 | 2023-05-09 | 2023-05-11 |
+| [シャングリラ](https://open.spotify.com/track/67CFpEEWGFHGGN5QNnDfOU) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [シャングリラ](https://open.spotify.com/album/0uXsNd7F9LeqlgRvnRr3zH) | 4:24 | 2025-08-12 |  |
 | [シャンティ](https://open.spotify.com/track/2eY85CSPKYMYzilNKhs7N2) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [シャンティ](https://open.spotify.com/album/5o2WaZt2xiFY1gAGd1Y8Xj) | 2:45 | 2022-07-19 | 2022-07-24 |
 | [シャンティ \(feat\. KAITO\)](https://open.spotify.com/track/0LWfcbyKEdi7BKofXlYtEN) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [シャンティ](https://open.spotify.com/album/1X1YaU65nIfjTpd23hPskH) | 2:45 | 2023-01-03 | 2023-02-03 |
 | [シュガーグライダー](https://open.spotify.com/track/6d6aofOPPbvQQyHrEkzkbb) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [シュガーグライダー](https://open.spotify.com/album/1TXGEVdb72WeN7DY37oMCh) | 3:10 | 2023-05-09 | 2023-06-28 |

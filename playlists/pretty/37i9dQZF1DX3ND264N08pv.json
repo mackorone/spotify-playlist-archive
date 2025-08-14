@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 86888,
+  "num_followers": 86920,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-08-07 22:00:42",
       "album": {
+        "name": "Hardcore Strikes Back",
+        "url": "https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE"
+      },
+      "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Hardcore Strikes Back",
+      "url": "https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE"
+    },
+    {
+      "added_at": "2025-08-07 22:00:42",
+      "album": {
         "name": "Come Take My Hand (Spiady Remix)",
         "url": "https://open.spotify.com/album/5MlnLtzvtZo6IzZaoo9Ez6"
       },
@@ -899,26 +915,6 @@
     {
       "added_at": "2025-08-07 22:00:42",
       "album": {
-        "name": "Hardcore Riot",
-        "url": "https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        },
-        {
-          "name": "Imperatorz",
-          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
-        }
-      ],
-      "duration_ms": 160762,
-      "name": "Hardcore Riot",
-      "url": "https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut"
-    },
-    {
-      "added_at": "2025-08-07 22:00:42",
-      "album": {
         "name": "Witch Queen EP",
         "url": "https://open.spotify.com/album/4OGLu6ud8DZt8BFzzVVPZ7"
       },
@@ -935,18 +931,22 @@
     {
       "added_at": "2025-08-07 22:00:42",
       "album": {
-        "name": "Hardcore Strikes Back",
-        "url": "https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE"
+        "name": "Hardcore Riot",
+        "url": "https://open.spotify.com/album/3E6GvOQLONztqFhYkB1tEP"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
         }
       ],
-      "duration_ms": 189090,
-      "name": "Hardcore Strikes Back",
-      "url": "https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE"
+      "duration_ms": 160762,
+      "name": "Hardcore Riot",
+      "url": "https://open.spotify.com/track/0NgAK2QXtD3q3wReSP9eut"
     },
     {
       "added_at": "2025-08-07 22:00:42",

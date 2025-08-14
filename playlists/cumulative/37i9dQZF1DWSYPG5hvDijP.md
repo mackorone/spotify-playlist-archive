@@ -4,7 +4,7 @@
 
 > Naya Hip\-Hop Hindi! Cover: AFKAP
 
-1,012 songs - 2 day 2 hr 5 min
+1,013 songs - 2 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 | 2024-07-29 | 2024-08-30 |
 | [Bana Hi Nahi Tha](https://open.spotify.com/track/6hEDk4meQkfuUB4MVMCsMP) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Bana Hi Nahi Tha](https://open.spotify.com/album/47tdU90RtfE3Kmz8Ocqvd9) | 3:14 | 2024-02-06 | 2024-07-13 |
 | [BANDANA LAAL](https://open.spotify.com/track/1sW0liLF8WqEx63EcNF1nR) | [Priceless](https://open.spotify.com/artist/1G1UtNEy4D1pSmNMJjAJ2q) | [CAPITAL FLOW](https://open.spotify.com/album/3hIGoT9TOiMwEivYwHJtZ1) | 2:42 | 2025-03-21 | 2025-04-26 |
+| [Bande Mehfooz](https://open.spotify.com/track/7FwJUFeccTWsNMmaEtAuOP) | [Rey Music](https://open.spotify.com/artist/4P8iFIswbSmDLViJz2Ant2), [RJ47](https://open.spotify.com/artist/6CReXsbhHy14JjEhUFouNE), [Smokey](https://open.spotify.com/artist/0pjOlblZPSB8G5SC0kduPW) | [Bande Mehfooz](https://open.spotify.com/album/5G8OrcGxUIGTvp1aH7ntst) | 3:02 | 2025-08-12 |  |
 | [Banger Pro Max](https://open.spotify.com/track/60HDV0rmiKQ9ZriK4PHdos) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Banger Pro Max](https://open.spotify.com/album/0sOjlH4Z8glH3OzQItLZjk) | 2:36 | 2023-03-29 | 2023-07-21 |
 | [BANJO BOUNCE](https://open.spotify.com/track/5dh6068sF2UqWnX4LBn06n) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Epr Iyer](https://open.spotify.com/artist/5tusfwYTSzhe2meWRNp9tj) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:14 | 2024-11-15 | 2024-12-12 |
 | [Bannee Thani \- Drill Rap Version](https://open.spotify.com/track/3hJsNZuCVU3wxpmTjNJHam) | [Shilpa Surroch](https://open.spotify.com/artist/1ZYCMyQKFPRWYyvVnIh10b), [Samast Pahadi](https://open.spotify.com/artist/4rUGBrM2SvYPhtRu5UzIiv) | [Bannee Thani \(Drill Rap Version\)](https://open.spotify.com/album/12Ez5vAh7jujY8HusDv5GQ) | 2:28 | 2025-05-02 | 2025-06-21 |
@@ -749,7 +750,7 @@
 | [Party Mei Aa](https://open.spotify.com/track/1Fbg35sZiHDecRyl5QDnBN) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Party Mei Aa \(RAA\-MIX\)](https://open.spotify.com/album/6gJt1LxgetN9HZEn4Dkmgv) | 1:45 | 2025-01-10 | 2025-02-22 |
 | [Party Mei Aa \- RAA\-MIX](https://open.spotify.com/track/5bHMrc3XDM6OJ4CPqvX8et) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Party Mei Aa \(RAA\-MIX\)](https://open.spotify.com/album/6gJt1LxgetN9HZEn4Dkmgv) | 2:25 | 2025-01-10 | 2025-02-22 |
 | [Patola](https://open.spotify.com/track/3j6n8oIWgNJ8JM8CSNCGQX) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Patola](https://open.spotify.com/album/5mmCUMQ23xrBxCqFWRQcM8) | 2:39 | 2024-06-14 | 2024-06-29 |
-| [PAYCHECK](https://open.spotify.com/track/6LZaElOslYuYOL2DnRZ3ZR) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5), [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb), [K!LLSWITCH](https://open.spotify.com/artist/5tpLviK5ROsONd867VwS28) | [VVVV](https://open.spotify.com/album/5YIFQJSIdQUDwFsjiVYrEG) | 2:29 | 2025-07-01 |  |
+| [PAYCHECK](https://open.spotify.com/track/6LZaElOslYuYOL2DnRZ3ZR) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5), [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb), [K!LLSWITCH](https://open.spotify.com/artist/5tpLviK5ROsONd867VwS28) | [VVVV](https://open.spotify.com/album/5YIFQJSIdQUDwFsjiVYrEG) | 2:29 | 2025-07-01 | 2025-08-14 |
 | [Pehli Mohabbat](https://open.spotify.com/track/4c2LSKdsMhSGguCtoKL7kl) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Pehli Mohabbat](https://open.spotify.com/album/0Xiki9hiUa4LGVza19Mcl2) | 3:25 | 2025-07-25 |  |
 | [Pendulum](https://open.spotify.com/track/3jtNkwpXjtrdBOr9FE9kVl) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Pendulum](https://open.spotify.com/album/1MG5oTtA0KSwxxiYs11XKR) | 2:46 | 2025-03-07 | 2025-05-17 |
 | [Perfy](https://open.spotify.com/track/4RMRllyjS0K5hCOPRJmQDs) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Perfy](https://open.spotify.com/album/2LbFWGS7q1oV7zTUOQ5ZOB) | 3:03 | 2023-03-29 | 2024-04-10 |

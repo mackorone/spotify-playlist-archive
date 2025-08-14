@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 13 Aug 22:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 13 Aug 18:05 UTC.
 
-5,302 songs - 12 day 7 hr 34 min
+5,304 songs - 12 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2599,6 +2599,7 @@
 | [LAST BREATH](https://open.spotify.com/track/1N0xbRqkKMwyJMeVwtOQiV) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [BULLY](https://open.spotify.com/album/13o7UWbtqb2uWuiruK4cva) | 2:22 | 2025-07-09 | 2025-07-13 |
 | [Last Dance](https://open.spotify.com/track/70deUYDOouO8E0me5JWMGp) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Last Dance](https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M) | 3:41 | 2024-06-27 | 2024-06-29 |
 | [LAST DANCE](https://open.spotify.com/track/6LvDy33aNgecB11B57iC3S) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [LAST DANCE](https://open.spotify.com/album/6zAYcCNI9sAftjuiMSXaKY) | 3:33 | 2024-10-10 | 2024-10-12 |
+| [Last Escape](https://open.spotify.com/track/16zQU3BcRmUpDcIj2Fwixp) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Last Escape](https://open.spotify.com/album/3GcwDpRz8bZk6YHWLGeu2C) | 4:11 | 2025-08-13 |  |
 | [Last Fall](https://open.spotify.com/track/2X0bMKZ64y5gqVRuCo6KoP) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi), [Horse Head](https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA) | [Last Fall](https://open.spotify.com/album/4cwJYGJchKlw7CpiMD3QRa) | 2:28 | 2025-02-03 | 2025-02-07 |
 | [Last Name](https://open.spotify.com/track/2NRXoDCQ8e0NGmGLWqyP1s) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Last Name](https://open.spotify.com/album/7DYUTwehPLO68ul4LSTq5O) | 3:47 | 2024-12-20 | 2024-12-22 |
 | [LAST NIGHT](https://open.spotify.com/track/7xQ8jK1X04T8sXHtjtSg6A) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [LAST NIGHT](https://open.spotify.com/album/7iBYNYZpoDwB8b7eaVSI5N) | 2:58 | 2024-12-05 | 2024-12-07 |
@@ -3764,6 +3765,7 @@
 | [REX](https://open.spotify.com/track/13dNuSbgdXdzIaSH1RxhdF) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [REX](https://open.spotify.com/album/3ix5u88koqhbzehH2cc7qL) | 5:32 | 2024-10-28 | 2024-10-31 |
 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 | 2024-07-31 | 2024-08-03 |
 | [RICOCHET](https://open.spotify.com/track/2T04xX1PyMkyPFKBYnlVl1) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [RICOCHET](https://open.spotify.com/album/7z3Rimg2psQNvRxlqM2Fn3) | 3:17 | 2024-10-11 | 2024-10-17 |
+| [Ricochet](https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk) | 3:41 | 2025-08-13 |  |
 | [Ride Away](https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ride Away](https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf) | 5:13 | 2024-08-01 | 2024-08-04 |
 | [Ride Or Die](https://open.spotify.com/track/2CHiOfJrtsplSVptt4g77G) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Tommy Raps](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) | [Ride Or Die](https://open.spotify.com/album/2jeYPhmaTPRAuUBWxVMBj9) | 3:22 | 2024-08-07 | 2024-08-10 |
 | [Ride the Vibe](https://open.spotify.com/track/2bmo0oEVhlbAgMQetHgLYC) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/0sntdgg5hCdn84P5ULZGoA) | 2:52 | 2024-05-20 | 2024-05-23 |
@@ -3922,7 +3924,7 @@
 | [search & destroy](https://open.spotify.com/track/4yR7QwLrd5ctle68uKaKrt) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [search & destroy](https://open.spotify.com/album/2740XBFuln7su35UWo3Awz) | 1:57 | 2024-09-14 | 2024-09-18 |
 | [Searching](https://open.spotify.com/track/0vLBNIZX6GoUxWEK0AOxv6) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Searching](https://open.spotify.com/album/5cgqD2Qs2Ft0Eulpdllwyr) | 3:07 | 2025-02-24 | 2025-03-01 |
 | [Searching for a Pulse](https://open.spotify.com/track/3pnzgkJK4b8O8ip6hbbGVX) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Searching for a Pulse](https://open.spotify.com/album/4h37SlXVExO3hi8YVNlom9) | 2:39 | 2025-03-18 | 2025-03-23 |
-| [Seasalt & Teardrops](https://open.spotify.com/track/0K0rN4ZN1xJpwEK0METl5t) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Seasalt & Teardrops](https://open.spotify.com/album/5H4p5XKauaYQ1I1E79ZLQG) | 2:58 | 2025-08-02 |  |
+| [Seasalt & Teardrops](https://open.spotify.com/track/0K0rN4ZN1xJpwEK0METl5t) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Seasalt & Teardrops](https://open.spotify.com/album/5H4p5XKauaYQ1I1E79ZLQG) | 2:58 | 2025-08-02 | 2025-08-14 |
 | [Season of Memories](https://open.spotify.com/track/6QHWOhx5fYFKtI3LhgLrqM) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories \(Special Album\)](https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM) | 3:06 | 2025-01-13 | 2025-01-22 |
 | [Season of the Witch](https://open.spotify.com/track/3fwOTdRiF56yb9c1gY9Su7) | [Farmer's Wife](https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os) | [Season of the Witch](https://open.spotify.com/album/3smZjvhu8O1Q2LEof6Vzb0) | 4:40 | 2024-10-01 | 2024-10-04 |
 | [Second Chance](https://open.spotify.com/track/5yv9mtTQgznL1USOVXU2Yp) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Second Chance](https://open.spotify.com/album/3nQzX1oyna97eYIjZ6U4PW) | 3:10 | 2024-07-31 | 2024-08-02 |
@@ -4408,7 +4410,7 @@
 | [talking shit](https://open.spotify.com/track/3tMinsuWzmu5PlLa7CWhFC) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [talking shit](https://open.spotify.com/album/4P1uSRHlvwn9VZmMaWWqzi) | 3:03 | 2024-10-10 | 2024-10-12 |
 | [Talking To The Sun](https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Talking To The Sun](https://open.spotify.com/album/0l6STd2uyi9qYltrbI94Vt) | 1:19 | 2024-05-10 | 2024-05-12 |
 | [Talking To You](https://open.spotify.com/track/5WZHI2EK0DujaHLYrtgH4Q) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Talking To You](https://open.spotify.com/album/3NCclrXBr6Zh4KM8wCdz1A) | 3:07 | 2024-05-08 | 2024-05-11 |
-| [Tambourine](https://open.spotify.com/track/3eIhHWOMaTAPvJ6azg0b2L) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Tambourine](https://open.spotify.com/album/3NyJ2rOwJUIEL1WlaYmhKP) | 3:29 | 2025-08-01 |  |
+| [Tambourine](https://open.spotify.com/track/3eIhHWOMaTAPvJ6azg0b2L) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Tambourine](https://open.spotify.com/album/3NyJ2rOwJUIEL1WlaYmhKP) | 3:29 | 2025-08-01 | 2025-08-14 |
 | [Tanaru' Titan](https://open.spotify.com/track/7f82Wd8IiWdPP7gFUt8fGR) | [Solomon](https://open.spotify.com/artist/048TiI4LaWTTm11sApKliK) | [Tanaru' Titan](https://open.spotify.com/album/7prNhd89Zt71i1PQpC1N4z) | 2:35 | 2024-12-20 | 2024-12-23 |
 | [Tantalizing](https://open.spotify.com/track/799db91cR00On6N158VLHS) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC) | [Tantalizing](https://open.spotify.com/album/6zE4ILhnXYqXot6bVh2k0C) | 2:26 | 2024-11-08 | 2024-11-26 |
 | [TANTRUM](https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TANTRUM](https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9) | 3:04 | 2024-12-13 | 2024-12-20 |

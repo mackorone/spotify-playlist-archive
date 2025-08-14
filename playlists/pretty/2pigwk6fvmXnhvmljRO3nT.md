@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,573 songs - 19 day 13 hr 53 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,575 songs - 19 day 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5910,7 +5910,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5900 | [준비 없는 이별](https://open.spotify.com/track/7CSmwiPhtzLt03ZiLCGmlv) | [녹색지대](https://open.spotify.com/artist/7fi5KGkFM55KpMQ80TsAhn) | [녹색지대Ⅱ](https://open.spotify.com/album/2XfaQQmsFw92v1kooahFxg) | 4:35 |
 | 5901 | [사랑을 할꺼야](https://open.spotify.com/track/0FfuKhRBu7rHJq1AYoEZXu) | [녹색지대](https://open.spotify.com/artist/7fi5KGkFM55KpMQ80TsAhn) | [사랑을 할꺼야](https://open.spotify.com/album/5XWRjRJ5Q9Q6UE34EuUiQU) | 4:47 |
 | 5902 | [yours](https://open.spotify.com/track/24ISyrkOgpc0IodIEUokog) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [yours](https://open.spotify.com/album/0qtekNG39nfP3Os1iKpDLH) | 2:45 |
-| 5903 | [다시 사랑한다면](https://open.spotify.com/track/3HP4lKVTecN0hZF82liXSn) | [도원경 밴드](https://open.spotify.com/artist/7M6R2iQ29hundnuq5zbDhh) | [멍청이 / 다시 사랑한다면](https://open.spotify.com/album/05XDFhQfFBNQYflvgGmLOk) | 4:06 |
+| 5903 | [다시 사랑한다면](https://open.spotify.com/track/3HP4lKVTecN0hZF82liXSn) | [Do Wonkyung](https://open.spotify.com/artist/7M6R2iQ29hundnuq5zbDhh) | [멍청이 / 다시 사랑한다면](https://open.spotify.com/album/05XDFhQfFBNQYflvgGmLOk) | 4:06 |
 | 5904 | [Back in Time](https://open.spotify.com/track/2EsS9BRINN9NjuhykzV69F) | [린](https://open.spotify.com/artist/7etvfQxNFSPc4IPwAgFmtC) | [The Moon That Embraces the Sun OST \(Soundtrack\)](https://open.spotify.com/album/50LjIJGZeJiUgLEQPydiVv) | 3:31 |
 | 5905 | [잊지말아요](https://open.spotify.com/track/3kmqdUOIFUyJaYXDzPuSwk) | [발라드가수들](https://open.spotify.com/artist/2B6LUHwavLRRQscG3Oi74n) | [여자 가수 히트 발라드 모음 3집](https://open.spotify.com/album/6QJRgyCbjYulTTw825zVyt) | 4:03 |
 | 5906 | [맨발의 청춘](https://open.spotify.com/track/0JytKNtWz1sBQIlB4qwKwL) | [벅](https://open.spotify.com/artist/6ZCegWpMqRwxCCXNVmunVq) | [맨발의 청춘](https://open.spotify.com/album/4ACjsPLOJaR6rLX9MQVHP1) | 3:42 |
@@ -7581,5 +7581,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7571 | [Darkest Before Dawn](https://open.spotify.com/track/4RIdKsqdglJ5JqTG8kTvw7) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Me, Myself & I](https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok) | 3:56 |
 | 7572 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
 | 7573 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 |
+| 7574 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 3:29 |
+| 7575 | [Hold Me Down](https://open.spotify.com/track/4s76r7AbquJcTccqJiqdVu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp) | 3:51 |
 
-Snapshot ID: `AAAIWV/CPUZs7QldiCgVOGP4Z/bEyjl1`
+Snapshot ID: `AAAIW9WL0hcsxU1hU3xgOPP48pz6vd8H`

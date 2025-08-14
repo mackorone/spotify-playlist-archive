@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-147 songs - 6 hr 31 min
+148 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 | 2023-12-31 |  |
 | [In the Chapel in the Moonlight](https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Hits Again](https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5) | 2:32 | 2023-12-29 | 2024-07-24 |
 | [In the Misty Moonlight](https://open.spotify.com/track/1RdFoJL4vjNXinXA2iSgGu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:43 | 2023-12-26 | 2024-07-24 |
-| [Innamorata](https://open.spotify.com/track/0xeqhLx9L3QzXIAaxMRUiX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:25 | 2024-01-05 |  |
+| [Innamorata](https://open.spotify.com/track/0xeqhLx9L3QzXIAaxMRUiX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:25 | 2024-01-05 | 2025-08-14 |
+| [Innamorata \(Sweetheart\) \- Remastered](https://open.spotify.com/track/5QqaUAYLJCaTaChZlu0PU5) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 2:25 | 2025-08-14 |  |
 | [It Looks Like Love](https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:20 | 2023-12-29 | 2025-03-17 |
 | [It's Beginning To Look A Lot Like Christmas \- Stereo](https://open.spotify.com/track/2BCflO8xrbY1xvTU7X6Cux) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [It's Beginning To Look A Lot Like Christmas \(Stereo\)](https://open.spotify.com/album/42ox4MGwicKUm6SpLBdnWO) | 2:02 | 2024-10-13 | 2024-11-10 |
 | [It's Easy To Remember](https://open.spotify.com/track/0iADDFddXxAE2m26lCtzeX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Very Best Of Dean Martin](https://open.spotify.com/album/5uQ2ZPFRPrOVDXBdXUtx8z) | 3:16 | 2024-03-04 | 2024-06-01 |

@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 225733,
       "name": "I'm Scared Too",
       "url": "https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk"
@@ -1018,6 +1018,24 @@
       "duration_ms": 173346,
       "name": "ISS",
       "url": "https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY"
+    },
+    {
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123640,
+      "name": "It is My Great Hope",
+      "url": "https://open.spotify.com/track/0YuygtIxt3dYhprMPhx4ZS"
     },
     {
       "album": {
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 313640,
       "name": "Out of the Emptiness",
       "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 219226,
       "name": "Still In This Fight",
       "url": "https://open.spotify.com/track/1OlsfairNYKwZfCEmi8NcB"

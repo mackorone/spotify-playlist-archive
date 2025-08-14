@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545907,
+  "num_followers": 545917,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Murder the Mountains (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
-      },
-      "artists": [
-        {
-          "name": "Red Fang",
-          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
-        }
-      ],
-      "duration_ms": 343306,
-      "name": "Wires",
-      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Murder the Mountains (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
+      },
+      "artists": [
+        {
+          "name": "Red Fang",
+          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
+        }
+      ],
+      "duration_ms": 343306,
+      "name": "Wires",
+      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In the tail of a comet",
         "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 162866,
       "name": "Supersoul",
       "url": "https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Desert Cold",
-        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
-      },
-      "artists": [
-        {
-          "name": "Snowy Dunes",
-          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Desert Cold",
-      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Fear Choices and Astronauts",
         "url": "https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 651110,
       "name": "Bright Dawn of the Soul",
       "url": "https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Desert Cold",
+        "url": "https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY"
+      },
+      "artists": [
+        {
+          "name": "Snowy Dunes",
+          "url": "https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Desert Cold",
+      "url": "https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dos E.P.'s",
         "url": "https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 275066,
       "name": "Shifting Winds",
       "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "CLDZ",
-        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
-      },
-      "artists": [
-        {
-          "name": "Gozu",
-          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
-        }
-      ],
-      "duration_ms": 416779,
-      "name": "CLDZ",
-      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 362800,
       "name": "Arise",
       "url": "https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "CLDZ",
+        "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
+      },
+      "artists": [
+        {
+          "name": "Gozu",
+          "url": "https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg"
+        }
+      ],
+      "duration_ms": 416779,
+      "name": "CLDZ",
+      "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 274400,
       "name": "Freya",
       "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1495,6 +1495,38 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/4pyLlYKdxHtEH4sEJPSbEe"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/6U7yjgpweQna55cfWEZXIk"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Witch",
+        "url": "https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9"
+      },
+      "artists": [
+        {
+          "name": "Witch",
+          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
+        }
+      ],
+      "duration_ms": 477920,
+      "name": "Seer",
+      "url": "https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Witch",
-        "url": "https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9"
-      },
-      "artists": [
-        {
-          "name": "Witch",
-          "url": "https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3"
-        }
-      ],
-      "duration_ms": 477920,
-      "name": "Seer",
-      "url": "https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/3AwAKd4dprx8qAeNc70k9K"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Thornwyck Hymn",
-        "url": "https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k"
-      },
-      "artists": [
-        {
-          "name": "My Dying Bride",
-          "url": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
-        }
-      ],
-      "duration_ms": 407783,
-      "name": "Thornwyck Hymn",
-      "url": "https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje"
     }
   ],
   "unique_name": "Stoner Rock",

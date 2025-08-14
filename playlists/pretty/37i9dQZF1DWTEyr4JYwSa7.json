@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 61075,
+  "num_followers": 61074,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -451,38 +451,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
-        "name": "Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Winter Wonderland - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Holiday Wishes",
         "url": "https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl"
       },
@@ -503,18 +471,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chantons No\u00ebl!",
-        "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
       },
       "artists": [
         {
-          "name": "Ren\u00e9e Martel",
-          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 140266,
-      "name": "Voici le p\u00e8re No\u00ebl",
-      "url": "https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV"
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -539,18 +507,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Xmas Blues",
-        "url": "https://open.spotify.com/album/1fa1AicDFzi44PwRJK0IVP"
+        "name": "Chantons No\u00ebl!",
+        "url": "https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds"
       },
       "artists": [
         {
-          "name": "Garou",
-          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+          "name": "Ren\u00e9e Martel",
+          "url": "https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis"
         }
       ],
-      "duration_ms": 160946,
-      "name": "Le bonhomme de neige",
-      "url": "https://open.spotify.com/track/4TzlhFXKXkmt5f7h0ijbiZ"
+      "duration_ms": 140266,
+      "name": "Voici le p\u00e8re No\u00ebl",
+      "url": "https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -567,6 +535,38 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Xmas Blues",
+        "url": "https://open.spotify.com/album/1fa1AicDFzi44PwRJK0IVP"
+      },
+      "artists": [
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "duration_ms": 160946,
+      "name": "Le bonhomme de neige",
+      "url": "https://open.spotify.com/track/4TzlhFXKXkmt5f7h0ijbiZ"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
-        "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
-      },
-      "artists": [
-        {
-          "name": "Marie Mich\u00e8le Desrosiers",
-          "url": "https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Mon Beau Sapin",
-      "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "Joyeux No\u00ebl",
         "url": "https://open.spotify.com/album/3rXFr1d41AbHmCAl59aPwT"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Qu\u00e9bec love : La collection",
-        "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
+        "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
+        "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
       },
       "artists": [
         {
-          "name": "Tex Lecor",
-          "url": "https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek"
+          "name": "Marie Mich\u00e8le Desrosiers",
+          "url": "https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS"
         }
       ],
-      "duration_ms": 182026,
-      "name": "No\u00ebl au camp",
-      "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
+      "duration_ms": 189666,
+      "name": "Mon Beau Sapin",
+      "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1427,6 +1411,22 @@
       "duration_ms": 169640,
       "name": "Petit gar\u00e7on",
       "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Qu\u00e9bec love : La collection",
+        "url": "https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8"
+      },
+      "artists": [
+        {
+          "name": "Tex Lecor",
+          "url": "https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "No\u00ebl au camp",
+      "url": "https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 189186,
-      "name": "Pour la premi\u00e8re fois, No\u00ebl sera gris",
-      "url": "https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "La nuit de No\u00ebl",
         "url": "https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 190429,
       "name": "La nuit de No\u00ebl",
       "url": "https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 189186,
+      "name": "Pour la premi\u00e8re fois, No\u00ebl sera gris",
+      "url": "https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chansons tristes pour No\u00ebl",
-        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "No\u00ebl sous les tropiques",
-      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
         "name": "No\u00ebl brille encore",
         "url": "https://open.spotify.com/album/170MmoysX6VOcPbxvQGS5A"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
+        "name": "Chansons tristes pour No\u00ebl",
+        "url": "https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "No\u00ebl sous les tropiques",
+      "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
         "name": "Chansons hivernales",
         "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 259146,
       "name": "L'oiseau rare",
       "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
+    },
+    {
+      "added_at": "2024-12-13 16:40:18",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 214044,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1607,22 +1623,6 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
-    },
-    {
-      "added_at": "2024-12-13 16:40:18",
-      "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3IHAcppXJFjkNRyz3XngKB"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 214044,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/2hDMG2AP8qOOEzkV01wiNS"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "No\u00ebl ne veut rien dire sans toi",
-        "url": "https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx"
+        "name": "Lumi\u00e8res d'hiver",
+        "url": "https://open.spotify.com/album/4GVVHF9DXhDaXh8b74Uyjo"
       },
       "artists": [
         {
-          "name": "Guylaine Tanguay",
-          "url": "https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 203692,
-      "name": "No\u00ebl ne veut rien dire sans toi",
-      "url": "https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI"
+      "duration_ms": 263762,
+      "name": "Chanson pour une nuit d'hiver",
+      "url": "https://open.spotify.com/track/4v5igJYEez7gAKiyHuVFBo"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

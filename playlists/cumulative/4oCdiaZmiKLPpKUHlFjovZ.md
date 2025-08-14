@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.
 
-174 songs - 7 hr 41 min
+176 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 | 2024-09-23 |  |
 | [Ain't My Fault](https://open.spotify.com/track/453O275lHzJI4y321q2dk7) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb) | [Ain't My Fault](https://open.spotify.com/album/1mD0rR1VKGaJHd0cpfPZBG) | 2:15 | 2025-03-31 |  |
 | [All Black Trucks](https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [All Black Trucks](https://open.spotify.com/album/5m7ACE2vtWTrgx88h47dcm) | 3:17 | 2024-09-23 | 2025-02-01 |
+| [ALL I GOT](https://open.spotify.com/track/4y5gyOUkDAVwN6p58GdNKU) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [INTRUSIVE THOUGHTS 2](https://open.spotify.com/album/2qVwJjPM1v86KOaTUISMiT) | 3:08 | 2025-08-13 |  |
 | [All Love](https://open.spotify.com/track/7qiqChGX27g39lIhBWZKGK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [All Love](https://open.spotify.com/album/1HBEA5Xw6jOhKyjVaWlsdL) | 2:02 | 2024-03-25 | 2024-06-01 |
 | [All Star Team](https://open.spotify.com/track/1XymOhvY6pThNXJWYzP5h0) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [All Star Team](https://open.spotify.com/album/3cAqYBlosbQg5TmcKu6qjf) | 1:47 | 2023-06-16 |  |
 | [Alpha Bay](https://open.spotify.com/track/2RpFhFj8UsIyd7d5v2EZa9) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [CROPTOBER](https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU) | 2:04 | 2023-10-30 | 2024-01-20 |
@@ -176,6 +177,7 @@
 | [walk](https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [walk](https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9) | 2:25 | 2023-10-30 | 2025-03-05 |
 | [Wanna Win \(feat\. 03 Greedo\)](https://open.spotify.com/track/4E1u837bZx5Oqg0KqMtxoI) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Sleeve Music](https://open.spotify.com/album/2IpZVx5VHq8K6l8x9BeGM1) | 2:29 | 2023-09-28 | 2025-02-01 |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-09-23 |  |
+| [Wavy Crete](https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wavy Crete](https://open.spotify.com/album/3DVkH8mqscQXvXizos3RcW) | 2:34 | 2025-08-13 |  |
 | [Way Bigga](https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:01 | 2023-11-03 | 2025-02-01 |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 |  |
 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/4lkpfY2wfmHj958Fr32kHS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/55lzDv6LGUMY1CdxWGAtic) | 3:16 | 2025-05-30 |  |

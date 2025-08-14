@@ -1,13 +1,29 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 174392,
+  "num_followers": 174430,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAAAhgM6hHt24K3vuXJXIjD1x",
+  "snapshot_id": "aJqEAAAAAACQMRVVwUKbuH2pZ9N12ywr",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs"
+    },
     {
       "added_at": null,
       "album": {
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Like the Angel",
-      "url": "https://open.spotify.com/track/4t2rjxCXIJnBmRBkXJOYa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nowhere Generation",
         "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 232933,
       "name": "Nowhere Generation",
       "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rpm10",
+        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Like the Angel",
+      "url": "https://open.spotify.com/track/4t2rjxCXIJnBmRBkXJOYa5"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Black Masks & Gasoline",
-      "url": "https://open.spotify.com/track/5LYYi2xeLbrnvD9UQ1AE3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 228480,
       "name": "Blood To Bleed",
       "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rpm10",
+        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Black Masks & Gasoline",
+      "url": "https://open.spotify.com/track/5LYYi2xeLbrnvD9UQ1AE3U"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 212333,
       "name": "Monarch",
       "url": "https://open.spotify.com/track/5G3zN7LhZzHwD6RSLbPAUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc"
     }
   ],
   "unique_name": "This Is Rise Against",

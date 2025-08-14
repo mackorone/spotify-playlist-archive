@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 49440,
+  "num_followers": 49501,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAAAU8xOKLZaj9djzR8oKlHNT",
+  "snapshot_id": "aJqEAAAAAAB02znz0LnFN/vfczNWJ5Q0",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life Is A Highway: Refueled Duets",
         "url": "https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M"
       },
@@ -375,22 +395,6 @@
       "duration_ms": 199733,
       "name": "Yours If You Want It",
       "url": "https://open.spotify.com/track/3dhOpqqd9x7Rl0aL0eDzqW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louisiana Stick (with Marcus King)",
-        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 148120,
-      "name": "Louisiana Stick (with Marcus King)",
-      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
+      "duration_ms": 192954,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
     },
     {
       "added_at": null,

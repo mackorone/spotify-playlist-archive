@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-124 songs - 8 hr 15 min
+125 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Enter the Place](https://open.spotify.com/track/6LqsK7gCnFNaLS5UcZCWMF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:21 | 2021-12-28 | 2023-02-07 |
 | [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 | 2024-03-29 |  |
 | [Feeling You](https://open.spotify.com/track/58m7KaE0iO9T8z2rChajKC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:22 | 2022-01-12 | 2022-12-18 |
+| [Fly](https://open.spotify.com/track/4uxy0hjyGZNvNa10a6Hqts) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:10 | 2025-08-14 |  |
 | [Fly](https://open.spotify.com/track/6IBO1NCDDbL9SzQ9A1vFVQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:10 | 2022-06-09 | 2022-06-12 |
 | [For You](https://open.spotify.com/track/4O3m2HsquDGNrytYIRdj3B) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Omo Baba Olowo: The Genesis](https://open.spotify.com/album/5XNb9GHjQa9DA2tWeQzJxU) | 3:39 | 2022-10-25 | 2022-10-27 |
 | [Free](https://open.spotify.com/track/69koGdRVayRzMDWNyIKQYt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Ehi Idibia](https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 3:50 | 2021-12-28 | 2024-03-24 |
@@ -89,7 +90,7 @@
 | [One Love](https://open.spotify.com/track/7eOhAO9ic0PSj2FeNfG8W5) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 3:51 | 2022-01-04 | 2022-08-20 |
 | [Only Me](https://open.spotify.com/track/3CfjVXBuaco9qwbTab6sxG) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY) | 3:49 | 2024-03-30 |  |
 | [Only Me](https://open.spotify.com/track/6EolsZ9HttNVTonF1bWxqa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:49 | 2021-12-28 | 2024-03-31 |
-| [Only Me Refix](https://open.spotify.com/track/6P7urYJGt9IapR99aeTDRn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Only Me Refix](https://open.spotify.com/album/5y3KE57hqeXyr7kqlMqqpA) | 3:14 | 2025-06-30 |  |
+| [Only Me Refix](https://open.spotify.com/track/6P7urYJGt9IapR99aeTDRn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Only Me Refix](https://open.spotify.com/album/5y3KE57hqeXyr7kqlMqqpA) | 3:14 | 2025-06-30 | 2025-08-14 |
 | [Open My Way](https://open.spotify.com/track/5bUa5idn7lGYFMad13Q4FO) | [Kelly Hansome](https://open.spotify.com/artist/4dqnFiVNU2LiZj2S3KkKdW), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Open My Way](https://open.spotify.com/album/5PiIvOPKpG2mFKykk1rgRl) | 3:53 | 2022-06-02 | 2022-06-12 |
 | [Opo \(feat\. Wizkid\)](https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2021-12-28 |  |
 | [Outside](https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 3:56 | 2024-03-24 |  |

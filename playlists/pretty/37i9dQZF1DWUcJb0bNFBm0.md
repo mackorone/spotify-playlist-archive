@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Seaside \(Indonesia\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,691 likes - 91 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,696 likes - 91 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer Rain](https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Same Old/Same New](https://open.spotify.com/album/2J74cXqTgYBd2aqTFmD4ji) | 4:27 |
-| 2 | [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 |
-| 3 | [Self Bondage](https://open.spotify.com/track/4xYYiEkuaDuoFqw5NFZSlQ) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn) | [Self Bondage](https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN) | 5:05 |
+| 1 | [Self Bondage](https://open.spotify.com/track/4xYYiEkuaDuoFqw5NFZSlQ) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn) | [Self Bondage](https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN) | 5:05 |
+| 2 | [Summer Rain](https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Same Old/Same New](https://open.spotify.com/album/2J74cXqTgYBd2aqTFmD4ji) | 4:27 |
+| 3 | [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 |
 | 4 | [please don't leave](https://open.spotify.com/track/01hK8VX1cfwRcdsHeEk0J6) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [please don't leave](https://open.spotify.com/album/6n8gHPXeZ9c2jGSDEVzBx1) | 3:13 |
 | 5 | [Waters](https://open.spotify.com/track/5SPZ1OEGQDATZ2DvJ24Ofp) | [KREY](https://open.spotify.com/artist/2qsKmvV47a1XIRQizWZUzy) | [Waters](https://open.spotify.com/album/753AxIHX0QpH1WdRvuFxPF) | 3:44 |
 | 6 | [Do You Feel the Same](https://open.spotify.com/track/50xtyYaH3NhvpXrxTg9wYR) | [Kaleigo](https://open.spotify.com/artist/7deoKuPj6iXVF38vjr2KXI) | [Do You Feel the Same](https://open.spotify.com/album/0IiNrLhuLIWKjbQAGejymB) | 3:01 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 90 | [Gravits](https://open.spotify.com/track/4iVJZk5t7t3E8wYRKW9xhT) | [Crayon Case](https://open.spotify.com/artist/5vjmcREJLxyDVkcb0KjNz9) | [Catch Twenty\-three!!](https://open.spotify.com/album/25SKpGKrZE2E4gAEsLORED) | 4:39 |
 | 91 | [Drive Like Hell](https://open.spotify.com/track/4IKFd62LTjuwxi28gaNAKl) | [キュビノワ](https://open.spotify.com/artist/03C3OxAz9jsqwYGQvx1Uds) | [Drive Like Hell](https://open.spotify.com/album/2JEuRdfmq7pPH7C9hqWSFZ) | 3:30 |
 
-Snapshot ID: `AAAAADsxrGRU1KM85JbcF2NNEf9w7iqI`
+Snapshot ID: `AAAAAPcmiYgY63TMIV02l1G6wqdSuZfB`

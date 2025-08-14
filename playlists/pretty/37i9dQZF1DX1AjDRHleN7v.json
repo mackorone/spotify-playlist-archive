@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 387643,
+  "num_followers": 387724,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Que Seja de Alegria",
+        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Que Seja de Alegria",
+      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Que Seja de Alegria",
-        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Que Seja de Alegria",
-      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Saquarema (Remix)",
         "url": "https://open.spotify.com/album/7sWij8NaethU2vuouVcjgr"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 232353,
       "name": "Saquarema - Remix",
       "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Sol da Meia-Noite",
-        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
-      },
-      "artists": [
-        {
-          "name": "Nathan Carvalho",
-          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
-        },
-        {
-          "name": "Zeider",
-          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
-        }
-      ],
-      "duration_ms": 209971,
-      "name": "Sol da Meia-Noite",
-      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/2XtFi9Q8b9WRNHKTy3I90d"
       },
@@ -879,6 +859,26 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Sol da Meia-Noite",
+        "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
+      },
+      "artists": [
+        {
+          "name": "Nathan Carvalho",
+          "url": "https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl"
+        },
+        {
+          "name": "Zeider",
+          "url": "https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW"
+        }
+      ],
+      "duration_ms": 209971,
+      "name": "Sol da Meia-Noite",
+      "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Linhas De Cerol",
         "url": "https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 193122,
       "name": "Um Sonho Na Hist\u00f3ria",
       "url": "https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
-      },
-      "artists": [
-        {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -935,6 +919,22 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+      },
+      "artists": [
+        {
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
         "name": "Revolvendo as Raizes",
         "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 230896,
       "name": "Bora Chamegar",
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
-    },
-    {
-      "added_at": "2025-07-11 18:31:12",
-      "album": {
-        "name": "Na Positiva",
-        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
-      },
-      "artists": [
-        {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Na Positiva",
-      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -1003,18 +987,18 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+        "name": "Na Positiva",
+        "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
       "artists": [
         {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
         }
       ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
+      "duration_ms": 153573,
+      "name": "Na Positiva",
+      "url": "https://open.spotify.com/track/3opMQRSGt3qYlte4iU2Oz5"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2025-07-11 18:31:12",
       "album": {
-        "name": "P\u00f4r do Sol",
-        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
       },
       "artists": [
         {
-          "name": "Noel Ferrari",
-          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
         }
       ],
-      "duration_ms": 228844,
-      "name": "P\u00f4r do Sol",
-      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2025-07-11 18:31:12",
@@ -1079,6 +1063,22 @@
       "duration_ms": 223157,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/3pqg2vWR8mZ9OGxZ8Kxi8v"
+    },
+    {
+      "added_at": "2025-07-11 18:31:12",
+      "album": {
+        "name": "P\u00f4r do Sol",
+        "url": "https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w"
+      },
+      "artists": [
+        {
+          "name": "Noel Ferrari",
+          "url": "https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux"
+        }
+      ],
+      "duration_ms": 228844,
+      "name": "P\u00f4r do Sol",
+      "url": "https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL"
     }
   ],
   "unique_name": "Praiana",

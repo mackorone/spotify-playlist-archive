@@ -2,7 +2,7 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: Alex Warren
+> Switzerland's biggest hits right now\. Cover: Bleu Soleil, LUIZA
 
 276 songs - 13 hr 46 min
 

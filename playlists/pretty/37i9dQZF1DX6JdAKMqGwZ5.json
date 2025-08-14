@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Roy Borland.",
-  "num_followers": 200001,
+  "num_followers": 199986,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "PERDEDOR",
-        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 216244,
-      "name": "PERDEDOR",
-      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "ALKIMIA",
         "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
       },
@@ -987,18 +971,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "El Silencio Del Ruido",
-        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+        "name": "PERDEDOR",
+        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
         }
       ],
-      "duration_ms": 166866,
-      "name": "Sexo Y Rock & Roll",
-      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
+      "duration_ms": 216244,
+      "name": "PERDEDOR",
+      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1019,6 +1003,22 @@
       "duration_ms": 236138,
       "name": "El lago de mi pena",
       "url": "https://open.spotify.com/track/7ApcFNAgkqnSflwWU4oqL0"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "El Silencio Del Ruido",
+        "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 166866,
+      "name": "Sexo Y Rock & Roll",
+      "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "Se Nota",
-        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
+        "name": "ZULOA",
+        "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
       },
       "artists": [
         {
-          "name": "Ciao Marina",
-          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+          "name": "Merina Gris",
+          "url": "https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Se Nota",
-      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
+      "duration_ms": 212000,
+      "name": "Mejor*",
+      "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1107,38 +1107,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "ZULOA",
-        "url": "https://open.spotify.com/album/3rBmtIJmfuxfwwsf8mnqkH"
-      },
-      "artists": [
-        {
-          "name": "Merina Gris",
-          "url": "https://open.spotify.com/artist/7MoqcWOPD6BEKF85fxvwuD"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Mejor*",
-      "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "Robot",
         "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
       },
@@ -1151,6 +1119,22 @@
       "duration_ms": 165742,
       "name": "Robot",
       "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "Se Nota",
+        "url": "https://open.spotify.com/album/5fVTPrTxBTJcKJTx0l0t1N"
+      },
+      "artists": [
+        {
+          "name": "Ciao Marina",
+          "url": "https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Se Nota",
+      "url": "https://open.spotify.com/track/2EkJvTvdCosViOzj9TfEuH"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Polvo de hadas",
         "url": "https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF"
       },
@@ -1203,34 +1203,18 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "cielo",
-        "url": "https://open.spotify.com/album/6FcsLbyjIz6YHbJYDs1byh"
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
       },
       "artists": [
         {
-          "name": "agosto",
-          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
         }
       ],
-      "duration_ms": 165555,
-      "name": "cielo",
-      "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "cielo",
+        "url": "https://open.spotify.com/album/6FcsLbyjIz6YHbJYDs1byh"
+      },
+      "artists": [
+        {
+          "name": "agosto",
+          "url": "https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK"
+        }
+      ],
+      "duration_ms": 165555,
+      "name": "cielo",
+      "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
       },
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "( ali despierta )",
         "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 190127,
       "name": "( ali despierta )",
       "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
+        "name": "Necesito Curarme",
+        "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        },
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "Necesito Curarme",
+      "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
         "name": "Bollera",
         "url": "https://open.spotify.com/album/7DSL0AxTYtjZf3Y5yHaCIJ"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 162789,
       "name": "Bollera",
       "url": "https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
-        "name": "Necesito Curarme",
-        "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
-      },
-      "artists": [
-        {
-          "name": "Malva",
-          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
-        },
-        {
-          "name": "Jules",
-          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "Necesito Curarme",
-      "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
     },
     {
       "added_at": "2025-08-07 22:00:53",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-08-07 22:00:53",
       "album": {
-        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
-      },
-      "artists": [
-        {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
-        }
-      ],
-      "duration_ms": 338505,
-      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
-      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
-    },
-    {
-      "added_at": "2025-08-07 22:00:53",
-      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/2tPRqJJ9coHfIpoNATYe2H"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 193006,
       "name": "Loba",
       "url": "https://open.spotify.com/track/0Ng1Xrd0pl4yi0Yrk4tYMF"
+    },
+    {
+      "added_at": "2025-08-07 22:00:53",
+      "album": {
+        "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+        "url": "https://open.spotify.com/album/1tq2mdZBrjiBSOfn7Yk6pT"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "duration_ms": 338505,
+      "name": "El Psicod\u00e9lico (Guajira del Diablo)",
+      "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
     },
     {
       "added_at": "2025-08-07 22:00:53",

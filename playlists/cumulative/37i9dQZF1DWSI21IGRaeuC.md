@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-733 songs - 2 day 6 hr 32 min
+734 songs - 2 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Lil Freaky](https://open.spotify.com/track/25Rk41lvT9FK9VEdqeUlC0) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Lil Freaky](https://open.spotify.com/album/3zY5XU6jr6EIrUR7O7Uacg) | 3:30 | 2025-05-30 |  |
 | [Lipid](https://open.spotify.com/track/3073MbpcoDvWkBe3xZXkio) | [MADVILLA](https://open.spotify.com/artist/63zifEaDmILf5PAGyW0piG) | [Lipid](https://open.spotify.com/album/650mCjH1OTX40TgmzzkOP7) | 6:18 | 2022-06-03 | 2022-07-29 |
 | [Lips Moving](https://open.spotify.com/track/6HbJLZW1Zf8Svq6m7au8um) | [M\-High](https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW) | [Lips Moving](https://open.spotify.com/album/3XJO3RUCKKD8HTWuCEMLDa) | 3:47 | 2025-02-14 | 2025-04-19 |
+| [Liquor Store \(feat\. Nate Dogg\)](https://open.spotify.com/track/1Ofr85G2VL1z2Ge4g0R6CT) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Liquor Store \(feat\. Nate Dogg\)](https://open.spotify.com/album/4s6ArJmKtOG3xOtV7AsdjZ) | 2:17 | 2025-08-12 |  |
 | [Listen To The Bass](https://open.spotify.com/track/2Izxb9M06Te9rXNZ0LP6QY) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Don't Touch That Dial EP](https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl) | 3:34 | 2025-02-03 | 2025-03-01 |
 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 | 2024-08-02 | 2025-05-10 |
 | [Little Piggy](https://open.spotify.com/track/2efO97MDIWowC8n5yxfEvJ) | [PACH.](https://open.spotify.com/artist/1vhfOSmbBoEIhI89Eq3EF2) | [Body Control EP](https://open.spotify.com/album/4xy0spbHUrQRm0phUaUaVt) | 5:59 | 2024-05-24 | 2024-06-18 |
@@ -469,7 +470,7 @@
 | [Otra Mass](https://open.spotify.com/track/7iwJmk3Pv5OxrfDsJVVNFp) | [Mene](https://open.spotify.com/artist/3HRVazmDQL8MtCwjxKHGq8), [Misha \(US\)](https://open.spotify.com/artist/7qkb4MvRFQATc7gUB9vqUP) | [Otra Mass](https://open.spotify.com/album/5GXyfWE0pzSh4NGF2eBhuI) | 2:50 | 2025-07-18 |  |
 | [Otto's Chant](https://open.spotify.com/track/3j8PXtq0NN7QQVdNwkoFBe) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Otto's Chant](https://open.spotify.com/album/3suaEss6InlgqN8pf51Sa5) | 6:09 | 2022-06-03 | 2022-10-13 |
 | [P Power](https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN) | [Stef Davidse](https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX) | [P Power](https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz) | 5:10 | 2025-02-28 |  |
-| [P!NK](https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 3:00 | 2025-02-28 |  |
+| [P!NK](https://open.spotify.com/track/7cN7LW0oy05OuKc06eE1eV) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [D.O.P.E.](https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d) | 3:00 | 2025-02-28 | 2025-08-14 |
 | [Pace Joint](https://open.spotify.com/track/7sfsDeUpNyPYgTiR8ZK32j) | [Hank](https://open.spotify.com/artist/5ZJ9QoSO3GSF3IaMaA6xrs) | [Pace Joint EP](https://open.spotify.com/album/7gRp4xVdtJCporrt7EzrLy) | 2:47 | 2024-12-13 | 2025-01-11 |
 | [Painless Love](https://open.spotify.com/track/4jjKhNsWl7KVnLb89A1guj) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Painless Love](https://open.spotify.com/album/19LnQs9DGwR4li0E4IQlXA) | 3:03 | 2025-05-23 | 2025-07-26 |
 | [Paranoid](https://open.spotify.com/track/2TEAhmnsgbs88D6IYz4BHV) | [Dayme \(NL\)](https://open.spotify.com/artist/0US3GdxMNYRbfatlvcDzQn) | [Paranoid](https://open.spotify.com/album/10kfaYQ0kSDnKotHpEySuq) | 5:38 | 2025-07-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54367,
+  "num_followers": 54371,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAADNOm9X9nvc6bpnoKOEU4wP",
+  "snapshot_id": "aJqEAAAAAACFtVdSWq5jOPB9K9xkkbu4",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo S\u00e9",
-        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184458,
-      "name": "Daria Todo Por Ti",
-      "url": "https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estas Perdida",
         "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 217849,
       "name": "Lo Que Yo Sentia",
       "url": "https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo S\u00e9",
+        "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 184458,
+      "name": "Daria Todo Por Ti",
+      "url": "https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Naturaleza",
+        "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n Le\u00f3n",
+          "url": "https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 184523,
+      "name": "Tu Naturaleza",
+      "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Los Mochis",
         "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 197007,
       "name": "Nuestro Adios",
       "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Naturaleza",
-        "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n Le\u00f3n",
-          "url": "https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 184523,
-      "name": "Tu Naturaleza",
-      "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonieladas (feat. Kanales)",
-        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        }
-      ],
-      "duration_ms": 200565,
-      "name": "Tonieladas",
-      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Tu Sonrisa",
         "url": "https://open.spotify.com/album/7a2CkvPQeStjenYvF2Ozzp"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 181347,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/6hzawDp9DjbaRlDsR12R0K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonieladas (feat. Kanales)",
+        "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "duration_ms": 200565,
+      "name": "Tonieladas",
+      "url": "https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0"
     },
     {
       "added_at": null,

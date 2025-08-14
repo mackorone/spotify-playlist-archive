@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 799669,
+  "num_followers": 799685,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "Willoughby Tucker, I'll Always Love You",
+        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 386846,
+      "name": "Dust Bowl",
+      "url": "https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 199923,
       "name": "L.O.V.E.U (feat. hannah bahng)",
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "Willoughby Tucker, I'll Always Love You",
-        "url": "https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 386846,
-      "name": "Dust Bowl",
-      "url": "https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "flower",
+        "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 148495,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "Crashing (with Kali Uchis)",
         "url": "https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 223600,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "flower",
-        "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 148495,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Bus Back To Richmond / More Than Friends",
         "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 174744,
       "name": "Bus Back To Richmond",
       "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Gordon in the Willows",
-        "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 234454,
-      "name": "Gordon in the Willows",
-      "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "i don\u2019t want your garden",
         "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 164002,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Gordon in the Willows",
+        "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 234454,
+      "name": "Gordon in the Willows",
+      "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "how did they know",
+        "url": "https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 243176,
+      "name": "how did they know",
+      "url": "https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "how did they know",
-        "url": "https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K"
-      },
-      "artists": [
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 243176,
-      "name": "how did they know",
-      "url": "https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "rose ave.",
-        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
-      },
-      "artists": [
-        {
-          "name": "You+Me",
-          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Skin & Bone",
-        "url": "https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW"
+        "name": "rose ave.",
+        "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
       "artists": [
         {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+          "name": "You+Me",
+          "url": "https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm"
         }
       ],
-      "duration_ms": 163220,
-      "name": "Just for Tonight",
-      "url": "https://open.spotify.com/track/3f2MxvJB9kQYSJFADpwE0A"
+      "duration_ms": 192600,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1127,6 +1111,22 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Skin & Bone",
+        "url": "https://open.spotify.com/album/1m4YyZeN2OxQPguJoCcJRW"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "duration_ms": 163220,
+      "name": "Just for Tonight",
+      "url": "https://open.spotify.com/track/3f2MxvJB9kQYSJFADpwE0A"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "I Found (with Freya Ridings)",
         "url": "https://open.spotify.com/album/60UgtrOCeSefzxcZ1Jgj9c"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 274725,
       "name": "I Found (with Freya Ridings)",
       "url": "https://open.spotify.com/track/2pkpE7lSFzVouRx9llzjTa"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
         "name": "Les bruits de la ville",
         "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
+        "name": "Basement beds",
+        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 261219,
+      "name": "Basement beds",
+      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
     },
     {
       "added_at": "2025-08-07 22:00:37",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2025-08-07 22:00:37",
       "album": {
+        "name": "Why Can't I Cry About It?",
+        "url": "https://open.spotify.com/album/6LiaRWi95Dn6JMMGhs3zh0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        },
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 164690,
+      "name": "Why Can't I Cry About It?",
+      "url": "https://open.spotify.com/track/6jZUN3N3oDTuePPCVxpP3W"
+    },
+    {
+      "added_at": "2025-08-07 22:00:37",
+      "album": {
         "name": "My Name",
         "url": "https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 208493,
       "name": "Elle laisse - Radio Edit",
       "url": "https://open.spotify.com/track/01gFlEXnkRNkgtN7jPjByI"
-    },
-    {
-      "added_at": "2025-08-07 22:00:37",
-      "album": {
-        "name": "Why Can't I Cry About It?",
-        "url": "https://open.spotify.com/album/6LiaRWi95Dn6JMMGhs3zh0"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
-        },
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 164690,
-      "name": "Why Can't I Cry About It?",
-      "url": "https://open.spotify.com/track/6jZUN3N3oDTuePPCVxpP3W"
     }
   ],
   "unique_name": "Au calme",

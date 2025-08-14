@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93578,
+  "num_followers": 93574,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
       },
       "artists": [
         {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -367,18 +367,18 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "AND THEN, FROM THE SHADOWS - EP",
         "url": "https://open.spotify.com/album/0wZLxZ9Y3IbCvuMiPssrbA"
       },
@@ -447,22 +431,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Innan kronan blir f\u00f6r tung",
-        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
-      },
-      "artists": [
-        {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
-        }
-      ],
-      "duration_ms": 233726,
-      "name": "Djungeltelegrafen",
-      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Roll With The Punches",
         "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
       },
@@ -475,6 +443,38 @@
       "duration_ms": 212858,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Innan kronan blir f\u00f6r tung",
+        "url": "https://open.spotify.com/album/7s64ACactC1ifmgq8gk99p"
+      },
+      "artists": [
+        {
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+        }
+      ],
+      "duration_ms": 233726,
+      "name": "Djungeltelegrafen",
+      "url": "https://open.spotify.com/track/6X8dMR7RCjRripob2e23xM"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 179719,
-      "name": "Little Richard\u2019s Bible",
-      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Gnistrande sn\u00f6",
         "url": "https://open.spotify.com/album/5aXylFhjDZBUiYsy97O9hJ"
       },
@@ -575,22 +555,22 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Hold fast",
-        "url": "https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW"
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
       "artists": [
         {
-          "name": "Charlotte Qvale",
-          "url": "https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Hold fast",
-      "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
+      "duration_ms": 179719,
+      "name": "Little Richard\u2019s Bible",
+      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -607,6 +587,26 @@
       "duration_ms": 200000,
       "name": "Blommor",
       "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Hold fast",
+        "url": "https://open.spotify.com/album/3rJBYz2QeXvqM4OHrVM5MW"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Qvale",
+          "url": "https://open.spotify.com/artist/2jjjHpy5lxIRkTDrIHRH4v"
+        },
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Hold fast",
+      "url": "https://open.spotify.com/track/476m03lRnptvnnRXxumjLs"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
-      },
-      "artists": [
-        {
-          "name": "Titiyo",
-          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
-        }
-      ],
-      "duration_ms": 324360,
-      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
-      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 173447,
       "name": "Henrys gitarr",
       "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
+        "name": "Wedding In Leipzig",
+        "url": "https://open.spotify.com/album/797xaR6WVTBnzBpzkbYXYq"
+      },
+      "artists": [
+        {
+          "name": "Jens Lekman",
+          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
+        }
+      ],
+      "duration_ms": 633333,
+      "name": "Wedding in Leipzig",
+      "url": "https://open.spotify.com/track/11xahEyH2ySa20FGwptUec"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
         "name": "Nothing\u2019s Gonna Change My Love for You",
         "url": "https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN"
       },
@@ -851,6 +867,30 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Til the music starts again",
+        "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
+      },
+      "artists": [
+        {
+          "name": "Banna Sona Band",
+          "url": "https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL"
+        },
+        {
+          "name": "Frida \u00d6hrn",
+          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
+        },
+        {
+          "name": "Kalle Moraeus",
+          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
+        }
+      ],
+      "duration_ms": 208571,
+      "name": "Til the music starts again",
+      "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -891,30 +931,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Til the music starts again",
-        "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
-      },
-      "artists": [
-        {
-          "name": "Banna Sona Band",
-          "url": "https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL"
-        },
-        {
-          "name": "Frida \u00d6hrn",
-          "url": "https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq"
-        },
-        {
-          "name": "Kalle Moraeus",
-          "url": "https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW"
-        }
-      ],
-      "duration_ms": 208571,
-      "name": "Til the music starts again",
-      "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "EN D\u00d6ENDE PLANET",
         "url": "https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 243529,
       "name": "EN D\u00d6ENDE PLANET",
       "url": "https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
-        "name": "Wedding In Leipzig",
-        "url": "https://open.spotify.com/album/797xaR6WVTBnzBpzkbYXYq"
-      },
-      "artists": [
-        {
-          "name": "Jens Lekman",
-          "url": "https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx"
-        }
-      ],
-      "duration_ms": 633333,
-      "name": "Wedding in Leipzig",
-      "url": "https://open.spotify.com/track/11xahEyH2ySa20FGwptUec"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -963,6 +963,22 @@
       "duration_ms": 205081,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Know You've Been Loved",
+        "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
+      },
+      "artists": [
+        {
+          "name": "Eva Dahlgren",
+          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
+        }
+      ],
+      "duration_ms": 216594,
+      "name": "Know You've Been Loved",
+      "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Know You've Been Loved",
-        "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
-      },
-      "artists": [
-        {
-          "name": "Eva Dahlgren",
-          "url": "https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0"
-        }
-      ],
-      "duration_ms": 216594,
-      "name": "Know You've Been Loved",
-      "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Happier Now",
         "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
+        "name": "What I'm Running From",
+        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "duration_ms": 227654,
+      "name": "What I'm Running From",
+      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
         "name": "\u00c4lskade v\u00e4n",
         "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
       },
@@ -1075,38 +1091,6 @@
       "duration_ms": 211920,
       "name": "While you got me",
       "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
-        "name": "What I'm Running From",
-        "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
-      },
-      "artists": [
-        {
-          "name": "Chris Kl\u00e4fford",
-          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
-        }
-      ],
-      "duration_ms": 227654,
-      "name": "What I'm Running From",
-      "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
-        "name": "Voice Of The Silent",
-        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
-      },
-      "artists": [
-        {
-          "name": "John Lundvik",
-          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
-        }
-      ],
-      "duration_ms": 169125,
-      "name": "Voice Of The Silent",
-      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
+        "name": "Voice Of The Silent",
+        "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
+      },
+      "artists": [
+        {
+          "name": "John Lundvik",
+          "url": "https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW"
+        }
+      ],
+      "duration_ms": 169125,
+      "name": "Voice Of The Silent",
+      "url": "https://open.spotify.com/track/4E0st5Y809Aro5GG7oEzas"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
         "name": "Den jag aldrig kunde va",
         "url": "https://open.spotify.com/album/0EU5Ugb6KcCUiK3DuQ2Dum"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Solens alla \u00e4nglar",
-        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
-        }
-      ],
-      "duration_ms": 257359,
-      "name": "Solens alla \u00e4nglar",
-      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Jag dansade en sommar",
         "url": "https://open.spotify.com/album/343BjB6iMyT9aMXW6WSTt4"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 199120,
       "name": "Jag dansade en sommar",
       "url": "https://open.spotify.com/track/55mmUWKU8QQf6OXYF313o1"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Solens alla \u00e4nglar",
+        "url": "https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe"
+        }
+      ],
+      "duration_ms": 257359,
+      "name": "Solens alla \u00e4nglar",
+      "url": "https://open.spotify.com/track/0IefRffecTIzgApJOf6cms"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "BRA",
-        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
-      },
-      "artists": [
-        {
-          "name": "Di Leva",
-          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
-        }
-      ],
-      "duration_ms": 163005,
-      "name": "BRA",
-      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 192148,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "BRA",
+        "url": "https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf"
+      },
+      "artists": [
+        {
+          "name": "Di Leva",
+          "url": "https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad"
+        }
+      ],
+      "duration_ms": 163005,
+      "name": "BRA",
+      "url": "https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
-        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 354600,
-      "name": "Silverregn",
-      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
-    },
-    {
-      "added_at": "2025-08-11 17:18:45",
-      "album": {
         "name": "Alphabet City Songs (Lost and Found Album)",
         "url": "https://open.spotify.com/album/1VEXqdBC5sxdhs70uVdEPw"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-08-11 17:18:45",
       "album": {
-        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+        "name": "Silverregn / \u00c5terv\u00e4nd till mig",
+        "url": "https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95"
       },
       "artists": [
         {
-          "name": "Nationalteatern",
-          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
         }
       ],
-      "duration_ms": 213774,
-      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
-      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
+      "duration_ms": 354600,
+      "name": "Silverregn",
+      "url": "https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R"
     },
     {
       "added_at": "2025-08-11 17:18:45",
@@ -1387,6 +1371,22 @@
       "duration_ms": 242013,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/52wQ5yIHQ8UNBPMCmbD9PJ"
+    },
+    {
+      "added_at": "2025-08-11 17:18:45",
+      "album": {
+        "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+        "url": "https://open.spotify.com/album/1lrxyWuwPuvtGUdePj8kDq"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Men bara om min \u00e4lskade v\u00e4ntar",
+      "url": "https://open.spotify.com/track/2qXNwe6y98lazXUD8MhuKO"
     },
     {
       "added_at": "2025-08-11 17:18:45",

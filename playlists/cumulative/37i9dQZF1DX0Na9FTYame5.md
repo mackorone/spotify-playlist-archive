@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Chapo102
 
-251 songs - 11 hr 19 min
+252 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Normal zu lieben](https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Normal zu lieben](https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz) | 2:56 | 2024-06-28 | 2024-10-11 |
 | [Nur die Nacht](https://open.spotify.com/track/3tnjLb6fuGMX8TupeAZUFp) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD) | [Nur die Nacht](https://open.spotify.com/album/3RCctNgHRIN53VyRkOrLeV) | 3:07 | 2025-02-03 |  |
 | [Nur Du](https://open.spotify.com/track/4O8cfDg1j2N0RnHkePORhM) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Nur Du](https://open.spotify.com/album/4oFnxFvcUhYzJCz2pQkvDk) | 2:16 | 2025-05-15 |  |
-| [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 |  |
+| [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 | 2024-06-28 | 2025-08-14 |
 | [Ohne dich](https://open.spotify.com/track/3b3Dj7FMFkqUQLSxKjixkS) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ohne dich](https://open.spotify.com/album/0pUX6myx7NWjdx2j7hgvs2) | 2:17 | 2025-04-17 | 2025-07-06 |
 | [OMG](https://open.spotify.com/track/48VxUAyrLAnOr39ck1cJV5) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [OMG](https://open.spotify.com/album/29JfpcRRhV7vspCooH2pIM) | 2:41 | 2024-08-12 | 2025-01-21 |
 | [On/Off](https://open.spotify.com/track/5X63FvEXgMGIt7LF6U7v2W) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [On/Off](https://open.spotify.com/album/6fV2gDEnZrkEDz5ENTaL8x) | 2:27 | 2024-06-28 | 2025-06-10 |
@@ -197,6 +197,7 @@
 | [Safe Space](https://open.spotify.com/track/6HDHXiKCOYJkrpaJPZuM74) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Safe Space](https://open.spotify.com/album/2P4PDLYSHvViL5tnKF4P5R) | 2:16 | 2024-06-28 | 2024-07-29 |
 | [sag was](https://open.spotify.com/track/1phFx4XBj9VOSV5c8s4PQr) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [sag was](https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs) | 3:22 | 2024-06-28 | 2025-02-04 |
 | [Sanduhr](https://open.spotify.com/track/0hab3VhPV6LIWZbOgwm67L) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [LEVIN LIAM LEAKS 2025](https://open.spotify.com/album/4EM21MaOPc7LwPZPWUfEwv) | 2:11 | 2025-03-24 | 2025-06-06 |
+| [Scherbenland](https://open.spotify.com/track/5GDTwl4kG9ChWUcXZY6TB9) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [Scherbenland](https://open.spotify.com/album/1osObReGJXfg65fHNcSgv1) | 2:27 | 2025-08-07 |  |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2024-06-28 | 2024-12-19 |
 | [Schwarze Wolke](https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Schwarze Wolke](https://open.spotify.com/album/1WZAhXI5YWAjDonYilGnzy) | 2:57 | 2024-11-11 | 2025-01-16 |
 | [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 |  |

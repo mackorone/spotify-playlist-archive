@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受女聲力量。Cover: 麗英
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,071 likes - 532 songs - 1 day 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,074 likes - 532 songs - 1 day 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

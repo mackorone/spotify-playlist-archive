@@ -2951,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "CULT",
+        "url": "https://open.spotify.com/album/6RERD6AfphwkNzmP5sLOBG"
+      },
+      "artists": [
+        {
+          "name": "Xvir Grewal",
+          "url": "https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169847,
+      "name": "CULT",
+      "url": "https://open.spotify.com/track/0PQYu4I5csxnSNDDMN6xPk"
+    },
+    {
+      "album": {
         "name": "Da Boyz",
         "url": "https://open.spotify.com/album/1fT7lCZ3sfwNWDe6nSXKrD"
       },
@@ -10026,7 +10044,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 206506,
       "name": "Nowadays",
       "url": "https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe"

@@ -9261,6 +9261,32 @@
     },
     {
       "album": {
+        "name": "Keep Me Close",
+        "url": "https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Jake Neumar",
+          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Keep Me Close",
+      "url": "https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a"
+    },
+    {
+      "album": {
         "name": "Keya",
         "url": "https://open.spotify.com/album/22BI3KDK331rMMJDc7gkDj"
       },
@@ -15600,7 +15626,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 315371,
       "name": "Riga",
       "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\.  Kane Rodriguez, Juan Freer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,637 likes - 136 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,819 likes - 136 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

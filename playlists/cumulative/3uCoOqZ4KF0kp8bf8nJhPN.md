@@ -4,7 +4,7 @@
 
 > 
 
-269 songs - 10 hr 33 min
+273 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [1000000₽](https://open.spotify.com/track/2iqXJeFj27ZuRrJvieUpP2) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [VERi RERi](https://open.spotify.com/artist/3bVvrbMo8AcqPG7lrJfopQ) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:34 | 2025-08-11 |  |
 | [24\-7!](https://open.spotify.com/track/7MceGNdwAbMbpqibENFlwB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [24\-7!](https://open.spotify.com/album/6xprDMhS4ZCy2yNcmKE2yn) | 1:57 | 2024-12-08 |  |
 | [2RAD!](https://open.spotify.com/track/0ISfL8bvPAlioAsmmQOxQ2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:29 | 2024-12-08 |  |
-| [50К Котлы](https://open.spotify.com/track/7eZN4lWwhVGUCoULjyZHOn) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Polyana](https://open.spotify.com/artist/2Nu8ejfvmO9ZF3gebkCPnz), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Ойкумена 2](https://open.spotify.com/album/4oeC1cZjOVsYTIculXA5kn) | 2:58 | 2025-08-12 |  |
+| [50К Котлы](https://open.spotify.com/track/7eZN4lWwhVGUCoULjyZHOn) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Polyana](https://open.spotify.com/artist/2Nu8ejfvmO9ZF3gebkCPnz), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Ойкумена 2](https://open.spotify.com/album/4oeC1cZjOVsYTIculXA5kn) | 2:58 | 2025-08-12 | 2025-08-14 |
 | [5’11!](https://open.spotify.com/track/2b6MTivv1hIBqctL6xUXDs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [5’11!](https://open.spotify.com/album/2iaDkvIoAlLz6pHVPcseeZ) | 1:55 | 2025-03-24 | 2025-04-10 |
 | [9568](https://open.spotify.com/track/3yP6Wgq45sDrMUHlE58ezR) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 1:56 | 2025-08-09 |  |
 | [:3](https://open.spotify.com/track/1etmzWh7Q85LfSxth8NJuk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [:3](https://open.spotify.com/album/50HL3HFWueMUpafaawJux4) | 1:42 | 2025-01-08 |  |
@@ -251,11 +251,14 @@
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/3cqVWI3s0TgcesZsyi42Xp) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [Биг Сити Лайф](https://open.spotify.com/album/4GIGtvvVL4PTa25xN6dnMP) | 2:08 | 2025-08-11 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:08 | 2025-08-09 |  |
+| [Буллинг](https://open.spotify.com/track/5za13iBWWRRinTrS9cGwsJ) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:17 | 2025-08-13 |  |
 | [Вибрация](https://open.spotify.com/track/6gUU3AMtg5PQqXy6BoouAi) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [68 Languages](https://open.spotify.com/album/4ADAI0tu0p8NnxYcVE4GtD) | 2:14 | 2025-08-11 |  |
 | [Все это подходит](https://open.spotify.com/track/5F3Cp2dsshuQUFeTN6mJHZ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:44 | 2025-08-12 |  |
 | [Делай](https://open.spotify.com/track/4g00Wv1illOrg0SnmJ22Qz) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:56 | 2025-08-12 |  |
 | [Другой стиль](https://open.spotify.com/track/1wIu4Ou0z7XJcLB0rs3Ufz) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 3:10 | 2025-08-09 |  |
 | [Жмурки](https://open.spotify.com/track/3WhjBLDn0rIae7vtTDKpCO) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:07 | 2025-08-09 |  |
+| [Картофель фри](https://open.spotify.com/track/3knvvNaXp6BFQGNeQTcxTl) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 1:34 | 2025-08-13 |  |
+| [Классика](https://open.spotify.com/track/6Rodf9UQBd8qSB5Pjr4eFk) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:19 | 2025-08-14 |  |
 | [Летаю С Рыбой](https://open.spotify.com/track/38buGs5SOt3Q4pcnBpP27F) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Polyana](https://open.spotify.com/artist/2Nu8ejfvmO9ZF3gebkCPnz), [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Ойкумена 2](https://open.spotify.com/album/4oeC1cZjOVsYTIculXA5kn) | 1:36 | 2025-08-12 |  |
 | [Магазин](https://open.spotify.com/track/0cxKqzCYTNND97CQOBWtha) | [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Excalibur](https://open.spotify.com/album/33rtyAHvVG2lU8ZFKVK5Mv) | 1:49 | 2025-08-09 |  |
 | [Миллионы](https://open.spotify.com/track/0LashOy5hSLnHb9noCEahN) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 1:59 | 2025-08-12 |  |
@@ -276,6 +279,7 @@
 | [Страгл](https://open.spotify.com/track/0dNFnJTdR6JrO9n1dQOiMk) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:06 | 2025-08-12 |  |
 | [Тревога](https://open.spotify.com/track/7Kxl7lGeiXmdZryYTMLwXv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:30 | 2025-08-11 |  |
 | [Часик](https://open.spotify.com/track/5SOcbgdNmV0sFmmKOIbVuV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:54 | 2025-08-11 |  |
+| [Четыре](https://open.spotify.com/track/3p0lFaUdi5PwrsjIcQmWFJ) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:16 | 2025-08-13 |  |
 | [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 | 2025-08-09 |  |
 
 \*This playlist was first scraped on 2025-03-24. Prior content cannot be recovered.

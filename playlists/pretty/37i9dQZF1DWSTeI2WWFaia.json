@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs & The Alchemist",
-  "num_followers": 1584443,
+  "num_followers": 1584433,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
+        "name": "Rap Kingpin",
+        "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 164084,
+      "name": "Rap Kingpin",
+      "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "Rap Kingpin",
-        "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
       },
       "artists": [
         {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 164084,
-      "name": "Rap Kingpin",
-      "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -647,22 +663,6 @@
       "duration_ms": 232500,
       "name": "Jasmine's (feat. Westside Gunn)",
       "url": "https://open.spotify.com/track/35hGl7DgWqK0ozlmGcd1aO"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 224639,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
+        "name": "HEELS HAVE EYES",
+        "url": "https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 82391,
+      "name": "EINSTEIN KITCHEN",
+      "url": "https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
         "name": "Summertime Butch 2",
         "url": "https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 157500,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/54bsVatH4Bmlu6H1RF7WJq"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "HEELS HAVE EYES",
-        "url": "https://open.spotify.com/album/1T5LMO1wKzfY6oCdiQRpr3"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 82391,
-      "name": "EINSTEIN KITCHEN",
-      "url": "https://open.spotify.com/track/6dA7M8QPaOH5nvsH1qf5DF"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -803,34 +803,22 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+        "name": "The Coldest Profession",
+        "url": "https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 194489,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "Pardon Me",
-        "url": "https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA"
-      },
-      "artists": [
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
+      "duration_ms": 157454,
+      "name": "Glory Hole",
+      "url": "https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -847,6 +835,22 @@
       "duration_ms": 130744,
       "name": "EGYPT",
       "url": "https://open.spotify.com/track/5yD5MO0jgjIfKPXanAtRi6"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 194489,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/0EfSMdCzfbDsQpq7gnyYi4"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -871,6 +875,22 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
         "name": "Muddy Waters Too",
         "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
       },
@@ -887,22 +907,22 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "The Coldest Profession",
-        "url": "https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP"
+        "name": "12",
+        "url": "https://open.spotify.com/album/3LtZUOfccDjNs18684twS8"
       },
       "artists": [
         {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         },
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 157454,
-      "name": "Glory Hole",
-      "url": "https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m"
+      "duration_ms": 243347,
+      "name": "055",
+      "url": "https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -931,26 +951,6 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/3LtZUOfccDjNs18684twS8"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 243347,
-      "name": "055",
-      "url": "https://open.spotify.com/track/4fPRdyZTAJxZS3m3UKm8zR"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
         "name": "Syrup Sandwiches (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
       },
@@ -971,22 +971,26 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "Nice Try Wrong Guy",
-        "url": "https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv"
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 186384,
-      "name": "Nice Try Wrong Guy",
-      "url": "https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8"
+      "duration_ms": 154466,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
     }
   ],
   "unique_name": "Spilled Ink",

@@ -2067,6 +2067,32 @@
     },
     {
       "album": {
+        "name": "AZUL",
+        "url": "https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Lavish Dhiman",
+          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138177,
+      "name": "AZUL",
+      "url": "https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL"
+    },
+    {
+      "album": {
         "name": "Baarish Ban Jaana",
         "url": "https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310"
       },
@@ -13840,7 +13866,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 214250,
       "name": "Maiyya",
       "url": "https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp"
@@ -21172,7 +21198,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -25846,7 +25872,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"

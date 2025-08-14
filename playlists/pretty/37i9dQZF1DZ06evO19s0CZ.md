@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 > This is The Rolling Stones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,609 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,651 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Zydeco Sont Pas Salés](https://open.spotify.com/track/6t4QKiYbyoLfsa0NrOBUSr) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Steve Riley](https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr) | [Zydeco Sont Pas Salés](https://open.spotify.com/album/1kHZjOTmab4zgEhv6Llk4K) | 2:45 |
 | 50 | [Harlem Shuffle \- Remastered 2009](https://open.spotify.com/track/2StkuotzPgX5FpSjMpTvlw) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Dirty Work \(Remastered 2009\)](https://open.spotify.com/album/6Xui7Ex7Qs5CafFQnWeR6w) | 3:24 |
 
-Snapshot ID: `aJkygAAAAADxzJbwvQ6YxaE2FfvwEW/R`
+Snapshot ID: `aJqEAAAAAAAGFZEhvJrsmrHjcVEFmgBs`

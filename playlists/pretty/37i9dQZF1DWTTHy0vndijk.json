@@ -1,13 +1,29 @@
 {
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: KiiiKiii) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 564574,
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: AtHeart) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "num_followers": 564556,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAttKoXcebAM0hrRt7biXZ2TR60O",
+  "snapshot_id": "AAAAAIAUDAuIiIj0O/L02QhSth44WBz8",
   "tracks": [
+    {
+      "added_at": "2025-08-13 09:09:16",
+      "album": {
+        "name": "Plot Twist - 1st EP",
+        "url": "https://open.spotify.com/album/5vPdl5YUZ0UJWjmUZJkTwR"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "duration_ms": 146745,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/0yM2lQyf9l3uSA0VCzmojB"
+    },
     {
       "added_at": "2025-08-12 01:50:41",
       "album": {
@@ -59,22 +75,6 @@
     {
       "added_at": "2025-08-12 01:50:41",
       "album": {
-        "name": "STAYC Special Single [I WANT IT]",
-        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "I WANT IT",
-      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
-    },
-    {
-      "added_at": "2025-08-12 01:50:41",
-      "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
       },
@@ -91,34 +91,18 @@
     {
       "added_at": "2025-08-12 01:50:41",
       "album": {
-        "name": "Weather Diary",
-        "url": "https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL"
+        "name": "STAYC Special Single [I WANT IT]",
+        "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
         }
       ],
-      "duration_ms": 184026,
-      "name": "Weather Diary",
-      "url": "https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3"
-    },
-    {
-      "added_at": "2025-08-12 01:50:41",
-      "album": {
-        "name": "I Miss My...",
-        "url": "https://open.spotify.com/album/5ySi9bqqdg7M5h8UdNSUWb"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "DOREMI",
-      "url": "https://open.spotify.com/track/05NoTRUIxv24AvRfdPmMkV"
+      "duration_ms": 184984,
+      "name": "I WANT IT",
+      "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
     },
     {
       "added_at": "2025-08-12 01:50:41",
@@ -135,6 +119,22 @@
       "duration_ms": 199026,
       "name": "Growls and Purrs",
       "url": "https://open.spotify.com/track/2ZlzUxSV0Pir7oBn28OZCg"
+    },
+    {
+      "added_at": "2025-08-12 01:50:41",
+      "album": {
+        "name": "H1-KEY 4th Mini Album [Lovestruck]",
+        "url": "https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "Summer Was You",
+      "url": "https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1"
     },
     {
       "added_at": "2025-08-12 01:50:41",

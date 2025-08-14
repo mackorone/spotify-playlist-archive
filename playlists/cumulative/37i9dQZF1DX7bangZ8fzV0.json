@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Flippentjop",
+        "url": "https://open.spotify.com/album/6p68yOlPMmVanerB1QOHUn"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193370,
+      "name": "Flippentjop",
+      "url": "https://open.spotify.com/track/7gwPHDihtywaO2MdQTHhzB"
+    },
+    {
+      "album": {
         "name": "Foto's",
         "url": "https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU"
       },
@@ -4284,7 +4302,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 163035,
       "name": "Ouens Soos Ek",
       "url": "https://open.spotify.com/track/30dt1BYdgSPFyed2YZykV0"

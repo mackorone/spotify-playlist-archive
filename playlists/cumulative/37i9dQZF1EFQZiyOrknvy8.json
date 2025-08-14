@@ -2511,6 +2511,24 @@
     },
     {
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/023Y4lyKXWsx8XFzqgsELA"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174657,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/6lfLIn5VTnc4tON8B9ECBd"
+    },
+    {
+      "album": {
         "name": "Gute Nacht",
         "url": "https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT"
       },

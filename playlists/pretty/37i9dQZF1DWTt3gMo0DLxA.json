@@ -1,33 +1,13 @@
 {
-  "description": "Trending songs from Tollywood! \nCover: Athadu",
-  "num_followers": 432461,
+  "description": "Trending songs from Tollywood! \nCover: OG",
+  "num_followers": 432862,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6ThggcSKZdSucR4IQMEhpdAvsi",
+  "snapshot_id": "AAAAABEEGcKKkkWVIz+RhQvwD+KZjOMN",
   "tracks": [
-    {
-      "added_at": "2025-08-05 10:16:25",
-      "album": {
-        "name": "Athadu",
-        "url": "https://open.spotify.com/album/6nlrhHVOHgVohenouAbuje"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        }
-      ],
-      "duration_ms": 271964,
-      "name": "Netho Cheppana",
-      "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
-    },
     {
       "added_at": "2025-08-04 05:46:30",
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 240309,
       "name": "Firestorm (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0"
+    },
+    {
+      "added_at": "2025-08-05 10:16:25",
+      "album": {
+        "name": "Athadu",
+        "url": "https://open.spotify.com/album/6nlrhHVOHgVohenouAbuje"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "duration_ms": 271964,
+      "name": "Netho Cheppana",
+      "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
     },
     {
       "added_at": "2025-05-09 09:56:17",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-09-25 09:44:04",
       "album": {
-        "name": "Kotabommali P.S",
-        "url": "https://open.spotify.com/album/23hkdjynk6g082OKyipKlJ"
-      },
-      "artists": [
-        {
-          "name": "Midhun Mukundan",
-          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
-        },
-        {
-          "name": "Relare Rela Raghu",
-          "url": "https://open.spotify.com/artist/0Z9ZDeSf6EBGLfrRtYx4Qh"
-        }
-      ],
-      "duration_ms": 229631,
-      "name": "Lingi Lingi Lingidi",
-      "url": "https://open.spotify.com/track/1qgb9TXSQqOHmVj5dBAtFX"
-    },
-    {
-      "added_at": "2023-09-25 09:44:04",
-      "album": {
         "name": "Samayama (From \"Hi Nanna\")",
         "url": "https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG"
       },
@@ -1071,26 +1051,6 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Vinaro Bhagyamu Vishnu Katha",
-        "url": "https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb"
-      },
-      "artists": [
-        {
-          "name": "Chaitan Bharadwaj",
-          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 218385,
-      "name": "Darshana",
-      "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
         "name": "Jalsa",
         "url": "https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u"
       },
@@ -1103,26 +1063,6 @@
       "duration_ms": 298392,
       "name": "My Heart is Beating",
       "url": "https://open.spotify.com/track/3ppaMjhBDxRi2kTpawOSJn"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
-      },
-      "artists": [
-        {
-          "name": "Shahil Hada",
-          "url": "https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Rooba Rooba",
-      "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
     },
     {
       "added_at": "2025-05-20 07:45:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,048 likes - 78 songs - 3 hr 19 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,051 likes - 78 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 26 | [Your Cum Won't Last](https://open.spotify.com/track/4LHNsxVAQIFhICivNE9bOC) | [TabbyGarf](https://open.spotify.com/artist/2xm78YzOaTYiABpd8mLrkM) | [Apocalypse 1.2](https://open.spotify.com/album/61hzq6ebaUMZuQb4zm0iY7) | 1:40 |
 | 27 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 |
 | 28 | [Big Balls](https://open.spotify.com/track/11xlPlEzy8pKKuQEAJpyzb) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Balls](https://open.spotify.com/album/0cmu1siHEV3cLivD7qw0iV) | 2:39 |
-| 29 | [where my balls at?](https://open.spotify.com/track/4yETQkdPKF1GyuxaLDT9Gt) | [SKULL BASH!](https://open.spotify.com/artist/0uXJO1Yg2Mpa4sSsLWug7B), [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40), [CrabMaster69](https://open.spotify.com/artist/4pa3LYBh3pAFjyVe4Lz0YF), [pink\-o](https://open.spotify.com/artist/2A3w0TXOoSXkrN6WE5zdhm), [DEMGOZÉ](https://open.spotify.com/artist/7fHmilC3fxa1zHn9KpNUBm) | [neurotypical](https://open.spotify.com/album/7G9udxNfTrY3lb3pZgboSm) | 2:08 |
-| 30 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 |
+| 29 | [where my balls at?](https://open.spotify.com/track/4yETQkdPKF1GyuxaLDT9Gt) | [SKULL BASH!](https://open.spotify.com/artist/0uXJO1Yg2Mpa4sSsLWug7B), [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0), [CrabMaster69](https://open.spotify.com/artist/4pa3LYBh3pAFjyVe4Lz0YF), [pink\-o](https://open.spotify.com/artist/2A3w0TXOoSXkrN6WE5zdhm), [DEMGOZÉ](https://open.spotify.com/artist/7fHmilC3fxa1zHn9KpNUBm) | [neurotypical](https://open.spotify.com/album/7G9udxNfTrY3lb3pZgboSm) | 2:08 |
+| 30 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 |
 | 31 | [SILLY PISS SONG](https://open.spotify.com/track/2AeDwo9LB1uap5CJBOb4BD) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [Pent Up Pup](https://open.spotify.com/album/36MfMEJQjrCbWDNty7rBjJ) | 0:50 |
 | 32 | [EDGE PLAY](https://open.spotify.com/track/43saXiFb4mEm9ajLfiMoji) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [EDGE PLAY](https://open.spotify.com/album/6I75QTK7OKFpWj2hbHfB8I) | 1:24 |
 | 33 | [KNOT SONG](https://open.spotify.com/track/1vxuF4XwRtYBkUgWa8Ukub) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [KNOT SONG](https://open.spotify.com/album/2GBCGdEeAnLp5Iy7aVmclT) | 2:18 |

@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-110 songs - 19 hr 26 min
+111 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Anjade Loni Eledumare](https://open.spotify.com/track/7wbpuNT1z9s4HMWblEW7yZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Singing For The People](https://open.spotify.com/album/1SCsPSmAmX1BhnEqA5WQNa) | 20:30 | 2024-11-08 |  |
 | [Ara Nba Da Owo Oje](https://open.spotify.com/track/0juqnABofBDYtzZQ0sUZja) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 6](https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO) | 21:12 | 2024-05-15 |  |
 | [Austerity Measure](https://open.spotify.com/track/4xHAk3d35NjPe5zb9WJ9CD) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 32](https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx) | 17:32 | 2022-07-16 | 2025-06-25 |
+| [Awon Alhaji](https://open.spotify.com/track/1M0DIMkMAJ6BVMFGxeIE8q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 4:27 | 2025-08-14 |  |
 | [Baba Fona Han Wa](https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ajo Yio](https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR) | 18:48 | 2023-12-26 |  |
 | [Baba Loran Mi Wa](https://open.spotify.com/track/6GgoZhtXqEvZnhBG4ik7wS) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 6:01 | 2024-10-19 |  |
 | [Board Members](https://open.spotify.com/track/414geRl06sq9YvNaOozReX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 6](https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO) | 19:34 | 2024-03-31 |  |
@@ -59,7 +60,7 @@
 | [Inter Reformers a Tunde Medley, Pt\. 2](https://open.spotify.com/track/5k6PMMcpIdrTzR9VYQuGWO) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Inter Reformers a Tunde](https://open.spotify.com/album/55KjlxkYpSkpQIZKGY3JiL) | 19:29 | 2021-12-28 |  |
 | [Isokan/Ka Ma Mosi](https://open.spotify.com/track/2pGxqJMvokWeI6bUUdxXcj) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 18](https://open.spotify.com/album/1cVqfnT493osb77rsvxenZ) | 7:08 | 2021-12-28 | 2023-09-22 |
 | [Jowo \(feat\. Chief Commander Ebenezer Obey\)](https://open.spotify.com/track/5TZlKtBNoOx6Dl4du94N2I) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Lost and Found](https://open.spotify.com/album/7ngqg1CSDp6jc7KPs6tWax) | 2:56 | 2024-07-08 |  |
-| [K'OluwsSo Pade Wa](https://open.spotify.com/track/5ubzuTnOSPB6qtb2WIG1QI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:55 | 2024-06-01 |  |
+| [K'OluwsSo Pade Wa](https://open.spotify.com/track/5ubzuTnOSPB6qtb2WIG1QI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:55 | 2024-06-01 | 2025-08-14 |
 | [Ki Oluwa So Ipade Wa](https://open.spotify.com/track/7gNdq3CRaeDz56htUR1mxa) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 19](https://open.spotify.com/album/5NCGXv1sa4xIZR0iduICFp) | 2:58 | 2021-12-28 | 2024-01-20 |
 | [Kii Seru Akata](https://open.spotify.com/track/18ML5VJvdASIIKsJ8DOco2) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Lagos State](https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V) | 17:41 | 2022-09-22 |  |
 | [Lagos State](https://open.spotify.com/track/2N6jX10BX0mTuoKuWIurw4) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Lagos State](https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V) | 20:01 | 2021-12-28 | 2023-12-20 |

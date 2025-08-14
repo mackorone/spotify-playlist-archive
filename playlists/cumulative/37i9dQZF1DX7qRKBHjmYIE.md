@@ -4,12 +4,12 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Sofish.
 
-910 songs - 2 day 1 hr 1 min
+911 songs - 2 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(sola\)](https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [\(sola\)](https://open.spotify.com/album/0CpJqtfZSaryVvqYx794z4) | 2:28 | 2024-07-05 | 2025-08-09 |
-| [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 | 2024-09-27 |  |
+| [1000 cartas](https://open.spotify.com/track/7Hw9wfTO1svTy8yjpV9sL7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [1000 cartas / dsps de un faje](https://open.spotify.com/album/7LOo3kTsO24pNoLDzo7DWG) | 2:25 | 2024-09-27 | 2025-08-14 |
 | [1000 Millones](https://open.spotify.com/track/3VJx2G4tmT8RhHVtAqUkXS) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [nostalgia EP](https://open.spotify.com/album/1fhc3XX8W5Z4fMZrEW4DzO) | 3:12 | 2024-12-13 |  |
 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 | 2024-06-28 | 2025-03-08 |
 | [18+1](https://open.spotify.com/track/5rxzvuFvtIVFWSSte40IFe) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:01 | 2023-01-10 | 2023-02-17 |
@@ -673,6 +673,7 @@
 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 | 2025-05-09 |  |
 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2023-12-29 | 2024-04-13 |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-01-24 | 2022-10-28 |
+| [q nos paso?](https://open.spotify.com/track/3ocvBeWQTOL25yURvY8jlz) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [MAYDAY](https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1) | 2:09 | 2025-08-08 |  |
 | [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 | 2025-02-14 |  |
 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 | 2024-12-06 |  |
 | [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 | 2023-10-13 | 2023-12-30 |
@@ -897,11 +898,11 @@
 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2023-01-10 | 2023-08-26 |
 | [Y Qué](https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7) | [Y Qué](https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ) | 2:48 | 2024-02-23 | 2024-10-26 |
 | [Y Se Va Se Va](https://open.spotify.com/track/41REIlLGInOYQpwcv9AH6x) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Y Se Va Se Va](https://open.spotify.com/album/31dwAkGkz6VQGfe7KXlMr6) | 3:34 | 2023-03-01 | 2023-03-29 |
-| [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 | 2024-11-15 | 2025-08-09 |
+| [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 | 2024-11-15 |  |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2021-12-02 | 2022-03-22 |
 | [Ya no siento nada](https://open.spotify.com/track/1ltRCX8f708xUGyQaKlUNk) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Ya no siento nada](https://open.spotify.com/album/3eT2h0juVrYJQM4z7mn5EJ) | 3:12 | 2021-12-02 | 2022-01-29 |
 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 | 2022-03-21 | 2022-04-21 |
-| [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 | 2025-04-04 |  |
+| [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 | 2025-04-04 | 2025-08-14 |
 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 | 2023-05-05 | 2023-07-22 |
 | [you are, you are \- demo](https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [V](https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3) | 2:17 | 2022-07-22 | 2023-02-17 |
 | [you are, you are \- demo](https://open.spotify.com/track/6oTwr1AfReNwa25t7p6XwH) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [easy](https://open.spotify.com/album/3dODNH44dF6l1BrexSj2WM) | 2:17 | 2022-02-01 | 2022-07-19 |

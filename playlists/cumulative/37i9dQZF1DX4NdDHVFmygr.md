@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Made in Morocco, 100% hits marocains.
+> From Morocco to the world.
 
 472 songs - 1 day 1 hr 10 min
 

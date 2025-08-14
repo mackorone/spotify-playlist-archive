@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Wind Walkers
 
-1,290 songs - 3 day 7 hr 3 min
+1,291 songs - 3 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,7 +466,7 @@
 | [FLY AWAY](https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [FLY AWAY](https://open.spotify.com/album/7v3QQTTbPLDoUZ9lUhVbLd) | 2:41 | 2024-06-04 | 2024-11-23 |
 | [For Whom the Banshee Cries](https://open.spotify.com/track/3JYvX4mZunGih0vQupHdX3) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [For Whom the Banshee Cries](https://open.spotify.com/album/1ADZJmflFSYHCTznoAjZH5) | 6:24 | 2022-07-13 | 2022-07-23 |
 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 | 2025-04-25 |  |
-| [Forever Aligned](https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Forever Aligned](https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD) | 4:05 | 2024-11-22 |  |
+| [Forever Aligned](https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Forever Aligned](https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD) | 4:05 | 2024-11-22 | 2025-08-14 |
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-18 | 2022-12-17 |
 | [Forever Cold](https://open.spotify.com/track/3uhvjTmAuHRlpgEAfj6SGY) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Forever Cold](https://open.spotify.com/album/4WmIS78V0gBBoYpKvXSZtc) | 4:43 | 2024-11-08 | 2025-05-26 |
 | [Forever The Night](https://open.spotify.com/track/0WLQtuxBnuOYWB6RuQ8flr) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Forever The Night](https://open.spotify.com/album/5TqbTmXgostHmPdlVS43sI) | 4:05 | 2025-04-25 | 2025-06-29 |
@@ -1111,6 +1111,7 @@
 | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C) | [In Hearts Wake](https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [The Flood \(ǝɔᴉʇsnɾ\)](https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD) | 3:10 | 2024-07-12 | 2024-08-26 |
 | [The Fullness of My Being](https://open.spotify.com/track/6bezTpt9QKbnxqqdDsRE1o) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [The Fullness of My Being](https://open.spotify.com/album/5O5I2tWrenrKwPBkC0yhA3) | 3:38 | 2024-01-12 | 2024-07-15 |
 | [THE GREAT DEPRESSION](https://open.spotify.com/track/4XLAtJLVLFvSUXRZFc0dqr) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:07 | 2023-02-17 | 2023-03-25 |
+| [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 | 2025-08-13 |  |
 | [The Hills Are Alive with the Sound of Violence](https://open.spotify.com/track/6kflpnBVsxM8T0F9QtLB0T) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw) | [Five Arrows](https://open.spotify.com/album/3yYrSXk9yDZ8PT2buv4dpF) | 2:12 | 2024-11-22 | 2024-12-19 |
 | [The Impressionist](https://open.spotify.com/track/6wQGIwWIOnMAqMY9kQNTJ3) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Impressionist](https://open.spotify.com/album/40n12vUitDKrQVCyw0cEIs) | 4:28 | 2022-04-22 | 2022-07-01 |
 | [The Lake](https://open.spotify.com/track/4g9s3pIOIqk2qfbNef3dW9) | [Forgetting The Memories](https://open.spotify.com/artist/1ZHEmnVzqhKMdawJteyKp4) | [Vemod](https://open.spotify.com/album/1meKjxOu8dmRsuWo47vmAI) | 4:55 | 2022-07-13 | 2022-07-20 |

@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE\. Artwork: Joy Yamusangie.
 
-1,591 songs - 5 day 4 hr 25 min
+1,592 songs - 5 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1339,6 +1339,7 @@
 | [The Joe Way](https://open.spotify.com/track/3VEAqaeddzgO3rXBvpFWOU) | [Eric Escanes](https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9) | [Take It EZ](https://open.spotify.com/album/4DqykSVFqdMNBsoDUimUMU) | 3:06 | 2022-06-29 | 2022-07-28 |
 | [The joy of being with you](https://open.spotify.com/track/6HOCkjQkG0YcwQ1MBb832t) | [Alfred Lorinius](https://open.spotify.com/artist/1aqU1rHJ6vXAyvSdqfAVNJ), [Stormfågel](https://open.spotify.com/artist/44xxOb90UMRJP1lPVzP5AZ), [Marie Nilsson\-Lannerö](https://open.spotify.com/artist/0jj8WaQk3HPzsNNj74jX9O), [Joel Fabiansson](https://open.spotify.com/artist/3nID4VwJvkwd8kgC63HHND), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Oliver Steidle](https://open.spotify.com/artist/0z4tthm1Yqo1xno45BDrwh) | [The Picture](https://open.spotify.com/album/7eTN149LTsjvLjNxqWkigZ) | 6:16 | 2022-01-19 | 2022-02-17 |
 | [The Last Kiss](https://open.spotify.com/track/7dnOB4RX7GTyXV5QfhZ6w6) | [Rachelle Vanleeuwen](https://open.spotify.com/artist/376UH2QKNnQcVieekEBFFT), [Bossa & Bose](https://open.spotify.com/artist/41Jm51lh9fzqOBW18to4Ov) | [They Forbid Our Love](https://open.spotify.com/album/09TmDF1DLew2pA4Tz4yi3p) | 3:43 | 2023-09-13 | 2023-10-24 |
+| [The Lesson](https://open.spotify.com/track/1NTdvJQ5GSdzf62o5GAmzq) | [Natalie Slade](https://open.spotify.com/artist/2G4QmfdQaRtHde3OYDl3AQ) | [Molasses](https://open.spotify.com/album/6pVAp4fmmmMmsLisAgW5Yb) | 3:53 | 2025-08-13 |  |
 | [The Melt](https://open.spotify.com/track/0Uyf7p3o0cOCtVth5ZP62L) | [James Kitchman](https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW), [Bruno Heinen](https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7), [Tom McCredie](https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s), [Shane Forbes](https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB) | [First Quartet](https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ) | 6:24 | 2022-04-13 | 2022-04-28 |
 | [The MIA Way](https://open.spotify.com/track/5ZJZ68z3mrT9FNLOm20qmo) | [Eric Escanes](https://open.spotify.com/artist/4OZp27Cc1JZprOvcjuoOb9) | [The MIA Way](https://open.spotify.com/album/7eohcW6Ku1HRL34B1CqYvx) | 3:12 | 2022-03-16 | 2022-04-21 |
 | [The Mind's Eye](https://open.spotify.com/track/7gcsYUVLQjfvLkEtaLqC76) | [Alex Tremblay](https://open.spotify.com/artist/0bB79xoFIl2U5jjhxiDZ3t) | [The Mind's Eye](https://open.spotify.com/album/73MFyZykqRFLY6N8vNm8ii) | 4:35 | 2025-02-05 |  |
@@ -1442,7 +1443,7 @@
 | [Um girassol da cor do seu cabelo](https://open.spotify.com/track/2ZQFZxIvnhSr16Sr1PfZle) | [Trio Bruxo](https://open.spotify.com/artist/17iI5P1MYqoajAt2bkXUcJ) | [Girassol](https://open.spotify.com/album/7aqIItkzmNxJo8NT89eiBq) | 6:40 | 2022-03-16 | 2022-04-21 |
 | [Uma Piada Engraçada](https://open.spotify.com/track/0ofixWdoe5o6i6rpBP5C1q) | [Guerrinha](https://open.spotify.com/artist/2iDgJPkdbRyMQgNlzuwetf) | [Cidade Grande](https://open.spotify.com/album/21ZQzzxSDYRABzC1RVahfm) | 2:15 | 2022-11-09 | 2023-02-16 |
 | [Umbra](https://open.spotify.com/track/3t9zi86n8VkMPNYQXSJcfn) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Umbra](https://open.spotify.com/album/5mjUqt9neeWdapdLjvMBB1) | 2:30 | 2023-01-25 | 2023-02-23 |
-| [Umut](https://open.spotify.com/track/4Obnl7r6X3hVWv59DGXavM) | [İstanbul West Side Collective](https://open.spotify.com/artist/1CmYDzZsEskChgwiEuPXsX) | [Umut](https://open.spotify.com/album/77A7xkLwDGQSeL0MNZ8I6F) | 5:21 | 2025-01-15 |  |
+| [Umut](https://open.spotify.com/track/4Obnl7r6X3hVWv59DGXavM) | [İstanbul West Side Collective](https://open.spotify.com/artist/1CmYDzZsEskChgwiEuPXsX) | [Umut](https://open.spotify.com/album/77A7xkLwDGQSeL0MNZ8I6F) | 5:21 | 2025-01-15 | 2025-08-14 |
 | [Unbreak](https://open.spotify.com/track/1xkIQkvJoGb2HinzTzS3fj) | [Xan DuBose](https://open.spotify.com/artist/1FtaimfBPkxh0WRi2kAg9l) | [Unbreak](https://open.spotify.com/album/62qrlffiqwcgW0Deji67DI) | 3:50 | 2024-06-26 | 2024-08-22 |
 | [Uncover](https://open.spotify.com/track/1MWdKMH80smiJNU3qmb9pN) | [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL) | [Uncover](https://open.spotify.com/album/3mBHdGiUVxQ9pmlc3xjnSv) | 4:45 | 2022-06-15 | 2022-07-14 |
 | [Under The Wire](https://open.spotify.com/track/7pF3nbCAddgvXVGF3HRLgs) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [SeLF Vol\. I](https://open.spotify.com/album/6zFtSRnaQy1Y7V0S7tnPqP) | 4:37 | 2022-09-14 | 2022-10-20 |

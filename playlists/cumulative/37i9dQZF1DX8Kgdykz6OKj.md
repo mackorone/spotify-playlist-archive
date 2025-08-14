@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-465 songs - 1 day 1 hr 48 min
+466 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [After The Storm \(feat\. Tyler, The Creator & Bootsy Collins\) \- Pete Rock Remix](https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [After The Storm \(Pete Rock Remix\)](https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje) | 3:45 | 2021-12-16 |  |
 | [Air Born](https://open.spotify.com/track/1SrgOv6hJ7FmFNTDwC6yoF) | [The Kid Daytona](https://open.spotify.com/artist/1U77TS18o4qUO3bwq0pbcM), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Come Fly with Me](https://open.spotify.com/album/3r3Q0fWCOBOiBZFYw34TAm) | 4:44 | 2022-04-11 | 2022-04-15 |
 | [Albany](https://open.spotify.com/track/3axd6nS2OpTthBIv7Fv8LB) | [Kev Brown](https://open.spotify.com/artist/1Yi9MvKxq35HFHWl0nNelG) | [Always / Albany](https://open.spotify.com/album/350aqUY5tiF829qMI0QC6X) | 2:49 | 2021-12-16 | 2022-05-30 |
-| [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2021-12-16 |  |
+| [Alchemy](https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Alchemy](https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o) | 3:13 | 2021-12-16 | 2025-08-14 |
 | [Allegedly](https://open.spotify.com/track/04LykEZhcwFU2WBz8leiGZ) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [Allegedly](https://open.spotify.com/album/4SVnC6tyMHfH09V2QX7WYu) | 2:47 | 2025-06-11 | 2025-07-26 |
 | [almost got me](https://open.spotify.com/track/7tYbDFqHeiNRMRwfk7PF5w) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [almost got me](https://open.spotify.com/album/3CgByUDYSBxYmUdQfQDOLk) | 3:03 | 2024-07-12 | 2024-10-11 |
 | [ALOPECIA](https://open.spotify.com/track/4logSUCXb5fUEfnxtJpsIJ) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [ALOPECIA](https://open.spotify.com/album/3OYkrrgBRHLO01GYZSuQza) | 2:46 | 2025-01-17 | 2025-02-23 |
@@ -416,6 +416,7 @@
 | [That Love \- Radio Version](https://open.spotify.com/track/7kum3I7Lkrgzs4npdmWszD) | [Vice Beats](https://open.spotify.com/artist/0IIyN8h6bhn7pzkR0SbAS8), [Audessey](https://open.spotify.com/artist/3NKdwuQJhe3hYMBEg2YQWX), [Greg Blackman](https://open.spotify.com/artist/7r75JahMqaqUitdEipf65c), [Knuf](https://open.spotify.com/artist/3WskJiuqQaI2tSuycw5kPu) | [That Love](https://open.spotify.com/album/0RaQH6qsoWcwF8zeLnbY3V) | 3:54 | 2022-01-13 | 2022-04-24 |
 | [The Circle](https://open.spotify.com/track/60DLWXwghcL7vBZmanhLtU) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/0aICyOA2b1l0eR6GwkFBT1) | 3:29 | 2022-04-11 | 2022-11-20 |
 | [The Circle](https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl) | [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [Helping Hands](https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs) | 3:29 | 2022-10-13 | 2024-04-19 |
+| [The Edge](https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W) | [Droogie Otis](https://open.spotify.com/artist/77yuxx0zDXOjRffgQ1ooXm), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [The Edge](https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle) | 3:25 | 2025-08-13 |  |
 | [The Eternal Now](https://open.spotify.com/track/0CJL0DuxUtTzTOY3iUUJfK) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6OQSrgM4iawSejtzafHEg7) | 3:25 | 2024-06-21 | 2024-10-05 |
 | [The Feel](https://open.spotify.com/track/3G5mPCwRvLucI92NCiZ3B1) | [RC & The Gritz](https://open.spotify.com/artist/7FaQi3otcN7fUOHr8ODW8d) | [The FEEL](https://open.spotify.com/album/7zfjn93all67uzqxxkjlIO) | 2:21 | 2024-04-19 | 2025-03-27 |
 | [The Feeling](https://open.spotify.com/track/0MQygdHirl8XZjivCTfzJf) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH) | [The Feeling](https://open.spotify.com/album/52v4G1JsoKx3mdhQE0T610) | 2:59 | 2021-12-16 | 2022-07-29 |

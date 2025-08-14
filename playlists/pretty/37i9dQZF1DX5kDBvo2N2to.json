@@ -271,22 +271,6 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "Inte bra i grupp",
-        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 169785,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
         "name": "Ta honom",
         "url": "https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
+        "name": "Inte bra i grupp",
+        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 169785,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/59423YD9JZdvJsFSICrsfg"
       },
@@ -315,22 +315,6 @@
       "duration_ms": 163320,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 182051,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -367,6 +351,22 @@
       "duration_ms": 146352,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 182051,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "Camels",
-        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
-      },
-      "artists": [
-        {
-          "name": "Paine Galletto",
-          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Camels",
-      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
         "name": "MSN & Lunar",
         "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
       },
@@ -451,6 +435,42 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
+        "name": "Camels",
+        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
+      },
+      "artists": [
+        {
+          "name": "Paine Galletto",
+          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Camels",
+      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
+        "name": "500 kr",
+        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+      },
+      "artists": [
+        {
+          "name": "I$AK",
+          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "500 kr",
+      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
         "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
         "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 172053,
       "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
       "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -515,38 +519,18 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "500 kr",
-        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
       },
       "artists": [
         {
-          "name": "I$AK",
-          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
-        },
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
         }
       ],
-      "duration_ms": 225000,
-      "name": "500 kr",
-      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
-        "name": "Dina fula skor",
-        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
-      },
-      "artists": [
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Dina fula skor",
-      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
+      "duration_ms": 160601,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -567,6 +551,22 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
+        "name": "Dina fula skor",
+        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Dina fula skor",
+      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
         "name": "Tappar det",
         "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 155975,
       "name": "Tappar det",
       "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
-        "name": "Som i en dr\u00f6m",
-        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Fr\u00e5n & med nu",
-      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -631,6 +615,22 @@
       "duration_ms": 141058,
       "name": "More",
       "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
+        "name": "Som i en dr\u00f6m",
+        "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Fr\u00e5n & med nu",
+      "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
         "name": "Dancing Around The Truth",
         "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 230670,
       "name": "Dancing Around The Truth",
       "url": "https://open.spotify.com/track/3WMPOfSgxjZY2jFZYCTQeP"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 194789,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
         "name": "N\u00e5gon annan \u00e4n dig",
         "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I"
       },
       "artists": [
         {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
         }
       ],
-      "duration_ms": 194789,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
+      "duration_ms": 248533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -947,22 +963,6 @@
       "duration_ms": 168928,
       "name": "DELILAH",
       "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I"
-      },
-      "artists": [
-        {
-          "name": "2AM-DM",
-          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
+        "name": "Du kan inte ljuga f\u00f6r mig",
+        "url": "https://open.spotify.com/album/5wffGfpzCjHgaXe3SUndLN"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        },
+        {
+          "name": "JULI",
+          "url": "https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Du kan inte ljuga f\u00f6r mig",
+      "url": "https://open.spotify.com/track/7FUHlgux4d0OKwSfHr5GjR"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
         "name": "K\u00e4nner ni igen er",
         "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
@@ -1143,22 +1163,6 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "Murphy",
-        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
-      },
-      "artists": [
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 153618,
-      "name": "Vem fan \u00e4r Murphy?",
-      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
         "name": "Mormors Sommarvisa",
         "url": "https://open.spotify.com/album/1DB94nhmlINo21fAr3CzWJ"
       },
@@ -1175,6 +1179,22 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
+        "name": "Murphy",
+        "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 153618,
+      "name": "Vem fan \u00e4r Murphy?",
+      "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
         "name": "Tro",
         "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 136593,
       "name": "Tro",
       "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
-        "name": "Du kan inte ljuga f\u00f6r mig",
-        "url": "https://open.spotify.com/album/5wffGfpzCjHgaXe3SUndLN"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        },
-        {
-          "name": "JULI",
-          "url": "https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Du kan inte ljuga f\u00f6r mig",
-      "url": "https://open.spotify.com/track/7FUHlgux4d0OKwSfHr5GjR"
     },
     {
       "added_at": "2025-08-07 22:00:38",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-08-07 22:00:38",
       "album": {
-        "name": "t-shirt",
-        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 152629,
-      "name": "t-shirt",
-      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
-    },
-    {
-      "added_at": "2025-08-07 22:00:38",
-      "album": {
         "name": "Hj\u00e4rtat kan ha fel ibland",
         "url": "https://open.spotify.com/album/6Kdvv7a6OSJ2392TMGKkIQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 148058,
       "name": "Hj\u00e4rtat kan ha fel ibland",
       "url": "https://open.spotify.com/track/3f4ZfUlxPWfmcyFfm8l4f2"
+    },
+    {
+      "added_at": "2025-08-07 22:00:38",
+      "album": {
+        "name": "t-shirt",
+        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 152629,
+      "name": "t-shirt",
+      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
       "added_at": "2025-08-07 22:00:38",

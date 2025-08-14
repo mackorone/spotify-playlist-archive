@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,443 likes - 477 songs - 1 day 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,587 likes - 477 songs - 1 day 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 260 | [♾](https://open.spotify.com/track/2wleRXcIPqltoDPLMH5WDa) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 |
 | 261 | [Roulette](https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:18 |
 | 262 | [In a World Like This](https://open.spotify.com/track/6VnOmvefW8FgSGqyd9ejwk) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [In a World Like This](https://open.spotify.com/album/4ADzW2h6iJIFEDL9cwhKkm) | 3:39 |
-| 263 | [Kiss N Tell](https://open.spotify.com/track/3OY9NKwRfYqNNpeogsm5eR) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:27 |
-| 264 | [Don't Want You Back](https://open.spotify.com/track/2EgIkNeq1Tsx1JamvF6JWg) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:26 |
+| 263 | [Don't Want You Back](https://open.spotify.com/track/2EgIkNeq1Tsx1JamvF6JWg) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:26 |
+| 264 | [Kiss N Tell](https://open.spotify.com/track/3OY9NKwRfYqNNpeogsm5eR) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:27 |
 | 265 | [Lost And Found](https://open.spotify.com/track/3R2bkLqP197fl3vKHpONrg) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:36 |
 | 266 | [Can't Get Enough \(feat\. Pitbull\)](https://open.spotify.com/track/3svSpGRGdpM6IgdFRYO5Nm) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Play It Again](https://open.spotify.com/album/7GIBJhyttpLI8aFJheOZWL) | 3:47 |
 | 267 | [No More \(feat\. French Montana\)](https://open.spotify.com/track/37vqpVS6sQFhLdNZhHo1zu) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [No More \(feat\. French Montana\)](https://open.spotify.com/album/6NxbPkIDGFf9inHWkiYwnZ) | 3:23 |
@@ -295,8 +295,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 285 | [Crazy Beautiful Life](https://open.spotify.com/track/1YcOjtjiwwiwlrzmeueQ45) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 2:50 |
 | 286 | [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 |
 | 287 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/3p6raxOehdqXB2tq1yCC6a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 6:25 |
-| 288 | [Blinding Lights \- Major Lazer Remix](https://open.spotify.com/track/68kQQv6idXUcXIf1n59Y3i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Blinding Lights \(Major Lazer Remix\)](https://open.spotify.com/album/74hsEs8mQoNkB6NwgrgV3s) | 3:17 |
-| 289 | [JUPiTER](https://open.spotify.com/track/3Bc8H4AiPnI8yECFhs6Y3O) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 4:00 |
+| 288 | [JUPiTER](https://open.spotify.com/track/3Bc8H4AiPnI8yECFhs6Y3O) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 4:00 |
+| 289 | [Blinding Lights \- Major Lazer Remix](https://open.spotify.com/track/68kQQv6idXUcXIf1n59Y3i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Blinding Lights \(Major Lazer Remix\)](https://open.spotify.com/album/74hsEs8mQoNkB6NwgrgV3s) | 3:17 |
 | 290 | [Slam Dunk \(Da Funk\)](https://open.spotify.com/track/6Dy0Tt2mdKo0Xkwl8yHBZV) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Five](https://open.spotify.com/album/5qNfTjXiyNX9abxpcpR1jO) | 3:36 |
 | 291 | [Everything I'm Not](https://open.spotify.com/track/5mO8VNRwbrPqbfLDHE5rre) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/7ByjOOmDkEgm1HC9LwOPNg) | 3:21 |
 | 292 | [Bigger](https://open.spotify.com/track/2DTBXyVq5YqQUB26nP0AKc) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is Us](https://open.spotify.com/album/08wSk6XJ7365lO47E1278L) | 3:15 |
@@ -486,4 +486,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 476 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 477 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `Ab5VaAAAAACtaumFbXTrKpGk1ELie7Va`
+Snapshot ID: `Ab5a/gAAAAAoGiOu+Ce3biN17IoX0jgu`

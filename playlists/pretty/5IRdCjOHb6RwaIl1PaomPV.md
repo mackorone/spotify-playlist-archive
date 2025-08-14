@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Joon Gloom and Miss Madeline &amp; Chase Icon, plus the latest cuts from Clara Kimera ¬tinbed, TDJ, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,773 likes - 100 songs - 5 hr 42 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,770 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

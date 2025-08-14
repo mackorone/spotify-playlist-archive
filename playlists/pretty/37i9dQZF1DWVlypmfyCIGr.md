@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Maya
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,313 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,337 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 50 | [わたしの代わり](https://open.spotify.com/track/0HrjdJGnfYIvxES3Loxohg) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [わたしの代わり](https://open.spotify.com/album/6BjsFdqo82zvgeOvqebCLa) | 5:31 |
 | 51 | [のどあめ](https://open.spotify.com/track/3sUayeqTxu0zXXVe7lGTlA) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [のどあめ](https://open.spotify.com/album/49iFBM65a5nnMzAuCQl8C8) | 3:25 |
 | 52 | [あいとか](https://open.spotify.com/track/21axifg6GzzXxrJ0NaiKTk) | [月には行かない](https://open.spotify.com/artist/3dA4Dc3wEitte7MxXalSHP) | [それでも僕らは](https://open.spotify.com/album/5KzRwMwmtfRPrO3mTFjr4j) | 3:10 |
-| 53 | [すだち Prod.edbl](https://open.spotify.com/track/19MJjt5VgpRoKqunhb8FfA) | [blend house](https://open.spotify.com/artist/1hRKmXmzCPrgfCn5d0jAV2), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [すだち Prod.edbl](https://open.spotify.com/album/6j23y55GZ309poThlXa2dx) | 3:31 |
+| 53 | [すだち Prod.edbl](https://open.spotify.com/track/19MJjt5VgpRoKqunhb8FfA) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [すだち Prod.edbl](https://open.spotify.com/album/6j23y55GZ309poThlXa2dx) | 3:31 |
 | 54 | [あいつは◯ねたらしい](https://open.spotify.com/track/6fJoCtdMPiNRAhIDzBiizh) | [N8\(neito§\)](https://open.spotify.com/artist/47r45Pv46NFwkLcMfI9Zkz) | [Puzzle me](https://open.spotify.com/album/5pfQszJAf7VE9xk0KtFUPU) | 3:01 |
 | 55 | [快啖ノススメ](https://open.spotify.com/track/7Gmtk25Abt8mimaZiY0QbE) | [東京真中](https://open.spotify.com/artist/1XpZKw5ml9resg2tXiAk7K), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [快啖ノススメ](https://open.spotify.com/album/4AUdQHKSV4jaA3skx6eZMo) | 2:57 |
 | 56 | [Time of War \- ft\. Moostop](https://open.spotify.com/track/7LWzvtzmuelx8CivCbbVhZ) | [Zoobombs](https://open.spotify.com/artist/207YH7vqVsMSqZGXtDAb96), [Moostop](https://open.spotify.com/artist/07Tzhj1GQYPlU1g3pzwVAJ) | [Time of War \(ft\. Moostop\)](https://open.spotify.com/album/2njahabOMpJv7NRN7AaX8c) | 4:08 |

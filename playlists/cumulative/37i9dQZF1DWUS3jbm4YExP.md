@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-836 songs - 2 day 11 hr 22 min
+837 songs - 2 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Crystal Sand](https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:31 | 2024-03-08 | 2024-11-22 |
 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 | 2023-01-03 | 2023-02-27 |
 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 | 2021-10-06 | 2022-02-05 |
-| [Cumbia Mahàre](https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG) | [Psyché](https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5) | [Psyché](https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT) | 3:41 | 2023-12-04 |  |
+| [Cumbia Mahàre](https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG) | [Psyché](https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5) | [Psyché](https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT) | 3:41 | 2023-12-04 | 2025-08-14 |
 | [Cumbietiope](https://open.spotify.com/track/4LIdFQO5kSKc8eD8MCLsH6) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:04 | 2021-10-06 | 2022-04-18 |
 | [Dance](https://open.spotify.com/track/2WqMiwXwjpj3kFcO4ht37Z) | [Cabrita](https://open.spotify.com/artist/4FVt6BMbyh2PeX0asQ8nMF), [LARIE](https://open.spotify.com/artist/3ghao2yjayK7uaht9Z0bFy) | [Umbra](https://open.spotify.com/album/4DjALZHUdagEjSO0E53Fzq) | 3:30 | 2023-11-23 | 2024-02-16 |
 | [Dantokpa](https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ) | [Meister Lampe](https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i) | [Orb II](https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f) | 3:21 | 2021-10-06 | 2025-06-16 |
@@ -599,6 +599,7 @@
 | [Polaroid Banana](https://open.spotify.com/track/7px3JpqWmEluCvhkhnfBLL) | [Liquid Saloon](https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G) | [Liquid Saloon](https://open.spotify.com/album/1wTshZlAEBoiMjxb4tWN5W) | 5:55 | 2021-10-06 | 2022-07-26 |
 | [Political Incorrect](https://open.spotify.com/track/4MBJzFfLTkg6KDfvANj3xs) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Pull the Rope](https://open.spotify.com/album/3wjRvLacBAnnIi08sQwsZS) | 3:36 | 2024-05-31 | 2024-10-05 |
 | [Pop Flop](https://open.spotify.com/track/3lHgyMKkBZqgEO6GopIDOP) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2), [Le Isole](https://open.spotify.com/artist/3VyyT9XNicqDVHYU9ZBNMF) | [Pop Flop](https://open.spotify.com/album/6EGM65CsEgdBdDT4vq0lZA) | 3:27 | 2023-03-06 | 2023-05-20 |
+| [Popoli del Mare](https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE) | [Bassolino](https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx) | [Popoli del Mare](https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6) | 4:39 | 2025-08-08 |  |
 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-02-03 | 2025-04-16 |
 | [Porsche 944](https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9) | [Laurent Bardainne](https://open.spotify.com/artist/077jd0crcXmExS5nOSDhQw), [Tigre d'Eau Douce](https://open.spotify.com/artist/2J0cbdwUlJkBYkQYIDDU5k) | [Marvin](https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO) | 3:55 | 2021-10-06 |  |
 | [Prahara Api Asmara](https://open.spotify.com/track/1mzdrMhlRMt1e0JhBGKPW8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Chelsea Islan](https://open.spotify.com/artist/1etS44Dp8X7UIJKswDMNtT) | [INTONESIA O.5](https://open.spotify.com/album/71ppkU1UHX1dTRfPjW5c6L) | 5:19 | 2025-02-21 | 2025-03-21 |

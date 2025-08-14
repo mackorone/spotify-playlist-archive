@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-979 songs - 3 day 10 hr 40 min
+980 songs - 3 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [Kasmir](https://open.spotify.com/track/2stHaQ7GPKOkfM2WOeBYvr) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Kasmir](https://open.spotify.com/album/1hlBAsU7SOBpU2gN6hb1Ig) | 4:30 | 2024-05-10 | 2024-07-27 |
 | [Katoa](https://open.spotify.com/track/438xLWbd5HkLpGn2d8rl5X) | [MI.LA](https://open.spotify.com/artist/67Nx0BYJLxmenQP6Azr34H) | [Katoa](https://open.spotify.com/album/4lxbeDBHemLmKqjFTz7GIx) | 4:29 | 2022-05-24 | 2022-07-29 |
 | [Kedobi](https://open.spotify.com/track/6YYzX3QAelqBKZUaJlGnAY) | [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Kedobi](https://open.spotify.com/album/4vSiktL7qOOyYpu2pj3812) | 6:45 | 2021-04-30 | 2022-07-28 |
+| [Keep Me Close](https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Keep Me Close](https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi) | 3:17 | 2025-08-08 |  |
 | [Keya](https://open.spotify.com/track/7aWFnpijG4mmsxt3JArLPC) | [Stefan Obermaier](https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf) | [Keya](https://open.spotify.com/album/22BI3KDK331rMMJDc7gkDj) | 6:08 | 2021-05-07 | 2022-07-29 |
 | [Khuluma Nami](https://open.spotify.com/track/5FDAy3YftIopR4SzAmKnXG) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Intersexy](https://open.spotify.com/album/0sP3HEYlXpD3cJTk3g2NNm) | 4:45 | 2024-11-15 | 2025-06-01 |
 | [Kidz](https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Kidz](https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ) | 2:48 | 2024-10-25 |  |
@@ -728,7 +729,7 @@
 | [Revolution feat\. DJ Holographic](https://open.spotify.com/track/5NkGQPUlqyJox69Am1i8xn) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [DJ Holographic](https://open.spotify.com/artist/4PRhpvNBYt7YURb5VhEDox) | [The Snake Charmer EP](https://open.spotify.com/album/1xhMrG5Vxr4fF3ZjSp69jo) | 3:36 | 2023-11-03 | 2024-02-24 |
 | [Rhythm Of The Night](https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG) | [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Rhythm Of The Night](https://open.spotify.com/album/2O1mDByoHcWrsABgAvCzwU) | 3:33 | 2023-08-11 | 2024-06-29 |
 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 | 2024-06-28 | 2024-12-14 |
-| [Riga](https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Marc Werner](https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr) | [Riga](https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S) | 5:15 | 2025-01-17 |  |
+| [Riga](https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Marc Werner](https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr) | [Riga](https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S) | 5:15 | 2025-01-17 | 2025-08-14 |
 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 | 2023-08-25 | 2023-11-09 |
 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 |  |
 | [Ronaparde](https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ronaparde](https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J) | 6:57 | 2022-09-16 | 2022-10-20 |

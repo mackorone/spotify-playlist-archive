@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-167 songs - 8 hr 35 min
+168 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Policia](https://open.spotify.com/track/2xlkajdBhNjU5E3eraBTtC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:36 | 2024-01-29 |  |
 | [Policia \- Instrumental](https://open.spotify.com/track/7zKd6qkamCLT7WMsZpQklC) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 2:34 | 2024-01-29 |  |
 | [Pull Me Out](https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 2:47 | 2024-01-29 |  |
+| [Pump It Up](https://open.spotify.com/track/6lfLIn5VTnc4tON8B9ECBd) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Pump It Up](https://open.spotify.com/album/023Y4lyKXWsx8XFzqgsELA) | 2:54 | 2025-08-13 |  |
 | [Ratten](https://open.spotify.com/track/70iXOfUKkbS446lSmIojoN) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:16 | 2024-01-29 |  |
 | [Sag nicht sorry](https://open.spotify.com/track/5ibvn5zdOFkPvbszDbW9V1) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Fluss](https://open.spotify.com/album/1F46k12341LHQGIFlMjop4) | 2:26 | 2024-01-29 |  |
 | [Santa, If You're There](https://open.spotify.com/track/4NJ5o0tcV32BWQCoc3OpaW) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 3:03 | 2024-01-29 |  |

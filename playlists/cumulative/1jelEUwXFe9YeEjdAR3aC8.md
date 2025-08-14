@@ -4,7 +4,7 @@
 
 > Listen here for the best emerging British Acts across pop, alternative and more
 
-832 songs - 1 day 22 hr 23 min
+833 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [Until Now](https://open.spotify.com/track/4djT5qYz4PIcIDV6TziZhm) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Until Now](https://open.spotify.com/album/656QB1tzxNjCNtDUswWRAF) | 3:09 | 2023-03-06 | 2023-08-14 |
 | [unwanted](https://open.spotify.com/track/1uyxhXSuJEmnw1hHlsUHlu) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [unwanted](https://open.spotify.com/album/28y2SEUEj5soACCvhJumOe) | 2:38 | 2023-05-15 | 2023-07-04 |
 | [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened?](https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv) | 3:10 | 2022-07-04 | 2022-09-02 |
+| [Vampire Bat](https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Vampire Bat](https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC) | 3:26 | 2025-08-13 |  |
 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 | 2023-03-02 | 2023-04-02 |
 | [Venting to Strangers](https://open.spotify.com/track/3SnD4nBGqUk6Tqdj1HnxxA) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [Venting to Strangers](https://open.spotify.com/album/7cc6ray5Tt4NxNhtcd2jBz) | 2:32 | 2022-11-21 | 2023-05-30 |
 | [Vertigo](https://open.spotify.com/track/2MItMt0xx5iUkPh37Ulv5t) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Vertigo](https://open.spotify.com/album/5PnUWe2y4JnVjwyRoMLHVm) | 3:38 | 2022-09-18 | 2022-09-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,235 likes - 83 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,359 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 76 | [Gifts](https://open.spotify.com/track/3SVsAmi0vHwxPnylEIiQ9z) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [Gifts](https://open.spotify.com/album/2mKUBC9gEaBGeTbvVFpqKo) | 3:55 |
 | 77 | [Performer](https://open.spotify.com/track/49zR9JtOWS2XfPxEIwjZVa) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Performer](https://open.spotify.com/album/64PVMNrQQbg9juLQGEM7lu) | 2:49 |
 | 78 | [アビス](https://open.spotify.com/track/0OKoqIO4N5HGaRwj55KbAr) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [アビス](https://open.spotify.com/album/2V1kpXIUuxgr5tc2EfuXKN) | 3:09 |
-| 79 | [My Way](https://open.spotify.com/track/7lvSAzBLYQmIPCGJRRAnAu) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [My Way](https://open.spotify.com/album/2vS6xVVrQkhGrWWhwfrhTp) | 3:37 |
-| 80 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 |
-| 81 | [ACTION！](https://open.spotify.com/track/7ydifkUbDQAUlwyUayJHSE) | [八木海莉⚡️電音遊戯](https://open.spotify.com/artist/2h1lM3SKLPHkSNRv27obta), [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [ACTION！](https://open.spotify.com/album/12m09y4BvJMQPJzggEPLMq) | 3:10 |
-| 82 | [Futari Camp](https://open.spotify.com/track/2qGJOqjNKUU3NWu2UzKg4j) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Futari Camp](https://open.spotify.com/album/5L18yT8MrVrTbQ3p9KnI89) | 3:46 |
-| 83 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
+| 79 | [シャングリラ](https://open.spotify.com/track/67CFpEEWGFHGGN5QNnDfOU) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [シャングリラ](https://open.spotify.com/album/0uXsNd7F9LeqlgRvnRr3zH) | 4:24 |
+| 80 | [My Way](https://open.spotify.com/track/7lvSAzBLYQmIPCGJRRAnAu) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [My Way](https://open.spotify.com/album/2vS6xVVrQkhGrWWhwfrhTp) | 3:37 |
+| 81 | [X\_AXIS](https://open.spotify.com/track/5RTnzxXdlqzSySbdtxP6lF) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [X\_AXIS](https://open.spotify.com/album/4BIRrr3mvcNUpTCzVGkAwW) | 3:01 |
+| 82 | [ACTION！](https://open.spotify.com/track/7ydifkUbDQAUlwyUayJHSE) | [八木海莉⚡️電音遊戯](https://open.spotify.com/artist/2h1lM3SKLPHkSNRv27obta), [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [ACTION！](https://open.spotify.com/album/12m09y4BvJMQPJzggEPLMq) | 3:10 |
+| 83 | [Futari Camp](https://open.spotify.com/track/2qGJOqjNKUU3NWu2UzKg4j) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC), [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Futari Camp](https://open.spotify.com/album/5L18yT8MrVrTbQ3p9KnI89) | 3:46 |
+| 84 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 |
+| 85 | [巡星](https://open.spotify.com/track/4x1tqmXzXi8evw2vhynMzz) | [RUKI](https://open.spotify.com/artist/67QyeEMZsPwXAGAdRmcUw2) | [巡星](https://open.spotify.com/album/3b5ZkfXipCWTm4Exk53Ocf) | 4:09 |
 
 Snapshot ID: `AAAAAIwDtGitBC2KiNkjcUHT3oNpSBuw`

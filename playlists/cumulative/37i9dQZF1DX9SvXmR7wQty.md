@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Émile Bilodeau
 
-3,439 songs - 7 day 13 hr 43 min
+3,441 songs - 7 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1248,6 +1248,7 @@
 | [Honnêtement](https://open.spotify.com/track/4G1JPJckSCgksx4dsrwUAZ) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Honnêtement](https://open.spotify.com/album/4e06ndTo3GoQ2HzwkOiWMn) | 1:55 | 2025-03-28 | 2025-05-26 |
 | [Hoodie du Che](https://open.spotify.com/track/1danqk02o34nZrUadi6Dw8) | [Adib Alkhalidey](https://open.spotify.com/artist/1EwYqZHaDtS8o7lHNI172L) | [Hoodie du Che](https://open.spotify.com/album/52Y2nzPohbPOpbbMSW9q6n) | 3:40 | 2025-06-13 | 2025-06-28 |
 | [Horoscope](https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ) | [Jeremy Lachance](https://open.spotify.com/artist/5Xl6EtM9an6yOUSkRaJlfX) | [Horoscope / Cher Montréal](https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9) | 4:02 | 2023-10-06 | 2023-10-14 |
+| [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 | 2025-08-01 |  |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-08 | 2022-07-23 |
 | [Hors\-piste](https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Mauvais Joueur](https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7) | 2:37 | 2023-04-14 | 2023-04-23 |
 | [Hot Ex](https://open.spotify.com/track/6DF61bBHy11bxuSjPi47R7) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Hot Ex](https://open.spotify.com/album/1zIrU3vob6YSekbhExoN5y) | 2:38 | 2023-10-20 | 2023-10-30 |
@@ -2063,6 +2064,7 @@
 | [Mieux que rien](https://open.spotify.com/track/2ThckaIohgGpUHiG87yObp) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Mieux que rien](https://open.spotify.com/album/4t1WcLs8gT4RlqptceZk6L) | 4:49 | 2022-09-30 | 2022-10-15 |
 | [Mignon tout plein](https://open.spotify.com/track/6ndhj3a2GDg2YiS1AvBVTC) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:24 | 2024-01-26 | 2024-04-06 |
 | [miki cowboy](https://open.spotify.com/track/641fgTSsoeAYNkgR3m7HMU) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/2BMT7xu97SvpVB20ciDNFW) | 2:18 | 2025-03-07 | 2025-04-20 |
+| [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-08-01 |  |
 | [Million](https://open.spotify.com/track/4p6alDHcmLYFP9F2fym7o3) | [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Million](https://open.spotify.com/album/2JoVMQkDFadGmn29eIpOFR) | 2:22 | 2022-04-08 | 2022-04-23 |
 | [Millionnaire](https://open.spotify.com/track/2wzdnS3Iwjh0ltmZWNEZqD) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [Millionnaire](https://open.spotify.com/album/5uE3d5oUX3vlC8n875vRNw) | 2:34 | 2023-03-24 | 2023-04-09 |
 | [MILLIONS](https://open.spotify.com/track/6i41rtq4kG7KNhw7r07fV1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [MILLIONS](https://open.spotify.com/album/3kA1BrEN312GfMQqt3kJG9) | 2:50 | 2025-01-31 | 2025-02-08 |
@@ -2264,7 +2266,7 @@
 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-19 | 2022-09-03 |
 | [On danse encore](https://open.spotify.com/track/2sjPQVA7ytxbASh6ikPpI6) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 3:19 | 2024-03-29 | 2024-04-13 |
 | [ON EN REPARLERA](https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ) | [Hös Copperfield](https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LUEUR & ESPOIR](https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi) | 3:14 | 2023-12-01 | 2024-01-05 |
-| [ON FAIT LES CHOSES](https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 3:15 | 2025-05-15 |  |
+| [ON FAIT LES CHOSES](https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 3:15 | 2025-05-15 | 2025-08-14 |
 | [On L'Fait](https://open.spotify.com/track/1d15a5d3w0JBIslTS9N8Ex) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:40 | 2023-02-17 | 2023-03-04 |
 | [On My Way](https://open.spotify.com/track/2z3l5GF5En5omNXn55v60u) | [DVinyle](https://open.spotify.com/artist/5ozjuk4ZNYQ5OMv4SmnkyA) | [On My Way](https://open.spotify.com/album/6v2auLxZzPw5Tm69EGfTIr) | 3:37 | 2022-02-25 | 2022-03-12 |
 | [On n'oublie pas](https://open.spotify.com/track/4xhIungWLM2PK3nXg6dun9) | [Qualité Motel](https://open.spotify.com/artist/6GZTbbzfV1dP2hCgUcDynC), [Muzion](https://open.spotify.com/artist/35vmkZ0LneaRkK2GWe8e7h) | [On n'oublie pas](https://open.spotify.com/album/6Ma9Yk6926sk1JbuXwFmQv) | 3:43 | 2025-05-02 | 2025-05-10 |
@@ -2358,7 +2360,7 @@
 | [Parmi toutes ces lettres](https://open.spotify.com/track/2y34aoUbz62cjyL4oovJBH) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3) | [Parmi toutes ces lettres](https://open.spotify.com/album/6oL5B5fpjc9nQmZohxDfWV) | 3:06 | 2022-03-18 | 2022-04-02 |
 | [Paroles paroles](https://open.spotify.com/track/35c6c3wlxYQv8P20R4yXr2) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH), [Messmer](https://open.spotify.com/artist/3aT1GuVNq97HVkrOdEFWaH) | [Paroles paroles](https://open.spotify.com/album/7hMv5rmGdU917RIZYCukMO) | 4:21 | 2025-05-02 | 2025-05-10 |
 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 | 2022-10-21 | 2022-11-05 |
-| [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-07-25 |  |
+| [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 | 2025-07-25 | 2025-08-14 |
 | [Partir](https://open.spotify.com/track/2Zh7vAK7mqSVOrFTwKerbc) | [Brigitte Boisjoli](https://open.spotify.com/artist/2oHveiOBJleFuHBLypRrNw) | [Partir](https://open.spotify.com/album/21I1h1XV0HCUm2LiQgTIrz) | 3:07 | 2023-01-13 | 2023-01-28 |
 | [Partir](https://open.spotify.com/track/30aD43Mx2fcGrej0NzhFhi) | [Jay Trepanier](https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do) | [Partir](https://open.spotify.com/album/3mC7ToEzuT6wIkzMopZM97) | 3:16 | 2024-11-29 | 2024-12-07 |
 | [Partout](https://open.spotify.com/track/3oNNorePaplyctqDgvEvSw) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Partout](https://open.spotify.com/album/1fSyIBmSmRDMrmb0udtRRs) | 3:15 | 2022-09-09 | 2022-09-24 |

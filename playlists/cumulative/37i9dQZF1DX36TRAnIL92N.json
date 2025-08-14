@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "Drop It (Charlotte de Witte Rework)",
+        "url": "https://open.spotify.com/album/3iGB5kHsek3qr6z8ydgFfB"
+      },
+      "artists": [
+        {
+          "name": "Scoop",
+          "url": "https://open.spotify.com/artist/0Zur4QJ1dnchOrcH8HNxGS"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343536,
+      "name": "Drop It - Charlotte de Witte Rework",
+      "url": "https://open.spotify.com/track/1HLn3hITdl2Zo33y0v6mf3"
+    },
+    {
+      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
@@ -2320,7 +2342,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 275394,
       "name": "Latin Lovers - Joyhauser Remix",
       "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"

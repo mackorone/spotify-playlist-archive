@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Ed Sheeran, Jonas Brothers, Official髭男dism, ヨルシカ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,894 likes - 68 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,885 likes - 68 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 64 | [Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7) | [Kev Koko](https://open.spotify.com/artist/2WZCpsGLdNU1xENRwETylI), [Nina Roy](https://open.spotify.com/artist/2JC0TmLPoHdPqwzoKW2d4F) | [Happy Ending](https://open.spotify.com/album/6kiMn86rBK1LwjJjhlTDnl) | 3:04 |
 | 65 | [If you need me to be the villain \(Then maybe I am\)](https://open.spotify.com/track/6WiKsEPvjuCcprdv7511kJ) | [Sarina](https://open.spotify.com/artist/4QetRFFnJpfUtu0sLRaQZy) | [If you need me to be the villain \(Then maybe I am\)](https://open.spotify.com/album/0sU6PcPq7rpRexv9iVe0pa) | 4:00 |
 | 66 | [Gifts](https://open.spotify.com/track/3SVsAmi0vHwxPnylEIiQ9z) | [Kotringo](https://open.spotify.com/artist/0vCz02RulLug6oS9zzyVF0) | [Gifts](https://open.spotify.com/album/2mKUBC9gEaBGeTbvVFpqKo) | 3:55 |
-| 67 | [The End of the World \(Version for Soprano / Recomposed by Joe Hisaishi\)](https://open.spotify.com/track/2n64TO31D8SGhzCdGDgOjm) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [アーサー ケント](https://open.spotify.com/artist/6h8Wh17LrALhMQobpNc5wW), [Ella Taylor](https://open.spotify.com/artist/7Ju5JHbej5vQTwWnEVrITp), [東京混声合唱団](https://open.spotify.com/artist/1E9IMg5vqh8lwMINhH3hNG), [Future Orchestra Classics](https://open.spotify.com/artist/4GyOi02QH1N8hCivo56twa) | [Joe Hisaishi Conducts](https://open.spotify.com/album/6tI6OUuxSRZw8GAHlmhJnY) | 5:46 |
+| 67 | [The End of the World \(Version for Soprano / Recomposed by Joe Hisaishi\)](https://open.spotify.com/track/2n64TO31D8SGhzCdGDgOjm) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [アーサー ケント](https://open.spotify.com/artist/6h8Wh17LrALhMQobpNc5wW), [Ella Taylor](https://open.spotify.com/artist/64aqnu2lWOisyhUhCwUTnu), [東京混声合唱団](https://open.spotify.com/artist/1E9IMg5vqh8lwMINhH3hNG), [Future Orchestra Classics](https://open.spotify.com/artist/4GyOi02QH1N8hCivo56twa) | [Joe Hisaishi Conducts](https://open.spotify.com/album/6tI6OUuxSRZw8GAHlmhJnY) | 5:46 |
 | 68 | [C.R.E.A.M\. \(CASH RULES EVERYTHING AROUND ME\)](https://open.spotify.com/track/4D8MhjN6X8cHwSZGtLIXw8) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [C.R.E.A.M\. \(CASH RULES EVERYTHING AROUND ME\)](https://open.spotify.com/album/4Ze0FHhMNSsEGFlxZEF4Tz) | 5:30 |
 
 Snapshot ID: `AAAAAGVlyUjQtyThqawO1y/HXcH22wP6`

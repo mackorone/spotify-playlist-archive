@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Alina Eremia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,515 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,193 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 32 | [colchón sin ti](https://open.spotify.com/track/6YW0ZeVi6B1Bc8sS03ylab) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [club mariposa](https://open.spotify.com/album/2Jbhzfk6Y4ZBhJv4ePdedP) | 3:36 |
 | 33 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
 | 34 | [Tegar](https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM), [Sita Nursanti](https://open.spotify.com/artist/0pafVQFBPn1LXwdpTMSqJM) | [Tegar](https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A) | 3:18 |
-| 35 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
+| 35 | [Airday](https://open.spotify.com/track/4BklDUfBvXieQ3nK82rQTC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Airday](https://open.spotify.com/album/2tBqoniDwTJiXvDh6hMZEj) | 2:41 |
 | 36 | [In the Neon](https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [In The Neon](https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7) | 3:00 |
-| 37 | [Airday](https://open.spotify.com/track/4BklDUfBvXieQ3nK82rQTC) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [Airday](https://open.spotify.com/album/2tBqoniDwTJiXvDh6hMZEj) | 2:41 |
+| 37 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
 | 38 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
 | 39 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
 | 40 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
@@ -62,26 +62,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 52 | [Szeszélyes](https://open.spotify.com/track/7xustdyH3d9808sOKYQmWC) | [Margaret Island](https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB) | [Minden levegővétellel újra megszületünk](https://open.spotify.com/album/0ka8R5kWCdHE3awQ1AS5Qh) | 2:42 |
 | 53 | [ember NEM élhet törött lábbal](https://open.spotify.com/track/04sFAUis6DGmAR1rSOHILF) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 2:07 |
 | 54 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 |
-| 55 | [RAW](https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [RAW](https://open.spotify.com/album/2yOW0TPyll2p2PFriw7A0C) | 3:36 |
-| 56 | [Hip\-Hop](https://open.spotify.com/track/204FxPIguRWJs264WXedmK) | [Rúzsa Magdi](https://open.spotify.com/artist/2BKQHZAdIa0XciezK1qbAb) | [Ördögi Angyal](https://open.spotify.com/album/2JtzlCNPt2dtKjui0caBFh) | 3:43 |
+| 55 | [Hip\-Hop](https://open.spotify.com/track/204FxPIguRWJs264WXedmK) | [Rúzsa Magdi](https://open.spotify.com/artist/2BKQHZAdIa0XciezK1qbAb) | [Ördögi Angyal](https://open.spotify.com/album/2JtzlCNPt2dtKjui0caBFh) | 3:43 |
+| 56 | [RAW](https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [RAW](https://open.spotify.com/album/2yOW0TPyll2p2PFriw7A0C) | 3:36 |
 | 57 | [Nem hittek Lennonnak](https://open.spotify.com/track/1cFHg6kbExLzclRIdG4m3m) | [Blahalouisiana](https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP) | [Sötét villám](https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T) | 3:28 |
-| 58 | [control](https://open.spotify.com/track/5ulpPkBYYuWI3nECebDfIt) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [control](https://open.spotify.com/album/3wrlN3pFbnt6jgdjc14H1m) | 2:53 |
-| 59 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 58 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 59 | [control](https://open.spotify.com/track/5ulpPkBYYuWI3nECebDfIt) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [control](https://open.spotify.com/album/3wrlN3pFbnt6jgdjc14H1m) | 2:53 |
 | 60 | [Chasing the Dust](https://open.spotify.com/track/4UeFnKoo6dspzAON0PhoB6) | [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Chasing the Dust](https://open.spotify.com/album/3JYG0fab0J51q5bDpfVIBa) | 2:30 |
 | 61 | [V\-01C3](https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3](https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ) | 2:32 |
-| 62 | [Játsszál mással](https://open.spotify.com/track/6AJsvb1VnDyEuSQAudNauH) | [Mayberian Sanskülotts](https://open.spotify.com/artist/76NgT67VLqbEyGy4HKBhqy) | [Rekult I.](https://open.spotify.com/album/66HEMVm1tsJag4zheUXvPb) | 2:22 |
-| 63 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
-| 64 | [Doru' ca Pădurea](https://open.spotify.com/track/4rfdzFCHH1xVWVZRYh04U2) | [IOANA](https://open.spotify.com/artist/3qklIH2njhPzgNGZVIUeeX) | [I Mare De La Ioana](https://open.spotify.com/album/2WX5cgTAaFX6itwTg71ERB) | 3:03 |
-| 65 | [Toronyházak](https://open.spotify.com/track/7cBgmJg3AEKGXQ3AqMjHhJ) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:44 |
-| 66 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 |
-| 67 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
-| 68 | [whatdoiknow? \(interlude\)](https://open.spotify.com/track/55lT3hzLThs7oT2WuwWRRW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 1:21 |
-| 69 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
+| 62 | [Doru' ca Pădurea](https://open.spotify.com/track/4rfdzFCHH1xVWVZRYh04U2) | [IOANA](https://open.spotify.com/artist/3qklIH2njhPzgNGZVIUeeX) | [I Mare De La Ioana](https://open.spotify.com/album/2WX5cgTAaFX6itwTg71ERB) | 3:03 |
+| 63 | [Játsszál mással](https://open.spotify.com/track/6AJsvb1VnDyEuSQAudNauH) | [Mayberian Sanskülotts](https://open.spotify.com/artist/76NgT67VLqbEyGy4HKBhqy) | [Rekult I.](https://open.spotify.com/album/66HEMVm1tsJag4zheUXvPb) | 2:22 |
+| 64 | [Sar\-e\-Aam](https://open.spotify.com/track/66KgWIcz4xXJbOKFR0g9TY) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 6:46 |
+| 65 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 |
+| 66 | [Toronyházak](https://open.spotify.com/track/7cBgmJg3AEKGXQ3AqMjHhJ) | [TELEHOLD](https://open.spotify.com/artist/1NJkIQiWmJJFtrNFuMNrQ1) | [Éjszakai](https://open.spotify.com/album/4ZRJI3QVp81F4KP20SsITO) | 3:44 |
+| 67 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
+| 68 | [feelin' low](https://open.spotify.com/track/3JZmfYOhtnQVsBwXof3zPg) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [feelin' low](https://open.spotify.com/album/31V5sOde8BkOHvuRHSrzVq) | 2:53 |
+| 69 | [whatdoiknow? \(interlude\)](https://open.spotify.com/track/55lT3hzLThs7oT2WuwWRRW) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 1:21 |
 | 70 | [Szex](https://open.spotify.com/track/3049QcCJ593nYs2r49uV71) | [alszok](https://open.spotify.com/artist/0zkdd59mkQoDJ1pAWuafK0), [fiatal csonti](https://open.spotify.com/artist/2lJvPjCSlPBw5OA6L9TGQU) | [Szex](https://open.spotify.com/album/6NtdGbCjNkF1f0iKi6eBgz) | 2:40 |
 | 71 | [esküszöm](https://open.spotify.com/track/5YVeMDv0kzBhClqRM5Lox0) | [girlhood](https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U) | [esetek és minták](https://open.spotify.com/album/6gfo7h2cN3aqDyjZNoOsLa) | 2:03 |
 | 72 | [still mine](https://open.spotify.com/track/3fYoLZPyyIClMECnkQdV6h) | [redreverie](https://open.spotify.com/artist/262aW8wsFRAppwRzxMPShu), [T2044](https://open.spotify.com/artist/4nS8duk3gmlhjsMuy4RAJb), [Joo](https://open.spotify.com/artist/4JP2ksLQhVP5Q55IKaSVoc) | [still mine](https://open.spotify.com/album/5GDaIdNRCx1EJvJp38N04x) | 3:16 |
 | 73 | [Hamvado cigarettaveg](https://open.spotify.com/track/07OqCQlAFiWXltHTewim1n) | [Karády Katalin](https://open.spotify.com/artist/0dapLiVAvNDfkzQXhhyAZJ) | [Hungarian Retro Music / Karády Katalin, Volume 4](https://open.spotify.com/album/0RJV1HSSG7ItgDTTooQIEP) | 3:33 |
 | 74 | [Szia Fényfolt](https://open.spotify.com/track/4qYgkPfLNskAzrhzaiKAo3) | [Barkóczi Noémi](https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc) | [Mindig kések, de hozzád jókor indultam](https://open.spotify.com/album/4XJfMiki4pUhzMAMsG9yDn) | 4:53 |
-| 75 | [Emésztőenzim \- Live at Nyúl](https://open.spotify.com/track/46i4ODEr4JNvmxkKqKSF7A) | [Noémo](https://open.spotify.com/artist/7bqH8KR1veILd32ZGJkbwC) | [Live at Nyúl](https://open.spotify.com/album/7506JqqAzsGJfza0Ottvka) | 3:27 |
+| 75 | [Forgószél](https://open.spotify.com/track/06OeIucohzd2Rpga5x5l1p) | [Törőcsik Kristóf](https://open.spotify.com/artist/3U5uVFWteCLoiynKMs3MSM), [Végh Janka](https://open.spotify.com/artist/6kbB0irTQJC0AOkmNbhYub) | [Forgószél](https://open.spotify.com/album/0sDviTdBGe0XQL5GDlsE6j) | 2:54 |
 
 Snapshot ID: `AAAAACJW0guZXP7P7/QBYmrIX7qyJWzx`

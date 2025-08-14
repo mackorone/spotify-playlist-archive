@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,560 likes - 94 songs - 4 hr 2 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,540 likes - 95 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 92 | [Miss The Way](https://open.spotify.com/track/43YUXe0cscj0tGOELIWDMs) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Miss The Way](https://open.spotify.com/album/3E8gGlKpQfni1NOjZrY4tw) | 2:21 |
 | 93 | [Where Are You Now](https://open.spotify.com/track/5TKUi0iE41RHwRztvupYlK) | [EMOCA](https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Where Are You Now](https://open.spotify.com/album/5xQzkvqkGV4NRBj2iZlYfQ) | 2:11 |
 | 94 | [Pumped Up Kicks](https://open.spotify.com/track/4tx8AjduPKv5Xtnx3PI0Hv) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Pumped Up Kicks](https://open.spotify.com/album/7di21rP5vSCSxXltTmzWDa) | 2:09 |
+| 95 | [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 |
 
-Snapshot ID: `AAAgw5V6B+ANnYpU+MtwQRJiPDQLfGGx`
+Snapshot ID: `AAAgxOet4Xc8rNMvRFxWLEZYgENv6mRu`

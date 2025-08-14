@@ -4,7 +4,7 @@
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-104 songs - 7 hr 51 min
+105 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [From You](https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 3:30 | 2022-10-13 |  |
 | [Get Thy Bearings \(feat\. Szjerdene\)](https://open.spotify.com/track/6tqAkUVWAjqTzT363IzgCw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Szjerdene](https://open.spotify.com/artist/5WcgyMkdfILvNCPTavIINv) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 3:05 | 2022-01-15 | 2022-10-26 |
 | [Ghost Ship](https://open.spotify.com/track/3gegbtYGClUcA05vbmI2z5) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands Remixed](https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v) | 4:20 | 2022-04-13 |  |
-| [Give You Up \(with Bonobo\)](https://open.spotify.com/track/5YiO7auFh7Bqc6Dfwm45ZY) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Baby, Hold Me](https://open.spotify.com/album/0sURyPJQKjQKeWqWZ8i5AH) | 3:31 | 2025-07-11 |  |
+| [Give You Up \(with Bonobo\)](https://open.spotify.com/track/5YiO7auFh7Bqc6Dfwm45ZY) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Baby, Hold Me](https://open.spotify.com/album/0sURyPJQKjQKeWqWZ8i5AH) | 3:31 | 2025-07-11 | 2025-08-14 |
 | [Give You Up \(with Bonobo\)](https://open.spotify.com/track/6nHyl6VrB9Kx2TTzmc3eEU) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Baby, Hold Me](https://open.spotify.com/album/4lmYvL9x70z2FbjQjUwo5B) | 3:31 | 2025-06-22 | 2025-07-11 |
+| [Give You Up \(with Bonobo\) \- Flaurese Remix](https://open.spotify.com/track/6oaAY4J8seGCDRkjCYaMKm) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Baby, Hold Me \(Remixes\)](https://open.spotify.com/album/12bSqNELb5yvv0auLO9iXJ) | 3:28 | 2025-08-14 |  |
 | [Grains](https://open.spotify.com/track/0f3G1ecfRIffW1qhQt1lEG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:28 | 2022-01-20 | 2022-03-08 |
 | [Heartbreak](https://open.spotify.com/track/4b6WRfxJRY40RBpl3TMQVq) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Heartbreak](https://open.spotify.com/album/41oY7hIc9CdA5FtWQVyFAU) | 4:25 | 2022-01-15 |  |
 | [Heaven For The Sinner](https://open.spotify.com/track/6t7SsmMEWNNJaFEpIjrYop) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:09 | 2022-01-20 | 2024-05-19 |

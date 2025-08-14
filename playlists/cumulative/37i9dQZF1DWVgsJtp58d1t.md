@@ -4,7 +4,7 @@
 
 > The best in Black music! Click on the feed to see what's going on in the world of Afro R&B.
 
-5,064 songs - 10 day 16 hr 44 min
+5,065 songs - 10 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2611,6 +2611,7 @@
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-02-17 | 2024-02-03 |
 | [Louisiana](https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Louisiana](https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm) | 2:47 | 2023-09-01 | 2023-09-09 |
 | [Love](https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Medea](https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM) | 2:36 | 2024-04-05 | 2024-04-13 |
+| [Love](https://open.spotify.com/track/3z0fCC3V6mwgCqdXKvTWQD) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love](https://open.spotify.com/album/1qoiQ3WIvm3he1kNqEgFsl) | 2:56 | 2025-08-13 |  |
 | [Love & Drugs, Pt\. 2](https://open.spotify.com/track/54GcqOz1HmpxnZKHQCMmXZ) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [21](https://open.spotify.com/album/54I41sOZkTk2HMbFx5ADWR) | 3:00 | 2022-10-28 | 2022-11-19 |
 | [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 | 2024-11-15 | 2024-11-23 |
 | [Love Again](https://open.spotify.com/track/6ZwNOYjJ06J77YF1ggXtaT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 2:34 | 2022-04-01 | 2022-05-07 |

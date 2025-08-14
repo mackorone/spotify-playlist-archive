@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Marlon Hoffstadt & KI/KI
 
-146 songs - 7 hr 18 min
+147 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Don't Let Me Drown](https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:05 | 2025-07-17 | 2025-08-07 |
 | [Don't You Want My Love](https://open.spotify.com/track/3hQ18r26uEFyUMjWL5OUiF) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Don't You Want My Love](https://open.spotify.com/album/7bHOgHyrQ7N7Os1uJWBVtP) | 4:18 | 2025-07-17 |  |
 | [Drugs I Like](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Drugs I Like](https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg) | 3:18 | 2025-07-17 |  |
+| [Drum's Dance](https://open.spotify.com/track/6MFd1j72QFianNyQlvBzcE) | [Benwal](https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl), [Freddi](https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR) | [Bendi](https://open.spotify.com/album/3MyKmKk8IvDH6orgNbpxik) | 3:15 | 2025-08-13 |  |
 | [Echoes](https://open.spotify.com/track/5jREkzTKl3oann1WPDCpPH) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [Echoes](https://open.spotify.com/album/3ZpvU5Y6F5zLoSPatKT6ih) | 2:07 | 2025-07-17 |  |
 | [En El Alma](https://open.spotify.com/track/1dKgKHVQbzRhli8w8CyhfY) | [MEDITERANE](https://open.spotify.com/artist/4vR71H3X6ElW2XnP6Ggwhq) | [En El Alma](https://open.spotify.com/album/7CdzaH04OIHp6TMYYMy7NE) | 3:19 | 2025-07-17 |  |
 | [Everlight](https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Everlight](https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6) | 2:47 | 2025-07-17 | 2025-08-07 |
@@ -148,7 +149,7 @@
 | [V.I.P.](https://open.spotify.com/track/6CMGOiWxIAcVKIoJPsywpD) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [V.I.P.](https://open.spotify.com/album/5503U1EhU6KsnH4lzX584T) | 2:33 | 2025-07-17 |  |
 | [Vibration](https://open.spotify.com/track/2XDcMSaXSlXKtQLF5E45N1) | [Armando Martinez](https://open.spotify.com/artist/5qjYRdvFJgnx6zGjOsBst3) | [Vibration](https://open.spotify.com/album/3GDTnkcgIrBOA1HZvdqb6Y) | 4:01 | 2025-08-07 |  |
 | [Waiting For You](https://open.spotify.com/track/0cbVvntzFLNcMEMUagrNzU) | [HATO](https://open.spotify.com/artist/5Riqx3AaUzngHRUXOcQ9tu), [Mark Vayne](https://open.spotify.com/artist/0ISUKgiBjQ63VbyoIHfD3F) | [Waiting For You](https://open.spotify.com/album/0zztAKGY6iFfnFAxZLtEqw) | 2:30 | 2025-08-07 |  |
-| [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 | 2025-08-04 |  |
+| [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 | 2025-08-04 | 2025-08-14 |
 | [Wanna Go](https://open.spotify.com/track/6ODO4ssQWB5bD7HXVGDbxW) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Wanna Go](https://open.spotify.com/album/3tQDsQ6PVjpMOyuzKtXLzF) | 3:38 | 2025-08-07 |  |
 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-08-07 |  |
 | [What You've Done](https://open.spotify.com/track/0gpEMBnI9bV6XUeVhQV2z1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Felixx](https://open.spotify.com/artist/0XC9No7W96qmxh2AweFsjQ), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [What You've Done](https://open.spotify.com/album/5sq3pYe4geR9UybicHvPNw) | 2:08 | 2025-08-07 |  |

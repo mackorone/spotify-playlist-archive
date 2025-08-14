@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,135 songs - 5 day 12 hr 17 min
+2,137 songs - 5 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1461,6 +1461,7 @@
 | [シャドウボクサー](https://open.spotify.com/track/6xUK2D8MbFsMCmwtWAQ4HN) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャドウボクサー](https://open.spotify.com/album/1TnGuOJjTwoqDqDcAAdc7c) | 4:13 | 2024-03-19 | 2024-04-19 |
 | [シャボン・テンション！](https://open.spotify.com/track/4P6eX4ACXzaDc00stg7dRX) | [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [シャボン・テンション！](https://open.spotify.com/album/2NPOxXkOOCS0REasJBqV7e) | 3:32 | 2025-04-22 | 2025-04-30 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 | 2022-10-14 |
+| [シャングリラ](https://open.spotify.com/track/67CFpEEWGFHGGN5QNnDfOU) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [シャングリラ](https://open.spotify.com/album/0uXsNd7F9LeqlgRvnRr3zH) | 4:24 | 2025-08-12 |  |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 | 2023-12-27 |
 | [シュガー・シュガー・スパイス](https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [シュガー・シュガー・スパイス](https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO) | 3:56 | 2022-10-27 | 2022-11-25 |
 | [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-08 | 2023-09-25 |
@@ -1831,6 +1832,7 @@
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-05-28 | 2022-07-13 |
 | [少年](https://open.spotify.com/track/0I7AJQyPBc1Lv9T85ifjgF) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC) | [少年](https://open.spotify.com/album/6ZMc2g16yjGQ5DxEsI7lVg) | 3:54 | 2024-10-08 | 2025-01-08 |
 | [島人ぬ宝](https://open.spotify.com/track/6dL8NuFHNta7HB6faNzUkE) | [ひーなー\(CV.鬼頭明里\)](https://open.spotify.com/artist/2sLgcsB91sV4RpYrUWBY53), [かーなー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/16zEQFZFTlfzyceqwJ1Ccy) | [「沖縄で好きになった子が方言すぎてツラすぎる」エンディングテーマ「島人ぬ宝」](https://open.spotify.com/album/7dRqXcduEl3oiUazuKuXv5) | 4:17 | 2025-01-07 | 2025-01-22 |
+| [巡星](https://open.spotify.com/track/4x1tqmXzXi8evw2vhynMzz) | [RUKI](https://open.spotify.com/artist/67QyeEMZsPwXAGAdRmcUw2) | [巡星](https://open.spotify.com/album/3b5ZkfXipCWTm4Exk53Ocf) | 4:09 | 2025-08-12 |  |
 | [希望の声](https://open.spotify.com/track/0BngQzqA4SQbcdZYy88BqB) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [Anela](https://open.spotify.com/artist/1BeVYVAzCorZ52aPMereYt) | [希望の声](https://open.spotify.com/album/5NAgL68RJr4Ribm5Okzu90) | 4:09 | 2023-02-21 | 2023-03-01 |
 | [常識外れヒューマン](https://open.spotify.com/track/4IsIln6tmEE4S2xYHf9n63) | [前田佳織里](https://open.spotify.com/artist/5ooX6UO1AbsI7EdnrRhUjh) | [常識外れヒューマン](https://open.spotify.com/album/2oZ1BGJGyiUZ9M0Qqvypos) | 3:41 | 2024-04-18 | 2024-06-13 |
 | [幸せ](https://open.spotify.com/track/3IYDobDC8polFRhtc4ROzA) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幸せ](https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV) | 4:20 | 2023-07-04 | 2023-10-06 |

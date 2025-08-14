@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -126,6 +144,32 @@
       "duration_ms": 134521,
       "name": "5 Meter Mauern (aus \"The Voice of Germany 2023\") - Live",
       "url": "https://open.spotify.com/track/2kMLXLXuqdoXFRMLTQYkrW"
+    },
+    {
+      "album": {
+        "name": "99 Sorgen",
+        "url": "https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX"
+      },
+      "artists": [
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "ana\u00efs",
+          "url": "https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158746,
+      "name": "99 Sorgen",
+      "url": "https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1"
     },
     {
       "album": {
@@ -1874,7 +1918,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 189090,
       "name": "Girl of Your Dreams",
       "url": "https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd"
@@ -5990,7 +6034,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 164487,
       "name": "wundersch\u00f6n",
       "url": "https://open.spotify.com/track/2Bi7IhhjS7ZgzSe7FMaHs1"

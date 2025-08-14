@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 공기남\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-597 songs - 1 day 11 hr 14 min
+598 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Love U \(feat\. J\_ust\)](https://open.spotify.com/track/4Umuqgh54N3EsC9G1ChxVc) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK), [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Daily](https://open.spotify.com/album/5r4renU9S9JbftT1CC8IfV) | 4:22 | 2022-01-13 | 2022-07-09 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-12 |
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-04-12 |  |
-| [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 |  |
+| [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 | 2025-08-14 |
 | [lueur](https://open.spotify.com/track/2C74IomQPvdPBkMXyGGbiW) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [souhait](https://open.spotify.com/album/5gikxLdFWi2K2hpVlhseXE) | 4:22 | 2025-05-28 | 2025-06-14 |
 | [Making Memories](https://open.spotify.com/track/6WhLfYQ0pPKOVPBLE0B99M) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [the late Kim Hyun\-sik's 30th Anniversary Memorial Album "Making Memories" Part 4](https://open.spotify.com/album/7wU4uoS5zUzkQeXe10sxI3) | 4:28 | 2022-03-31 | 2022-04-21 |
 | [Malibu Orange](https://open.spotify.com/track/2mFRIZpQVeTRLDIuspIj66) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [Malibu Orange](https://open.spotify.com/album/5IwfAOlbbLtXQeYsd74Ds4) | 2:22 | 2022-04-12 | 2022-04-15 |
@@ -534,6 +534,7 @@
 | [when the dawn comes](https://open.spotify.com/track/2tscQs2pvCjOUwJM9FNwD5) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [when the dawn comes](https://open.spotify.com/album/3NJP5JyWrfAYiTEseYvyrm) | 3:11 | 2024-02-07 | 2024-03-07 |
 | [When The Violets Bloom](https://open.spotify.com/track/0xkcVMY9UtGIJdrfKXrJ8J) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [When The Violets Bloom](https://open.spotify.com/album/6ZOsvgDaX45IYl7xmaMGf6) | 3:18 | 2022-05-02 | 2022-05-12 |
 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 | 2021-12-10 |  |
+| [When the World Sleeps](https://open.spotify.com/track/5QG2oaaLqR3SO9EgWKrBPE) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [When the World Sleeps](https://open.spotify.com/album/1asK5482jnmpbHtelSbSED) | 4:42 | 2025-08-13 |  |
 | [Where Are We Now \- Acoustic Version](https://open.spotify.com/track/3NZn88t5LgPZBwbyJ4giZz) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Where Are We Now \(Acoustic Version\)](https://open.spotify.com/album/5t9eXUyQ0SSFMqf7Bfcqk9) | 3:35 | 2022-03-31 | 2022-04-09 |
 | [Where are you?](https://open.spotify.com/track/7eDhlnVZiPzlNHjJEVCXJv) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [My first love OST Part.2](https://open.spotify.com/album/6T7PZRVu0p5keqNzbqtPSC) | 3:04 | 2022-04-12 | 2022-04-19 |
 | [Where sorrow has passed​](https://open.spotify.com/track/5h7Ld6izDn1kWQ1I6fd6ts) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Where sorrow has passed​](https://open.spotify.com/album/5BhXBiqABWj3rqtVD0qqs5) | 4:07 | 2022-12-20 | 2023-01-04 |

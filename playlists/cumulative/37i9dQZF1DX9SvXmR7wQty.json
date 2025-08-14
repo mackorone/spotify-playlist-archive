@@ -24389,6 +24389,24 @@
     },
     {
       "album": {
+        "name": "Hors du temps",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173887,
+      "name": "Hors du temps",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
+    },
+    {
+      "album": {
         "name": "Hors Piste",
         "url": "https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj"
       },
@@ -40111,6 +40129,24 @@
     },
     {
       "album": {
+        "name": "Mille vagues",
+        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303106,
+      "name": "Mille vagues",
+      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
+    },
+    {
+      "album": {
         "name": "Million",
         "url": "https://open.spotify.com/album/2JoVMQkDFadGmn29eIpOFR"
       },
@@ -44076,7 +44112,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 195906,
       "name": "ON FAIT LES CHOSES",
       "url": "https://open.spotify.com/track/2nZjmURwYf4eSsfkmFB4co"
@@ -45924,7 +45960,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 179560,
       "name": "particule",
       "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"

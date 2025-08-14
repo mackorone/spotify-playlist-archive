@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-368 songs - 20 hr 36 min
+370 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [a light that never goes out](https://open.spotify.com/track/16KiobHbqG3OtzyOzaqnnD) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [flora](https://open.spotify.com/album/3h36BxuaGETNQ9uCmfIrgo) | 2:37 | 2025-07-15 |  |
 | [A Lotus Life](https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [A Lotus Life](https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX) | 3:10 | 2025-01-14 |  |
 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 | 2021-12-09 |  |
+| [a reminder](https://open.spotify.com/track/24dRz9Dy6RgOlkjn0foM3Q) | [campo](https://open.spotify.com/artist/5txsKElFcU2Pen2ySNlcaq) | [a reminder](https://open.spotify.com/album/7wVI6KGJ0RAOkRpRXnTOZw) | 3:09 | 2025-07-15 |  |
 | [A Rising Wind \(Instrumental\)](https://open.spotify.com/track/6jC0JJ43NqpbBgY1mf5uZ9) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Ayres \(Instrumental Version\)](https://open.spotify.com/album/65XygvtsffoLGK7w9PtUQK) | 4:49 | 2021-01-15 | 2025-05-15 |
 | [A Spark, A Beginning](https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [A Spark, A Beginning / Proceed](https://open.spotify.com/album/31Tn4wkibL8c8EULYjmbNA) | 2:25 | 2020-12-08\* |  |
 | [Aberdeen](https://open.spotify.com/track/2Wy7h9LuSEmhapUh3RWrC2) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Aberdeen](https://open.spotify.com/album/3CLyLs90ir4VUkYlyFDg6B) | 3:16 | 2021-04-15 | 2021-05-27 |
@@ -37,7 +38,7 @@
 | [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 | 2025-05-24 |
 | [Andromeda](https://open.spotify.com/track/3ILiff34ZwEKw1mrVG4D6D) | [Azulina](https://open.spotify.com/artist/0O6nRPrw4sAbf4bgukqNNa) | [Nebuleuses](https://open.spotify.com/album/2pZfWVip25OGJeQAx5CBT2) | 2:37 | 2020-12-08\* | 2021-03-18 |
 | [Andromeda](https://open.spotify.com/track/57lzy4rzWaqaFfTMw8y0cJ) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Electric Pulses](https://open.spotify.com/album/74SSquwi9PTn3HJ52LkHKM) | 3:16 | 2023-04-17 |  |
-| [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 |  |
+| [Angelus](https://open.spotify.com/track/1oYc7762RLlwGXpVtUh3Bf) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Angelus](https://open.spotify.com/album/2x9SoHtnhVlqSs8MwnkUBP) | 2:22 | 2022-10-14 | 2025-08-14 |
 | [Another Day \(revised\)](https://open.spotify.com/track/114gL99tniO1ocR4gyukNX) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/0cN366vmPQoH0cepgK7CUZ) | 4:21 | 2020-12-08\* | 2022-07-29 |
 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 | 2022-07-22 | 2024-04-19 |
 | [Antennae](https://open.spotify.com/track/3P7a523ZweyG0V97exR3OT) | [Lumious Dreamer](https://open.spotify.com/artist/7oZwy1TQhQidpCUTLsPd98) | [Antennae](https://open.spotify.com/album/0e0jmCeOYj542Untm7XqWN) | 2:40 | 2024-03-07 |  |
@@ -178,7 +179,7 @@
 | [inflight view](https://open.spotify.com/track/0AQEnTwiXGUTMUHNBsOJFJ) | [Lukas Klika](https://open.spotify.com/artist/30dGtOLUkxJYNFQ5pZBb6j) | [inflight view](https://open.spotify.com/album/14I13nspqsRuft5vKtSbTb) | 3:40 | 2021-11-13 | 2024-06-17 |
 | [Insightful](https://open.spotify.com/track/0NlByUffMwnOmFjoGgJNCs) | [Noah Florence](https://open.spotify.com/artist/6jzQUeRZexHKG2fjsCpmi6) | [Insightful](https://open.spotify.com/album/06gZhh1yRVqsA3E6By30MH) | 2:45 | 2024-03-07 |  |
 | [Intermission](https://open.spotify.com/track/6BXlFjJouW6ugTjeORRYHm) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [Breaking Point](https://open.spotify.com/album/56BmBSGXSbAQ0OtXqNc5UE) | 3:44 | 2020-12-08\* | 2021-05-27 |
-| [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 | 2022-08-23 |  |
+| [Intervention](https://open.spotify.com/track/5G0AX3BgFw0VuJLqREvDaj) | [Danoa](https://open.spotify.com/artist/2VD5PP13OpMEyul7NfnLa2) | [Intervention](https://open.spotify.com/album/4WOSUbDE6IvXOrzMryAY62) | 2:55 | 2022-08-23 | 2025-08-14 |
 | [Into The Light](https://open.spotify.com/track/1qNDx2ajmcECC1mVzJl3oO) | [Vígi Seaghdh](https://open.spotify.com/artist/1fuodmtnFQEX05Pbf3rPBm) | [Into The Light](https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE) | 3:24 | 2024-02-16 |  |
 | [Into The Sea](https://open.spotify.com/track/5JhhawSlXCSYcu48LafOIn) | [Port Blue](https://open.spotify.com/artist/5YIHh4jZTLeCFsqCcrUQQY) | [The Albatross EP](https://open.spotify.com/album/7bW6ltN8Z9FWMeyBBwZ24H) | 2:22 | 2020-12-25 | 2024-11-15 |
 | [Island Rain](https://open.spotify.com/track/3kyTnVMy1jkuIi72RFSprb) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 2:48 | 2020-12-08\* | 2021-05-27 |
@@ -326,6 +327,7 @@
 | [The First Surface](https://open.spotify.com/track/0GUxlhUfZhTKXtuYPSm7Ha) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/5HqxbKNC2NdtKagRP7MXxU) | 5:36 | 2020-12-08\* | 2022-07-29 |
 | [The First Surface](https://open.spotify.com/track/0ZvqgR8luDK3T5fZxkImGF) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Japanese for Beginners](https://open.spotify.com/album/4mZmSV8geRn4gpbdxrTfwV) | 5:36 | 2022-07-22 | 2022-10-14 |
 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 | 2020-12-08\* | 2021-03-18 |
+| [The Flow in Us](https://open.spotify.com/track/1BYFtfMHwRzYG5mxyPVZUH) | [AuraLoom](https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV) | [The Flow in Us](https://open.spotify.com/album/7BH8ExlisgrjJRSYYKdwlj) | 2:54 | 2025-07-15 |  |
 | [the long way home](https://open.spotify.com/track/1gRgYigye8TN8lvTZqsy6T) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [the long way home](https://open.spotify.com/album/3mK1UAfpzst5GhoHCF5Z6e) | 2:00 | 2025-07-15 |  |
 | [The Mist](https://open.spotify.com/track/7A087XKnj9LRqRgR5qzKQw) | [Milo Mariam](https://open.spotify.com/artist/68lsEBWe04lPdYWwx3zjFe) | [Singularity](https://open.spotify.com/album/0GGeGvVF9DedbmSBec0n7n) | 2:53 | 2021-09-30 |  |
 | [The Queen of All Everything](https://open.spotify.com/track/6HJH2v5BIqpKW34nsLV1O7) | [Ott](https://open.spotify.com/artist/1F102kNzMqsmOpF7AfFmm5) | [Skylon](https://open.spotify.com/album/60PDbOYjrrWtanyMSWQamA) | 7:52 | 2021-01-15 | 2021-02-20 |

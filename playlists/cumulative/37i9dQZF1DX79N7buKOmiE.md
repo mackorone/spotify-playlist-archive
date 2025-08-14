@@ -4,7 +4,7 @@
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat! Cover: laurie.
 
-265 songs - 13 hr 58 min
+266 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Varacskos Álmok](https://open.spotify.com/track/4IHsZsWinOHs7nR4KgWYJX) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Mixát EP](https://open.spotify.com/album/2Vi8goRDK6ffjl6piULB8B) | 3:04 | 2025-06-03 |  |
 | [VESZÉLYZÓNA](https://open.spotify.com/track/4VQkKZyWgMe9WbhxgayWuP) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [VESZÉLYZÓNA](https://open.spotify.com/album/0oQVbUIcdVCBXg2kZcsTO1) | 3:23 | 2024-11-05 | 2024-12-05 |
 | [Virágot Kamillnak](https://open.spotify.com/track/01XM5WrxO2FwifcaSDwiTz) | [Csalogány](https://open.spotify.com/artist/4dbVQe0w9N1h3nO3dUiWF6) | [Holdfázis](https://open.spotify.com/album/3u0U6IUcySqLKdNO8uReft) | 10:30 | 2025-04-01 | 2025-07-02 |
+| [Vision](https://open.spotify.com/track/3iet8NSu6S6ZbSTS8EMUsC) | [Julia Mandoki](https://open.spotify.com/artist/6AlnyvngKEFg1hVQ6Pl8vR) | [Vision](https://open.spotify.com/album/1wH2O2N6a7Z24QIYvu4Tej) | 4:21 | 2025-08-13 |  |
 | [Várni rád](https://open.spotify.com/track/0qv26c4EjaErcHkobcRxYf) | [Nagy Bogi](https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM) | [Rendetlenség remekműve](https://open.spotify.com/album/4DPyaihwZ6lkKbcIKaO2rx) | 2:42 | 2024-12-04 | 2025-01-08 |
 | [Víz fölé](https://open.spotify.com/track/78xj27l9NqvSQZp6E5Puff) | [Fluidia](https://open.spotify.com/artist/6ORKVNt3KGpnWTVV71BKa8), [Netti](https://open.spotify.com/artist/3t96zoYYZqBEObglRjUDoV) | [Víz fölé](https://open.spotify.com/album/3Df7WKoZcUyfjOYWyHvax7) | 4:15 | 2024-10-02 | 2024-12-05 |
 | [where's my relief](https://open.spotify.com/track/1CxyE6BoNWUumoqOGqvSM8) | [fllozz](https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9) | [where's my relief](https://open.spotify.com/album/1mq7GMbOJ7ekxhWa0FhZhA) | 2:57 | 2025-03-04 | 2025-05-07 |

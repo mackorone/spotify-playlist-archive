@@ -4,7 +4,7 @@
 
 > A perfect link up to soundtrack your day\. Cover: Tiwa Savage, Skepta
 
-604 songs - 1 day 7 hr 22 min
+605 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Flex](https://open.spotify.com/track/1WeMPzsUffoiydBQaC8Iky) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Flex](https://open.spotify.com/album/6Y8Go6Klw5kNLe78fvlyeV) | 3:07 | 2021-12-20 | 2022-07-21 |
 | [Focus](https://open.spotify.com/track/6HidGH3rmgyk47386l4p37) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko) | 2:32 | 2021-12-20 | 2022-03-12 |
 | [Fool for You](https://open.spotify.com/track/4NgVqQZ9T6Vby01CGoEiuw) | [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Fool for You](https://open.spotify.com/album/4ni6gTvC8Ec3gLD1KemBoi) | 2:15 | 2021-12-20 | 2022-07-20 |
+| [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-07 |  |
 | [For Me](https://open.spotify.com/track/6LVKTrXpVtaEhUF5KDFVaA) | [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [For Me](https://open.spotify.com/album/5VmXCn8kqqeWkA5TarkaEf) | 2:40 | 2021-12-20 | 2022-05-23 |
 | [Foreign](https://open.spotify.com/track/0kRm8zsYvR7OwuS6WosMW9) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Foreign](https://open.spotify.com/album/3zpmrSrXjutTncIdJ7v4Hx) | 2:49 | 2021-12-20 | 2022-06-05 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-28 | 2022-07-29 |
@@ -513,7 +514,7 @@
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2021-12-20 | 2022-06-30 |
 | [Something](https://open.spotify.com/track/3Es8kVPEiy27OxUXc74woR) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 3:01 | 2021-12-20 | 2022-03-04 |
 | [Sore \- Remix](https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Sore \(Remix\)](https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc) | 4:26 | 2021-12-20 | 2022-01-23 |
-| [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 | 2024-12-06 |  |
+| [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 | 2024-12-06 | 2025-08-14 |
 | [Soundgasm](https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n) | 3:24 | 2021-12-20 | 2024-08-06 |
 | [Special Nani](https://open.spotify.com/track/3iSYVnG8xjptkVVHKMnEB2) | [T MULLA](https://open.spotify.com/artist/0yIMlboJ6DHovv1cKPVptn) | [Special Nani](https://open.spotify.com/album/5vTQ41AZVRdVqANAHootts) | 2:15 | 2022-02-11 | 2022-07-15 |
 | [Sponono](https://open.spotify.com/track/6V06P7LboO5FaYi13nQANw) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5MERmRjWVHcj7PoQ4MHdIa) | 6:35 | 2021-12-20 | 2022-07-18 |

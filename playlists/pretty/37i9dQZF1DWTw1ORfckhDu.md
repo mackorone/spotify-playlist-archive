@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa ibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,030 likes - 63 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,028 likes - 63 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

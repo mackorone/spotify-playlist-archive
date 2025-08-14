@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: IDLES",
-  "num_followers": 471174,
+  "num_followers": 471195,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "Stepper",
-        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 196748,
-      "name": "Stepper",
-      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "Supermodels",
         "url": "https://open.spotify.com/album/0M7xdz5lQAD65XiahtuUPO"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 198367,
       "name": "Supermodels",
       "url": "https://open.spotify.com/track/2JFmXR9RMrZ864QAaZp1qy"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "stone cold summer",
-        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 167829,
-      "name": "stone cold summer",
-      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
       },
@@ -451,18 +435,34 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+        "name": "End Eric Sparrow and the Life of Him",
+        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 403520,
-      "name": "LOOK OUT FOR ME",
-      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
+      "duration_ms": 169000,
+      "name": "End Eric Sparrow and the Life of Him",
+      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "stone cold summer",
+        "url": "https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 167829,
+      "name": "stone cold summer",
+      "url": "https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "End Eric Sparrow and the Life of Him",
-        "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
       },
       "artists": [
         {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 169000,
-      "name": "End Eric Sparrow and the Life of Him",
-      "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "I Want To Disappear",
-        "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 130664,
-      "name": "Watch You Go",
-      "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "Circulate",
         "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
+        "name": "I Want To Disappear",
+        "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 130664,
+      "name": "Watch You Go",
+      "url": "https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
         "name": "By The Way",
         "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 172205,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
-        "name": "Negative Spaces",
-        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "negative spaces",
-      "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -671,6 +655,22 @@
       "duration_ms": 186727,
       "name": "Pray To That",
       "url": "https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "Negative Spaces",
+        "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "negative spaces",
+      "url": "https://open.spotify.com/track/3SowkNXvDoTa2qhqmYB3SZ"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "The New Chaos",
         "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 117263,
       "name": "Jinx",
       "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
-        "url": "https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ"
-      },
-      "artists": [
-        {
-          "name": "The Armed",
-          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "I Steal What I Want",
-      "url": "https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "SLEEP WHEN I'M DEAD",
         "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 146677,
       "name": "SLEEP WHEN I'M DEAD",
       "url": "https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED",
+        "url": "https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "I Steal What I Want",
+      "url": "https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
-      },
-      "artists": [
-        {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
-        }
-      ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "Pretty Good To Feel Something",
         "url": "https://open.spotify.com/album/1cPLGYaAsxln3s6UgpboQw"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-07-31 23:00:10",
       "album": {
-        "name": "Sharp Teeth",
-        "url": "https://open.spotify.com/album/0qIkzuUEJlCO0eCXTk8wGH"
-      },
-      "artists": [
-        {
-          "name": "The Armed",
-          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
-        }
-      ],
-      "duration_ms": 154857,
-      "name": "Sharp Teeth",
-      "url": "https://open.spotify.com/track/1GkQDxx88mdMSbAx37Kumh"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
         "name": "Mirror Muscles",
         "url": "https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG"
       },
@@ -1251,6 +1235,38 @@
       "duration_ms": 174000,
       "name": "Beg For More",
       "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "Sharp Teeth",
+        "url": "https://open.spotify.com/album/0qIkzuUEJlCO0eCXTk8wGH"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 154857,
+      "name": "Sharp Teeth",
+      "url": "https://open.spotify.com/track/1GkQDxx88mdMSbAx37Kumh"
+    },
+    {
+      "added_at": "2025-07-31 23:00:10",
+      "album": {
+        "name": "Fascist Bob",
+        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "duration_ms": 116240,
+      "name": "Fascist Bob",
+      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     },
     {
       "added_at": "2025-07-31 23:00:10",
@@ -1299,22 +1315,6 @@
       "duration_ms": 199866,
       "name": "GROWING UP ON THE INTERNET",
       "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
-    },
-    {
-      "added_at": "2025-07-31 23:00:10",
-      "album": {
-        "name": "Fascist Bob",
-        "url": "https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL"
-      },
-      "artists": [
-        {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
-        }
-      ],
-      "duration_ms": 116240,
-      "name": "Fascist Bob",
-      "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
     }
   ],
   "unique_name": "Today's Punk",

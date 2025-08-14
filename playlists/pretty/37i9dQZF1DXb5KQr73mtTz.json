@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 19647,
+  "num_followers": 19657,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-08-11 05:51:13",
       "album": {
-        "name": "No Longer Human",
-        "url": "https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Sonny Zero",
-          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "No Longer Human (feat. Sonny Zero)",
-      "url": "https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN"
-    },
-    {
-      "added_at": "2025-08-11 05:51:13",
-      "album": {
         "name": "long to be the garden",
         "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
+    },
+    {
+      "added_at": "2025-08-11 05:51:13",
+      "album": {
+        "name": "No Longer Human",
+        "url": "https://open.spotify.com/album/3a0LsOTERa9WRzHUD8KVhv"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Sonny Zero",
+          "url": "https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe"
+        }
+      ],
+      "duration_ms": 200428,
+      "name": "No Longer Human (feat. Sonny Zero)",
+      "url": "https://open.spotify.com/track/5Gez0iCghDCzBApeyicHaN"
     },
     {
       "added_at": "2025-08-11 05:51:13",

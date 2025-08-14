@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-723 songs - 2 day 21 hr 19 min
+724 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Animus \- Shorter](https://open.spotify.com/track/24rpWUub8ylST1yoHJ9p7Y) | [Polynation](https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz) | [Animus](https://open.spotify.com/album/60aRhWwK8oAVRzpLKugTHs) | 4:11 | 2020-01-01 | 2021-02-27 |
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2019-09-19 | 2019-09-27 |
 | [Another Life](https://open.spotify.com/track/1Ikxe4XFu0B5zW3FJX7PUO) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Another Life](https://open.spotify.com/album/7658gfBxb1ZihgN0BA1CDg) | 6:24 | 2022-07-01 | 2023-09-30 |
-| [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 |  |
+| [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 | 2025-08-14 |
 | [Anxiety](https://open.spotify.com/track/6LyVI2CQj6cI0DKkzGeAKD) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [Anxiety EP](https://open.spotify.com/album/3kvPvCplHNzVnilOWNdGTy) | 3:35 | 2020-08-08 | 2021-09-11 |
 | [Aphelion](https://open.spotify.com/track/49As5IfsLXTc0kTN6kEaGR) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Aphelion](https://open.spotify.com/album/2jZdn5d3aW3qZg6Q0fXVlE) | 7:34 | 2021-10-11 | 2022-07-26 |
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2020-11-03 | 2023-07-01 |
@@ -524,6 +524,7 @@
 | [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2020-10-03 | 2022-10-01 |
 | [Roth \(feat\. Mohna\)](https://open.spotify.com/track/3cHeh5OWgYyWI8xz8ndOeW) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mohna](https://open.spotify.com/artist/3azqDB8c8zEOTBscxif1gU) | [Lys](https://open.spotify.com/album/5yssg2eFopmzstxvyFbrBT) | 5:57 | 2020-03-25 | 2021-10-12 |
 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 | 2021-06-20 | 2023-07-01 |
+| [Running Up That Hill](https://open.spotify.com/track/6FPZOmgqrLVDO9eCocyUY8) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Running Up That Hill](https://open.spotify.com/album/18vln26XLOG633FiGZ0GLF) | 3:29 | 2025-08-08 |  |
 | [Sacramento](https://open.spotify.com/track/1xzQrYzGvdKDAPqZFYo052) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Sacramento](https://open.spotify.com/album/3gKlImKKM2VADD6F0EVFWZ) | 6:49 | 2019-09-13 | 2020-03-04 |
 | [Safe \- Edit](https://open.spotify.com/track/1voZzPyAv1TRn5FfG9V0sK) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Safe](https://open.spotify.com/album/0URQWcDJyljHYCe1O19onb) | 3:59 | 2021-05-08 | 2021-05-26 |
 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-11-15 |  |

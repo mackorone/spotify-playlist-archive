@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-385 songs - 23 hr 2 min
+386 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Maya](https://open.spotify.com/track/0y5EJMV1PE3YPDUWMN314E) | [Chowraasta](https://open.spotify.com/artist/7l8YWhszshSlwN43NtokOO) | [Maya](https://open.spotify.com/album/39qvG5SrtnJO2gBpl9m2mf) | 4:42 | 2022-07-18 |  |
 | [Maya Chesave](https://open.spotify.com/track/2aoxZTjUBAqTmUz2X9Azo0) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz) | [Maya Chesave](https://open.spotify.com/album/0CmdXTK4VV4P462yDR4THw) | 3:36 | 2023-01-10 | 2023-06-01 |
 | [Mayedho Chesesave](https://open.spotify.com/track/1tStVo585uA7kfEqXlfLEP) | [Nimshi Zacchaeus](https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz) | [Mayedho Chesesave](https://open.spotify.com/album/4Q33y0iDDrJ5wQNXFobhqZ) | 4:55 | 2023-12-01 | 2025-04-10 |
+| [Meghale Taakela](https://open.spotify.com/track/6sm6tqY6DeB1PvG4RJ1Atc) | [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1), [Marcus.M](https://open.spotify.com/artist/4US4UaQpPQGL06NChikcX6), [Neha Chowdary](https://open.spotify.com/artist/07zMTqB4vvHELq28qZbpqx) | [Meghale Taakela](https://open.spotify.com/album/0lwJ5aNE5PD2oOsuAYr1uT) | 3:35 | 2025-08-13 |  |
 | [Missu Mida Crushu](https://open.spotify.com/track/7tkGFbKkMRJrOv1nS5Ctoa) | [Ashwamithra](https://open.spotify.com/artist/479xIG0ma8GfSy7cKF7bCn), [K Nagabhushan Rao](https://open.spotify.com/artist/1uu3ok7BaqKBDxw6X87NXO), [Siddharth Panneer](https://open.spotify.com/artist/2w2IIUYmrkJnM2c46cX7CB) | [Missu Mida Crushu](https://open.spotify.com/album/6EH0LSqCSDgMeFWccGX3Ls) | 3:23 | 2025-04-17 | 2025-07-11 |
 | [Modhatisari](https://open.spotify.com/track/6yUJX6h3v12PMAD1T6dsev) | [Madhu Mady](https://open.spotify.com/artist/3XXYrOqQ1xzKsuDgvTun6A), [DaKrish](https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD) | [Modhatisari](https://open.spotify.com/album/3rPCSsZ3lM53VPC9qzYcKu) | 3:22 | 2023-02-10 | 2023-10-17 |
 | [Mosam](https://open.spotify.com/track/4xKUTPkJajClzsQuNtFjU0) | [Karthik Clazix](https://open.spotify.com/artist/2aOAbLS45uroV7HtTUVtZ6) | [Mosam](https://open.spotify.com/album/11MbaXM3cacleXh59yRNVl) | 2:52 | 2025-03-04 |  |
@@ -264,7 +265,7 @@
 | [Pakkane Le](https://open.spotify.com/track/06E5EKUu6AaWTkVcsvqWNR) | [Nirvan Athreya](https://open.spotify.com/artist/18kYD2Ao3kj1oGb0Ao2Aay), [Yuti Harshavardhana](https://open.spotify.com/artist/4j9INPIti4FK5aC6YGBHDe) | [Pakkane Le](https://open.spotify.com/album/2ZTTOKRMhEYjPj6VJ7UPuI) | 3:03 | 2024-07-01 | 2024-07-17 |
 | [Palike Bangarama](https://open.spotify.com/track/3YpyoS5iuxNWf6HpAtoMKU) | [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH) | [Palike Bangarama](https://open.spotify.com/album/6uDgrSulYlHxXOCl0MT8xF) | 3:57 | 2024-10-17 | 2024-11-21 |
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 | 2023-11-08 |
-| [Paravasama](https://open.spotify.com/track/3Z38rkZOQ27YdeFF7HTSTn) | [Viswadeep](https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el), [Saketh Kommajosyula](https://open.spotify.com/artist/5neOFboaA2Exr8ggMXVKec) | [Paravasama](https://open.spotify.com/album/7DrOkc2swALkAbAJgO0PdG) | 3:02 | 2025-06-20 |  |
+| [Paravasama](https://open.spotify.com/track/3Z38rkZOQ27YdeFF7HTSTn) | [Viswadeep](https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el), [Saketh Kommajosyula](https://open.spotify.com/artist/5neOFboaA2Exr8ggMXVKec) | [Paravasama](https://open.spotify.com/album/7DrOkc2swALkAbAJgO0PdG) | 3:02 | 2025-06-20 | 2025-08-14 |
 | [Paruguna Raave](https://open.spotify.com/track/2S9GsyC3Nka76RGX8AXe1e) | [Sujith Benjamin](https://open.spotify.com/artist/4pMarcdDh8UzUNRvBwQqJz), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS) | [Paruguna Raave](https://open.spotify.com/album/511HXl6DWm8Hu6tYSlAAjj) | 5:06 | 2025-04-17 |  |
 | [Payanam](https://open.spotify.com/track/1sMlVMhCMFCsdBRDZ3UEmv) | [Rytry](https://open.spotify.com/artist/1niASI4cf9rPJz2yhySf71) | [Payanam](https://open.spotify.com/album/5W8nF6sA2qjjarLWQREgoe) | 2:19 | 2025-01-20 | 2025-02-13 |
 | [Pedavi Pilichina](https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu) | [Pedavi Pilichina](https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e) | 3:49 | 2023-08-25 | 2023-09-21 |

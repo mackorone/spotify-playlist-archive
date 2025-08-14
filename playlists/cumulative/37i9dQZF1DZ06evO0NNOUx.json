@@ -1095,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "SELAH",
+        "url": "https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202602,
+      "name": "SELAH",
+      "url": "https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz"
+    },
+    {
+      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },

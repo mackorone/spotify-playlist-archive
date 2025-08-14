@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-815 songs - 1 day 14 hr 54 min
+816 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [I Ain't Done](https://open.spotify.com/track/4mKyB23qqYwpatX1VAVCUz) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [I: The Arrow](https://open.spotify.com/album/4sKgdSpmHk1Tth5QnMlKLo) | 3:35 | 2023-08-11 | 2024-06-08 |
 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 | 2022-10-01 | 2024-01-13 |
 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 | 2022-12-16 | 2023-08-12 |
+| [I Can't Let Up](https://open.spotify.com/track/7k6j9kIPZMThZSz5SDc3NX) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [I Can't Let Up](https://open.spotify.com/album/2DdlZ4zZMVxv1XdTS48W91) | 4:11 | 2025-08-07 |  |
 | [I Can't Quit \(feat\. Reconcile\)](https://open.spotify.com/track/52jHZXtW03EI5qCv3NKg1E) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm) | [I Can't Quit \(feat\. Reconcile\)](https://open.spotify.com/album/3NAZ931MEChrjgV8LC6ahR) | 3:27 | 2022-02-04 | 2022-04-21 |
 | [I CAN’T](https://open.spotify.com/track/1pfXsFILIkTDEgiHoZ8D2D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Kimani Jones](https://open.spotify.com/artist/4g1enWw9GOdsRNQ3LVGdSX) | [Come and See Deluxe: Command C](https://open.spotify.com/album/0K4QFlwgSqdYg3jaBRzh2X) | 2:27 | 2025-08-07 |  |
 | [I Feel so Alive](https://open.spotify.com/track/3ciG9dFG3tXue9EQ7xXXlD) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Capital Kings](https://open.spotify.com/album/5iyNFLGvrUfDKjU9TtiGnH) | 3:34 | 2022-03-23 | 2022-04-21 |
@@ -604,7 +605,7 @@
 | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/track/0hD5WoXq5PfWYWPcZnIEXm) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up \(Lazarus\) \[FRANKLIN Remix\]](https://open.spotify.com/album/2vi7eJheb0Tis7qfw6p1kD) | 4:00 | 2022-02-04 | 2023-08-12 |
 | [RIVALS](https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [GAV](https://open.spotify.com/artist/4EK1vzhkIaze8TCtYg0Tge) | [RIVALS](https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3) | 3:07 | 2024-01-12 | 2024-06-08 |
 | [Rocky Road](https://open.spotify.com/track/4FGj20G3ceuu0y5tdPPcPl) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Rocky Road](https://open.spotify.com/album/0aJGfLXFLhudd3uUOAleIK) | 2:33 | 2022-09-03 | 2022-10-02 |
-| [Roses](https://open.spotify.com/track/3803B0uUfFimmhthYY1oOb) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Roses](https://open.spotify.com/album/4kpRKbjZRks2cPmODj2fcw) | 2:32 | 2024-06-07 |  |
+| [Roses](https://open.spotify.com/track/3803B0uUfFimmhthYY1oOb) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Roses](https://open.spotify.com/album/4kpRKbjZRks2cPmODj2fcw) | 2:32 | 2024-06-07 | 2025-08-14 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL) | 1:42 | 2022-07-17 | 2022-08-04 |
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/4BImovSekry2KFLxwmy0Wd) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/5OfbkXXWC6iPFiubnb0NrY) | 1:42 | 2022-07-17 | 2022-08-07 |
 | [Ruckus](https://open.spotify.com/track/4RWpsZUfHdfCVX1KgpQgWU) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Crispin](https://open.spotify.com/artist/0rMwQONuoIsaJir7AFSTTZ) | [Ruckus](https://open.spotify.com/album/389d4pSwwuFlDxsvOwsIXd) | 3:00 | 2022-03-23 | 2022-04-21 |

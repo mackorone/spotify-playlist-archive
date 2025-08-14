@@ -4,7 +4,7 @@
 
 > 
 
-888 songs - 1 day 21 hr 25 min
+889 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [More M’s](https://open.spotify.com/track/29YW2xXlo6Pc6M0SBTCXYN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:41 | 2022-11-04 |  |
 | [More Than Friends](https://open.spotify.com/track/2v3sxbDNWZhEiCxw2wV8wu) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Scriptures](https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3) | 2:33 | 2022-10-20 |  |
 | [MOSHPIT](https://open.spotify.com/track/6XrRiRgDivf3Kv4CKuQh9o) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:56 | 2023-04-21 |  |
+| [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2025-08-13 |  |
 | [MOTW](https://open.spotify.com/track/0JZUiKHoEDpsLvXfeqbZxV) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:32 | 2022-12-28 |  |
 | [Mud](https://open.spotify.com/track/3FZyBb2ALPpua7QKVKsGKt) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who Want It](https://open.spotify.com/album/1ddoQBAZBcK6YLi675xtzu) | 3:06 | 2023-04-15 |  |
 | [Murda Talk](https://open.spotify.com/track/06R3hA4D1jyj8f8untfQNB) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Top Shotta](https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf) | 2:24 | 2023-04-06 |  |

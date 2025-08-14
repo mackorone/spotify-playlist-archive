@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 61683,
+  "num_followers": 61693,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJkygAAAAACSr7PoNF4uHdy/5OTTULbb",
+  "snapshot_id": "aJqEAAAAAADhONa3mt0mdPlUqkXUt6Qk",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 140453,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "En Qu\u00e9 Cabeza Cabe",
+      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
         "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 161493,
       "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
       "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Qu\u00e9 Cabeza Cabe",
-      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "El N\u00famero 1",
-      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 208973,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "El N\u00famero 1",
+      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
     },
     {
       "added_at": null,

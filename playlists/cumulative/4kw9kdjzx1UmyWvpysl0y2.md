@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,046 songs - 2 day 10 hr 38 min
+1,047 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Believe What You Want](https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Believe What You Want](https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe) | 4:38 | 2024-09-30 | 2025-01-10 |
 | [Bella Ciao](https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Bella Ciao](https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO) | 2:00 | 2024-10-02 | 2025-01-10 |
 | [Best Thing](https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Best Thing](https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j) | 3:55 | 2024-11-19 | 2025-02-27 |
+| [Between](https://open.spotify.com/track/1cdmC5U4jiWu6cEkMYFnht) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Between](https://open.spotify.com/album/0Z7L3gEHByeBMuzk66tViT) | 3:17 | 2025-08-13 |  |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
 | [BINARY BLOOD](https://open.spotify.com/track/0wRWhbWiJXMKAGmi526bgc) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [BINARY BLOOD](https://open.spotify.com/album/3cXBP59Y3r4AAMrUsSyymj) | 2:37 | 2024-02-21 | 2024-05-11 |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-19 | 2022-07-30 |

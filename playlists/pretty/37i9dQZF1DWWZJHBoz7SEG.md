@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya es Viernes y el cuerpo lo sabeeeee, empieza el finde con lo más nuevo de Victor Cibrian 👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,825 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,940 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 29 | [Maldita Billetera](https://open.spotify.com/track/6wghCwZvtMVV3ElbalRq9u) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Maldita Billetera](https://open.spotify.com/album/1ctchvx9rFJeAY41RvrvP8) | 3:22 |
 | 30 | [Deja Tocar Tus Manos](https://open.spotify.com/track/2VWbRvVPwaFaFOJQJSYI2g) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Deja Tocar Tus Manos](https://open.spotify.com/album/7eEf0UZ6Jkgwt9OiTLQm09) | 2:55 |
 | 31 | [MIA](https://open.spotify.com/track/0adHSs3WSw48PQSXtcmb0M) | [HOYER](https://open.spotify.com/artist/3BU3N61vOSGcUahCNviQoP) | [MIA](https://open.spotify.com/album/37ThGofdmDnx1saP9nSGqy) | 3:38 |
-| 32 | [Low Rider](https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Low Rider](https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf) | 3:15 |
+| 32 | [Lowrider](https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Lowrider](https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf) | 3:15 |
 | 33 | [lo que pase](https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase](https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO) | 2:32 |
 | 34 | [Solo Quiero Fumar](https://open.spotify.com/track/1p3DpWXR6VHlSWtAsC31vO) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [ZIGO CREW MX](https://open.spotify.com/artist/6xfdFN91GDBrGzDdSILDK8), [Cristo PG](https://open.spotify.com/artist/5XCd31rAUJuItHDGe7ckcd), [PP Villanueva](https://open.spotify.com/artist/4f0VIy72HFXM01RsNghBaf), [Young Cza](https://open.spotify.com/artist/6ETvcLfKNzbsfeNOCXhSkh) | [Zigo Crew Mx Vol\. 1](https://open.spotify.com/album/7IfruAPJN5XyEFDpdLP3MQ) | 4:09 |
 | 35 | [Modales](https://open.spotify.com/track/0XJVGqlwUheL7ZIqlYRyKr) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 3:34 |

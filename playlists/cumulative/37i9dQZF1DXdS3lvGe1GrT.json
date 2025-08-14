@@ -6896,7 +6896,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "David",
       "url": "https://open.spotify.com/track/4PbLDIXUSYF9rwNg86Jt8i"
@@ -13832,6 +13832,24 @@
       "duration_ms": 210658,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
+    },
+    {
+      "album": {
+        "name": "How The Mind Can Be A Trap",
+        "url": "https://open.spotify.com/album/18bgPBnHMZ2QQgrX3PTsp4"
+      },
+      "artists": [
+        {
+          "name": "Amy Jay",
+          "url": "https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191488,
+      "name": "How The Mind Can Be A Trap",
+      "url": "https://open.spotify.com/track/2OD6T3M48RGRKGnHBW7PzN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Adrianna Cinta, Farouk Roman
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,597 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,624 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Biarkan](https://open.spotify.com/track/3EmUE7cCQZ1jUsYxKVVFqi) | [Wani Kayrie](https://open.spotify.com/artist/623y6Eo7aOEpYo9LSZCQ1M) | [W2K](https://open.spotify.com/album/5r8AkSBDtc7apMGoyH0fDc) | 3:53 |
 | 50 | [BORAK](https://open.spotify.com/track/4AwEmXLCvsKucjtuWkUPFs) | [SAMSOL](https://open.spotify.com/artist/7l9Pz1f7NFnsaBMbIW2slg) | [BORAK](https://open.spotify.com/album/6xWlLpGf5FhfONoEaGrb39) | 3:33 |
 
-Snapshot ID: `AAAAAKRABxRtf8LtMHf0sHNMU4o/eXdk`
+Snapshot ID: `AAAAAPqpauTwzucY/lKtqsLA940fvUo6`

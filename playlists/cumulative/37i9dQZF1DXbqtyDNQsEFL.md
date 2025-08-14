@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-577 songs - 2 day 5 hr 20 min
+578 songs - 2 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Fix My Eyes on You](https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/05Ukp4CghkfNxqCdw8LolI) | [Born of God](https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf) | 5:32 | 2022-06-09 | 2024-01-13 |
 | [Fix My Eyes on You](https://open.spotify.com/track/2PlOjHpNAsXL8is3aNcs3F) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Born of God](https://open.spotify.com/album/27grzoIl35MGO7EpQFkZZA) | 5:32 | 2023-12-15 | 2024-04-19 |
 | [Flow](https://open.spotify.com/track/1cVEbVHKp5SiwwDKJOpbuZ) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Flow](https://open.spotify.com/album/0hdkyEne6WIVmQRKXtQ0Kc) | 2:29 | 2024-11-01 | 2024-11-22 |
-| [Follow](https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg) | [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT), [Gwamba](https://open.spotify.com/artist/6hROVnzmmEdJChCcpQRBQx), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [20 Somethxngs](https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi) | 4:29 | 2025-07-25 |  |
+| [Follow](https://open.spotify.com/track/7b5e5nKJgah812BhsxeJHg) | [Praise Umali](https://open.spotify.com/artist/7xiUwkZo3qCu8FhqFIg7iT), [Gwamba](https://open.spotify.com/artist/6hROVnzmmEdJChCcpQRBQx), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [20 Somethxngs](https://open.spotify.com/album/4NHCHM9FOIFf0um2ZDTBDi) | 4:29 | 2025-07-25 | 2025-08-14 |
 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 | 2022-06-09 |  |
 | [Forever It Is Done](https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Forever It Is Done](https://open.spotify.com/album/7ll7f71ilVwO1TPVa8LAJ7) | 5:15 | 2024-02-02 | 2024-02-16 |
 | [Forever You Are God](https://open.spotify.com/track/1STQoJfd8xcqv0tKMhf1Ri) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:04 | 2023-12-05 | 2023-12-11 |
@@ -176,6 +176,7 @@
 | [Great Are You Lord \- Live in Concert](https://open.spotify.com/track/5KPbQ8ZihfroeSeBsk4i9v) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus \(Live in Concert\)](https://open.spotify.com/album/0FBAKHBxvNTdsPNW7Qbfk4) | 10:26 | 2023-12-01 | 2024-04-02 |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/0BNHjL2jAVYuFfHpPCMcME) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Hymns Vol\. 1](https://open.spotify.com/album/432apueG2d09mb1LPrChN6) | 3:45 | 2022-06-09 | 2022-11-11 |
 | [Great is Your Faithfulness](https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Victor Okose](https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk), [Dejaks](https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux) | [Great is Your Faithfulness](https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl) | 19:07 | 2022-07-28 | 2023-05-26 |
+| [Greater](https://open.spotify.com/track/3TOHI2JXig0qnc1En5nvTI) | [Pompi](https://open.spotify.com/artist/1Rkz7wbIgGz8wBCN8TsfKU), [VOH](https://open.spotify.com/artist/0OmA11d6wVcqYWweVxXlJV) | [Greater](https://open.spotify.com/album/277xzl8jSqsZ9SQBXDG31e) | 6:02 | 2025-08-08 |  |
 | [Greatest Name](https://open.spotify.com/track/2cxpb9g4emm1QL01mvupNN) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Greatest Name](https://open.spotify.com/album/2fb2Q6ER8Bx6nFsCLyYfVK) | 10:21 | 2024-08-30 | 2024-10-11 |
 | [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 | 2025-03-21 |
 | [Hagiazo \- Live](https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hagiazo \(Live\)](https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw) | 15:01 | 2025-04-18 |  |

@@ -52187,6 +52187,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1qoiQ3WIvm3he1kNqEgFsl"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176159,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3z0fCC3V6mwgCqdXKvTWQD"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/54I41sOZkTk2HMbFx5ADWR"
       },

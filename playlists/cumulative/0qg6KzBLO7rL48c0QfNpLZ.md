@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,193 songs - 2 day 4 hr 39 min
+1,194 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [All Or Nothing \- Afro House Remix](https://open.spotify.com/track/6RnRPLXNG02oeVeREsz0On) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC) | [All Or Nothing \(Afro House Remix\)](https://open.spotify.com/album/70xUlm2GgOPik1wFgAKJd1) | 3:00 | 2025-06-20 | 2025-07-24 |
 | [All That I Want](https://open.spotify.com/track/3eLf9pZmPNw7q86FwzipRd) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Ernar](https://open.spotify.com/artist/32KPoYZtDacGAVUE6MmhOK), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [All That I Want](https://open.spotify.com/album/4C4ydVT0ajhSBzRbIuB9n7) | 2:17 | 2024-02-02 | 2024-03-02 |
 | [All The Way Down](https://open.spotify.com/track/1JLUnZ3nhiaJ9XiZ62a8wG) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Plaha](https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [All The Way Down](https://open.spotify.com/album/5yiANlsz99kE9TWCTxPlzP) | 2:21 | 2024-12-20 | 2025-05-03 |
+| [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 | 2025-08-13 |  |
 | [All We Ever Do](https://open.spotify.com/track/1J0k2Hz5YkuMwpUG2bOxjw) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [All We Ever Do](https://open.spotify.com/album/3pOmkq9d9mm07H7iVYrZjV) | 3:15 | 2024-07-12 | 2024-08-10 |
 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 | 2024-09-10 |
 | [All We Got](https://open.spotify.com/track/7p2cowVCZaydI3p1ELFBU9) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ), [Zev](https://open.spotify.com/artist/5tQV2Lv9BQfu9Nu7XryNxk) | [All We Got](https://open.spotify.com/album/13lb6wO7QKlBwGjsV7kE63) | 2:27 | 2024-09-27 | 2025-02-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,613 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,829 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 3 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
 | 4 | [The Chant](https://open.spotify.com/track/51iiwYPDTDrOTMPct3wlW5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Chant](https://open.spotify.com/album/14cDD5QjVN1LxYtiS5bzHI) | 3:37 |
 | 5 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 |
-| 6 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |
-| 7 | [Blade](https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Blade](https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY) | 2:48 |
+| 6 | [Blade](https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Blade](https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY) | 2:48 |
+| 7 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |
 | 8 | [Cathedral](https://open.spotify.com/track/4c5dHcZ79J0bASxB7LenyG) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [DJ Terry](https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j) | [Cathedral](https://open.spotify.com/album/6PIgMhoYlh3bN6HBlyOIqs) | 3:13 |
 | 9 | [The Power Of Love](https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [The Power Of Love](https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ) | 2:19 |
 | 10 | [Rave Till My Grave](https://open.spotify.com/track/7w0OLfAqXs05KpUU34ngWd) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Rave Till My Grave](https://open.spotify.com/album/24pocT8fPZICPOt99SR5rO) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,164 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,167 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 17 | [SAYAW](https://open.spotify.com/track/3yIp3H3oMgworoTeFRmpjT) | [Muri](https://open.spotify.com/artist/5fNxwgRItvzRAAzFZCCoNj), [Shigge](https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv) | [SETSUNA / 刹那](https://open.spotify.com/album/4kiMbRchpYs1rEVdmXkBLh) | 3:51 |
 | 18 | [cold.](https://open.spotify.com/track/1q0J313GngZkIUlI47e8iU) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [cold.](https://open.spotify.com/album/0QUc88IhquEmqzhEoAncKH) | 2:19 |
 | 19 | [So in love with you](https://open.spotify.com/track/76sqcAYCyX0P79SHg4CKCX) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Hidden Album](https://open.spotify.com/album/5pyoNVddlePXEgk2ihx8A0) | 3:24 |
-| 20 | [すだち Prod.edbl](https://open.spotify.com/track/19MJjt5VgpRoKqunhb8FfA) | [blend house](https://open.spotify.com/artist/1hRKmXmzCPrgfCn5d0jAV2), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [すだち Prod.edbl](https://open.spotify.com/album/6j23y55GZ309poThlXa2dx) | 3:31 |
+| 20 | [すだち Prod.edbl](https://open.spotify.com/track/19MJjt5VgpRoKqunhb8FfA) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [すだち Prod.edbl](https://open.spotify.com/album/6j23y55GZ309poThlXa2dx) | 3:31 |
 | 21 | [Week](https://open.spotify.com/track/3WSYvIHs4rqEEUNIhvY3A0) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2) | [LIFE](https://open.spotify.com/album/363jjTUFrxwt7v8NluCrbP) | 4:00 |
 | 22 | [夏の保存](https://open.spotify.com/track/1UpPvlkVhVXnruJFSINWf3) | [江本祐介](https://open.spotify.com/artist/4L8bEKvTfZY1sU26RAeXVO) | [夏の保存](https://open.spotify.com/album/03A6zc6hpqyd15u9SGfmif) | 3:07 |
 | 23 | [脳におまじないなme](https://open.spotify.com/track/7uo4AIWgnfSxrUBC0EO6u8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [脳におまじないなme](https://open.spotify.com/album/2WiTBnxUZM2ULnF9GSkKwI) | 3:09 |

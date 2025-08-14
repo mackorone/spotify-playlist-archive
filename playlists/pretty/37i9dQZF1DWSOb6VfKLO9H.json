@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 99734,
+  "num_followers": 99771,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "77 Nachten",
-        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+        "name": "Reset The Levels II: Boulevard",
+        "url": "https://open.spotify.com/album/6cHwqPB2BwDQyWy4EBRQrx"
       },
       "artists": [
         {
           "name": "SFB",
           "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 185487,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
+      "duration_ms": 210194,
+      "name": "Nu Sta Je Hier",
+      "url": "https://open.spotify.com/track/6fM8nxYwUYzjOCJCp8Uy5F"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -415,6 +423,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "duration_ms": 250700,
+      "name": "Slapend Rijk",
+      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
@@ -439,26 +467,6 @@
       "duration_ms": 173534,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        }
-      ],
-      "duration_ms": 250700,
-      "name": "Slapend Rijk",
-      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -507,26 +515,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Reset The Levels II: Boulevard",
-        "url": "https://open.spotify.com/album/6cHwqPB2BwDQyWy4EBRQrx"
+        "name": "77 Nachten",
+        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
       },
       "artists": [
         {
           "name": "SFB",
           "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 210194,
-      "name": "Nu Sta Je Hier",
-      "url": "https://open.spotify.com/track/6fM8nxYwUYzjOCJCp8Uy5F"
+      "duration_ms": 185487,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1095,18 +1095,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+        "name": "Betasten",
+        "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
       "artists": [
         {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Giorgio Sanches",
+          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
+        },
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         }
       ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+      "duration_ms": 185459,
+      "name": "Betasten",
+      "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1135,6 +1147,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "HIT-SIG",
         "url": "https://open.spotify.com/album/0d3bCQl6iYxeKQAomdJnZp"
       },
@@ -1155,34 +1183,6 @@
       "duration_ms": 179277,
       "name": "Ai",
       "url": "https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Betasten",
-        "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
-      },
-      "artists": [
-        {
-          "name": "Team Rush Hour",
-          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
-        },
-        {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
-        },
-        {
-          "name": "Giorgio Sanches",
-          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
-        },
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 185459,
-      "name": "Betasten",
-      "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Lekker He",
-        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
-      },
-      "artists": [
-        {
-          "name": "Poke",
-          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        }
-      ],
-      "duration_ms": 145681,
-      "name": "Lekker He",
-      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 163125,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Lekker He",
+        "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
+      },
+      "artists": [
+        {
+          "name": "Poke",
+          "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
+        }
+      ],
+      "duration_ms": 145681,
+      "name": "Lekker He",
+      "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
     },
     {
       "added_at": "2024-07-19 06:38:33",

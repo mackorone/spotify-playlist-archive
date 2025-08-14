@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-364 songs - 21 hr 35 min
+365 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Lady Must Live](https://open.spotify.com/track/2HLoMbcIXeiD9TsQCDETHX) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [The Beginning 1975](https://open.spotify.com/album/15Gx6rLODhyfw7zgtiRjXp) | 2:40 | 2024-07-26 |  |
 | [A Little Birdie Told Me So](https://open.spotify.com/track/3auz1OA6D0RDf1MGlRdy57) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Lee Wiley Sings the Songs of Rodgers & Hart and Arlen](https://open.spotify.com/album/7HuNr6dhCNdTfy1DIbAnjN) | 2:59 | 2024-07-26 |  |
 | [A Puzzlement \- Remastered 2001](https://open.spotify.com/track/7Jiybd4axJSbH6J1c26ESv) | [Yul Brynner](https://open.spotify.com/artist/5ctGvibG1nCPQRi4mAKjac), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ), [Jen Wyler](https://open.spotify.com/artist/5ktpNQLvpix0NP8gyHGl9X) | [The King And I: Music From The Motion Picture \(Remastered 2001\)](https://open.spotify.com/album/5EFwxguMRkFvuy1PJbZN9b) | 3:27 | 2024-07-26 |  |
-| [A Ship Without A Sail](https://open.spotify.com/track/6RnUz4nKMZulwd7WUpjdJF) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 6:19 | 2024-07-26 |  |
+| [A Ship Without A Sail](https://open.spotify.com/track/6RnUz4nKMZulwd7WUpjdJF) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 6:19 | 2024-07-26 | 2025-08-14 |
+| [A Ship Without A Sail](https://open.spotify.com/track/0cAzO63ixihjrv2Fz04q0u) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 6:22 | 2025-08-13 |  |
 | [A Wonderful Guy](https://open.spotify.com/track/4TeQy2dn3P7S2rZEya25TI) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Presenting Tex Beneke](https://open.spotify.com/album/24Q0GW9ZHl8CZNLPFbOlYU) | 1:55 | 2024-07-26 | 2024-12-12 |
 | [A Wonderful Guy](https://open.spotify.com/track/6QcTbqnjImEsi8Qa0VxB6d) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Blue Champagne](https://open.spotify.com/album/1JIvJIoU7x7FBHtvUvVVNT) | 1:55 | 2024-12-19 |  |
 | [A Wonderful Guy](https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p) | [Tex Beneke](https://open.spotify.com/artist/7e9843xr17L5hRYAti3dtG) | [Tex Beneke And His Music In The Miller Mood](https://open.spotify.com/album/4zdNQI5E1pd4boIpyhAImH) | 1:55 | 2024-12-11 | 2024-12-20 |

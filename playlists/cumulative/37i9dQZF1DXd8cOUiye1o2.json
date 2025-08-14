@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 213152,
       "name": "Nazar Battu",
       "url": "https://open.spotify.com/track/5vRJOAa7gYCcvHn5ETs4ns"
@@ -3923,6 +3923,28 @@
     },
     {
       "album": {
+        "name": "TERA HOON",
+        "url": "https://open.spotify.com/album/2Rj08xUR1kM4UpP9RzPzP7"
+      },
+      "artists": [
+        {
+          "name": "Varsha Singh Dhanoa",
+          "url": "https://open.spotify.com/artist/2cnUcVqQnQyVJnQLoNNZI5"
+        },
+        {
+          "name": "Guru Dhanoa",
+          "url": "https://open.spotify.com/artist/3ydmgo5zUaJBNi3jFF2Tci"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "TERA HOON",
+      "url": "https://open.spotify.com/track/3h041YpHqp6yquNcVORNAU"
+    },
+    {
+      "album": {
         "name": "Tere Ho Jaaye",
         "url": "https://open.spotify.com/album/0BiAfRBXBfV2t7jthN9WrB"
       },
@@ -4042,7 +4064,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 217764,
       "name": "Teri Galiyon Mein",
       "url": "https://open.spotify.com/track/3TSfbKx8kwSQwCJELIFcp2"
@@ -4536,6 +4558,32 @@
       "duration_ms": 101721,
       "name": "Zaroori",
       "url": "https://open.spotify.com/track/639mTbZQtyB943hXWueUm7"
+    },
+    {
+      "album": {
+        "name": "Zinda Hu Main",
+        "url": "https://open.spotify.com/album/0JNi68ymfJLw3V7jJRYTgM"
+      },
+      "artists": [
+        {
+          "name": "Shivvyy",
+          "url": "https://open.spotify.com/artist/3a23shKarTdYAinbrXtc8k"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        }
+      ],
+      "date_added": "2025-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "Zinda Hu Main",
+      "url": "https://open.spotify.com/track/0SO3BdeneaQAqTEPfrXbO0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd8cOUiye1o2"

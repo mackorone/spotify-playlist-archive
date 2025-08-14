@@ -380,7 +380,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 120734,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/6cz8KGBcdCg0V095WH7prM"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 137035,
       "name": "Algo Lento",
       "url": "https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V"
@@ -4557,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/6eRatVkktAPBJPEZJHGRC6"
+      },
+      "artists": [
+        {
+          "name": "Eric Nilson",
+          "url": "https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145060,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/6iXzzfVie4I5FvTU2XYRij"
+    },
+    {
+      "album": {
         "name": "Fields of rice",
         "url": "https://open.spotify.com/album/7ARJ8OGba5lnGWqDxUuC4w"
       },
@@ -7014,7 +7032,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 140608,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL"
@@ -7184,6 +7202,24 @@
       "duration_ms": 142000,
       "name": "Les Yeux Noisette",
       "url": "https://open.spotify.com/track/7zHT43ArNRONxVmJ6Hxxio"
+    },
+    {
+      "album": {
+        "name": "Less Than Before",
+        "url": "https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6"
+      },
+      "artists": [
+        {
+          "name": "Alexas Lucio",
+          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141717,
+      "name": "Less Than Before",
+      "url": "https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG"
     },
     {
       "album": {
@@ -9833,6 +9869,24 @@
     },
     {
       "album": {
+        "name": "Point of Return",
+        "url": "https://open.spotify.com/album/3Rcai3wjFJvLfqpYiJCuUq"
+      },
+      "artists": [
+        {
+          "name": "Logan Connors",
+          "url": "https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Point of Return",
+      "url": "https://open.spotify.com/track/7cFmjmSlKLJ4nwQrG9Q3mw"
+    },
+    {
+      "album": {
         "name": "Porto Fino",
         "url": "https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf"
       },
@@ -11439,6 +11493,24 @@
     },
     {
       "album": {
+        "name": "Slowly Moments",
+        "url": "https://open.spotify.com/album/3as2aYAMd8ZPbo4WZI5UgG"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126234,
+      "name": "Slowly Moments",
+      "url": "https://open.spotify.com/track/0mnj0mPIYL05zr8WAHS9MN"
+    },
+    {
+      "album": {
         "name": "Slowmood",
         "url": "https://open.spotify.com/album/5E4adlY3rgcjvPrA3jqE0L"
       },
@@ -11720,7 +11792,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 169053,
       "name": "Something For You",
       "url": "https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp"
@@ -12800,7 +12872,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-14",
       "duration_ms": 142306,
       "name": "The King Of Time",
       "url": "https://open.spotify.com/track/1gx6KSTQ2z9eVLM59C8iYg"
@@ -12822,6 +12894,24 @@
       "duration_ms": 140771,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M"
+    },
+    {
+      "album": {
+        "name": "The Lone Wanderer",
+        "url": "https://open.spotify.com/album/5cfNxyzbXNjojEUHIQIE35"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "date_added": "2025-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131411,
+      "name": "The Lone Wanderer",
+      "url": "https://open.spotify.com/track/2Z7ZFMH8kzImUmJohr1NTv"
     },
     {
       "album": {
