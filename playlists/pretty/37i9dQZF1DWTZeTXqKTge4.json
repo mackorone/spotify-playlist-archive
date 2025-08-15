@@ -1,13 +1,29 @@
 {
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Loud",
-  "num_followers": 88992,
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: DawaMafia",
+  "num_followers": 88998,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3V1S1RPywo+H97WKxUVYE+ndnn",
+  "snapshot_id": "AAAAANoWSQxYhEnySYIhkjut+0a9APvf",
   "tracks": [
+    {
+      "added_at": "2025-08-15 00:01:29",
+      "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/35opTTcaHnmDM7i8RS8a86"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 157140,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/7a2IAS8wXPikqHfLdWCv86"
+    },
     {
       "added_at": "2025-08-01 04:00:29",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 125575,
       "name": "Quelque chose",
       "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
+    },
+    {
+      "added_at": "2025-08-15 00:01:29",
+      "album": {
+        "name": "Monnaie",
+        "url": "https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 145408,
+      "name": "Monnaie",
+      "url": "https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7"
     },
     {
       "added_at": "2025-08-07 20:24:47",

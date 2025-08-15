@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PERSES
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BOWKYLION, Jeff Satur
 
-740 songs - 1 day 19 hr 41 min
+742 songs - 1 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [ambulance](https://open.spotify.com/track/0mMT09W4GI0c374hAHoRKg) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [ambulance](https://open.spotify.com/album/2TJb5ZrRwdPjo0GzDCJeo2) | 3:29 | 2022-09-29 | 2022-10-13 |
 | [BABY CRUSH \(เพลงประกอบซีรีส์ Cooking Crush อาหารเป็นยังไงครับหมอ\)](https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN) | [Fluke Nattanon](https://open.spotify.com/artist/6qAKyciWuWnfPv20xaLHag) | [BABY CRUSH \- Single](https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE) | 4:11 | 2023-12-27 | 2024-01-04 |
 | [Bad Shawty](https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Bad Shawty](https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA) | 3:30 | 2025-04-14 | 2025-05-13 |
+| [BADLY](https://open.spotify.com/track/4BDW3yQgmhQDLHLvaxzZtd) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BADLY](https://open.spotify.com/album/3L7hKLf8saWSccgsuExpqt) | 3:30 | 2025-08-14 |  |
 | [BANG!](https://open.spotify.com/track/3xTAnualQLXQTPXCY8fDQn) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [BANG!](https://open.spotify.com/album/5mPMtvMVqTKpYVdfqJPmOp) | 3:34 | 2025-03-20 | 2025-04-04 |
 | [Barbie \(Oops! Oops!\)](https://open.spotify.com/track/7rxclG8zeoSUdquI4aPLWu) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [Barbie \(Oops! Oops!\) \- Single](https://open.spotify.com/album/2xNpxsrXEwOGkAjarvT6p2) | 2:56 | 2023-09-08 | 2023-09-16 |
 | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/track/1PSN6e5cQbumCzz74Imhhz) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [Based on whose story? \(โปรดใช้วิจารณญาณ\)](https://open.spotify.com/album/3Y4DNfi7F1CfqWOiUDKSP3) | 3:33 | 2022-09-02 | 2022-09-09 |
@@ -108,7 +109,7 @@
 | [JELLO](https://open.spotify.com/track/5uzwwLPiCwkBNHRuMyIdVn) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [JELLO](https://open.spotify.com/album/5hHX38Rnogq7fwLgScNCmi) | 3:39 | 2024-10-03 | 2024-10-11 |
 | [JUST DANCE](https://open.spotify.com/track/0yk8huYYGt1SHHxlI8hnGc) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [JUST DANCE](https://open.spotify.com/album/6l64wDsFlpzZsQvtWjqDfs) | 3:32 | 2023-01-26 | 2023-02-03 |
 | [Keep a Secret](https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:10 | 2025-06-13 | 2025-06-20 |
-| [KILLA](https://open.spotify.com/track/7pACeDeY7q0eom7sFfiVHy) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [KILLA](https://open.spotify.com/album/2m66Q3umrj3DiZphk8HpbQ) | 3:58 | 2025-08-07 |  |
+| [KILLA](https://open.spotify.com/track/7pACeDeY7q0eom7sFfiVHy) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [KILLA](https://open.spotify.com/album/2m66Q3umrj3DiZphk8HpbQ) | 3:58 | 2025-08-07 | 2025-08-15 |
 | [KISS KISS](https://open.spotify.com/track/1N1lnrLpZfoRH7ICM74fEU) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [KISS KISS](https://open.spotify.com/album/5QV41p2rViJIU9gcBLV3Eb) | 3:22 | 2024-08-28 | 2024-09-20 |
 | [Kiss Me!](https://open.spotify.com/track/2OJ4pcZ6TntuT0pk052jzW) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Kiss Me!](https://open.spotify.com/album/6buRGA4CO45tJZJpMmbJOx) | 3:04 | 2024-02-22 | 2024-03-02 |
 | [KNOCK KNOCK](https://open.spotify.com/track/2GCrGVTyymC8vXphc3uyep) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo), [JORIN](https://open.spotify.com/artist/4bKVuNT3nWDxl0Flezx1rj) | [KNOCK KNOCK \- Single](https://open.spotify.com/album/2ODK98p3Xfg56ZSGWkl6a4) | 3:12 | 2023-06-22 | 2024-05-24 |
@@ -650,7 +651,7 @@
 | [เล่าไม่หมด](https://open.spotify.com/track/1xzHvjyQL93ipNkIzaCfc0) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [เล่าไม่หมด](https://open.spotify.com/album/6Ite0pucyymA53EO7LBElv) | 3:09 | 2024-03-07 | 2024-03-15 |
 | [เสนอตัว \(Ooh!\)](https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เสนอตัว \(Ooh!\)](https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD) | 2:55 | 2024-03-09 | 2024-05-07 |
 | [เสียงสอง \(Love Tone\)](https://open.spotify.com/track/5IeEEXL1vAeavccMOooYCF) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F), [MABELZ PiXXiE](https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5) | [เสียงสอง \(Love Tone\)](https://open.spotify.com/album/1LxwAag6wvRPviopqEToNN) | 3:12 | 2024-02-15 | 2024-04-12 |
-| [เสียงหัวใจ \(LOVE ECHO\)](https://open.spotify.com/track/4xPzuOR3R6nMejvmgvVsVe) | [William Jakrapatr](https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ), [Est Supha](https://open.spotify.com/artist/1Huc366KRzo3Y1GWnnuFLO) | [เสียงหัวใจ \(LOVE ECHO\)](https://open.spotify.com/album/4fmcsQoMPWIhWmRCuiqGPy) | 3:27 | 2025-07-31 |  |
+| [เสียงหัวใจ \(LOVE ECHO\)](https://open.spotify.com/track/4xPzuOR3R6nMejvmgvVsVe) | [William Jakrapatr](https://open.spotify.com/artist/51sFFBq8BCtciQk7VqsDTJ), [Est Supha](https://open.spotify.com/artist/1Huc366KRzo3Y1GWnnuFLO) | [เสียงหัวใจ \(LOVE ECHO\)](https://open.spotify.com/album/4fmcsQoMPWIhWmRCuiqGPy) | 3:27 | 2025-07-31 | 2025-08-15 |
 | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/track/4XjY4hGqiLjZQnlxCemA9F) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [เสียใจไม่เสียดาย \(No Love\)](https://open.spotify.com/album/2R4hww1wYXvKb5Yu3EGL2n) | 3:23 | 2023-06-01 | 2023-06-16 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-07-07 | 2022-07-23 |
 | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/track/7kYkOkwL7644XyOdjQ9zo5) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เส้นเรื่องเดิม \(RERUN\)](https://open.spotify.com/album/26LY4e9rP1alRPyBwokxsW) | 3:31 | 2023-09-13 | 2024-03-15 |
@@ -719,6 +720,7 @@
 | [ได้แค่ยิ้ม](https://open.spotify.com/track/3iAOFKx2EqIxyygClOeMGy) | [ISBANKY](https://open.spotify.com/artist/57MmIrE7F4N7StdvOXs5O2) | [ได้แค่ยิ้ม](https://open.spotify.com/album/1JTydgat0wXcSTK4vqOpiE) | 3:36 | 2022-11-11 | 2022-11-18 |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/6SaADaULbCkQ2NZPYD9vaF) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ได้แต่นึกถึง](https://open.spotify.com/album/35dG27p89W1PxkG4YTPQof) | 4:24 | 2022-05-26 | 2022-11-12 |
 | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ไปล้อเล่นไกลๆ \(Not Kidding\)](https://open.spotify.com/album/19X9OKv7wLrVkfZRwksheZ) | 3:09 | 2023-10-26 | 2024-05-24 |
+| [ไม่กลับตอนนี้จะกลับตอนไหน \(then when?\)](https://open.spotify.com/track/1EQO6lRDsuZ93nhVAk7B5H) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [ไม่กลับตอนนี้จะกลับตอนไหน \(then when?\)](https://open.spotify.com/album/0klH4EOAJQoMnnQ56hoVpk) | 3:26 | 2025-08-14 |  |
 | [ไม่ก้าวผ่าน](https://open.spotify.com/track/3OEd6Z88K4jv0G9aeHGhGN) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [SWEET AND SOUR](https://open.spotify.com/album/7eKgeHEzVE1kJ22WLTigYh) | 3:33 | 2024-10-03 | 2024-12-06 |
 | [ไม่ง้อจะพอแล้วนะ \(Enough\)](https://open.spotify.com/track/4uNMQ6meoNXG5zzl6USIlk) | [QRRA](https://open.spotify.com/artist/2jZTg3Uabja37iBJCXd9Ia) | [ไม่ง้อจะพอแล้วนะ \(Enough\)](https://open.spotify.com/album/0gzvoH3eADZkekv4bkEzwT) | 3:49 | 2024-08-01 | 2024-08-14 |
 | [ไม่ตอบเลยน้า \(What's the matter?\)](https://open.spotify.com/track/15MIlusZDUVhN1jZ84OyDA) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ไม่ตอบเลยน้า \(What's the matter?\) \- Single](https://open.spotify.com/album/0hyMlYAOfsCJrTnHSM2eHj) | 3:53 | 2022-10-28 | 2024-07-13 |

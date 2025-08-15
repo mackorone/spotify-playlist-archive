@@ -281,6 +281,54 @@
     },
     {
       "album": {
+        "name": "Aahi Gallan",
+        "url": "https://open.spotify.com/album/1t2rOKwcWrigdjzL6JJE3t"
+      },
+      "artists": [
+        {
+          "name": "Kulshan Sandhu",
+          "url": "https://open.spotify.com/artist/0SZK7xzvvaFBWfLvp90nKN"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Aahi Gallan",
+      "url": "https://open.spotify.com/track/5aSFJQNvhTMxe85lSdfQQE"
+    },
+    {
+      "album": {
+        "name": "Agg Paaniyan Ch",
+        "url": "https://open.spotify.com/album/73tkkW29HF1pwOVJ0ScB6o"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        },
+        {
+          "name": "Shahat Gill",
+          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
+        },
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160352,
+      "name": "Agg Paaniyan Ch",
+      "url": "https://open.spotify.com/track/7FHqKBChj0iBGy7AYpp3A4"
+    },
+    {
+      "album": {
         "name": "Agla Janam",
         "url": "https://open.spotify.com/album/1WwggnpxP7GOm9a9jmLDsQ"
       },
@@ -3704,7 +3752,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 178500,
       "name": "Kangni",
       "url": "https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH"
@@ -4140,7 +4188,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 180789,
       "name": "Loktath",
       "url": "https://open.spotify.com/track/6y21aiaOaPjdTIaKT6ohvc"
@@ -5839,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "From The Streets",
+        "url": "https://open.spotify.com/album/5tQkmGEKfc0rvGnKzqj8XE"
+      },
+      "artists": [
+        {
+          "name": "Ekam Sudhar",
+          "url": "https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149556,
+      "name": "Sandhoori Pagg",
+      "url": "https://open.spotify.com/track/2OkyKXi6IrGdNB6Mg209dy"
+    },
+    {
+      "album": {
         "name": "Sang Maar Gayi",
         "url": "https://open.spotify.com/album/6GXO46JpbsnaAAqw1VFmBo"
       },
@@ -6268,7 +6334,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 128181,
       "name": "Success Talks",
       "url": "https://open.spotify.com/track/7gmZMFm1iLDKefXdUMaI8y"

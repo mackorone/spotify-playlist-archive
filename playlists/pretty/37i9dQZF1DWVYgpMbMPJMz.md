@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Bryan & Katie Torwalt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,354 likes - 95 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,342 likes - 95 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

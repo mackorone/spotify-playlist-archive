@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHR0Ri4T4vapAjoZvucVE/KaSlJ0",
+  "snapshot_id": "AAAAANX42vKOZWQFdKuwcxFpG9Z4ZPzF",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
-      },
-      "artists": [
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Kick",
-      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 226789,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ"
     },
     {
       "added_at": "2023-11-30 13:00:00",

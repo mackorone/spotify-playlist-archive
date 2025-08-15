@@ -2,7 +2,7 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naza
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Hamza x Frenna
 
 818 songs - 1 day 16 hr 1 min
 

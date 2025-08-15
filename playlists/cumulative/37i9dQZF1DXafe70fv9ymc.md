@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-157 songs - 7 hr 56 min
+158 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 | 2024-06-28 | 2024-10-13 |
 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Robin Rozay](https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 | 2024-03-01 | 2024-04-19 |
 | [ALTé GIRLS XOXO](https://open.spotify.com/track/54E9z0hKFzsMfvyW8vO4fw) | [BLAKBOYKAY](https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b) | [Things We Do For Love](https://open.spotify.com/album/7n0A8zB1plk7HQcXKtzYvP) | 2:50 | 2025-07-04 |  |
-| [Attention](https://open.spotify.com/track/16jBRxCexHXzOlBG0RApsQ) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ), [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY) | [Temper & Pleasure](https://open.spotify.com/album/51XN4vPEjkVIIZx4WhR9xY) | 2:26 | 2025-05-09 |  |
+| [Attention](https://open.spotify.com/track/16jBRxCexHXzOlBG0RApsQ) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ), [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY) | [Temper & Pleasure](https://open.spotify.com/album/51XN4vPEjkVIIZx4WhR9xY) | 2:26 | 2025-05-09 | 2025-08-15 |
 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 | 2025-04-05 |
 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 | 2024-08-02 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2024-02-09 | 2024-06-21 |
@@ -27,6 +27,7 @@
 | [Burn 4 U](https://open.spotify.com/track/07azphHzbTXLjgE0h4HHP4) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820) | [The Other Side](https://open.spotify.com/album/2E6nRkDKnZ0pv5G8uHMZdE) | 4:38 | 2024-02-09 | 2024-07-19 |
 | [Burn 4 U Remix \(feat\. Langa Mavuso\)](https://open.spotify.com/track/7h93lz8qZ17NwXs7cwj2tx) | [Mia](https://open.spotify.com/artist/7z2DaVmImfzaRsnSJow820), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [The Other Side \(Deluxe\)](https://open.spotify.com/album/14OOdWpb5n0hieJVjYvkOK) | 4:40 | 2024-03-15 |  |
 | [Buss It](https://open.spotify.com/track/1lHKhXQaVQEF9TRzspZw4N) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/1kl2GoivQlzwmw77mq9ejm) | 2:47 | 2025-07-04 |  |
+| [Call It What It Is](https://open.spotify.com/track/6RKSqt3uJIix0bFspWCHCm) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Missed Calls](https://open.spotify.com/album/06pfB7hTyBYlV9RblGKzDE) | 4:01 | 2025-08-15 |  |
 | [CERTAIN](https://open.spotify.com/track/4Jf7bLNxng8WtEdbC4gSn7) | [UAX](https://open.spotify.com/artist/5KIcYbv98M0MozhLs5lHnT), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [LOVE & HUSTLE \(DELUXE\)](https://open.spotify.com/album/7fBwEgjC3GVNG1ojYz1vcQ) | 3:02 | 2025-07-11 |  |
 | [Chill](https://open.spotify.com/track/5J2EQqHiopKv9cHX3zLSZg) | [Jasën Blu](https://open.spotify.com/artist/6IdeXkZ2Kk6CtIKe9QUePe) | [Chill](https://open.spotify.com/album/3hAvR6hXAumr2FaeDnmbNf) | 3:58 | 2024-02-09 | 2024-06-28 |
 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2024-02-09 | 2024-02-23 |
@@ -70,7 +71,7 @@
 | [How Love Works \(Interlude\)](https://open.spotify.com/track/5RGvKpEAYaYF5N9UtBVb0g) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 1:00 | 2024-02-09 | 2025-03-29 |
 | [Hurt](https://open.spotify.com/track/6iF7xOU7oyzahJZEcAt2UX) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [PISHON](https://open.spotify.com/artist/5UwnnlEa1IDJQ0IJK1ZAJe) | [Hurt](https://open.spotify.com/album/2FLZXXnM5fkm98vuSfNq7i) | 2:52 | 2025-01-17 |  |
 | [Imagine](https://open.spotify.com/track/7IbsxxISy0r2wLxkstEmue) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [Imagine + Blessing](https://open.spotify.com/album/05kIAyW9B3GjgQ1QhtpE5v) | 2:51 | 2025-06-27 |  |
-| [Inside Out](https://open.spotify.com/track/3Zaa21tkvyyiynGRF9ozln) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kimani](https://open.spotify.com/artist/3ThH2jncUUUbDrbRn4RqDI) | [Inside Out](https://open.spotify.com/album/0KjXgmoSBHmTMtft7J1zwX) | 3:47 | 2025-08-01 |  |
+| [Inside Out](https://open.spotify.com/track/3Zaa21tkvyyiynGRF9ozln) | [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kimani](https://open.spotify.com/artist/59i7EZjgHlVzoxZvvCRWiX) | [Inside Out](https://open.spotify.com/album/0KjXgmoSBHmTMtft7J1zwX) | 3:47 | 2025-08-01 |  |
 | [Jeje de Whine](https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:56 | 2024-02-09 | 2025-01-18 |
 | [Judas](https://open.spotify.com/track/6nEBCXcL5Bh4g2fhZclX5c) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:08 | 2024-02-09 | 2024-04-19 |
 | [Keep Going \(Aaaaahhhhh\)](https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:48 | 2024-12-16 | 2025-07-05 |

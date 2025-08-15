@@ -4,10 +4,11 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-111 songs - 19 hr 31 min
+112 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Adetunji Adeji](https://open.spotify.com/track/4UotrrYi2lKcDmC22efJVY) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 3:02 | 2025-08-15 |  |
 | [Africa Is My Home](https://open.spotify.com/track/2IIdifWhdDVTOlTGrXH1qS) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 14](https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1) | 6:18 | 2021-12-28 | 2022-05-27 |
 | [Aimasiko Lo N Damu Eda Medley \(Part 1\)](https://open.spotify.com/track/7sYKjNN1DAw38RNIH2shDl) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Aimasiko](https://open.spotify.com/album/3WzWQLb4XBRhgsHMSZBmYD) | 17:42 | 2021-12-28 |  |
 | [Aiye Wa A Toro](https://open.spotify.com/track/3vLnoSKcUwAK7AAP43jzXh) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 2](https://open.spotify.com/album/6r0fOzKcnXh7efk26LAP95) | 20:18 | 2024-10-30 |  |
@@ -20,7 +21,7 @@
 | [Anjade Loni Eledumare](https://open.spotify.com/track/7wbpuNT1z9s4HMWblEW7yZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Singing For The People](https://open.spotify.com/album/1SCsPSmAmX1BhnEqA5WQNa) | 20:30 | 2024-11-08 |  |
 | [Ara Nba Da Owo Oje](https://open.spotify.com/track/0juqnABofBDYtzZQ0sUZja) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 6](https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO) | 21:12 | 2024-05-15 |  |
 | [Austerity Measure](https://open.spotify.com/track/4xHAk3d35NjPe5zb9WJ9CD) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 32](https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx) | 17:32 | 2022-07-16 | 2025-06-25 |
-| [Awon Alhaji](https://open.spotify.com/track/1M0DIMkMAJ6BVMFGxeIE8q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 4:27 | 2025-08-14 |  |
+| [Awon Alhaji](https://open.spotify.com/track/1M0DIMkMAJ6BVMFGxeIE8q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 4:27 | 2025-08-14 | 2025-08-15 |
 | [Baba Fona Han Wa](https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ajo Yio](https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR) | 18:48 | 2023-12-26 |  |
 | [Baba Loran Mi Wa](https://open.spotify.com/track/6GgoZhtXqEvZnhBG4ik7wS) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 2\)](https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a) | 6:01 | 2024-10-19 |  |
 | [Board Members](https://open.spotify.com/track/414geRl06sq9YvNaOozReX) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 6](https://open.spotify.com/album/30jDRu2udWrunytzkcUjCO) | 19:34 | 2024-03-31 |  |

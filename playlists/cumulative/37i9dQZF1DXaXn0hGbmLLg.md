@@ -2,7 +2,7 @@
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! Benelux ambassador: <a href="spotify:artist:7qvjUtp2ccRD9AiDnukyFF">NOVAH</a>
+> Listen to women at full volume! August ambassador: <a href="spotify:artist:7qvjUtp2ccRD9AiDnukyFF">NOVAH</a>
 
 2,596 songs - 5 day 15 hr 53 min
 

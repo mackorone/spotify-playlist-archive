@@ -4,7 +4,7 @@
 
 > 🍾
 
-239 songs - 13 hr 52 min
+240 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Le temps passe \- Rework](https://open.spotify.com/track/1chqd0JiDJrr7vW94erwO6) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe \(Rework\)](https://open.spotify.com/album/2VZhYZI0eIGvf7JBvOKxAh) | 2:58 | 2022-12-08 | 2023-09-23 |
 | [Learn To Let You Go](https://open.spotify.com/track/6yb6j4wlyh7QJRwwwkgf5x) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/45Si7yzaj24HiZcZg1gHcU) | 3:11 | 2025-04-17 |  |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-12-06 |  |
-| [Lemon Lime](https://open.spotify.com/track/5Wqs17yMH84mkbZPpdBQ6i) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [WANDER](https://open.spotify.com/album/6x8LZr9QKEG7IP4eAcxEQf) | 2:20 | 2025-05-02 |  |
+| [Lemon Lime](https://open.spotify.com/track/5Wqs17yMH84mkbZPpdBQ6i) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [WANDER](https://open.spotify.com/album/6x8LZr9QKEG7IP4eAcxEQf) | 2:20 | 2025-05-02 | 2025-08-15 |
 | [Lightenup](https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 3:57 | 2023-01-04 | 2024-06-22 |
 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 | 2022-12-08 | 2023-06-10 |
 | [Lost](https://open.spotify.com/track/2P008xRvFjXgzOK7OUUVyS) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Lost](https://open.spotify.com/album/6baHRhSnqtzgOo4uPhMAVO) | 3:28 | 2022-12-08 | 2023-06-10 |
@@ -148,6 +148,7 @@
 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 | 2023-12-01 | 2025-01-17 |
 | [Move Me](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 | 2022-12-08 | 2023-09-23 |
 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 | 2022-12-08 | 2023-09-23 |
+| [Nanaman](https://open.spotify.com/track/60x9cVQ3agMY2tNtzisgVK) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Nanaman](https://open.spotify.com/album/4ytEbWBXLTrrgfu9plJhr8) | 3:11 | 2025-08-14 |  |
 | [Never Forget You](https://open.spotify.com/track/3xxmjMvJsSR3L7mUOxP9QA) | [Noisettes](https://open.spotify.com/artist/6oX4tx055oEFYM3ahDTyOD) | [Wild Young Hearts](https://open.spotify.com/album/0xobW2Yg1TBQ53ybxYAlyA) | 3:12 | 2022-12-08 | 2023-09-23 |
 | [Nihilist](https://open.spotify.com/track/6CmiNk8xgFGonzQYr6dPFU) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [Nihilist](https://open.spotify.com/album/3ZzdbQk3LgpxvsAQ7Fhz5c) | 2:30 | 2025-05-30 | 2025-07-11 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-28 | 2025-04-11 |

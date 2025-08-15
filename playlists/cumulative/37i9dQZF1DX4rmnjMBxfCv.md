@@ -2,7 +2,7 @@
 
 ### [mint نعنع](https://open.spotify.com/playlist/37i9dQZF1DX4rmnjMBxfCv)
 
-> The best dance and electronic songs in the Middle East and North Africa\. Cover: SHAF
+> The best dance and electronic songs in the Middle East and North Africa\. Cover: Vanco
 
 274 songs - 18 hr 8 min
 

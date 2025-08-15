@@ -2,7 +2,7 @@
 
 ### [Türkçe Pop](https://open.spotify.com/playlist/37i9dQZF1DX9ASuQophyb3)
 
-> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Amo988
+> Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: EDIS
 
 319 songs - 16 hr 7 min
 

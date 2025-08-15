@@ -1,44 +1,108 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Chance Pe\u00f1a",
-  "num_followers": 167528,
+  "description": "A laid-back trip in the folk scene. Cover: Georgia Harmer",
+  "num_followers": 167525,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtvVABfXlg3ER3mlYNbSQGUdEpd",
+  "snapshot_id": "AAAAAKl1cBpBJTApmHCjGZEOjjUl8sFS",
   "tracks": [
     {
-      "added_at": "2025-08-08 04:01:30",
+      "added_at": "2025-08-15 00:01:32",
       "album": {
-        "name": "Collapse",
-        "url": "https://open.spotify.com/album/2jGAYSrPZor7BOYRGciAmd"
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
         }
       ],
-      "duration_ms": 272221,
-      "name": "Collapse",
-      "url": "https://open.spotify.com/track/7DIfpX5Mf10iQmLquDwIUx"
+      "duration_ms": 221551,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4"
     },
     {
-      "added_at": "2025-08-08 04:01:30",
+      "added_at": "2025-08-15 00:01:32",
       "album": {
-        "name": "Your Body Now",
-        "url": "https://open.spotify.com/album/5Cp4DVyQ52dGKUIcBR9THC"
+        "name": "Not There Yet",
+        "url": "https://open.spotify.com/album/72jWkbHCIDhUBFoOXbv2WK"
       },
       "artists": [
         {
-          "name": "Hayley Gene Penner",
-          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
         }
       ],
-      "duration_ms": 197831,
-      "name": "Your Body Now",
-      "url": "https://open.spotify.com/track/47PsWb8Zebc35qg4pporUY"
+      "duration_ms": 193058,
+      "name": "Not There Yet",
+      "url": "https://open.spotify.com/track/0ONF1pX2bhclWj3QfKP0zH"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "By the Way",
+        "url": "https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Interior Live Oak",
+        "url": "https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Missionary Bell",
+      "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Modes of Transportation",
+        "url": "https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 210180,
+      "name": "Jessie's Comet",
+      "url": "https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "Like The Rain",
+      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -57,6 +121,26 @@
       "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
     },
     {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+    },
+    {
       "added_at": "2025-07-28 14:15:31",
       "album": {
         "name": "Hotel TV",
@@ -71,6 +155,170 @@
       "duration_ms": 277951,
       "name": "Hotel TV",
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/1WDVN86bNSZ9vuGFMVfXJ6"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 229070,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/0GI6G8PlaUs1orX7nSKoBv"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Anyways, I Love You (Better with Allen)",
+        "url": "https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You - Better with Allen",
+      "url": "https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "When I Cross the River",
+        "url": "https://open.spotify.com/album/7qAEtvITWy5ZhUK4Gdl1Zi"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/2rtVUuN6Mwujm9YcJ03ITe"
+    },
+    {
+      "added_at": "2025-08-08 04:01:30",
+      "album": {
+        "name": "Welcome Stranger",
+        "url": "https://open.spotify.com/album/0zlV9JrYYlWxY9GgkfjaVL"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 217128,
+      "name": "Welcome Stranger",
+      "url": "https://open.spotify.com/track/4JnvPtHlD3TGmuYuVhSTjl"
+    },
+    {
+      "added_at": "2025-08-08 04:01:30",
+      "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Maybe It's Me",
+        "url": "https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "Maybe It's Me",
+      "url": "https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A"
+    },
+    {
+      "added_at": "2025-08-01 04:01:27",
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/3cFKjTXNJSGL7TBQWenR4z"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "duration_ms": 205916,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/1AxQ9u0qem2iAAZ4YO22MC"
+    },
+    {
+      "added_at": "2025-08-08 04:01:30",
+      "album": {
+        "name": "Collapse",
+        "url": "https://open.spotify.com/album/2jGAYSrPZor7BOYRGciAmd"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 272221,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/7DIfpX5Mf10iQmLquDwIUx"
+    },
+    {
+      "added_at": "2025-08-15 00:01:32",
+      "album": {
+        "name": "Waiting to Love You",
+        "url": "https://open.spotify.com/album/68KciNAYifwo6OW5XIRwJI"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 221127,
+      "name": "Waiting to Love You",
+      "url": "https://open.spotify.com/track/7BhQQFASdibLV4aheBP3cD"
+    },
+    {
+      "added_at": "2025-08-08 04:01:30",
+      "album": {
+        "name": "Your Body Now",
+        "url": "https://open.spotify.com/album/5Cp4DVyQ52dGKUIcBR9THC"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "duration_ms": 197831,
+      "name": "Your Body Now",
+      "url": "https://open.spotify.com/track/47PsWb8Zebc35qg4pporUY"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -123,38 +371,6 @@
     {
       "added_at": "2025-08-08 04:01:30",
       "album": {
-        "name": "Welcome Stranger",
-        "url": "https://open.spotify.com/album/0zlV9JrYYlWxY9GgkfjaVL"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 217128,
-      "name": "Welcome Stranger",
-      "url": "https://open.spotify.com/track/4JnvPtHlD3TGmuYuVhSTjl"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-08-08 04:01:30",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/5rcb27gz7zYhz2LASit9cF"
       },
@@ -167,22 +383,6 @@
       "duration_ms": 220084,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV"
-    },
-    {
-      "added_at": "2025-08-01 04:01:27",
-      "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/3cFKjTXNJSGL7TBQWenR4z"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        }
-      ],
-      "duration_ms": 205916,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/1AxQ9u0qem2iAAZ4YO22MC"
     },
     {
       "added_at": "2025-08-08 04:01:30",
@@ -1431,146 +1631,6 @@
     {
       "added_at": "2025-07-11 04:00:27",
       "album": {
-        "name": "baby blue frigidaire mini fridge",
-        "url": "https://open.spotify.com/album/0GPaa5BO7kPvc6pjhxEjya"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 219603,
-      "name": "baby blue frigidaire mini fridge",
-      "url": "https://open.spotify.com/track/6YWKvsh28AOZKYHJZksbaX"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Grieving",
-        "url": "https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 196453,
-      "name": "Grieving",
-      "url": "https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Yvonne",
-        "url": "https://open.spotify.com/album/6GQq3xn2h7JfW4fJYPHUFf"
-      },
-      "artists": [
-        {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        },
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        },
-        {
-          "name": "Darryl Kissick",
-          "url": "https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "Yvonne",
-      "url": "https://open.spotify.com/track/6OCv4hNqRyzUkwdAIMSvFf"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Sprig B Sides",
-        "url": "https://open.spotify.com/album/69kymU1rW1EQlHIbsKU5Xp"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "duration_ms": 179621,
-      "name": "Not In A Bad Way",
-      "url": "https://open.spotify.com/track/7kG0xEuxb9Det04joUDh0d"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Victory Songs",
-        "url": "https://open.spotify.com/album/4iIMbpIZP16IHJDyToUekY"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 225131,
-      "name": "Most of the Time We Are Lost",
-      "url": "https://open.spotify.com/track/6rgu3f5b0EoBGEdKBl2I9z"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Never Come Down",
-        "url": "https://open.spotify.com/album/0Axe600mrLOT9aQk63b3Al"
-      },
-      "artists": [
-        {
-          "name": "Tia Wood",
-          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
-        }
-      ],
-      "duration_ms": 191984,
-      "name": "Never Come Down",
-      "url": "https://open.spotify.com/track/047LgrDy5eFYexDLf0tyDv"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Everybody Misses You",
-        "url": "https://open.spotify.com/album/2An9ai0wr8qISW0to3IrUZ"
-      },
-      "artists": [
-        {
-          "name": "Julie Doiron",
-          "url": "https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT"
-        },
-        {
-          "name": "Chris Sheppard",
-          "url": "https://open.spotify.com/artist/6VRey6iB1kguWbpomUrnCT"
-        }
-      ],
-      "duration_ms": 231977,
-      "name": "Everybody Misses You",
-      "url": "https://open.spotify.com/track/5vvadLMFmDJGUqVhEuGyoE"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Basement beds",
-        "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 261219,
-      "name": "Basement beds",
-      "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
         "name": "Elderberry Wine",
         "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
       },
@@ -1583,86 +1643,6 @@
       "duration_ms": 215506,
       "name": "Elderberry Wine",
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Questions",
-        "url": "https://open.spotify.com/album/6yYAQwewuKRqopK7aLlSjU"
-      },
-      "artists": [
-        {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
-        }
-      ],
-      "duration_ms": 265957,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 237809,
-      "name": "At The Beach, In Every Life",
-      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "baja bird",
-        "url": "https://open.spotify.com/album/5NDp4mlo4zDRP8bcuIeuR4"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 228681,
-      "name": "baja bird",
-      "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "Lucius",
-        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Final Days",
-      "url": "https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl"
-    },
-    {
-      "added_at": "2025-07-11 04:00:27",
-      "album": {
-        "name": "The Diary of Living",
-        "url": "https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 205250,
-      "name": "The Hopefuls",
-      "url": "https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD"
     }
   ],
   "unique_name": "Folk & Friends",

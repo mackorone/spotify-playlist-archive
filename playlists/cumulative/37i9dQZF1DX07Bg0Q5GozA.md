@@ -2,9 +2,9 @@
 
 ### [OFF POP](https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA)
 
-> New music off the beaten track\. Cover: Night Tapes
+> New music off the beaten track\. Cover: TEED
 
-1,229 songs - 3 day 9 hr 24 min
+1,230 songs - 3 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-30 | 2024-06-21 |
 | [Decimal](https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Decimal](https://open.spotify.com/album/7cOhiId5mWqp7kkIcvSvjl) | 2:32 | 2024-10-10 | 2025-01-31 |
 | [Deep Scene](https://open.spotify.com/track/3hbLGYn8bCeOMhFoknul7k) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Deep Scene](https://open.spotify.com/album/0nJr15igzbLH7s1AsAa2pn) | 4:19 | 2024-07-18 | 2024-08-09 |
+| [Desire](https://open.spotify.com/track/1LpsGhseP5CoRstvoXRhYi) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Desire / The Echo](https://open.spotify.com/album/6rOgSgLPH6OtQuJsX7inJP) | 4:49 | 2025-08-14 |  |
 | [Destiny](https://open.spotify.com/track/0iHeL8FMYjyixHPVi1bvuh) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Findia](https://open.spotify.com/artist/1238uDqogGK9DyE1zry8Dz) | [Harmonics](https://open.spotify.com/album/6t9wDnqiGEBvGu6fRB8x00) | 4:12 | 2024-07-11 | 2024-07-19 |
 | [Deuteronomy \- Original Mix](https://open.spotify.com/track/0OFg9XrBTDowg4VCffFJjm) | [Terrence Parker](https://open.spotify.com/artist/4hXZQPceQIf654OSomVXOs) | [TP Traxx 1st Edition](https://open.spotify.com/album/0a3V1HjkCEmSgTsmbEt7QC) | 6:57 | 2022-12-30 | 2023-01-02 |
 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 | 2024-08-01 | 2024-12-13 |
@@ -450,7 +451,7 @@
 | [Hiatus](https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Hiatus](https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2) | 2:48 | 2024-05-23 | 2024-07-05 |
 | [Hiatus \(David Bay Remix\)](https://open.spotify.com/track/5KWedn4caEvgNdxa5Avxjr) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Hiatus \(David Bay Remix\)](https://open.spotify.com/album/1ccMHEajn9FBfBWiDHiJ7c) | 2:58 | 2024-11-21 | 2025-02-07 |
 | [Hidden in the Mist](https://open.spotify.com/track/0PoZOhx2hOvCp0HpYit2h1) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Hidden in the Mist](https://open.spotify.com/album/2KAx9enhJClrgz24lvejBy) | 3:22 | 2023-01-19 | 2023-02-24 |
-| [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-13 |  |
+| [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-13 | 2025-08-15 |
 | [Hideout](https://open.spotify.com/track/0DIpiVfVoAGIuGf3AVWphi) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Fuzzy Fantasy](https://open.spotify.com/album/0LQI2wqRCB9riCZV0UYvBH) | 4:06 | 2024-03-14 | 2024-04-19 |
 | [Hideout](https://open.spotify.com/track/1nLXY1q1YnLeongeoxfTLa) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/5dJ4KG29TkSey5mlyJO5gZ) | 4:06 | 2024-04-18 | 2024-07-12 |
 | [Hideout](https://open.spotify.com/track/2rtJvndkVq6OnbDx8dvEvC) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Hideout](https://open.spotify.com/album/4QTeQy8YnR4XtFbcFBpzzy) | 4:06 | 2024-01-11 | 2024-03-18 |

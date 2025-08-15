@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1251832,
+  "num_followers": 1251874,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJqEAAAAAACfIy4ZDvX9OcZK6pG3mWFS",
+  "snapshot_id": "aJvVgAAAAAD0yV64YjBB+VkPO65i9DUO",
   "tracks": [
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stories Of Surrender EP",
-        "url": "https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba"
-      },
-      "artists": [
-        {
-          "name": "Bono",
-          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
-        },
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 232758,
-      "name": "Sunday Bloody Sunday - Stories Of Surrender Version",
-      "url": "https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stories Of Surrender EP",
+        "url": "https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba"
+      },
+      "artists": [
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 232758,
+      "name": "Sunday Bloody Sunday - Stories Of Surrender Version",
+      "url": "https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg"
     },
     {
       "added_at": null,

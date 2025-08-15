@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Thaíde
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,987 likes - 78 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,002 likes - 78 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
 
-253 songs - 12 hr 43 min
+254 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Ekorso](https://open.spotify.com/track/04qEuAt4TR3p2KQlJecNsu) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK), [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Ekorso](https://open.spotify.com/album/52WRXL8Z5JeODCqBU39Ork) | 3:44 | 2022-06-09 | 2024-02-03 |
 | [Eye Clear](https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Da Yanney](https://open.spotify.com/artist/1zAYykvv39SwUBLzldCBcP) | [Eye Clear](https://open.spotify.com/album/7nGHPzpRjg9zWeoWoZKe7Z) | 1:46 | 2024-07-19 | 2025-01-31 |
 | [Faith](https://open.spotify.com/track/5kF0VDA972ETRkY1Y8v5wH) | [Bosoma](https://open.spotify.com/artist/2OdIbvMTCaQqc1QnhLDSAT) | [Faith](https://open.spotify.com/album/2GC40qAxNSE8RM4jQ5OhFJ) | 2:45 | 2025-02-14 | 2025-02-22 |
+| [Fantasy](https://open.spotify.com/track/3KUHvjCyXJpFvd2Hf29aGa) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Fantasy](https://open.spotify.com/album/4dKWS95i2zv2Y2O9EBfQoI) | 2:27 | 2025-08-15 |  |
 | [Feelingx](https://open.spotify.com/track/5xYLT71o8zWLyyiwIraq9v) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [2 TIMES A GUY](https://open.spotify.com/album/5rpbWF8MqB3At9rdJN9ZUs) | 2:02 | 2022-06-09 | 2023-10-27 |
 | [FIE NIPA](https://open.spotify.com/track/7tylh3NIGSBKwgSEjZ3NfC) | [Kamafo](https://open.spotify.com/artist/6Mf8MtQqWKe5kg5qfKYxp1), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [THE IMMERSION](https://open.spotify.com/album/1qmnfbXRcbZgrrMcU42V2g) | 3:25 | 2025-02-21 | 2025-02-28 |
 | [Fikyiri Fikyiri](https://open.spotify.com/track/4nUvkgJxD0UZin5tDUvjlG) | [Richmiller](https://open.spotify.com/artist/5d1wHzwYfeFjOvUZLSQDDA), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Fikyiri Fikyiri](https://open.spotify.com/album/3fOC2lNZ0h3mApUD3ZwUiK) | 2:40 | 2023-08-10 | 2023-09-10 |
@@ -110,7 +111,7 @@
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2022-06-09 | 2023-02-24 |
 | [Goldigga](https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg) | [Samsney](https://open.spotify.com/artist/1RaVe8wzZ1DnL6fcAf1x2g), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Goldigga](https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO) | 3:02 | 2022-06-09 | 2024-09-20 |
 | [Gye Nyame](https://open.spotify.com/track/3hOXkEML9Nnqr7Zkc5tRv0) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Gye Nyame](https://open.spotify.com/album/0r1Ii1oAWal96uPCJwqacm) | 2:19 | 2022-09-01 | 2022-10-14 |
-| [HABIBI](https://open.spotify.com/track/61KAFZT2UhKG7VBE3R9vec) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEALING](https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH) | 2:56 | 2024-09-13 |  |
+| [HABIBI](https://open.spotify.com/track/61KAFZT2UhKG7VBE3R9vec) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [HEALING](https://open.spotify.com/album/7jjKoKreEPJ8eGGz2fdDSH) | 2:56 | 2024-09-13 | 2025-08-15 |
 | [HAKUTUKU](https://open.spotify.com/track/0e7ET54Oj0sqQyWega3dYj) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HAKUTUKU](https://open.spotify.com/album/7elaioK3JHZHKEe929xOuJ) | 2:52 | 2024-12-20 | 2025-02-22 |
 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 | 2024-05-17 |  |
 | [Heavy](https://open.spotify.com/track/3gx7QVp3Ai7caWWm0MBCW4) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KONNEY](https://open.spotify.com/artist/2hoKCZleMjxNSKUu3eO1eG) | [ANFITO](https://open.spotify.com/album/09ONIT6lO4WhKLyDiZFtn6) | 2:17 | 2024-07-26 | 2024-09-13 |

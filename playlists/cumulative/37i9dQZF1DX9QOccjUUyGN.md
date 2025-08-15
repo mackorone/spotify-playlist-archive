@@ -2,9 +2,9 @@
 
 ### [TraPiseiro](https://open.spotify.com/playlist/37i9dQZF1DX9QOccjUUyGN)
 
-> trap 🤝 piseiro\. Foto: Arthurzim
+> trap 🤝 piseiro\. Foto: Mago de Tarso
 
-751 songs - 1 day 11 hr 33 min
+752 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Malokeragem 2](https://open.spotify.com/track/0AnmjiG5ulFJom8Y8RBpf3) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [DJ Kaio Mix](https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB) | [Nova Tendência](https://open.spotify.com/album/62cPWetHGQFI0rMsmZV8dS) | 4:48 | 2023-12-15 | 2024-08-10 |
 | [Maloqueiro Chique](https://open.spotify.com/track/2ha9jcZa86JGKa0wDkKD5o) | [Nonatto Mc](https://open.spotify.com/artist/64cd3mGH1pkbQRAPLCnbds), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Maloqueiro Chique](https://open.spotify.com/album/2weV2FJUSQDN36NqdxPFKD) | 2:59 | 2024-03-22 | 2024-04-06 |
 | [Malvada](https://open.spotify.com/track/2Xc2eEolkRdSfkMibKwzB1) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Malvada](https://open.spotify.com/album/2KQ98Un3h6nEhnLrzFCzHe) | 2:42 | 2022-11-11 | 2022-12-24 |
+| [Mamulengo](https://open.spotify.com/track/7fInbajkdujX3jNoaRMITl) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae) | [Mamulengo](https://open.spotify.com/album/6PCJ0Y9gF37PgbBHFJUK7p) | 2:01 | 2025-08-15 |  |
 | [Manda um Sinal](https://open.spotify.com/track/0eem2t1qlcudpqFGbKeAEh) | [P3](https://open.spotify.com/artist/7zXH2zNp0HvARdxPbhDhti), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda um Sinal](https://open.spotify.com/album/48ySUzBqr2ZocFZvonDc7R) | 2:36 | 2023-12-01 | 2024-01-13 |
 | [Manga Rosa](https://open.spotify.com/track/1ebggv45NciH0NoULmBVQC) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Manga Rosa](https://open.spotify.com/album/2G7cF9AfONIGOsOus4TawG) | 2:13 | 2023-09-08 | 2024-06-22 |
 | [Manga, Morango ou Kiwi](https://open.spotify.com/track/5JIZITyyoY0mRIWgYQ3g27) | [Marin](https://open.spotify.com/artist/5kni0YNAYU6UftGp4Pn077), [DANK](https://open.spotify.com/artist/7tDjxyXj7EWdnnpAVwr2zM), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [DJ Gui](https://open.spotify.com/artist/3ojbgoniv6UU4eR2HM22wK) | [Manga, Morango ou Kiwi](https://open.spotify.com/album/2aSqDpjnIHEWgMmSE32WJ1) | 2:22 | 2022-12-02 | 2023-04-22 |

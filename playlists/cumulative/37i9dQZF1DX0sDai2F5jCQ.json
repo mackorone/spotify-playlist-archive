@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 284052,
       "name": "100 Of Em",
       "url": "https://open.spotify.com/track/4WN1g0wOhq6K27ERZPBJqX"
@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 198857,
       "name": "95s",
       "url": "https://open.spotify.com/track/2wnYDbY2UeySCpWG2EQ4ah"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 312240,
       "name": "Again",
       "url": "https://open.spotify.com/track/4IqXyCH75mW4dMDbHufqDX"
@@ -2208,7 +2208,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 113142,
       "name": "CARIBBEAN",
       "url": "https://open.spotify.com/track/6zyOSOPIBuPLFPO8h1C13l"
@@ -4243,6 +4243,28 @@
     },
     {
       "album": {
+        "name": "Flawless",
+        "url": "https://open.spotify.com/album/0iFMfNA8oabCI7wq1npZlJ"
+      },
+      "artists": [
+        {
+          "name": "The 046",
+          "url": "https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g"
+        },
+        {
+          "name": "D-Boy 223",
+          "url": "https://open.spotify.com/artist/2eqU531iUDaqOoivBdrEOq"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189038,
+      "name": "Flawless",
+      "url": "https://open.spotify.com/track/0Z5wZSMRhbQyfLpfu3eZZq"
+    },
+    {
+      "album": {
         "name": "Flip The Switch x Songer",
         "url": "https://open.spotify.com/album/3gPIe4coVzscTdurYNNz2R"
       },
@@ -5082,6 +5104,28 @@
       "duration_ms": 97714,
       "name": "Hands On Knees",
       "url": "https://open.spotify.com/track/52ceILmHmaBcD8DyVSgG1U"
+    },
+    {
+      "album": {
+        "name": "Hard Feelings",
+        "url": "https://open.spotify.com/album/4zY2afKKWaLswIPMfrNZQ1"
+      },
+      "artists": [
+        {
+          "name": "Pistol Pete & Enzo",
+          "url": "https://open.spotify.com/artist/2rii6NNe3ZNmGoLyq6yjUG"
+        },
+        {
+          "name": "JKING",
+          "url": "https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "Hard Feelings",
+      "url": "https://open.spotify.com/track/4MCg8Jj8P4tVnNY6MytUrk"
     },
     {
       "album": {
@@ -6398,7 +6442,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 153991,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF"
@@ -11962,6 +12006,24 @@
       "duration_ms": 197333,
       "name": "Trauma (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5jXKeWgIopSbVWyVIOe6W9"
+    },
+    {
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/673wPIH6WgkyhaM5bTfg35"
+      },
+      "artists": [
+        {
+          "name": "Lisi",
+          "url": "https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192008,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU"
     },
     {
       "album": {

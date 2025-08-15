@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Mattyeux, Videoclub",
+  "description": "The best French indie tracks right now. Cover : Odetto",
   "name": "Made in France",
   "tracks": [
     {
@@ -2394,7 +2394,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 159516,
       "name": "C\u0153ur Maladroit",
       "url": "https://open.spotify.com/track/0fJZ9FM3gT6EBog8tJOwmQ"
@@ -4774,6 +4774,24 @@
       "duration_ms": 226000,
       "name": "HOPE YOU'LL FIND OUT",
       "url": "https://open.spotify.com/track/3q7Kc3SMI3yBnsfESjvnok"
+    },
+    {
+      "album": {
+        "name": "Hopes",
+        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Hopes",
+      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
     },
     {
       "album": {

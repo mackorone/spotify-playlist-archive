@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 8 hr 21 min
+144 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Dance Silly](https://open.spotify.com/track/2Cg4El69vtJaIEZyc9ARMl) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 3:04 | 2023-12-30 |  |
 | [Death Drive](https://open.spotify.com/track/356fWfOPJxJ6ffowduEn19) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Gemini\- EP](https://open.spotify.com/album/0zzetjBCgwYJyIyksv0hCQ) | 4:32 | 2023-12-30 |  |
 | [Decide](https://open.spotify.com/track/0sMs2sqkf6MUXLGqSwa3Ga) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Decide](https://open.spotify.com/album/5fdIn271QSM8l7x1jTPgK4) | 3:45 | 2023-12-30 | 2025-07-24 |
-| [Deep Cut](https://open.spotify.com/track/1qbopOyKYNpwrpGu08ckk0) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Deep Cut](https://open.spotify.com/album/14UJfeRG1LCanJRLb7Blb2) | 3:25 | 2023-12-30 |  |
+| [Deep Cut](https://open.spotify.com/track/0cYqIxP7P85bvMpuFrqOsU) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Deep Cut](https://open.spotify.com/album/2slg2V2SUKNspuFrKH5dFM) | 3:25 | 2025-08-14 |  |
+| [Deep Cut](https://open.spotify.com/track/1qbopOyKYNpwrpGu08ckk0) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6) | [Deep Cut](https://open.spotify.com/album/14UJfeRG1LCanJRLb7Blb2) | 3:25 | 2023-12-30 | 2025-08-15 |
 | [Diver City in the House](https://open.spotify.com/track/7sDK21co6xDJwVIUwcSigr) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:04 | 2023-12-30 |  |
 | [Diver City Theme](https://open.spotify.com/track/3k2m4S5cIgtiwnzzK7DnKo) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 2:42 | 2023-12-30 |  |
 | [Don't Be Shy](https://open.spotify.com/track/5hMnmFo7lzG3KTZHNgAX3O) | [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [The Singles](https://open.spotify.com/album/78E8eyABvUHdWiiLZlTqey) | 3:21 | 2025-07-20 | 2025-07-24 |

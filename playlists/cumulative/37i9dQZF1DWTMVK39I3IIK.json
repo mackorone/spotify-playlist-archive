@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   Snuggle",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   AFSKUM",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -400,6 +400,24 @@
       "duration_ms": 128437,
       "name": "Big city life",
       "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
+    },
+    {
+      "album": {
+        "name": "Big Deal",
+        "url": "https://open.spotify.com/album/6O0cIr1fA4U7hB3z7p6ydQ"
+      },
+      "artists": [
+        {
+          "name": "Pascoe",
+          "url": "https://open.spotify.com/artist/3EUDC2YMBp9j5hgOVoQE4c"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/1QjVJm65BfSr63wbpzk86Q"
     },
     {
       "album": {
@@ -1336,7 +1354,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 192474,
       "name": "En Som Dig",
       "url": "https://open.spotify.com/track/2D70stXApX10H7JKusia0x"
@@ -2541,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "JEG VIL H\u00d8RE ALTING / GLEMMER ALDRIG",
+        "url": "https://open.spotify.com/album/0FOQGq5MzCH6HJpJO56kdA"
+      },
+      "artists": [
+        {
+          "name": "AFSKUM",
+          "url": "https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258226,
+      "name": "JEG VIL H\u00d8RE ALTING",
+      "url": "https://open.spotify.com/track/38e4vqyumqZVXUB2jU1lkR"
+    },
+    {
+      "album": {
         "name": "jukeboxx",
         "url": "https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7"
       },
@@ -2910,6 +2946,24 @@
       "duration_ms": 150488,
       "name": "Lige s\u00e5 fucked som mig",
       "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h"
+      },
+      "artists": [
+        {
+          "name": "EMMA SEE",
+          "url": "https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196722,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1"
     },
     {
       "album": {
@@ -4060,7 +4114,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 158260,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1Tz8z22Kkxhr2GHNfrgjTz"
@@ -4938,7 +4992,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 191160,
       "name": "within",
       "url": "https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg"

@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-299 songs - 17 hr 15 min
+301 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Help Myself](https://open.spotify.com/track/03CHPSpb16gkupgNbmmaTT) | [EDY](https://open.spotify.com/artist/23fD2AM3mNVBRhCteyxgdQ) | [Help Myself](https://open.spotify.com/album/0Jcq9dK8GdEc2UYmBEWZ4P) | 2:31 | 2024-05-20 | 2024-11-08 |
 | [HIGH VIBRATION](https://open.spotify.com/track/2Kl63H7011jiznXtTWrhmm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb), [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [HIGH VIBRATION](https://open.spotify.com/album/5Lu3frfWOdxZJSw87uvQOZ) | 3:03 | 2024-08-15 | 2024-11-08 |
 | [Hold It Up](https://open.spotify.com/track/1koUO8JFx9gR2GC3fxRb5Y) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Hold It Up](https://open.spotify.com/album/7lQE1NYJEBJSA3taeHaNcK) | 4:07 | 2025-01-23 | 2025-02-24 |
-| [Hold Up](https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [KT Souljah](https://open.spotify.com/artist/3gVTOFVt8i5LxsSYOqtpRG) | [Hold Up](https://open.spotify.com/album/0L14Tbk7Bb6W8KFCfXUq4h) | 2:56 | 2025-01-23 |  |
+| [Hold Up](https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [KT Souljah](https://open.spotify.com/artist/3gVTOFVt8i5LxsSYOqtpRG) | [Hold Up](https://open.spotify.com/album/0L14Tbk7Bb6W8KFCfXUq4h) | 2:56 | 2025-01-23 | 2025-08-15 |
 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 | 2025-05-29 |  |
 | [How Will I Know](https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [How Will I Know](https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0) | 3:17 | 2024-10-24 |  |
 | [How's Heaven](https://open.spotify.com/track/5TyBg7aWg0ee0k4JW3Q6zG) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [How's Heaven](https://open.spotify.com/album/0M3ZNk13MozqizFJgSj4G3) | 3:41 | 2024-05-20 | 2024-11-08 |
@@ -154,7 +154,7 @@
 | [Light](https://open.spotify.com/track/7gljHcBRrik5wrP6SCUvOY) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Light](https://open.spotify.com/album/5Vh9pZaNAC4mTCZwUKymlI) | 3:41 | 2024-09-26 | 2025-01-31 |
 | [Light Up](https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Sean Rii](https://open.spotify.com/artist/32R0YwtKLXPq4R7VohCY7k) | [Light Up](https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6) | 2:52 | 2024-12-05 |  |
 | [LightBulb](https://open.spotify.com/track/6TmLWd2GsZwFIbPAztgX57) | [Ladi6](https://open.spotify.com/artist/6zZvfMW6XSPQcIeIdjHccY) | [LightBulb](https://open.spotify.com/album/2o10K3y7a0yF1wwbKvFyIu) | 3:51 | 2025-05-01 | 2025-06-16 |
-| [Live for Today](https://open.spotify.com/track/6q1LvlxEIVSV65xkUPJOPz) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Live for Today](https://open.spotify.com/album/61PPrmUOtqag77bDSCCsug) | 3:05 | 2025-07-31 |  |
+| [Live for Today](https://open.spotify.com/track/6q1LvlxEIVSV65xkUPJOPz) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Live for Today](https://open.spotify.com/album/61PPrmUOtqag77bDSCCsug) | 3:05 | 2025-07-31 | 2025-08-15 |
 | [Live It Up \(with The Green\)](https://open.spotify.com/track/5rJ067XuSGQEzmfADL2RSN) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Caleb Keolanui](https://open.spotify.com/artist/345FKO0Dl42vNEtdgmCJzk) | [Live It Up \(with The Green\)](https://open.spotify.com/album/4fbFr9FJOTgMzlan4aafxA) | 4:00 | 2025-07-17 |  |
 | [Loline](https://open.spotify.com/track/0oo9cY4TGyFZ06mp4PmYhv) | [The Bats](https://open.spotify.com/artist/2YvNi4oPdBgD45gc1UycxW) | [Loline](https://open.spotify.com/album/6ApXM9SJJDq9eu2jEqIm0x) | 4:55 | 2025-04-03 | 2025-04-25 |
 | [Long Way To Go](https://open.spotify.com/track/7JrvF8THUkrllHmLPoNRiu) | [Nik Brinkman](https://open.spotify.com/artist/5gI4KPyP30hO56IyyBpC3O) | [Long Way To Go](https://open.spotify.com/album/7BJl1tH4gp1egCQdD5pQIh) | 2:56 | 2025-01-09 | 2025-01-24 |
@@ -241,6 +241,7 @@
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-12 |  |
 | [Sail Away](https://open.spotify.com/track/4CZswu0Wz6p8MofHYdjgxc) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Sail Away](https://open.spotify.com/album/0ZTVAUvD7uDqn2s3Ir6IQV) | 2:29 | 2025-05-08 |  |
 | [Screaming In Your Driveway](https://open.spotify.com/track/6ioWmo3bnXNWJLd484Qux4) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Screaming In Your Driveway](https://open.spotify.com/album/3dBrKXxoVbd4nxPH5p6qv5) | 4:12 | 2024-05-20 | 2024-08-16 |
+| [Searching For](https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [The//Glow](https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz) | 3:54 | 2025-08-14 |  |
 | [See No Evil](https://open.spotify.com/track/6yaV16TOXIqxQaa14dZ7Sk) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [Caru](https://open.spotify.com/artist/2W3HtoJXnap6BDGYr8PRuv), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [See No Evil](https://open.spotify.com/album/5b9U2aOIhQ6OBYfL7cm6Ef) | 2:21 | 2024-08-15 | 2024-11-08 |
 | [Send It Down The Line](https://open.spotify.com/track/01uVlNzTTFLpxRnEvJeBBL) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Enter Now Brightness](https://open.spotify.com/album/2rwBtT1dgaXacWKaMFJTZ7) | 5:08 | 2025-02-06 | 2025-03-10 |
 | [She's Cruel](https://open.spotify.com/track/42ZVLDH2wgSPrds62KoDN7) | [Molly Rocket](https://open.spotify.com/artist/2sjRgLc2ZNNpcI41UGWPCS) | [She's Cruel](https://open.spotify.com/album/6DITEsAS2SDRhq62gQSgTX) | 3:21 | 2024-09-12 | 2024-11-08 |
@@ -306,6 +307,7 @@
 | [Wildfire](https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [Wildfire](https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp) | 2:36 | 2024-05-20 |  |
 | [With You](https://open.spotify.com/track/2uAn59bUH20FLJzHXnl5zi) | [Juicy Jamz](https://open.spotify.com/artist/5YwLWCeArN7CECv7CLfz9f) | [With You](https://open.spotify.com/album/7KynKKoRnC19KaLuQVKt4U) | 3:34 | 2024-08-30 | 2024-11-08 |
 | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS) | 3:00 | 2024-08-15 | 2024-11-17 |
+| [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 | 2025-08-14 |  |
 | [You're On Your Own This Time, Again](https://open.spotify.com/track/6refloGDPQzdncMkazz7ED) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [YOYOTTA](https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp) | 3:36 | 2024-08-30 | 2024-11-15 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

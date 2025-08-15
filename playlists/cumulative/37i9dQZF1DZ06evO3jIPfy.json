@@ -1352,9 +1352,31 @@
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         }
       ],
-      "date_added": "2025-08-05",
+      "date_added": "2025-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 252613,
+      "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/2vO5wNNXjXU28OWp5gyHEO"
+    },
+    {
+      "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2025-08-15",
       "duration_ms": 108413,
       "name": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008: III. Courante",
       "url": "https://open.spotify.com/track/1xvvuNKdndTwtS6EH4AxFZ"

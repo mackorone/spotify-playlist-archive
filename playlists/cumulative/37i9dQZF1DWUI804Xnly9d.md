@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-578 songs - 1 day 8 hr 18 min
+579 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 | 2024-02-20 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
 | [Ja Ve Ja](https://open.spotify.com/track/1ElzcbjqvQVfMeFM7t4kfS) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Ja Ve Ja](https://open.spotify.com/album/3zN6lfX3PbBlasITyYCXpi) | 2:23 | 2024-12-11 | 2025-01-06 |
+| [Jaam \(Acoustic Version\)](https://open.spotify.com/track/3Tl2ymn1tO8xvdXhqWS0WE) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Jaam \(Acoustic Version\)](https://open.spotify.com/album/60y55TxJpnhXrBz7OxaZwh) | 4:02 | 2025-08-14 |  |
 | [Jaan](https://open.spotify.com/track/5jmM3dnSEoHVRl5AZD3kli) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jaan](https://open.spotify.com/album/1XCilJdUD4bYha219y4yLo) | 3:25 | 2024-02-05 | 2024-06-22 |
 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 | 2024-09-30 |  |
 | [Jaan Da \(Rab Ki Dua\)](https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Tejas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Az61ohrjvnyHIccJj0qAt) | 4:27 | 2023-12-06 | 2024-01-09 |
@@ -315,7 +316,7 @@
 | [Le Chal](https://open.spotify.com/track/6LJQ4RhoTFi7KcE57QYCp6) | [Manan Chowdhry](https://open.spotify.com/artist/4kwiOM4JVugEgeXSflae9Q), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y) | [Le Chal](https://open.spotify.com/album/0n0lSrFEANOi4cCQ8JUkCX) | 2:52 | 2024-05-31 | 2024-07-05 |
 | [Le ja](https://open.spotify.com/track/4lggh4NT569bKe4GUH8qN6) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Le ja](https://open.spotify.com/album/3Hghdp415d0JyWwA9mUHH2) | 3:55 | 2024-05-31 | 2024-07-09 |
 | [Learn To Love](https://open.spotify.com/track/1WjCn7G3DFoUoef9KOUA7L) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rajat Arora](https://open.spotify.com/artist/2ubmAXEE8tHwcw8xRHDSh7) | [Learn To Love](https://open.spotify.com/album/0KcRvG80OuG5emQMmV45kT) | 2:59 | 2024-09-03 | 2025-02-04 |
-| [Loriyan](https://open.spotify.com/track/4Nk2m91a4fVN3HJ2nTbxLs) | [Rudraaksh](https://open.spotify.com/artist/13C0l0ksCc9MBMLHslZaLE) | [Loriyan](https://open.spotify.com/album/5XoCFH6XKQLTrhLMgYJVWq) | 2:32 | 2025-06-02 |  |
+| [Loriyan](https://open.spotify.com/track/4Nk2m91a4fVN3HJ2nTbxLs) | [Rudraaksh](https://open.spotify.com/artist/13C0l0ksCc9MBMLHslZaLE) | [Loriyan](https://open.spotify.com/album/5XoCFH6XKQLTrhLMgYJVWq) | 2:32 | 2025-06-02 | 2025-08-15 |
 | [Love Strings](https://open.spotify.com/track/0X74jZuAmNab2gOmZpGkrC) | [Honeyjeet Singh](https://open.spotify.com/artist/6Q7V7hUyKWeIzBz8X90PhZ) | [Love Strings](https://open.spotify.com/album/78SUVtYpOdV367OE30nglI) | 2:58 | 2025-02-03 | 2025-04-19 |
 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 | 2024-03-12 | 2024-07-23 |
 | [Maanliya](https://open.spotify.com/track/1KpsvdF5MDK8Xflp22gl04) | [Ashku](https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW), [Harshad NLT](https://open.spotify.com/artist/3fU9eGeT7xj2vw8qfTjfID) | [Maanliya](https://open.spotify.com/album/615P5SIufwS2mN89GG0ebG) | 3:36 | 2025-07-18 |  |

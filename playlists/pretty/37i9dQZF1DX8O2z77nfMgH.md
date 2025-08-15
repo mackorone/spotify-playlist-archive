@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: TINI
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,743 likes - 57 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,552 likes - 57 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 11 | [COSITAS](https://open.spotify.com/track/3ClyThLf2bguwdMcm7hqZ2) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 3:26 |
 | 12 | [DIME QUE PREFIERES](https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [DIME QUE PREFIERES](https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq) | 3:21 |
 | 13 | [Rebeca](https://open.spotify.com/track/235wpWfuG8l9AFsH21nxAG) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 2:30 |
-| 14 | [Muerte](https://open.spotify.com/track/5B0NM5TZRb4mBO6yYhIrPD) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Muerte](https://open.spotify.com/album/6QsDV1URVhCM5DADPgNHzt) | 1:52 |
+| 14 | [Muerte](https://open.spotify.com/track/5B0NM5TZRb4mBO6yYhIrPD) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Muerte](https://open.spotify.com/album/6QsDV1URVhCM5DADPgNHzt) | 1:56 |
 | 15 | [El inter](https://open.spotify.com/track/4WmbGUbR6Hkz2JQoFwbvus) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Carpe Diem \(Full Experience\)](https://open.spotify.com/album/4ULANGMpYtnBGUdYOdX3jF) | 2:37 |
 | 16 | [CUANTAS VECES](https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:29 |
 | 17 | [BESOS](https://open.spotify.com/track/2wwPT2D9wADniE3XzFHyEY) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [E$ENCIA](https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm) | 3:50 |

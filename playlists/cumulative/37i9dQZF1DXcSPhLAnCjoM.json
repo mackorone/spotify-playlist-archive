@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Soleil Bleu\" de Bleu Soleil et LUIZA est le Grand Hit de la semaine.",
+  "description": "\"Me Enamore\" de RIDSA est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 155409,
       "name": "BABY",
       "url": "https://open.spotify.com/track/0sr5S46jQiCSeORc5ui0jo"
+    },
+    {
+      "album": {
+        "name": "ONZE",
+        "url": "https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K"
+      },
+      "artists": [
+        {
+          "name": "Enchant\u00e9e Julia",
+          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177307,
+      "name": "Ballade",
+      "url": "https://open.spotify.com/track/4nPgOP4KAKil4N5zaww2kY"
     },
     {
       "album": {
@@ -696,6 +714,24 @@
       "duration_ms": 165986,
       "name": "Chaque seconde (feat. M. Pokora)",
       "url": "https://open.spotify.com/track/1pnzctM9itTsKupaQWDQwe"
+    },
+    {
+      "album": {
+        "name": "Chez moi",
+        "url": "https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161016,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1"
     },
     {
       "album": {
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173293,
       "name": "Fou",
       "url": "https://open.spotify.com/track/3k9ls5eHI51YbFcYTAKUfQ"
@@ -3868,7 +3904,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 161213,
       "name": "Petit Fr\u00e8re",
       "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"

@@ -2,9 +2,9 @@
 
 ### [Novità Indie Italiano](https://open.spotify.com/playlist/37i9dQZF1DX6O5gXioqvYB)
 
-> Bouganville e Coca Puma contemplano tutte le  migliori nuove uscite indie con la loro sfera magica 🔮
+> Bouganville e Coca Puma contemplano le nuove uscite indie con la loro sfera 🔮
 
-736 songs - 1 day 13 hr 3 min
+738 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,10 +245,11 @@
 | [Festa](https://open.spotify.com/track/6NFUu2pQMC0MTvOKv8EK4D) | [Malvax](https://open.spotify.com/artist/5rxTrWSZXwqJbhwXpR8886) | [Festa](https://open.spotify.com/album/5gVzgWUOez57LzO44YKioa) | 2:50 | 2025-04-17 | 2025-06-20 |
 | [Fiamma e Pesca](https://open.spotify.com/track/2iaZmKfXodG6lrhAARFsW5) | [nobili](https://open.spotify.com/artist/1bpjt70SOH5GNTfS6yDiIq) | [Fiamma e Pesca](https://open.spotify.com/album/1SOffnacnNHcPYBXzO3zNN) | 2:33 | 2025-03-13 | 2025-04-25 |
 | [Fimmine De Guerra](https://open.spotify.com/track/6zRz3vxKERGcdU1OhB1zVW) | [DDUMA](https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG), [PRIMA ALBA](https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv) | [Fimmine De Guerra](https://open.spotify.com/album/6cnY3Ee0i97Xi1gnsURVW7) | 3:19 | 2025-04-03 | 2025-06-27 |
+| [fine del giorno](https://open.spotify.com/track/04Y2Etijw0vUBsXjHbdOPP) | [GAVIO](https://open.spotify.com/artist/05qqxI69VrwHBVt2SC8J0M) | [fine del giorno](https://open.spotify.com/album/2NPUpFmPykswloH3ULHsE2) | 3:03 | 2025-08-14 |  |
 | [FINIAMOCI ADESSO](https://open.spotify.com/track/7HGVQ6KnxO7MgPL2tkxdnb) | [ALICE](https://open.spotify.com/artist/0ToaPtnbi9jzYRkSgnUoEp) | [FINIAMOCI ADESSO](https://open.spotify.com/album/5oK7VQvoaWOJNroR2q6HAJ) | 3:06 | 2025-07-03 | 2025-08-08 |
 | [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-06-27 | 2024-07-27 |
 | [Fiori](https://open.spotify.com/track/1lqnGO4fLk9jdSIvcZxF5B) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Fiori](https://open.spotify.com/album/1oLKIpNVaHiVOwWLxynzMm) | 3:30 | 2024-12-17 | 2025-01-17 |
-| [Fiori di Camomilla](https://open.spotify.com/track/4E6e4dXDLyUsg4zLvv2bEz) | [MANCHA](https://open.spotify.com/artist/4ylxTIWDO6kdtfxgOVmPCk) | [Fiori di Camomilla](https://open.spotify.com/album/1Uxh65OCha4JhA4wnODwI0) | 3:50 | 2025-07-10 |  |
+| [Fiori di Camomilla](https://open.spotify.com/track/4E6e4dXDLyUsg4zLvv2bEz) | [MANCHA](https://open.spotify.com/artist/4ylxTIWDO6kdtfxgOVmPCk) | [Fiori di Camomilla](https://open.spotify.com/album/1Uxh65OCha4JhA4wnODwI0) | 3:50 | 2025-07-10 | 2025-08-15 |
 | [Fiori di Loto](https://open.spotify.com/track/2FlyhgIF6RSITRkLqUER1I) | [CIL](https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ) | [Fiori di Loto](https://open.spotify.com/album/0zo7LS0eClLj3T1xksBbc9) | 2:30 | 2024-06-27 | 2024-07-05 |
 | [fiori vivi](https://open.spotify.com/track/4E5mwQfZfEgxoV10EpiD1l) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [fiori vivi](https://open.spotify.com/album/3iUizdwwVSnxVLEOloPZPs) | 2:49 | 2024-12-17 | 2025-01-10 |
 | [Fischio Finale](https://open.spotify.com/track/5s1W2LT8FCXPPmlGpQXw27) | [MATÍS](https://open.spotify.com/artist/1STJnuZ3De69Pm53puf4vi) | [Fischio Finale](https://open.spotify.com/album/1hKpeuN6tI9G9oeEuea1VE) | 3:05 | 2025-04-03 | 2025-05-16 |
@@ -348,6 +349,7 @@
 | [La Tua Amica Più Cara](https://open.spotify.com/track/2JHbvtRvFkl6ptw57o5QCW) | [Lumiero](https://open.spotify.com/artist/3LzPMUrVGBa352z5KZiubQ) | [La Tua Amica Più Cara](https://open.spotify.com/album/5k9YwWkCXdNRYSwIcVtg3V) | 3:01 | 2025-05-15 | 2025-07-04 |
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 | 2025-02-07 |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
+| [lacrime amare](https://open.spotify.com/track/5JIo65j1wWtJEU1luM6fGT) | [punto.](https://open.spotify.com/artist/1dErTkNWMTXDMezWdgnkFM) | [lacrime amare](https://open.spotify.com/album/06lF03alhZLPkrfKoTZF0K) | 2:39 | 2025-08-14 |  |
 | [Lagna](https://open.spotify.com/track/1XorQLYOAy0i0nE4cq1ghE) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Lagna](https://open.spotify.com/album/0BrL6VdqzeRbBkiZCeHZeQ) | 2:25 | 2025-01-16 | 2025-04-04 |
 | [Laika](https://open.spotify.com/track/2HTLqk45I05ETK7QtOJKIj) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh) | [Laika](https://open.spotify.com/album/1H1WlfKrvjSr4pXgCqLg1r) | 3:05 | 2025-06-05 | 2025-07-18 |
 | [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 | 2025-07-03 | 2025-08-08 |

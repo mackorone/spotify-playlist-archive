@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Shekhinah
 
-592 songs - 1 day 7 hr 45 min
+593 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 | 2024-08-16 |
 | [falling](https://open.spotify.com/track/2CZS9mJns7gUtACHBw2dYl) | [Leia](https://open.spotify.com/artist/3EgA3HOFNXFF4bTmDAGzqI) | [falling in love](https://open.spotify.com/album/0KaGZZ7MjQdrVAy7ZGorFs) | 3:25 | 2024-09-11 | 2024-10-18 |
 | [Falling](https://open.spotify.com/track/2M4YefuMvNtH1Ju20KAVs9) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Falling](https://open.spotify.com/album/388RujVUG7i0xdABpTkn1b) | 3:36 | 2025-07-25 |  |
+| [Falling](https://open.spotify.com/track/5rjPr8c86QfcvyJhfFQyAa) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Falling](https://open.spotify.com/album/4vK8Lu2w1zOjc5o2Z7rQ1N) | 2:25 | 2025-08-15 |  |
 | [Falling For You](https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Falling For You](https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm) | 3:19 | 2023-10-12 | 2023-10-20 |
 | [FALLING FOR YOU](https://open.spotify.com/track/6DmwKKCAlA8aKoaB4O7vFd) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [LOVE LETTERS](https://open.spotify.com/album/0MDMXbXsB0P15a8piifP7W) | 2:47 | 2024-09-02 | 2024-09-12 |
 | [Falling or flying](https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:24 | 2023-10-12 | 2024-01-26 |
@@ -241,7 +242,7 @@
 | [I Know What I Want](https://open.spotify.com/track/4t6lJovfXhtW2eKaWfc41S) | [Rudy Chalmers](https://open.spotify.com/artist/7dP2IIbQgbUJaCZsTgY1dC) | [I Know What I Want](https://open.spotify.com/album/6D0lAoiHXI05IWw1YAULb9) | 3:58 | 2023-11-23 | 2024-01-26 |
 | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [I Lay \(feat\. Xenia Manasseh\)](https://open.spotify.com/album/5ANLOAQ4aeLFY3XOsdJ48i) | 2:28 | 2023-10-12 | 2024-01-26 |
 | [I Waited](https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB) | [Lifetimes](https://open.spotify.com/album/1gY7CgRXNmKLPy1GrYKPCf) | 3:37 | 2023-12-01 | 2023-12-23 |
-| [I'm Not Psycho](https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [I'm Not Psycho](https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE) | 4:10 | 2025-06-27 |  |
+| [I'm Not Psycho](https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [I'm Not Psycho](https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE) | 4:10 | 2025-06-27 | 2025-08-15 |
 | [IBIZA](https://open.spotify.com/track/0yzXQ1yTjxKTtUc28XFBPL) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF) | [IBIZA](https://open.spotify.com/album/1WvongU8fEccauGewV5MS7) | 4:00 | 2024-04-18 | 2024-07-12 |
 | [ILAH'S DREAM](https://open.spotify.com/track/12IHcVx02kJPOE0uDYobp2) | [CLUB VALLEY](https://open.spotify.com/artist/0QA1gqKpLcVh4poXeglSHn) | [LIFE AS YOU KNOW IT, THE BEST OF LUCK AND THE WORST OF TIMES](https://open.spotify.com/album/738x96kICIYTdlC3k1UbiP) | 4:05 | 2025-06-13 | 2025-06-20 |
 | [ilikeyou](https://open.spotify.com/track/33t6lb3izTuZthotlhHPPq) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [ilikeyou](https://open.spotify.com/album/5uYm2LLYDmiNZ1KzlJomKZ) | 3:33 | 2024-02-22 | 2024-05-10 |

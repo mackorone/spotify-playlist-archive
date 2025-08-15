@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Koe ra ngerti larane, pas aku kelangan koe 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,481 likes - 85 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,735 likes - 85 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

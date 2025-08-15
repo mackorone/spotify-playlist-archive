@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Hanin Dhiya
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Dudy Oris
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,893 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,948 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Nanti Kita Seperti Ini \- Cinematic Version](https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Nanti Kita Seperti Ini \(Cinematic Version\)](https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p) | 4:24 |
 | 100 | [Pelabuhan Terakhir](https://open.spotify.com/track/1fUtXTn4nGzIU3cLpYqRT1) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Pelabuhan Terakhir](https://open.spotify.com/album/5WTRaVv76JjsNlLwd7Wd8Z) | 3:25 |
 
-Snapshot ID: `AAAAAIiCLbdqNnCwefJKLRj9OGrnrPtG`
+Snapshot ID: `AAAAADDfak2Z47DntrDQy50co2Uik0er`

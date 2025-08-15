@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 653385,
+  "num_followers": 653444,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
+        "name": "Samy Deluxe",
+        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
+      },
+      "artists": [
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 343226,
+      "name": "Weck mich auf",
+      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
+    },
+    {
+      "added_at": "2025-07-24 13:47:27",
+      "album": {
         "name": "ALLES ODER NIX",
         "url": "https://open.spotify.com/album/5bhD7Kl3zfhdbnJiVVUXgx"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 220786,
       "name": "Ich will alles",
       "url": "https://open.spotify.com/track/3GsD3Dzap9dZrGGU9I3h0S"
-    },
-    {
-      "added_at": "2025-07-24 13:47:27",
-      "album": {
-        "name": "Samy Deluxe",
-        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 343226,
-      "name": "Weck mich auf",
-      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
     },
     {
       "added_at": "2025-07-24 13:47:27",
@@ -611,26 +611,6 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2025-07-24 13:47:27",
-      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+    },
+    {
+      "added_at": "2025-07-24 13:47:27",
+      "album": {
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        },
+        {
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
     },
     {
       "added_at": "2025-07-24 13:47:27",
@@ -755,18 +755,22 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Rolle mit Hip Hop",
+        "url": "https://open.spotify.com/album/6bGk9TnHYMTKsQBpASDu3q"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Afrob",
+          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
+        },
+        {
+          "name": "Ferris MC",
+          "url": "https://open.spotify.com/artist/7Jfwqfcttij8KlrvaIZRBk"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Traumreise",
-      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
+      "duration_ms": 216693,
+      "name": "Reimemonster (feat. Ferris MC)",
+      "url": "https://open.spotify.com/track/0pgx8fWphTTM9Kv5KjWpXy"
     },
     {
       "added_at": "2025-07-24 13:47:27",
@@ -787,22 +791,18 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
-        "name": "Rolle mit Hip Hop",
-        "url": "https://open.spotify.com/album/6bGk9TnHYMTKsQBpASDu3q"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
       "artists": [
         {
-          "name": "Afrob",
-          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
-        },
-        {
-          "name": "Ferris MC",
-          "url": "https://open.spotify.com/artist/7Jfwqfcttij8KlrvaIZRBk"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Reimemonster (feat. Ferris MC)",
-      "url": "https://open.spotify.com/track/0pgx8fWphTTM9Kv5KjWpXy"
+      "duration_ms": 231800,
+      "name": "Traumreise",
+      "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
     },
     {
       "added_at": "2025-07-24 13:47:27",

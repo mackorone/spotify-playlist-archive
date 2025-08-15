@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Kvi Baba \*👉 <a href="https://spice.eplus.jp/articles/340017">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,992 likes - 69 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,099 likes - 69 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

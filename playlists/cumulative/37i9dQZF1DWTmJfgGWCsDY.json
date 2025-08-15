@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mzee wa Bwax",
+  "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Meja Kunta",
   "name": "Singeli Sounds",
   "tracks": [
     {
@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Naoa",
+        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237898,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "album": {
         "name": "Natafuta Hela",
         "url": "https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp"
       },
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 244767,
       "name": "Wanga",
       "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"

@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 82764,
+  "num_followers": 82789,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -156,7 +156,7 @@
           "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
         },
         {
-          "name": "Altijd Larstig & Rob Gasd'rop",
+          "name": "Altijd Larstig & Rob Gasd\u2019rop",
           "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
         },
         {
@@ -268,8 +268,8 @@
       },
       "artists": [
         {
-          "name": "LARSTIG & GASDROP",
-          "url": "https://open.spotify.com/artist/5l0QvCc2QkgliOz3gtkZ2c"
+          "name": "Altijd Larstig & Rob Gasd\u2019rop",
+          "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
         },
         {
           "name": "Jody Bernal",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
+        "name": "De Langste Nacht (Remix)",
+        "url": "https://open.spotify.com/album/4rPfk4MepyG28NcXhxNRDJ"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 205343,
+      "name": "De Langste Nacht (Remix)",
+      "url": "https://open.spotify.com/track/6F28sHG5QXkmZJloKTonxo"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
         "name": "Pizza Met Ananas (Outsiders Remix)",
         "url": "https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 184329,
       "name": "Pizza Met Ananas - Outsiders Remix",
       "url": "https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
-        "name": "De Langste Nacht (Remix)",
-        "url": "https://open.spotify.com/album/4rPfk4MepyG28NcXhxNRDJ"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 205343,
-      "name": "De Langste Nacht (Remix)",
-      "url": "https://open.spotify.com/track/6F28sHG5QXkmZJloKTonxo"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -604,7 +604,7 @@
           "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
         },
         {
-          "name": "Altijd Larstig & Rob Gasd'rop",
+          "name": "Altijd Larstig & Rob Gasd\u2019rop",
           "url": "https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX"
         },
         {
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Links, Rechts",
-        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
-      },
-      "artists": [
-        {
-          "name": "Arimann",
-          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
-        },
-        {
-          "name": "C-strike",
-          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Links, Rechts",
-      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "Machinegeweer",
         "url": "https://open.spotify.com/album/3h2VwcTDQIcrALoDxxJYb4"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 141831,
       "name": "Machinegeweer",
       "url": "https://open.spotify.com/track/4iYjA2bBL5PkdfkW2m6w5S"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Links, Rechts",
+        "url": "https://open.spotify.com/album/2HBAW9ingSIQRPMDnS0fK1"
+      },
+      "artists": [
+        {
+          "name": "Arimann",
+          "url": "https://open.spotify.com/artist/3jl4GQ2J4tR0IWHQjfHRuZ"
+        },
+        {
+          "name": "C-strike",
+          "url": "https://open.spotify.com/artist/2AZfTQyB9onUlkVMMp1elq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Links, Rechts",
+      "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
     },
     {
       "added_at": "2025-08-07 22:00:34",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
         "name": "De Hut Verbouwen (Dr. Rude Remix)",
         "url": "https://open.spotify.com/album/2vJ9bELr5NGhnPqbH5qUcp"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 180676,
       "name": "De Hut Verbouwen - Dr. Rude Remix",
       "url": "https://open.spotify.com/track/2dqRZXkpiet7V3ebJBY645"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
+      },
+      "artists": [
+        {
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
+        },
+        {
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2025-08-07 22:00:34",

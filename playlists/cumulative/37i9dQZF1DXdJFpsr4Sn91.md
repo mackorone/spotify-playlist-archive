@@ -2,7 +2,7 @@
 
 ### [Nousussa](https://open.spotify.com/playlist/37i9dQZF1DXdJFpsr4Sn91)
 
-> Nousussa olevat hitit\. Kannessa Alina Burnet.
+> Nousussa olevat hitit\. Kannessa KUUMAA.
 
 848 songs - 1 day 18 hr 15 min
 

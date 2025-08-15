@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs & The Alchemist",
-  "num_followers": 1584433,
+  "num_followers": 1584406,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,30 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "Alfredo 2",
-        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+        "name": "God Does Like Ugly",
+        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/5tN6fQFvbiTYubJ9okxkft"
         }
       ],
-      "duration_ms": 166720,
-      "name": "Lemon Pepper Steppers",
-      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
+      "duration_ms": 265527,
+      "name": "Community (with Clipse, Pusha T & Malice)",
+      "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -206,15 +214,11 @@
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 235400,
-      "name": "Feeling (feat. Larry June)",
-      "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
+      "duration_ms": 182440,
+      "name": "Shangri La",
+      "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -244,21 +248,13 @@
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "Clipse",
-          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Malice",
-          "url": "https://open.spotify.com/artist/5tN6fQFvbiTYubJ9okxkft"
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 265527,
-      "name": "Community (with Clipse, Pusha T & Malice)",
-      "url": "https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ"
+      "duration_ms": 396806,
+      "name": "Of Blue (with Mereba)",
+      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -314,11 +310,15 @@
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 182440,
-      "name": "Shangri La",
-      "url": "https://open.spotify.com/track/7I3cmK1BCShHs3MIZ3rOWF"
+      "duration_ms": 235400,
+      "name": "Feeling (feat. Larry June)",
+      "url": "https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -335,26 +335,6 @@
       "duration_ms": 94587,
       "name": "BULLFROG",
       "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "God Does Like Ugly",
-        "url": "https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 396806,
-      "name": "Of Blue (with Mereba)",
-      "url": "https://open.spotify.com/track/12Wh0aUUoJUFffOQdY1ouy"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -407,6 +387,26 @@
       "duration_ms": 204564,
       "name": "Do You Have A Destination?",
       "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
+        "name": "Alfredo 2",
+        "url": "https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 166720,
+      "name": "Lemon Pepper Steppers",
+      "url": "https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
         "name": "Landgrab",
         "url": "https://open.spotify.com/album/6DiccF2KOwPAD1i1oFRNuq"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 88330,
       "name": "Landgrab",
       "url": "https://open.spotify.com/track/3pLwsRkN3XblUXuUUqPqFR"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 285805,
-      "name": "Friendly Hallucinations",
-      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
-        "name": "The Emperor's New Clothes",
-        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
-      },
-      "artists": [
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 144201,
-      "name": "Bear Hill",
-      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
         "name": "Rap Kingpin",
         "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 164084,
       "name": "Rap Kingpin",
       "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
+        "name": "The Emperor's New Clothes",
+        "url": "https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 144201,
+      "name": "Bear Hill",
+      "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
     },
     {
       "added_at": "2025-08-08 04:00:53",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-08-08 04:00:53",
       "album": {
+        "name": "The Coldest Profession",
+        "url": "https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        }
+      ],
+      "duration_ms": 157454,
+      "name": "Glory Hole",
+      "url": "https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m"
+    },
+    {
+      "added_at": "2025-08-08 04:00:53",
+      "album": {
         "name": "MICHIGAN",
         "url": "https://open.spotify.com/album/1Tju3BMSIKB61FBSZWM5n7"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 219000,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/4SJNTcvRNneF6B210XyqLu"
-    },
-    {
-      "added_at": "2025-08-08 04:00:53",
-      "album": {
-        "name": "The Coldest Profession",
-        "url": "https://open.spotify.com/album/2OdOZpcFXPAIAhJMgBglIP"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 157454,
-      "name": "Glory Hole",
-      "url": "https://open.spotify.com/track/0XdnvANlhzzHah9M2ysA8m"
     },
     {
       "added_at": "2025-08-08 04:00:53",

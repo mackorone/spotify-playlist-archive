@@ -2,7 +2,7 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Grüezi! This is 100% made in Switzerland\.  Cover: Eileen Alister
+> Grüezi! This is 100% made in Switzerland\.  Cover: Kings Elliot
 
 387 songs - 19 hr 58 min
 

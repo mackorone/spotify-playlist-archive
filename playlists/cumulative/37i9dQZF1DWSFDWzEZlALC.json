@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dominik Hartz",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Marlo Grosshardt",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 149000,
       "name": "Alice.",
       "url": "https://open.spotify.com/track/2HCMCvUDN7grJqOUnYCr7n"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 158757,
       "name": "Alles Taugt Nichts",
       "url": "https://open.spotify.com/track/03vbbI64syEGj2Q3e2Ytbg"
@@ -7841,6 +7841,28 @@
     },
     {
       "album": {
+        "name": "Fucked Up feat. makko",
+        "url": "https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173269,
+      "name": "Fucked Up feat. makko",
+      "url": "https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA"
+    },
+    {
+      "album": {
         "name": "Funken",
         "url": "https://open.spotify.com/album/6wugW8D1hFDRDOqxrTud60"
       },
@@ -8366,6 +8388,24 @@
       "duration_ms": 176867,
       "name": "gasleuchte",
       "url": "https://open.spotify.com/track/4cpxlpWGIvesl4sYRN8Re5"
+    },
+    {
+      "album": {
+        "name": "Geflicktes Herz",
+        "url": "https://open.spotify.com/album/2beCRDj5czRDfGXrZi0hCT"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188402,
+      "name": "Geflicktes Herz",
+      "url": "https://open.spotify.com/track/5GOTb2rpHSk0SckpCONyfz"
     },
     {
       "album": {
@@ -9266,7 +9306,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 159663,
       "name": "Halber Mensch",
       "url": "https://open.spotify.com/track/7IjEqBeWU91apSbm2cgJuv"
@@ -9520,7 +9560,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 151437,
       "name": "Hausparty",
       "url": "https://open.spotify.com/track/0L1e4NytVRR42Ip0KPVgdv"
@@ -11507,6 +11547,24 @@
     },
     {
       "album": {
+        "name": "Jetzt oder Skigebiet",
+        "url": "https://open.spotify.com/album/2V1sjh2fexDY71oafyQKZj"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143944,
+      "name": "Jetzt oder Skigebiet",
+      "url": "https://open.spotify.com/track/3ybfVOzDMpcJiSorQLatvn"
+    },
+    {
+      "album": {
         "name": "Jil Sander Sun",
         "url": "https://open.spotify.com/album/6CK3LlfNyo5rmkDIBoRUPg"
       },
@@ -12670,7 +12728,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173206,
       "name": "Kommst du vorbei",
       "url": "https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb"
@@ -14256,7 +14314,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 169987,
       "name": "Manchmal",
       "url": "https://open.spotify.com/track/5EyaNjaGLRK56ZUqs49bGL"
@@ -14408,6 +14466,24 @@
       "duration_ms": 152199,
       "name": "Marlboro",
       "url": "https://open.spotify.com/track/6Ptjpsd6Dzd5gz6zGZmFo7"
+    },
+    {
+      "album": {
+        "name": "Marmeladenglas",
+        "url": "https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126101,
+      "name": "Marmeladenglas",
+      "url": "https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU"
     },
     {
       "album": {
@@ -15649,6 +15725,28 @@
     },
     {
       "album": {
+        "name": "nicht gefragt",
+        "url": "https://open.spotify.com/album/7ILF9Lr0NWZbZiUniwVvRh"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138308,
+      "name": "nicht gefragt",
+      "url": "https://open.spotify.com/track/0JHjZJm015P2Qtj780ddI8"
+    },
+    {
+      "album": {
         "name": "Nicht gern allein",
         "url": "https://open.spotify.com/album/5eBnFfpvZhq0XEnPnm7aZy"
       },
@@ -16361,6 +16459,24 @@
     },
     {
       "album": {
+        "name": "Ohne Dich",
+        "url": "https://open.spotify.com/album/0JkGj98qkR4JeTkF029D5M"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Ohne Dich",
+      "url": "https://open.spotify.com/track/1Bz1Ftugqs9AyrP4Hykm1h"
+    },
+    {
+      "album": {
         "name": "Ohne Mich",
         "url": "https://open.spotify.com/album/1s7Ws57tjZ4EapsBuKDOiO"
       },
@@ -16784,7 +16900,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 161613,
       "name": "paris ist gar nicht so sch\u00f6n",
       "url": "https://open.spotify.com/track/1w0UqaOubJ5QctwY6X1cxn"
@@ -18034,7 +18150,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 209021,
       "name": "Rotweinlippen",
       "url": "https://open.spotify.com/track/3eUP4xUuEDZnuioOERvC0r"
@@ -18146,6 +18262,24 @@
       "duration_ms": 214020,
       "name": "rumpelstilzchen",
       "url": "https://open.spotify.com/track/6dyGPZ3X6fV2uxZEhbeOz0"
+    },
+    {
+      "album": {
+        "name": "R\u00e4uber",
+        "url": "https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140678,
+      "name": "R\u00e4uber",
+      "url": "https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71"
     },
     {
       "album": {
@@ -18548,6 +18682,28 @@
       "duration_ms": 162529,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/4OAcROIqeWHDAf4y7JWZeT"
+    },
+    {
+      "album": {
+        "name": "Schmetterlingseffekt",
+        "url": "https://open.spotify.com/album/7ffjJhHyKR7FAO0wwXcW7N"
+      },
+      "artists": [
+        {
+          "name": "Schlotte",
+          "url": "https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv"
+        },
+        {
+          "name": "laurin",
+          "url": "https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198068,
+      "name": "Schmetterlingseffekt",
+      "url": "https://open.spotify.com/track/2OJ5xBE7BcRYAgDyG2RcXi"
     },
     {
       "album": {
@@ -19547,6 +19703,24 @@
     },
     {
       "album": {
+        "name": "So lang gewartet",
+        "url": "https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168062,
+      "name": "So lang gewartet",
+      "url": "https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo"
+    },
+    {
+      "album": {
         "name": "So leicht",
         "url": "https://open.spotify.com/album/1D5TGD4lkOHfOrxVYlZG38"
       },
@@ -19865,6 +20039,24 @@
     },
     {
       "album": {
+        "name": "Sommerpoesie",
+        "url": "https://open.spotify.com/album/6AfJ2WbGmvxkuPNf3AhE3l"
+      },
+      "artists": [
+        {
+          "name": "Heavent",
+          "url": "https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206260,
+      "name": "Sommerpoesie",
+      "url": "https://open.spotify.com/track/6OkEpZUV4b7QXXH1QinBK7"
+    },
+    {
+      "album": {
         "name": "Sommerregen",
         "url": "https://open.spotify.com/album/71bgNRTrstBAE82RLv2K7x"
       },
@@ -20140,7 +20332,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 237613,
       "name": "Spaced Out",
       "url": "https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR"
@@ -23529,6 +23721,24 @@
     },
     {
       "album": {
+        "name": "weiter",
+        "url": "https://open.spotify.com/album/7uGyrhdX7Ur8pR9ohGTwwg"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "weiter",
+      "url": "https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir"
+    },
+    {
+      "album": {
         "name": "Wei\u00dft du",
         "url": "https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH"
       },
@@ -24658,7 +24868,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 244415,
       "name": "Zahnpastalippen",
       "url": "https://open.spotify.com/track/1U1sCjxcISO6qb8anFsobw"
@@ -24984,7 +25194,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 154856,
       "name": "Zucker",
       "url": "https://open.spotify.com/track/0HvpJwN4OaztkY5BJPg04N"

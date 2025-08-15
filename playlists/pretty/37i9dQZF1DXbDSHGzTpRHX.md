@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,053 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,055 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 57 | [Foreign](https://open.spotify.com/track/0uSDgxhgiCoINznpSytYJB) | [Yung Reece](https://open.spotify.com/artist/6peovfLhgtb7BeiaTUI1Yl) | [Foreign](https://open.spotify.com/album/2Pzupmo7Whwo5fTo2EZMQb) | 2:26 |
 | 58 | [I Don't Care](https://open.spotify.com/track/2Ni252QabsHI8nq6K30aV9) | [Hello Yello](https://open.spotify.com/artist/7qh0Fzuz79iruogSwYTY3G) | [I Don't Care](https://open.spotify.com/album/1hdsybfpeNL3lLXFOXZXfq) | 2:56 |
 | 59 | [Your Love](https://open.spotify.com/track/1KsWS1hACIVyT3PeluqkAt) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF) | [Your Love](https://open.spotify.com/album/6yerbMzLaLIDMy9cMdjlaJ) | 3:20 |
-| 60 | [Slip](https://open.spotify.com/track/5fD1cUWzVmReobKb6d24ft) | [Ama Jones](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Slip](https://open.spotify.com/album/6UxccxDIqLPZUu9MEKYoEk) | 2:31 |
+| 60 | [Slip](https://open.spotify.com/track/5fD1cUWzVmReobKb6d24ft) | [Alpha Maria](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Slip](https://open.spotify.com/album/6UxccxDIqLPZUu9MEKYoEk) | 2:31 |
 | 61 | [Darling](https://open.spotify.com/track/3dLbPocuJdznnYiuDvSZrg) | [Cero Ismael](https://open.spotify.com/artist/2Nj4ggzoUqfVAiE9sVRmSo) | [Darling](https://open.spotify.com/album/4Hip8iT5WezXZsFWxXP1Wk) | 2:25 |
 | 62 | [LA Baby](https://open.spotify.com/track/2fxIHzUUhpL3nySKIXDU91) | [Lil Benny](https://open.spotify.com/artist/3V5erRwkViNiYbgKqXjrF0) | [LA Baby](https://open.spotify.com/album/6Lx6LOC6jsqYjkvf7LwptP) | 2:12 |
 | 63 | [Cotton Candy](https://open.spotify.com/track/7eYpfunwlv4RY6s0pEQe8p) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Cotton Candy](https://open.spotify.com/album/1Ai0hOFpZgdTZG3jOS1bRj) | 2:34 |

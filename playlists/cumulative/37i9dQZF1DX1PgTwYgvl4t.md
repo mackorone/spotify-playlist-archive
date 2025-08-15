@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-225 songs - 1 day 2 hr 48 min
+226 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-05-09 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2024-05-09 |  |
 | [Stone of Help](https://open.spotify.com/track/6cnD1rkiRKpLG4ABWt1o7J) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Stone of Help](https://open.spotify.com/album/5TMmrpXHn2B07Jb7DoSytX) | 6:49 | 2025-03-14 |  |
+| [Surrender \- Gani Nazo](https://open.spotify.com/track/5AtApgZjQrKxDvYb1dP5yR) | [dare strings](https://open.spotify.com/artist/3P0INvguUKAHb0Yyi1L66h) | [Surrender \(Gani Nazo\)](https://open.spotify.com/album/4YsiRxSaAjLfPKD6RdCBFh) | 4:28 | 2025-08-15 |  |
 | [SYMBOLS OF YOUR SOVEREIGNTY](https://open.spotify.com/track/3DBUCX54BOflq7kqXln8Xg) | [Stephanie Odili](https://open.spotify.com/artist/12sg6C1TANNK9OsqcFG6fa) | [Psalm Speaking](https://open.spotify.com/album/3rPSN6xIx5ZRmPpj0bhCY6) | 6:09 | 2024-12-20 | 2025-03-28 |
 | [Take Me Deeper](https://open.spotify.com/track/4aZQnOFFqiXp3LRy8eYBxz) | [Precious Agwi](https://open.spotify.com/artist/2s5IEEAXFndM37MpDXY9Wh) | [Take Me Deeper](https://open.spotify.com/album/2H4kdfGFPsTqfzwolfJTMH) | 5:28 | 2025-01-17 | 2025-04-04 |
 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 | 2025-03-28 |  |
@@ -218,7 +219,7 @@
 | [Yahweh](https://open.spotify.com/track/6XlilInIhEvmmM7eNRRKYx) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [Yahweh](https://open.spotify.com/album/1Thgoac8jU5Wjyfd682JTE) | 6:03 | 2025-07-18 |  |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 |  |
 | [Yahweh \- Live](https://open.spotify.com/track/17JCFTaxVL74FTHZQhTvtj) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Yahweh \(Live\)](https://open.spotify.com/album/5gfXo9c2wtj5CTsbWmFc1D) | 16:28 | 2024-11-15 | 2025-02-28 |
-| [YES](https://open.spotify.com/track/6Dm2A8KoSV7vNghd9lVQgn) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [YES](https://open.spotify.com/album/0zW5PaArjZZhjZwtZAcTfl) | 4:07 | 2025-06-27 |  |
+| [YES](https://open.spotify.com/track/6Dm2A8KoSV7vNghd9lVQgn) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [YES](https://open.spotify.com/album/0zW5PaArjZZhjZwtZAcTfl) | 4:07 | 2025-06-27 | 2025-08-15 |
 | [YESHUA](https://open.spotify.com/track/04Qt7m7pOUmOPFM3ivDtkR) | [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [YESHUA](https://open.spotify.com/album/65AzitOWZVn6TG7M2DYZYq) | 9:27 | 2025-03-21 | 2025-03-28 |
 | [Yeshua \- Live](https://open.spotify.com/track/5cAhcefkbJ98RPfHeQfyfB) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Hunger \- From Our Heart to Yours \(Live\)](https://open.spotify.com/album/5mvzsp0rnXmZYDKqVa88ac) | 4:46 | 2025-06-24 |  |
 | [You Are Always There](https://open.spotify.com/track/2u1XE762ploDotScizdgh5) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:25 | 2024-05-09 |  |

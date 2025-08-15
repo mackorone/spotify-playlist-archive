@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3raoUbvEnt0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3raoUbvEnt0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3raoUbvEnt0)
 
-### [GOLDEN KAMUY ゴールデンカムイ](https://open.spotify.com/playlist/37i9dQZF1DX3raoUbvEnt0)
+### [GOLDEN KAMUY](https://open.spotify.com/playlist/37i9dQZF1DX3raoUbvEnt0)
 
-> Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
+> Music from "GOLDEN KAMUY"!
 
 84 songs - 4 hr 27 min
 

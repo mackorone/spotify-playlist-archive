@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=\_Bm2yIUuTyuvKe816A31UQ>Onos</a>
 
-555 songs - 1 day 20 hr 45 min
+556 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \- Praise Medley](https://open.spotify.com/track/5NbW6HlZHQ2feIrjUw1hSu) | [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [Jehovah, You are the Most High / Jehovah Eh / Haachinje / Tomutenda Nei / Dancing in Your Light \(Praise Medley\)](https://open.spotify.com/album/1O14EQo4yplyxrRYVy190w) | 13:53 | 2025-06-06 | 2025-06-27 |
 | [Jeso O Ntekane \(Reprise\) \- Live](https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Jesus To The City, Vol\. 2 \(Live\)](https://open.spotify.com/album/23pioDsK0GY8oM0lRTaFuU) | 3:06 | 2024-03-15 | 2024-05-24 |
 | [Jesu](https://open.spotify.com/track/0fAPkHRtJxBGa5rm2eaG54) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6), [Eyitayo](https://open.spotify.com/artist/6Kap9dyPjFhrJOBK0fbhx0) | [Jesu](https://open.spotify.com/album/4dRsOegj5MMdaPk3gWTlf7) | 8:44 | 2025-08-01 |  |
+| [Jesu](https://open.spotify.com/track/6jFCdVRqIwHlITjft7Qz6h) | [Leke Benson](https://open.spotify.com/artist/6ViFGBRU6q7GUEk8RwmaVV), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Jesu](https://open.spotify.com/album/3k83RGUi6osFXufDe6Ix9O) | 4:46 | 2025-07-25 |  |
 | [Jesu \- Live](https://open.spotify.com/track/4RyKKCSQOyuiiIY2t5dEgN) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Grace Lubega](https://open.spotify.com/artist/6oYqFf1tyxGze6VeiU5Iu5) | [Generation Intimacy \(Live\)](https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ) | 13:37 | 2025-07-25 |  |
 | [Jesu Tiṣe](https://open.spotify.com/track/1zXDwgJUsywfAxMcCmdLqg) | [Helen Yawson](https://open.spotify.com/artist/3ChtrSrR4Klo88Gkp3mCc0) | [Jesu Tiṣe](https://open.spotify.com/album/2cE9hDKzcMxO9W70zivKJZ) | 5:00 | 2025-04-19 | 2025-04-25 |
 | [Jesus](https://open.spotify.com/track/3jmhduNlWjLP5WFAVGnBFA) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Jesus](https://open.spotify.com/album/0D5Z2iIhORhu3pjdzLsbke) | 4:36 | 2025-06-27 | 2025-07-18 |
@@ -430,7 +431,7 @@
 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 | 2025-06-27 |
 | [Shoulder\(Cry\)](https://open.spotify.com/track/4Fz8pg9oc3vhyit0H1dcDC) | [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Shoulder\(Cry\)](https://open.spotify.com/album/3tHIvpJlabaAVYg1SO2Cku) | 2:32 | 2025-06-06 | 2025-07-11 |
 | [Show me who you are](https://open.spotify.com/track/6k0QtdLw2UEvCYaWEyblux) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Show me who you are](https://open.spotify.com/album/1ovVxj4bjUtvPe3ZMd6wG2) | 3:16 | 2025-05-30 | 2025-07-29 |
-| [Show Up \- Live](https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Show Up \(Live\)](https://open.spotify.com/album/1J1n3e15bHM3wgP6O2U24o) | 8:45 | 2025-07-11 |  |
+| [Show Up \- Live](https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Show Up \(Live\)](https://open.spotify.com/album/1J1n3e15bHM3wgP6O2U24o) | 8:45 | 2025-07-11 | 2025-08-15 |
 | [Sing Hallelujah](https://open.spotify.com/track/7tV5kspyHg9hM9hMAnMXSG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Sing Hallelujah](https://open.spotify.com/album/1b46ZBLiS7hkot89IFTV9p) | 4:31 | 2024-08-30 | 2025-05-30 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |
 | [Sleeping Giant](https://open.spotify.com/track/1nukUJZ8DeBCekANEmSy1g) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [Sleeping Giant](https://open.spotify.com/album/3dXNiiRGJkDlzQFl2ei2Dd) | 7:27 | 2025-06-13 | 2025-06-27 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain](/playlists/plain/37i9dQZF1DX3raoUbvEnt0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3raoUbvEnt0)
 
-### [GOLDEN KAMUY ゴールデンカムイ](https://open.spotify.com/playlist/37i9dQZF1DX3raoUbvEnt0)
+### [GOLDEN KAMUY](https://open.spotify.com/playlist/37i9dQZF1DX3raoUbvEnt0)
 
-> Music from "GOLDEN KAMUY"! /アニメ「ゴールデンカムイ」の楽曲を1つのプレイリストで。
+> Music from "GOLDEN KAMUY"!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,256 likes - 43 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,259 likes - 43 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3raoUbvEnt0.md) - [plain]
 | 42 | [狙撃](https://open.spotify.com/track/24jpZeiUN7GWzpZrZNpZ8k) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:39 |
 | 43 | [樺太へ](https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk) | [Kenichiro Suehiro](https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1) | [ゴールデンカムイ オリジナルサウンドトラック](https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf) | 2:41 |
 
-Snapshot ID: `AAAAAKJx3AFVgjho0Xzn2oLk6GtlhzZr`
+Snapshot ID: `AAAAAJZiCLSrLmz60vrDiiEvKAuufh/Z`

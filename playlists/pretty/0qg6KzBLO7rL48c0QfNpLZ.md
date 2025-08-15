@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,540 likes - 95 songs - 4 hr 6 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 110,524 likes - 96 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 93 | [Where Are You Now](https://open.spotify.com/track/5TKUi0iE41RHwRztvupYlK) | [EMOCA](https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU), [FN Chill](https://open.spotify.com/artist/60LpFfDTaI1Gn2qN42sRb7) | [Where Are You Now](https://open.spotify.com/album/5xQzkvqkGV4NRBj2iZlYfQ) | 2:11 |
 | 94 | [Pumped Up Kicks](https://open.spotify.com/track/4tx8AjduPKv5Xtnx3PI0Hv) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Pumped Up Kicks](https://open.spotify.com/album/7di21rP5vSCSxXltTmzWDa) | 2:09 |
 | 95 | [All This Time](https://open.spotify.com/track/0m00au0MMoII2767mu4sj7) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [All This Time](https://open.spotify.com/album/2VpQLsVZOBVzuDmTHsQETP) | 3:43 |
+| 96 | [Collide](https://open.spotify.com/track/46XT6jEiBan7tdznW8ArGs) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Collide](https://open.spotify.com/album/6nsN1QU28aP2N2mSurEaCp) | 2:20 |
 
-Snapshot ID: `AAAgxOet4Xc8rNMvRFxWLEZYgENv6mRu`
+Snapshot ID: `AAAgxc5lwdGTBWyGKbK6ZT0dCZgIXRv6`

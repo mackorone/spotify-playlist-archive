@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Roy Borland.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 155526,
       "name": "As\u00ed me va",
       "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 165555,
       "name": "cielo",
       "url": "https://open.spotify.com/track/3Iwnn8J9Nb4WyALr19WElF"
@@ -1426,6 +1426,32 @@
       "duration_ms": 187043,
       "name": "Como en las pel\u00edculas",
       "url": "https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3"
+    },
+    {
+      "album": {
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/4yC5DtAZFZ4EH8D7OciHWk"
+      },
+      "artists": [
+        {
+          "name": "Carmen Lillo",
+          "url": "https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW"
+        },
+        {
+          "name": "Mark Dayle",
+          "url": "https://open.spotify.com/artist/3zVdgC3Pz5a6rBN8ze3NjK"
+        },
+        {
+          "name": "CCF",
+          "url": "https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159029,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/59aR96035JfsxzIFpPQCZO"
     },
     {
       "album": {
@@ -2838,7 +2864,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 167730,
       "name": "ella es",
       "url": "https://open.spotify.com/track/4Z6qlqb112fVPqCAtZ8j2Z"
@@ -4476,7 +4502,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 167755,
       "name": "LA LATINA",
       "url": "https://open.spotify.com/track/5N8rFZXLvkCduiLX7qw7Y0"
@@ -6543,6 +6569,24 @@
     },
     {
       "album": {
+        "name": "No soy tu mama",
+        "url": "https://open.spotify.com/album/5yRRpGTAetWVehc8IPrwa1"
+      },
+      "artists": [
+        {
+          "name": "PANTERA BLUE",
+          "url": "https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134518,
+      "name": "No soy tu mama",
+      "url": "https://open.spotify.com/track/0PB8Uzvi6iwahcVQ8qcKYx"
+    },
+    {
+      "album": {
         "name": "NO S\u00c9 DE AMOR",
         "url": "https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb"
       },
@@ -6746,7 +6790,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 206086,
       "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
       "url": "https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV"
@@ -8570,7 +8614,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 165280,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"

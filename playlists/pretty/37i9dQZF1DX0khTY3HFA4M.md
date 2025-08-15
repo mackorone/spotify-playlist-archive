@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,528 likes - 450 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,587 likes - 450 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -336,7 +336,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 326 | [Drop In](https://open.spotify.com/track/7vwibWrHgOtEznQEFoF183) | [Looi](https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru) | [Purple Dreams](https://open.spotify.com/album/7kxIwi77w8d6hz0XRbmCgb) | 2:01 |
 | 327 | [I Know You Know](https://open.spotify.com/track/4qSGmoP62Y4oNSGsmgXx7p) | [Terry Brooklyn](https://open.spotify.com/artist/4z1phSKVusjMBvndNBsxQH) | [I Know You Know](https://open.spotify.com/album/7BU1M9raCFjk2JXSajcZN9) | 3:38 |
 | 328 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 |
-| 329 | [alright now, Mama](https://open.spotify.com/track/5f9Y5nrCAESPhjlN8ZHrm2) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [alright now, Mama](https://open.spotify.com/album/6ksCYkQRzTTbOGdIcw2bjU) | 2:32 |
+| 329 | [alright now, Mama](https://open.spotify.com/track/5f9Y5nrCAESPhjlN8ZHrm2) | [Lowely](https://open.spotify.com/artist/1E7U9zav6CjfcRuD5UEG8e) | [alright now, Mama](https://open.spotify.com/album/6ksCYkQRzTTbOGdIcw2bjU) | 2:32 |
 | 330 | [before dawn](https://open.spotify.com/track/1M40Bxzt6dn8KO86DZYEme) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [before dawn](https://open.spotify.com/album/1sRhJcsZFbkn2e5x6GQN3E) | 3:12 |
 | 331 | [How's That?](https://open.spotify.com/track/4R06qnWPSfljUqt4n6mzQN) | [Tally Tilly](https://open.spotify.com/artist/2anhg6PY9gbMbyjPNjFyCE) | [Listen Up](https://open.spotify.com/album/4wdbmP7WMxxnfbGVvvABmZ) | 2:41 |
 | 332 | [long goodbyes](https://open.spotify.com/track/4S7Q2eAUf4uPusd6sXC0UO) | [nuttin](https://open.spotify.com/artist/4VO2SFvePDZLXlr7W1EJlu) | [long goodbyes](https://open.spotify.com/album/7Aa4jEsVK9G3aYNJz30Cp5) | 2:11 |

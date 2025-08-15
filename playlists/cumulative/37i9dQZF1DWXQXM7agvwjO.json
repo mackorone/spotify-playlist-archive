@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: Sunset Rollercoaster (Taiwan)",
+  "description": "Hottest indie sounds from Asia. Cover: SE SO NEON (South Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 222046,
       "name": "10K Roses",
       "url": "https://open.spotify.com/track/0Ecr3IKxdBIxvMpCuBSPHD"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 179040,
       "name": "4am love",
       "url": "https://open.spotify.com/track/6SYSKoTRle2gRxtDtfx4TB"
@@ -9134,7 +9134,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 186129,
       "name": "Dudu",
       "url": "https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H"
@@ -13451,6 +13451,24 @@
     },
     {
       "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/5lRUG7NKSJzeUBRPgo7t3y"
+      },
+      "artists": [
+        {
+          "name": "Stoondio",
+          "url": "https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259950,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/7x6h7YhzxflFvTHcvTiFdl"
+    },
+    {
+      "album": {
         "name": "Hilang",
         "url": "https://open.spotify.com/album/1O5QjShn5r1t8q89QcZ9KQ"
       },
@@ -17468,7 +17486,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 213811,
       "name": "Landai",
       "url": "https://open.spotify.com/track/0JmKkhIXW9CQ7KdP9PV4Uo"
@@ -18392,6 +18410,54 @@
       "duration_ms": 211863,
       "name": "Lionel",
       "url": "https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi"
+    },
+    {
+      "album": {
+        "name": "lips on mine",
+        "url": "https://open.spotify.com/album/4LNorO57lfjRrBae20cEPU"
+      },
+      "artists": [
+        {
+          "name": "quiet morning",
+          "url": "https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz"
+        },
+        {
+          "name": "rae",
+          "url": "https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x"
+        },
+        {
+          "name": "isaacprease",
+          "url": "https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN"
+        },
+        {
+          "name": "tylo",
+          "url": "https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185990,
+      "name": "lips on mine",
+      "url": "https://open.spotify.com/track/4UYnj2Y9iwE08A12FDedMj"
+    },
+    {
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/72ppnGYnkFvja6QwlmTG6S"
+      },
+      "artists": [
+        {
+          "name": "Jap\u00e8 Tuccin\u00e9",
+          "url": "https://open.spotify.com/artist/1gtBC2uSoEoJpR3XploNCg"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146877,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/63JRM5n95SFY49feQu9U1G"
     },
     {
       "album": {
@@ -19545,6 +19611,24 @@
     },
     {
       "album": {
+        "name": "Who's in the House?",
+        "url": "https://open.spotify.com/album/04cL4l3zjxF2iwKC9yziNm"
+      },
+      "artists": [
+        {
+          "name": "DYGL",
+          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153770,
+      "name": "Man on the Run",
+      "url": "https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr"
+    },
+    {
+      "album": {
         "name": "Mananatili",
         "url": "https://open.spotify.com/album/5xJmMjAm9YSLcZJ0wwAiaL"
       },
@@ -20363,6 +20447,24 @@
     },
     {
       "album": {
+        "name": "milk",
+        "url": "https://open.spotify.com/album/3kCilwGOwzIxgkOnyaBU0M"
+      },
+      "artists": [
+        {
+          "name": "(e)motion engine",
+          "url": "https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275208,
+      "name": "milk",
+      "url": "https://open.spotify.com/track/14wwSi8A7ruwr27w22vTq9"
+    },
+    {
+      "album": {
         "name": "Milkshake",
         "url": "https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG"
       },
@@ -21108,7 +21210,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 251564,
       "name": "Ms.Sunshine",
       "url": "https://open.spotify.com/track/3PL0wgqzHGC88KAxQSysXC"
@@ -21404,7 +21506,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 283500,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
@@ -22770,6 +22872,24 @@
       "duration_ms": 242181,
       "name": "November Blue",
       "url": "https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL"
+    },
+    {
+      "album": {
+        "name": "<NOW> (English Deluxe)",
+        "url": "https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH"
     },
     {
       "album": {
@@ -26368,6 +26488,24 @@
       "duration_ms": 315310,
       "name": "Rush",
       "url": "https://open.spotify.com/track/0zUw0nXudjwn9V9MoS6h4U"
+    },
+    {
+      "album": {
+        "name": "S.A.L.T.",
+        "url": "https://open.spotify.com/album/4Zxymi4ja9GBCIsio13Crx"
+      },
+      "artists": [
+        {
+          "name": "H 3 F",
+          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171930,
+      "name": "S.A.L.T.",
+      "url": "https://open.spotify.com/track/13Onr1Cy2jq40MBhR0Nr5B"
     },
     {
       "album": {
@@ -31499,6 +31637,24 @@
     },
     {
       "album": {
+        "name": "HONEYMOOD",
+        "url": "https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149199,
+      "name": "The Other Piece Of My Heart",
+      "url": "https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6"
+    },
+    {
+      "album": {
         "name": "The Pursuit of Emptiness",
         "url": "https://open.spotify.com/album/2a37hZC9CWhSAuFc3KKz9L"
       },
@@ -35028,7 +35184,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 401871,
       "name": "Who's In My House?",
       "url": "https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0"
@@ -37805,6 +37961,24 @@
     },
     {
       "album": {
+        "name": "CHO CO PA\uff1aEAST ASIA oldies EP",
+        "url": "https://open.spotify.com/album/0D8fkxFhJiJR6EkKMMAZlC"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "\u30ea\u30f3\u30b4\u8ffd\u5206",
+      "url": "https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj"
+    },
+    {
+      "album": {
         "name": "\u4e00\u500b\u773c\u795e",
         "url": "https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu"
       },
@@ -38232,7 +38406,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 226665,
       "name": "\u547d\u4e2d\u6ce8\u5b9a\uff08Destiny\uff09",
       "url": "https://open.spotify.com/track/6iT6SWmFOqyEyxbQvjh6tb"
@@ -38658,7 +38832,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 137169,
       "name": "\u60b2\u3057\u3044\u3053\u3068\u304c\u3042\u3063\u305f\u65e5\u306f",
       "url": "https://open.spotify.com/track/5SFNtz5dJtmd0xuzx65vb6"

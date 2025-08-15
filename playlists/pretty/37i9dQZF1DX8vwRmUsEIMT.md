@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: Ed Sheeran
+> All the new music you need to hear right now\. Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,779 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,880 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
 | 80 | [Love Me Gentle](https://open.spotify.com/track/7bwgNZrJm4fnLFTxVJnzpf) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Love Me Gentle](https://open.spotify.com/album/3wz8VI2kJn9fx3NVmb1WON) | 2:37 |
 
-Snapshot ID: `AAAAAPHU1d2JU7kmDHOaFYqiXD7k/4Dg`
+Snapshot ID: `AAAAAIRhvJkx+mECfK4Hage/m17idTtt`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Bigflo & Oli",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Zamdane",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Aha",
+        "url": "https://open.spotify.com/album/2x0YY673nDbfVJyhVmfgSy"
+      },
+      "artists": [
+        {
+          "name": "Die P",
+          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
+        },
+        {
+          "name": "Gr\u00f6dash",
+          "url": "https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Aha",
+      "url": "https://open.spotify.com/track/2dRFARutLjSqOAtlweuSOk"
+    },
+    {
+      "album": {
         "name": "Alain",
         "url": "https://open.spotify.com/album/1EW4m0Hyks4GIitJfFwBFr"
       },
@@ -672,7 +694,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 203076,
       "name": "Boomshit",
       "url": "https://open.spotify.com/track/1mCF92bUISrWB8MX8gQHnz"

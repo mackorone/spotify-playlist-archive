@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema
 
-503 songs - 1 day 18 hr 6 min
+505 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Ikhlas \(Dalan Kauman\) \- Acoustic Version](https://open.spotify.com/track/6VL1TdL1Er4fqCqXwQwtBW) | [Wirit Wijaya](https://open.spotify.com/artist/6sELd61Heeo22AngWMdtC7) | [Ikhlas \(Dalan Kauman\) \[Acoustic Version\]](https://open.spotify.com/album/34lXn8zs4qNB2HMH0t8LSa) | 4:25 | 2024-12-05 | 2025-01-24 |
 | [Ikhlas Ngenteni](https://open.spotify.com/track/03vCFyLTKlAXkUti7plxtN) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Ikhlas Ngenteni](https://open.spotify.com/album/6cda0taIjtzoAxexbbPYxf) | 4:54 | 2024-11-14 | 2025-05-23 |
 | [Iki Uripku](https://open.spotify.com/track/23JmcEcmC0SzppD6Qm63nM) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Iki Uripku](https://open.spotify.com/album/2CssuqpQHqtx1fhUbGjwyp) | 3:54 | 2022-07-21 | 2023-07-14 |
-| [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 | 2023-02-10 |
+| [Indonesia Bakoh](https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Indonesia Bakoh](https://open.spotify.com/album/0f3jGasuwJGNatcgeDPRZd) | 5:40 | 2022-08-18 |  |
 | [Infone Masseehh Ninu Ninu Ninu](https://open.spotify.com/track/13ST1j3gzTiDPAgnLiJHZT) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Infone Masseehh Ninu Ninu Ninu](https://open.spotify.com/album/2KefeoP3xev9BYBtpzE8Ay) | 4:38 | 2023-03-06 | 2024-04-05 |
 | [Ingin Temu](https://open.spotify.com/track/0ofkvv0WuX32M6fYJ1KILI) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Royal Music](https://open.spotify.com/artist/1coVIbS4yAqP5hmezkHAXM), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Ingin Temu](https://open.spotify.com/album/6XouyPeF4JryWecQ7TkD9m) | 5:24 | 2024-08-02 | 2025-01-24 |
 | [Jamu](https://open.spotify.com/track/5TW0s4SLgFSPDj1jv15kpb) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Jamu](https://open.spotify.com/album/7E5nIZVl5QuzkTjNxOH6eV) | 5:20 | 2024-06-21 | 2024-09-20 |
@@ -146,6 +146,7 @@
 | [Jejantunging Kalbu](https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Jejantunging Kalbu](https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y) | 4:29 | 2024-08-09 | 2024-12-27 |
 | [Juragan Empang](https://open.spotify.com/track/4oukOCxXwfaRx4Rqait0OE) | [Lala Widy](https://open.spotify.com/artist/39oBUORQAdXhOUCSABsmQK) | [Juragan Empang](https://open.spotify.com/album/0EYQcmzHvpQt38ztwlhjQr) | 3:50 | 2024-01-25 | 2024-05-17 |
 | [Kabagyan](https://open.spotify.com/track/7p4g03E3yh1ovkMlvj9mwO) | [Sadewok](https://open.spotify.com/artist/5EkOo7TpmDN9Uz5wvxDyGe) | [Kabagyan](https://open.spotify.com/album/6ZX8XgoC6eGPAJHDzlQZ27) | 4:18 | 2025-05-30 |  |
+| [KABAGYAN \- Acoustic](https://open.spotify.com/track/1LCIeF83tnkviTmnyJ3mgY) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [KABAGYAN \(Acoustic\)](https://open.spotify.com/album/3yAreNxTUGoSglnGNHZC4q) | 4:44 | 2025-08-14 |  |
 | [Kabeh Nggo Koe](https://open.spotify.com/track/209P8tFH0UxWDP3MZ3Sbfg) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Kabeh Nggo Koe](https://open.spotify.com/album/3f42ksw5ZefYGVfMjuF41D) | 5:12 | 2024-03-29 | 2024-07-27 |
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 | 2022-08-26 |
 | [Kalah](https://open.spotify.com/track/6w7wnRZVLdVQGpvAnpI7Wf) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Restianade](https://open.spotify.com/artist/2snngeuArUgVK4TxAWwe9a) | [Kalah](https://open.spotify.com/album/3sOqpgD6n7tYmN75GdUGYx) | 6:38 | 2023-11-09 |  |
@@ -199,6 +200,7 @@
 | [Konco Mesra](https://open.spotify.com/track/4I7goB9uxNnA2Jg3Sf8Dwv) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Konco Mesra](https://open.spotify.com/album/2ijzNP6wya6HesN5nH3nNV) | 5:01 | 2022-05-26 | 2023-03-10 |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2022-05-26 |  |
 | [Koyo Jogja Istimewa](https://open.spotify.com/track/1gFZA3oXbbApLCzQKEu6z5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Jogja Istimewa](https://open.spotify.com/album/08gRcFKWMKnfJStsR2JtA1) | 3:56 | 2025-05-01 |  |
+| [Koyo Jogja Istimewa](https://open.spotify.com/track/1mjeG270XmC8lwqhFThozC) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Vocalista Paradisso](https://open.spotify.com/artist/3ZOStv8j7hEvJODod3ssMz), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Koyo Jogja Istimewa](https://open.spotify.com/album/7wuVFLSgOugQKqgiZEHlyM) | 4:32 | 2025-08-14 |  |
 | [Koyo Jogja Istimewa \- From "Cidro Asmoro"](https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Jogja Istimewa \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr) | 4:29 | 2022-05-26 |  |
 | [Koyo Koyo \- From "Cidro Asmoro"](https://open.spotify.com/track/7pp3cqcPEetjynnprldgSd) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Koyo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/6Ywz06YBkMn0f0JA0zxVzA) | 3:52 | 2023-03-16 | 2023-07-14 |
 | [Koyo Mendung](https://open.spotify.com/track/1wG2izJzmNGkacoFtvVYP4) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Koyo Mendung](https://open.spotify.com/album/1wk1Kxt8R6xqrkDIUHgCUL) | 4:55 | 2025-06-13 |  |

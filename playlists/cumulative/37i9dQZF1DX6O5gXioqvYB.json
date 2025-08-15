@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Bouganville e Coca Puma contemplano tutte le  migliori nuove uscite indie con la loro sfera magica \ud83d\udd2e",
+  "description": "Bouganville e Coca Puma contemplano le nuove uscite indie con la loro sfera \ud83d\udd2e",
   "name": "Novit\u00e0 Indie Italiano",
   "tracks": [
     {
@@ -4455,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "fine del giorno",
+        "url": "https://open.spotify.com/album/2NPUpFmPykswloH3ULHsE2"
+      },
+      "artists": [
+        {
+          "name": "GAVIO",
+          "url": "https://open.spotify.com/artist/05qqxI69VrwHBVt2SC8J0M"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183385,
+      "name": "fine del giorno",
+      "url": "https://open.spotify.com/track/04Y2Etijw0vUBsXjHbdOPP"
+    },
+    {
+      "album": {
         "name": "FINIAMOCI ADESSO",
         "url": "https://open.spotify.com/album/5oK7VQvoaWOJNroR2q6HAJ"
       },
@@ -4520,7 +4538,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 230000,
       "name": "Fiori di Camomilla",
       "url": "https://open.spotify.com/track/4E6e4dXDLyUsg4zLvv2bEz"
@@ -6358,6 +6376,24 @@
       "duration_ms": 156800,
       "name": "LA WAVE",
       "url": "https://open.spotify.com/track/3wJafG2l23mr3raepszTVz"
+    },
+    {
+      "album": {
+        "name": "lacrime amare",
+        "url": "https://open.spotify.com/album/06lF03alhZLPkrfKoTZF0K"
+      },
+      "artists": [
+        {
+          "name": "punto.",
+          "url": "https://open.spotify.com/artist/1dErTkNWMTXDMezWdgnkFM"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159479,
+      "name": "lacrime amare",
+      "url": "https://open.spotify.com/track/5JIo65j1wWtJEU1luM6fGT"
     },
     {
       "album": {

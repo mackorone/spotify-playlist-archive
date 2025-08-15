@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,354 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,421 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 100 | [De cómo empezamos \(Cruce de Caminos\)](https://open.spotify.com/track/6YtegG7HMyUZR0ukaBS2mu) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [De cómo empezamos \(Cruce de Caminos\)](https://open.spotify.com/album/6zlvhd64pu6iO8KDu1eFw5) | 3:16 |
 
-Snapshot ID: `AAAAAJJwKmfayfROghozrbsXod1I/IRo`
+Snapshot ID: `AAAAAGPu2vtest5kAd5cS+tLYkYWCytr`

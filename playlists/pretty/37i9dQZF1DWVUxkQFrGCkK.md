@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Peak IBZ szn has arrived!
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,996 likes - 304 songs - 19 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,119 likes - 304 songs - 19 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 303 | [Back To '89](https://open.spotify.com/track/4RYlANUIQAf8g4y6SEMQku) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Boogietraxx](https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof), [Akeem Raphael](https://open.spotify.com/artist/1QNHbzaaDt7sCdrRxn2rKE) | [Back To '89](https://open.spotify.com/album/7vK2XkzynM63vx6GD8kxgp) | 2:34 |
 | 304 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 |
 
-Snapshot ID: `AAAAACf6k6oFkbueuATG4ca3lZ7EBKKj`
+Snapshot ID: `AAAAAB3dUrH2bPHybdt00q/mWMRb8Kz1`

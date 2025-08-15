@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,484,973 likes - 350 songs - 16 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,236 likes - 350 songs - 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 163 | [When You Come Over](https://open.spotify.com/track/7LqhLEaSc6iREEYKWF3FRR) | [Julius Palladini](https://open.spotify.com/artist/3V5CZtQuix8ETHRNL7wjva) | [When You Come Over](https://open.spotify.com/album/2gos7UfVuuzx5mF0QIVy1s) | 3:00 |
 | 164 | [Mademoiselle](https://open.spotify.com/track/3rG8628IHuYUTbjFHoT1Rm) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Mademoiselle](https://open.spotify.com/album/2JMZHzAkjIVkNlBWqMBT6X) | 2:52 |
 | 165 | [Plaisir](https://open.spotify.com/track/3YwhZ5bXCH5jMPfcD8oDvv) | [Alur Mcrose](https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF) | [Plaisir](https://open.spotify.com/album/3iZJxFw3YagLiY2U3TMyp3) | 2:36 |
-| 166 | [Flowers in the Morning](https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Flowers in the Morning](https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX) | 3:11 |
+| 166 | [Flowers in the Morning](https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Flowers in the Morning](https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX) | 3:11 |
 | 167 | [The Starless Sky](https://open.spotify.com/track/6k4cBdE0ePnWZMsZZPbEu3) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [The Starless Sky](https://open.spotify.com/album/39xSq5KeyvetuYh81NCIfu) | 2:04 |
 | 168 | [That sounds right](https://open.spotify.com/track/2iCUxKtfsqbod8UGap2F98) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [That sounds right](https://open.spotify.com/album/5mrGT46dte6ruJvDfKkEDz) | 2:40 |
 | 169 | [Say Something](https://open.spotify.com/track/1L8uKNdTWyH9oDtJ3hn5iw) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Say Something](https://open.spotify.com/album/24fir1nOCk4XPST49jR7rV) | 2:55 |

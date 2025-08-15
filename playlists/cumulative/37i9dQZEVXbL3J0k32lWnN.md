@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,098 songs - 4 day 12 hr 17 min
+2,099 songs - 4 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1116,7 +1116,7 @@
 | [Kun 1](https://open.spotify.com/track/5XNRshEiBsUg1IA6iDkf8G) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Suave World](https://open.spotify.com/album/4vyomEpjgMHrzrYtOmz4zY) | 2:44 | 2022-10-15 | 2022-10-19 |
 | [Kun For Mig](https://open.spotify.com/track/7hBGy8DIYXuUZf5ZUjKHPO) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Velkommen Til Medina](https://open.spotify.com/album/3flSwxGfLdPtCnnVWaSyK0) | 4:14 | 2024-01-02 | 2024-01-04 |
 | [Kun Med Dig](https://open.spotify.com/track/22ureEREoYmAIwxm8ZBSIK) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Kun Med Dig](https://open.spotify.com/album/3PhijiZGRTGtAT2HCG8guv) | 3:07 | 2022-09-05 | 2023-01-13 |
-| [Kun Os](https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kun Os](https://open.spotify.com/album/63DY4bmIG6gBTwK4zELvBj) | 2:53 | 2025-03-29 |  |
+| [Kun Os](https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kun Os](https://open.spotify.com/album/63DY4bmIG6gBTwK4zELvBj) | 2:53 | 2025-03-29 | 2025-08-15 |
 | [Kurder I København \(feat\. ZK & Luna Ersahin\)](https://open.spotify.com/track/4VIOi72qy3y5lgSqX7tqjZ) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En), [Luna Ersahin](https://open.spotify.com/artist/7pzX8VX54FkHWQg3omfAZK) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 4:19 | 2022-10-22 | 2022-11-05 |
 | [kvinde min](https://open.spotify.com/track/1PATWgcyOMXuHjm3Pdym3n) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [I DAG, I MORGEN, 4 EVIGT](https://open.spotify.com/album/3cJdloIAE28uh9R4uLgwiV) | 3:50 | 2025-05-31 | 2025-06-06 |
 | [kvinde min](https://open.spotify.com/track/5gfIQd0mxGG03oTMfyKY8W) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [kvinde min](https://open.spotify.com/album/1ebq0HLjoEZ9htp2RIltwy) | 3:50 | 2025-05-30 | 2025-06-01 |
@@ -2074,6 +2074,7 @@
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-13 | 2024-12-27 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2024-08-30 | 2024-09-01 |
 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 | 2021-07-18 | 2021-07-25 |
+| [Woodstock](https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Woodstock](https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl) | 2:55 | 2025-08-14 |  |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-20 |
 | [Wow Wow \(feat\. Branco\)](https://open.spotify.com/track/2qu0CT9kxrXUIltBW09K7B) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Wow Wow \(feat\. Branco\)](https://open.spotify.com/album/2ONk4TCatwKOqUTAWH65mo) | 2:57 | 2023-01-15 | 2023-02-12 |
 | [xoxo \(feat\. ICEKIID\)](https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:01 | 2023-09-02 | 2023-11-11 |

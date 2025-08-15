@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-201 songs - 10 hr 32 min
+202 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Hvert ertu að fara?](https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Hvert ertu að fara?](https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ) | 2:37 | 2024-06-21 | 2024-08-16 |
 | [Hæ \- EM 2025](https://open.spotify.com/track/2GAR7xyr2OE07Q1cEabUOZ) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma) | [Hæ \(EM 2025\)](https://open.spotify.com/album/0CM3ucphUxyIQx46Deudy0) | 2:36 | 2025-05-16 |  |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-18 |  |
-| [I Don't Wanna Talk](https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I Don't Wanna Talk](https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK) | 2:55 | 2025-04-18 |  |
+| [I Don't Wanna Talk](https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I Don't Wanna Talk](https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK) | 2:55 | 2025-04-18 | 2025-08-15 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 | 2025-04-18 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-06-21 | 2024-10-04 |
 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-21 | 2025-05-16 |
@@ -111,6 +111,7 @@
 | [JAJA DING DONG \(REMIX\)](https://open.spotify.com/track/0vJWVQ2ErgldAfQTS4r2AY) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg), [Ingi Bauer](https://open.spotify.com/artist/4ynaUZA4BVF6d2XaNuflVz) | [JAJA DING DONG \(REMIX\)](https://open.spotify.com/album/5YKF2N7skXSpmaXRIxbMFC) | 1:49 | 2025-03-28 | 2025-07-23 |
 | [Just Let It Be](https://open.spotify.com/track/4r9ib0PMG96Xg73Lqok3kv) | [Birgir](https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm) | [Just Let It Be](https://open.spotify.com/album/5t47qNf17bUlsPxZWEhksR) | 2:56 | 2025-04-11 | 2025-08-08 |
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-03-21 |  |
+| [KILL ME](https://open.spotify.com/track/061LiXRcTbYAJYD8NNeraN) | [Emmsjé Gauti](https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ) | [STÉTTIN](https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa) | 2:45 | 2025-08-15 |  |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-06-21 | 2024-07-27 |
 | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/track/4swi74n7WyfQUFxVTIXnmB) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4), [Þormóður](https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv) | [KOSS Á ÞIG \(Áramótaskaup 2023\)](https://open.spotify.com/album/04ilaNnJNBvla2NbiVZEB2) | 2:31 | 2024-06-21 | 2024-07-27 |
 | [Langar Í](https://open.spotify.com/track/6Op0vTc3e1Dh1kkH1qkbHu) | [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU), [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [Brat](https://open.spotify.com/album/705ULz5Chxa6TFQOIH14Ae) | 2:10 | 2025-04-11 |  |

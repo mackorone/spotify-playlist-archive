@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-226 songs - 13 hr 6 min
+227 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [La Gran Capital](https://open.spotify.com/track/64CmMyZmNTbKWYQKhJtEND) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [El Caminante](https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK) | 4:30 | 2024-06-28 | 2024-08-17 |
 | [La Mariposa](https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [La Mariposa](https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO) | 1:49 | 2024-08-23 | 2025-08-02 |
 | [La Melancolía](https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU) | [Perropájaro](https://open.spotify.com/artist/1GEPR0e1faYM4A0q6TugVT), [Santiago Adano](https://open.spotify.com/artist/39x4k2KdpPJQ2rrzRLht7Q), [Victoria Fernández](https://open.spotify.com/artist/0Plbanani9vlKgJH0XteYu), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [La Melancolía](https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t) | 1:49 | 2024-08-23 | 2024-10-26 |
+| [La Montaña](https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM) | [Spaghetti Western](https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc) | [La Montaña](https://open.spotify.com/album/1BllJboePDL5uY0fORETQO) | 4:05 | 2025-08-01 |  |
 | [La Noche](https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [La Noche](https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn) | 3:57 | 2024-08-30 |  |
 | [La noche ha caído](https://open.spotify.com/track/6pDFqwzICSf2mUxhgPFNNa) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La noche ha caído](https://open.spotify.com/album/0miT8Ozcj2HXC5QSTDuoVP) | 4:10 | 2024-06-28 | 2024-08-31 |
 | [La Vecina](https://open.spotify.com/track/1QjJAbnwggFeJYzvma3aDv) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Sopita de pan](https://open.spotify.com/album/3XqCraq3luG498wyPggqup) | 4:26 | 2024-06-28 | 2024-08-24 |

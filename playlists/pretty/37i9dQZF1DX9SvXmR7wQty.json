@@ -1,28 +1,44 @@
 {
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: \u00c9mile Bilodeau",
-  "num_followers": 45763,
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aswell",
+  "num_followers": 45765,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFaeiyQCdLm0T7YAbWDtP/jvWkkO",
+  "snapshot_id": "AAAAALXPWf73EowHqyAyOGM3f7BIJrI+",
   "tracks": [
     {
-      "added_at": "2025-08-01 18:03:20",
+      "added_at": "2025-08-15 00:01:33",
       "album": {
-        "name": "Check-list (Live)",
-        "url": "https://open.spotify.com/album/5ULUEBoDcQ46gqiC0N3Bix"
+        "name": "Monnaie",
+        "url": "https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ"
       },
       "artists": [
         {
-          "name": "\u00c9mile Bilodeau",
-          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
         }
       ],
-      "duration_ms": 210882,
-      "name": "Check-list - Live",
-      "url": "https://open.spotify.com/track/6vOGXSX4w14pIAgQCEpb5K"
+      "duration_ms": 145408,
+      "name": "Monnaie",
+      "url": "https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7"
+    },
+    {
+      "added_at": "2025-08-15 00:01:33",
+      "album": {
+        "name": "Une seconde.",
+        "url": "https://open.spotify.com/album/5mnAYy5qvqb9INvUedBe9u"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        }
+      ],
+      "duration_ms": 159624,
+      "name": "Une seconde.",
+      "url": "https://open.spotify.com/track/5x435V4iJe3ZPltXMFUpKB"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -45,20 +61,84 @@
       "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
     },
     {
-      "added_at": "2025-08-07 20:30:24",
+      "added_at": "2025-08-15 00:01:33",
       "album": {
-        "name": "Quand rien ne nous fera plus rien",
-        "url": "https://open.spotify.com/album/1P5oAwcjrvE2WSLHSxZ7LQ"
+        "name": "Grand Marnier",
+        "url": "https://open.spotify.com/album/2Z5PSNyH0tzK2JUvszPxIh"
       },
       "artists": [
         {
-          "name": "L\u00e9a Jarry",
-          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+          "name": "\u00c9tienne Drapeau",
+          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Quand rien ne nous fera plus rien",
-      "url": "https://open.spotify.com/track/5fxIGfllFCVs898qhXN2cA"
+      "duration_ms": 217499,
+      "name": "Grand Marnier",
+      "url": "https://open.spotify.com/track/1QD6VC8S9v9SqG1savNgtv"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Quelque chose",
+        "url": "https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH"
+      },
+      "artists": [
+        {
+          "name": "Loud",
+          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
+        }
+      ],
+      "duration_ms": 125575,
+      "name": "Quelque chose",
+      "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
+    },
+    {
+      "added_at": "2025-08-15 00:01:33",
+      "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/35opTTcaHnmDM7i8RS8a86"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 157140,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/7a2IAS8wXPikqHfLdWCv86"
+    },
+    {
+      "added_at": "2025-08-01 18:03:20",
+      "album": {
+        "name": "Check-list (Live)",
+        "url": "https://open.spotify.com/album/5ULUEBoDcQ46gqiC0N3Bix"
+      },
+      "artists": [
+        {
+          "name": "\u00c9mile Bilodeau",
+          "url": "https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu"
+        }
+      ],
+      "duration_ms": 210882,
+      "name": "Check-list - Live",
+      "url": "https://open.spotify.com/track/6vOGXSX4w14pIAgQCEpb5K"
+    },
+    {
+      "added_at": "2025-08-15 00:01:33",
+      "album": {
+        "name": "Beautiful Madness",
+        "url": "https://open.spotify.com/album/3jpY8F31g961C1glv6Qds6"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Beautiful Madness",
+      "url": "https://open.spotify.com/track/3TitseUr07VOQFk3GSCcdQ"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -93,6 +173,42 @@
       "url": "https://open.spotify.com/track/11UYuQEXBRKZ3gMZp6yDIm"
     },
     {
+      "added_at": "2025-08-15 00:01:33",
+      "album": {
+        "name": "Chez nous ici",
+        "url": "https://open.spotify.com/album/5kqAUgoNM0NBXaVlM2SkMQ"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Ariane Simard",
+          "url": "https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe"
+        }
+      ],
+      "duration_ms": 160190,
+      "name": "Chez nous ici",
+      "url": "https://open.spotify.com/track/23pDoQ06saUoin9oh1Gc5W"
+    },
+    {
       "added_at": "2025-08-01 04:00:28",
       "album": {
         "name": "KAT (feat. La Rvfleuze)",
@@ -111,26 +227,6 @@
       "duration_ms": 149577,
       "name": "KAT (feat. La Rvfleuze)",
       "url": "https://open.spotify.com/track/4ccQmkote4B1zBjhk9sxFH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Toujours les vacances",
-        "url": "https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO"
-      },
-      "artists": [
-        {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
-        },
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        }
-      ],
-      "duration_ms": 198342,
-      "name": "Toujours les vacances",
-      "url": "https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -155,58 +251,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Quelque chose",
-        "url": "https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH"
-      },
-      "artists": [
-        {
-          "name": "Loud",
-          "url": "https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo"
-        }
-      ],
-      "duration_ms": 125575,
-      "name": "Quelque chose",
-      "url": "https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm"
-    },
-    {
-      "added_at": "2025-08-07 20:30:24",
-      "album": {
-        "name": "CABOT",
-        "url": "https://open.spotify.com/album/124xzBSJ90brz9TUGwB6ai"
-      },
-      "artists": [
-        {
-          "name": "La Monarque",
-          "url": "https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3"
-        }
-      ],
-      "duration_ms": 186213,
-      "name": "CABOT",
-      "url": "https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "La monnaie",
-        "url": "https://open.spotify.com/album/01ZxfXcbH3fkboB06EU7te"
-      },
-      "artists": [
-        {
-          "name": "Tali-B",
-          "url": "https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "La monnaie",
-      "url": "https://open.spotify.com/track/1JjMaBCyGzQ4BU11ZFrWiz"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "D&P \u00e0 vie",
         "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
       },
@@ -219,22 +263,6 @@
       "duration_ms": 204973,
       "name": "Ph\u00e9nom\u00e9nal",
       "url": "https://open.spotify.com/track/78Y0EwVQ9kdQFTIOzr7lUd"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Je ne sais quoi",
-        "url": "https://open.spotify.com/album/2S19RAxuXJnV3eXfR8Fuoq"
-      },
-      "artists": [
-        {
-          "name": "Miro",
-          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
-        }
-      ],
-      "duration_ms": 144375,
-      "name": "Je ne sais quoi",
-      "url": "https://open.spotify.com/track/2BmIEbaOEJv3YiZADXxNZT"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -279,6 +307,26 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Toujours les vacances",
+        "url": "https://open.spotify.com/album/6BhQevzQw5GpC7SL8KgwFO"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        },
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 198342,
+      "name": "Toujours les vacances",
+      "url": "https://open.spotify.com/track/6LQwA4Y3JoX8ka0khKJ8DM"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "R.A.T",
         "url": "https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU"
       },
@@ -295,6 +343,22 @@
       "duration_ms": 230813,
       "name": "Crime ensoleill\u00e9",
       "url": "https://open.spotify.com/track/5Pbfz4snuJNXoyK0Iu5Atc"
+    },
+    {
+      "added_at": "2025-08-07 20:30:24",
+      "album": {
+        "name": "Quand rien ne nous fera plus rien",
+        "url": "https://open.spotify.com/album/1P5oAwcjrvE2WSLHSxZ7LQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Jarry",
+          "url": "https://open.spotify.com/artist/4J8nCSHWHbf4a5YUkRy9Da"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Quand rien ne nous fera plus rien",
+      "url": "https://open.spotify.com/track/5fxIGfllFCVs898qhXN2cA"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -337,6 +401,22 @@
       "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
     },
     {
+      "added_at": "2025-08-07 20:30:24",
+      "album": {
+        "name": "CABOT",
+        "url": "https://open.spotify.com/album/124xzBSJ90brz9TUGwB6ai"
+      },
+      "artists": [
+        {
+          "name": "La Monarque",
+          "url": "https://open.spotify.com/artist/5aetwYQT7Tq7WWuv8SWZU3"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "CABOT",
+      "url": "https://open.spotify.com/track/4mHzCQFV9w6TKflRRerYff"
+    },
+    {
       "added_at": "2025-08-01 04:00:28",
       "album": {
         "name": "Congolaise",
@@ -375,6 +455,26 @@
       "duration_ms": 181011,
       "name": "kafini",
       "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "La monnaie",
+        "url": "https://open.spotify.com/album/01ZxfXcbH3fkboB06EU7te"
+      },
+      "artists": [
+        {
+          "name": "Tali-B",
+          "url": "https://open.spotify.com/artist/7piCKjgsPdVVTMojN1oRIT"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "La monnaie",
+      "url": "https://open.spotify.com/track/1JjMaBCyGzQ4BU11ZFrWiz"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -515,6 +615,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "HAYATI (Episode 1 : Du sable et du sang)",
         "url": "https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd"
       },
@@ -531,22 +647,6 @@
       "duration_ms": 178200,
       "name": "Plus pareil (feat. Gazo)",
       "url": "https://open.spotify.com/track/51OxkEhk8CwEhBl6xxJn2L"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -855,90 +955,6 @@
       "duration_ms": 172507,
       "name": "COMME \u00c7A",
       "url": "https://open.spotify.com/track/3aRl5Oi4fcLuPRzUxqY3jU"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Toute premi\u00e8re fois",
-        "url": "https://open.spotify.com/album/4MaY6euKQwdKVyj3LTFJdY"
-      },
-      "artists": [
-        {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
-        },
-        {
-          "name": "Jeanne Mas",
-          "url": "https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Toute premi\u00e8re fois",
-      "url": "https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Ghali",
-        "url": "https://open.spotify.com/album/4DuoVUAMYxE0j5ENAOJGqd"
-      },
-      "artists": [
-        {
-          "name": "Wejdene",
-          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
-        }
-      ],
-      "duration_ms": 190700,
-      "name": "Ghali",
-      "url": "https://open.spotify.com/track/7JRPmK4es5vDupP8H3xjRX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "ton ventre",
-        "url": "https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV"
-      },
-      "artists": [
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 175218,
-      "name": "ton ventre",
-      "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Hors du temps",
-        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Hors du temps",
-      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Mille vagues",
-        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Mille vagues",
-      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

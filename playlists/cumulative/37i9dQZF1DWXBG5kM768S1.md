@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-260 songs - 16 hr 37 min
+261 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bak En Sky Heim](https://open.spotify.com/track/4tNknyVhJDxgQxjCZEoqfN) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/5AkevgUX9GarMJnqW8xV3F) | 4:34 | 2021-12-16 | 2022-07-29 |
 | [Bak En Sky Heim](https://open.spotify.com/track/5FZQMbggBnCwKMo1UBIU6Z) | [Janove](https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI) | [Spindelvevriff](https://open.spotify.com/album/0yjOYxaM1JEuI8hT2N1d4S) | 4:34 | 2023-06-01 | 2024-04-19 |
 | [Baklengs ombord](https://open.spotify.com/track/4eUlDBi2cXnnzbcyboq85B) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Baklengs ombord](https://open.spotify.com/album/6HUiML7VO1cx3OFKFIE4Av) | 3:48 | 2022-03-23 | 2022-07-20 |
+| [Bakvendtland](https://open.spotify.com/track/4OEB5vycXP1p1dYczjfr80) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Bakvendtland](https://open.spotify.com/album/5sKqNAlQqzEIn8Tc7Z4UGu) | 2:44 | 2025-08-14 |  |
 | [Balladen om Jonas Falch](https://open.spotify.com/track/5abeWSVef47zFitVZVINU3) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Balladen om Jonas Falch](https://open.spotify.com/album/2MjeGxxwzdEZYgUlmdStHg) | 4:37 | 2022-01-20 | 2022-06-16 |
 | [Beibi kom hjem \- Single Edit](https://open.spotify.com/track/6U55Tde9CdKzlRKGbnlEoG) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [Beibi kom hjem](https://open.spotify.com/album/2QXDcaFzzjLkdt3J30Gi3V) | 3:44 | 2024-11-21 | 2024-12-09 |
 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 | 2021-12-16 |  |
@@ -64,7 +65,7 @@
 | [Du ga mæ viljestyrke](https://open.spotify.com/track/1HM7GMU2CPPAxXMTJVtmCw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 3:38 | 2024-01-04 | 2024-03-15 |
 | [Du ga mæ viljestyrke](https://open.spotify.com/track/2CmPtitvLJxUscTLe5FntO) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Du ga mæ viljestyrke](https://open.spotify.com/album/1kw8X6Ma21t4pvFUQgdezP) | 3:38 | 2023-01-26 | 2023-12-03 |
 | [Du har meg \(feat\. Jenny Zett\)](https://open.spotify.com/track/0mUOxGTn4AitezwmrVmIZY) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n), [Jenny Zett](https://open.spotify.com/artist/11lUWJmWBF6Sy7dc8fdD7B) | [Du har meg \(feat\. Jenny Zett\)](https://open.spotify.com/album/4pM50PikeR2aPhNwVBRbSw) | 4:34 | 2021-12-16 | 2022-07-26 |
-| [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 | 2022-03-03 |  |
+| [Dørstokkmila](https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s) | [Tre Små Kinesere](https://open.spotify.com/artist/6ZKFdIahCPNYqXuISNaosB) | [De aller beste fra Tre små kinesere](https://open.spotify.com/album/18wN36vWvcoTuVsFjDJGSx) | 2:51 | 2022-03-03 | 2025-08-15 |
 | [E du nord](https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Og så kom resten av livet](https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN) | 5:11 | 2021-12-16 |  |
 | [E på vei](https://open.spotify.com/track/6f3slcMesa6WKwqw13Hjcb) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [E på vei](https://open.spotify.com/album/4ZrrylN5fV40fBe1OxdXOq) | 4:39 | 2022-03-23 | 2022-07-17 |
 | [Eg glemmer deg aldri](https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc) | [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm), [Aslag Haugen](https://open.spotify.com/artist/0Rr2EFrjG1MklON3zLBXOc), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Eg Glemmer Deg Aldri](https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ) | 2:58 | 2023-01-19 | 2025-06-23 |

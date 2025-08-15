@@ -6285,6 +6285,28 @@
     },
     {
       "album": {
+        "name": "MY SOUL",
+        "url": "https://open.spotify.com/album/5OF2j24aSFySoqK5om2fQ1"
+      },
+      "artists": [
+        {
+          "name": "Chayuta",
+          "url": "https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "MY SOUL",
+      "url": "https://open.spotify.com/track/2Fef2S4viehsoIRRsGFZvu"
+    },
+    {
+      "album": {
         "name": "MY STORY",
         "url": "https://open.spotify.com/album/5j0aGzyIav244lIvycbjVI"
       },
@@ -7378,7 +7400,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 265881,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0z955moZM2waA9ctq3Acxo"
@@ -7823,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "Feelings Of Raevin",
+        "url": "https://open.spotify.com/album/57HOVCdbIcATmV3TwUwGic"
+      },
+      "artists": [
+        {
+          "name": "Raevin",
+          "url": "https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160995,
+      "name": "Piano",
+      "url": "https://open.spotify.com/track/4DaXszE7xeaw9uNCvc9pza"
+    },
+    {
+      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -8088,7 +8128,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 156428,
       "name": "Pumping",
       "url": "https://open.spotify.com/track/7tiPuJZKobGHDIcyesz4rG"
@@ -8782,7 +8822,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 149490,
       "name": "Shake your body",
       "url": "https://open.spotify.com/track/39VeapvJrz929FzPDKwLSl"
@@ -8958,6 +8998,24 @@
       "duration_ms": 175922,
       "name": "Sika",
       "url": "https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52"
+    },
+    {
+      "album": {
+        "name": "Sikasem",
+        "url": "https://open.spotify.com/album/5VjjXvozwUC4gFJvLaC6jY"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220029,
+      "name": "Sikasem",
+      "url": "https://open.spotify.com/track/6pdRefzoXjDelw97EvA5hx"
     },
     {
       "album": {

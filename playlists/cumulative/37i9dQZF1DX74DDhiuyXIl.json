@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 264746,
       "name": "\u5047\u52d5\u4f5c",
       "url": "https://open.spotify.com/track/7xhZjfwOYTU4LUCFY8fDnb"
@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 241343,
       "name": "\u5404\u2f83\u2f46\u6059",
       "url": "https://open.spotify.com/track/0jxJL876LmAjlnH92TsZH9"
@@ -5111,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "\u5b8c\u7f8e\u7375\u4eba",
+        "url": "https://open.spotify.com/album/0yOuTt8bABVGlmoXDlpDdA"
+      },
+      "artists": [
+        {
+          "name": "Chen Linong",
+          "url": "https://open.spotify.com/artist/33L43pzLHkc0qhwnfPLWAt"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226606,
+      "name": "\u5b8c\u7f8e\u7375\u4eba",
+      "url": "https://open.spotify.com/track/775aW5uS5Ff5ry4relvMNb"
+    },
+    {
+      "album": {
         "name": "\u5bc2\u5bde\u4fb5\u88ad",
         "url": "https://open.spotify.com/album/1hEMY7EARfFgXVaOZG6y6J"
       },
@@ -5753,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "\u5fcd\u4f4f\u4e0d\u64a5",
+        "url": "https://open.spotify.com/album/6Q4ja1Zy6Rfkp6oCiQKhZD"
+      },
+      "artists": [
+        {
+          "name": "MinChen",
+          "url": "https://open.spotify.com/artist/03TjpiMEGAvMzsprcxBL6f"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "\u5fcd\u4f4f\u4e0d\u64a5",
+      "url": "https://open.spotify.com/track/33T2dvJqZkaLBR0n5vhYqs"
+    },
+    {
+      "album": {
         "name": "\u5fd8\u4e86\u4ed6",
         "url": "https://open.spotify.com/album/7tz6HEX73Oc02XOKUL6m4q"
       },
@@ -5786,7 +5822,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 292133,
       "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
       "url": "https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf"
@@ -9767,6 +9803,24 @@
     },
     {
       "album": {
+        "name": "\u7a7a\u8361\u8361",
+        "url": "https://open.spotify.com/album/0BdQiX1nyvrJ9sbfEOL6vb"
+      },
+      "artists": [
+        {
+          "name": "Zhou Shen",
+          "url": "https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208956,
+      "name": "\u7a7a\u8361\u8361",
+      "url": "https://open.spotify.com/track/6D7hDhCq07RCcdFGKHgI61"
+    },
+    {
+      "album": {
         "name": "\u7a7f\u8fc7\u9ed1\u591c\u7684\u5149",
         "url": "https://open.spotify.com/album/0Lt5heuITBcKvNuVYq42F6"
       },
@@ -9814,7 +9868,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 233664,
       "name": "\u7aba\u611b",
       "url": "https://open.spotify.com/track/6mxm2G7tklyFUY7tMMkHnV"
@@ -10396,6 +10450,24 @@
       "duration_ms": 248695,
       "name": "\u82e5\u7b49\u5019\u6703\u64c1\u6709\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/3K8GrBr6OtZGCwVjEM3Z1X"
+    },
+    {
+      "album": {
+        "name": "\u83b7\u5956\u4e4b\u4f5c",
+        "url": "https://open.spotify.com/album/3rO3MwBHcXaK5R0vNksCIJ"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u695a\u751f",
+          "url": "https://open.spotify.com/artist/0IMkw0VaxHpS2AV23qlO9v"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263233,
+      "name": "\u83b7\u5956\u4e4b\u4f5c",
+      "url": "https://open.spotify.com/track/2m3s5zTUQMnaQgAkwR3vsn"
     },
     {
       "album": {
@@ -11034,7 +11106,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 214500,
       "name": "\u8aaa\u597d\u4e00\u8d77\u5230\u8001",
       "url": "https://open.spotify.com/track/0b4P3mBGyQ2MjXscxCj7Cu"
@@ -11622,6 +11694,24 @@
       "duration_ms": 278428,
       "name": "\u9006\u8457\u4eba\u7fa4\u5954\u5411\u4f60 Running to You",
       "url": "https://open.spotify.com/track/0Yq0v7Ftw5wbacdFAM3ECV"
+    },
+    {
+      "album": {
+        "name": "\u5c6c\u65bc",
+        "url": "https://open.spotify.com/album/7JMO4guKNK7pExuRXISAow"
+      },
+      "artists": [
+        {
+          "name": "Jeff Chang",
+          "url": "https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272840,
+      "name": "\u9019\u4e16\u7684\u540d\u5b57",
+      "url": "https://open.spotify.com/track/3azT0WPu4HFzCHEIQU1n8N"
     },
     {
       "album": {

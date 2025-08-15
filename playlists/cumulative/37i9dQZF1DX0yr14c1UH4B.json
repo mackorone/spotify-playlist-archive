@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the story \ud83d\udcda Cover: Lewis Fitzgerald",
+  "description": "A home for songwriters and storytellers \ud83e\udd1d Tom Odell",
   "name": "Common Thread",
   "tracks": [
     {
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "SEVEN",
+        "url": "https://open.spotify.com/album/0janmZ6GMg082yd8hCp9yy"
+      },
+      "artists": [
+        {
+          "name": "Lois",
+          "url": "https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285973,
+      "name": "APRIL SHOWERS",
+      "url": "https://open.spotify.com/track/40Qw0s7oqA3GzlTxuw1GMe"
+    },
+    {
+      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 159775,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/4HzEoMk9xmhCPekdiz2HqB"
@@ -626,6 +644,24 @@
       "duration_ms": 137243,
       "name": "Billboards",
       "url": "https://open.spotify.com/track/0Sg9XLAL4tKezeuwnu4itl"
+    },
+    {
+      "album": {
+        "name": "bite",
+        "url": "https://open.spotify.com/album/4DUt5gKjHdswBatfpuLhyz"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222097,
+      "name": "bite",
+      "url": "https://open.spotify.com/track/4g9hEHTokakISehyqnTs17"
     },
     {
       "album": {
@@ -2752,10 +2788,28 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 216120,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV"
+    },
+    {
+      "album": {
+        "name": "Hard To Handle",
+        "url": "https://open.spotify.com/album/1koys1mCIfzo5Rd3be7LNQ"
+      },
+      "artists": [
+        {
+          "name": "Edie Bens",
+          "url": "https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225833,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/2QFMDp2MGRqcKKxBxGe3TO"
     },
     {
       "album": {
@@ -2878,7 +2932,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 240123,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged"
@@ -3101,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Hunting Season",
+        "url": "https://open.spotify.com/album/3AN3sN3G6AkxPrF6nV8oDt"
+      },
+      "artists": [
+        {
+          "name": "miluv",
+          "url": "https://open.spotify.com/artist/4TTxPRv3UquhCi0sGz4Yzt"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Hunting Season",
+      "url": "https://open.spotify.com/track/2PQry4lZ0Z0OhrPoGbPGin"
+    },
+    {
+      "album": {
         "name": "HURRICANE",
         "url": "https://open.spotify.com/album/3n7tr6aXcnufwhVg7vNDMu"
       },
@@ -3314,7 +3386,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 183480,
       "name": "I Wanna Be Loved By You",
       "url": "https://open.spotify.com/track/18gnbzwrQjunR6kpaTJp6F"
@@ -3622,6 +3694,24 @@
       "duration_ms": 190705,
       "name": "James",
       "url": "https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv"
+    },
+    {
+      "album": {
+        "name": "Modes of Transportation",
+        "url": "https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210180,
+      "name": "Jessie's Comet",
+      "url": "https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ"
     },
     {
       "album": {
@@ -4030,6 +4120,24 @@
       "duration_ms": 203691,
       "name": "Little Dreaming",
       "url": "https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q"
+    },
+    {
+      "album": {
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315245,
+      "name": "Little Miss Sunshine",
+      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
     },
     {
       "album": {
@@ -4716,7 +4824,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -5148,7 +5256,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 152643,
       "name": "Perfect Crime",
       "url": "https://open.spotify.com/track/5HavXKjua26Sg0OB8LY7YD"
@@ -5582,7 +5690,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 216944,
       "name": "Rest Of Me",
       "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
@@ -6876,7 +6984,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 208008,
       "name": "The Bellboy (One Last Crush)",
       "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
@@ -6966,7 +7074,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 193960,
       "name": "The Highlands",
       "url": "https://open.spotify.com/track/30ytgFw6dKIvuzfrgK4Nhd"
@@ -8051,6 +8159,24 @@
     },
     {
       "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sometani",
+          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205768,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
+    },
+    {
+      "album": {
         "name": "Who Made You This Sweet?",
         "url": "https://open.spotify.com/album/3LUlVGkfE2c75dzK9wtSXG"
       },
@@ -8276,6 +8402,24 @@
       "duration_ms": 207500,
       "name": "Worst Of Me",
       "url": "https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF"
+    },
+    {
+      "album": {
+        "name": "Write It Down",
+        "url": "https://open.spotify.com/album/0CsplxJu2GSq17IKdvv6YS"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Write It Down",
+      "url": "https://open.spotify.com/track/3o9prbtGcP3BtxCETH5wcz"
     },
     {
       "album": {

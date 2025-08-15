@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Dani Vill\u00e9",
+  "description": "The best new and classic South African Rock. Cover: AC/ES",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 230506,
       "name": "Artist - Remastered",
       "url": "https://open.spotify.com/track/4Z2OPcRXYRo9Xc5iA4ZJ60"
@@ -1641,6 +1641,28 @@
     },
     {
       "album": {
+        "name": "Born To Be Bad",
+        "url": "https://open.spotify.com/album/1lhRCD1l8bLaM4K3fzRkik"
+      },
+      "artists": [
+        {
+          "name": "Rebel Bunny",
+          "url": "https://open.spotify.com/artist/1Hbj5xyIrzwFSTLSMbldIX"
+        },
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132537,
+      "name": "Born To Be Bad",
+      "url": "https://open.spotify.com/track/6FYEWAtiglaHu23opKOozS"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/5AvsSJdgKRuVmjtLwf8aSU"
       },
@@ -1912,6 +1934,24 @@
       "duration_ms": 413153,
       "name": "Caligulater",
       "url": "https://open.spotify.com/track/6SK3qzRQe8xBo9xNgUhUsO"
+    },
+    {
+      "album": {
+        "name": "Calvin Groot",
+        "url": "https://open.spotify.com/album/0za7zqULfzg7La3m7LmN9W"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Calvin Groot",
+      "url": "https://open.spotify.com/track/1Ik7TItfdgTBLk6zePtJMo"
     },
     {
       "album": {
@@ -2298,6 +2338,24 @@
       "duration_ms": 181546,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/6uKOEk9ryr95USxLQvjoqK"
+    },
+    {
+      "album": {
+        "name": "Comforting Cry",
+        "url": "https://open.spotify.com/album/3eSSKtj8YzQLfFFmAdi4PD"
+      },
+      "artists": [
+        {
+          "name": "AC/ES",
+          "url": "https://open.spotify.com/artist/4DGkZBLTWioZXNVcw8nXOK"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85274,
+      "name": "Comforting Cry",
+      "url": "https://open.spotify.com/track/6sscF6aUjV1uGQIOVi6CHN"
     },
     {
       "album": {
@@ -3038,7 +3096,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 167819,
       "name": "Die Drie Varkies",
       "url": "https://open.spotify.com/track/18wDnlP7jU4fUWTyGDYdY9"
@@ -3190,6 +3248,24 @@
       "duration_ms": 214266,
       "name": "Die Son",
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
+    },
+    {
+      "album": {
+        "name": "JOHANNA VAN ARK",
+        "url": "https://open.spotify.com/album/6kjUzzGUQm3eK7Zqr0cwr7"
+      },
+      "artists": [
+        {
+          "name": "Francis Na Die Maan",
+          "url": "https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DIE SONDE L\u00ca EN LOER",
+      "url": "https://open.spotify.com/track/2pVV2Zf3CsqQdH8HPQEhqN"
     },
     {
       "album": {
@@ -4356,7 +4432,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 334478,
       "name": "Finchie",
       "url": "https://open.spotify.com/track/5skofEraXIqLwotp8070e6"
@@ -4644,7 +4720,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 207228,
       "name": "Gesiggie",
       "url": "https://open.spotify.com/track/7KATXU3VruL06eJvkxnENO"
@@ -6672,7 +6748,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 269189,
       "name": "Koala",
       "url": "https://open.spotify.com/track/6gZ4q5dGEHjiwZl8cVC3Vz"
@@ -10016,7 +10092,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 251660,
       "name": "ROCK & ROLL MY KIND",
       "url": "https://open.spotify.com/track/74mvMSuukraQ922ctBDmz2"
@@ -10563,6 +10639,24 @@
     },
     {
       "album": {
+        "name": "Sinnelose Koor",
+        "url": "https://open.spotify.com/album/2kZucdsdbVO6zrSZkcSXFz"
+      },
+      "artists": [
+        {
+          "name": "Ouderdoos",
+          "url": "https://open.spotify.com/artist/3ul7KWGY5Vh7MbbiEDYwDo"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269700,
+      "name": "Sinnelose Koor",
+      "url": "https://open.spotify.com/track/4WN5F07bbeFiyXlgeONn8z"
+    },
+    {
+      "album": {
         "name": "Six Feet of Snow",
         "url": "https://open.spotify.com/album/3QCHTxFWFeqqJj2x1tTXbO"
       },
@@ -10758,6 +10852,24 @@
       "duration_ms": 184347,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/4a4AneoUBYsM121PNivyD1"
+    },
+    {
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/4e7O5Zccmb7zLaczXyEBtl"
+      },
+      "artists": [
+        {
+          "name": "Erin Elliot",
+          "url": "https://open.spotify.com/artist/7rDA3BljVoWImjvRZ1wEa1"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "SO WHAT, WATCH ME!",
+      "url": "https://open.spotify.com/track/1sXGAl6pWO4WIi5eRdy8AG"
     },
     {
       "album": {

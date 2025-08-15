@@ -4,7 +4,7 @@
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\. Cover: <a href="spotify:artist:1NCYuwDTI9FZWIEtbDX1Jc">A2P Fred</a>
 
-1,965 songs - 3 day 12 hr 22 min
+1,966 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,7 +747,7 @@
 | [Halo](https://open.spotify.com/track/4zCzDMxz0Tuq80n5vCNIpR) | [Myazwe](https://open.spotify.com/artist/0zUSWiCBPSkpp5QvUeF26V) | [Halo](https://open.spotify.com/album/1rOTnuxvdMqwsApNXqr1Ue) | 2:26 | 2021-12-01 | 2022-01-14 |
 | [Hand on Chest](https://open.spotify.com/track/1pkmICGyr4tAx6b6R8XChw) | [Brandon Nembhard](https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS) | [Hand on Chest](https://open.spotify.com/album/1A3GYh1Q0vL6FW1kWakDhA) | 2:33 | 2023-04-26 | 2023-06-29 |
 | [Happy New Year](https://open.spotify.com/track/2C9WzP04bjlFLH4avRt19V) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Happy New Year](https://open.spotify.com/album/7zUcDimGsVU8YH4MzkmQSe) | 3:57 | 2025-01-22 | 2025-06-05 |
-| [HARD COPIES](https://open.spotify.com/track/7fYKQiLmWD87cB2RCEdgM9) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:32 | 2025-06-20 |  |
+| [HARD COPIES](https://open.spotify.com/track/7fYKQiLmWD87cB2RCEdgM9) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:32 | 2025-06-20 | 2025-08-15 |
 | [Harder Than Hard](https://open.spotify.com/track/4FmlYQcqAUSScKww7hWpQ9) | [DeeYounginn](https://open.spotify.com/artist/7I6dm8ROwoMapo4ZaaulMK) | [2X Harder](https://open.spotify.com/album/3Wjyr8wQTJzlLFTtoUqggQ) | 2:18 | 2023-08-16 | 2023-10-19 |
 | [Harder Then Hard](https://open.spotify.com/track/64u6TgCHFXOxp5RYTukrJ8) | [Mellow Rackz](https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w) | [Harder Then Hard](https://open.spotify.com/album/1XgdfSVfKIChhPXhFgDJWY) | 2:02 | 2023-06-21 | 2024-01-25 |
 | [HARDEST QUESTION EVER](https://open.spotify.com/track/1ZDSsVA08OTmtt5Tovg8fM) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0) | [Here, There & Everywhere](https://open.spotify.com/album/0PAmoJ4Qrc1zEkdssPvxEw) | 2:32 | 2022-04-06 | 2022-05-19 |
@@ -1470,6 +1470,7 @@
 | [RIP Keed](https://open.spotify.com/track/4g7xfEogE5w0jIX1E2Lzpz) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [B4TM](https://open.spotify.com/album/5awR6t5bgOdiMljXuBicgi) | 1:49 | 2025-02-05 | 2025-02-20 |
 | [Risky](https://open.spotify.com/track/0qpoCqUHVw9tqN2apcywmE) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [Risky](https://open.spotify.com/album/4qn8e72Tqpgxi2LLmWgVHn) | 2:44 | 2022-03-09 | 2022-04-14 |
 | [RITE NOW](https://open.spotify.com/track/4HFmDIHljyW797hPiMeZ33) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [RITE NOW](https://open.spotify.com/album/5nNFL2lNsIdM6uWI9mJBE9) | 2:37 | 2025-05-21 | 2025-06-07 |
+| [RITE NOW](https://open.spotify.com/track/5viKdpcwp05x8CtxUCzYSh) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [LINE LEADERS](https://open.spotify.com/album/01Rjv79w0OMjPQQRNsQvJk) | 2:37 | 2025-08-13 |  |
 | [Robbin](https://open.spotify.com/track/6Gqu6QOwMAnLsRc35YE9NH) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [The One Who Did](https://open.spotify.com/album/3htiSyFe02URVZKvHRRley) | 2:25 | 2025-01-15 | 2025-02-20 |
 | [ROBINHOOD](https://open.spotify.com/track/7l6lKwJH1FRfR8MimLfymI) | [Premo.Dee](https://open.spotify.com/artist/11UbRFuA2kDC4nsrS8Liij), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU) | [ROBINHOOD](https://open.spotify.com/album/76GnEoEu4v2jEOg6aQ8Vfz) | 2:27 | 2021-12-01 | 2022-01-14 |
 | [Rock Music](https://open.spotify.com/track/6vR959otNtVQHRcdGhQLBB) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [ET](https://open.spotify.com/artist/4kIIiurtO0dbNOffyNpbAi), [invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X) | [Jwet](https://open.spotify.com/album/6waqAeuUtwseyNljV6xRGA) | 1:48 | 2024-07-31 | 2024-08-08 |

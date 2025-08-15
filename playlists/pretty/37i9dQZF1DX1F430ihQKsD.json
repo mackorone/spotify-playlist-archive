@@ -1,13 +1,29 @@
 {
   "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Ariane Roy",
-  "num_followers": 136279,
+  "num_followers": 136282,
   "original_name": "Montr\u00e9al Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALkfeftj86Rin1qgqbuD4q+27z/D",
+  "snapshot_id": "AAAAAIZPdD5bCC/NegVGYvoNhn60T0zi",
   "tracks": [
+    {
+      "added_at": "2025-08-15 00:01:35",
+      "album": {
+        "name": "L\u00e0-bas",
+        "url": "https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb"
+      },
+      "artists": [
+        {
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "L\u00e0-bas",
+      "url": "https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z"
+    },
     {
       "added_at": "2025-08-01 04:00:29",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 201666,
       "name": "Homerun 2021",
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
+    },
+    {
+      "added_at": "2025-08-15 00:01:35",
+      "album": {
+        "name": "In a Time of Truth",
+        "url": "https://open.spotify.com/album/1koEm9OpK8ZolrEwWfpUhY"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Foon",
+          "url": "https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd"
+        }
+      ],
+      "duration_ms": 263026,
+      "name": "In a Time of Truth",
+      "url": "https://open.spotify.com/track/27RRFsDsh2kMv6To5VUoTw"
     },
     {
       "added_at": "2025-08-01 04:00:29",
@@ -171,6 +203,26 @@
       "duration_ms": 213346,
       "name": "eyez on it",
       "url": "https://open.spotify.com/track/4nJOtb4Ix6TmfCyfRLdDUO"
+    },
+    {
+      "added_at": "2025-08-15 00:01:35",
+      "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
     },
     {
       "added_at": "2025-08-01 04:00:29",

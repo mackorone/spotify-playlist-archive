@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Omar Courtz, Bassyy, Derek Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,368 likes - 190 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,342 likes - 190 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 171 | [Como Tú](https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Como Tú](https://open.spotify.com/album/0QaEYb76P354GEhBTiipyC) | 2:52 |
 | 172 | [LINDA](https://open.spotify.com/track/3rpatdv4oGWHL2rZzTAscf) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [LINDA](https://open.spotify.com/album/7vxDirSMdfFq2Zzz3rnjNm) | 2:49 |
 | 173 | [Pa las girlas \(con DJ Urba\) \- Remix](https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [DJ Urba](https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z) | [Pa las girlas \(con DJ Urba\) \[Remix\]](https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9) | 4:20 |
-| 174 | [Dubai](https://open.spotify.com/track/1PRBPRUtxegMupMRWhbP8C) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [Dubai](https://open.spotify.com/album/1SX284quEQg4jFMUPBeVdV) | 2:35 |
+| 174 | [DUBAI](https://open.spotify.com/track/1PRBPRUtxegMupMRWhbP8C) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [DUBAI](https://open.spotify.com/album/1SX284quEQg4jFMUPBeVdV) | 2:35 |
 | 175 | [Chiquita](https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Chiquita](https://open.spotify.com/album/5Sz2DWxHFfQRgU0KXWFX9X) | 1:56 |
 | 176 | [me extrañas? :\(](https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [me extrañas? :\(](https://open.spotify.com/album/4NdO2JUQYoZOQctoPecAOn) | 3:27 |
 | 177 | [Morrita \(Tinker Bell\)](https://open.spotify.com/track/6YdkAzfexm7nUydxWaU9aQ) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [De Chava](https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn) | 2:49 |

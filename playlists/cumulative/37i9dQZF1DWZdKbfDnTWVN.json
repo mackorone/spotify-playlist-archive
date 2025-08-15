@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Octopizzo marks 10 years of LDPC with a special drop: 50 of his favorite Kenyan hip hop tracks on 254 Flow.",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=SB7QTVYiSOmFPV3GM3nqmA\"> Nyashinski</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -90,7 +90,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 137500,
       "name": "247",
       "url": "https://open.spotify.com/track/6lBOa1Pk7VF0vKJzm26iD6"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 188087,
       "name": "4:20",
       "url": "https://open.spotify.com/track/6RO4BZMyoYlhgGnGw9nAG3"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 219892,
       "name": "All over the world",
       "url": "https://open.spotify.com/track/5luqXomMr0JRQDoOnA97Wa"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 221538,
       "name": "Bad Gyal",
       "url": "https://open.spotify.com/track/7CTNLehVKLNLXLthemIe1J"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 261083,
       "name": "Bank Otuch",
       "url": "https://open.spotify.com/track/5RVqvT0e8XnCIQQ06KtKT8"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 261955,
       "name": "Blackstar",
       "url": "https://open.spotify.com/track/3rGb75kPwjGzQOGl8yEZf9"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 143331,
       "name": "BOY",
       "url": "https://open.spotify.com/track/28uZA4SvGSxKt1kvmlAMjP"
@@ -950,6 +950,24 @@
       "duration_ms": 143438,
       "name": "Brixton",
       "url": "https://open.spotify.com/track/76qGXiuo9xgLcrMSRW16Bi"
+    },
+    {
+      "album": {
+        "name": "Bud Flowers",
+        "url": "https://open.spotify.com/album/0ay1TKcz0UWlYomQ7jPCyv"
+      },
+      "artists": [
+        {
+          "name": "Toxic Lyrikali",
+          "url": "https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184006,
+      "name": "Bud Flowers",
+      "url": "https://open.spotify.com/track/13RzbCfjIuuZqO4TKIotbs"
     },
     {
       "album": {
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 209454,
       "name": "Chase",
       "url": "https://open.spotify.com/track/0mZBoHCXAX8ff0W1N1fN0R"
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 211558,
       "name": "Chinje",
       "url": "https://open.spotify.com/track/5JO1evNqPbkzI4WfUb3VYL"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 164210,
       "name": "Clique",
       "url": "https://open.spotify.com/track/0JKpPUaw8nivpG9tkzvQ0I"
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 242519,
       "name": "Confirmation",
       "url": "https://open.spotify.com/track/0wnP35og5XijJl7yOl3HzC"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 354497,
       "name": "Da Di da",
       "url": "https://open.spotify.com/track/2jPDy7AEChHH2EzMXGLaE2"
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 258019,
       "name": "Dc na Sisi (Remastered)",
       "url": "https://open.spotify.com/track/5gXQbUO2blWmpeC2crikSj"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 201665,
       "name": "Diaspora",
       "url": "https://open.spotify.com/track/6D6G9qZRF9qlx6WHE406BA"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 211546,
       "name": "Dungu",
       "url": "https://open.spotify.com/track/2eD5jjLL7LMYz1XJuQwIx8"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 313338,
       "name": "Effects Of Hard Drugz",
       "url": "https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv"
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 134947,
       "name": "G sign",
       "url": "https://open.spotify.com/track/3YS92rJ94jZRtL5JYRcnXf"
@@ -2250,7 +2268,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 154090,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/7nVM0YkK2KwAV9uGUdY7dZ"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 224783,
       "name": "Going Harder",
       "url": "https://open.spotify.com/track/3MagVqImFeNs70x0aGGxLN"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 118831,
       "name": "Goshoree",
       "url": "https://open.spotify.com/track/3gghsO2XOQqHQq3oAaMNna"
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 222573,
       "name": "Guza Umbwa",
       "url": "https://open.spotify.com/track/6MSkSYXha1WI5HLRnGPGPB"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 113971,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/2tLWdGHzNx6w5XVvhsokb8"
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 187875,
       "name": "HIGH THREAT",
       "url": "https://open.spotify.com/track/4lZmyHneGMJmhztC71tHqh"
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 224470,
       "name": "Hold It Down",
       "url": "https://open.spotify.com/track/65u0gvJBOnkXi9pOnWBcME"
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 154864,
       "name": "Hood",
       "url": "https://open.spotify.com/track/47tOCaQCFn9OwVMisVx1qm"
@@ -2804,7 +2822,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 233400,
       "name": "Huu Ni Nani G",
       "url": "https://open.spotify.com/track/1j5qWPDK2NNIP2WqfABkBv"
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 237960,
       "name": "I'm a Doer",
       "url": "https://open.spotify.com/track/5miSoFRwwkp4FxLwgin8g2"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 181597,
       "name": "Ipo Siku",
       "url": "https://open.spotify.com/track/15zKse4hIz8Ap5pyRqvAan"
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 231300,
       "name": "Ivo Ivo Ivo",
       "url": "https://open.spotify.com/track/2nPADKE7fS1sSlMq7NPT6i"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 162420,
       "name": "Jarateng Sheep (12.3.21)",
       "url": "https://open.spotify.com/track/2l85onC67Du4CLHZOXIurR"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 282000,
       "name": "Jitu",
       "url": "https://open.spotify.com/track/7I0z98bXVwuaeKanm4u28v"
@@ -3154,7 +3172,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 170527,
       "name": "June 25th",
       "url": "https://open.spotify.com/track/52oGL84hQkBKLqtEuwsIs6"
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Kama Hauna",
       "url": "https://open.spotify.com/track/5FAUAybpi9AwTREnSlPVwq"
@@ -3242,7 +3260,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 181872,
       "name": "Kangethe",
       "url": "https://open.spotify.com/track/01iC7q3mk0fQpNvtf0AsUW"
@@ -3260,7 +3278,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 252264,
       "name": "Kasisisi",
       "url": "https://open.spotify.com/track/3iufMEbLmcNvXSDiDit1tt"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 699820,
       "name": "Khali Cartel 5",
       "url": "https://open.spotify.com/track/3UBUcuoT4aTY9NKhy4Rdmi"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 219533,
       "name": "Kibera Again",
       "url": "https://open.spotify.com/track/7IiEVnlddIgIn2gP0K8GkR"
@@ -3472,7 +3490,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 287278,
       "name": "KIKI",
       "url": "https://open.spotify.com/track/2xgmhP2HrMbNAAxHJMwQtn"
@@ -3520,7 +3538,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 191999,
       "name": "Kill Me With The Vibe",
       "url": "https://open.spotify.com/track/0dgr9Kbr0ARyz3hv9tKf3G"
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 192083,
       "name": "King",
       "url": "https://open.spotify.com/track/5RLSUsNUQtTz7LpBM3Sqq3"
@@ -3582,7 +3600,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 221428,
       "name": "Kun Faya Kun",
       "url": "https://open.spotify.com/track/3eR8uRRW5SiIB3t4mE0DCn"
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 240693,
       "name": "Kushoto Kulia",
       "url": "https://open.spotify.com/track/3SMGNiEzqO6yx8WXoldxXm"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 224914,
       "name": "Kuwa Mpole",
       "url": "https://open.spotify.com/track/21flNOwC79sN7rxzgGWqvb"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 199788,
       "name": "Leave You",
       "url": "https://open.spotify.com/track/0CdJKI6UzpDLitLHIVgFZa"
@@ -3810,7 +3828,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 175448,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/11Wxzw1HaLTvC0LBO1GReh"
@@ -3846,7 +3864,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 217946,
       "name": "Ler",
       "url": "https://open.spotify.com/track/0AVH8EnMRckvNJbMYCvf9v"
@@ -3886,7 +3904,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 231780,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2Mtk2PU62wsaU6f9qnEh3p"
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 220865,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/4E5dzAQwEkuN4gJXkSgI4A"
@@ -4124,7 +4142,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 154551,
       "name": "Machete",
       "url": "https://open.spotify.com/track/3PlVucfcEIzQzmMZkRDTgB"
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 241907,
       "name": "Mekatilili",
       "url": "https://open.spotify.com/track/41kBW9MDevID9wQHLgjdOv"
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 192559,
       "name": "Mi Ninani",
       "url": "https://open.spotify.com/track/5peVnhdE1uhbDkv8Iu8l4E"
@@ -4520,7 +4538,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 234971,
       "name": "Mi Siwezi",
       "url": "https://open.spotify.com/track/3NO6Dop2tbab3agXsCfcQI"
@@ -4574,7 +4592,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 280800,
       "name": "Mjanja Mjini",
       "url": "https://open.spotify.com/track/5LpEdN7lVszRk6ERt6Mkd1"
@@ -4692,7 +4710,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 224699,
       "name": "Mtu Bad",
       "url": "https://open.spotify.com/track/6otTRplS19P1XisLsRiOB8"
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 205635,
       "name": "MTUME",
       "url": "https://open.spotify.com/track/2FJg7k2nlLFFsBO8NgvZSJ"
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 196626,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4"
@@ -4874,7 +4892,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 178014,
       "name": "NAKAM SAI",
       "url": "https://open.spotify.com/track/5SsJ89pT9ECdRSvnTaw3MT"
@@ -4896,7 +4914,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 190751,
       "name": "NAME",
       "url": "https://open.spotify.com/track/6OHxrZ3exEutAI4QG6CNop"
@@ -4918,7 +4936,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 165714,
       "name": "Naogopa",
       "url": "https://open.spotify.com/track/2tHn5IDhOKaLH6QyhjT1LI"
@@ -4936,7 +4954,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 241223,
       "name": "Naskia utam",
       "url": "https://open.spotify.com/track/0XLM2WwflPOLObJsfBaKLW"
@@ -5042,7 +5060,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 155300,
       "name": "Ngati by Nature",
       "url": "https://open.spotify.com/track/3kjbcpjueuY3mGMPLxVBk5"
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 259538,
       "name": "Noma Ni",
       "url": "https://open.spotify.com/track/5eHkBgrP6SPcTDxa4EseRX"
@@ -5350,7 +5368,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 340506,
       "name": "Otonglo Time",
       "url": "https://open.spotify.com/track/5cfIpE6d5WKhOvbdjXqT09"
@@ -5460,7 +5478,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 249305,
       "name": "Pele Maradona",
       "url": "https://open.spotify.com/track/1f0Qp9dypT4STgXeTNJqvN"
@@ -5530,7 +5548,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 137892,
       "name": "Pon Di Road",
       "url": "https://open.spotify.com/track/3d3UMETKRG3K2XXycHk0Vx"
@@ -5570,7 +5588,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 288062,
       "name": "Pre$idential",
       "url": "https://open.spotify.com/track/5pGGPGK1IWDXSulLazC2pL"
@@ -5735,6 +5753,24 @@
     },
     {
       "album": {
+        "name": "Properly",
+        "url": "https://open.spotify.com/album/64iIqEzTMDg4yLrNkKVRFo"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212346,
+      "name": "Properly",
+      "url": "https://open.spotify.com/track/7z2iv6bToqzdx8puIywKFI"
+    },
+    {
+      "album": {
         "name": "FREEDOM II",
         "url": "https://open.spotify.com/album/3DKOQ3jh0VzNwUnz6kKBF9"
       },
@@ -5848,7 +5884,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/05BYKtXlyf1AJTGXFUXDcP"
@@ -5888,7 +5924,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 238368,
       "name": "Red Namba Plate",
       "url": "https://open.spotify.com/track/1kWsePJN3ccg4pOfHtuMf4"
@@ -5910,7 +5946,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 250070,
       "name": "Risk",
       "url": "https://open.spotify.com/track/622bSED9pIr9cjX908B1Kr"
@@ -5932,7 +5968,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 123533,
       "name": "Riswa 4",
       "url": "https://open.spotify.com/track/4pvrbIrBj18UKnsEi3QZf1"
@@ -6024,7 +6060,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 255333,
       "name": "Romantic Rivals",
       "url": "https://open.spotify.com/track/1OIKsYFp3v4sMKf8uqeyhc"
@@ -6150,7 +6186,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 236512,
       "name": "Saree",
       "url": "https://open.spotify.com/track/3O23xD0nRDLOyvyh1Wm1P2"
@@ -6274,7 +6310,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 208101,
       "name": "Share",
       "url": "https://open.spotify.com/track/7tviPyqcPbuKQ1TC7l5wev"
@@ -6412,7 +6448,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 161996,
       "name": "Sijui",
       "url": "https://open.spotify.com/track/4F31mkMANyrqjeaGGO0cuP"
@@ -6430,7 +6466,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 157611,
       "name": "Sikujui",
       "url": "https://open.spotify.com/track/2Qv7yBfqY8CNfBdVzgISWv"
@@ -6506,7 +6542,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 270387,
       "name": "Siogopi",
       "url": "https://open.spotify.com/track/7uxdeUTOgW6IoNpUYNzkOL"
@@ -6606,7 +6642,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 246361,
       "name": "So Alive - Remix",
       "url": "https://open.spotify.com/track/3Vb626y3dNm3YaQDIH4u3f"
@@ -6672,7 +6708,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 217919,
       "name": "Soko",
       "url": "https://open.spotify.com/track/33p9VjVf359CsBbvoTmBvi"
@@ -6802,7 +6838,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 178144,
       "name": "SSF",
       "url": "https://open.spotify.com/track/4IoBPRuIs7xjSz8yO7xZNe"
@@ -6908,7 +6944,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 219263,
       "name": "Stima zimekam",
       "url": "https://open.spotify.com/track/1jO3aWXsSz7kmCVHRmUovU"
@@ -6944,7 +6980,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 228879,
       "name": "Street Hustler (with Sharama)",
       "url": "https://open.spotify.com/track/454nteS3TPoSjtk37M8JG4"
@@ -7032,7 +7068,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 145924,
       "name": "Suluhu",
       "url": "https://open.spotify.com/track/5rjQ4OPzr17HCT6twZ0NAE"
@@ -7094,10 +7130,28 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 147436,
       "name": "Table Manners",
       "url": "https://open.spotify.com/track/4llA5ZuQ9Iqfk12MfRHkby"
+    },
+    {
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169793,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7"
     },
     {
       "album": {
@@ -7142,7 +7196,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 221151,
       "name": "Taliban",
       "url": "https://open.spotify.com/track/5GzwujgjUXJdfqH7KyVlhS"
@@ -7230,7 +7284,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 207046,
       "name": "Tamashani",
       "url": "https://open.spotify.com/track/4e6DgpDMuNbeQyi2WW81CY"
@@ -7344,7 +7398,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 136960,
       "name": "The Food Chain",
       "url": "https://open.spotify.com/track/61zRarTy35YJTqt4eDlRdm"
@@ -7606,7 +7660,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 237374,
       "name": "Tukawake",
       "url": "https://open.spotify.com/track/11w3BiPcMqNq0peyzPmx6Q"
@@ -7632,7 +7686,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 235121,
       "name": "Tululu",
       "url": "https://open.spotify.com/track/4B6FVBw2NBzr9KYwzxcMPW"
@@ -7672,7 +7726,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 213446,
       "name": "Twende Sana.",
       "url": "https://open.spotify.com/track/0t4J25ssovJn9bKc8CG9dV"
@@ -7716,7 +7770,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 203611,
       "name": "Umva",
       "url": "https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN"
@@ -7810,7 +7864,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 233207,
       "name": "Usilete Compe",
       "url": "https://open.spotify.com/track/3eqilZPy7bO7EOALsN49Xb"
@@ -7858,7 +7912,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 245524,
       "name": "Vile Inafaa",
       "url": "https://open.spotify.com/track/32SQRBIkHMzYqEtVWV4nzQ"
@@ -7888,7 +7942,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 280581,
       "name": "Vile Tafanya",
       "url": "https://open.spotify.com/track/7nKvrV5UQyCiW9LGMN7FS4"
@@ -8134,7 +8188,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 185287,
       "name": "what's all this then",
       "url": "https://open.spotify.com/track/1C4UyhLPOpJN35sttt2tAd"
@@ -8250,7 +8304,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Work",
       "url": "https://open.spotify.com/track/5NpzsGuxq03iJ0lPFKnSpK"
@@ -8272,7 +8326,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 212558,
       "name": "Wrong Number",
       "url": "https://open.spotify.com/track/0x37PScSmzhTe0bYbKMbwN"
@@ -8290,7 +8344,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 275539,
       "name": "Yes Bana",
       "url": "https://open.spotify.com/track/08yAdXncdSCnpuQZyaJE9M"
@@ -8338,7 +8392,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 275997,
       "name": "Za Kimotho",
       "url": "https://open.spotify.com/track/2BOPAVjxcp0fXHRPgswq75"
@@ -8374,7 +8428,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 333361,
       "name": "Zoea",
       "url": "https://open.spotify.com/track/5gMyaWinK3coOsoldKuQ1f"

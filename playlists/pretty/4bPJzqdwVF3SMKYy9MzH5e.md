@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,209 songs - 4 day 22 hr 26 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,214 songs - 4 day 22 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2217,5 +2217,10 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2207 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
 | 2208 | [I Need You Lovin](https://open.spotify.com/track/12KGCLMVt2cm25rjlrhJRl) | [El Gordo](https://open.spotify.com/artist/5aMlxNKj1GyPyxzvc4DWkI) | [I Need You Lovin](https://open.spotify.com/album/6tBBSBIudTiUscaldk3NQr) | 5:39 |
 | 2209 | [back of my mind](https://open.spotify.com/track/1uFjhHmje5HzyAqU0SXJ2g) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [back of my mind](https://open.spotify.com/album/4e1CZR6MJ1njKbxxAajWG5) | 1:47 |
+| 2210 | [En Moto a Medellín](https://open.spotify.com/track/2MOTsRFuC2b7kCoWCGiRBj) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [En Moto a Medellín](https://open.spotify.com/album/5fEsvZGnnuo1jY8ZNU9iob) | 2:27 |
+| 2211 | [U&ME](https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [U&ME](https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7) | 2:39 |
+| 2212 | [Piu Piu](https://open.spotify.com/track/7xknpPxmijlH18BuVTVXem) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:48 |
+| 2213 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
+| 2214 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
 
-Snapshot ID: `AAAEja+DlJfw9UJ2N717c4ZoqdUsZoFg`
+Snapshot ID: `AAAEktVXDLLt+xYH0L06WPxLtDmGwsCc`

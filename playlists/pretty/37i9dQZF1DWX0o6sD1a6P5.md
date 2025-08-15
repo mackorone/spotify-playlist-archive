@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naza
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Hamza x Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,127 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,236 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
 | 50 | [Genkidama](https://open.spotify.com/track/09n6Y0EosYBt0SDyPlwNu2) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Genkidama](https://open.spotify.com/album/2YToMjpcRUMwan7Zy7Qyia) | 2:33 |
 
-Snapshot ID: `AAAAAL96rMwXIaOPLOaPHmFWI9ZQw9gB`
+Snapshot ID: `AAAAANi4m60uMbE/Wk2mWZN/Rv1Bw82j`

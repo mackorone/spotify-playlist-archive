@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Bakvendtland",
+        "url": "https://open.spotify.com/album/5sKqNAlQqzEIn8Tc7Z4UGu"
+      },
+      "artists": [
+        {
+          "name": "Daniela Reyes",
+          "url": "https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Bakvendtland",
+      "url": "https://open.spotify.com/track/4OEB5vycXP1p1dYczjfr80"
+    },
+    {
+      "album": {
         "name": "Balladen om Jonas Falch",
         "url": "https://open.spotify.com/album/2MjeGxxwzdEZYgUlmdStHg"
       },
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 171066,
       "name": "D\u00f8rstokkmila",
       "url": "https://open.spotify.com/track/0MZQ31wi9L4UyOfjjgV26s"

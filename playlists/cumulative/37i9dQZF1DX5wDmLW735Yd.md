@@ -2,7 +2,7 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: Luude, Brodie, Sean Paul
+> The world's biggest Drum 'n' Bass playlist! Cover: Hedex
 
 973 songs - 2 day 9 hr 39 min
 

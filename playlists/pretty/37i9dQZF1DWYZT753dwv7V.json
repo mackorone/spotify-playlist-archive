@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 101232,
+  "num_followers": 101240,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Odissea",
+        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Lei verr\u00e0",
+      "url": "https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "Fai rumore",
         "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 190586,
       "name": "Straordinario",
       "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Odissea",
-        "url": "https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Lei verr\u00e0",
-      "url": "https://open.spotify.com/track/1WrT3pRtE32H2lyLPQFJq1"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Sar\u00f2 Libera (Sanremo Edition)",
-        "url": "https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT"
-      },
-      "artists": [
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        }
-      ],
-      "duration_ms": 225253,
-      "name": "Non E' L'Inferno",
-      "url": "https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Tango (1991 - Remaster)",
         "url": "https://open.spotify.com/album/6vtR5awftB25quBXs42aA3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 252960,
       "name": "Vacanze Romane - 1991 Remaster",
       "url": "https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Sar\u00f2 Libera (Sanremo Edition)",
+        "url": "https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "duration_ms": 225253,
+      "name": "Non E' L'Inferno",
+      "url": "https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8"
     },
     {
       "added_at": "2025-02-25 22:08:25",

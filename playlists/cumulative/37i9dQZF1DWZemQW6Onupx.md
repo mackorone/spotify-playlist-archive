@@ -4,7 +4,7 @@
 
 > Enjoy music from "New PANTY & STOCKING with GARTERBELT"! ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-47 songs - 2 hr 28 min
+48 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [D City Rock feat\. Debra Zeer](https://open.spotify.com/track/30kpqo2lUMRZcn9CwRXNPR) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [Debra Zeer](https://open.spotify.com/artist/0GSQ7aePXFnV0r05ioJuUy) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:32 | 2021-05-26 |  |
 | [Dancefloor Orgy](https://open.spotify.com/track/6RCzkUigEOOsjTqt5Okm8l) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 3:33 | 2021-05-26 |  |
 | [Daten City](https://open.spotify.com/track/42euJxiRAEr7iPm2LmCSnu) | [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 0:49 | 2021-05-26 |  |
+| [Divine](https://open.spotify.com/track/2yCiAcwmjCoB3UtZrMdzbu) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [SWEEP](https://open.spotify.com/artist/53Ts15qc5hNl9kvxvfmrir), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Divine](https://open.spotify.com/album/7A6EykjHlWKRcofrEIn0PL) | 3:16 | 2025-08-14 |  |
 | [EPTM feat\. Kodai of KinKieS \(Booty Bronx Remix\)](https://open.spotify.com/track/2c2mQZYv014QOPXKAsdg0H) | [Hoshina Anniversary](https://open.spotify.com/artist/6DuASRDmTMKVZr4kwiots9), [Kodai of KinKieS](https://open.spotify.com/artist/2koXFhsqTmNomysrtki6bp) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:16 | 2021-05-26 |  |
 | [Fallen Angel \(El Poco Maro Drum'n'Bass Remix\)](https://open.spotify.com/track/7bL6vnjwbb9l7y56Nyui05) | [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [Aimee B](https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS) | [Panty & Stocking with Garterbelt　"THE WORST ALBUM"](https://open.spotify.com/album/1fxrMI3TLmNdR4yj4086FP) | 6:00 | 2021-05-26 |  |
 | [Fallen Angel feat\. Aimee B](https://open.spotify.com/track/6JXAzCUM0Drgc4FgVA6mGC) | [Mitsunori Ikeda](https://open.spotify.com/artist/6EP9l6n1MqBWLMDLsBGZSx), [Aimee B](https://open.spotify.com/artist/1uLk7jpNDdq7qhs5MSqjAS) | [Panty & Stocking with Garterbelt　The Original Soundtrack](https://open.spotify.com/album/1OcPnTk7T4fgB8nkl4AOh6) | 4:27 | 2021-05-26 |  |

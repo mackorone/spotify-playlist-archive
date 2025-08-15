@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Don Joe con Low Red e RRARI DAL TACCO,  LILCR e Rhove, JELECROIS e Sau27, Don Said e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,116 likes - 129 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,113 likes - 129 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 128 | [NO LOVE 2](https://open.spotify.com/track/4nMYEAiO3oT5gsqJg9M2uz) | [NUMB](https://open.spotify.com/artist/0FuMlqhsisp3exsj6MJGDc) | [NO LOVE 2](https://open.spotify.com/album/0KbZCwMIDcIQ2mqcdzFTe3) | 2:16 |
 | 129 | [FELICE \[ai tuoi occhi\]](https://open.spotify.com/track/1nsTQzQy7hxHwvoidASEjl) | [Alert](https://open.spotify.com/artist/1PnEw4LWPugQEGLQu0xcjh), [trendy](https://open.spotify.com/artist/3of1XFZFelsfEhTTPJGRFC) | [TEMPO FUTURO](https://open.spotify.com/album/71D75XwATiQO1nomgFKncF) | 3:08 |
 
-Snapshot ID: `AAAAADZV5/PVEVf9jgfTZbFljqq4rzGP`
+Snapshot ID: `AAAAAD7bG6dHqjc53llHaLltgktwPmZZ`

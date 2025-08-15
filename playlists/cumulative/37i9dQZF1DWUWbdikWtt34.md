@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Gunawan
+> Dendang Dangdut teratas\. Cover: Ochi Alvira
 
-258 songs - 20 hr 28 min
+259 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Terlatih Mendua](https://open.spotify.com/track/4CoJITHrQuiXCJj9GGGDZ2) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Terlatih Mendua](https://open.spotify.com/album/3qYfwrestUHdHxs4uQKEct) | 4:57 | 2025-06-26 |  |
 | [Terluka Cinta](https://open.spotify.com/track/08g2X36etHHW9XJWEnuNkw) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Terluka Cinta](https://open.spotify.com/album/21jf0mQwADcYgUhe1uMKUo) | 4:22 | 2023-08-17 | 2025-04-18 |
 | [Termiskin Di Dunia](https://open.spotify.com/track/00SZUabJ4X5ZcjR0vSwyNi) | [Keanu Angelo](https://open.spotify.com/artist/1DvOWGQTWHp14tU8aqHg20) | [Mendadak Dangdut](https://open.spotify.com/album/16MnlFg1npECML3ZYWpp82) | 5:28 | 2025-05-01 |  |
+| [Tia Monika](https://open.spotify.com/track/5xRjszE0K8FVoO6Uf0tv45) | [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Tia Monika](https://open.spotify.com/album/515qLOmCHp8UYrJeeBgnIf) | 5:16 | 2025-08-15 |  |
 | [Tiara](https://open.spotify.com/track/3Qoes6Dqk3L33gskQybbAH) | [Fildan](https://open.spotify.com/artist/6uOceknzOyjcK3UdX3SIzl) | [Tiara](https://open.spotify.com/album/6IjJUCwDvhnVXRmOCbGwCv) | 5:09 | 2023-09-14 |  |
 | [Tidak Semua Laki\-Laki](https://open.spotify.com/track/602t4lNXRIhEjpjW7N1jCe) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Tidak Semua Laki\-Laki](https://open.spotify.com/album/6q2iWphcTRGqOKe4JPrLVD) | 5:56 | 2024-08-08 | 2024-12-13 |
 | [Tresnane Wong Kere](https://open.spotify.com/track/4ig8rr39dqGCM27aJcmCz5) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Tresnane Wong Kere](https://open.spotify.com/album/7vNxqBRt7gBPlrjwRWwXdb) | 3:49 | 2021-08-23 | 2023-07-28 |

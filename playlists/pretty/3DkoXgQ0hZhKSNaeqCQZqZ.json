@@ -1,13 +1,29 @@
 {
-  "description": "Made for furs, by furs.  New Twitter @FurryRadio",
-  "num_followers": 658,
+  "description": "Made for furs, by furs.  Check out FurryRadio.com",
+  "num_followers": 660,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAD5hAXGsic01ra+Vtx5HYpDD4U9qkm",
+  "snapshot_id": "AAAD65DQzgljFVdf0ayw36b+ZfA9Y2rR",
   "tracks": [
+    {
+      "added_at": "2024-03-15 20:27:51",
+      "album": {
+        "name": "SPOTS",
+        "url": "https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 146564,
+      "name": "SPOTS",
+      "url": "https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW"
+    },
     {
       "added_at": "2025-08-12 05:26:20",
       "album": {
@@ -3619,22 +3635,6 @@
       "duration_ms": 290409,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y"
-    },
-    {
-      "added_at": "2024-03-15 20:27:51",
-      "album": {
-        "name": "SPOTS",
-        "url": "https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo"
-      },
-      "artists": [
-        {
-          "name": "snuffles",
-          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
-        }
-      ],
-      "duration_ms": 146564,
-      "name": "SPOTS",
-      "url": "https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW"
     },
     {
       "added_at": "2024-09-08 19:46:09",

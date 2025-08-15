@@ -8307,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "Our Flight",
+        "url": "https://open.spotify.com/album/3P3BU0w3PgyGIw3MgFbrNE"
+      },
+      "artists": [
+        {
+          "name": "AVAO",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167478,
+      "name": "Our Flight",
+      "url": "https://open.spotify.com/track/1x1dUnaqOX7YpObPy1O8Lz"
+    },
+    {
+      "album": {
         "name": "Our Happiness",
         "url": "https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq"
       },
@@ -8910,7 +8928,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 162352,
       "name": "Push The Feeling",
       "url": "https://open.spotify.com/track/7DAQDfwJtRuhNOLCOCDtn3"
@@ -13080,7 +13098,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 174222,
       "name": "Welcome To The Weekend",
       "url": "https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT"
@@ -13420,6 +13438,32 @@
       "duration_ms": 272343,
       "name": "ZERO GRAVITY",
       "url": "https://open.spotify.com/track/4Xy6yqMF7qe4FUGehWNtap"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5jqviMXYlVgU0UUyijJREi"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Bombs Away",
+          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
+        },
+        {
+          "name": "Moji",
+          "url": "https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212297,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3PHik6ku45PRKQjgLFWZcF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3d2wagqzwmM"

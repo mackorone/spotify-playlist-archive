@@ -1,13 +1,29 @@
 {
-  "description": "Dendang Dangdut teratas. Cover: Gunawan",
-  "num_followers": 193152,
+  "description": "Dendang Dangdut teratas. Cover: Ochi Alvira",
+  "num_followers": 193157,
   "original_name": "Dangdut Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGYA4Bib93HlLfJX0iWg48Al72sP",
+  "snapshot_id": "AAAAALqCC2VZ7nkm6asF+lEDFf7oOxq8",
   "tracks": [
+    {
+      "added_at": "2025-08-15 01:54:30",
+      "album": {
+        "name": "Tia Monika",
+        "url": "https://open.spotify.com/album/515qLOmCHp8UYrJeeBgnIf"
+      },
+      "artists": [
+        {
+          "name": "Ochi Alvira",
+          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Tia Monika",
+      "url": "https://open.spotify.com/track/5xRjszE0K8FVoO6Uf0tv45"
+    },
     {
       "added_at": "2025-08-07 17:18:18",
       "album": {

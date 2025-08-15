@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain]
 
 > Enjoy the TWICE WORLD TOUR \[THIS IS FOR\] LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 \[THIS IS FOR\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,984 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,219 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

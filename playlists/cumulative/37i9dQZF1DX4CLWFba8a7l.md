@@ -2,7 +2,7 @@
 
 ### [Turn Up Aus](https://open.spotify.com/playlist/37i9dQZF1DX4CLWFba8a7l)
 
-> In this house we celebrate Australian music\. Cover: Folk Bitch Trio
+> In this house we celebrate Australian music\. Cover: Ninajirachi
 
 388 songs - 21 hr 43 min
 

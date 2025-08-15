@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Chance Pe\u00f1a",
+  "description": "A laid-back trip in the folk scene. Cover: Georgia Harmer",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "Anyways, I Love You (Better with Allen)",
+        "url": "https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You - Better with Allen",
+      "url": "https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t"
+    },
+    {
+      "album": {
         "name": "Apple Core",
         "url": "https://open.spotify.com/album/5kWl6GBEG82T4bZtlPxTJZ"
       },
@@ -1400,7 +1422,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 237809,
       "name": "At The Beach, In Every Life",
       "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
@@ -1490,7 +1512,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 219603,
       "name": "baby blue frigidaire mini fridge",
       "url": "https://open.spotify.com/track/6YWKvsh28AOZKYHJZksbaX"
@@ -1642,7 +1664,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 228681,
       "name": "baja bird",
       "url": "https://open.spotify.com/track/0AcUpGp76b2qggGvZX7alq"
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 261219,
       "name": "Basement beds",
       "url": "https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid"
@@ -2810,6 +2832,24 @@
       "duration_ms": 162929,
       "name": "Buzz Cut",
       "url": "https://open.spotify.com/track/3BpEI4vjCFvblmJIKj1ygx"
+    },
+    {
+      "album": {
+        "name": "By the Way",
+        "url": "https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160153,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
     },
     {
       "album": {
@@ -5980,7 +6020,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 231977,
       "name": "Everybody Misses You",
       "url": "https://open.spotify.com/track/5vvadLMFmDJGUqVhEuGyoE"
@@ -6680,7 +6720,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 282293,
       "name": "Final Days",
       "url": "https://open.spotify.com/track/74ue3r7ClSh6QRWqcPJdGl"
@@ -7858,7 +7898,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 196453,
       "name": "Grieving",
       "url": "https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd"
@@ -10651,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Modes of Transportation",
+        "url": "https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210180,
+      "name": "Jessie's Comet",
+      "url": "https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ"
+    },
+    {
+      "album": {
         "name": "Sentimentalist",
         "url": "https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w"
       },
@@ -11673,6 +11731,24 @@
     },
     {
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187403,
+      "name": "Like The Rain",
+      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "album": {
         "name": "linen sheets",
         "url": "https://open.spotify.com/album/7LUPvYPDvlj3fGzT5FQzNo"
       },
@@ -12659,6 +12735,24 @@
     },
     {
       "album": {
+        "name": "Maybe It's Me",
+        "url": "https://open.spotify.com/album/1cWxzwBDxgd8INeYLnZ8cB"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "Maybe It's Me",
+      "url": "https://open.spotify.com/track/2bO0XQt7MlDbneKdsLGv2A"
+    },
+    {
+      "album": {
         "name": "Meaning of Home",
         "url": "https://open.spotify.com/album/5AtiiQsqVvpSKdKKV8srR0"
       },
@@ -13055,6 +13149,24 @@
     },
     {
       "album": {
+        "name": "Interior Live Oak",
+        "url": "https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2"
+      },
+      "artists": [
+        {
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Missionary Bell",
+      "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"
+    },
+    {
+      "album": {
         "name": "Mistakes / Fairview Feeling",
         "url": "https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr"
       },
@@ -13228,7 +13340,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 225131,
       "name": "Most of the Time We Are Lost",
       "url": "https://open.spotify.com/track/6rgu3f5b0EoBGEdKBl2I9z"
@@ -13736,7 +13848,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 191984,
       "name": "Never Come Down",
       "url": "https://open.spotify.com/track/047LgrDy5eFYexDLf0tyDv"
@@ -14242,10 +14354,28 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 179621,
       "name": "Not In A Bad Way",
       "url": "https://open.spotify.com/track/7kG0xEuxb9Det04joUDh0d"
+    },
+    {
+      "album": {
+        "name": "Not There Yet",
+        "url": "https://open.spotify.com/album/72jWkbHCIDhUBFoOXbv2WK"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193058,
+      "name": "Not There Yet",
+      "url": "https://open.spotify.com/track/0ONF1pX2bhclWj3QfKP0zH"
     },
     {
       "album": {
@@ -16024,7 +16154,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 265957,
       "name": "Questions",
       "url": "https://open.spotify.com/track/7GHms8hXY5JGws8Fq43pEl"
@@ -16046,6 +16176,24 @@
       "duration_ms": 237915,
       "name": "Questions, Chaos & Faith",
       "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
+    },
+    {
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/1WDVN86bNSZ9vuGFMVfXJ6"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229070,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/0GI6G8PlaUs1orX7nSKoBv"
     },
     {
       "album": {
@@ -16458,6 +16606,28 @@
       "duration_ms": 202901,
       "name": "River Run",
       "url": "https://open.spotify.com/track/7M2DwUqiGbtNgqKMSUOb2m"
+    },
+    {
+      "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
     },
     {
       "album": {
@@ -17622,6 +17792,24 @@
       "duration_ms": 215412,
       "name": "slow dance in the diner",
       "url": "https://open.spotify.com/track/44tkU5OWulSCRn01iTyAXK"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221551,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4"
     },
     {
       "album": {
@@ -19720,7 +19908,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 205250,
       "name": "The Hopefuls",
       "url": "https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD"
@@ -21492,6 +21680,24 @@
       "duration_ms": 224067,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FwnAR5TCxuHP25lKV5ghW"
+    },
+    {
+      "album": {
+        "name": "Waiting to Love You",
+        "url": "https://open.spotify.com/album/68KciNAYifwo6OW5XIRwJI"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221127,
+      "name": "Waiting to Love You",
+      "url": "https://open.spotify.com/track/7BhQQFASdibLV4aheBP3cD"
     },
     {
       "album": {
@@ -23327,6 +23533,24 @@
     },
     {
       "album": {
+        "name": "When I Cross the River",
+        "url": "https://open.spotify.com/album/7qAEtvITWy5ZhUK4Gdl1Zi"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/2rtVUuN6Mwujm9YcJ03ITe"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf"
       },
@@ -23472,7 +23696,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 132800,
       "name": "Yvonne",
       "url": "https://open.spotify.com/track/6OCv4hNqRyzUkwdAIMSvFf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAam0w6i0dI.md) - [plain]
 
 > Enjoy theTWICE fan meeting \[HOME 9ROUND\] LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 서울 팬미팅 \[HOME 9ROUND\] LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,965 likes - 23 songs - 50 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 14,980 likes - 23 songs - 50 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

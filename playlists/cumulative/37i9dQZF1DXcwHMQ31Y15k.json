@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 340666,
       "name": "Indonesia Bakoh",
       "url": "https://open.spotify.com/track/1Gbz0PYGw30YO4rRqbudgV"
@@ -2662,6 +2662,24 @@
       "duration_ms": 258000,
       "name": "Kabagyan",
       "url": "https://open.spotify.com/track/7p4g03E3yh1ovkMlvj9mwO"
+    },
+    {
+      "album": {
+        "name": "KABAGYAN (Acoustic)",
+        "url": "https://open.spotify.com/album/3yAreNxTUGoSglnGNHZC4q"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284422,
+      "name": "KABAGYAN - Acoustic",
+      "url": "https://open.spotify.com/track/1LCIeF83tnkviTmnyJ3mgY"
     },
     {
       "album": {
@@ -3672,6 +3690,32 @@
       "duration_ms": 236160,
       "name": "Koyo Jogja Istimewa",
       "url": "https://open.spotify.com/track/1gFZA3oXbbApLCzQKEu6z5"
+    },
+    {
+      "album": {
+        "name": "Koyo Jogja Istimewa",
+        "url": "https://open.spotify.com/album/7wuVFLSgOugQKqgiZEHlyM"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Vocalista Paradisso",
+          "url": "https://open.spotify.com/artist/3ZOStv8j7hEvJODod3ssMz"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272880,
+      "name": "Koyo Jogja Istimewa",
+      "url": "https://open.spotify.com/track/1mjeG270XmC8lwqhFThozC"
     },
     {
       "album": {

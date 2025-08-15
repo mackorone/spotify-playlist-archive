@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt, KI/KI
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, RANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,195 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,231 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 99 | [Heartbreak Melody](https://open.spotify.com/track/2ZKm0cv6n9G0u0mNNadw8V) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Heartbreak Melody](https://open.spotify.com/album/3ioWtr8wK5RkIobXeijUK4) | 3:11 |
 | 100 | [Ignite](https://open.spotify.com/track/7szTDmlbgEOCBWwxMMPPDE) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [World Of Era](https://open.spotify.com/album/1yY7qNwmwpd1P5jxso67g5) | 3:14 |
 
-Snapshot ID: `AAAAAIx7D0XZ6ym/SjMUB4qnIdWOsgU+`
+Snapshot ID: `AAAAAJLvm5FkQsW1/yKdfPQfZu2o5U+K`

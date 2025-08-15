@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "III - Candles & Beginnings",
+        "url": "https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX"
+      },
+      "artists": [
+        {
+          "name": "Auri",
+          "url": "https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256629,
+      "name": "Blakey Ridge",
+      "url": "https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd"
+    },
+    {
+      "album": {
         "name": "Blodbylgje",
         "url": "https://open.spotify.com/album/5SrSRDf01IzfQGJ4yKrGJn"
       },
@@ -1015,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "Iske Tulta",
+        "url": "https://open.spotify.com/album/45oxeVPZeVmt5Cnd2gIvfL"
+      },
+      "artists": [
+        {
+          "name": "Kveld",
+          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
+        },
+        {
+          "name": "Noiduin",
+          "url": "https://open.spotify.com/artist/5slOpOZMe7pvqKYWMCSirH"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192545,
+      "name": "Iske Tulta",
+      "url": "https://open.spotify.com/track/17l522SoPKtw079BEUzTt4"
+    },
+    {
+      "album": {
         "name": "Is\u00e4 Meid\u00e4n",
         "url": "https://open.spotify.com/album/63Hue96M6GYO6jc0QG4eWC"
       },
@@ -1156,7 +1196,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 311986,
       "name": "K\u00e4\u00e4rmeen synty",
       "url": "https://open.spotify.com/track/3VyXw6QyfpTJbDhuyfYcBa"
@@ -1412,7 +1452,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 301498,
       "name": "Museum Of Childhood",
       "url": "https://open.spotify.com/track/3SEhz1AzCyq2BPctFUMiiB"

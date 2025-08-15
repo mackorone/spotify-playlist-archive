@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 
 ### [Discover Weekly \(@mackorone\)](https://open.spotify.com/playlist/37i9dQZEVXcRuMXvgjbNNg)
 
-> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
+> Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 30 songs - 1 hr 39 min
 
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
 | 30 | [Swim Between Trees](https://open.spotify.com/track/5qRNdYwaZX0YiBeZvsR38Q) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:53 |
 
-Snapshot ID: `aJkygAAAAAAMQh11nsamcmTXSboqqUa8`
+Snapshot ID: `aJkygAAAAABUC2bCnOFBuxpF2M3qKS5D`

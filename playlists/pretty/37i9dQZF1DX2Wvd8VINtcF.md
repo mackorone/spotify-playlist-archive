@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Lover's Skit✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,728 likes - 133 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,750 likes - 133 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

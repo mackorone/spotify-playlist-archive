@@ -1,13 +1,29 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Loredana",
-  "num_followers": 916980,
+  "num_followers": 917009,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACOWM7/6HQo+vE5ilgg8q+bmXyDc",
+  "snapshot_id": "AAAAAFoZ6qH+69BbbSn8RJIkQLn8XuwG",
   "tracks": [
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 138354,
+      "name": "AKON",
+      "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
+    },
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 138354,
-      "name": "AKON",
-      "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -99,26 +99,6 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Tutto Bene",
-        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Tutto Bene",
-      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
         "name": "PARFUM",
         "url": "https://open.spotify.com/album/6IJCERv7XJRidC0wCqPmBq"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 160863,
       "name": "PARFUM",
       "url": "https://open.spotify.com/track/7f4L1SHhVir0UxPC2sKidp"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Tutto Bene",
+        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Tutto Bene",
+      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -391,18 +391,18 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "BOTTEGA",
-        "url": "https://open.spotify.com/album/1nTDLd7iju1cTk1fiWm5tS"
+        "name": "Sexy Lady",
+        "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 145023,
-      "name": "BOTTEGA",
-      "url": "https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP"
+      "duration_ms": 140178,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
+        "name": "BOTTEGA",
+        "url": "https://open.spotify.com/album/1nTDLd7iju1cTk1fiWm5tS"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 145023,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
         "name": "Wir sind Stars",
         "url": "https://open.spotify.com/album/3wy0zUVAsK4PfipnHuibUJ"
       },
@@ -459,6 +475,54 @@
       "duration_ms": 194663,
       "name": "Wir sind Stars",
       "url": "https://open.spotify.com/track/4cTEuDTBN5rE5D88y0mQHl"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Yerinde Dur Remix feat. Amo & Aymen",
+        "url": "https://open.spotify.com/album/3e966JmhN3SrKx6QLTtwY2"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Yerinde Dur Remix feat. Amo & Aymen",
+      "url": "https://open.spotify.com/track/4jsF4LQHWHm1hwWzjExyOg"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 183788,
+      "name": "BORN SPINNER",
+      "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -503,42 +567,6 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Sexy Lady",
-        "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "Sexy Lady",
-      "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "BORN SPINNER",
-        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 183788,
-      "name": "BORN SPINNER",
-      "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
         "name": "Aymen",
         "url": "https://open.spotify.com/album/5AJ9eYWrmaGXZ11jhAfWk5"
       },
@@ -555,30 +583,22 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Yerinde Dur Remix feat. Amo & Aymen",
-        "url": "https://open.spotify.com/album/3e966JmhN3SrKx6QLTtwY2"
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
       },
       "artists": [
         {
-          "name": "Sefo",
-          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         },
         {
-          "name": "Demet Akal\u0131n",
-          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Yerinde Dur Remix feat. Amo & Aymen",
-      "url": "https://open.spotify.com/track/4jsF4LQHWHm1hwWzjExyOg"
+      "duration_ms": 184453,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -615,26 +635,6 @@
       "duration_ms": 176492,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Jamin",
-          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -691,22 +691,38 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Bonzeneltern",
-        "url": "https://open.spotify.com/album/7IEWyYdEviyfbWwRgf7FbJ"
+        "name": "Vertrau mir",
+        "url": "https://open.spotify.com/album/0kX8i13etX12YRogC6dPPh"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
-        },
-        {
-          "name": "Gzuz",
-          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
         }
       ],
-      "duration_ms": 177956,
-      "name": "Bonzeneltern",
-      "url": "https://open.spotify.com/track/3h9RWKFJ50an9X3xOhJ54g"
+      "duration_ms": 154160,
+      "name": "Vertrau mir",
+      "url": "https://open.spotify.com/track/0ZS1PzrTDsIVsDM0DKkYSa"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 163819,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/1nmwQg2NjcDYc7zGuROpzN"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -751,18 +767,38 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Vertrau mir",
-        "url": "https://open.spotify.com/album/0kX8i13etX12YRogC6dPPh"
+        "name": "Bonzeneltern",
+        "url": "https://open.spotify.com/album/7IEWyYdEviyfbWwRgf7FbJ"
       },
       "artists": [
         {
-          "name": "CANEY030",
-          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Vertrau mir",
-      "url": "https://open.spotify.com/track/0ZS1PzrTDsIVsDM0DKkYSa"
+      "duration_ms": 177956,
+      "name": "Bonzeneltern",
+      "url": "https://open.spotify.com/track/3h9RWKFJ50an9X3xOhJ54g"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
+        "url": "https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 131163,
+      "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
+      "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -811,38 +847,6 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
-        "url": "https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 131163,
-      "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
-      "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Denkst du an mich",
-        "url": "https://open.spotify.com/album/1gCpb6P29znhvymToiydUV"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Denkst du an mich",
-      "url": "https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/4wb3yPp2eguSA5mC68pxAT"
       },
@@ -855,74 +859,6 @@
       "duration_ms": 218600,
       "name": "Ya Salam",
       "url": "https://open.spotify.com/track/5fpujciVjGBhnR2XFx06E7"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "BORN SPINNER",
-        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        },
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 163819,
-      "name": "REWIND",
-      "url": "https://open.spotify.com/track/1nmwQg2NjcDYc7zGuROpzN"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Wie beim ersten Mal",
-        "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
-      },
-      "artists": [
-        {
-          "name": "Nimo",
-          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Wie beim ersten Mal",
-      "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "GOVA",
-        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Juana auf Snapchat",
-      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "SOMMERNACHT 2",
-        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
-      },
-      "artists": [
-        {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        }
-      ],
-      "duration_ms": 166018,
-      "name": "SOMMERNACHT 2",
-      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -951,38 +887,66 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Diadem",
-        "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
+        "name": "Denkst du an mich",
+        "url": "https://open.spotify.com/album/1gCpb6P29znhvymToiydUV"
       },
       "artists": [
         {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
         }
       ],
-      "duration_ms": 164937,
-      "name": "Diadem",
-      "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
+      "duration_ms": 163149,
+      "name": "Denkst du an mich",
+      "url": "https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0"
     },
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Baccarat",
-        "url": "https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2"
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        },
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
         }
       ],
-      "duration_ms": 172617,
-      "name": "Baccarat",
-      "url": "https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq"
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Wie beim ersten Mal",
+        "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
+      },
+      "artists": [
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Wie beim ersten Mal",
+      "url": "https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "SOMMERNACHT 2",
+        "url": "https://open.spotify.com/album/2kAEj9QhAEz3x4ndm3DaH4"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 166018,
+      "name": "SOMMERNACHT 2",
+      "url": "https://open.spotify.com/track/3vlaxBPQggwXUS6TqkBHok"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1007,18 +971,58 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "DR\u00dcCK",
-        "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
+        "name": "Diadem",
+        "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 164937,
+      "name": "Diadem",
+      "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "GUNSHOT",
+        "url": "https://open.spotify.com/album/2oO4oJUUP9wHa1wv9CbW7Q"
       },
       "artists": [
         {
           "name": "Eno",
           "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        },
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
         }
       ],
-      "duration_ms": 134315,
-      "name": "DR\u00dcCK",
-      "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
+      "duration_ms": 117573,
+      "name": "GUNSHOT",
+      "url": "https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Baccarat",
+        "url": "https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 172617,
+      "name": "Baccarat",
+      "url": "https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1039,22 +1043,6 @@
       "duration_ms": 138305,
       "name": "MURAKAMI",
       "url": "https://open.spotify.com/track/3gTLaJJbieHBrti47DXTUo"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "ex und so",
-        "url": "https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "ex und so",
-      "url": "https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1083,6 +1071,54 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
+        "name": "ex und so",
+        "url": "https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "ex und so",
+      "url": "https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "DR\u00dcCK",
+        "url": "https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4"
+      },
+      "artists": [
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        }
+      ],
+      "duration_ms": 134315,
+      "name": "DR\u00dcCK",
+      "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Eintausend Farben",
+        "url": "https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 156836,
+      "name": "Eintausend Farben",
+      "url": "https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
         "name": "Zemer",
         "url": "https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I"
       },
@@ -1099,22 +1135,18 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "GUNSHOT",
-        "url": "https://open.spotify.com/album/2oO4oJUUP9wHa1wv9CbW7Q"
+        "name": "D\u00e9sir\u00e9 Dou\u00e9",
+        "url": "https://open.spotify.com/album/13FSGypMPQ4BtYty51CsfD"
       },
       "artists": [
         {
-          "name": "Eno",
-          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
-        },
-        {
-          "name": "Olexesh",
-          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
         }
       ],
-      "duration_ms": 117573,
-      "name": "GUNSHOT",
-      "url": "https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a"
+      "duration_ms": 149165,
+      "name": "D\u00e9sir\u00e9 Dou\u00e9",
+      "url": "https://open.spotify.com/track/0uPckhHiNfc6BXrpnFbUqR"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1143,62 +1175,6 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "LOVE & DRAMA",
-        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
-      },
-      "artists": [
-        {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "LOVE & DRAMA",
-      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "D\u00e9sir\u00e9 Dou\u00e9",
-        "url": "https://open.spotify.com/album/13FSGypMPQ4BtYty51CsfD"
-      },
-      "artists": [
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
-        }
-      ],
-      "duration_ms": 149165,
-      "name": "D\u00e9sir\u00e9 Dou\u00e9",
-      "url": "https://open.spotify.com/track/0uPckhHiNfc6BXrpnFbUqR"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Delale",
-        "url": "https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs"
-      },
-      "artists": [
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        },
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        }
-      ],
-      "duration_ms": 155081,
-      "name": "Delale",
-      "url": "https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
         "name": "ENSAR ABI",
         "url": "https://open.spotify.com/album/0XiFQ3BOhGIdfqAqC4YCzX"
       },
@@ -1223,18 +1199,42 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Eintausend Farben",
-        "url": "https://open.spotify.com/album/2wmJrZ5RWw969i9SifZNpJ"
+        "name": "Delale",
+        "url": "https://open.spotify.com/album/4cVsNCWTpWwIvGOXPX8nAs"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        },
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
         }
       ],
-      "duration_ms": 156836,
-      "name": "Eintausend Farben",
-      "url": "https://open.spotify.com/track/2ExSVDSeDoHUUW0iyGEEpx"
+      "duration_ms": 155081,
+      "name": "Delale",
+      "url": "https://open.spotify.com/track/2sbg1omBXnFOeHvbWyR1Vv"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "LOVE & DRAMA",
+        "url": "https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "LOVE & DRAMA",
+      "url": "https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Primetime",
-        "url": "https://open.spotify.com/album/0FWsRTPxkb74BQwZc6MfZc"
-      },
-      "artists": [
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 123529,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
         "name": "Pasaport",
         "url": "https://open.spotify.com/album/4eBfzWqgbbTiqHsU0CONlf"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 123641,
       "name": "Pasaport",
       "url": "https://open.spotify.com/track/1QA3bX5WWKkLqHb6Ft69Qc"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
+        "name": "Primetime",
+        "url": "https://open.spotify.com/album/0FWsRTPxkb74BQwZc6MfZc"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 123529,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/5TTd6963bC2bAFPuz4uGEm"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/7hrN00W68flfaGYwqwRLmI"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 122392,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/68HZdKRvIVj3ZNNCvsdbAr"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
         "name": "G-CODE",
         "url": "https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 150613,
       "name": "SO FRESH SO CLEAN",
       "url": "https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Van Cleef",
-        "url": "https://open.spotify.com/album/7hrN00W68flfaGYwqwRLmI"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        }
-      ],
-      "duration_ms": 122392,
-      "name": "Van Cleef",
-      "url": "https://open.spotify.com/track/68HZdKRvIVj3ZNNCvsdbAr"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
+        "name": "TALISMAN",
+        "url": "https://open.spotify.com/album/6FmYFBm1vawsCO3wcO50cS"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "duration_ms": 165250,
+      "name": "TALISMAN",
+      "url": "https://open.spotify.com/track/1RTQZbdrTphprJOXa8126B"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
         "name": "FULL CLIP VOL. 2 EP",
         "url": "https://open.spotify.com/album/0ldSEw6iUymaWDJLjOj05x"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 166253,
       "name": "KILL",
       "url": "https://open.spotify.com/track/2GsdWGggXAVNNZT7TkZpqy"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Warum ich?",
-        "url": "https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp"
-      },
-      "artists": [
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 144671,
-      "name": "Warum ich?",
-      "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
+        "name": "Warum ich?",
+        "url": "https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 144671,
+      "name": "Warum ich?",
+      "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"
+    },
+    {
+      "added_at": "2025-08-11 14:25:42",
+      "album": {
         "name": "F\u00dcR IMMER",
         "url": "https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb"
       },
@@ -1639,18 +1655,22 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "TALISMAN",
-        "url": "https://open.spotify.com/album/6FmYFBm1vawsCO3wcO50cS"
+        "name": "WINDOWSHOPPA (YA ALBI)",
+        "url": "https://open.spotify.com/album/734gAoAFMZISjs76vFS2a9"
       },
       "artists": [
         {
           "name": "Ataypapi",
           "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        },
+        {
+          "name": "KARDO",
+          "url": "https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69"
         }
       ],
-      "duration_ms": 165250,
-      "name": "TALISMAN",
-      "url": "https://open.spotify.com/track/1RTQZbdrTphprJOXa8126B"
+      "duration_ms": 112266,
+      "name": "WINDOWSHOPPA (YA ALBI)",
+      "url": "https://open.spotify.com/track/0pBuj5TBF3ugRvtxD0tESm"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1723,22 +1743,26 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "WINDOWSHOPPA (YA ALBI)",
-        "url": "https://open.spotify.com/album/734gAoAFMZISjs76vFS2a9"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/1DHtwur7UC8udZlrcEkEEY"
       },
       "artists": [
         {
-          "name": "Ataypapi",
-          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+          "name": "MADE",
+          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
         },
         {
-          "name": "KARDO",
-          "url": "https://open.spotify.com/artist/3NZPZUWDcJngcu8MuBpT69"
+          "name": "Biggie68",
+          "url": "https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1"
+        },
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
         }
       ],
-      "duration_ms": 112266,
-      "name": "WINDOWSHOPPA (YA ALBI)",
-      "url": "https://open.spotify.com/track/0pBuj5TBF3ugRvtxD0tESm"
+      "duration_ms": 133407,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/4jCI4exnxKlEV2a71xrp92"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1767,26 +1791,18 @@
     {
       "added_at": "2025-08-11 14:25:42",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/1DHtwur7UC8udZlrcEkEEY"
+        "name": "Augen auf mir",
+        "url": "https://open.spotify.com/album/5k3QdSAmho2Flk2xLYQbWv"
       },
       "artists": [
         {
-          "name": "MADE",
-          "url": "https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj"
-        },
-        {
-          "name": "Biggie68",
-          "url": "https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1"
-        },
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
         }
       ],
-      "duration_ms": 133407,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/4jCI4exnxKlEV2a71xrp92"
+      "duration_ms": 128086,
+      "name": "Augen auf mir",
+      "url": "https://open.spotify.com/track/1N8z59n95wvAv4069I6y7Y"
     },
     {
       "added_at": "2025-08-11 14:25:42",
@@ -1803,22 +1819,6 @@
       "duration_ms": 134724,
       "name": "Temperatura",
       "url": "https://open.spotify.com/track/3CBPfbeWuAD1pM1IFHQ4Er"
-    },
-    {
-      "added_at": "2025-08-11 14:25:42",
-      "album": {
-        "name": "Augen auf mir",
-        "url": "https://open.spotify.com/album/5k3QdSAmho2Flk2xLYQbWv"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 128086,
-      "name": "Augen auf mir",
-      "url": "https://open.spotify.com/track/1N8z59n95wvAv4069I6y7Y"
     },
     {
       "added_at": "2025-08-11 14:25:42",

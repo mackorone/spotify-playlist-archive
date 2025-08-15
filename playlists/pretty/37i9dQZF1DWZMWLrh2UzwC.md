@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from , Bunga, Ed Sheeran, keshi, Firdhaus, Jeryl Lee, and more!
+> New music from Andi Bernadee, Conan Gray, Cardi B, 3P, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,418 likes - 111 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,465 likes - 111 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 110 | [So in love with you](https://open.spotify.com/track/76sqcAYCyX0P79SHg4CKCX) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [Hidden Album](https://open.spotify.com/album/5pyoNVddlePXEgk2ihx8A0) | 3:24 |
 | 111 | [Don't Stop](https://open.spotify.com/track/1y1knxEhGiElHbxrp5TVwj) | [RONNADET](https://open.spotify.com/artist/61EjhvdRfu6tCZQkqkw2vM) | [Don't Stop](https://open.spotify.com/album/791rvmdU08UYBAYPUh6mVF) | 3:08 |
 
-Snapshot ID: `AAAAADduKaw0vhrzFm8yIYFLWp439UD/`
+Snapshot ID: `AAAAAM6zTuT9qUa2kaBX0jCNLeSR7NLv`

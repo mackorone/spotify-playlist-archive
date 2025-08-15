@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Societeit de Harmonie, Natasya Elvira
 
-256 songs - 17 hr 56 min
+257 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Goyang Berdendang](https://open.spotify.com/track/2jXATlKZ8YTj1ohVxYNafK) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Goyang Berdendang](https://open.spotify.com/album/2kFbzEY9Ex4lGWNClq9RLO) | 3:54 | 2024-07-08 |  |
 | [Gratitude](https://open.spotify.com/track/68sQC8sj18Ty36mbreDHot) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN) | [Gratitude](https://open.spotify.com/album/5d1ORdMsk0WXPZkViftyNs) | 5:03 | 2022-09-02 | 2023-08-18 |
 | [GYMNASIUM](https://open.spotify.com/track/3gXpHM1ZcUKF5Kn3CtuT0q) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np), [JOY](https://open.spotify.com/artist/2hiaJ5v1B9HiftMeHcDmht) | [GYMNASIUM](https://open.spotify.com/album/04hDXHNlGH50mEs2aSI0D2) | 3:49 | 2023-07-13 | 2024-08-02 |
+| [Hanya Dia](https://open.spotify.com/track/2ZiWWRqWPeksTDWOuL36mW) | [Tya Subiakto](https://open.spotify.com/artist/76gVDaj7ndXjcexm4tTlPo), [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Hanya Dia](https://open.spotify.com/album/40ZH20Iiju1MZTnglsmyQK) | 4:30 | 2025-08-14 |  |
 | [Happy Guy](https://open.spotify.com/track/4mkrBtAdIWJ6xTwZJod13f) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Love & Imagination](https://open.spotify.com/album/2i7qwVx6d5KWNPu0MLbGsx) | 5:18 | 2022-09-02 | 2023-08-18 |
 | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/track/3XPVJWfWP1DH1Ly3EX8xbw) | [Nathania Jualim](https://open.spotify.com/artist/3luT9sLplqCrraMvMDPRwK), [Desmond Amos](https://open.spotify.com/artist/6tDcNMe4ou6JkX6TtaPabI) | [Harmonia \(feat\. Desmond Amos\)](https://open.spotify.com/album/2wtfL0DRsq1rp5tzL7nSHO) | 3:11 | 2025-03-20 |  |
 | [Harus Bahagia](https://open.spotify.com/track/6xBoEKjMILuiVWaNX7pmel) | [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Harus Bahagia](https://open.spotify.com/album/733Hrl429wfieKxjF6Dclk) | 2:48 | 2025-06-05 |  |

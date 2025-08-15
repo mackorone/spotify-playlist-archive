@@ -1,28 +1,28 @@
 {
-  "description": "Die beste country musiek. Omslag: BlackByrd",
-  "num_followers": 39518,
+  "description": "Die beste country musiek. Omslag: Ariana Venus",
+  "num_followers": 39567,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEU/BaoFnZ7VAODjOqZffiomFrZG",
+  "snapshot_id": "AAAAAObL3yogjjeLM5+99beEkUHG6BfY",
   "tracks": [
     {
-      "added_at": "2025-08-07 22:00:50",
+      "added_at": "2025-08-14 22:00:44",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm"
+        "name": "Reg",
+        "url": "https://open.spotify.com/album/2zKOyA9xXwtmmrOSuobNbU"
       },
       "artists": [
         {
-          "name": "BlackByrd",
-          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+          "name": "Ariana Venus",
+          "url": "https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe"
         }
       ],
-      "duration_ms": 203564,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
+      "duration_ms": 219107,
+      "name": "Reg",
+      "url": "https://open.spotify.com/track/2QtC6GutRB7JPpG6spfTtS"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -83,18 +83,18 @@
     {
       "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "Pakkie Mal Berou (Marlboro)",
-        "url": "https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
         }
       ],
-      "duration_ms": 166935,
-      "name": "Pakkie Mal Berou (Marlboro)",
-      "url": "https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E"
+      "duration_ms": 203564,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -117,20 +117,20 @@
       "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
-      "added_at": "2025-05-22 22:00:25",
+      "added_at": "2025-08-14 22:00:44",
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+        "name": "WHERE YOU'LL FIND ME",
+        "url": "https://open.spotify.com/album/5LOSkN1kUg1sgZ15rSqoO1"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
         }
       ],
-      "duration_ms": 220558,
-      "name": "Worst Way",
-      "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
+      "duration_ms": 178504,
+      "name": "WHERE YOU'LL FIND ME",
+      "url": "https://open.spotify.com/track/0XxfzXtECJyHoDXzidruzQ"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -147,6 +147,38 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 220558,
+      "name": "Worst Way",
+      "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
+    },
+    {
+      "added_at": "2025-07-31 22:00:30",
+      "album": {
+        "name": "Acoustic Sessions Vol 1",
+        "url": "https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g"
+      },
+      "artists": [
+        {
+          "name": "Ruan Josh",
+          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Till the neon's gone / Stand by me",
+      "url": "https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -169,22 +201,6 @@
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
-      "added_at": "2025-07-31 22:00:30",
-      "album": {
-        "name": "Acoustic Sessions Vol 1",
-        "url": "https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g"
-      },
-      "artists": [
-        {
-          "name": "Ruan Josh",
-          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Till the neon's gone / Stand by me",
-      "url": "https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
@@ -199,6 +215,22 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -221,52 +253,36 @@
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
     },
     {
-      "added_at": "2025-05-22 22:00:25",
+      "added_at": "2025-08-07 22:00:50",
       "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+        "name": "Pakkie Mal Berou (Marlboro)",
+        "url": "https://open.spotify.com/album/4fKulNbnHAhaeauJWzRnd1"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
+      "duration_ms": 166935,
+      "name": "Pakkie Mal Berou (Marlboro)",
+      "url": "https://open.spotify.com/track/0YSaCAzQoASzwuDbZu9U9E"
     },
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
-      "added_at": "2025-07-31 22:00:30",
-      "album": {
-        "name": "Friends in Low Places",
-        "url": "https://open.spotify.com/album/04wimdGl4c8IYzANGZdyzJ"
-      },
-      "artists": [
-        {
-          "name": "Campbell Brothers",
-          "url": "https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Friends in Low Places",
-      "url": "https://open.spotify.com/track/6HhmhU3ZhSc21IXsQT8otM"
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -287,18 +303,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2025-06-19 22:00:57",
@@ -315,6 +331,22 @@
       "duration_ms": 182868,
       "name": "6 Months Later",
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+    },
+    {
+      "added_at": "2025-08-07 22:00:50",
+      "album": {
+        "name": "Rowwe Aande",
+        "url": "https://open.spotify.com/album/2OT7q6hUPN96xZMeovuYV2"
+      },
+      "artists": [
+        {
+          "name": "Christiaan Carstens",
+          "url": "https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Rowwe Aande",
+      "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -335,22 +367,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2025-08-07 22:00:50",
-      "album": {
-        "name": "Rowwe Aande",
-        "url": "https://open.spotify.com/album/2OT7q6hUPN96xZMeovuYV2"
-      },
-      "artists": [
-        {
-          "name": "Christiaan Carstens",
-          "url": "https://open.spotify.com/artist/6MJAnS9V6Jzfv5AcBodBIu"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rowwe Aande",
-      "url": "https://open.spotify.com/track/5SR22xwAC6bwwGVyCUnt9x"
     },
     {
       "added_at": "2025-07-25 08:00:42",
@@ -707,26 +723,6 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "You Had To Be There (feat. Kenny Chesney)",
-        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        },
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 220157,
-      "name": "You Had To Be There (feat. Kenny Chesney)",
-      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
       },
@@ -759,6 +755,26 @@
       "duration_ms": 183815,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "You Had To Be There (feat. Kenny Chesney)",
+        "url": "https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 220157,
+      "name": "You Had To Be There (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -847,22 +863,6 @@
       "duration_ms": 239453,
       "name": "4\u00d74\u00d7U",
       "url": "https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Hundred Mile High",
-        "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 172181,
-      "name": "Hundred Mile High",
-      "url": "https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s"
     }
   ],
   "unique_name": "Country Musiek",

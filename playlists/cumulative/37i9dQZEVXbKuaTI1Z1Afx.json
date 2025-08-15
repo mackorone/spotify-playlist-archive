@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 224733,
       "name": "Adaline",
       "url": "https://open.spotify.com/track/6zoq2IObGRnwkZDGEKZVTi"
@@ -20756,7 +20756,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 190266,
       "name": "Dusty Bibles",
       "url": "https://open.spotify.com/track/6N0KWnsfAVDzpekAVwMaOM"
@@ -39094,7 +39094,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 192380,
       "name": "Keeps Me Sane",
       "url": "https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew"
@@ -39112,7 +39112,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 192447,
       "name": "Keeps Me Sane",
       "url": "https://open.spotify.com/track/2MHqFComgCrQBmEBok3vJM"
@@ -46768,7 +46768,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 217631,
       "name": "Miami (feat. Lil Wayne & Rick Ross)",
       "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
@@ -64744,10 +64744,28 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 320000,
       "name": "Sir This Is A Cutthroat Fashion",
       "url": "https://open.spotify.com/track/4g4Tbd4GJWod3DqfkiXtgC"
+    },
+    {
+      "album": {
+        "name": "Load My Revolver, Baby",
+        "url": "https://open.spotify.com/album/6viXRgbrKVDipeFtpesGfD"
+      },
+      "artists": [
+        {
+          "name": "Her Words Kill",
+          "url": "https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320004,
+      "name": "Sir This Is A Cutthroat Fashion",
+      "url": "https://open.spotify.com/track/2jnyri2VkjwjuPy1tH6xwM"
     },
     {
       "album": {
@@ -75340,6 +75358,24 @@
       "duration_ms": 189053,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "album": {
+        "name": "tower of memories",
+        "url": "https://open.spotify.com/album/0qdagp8Gma7fVNM8JrA69Y"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208525,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/4LLpTgLHrpUS8xxt4JzBSN"
     },
     {
       "album": {

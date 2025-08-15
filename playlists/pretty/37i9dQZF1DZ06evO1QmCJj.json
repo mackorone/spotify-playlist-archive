@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 46367,
+  "num_followers": 46369,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJqEAAAAAADHr+/dQrYlH/YzyNDOygTV",
+  "snapshot_id": "aJvVgAAAAABgD8Y2KKylcxfT6WRFHNiP",
   "tracks": [
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Romeo Y Julieta",
-        "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 178753,
-      "name": "Romeo Y Julieta",
-      "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALA SUERTE",
         "url": "https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 215142,
       "name": "MALA SUERTE",
       "url": "https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Romeo Y Julieta",
+        "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 178753,
+      "name": "Romeo Y Julieta",
+      "url": "https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND"
     },
     {
       "added_at": null,

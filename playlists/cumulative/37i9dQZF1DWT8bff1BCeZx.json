@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Gospel 2.0 Riddim",
+        "url": "https://open.spotify.com/album/46i11NaMXcX8TUSxgAKpFm"
+      },
+      "artists": [
+        {
+          "name": "DJ Shunz",
+          "url": "https://open.spotify.com/artist/4sdmybQDV7C8YyX8movAdY"
+        },
+        {
+          "name": "ST ANJU",
+          "url": "https://open.spotify.com/artist/389tJ3rylCY1cU3xkNN7Za"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227146,
+      "name": "2.0 Upgrade",
+      "url": "https://open.spotify.com/track/0CmXi9S7MimiYbK9Iq7opK"
+    },
+    {
+      "album": {
         "name": "4Ever",
         "url": "https://open.spotify.com/album/3hgMfdd8mt6nKxFaBZF1MS"
       },
@@ -64,6 +86,28 @@
       "duration_ms": 246812,
       "name": "Abasi Miyake",
       "url": "https://open.spotify.com/track/7JLhroMOrzsjB9LYPW1wTm"
+    },
+    {
+      "album": {
+        "name": "Abba dey answer",
+        "url": "https://open.spotify.com/album/0DgO8Pqn8JF4xNEVmtSvqP"
+      },
+      "artists": [
+        {
+          "name": "Tobi Jeff Richards",
+          "url": "https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP"
+        },
+        {
+          "name": "WATI",
+          "url": "https://open.spotify.com/artist/3tCIswvTk9tvDVmNxaEs2W"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171308,
+      "name": "Abba dey answer",
+      "url": "https://open.spotify.com/track/46wTauHHpsYqnuL523uz4Z"
     },
     {
       "album": {
@@ -720,7 +764,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 187096,
       "name": "Amen Amen Blessings And Glory",
       "url": "https://open.spotify.com/track/3U3iU0gQj3PLkDNUobfR73"
@@ -874,6 +918,28 @@
       "duration_ms": 231750,
       "name": "Apple of His Eyes",
       "url": "https://open.spotify.com/track/1gd2Fwc6LLnHEaDsq16jIT"
+    },
+    {
+      "album": {
+        "name": "Asante (feat. Masauti)",
+        "url": "https://open.spotify.com/album/6XiJLVRcX89F7uDXtzq1mS"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/4DXLuVfYociqDPabhKFLtE"
     },
     {
       "album": {
@@ -1082,7 +1148,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 174315,
       "name": "BABA SAANU",
       "url": "https://open.spotify.com/track/5solCPoM5lNcPkndd3LZMB"
@@ -1608,6 +1674,28 @@
       "duration_ms": 180288,
       "name": "Calling (Bless Me)",
       "url": "https://open.spotify.com/track/70phX1Md7Hertk651Q06Z2"
+    },
+    {
+      "album": {
+        "name": "Canopy",
+        "url": "https://open.spotify.com/album/1at7LjqRsusfeqI7NbfVHv"
+      },
+      "artists": [
+        {
+          "name": "Scott Evans",
+          "url": "https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146537,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/4QJrfpom9tgm5D3HavVYzK"
     },
     {
       "album": {
@@ -3387,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Free Me",
+        "url": "https://open.spotify.com/album/4gRJvow4wfxvRCGuHKWfq6"
+      },
+      "artists": [
+        {
+          "name": "Gbenga Akinfenwa",
+          "url": "https://open.spotify.com/artist/7qDKEhuN11MijgScgAXx1W"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/0Zkuy4fDKb4fmpfsq6NHp6"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9"
       },
@@ -4004,7 +4110,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 186407,
       "name": "Grace",
       "url": "https://open.spotify.com/track/7rgj1XqBc4rfO606H3oKRg"
@@ -5259,6 +5365,28 @@
     },
     {
       "album": {
+        "name": "Intentional",
+        "url": "https://open.spotify.com/album/02c6rEB4k6wtt1vHbi8rXm"
+      },
+      "artists": [
+        {
+          "name": "Same OG",
+          "url": "https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i"
+        },
+        {
+          "name": "David Nkennor",
+          "url": "https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171352,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/3YbF1NaPiRjt3hlwBQ7Uc2"
+    },
+    {
+      "album": {
         "name": "Involved",
         "url": "https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH"
       },
@@ -5507,6 +5635,28 @@
     },
     {
       "album": {
+        "name": "Jesus Power",
+        "url": "https://open.spotify.com/album/5p3mZ98ws7KXGf9CZsF5ae"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        },
+        {
+          "name": "Lydia Lifted",
+          "url": "https://open.spotify.com/artist/1YvQlV2o6z5XvcAeKCHvZX"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Jesus Power",
+      "url": "https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh"
+    },
+    {
+      "album": {
         "name": "LIVE AT THE OYEL EXPERIENCE",
         "url": "https://open.spotify.com/album/429aI2FIsoF9anMX4Na566"
       },
@@ -5526,6 +5676,24 @@
       "duration_ms": 188307,
       "name": "JO - Live",
       "url": "https://open.spotify.com/track/3LmGYVH2X20G9wdqsNOMLG"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5"
     },
     {
       "album": {
@@ -7412,7 +7580,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 223056,
       "name": "No words - Afro Version",
       "url": "https://open.spotify.com/track/2mbaQEarCDmwezPvYXeujb"
@@ -8221,6 +8389,24 @@
     },
     {
       "album": {
+        "name": "Onyeoma (Good God)",
+        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265538,
+      "name": "Onyeoma (Good God)",
+      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
+    },
+    {
+      "album": {
         "name": "As I Am: In His Image",
         "url": "https://open.spotify.com/album/4cY1hBJNFUtaYeOJPZ6oxK"
       },
@@ -8834,6 +9020,24 @@
       "duration_ms": 191612,
       "name": "Praise Jesus",
       "url": "https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI"
+    },
+    {
+      "album": {
+        "name": "Sekere",
+        "url": "https://open.spotify.com/album/3rq5CiPSkBu0oNt9mkfnWt"
+      },
+      "artists": [
+        {
+          "name": "BisiManuel",
+          "url": "https://open.spotify.com/artist/0Amnqd5gvxgxmuRx1cPzAO"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495455,
+      "name": "Praise Medley",
+      "url": "https://open.spotify.com/track/4uY2urnZjX0tgEsZyuyeAX"
     },
     {
       "album": {
@@ -9694,6 +9898,24 @@
       "duration_ms": 142053,
       "name": "Son Of God",
       "url": "https://open.spotify.com/track/7gceIXSetClB9LeVTOmdEy"
+    },
+    {
+      "album": {
+        "name": "Special Day",
+        "url": "https://open.spotify.com/album/2dybhkTjUVc1pyHHW4G617"
+      },
+      "artists": [
+        {
+          "name": "Rachel K",
+          "url": "https://open.spotify.com/artist/5l8RuqUL0kJ3w14uWdPB2p"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192820,
+      "name": "Special Day",
+      "url": "https://open.spotify.com/track/0bdf7tguILsnvpkl8eF0Jx"
     },
     {
       "album": {
@@ -10972,7 +11194,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 223738,
       "name": "Watching Over",
       "url": "https://open.spotify.com/track/3s1cFXIexebItNF3FZZUvk"

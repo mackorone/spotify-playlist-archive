@@ -2,7 +2,7 @@
 
 ### [Discover Weekly \(@mackorone\)](https://open.spotify.com/playlist/37i9dQZEVXcRuMXvgjbNNg)
 
-> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
+> Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
 2,656 songs - 6 day 19 hr 45 min
 

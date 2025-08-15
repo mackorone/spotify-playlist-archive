@@ -4,17 +4,18 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-151 songs - 10 hr 13 min
+152 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Través del Vaso \- Remix](https://open.spotify.com/track/2Q8lTtjk4TYapqf6meBBKc) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [A Través del Vaso \(Remix\)](https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84) | 3:59 | 2024-10-14 |  |
-| [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z) | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY) | 8:14 | 2023-03-03 |  |
+| [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z) | [A Través del Vaso / Cuerpo de Sirena / La Misma \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY) | 8:14 | 2023-03-03 | 2025-08-15 |
 | [Abrazado a Mi Botella](https://open.spotify.com/track/6dHkcQJpnz0QXVg7hX5m5X) | [Los Ruiseñores de la Frontera](https://open.spotify.com/artist/0CYa9QRhZqJguCRwAybSj4) | [Fiesta Ranchera](https://open.spotify.com/album/7nmI2Gqq4GPBWtfEw2vS0W) | 3:06 | 2023-03-03 |  |
 | [Abrazado de un Poste](https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG) | [Los Tigres de Parral](https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B) | [De Fiesta Con los Braos](https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX) | 4:27 | 2023-03-03 |  |
 | [Acábame de Matar](https://open.spotify.com/track/4L3VeEZtIaP6nMh3LTPAtJ) | [El Azote](https://open.spotify.com/artist/3CGruMV3zqAI4wF8xQLRwh) | [Acábame de Matar](https://open.spotify.com/album/2dJ2IMonVOVdV73CyjK5zV) | 3:35 | 2023-10-05 |  |
 | [Ahora por unas monedas](https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ) | [Sin Rivales de Punitaqui](https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL) | [Quédate con el](https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy) | 5:28 | 2023-03-03 |  |
 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 | 2023-03-03 |  |
+| [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 | 2025-08-01 |  |
 | [Amor Traicionero](https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM) | [Los Charros de Luchito y Rafael](https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq) | [Amor Traicionero](https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei) | 4:16 | 2023-09-08 |  |
 | [Aquí Abajo](https://open.spotify.com/track/6w7qbaCzJAihXY09kHx6iU) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z), [El Tridente](https://open.spotify.com/artist/7gRgMzBO1jQxlEcSDS1Sat) | [Aquí Abajo](https://open.spotify.com/album/71XQDA4LaqPNmzY7uIJNxz) | 3:51 | 2023-03-03 | 2024-04-19 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/3U9Z6c42sI0RlaW06WDPAk) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Aquí Hay Para Llevar](https://open.spotify.com/album/1XrJVHOxIyDnfz1oZ938PX) | 3:10 | 2025-02-13 | 2025-07-08 |

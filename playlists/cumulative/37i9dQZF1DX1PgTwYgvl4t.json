@@ -3553,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Surrender (Gani Nazo)",
+        "url": "https://open.spotify.com/album/4YsiRxSaAjLfPKD6RdCBFh"
+      },
+      "artists": [
+        {
+          "name": "dare strings",
+          "url": "https://open.spotify.com/artist/3P0INvguUKAHb0Yyi1L66h"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Surrender - Gani Nazo",
+      "url": "https://open.spotify.com/track/5AtApgZjQrKxDvYb1dP5yR"
+    },
+    {
+      "album": {
         "name": "Psalm Speaking",
         "url": "https://open.spotify.com/album/3rPSN6xIx5ZRmPpj0bhCY6"
       },
@@ -4252,7 +4270,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 247631,
       "name": "YES",
       "url": "https://open.spotify.com/track/6Dm2A8KoSV7vNghd9lVQgn"

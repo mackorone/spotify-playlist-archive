@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Malik Choo\.  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,036 likes - 114 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,041 likes - 114 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 62 | [Useless Magic](https://open.spotify.com/track/2blFCBKlpvJGcczr4trdrA) | [Rose Tinted Press](https://open.spotify.com/artist/3FTUadOZbGZAtGI2XWVUhV) | [Useless Magic](https://open.spotify.com/album/2VmhhqQ6iisZgqAu0TIcpd) | 4:25 |
 | 63 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 |
 | 64 | [i hope that you're doing well](https://open.spotify.com/track/6qShlWrTvZeThG6a1OuF3n) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x) | [i hope that you're doing well](https://open.spotify.com/album/46Fok6tGTU5G3hXHEcQUfF) | 2:33 |
-| 65 | [In The Air Tonight](https://open.spotify.com/track/3ZpMbB1ve0HryawfuaRuEa) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC), [KIARA](https://open.spotify.com/artist/5o81g40kQP3AywWJR0OkDB) | [In The Air Tonight](https://open.spotify.com/album/2YZxRnCqanN1yM3CohHDrw) | 3:05 |
+| 65 | [In The Air Tonight](https://open.spotify.com/track/3ZpMbB1ve0HryawfuaRuEa) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC), [KIARA](https://open.spotify.com/artist/3ereOrrDplpipPoEhHYFeI) | [In The Air Tonight](https://open.spotify.com/album/2YZxRnCqanN1yM3CohHDrw) | 3:05 |
 | 66 | [Tenang](https://open.spotify.com/track/5R9B9h82kQq50ePxCr05v5) | [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [Tenang](https://open.spotify.com/album/3YViiM8tZFirE4KNQRbmvv) | 4:26 |
 | 67 | [Belaian Derita](https://open.spotify.com/track/0U4r7j4y1m58MENm4tUWIU) | [Fairuz Syazwan](https://open.spotify.com/artist/10FOQY6tUzPRMaO2Z5ZtzA) | [Belaian Derita](https://open.spotify.com/album/048zNlPgnMRvymNowveMTx) | 3:59 |
 | 68 | [Self\-timer](https://open.spotify.com/track/4vt3w1xZKwzC8XtBkDPQeI) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [Self\-timer](https://open.spotify.com/album/5w5IpCq4TvuGzuNd6LAZac) | 3:23 |

@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.
 
-1,030 songs - 2 day 6 hr 8 min
+1,031 songs - 2 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -850,6 +850,7 @@
 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2021-03-14 | 2022-04-23 |
 | [Summer in Brooklyn](https://open.spotify.com/track/6fhaIRGSyzsLwyXuEtJeTS) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Summer in Brooklyn](https://open.spotify.com/album/3iyO62FhLLjojrTrwwpZB3) | 3:11 | 2021-08-14 | 2021-12-17 |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-05-27 | 2023-02-04 |
+| [Summer Skies \(Love To Cry\)](https://open.spotify.com/track/1z4TAq5AmDi3IkEizIn8Wn) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [Summer Skies \(Love To Cry\)](https://open.spotify.com/album/48MrowoKpht0sIjkQBeGYo) | 2:34 | 2025-08-15 |  |
 | [Sunny](https://open.spotify.com/track/3NHzW6H45I5VO0ftDRhtpY) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Sunny](https://open.spotify.com/album/0bjMSyP0YxQf56sHJ7vGgd) | 2:21 | 2025-06-20 |  |
 | [Superrich](https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f), [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Superrich](https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh) | 2:59 | 2025-06-05 | 2025-06-24 |
 | [Superstylin'](https://open.spotify.com/track/2KwNrBsF6FjMJG0ffXhHH0) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Declan Knapp](https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4) | [Superstylin'](https://open.spotify.com/album/1wbFAoYZNRBYhiLa7qdl4Q) | 3:20 | 2024-10-03 | 2024-11-29 |

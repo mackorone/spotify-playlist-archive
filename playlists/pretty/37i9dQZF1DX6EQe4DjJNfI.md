@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,923 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,961 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 61 | [Melanina](https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Melanina](https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK) | 2:00 |
 | 62 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 63 | [Açaí e Amendoím](https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw) | [Nevess](https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy), [Caslu](https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP) | [Açaí e Amendoím](https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ) | 3:13 |
-| 64 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
-| 65 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
+| 64 | [UNHA DE FOGUINHO](https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [UNHA DE FOGUINHO](https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz) | 2:45 |
+| 65 | [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 |
 | 66 | [slow](https://open.spotify.com/track/6bkFPYYHfZ6jzWPh6eREKK) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Kino Osheanic](https://open.spotify.com/artist/1xpFujR2lkwHcgf5Vkr196) | [slow](https://open.spotify.com/album/39P9PBpBliszL4BGl9KkI8) | 3:01 |
 | 67 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
 | 68 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 |

@@ -4,7 +4,7 @@
 
 > It's giving feelings\. Cover: CHO
 
-115 songs - 5 hr 20 min
+116 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Damage](https://open.spotify.com/track/14fG8WwUWFwrZqYam8bWPz) | [jaïre](https://open.spotify.com/artist/00wG3HBn1NEc9LsF664PF9) | [Damage](https://open.spotify.com/album/7BUsFuc0GMwFJo68FKW5p7) | 3:00 | 2025-07-17 |  |
 | [Darlin'](https://open.spotify.com/track/595A0CKRnBVB3B2BlQfob0) | [Syllaa](https://open.spotify.com/artist/2BJAiTDstqkddEvx7Rrd52), [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Darlin'](https://open.spotify.com/album/1kPgRhsA5ekH8Ivl6pWBhq) | 2:18 | 2025-07-17 |  |
 | [dichterbij \(feat\. Jayh\)](https://open.spotify.com/track/5qBomtjM1hBlPFmWfBKkuV) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [dichterbij \(feat\. Jayh\)](https://open.spotify.com/album/4i8fuWraw9mCUSkkIsKF2f) | 2:51 | 2025-07-17 |  |
-| [Die Life](https://open.spotify.com/track/3jIqUIAKwOXJDkcVQ0LVCX) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Die Life](https://open.spotify.com/album/5w2fLTz3cZLppJxRyUlyF8) | 3:02 | 2025-07-17 |  |
+| [Die Life](https://open.spotify.com/track/3jIqUIAKwOXJDkcVQ0LVCX) | [Roxy Rosa](https://open.spotify.com/artist/6q7SnYRWQncKrWYoZj4ILg), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [Die Life](https://open.spotify.com/album/5w2fLTz3cZLppJxRyUlyF8) | 3:02 | 2025-07-17 | 2025-08-15 |
 | [Diva \(feat\. Keizer\)](https://open.spotify.com/track/4LWVGc1lPUwcTemuhx9fn9) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Mi Boi](https://open.spotify.com/album/5Ap7HrLvJpd1mte45yMUb1) | 2:37 | 2025-07-17 |  |
 | [Doelwit](https://open.spotify.com/track/2WeqHc08zDRF1LJLLCUnFS) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [SDL 0.5](https://open.spotify.com/album/7LOn3yOzaj7KZQU70UgxFI) | 3:45 | 2025-07-17 |  |
 | [Don't Abide By The Law](https://open.spotify.com/track/4cwhq9ox7UIAXuLELTdUVA) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Don't Abide By The Law](https://open.spotify.com/album/7IPEDdAXMNXjQ7DRJ9cQqG) | 2:22 | 2025-07-17 | 2025-08-05 |
@@ -97,6 +97,7 @@
 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-07-17 | 2025-08-05 |
 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 | 2025-07-17 |  |
 | [Revive Me](https://open.spotify.com/track/1NZCQqIvAEVdZJFUPzf2Tb) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC), [Eranio](https://open.spotify.com/artist/5VZST1JSwD9JThdYzEO7WV) | [Revive Me](https://open.spotify.com/album/3Gv9MfdyAFHOIffnH4f7WJ) | 3:15 | 2025-07-17 |  |
+| [RUMBA](https://open.spotify.com/track/1pwgyTGXTQllI9P62zSwcE) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [RUMBA](https://open.spotify.com/album/1SnkJbnDGcqqVMDY9PIljT) | 2:40 | 2025-08-14 |  |
 | [SALÉ](https://open.spotify.com/track/3s9bioRl6YOwHBPuSsFnO8) | [Eranio](https://open.spotify.com/artist/5VZST1JSwD9JThdYzEO7WV), [Eurosoundz](https://open.spotify.com/artist/09EhOOo1mFG5MNORvPQtzn), [Manq Carrot](https://open.spotify.com/artist/3ON3AJ8KzdIg27QnSCQqwg) | [SALÉ](https://open.spotify.com/album/6LM5KnamoEO2684sLyCvOs) | 3:40 | 2025-07-17 |  |
 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 | 2025-07-17 |  |
 | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/track/2MWzRITIfcju6LiEKpa9hd) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Ocean Banks](https://open.spotify.com/artist/6GoP3F1Osw2Pf5uGu28PNK) | [SOAK \(feat\. Ocean Banks\)](https://open.spotify.com/album/7f7L8xilhtSa9w21MBiJMD) | 2:36 | 2025-07-17 |  |

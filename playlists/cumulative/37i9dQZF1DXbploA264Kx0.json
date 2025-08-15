@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: KIRE",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LINION ",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "Blue Dragon",
+        "url": "https://open.spotify.com/album/5La5o1mfkrULNwQJSbX0gW"
+      },
+      "artists": [
+        {
+          "name": "Samjoo",
+          "url": "https://open.spotify.com/artist/4BtOQ9SIcyx9aNhXxn8z6N"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Blue Dragon",
+      "url": "https://open.spotify.com/track/5PjPSeAWIgsGDAUyfdZzzJ"
+    },
+    {
+      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/2Eecm6iYE9FNEOi7FeUiNS"
       },
@@ -1095,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Coffee Table Lunch",
+        "url": "https://open.spotify.com/album/09g3N58bV8kSeAxjY7UKms"
+      },
+      "artists": [
+        {
+          "name": "\u51a0\u59a4 Nikko",
+          "url": "https://open.spotify.com/artist/4NUexdfszshMuohBRzHANX"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180983,
+      "name": "Coffee Table Lunch",
+      "url": "https://open.spotify.com/track/6ibWACBdTi3m7rXWvZZw5i"
+    },
+    {
+      "album": {
         "name": "Come back to me",
         "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
       },
@@ -1428,7 +1464,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 184486,
       "name": "Don't Love Me! (feat. I Mean Us)",
       "url": "https://open.spotify.com/track/2KeVyyc99Tppp8Ad1Cm2ph"
@@ -1856,6 +1892,28 @@
       "duration_ms": 294313,
       "name": "Falling",
       "url": "https://open.spotify.com/track/139gIXpLlNmTePIuuIQisj"
+    },
+    {
+      "album": {
+        "name": "Fantasy, Maybe",
+        "url": "https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C"
+      },
+      "artists": [
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        },
+        {
+          "name": "Olin MattiBlue",
+          "url": "https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Fantasy,Maybe",
+      "url": "https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV"
     },
     {
       "album": {
@@ -4584,7 +4642,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 194526,
       "name": "Over you (feat. DJ VEENA)",
       "url": "https://open.spotify.com/track/0EH5MKn5xBxjCWkjjde27Q"
@@ -5156,7 +5214,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 232867,
       "name": "running to the sun",
       "url": "https://open.spotify.com/track/6N3yhfQTTBVtOp6y1RU16n"
@@ -5390,7 +5448,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 170204,
       "name": "sharp knife",
       "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
@@ -6316,7 +6374,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 191500,
       "name": "To My Audience",
       "url": "https://open.spotify.com/track/6qQsWs0vbFbFsr6Mroh20x"
@@ -6612,7 +6670,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 182926,
       "name": "VIBEGLO",
       "url": "https://open.spotify.com/track/0NYUJlsDbscqWZdU3JyPXI"
@@ -7582,7 +7640,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 181714,
       "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
       "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"

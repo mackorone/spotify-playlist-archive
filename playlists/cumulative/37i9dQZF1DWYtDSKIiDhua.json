@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: Wizzy",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Josh Makazo",
   "name": "mood. ",
   "tracks": [
     {
@@ -205,7 +205,7 @@
     },
     {
       "album": {
-        "name": "2UP (feat. Because)",
+        "name": "2UP (with Because)",
         "url": "https://open.spotify.com/album/3AI2Mi1fAPsN7m0FnBAeo5"
       },
       "artists": [
@@ -220,9 +220,9 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 165098,
-      "name": "2UP (feat. Because)",
+      "name": "2UP (with Because)",
       "url": "https://open.spotify.com/track/2N5lE2ccKPzY2b1va7MTlo"
     },
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 190000,
       "name": "A Seat For You (feat. Quinn Oulton)",
       "url": "https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO"
@@ -702,7 +702,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 197424,
       "name": "Accolade",
       "url": "https://open.spotify.com/track/08QfvEo1qUoLLczFK7VeU3"
@@ -2963,6 +2963,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/7nwR8cZXFACiyyfy3vxEYo"
+      },
+      "artists": [
+        {
+          "name": "Bloodlyne",
+          "url": "https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212964,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/6JkEgDxW2YsGq5OCb5Ueom"
+    },
+    {
+      "album": {
         "name": "bum 2 me",
         "url": "https://open.spotify.com/album/1TRVM0jgIiI8Sv61MGHPjM"
       },
@@ -3607,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Catching Bodies",
+        "url": "https://open.spotify.com/album/5xktIJwrny2WstcXimkvTN"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186493,
+      "name": "Catching Bodies",
+      "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI"
+    },
+    {
+      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
       },
@@ -3680,7 +3716,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 208468,
       "name": "Chamomiles Away",
       "url": "https://open.spotify.com/track/0srzm5P2cYSYUE484Tn11J"
@@ -10196,7 +10232,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 216993,
       "name": "I Don't Want To Write A Love Song",
       "url": "https://open.spotify.com/track/2woNcJkXnaNwBe1ge6EiBY"
@@ -10926,7 +10962,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 213030,
       "name": "ILYSMIH",
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
@@ -11408,7 +11444,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 182320,
       "name": "intuition",
       "url": "https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C"
@@ -12743,6 +12779,24 @@
     },
     {
       "album": {
+        "name": "Likely",
+        "url": "https://open.spotify.com/album/73rOtWq96EBdBvwu7sNHcB"
+      },
+      "artists": [
+        {
+          "name": "Syaz Smooth",
+          "url": "https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171521,
+      "name": "Likely",
+      "url": "https://open.spotify.com/track/5VOuD0ouTCYJB4i73936xQ"
+    },
+    {
+      "album": {
         "name": "LILITH",
         "url": "https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j"
       },
@@ -13264,7 +13318,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 205055,
       "name": "Love On Hold",
       "url": "https://open.spotify.com/track/0QDCZoxQbtcHitfD7upcMq"
@@ -14862,7 +14916,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 189857,
       "name": "My Bad",
       "url": "https://open.spotify.com/track/3oDyCZweViCIWTm7z5ZO21"
@@ -14906,6 +14960,24 @@
       "duration_ms": 205773,
       "name": "MY LOVE (feat. RAVI)",
       "url": "https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N"
+    },
+    {
+      "album": {
+        "name": "My Love Will Remain",
+        "url": "https://open.spotify.com/album/6i7JBA0K2QfeztrB7grOkt"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232230,
+      "name": "My Love Will Remain",
+      "url": "https://open.spotify.com/track/0xrn8inTNkXR8FGo6Z8OZY"
     },
     {
       "album": {
@@ -16381,6 +16453,28 @@
     },
     {
       "album": {
+        "name": "Why Not More? (MORE!)",
+        "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192852,
+      "name": "Other Side Of Love (Remix) [feat. Alicia Keys]",
+      "url": "https://open.spotify.com/track/3Bnbwbe6ReNLOQwBoTxBC7"
+    },
+    {
+      "album": {
         "name": "OTNW",
         "url": "https://open.spotify.com/album/0ppXruu0u7FQSSC5emQMMQ"
       },
@@ -17627,6 +17721,24 @@
     },
     {
       "album": {
+        "name": "Priceless",
+        "url": "https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159986,
+      "name": "Priceless",
+      "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
+    },
+    {
+      "album": {
         "name": "Princess",
         "url": "https://open.spotify.com/album/5vDv4UJnz5cdsdnBeFEqEk"
       },
@@ -17660,6 +17772,24 @@
       "duration_ms": 183000,
       "name": "Promises",
       "url": "https://open.spotify.com/track/5QJ40U3CynwRGa7wmFePDl"
+    },
+    {
+      "album": {
+        "name": "PROVE THEM WRONG",
+        "url": "https://open.spotify.com/album/02ZaXLDbqoxKs1u4sHAiqB"
+      },
+      "artists": [
+        {
+          "name": "Dijo",
+          "url": "https://open.spotify.com/artist/2f0p7TfGuvZ6NCEnz12qWu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163307,
+      "name": "PROVE THEM WRONG",
+      "url": "https://open.spotify.com/track/5w4oU5lZSTLpG25m1FAaif"
     },
     {
       "album": {
@@ -18092,7 +18222,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 302157,
       "name": "Rewind (Back To You)",
       "url": "https://open.spotify.com/track/0cwjkfxsn3Bq43iMcvL7d0"
@@ -18784,6 +18914,32 @@
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
+    },
+    {
+      "album": {
+        "name": "Save Me from Myself",
+        "url": "https://open.spotify.com/album/6LAzsm6vlxxFLvRVBSc4yS"
+      },
+      "artists": [
+        {
+          "name": "primo.io",
+          "url": "https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB"
+        },
+        {
+          "name": "DEAR",
+          "url": "https://open.spotify.com/artist/6G5QKaAXqUBHxfZ0E8RyX7"
+        },
+        {
+          "name": "Tank B Music",
+          "url": "https://open.spotify.com/artist/2BYROy3YacI3iGwZHRamsU"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223421,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/4HhpMPuF6YhHD5j7KJ1mFK"
     },
     {
       "album": {
@@ -20324,7 +20480,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 165000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim"
@@ -22293,6 +22449,24 @@
     },
     {
       "album": {
+        "name": "HONEYMOOD",
+        "url": "https://open.spotify.com/album/7K9xdvayXXWMHwPdXvNCun"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149199,
+      "name": "The Other Piece Of My Heart",
+      "url": "https://open.spotify.com/track/7Glllm4Dytz70wdJizyZt6"
+    },
+    {
+      "album": {
         "name": "THE RAIN",
         "url": "https://open.spotify.com/album/5u7C8RV8rtFP2DV1XGq6we"
       },
@@ -22891,6 +23065,24 @@
     },
     {
       "album": {
+        "name": "together",
+        "url": "https://open.spotify.com/album/2nhW2xl01I0yTdupPySrwd"
+      },
+      "artists": [
+        {
+          "name": "Chriskris",
+          "url": "https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148139,
+      "name": "together",
+      "url": "https://open.spotify.com/track/5lCTsaaY9pmsPmuvUgsUJb"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
       },
@@ -23108,7 +23300,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 191150,
       "name": "TREASURE",
       "url": "https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7"
@@ -25618,7 +25810,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 170666,
       "name": "YOU GOT THAT (feat. VivaOla)",
       "url": "https://open.spotify.com/track/6Am704IYdAUl0xntnDOafr"
@@ -25800,6 +25992,24 @@
       "duration_ms": 172081,
       "name": "Your Love Keeps Me",
       "url": "https://open.spotify.com/track/5pmnNR2hGlk5KgkTqswmcO"
+    },
+    {
+      "album": {
+        "name": "Tough Love & Care",
+        "url": "https://open.spotify.com/album/546Po777q5dJEOJyuHjeXP"
+      },
+      "artists": [
+        {
+          "name": "Alexis Cao",
+          "url": "https://open.spotify.com/artist/3UE1YNzwGIdXvL8AnJXWRx"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221706,
+      "name": "Your One Desire?",
+      "url": "https://open.spotify.com/track/1O9Op9k9qL7B4PC4VQJzaX"
     },
     {
       "album": {

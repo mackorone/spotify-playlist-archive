@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "brighter days",
+        "url": "https://open.spotify.com/album/32vv2uGF81uF0fBKmEQPzc"
+      },
+      "artists": [
+        {
+          "name": "NATAB",
+          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250674,
+      "name": "brighter days",
+      "url": "https://open.spotify.com/track/2u4YH1J4WcfxpzRSgQZ2aK"
+    },
+    {
+      "album": {
         "name": "Dear Z",
         "url": "https://open.spotify.com/album/0ZkzlYDnkZEOYAPOo13X8J"
       },
@@ -2839,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "TV DREAMS",
+        "url": "https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD"
+      },
+      "artists": [
+        {
+          "name": "Negro Impacto",
+          "url": "https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249851,
+      "name": "NWANNE",
+      "url": "https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV"
+    },
+    {
+      "album": {
         "name": "Nyoni Yami",
         "url": "https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy"
       },
@@ -3910,7 +3950,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 171157,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm"
@@ -4844,7 +4884,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 184968,
       "name": "YOU, ME & HER",
       "url": "https://open.spotify.com/track/5NmID3iqf6S77eXrPH1ZQs"

@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Silly Silky\(실리실키\)\)
 
-254 songs - 14 hr 29 min
+255 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/2XqJVFoCikwIJqVx4YKRTN) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/7BtKnsfFs2zXcpIty9mMqP) | 3:45 | 2024-04-05 | 2024-10-30 |
 | [Fact Check \- 2Spade Remix](https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.29 : Fact Check Remixes](https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx) | 3:45 | 2024-04-18 | 2025-06-11 |
 | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Falling In Love \(feat\. Natalie Major\)](https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks) | 3:34 | 2024-06-28 |  |
-| [Far Away \(feat\. matt matt\)](https://open.spotify.com/track/0tIfc81eZxPdNCLKpwxFZr) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF), [matt matt](https://open.spotify.com/artist/2qVz4hdpr6a73pbVioqk2L) | [EUROPEAN CLUB TOILET TUNE](https://open.spotify.com/album/0MDGBurIUhgsubgP9kZ3qf) | 3:03 | 2025-07-22 |  |
+| [Far Away \(feat\. matt matt\)](https://open.spotify.com/track/0tIfc81eZxPdNCLKpwxFZr) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [Avii Garde](https://open.spotify.com/artist/3DbXI4NokdiqiFwer9YOoF), [matt matt](https://open.spotify.com/artist/2qVz4hdpr6a73pbVioqk2L) | [EUROPEAN CLUB TOILET TUNE](https://open.spotify.com/album/0MDGBurIUhgsubgP9kZ3qf) | 3:03 | 2025-07-22 | 2025-08-15 |
 | [Feel It](https://open.spotify.com/track/3p3J8JhxzIoCmrLsIO3AnS) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8) | [Feel It](https://open.spotify.com/album/0UglV84SnWeShd5dgtpJ4H) | 2:19 | 2024-06-28 | 2024-08-16 |
 | [Felony](https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz) | [Rockett](https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2) | [Love Crime](https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h) | 2:34 | 2024-11-05 |  |
 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 | 2024-08-16 |  |
@@ -122,6 +122,7 @@
 | [Holding On](https://open.spotify.com/track/4ifbptuJonGrbX2tmxg8pw) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Holding On](https://open.spotify.com/album/5yIFAkA5UJOMEUvtMlrt7A) | 2:48 | 2024-06-28 | 2024-07-17 |
 | [Hot Sauce \- Hitchhiker Remix](https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.9 : Hot Sauce Remixes](https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk) | 3:15 | 2024-04-05 | 2024-06-29 |
 | [I DON'T CARE](https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [IF U WANT IT](https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr) | 5:40 | 2024-04-05 |  |
+| [Icarus \(Artronic Waves Remix\)](https://open.spotify.com/track/6hR8Qr0JATi43cPQ9zhqJy) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus Remix>](https://open.spotify.com/album/1X7qXXLGo8pyjdWQYONAXs) | 4:10 | 2025-08-14 |  |
 | [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-05 |  |
 | [INVU \- GINJO Remix](https://open.spotify.com/track/06BJz7zKXR60rv2EM6JpSH) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [GINJO](https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:40 | 2024-04-18 | 2024-06-29 |
 | [INVU \- Moon Kyoo Remix](https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 4:11 | 2024-04-18 | 2025-02-04 |

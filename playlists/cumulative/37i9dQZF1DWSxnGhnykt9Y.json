@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Freely",
+        "url": "https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp"
+      },
+      "artists": [
+        {
+          "name": "sabrina",
+          "url": "https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Agility",
+      "url": "https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF"
+    },
+    {
+      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 123137,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4NzbGHVNyLIkZHEbMFiKkp"
@@ -1582,6 +1600,24 @@
       "duration_ms": 177368,
       "name": "MASSOKO NA MABELE",
       "url": "https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0"
+    },
+    {
+      "album": {
+        "name": "Mbali",
+        "url": "https://open.spotify.com/album/414Ob3floRfurHgYHnRqk0"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Mbali",
+      "url": "https://open.spotify.com/track/3nnZWb6mhiPhhyRV2sQv0X"
     },
     {
       "album": {
@@ -1926,7 +1962,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 143426,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/1UI9xmeIkIkAJmyzrBmx5o"

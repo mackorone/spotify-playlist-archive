@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaia Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,645 likes - 275 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,754 likes - 275 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 6 | [Alone](https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Alone](https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO) | 2:25 |
 | 7 | [Hvn High](https://open.spotify.com/track/50MyWaqcAD0AQCq6Q2r4ad) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 3:14 |
 | 8 | [Outside Man](https://open.spotify.com/track/3NgQqikHEmkOMIX6Qn7rwL) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Outside Man](https://open.spotify.com/album/2aii61ORtnz2tyBIrJDbDJ) | 2:25 |
-| 9 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 3:15 |
+| 9 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 2:55 |
 | 10 | [24HRS](https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [24HRS](https://open.spotify.com/album/52dv4vbUbGNNOgkodgswJY) | 3:02 |
 | 11 | [trick \(feat\. SWAVAY\)](https://open.spotify.com/track/16DYKDlACCslT3K158JVAc) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [anemoia](https://open.spotify.com/album/0d4MLEf1yzSnVrTTpGgVr7) | 2:20 |
 | 12 | [DRIVE ME CRAZY](https://open.spotify.com/track/1fXFSgHDXwt7nk1rXbssG1) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [DRIVE ME CRAZY](https://open.spotify.com/album/6h6Xan7tLrBewRwzZcFZNF) | 3:24 |

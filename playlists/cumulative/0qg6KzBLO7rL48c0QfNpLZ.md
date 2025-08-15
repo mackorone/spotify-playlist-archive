@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,194 songs - 2 day 4 hr 43 min
+1,195 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2024-03-26 | 2024-09-10 |
 | [Cold Water](https://open.spotify.com/track/3rhqWq48OL3vyJZNCfNqTg) | [LØST SIGNAL](https://open.spotify.com/artist/4lhyolukuFODU8oTkbJ1oS), [Ben Plum](https://open.spotify.com/artist/4a5nlCkBsY0lZRYl5k3MnG), [TEZIS](https://open.spotify.com/artist/4qwEyGfkOzXA85WD9HnTut) | [Cold Water](https://open.spotify.com/album/05AzHYIbypPulC9AY1UMdc) | 2:14 | 2024-08-02 | 2024-08-31 |
 | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/track/6Bjtr3tPdto5nyuLYf61sN) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/album/4SpuU8HT32EymGgFPL08LE) | 3:05 | 2023-12-08 | 2024-08-20 |
+| [Collide](https://open.spotify.com/track/46XT6jEiBan7tdznW8ArGs) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [Marphil](https://open.spotify.com/artist/24ADYkDVoc2vnB6P2Fs1R1) | [Collide](https://open.spotify.com/album/6nsN1QU28aP2N2mSurEaCp) | 2:20 | 2025-08-15 |  |
 | [Colorful](https://open.spotify.com/track/3bH6uv7ef1kS7cXVtn1EJ9) | [Cloud Under](https://open.spotify.com/artist/3BRXTGgQZCTvktEMZZ0j3R) | [Colorful](https://open.spotify.com/album/4bY9FhCVkKaKiG6OX6kuBH) | 3:21 | 2024-10-04 | 2024-11-21 |
 | [Colours](https://open.spotify.com/track/2J5zHk5cmM1lG2xhYGRX16) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Colours](https://open.spotify.com/album/3g8FjQwA2h3jfq0Hc93yqO) | 2:29 | 2025-06-06 | 2025-08-02 |
 | [Come Alive](https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm) | [Jake and the colors](https://open.spotify.com/artist/34kFVk5BmD7S3KGGiOnCvJ) | [Come Alive](https://open.spotify.com/album/33wzKWdPbRZUhnnqAKnHAu) | 2:26 | 2024-06-28 | 2024-08-10 |

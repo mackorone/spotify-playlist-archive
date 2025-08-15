@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Chappell Roan
+> Your new favourite songs! Cover: Hilltop Hoods
 
 885 songs - 1 day 22 hr 53 min
 

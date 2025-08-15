@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,855 likes - 150 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,856 likes - 150 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 149 | [Panjang Umur Selalu](https://open.spotify.com/track/7E6aFTopl1t7PyL93AkgJL) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Panjang Umur Selalu](https://open.spotify.com/album/0nec55WX1gNUbTnC1Xh6Vy) | 3:33 |
 | 150 | [Can We Be Friends Again?](https://open.spotify.com/track/0c3beEhARvqtTRwKFskjX3) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Can We Be Friends Again?](https://open.spotify.com/album/7ILkOWv9uelFdP2Ncv2BfU) | 3:53 |
 
-Snapshot ID: `AAAAAJy6+nOobeR29+tY/fhL1I8KVNhI`
+Snapshot ID: `AAAAAE7hWq4T+0g6AMKViodxgrkjJaDd`

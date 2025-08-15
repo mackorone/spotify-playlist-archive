@@ -1,47 +1,35 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
-  "num_followers": 194700,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Abou Tall x Warren Saada",
+  "num_followers": 194717,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLcqLq/0LUG+AaP+ccqdyAieyAP",
+  "snapshot_id": "AAAAAC3kFKcdckoXvHsfEnl6/qjsxMeP",
   "tracks": [
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
-        "name": "Aura x G-Wave",
-        "url": "https://open.spotify.com/album/6nTV23x6SYrdS74Q2ls1Yn"
+        "name": "Ronaldinho",
+        "url": "https://open.spotify.com/album/59W5FaqcIBo9pv4BASTzf8"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 208470,
-      "name": "Malembe",
-      "url": "https://open.spotify.com/track/0FmItoePsyfwRtuQP78vue"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
-      },
-      "artists": [
+          "name": "Abou Tall",
+          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
+        },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
         }
       ],
-      "duration_ms": 141000,
-      "name": "COME & SEE ME",
-      "url": "https://open.spotify.com/track/0c7KoKg2VNDSXZE0wovnjC"
+      "duration_ms": 203215,
+      "name": "Ronaldinho",
+      "url": "https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
@@ -65,7 +53,7 @@
       "url": "https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "9PM IN PARIS",
         "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
@@ -85,23 +73,91 @@
       "url": "https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/11dur3MuAfGH3vZ30jYKnk"
+        "name": "Aura x G-Wave",
+        "url": "https://open.spotify.com/album/6nTV23x6SYrdS74Q2ls1Yn"
       },
       "artists": [
         {
-          "name": "DAKEEZ",
-          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 146666,
-      "name": "SHINE",
-      "url": "https://open.spotify.com/track/5TCpgr5z8ijC4U2CYWF8ep"
+      "duration_ms": 208470,
+      "name": "Malembe",
+      "url": "https://open.spotify.com/track/0FmItoePsyfwRtuQP78vue"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "XXL",
+        "url": "https://open.spotify.com/album/4QiaxBfpS8WRXV3SQY5qrV"
+      },
+      "artists": [
+        {
+          "name": "Afios",
+          "url": "https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "XXL",
+      "url": "https://open.spotify.com/track/7zAuUzdF1AAskBSuQTv6Yq"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "COME & SEE ME",
+      "url": "https://open.spotify.com/track/0c7KoKg2VNDSXZE0wovnjC"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Ennemi",
+        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 175053,
+      "name": "Ennemi",
+      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "My Eyes Only",
+        "url": "https://open.spotify.com/album/096KAIqQBU6VAIoslHuybX"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "MORCEAUX",
+      "url": "https://open.spotify.com/track/4HCs3msoK95zmAyDpiILi6"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "Amaya",
         "url": "https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg"
@@ -125,59 +181,7 @@
       "url": "https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "My Eyes Only",
-        "url": "https://open.spotify.com/album/096KAIqQBU6VAIoslHuybX"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "MORCEAUX",
-      "url": "https://open.spotify.com/track/4HCs3msoK95zmAyDpiILi6"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Ennemi",
-        "url": "https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 175053,
-      "name": "Ennemi",
-      "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "XXL",
-        "url": "https://open.spotify.com/album/4QiaxBfpS8WRXV3SQY5qrV"
-      },
-      "artists": [
-        {
-          "name": "Afios",
-          "url": "https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "XXL",
-      "url": "https://open.spotify.com/track/7zAuUzdF1AAskBSuQTv6Yq"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "Toucher ton coeur",
         "url": "https://open.spotify.com/album/0R0hEIxvVydJ0aDi8fzJ9k"
@@ -193,27 +197,79 @@
       "url": "https://open.spotify.com/track/0Vnpk1bAbfQ2jKdI0xzpei"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
-        "name": "Ronaldinho",
-        "url": "https://open.spotify.com/album/59W5FaqcIBo9pv4BASTzf8"
+        "name": "Chimiy\u00e9",
+        "url": "https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE"
       },
       "artists": [
         {
-          "name": "Abou Tall",
-          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
-        },
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 203215,
-      "name": "Ronaldinho",
-      "url": "https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS"
+      "duration_ms": 151033,
+      "name": "Chimiy\u00e9",
+      "url": "https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 227380,
+      "name": "1h55",
+      "url": "https://open.spotify.com/track/36kPlvgOwqbdMqMyeioRJN"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/11dur3MuAfGH3vZ30jYKnk"
+      },
+      "artists": [
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "SHINE",
+      "url": "https://open.spotify.com/track/5TCpgr5z8ijC4U2CYWF8ep"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "LE PARI",
+        "url": "https://open.spotify.com/album/7e5Y19gAPCcoEszTnZmiI5"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "LE PARI",
+      "url": "https://open.spotify.com/track/3ChgQZ5az6S9Km9ej4VwAB"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "Termin\u00e9 (Summer Version)",
         "url": "https://open.spotify.com/album/78U3ufc3lkUfLlwLk5vo8Z"
@@ -233,43 +289,7 @@
       "url": "https://open.spotify.com/track/1BpS9FmfbNuMeufyBJgM2u"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "LE PARI",
-        "url": "https://open.spotify.com/album/7e5Y19gAPCcoEszTnZmiI5"
-      },
-      "artists": [
-        {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "LE PARI",
-      "url": "https://open.spotify.com/track/3ChgQZ5az6S9Km9ej4VwAB"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "SOUSCALCUL MIXTAPE VOL.1 (Version Deluxe)",
-        "url": "https://open.spotify.com/album/6UiBEkleixVDeJ1KbQhQUv"
-      },
-      "artists": [
-        {
-          "name": "PRINC\u20ac",
-          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
-        },
-        {
-          "name": "DAKEEZ",
-          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
-        }
-      ],
-      "duration_ms": 158182,
-      "name": "PRENDS SUR MOI (feat. DAKEEZ)",
-      "url": "https://open.spotify.com/track/5lW3atf42ItPyQxFWahkBf"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
         "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
@@ -293,87 +313,7 @@
       "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "TOUT BR\u00dbLE SAUF MOI",
-        "url": "https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW"
-      },
-      "artists": [
-        {
-          "name": "Ruthee",
-          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "LA LETTRE",
-      "url": "https://open.spotify.com/track/5aohxIJEXgvO3Z7StnmzMn"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Il Aimerait Bien",
-        "url": "https://open.spotify.com/album/1a2YLaQJEoHm85oX5RQZvw"
-      },
-      "artists": [
-        {
-          "name": "Tayron Kwidan's",
-          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Il Aimerait Bien",
-      "url": "https://open.spotify.com/track/1amJMgQQXSazfvzDkqASGx"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Chimiy\u00e9",
-        "url": "https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 151033,
-      "name": "Chimiy\u00e9",
-      "url": "https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ENCORE",
-      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Ghali",
-        "url": "https://open.spotify.com/album/4DuoVUAMYxE0j5ENAOJGqd"
-      },
-      "artists": [
-        {
-          "name": "Wejdene",
-          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
-        }
-      ],
-      "duration_ms": 190700,
-      "name": "Ghali",
-      "url": "https://open.spotify.com/track/7JRPmK4es5vDupP8H3xjRX"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "La Pluie",
         "url": "https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ"
@@ -393,7 +333,91 @@
       "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ENCORE",
+      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "TOUT BR\u00dbLE SAUF MOI",
+        "url": "https://open.spotify.com/album/2gvFuE72tJBglPdowmjeLW"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "LA LETTRE",
+      "url": "https://open.spotify.com/track/5aohxIJEXgvO3Z7StnmzMn"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "SOUSCALCUL MIXTAPE VOL.1 (Version Deluxe)",
+        "url": "https://open.spotify.com/album/6UiBEkleixVDeJ1KbQhQUv"
+      },
+      "artists": [
+        {
+          "name": "PRINC\u20ac",
+          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
+        },
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "duration_ms": 158182,
+      "name": "PRENDS SUR MOI (feat. DAKEEZ)",
+      "url": "https://open.spotify.com/track/5lW3atf42ItPyQxFWahkBf"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Il Aimerait Bien",
+        "url": "https://open.spotify.com/album/1a2YLaQJEoHm85oX5RQZvw"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Il Aimerait Bien",
+      "url": "https://open.spotify.com/track/1amJMgQQXSazfvzDkqASGx"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Ghali",
+        "url": "https://open.spotify.com/album/4DuoVUAMYxE0j5ENAOJGqd"
+      },
+      "artists": [
+        {
+          "name": "Wejdene",
+          "url": "https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk"
+        }
+      ],
+      "duration_ms": 190700,
+      "name": "Ghali",
+      "url": "https://open.spotify.com/track/7JRPmK4es5vDupP8H3xjRX"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "J'\u00e6 a\u00e7\u00e7ept\u00e9",
         "url": "https://open.spotify.com/album/3EDmTC0V0Wj64XIxIrmNkQ"
@@ -413,111 +437,7 @@
       "url": "https://open.spotify.com/track/5DN6GhHoXrZlWh1qN6T3yW"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Jeu",
-        "url": "https://open.spotify.com/album/3SeyMxltCn7uCzhHKKo0eP"
-      },
-      "artists": [
-        {
-          "name": "Candice",
-          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
-        }
-      ],
-      "duration_ms": 209956,
-      "name": "Jeu",
-      "url": "https://open.spotify.com/track/6SBIKPuUdUgClFJCWVoF0b"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "DMDT",
-        "url": "https://open.spotify.com/album/2FVcnJPvGMEK8gehgb8ZBK"
-      },
-      "artists": [
-        {
-          "name": "Jay luv",
-          "url": "https://open.spotify.com/artist/0zPKwOI3xzTHyGEsBxVqOs"
-        }
-      ],
-      "duration_ms": 170217,
-      "name": "DMDT",
-      "url": "https://open.spotify.com/track/7fc1LLZpddl1yES9vWdiin"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "DONNE MOI",
-        "url": "https://open.spotify.com/album/4hGGe3pyyfwZ0D0wx370hg"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "DONNE MOI",
-      "url": "https://open.spotify.com/track/6zGlIUIqXOKApFfwCSLzzJ"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "99 PBLM",
-        "url": "https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU"
-      },
-      "artists": [
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 135319,
-      "name": "Ceux D'Avant",
-      "url": "https://open.spotify.com/track/5EwfJvQJGc1JuNn5ox7FkE"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Titulaire",
-        "url": "https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS"
-      },
-      "artists": [
-        {
-          "name": "Celyane",
-          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
-        },
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 186210,
-      "name": "Titulaire",
-      "url": "https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Elle veut",
-        "url": "https://open.spotify.com/album/6TQcNoAiXIBJBjVqSpT0Fn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Nov",
-          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Elle veut",
-      "url": "https://open.spotify.com/track/4v1PTY3bHJN5AKN2iKG92a"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "Dans les veines (feat. Franglish & Leslie)",
         "url": "https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG"
@@ -541,7 +461,127 @@
       "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "DONNE MOI",
+        "url": "https://open.spotify.com/album/4hGGe3pyyfwZ0D0wx370hg"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "DONNE MOI",
+      "url": "https://open.spotify.com/track/6zGlIUIqXOKApFfwCSLzzJ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Titulaire",
+        "url": "https://open.spotify.com/album/1NuU0IRn8DO8SDE699JTaS"
+      },
+      "artists": [
+        {
+          "name": "Celyane",
+          "url": "https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP"
+        },
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "duration_ms": 186210,
+      "name": "Titulaire",
+      "url": "https://open.spotify.com/track/2jshKJivTkiIOF4T7AumgA"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Elle veut",
+        "url": "https://open.spotify.com/album/6TQcNoAiXIBJBjVqSpT0Fn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Elle veut",
+      "url": "https://open.spotify.com/track/4v1PTY3bHJN5AKN2iKG92a"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "99 PBLM",
+        "url": "https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 135319,
+      "name": "Ceux D'Avant",
+      "url": "https://open.spotify.com/track/5EwfJvQJGc1JuNn5ox7FkE"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Jeu",
+        "url": "https://open.spotify.com/album/3SeyMxltCn7uCzhHKKo0eP"
+      },
+      "artists": [
+        {
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+        }
+      ],
+      "duration_ms": 209956,
+      "name": "Jeu",
+      "url": "https://open.spotify.com/track/6SBIKPuUdUgClFJCWVoF0b"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "MOSA\u00cfQUE",
+        "url": "https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "duration_ms": 182328,
+      "name": "ASSEZ PARL\u00c9",
+      "url": "https://open.spotify.com/track/5MtAMhPPcxZRJZESgmOGIN"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Mes anges",
+        "url": "https://open.spotify.com/album/5vh2oneihmAs3zaE2P9BqN"
+      },
+      "artists": [
+        {
+          "name": "Neyda",
+          "url": "https://open.spotify.com/artist/1YNtvynvmeKZHpO2WHGLu3"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Shatta",
+      "url": "https://open.spotify.com/track/0d8ub8EIWkadmVWUP21a4K"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "Valid\u00e9 / Clap Clap",
         "url": "https://open.spotify.com/album/6TWUS5kMQFnvjyMEGR2nX2"
@@ -557,39 +597,7 @@
       "url": "https://open.spotify.com/track/4KERrjeLF9HQZpflKI6g88"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "On se date ?",
-        "url": "https://open.spotify.com/album/461yJu8vs7S0oZJ89LUEXJ"
-      },
-      "artists": [
-        {
-          "name": "Asma",
-          "url": "https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB"
-        }
-      ],
-      "duration_ms": 161495,
-      "name": "On se date ?",
-      "url": "https://open.spotify.com/track/0pNsXwG7xpCFdAwdy3oN1u"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "CUXI BOY PART II (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "PRISON DOREE",
-      "url": "https://open.spotify.com/track/6Yp7FdkoCnFHk7vALvsRkv"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "L'album du m\u00e2le",
         "url": "https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH"
@@ -609,55 +617,7 @@
       "url": "https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "MOSA\u00cfQUE",
-        "url": "https://open.spotify.com/album/1x2v9tCJZfJim0MK8XsjLa"
-      },
-      "artists": [
-        {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
-        }
-      ],
-      "duration_ms": 182328,
-      "name": "ASSEZ PARL\u00c9",
-      "url": "https://open.spotify.com/track/5MtAMhPPcxZRJZESgmOGIN"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "SUMMER RAVE 2025",
-        "url": "https://open.spotify.com/album/1to2Eyy19e4oT15XAWDjqQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rave",
-          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "LIMOUSINE",
-      "url": "https://open.spotify.com/track/0pWNemPfJpPO6qZCVaBb8Q"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
-      "album": {
-        "name": "Haut niveau",
-        "url": "https://open.spotify.com/album/2lbF2iCn4QASP45hlfFTqj"
-      },
-      "artists": [
-        {
-          "name": "Loo",
-          "url": "https://open.spotify.com/artist/6uhHMAJ8LR6BcQCtBwW2mc"
-        }
-      ],
-      "duration_ms": 134640,
-      "name": "Haut niveau",
-      "url": "https://open.spotify.com/track/5NnuqQtNeQVhbVxBmizRGc"
-    },
-    {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "Situationships",
         "url": "https://open.spotify.com/album/0uR10eLHufuh8LRWmmOzof"
@@ -673,23 +633,55 @@
       "url": "https://open.spotify.com/track/5cdX1cDziGmFKCJWW682Dq"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
-        "name": "Reine (Deluxe)",
-        "url": "https://open.spotify.com/album/5ysyXw3W6VgSCCHxGPjlnm"
+        "name": "Vice",
+        "url": "https://open.spotify.com/album/5bwYiC4e3lw4Eby50WoeKe"
       },
       "artists": [
         {
-          "name": "Kim",
-          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+          "name": "7iaa",
+          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
         }
       ],
-      "duration_ms": 144857,
-      "name": "Mini Moi",
-      "url": "https://open.spotify.com/track/77lEiVLxXAwof70K4ohabm"
+      "duration_ms": 155950,
+      "name": "Vice",
+      "url": "https://open.spotify.com/track/7JnPEnndd3MBy5aR8JqO1U"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "CUXI BOY PART II (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/3giyRav3BLrfm9zZG8gYCr"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "PRISON DOREE",
+      "url": "https://open.spotify.com/track/6Yp7FdkoCnFHk7vALvsRkv"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "On se date ?",
+        "url": "https://open.spotify.com/album/461yJu8vs7S0oZJ89LUEXJ"
+      },
+      "artists": [
+        {
+          "name": "Asma",
+          "url": "https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB"
+        }
+      ],
+      "duration_ms": 161495,
+      "name": "On se date ?",
+      "url": "https://open.spotify.com/track/0pNsXwG7xpCFdAwdy3oN1u"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
       "album": {
         "name": "CLASSY THUG",
         "url": "https://open.spotify.com/album/10U4ORJ07tYBBXllneubQc"
@@ -705,20 +697,36 @@
       "url": "https://open.spotify.com/track/6gm9mJiTarQUa7QFPUNLuV"
     },
     {
-      "added_at": "2025-08-07 22:00:29",
+      "added_at": "2025-08-14 22:00:20",
       "album": {
-        "name": "Vice",
-        "url": "https://open.spotify.com/album/5bwYiC4e3lw4Eby50WoeKe"
+        "name": "SUMMER RAVE 2025",
+        "url": "https://open.spotify.com/album/1to2Eyy19e4oT15XAWDjqQ"
       },
       "artists": [
         {
-          "name": "7iaa",
-          "url": "https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl"
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
         }
       ],
-      "duration_ms": 155950,
-      "name": "Vice",
-      "url": "https://open.spotify.com/track/7JnPEnndd3MBy5aR8JqO1U"
+      "duration_ms": 171262,
+      "name": "LIMOUSINE",
+      "url": "https://open.spotify.com/track/0pWNemPfJpPO6qZCVaBb8Q"
+    },
+    {
+      "added_at": "2025-08-14 22:00:20",
+      "album": {
+        "name": "Reine (Deluxe)",
+        "url": "https://open.spotify.com/album/5ysyXw3W6VgSCCHxGPjlnm"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "duration_ms": 144857,
+      "name": "Mini Moi",
+      "url": "https://open.spotify.com/track/77lEiVLxXAwof70K4ohabm"
     }
   ],
   "unique_name": "R&Bae",

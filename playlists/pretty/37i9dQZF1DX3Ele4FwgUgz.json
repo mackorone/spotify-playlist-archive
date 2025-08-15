@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18365,
+  "num_followers": 18371,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Eutopia / EMOTION / stars we chase (\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc\u76e4)",
-        "url": "https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg"
-      },
-      "artists": [
-        {
-          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
-          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "stars we chase",
-      "url": "https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "Butterfly / Solitude Rain / VIVID WORLD (\u8fd1\u6c5f\u5f7c\u65b9\u76e4)",
         "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 216306,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc\u76e4)",
+        "url": "https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "stars we chase",
+      "url": "https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -219,18 +219,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
       },
       "artists": [
         {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 246893,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
+      "duration_ms": 244653,
+      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -251,18 +251,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
         }
       ],
-      "duration_ms": 244653,
-      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+      "duration_ms": 246893,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -459,18 +459,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+        "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
+        "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
       },
       "artists": [
         {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
         }
       ],
-      "duration_ms": 261013,
-      "name": "LIKE IT!LOVE IT!",
-      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+      "duration_ms": 233960,
+      "name": "Cara Tesoro",
+      "url": "https://open.spotify.com/track/0Qgi48UqdmsFcKCH3a8NKG"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -491,34 +491,34 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "\u3069\u3053\u306b\u3044\u3066\u3082\u541b\u306f\u541b",
-        "url": "https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om"
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
         }
       ],
-      "duration_ms": 233960,
-      "name": "Cara Tesoro",
-      "url": "https://open.spotify.com/track/0Qgi48UqdmsFcKCH3a8NKG"
+      "duration_ms": 261013,
+      "name": "LIKE IT!LOVE IT!",
+      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
     },
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 234880,
-      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
       },
       "artists": [
         {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+      "duration_ms": 234880,
+      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 258146,
       "name": "Poppin' Up!",
       "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Vroom Vroom",
-        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Vroom Vroom",
-      "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 288973,
       "name": "\u3081\u3063\u3061\u3083Going!!",
       "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "Awakening Promise / \u5922\u304c\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u3088",
+        "url": "https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "duration_ms": 253746,
+      "name": "Awakening Promise",
+      "url": "https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI"
     },
     {
       "added_at": "2025-07-21 16:15:15",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "Awakening Promise / \u5922\u304c\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u3088",
-        "url": "https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o"
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
       },
       "artists": [
         {
-          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
-          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
         }
       ],
-      "duration_ms": 253746,
-      "name": "Awakening Promise",
-      "url": "https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI"
+      "duration_ms": 216733,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
     },
     {
       "added_at": "2025-07-21 16:15:15",

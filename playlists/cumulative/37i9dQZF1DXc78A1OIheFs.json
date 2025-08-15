@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 176326,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/4zHNBoWXRGv4D46AYgaT3x"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 185002,
       "name": "Live for Today",
       "url": "https://open.spotify.com/track/6q1LvlxEIVSV65xkUPJOPz"
@@ -4459,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "The//Glow",
+        "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234947,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/4F9eoe2uxpphjdgJAgBl8J"
+    },
+    {
+      "album": {
         "name": "See No Evil",
         "url": "https://open.spotify.com/album/5b9U2aOIhQ6OBYfL7cm6Ef"
       },
@@ -5710,6 +5728,24 @@
       "duration_ms": 180978,
       "name": "Wobble Out (feat. Kings)",
       "url": "https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP"
+    },
+    {
+      "album": {
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186747,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nh\u1eefng \ud83c\udfb6 t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NOIR",
+  "description": "Nh\u1eefng \ud83c\udfb6 t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Yeolan",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 154351,
       "name": "90/10",
       "url": "https://open.spotify.com/track/38OCdRIL25juzd2ILlUKAT"
@@ -13373,6 +13373,24 @@
     },
     {
       "album": {
+        "name": "Fell4U",
+        "url": "https://open.spotify.com/album/1SJ3wA5mE7rmqqe6w6fH0o"
+      },
+      "artists": [
+        {
+          "name": "JesiLyn",
+          "url": "https://open.spotify.com/artist/7gm9casuT7FIMFUmOhz5TS"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213698,
+      "name": "Fell4U",
+      "url": "https://open.spotify.com/track/3lbUC7DefSQUFQmH7640k4"
+    },
+    {
+      "album": {
         "name": "feral",
         "url": "https://open.spotify.com/album/07lAqxTsQ3hmA7A1tk4hQZ"
       },
@@ -15141,6 +15159,28 @@
     },
     {
       "album": {
+        "name": "HANDSOME",
+        "url": "https://open.spotify.com/album/6usumQWGmPjLG2ZdbRV0bi"
+      },
+      "artists": [
+        {
+          "name": "JesiLyn",
+          "url": "https://open.spotify.com/artist/7gm9casuT7FIMFUmOhz5TS"
+        },
+        {
+          "name": "Yolophonik",
+          "url": "https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160904,
+      "name": "HANDSOME",
+      "url": "https://open.spotify.com/track/1M2RYkA5mNfvgIUeM3YhRU"
+    },
+    {
+      "album": {
         "name": "Hanoi Centerpoint",
         "url": "https://open.spotify.com/album/3kLBm9dMlbyGuJgFn9bQpL"
       },
@@ -16584,6 +16624,28 @@
       "duration_ms": 289275,
       "name": "H\u1eb9n G\u1eb7p Em \u1ede Cu\u1ed9c \u0110\u1eddi Kh\u00e1c",
       "url": "https://open.spotify.com/track/5CKYfZD6pDFObBnxtjw1as"
+    },
+    {
+      "album": {
+        "name": "H\u1eb9n Nhau D\u01b0\u1edbi Tr\u1eddi Sao",
+        "url": "https://open.spotify.com/album/60AkF6nXwHkKwUaNsnH710"
+      },
+      "artists": [
+        {
+          "name": "Trang Anh",
+          "url": "https://open.spotify.com/artist/3km8DqtIYOPpMYbuiA2K7z"
+        },
+        {
+          "name": "Squid Inc",
+          "url": "https://open.spotify.com/artist/2Xaj2baPCf8NFIG74V2Z80"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173205,
+      "name": "H\u1eb9n Nhau D\u01b0\u1edbi Tr\u1eddi Sao",
+      "url": "https://open.spotify.com/track/1zqeZrpRfc8VAMJ5rNjH3B"
     },
     {
       "album": {
@@ -20873,6 +20935,24 @@
     },
     {
       "album": {
+        "name": "L\u1ea1c L\u1ed1i",
+        "url": "https://open.spotify.com/album/7deoyUNf68Qhhq9hVnKRlF"
+      },
+      "artists": [
+        {
+          "name": "Yeolan",
+          "url": "https://open.spotify.com/artist/71jD7mheM5zAPYaHkS4FNo"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "L\u1ea1c L\u1ed1i",
+      "url": "https://open.spotify.com/track/3VngFUW9uKAxy7DndtAS68"
+    },
+    {
+      "album": {
         "name": "l\u1ea1c l\u1ed1i tr\u00ean m\u1eb7t tr\u0103ng (extended version)",
         "url": "https://open.spotify.com/album/2yB59q6PpJAcfLynMcD42E"
       },
@@ -23544,7 +23624,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 186240,
       "name": "M\u1eadt",
       "url": "https://open.spotify.com/track/0HwAtfoF6Hd3MsiAVkf4Es"
@@ -25976,6 +26056,24 @@
       "duration_ms": 213733,
       "name": "Nh\u00e0n Vi",
       "url": "https://open.spotify.com/track/3f2JxiVfRYSIFTmjEYAv6x"
+    },
+    {
+      "album": {
+        "name": "Nh\u00e0nh Hoa T\u00edm",
+        "url": "https://open.spotify.com/album/286IpQju6r3wGPxx53Ywsh"
+      },
+      "artists": [
+        {
+          "name": "Try92",
+          "url": "https://open.spotify.com/artist/3TAL7g0EaT0Az8Xr2Upv1b"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257571,
+      "name": "Nh\u00e0nh Hoa T\u00edm",
+      "url": "https://open.spotify.com/track/5vGO7Tg3hcriIp6fdrhhlu"
     },
     {
       "album": {
@@ -34800,7 +34898,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 222433,
       "name": "Trao Cho Anh",
       "url": "https://open.spotify.com/track/0Icvw7SwShfJuhZNVZW1CX"
@@ -38730,7 +38828,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 341217,
       "name": "V\u00f2ng Xoay",
       "url": "https://open.spotify.com/track/6iwcH0L0rhouObK32Cgdp4"

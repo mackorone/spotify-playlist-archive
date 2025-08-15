@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-247 songs - 1 day 8 hr 54 min
+248 songs - 1 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 | 2024-05-17 |  |
 | [Dependable God \- Live from London](https://open.spotify.com/track/2OWowRrWrSP4v3R11eZVIh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Dependable God \(Live from London\)](https://open.spotify.com/album/23iBFmRGMwcc2BoZXnRuwO) | 5:07 | 2025-03-14 |  |
 | [Desire \- Live](https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Desire \(Live\)](https://open.spotify.com/album/2jdNxHWLRdhZg3cer80eOu) | 9:11 | 2025-07-04 |  |
+| [Destiny Helper \- Live](https://open.spotify.com/track/4juwARHDF02F8c5ZAcunxZ) | [Jestero Music](https://open.spotify.com/artist/01KQSXIeFMuUxN2JXwjTXj) | [Destiny Helper \(Live\)](https://open.spotify.com/album/2XVzEnUlAyTcJKM8AGqKVE) | 7:23 | 2025-08-15 |  |
 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 | 2024-02-23 |  |
 | [Done me well \- Live](https://open.spotify.com/track/4OiD7LbfwDKJZ9nyBvbPD3) | [Segun John](https://open.spotify.com/artist/5NZNxkH7KFr0xZ2yyZpOt2) | [Done me well \(Live\)](https://open.spotify.com/album/1HYa8ia9PxlsBUTqyIOjj3) | 8:42 | 2024-09-13 | 2024-12-20 |
 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 | 2024-02-23 | 2024-08-16 |
@@ -102,7 +103,7 @@
 | [Idi Ebube](https://open.spotify.com/track/7Cg94EAs6wePmyRbZhPGj4) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Idi Ebube](https://open.spotify.com/album/2Z7QAmd2g7fXSLpgLZ2Mkn) | 7:49 | 2025-01-10 |  |
 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 | 2025-05-16 |  |
 | [If I Be Lifted](https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship Praise Medley](https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV) | 4:58 | 2024-10-25 | 2025-02-21 |
-| [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 | 2025-07-25 |  |
+| [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 | 2025-07-25 | 2025-08-15 |
 | [Iwo Lalagbara \- Live](https://open.spotify.com/track/3mI0K9lZyrq0v0OgG91ZVB) | [Seun Laoye](https://open.spotify.com/artist/1fQRwIigtssmXGPKBuQvJu) | [Iwo Lalagbara \(Live\)](https://open.spotify.com/album/5WdY8B71pH9TVWfN2Amu2s) | 7:41 | 2025-03-28 | 2025-04-25 |
 | [Izulu](https://open.spotify.com/track/0FwBYg7Ci059wnjpQJeC6c) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 5:05 | 2024-02-23 | 2024-12-20 |
 | [Izurukeme \- Live](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme \(Live\)](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 | 2025-02-28 | 2025-04-04 |

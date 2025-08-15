@@ -2,7 +2,7 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: Ed Sheeran
+> All the new music you need to hear right now\. Cover: Steve Lacy
 
 3,138 songs - 7 day 1 hr 43 min
 

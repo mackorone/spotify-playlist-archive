@@ -689,6 +689,28 @@
     },
     {
       "album": {
+        "name": "DUETOS",
+        "url": "https://open.spotify.com/album/0UNanvwjUAMzCQbLi4Thta"
+      },
+      "artists": [
+        {
+          "name": "Yudi Fox",
+          "url": "https://open.spotify.com/artist/3nv6fTNnQNbSDGxU9f9oSG"
+        },
+        {
+          "name": "Felishia",
+          "url": "https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "ARMADILHA",
+      "url": "https://open.spotify.com/track/4Gxd0NvzTzp4HZ7q2eyCdJ"
+    },
+    {
+      "album": {
         "name": "AROMA INSANO",
         "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
@@ -2200,7 +2222,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 207500,
       "name": "Control",
       "url": "https://open.spotify.com/track/3WQxc2F2C57eqs57YJgEcZ"
@@ -2370,7 +2392,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 160127,
       "name": "Cruz",
       "url": "https://open.spotify.com/track/7sQAf6RIi15iPmYOy1BAq9"
@@ -2396,6 +2418,24 @@
       "duration_ms": 230217,
       "name": "Cuiar Assim",
       "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+    },
+    {
+      "album": {
+        "name": "Cuida Bem Dela",
+        "url": "https://open.spotify.com/album/6e4lqsHCB86J6q05zoVMNO"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e1udio Pina",
+          "url": "https://open.spotify.com/artist/0q4LqAaTeDu8W3kZCfIX9v"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cuida Bem Dela",
+      "url": "https://open.spotify.com/track/4X7kNBFa0IklDcnQXBBXAM"
     },
     {
       "album": {
@@ -5576,6 +5616,24 @@
       "duration_ms": 219952,
       "name": "Maquina",
       "url": "https://open.spotify.com/track/1WQrLa6ZRMd3WXaXTPm2Im"
+    },
+    {
+      "album": {
+        "name": "ID1",
+        "url": "https://open.spotify.com/album/3cCNkogtvZ3HMyW5V7IyzK"
+      },
+      "artists": [
+        {
+          "name": "Jay Kim",
+          "url": "https://open.spotify.com/artist/5r1obpa97ZZhp3QsgRtV9u"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/2aCM75amYokfO7DKvEnVQ0"
     },
     {
       "album": {
@@ -9312,7 +9370,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 160000,
       "name": "Tamu Numa",
       "url": "https://open.spotify.com/track/0Fgdh3VyT4Fpzkyk0TC96P"
@@ -9966,7 +10024,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
@@ -11376,6 +11434,24 @@
       "duration_ms": 223686,
       "name": "\u00c9 Mentira",
       "url": "https://open.spotify.com/track/6akHiBM9q6bPCg9SBCBoSz"
+    },
+    {
+      "album": {
+        "name": "\u00daltima Dan\u00e7a",
+        "url": "https://open.spotify.com/album/2JW3JBnJWLKrDbgSuFxA0E"
+      },
+      "artists": [
+        {
+          "name": "Joelson JB",
+          "url": "https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202349,
+      "name": "\u00daltima Dan\u00e7a",
+      "url": "https://open.spotify.com/track/6BUiTF3mlMsBbIAhEAWmpj"
     },
     {
       "album": {

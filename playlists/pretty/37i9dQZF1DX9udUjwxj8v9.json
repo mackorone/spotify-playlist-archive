@@ -67,22 +67,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Ao Vivo",
         "url": "https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 263266,
       "name": "Mal Acostumada - Ao Vivo",
       "url": "https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "A M\u00fasica Do Olodum - 20 Anos",
-        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Nossa Gente (Avisa L\u00e1)",
-      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 331853,
       "name": "Xang\u00f4",
       "url": "https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "A M\u00fasica Do Olodum - 20 Anos",
+        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Nossa Gente (Avisa L\u00e1)",
+      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-07-11 03:00:07",
       "album": {
-        "name": "Maxximum - Pepeu Gomes E Baby Consuelo",
-        "url": "https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "Masculino E Feminino",
-      "url": "https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB"
-    },
-    {
-      "added_at": "2025-07-11 03:00:07",
-      "album": {
         "name": "Aconteceu",
         "url": "https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232773,
       "name": "A Vida \u00c9 Festa",
       "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
+    },
+    {
+      "added_at": "2025-07-11 03:00:07",
+      "album": {
+        "name": "Maxximum - Pepeu Gomes E Baby Consuelo",
+        "url": "https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "Masculino E Feminino",
+      "url": "https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 204773,
-      "name": "Chuva, Suor E Cerveja",
-      "url": "https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg"
+      "duration_ms": 162973,
+      "name": "Atr\u00e1s Do Trio El\u00e9trico",
+      "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
     },
     {
       "added_at": "2025-07-11 03:00:07",
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 162973,
-      "name": "Atr\u00e1s Do Trio El\u00e9trico",
-      "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
+      "duration_ms": 204773,
+      "name": "Chuva, Suor E Cerveja",
+      "url": "https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg"
     },
     {
       "added_at": "2025-07-11 03:00:07",

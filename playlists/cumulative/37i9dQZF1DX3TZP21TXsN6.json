@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/1ZFICtj5yKkg6cXk9A4bU7"
+      },
+      "artists": [
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "101",
+      "url": "https://open.spotify.com/track/5iagAmyHevYQhpBRFRiJ0F"
+    },
+    {
+      "album": {
         "name": "14 JAAR",
         "url": "https://open.spotify.com/album/42NRLkEp7aPC3pzU8UY53w"
       },
@@ -82,7 +100,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 149370,
       "name": "2 VOOR 1",
       "url": "https://open.spotify.com/track/7xwBlLFOXYiVPfnoo9jrZR"
@@ -104,7 +122,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 163059,
       "name": "2Taaya's",
       "url": "https://open.spotify.com/track/7st7ZMKw20kLd0VnaApENb"
@@ -144,7 +162,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 167374,
       "name": "9 Straatjes",
       "url": "https://open.spotify.com/track/7EWlCJN36ukc2tUvYv9GZp"
@@ -162,7 +180,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 165333,
       "name": "Afstand",
       "url": "https://open.spotify.com/track/5BxN9BC1b781VDoVB5Nohi"
@@ -180,7 +198,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 100540,
       "name": "BCN - Freestyle",
       "url": "https://open.spotify.com/track/6Q03YMswqXMKncsOKfhOAa"
@@ -202,7 +220,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 184761,
       "name": "Beste Voor Jou",
       "url": "https://open.spotify.com/track/5B4hazJXJX68tYLO0aDItc"
@@ -220,7 +238,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 125000,
       "name": "Beter Zo",
       "url": "https://open.spotify.com/track/2ypLSnSq5by0JvEXvadgX2"
@@ -267,6 +285,46 @@
     },
     {
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/6HJ6xLe9h0jfT1wbIbHKYR"
+      },
+      "artists": [
+        {
+          "name": "TYCH",
+          "url": "https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ"
+        },
+        {
+          "name": "COMFY",
+          "url": "https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/5RoeNCapTkAX4wIuMDTNS1"
+      },
+      "artists": [
+        {
+          "name": "Leafs",
+          "url": "https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192923,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7htHKkSHvbWR9IuBTumNux"
+    },
+    {
+      "album": {
         "name": "Chardonnay",
         "url": "https://open.spotify.com/album/68SJbVrRlITUArMOcY9jrQ"
       },
@@ -300,7 +358,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173284,
       "name": "Clones",
       "url": "https://open.spotify.com/track/20dmVqeA3OVLCezOmQgwhF"
@@ -351,6 +409,28 @@
     },
     {
       "album": {
+        "name": "Da's Brunzynbaby",
+        "url": "https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l"
+      },
+      "artists": [
+        {
+          "name": "Brunzyn",
+          "url": "https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9"
+        },
+        {
+          "name": "Dentalhon",
+          "url": "https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123742,
+      "name": "Da's Brunzynbaby",
+      "url": "https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg"
+    },
+    {
+      "album": {
         "name": "DE ZON SCHIJNT",
         "url": "https://open.spotify.com/album/7Lsmz2X42D66Cm1iIfki8a"
       },
@@ -384,7 +464,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 157703,
       "name": "Degradatie",
       "url": "https://open.spotify.com/track/1r2NF9qGlhOE1I4CaxwpeP"
@@ -440,7 +520,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 226666,
       "name": "Duizend Volle Manen",
       "url": "https://open.spotify.com/track/7EZ45ylqoplWkFJpN3lxkd"
@@ -484,10 +564,36 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 159000,
       "name": "FINESSE",
       "url": "https://open.spotify.com/track/6CY06pLHk0uBNhYKcKXea8"
+    },
+    {
+      "album": {
+        "name": "Flappen Zien",
+        "url": "https://open.spotify.com/album/4ueays1KNmdfK7CDh2DSqv"
+      },
+      "artists": [
+        {
+          "name": "KNALLER",
+          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
+        },
+        {
+          "name": "Milonair",
+          "url": "https://open.spotify.com/artist/6AZfDB8isLU2sHkSm3sRhX"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Flappen Zien",
+      "url": "https://open.spotify.com/track/5XF9ue7wYwIK2S7DH3upDM"
     },
     {
       "album": {
@@ -524,7 +630,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 147067,
       "name": "Geen Rem",
       "url": "https://open.spotify.com/track/6HpbcKkSEN025utQb7Z8iH"
@@ -546,7 +652,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 104794,
       "name": "GEEN TOE TOE",
       "url": "https://open.spotify.com/track/6OeYtYPUSwkbBnIZQoqVVW"
@@ -572,7 +678,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 182307,
       "name": "Go",
       "url": "https://open.spotify.com/track/3fLESjsC71zz2QiABvWOtC"
@@ -590,7 +696,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 95000,
       "name": "GTI",
       "url": "https://open.spotify.com/track/7soxmrETzoaFU4tTUbh2Uc"
@@ -644,7 +750,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 172800,
       "name": "Hier Blijven",
       "url": "https://open.spotify.com/track/36Q6P2YB2LdU7cyfDt6Qa3"
@@ -688,7 +794,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 165624,
       "name": "Huismuziek",
       "url": "https://open.spotify.com/track/2jyIoULidueBNoIaOAe0Uy"
@@ -762,7 +868,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 100848,
       "name": "Jonge van Beethoven",
       "url": "https://open.spotify.com/track/5LRexkmbnueuLmXhAda0QW"
@@ -802,7 +908,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 176500,
       "name": "Kino",
       "url": "https://open.spotify.com/track/5OaBSixlgJUbU8o11bP1ET"
@@ -846,7 +952,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 128524,
       "name": "LAUTER KNALL",
       "url": "https://open.spotify.com/track/0g6yGl109hgQWHTgVJm1Sc"
@@ -882,7 +988,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 214468,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ZMKJVJVqzPPbwfDKdedvV"
@@ -954,7 +1060,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 125874,
       "name": "Momenten",
       "url": "https://open.spotify.com/track/1tuDynGFEnlQxB30txnaOW"
@@ -988,7 +1094,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 144000,
       "name": "Niet Als Ik",
       "url": "https://open.spotify.com/track/6Yuarkvu1lGFxjeZsYF5N3"
@@ -1010,10 +1116,28 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 124055,
       "name": "Nog Vast",
       "url": "https://open.spotify.com/track/6zPbPdr8ezkcz6RUa71e8P"
+    },
+    {
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/2UK0lraS3TXP0aBWbBSWSw"
+      },
+      "artists": [
+        {
+          "name": "Fle",
+          "url": "https://open.spotify.com/artist/4mmHkYSBe5qNo8FhuhY6p3"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/7qMfijSIU2UkIn1SrtiRqt"
     },
     {
       "album": {
@@ -1028,7 +1152,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 131947,
       "name": "On This Side",
       "url": "https://open.spotify.com/track/7ddnPdetHROpmrnGtpQI5I"
@@ -1050,7 +1174,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 134400,
       "name": "Onderweg",
       "url": "https://open.spotify.com/track/5I1Jz4FlOhK817ONUbHlDT"
@@ -1068,10 +1192,28 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 142344,
       "name": "Paar Miljoen",
       "url": "https://open.spotify.com/track/3xqOSlvxGmuYdseseANvvI"
+    },
+    {
+      "album": {
+        "name": "Papucho",
+        "url": "https://open.spotify.com/album/1EVZHXfuIBIlZkOHH6fOHW"
+      },
+      "artists": [
+        {
+          "name": "Zwangere Guy",
+          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Papucho",
+      "url": "https://open.spotify.com/track/2odDG9OI4nyZoT5567Se0B"
     },
     {
       "album": {
@@ -1097,6 +1239,32 @@
     },
     {
       "album": {
+        "name": "Piece of me",
+        "url": "https://open.spotify.com/album/5XmkKi4gOenQnMTUquv1VF"
+      },
+      "artists": [
+        {
+          "name": "Loontje Packs",
+          "url": "https://open.spotify.com/artist/7zdCYb0tL9wzgtiZmo86yo"
+        },
+        {
+          "name": "Miggs De Bruijn",
+          "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
+        },
+        {
+          "name": "SURRI",
+          "url": "https://open.spotify.com/artist/1CLP6paOGZXg1qIkYvyzHo"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "Piece of me",
+      "url": "https://open.spotify.com/track/70ydevkdO0djQ3rJmpDuIa"
+    },
+    {
+      "album": {
         "name": "Prayin For",
         "url": "https://open.spotify.com/album/5w6EYj52ZVqcGkjmG9HJaS"
       },
@@ -1112,7 +1280,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 200620,
       "name": "Prayin For",
       "url": "https://open.spotify.com/track/36zS1ry40jJ52N61NAwMeC"
@@ -1152,7 +1320,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 164346,
       "name": "Salamansa",
       "url": "https://open.spotify.com/track/2Nk7QjJJNd5cInlZWbdGR0"
@@ -1170,7 +1338,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 146400,
       "name": "Stoppen Als Het Lukt",
       "url": "https://open.spotify.com/track/0QWukb6lPHrGsOCfEOnApp"
@@ -1196,6 +1364,36 @@
       "duration_ms": 204521,
       "name": "STRIPPERS \u2018N MODELS",
       "url": "https://open.spotify.com/track/1zuLKRU6wUfD0u1hChf0UE"
+    },
+    {
+      "album": {
+        "name": "Summertime babe",
+        "url": "https://open.spotify.com/album/4JevY7W75wEjjUwqwzHnvz"
+      },
+      "artists": [
+        {
+          "name": "KraagBoyz",
+          "url": "https://open.spotify.com/artist/1zvXk8JqqlvmjEtVRVxeBh"
+        },
+        {
+          "name": "Monsif",
+          "url": "https://open.spotify.com/artist/2zGNNkuDbxiDVcIdt5fUUk"
+        },
+        {
+          "name": "24k Water",
+          "url": "https://open.spotify.com/artist/08zCPe6ID8PSsFK1q4D037"
+        },
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/52H0eJ4FUfYYbWb8Dc32BU"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128062,
+      "name": "Summertime babe",
+      "url": "https://open.spotify.com/track/2zuh3CXSXeEkp2GZSNPKCV"
     },
     {
       "album": {
@@ -1236,10 +1434,28 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 162259,
       "name": "These Dayz",
       "url": "https://open.spotify.com/track/6RTkAAd7wTqLZunCzUIjwi"
+    },
+    {
+      "album": {
+        "name": "Omdat Het Kan",
+        "url": "https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6"
+      },
+      "artists": [
+        {
+          "name": "Getit",
+          "url": "https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 11",
+      "url": "https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz"
     },
     {
       "album": {
@@ -1258,7 +1474,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 134060,
       "name": "TRAUMA'S",
       "url": "https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF"
@@ -1288,7 +1504,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 176170,
       "name": "Trenches",
       "url": "https://open.spotify.com/track/2hbtk7UT9d3v7Tqba50i8I"
@@ -1306,7 +1522,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 209189,
       "name": "Tweestrijd",
       "url": "https://open.spotify.com/track/1TLnw07bMuCKMWiIanLmiR"
@@ -1350,7 +1566,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 128274,
       "name": "UNLIMITED SPACE",
       "url": "https://open.spotify.com/track/7HEpCldsVF6J9sw2B9spSK"
@@ -1368,7 +1584,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 148252,
       "name": "Vinicius",
       "url": "https://open.spotify.com/track/6U90pgMCZGlZ8wN9PzUWIF"
@@ -1394,7 +1610,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 177575,
       "name": "What\u2019s Love",
       "url": "https://open.spotify.com/track/3Oydm6UCELxS3EtXHPsXHQ"
@@ -1412,7 +1628,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 165500,
       "name": "Yusu",
       "url": "https://open.spotify.com/track/13LmE9mWU4T3GDUaQnhafs"

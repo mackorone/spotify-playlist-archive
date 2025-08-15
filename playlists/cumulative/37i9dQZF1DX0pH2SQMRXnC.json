@@ -9345,6 +9345,36 @@
     },
     {
       "album": {
+        "name": "Keep Me High",
+        "url": "https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Wasback",
+          "url": "https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ"
+        },
+        {
+          "name": "ALYSSA",
+          "url": "https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147695,
+      "name": "Keep Me High",
+      "url": "https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd"
+    },
+    {
+      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/2ibu5krUd9w1z4ln2eUof7"
       },
@@ -14798,7 +14828,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"

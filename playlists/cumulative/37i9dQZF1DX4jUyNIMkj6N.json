@@ -986,7 +986,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 218248,
       "name": "Brick by Brick",
       "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
@@ -1098,6 +1098,24 @@
       "duration_ms": 194081,
       "name": "By the time you hear this",
       "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
+    },
+    {
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3fITHvhSeYtSoYvBGgHn2Z"
+      },
+      "artists": [
+        {
+          "name": "Malin Pettersen",
+          "url": "https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/5oztvt7Mt5DpVdyt6EZHFa"
     },
     {
       "album": {
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 209786,
       "name": "Free",
       "url": "https://open.spotify.com/track/3JCnaAD3gYEN55sNYaptWK"
@@ -5280,7 +5298,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 211973,
       "name": "The Prettiest Face",
       "url": "https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S"

@@ -2,7 +2,7 @@
 
 ### [Dance Brandneu](https://open.spotify.com/playlist/37i9dQZF1DXcfWvNFKxjDo)
 
-> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Marlon Hoffstadt, KI/KI
+> Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, RANI
 
 4,356 songs - 8 day 14 hr 18 min
 

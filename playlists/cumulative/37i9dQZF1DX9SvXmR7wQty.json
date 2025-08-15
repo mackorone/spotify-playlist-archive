@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: \u00c9mile Bilodeau",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aswell",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -5715,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Madness",
+        "url": "https://open.spotify.com/album/3jpY8F31g961C1glv6Qds6"
+      },
+      "artists": [
+        {
+          "name": "Nicola Ciccone",
+          "url": "https://open.spotify.com/artist/7zEWmefU2120VHZaQhN6qM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Beautiful Madness",
+      "url": "https://open.spotify.com/track/3TitseUr07VOQFk3GSCcdQ"
+    },
+    {
+      "album": {
         "name": "SESSION LIVE H2T",
         "url": "https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz"
       },
@@ -10240,6 +10258,44 @@
       "duration_ms": 183693,
       "name": "Chez la Psy",
       "url": "https://open.spotify.com/track/18wG7Ag5wdZ98So8R4yRT0"
+    },
+    {
+      "album": {
+        "name": "Chez nous ici",
+        "url": "https://open.spotify.com/album/5kqAUgoNM0NBXaVlM2SkMQ"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Ariane Simard",
+          "url": "https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160190,
+      "name": "Chez nous ici",
+      "url": "https://open.spotify.com/track/23pDoQ06saUoin9oh1Gc5W"
     },
     {
       "album": {
@@ -22005,6 +22061,24 @@
     },
     {
       "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/35opTTcaHnmDM7i8RS8a86"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157140,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/7a2IAS8wXPikqHfLdWCv86"
+    },
+    {
+      "album": {
         "name": "Un jour de plus au paradis",
         "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
       },
@@ -22440,7 +22514,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 190700,
       "name": "Ghali",
       "url": "https://open.spotify.com/track/7JRPmK4es5vDupP8H3xjRX"
@@ -22926,6 +23000,24 @@
       "duration_ms": 172105,
       "name": "Goutte \u00e0 goutte",
       "url": "https://open.spotify.com/track/4ZvRRZWjrC6Wl5GgHzfXVr"
+    },
+    {
+      "album": {
+        "name": "Grand Marnier",
+        "url": "https://open.spotify.com/album/2Z5PSNyH0tzK2JUvszPxIh"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Drapeau",
+          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217499,
+      "name": "Grand Marnier",
+      "url": "https://open.spotify.com/track/1QD6VC8S9v9SqG1savNgtv"
     },
     {
       "album": {
@@ -24400,7 +24492,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173887,
       "name": "Hors du temps",
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
@@ -27706,7 +27798,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 144375,
       "name": "Je ne sais quoi",
       "url": "https://open.spotify.com/track/2BmIEbaOEJv3YiZADXxNZT"
@@ -40140,7 +40232,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 303106,
       "name": "Mille vagues",
       "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
@@ -41162,6 +41254,24 @@
       "duration_ms": 198061,
       "name": "Monkey See Monkey Do",
       "url": "https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ"
+    },
+    {
+      "album": {
+        "name": "Monnaie",
+        "url": "https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145408,
+      "name": "Monnaie",
+      "url": "https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7"
     },
     {
       "album": {
@@ -59860,7 +59970,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 175218,
       "name": "ton ventre",
       "url": "https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM"
@@ -60918,7 +61028,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 191786,
       "name": "Toute premi\u00e8re fois",
       "url": "https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS"
@@ -63076,6 +63186,24 @@
       "duration_ms": 183092,
       "name": "Une rose \u00e0 la fois",
       "url": "https://open.spotify.com/track/7ARU11M9zMJyCnF9FMXeNS"
+    },
+    {
+      "album": {
+        "name": "Une seconde.",
+        "url": "https://open.spotify.com/album/5mnAYy5qvqb9INvUedBe9u"
+      },
+      "artists": [
+        {
+          "name": "Mah\u00e9ja",
+          "url": "https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159624,
+      "name": "Une seconde.",
+      "url": "https://open.spotify.com/track/5x435V4iJe3ZPltXMFUpKB"
     },
     {
       "album": {

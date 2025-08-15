@@ -2,9 +2,9 @@
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: AFROJACK, Martin Garrix, David Guetta, Amél
+> New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Blasterjaxx X Bombs Away X Moji
 
-600 songs - 1 day 5 hr 28 min
+602 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Out of Control](https://open.spotify.com/track/78GFKnGSRPUIKG1huKpIyh) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [7 SKIES](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5) | [Out of Control](https://open.spotify.com/album/09WB6ev1KyKXszq0kCvK9q) | 2:50 | 2024-08-19 | 2024-08-31 |
 | [Over Now](https://open.spotify.com/track/1VGAQkCsWmbK5TxuMWYtm3) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Over Now](https://open.spotify.com/album/2CgwKYouEa1jFyMrYVkkHA) | 3:04 | 2025-02-20 | 2025-05-31 |
 | [P.A.R.T.Y.](https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [P.A.R.T.Y.](https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD) | 2:52 | 2024-09-06 | 2024-09-28 |
+| [Paavsaan](https://open.spotify.com/track/5ttBGv38NPpXGgQDYSglrL) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [The Toxxxic](https://open.spotify.com/artist/30wZ3ax9NwZtnmAsCciFSg) | [Paavsaan](https://open.spotify.com/album/15gwmA06XGapSsXy1Hid9o) | 2:52 | 2025-08-14 |  |
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 | 2024-07-19 |
 | [Paradise 3000](https://open.spotify.com/track/16bnMSxKPt9ZxTkm3NacEe) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy) | [Paradise 3000](https://open.spotify.com/album/57JPnjKlgv3izKeP9KqDcn) | 3:16 | 2025-06-26 |  |
 | [Paradoxx](https://open.spotify.com/track/311Qd187nocyXg2WcNRW1y) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx](https://open.spotify.com/album/6WQ196juQmaFmzWEOmfU4X) | 2:06 | 2025-07-04 |  |
@@ -606,6 +607,7 @@
 | [ZENLESS](https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x) | [ZENLESS](https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu) | 2:24 | 2024-07-04 | 2024-07-19 |
 | [ZENLESS](https://open.spotify.com/track/3mIouw7V3msMJkm8iqKXXr) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/3YQzkkbhmbwaMmZuNxkvsb) | [ZENLESS](https://open.spotify.com/album/4ntjc4RbUVs7TfKUvvTSIA) | 2:24 | 2024-07-04 | 2024-07-13 |
 | [Ziga](https://open.spotify.com/track/5aLjnqttZDNsdBqtVdHtzr) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Ziga](https://open.spotify.com/album/4POTNdsb2vY5tvsWkXtsKK) | 2:05 | 2025-06-12 | 2025-06-28 |
+| [Zombie](https://open.spotify.com/track/3PHik6ku45PRKQjgLFWZcF) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Moji](https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7) | [Zombie](https://open.spotify.com/album/5jqviMXYlVgU0UUyijJREi) | 3:32 | 2025-08-14 |  |
 | [Zouka](https://open.spotify.com/track/2vJwO7KW4IbEGo9OOjt7Rl) | [DAMIANO](https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO), [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz) | [Zouka](https://open.spotify.com/album/6LuwKha0UnxqI5wa9ADgzB) | 3:35 | 2024-06-07 | 2024-06-15 |
 | [​Moving Mountains​](https://open.spotify.com/track/2k3sHpYAssiz9s5KPtOPts) | [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [​Moving Mountains​](https://open.spotify.com/album/3qRbSfk5iUteY0o6rKLx54) | 2:47 | 2025-06-27 |  |
 

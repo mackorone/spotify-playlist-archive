@@ -1,6 +1,6 @@
 {
   "description": "Tangueros - Rockeros, Rockeros - Tangueros.",
-  "num_followers": 31616,
+  "num_followers": 31618,
   "original_name": "Tango Rock",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Por Una Cabeza",
+      "url": "https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK"
+    },
+    {
+      "added_at": "2023-05-05 14:11:37",
+      "album": {
         "name": "Obras Cumbres",
         "url": "https://open.spotify.com/album/1IT1pWbVY68eVznVAKm1Ye"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 149920,
       "name": "Siga El Baile (with Alberto Castillo)",
       "url": "https://open.spotify.com/track/0W1R6AOWnBzeRZPLcrkJKW"
-    },
-    {
-      "added_at": "2023-05-05 14:11:37",
-      "album": {
-        "name": "Ritual De Los Pericos",
-        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Por Una Cabeza",
-      "url": "https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK"
     },
     {
       "added_at": "2023-05-05 14:11:37",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-05-05 14:11:37",
       "album": {
+        "name": "Menesunda: Tangolencia Rockera",
+        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
+    },
+    {
+      "added_at": "2023-05-05 14:11:37",
+      "album": {
         "name": "El Vino Triste (feat. Ra\u00fal Lavi\u00e9)",
         "url": "https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 173888,
       "name": "El Vino Triste",
       "url": "https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j"
-    },
-    {
-      "added_at": "2023-05-05 14:11:37",
-      "album": {
-        "name": "Menesunda: Tangolencia Rockera",
-        "url": "https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng"
     },
     {
       "added_at": "2023-05-05 14:11:37",

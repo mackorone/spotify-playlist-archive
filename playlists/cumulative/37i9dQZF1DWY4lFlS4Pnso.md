@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Chappell Roan
+> The UK's biggest playlist\. Cover: PinkPantheress
 
 351 songs - 18 hr 42 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,086 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,118 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 6 | [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 |
 | 7 | [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 |
 | 8 | [تعمل ليه كده](https://open.spotify.com/track/68cdaOZn06OfIppRKIlbPo) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [تعمل ليه كده](https://open.spotify.com/album/5obiqukLHyM31fZFjuxuSu) | 3:04 |
-| 9 | [من السبت للخميس](https://open.spotify.com/track/2Y946QiOiau9fPlaSQfjKi) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [وريني](https://open.spotify.com/album/2ZEJ2zD91Vu5Cw4JVlXvWm) | 2:43 |
-| 10 | [انا بحبك انت](https://open.spotify.com/track/4aFWkLd1yFDudW8F2Q0aMv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/1tbZsz097ZtRJwVERGqqQg) | 3:09 |
-| 11 | [ERMINI](https://open.spotify.com/track/3mCRXThJ3oSg8YFhzlkMqO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [ERMINI](https://open.spotify.com/album/68j8cOZav552lFL94UC9Fp) | 2:38 |
+| 9 | [انا بحبك انت](https://open.spotify.com/track/4aFWkLd1yFDudW8F2Q0aMv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/1tbZsz097ZtRJwVERGqqQg) | 3:09 |
+| 10 | [ERMINI](https://open.spotify.com/track/3mCRXThJ3oSg8YFhzlkMqO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [ERMINI](https://open.spotify.com/album/68j8cOZav552lFL94UC9Fp) | 2:38 |
+| 11 | [من السبت للخميس](https://open.spotify.com/track/2Y946QiOiau9fPlaSQfjKi) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [وريني](https://open.spotify.com/album/2ZEJ2zD91Vu5Cw4JVlXvWm) | 2:43 |
 | 12 | [Ya Mtaneshna](https://open.spotify.com/track/16mwwSZvysLqGf38E6nO4h) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ya Mtaneshna](https://open.spotify.com/album/3gbNw1gl70MSjgUDoi2hik) | 2:57 |
 | 13 | [Dalmaa](https://open.spotify.com/track/1earbnSWzUIxE2wSTD1Z5R) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:44 |
 | 14 | [Fe Waqt Qeyasi](https://open.spotify.com/track/5UejQxeTY00g0kcJOw3ty7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fe Waqt Qeyasi](https://open.spotify.com/album/7yFPppI7ObyWkTTzbJCWbw) | 3:38 |
@@ -62,11 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 52 | [Hanehky Fe Eih](https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Hanehky Fe Eih](https://open.spotify.com/album/3gLfi17apJkOvkpCR2gIHb) | 3:55 |
 | 53 | [DO RE MI](https://open.spotify.com/track/2vNPtRU2u4fl8MIuXsZnPD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [DO RE MI](https://open.spotify.com/album/2cB3vbiAFJfiNNNSKebUE1) | 2:48 |
 | 54 | [راحت لياليه](https://open.spotify.com/track/4abgJ51SfLiz9e6f65YVGs) | [Karim Mohsen](https://open.spotify.com/artist/56JGGZouDaedckdIuTg98X) | [راحت لياليه](https://open.spotify.com/album/0bWgug0dtOBYeUn7dewjK0) | 4:44 |
-| 55 | [Bondoq](https://open.spotify.com/track/3EEf5wmPtiznSbTCLGo0Mv) | [رحاب سليم](https://open.spotify.com/artist/1tkRquDjElKJKzRY15zOWS) | [Bondoq](https://open.spotify.com/album/6YlOABngrEM2C1ENL7xatb) | 3:03 |
-| 56 | [ضاع خيري](https://open.spotify.com/track/1MNfuN5Atuzp8fQ3ATsdND) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ضاع خيري](https://open.spotify.com/album/2s2zt2ILbKBV91Jy71Hb1L) | 4:16 |
-| 57 | [El Gaw Gameel](https://open.spotify.com/track/2rdNNddezAPCt5VzKuItZ6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Gaw Gameel](https://open.spotify.com/album/5gYYICpGjP5CIYIwzLdW8L) | 3:06 |
-| 58 | [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 |
-| 59 | [ربنا يديم اللي بينا](https://open.spotify.com/track/4mNrjSRltYpmyvtlk6dtVQ) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [حاسة بيأس](https://open.spotify.com/album/2aKyIE23O1FKCo4QJAJYLx) | 3:26 |
-| 60 | [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 |
+| 55 | [ضاع خيري](https://open.spotify.com/track/1MNfuN5Atuzp8fQ3ATsdND) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ضاع خيري](https://open.spotify.com/album/2s2zt2ILbKBV91Jy71Hb1L) | 4:16 |
+| 56 | [El Gaw Gameel](https://open.spotify.com/track/2rdNNddezAPCt5VzKuItZ6) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Gaw Gameel](https://open.spotify.com/album/5gYYICpGjP5CIYIwzLdW8L) | 3:06 |
+| 57 | [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 |
+| 58 | [ربنا يديم اللي بينا](https://open.spotify.com/track/4mNrjSRltYpmyvtlk6dtVQ) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [حاسة بيأس](https://open.spotify.com/album/2aKyIE23O1FKCo4QJAJYLx) | 3:26 |
+| 59 | [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 |
 
 Snapshot ID: `AAAAAGtX4jwpJBjRhYbmyuwTuNOdj/ap`

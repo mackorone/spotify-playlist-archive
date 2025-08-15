@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 198226,
       "name": "1-2 (Victory Check) - Live",
       "url": "https://open.spotify.com/track/5EN0vOxkd5jnh62qvM5BP1"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 327400,
       "name": "Hallelujah To Your Name - Live",
       "url": "https://open.spotify.com/track/0z1Uxx7uxGBgXlLahkrMXQ"
@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 505773,
       "name": "I Give You Glory",
       "url": "https://open.spotify.com/track/6FuvrUof9KtgkIuFAta53C"
@@ -1444,6 +1444,24 @@
       "duration_ms": 463666,
       "name": "What Can I Do - Live",
       "url": "https://open.spotify.com/track/3MwZoGEVR9i2AWzA8Vko9O"
+    },
+    {
+      "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Where Do You Stand - Live In LA",
+      "url": "https://open.spotify.com/track/7DYJJCyUT3C5LzC9wwGWNv"
     },
     {
       "album": {

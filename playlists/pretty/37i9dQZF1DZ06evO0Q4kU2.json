@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2091,
+  "num_followers": 2094,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJqEAAAAAADLLExZrQ+9xWyx9u1mnUiy",
+  "snapshot_id": "aJvVgAAAAAA8RLd+NotPuWYjMtyJxbM0",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whale Overture",
-        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "Whale Overture",
-      "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 197133,
       "name": "Cyclist Waltz",
       "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whale Overture",
+        "url": "https://open.spotify.com/album/2qKtYYDcYFtSXUaCxYhJAb"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "Whale Overture",
+      "url": "https://open.spotify.com/track/5nFtrtSgq1IAXGAuJsvt5v"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The True Meaning Of Forever",
-        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 173927,
-      "name": "Coda",
-      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polar",
         "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 156229,
       "name": "Whale Variation",
       "url": "https://open.spotify.com/track/4mtS9zsFo6OPcxwQOWfKau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The True Meaning Of Forever",
+        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 173927,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 214551,
-      "name": "Elegy",
-      "url": "https://open.spotify.com/track/6yIAZ0N0NgYqSJ7z6dGRYl"
+      "duration_ms": 232617,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 232617,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh"
+      "duration_ms": 214551,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6yIAZ0N0NgYqSJ7z6dGRYl"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 171161,
-      "name": "The True Meaning Of Forever",
-      "url": "https://open.spotify.com/track/3C4tEDx7E1a2zhlEiKtmGZ"
+      "duration_ms": 278298,
+      "name": "The Waves",
+      "url": "https://open.spotify.com/track/4MlRPfn6fTD1RIr3Auvh4r"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: 21 Promo & Pengii",
-  "num_followers": 2845,
+  "num_followers": 2846,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFkKK43d1Y4gpH4Wk0zbzZPMXdgN",
+  "snapshot_id": "AAAAAAgOfD3wngdS4/PzE7gcvx9wlq0H",
   "tracks": [
     {
       "added_at": "2025-06-27 09:27:23",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
+      "added_at": "2025-08-14 22:00:44",
+      "album": {
+        "name": "Ek Is Okay",
+        "url": "https://open.spotify.com/album/5rFk4HUXMid4DsE5t4XzX4"
+      },
+      "artists": [
+        {
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        }
+      ],
+      "duration_ms": 121916,
+      "name": "Ek Is Okay",
+      "url": "https://open.spotify.com/track/2v3bj1KqADnLIGV1Jwqyzl"
+    },
+    {
       "added_at": "2025-06-27 09:27:23",
       "album": {
         "name": "Op My Kant",
@@ -527,6 +543,26 @@
       "duration_ms": 195361,
       "name": "Janneman",
       "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
+    },
+    {
+      "added_at": "2025-08-14 22:00:44",
+      "album": {
+        "name": "Die Pad Is Nie Easy",
+        "url": "https://open.spotify.com/album/3Km26NcreAJ5g8IQL8cWMR"
+      },
+      "artists": [
+        {
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+        },
+        {
+          "name": "DJV",
+          "url": "https://open.spotify.com/artist/7GjjnDJKb73hBTZiThqnOI"
+        }
+      ],
+      "duration_ms": 187768,
+      "name": "Die Pad Is Nie Easy",
+      "url": "https://open.spotify.com/track/4AJf1Qxc1hpJ6TZRveqSfQ"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -987,66 +1023,6 @@
       "duration_ms": 222208,
       "name": "Hewig",
       "url": "https://open.spotify.com/track/7MyJTqPXQodlXvecsMhuxz"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Plug Me S:2 EP:5",
-        "url": "https://open.spotify.com/album/7AsBPeQHHVwbsGozmAhdEf"
-      },
-      "artists": [
-        {
-          "name": "21 Promo & Pengii",
-          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
-        },
-        {
-          "name": "CTT Beats",
-          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
-        },
-        {
-          "name": "SKIIPS",
-          "url": "https://open.spotify.com/artist/1QquCeba1W051sM56tKu0Y"
-        },
-        {
-          "name": "Flash Ikumkani",
-          "url": "https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X"
-        },
-        {
-          "name": "PFLONERD",
-          "url": "https://open.spotify.com/artist/2aIsStLkvT7pgYHtsYxSNB"
-        },
-        {
-          "name": "TrustedSLK",
-          "url": "https://open.spotify.com/artist/4Qk7JOKXvTNoVCQuJCc5RU"
-        },
-        {
-          "name": "NAVYKIDD",
-          "url": "https://open.spotify.com/artist/06I3yZkNfX0yDWHJI4OZ39"
-        }
-      ],
-      "duration_ms": 192024,
-      "name": "Plug Me S:2 EP:5",
-      "url": "https://open.spotify.com/track/0MIUAndr30ezR8uvTcAFN8"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5"
-      },
-      "artists": [
-        {
-          "name": "Interlecc Za",
-          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
-        },
-        {
-          "name": "Profit CPT",
-          "url": "https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq"
-        }
-      ],
-      "duration_ms": 179043,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

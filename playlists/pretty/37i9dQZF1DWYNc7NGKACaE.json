@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84832,
+  "num_followers": 84831,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Nunca Duvide de um Mano",
-        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 109691,
-      "name": "Nunca Duvide de um Mano (Speed Up)",
-      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Meus Manos Faz Dinheiro Com Site",
         "url": "https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 130485,
       "name": "Meus Manos Faz Dinheiro Com Site",
       "url": "https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Nunca Duvide de um Mano",
+        "url": "https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 109691,
+      "name": "Nunca Duvide de um Mano (Speed Up)",
+      "url": "https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Conto do Pescador (Speed Version)",
-        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
-      },
-      "artists": [
-        {
-          "name": "MC Menor da VG",
-          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
-        },
-        {
-          "name": "Jorgin Dejhaay",
-          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
-        }
-      ],
-      "duration_ms": 174701,
-      "name": "Conto do Pescador (Speed Version)",
-      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Felina, Ai Meu Deus",
         "url": "https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 147840,
       "name": "Felina, Ai Meu Deus",
       "url": "https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Conto do Pescador (Speed Version)",
+        "url": "https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N"
+      },
+      "artists": [
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "Jorgin Dejhaay",
+          "url": "https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Conto do Pescador (Speed Version)",
+      "url": "https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7"
     },
     {
       "added_at": "2024-07-08 19:10:57",

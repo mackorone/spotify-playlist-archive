@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162416,
+  "num_followers": 162415,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJqEAAAAAABt9C9kSgCDrD4R9Q1WrBW7",
+  "snapshot_id": "aJvVgAAAAACbYyBaf3FXv56LU4yicCuR",
   "tracks": [
     {
       "added_at": null,
@@ -775,18 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+        "name": "Baby, Hold Me (Remixes)",
+        "url": "https://open.spotify.com/album/12bSqNELb5yvv0auLO9iXJ"
       },
       "artists": [
         {
+          "name": "Pot\u00e9",
+          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
+        },
+        {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
         }
       ],
-      "duration_ms": 393533,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5"
+      "duration_ms": 208000,
+      "name": "Give You Up (with Bonobo) - Flaurese Remix",
+      "url": "https://open.spotify.com/track/6oaAY4J8seGCDRkjCYaMKm"
     },
     {
       "added_at": null,
@@ -843,26 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby, Hold Me (Remixes)",
-        "url": "https://open.spotify.com/album/12bSqNELb5yvv0auLO9iXJ"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
       },
       "artists": [
         {
-          "name": "Pot\u00e9",
-          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
-        },
-        {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Flaurese",
-          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Give You Up (with Bonobo) - Flaurese Remix",
-      "url": "https://open.spotify.com/track/6oaAY4J8seGCDRkjCYaMKm"
+      "duration_ms": 393533,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/5LB8Xop5SuozvPINeSSMf5"
     },
     {
       "added_at": null,

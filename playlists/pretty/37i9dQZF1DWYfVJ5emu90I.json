@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 23556,
+  "num_followers": 23568,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-08-13 02:39:21",
       "album": {
+        "name": "LEGION",
+        "url": "https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 99466,
+      "name": "\u3061\u3085\u3060\u3044 - Chxxai",
+      "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
+    },
+    {
+      "added_at": "2025-08-13 02:39:21",
+      "album": {
         "name": "Get Back (feat. JUMADIBA & Watson)",
         "url": "https://open.spotify.com/album/3tEL6DBYyXvtDSmQBDNog5"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 207015,
       "name": "Get Back (feat. JUMADIBA & Watson)",
       "url": "https://open.spotify.com/track/2L4TksDkTcAfZXGNjpdQqG"
-    },
-    {
-      "added_at": "2025-08-13 02:39:21",
-      "album": {
-        "name": "LEGION",
-        "url": "https://open.spotify.com/album/5lnXktiHS3ays84EqOYAVw"
-      },
-      "artists": [
-        {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
-        }
-      ],
-      "duration_ms": 99466,
-      "name": "\u3061\u3085\u3060\u3044 - Chxxai",
-      "url": "https://open.spotify.com/track/3I9Hf4UAlEtwz8AuvinIXJ"
     },
     {
       "added_at": "2025-08-13 02:39:21",
@@ -287,22 +287,26 @@
     {
       "added_at": "2025-08-13 02:39:21",
       "album": {
-        "name": "Magna Scale",
-        "url": "https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL"
+        "name": "KAWASAKI (with Felip & th\u1ee7y)",
+        "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
       },
       "artists": [
         {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
         },
         {
-          "name": "Oddy lozy",
-          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 141724,
-      "name": "B.G.P",
-      "url": "https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs"
+      "duration_ms": 130666,
+      "name": "KAWASAKI (with Felip & th\u1ee7y)",
+      "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
     },
     {
       "added_at": "2025-08-13 02:39:21",
@@ -351,26 +355,22 @@
     {
       "added_at": "2025-08-13 02:39:21",
       "album": {
-        "name": "KAWASAKI (with Felip & th\u1ee7y)",
-        "url": "https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2"
+        "name": "Magna Scale",
+        "url": "https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL"
       },
       "artists": [
         {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
         },
         {
-          "name": "Felip",
-          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
         }
       ],
-      "duration_ms": 130666,
-      "name": "KAWASAKI (with Felip & th\u1ee7y)",
-      "url": "https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy"
+      "duration_ms": 141724,
+      "name": "B.G.P",
+      "url": "https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs"
     },
     {
       "added_at": "2025-08-13 02:39:21",
@@ -411,18 +411,22 @@
     {
       "added_at": "2025-08-13 02:39:21",
       "album": {
-        "name": "MORIAGE",
-        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
+        "name": "KAWASAKI (with Big Sean)",
+        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
       },
       "artists": [
         {
-          "name": "Tokyo Young Vision",
-          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 250588,
-      "name": "MORIAGE",
-      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
+      "duration_ms": 126935,
+      "name": "KAWASAKI (with Big Sean)",
+      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
     },
     {
       "added_at": "2025-08-13 02:39:21",
@@ -443,6 +447,22 @@
     {
       "added_at": "2025-08-13 02:39:21",
       "album": {
+        "name": "MORIAGE",
+        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+        }
+      ],
+      "duration_ms": 250588,
+      "name": "MORIAGE",
+      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
+    },
+    {
+      "added_at": "2025-08-13 02:39:21",
+      "album": {
         "name": "Kick Up (feat. ralph)",
         "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 187696,
       "name": "Kick Up (feat. ralph)",
       "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
-    },
-    {
-      "added_at": "2025-08-13 02:39:21",
-      "album": {
-        "name": "KAWASAKI (with Big Sean)",
-        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 126935,
-      "name": "KAWASAKI (with Big Sean)",
-      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
     },
     {
       "added_at": "2025-08-13 02:39:21",

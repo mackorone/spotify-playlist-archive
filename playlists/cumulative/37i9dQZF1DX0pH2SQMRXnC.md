@@ -4,7 +4,7 @@
 
 > Only the BIGGEST Hardstyle bangers 💥
 
-926 songs - 2 day 4 hr 12 min
+927 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Kamikaze](https://open.spotify.com/track/2OGXiM79qJ0ucZ57SArp0S) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW) | [Kamikaze](https://open.spotify.com/album/6LcFBmnsk9wGrd2sT4SQao) | 4:06 | 2025-05-12 |  |
 | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/track/1Zgcxf3HStFlE7i7vdNegw) | [Teknoclash](https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb) | [Kann es sein… \(dass Du dumm bist?\)](https://open.spotify.com/album/4bgZ38lWZNtjGNSrZWRStx) | 2:19 | 2025-07-14 |  |
 | [Keep It Up](https://open.spotify.com/track/2qD7jGzVXhPKr5zAv8CysM) | [The Pitcher](https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X) | [Keep It Up](https://open.spotify.com/album/0brzA3lWqdb7UuTY7YxNYx) | 2:55 | 2021-12-16 | 2023-03-31 |
+| [Keep Me High](https://open.spotify.com/track/5A5CbxniOX2JeZL72Qf0yd) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Keep Me High](https://open.spotify.com/album/78NmoLq9IRdXxIoKl5efia) | 2:27 | 2025-08-14 |  |
 | [Keep on Moving](https://open.spotify.com/track/570np7INhblFuffFDsgPzi) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Keep on Moving](https://open.spotify.com/album/2ibu5krUd9w1z4ln2eUof7) | 3:00 | 2022-09-15 |  |
 | [Keep On Rockin'](https://open.spotify.com/track/03Gu5zrOY4mCq0RSQNELM7) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Crystal Lake](https://open.spotify.com/artist/5DzNxD4vwCDEIa20oEzB9l) | [Keep On Rockin'](https://open.spotify.com/album/0514EsydSxK9My6vSD5QWI) | 2:59 | 2021-12-16 | 2022-04-21 |
 | [Keepers Of Our Legacy](https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Keepers Of Our Legacy](https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF) | 4:12 | 2023-04-20 | 2024-11-09 |
@@ -687,7 +688,7 @@
 | [Runaway \(Hardstyle Remix\)](https://open.spotify.com/track/3y2QrAjiVUzCCAyO35HYOH) | [Rick.staneke](https://open.spotify.com/artist/5wPgkC2TSTibbFrzVD1mfa), [Dj Rikkert](https://open.spotify.com/artist/1pJpFWTPKo0IoGWhLlf7Ic), [jessedekreij](https://open.spotify.com/artist/2jSgEmtZ4MAqggBusRqVhN) | [Runaway \(Hardstyle Remix\)](https://open.spotify.com/album/75Ox2oGoBSfgoQ8LWdCgjT) | 3:05 | 2022-09-01 | 2022-09-20 |
 | [Runaway \- \(Hardstyle\) \- Sped Up](https://open.spotify.com/track/4jRwGx5L9OvtNGEpncuxI5) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Runaway \[\(Hardstyle\) \- Sped Up\]](https://open.spotify.com/album/2xp6OBqyUXUwtOykQqGuju) | 3:05 | 2022-09-08 | 2022-09-13 |
 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 | 2022-12-05 | 2024-05-25 |
-| [Sandstorm](https://open.spotify.com/track/2yyaTlex3YaCat520CSzti) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Sandstorm](https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a) | 3:08 | 2023-12-14 |  |
+| [Sandstorm](https://open.spotify.com/track/2yyaTlex3YaCat520CSzti) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Sandstorm](https://open.spotify.com/album/1Ec9A0eLelTeEpjC5lnE5a) | 3:08 | 2023-12-14 | 2025-08-15 |
 | [Save Euphoric \(Theme\)](https://open.spotify.com/track/4x6dKH7NYow3qVGeTLn9bT) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Blademasterz](https://open.spotify.com/artist/10Sg7743IiFPQQIEDSU2sv) | [Save Euphoric \(Theme\)](https://open.spotify.com/album/3u9MQu6SxJewo9CZh6XSMX) | 3:30 | 2024-09-20 | 2024-12-30 |
 | [SAVE ME](https://open.spotify.com/track/15YYQC2n1LJblmAoN8F5ke) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [SAVE ME](https://open.spotify.com/album/29xilFGP5o6DtJzDJFhnJh) | 2:57 | 2024-07-05 |  |
 | [Save Me](https://open.spotify.com/track/50cHsbjIjPC8CGKkfaDKSJ) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Save Me](https://open.spotify.com/album/70dQ4XawX4AHYr2qHLNGnY) | 3:43 | 2024-10-10 |  |

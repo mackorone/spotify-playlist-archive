@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ziproom, JUMADIBA
 
-1,866 songs - 3 day 22 hr 44 min
+1,868 songs - 3 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [GO FUSION](https://open.spotify.com/track/35VMDe4mPBrdZoOfClyYSa) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn), [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [GO FUSION](https://open.spotify.com/album/5xscjWb56OBdOT6YRWG0AW) | 3:14 | 2023-10-17 | 2023-11-25 |
 | [GO HARD](https://open.spotify.com/track/1g44Ji7jXoD8ieXbuhODym) | [Uka Death Audio](https://open.spotify.com/artist/2WZwiCQE0bEwW97gwygxfN), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [GO HARD](https://open.spotify.com/album/1zZ57Ud3GRN9vhClYRLGYF) | 2:20 | 2024-08-30 | 2024-10-02 |
 | [GO OUT](https://open.spotify.com/track/1p5fY3cU0xR93bDKCzso2B) | [Kowree](https://open.spotify.com/artist/0dTD1vduOYidhrWW8iSyek), [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [KROSS OVER](https://open.spotify.com/album/2CSxe39gilkW1raxzIV5He) | 2:50 | 2025-01-28 | 2025-02-05 |
+| [GO SAD MAD](https://open.spotify.com/track/1sv9T5u9ZEwI1930j2cRZv) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Pain Makes You Better](https://open.spotify.com/album/2DmeP1BrvCJPiScGmdRTwo) | 2:32 | 2025-08-15 |  |
 | [GOAT](https://open.spotify.com/track/3edi5revIoKupagkhCLY2A) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Lunv Loyal](https://open.spotify.com/artist/7lud8HFr0WHko0Kg99Dj4M) | [DONG JING REN](https://open.spotify.com/album/7h7wZupoqS4lpV8qOI29eE) | 2:32 | 2023-11-07 | 2024-01-31 |
 | [Godzilla](https://open.spotify.com/track/0J3JXLGEwD42xA3DYfw1RF) | [ARuM](https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx) | [Godzilla](https://open.spotify.com/album/49ch4e0WGYLZXMBW0fpGcw) | 3:28 | 2025-07-23 | 2025-07-30 |
 | [GOEMON](https://open.spotify.com/track/6HO0oAjTqqvfaspFkLzYEK) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [GOEMON](https://open.spotify.com/album/6yFHD4LRXQFz6OC9JgTxWl) | 2:32 | 2024-02-28 | 2024-03-20 |
@@ -632,6 +633,7 @@
 | [HelloとGoodbye（STUDIO）](https://open.spotify.com/track/3RB33HXyNPfcw592EjH7dn) | [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU), [KNOTT](https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh) | [Renaissance](https://open.spotify.com/album/6JO12PpU5Co8pvS7fBWK50) | 1:17 | 2024-09-17 | 2024-09-25 |
 | [Hentou](https://open.spotify.com/track/2XYm2ozeqdTVDn3AfVC9ir) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [REVENGE](https://open.spotify.com/album/5kRY3ZglYMF8AevPp8imUZ) | 4:18 | 2023-11-29 | 2023-12-27 |
 | [Here I Am](https://open.spotify.com/track/0WOoHI5EBwXEIFZZrBZQpT) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [Here I Am](https://open.spotify.com/album/3a3gMEtUzOHT3c0yzdX0z1) | 4:54 | 2024-08-07 | 2024-09-04 |
+| [HERO](https://open.spotify.com/track/3PZnXp90AQiSNugeJHPloG) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [HERO](https://open.spotify.com/album/6HE58dVFDYHdPRlFvNEdPT) | 2:52 | 2025-08-15 |  |
 | [HEY DJ](https://open.spotify.com/track/4WKmsf5fWMPWs7zAhKxE1c) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [DJ Deequite](https://open.spotify.com/artist/2hM1Jmvg4X1TPWtaLbekzS) | [THUNDER](https://open.spotify.com/album/2hu6trxB3I5tmLARlxkWvg) | 2:22 | 2025-05-13 | 2025-05-28 |
 | [Hey Lady](https://open.spotify.com/track/4IIAdk29wn31gHN3p9v6LD) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Hey Lady](https://open.spotify.com/album/4OYUTrIpGrQGJWUtUxuD2n) | 3:09 | 2023-11-07 | 2023-11-25 |
 | [Hey Lady](https://open.spotify.com/track/4RXwsA32oemCCInCYNUU2u) | [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [ZENDAMAN](https://open.spotify.com/artist/2NfJkHz3wokHxqlHYWMw45) | [Hey Lady](https://open.spotify.com/album/3AQ1YoUI6z12tsYNH9ZybQ) | 3:09 | 2023-11-07 | 2023-11-09 |

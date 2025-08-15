@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Beeztrap KOTM
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,480 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,492 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Shake your body](https://open.spotify.com/track/39VeapvJrz929FzPDKwLSl) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Shake your body](https://open.spotify.com/album/36olCS2GVkZgkzNVDtal8w) | 2:29 |
 | 80 | [BM Cypher](https://open.spotify.com/track/7mmXF6WLlwODvvSfI6qizw) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Obibini](https://open.spotify.com/artist/5m5vLxJjEdfEqw5xcK5KHi), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [BM Cypher](https://open.spotify.com/album/7jEw7VCdx6sKdRLcsExm4i) | 6:17 |
 
-Snapshot ID: `AAAAAITBbTzFWwyaHeglr7B9E3A9XHrJ`
+Snapshot ID: `AAAAAJ+aUrXLYMv0nuaypb2K2kner/+L`

@@ -2,9 +2,9 @@
 
 ### [Rock 2025](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Anabel Lee.
+> Súbete a la nueva ola del rock español\. Foto: Capros.
 
-440 songs - 22 hr 27 min
+442 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Autocine](https://open.spotify.com/track/3sn8PJGtBOpb4ktUgQJYMQ) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Autocine](https://open.spotify.com/album/0I3rZBB5lbYlHEAGuPEokP) | 2:41 | 2025-03-20 | 2025-06-11 |
 | [Azul Oscuro Casi Negro](https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm), [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Azul Oscuro Casi Negro](https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj) | 2:40 | 2024-06-27 | 2024-11-15 |
 | [Año de mierda](https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI) | [Jordi Ganchitos](https://open.spotify.com/artist/5844W7yidUo05iQtYOZreA) | [Año de mierda](https://open.spotify.com/album/57TbzhJvUA8wPs5PwQIWWe) | 2:40 | 2024-12-19 | 2025-01-24 |
+| [Años 70](https://open.spotify.com/track/7ds4diw8KS2WddkOrPDgak) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Años 70](https://open.spotify.com/album/2Ex9uQQMChXU0WqqmNyUQQ) | 2:39 | 2025-08-14 |  |
 | [Aún Quedan Sensaciones](https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu) | [LOS VALIENTES](https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN) | [Dos De Cal](https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ) | 3:01 | 2024-11-14 | 2025-01-17 |
 | [Baila](https://open.spotify.com/track/4FsFuSar5EQ6YFcBlMWeuH) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc), [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Baila](https://open.spotify.com/album/1WGmxn4geh3FdnwOcT2lnr) | 3:12 | 2025-06-05 | 2025-06-27 |
 | [baila este cabreo](https://open.spotify.com/track/7Bjsax28IfVL2dbBbA6yXP) | [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [baila este cabreo](https://open.spotify.com/album/63B0lyrJlDKCoqq9A4Ro3W) | 2:42 | 2025-02-13 | 2025-03-07 |
@@ -89,12 +90,13 @@
 | [Danza de la muerte](https://open.spotify.com/track/1pAYBMrUtPnCBexIsA7yag) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Danza de la muerte](https://open.spotify.com/album/1YqpMwEqJMPimg5p8O9Upc) | 2:44 | 2024-10-31 | 2025-05-11 |
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [De aquí a un mes](https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [De aquí a un mes](https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w) | 2:21 | 2024-08-29 |  |
-| [De un trago](https://open.spotify.com/track/4qQ9j7wX0KiLqJxU84EbyH) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [De un trago](https://open.spotify.com/album/0zbR9IrdYA0UjUF37XqZpc) | 3:53 | 2025-07-17 |  |
+| [De un trago](https://open.spotify.com/track/4qQ9j7wX0KiLqJxU84EbyH) | [Nuevo Berlín](https://open.spotify.com/artist/1yx6TpkZhtrOHefx2nZxBI) | [De un trago](https://open.spotify.com/album/0zbR9IrdYA0UjUF37XqZpc) | 3:53 | 2025-07-17 | 2025-08-15 |
 | [De Viaje](https://open.spotify.com/track/3LMI65OUMtvYj0jVU55maX) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Super H \(Homenaje al Super 8 de Los Planetas\)](https://open.spotify.com/album/2ZT83rOpAIhACchXvYfNgb) | 3:30 | 2025-04-03 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
 | [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 | 2024-07-25 | 2024-10-24 |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [Demasiados Deseos](https://open.spotify.com/track/1A6dbG3FyqNIt3uQbQDSPu) | [el momento incómodo](https://open.spotify.com/artist/5aWqwamv84KqpNLOestUqh) | [Demasiados Deseos](https://open.spotify.com/album/7HsP5xchqdjIduuOr5tGTy) | 2:53 | 2025-02-27 | 2025-03-14 |
+| [Deshielo](https://open.spotify.com/track/2O31y8p7s2Iewo6tXILtWF) | [Ecos del Cierzo](https://open.spotify.com/artist/29kY0iavpytP7srVoxmoVz) | [Deshielo](https://open.spotify.com/album/7kF5hajZBpYYjymBr50cpC) | 4:03 | 2025-08-14 |  |
 | [DESPEGUE](https://open.spotify.com/track/1zJ6PReu9PhAURqVRTOuwx) | [Eli Rodríguez](https://open.spotify.com/artist/50X9TlUqrFra9QIAmPEgSY) | [NUEVAS TÉCNICAS DE MEDITACIÓN](https://open.spotify.com/album/0IqwXTJ5iYhUkonb0CubS7) | 2:19 | 2025-05-29 | 2025-06-06 |
 | [Despierta](https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8) | [Quizás Mañana](https://open.spotify.com/artist/1VsLvsLzVoBjPcNcnCTLO6) | [Despierta](https://open.spotify.com/album/4VdeQ3UgFRoW4OPlJr6oTu) | 3:07 | 2024-08-22 | 2024-08-30 |
 | [Desplázate o corre](https://open.spotify.com/track/7h8kJ9YbIpPwQKQaVRt3fR) | [Los Chivatos](https://open.spotify.com/artist/1FrY0lSuDVQMmUFE3grB85) | [Desplázate o corre](https://open.spotify.com/album/2eDidhqQpHEYRUY6mENdr2) | 3:22 | 2025-07-17 |  |
@@ -211,7 +213,7 @@
 | [LOPE DE VEGA](https://open.spotify.com/track/5mbv9VI6wt8NqC6phjC10P) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [LOPE DE VEGA](https://open.spotify.com/album/1ur0ogHivs329HXnYpGWF7) | 1:54 | 2025-04-24 | 2025-05-02 |
 | [Lorazepam](https://open.spotify.com/track/7a1daYbxR6nYJcRYP4HXuv) | [Amante Laffón](https://open.spotify.com/artist/73nKf9LdEfuRB5TJRkai1T) | [Lorazepam](https://open.spotify.com/album/4GCRYaMud1KDfwdkYHU2Xf) | 3:05 | 2025-06-26 | 2025-07-23 |
 | [Loros](https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp) | [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Loros](https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn) | 2:26 | 2024-06-27 |  |
-| [Los asesinos de tus hijos](https://open.spotify.com/track/4p4W9eRPdBYcH7ejyUBaL4) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf) | [Los asesinos de tus hijos](https://open.spotify.com/album/2py21evZ3iWGLRBNLaV2NF) | 3:25 | 2025-07-10 |  |
+| [Los asesinos de tus hijos](https://open.spotify.com/track/4p4W9eRPdBYcH7ejyUBaL4) | [Tigre y Diamante](https://open.spotify.com/artist/3r32x2k0DngV8Ef8AELQzf) | [Los asesinos de tus hijos](https://open.spotify.com/album/2py21evZ3iWGLRBNLaV2NF) | 3:25 | 2025-07-10 | 2025-08-15 |
 | [Los Chavales](https://open.spotify.com/track/0hnBLEpln0wSIsbvxeWQoO) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 3:28 | 2024-06-27 |  |
 | [Los jueves de la buena](https://open.spotify.com/track/3W7x9JMC3yS4qJNncsXIS9) | [Caballo Prieto Azabache](https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3), [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Los jueves de la buena](https://open.spotify.com/album/0qmEublfAflxfM9NLJ3dzU) | 3:06 | 2025-03-20 | 2025-05-02 |
 | [Los Malos Mueren](https://open.spotify.com/track/5y5cVgUfKvAOAlrF15x4ck) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [Los Malos Mueren](https://open.spotify.com/album/5o5cVXJ1mOCbPL8OCg8iiE) | 1:56 | 2025-01-23 | 2025-02-21 |

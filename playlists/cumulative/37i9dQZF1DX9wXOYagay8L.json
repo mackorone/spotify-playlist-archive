@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=jEAaALyDShKOKDWVzZyCCg\">Mlindo The Vocalist</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: Leomile",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 280320,
       "name": "Abantu Bam",
       "url": "https://open.spotify.com/track/0UwENEL1GkvnoxHqT1Wv8q"
+    },
+    {
+      "album": {
+        "name": "Abazali",
+        "url": "https://open.spotify.com/album/2JBdrMf9aP33faZjfBMkzG"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175781,
+      "name": "Abazali",
+      "url": "https://open.spotify.com/track/6J0jX6MuObIpZkP1Ob9V3C"
     },
     {
       "album": {
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -4278,6 +4296,28 @@
       "duration_ms": 272542,
       "name": "Igama Linamandla",
       "url": "https://open.spotify.com/track/27Xb7QuzQBDZwBinbFEcrT"
+    },
+    {
+      "album": {
+        "name": "Ikhandlela",
+        "url": "https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp"
+      },
+      "artists": [
+        {
+          "name": "Phila Dlozi",
+          "url": "https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Ikhandlela",
+      "url": "https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya"
     },
     {
       "album": {
@@ -6415,6 +6455,28 @@
     },
     {
       "album": {
+        "name": "Kuvela Kuwe",
+        "url": "https://open.spotify.com/album/3cGVJdtwpjAypUV4clou6E"
+      },
+      "artists": [
+        {
+          "name": "LilyFaith",
+          "url": "https://open.spotify.com/artist/4NptbBcRjmRZYpFSMfmutv"
+        },
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219339,
+      "name": "Kuvela Kuwe",
+      "url": "https://open.spotify.com/track/77c5YgnoopAWF1UTLqJYQl"
+    },
+    {
+      "album": {
         "name": "Kuvele Kukhanye",
         "url": "https://open.spotify.com/album/3mR9WzrXowDVkDeJLhPdSr"
       },
@@ -6940,6 +7002,28 @@
       "duration_ms": 246801,
       "name": "Lerato La Pelo Yame",
       "url": "https://open.spotify.com/track/3UhZQqjGaLfz5VoqeiayvJ"
+    },
+    {
+      "album": {
+        "name": "Leseli",
+        "url": "https://open.spotify.com/album/3e9S79Jl0OPQfaRwZC6tPT"
+      },
+      "artists": [
+        {
+          "name": "Leomile",
+          "url": "https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW"
+        },
+        {
+          "name": "Kekelingo",
+          "url": "https://open.spotify.com/artist/4tNXPWxHHch1TCCXilE1q2"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305888,
+      "name": "Leseli",
+      "url": "https://open.spotify.com/track/002jjd80yTnPGcKpWhGPfO"
     },
     {
       "album": {
@@ -8114,7 +8198,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 265055,
       "name": "Motho waka wa nnete",
       "url": "https://open.spotify.com/track/4rXyZdalTuvWAZchcESHfd"
@@ -9311,6 +9395,32 @@
     },
     {
       "album": {
+        "name": "Ingubo Enamehlo",
+        "url": "https://open.spotify.com/album/7rDjJORik07hthFqur21aL"
+      },
+      "artists": [
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "L.vow",
+          "url": "https://open.spotify.com/artist/31unB0m4XXl0ErePJkao2T"
+        },
+        {
+          "name": "Ovuyonke",
+          "url": "https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Ngonyiwe",
+      "url": "https://open.spotify.com/track/6vU4S43jZjWcHHTh0VI0nj"
+    },
+    {
+      "album": {
         "name": "Ngthathe",
         "url": "https://open.spotify.com/album/4whjsnrucpJJUOs0UIvviT"
       },
@@ -10488,6 +10598,24 @@
       "duration_ms": 304039,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/20hoZcmu5L51NhHi7JAr9f"
+    },
+    {
+      "album": {
+        "name": "priceless possession",
+        "url": "https://open.spotify.com/album/0PsQKjpFjIiX5u41QNLaNQ"
+      },
+      "artists": [
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270016,
+      "name": "priceless possession",
+      "url": "https://open.spotify.com/track/71yGqtIoxBLkcuIxQAB8r1"
     },
     {
       "album": {

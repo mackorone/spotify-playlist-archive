@@ -2,7 +2,7 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Wiktoria Kida
+> Najlepsze polskie piosenki na czasie\. Cover: Maciej Skiba
 
 575 songs - 1 day 4 hr 1 min
 

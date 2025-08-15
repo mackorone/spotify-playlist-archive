@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-109 songs - 5 hr 51 min
+111 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Burned out](https://open.spotify.com/track/2BeiC0SEmQ91m0kSCbG8s2) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/0Sn3xiwF8oyjTvZsvR1ekM) | 3:06 | 2023-11-09 | 2024-04-19 |
 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 | 2023-11-09 |  |
 | [CCTV](https://open.spotify.com/track/7abn4PohR1BrcqjYgPQxkg) | [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me the Money 8 Episode 3](https://open.spotify.com/album/7DtSNR96NQXIumEOWMnPM7) | 3:11 | 2023-11-09 |  |
+| [day off](https://open.spotify.com/track/26F7czXceIFiTw3j0qXrXK) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.0](https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf) | 3:13 | 2025-08-14 |  |
 | [Daydrinking](https://open.spotify.com/track/2Zw8rlCM3tEWGl2ZlSpTeJ) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z) | [Daydrinking](https://open.spotify.com/album/1LzTssDA9JdPiqUgO21lDV) | 3:13 | 2025-04-23 |  |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-11-09 |  |
 | [Deviation](https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Purple Heart](https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS) | 4:02 | 2025-06-25 |  |
@@ -113,6 +114,7 @@
 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 | 2025-04-08 |  |
 | [똑같아](https://open.spotify.com/track/3QbF4n57Nhu59aYP8PASRv) | [성운](https://open.spotify.com/artist/3X3gXfx207dFNZcyE2zJvt) | [똑같아](https://open.spotify.com/album/3Yw4AW7NXkquOZS8tKVbdk) | 4:31 | 2025-07-23 |  |
 | [설명하기 귀찮은 밤](https://open.spotify.com/track/34NbLGushBGKom3ifJYNiP) | [Frankie Summer](https://open.spotify.com/artist/3uTI0eDlNwwnQKj2gnleTf) | [설명하기 귀찮은 밤](https://open.spotify.com/album/4rhYsEfByflKLrZwNxsRM9) | 4:27 | 2025-06-04 |  |
+| [아무것도 안 하고 싶다 I don't wanna do anything](https://open.spotify.com/track/6UJEtBT9wPkZ0fFeRqUN2e) | [SUNGJIN](https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC) | [30](https://open.spotify.com/album/65B9PeoRbBTQwBTtGrWHJT) | 4:04 | 2025-08-14 |  |
 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 | 2025-04-08 |  |
 | [집에 가자](https://open.spotify.com/track/3X9sF773dNepwR2E08HWzJ) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Stairs](https://open.spotify.com/album/5NegqDbGVQWj9H4Nn6bh1k) | 3:53 | 2025-04-16 |  |
 | [집콕](https://open.spotify.com/track/13Uc2oj4Tbzo3WT4ESAZ1b) | [406 Project](https://open.spotify.com/artist/3bXpLpVdhS8IBPYk5mNg6n) | [Stage](https://open.spotify.com/album/0CwkRRIj7uV2cVaXufndNN) | 2:39 | 2025-06-04 |  |

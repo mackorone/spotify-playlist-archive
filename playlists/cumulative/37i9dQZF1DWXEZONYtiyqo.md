@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Nicole Cherry
+> Cele mai noi hituri pop românești\. Cover: Tosh, The Motans
 
-295 songs - 13 hr 56 min
+297 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 | 2024-06-27 | 2024-11-22 |
 | [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 | 2025-05-08 |  |
 | [Ai greșit](https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua) | [Andreea Banica](https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Ai greșit](https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg) | 3:05 | 2024-08-22 | 2024-11-08 |
-| [AiAiAi](https://open.spotify.com/track/42jtfAI95MlgLh7QcdGdBA) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [AiAiAi](https://open.spotify.com/album/0EoGsbvZX6ttvy191g4sdt) | 2:27 | 2025-07-17 |  |
+| [AiAiAi](https://open.spotify.com/track/42jtfAI95MlgLh7QcdGdBA) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [AiAiAi](https://open.spotify.com/album/0EoGsbvZX6ttvy191g4sdt) | 2:27 | 2025-07-17 | 2025-08-15 |
 | [Alarmă falsă](https://open.spotify.com/track/1WEoUIepliQWyDp2aY0S7L) | [Liviu Teodorescu](https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Alarmă falsă](https://open.spotify.com/album/4WqQP8Rzu8xGQHvdWmmfUy) | 2:15 | 2024-11-07 | 2025-02-28 |
 | [Alchimistul](https://open.spotify.com/track/7D2WfODZho5lLmMN6MgtIl) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Alchimistul](https://open.spotify.com/album/1msF2JTO39BJPj8io9W4e9) | 2:31 | 2024-11-14 | 2025-01-10 |
 | [All’Italiana](https://open.spotify.com/track/4yIiooWtS931UX9peRWdS0) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [All’Italiana](https://open.spotify.com/album/1aLBKBN0Lfro6lZ601xQIk) | 2:27 | 2025-04-04 | 2025-04-25 |
@@ -52,6 +52,7 @@
 | [Bus Station](https://open.spotify.com/track/4SVO6an1H4SfvoHJxf37dl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:25 | 2025-03-27 | 2025-04-25 |
 | [Buzele tale](https://open.spotify.com/track/0kuZXHUFy8ijidzfuKVui4) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Buzele tale](https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT) | 2:44 | 2024-06-27 | 2024-12-06 |
 | [Bădiță](https://open.spotify.com/track/4uZfxonUWm2Rh37xnav9QZ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Bădiță](https://open.spotify.com/album/4yd51OJgSZ7AhYGJyBq837) | 2:17 | 2024-06-27 | 2024-07-05 |
+| [C'est la vie!](https://open.spotify.com/track/1refMgTLrsKcnxRAcBaSQs) | [Thianna](https://open.spotify.com/artist/53N39IfWFDLGSiz7dv9pRT) | [C'est la vie!](https://open.spotify.com/album/17P9Uo4IDJ2riNBDV6A48h) | 2:46 | 2025-08-14 |  |
 | [Casa mea](https://open.spotify.com/track/5FOeHqTo3NdRsrJZKwxwwU) | [RAZI](https://open.spotify.com/artist/0dOwAcgDluJ0CSp5sChAA8), [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B) | [Casa mea](https://open.spotify.com/album/1XZ8UdIzM4t2E0uszvmfcC) | 2:56 | 2024-11-28 | 2024-12-13 |
 | [Ce Ai Tu](https://open.spotify.com/track/2smTp3HLaTaUVG77DrYezY) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Ce Ai Tu](https://open.spotify.com/album/66JpgoE6ae929knJbvymNG) | 2:43 | 2024-06-27 | 2024-07-05 |
 | [Ce bine e](https://open.spotify.com/track/5yVS2Qxsky57IzHvbgc2ps) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Ce bine e](https://open.spotify.com/album/2wb4aK4eaNVyCcyQFytkZ0) | 2:49 | 2024-06-27 | 2024-07-05 |
@@ -88,7 +89,7 @@
 | [De ti me acuerdo](https://open.spotify.com/track/1oiIkU5RqEP44HcsYEp6nw) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Dj Pope](https://open.spotify.com/artist/6v6C3dH5H2SYdvFyhxYLwp) | [De ti me acuerdo](https://open.spotify.com/album/0iP1S2FeHcX9Gqt7umCH6n) | 2:46 | 2025-08-07 |  |
 | [De\-ai fi în locul meu](https://open.spotify.com/track/0W7iBgUGjDNwBntExP0Gam) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [De\-ai fi în locul meu](https://open.spotify.com/album/1aLhlUceMXjCrePnXaMrCp) | 3:13 | 2025-01-23 | 2025-06-13 |
 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 | 2025-04-17 |  |
-| [Delirăm](https://open.spotify.com/track/7HPLQgaWre8eQr4CUqat1A) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Delirăm](https://open.spotify.com/album/0clfOlUgz4BAHaOaIc3fTB) | 2:51 | 2025-07-03 |  |
+| [Delirăm](https://open.spotify.com/track/7HPLQgaWre8eQr4CUqat1A) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV) | [Delirăm](https://open.spotify.com/album/0clfOlUgz4BAHaOaIc3fTB) | 2:51 | 2025-07-03 | 2025-08-15 |
 | [Departe de apus](https://open.spotify.com/track/4LONHXbeR9WLZ0URReIOXc) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Departe de apus](https://open.spotify.com/album/3bdLF226G1O6wkx8M5oggf) | 3:21 | 2024-06-27 | 2024-09-27 |
 | [Dependent](https://open.spotify.com/track/2rWTbsbhU5IGaAQJQoRRD4) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Dependent](https://open.spotify.com/album/6HSzymXNxnNdRONNzhJPlI) | 2:48 | 2025-02-20 | 2025-03-14 |
 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 | 2024-07-04 | 2024-08-09 |
@@ -265,6 +266,7 @@
 | [Să nu uiți cât te\-am iubit](https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Să nu uiți cât te\-am iubit](https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS) | 3:16 | 2025-02-13 | 2025-08-01 |
 | [Să te iubeasca cineva](https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Să te iubeasca cineva](https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8) | 2:59 | 2024-08-22 | 2024-12-13 |
 | [Talk To You Later](https://open.spotify.com/track/21oI1ZMVYeXW2MFhgSjhoK) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Talk To You Later](https://open.spotify.com/album/6FxcMkrFUyQIA5IVwUg6CG) | 2:56 | 2025-07-03 |  |
+| [Tatuaje, Flori](https://open.spotify.com/track/4R0L6Pjw7Ok3KlCEGI7K39) | [Tosh](https://open.spotify.com/artist/5dPsUw1aimwOP4d0shhV6X), [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Tatuaje, Flori](https://open.spotify.com/album/1zFGdX59jEf8BfOPOQXMyc) | 3:00 | 2025-08-14 |  |
 | [Te iubesc](https://open.spotify.com/track/0piOUCKLm4vV5vCXGpJ9lK) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Te iubesc](https://open.spotify.com/album/7vpjIEqKb4cH2vRJe7DYm8) | 2:14 | 2025-04-17 | 2025-06-06 |
 | [TE IUBESC CUM POT](https://open.spotify.com/track/2XSD2EwPOUUHC2sN2NhLMo) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [TE IUBESC CUM POT](https://open.spotify.com/album/3yFMt8QjZkNuAtX3w8MLZi) | 2:16 | 2024-08-08 | 2024-10-11 |
 | [Te lo daria todo](https://open.spotify.com/track/0u87PC5GRBmjtixfgWyzk8) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Canciones del Corazón](https://open.spotify.com/album/2cgTOtTT4pJARi9rpRQpcq) | 3:12 | 2025-06-12 | 2025-07-11 |

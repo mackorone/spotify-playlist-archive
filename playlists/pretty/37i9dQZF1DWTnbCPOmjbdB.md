@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: Wiktoria Kida
+> Najlepsze polskie piosenki na czasie\. Cover: Maciej Skiba
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,253 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,281 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Tańcz](https://open.spotify.com/track/1LOtDHIE9p1ksNQ9iCz6l9) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [Tańcz](https://open.spotify.com/album/7j27d3EbAX0RNdw0hJD8t1) | 2:30 |
 | 60 | [Wszystko co mam](https://open.spotify.com/track/5fxRBVkPLEvibVspAqlvUs) | [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Wszystko co mam](https://open.spotify.com/album/57JaHawAaX7K2tdQmqAFU3) | 2:36 |
 
-Snapshot ID: `AAAAAA5kRdmIgxHoZ2r2xVhM8ECMf411`
+Snapshot ID: `AAAAAOiW/aAb7sRLOqivneOcNy+97B7L`

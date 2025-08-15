@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Hidah Watiri",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Caleb Awiti",
   "name": "NairoBae",
   "tracks": [
     {
@@ -781,6 +781,24 @@
     },
     {
       "album": {
+        "name": "DEATH DO US PART",
+        "url": "https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222280,
+      "name": "DEATH DO US PART",
+      "url": "https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P"
+    },
+    {
+      "album": {
         "name": "Four Letter Word",
         "url": "https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 153253,
       "name": "Fire on Fire",
       "url": "https://open.spotify.com/track/4Tpa5kZ5rxalVF04xvThOo"
@@ -1762,6 +1780,24 @@
       "duration_ms": 252500,
       "name": "Home",
       "url": "https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED"
+    },
+    {
+      "album": {
+        "name": "How Do I Love You?",
+        "url": "https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE"
+      },
+      "artists": [
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229839,
+      "name": "How Do I Love You?",
+      "url": "https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv"
     },
     {
       "album": {
@@ -3502,7 +3538,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 201818,
       "name": "NIRVANA LOVE",
       "url": "https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA"

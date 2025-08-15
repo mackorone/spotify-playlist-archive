@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 187811,
+  "num_followers": 187846,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Althea",
+        "url": "https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 252375,
+      "name": "Althea",
+      "url": "https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "LONER",
         "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 418146,
       "name": "Kingfisher",
       "url": "https://open.spotify.com/track/6Phj3iOnTi0haVX6dPnzoQ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Althea",
-        "url": "https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 252375,
-      "name": "Althea",
-      "url": "https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI"
     },
     {
       "added_at": "2024-07-05 19:49:15",

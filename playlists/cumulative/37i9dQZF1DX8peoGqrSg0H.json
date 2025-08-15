@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BOWKYLION, Jeff Satur",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -404,6 +404,28 @@
       "duration_ms": 210000,
       "name": "Bad Shawty",
       "url": "https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj"
+    },
+    {
+      "album": {
+        "name": "BADLY",
+        "url": "https://open.spotify.com/album/3L7hKLf8saWSccgsuExpqt"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        },
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210526,
+      "name": "BADLY",
+      "url": "https://open.spotify.com/track/4BDW3yQgmhQDLHLvaxzZtd"
     },
     {
       "album": {
@@ -1888,7 +1910,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 238113,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/7pACeDeY7q0eom7sFfiVHy"
@@ -12108,7 +12130,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 207000,
       "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e2b\u0e31\u0e27\u0e43\u0e08 (LOVE ECHO)",
       "url": "https://open.spotify.com/track/4xPzuOR3R6nMejvmgvVsVe"
@@ -13392,6 +13414,24 @@
       "duration_ms": 189830,
       "name": "\u0e44\u0e1b\u0e25\u0e49\u0e2d\u0e40\u0e25\u0e48\u0e19\u0e44\u0e01\u0e25\u0e46 (Not Kidding)",
       "url": "https://open.spotify.com/track/4YbyUda6Zsjk76hDfgH3CP"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e1a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e15\u0e2d\u0e19\u0e44\u0e2b\u0e19 (then when?)",
+        "url": "https://open.spotify.com/album/0klH4EOAJQoMnnQ56hoVpk"
+      },
+      "artists": [
+        {
+          "name": "PONCHET",
+          "url": "https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206700,
+      "name": "\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e1a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e08\u0e30\u0e01\u0e25\u0e31\u0e1a\u0e15\u0e2d\u0e19\u0e44\u0e2b\u0e19 (then when?)",
+      "url": "https://open.spotify.com/track/1EQO6lRDsuZ93nhVAk7B5H"
     },
     {
       "album": {

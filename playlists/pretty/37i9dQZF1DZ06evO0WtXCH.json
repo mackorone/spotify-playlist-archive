@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJqEAAAAAAD175fxopWUvg+oTCLRHhhL",
+  "snapshot_id": "aJvVgAAAAAAN8CExFDGE6MIr0V6xpXri",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 47426,
-      "name": ">",
-      "url": "https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7"
+      "duration_ms": 169400,
+      "name": "Supercollider",
+      "url": "https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 169400,
-      "name": "Supercollider",
-      "url": "https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz"
+      "duration_ms": 47426,
+      "name": ">",
+      "url": "https://open.spotify.com/track/3eEe37Y0ecng4dD8awUnA7"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Fire This Time",
-      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 154600,
       "name": "Free Radio Gainesville",
       "url": "https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Fire This Time",
+      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
     },
     {
       "added_at": null,

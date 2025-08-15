@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=WChcPtqOT\_iJlSWQ1CmdKg">Xolly Mncwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,234 likes - 100 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,317 likes - 100 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Kuyobongwa Nama Qhawe](https://open.spotify.com/track/4lVDugm0rnnF8YIGNX1CAi) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Kuyobongwa Nama Qhawe](https://open.spotify.com/album/2tFS28swMUZ7uQdxEjsHyK) | 5:53 |
 | 100 | [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 |
 
-Snapshot ID: `AAAAAG+HHtHOcuC3zAyLWbQpS8G9jG5B`
+Snapshot ID: `AAAAAFSGr/ZLLpayZAytO7T9JjVzkgts`

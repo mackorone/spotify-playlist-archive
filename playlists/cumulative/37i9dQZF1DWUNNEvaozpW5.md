@@ -2,9 +2,9 @@
 
 ### [Rock Español](https://open.spotify.com/playlist/37i9dQZF1DWUNNEvaozpW5)
 
-> Lo mejor del rock de aquí, como Albertucho con Rulo y la contrabanda.
+> Lo mejor del rock de aquí, como Estopa.
 
-635 songs - 1 day 16 hr 35 min
+637 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 |  |
 | [Aviones plateados \- Versión 2023](https://open.spotify.com/track/3je2TX1tt9e7iXiGByeeie) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Aviones plateados \(Versión 2023\)](https://open.spotify.com/album/1rau5ASyQWSDnATZkjLsAM) | 3:59 | 2023-11-30 | 2023-12-08 |
 | [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 |  |
-| [Años 70](https://open.spotify.com/track/7ds4diw8KS2WddkOrPDgak) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Años 70](https://open.spotify.com/album/2Ex9uQQMChXU0WqqmNyUQQ) | 2:39 | 2025-08-07 |  |
+| [Años 70](https://open.spotify.com/track/7ds4diw8KS2WddkOrPDgak) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [Años 70](https://open.spotify.com/album/2Ex9uQQMChXU0WqqmNyUQQ) | 2:39 | 2025-08-07 | 2025-08-15 |
 | [Años 90](https://open.spotify.com/track/0607jCQHZe4aLSzUQbcKwB) | [Los Piratas](https://open.spotify.com/artist/6qDVOAIlTaSd7HuVtkfce1) | [Inerte EP](https://open.spotify.com/album/68zYAR8IvwYwm4gVMagIyj) | 2:42 | 2025-01-23 | 2025-02-01 |
 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 | 2023-08-17 |  |
 | [Bailemos \- On The Road](https://open.spotify.com/track/0VuqnABiEQSLzVY1N3sm4v) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Entre las dudas y el azar](https://open.spotify.com/album/5expex0cGvBl9uKBs5ZFF3) | 4:12 | 2022-12-08 | 2023-02-03 |
@@ -120,6 +120,7 @@
 | [Creo que me he perdido algo](https://open.spotify.com/track/75DOPnTP5GWEw2Xn9QaCe9) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [Creo que me he perdido algo](https://open.spotify.com/album/0NeBPZBBV8okNyKrn6O8ic) | 4:39 | 2023-02-16 | 2023-03-03 |
 | [Criminal](https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Criminal](https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n) | 2:48 | 2024-06-20 | 2024-10-11 |
 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2023-09-22 |
+| [Cruzando el paraíso \(feat\. Nat Simons\)](https://open.spotify.com/track/1m6YZdJH2Yj9n1Be8N9zux) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Nat Simons](https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn) | [Cruzando el paraíso \(feat\. Nat Simons\)](https://open.spotify.com/album/6vdsaXMARerqmEbXHLmTJK) | 5:02 | 2025-08-14 |  |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 |  |
 | [Cuando Canta El Gallo](https://open.spotify.com/track/6JyB7XLBfYQAyp07Y5wUar) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT) | [El Gallo](https://open.spotify.com/album/5mfgieJL4NXBDAcKotlI7b) | 2:44 | 2023-04-27 | 2023-05-05 |
 | [Cuando Satán vino a verme](https://open.spotify.com/track/04Usmiaxwnz43gRCOoIkuY) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Cuando Satán vino a verme](https://open.spotify.com/album/7wHB19pX2vDcWqajgVYc70) | 3:07 | 2023-05-25 | 2023-06-16 |
@@ -246,7 +247,7 @@
 | [FANTASMAS](https://open.spotify.com/track/7B48jZzGFCgVUDt7cHvQ81) | [Puño Dragón](https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK) | [FANTASMAS](https://open.spotify.com/album/4fw4d6JXCtzj3ZZp9Jdjxz) | 3:20 | 2024-12-19 | 2025-01-04 |
 | [Fantoche Rock](https://open.spotify.com/track/12Tr1KK4I0zMdXzgjl8zoa) | [Les Camisetes](https://open.spotify.com/artist/0NfzJL4JCERuUD6GOqacGl) | [Fantoche Rock](https://open.spotify.com/album/5mhsn6zfTxuveRQaDj4fgz) | 5:34 | 2025-01-09 | 2025-01-17 |
 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 | 2022-05-19 |  |
-| [Feo, fuerte y formal \(feat\. Dani Martín\)](https://open.spotify.com/track/4eNULXk6WZ39Tkhnu07nGF) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Feo, fuerte y formal \(feat\. Dani Martín\)](https://open.spotify.com/album/3wXokuonlB83Gpln6kt6od) | 4:30 | 2025-04-03 |  |
+| [Feo, fuerte y formal \(feat\. Dani Martín\)](https://open.spotify.com/track/4eNULXk6WZ39Tkhnu07nGF) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Feo, fuerte y formal \(feat\. Dani Martín\)](https://open.spotify.com/album/3wXokuonlB83Gpln6kt6od) | 4:30 | 2025-04-03 | 2025-08-15 |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-05-26 |  |
 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 | 2022-05-26 |  |
 | [Flores de estiércol](https://open.spotify.com/track/4C7NxBIpbsLUNZy0lWpGjw) | [Casas y la Pistola](https://open.spotify.com/artist/0XRRf4mGKSrqxda5MXavdp), [Chencho Fernández](https://open.spotify.com/artist/47amZWlp7EeHxiEOeP6zM1) | [Flores de estiércol](https://open.spotify.com/album/37jmp40ij97t8aN6TCCFR4) | 3:12 | 2023-06-22 | 2023-07-07 |
@@ -536,6 +537,7 @@
 | [Si Tú Piensas en Mí](https://open.spotify.com/track/2J9tqG6nPJ4LmcXEFnn1UF) | [Vicky Gastelo](https://open.spotify.com/artist/6oIeX7RcNGYp83pCtlNPqb), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs) | [Si Tú Piensas en Mí](https://open.spotify.com/album/1bwhVhto3erSoGExWt7RhR) | 3:31 | 2022-05-19 | 2022-06-10 |
 | [Siempre te pedí \(feat\. Travis Birds\)](https://open.spotify.com/track/486MV5vHN7v8lCEuAIFcG4) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB) | [Siempre te pedí \(feat\. Travis Birds\)](https://open.spotify.com/album/4TGyBtBsIQChUzbcKGEY8a) | 3:20 | 2022-06-23 | 2022-06-29 |
 | [Siempre Vivos](https://open.spotify.com/track/4Z4fAKHJi0Jearg8WRTf9K) | [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo) | [Al Este del Edén](https://open.spotify.com/album/1aArql4SXnhXYqGxx8Twcq) | 2:55 | 2025-01-23 | 2025-02-01 |
+| [Siete](https://open.spotify.com/track/1InIxWLNN8pyTTLKPRuuDr) | [Querida Margot](https://open.spotify.com/artist/2wsrY5mkLmd0cBhJ4kglox), [Flaco Rodríguez](https://open.spotify.com/artist/0p4LIB926pDKUu8Sb617pH) | [Siete](https://open.spotify.com/album/4Ax3wMayyZh6K0fNJCL15n) | 4:32 | 2025-08-14 |  |
 | [Silencio](https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Silencio](https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH) | 5:25 | 2024-06-06 | 2024-06-28 |
 | [Sin Antifaz \(feat\. Rayden\)](https://open.spotify.com/track/790vlvIwUc0KIb1A3nr79w) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Sin Antifaz \(feat\. Rayden\)](https://open.spotify.com/album/0yOUsQ3o0jq2UwGe6EDw52) | 3:03 | 2023-05-25 | 2023-06-30 |
 | [Sin Solución](https://open.spotify.com/track/5tKWCX8jm8Bms1tCRtgGxz) | [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4) | [Sin Solución](https://open.spotify.com/album/2zSN0KIhi1jO7GM5XyPaJf) | 6:31 | 2022-09-08 | 2023-03-18 |

@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Mattyeux, Videoclub
+> The best French indie tracks right now\. Cover : Odetto
 
-677 songs - 1 day 12 hr 34 min
+678 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Cruise Control](https://open.spotify.com/track/6FRA5jRHUHUirMHgQHItDe) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Cruise Control](https://open.spotify.com/album/1G1fL98A0Qso16gmgO0lP3) | 3:01 | 2024-08-29 | 2024-12-13 |
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv) | 3:18 | 2022-08-25 | 2023-02-17 |
 | [César](https://open.spotify.com/track/3FPohoM2Mzz2dvDdFrx8ip) | [Dalí](https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo) | [César](https://open.spotify.com/album/6Nsx1hSWmCd2IxsvZiHwOn) | 3:00 | 2025-06-05 | 2025-06-13 |
-| [Cœur Maladroit](https://open.spotify.com/track/0fJZ9FM3gT6EBog8tJOwmQ) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Pop de Chambre](https://open.spotify.com/album/2A9FVqNVzA0hdPN2iRuTu3) | 2:39 | 2025-07-10 |  |
+| [Cœur Maladroit](https://open.spotify.com/track/0fJZ9FM3gT6EBog8tJOwmQ) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Pop de Chambre](https://open.spotify.com/album/2A9FVqNVzA0hdPN2iRuTu3) | 2:39 | 2025-07-10 | 2025-08-15 |
 | [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 | 2023-05-04 | 2024-02-02 |
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 | 2025-05-08 |  |
@@ -258,6 +258,7 @@
 | [Honeymoon](https://open.spotify.com/track/3JL428OmCG6TrjaOLqxF5R) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Honeymoon](https://open.spotify.com/album/0z0SNW1HzvqWaX48gUwK6Y) | 4:05 | 2025-02-27 | 2025-04-11 |
 | [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 | 2024-06-28 |
 | [HOPE YOU'LL FIND OUT](https://open.spotify.com/track/3q7Kc3SMI3yBnsfESjvnok) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOPE YOU'LL FIND OUT](https://open.spotify.com/album/4Vg1pFAFqhtUxw26brxhuE) | 3:46 | 2024-01-04 | 2024-03-22 |
+| [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-14 |  |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-02-16 | 2023-03-03 |
 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 | 2023-11-24 |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |

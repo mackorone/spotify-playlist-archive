@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: DYGL",
-  "num_followers": 64218,
+  "num_followers": 64234,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
+        "name": "Pre-logue",
+        "url": "https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "duration_ms": 158804,
+      "name": "Pre-logue",
+      "url": "https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
         "name": "Glow Within",
         "url": "https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 298181,
       "name": "Glow Within",
       "url": "https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "Pre-logue",
-        "url": "https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 158804,
-      "name": "Pre-logue",
-      "url": "https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6"
     },
     {
       "added_at": "2025-08-12 15:00:21",
@@ -1003,6 +1003,42 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
+        "name": "Togetherness Jam",
+        "url": "https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk"
+      },
+      "artists": [
+        {
+          "name": "dawgss",
+          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
+        },
+        {
+          "name": "Naz Yamada",
+          "url": "https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
+        "name": "\u5149\u306e\u8def",
+        "url": "https://open.spotify.com/album/582c8uDijGKHpheqhprwdm"
+      },
+      "artists": [
+        {
+          "name": "\u78a7\u6d77\u7950\u4eba",
+          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
+        }
+      ],
+      "duration_ms": 240018,
+      "name": "\u771f\u73e0\u8272",
+      "url": "https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
         "name": "eeny meeny",
         "url": "https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX"
       },
@@ -1039,54 +1075,18 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
-        "name": "\u5149\u306e\u8def",
-        "url": "https://open.spotify.com/album/582c8uDijGKHpheqhprwdm"
+        "name": "WINDSDAY",
+        "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
       },
       "artists": [
         {
-          "name": "\u78a7\u6d77\u7950\u4eba",
-          "url": "https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 240018,
-      "name": "\u771f\u73e0\u8272",
-      "url": "https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "Togetherness Jam",
-        "url": "https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk"
-      },
-      "artists": [
-        {
-          "name": "dawgss",
-          "url": "https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR"
-        },
-        {
-          "name": "Naz Yamada",
-          "url": "https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Perfection",
-      "url": "https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "MY CHEMICAL ROMANCE",
-        "url": "https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn"
-      },
-      "artists": [
-        {
-          "name": "\u3086\u3046\u3089\u3093\u8239",
-          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
-        }
-      ],
-      "duration_ms": 237711,
-      "name": "\u305f\u3076\u3093\u60aa\u9b54\u304c",
-      "url": "https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS"
+      "duration_ms": 185094,
+      "name": "WINDSDAY",
+      "url": "https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n"
     },
     {
       "added_at": "2025-08-12 15:00:21",
@@ -1107,18 +1107,50 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
-        "name": "WINDSDAY",
-        "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
+        "name": "\u4e0d\u5b8c\u5168\u306a\u50d5\u306e\u58f0\u3068\u541b\u306e\u5b8c\u74a7\u306a\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/73UJZj4EcVKqqiFZZDqQu1"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
         }
       ],
-      "duration_ms": 185094,
-      "name": "WINDSDAY",
-      "url": "https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n"
+      "duration_ms": 194198,
+      "name": "\u4e0d\u5b8c\u5168\u306a\u50d5\u306e\u58f0\u3068\u541b\u306e\u5b8c\u74a7\u306a\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
+        "name": "MY CHEMICAL ROMANCE",
+        "url": "https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3046\u3089\u3093\u8239",
+          "url": "https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm"
+        }
+      ],
+      "duration_ms": 237711,
+      "name": "\u305f\u3076\u3093\u60aa\u9b54\u304c",
+      "url": "https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
+        "name": "\u3044\u3044\u6e6f\u3060\u306a",
+        "url": "https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "\u3044\u3044\u6e6f\u3060\u306a",
+      "url": "https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7"
     },
     {
       "added_at": "2025-08-12 15:00:21",
@@ -1143,6 +1175,22 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
+        "name": "Can we do it again?",
+        "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can we do it again?",
+      "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
         "name": "Supernice (feat. \u30c8\u30ea\u30d7\u30eb\u30d5\u30a1\u30a4\u30e4\u30fc\u5409\u7530)",
         "url": "https://open.spotify.com/album/5cKmc7jOSE0DwoPDiwggm4"
       },
@@ -1163,18 +1211,34 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
-        "name": "\u3044\u3044\u6e6f\u3060\u306a",
-        "url": "https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU"
+        "name": "\u4eba\u751f\u306f\u5931\u6557\u3060\u3063\u305f",
+        "url": "https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS"
       },
       "artists": [
         {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+          "name": "OYAT",
+          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
         }
       ],
-      "duration_ms": 161000,
-      "name": "\u3044\u3044\u6e6f\u3060\u306a",
-      "url": "https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7"
+      "duration_ms": 207739,
+      "name": "\u4eba\u751f\u306f\u5931\u6557\u3060\u3063\u305f",
+      "url": "https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ"
+    },
+    {
+      "added_at": "2025-08-12 15:00:21",
+      "album": {
+        "name": "AWAKE",
+        "url": "https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME"
+      },
+      "artists": [
+        {
+          "name": "downt",
+          "url": "https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv"
     },
     {
       "added_at": "2025-08-12 15:00:21",
@@ -1199,82 +1263,22 @@
     {
       "added_at": "2025-08-12 15:00:21",
       "album": {
-        "name": "\u4e0d\u5b8c\u5168\u306a\u50d5\u306e\u58f0\u3068\u541b\u306e\u5b8c\u74a7\u306a\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/73UJZj4EcVKqqiFZZDqQu1"
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi"
       },
       "artists": [
         {
-          "name": "\u30d5\u30ec\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "\u4e0d\u5b8c\u5168\u306a\u50d5\u306e\u58f0\u3068\u541b\u306e\u5b8c\u74a7\u306a\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "\u4eba\u751f\u306f\u5931\u6557\u3060\u3063\u305f",
-        "url": "https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS"
-      },
-      "artists": [
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
         {
-          "name": "OYAT",
-          "url": "https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh"
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
         }
       ],
-      "duration_ms": 207739,
-      "name": "\u4eba\u751f\u306f\u5931\u6557\u3060\u3063\u305f",
-      "url": "https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "Can we do it again?",
-        "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
-      },
-      "artists": [
-        {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can we do it again?",
-      "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "AWAKE",
-        "url": "https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME"
-      },
-      "artists": [
-        {
-          "name": "downt",
-          "url": "https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "AWAKE",
-      "url": "https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv"
-    },
-    {
-      "added_at": "2025-08-12 15:00:21",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/50Vd83jb4Q90L39y7ANVxX"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/6I4DdTw4emHFtKRga5HX3C"
+      "duration_ms": 262228,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD"
     }
   ],
   "unique_name": "Edge!",

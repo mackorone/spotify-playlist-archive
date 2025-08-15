@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "All of This (Jorja Smith X GuiltyBeatz)",
+        "url": "https://open.spotify.com/album/0Q7QMfuDDS2Pm0OAxaJSPU"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313846,
+      "name": "All of This (Jorja Smith x GuiltyBeatz)",
+      "url": "https://open.spotify.com/track/6u06O02Qv5ZdwD0x9SqEbX"
+    },
+    {
+      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -526,7 +548,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 127680,
       "name": "Lately",
       "url": "https://open.spotify.com/track/2DEUiGcDxB4QpImgydZmTi"

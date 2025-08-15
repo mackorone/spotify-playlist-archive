@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-554 songs - 1 day 7 hr 16 min
+555 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Dueles](https://open.spotify.com/track/1QuGDS0fic3lyKzJhIMX99) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Dueles](https://open.spotify.com/album/4L1MCvgaAeK5Ot0bRjCj4P) | 4:24 | 2022-01-21 | 2022-06-29 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-07 |  |
 | [Echar de Menos](https://open.spotify.com/track/0zDtuIjXWKdLfT6rxqESx1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Echar de Menos](https://open.spotify.com/album/4RCEzY8mKvlYLfkCMBCTiv) | 3:45 | 2025-02-13 |  |
-| [El amor de mi vida](https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [El amor de mi vida](https://open.spotify.com/album/37TWuqqDxiDoIQyjHxBz7a) | 3:29 | 2024-10-25 |  |
+| [El amor de mi vida](https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [El amor de mi vida](https://open.spotify.com/album/37TWuqqDxiDoIQyjHxBz7a) | 3:29 | 2024-10-25 | 2025-08-15 |
 | [El Amor de Mi Vida](https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [El Amor de Mi Vida](https://open.spotify.com/album/58gUcwnLfDnm24H7jXBliQ) | 4:03 | 2022-01-21 | 2022-07-06 |
 | [El Amor De Mi Vida](https://open.spotify.com/track/3nMYIuXBMRMrZjxp7eLOgA) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [La Mary](https://open.spotify.com/artist/77oD0wY2yR0v53K3vjcMZn), [Ulises Piñeyro](https://open.spotify.com/artist/401588jVafLLnM1utmR0Gb) | [El Amor De Mi Vida](https://open.spotify.com/album/6ReApD38Z1LZXKJESAYflU) | 3:06 | 2024-11-15 | 2025-04-05 |
 | [El Campanero/ Costumbres/ Borracho y Amanecido \(Sesión Colombiana \#3\)](https://open.spotify.com/track/5odLnJRWd2dDEOhpPfHbXs) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR) | [El Campanero/ Costumbres/ Borracho y Amanecido \(Sesión Colombiana \#3\)](https://open.spotify.com/album/4yVVDacwwEtIZQHqodfhP4) | 4:39 | 2024-03-01 | 2024-04-13 |
@@ -339,6 +339,7 @@
 | [No Podré Olvidarte](https://open.spotify.com/track/4z6kdL1fD52SlRKNKZA1iX) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [El Color de tu Corazón](https://open.spotify.com/album/1e5EdsdbKNMXUABtXSrD98) | 3:15 | 2022-01-14 | 2022-09-11 |
 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 | 2022-01-14 | 2022-07-29 |
 | [No Quiero Dinero](https://open.spotify.com/track/7ddkLfySvrxyzExSnPp1Jw) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [No Quiero Dinero](https://open.spotify.com/album/51s2yUCDhWFxIjJU5bcpwv) | 3:02 | 2022-06-03 | 2022-08-13 |
+| [No Quiero Perderte](https://open.spotify.com/track/1gCImmVhuYwxt9c5TFYFgm) | [Luz Eluney](https://open.spotify.com/artist/4BnDpIPclX4yzei6j1C1Dr), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [No Quiero Perderte](https://open.spotify.com/album/6ZuV0lrPbE7woRNFOI0yzB) | 3:09 | 2025-08-15 |  |
 | [No Se Va \- En Vivo](https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G) | 2:52 | 2022-10-28 | 2022-11-19 |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [No Te Creas Tan Importante](https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj) | 3:46 | 2024-10-18 | 2024-10-26 |
 | [No Te Olvidare](https://open.spotify.com/track/446WLzUW7xxRSeRuWYAudn) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [No Te Olvidare](https://open.spotify.com/album/0KJYWPNO23a2BuBUR9lOD9) | 3:01 | 2022-03-11 | 2022-06-07 |

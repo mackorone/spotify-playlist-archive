@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "BANDROOM SESSIONS EPISODE 1",
+        "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Alipin",
+      "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
+    },
+    {
+      "album": {
         "name": "Alipin",
         "url": "https://open.spotify.com/album/4AD5QC9YS6u0flPv458gtE"
       },

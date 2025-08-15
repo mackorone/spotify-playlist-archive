@@ -2,7 +2,7 @@
 
 ### [Carnival Sounds](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Carnival prep for wherever you are.
+> Get ready for Notting Hill Carnival 2025\. The vibes start here.
 
 472 songs - 1 day 1 hr 23 min
 

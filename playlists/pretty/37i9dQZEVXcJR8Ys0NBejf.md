@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 
 ### [Discover Weekly \(@catzs\)](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
 
-> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
+> Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 30 songs - 1 hr 33 min
 
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 29 | [Everything We Touch](https://open.spotify.com/track/2apbKPjFefk1JtsENoEGDT) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Lucid Dreaming \(Deluxe Edition\)](https://open.spotify.com/album/2yCHRv9UcB0C2HSWNGmUXo) | 3:49 |
 | 30 | [Worst Behaviour](https://open.spotify.com/track/5oHq9uc3BnKBl1pmvIjJLA) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Have U Seen Her?](https://open.spotify.com/album/6duDuIepi6ZCwgAbBw1BQ1) | 2:41 |
 
-Snapshot ID: `aJlqwAAAAAAXPtH8lz7UFtrzylctnKmB`
+Snapshot ID: `aJlqwAAAAAByLuqtQe3v6dGlexAO2Sn5`

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from , Bunga, Ed Sheeran, keshi, Firdhaus, Jeryl Lee, and more!
+> New music from Andi Bernadee, Conan Gray, Cardi B, 3P, and more!
 
 17,199 songs - 39 day 9 hr 28 min
 

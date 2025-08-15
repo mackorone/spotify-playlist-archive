@@ -2,7 +2,7 @@
 
 ### [Keşif](https://open.spotify.com/playlist/37i9dQZF1DX9EWkqxS1pO0)
 
-> Yeni favori sanatçını keşfet ⚡ Kapak: Encam Potkal
+> Yeni favori sanatçını keşfet ⚡ Kapak: Duru
 
 279 songs - 14 hr 1 min
 

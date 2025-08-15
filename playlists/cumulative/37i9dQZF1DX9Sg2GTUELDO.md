@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 麗英
+> 感受女聲力量。Cover: JACE 陳凱詠
 
-537 songs - 1 day 8 hr 2 min
+541 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2024-06-27 |  |
 | [I Sleep](https://open.spotify.com/track/3jCvUjMqkmRm2Zvx8dcH7l) | [黃心穎](https://open.spotify.com/artist/24FbcOEOUyJ2HtRGxOTZi4) | [I Sleep](https://open.spotify.com/album/1tUVDfBW2ianIvJPK8zLXI) | 4:04 | 2024-06-27 |  |
 | [I tried…](https://open.spotify.com/track/2pzJnD7U4PsgoxekmC4FVG) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [I tried…](https://open.spotify.com/album/28r7fW3baua6CY9BCalrrB) | 2:58 | 2025-02-13 |  |
+| [i wish i could](https://open.spotify.com/track/1PjOMAmUb14E9WGkCVGcMR) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [Based On True Stories](https://open.spotify.com/album/0nvkolp7jXcubRKImPEHML) | 4:01 | 2025-08-14 |  |
 | [I'm all in](https://open.spotify.com/track/6DOQ5xzq3ettktmBvuGKoN) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [I'm all in](https://open.spotify.com/album/1oG32Y9h5eGRJIUhYt8Q96) | 4:40 | 2024-06-27 |  |
 | [I'm Marf\-elous](https://open.spotify.com/track/4S8TjPWXhfFvofEcbHIOLO) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [I'm Marf\-elous](https://open.spotify.com/album/56vIFUndRkDyBnSwIZHQhV) | 2:47 | 2024-06-27 |  |
 | [I'm not 18 or 22](https://open.spotify.com/track/0r7003wUZqwlkPvbkNaPVP) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [I'm not 18 or 22](https://open.spotify.com/album/0hdn5KwP8cucS0pc2IjUo5) | 2:37 | 2025-03-27 |  |
@@ -146,6 +147,7 @@
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [VAL CHO](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 |  |
 | [Red Flag](https://open.spotify.com/track/1wbex2AZ9pwXpaGXsBJvb1) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Red Flag](https://open.spotify.com/album/23KmQS9hwU8uGgV7W69wnS) | 2:52 | 2025-05-01 |  |
 | [Ride It Out](https://open.spotify.com/track/72Gt3dMTL2sQvjzJ9WU5Dn) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Ride It Out](https://open.spotify.com/album/1M0RzGTeOkCoJohtc22lLG) | 3:20 | 2024-06-27 |  |
+| [Riding High](https://open.spotify.com/track/3NMi8BBMZ8mPzfVZPGfGM6) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Riding High](https://open.spotify.com/album/4AjNwfzIwJdYwj9PzPcQAx) | 2:55 | 2025-08-14 |  |
 | [ROAD TRIP](https://open.spotify.com/track/0qSJHU8SGFsrwRljZXtE3E) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [ROAD TRIP](https://open.spotify.com/album/1FobP1HybSdf9EccLZYQO0) | 1:11 | 2024-10-24 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2024-06-27 |  |
 | [Sexy Dangerous](https://open.spotify.com/track/1WSJkeHNwlhRrG1qAO0aCk) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [Sexy Dangerous](https://open.spotify.com/album/3XwX6rgsOzRWPADfuKsyO2) | 3:04 | 2024-06-27 |  |
@@ -271,6 +273,7 @@
 | [反烏托邦三部曲](https://open.spotify.com/track/2m4SorkT8zwRPVlSgQn4RK) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [反烏托邦三部曲](https://open.spotify.com/album/74XFMCPPsfb2EbpgHZjFxw) | 3:13 | 2024-06-27 |  |
 | [只記住你](https://open.spotify.com/track/1G5wuyySO7QZrD8aLIEmBh) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [只記住你](https://open.spotify.com/album/2el5KyUqO9Q8UXNpcg2A09) | 4:17 | 2024-06-27 |  |
 | [叫吧！大笨蛋](https://open.spotify.com/track/7l2PPCcRsmVxQieHbQxxnS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [叫吧！大笨蛋](https://open.spotify.com/album/2CBzzu8gwIol9LX9Cte92Z) | 3:25 | 2025-06-19 |  |
+| [叫吧！大笨蛋（社恐版）](https://open.spotify.com/track/1KuajyTUoY69d7qcAmnITk) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [叫吧！大笨蛋（社恐版）](https://open.spotify.com/album/1QuzyLlLlIkwFW3sysgg9Z) | 2:49 | 2025-08-14 |  |
 | [召喚絲](https://open.spotify.com/track/6LIDiHobyM8cop2efQJfb1) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [召喚絲](https://open.spotify.com/album/3MzUyJuZd9GPKDJtWP5mit) | 2:33 | 2024-06-27 |  |
 | [可惜我們沒有](https://open.spotify.com/track/0QC5Fhykkjc7CSnEg4subE) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [可惜我們沒有](https://open.spotify.com/album/5c5iNfpcuh15u57wdA6cCh) | 4:05 | 2024-10-17 |  |
 | [可愛的東西](https://open.spotify.com/track/4Cb0PkLEaQ4Gt5POqCodi8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [可愛的東西](https://open.spotify.com/album/5tDZuG6gTuxgo0MTVEFKka) | 3:24 | 2024-07-11 |  |
@@ -305,6 +308,7 @@
 | [夢想與夢](https://open.spotify.com/track/2aVETk75kz1k0xh7zxi83q) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX), [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [WE ARE TWINS](https://open.spotify.com/album/3SKJDhMkmIFrE4RQRtiMDS) | 3:11 | 2024-06-27 |  |
 | [大人國](https://open.spotify.com/track/0acD0EP6TtrvhevpY6gqcl) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [大人國](https://open.spotify.com/album/1VQgHauEpOLjkB0ZX1maWb) | 3:29 | 2024-09-05 |  |
 | [大半夜未肯睡](https://open.spotify.com/track/0fucNPeujolYdigae25LyP) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [大半夜未肯睡](https://open.spotify.com/album/0xZ83szptwJfrtcZkIR1Ih) | 4:25 | 2024-06-27 |  |
+| [大車 BIG CARS](https://open.spotify.com/track/2vhGQ3mEOknbY7TkqsW0uB) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [大車 BIG CARS](https://open.spotify.com/album/0ontVjrKGrzEm5CiTGTGLo) | 3:08 | 2025-08-14 |  |
 | [大開眼界](https://open.spotify.com/track/7n75RcZhhR97zJeWnuCqNt) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [大開眼界](https://open.spotify.com/album/7rwqS0ITSHUyEfo4X4a67X) | 3:29 | 2024-06-27 |  |
 | [天下看娃娃](https://open.spotify.com/track/6tjsENHZl0qX3YVRSt1u4l) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 4:16 | 2024-07-11 |  |
 | [天使999%](https://open.spotify.com/track/5gheISXZ452VrOcVnpy69G) | [Helen So 蘇凱倫](https://open.spotify.com/artist/5xlDKh4xnSrMDM35VCGb11) | [天使999%](https://open.spotify.com/album/5sG2VZ8ou6pGukVpWvNnn1) | 2:50 | 2024-06-27 |  |

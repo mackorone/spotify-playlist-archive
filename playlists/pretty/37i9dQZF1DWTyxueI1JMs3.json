@@ -587,6 +587,22 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
+        "name": "Act! Addict! Actors!",
+        "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
+      },
+      "artists": [
+        {
+          "name": "A3ders!",
+          "url": "https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Act! Addict! Actors!",
+      "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
         "name": "A3! First WINTER EP",
         "url": "https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "Act! Addict! Actors!",
-        "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
-      },
-      "artists": [
-        {
-          "name": "A3ders!",
-          "url": "https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Act! Addict! Actors!",
-      "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! VIVID AUTUMN EP",
         "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 261440,
       "name": "\u521d\u604bX",
       "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! Blooming AUTUMN EP",
+        "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -716,13 +732,17 @@
       },
       "artists": [
         {
-          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
+          "name": "\u30f4\u30a9\u30eb\u30d5[\u4f0f\u898b\u81e3(CV:\u718a\u8c37\u5065\u592a\u90ce)]",
+          "url": "https://open.spotify.com/artist/2zUq4WFQ6wzxBZw9KAVjL7"
+        },
+        {
+          "name": "\u30bc\u30ed[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
+          "url": "https://open.spotify.com/artist/1Db3nv4s9FccdwVxOR9zX4"
         }
       ],
-      "duration_ms": 287093,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
+      "duration_ms": 210506,
+      "name": "Just For Myself",
+      "url": "https://open.spotify.com/track/3HzM39Uj7U0FLzLqXOtudU"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -747,26 +767,6 @@
       "duration_ms": 220293,
       "name": "The Contract",
       "url": "https://open.spotify.com/track/5IcQkN0mvtQSl8Txoky4WI"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
-        "name": "A3! Blooming AUTUMN EP",
-        "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
-      },
-      "artists": [
-        {
-          "name": "\u30f4\u30a9\u30eb\u30d5[\u4f0f\u898b\u81e3(CV:\u718a\u8c37\u5065\u592a\u90ce)]",
-          "url": "https://open.spotify.com/artist/2zUq4WFQ6wzxBZw9KAVjL7"
-        },
-        {
-          "name": "\u30bc\u30ed[\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)]",
-          "url": "https://open.spotify.com/artist/1Db3nv4s9FccdwVxOR9zX4"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Just For Myself",
-      "url": "https://open.spotify.com/track/3HzM39Uj7U0FLzLqXOtudU"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -1023,22 +1023,22 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! First SPRING EP",
-        "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
+        "name": "A3! First WINTER EP",
+        "url": "https://open.spotify.com/album/4oahcbvpn3vLFvp97Xk8lH"
       },
       "artists": [
         {
-          "name": "\u30ed\u30df\u30aa[\u4f50\u4e45\u9593\u54b2\u4e5f(CV:\u9152\u4e95\u5e83\u5927)]",
-          "url": "https://open.spotify.com/artist/5YJQGxsCPe8sk9josxunAZ"
+          "name": "\u30df\u30ab\u30a8\u30eb[\u6708\u5ca1\u7d2c(CV:\u7530\u4e38\u7be4\u5fd7)]",
+          "url": "https://open.spotify.com/artist/3WyTjFvzdEmAhFUn8pU0eJ"
         },
         {
-          "name": "\u30b8\u30e5\u30ea\u30a2\u30b9[\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)]",
-          "url": "https://open.spotify.com/artist/6mSbP2I9NQLb2b27KvPzuX"
+          "name": "\u30e9\u30d5\u30a1\u30a8\u30eb[\u9ad8\u9060\u4e1e(CV:\u4f50\u85e4\u62d3\u4e5f)]",
+          "url": "https://open.spotify.com/artist/0dbQzMn6up4woD5xtWExoW"
         }
       ],
-      "duration_ms": 303880,
-      "name": "\u50d5\u3089\u306e\u7d46",
-      "url": "https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU"
+      "duration_ms": 317760,
+      "name": "Don't cry\u2026",
+      "url": "https://open.spotify.com/track/3fapJRiDGKeBOyzTy3nmFz"
     }
   ],
   "unique_name": "A3!",

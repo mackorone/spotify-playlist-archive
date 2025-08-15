@@ -4,13 +4,14 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Ayra Starr
 
-157 songs - 7 hr 28 min
+159 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 0:00 | 2024-11-29 | 2025-05-17 |
 | [](https://open.spotify.com/track/0HpYQ8FvoFZSS3jyl5vFKo) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 0:00 | 2024-11-29 | 2025-05-17 |
 | [42](https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [42](https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2) | 2:55 | 2024-11-29 |  |
+| [Agility](https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF) | [sabrina](https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC) | [Freely](https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp) | 2:30 | 2025-08-15 |  |
 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-11-29 |  |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-14 |  |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-11-29 | 2025-01-31 |
@@ -78,7 +79,7 @@
 | [Lady](https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nollypop](https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT) | 2:09 | 2024-12-16 | 2025-01-22 |
 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 | 2025-03-14 |  |
 | [Like Dat](https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Like Dat](https://open.spotify.com/album/03Jobc9WvFMXQt0J80eOzc) | 2:31 | 2025-05-16 |  |
-| [Live Life](https://open.spotify.com/track/4NzbGHVNyLIkZHEbMFiKkp) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Live Life](https://open.spotify.com/album/1JftrszwVgXopSa9EbxSJL) | 2:03 | 2025-03-28 |  |
+| [Live Life](https://open.spotify.com/track/4NzbGHVNyLIkZHEbMFiKkp) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Live Life](https://open.spotify.com/album/1JftrszwVgXopSa9EbxSJL) | 2:03 | 2025-03-28 | 2025-08-15 |
 | [Lollipop \(feat\. Yemi Alade\)](https://open.spotify.com/track/5DhQIwNA48BPilqvSXW6zm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 2:21 | 2024-12-20 | 2025-08-01 |
 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 | 2025-08-01 |  |
 | [Love Again](https://open.spotify.com/track/116j4xmnoLGfJxaguon4Qw) | [JENZ](https://open.spotify.com/artist/45q5RvRlnolT8pyjJkAx9T), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Love Again](https://open.spotify.com/album/6Op0DivqR48FArtI3DvR9d) | 2:42 | 2025-07-18 | 2025-07-25 |
@@ -88,6 +89,7 @@
 | [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2024-11-29 |  |
 | [Maritha](https://open.spotify.com/track/0ZZEN6PN9CTnxhmZ4Map6k) | [Bwiza](https://open.spotify.com/artist/0KaDWWyzyRd8aRJlPyFQrX) | [25 SHADES](https://open.spotify.com/album/794yUvUkCNvJWKdEAdJVdS) | 3:05 | 2025-05-15 | 2025-07-05 |
 | [MASSOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-05-30 | 2025-06-27 |
+| [Mbali](https://open.spotify.com/track/3nnZWb6mhiPhhyRV2sQv0X) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mbali](https://open.spotify.com/album/414Ob3floRfurHgYHnRqk0) | 2:47 | 2025-08-15 |  |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2025-04-18 |  |
 | [MEGA MONEY MEGA](https://open.spotify.com/track/0GtkFcwZrNVpkPOavG1gfZ) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [MEGA MONEY MEGA](https://open.spotify.com/album/77bphBtAaaTCuM7pkFO7YV) | 2:48 | 2024-12-16 |  |
 | [Melody](https://open.spotify.com/track/3DP8dlv6jF8rM7LfPeFw6z) | [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Samsix](https://open.spotify.com/artist/3fG35Ihxc3Xdk5mEfn09OU) | [Melody](https://open.spotify.com/album/0DM9U41Cm8hV4P7Sza727e) | 2:40 | 2025-07-18 | 2025-08-01 |
@@ -105,7 +107,7 @@
 | [No Games](https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [No Games](https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B) | 2:49 | 2024-11-29 |  |
 | [No Love](https://open.spotify.com/track/1vGvRiSzARAfvfVVcQ4JhX) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Juste un Vendredi](https://open.spotify.com/album/4PEmo8y2wO77HbJniDoAk0) | 3:13 | 2025-03-14 | 2025-07-18 |
 | [No Shakin](https://open.spotify.com/track/2s2FYJhU7KpOSWECdTIV0m) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [Party on the Moon \(Summer Capsule\)](https://open.spotify.com/album/3t7DragG9sadyDUDY5eeBj) | 3:04 | 2025-08-01 |  |
-| [No Stress](https://open.spotify.com/track/1UI9xmeIkIkAJmyzrBmx5o) | [Modola](https://open.spotify.com/artist/3OzjKQYjvevgjnCyWgBFr8) | [New Light](https://open.spotify.com/album/2SnK0jmcuQY2TpdvCfNH7v) | 2:23 | 2025-08-01 |  |
+| [No Stress](https://open.spotify.com/track/1UI9xmeIkIkAJmyzrBmx5o) | [Modola](https://open.spotify.com/artist/3OzjKQYjvevgjnCyWgBFr8) | [New Light](https://open.spotify.com/album/2SnK0jmcuQY2TpdvCfNH7v) | 2:23 | 2025-08-01 | 2025-08-15 |
 | [No Touching](https://open.spotify.com/track/44z2DxLiXMXUz8MVNM5V8u) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [No Touching](https://open.spotify.com/album/2FQ31NoLa34SCId9LpYTso) | 2:41 | 2024-11-29 |  |
 | [Normalize](https://open.spotify.com/track/5ZezTi9duxlzXOGA1kFhMw) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [UnitedMasters Presents: Most Likely](https://open.spotify.com/album/1ZjvJj8toyUxbU9YtoSRr4) | 2:21 | 2025-07-18 |  |
 | [Normally](https://open.spotify.com/track/5FnIzLEHEdnIFdFgg7BwGH) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Normally](https://open.spotify.com/album/6nUEcwfN3v8cLhdXVLdNhb) | 2:36 | 2025-05-30 | 2025-07-05 |

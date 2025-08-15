@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem DUDA BEAT, Diego & Victor Hugo, Luan Pereira, Ed Sheeran e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,129,632 likes - 69 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,129,461 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 44 | [Angelotti](https://open.spotify.com/track/2XiUVzQKxo90I5I8BDHOar) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Angelotti](https://open.spotify.com/album/6Iqt3bMW31XoOcYIarulnp) | 2:41 |
 | 45 | [Vem no talento](https://open.spotify.com/track/7Ii5AdhH3P1oPFT2OnZDKh) | [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ MENOR DA B](https://open.spotify.com/artist/0ChjvMycq7ondgBGyLavMA), [DJ Jhenny](https://open.spotify.com/artist/5hyZTsFHMzJogec6ZtaFV5) | [Vem no talento](https://open.spotify.com/album/22iaq00URINLnYTAMIBYO4) | 2:00 |
 | 46 | [Mulher do chefe](https://open.spotify.com/track/4fqPtyJKjC71qsZWObbQrm) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [DJ Neeh](https://open.spotify.com/artist/2SDYnXWEAiTFyyKyRDy79I) | [Mulher do chefe](https://open.spotify.com/album/7FczBYNPII2su4YdbelP3o) | 1:41 |
-| 47 | [Quica Aqui](https://open.spotify.com/track/5CLh2DO5UjXc4FF201R9fC) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [Quica Aqui](https://open.spotify.com/album/2Rd3xDxVSCZfDxuM4WcXEG) | 1:31 |
+| 47 | [Quica Aqui](https://open.spotify.com/track/5CLh2DO5UjXc4FF201R9fC) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [HITZIN](https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z) | [Quica Aqui](https://open.spotify.com/album/2Rd3xDxVSCZfDxuM4WcXEG) | 1:31 |
 | 48 | [D.D.R 031](https://open.spotify.com/track/3lbUjbx8THI6p7ha7jQnos) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [D.D.R 031](https://open.spotify.com/album/5GPkuCwcC1fsGQnyXOYHRe) | 3:26 |
 | 49 | [Ei Gatona](https://open.spotify.com/track/7C3RDnqJkzu242np2eoTdH) | [Hidvn](https://open.spotify.com/artist/0ySU1cy006mzuLsSmDuQif), [Cjtinha](https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Ei Gatona](https://open.spotify.com/album/3iFamGn8Du0wb6K3v4nDf6) | 2:31 |
 | 50 | [Um Milhão De Problemas](https://open.spotify.com/track/7jydDNDIsmYwFIsadmtZYt) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Um Milhão De Problemas](https://open.spotify.com/album/2R7boPP5W8vYpMIpCGkSOO) | 1:36 |

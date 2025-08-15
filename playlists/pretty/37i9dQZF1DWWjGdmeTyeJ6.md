@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: SHAKING
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,297 likes - 239 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,324 likes - 239 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

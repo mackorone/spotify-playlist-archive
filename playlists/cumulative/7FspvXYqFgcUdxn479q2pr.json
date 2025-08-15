@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: AFROJACK, Martin Garrix, David Guetta, Am\u00e9l",
+  "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Blasterjaxx X Bombs Away X Moji",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -9149,6 +9149,28 @@
     },
     {
       "album": {
+        "name": "Paavsaan",
+        "url": "https://open.spotify.com/album/15gwmA06XGapSsXy1Hid9o"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "The Toxxxic",
+          "url": "https://open.spotify.com/artist/30wZ3ax9NwZtnmAsCciFSg"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Paavsaan",
+      "url": "https://open.spotify.com/track/5ttBGv38NPpXGgQDYSglrL"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
@@ -13190,6 +13212,32 @@
       "duration_ms": 125647,
       "name": "Ziga",
       "url": "https://open.spotify.com/track/5aLjnqttZDNsdBqtVdHtzr"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5jqviMXYlVgU0UUyijJREi"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Bombs Away",
+          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
+        },
+        {
+          "name": "Moji",
+          "url": "https://open.spotify.com/artist/6xVsW7h4SzGxh6iIgaJQm7"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212297,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3PHik6ku45PRKQjgLFWZcF"
     },
     {
       "album": {

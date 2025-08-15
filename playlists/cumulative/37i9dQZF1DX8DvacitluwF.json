@@ -3061,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4vK8Lu2w1zOjc5o2Z7rQ1N"
+      },
+      "artists": [
+        {
+          "name": "Titose",
+          "url": "https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145635,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5rjPr8c86QfcvyJhfFQyAa"
+    },
+    {
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm"
       },
@@ -4630,7 +4648,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 250848,
       "name": "I'm Not Psycho",
       "url": "https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5"

@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Niska au top de la première playlist de rap français.
+> R2 au top de la première playlist de rap français.
 
 351 songs - 17 hr 58 min
 

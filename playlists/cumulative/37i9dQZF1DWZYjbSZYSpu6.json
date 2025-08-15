@@ -3831,6 +3831,28 @@
     },
     {
       "album": {
+        "name": "Sleepless",
+        "url": "https://open.spotify.com/album/2NkLgDGMhZHcYYkEaaK93O"
+      },
+      "artists": [
+        {
+          "name": "DINDIN",
+          "url": "https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z"
+        },
+        {
+          "name": "Hayoung Song",
+          "url": "https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175689,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/2V00oEN3wDfzs932dszmG3"
+    },
+    {
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -4128,7 +4150,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 192013,
       "name": "Start To Shine (feat. Gaeko)",
       "url": "https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ"

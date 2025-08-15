@@ -2,7 +2,7 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Ninajirachi, Bailey Zimmerman, The Kid LAROI, Guy Sebastian, mgk + more!
+> Brand new music from Tobiahs, Olivia Dean, Chase Atlantic, Paul Kelly + more!
 
 9,768 songs - 22 day 2 hr 16 min
 

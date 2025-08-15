@@ -1,13 +1,29 @@
 {
-  "description": "Naya Hip-Hop Hindi! Cover: AFKAP",
-  "num_followers": 14390,
+  "description": "Naya Hip-Hop Hindi! Cover: Dizlaw",
+  "num_followers": 14400,
   "original_name": "New Rap Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACuNix5glOFAJQEZ8qpLM49Aqm0T",
+  "snapshot_id": "AAAAAOk/EOrypqhksANgfCeuDv+JuPCm",
   "tracks": [
+    {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "Andhbhakt",
+        "url": "https://open.spotify.com/album/31VHZFzkJfFvtHzfEpPspy"
+      },
+      "artists": [
+        {
+          "name": "Dizlaw",
+          "url": "https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "Andhbhakt",
+      "url": "https://open.spotify.com/track/0vc11ixH0zEFECb7JmLsA5"
+    },
     {
       "added_at": "2025-08-12 08:19:14",
       "album": {
@@ -29,6 +45,26 @@
       "url": "https://open.spotify.com/track/6OJFFtpGsWQeuUz8Flct02"
     },
     {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "Aai Bo",
+        "url": "https://open.spotify.com/album/0GKhf71sofaR0hxka3m5kC"
+      },
+      "artists": [
+        {
+          "name": "GhAatak",
+          "url": "https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt"
+        },
+        {
+          "name": "Encore ABJ",
+          "url": "https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "Aai Bo",
+      "url": "https://open.spotify.com/track/7GkMlvuPB26HGqi8jfFIUp"
+    },
+    {
       "added_at": "2025-08-12 08:19:14",
       "album": {
         "name": "Resignation Letter",
@@ -47,6 +83,26 @@
       "duration_ms": 193714,
       "name": "Resignation Letter",
       "url": "https://open.spotify.com/track/3J51qnqAWWlktcafMaosxZ"
+    },
+    {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/7FohwIghliG36Wo0ACvcuM"
+      },
+      "artists": [
+        {
+          "name": "Hardbone boy",
+          "url": "https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx"
+        },
+        {
+          "name": "SINASH",
+          "url": "https://open.spotify.com/artist/1NOuodJ2U1hMvKYXFJPw5P"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/6khIvDBic1d3weeALlkLIc"
     },
     {
       "added_at": "2025-08-12 08:19:14",
@@ -73,6 +129,26 @@
       "url": "https://open.spotify.com/track/5xjQ5swF5K1VCq57fckTxQ"
     },
     {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "Sena: Guardians of the Nation (Original Music from the Series)",
+        "url": "https://open.spotify.com/album/0cXfuwE5moIEq0eNio7RIo"
+      },
+      "artists": [
+        {
+          "name": "Raaj Babu",
+          "url": "https://open.spotify.com/artist/0upP3hJOHMqdxmK74O225f"
+        },
+        {
+          "name": "Kartikey Jaiswal",
+          "url": "https://open.spotify.com/artist/4FSpqDVbe1A3VyQYn9RVw2"
+        }
+      ],
+      "duration_ms": 176808,
+      "name": "Sher Ki Dahad",
+      "url": "https://open.spotify.com/track/5hpy5qRQgl9wCYEZZmZfDl"
+    },
+    {
       "added_at": "2025-08-12 08:19:14",
       "album": {
         "name": "MDMY (Money Don't Make You)",
@@ -93,6 +169,26 @@
       "url": "https://open.spotify.com/track/01jU9tB5t6B26Ve7TP9LeI"
     },
     {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "Afsoon",
+        "url": "https://open.spotify.com/album/2VuXZF9eSfASu6ibpiUCyf"
+      },
+      "artists": [
+        {
+          "name": "Lv94",
+          "url": "https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur"
+        },
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Afsoon",
+      "url": "https://open.spotify.com/track/6KgnnanwKfYurvMYLRFjZR"
+    },
+    {
       "added_at": "2025-08-12 08:19:14",
       "album": {
         "name": "Dubai Company",
@@ -107,6 +203,26 @@
       "duration_ms": 189272,
       "name": "Dubai Company",
       "url": "https://open.spotify.com/track/2WPrPbxLa6nmmc57neRHTT"
+    },
+    {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "WASSUP MY G",
+        "url": "https://open.spotify.com/album/558rWuMeHxA0kEXHZKKPvV"
+      },
+      "artists": [
+        {
+          "name": "Loka",
+          "url": "https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu"
+        },
+        {
+          "name": "YUNG DSA",
+          "url": "https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl"
+        }
+      ],
+      "duration_ms": 193019,
+      "name": "WASSUP MY G",
+      "url": "https://open.spotify.com/track/3qCoudyrehb0xDNTwDJPN8"
     },
     {
       "added_at": "2025-08-12 08:19:14",
@@ -131,6 +247,26 @@
       "duration_ms": 182465,
       "name": "Bande Mehfooz",
       "url": "https://open.spotify.com/track/7FwJUFeccTWsNMmaEtAuOP"
+    },
+    {
+      "added_at": "2025-08-15 00:30:14",
+      "album": {
+        "name": "Call Of Duty",
+        "url": "https://open.spotify.com/album/5cMxfC4HuWHC0ea2nShCcS"
+      },
+      "artists": [
+        {
+          "name": "Leo Boys",
+          "url": "https://open.spotify.com/artist/5fuQSav5Q0Kty3ftZORqxd"
+        },
+        {
+          "name": "Rawhit",
+          "url": "https://open.spotify.com/artist/7kgwOK3eQom7HQwkpbRwO9"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Call Of Duty",
+      "url": "https://open.spotify.com/track/6HStfFMIhmpxDa1m5KI9Nf"
     },
     {
       "added_at": "2025-08-12 08:19:14",
@@ -1379,126 +1515,6 @@
       "duration_ms": 171961,
       "name": "UP 16",
       "url": "https://open.spotify.com/track/3ivLdBuUhL8o0fE2ExGpTP"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "Rawas",
-        "url": "https://open.spotify.com/album/5cPcN3LewOCYGkGKZCjFGD"
-      },
-      "artists": [
-        {
-          "name": "Naezy",
-          "url": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Rawas",
-      "url": "https://open.spotify.com/track/3BeDU0ltJ1AnTsx0YLOP2l"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "Chill Pill",
-        "url": "https://open.spotify.com/album/6NqAouZ9aUBPb1TvDso17k"
-      },
-      "artists": [
-        {
-          "name": "GROOVY",
-          "url": "https://open.spotify.com/artist/5XBvBJ1SRxxHaABylRMw5L"
-        }
-      ],
-      "duration_ms": 122782,
-      "name": "Chill Pill",
-      "url": "https://open.spotify.com/track/6fdw8b4CCPaxHKzjoWcVMw"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "Neelay",
-        "url": "https://open.spotify.com/album/5bFYU75fdfUP3b9r1G0xuh"
-      },
-      "artists": [
-        {
-          "name": "Dizlaw",
-          "url": "https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Neelay",
-      "url": "https://open.spotify.com/track/6ZPaQqzRwPcPmsha5bxMwt"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "Time For Myself",
-        "url": "https://open.spotify.com/album/12wsGFJITIbjmozKYAJ67C"
-      },
-      "artists": [
-        {
-          "name": "Young Galib",
-          "url": "https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o"
-        }
-      ],
-      "duration_ms": 219140,
-      "name": "Jabse Tu Aayi",
-      "url": "https://open.spotify.com/track/2laAsPcqNQ3vfkVcyEHbSh"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "HUNT",
-        "url": "https://open.spotify.com/album/6sGOg1pwsDqxbIQFuafSWC"
-      },
-      "artists": [
-        {
-          "name": "2FISTD",
-          "url": "https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs"
-        }
-      ],
-      "duration_ms": 144827,
-      "name": "KRAZY",
-      "url": "https://open.spotify.com/track/798xEZsYMiv5fzxvzuue9O"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "Part Time Rapper",
-        "url": "https://open.spotify.com/album/2RwOn74BHTEAmtGAIcpX4T"
-      },
-      "artists": [
-        {
-          "name": "ODN Beats",
-          "url": "https://open.spotify.com/artist/1aeq3Kv9dR2T8fJhN0ai2H"
-        },
-        {
-          "name": "Blo V",
-          "url": "https://open.spotify.com/artist/1SzBRk8CjQHnDC6mRIthN2"
-        }
-      ],
-      "duration_ms": 198694,
-      "name": "God Knows",
-      "url": "https://open.spotify.com/track/5NJS6qwvv1DCq2OC19ZNJD"
-    },
-    {
-      "added_at": "2025-08-12 08:19:14",
-      "album": {
-        "name": "THE MAN IN THE ARENA",
-        "url": "https://open.spotify.com/album/2cPrOrUEHrhopNT4HdioYB"
-      },
-      "artists": [
-        {
-          "name": "The Siege",
-          "url": "https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z"
-        },
-        {
-          "name": "Devoni\u00e0n",
-          "url": "https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "THE MAN IN THE ARENA",
-      "url": "https://open.spotify.com/track/6R7dZqzbtFeyDWhZ7CgbZH"
     }
   ],
   "unique_name": "New Rap Hindi",

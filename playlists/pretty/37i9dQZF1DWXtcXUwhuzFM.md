@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat KUUMAA, ibe, Ed Sheeran ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,491 likes - 98 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,489 likes - 98 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 97 | [Revival](https://open.spotify.com/track/1QpQQhohcUHcSOypxHW25A) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Revival](https://open.spotify.com/album/0H5tgNn1gfugBLtpjNZyIS) | 3:11 |
 | 98 | [Ay Ley](https://open.spotify.com/track/77yodoxDds1ACD6gEblaBh) | [DJ Roody](https://open.spotify.com/artist/3UI0UmJdHpQkMqgjuOTMYc) | [Ay Ley](https://open.spotify.com/album/681TitSRyHM4jLHM5tERe1) | 2:54 |
 
-Snapshot ID: `AAAAAAwuXXjYJn8BWgYRH1y78H+476fU`
+Snapshot ID: `AAAAALl0R3gweFS7n3ALcIcy7aIL8pB6`

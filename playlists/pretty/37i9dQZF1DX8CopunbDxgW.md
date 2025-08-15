@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> New tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
+> new tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,186 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,095 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Broken Dreams](https://open.spotify.com/track/6jBwae7P8LQKjEvdaddgLU) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi), [Peter and Kerry](https://open.spotify.com/artist/1rF521dtu6ReJEyMureStC) | [Broken Dreams](https://open.spotify.com/album/7ErN0dBIRuQt76VwbXyfK3) | 2:34 |
 | 100 | [Aalto](https://open.spotify.com/track/6sSYTxxoY7l2vVXFwADBWT) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Aalto](https://open.spotify.com/album/5ypNIcRrZrHFsREMTw1B6z) | 3:22 |
 
-Snapshot ID: `AAAAAI+Bnqonu1L6Cjc/VW5O22f1sbmK`
+Snapshot ID: `AAAAAJ1y5O2c4TEIRc4mZny3tbuyPyDr`

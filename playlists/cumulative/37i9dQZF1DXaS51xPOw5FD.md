@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-288 songs - 17 hr 8 min
+289 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [stargirl](https://open.spotify.com/track/5UNuMgcwbiXkCijFvbnHEb) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [stargirl](https://open.spotify.com/album/2ai8IpRfRAqt8DbggSUJ2e) | 2:54 | 2024-09-19 | 2025-05-09 |
 | [Step Into The Rave \(feat\. shadxwgirl\)](https://open.spotify.com/track/02N9lZqNGAXimcros1zSwm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Step Into The Rave \(feat\. shadxwgirl\)](https://open.spotify.com/album/4ubmhjBFf0VaYpbTIrl64b) | 2:40 | 2025-03-06 |  |
 | [Stick Around](https://open.spotify.com/track/6qXb2XLxORRLTXIBa30nHZ) | [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Stick Around](https://open.spotify.com/album/6Q7TozLPNkSJFfMH1GawgN) | 3:10 | 2024-05-24 | 2025-05-09 |
+| [Stronger](https://open.spotify.com/track/6s1VtDd5JdK489f7bNNpIm) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Stronger](https://open.spotify.com/album/49xZUoFrCqdqxN9STJWYbl) | 4:25 | 2025-08-07 |  |
 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 | 2022-08-05 |  |
 | [Summer Sun](https://open.spotify.com/track/31trzaw8jTi9P3ChkMKWU4) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Summer Sun](https://open.spotify.com/album/6lnZT31iC2GgoBswi0aBJF) | 3:00 | 2022-08-05 | 2024-05-10 |
 | [Sun Is Shining](https://open.spotify.com/track/0bhd0kIKArygQxBeH9a6NP) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Sun Is Shining](https://open.spotify.com/album/7yoYU6SkSZU5hymtbAoGa2) | 2:47 | 2024-08-01 |  |
@@ -287,7 +288,7 @@
 | [Watercolour \- Full Version; Single](https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Immersion](https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS) | 5:04 | 2022-08-05 | 2024-09-20 |
 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 | 2022-08-05 | 2025-06-16 |
 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 | 2022-08-05 | 2024-05-20 |
-| [What You Came Here For](https://open.spotify.com/track/2LFuOES0fbFjpfIJpnLCjC) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [What You Came Here For](https://open.spotify.com/album/57mDv1eiouOl2xfQgMceII) | 4:02 | 2025-06-26 |  |
+| [What You Came Here For](https://open.spotify.com/track/2LFuOES0fbFjpfIJpnLCjC) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [What You Came Here For](https://open.spotify.com/album/57mDv1eiouOl2xfQgMceII) | 4:02 | 2025-06-26 | 2025-08-15 |
 | [What You Heard About Me](https://open.spotify.com/track/1ErOaiF4mXvdhb5YQTG6vE) | [Posk](https://open.spotify.com/artist/0Se9VSGYSzcS0QmxztSJxe), [Ekstatic](https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD) | [What You Heard About Me](https://open.spotify.com/album/5AiGxsokv0sJxw1IOYR1pV) | 2:39 | 2024-10-16 | 2025-03-07 |
 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 | 2025-03-06 | 2025-03-30 |
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-05-19 |  |

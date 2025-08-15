@@ -2,7 +2,7 @@
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Cloudy June
+> Neues aus der Welt des Pop\. Cover: Zara Larsson
 
 1,324 songs - 2 day 18 hr 52 min
 

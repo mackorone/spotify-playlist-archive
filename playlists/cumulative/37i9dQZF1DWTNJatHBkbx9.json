@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "brighter days",
+        "url": "https://open.spotify.com/album/32vv2uGF81uF0fBKmEQPzc"
+      },
+      "artists": [
+        {
+          "name": "NATAB",
+          "url": "https://open.spotify.com/artist/5sk7DMYabyF7C12HgIG5QF"
+        },
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250674,
+      "name": "brighter days",
+      "url": "https://open.spotify.com/track/2u4YH1J4WcfxpzRSgQZ2aK"
+    },
+    {
+      "album": {
         "name": "SO WE MADE A TAPE",
         "url": "https://open.spotify.com/album/0TvIfSAal3iru3cED1l0ng"
       },
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 191385,
       "name": "Dumble Face (feat. ALL MY COUSINS)",
       "url": "https://open.spotify.com/track/07ZHmv8B50PHBkMzL370Fm"
@@ -2162,7 +2184,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 174000,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/3RZYDB9PavtJdm6GxoipUT"
@@ -2344,6 +2366,36 @@
       "duration_ms": 256000,
       "name": "More Is More",
       "url": "https://open.spotify.com/track/7dGy7cVTTgS8arFD5lOYvP"
+    },
+    {
+      "album": {
+        "name": "More Time",
+        "url": "https://open.spotify.com/album/2z2trjwcpGSXjzkbJPPz4s"
+      },
+      "artists": [
+        {
+          "name": "Hibachi",
+          "url": "https://open.spotify.com/artist/2aBehvVjAj5U0bu67aLNnZ"
+        },
+        {
+          "name": "Image",
+          "url": "https://open.spotify.com/artist/33Cdz2lkw1q1tR2WaB3RDd"
+        },
+        {
+          "name": "Eldana",
+          "url": "https://open.spotify.com/artist/3a1Bjk09KcxrS4ED8HWpeS"
+        },
+        {
+          "name": "Joeyturks",
+          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149399,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/4gUxMjDY1qsCCVlLAwhwX5"
     },
     {
       "album": {
@@ -2620,6 +2672,24 @@
       "duration_ms": 161927,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK"
+    },
+    {
+      "album": {
+        "name": "I Hope This Helps",
+        "url": "https://open.spotify.com/album/1xjuhv0q5sLxa8wxPBLOTf"
+      },
+      "artists": [
+        {
+          "name": "Queen Drie",
+          "url": "https://open.spotify.com/artist/2fd6STFszzcwxXsr9r36uo"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "Nothing Is the Same",
+      "url": "https://open.spotify.com/track/75Ja3YeQgGPGJKg4vAsuIO"
     },
     {
       "album": {
@@ -3012,7 +3082,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 186122,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1Sq1LKyAnaHjc3OXQ8bq0k"

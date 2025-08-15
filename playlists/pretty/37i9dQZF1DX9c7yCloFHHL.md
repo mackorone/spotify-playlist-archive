@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Passepartout Duo
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,816 likes - 106 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,883 likes - 106 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 39 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 |
 | 40 | [Blue Dragonfly](https://open.spotify.com/track/2HoDCdsBee9WffbDrfhNyG) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:38 |
 | 41 | [Holom 1](https://open.spotify.com/track/25YYeQC6SiTG2UKc93bE6m) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Holom 1](https://open.spotify.com/album/0SQDj5VKvz9eDAhbD6S8lz) | 11:14 |
-| 42 | [savestate](https://open.spotify.com/track/3pIpe4JRGmemKCKEXRnmwP) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [savestate](https://open.spotify.com/album/6kOhJ4wFet30ItorRmTQNJ) | 2:05 |
+| 42 | [savestate](https://open.spotify.com/track/3pIpe4JRGmemKCKEXRnmwP) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [savestate](https://open.spotify.com/album/6kOhJ4wFet30ItorRmTQNJ) | 2:07 |
 | 43 | [Elsewhere](https://open.spotify.com/track/1yzijOE2KQ4Xzqx1xEW9mP) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Openness Trio](https://open.spotify.com/album/3DCn9TV1eddK9j4EKqWo84) | 10:03 |
 | 44 | [stem](https://open.spotify.com/track/2BZYwQG4Wq6OJ4jrJWFSpM) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [stem/curve](https://open.spotify.com/album/0LA0xleiV1U14SQRNgIV8l) | 1:49 |
 | 45 | [And There Was Nowhere](https://open.spotify.com/track/0X7PXB13OWS6Z91eV93og4) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [And There Was Nowhere](https://open.spotify.com/album/0mfE040JKZ7JdQozxyuHDj) | 4:35 |

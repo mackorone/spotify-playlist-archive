@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Birkin Bag",
+        "url": "https://open.spotify.com/album/1othWUXJ69GdYZnw1rjm4m"
+      },
+      "artists": [
+        {
+          "name": "Fouli",
+          "url": "https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120624,
+      "name": "Birkin Bag",
+      "url": "https://open.spotify.com/track/6VST7f42mKi7R80RVn4so1"
+    },
+    {
+      "album": {
         "name": "Black Ops",
         "url": "https://open.spotify.com/album/5NjzqSjhoAgxoN3uNk3YHT"
       },
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 164117,
       "name": "Byens Hold (feat. Noah Carter, KESI & Lamin)",
       "url": "https://open.spotify.com/track/2gZFWmcE98gNuhkeycpB0I"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 201822,
       "name": "GENERATION GAZA",
       "url": "https://open.spotify.com/track/3etIkAcIVS0ZbDkpPSyYUx"
@@ -4302,10 +4320,28 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173333,
       "name": "Kun Os",
       "url": "https://open.spotify.com/track/43iOu7xPRhZdnKXDgCwyz9"
+    },
+    {
+      "album": {
+        "name": "Kvarteret",
+        "url": "https://open.spotify.com/album/3jb7QgGuhsFgrbvgCnxMaq"
+      },
+      "artists": [
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155637,
+      "name": "Kvarteret",
+      "url": "https://open.spotify.com/track/0CmfTEgzf8bxrc6Db3qEkl"
     },
     {
       "album": {
@@ -4864,7 +4900,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 134402,
       "name": "Mama (feat. Fouli)",
       "url": "https://open.spotify.com/track/6Uhm7x6qW5Ec3yrmPvG6Gk"
@@ -6033,6 +6069,24 @@
     },
     {
       "album": {
+        "name": "R\u00f8dt Flag",
+        "url": "https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP"
+      },
+      "artists": [
+        {
+          "name": "Zira",
+          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147739,
+      "name": "R\u00f8dt Flag",
+      "url": "https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC"
+    },
+    {
+      "album": {
         "name": "Safari",
         "url": "https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41"
       },
@@ -6172,6 +6226,28 @@
       "duration_ms": 121967,
       "name": "Settings",
       "url": "https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn"
+    },
+    {
+      "album": {
+        "name": "Showtime",
+        "url": "https://open.spotify.com/album/4oCrBpoXAqUo8hHmdB7ikg"
+      },
+      "artists": [
+        {
+          "name": "Emil Kruse",
+          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
+        },
+        {
+          "name": "OK OK",
+          "url": "https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Showtime",
+      "url": "https://open.spotify.com/track/6nUOeJtgyhDwbBUbzThKkP"
     },
     {
       "album": {
@@ -7392,7 +7468,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 150907,
       "name": "Vamos A La Playa",
       "url": "https://open.spotify.com/track/2PDXHHYidd0ZD87O1I9PXD"
@@ -7656,6 +7732,24 @@
       "duration_ms": 163561,
       "name": "winwin",
       "url": "https://open.spotify.com/track/3luzLKFxbRZbz1Tbz7UMNF"
+    },
+    {
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w"
     },
     {
       "album": {

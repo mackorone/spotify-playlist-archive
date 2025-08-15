@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Venna",
-  "num_followers": 784501,
+  "num_followers": 784527,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1101,6 +1101,38 @@
       "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
+      "added_at": "2024-08-23 06:02:29",
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "added_at": "2025-05-09 17:00:31",
+      "album": {
+        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
+        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
+      },
+      "artists": [
+        {
+          "name": "WESLEYFRANKLIN",
+          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
+        }
+      ],
+      "duration_ms": 266460,
+      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
+      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
+    },
+    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Flowers",
@@ -1121,22 +1153,6 @@
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
     },
     {
-      "added_at": "2025-05-09 17:00:31",
-      "album": {
-        "name": "Feel Like Makin' Love - Spotify Singles (Cover)",
-        "url": "https://open.spotify.com/album/2IEeiGYo0OGK9x27CyLVEA"
-      },
-      "artists": [
-        {
-          "name": "WESLEYFRANKLIN",
-          "url": "https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh"
-        }
-      ],
-      "duration_ms": 266460,
-      "name": "Feel Like Makin' Love - Spotify Singles - Cover",
-      "url": "https://open.spotify.com/track/4Q854c9cytFvuWMgey7CT9"
-    },
-    {
       "added_at": "2025-03-21 16:03:31",
       "album": {
         "name": "Let Me Grow",
@@ -1151,22 +1167,6 @@
       "duration_ms": 215333,
       "name": "Let Me Grow",
       "url": "https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp"
-    },
-    {
-      "added_at": "2024-08-23 06:02:29",
-      "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1349,20 +1349,24 @@
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-02-16 05:22:30",
       "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+        "name": "Let Me Feel Your Charm - Spotify Singles",
+        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
       },
       "artists": [
         {
           "name": "Thee Sacred Souls",
           "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
         }
       ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+      "duration_ms": 162029,
+      "name": "Let Me Feel Your Charm - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1437,24 +1441,20 @@
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
-      "added_at": "2024-02-16 05:22:30",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Let Me Feel Your Charm - Spotify Singles",
-        "url": "https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV"
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
       },
       "artists": [
         {
           "name": "Thee Sacred Souls",
           "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        },
-        {
-          "name": "Jensine Benitez",
-          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
         }
       ],
-      "duration_ms": 162029,
-      "name": "Let Me Feel Your Charm - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq"
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "FEEL SOMETHING",
-        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "FEEL SOMETHING",
-      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
-    },
-    {
       "added_at": "2025-02-28 06:27:22",
       "album": {
         "name": "Hands",
@@ -1665,6 +1649,22 @@
       "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "3rd Shift - A COLORS SHOW",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2025-06-27 04:00:47",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+        "name": "FEEL SOMETHING",
+        "url": "https://open.spotify.com/album/2f6vd2PcjNyMKdePhio5UW"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+      "duration_ms": 152195,
+      "name": "FEEL SOMETHING",
+      "url": "https://open.spotify.com/track/1aw5ELeIspIgEfhEp2OifK"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1745,22 +1745,6 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2024-11-15 07:05:31",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 186259,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
-    },
-    {
       "added_at": "2023-09-08 06:01:16",
       "album": {
         "name": "Come Around and Love Me",
@@ -1775,6 +1759,22 @@
       "duration_ms": 208933,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
+    },
+    {
+      "added_at": "2024-11-15 07:05:31",
+      "album": {
+        "name": "alone",
+        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 186259,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1865,6 +1865,22 @@
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
     },
     {
+      "added_at": "2025-08-01 07:06:10",
+      "album": {
+        "name": "Luxury Lust",
+        "url": "https://open.spotify.com/album/4BixnUqA20DOiRQCZv787z"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 186336,
+      "name": "Luxury Lust",
+      "url": "https://open.spotify.com/track/5kCZR0KIMyuhxC3niRFGEg"
+    },
+    {
       "added_at": "2025-01-17 07:25:43",
       "album": {
         "name": "Violet",
@@ -1897,22 +1913,6 @@
       "url": "https://open.spotify.com/track/1UVJBB4QLQ6Wpuvtzp54YW"
     },
     {
-      "added_at": "2025-08-01 07:06:10",
-      "album": {
-        "name": "Luxury Lust",
-        "url": "https://open.spotify.com/album/4BixnUqA20DOiRQCZv787z"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 186336,
-      "name": "Luxury Lust",
-      "url": "https://open.spotify.com/track/5kCZR0KIMyuhxC3niRFGEg"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "EL-MEAN",
@@ -1929,22 +1929,6 @@
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Simply Beautiful",
-        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Simply Beautiful",
-      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
-    },
-    {
       "added_at": "2025-03-07 05:51:28",
       "album": {
         "name": "Entries",
@@ -1959,6 +1943,22 @@
       "duration_ms": 117985,
       "name": "IDK",
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Simply Beautiful",
+        "url": "https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Simply Beautiful",
+      "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
       "added_at": "2024-05-17 07:14:12",
@@ -2061,22 +2061,6 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
-      "added_at": "2025-06-06 06:28:23",
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 273132,
-      "name": "More Than Twice",
-      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
-    },
-    {
       "added_at": "2025-04-25 07:19:25",
       "album": {
         "name": "Why Not More?",
@@ -2091,6 +2075,22 @@
       "duration_ms": 138476,
       "name": "Other Side Of Love",
       "url": "https://open.spotify.com/track/7f7SdH5BDHcN7gtlzKBNQl"
+    },
+    {
+      "added_at": "2025-06-06 06:28:23",
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 273132,
+      "name": "More Than Twice",
+      "url": "https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2365,10 +2365,10 @@
       "url": "https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z"
     },
     {
-      "added_at": "2025-01-17 07:25:43",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Acts of Faith",
-        "url": "https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU"
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
       },
       "artists": [
         {
@@ -2376,9 +2376,9 @@
           "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 181813,
-      "name": "Someone to Love You",
-      "url": "https://open.spotify.com/track/029DgHoyQFzA8gGvNOha3U"
+      "duration_ms": 331177,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/6F4MydgbaNkseNu5quueaF"
     },
     {
       "added_at": "2022-10-28 07:50:50",
@@ -2421,22 +2421,6 @@
       "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
     },
     {
-      "added_at": "2025-05-30 05:12:56",
-      "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/5kwFkDit4r3He4ucO6Sppg"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Letting Go",
-      "url": "https://open.spotify.com/track/2yGbrqOfY9taaNTOw30G0b"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2461,6 +2445,42 @@
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
+      "added_at": "2025-05-30 05:12:56",
+      "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/5kwFkDit4r3He4ucO6Sppg"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Letting Go",
+      "url": "https://open.spotify.com/track/2yGbrqOfY9taaNTOw30G0b"
+    },
+    {
+      "added_at": "2024-08-30 05:27:28",
+      "album": {
+        "name": "Beautiful Pain",
+        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        },
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 311038,
+      "name": "Bedroom Bully",
+      "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
+    },
+    {
       "added_at": "2025-05-16 04:52:04",
       "album": {
         "name": "If I Ain't Got You (Tank's Version)",
@@ -2483,26 +2503,6 @@
       "duration_ms": 244089,
       "name": "If I Ain't Got You (Tank's Version)",
       "url": "https://open.spotify.com/track/4M8r5a71WLt8qpoWZE4597"
-    },
-    {
-      "added_at": "2024-08-30 05:27:28",
-      "album": {
-        "name": "Beautiful Pain",
-        "url": "https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        },
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 311038,
-      "name": "Bedroom Bully",
-      "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
       "added_at": "2025-01-31 08:39:29",
@@ -2541,6 +2541,22 @@
       "url": "https://open.spotify.com/track/4hmmx1yd7U5LKmU8jkrzuV"
     },
     {
+      "added_at": "2025-05-09 17:00:31",
+      "album": {
+        "name": "Girl - Spotify Singles",
+        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 316339,
+      "name": "Girl - Spotify Singles",
+      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "SUBMISSIVE",
@@ -2555,26 +2571,6 @@
       "duration_ms": 146250,
       "name": "LOW TIDE",
       "url": "https://open.spotify.com/track/57RooQ9JBP9uDXHe4zznY4"
-    },
-    {
-      "added_at": "2025-07-11 06:58:22",
-      "album": {
-        "name": "Make It Hot (feat. Eryn Allen Kane) [from \"The Pickup\"]",
-        "url": "https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Make It Hot (feat. Eryn Allen Kane) - from \"The Pickup\"",
-      "url": "https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn"
     },
     {
       "added_at": "2025-07-25 09:47:40",
@@ -2597,20 +2593,24 @@
       "url": "https://open.spotify.com/track/3fWFpIGeEWYgrwV1peKywx"
     },
     {
-      "added_at": "2025-05-09 17:00:31",
+      "added_at": "2025-07-11 06:58:22",
       "album": {
-        "name": "Girl - Spotify Singles",
-        "url": "https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9"
+        "name": "Make It Hot (feat. Eryn Allen Kane) [from \"The Pickup\"]",
+        "url": "https://open.spotify.com/album/7bTreLtLjeZyMt1gePo4y4"
       },
       "artists": [
         {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 316339,
-      "name": "Girl - Spotify Singles",
-      "url": "https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq"
+      "duration_ms": 259500,
+      "name": "Make It Hot (feat. Eryn Allen Kane) - from \"The Pickup\"",
+      "url": "https://open.spotify.com/track/6xbbXuX8196SAinbEZ3ESn"
     },
     {
       "added_at": "2025-01-31 09:13:32",

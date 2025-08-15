@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> 🔥🔥🔥🔥🔥 / Foto: Myke Towers, LUDMILLA
+> 1 eh pouco 2 eh bom 3 eh demais🫦  / Foto: Jonas Brothers
 
 484 songs - 1 day 1 hr 47 min
 

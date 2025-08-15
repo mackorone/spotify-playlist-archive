@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  cover: PAOLO SANTO",
+  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  ANNA in cover",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 150714,
       "name": "Amori Disperati",
       "url": "https://open.spotify.com/track/5VUEsDCUuCaaKHRxb7LrN5"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 147587,
       "name": "Anche Se Ti Amo (con Frah Quintale, nayt & prima stanza a destra)",
       "url": "https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 250250,
       "name": "Attico",
       "url": "https://open.spotify.com/track/3OVPO8ay0u8f3mJdD0Scfz"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 165701,
       "name": "BELLAVISTA",
       "url": "https://open.spotify.com/track/37gXtQMnvVKEFV3jDBE6av"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 161241,
       "name": "BOILER ROOM (What Is Love) [feat. Nashley]",
       "url": "https://open.spotify.com/track/2EvmooUcliGMajcRtw8jRK"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 186964,
       "name": "Collirio",
       "url": "https://open.spotify.com/track/09BP5HR8iQdhRDWQuTBBs3"
@@ -3707,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Dentro un altro film",
+        "url": "https://open.spotify.com/album/6IW1LC4poBoBOah9clUAlt"
+      },
+      "artists": [
+        {
+          "name": "KISME",
+          "url": "https://open.spotify.com/artist/4Q43UcD41lfyVsZ7oh4Q1a"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154703,
+      "name": "Dentro un altro film",
+      "url": "https://open.spotify.com/track/7HoX3x1NFugzHnCagj0XKb"
+    },
+    {
+      "album": {
         "name": "Depresso fortunato",
         "url": "https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD"
       },
@@ -3892,7 +3910,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 181985,
       "name": "disperata giovent\u00f9",
       "url": "https://open.spotify.com/track/3WGRsbvjeO27iqJPMGeuIq"
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 127016,
       "name": "Gelosissima",
       "url": "https://open.spotify.com/track/4zkGZ4utSxlzdDEYh8LOqm"
@@ -6540,7 +6558,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 176056,
       "name": "INFERNO E FERNET",
       "url": "https://open.spotify.com/track/09RCUC6xoVJZefKxL1Y9DG"
@@ -9372,7 +9390,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 182142,
       "name": "nomade",
       "url": "https://open.spotify.com/track/3XH7b9f1Q55kZz2ob3dlTU"
@@ -9700,7 +9718,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 181940,
       "name": "NOTTATACCIA",
       "url": "https://open.spotify.com/track/1sao7WsS9JKcGGwwEhvXAH"
@@ -10536,7 +10554,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 265064,
       "name": "Perdono",
       "url": "https://open.spotify.com/track/2NGIdB7mPVetCIVaG0mLwx"
@@ -11446,7 +11464,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 171692,
       "name": "RESPIRO",
       "url": "https://open.spotify.com/track/40k5DDJ6MCmjB58rz4Na5y"
@@ -13840,7 +13858,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 137260,
       "name": "TTXTE",
       "url": "https://open.spotify.com/track/56UWbNlndkszMWEkgQVKsh"
@@ -14204,7 +14222,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 145264,
       "name": "Una Finale",
       "url": "https://open.spotify.com/track/70CQKGlTaI4tPh2ajQnfVA"
@@ -14700,7 +14718,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 130500,
       "name": "Would you love me",
       "url": "https://open.spotify.com/track/1e806Hat5LfLplONzEsfXE"

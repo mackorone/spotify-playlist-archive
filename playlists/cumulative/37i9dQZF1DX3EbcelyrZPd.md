@@ -2,7 +2,7 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Mocco Genius
+> Get your fill of vibes straight out of Tanzania\. Cover: Jux
 
 575 songs - 1 day 8 hr 55 min
 

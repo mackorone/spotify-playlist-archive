@@ -2,7 +2,7 @@
 
 ### [Futurs Hits](https://open.spotify.com/playlist/37i9dQZF1DWUI9wBgUr4BH)
 
-> Les hits de demain sont déjà ici\. Photo : GIMS
+> Les hits de demain sont déjà ici\. Photo : Sabrina Carpenter
 
 657 songs - 1 day 8 hr 43 min
 

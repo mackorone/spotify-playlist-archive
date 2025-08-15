@@ -4,7 +4,7 @@
 
 > When a heartbroken New Yorker moves to London hoping for a love story, she falls for an indie musician who's anything but the typical romantic hero\. Now streaming on Netflix.
 
-54 songs - 3 hr 23 min
+55 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Girls](https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s) | 1:59 | 2025-07-10 |  |
 | [Greek Tragedy](https://open.spotify.com/track/1tTV7mRV9uB2Nr9VcwkuFX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/0XOseclZGO4NnaBz5Shjxp) | 3:29 | 2025-07-10 |  |
 | [Green Girl](https://open.spotify.com/track/2ZfuPQjkIfwChbeqoemBg3) | [Misty Miller](https://open.spotify.com/artist/2O4XS2arv9HMIKQUfl8LKU) | [Too Much \(Music from the Netflix Series\)](https://open.spotify.com/album/5v9FRNnfAk3giCh82E4law) | 2:36 | 2025-07-14 |  |
+| [Hospital](https://open.spotify.com/track/56daI9Dd5ChxnnXUYYXIw8) | [Tellison](https://open.spotify.com/artist/0lH9bacJzoLfY0tP60h6ko) | [Contact! Contact!](https://open.spotify.com/album/6eoLEZ3hvPH3lGN0M5MAFI) | 4:01 | 2025-08-14 |  |
 | [Human](https://open.spotify.com/track/3OghPWATJaeXdqzY3dWObs) | [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d) | [Karaoke Angel](https://open.spotify.com/album/1Opfuj0oYN81Y5btwJfkzv) | 3:54 | 2025-07-10 |  |
 | [I Want To See The Bright Lights Tonight](https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5) | [Richard & Linda Thompson](https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5) | [I Want To See The Bright Lights Tonight](https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt) | 3:09 | 2025-07-10 |  |
 | [In Spite of Ourselves](https://open.spotify.com/track/1pLGpvNjHWRa5byMjnEc7L) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Welfare Jazz](https://open.spotify.com/album/4j9nZJXO7p8YGkyxIauRjL) | 5:03 | 2025-07-10 |  |

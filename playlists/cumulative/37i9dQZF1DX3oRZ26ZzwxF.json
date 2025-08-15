@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : L'Oiseau Rare",
+  "description": "Le meilleur du rap africain francophone. Photo : Black K x Fior 2 Bior",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 182971,
       "name": "ALI BABA",
       "url": "https://open.spotify.com/track/1LrKLKC7U5VD9eCyaSAuoZ"
@@ -591,6 +591,24 @@
     },
     {
       "album": {
+        "name": "DD",
+        "url": "https://open.spotify.com/album/7lOGhoBQ4XvmhbjpY6vdiA"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165483,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/0R8joRAs4i3zmiPDPReOJL"
+    },
+    {
+      "album": {
         "name": "De m\u00eame",
         "url": "https://open.spotify.com/album/1HJ97btLRjK0xnAoVJWCGm"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 170963,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/0RfguYMK0cAOAZA7NGm9TF"
@@ -952,6 +970,24 @@
       "duration_ms": 178285,
       "name": "Freestyle Drill Ivoire 5",
       "url": "https://open.spotify.com/track/7s4CozYm2NWqEq9EctW7wR"
+    },
+    {
+      "album": {
+        "name": "Freestyle Kordial II",
+        "url": "https://open.spotify.com/album/3VUa9yULQNNi5RjFAYnyNF"
+      },
+      "artists": [
+        {
+          "name": "Kadja",
+          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156241,
+      "name": "Freestyle Kordial II",
+      "url": "https://open.spotify.com/track/3fcqEDDvFeTznK6ZzWWfyV"
     },
     {
       "album": {
@@ -1271,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "BBS",
+        "url": "https://open.spotify.com/album/4wmIHBe8CZxmoMdGGZlXgp"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98417,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/5J8w2UbHMo8cEyCReFxTUA"
+    },
+    {
+      "album": {
         "name": "Invictus",
         "url": "https://open.spotify.com/album/5Stk1SFLqNGuZJnLGMaF3X"
       },
@@ -1380,7 +1434,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 132713,
       "name": "MOUMENT",
       "url": "https://open.spotify.com/track/0PtVvvQQcRQyWvwbtCgVC0"
@@ -1914,7 +1968,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 160500,
       "name": "TU CONNAIS",
       "url": "https://open.spotify.com/track/5bNJziQhp4Ywlci2pZcpW3"
@@ -1954,10 +2008,32 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173333,
       "name": "Tu Dis Quoi",
       "url": "https://open.spotify.com/track/1QVOd9Pf0lPfiNmSmCYjCX"
+    },
+    {
+      "album": {
+        "name": "Tu veux g\u00e2ter",
+        "url": "https://open.spotify.com/album/6H2EU627UPpDKQsQHDLoZ1"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Tu veux g\u00e2ter",
+      "url": "https://open.spotify.com/track/17cP2WW8NLGlvVxYCsIC7X"
     },
     {
       "album": {

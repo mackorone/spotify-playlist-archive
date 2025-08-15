@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With STYXVII, Joshua Lanuarii, UrvTek and more",
+  "description": "With UrvTek, Joshua Lanuarii, STYXVII and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 132887,
       "name": "Animalistic",
       "url": "https://open.spotify.com/track/2rxZdTGQD10IJU0iMeTMtr"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 224125,
       "name": "CHOKING!!!",
       "url": "https://open.spotify.com/track/3hEqkwt2WjiKYMBtei76Yz"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 132359,
       "name": "destruction",
       "url": "https://open.spotify.com/track/6IP1eZ0wac2kgEKPDDH3Ro"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 181130,
       "name": "Directions",
       "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 97430,
       "name": "EDGE PLAY - theSpackster Remix",
       "url": "https://open.spotify.com/track/2LslfETQSqe0qHEkGgJuSi"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 177679,
       "name": "Fox Paws",
       "url": "https://open.spotify.com/track/7tiPt81dGVuX14yNVe8cvT"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "HOW TO FORGET YOU (destroy you)",
       "url": "https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "i'm all dressed up for u",
+        "url": "https://open.spotify.com/album/6MCbfaO7y99xX9cl4kPjzv"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "i'm all dressed up for u",
+      "url": "https://open.spotify.com/track/0qpHtcIISk8hn8t8gya1Me"
+    },
+    {
+      "album": {
         "name": "Heart After Dark",
         "url": "https://open.spotify.com/album/2I0VYlIm2Ilkojw3maV72G"
       },
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 133114,
       "name": "ICE CREAM PARTY",
       "url": "https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn"
@@ -1987,6 +2005,32 @@
     },
     {
       "album": {
+        "name": "SLANEY VS SODASTEAL",
+        "url": "https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd"
+      },
+      "artists": [
+        {
+          "name": "Operation Sodasteal",
+          "url": "https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6"
+        },
+        {
+          "name": "Kaj Strife",
+          "url": "https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w"
+        },
+        {
+          "name": "slaneyinfamous",
+          "url": "https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164746,
+      "name": "KILL YOURSELF",
+      "url": "https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw"
+    },
+    {
+      "album": {
         "name": "KISS ME!",
         "url": "https://open.spotify.com/album/0MjhodGE6inzZVxfOkWzfl"
       },
@@ -2064,7 +2108,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 173947,
       "name": "lemonade",
       "url": "https://open.spotify.com/track/7uWPcxNE6mdtDzKR9hinlN"
@@ -2194,7 +2238,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 169662,
       "name": "losercore",
       "url": "https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n"
@@ -2278,7 +2322,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 130664,
       "name": "manic euphoria",
       "url": "https://open.spotify.com/track/3eacGwUh9HtdoyiMAeRse8"
@@ -2484,7 +2528,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "my teeth will free you",
       "url": "https://open.spotify.com/track/0c7ZCKYxiFa9sedoVxV195"
@@ -2730,7 +2774,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 149838,
       "name": "Otherkin",
       "url": "https://open.spotify.com/track/0BhB4cMRHJgktbwe38gxjq"
@@ -3008,7 +3052,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 85500,
       "name": "PUPPY TF",
       "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
@@ -3030,6 +3074,24 @@
       "duration_ms": 160733,
       "name": "rainbowz x3!!!",
       "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
+    },
+    {
+      "album": {
+        "name": "RAWR!! IM A DINOSAUR!! X3",
+        "url": "https://open.spotify.com/album/4uoaPdxZ4MF1bNj3xa5d9O"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170482,
+      "name": "RAWR!! IM A DINOSAUR!! X3",
+      "url": "https://open.spotify.com/track/0xKIksuVyyyhehIBqSH7I8"
     },
     {
       "album": {
@@ -3120,7 +3182,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -3210,7 +3272,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 105000,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/1MniCshySWjTHcKkUo863V"
@@ -3684,6 +3746,24 @@
       "duration_ms": 60312,
       "name": "u are my favorite!",
       "url": "https://open.spotify.com/track/2gMldmMX52M9PdkGnKMtaB"
+    },
+    {
+      "album": {
+        "name": "u stole my heart!",
+        "url": "https://open.spotify.com/album/0QbT4Poo96WXWaYTZi3bue"
+      },
+      "artists": [
+        {
+          "name": "SPARKLEWOLF RADIO",
+          "url": "https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "u stole my heart!",
+      "url": "https://open.spotify.com/track/2x6I6oABhRrKI5kTCAKkyv"
     },
     {
       "album": {

@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Anjos",
+        "url": "https://open.spotify.com/album/44jNjJjHcOQxyIoZERLm4d"
+      },
+      "artists": [
+        {
+          "name": "Amor Perdido",
+          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130199,
+      "name": "Anjos",
+      "url": "https://open.spotify.com/track/4CBaW78g5v8JSKlL8vCQ0U"
+    },
+    {
+      "album": {
         "name": "Anos 90",
         "url": "https://open.spotify.com/album/3Wh3pWc5yYWpy5JerOiP8T"
       },
@@ -1700,6 +1718,24 @@
       "duration_ms": 209290,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/7F8XNJe7D9qo53ee9GPlOQ"
+    },
+    {
+      "album": {
+        "name": "Devia ter-te tra\u00eddo",
+        "url": "https://open.spotify.com/album/3OpgV1IE8F8vkjLMHAjtPJ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174030,
+      "name": "Devia ter-te tra\u00eddo",
+      "url": "https://open.spotify.com/track/3RNYR0QH08mHepukqQ7kLZ"
     },
     {
       "album": {
@@ -5316,7 +5352,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 216524,
       "name": "Tanta Pena",
       "url": "https://open.spotify.com/track/7mUs8RjGaraHXBS07nZo6A"
@@ -5716,7 +5752,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 172013,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/68yhcmU3r77QhazsBlqAeJ"

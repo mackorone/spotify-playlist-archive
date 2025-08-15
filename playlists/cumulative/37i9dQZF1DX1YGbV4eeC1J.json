@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Mocco Genius",
+  "description": "What is your love language? Say it in Swahili.  Cover: Harmonize & Abigail Chams",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -2231,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "Lala (feat. Abigail Chams)",
+        "url": "https://open.spotify.com/album/0pTKNetIIghEtDHembZlje"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Abigail Chams",
+          "url": "https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Lala (feat. Abigail Chams)",
+      "url": "https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I"
+    },
+    {
+      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl"
       },
@@ -3024,7 +3046,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 182267,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/4p7r68fFE5bXHgcTrlokp0"
@@ -3118,7 +3140,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 193997,
       "name": "Muhibu",
       "url": "https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3"
@@ -5308,6 +5330,24 @@
       "duration_ms": 219354,
       "name": "Toto (feat. Barnaba)",
       "url": "https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE"
     },
     {
       "album": {

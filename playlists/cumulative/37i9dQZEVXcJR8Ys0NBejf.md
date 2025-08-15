@@ -2,7 +2,7 @@
 
 ### [Discover Weekly \(@catzs\)](https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf)
 
-> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
+> Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
 7,685 songs - 16 day 10 hr 23 min
 

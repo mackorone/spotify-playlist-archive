@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-609 songs - 1 day 10 hr 46 min
+612 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 | 2025-03-21 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 | 2022-04-23 |
 | [Il faut qu'on se parle](https://open.spotify.com/track/5vnFXiRwOQhz5xBn09GKRK) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Rom\-Com](https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A) | 3:13 | 2025-03-14 |  |
+| [In a Time of Truth](https://open.spotify.com/track/27RRFsDsh2kMv6To5VUoTw) | [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd) | [In a Time of Truth](https://open.spotify.com/album/1koEm9OpK8ZolrEwWfpUhY) | 4:23 | 2025-08-15 |  |
 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-03-01 |
 | [Inconnue](https://open.spotify.com/track/5DQ3U33Swr3xLoFvpXMAgj) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Pantomime Deluxe](https://open.spotify.com/album/7scx66azACtWTjLEGuPnPo) | 3:02 | 2023-02-10 | 2023-09-09 |
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-15 | 2022-12-10 |
@@ -343,6 +344,7 @@
 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 | 2022-03-25 | 2022-06-04 |
 | [Love pour toi](https://open.spotify.com/track/3uW42r1lILVcS2DGBYxScN) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Love pour toi](https://open.spotify.com/album/4ed8rgdhz9Omd8YFN6ezBW) | 2:31 | 2024-09-06 |  |
 | [Lumière noire](https://open.spotify.com/track/4rjKlgyzIdF7YJvjFgu3qI) | [Projet Jacob](https://open.spotify.com/artist/0qBsS23IlLEUKTugdb591W) | [Sans brume](https://open.spotify.com/album/6r7pxiyTKIPwjJnvBFBHtu) | 2:57 | 2022-03-25 | 2022-04-02 |
+| [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-15 |  |
 | [Léa](https://open.spotify.com/track/2fRdNqwdUAhriA3sNhr2YV) | [pol](https://open.spotify.com/artist/5XkiDiEvO3E3uxSYFcMbae) | [Léa // Tableaux de craie](https://open.spotify.com/album/7BAUGw2yyZmSMAXgq7Fuyb) | 3:18 | 2025-02-07 |  |
 | [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-12-04 | 2025-01-14 |
 | [Léo \(rentre à la maison\)](https://open.spotify.com/track/3CUfyFs6PpLeeKz76wvGEo) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Léo \(rentre à la maison\)](https://open.spotify.com/album/07eJGV18HqMisQqbzFcaYR) | 2:52 | 2025-05-23 |  |
@@ -480,6 +482,7 @@
 | [RICH BUM$](https://open.spotify.com/track/6TT7xeVp0uBEuETDioNz6M) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [RICH BUM$](https://open.spotify.com/album/2EPJbDQIfwTlIB5dOYngHZ) | 4:10 | 2022-07-22 | 2022-10-01 |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-17 | 2024-05-18 |
 | [Risk It All](https://open.spotify.com/track/5eaZ2M4cg70JmT5JLOCZvT) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Risk It All](https://open.spotify.com/album/0bjz2600aSXHJFxc5DlOVh) | 2:39 | 2022-09-23 | 2023-01-28 |
+| [River Run \(with Lila Dupont\)](https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [River Run \(with Lila Dupont\)](https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz) | 3:25 | 2025-08-15 |  |
 | [RIVIÈRE](https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [RIVIÈRE](https://open.spotify.com/album/2U8WGLMnKsFj9n8oj4myy4) | 4:22 | 2023-03-31 | 2024-04-13 |
 | [Roadkill](https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI) | [Roadkill](https://open.spotify.com/album/07MbK4v2mIQz0rYBBGUzMs) | 2:15 | 2023-12-15 | 2024-08-24 |
 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 | 2022-06-17 | 2022-08-27 |

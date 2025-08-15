@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 
 > Listen to the soundtracks of Resident Playbook\. \(언젠가는 슬기로울 전공의 생활의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,836 likes - 32 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,847 likes - 32 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

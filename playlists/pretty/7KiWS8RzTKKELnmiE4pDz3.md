@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 282 songs - 15 hr 31 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 293 songs - 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -290,5 +290,16 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 280 | [SHOPPING BAGS \(with Destroy Lonely\)](https://open.spotify.com/track/6HStf7721bXOr2zx4nHh08) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:25 |
 | 281 | [RED TAILS](https://open.spotify.com/track/1TNUfEVHtWhYD40Yj4sAr7) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:06 |
 | 282 | [Shake Back](https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 3:03 |
+| 283 | [Ride Around Shining \(feat\. Ab\-Liva\)](https://open.spotify.com/track/40RYtDQwVLnfH4WzhxEqOQ) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Ab Liva](https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:56 |
+| 284 | [Can I Have It Like That](https://open.spotify.com/track/73Ijn0pKw1YJVP4OO4jUl7) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:55 |
+| 285 | [Too Late](https://open.spotify.com/track/52eg5klFsy0lgiUuQNaZA7) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Res](https://open.spotify.com/artist/56YiNz2C704YPpRtPvMBg7) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:25 |
+| 286 | [Lavish \(feat\. Pharrell Williams\)](https://open.spotify.com/track/6csDVHvJZ5QqHKU0m42q5e) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [The Day After](https://open.spotify.com/album/6LKbX6fsiMtw6xP4TgsY9Q) | 3:42 |
+| 287 | [Diddy \(feat\. The Neptunes\)](https://open.spotify.com/track/3829CDK1kzOgjRU3nNXqFQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 3:54 |
+| 288 | [Take It Off \(Dim The Lights\)](https://open.spotify.com/track/3xyknHSrdlYkvJNpQx2Vsr) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 4:07 |
+| 289 | [All Work](https://open.spotify.com/track/0GNbF413D1n8yS2vLpOBhl) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Back at Burnie’s](https://open.spotify.com/album/2sWApfoBIZpXEYPFCeIiBn) | 2:30 |
+| 290 | [Intro](https://open.spotify.com/track/07H9mwJYoTQdOoaOKxBH5z) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 2:16 |
+| 291 | [Cot Damn \(feat\. Ab\-Liva & Rosco P\. Coldchain\)](https://open.spotify.com/track/3LPNfzKa0VYlNedCY4MuBy) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Ab\-Liva](https://open.spotify.com/artist/62EHYOwzTJYvqrvy5NXNDF), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 5:01 |
+| 292 | [I'm Not You \(feat\. Jadakiss, Style P & Rosco P\. Coldchain\)](https://open.spotify.com/track/4h1xaUGnbHp867AZ4mBM3m) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Style P](https://open.spotify.com/artist/3S906h2bFM8tXtQWGUerHu), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:18 |
+| 293 | [Dirty Money](https://open.spotify.com/track/05eHuxWbt05SkgTq2QvJWN) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:46 |
 
-Snapshot ID: `AAAe47IqKLdxJIEkIJCr7lj50NK3ga/N`
+Snapshot ID: `AAAe7rmj7PsYO9G/YDU1tP+SCkyt/PXu`

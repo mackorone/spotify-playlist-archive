@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Behind Blue Eyes",
+        "url": "https://open.spotify.com/album/0aCcouG6VKxkvDpIm5oyNF"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/6dl3Ybmoj8QbaS31UhF1hc"
+    },
+    {
+      "album": {
         "name": "Believe (Jackyboom Piano Edit) [Cover]",
         "url": "https://open.spotify.com/album/4OWo5upqMrOra2hkjI3kPy"
       },
@@ -666,6 +684,32 @@
       "duration_ms": 127380,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/33tGFG7yAXbMgyQ8bvputb"
+    },
+    {
+      "album": {
+        "name": "Cry Me A River",
+        "url": "https://open.spotify.com/album/787wOdRfborzV1kmoOSiou"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149200,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/41Z2O7ffAHWt6itnVpNuPi"
     },
     {
       "album": {
@@ -2592,10 +2636,36 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 202500,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/4JThQmljGkbxkSY7SG9hW7"
+    },
+    {
+      "album": {
+        "name": "Set Fire To The Rain",
+        "url": "https://open.spotify.com/album/57m6mSh6X7ENvb89Tmxw6i"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Ansun",
+          "url": "https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm"
+        },
+        {
+          "name": "YYVON",
+          "url": "https://open.spotify.com/artist/2XfYEstAM52prsYmk7UYTM"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "Set Fire To The Rain",
+      "url": "https://open.spotify.com/track/18MZOHHczAo8qReO4Cpsw4"
     },
     {
       "album": {

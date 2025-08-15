@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Asco, Young Adz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Asco",
   "name": "Rap UK",
   "tracks": [
     {
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 143722,
       "name": "Atabaque Riddim",
       "url": "https://open.spotify.com/track/5MxlkCfgLzJOKL9bhxMr2d"
@@ -7450,7 +7450,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 186486,
       "name": "Calvin Klein",
       "url": "https://open.spotify.com/track/4IuSKMnDGXtamHRDPizlGN"
@@ -14942,7 +14942,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 166170,
       "name": "Follow Your Dreams",
       "url": "https://open.spotify.com/track/4ZOv2tpp7POFT4zBmoYOR0"
@@ -28614,7 +28614,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 129142,
       "name": "On Me",
       "url": "https://open.spotify.com/track/5zcLgmPeZC5q3Ybs1R4Fuf"
@@ -29638,6 +29638,24 @@
       "duration_ms": 246857,
       "name": "Paid In Blood",
       "url": "https://open.spotify.com/track/2bu6Ac23JU7klNzZpGXE1g"
+    },
+    {
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/45ZE2WOzDZEpVxaha9y5by"
+      },
+      "artists": [
+        {
+          "name": "Asco",
+          "url": "https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216464,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/18JvmiOefHtdJFq7fP1FgG"
     },
     {
       "album": {
@@ -31225,6 +31243,24 @@
     },
     {
       "album": {
+        "name": "PRAYER",
+        "url": "https://open.spotify.com/album/4R2mlvdLtndbTq0uqzvGEb"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137391,
+      "name": "PRAYER",
+      "url": "https://open.spotify.com/track/1Nk3MMrnhfqFF3REsfd6Oi"
+    },
+    {
+      "album": {
         "name": "Predicate",
         "url": "https://open.spotify.com/album/4EO6YGsWgMwC25qt0aZP4K"
       },
@@ -32424,6 +32460,28 @@
       "duration_ms": 176223,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/1rC5ZbKwZv2PTHpNYSvJhM"
+    },
+    {
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/70j0Jx9FpwYgipETfFavCH"
+      },
+      "artists": [
+        {
+          "name": "Strandz",
+          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200003,
+      "name": "Rebel",
+      "url": "https://open.spotify.com/track/75YPDdGd6vjOfy6CMJOTRw"
     },
     {
       "album": {
@@ -36634,6 +36692,28 @@
       "duration_ms": 147314,
       "name": "Stand",
       "url": "https://open.spotify.com/track/18ndKaCvOCrg26ijE88G0X"
+    },
+    {
+      "album": {
+        "name": "Stand & Lean (feat. Klyrae)",
+        "url": "https://open.spotify.com/album/40KHXwEmMxAKzkbu7KiNnl"
+      },
+      "artists": [
+        {
+          "name": "deed0t",
+          "url": "https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N"
+        },
+        {
+          "name": "Klyrae",
+          "url": "https://open.spotify.com/artist/6iwztbSut9M011bBkyGvaz"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164321,
+      "name": "Stand & Lean (feat. Klyrae)",
+      "url": "https://open.spotify.com/track/0tW0bo00lF4a0xNOCXy5tL"
     },
     {
       "album": {

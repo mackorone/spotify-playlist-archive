@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Die wichtigste Hip-Hop Playlist Deutschlands. Cover: Jazeek",
+  "description": "Die wichtigste Hip-Hop Playlist Deutschlands. Cover: Loredana",
   "name": "Modus Mio",
   "tracks": [
     {
@@ -20,6 +20,36 @@
       "duration_ms": 150365,
       "name": "10 Sommer",
       "url": "https://open.spotify.com/track/2V29J7ugEE1pZtilIPdFcZ"
+    },
+    {
+      "album": {
+        "name": "100 Schuss",
+        "url": "https://open.spotify.com/album/08UxOamLMZMoSF0qpGu7Te"
+      },
+      "artists": [
+        {
+          "name": "Nizi19",
+          "url": "https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg"
+        },
+        {
+          "name": "Yuyu19",
+          "url": "https://open.spotify.com/artist/3wuA3QZh6k6Vz9XQmVes4B"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "CANEY030",
+          "url": "https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179649,
+      "name": "100 Schuss",
+      "url": "https://open.spotify.com/track/6foiRkf8agwB27OMFAecUz"
     },
     {
       "album": {
@@ -125,6 +155,32 @@
     },
     {
       "album": {
+        "name": "aRSCHBACKEN (feat. FOURTY & Jamule)",
+        "url": "https://open.spotify.com/album/79RXdMWjibGvLzWI8zO9Ty"
+      },
+      "artists": [
+        {
+          "name": "CHEKAA",
+          "url": "https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        },
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116675,
+      "name": "aRSCHBACKEN - feat. Jamule & FOURTY",
+      "url": "https://open.spotify.com/track/4PR8kAegGI0EzcjUHNVlXD"
+    },
+    {
+      "album": {
         "name": "Baccarat",
         "url": "https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2"
       },
@@ -184,6 +240,36 @@
       "duration_ms": 158480,
       "name": "Bei dir",
       "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
+    },
+    {
+      "album": {
+        "name": "Benjamins (feat. Shindy, Dimi Rompos & Sabrina Setlur)",
+        "url": "https://open.spotify.com/album/4Dau7WP6fYje3csFFzHs4Y"
+      },
+      "artists": [
+        {
+          "name": "Illmat!c",
+          "url": "https://open.spotify.com/artist/3uNOEzgtTHz3mNOxMwZ18B"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "Dimi Rompos",
+          "url": "https://open.spotify.com/artist/6qPNkgCHtyhe6Q2mqqH4pL"
+        },
+        {
+          "name": "Sabrina Setlur",
+          "url": "https://open.spotify.com/artist/7eQ5GonKX5N9qdwm1zFgVg"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "Benjamins (feat. Shindy, Dimi Rompos & Sabrina Setlur)",
+      "url": "https://open.spotify.com/track/3vMFYsHqgfWbF7deQpmyAk"
     },
     {
       "album": {
@@ -495,6 +581,28 @@
     },
     {
       "album": {
+        "name": "GET LOW",
+        "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
+      },
+      "artists": [
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
+        },
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "GET LOW",
+      "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
+    },
+    {
+      "album": {
         "name": "<3 MY PEOPLE",
         "url": "https://open.spotify.com/album/4qgCdsO3IplVDjgVYjAhHx"
       },
@@ -608,7 +716,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 138943,
       "name": "Kein Vodka",
       "url": "https://open.spotify.com/track/37mCetQCWEFgzxVG2Cr23S"
@@ -736,7 +844,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 169160,
       "name": "Love all night",
       "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
@@ -798,7 +906,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 135445,
       "name": "MIS (feat. Summer Cem)",
       "url": "https://open.spotify.com/track/6iSsqzSHwpsodKySR6mLdd"
@@ -900,7 +1008,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 172700,
       "name": "oOo",
       "url": "https://open.spotify.com/track/6x58eQswkUamSgBR0rxp8m"
@@ -977,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Planufer",
+        "url": "https://open.spotify.com/album/793ncmuxf7YZPi8PFwXhgD"
+      },
+      "artists": [
+        {
+          "name": "Wa22ermann",
+          "url": "https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120171,
+      "name": "Planufer",
+      "url": "https://open.spotify.com/track/2pzuTdm3xjArM282QRTd1G"
+    },
+    {
+      "album": {
         "name": "PLUS EINS",
         "url": "https://open.spotify.com/album/1HS1xsWQS8IQcBrjgWVC9x"
       },
@@ -992,6 +1118,24 @@
       "duration_ms": 141571,
       "name": "PLUS EINS",
       "url": "https://open.spotify.com/track/1pPHHKZZoyXJvnMaHJtkww"
+    },
+    {
+      "album": {
+        "name": "PRIVILEG",
+        "url": "https://open.spotify.com/album/0H9FLEBrGN0itLpO1PIE6Q"
+      },
+      "artists": [
+        {
+          "name": "Loredana",
+          "url": "https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115986,
+      "name": "PRIVILEG",
+      "url": "https://open.spotify.com/track/6FBjOetu1LzrfZ9bM5Ko6E"
     },
     {
       "album": {
@@ -1028,7 +1172,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 141880,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/6PieJIdEWkf1GUoZTJWx1b"
@@ -1072,6 +1216,28 @@
       "duration_ms": 126933,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/27dn9ZTwGj5uZjIQPulwAE"
+    },
+    {
+      "album": {
+        "name": "Banditorinho 2",
+        "url": "https://open.spotify.com/album/1MRdWNh2d1HGfayGvHdaip"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109280,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/2Ed0ve2x6FVzEVKYVbPfGq"
     },
     {
       "album": {
@@ -1312,7 +1478,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 178604,
       "name": "TWINS",
       "url": "https://open.spotify.com/track/3ouqRo2zDJjewIao5CFFGN"
@@ -1330,7 +1496,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 150801,
       "name": "Unlock",
       "url": "https://open.spotify.com/track/044C22X5gRELj72l3D81Rs"
@@ -1395,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/5lnMtsg8OiHho7I0vQ7LmR"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193416,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/13AzsOOlv5lwEeKsI1pAUt"
+    },
+    {
+      "album": {
         "name": "Wundersch\u00f6n",
         "url": "https://open.spotify.com/album/1BcAJJ1lQrOGxTLUN8hWtq"
       },
@@ -1428,7 +1612,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 150576,
       "name": "XOX",
       "url": "https://open.spotify.com/track/2TqYWeFkqhvBOlVe5EMQsv"

@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-218 songs - 9 hr 42 min
+219 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Hold Me, Hug Me, Rock Me \- 2002 Digital Remaster](https://open.spotify.com/track/07dubfnUuwhOfV84rJ5EuO) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And His Blue Caps](https://open.spotify.com/album/0S5EEOJz0QJs16V3Z3uTyF) | 2:15 | 2022-05-06 | 2022-07-27 |
 | [Honky Tonk Train](https://open.spotify.com/track/0SPKGaIJFH7ReMd0fcRoJg) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI) | 3:03 | 2022-05-06 | 2022-07-28 |
 | [Honky Tonk Train](https://open.spotify.com/track/5Hiig8bBkvu3OmtY2ozHCQ) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/45fO2ERwfGc69by0oxaVAi) | 3:03 | 2022-09-02 | 2022-11-13 |
-| [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 | 2023-10-27 |  |
+| [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 | 2023-10-27 | 2025-08-15 |
 | [How You Want It Done](https://open.spotify.com/track/3y2I4D8IrJNuZoUFC7cKNF) | [Runnin' Wild](https://open.spotify.com/artist/4Qvv0xApnubSNhWSIJKPYt) | [Killer Taco Stomp](https://open.spotify.com/album/3QYbB8adrSwTCVbsy5qUYc) | 3:10 | 2022-05-06 | 2022-06-12 |
 | [I Got A Lot Of Rhythm In My Soul](https://open.spotify.com/track/4ZwNjuuUxTMBjRtGocNJCQ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Today, Tomorrow And Forever \- 20 Classics](https://open.spotify.com/album/0Fy5ifXfJvQhICrKpPNp1V) | 2:21 | 2022-09-02 | 2023-10-09 |
 | [I Got My Eyes On You](https://open.spotify.com/track/059NFe0ekQGQTL3i8TYttr) | [George Thorogood](https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60) | [The Hard Stuff](https://open.spotify.com/album/5acuHP4mLNKCYTxib9XHea) | 3:34 | 2022-05-06 | 2022-07-29 |
@@ -117,6 +117,7 @@
 | [Keep On Loving Me Baby \- The original live recordings](https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE) | [Bluebirds](https://open.spotify.com/artist/2tSCSRIiOya3O652PDmu3S) | [You Take My Blues Away \(The original live recordings\)](https://open.spotify.com/album/5OEyHOsTdKftIsSbzKl8Ci) | 3:38 | 2025-06-26 |  |
 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 | 2022-05-06 |  |
 | [Leave a Happy Fool Alone](https://open.spotify.com/track/1Icn8VCDRRGZfTUOp0s3xS) | [Cherry Tess & Her Rhythm Sparks](https://open.spotify.com/artist/70B6oN2soVeM03ahxSnfFF) | [Should I Ever Love Again / Leave A Happy Fool Alone](https://open.spotify.com/album/2dvbfQHw1nUg1mXjHWrQBk) | 2:29 | 2022-05-06 | 2022-07-25 |
+| [Leave My Heart Alone](https://open.spotify.com/track/0GDUQ7NS4nLjjSxjKA5ugt) | [Deke Dickerson](https://open.spotify.com/artist/6Uhcb4YBtQmZJKL3jBpPX4), [Whistle Bait](https://open.spotify.com/artist/7dFvgbU1cSYcwUQ6lLRFhI) | [Deke Dickerson Meets The Whistle Bait](https://open.spotify.com/album/4meqFQHC5aYxp3X6q6uuyX) | 3:03 | 2025-08-14 |  |
 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 | 2022-05-06 |  |
 | [Let's Jump The Broomstick](https://open.spotify.com/track/3gshcJd9xIITbbYAJeFEFg) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Brenda Lee](https://open.spotify.com/album/3DzEQCPg0Irz2vWUaBSEkm) | 2:34 | 2024-07-05 |  |
 | [Lip Lickin' Lou](https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u) | [Wild Wax Combo](https://open.spotify.com/artist/4q2TGE7vO4v3sOcJB8mJYb) | [Lip Lickin' Lou](https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5) | 2:05 | 2022-05-06 | 2025-07-24 |

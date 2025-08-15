@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-660 songs - 1 day 8 hr 40 min
+661 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Fragil](https://open.spotify.com/track/5q3uopiV2F4E93vpUO4CAZ) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Fragil](https://open.spotify.com/album/40qpqPIJEhj0WKOhmowPOX) | 3:03 | 2023-06-09 | 2023-06-17 |
 | [Frito En Ti \- Remix](https://open.spotify.com/track/3KZyVOTih6BsXzOYgH5H0M) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC), [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Duran](https://open.spotify.com/artist/0h9C23CSN1jPNVCgAUcMiZ), [L Kimii](https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh), [Juan de Vitrola](https://open.spotify.com/artist/34qx0JyCPLXuftlXdDZeD3) | [Frito En Ti \(Remix\)](https://open.spotify.com/album/45INBsqvclj6Tk2JTECi2v) | 2:44 | 2025-03-21 | 2025-07-05 |
 | [Frágil](https://open.spotify.com/track/1qd5uMqqXcrr5YYdDhBnAc) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Frágil](https://open.spotify.com/album/34SO8FcL3ZOmyQBwfHZAVV) | 2:16 | 2023-09-29 | 2023-10-23 |
+| [Fueguito](https://open.spotify.com/track/5JXVPK3zNzs0CXlzSeeoVv) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Fueguito](https://open.spotify.com/album/490vqSDhnXtNAafVRh9khD) | 2:25 | 2025-08-15 |  |
 | [Fui Feliz](https://open.spotify.com/track/6iRpzyn7D8K6Vw1EWVxanV) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Fui Feliz](https://open.spotify.com/album/7huqNheayOVFgcQENSpBbs) | 2:12 | 2024-05-24 | 2024-06-08 |
 | [Fui Yo](https://open.spotify.com/track/69LJPRbyI5jzsjDfWxxSzm) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Fui Yo](https://open.spotify.com/album/6vNisPvNXfQiqcQ8h6ukjP) | 2:17 | 2022-02-18 | 2022-06-05 |
 | [Fuiste un Amor de Verano \- Cumbia](https://open.spotify.com/track/1jh4rsUx5LuPiVQGzwF1g2) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Fuiste un Amor de Verano \(Cumbia\)](https://open.spotify.com/album/3o0CmJnYZBDOvVHUjjnW35) | 3:16 | 2022-01-03 | 2022-07-15 |
@@ -529,7 +530,7 @@
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 | 2024-12-07 |
 | [Sobrio](https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Sobrio](https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas) | 3:41 | 2022-08-06 | 2022-08-23 |
 | [Sobrio](https://open.spotify.com/track/7oxEQwndfGf9zqvRejWYaD) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Sobrio](https://open.spotify.com/album/3mnYggEIyjKiCSBw1WFD6T) | 2:27 | 2021-12-23 | 2022-07-29 |
-| [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 | 2024-06-21 |  |
+| [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 | 2024-06-21 | 2025-08-15 |
 | [Solo Necesito \- Remix](https://open.spotify.com/track/6W8NN9RJUnqmXaEXM5dgBb) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Solo Necesito \(Remix\)](https://open.spotify.com/album/5N8bY7Srp0mSwd4PpB3HVm) | 2:43 | 2023-12-15 | 2024-06-21 |
 | [Solos](https://open.spotify.com/track/4FQxbGkh0bWEHC28r1jCOo) | [TAYSS](https://open.spotify.com/artist/3NnMaSItMxTREIJTaptWDR) | [Solos](https://open.spotify.com/album/2vzX5p1xb0VCttu7oS1JAr) | 2:27 | 2024-12-20 | 2025-01-25 |
 | [Soltarte](https://open.spotify.com/track/6bC5DAyaA2LvptpyUOPLaP) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Soltarte](https://open.spotify.com/album/0oClzSj9uKuLhBbftqIN38) | 2:18 | 2022-01-14 | 2022-07-20 |

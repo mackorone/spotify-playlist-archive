@@ -702,24 +702,6 @@
       },
       "artists": [
         {
-          "name": "\u5e7d\u8c37\u9727\u5b50 (CV.\u7d50\u540d\u7f8e\u6708)",
-          "url": "https://open.spotify.com/artist/2cqPrv4nO5puTb0WBGaso3"
-        }
-      ],
-      "date_added": "2022-11-29",
-      "date_added_asterisk": false,
-      "date_removed": "2023-03-08",
-      "duration_ms": 241933,
-      "name": "Killer\u00d7Mission (\u5e7d\u8c37\u9727\u5b50 Ver.)",
-      "url": "https://open.spotify.com/track/4KjgmWvouBatl3RcSSt40c"
-    },
-    {
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
-        "url": "https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ"
-      },
-      "artists": [
-        {
           "name": "\u7530\u4e2d\u6469\u7f8e\u3005 (CV.\u83c5\u6cbc\u5343\u7d17)",
           "url": "https://open.spotify.com/artist/3IHkib6C5GA5dGCADqvFJ7"
         }
@@ -766,6 +748,24 @@
       "duration_ms": 241933,
       "name": "Killer\u00d7Mission (\u82b9\u6ca2\u3042\u3055\u3072 Ver.)",
       "url": "https://open.spotify.com/track/6e7VLgOAoZjyg64fIb2FWn"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
+        "url": "https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ"
+      },
+      "artists": [
+        {
+          "name": "\u5e7d\u8c37\u9727\u5b50 (CV.\u7d50\u540d\u7f8e\u6708)",
+          "url": "https://open.spotify.com/artist/2cqPrv4nO5puTb0WBGaso3"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Killer\u00d7Mission - \u5e7d\u8c37\u9727\u5b50 Ver.",
+      "url": "https://open.spotify.com/track/4KjgmWvouBatl3RcSSt40c"
     },
     {
       "album": {
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 214306,
       "name": "\u30ea\u30d5\u30ec\u30af\u30c8\u30b5\u30a4\u30f3 - 2022 Version",
       "url": "https://open.spotify.com/track/4gGz2TCwkSQZxGh4x5mjv3"

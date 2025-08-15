@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 436203,
+  "num_followers": 436357,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
+        "name": "Eu Te Entrego o Meu Dia",
+        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 199259,
+      "name": "Eu Te Entrego o Meu Dia",
+      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
         "name": "Reacende a Chama (Ao Vivo)",
         "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 477994,
       "name": "Reacende a Chama - Ao Vivo",
       "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
-        "name": "Eu Te Entrego o Meu Dia",
-        "url": "https://open.spotify.com/album/4BHgauOFV4ubkrynteDF3p"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 199259,
-      "name": "Eu Te Entrego o Meu Dia",
-      "url": "https://open.spotify.com/track/4bridq05nWYVVn9tGkBHeU"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
+        "name": "Cura | EP 01",
+        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
+      },
+      "artists": [
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 270450,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
         "name": "Deus \u00c9 Quem Me Fortalece",
         "url": "https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 383437,
       "name": "Deus \u00c9 Quem Me Fortalece",
       "url": "https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
-        "name": "Cura | EP 01",
-        "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
-      },
-      "artists": [
-        {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
-        }
-      ],
-      "duration_ms": 270450,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/3RVZlAf3G6Dy6S1jw4r8xc"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 240011,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -783,6 +763,26 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/3e599loTbI1Dslk0gz7Frb"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 240011,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/7q7Y5GnBKLlQONTERBPMzZ"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
         "name": "O Nome (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 426022,
       "name": "O Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
-        "name": "Gratid\u00e3o (Gratitude)",
-        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 275841,
-      "name": "Gratid\u00e3o (Gratitude)",
-      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -843,22 +827,18 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "No Secreto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
+        "name": "Gratid\u00e3o (Gratitude)",
+        "url": "https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q"
       },
       "artists": [
         {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
         }
       ],
-      "duration_ms": 281273,
-      "name": "No Secreto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3gCY5BvVER2S9SkhtYHctX"
+      "duration_ms": 275841,
+      "name": "Gratid\u00e3o (Gratitude)",
+      "url": "https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -883,6 +863,26 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
+        "name": "No Secreto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 281273,
+      "name": "No Secreto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gCY5BvVER2S9SkhtYHctX"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
         "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 323000,
       "name": "Esp\u00edrito Santo (Inhabit)",
       "url": "https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Poderoso Deus (Medley)",
-        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 455597,
-      "name": "Poderoso Deus (Medley)",
-      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 355322,
       "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
+        "name": "Poderoso Deus (Medley)",
+        "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 455597,
+      "name": "Poderoso Deus (Medley)",
+      "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "Eu Te Ouvi (Ao Vivo)",
         "url": "https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 243368,
       "name": "Eu Te Ouvi - Ao Vivo",
       "url": "https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 323308,
-      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
         "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 218424,
       "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
+        "name": "Meu Respirar / Meu Prazer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 323308,
+      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2K5ReSYKBoe70Cp7Ep5H7L"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 391785,
-      "name": "Eu S\u00f3 Quero Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/2gjx6Txas4yolGSY7VkGVM"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "Poderoso Deus Eterno / 24 por 7",
         "url": "https://open.spotify.com/album/0qa4BD0VfzhcmmFox3OFM1"
       },
@@ -1515,6 +1495,26 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
+        "name": "Eu S\u00f3 Quero Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2K5ReSYKBoe70Cp7Ep5H7L"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 391785,
+      "name": "Eu S\u00f3 Quero Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/2gjx6Txas4yolGSY7VkGVM"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
         "name": "20 Anos de Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 348433,
       "name": "Sobre As \u00c1guas",
       "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
+        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 605638,
+      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
+      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/5QzGMAYYTBAE7UX626Xjn9"
       },
       "artists": [
         {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
         }
       ],
-      "duration_ms": 605638,
-      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
-      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
+      "duration_ms": 187000,
+      "name": "Poderoso",
+      "url": "https://open.spotify.com/track/6sVNmXon0kGK5aBH3ip5Dz"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1587,22 +1603,6 @@
       "duration_ms": 414642,
       "name": "Tu \u00c9s Tudo o Que Tenho (P\u00e9rola) - Ao Vivo",
       "url": "https://open.spotify.com/track/7q6CvkclvT3rSlWXca7LQs"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/5QzGMAYYTBAE7UX626Xjn9"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Poderoso",
-      "url": "https://open.spotify.com/track/6sVNmXon0kGK5aBH3ip5Dz"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "S\u00ea Forte",
-        "url": "https://open.spotify.com/album/1NcbuKmcxDj08mhuEUm8PQ"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 260403,
-      "name": "S\u00ea Forte",
-      "url": "https://open.spotify.com/track/0Y0liSDURRxrPHjH0cgUxc"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
         "name": "T\u00e1 Tudo Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu"
       },
@@ -1903,22 +1887,18 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
-        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z"
+        "name": "S\u00ea Forte",
+        "url": "https://open.spotify.com/album/1NcbuKmcxDj08mhuEUm8PQ"
       },
       "artists": [
         {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 347698,
-      "name": "Era a M\u00e3o de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5"
+      "duration_ms": 260403,
+      "name": "S\u00ea Forte",
+      "url": "https://open.spotify.com/track/0Y0liSDURRxrPHjH0cgUxc"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1943,6 +1923,26 @@
     {
       "added_at": "2025-08-01 19:01:43",
       "album": {
+        "name": "Era a M\u00e3o de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6JqRTUofnu10dun9IXpa3Z"
+      },
+      "artists": [
+        {
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 347698,
+      "name": "Era a M\u00e3o de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5oWAMVC1YYs8Sn3SW6vDM5"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
         "name": "Brilha Tua Luz",
         "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
       },
@@ -1959,6 +1959,26 @@
       "duration_ms": 295997,
       "name": "Brilha Tua Luz",
       "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
+    },
+    {
+      "added_at": "2025-08-01 19:01:43",
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2025-08-01 19:01:43",
@@ -1983,26 +2003,6 @@
       "duration_ms": 303201,
       "name": "Grato Sou - Ao Vivo",
       "url": "https://open.spotify.com/track/6rfxeiOS4gydbhIUAnTS3T"
-    },
-    {
-      "added_at": "2025-08-01 19:01:43",
-      "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2025-08-01 19:01:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,045 likes - 75 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,088 likes - 75 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 72 | [Ram Chakra Mantra To Build Your Confidence](https://open.spotify.com/track/3TY0jL85yu2jRtllsSjRCE) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Divine Chakra Mantras](https://open.spotify.com/album/6t8wp9eKRc1QX9FR1un53X) | 5:25 |
 | 73 | [Maa Durga Mantra Chanting](https://open.spotify.com/track/2PP5xopzHgueAWdSPEjTao) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Maa Durga Mantra Chanting](https://open.spotify.com/album/28B8NZ23mcROWkeuraQnTH) | 15:45 |
 | 74 | [Durga Gayatri Mantra](https://open.spotify.com/track/57uiI5Y9LLVjmKuiJejENW) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Durga Gayatri Mantra](https://open.spotify.com/album/1jH6sfc11zNlbXsIhiqoD6) | 6:30 |
-| 75 | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/track/7dK67zASXgrYoZT7Q5N5Lc) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Vijay Khanderao Dhone](https://open.spotify.com/artist/4hrsD5BVqsbkNrHb3Aa9gM) | [Om Datta Datta Dattah \(Datta Beej Mantra Dhuni\)](https://open.spotify.com/album/6scRQtikQ6X9nFyk68aN3C) | 15:58 |
+| 75 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
 
 Snapshot ID: `AAAAAGRWW7wXFDMQlAlkieJ0swuN0j+F`

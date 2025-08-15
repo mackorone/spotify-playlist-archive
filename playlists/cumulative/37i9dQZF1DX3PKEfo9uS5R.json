@@ -5475,24 +5475,6 @@
     },
     {
       "album": {
-        "name": "Yes Day",
-        "url": "https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg"
-      },
-      "artists": [
-        {
-          "name": "Sunset-buff",
-          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
-        }
-      ],
-      "date_added": "2025-01-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140089,
-      "name": "Sunset-buff",
-      "url": "https://open.spotify.com/track/4F8Nw5MBAbY0BXa5vVFaBY"
-    },
-    {
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm"
       },
@@ -6300,6 +6282,24 @@
       "duration_ms": 165243,
       "name": "wurley",
       "url": "https://open.spotify.com/track/5YdQDDQLm3zCNiK2zyrU9p"
+    },
+    {
+      "album": {
+        "name": "Yes Day",
+        "url": "https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140089,
+      "name": "Yes Day",
+      "url": "https://open.spotify.com/track/4F8Nw5MBAbY0BXa5vVFaBY"
     },
     {
       "album": {

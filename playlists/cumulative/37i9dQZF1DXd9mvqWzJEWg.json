@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E?si=_0StPZkBSwex7TYkA6xHaw\">Surreal Sessions</a>, <a href=\"https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l?si=TMZQHyATTb-1ziuMSGOP7w\">DBN Gogo</a>, <a href=\"https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q?si=S2HHoQESToyE5qaDbpLx5w\">Nobantu Vilakazi</a>, & <a href=\"https://open.spotify.com/artist/2aMcD0EYQmyygKRyRiQhZA?si=ZjdNacLFRWe6THsK0s1AqA\">Ty Slique</a>",
+  "description": "From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F?si=HZYKRvOMSI6E1QWxlE2_qg\">Rhass</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-23",
+      "date_removed": null,
       "duration_ms": 343719,
       "name": "Bsuku Bonke",
       "url": "https://open.spotify.com/track/6Y1j0kDFFAD92HzDkQxSWm"
@@ -3877,6 +3877,28 @@
     },
     {
       "album": {
+        "name": "The Sanctum",
+        "url": "https://open.spotify.com/album/1tZ23pVBKLj3k1mEjp8oIQ"
+      },
+      "artists": [
+        {
+          "name": "Emzotiq",
+          "url": "https://open.spotify.com/artist/4UZdteqn7tPdnYw4YshcSt"
+        },
+        {
+          "name": "TheGqomBoss",
+          "url": "https://open.spotify.com/artist/292Cl4hITfjeJUtUDVokdh"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332598,
+      "name": "Inkundla",
+      "url": "https://open.spotify.com/track/2X3hgN0znsf5XE5qRstS4f"
+    },
+    {
+      "album": {
         "name": "Domboyela",
         "url": "https://open.spotify.com/album/77JSA8L7EFxyda0EKr2Nzk"
       },
@@ -4147,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "Ksuk Iphepho",
+        "url": "https://open.spotify.com/album/2qh9NCc05VgkA25mKq86Cp"
+      },
+      "artists": [
+        {
+          "name": "DJ Fanele",
+          "url": "https://open.spotify.com/artist/6M8jIo6oHncJ1oIvHFtbY3"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367857,
+      "name": "Iscathulo (The Quest)",
+      "url": "https://open.spotify.com/track/0cz3eisoEJIlPEOHRSHzB8"
+    },
+    {
+      "album": {
         "name": "Iscefe somsombuluko",
         "url": "https://open.spotify.com/album/5Np3Nvv28zbUGeDAnr3VNr"
       },
@@ -4338,6 +4378,28 @@
       "duration_ms": 307617,
       "name": "iStolo se gqom",
       "url": "https://open.spotify.com/track/6XScWDTmRpfd2Gi1stm1hR"
+    },
+    {
+      "album": {
+        "name": "IVALE",
+        "url": "https://open.spotify.com/album/0KY1ynlOIBd3BLxf8qoKzY"
+      },
+      "artists": [
+        {
+          "name": "DJ Mavu",
+          "url": "https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu"
+        },
+        {
+          "name": "ChroniQ MusiQ",
+          "url": "https://open.spotify.com/artist/2POBQCBCgygfHPqWGvcaQv"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309342,
+      "name": "IVALE - IVALE",
+      "url": "https://open.spotify.com/track/4nD80zf7NGzHAqaXf4PSwK"
     },
     {
       "album": {
@@ -4670,6 +4732,32 @@
       "duration_ms": 223152,
       "name": "JAPAN TOE",
       "url": "https://open.spotify.com/track/6jEMCRYXs6s6EPu776TbIW"
+    },
+    {
+      "album": {
+        "name": "Jika Majika",
+        "url": "https://open.spotify.com/album/0elrJB7rOGEtgAFl2xMLIe"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Lady Du",
+          "url": "https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x"
+        },
+        {
+          "name": "Rhass",
+          "url": "https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377217,
+      "name": "Jika Majika",
+      "url": "https://open.spotify.com/track/41yTFb3foIEDsMoUS6lqkd"
     },
     {
       "album": {
@@ -5448,6 +5536,24 @@
       "duration_ms": 372715,
       "name": "Main Course",
       "url": "https://open.spotify.com/track/3wsZGlJ56vgMg8Glw70nef"
+    },
+    {
+      "album": {
+        "name": "Mali (Gqom Remix)",
+        "url": "https://open.spotify.com/album/0o6CbhXh90XJaAecdHsZqw"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347663,
+      "name": "Mali - Gqom Remix",
+      "url": "https://open.spotify.com/track/2pCHN1V6fpP1egtdO8Znrx"
     },
     {
       "album": {
@@ -7661,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "Secret Location",
+        "url": "https://open.spotify.com/album/1l1Hh1sOsDGxNrdCV9wpka"
+      },
+      "artists": [
+        {
+          "name": "DJ Mavu",
+          "url": "https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354272,
+      "name": "Secret Location",
+      "url": "https://open.spotify.com/track/2MX3hCLn9ehP9jr1P3p7KU"
+    },
+    {
+      "album": {
         "name": "New Chapter Party",
         "url": "https://open.spotify.com/album/3tjPRKw6hKaHKNJ2fSm57H"
       },
@@ -9097,6 +9221,50 @@
     },
     {
       "album": {
+        "name": "Umdans'omusha",
+        "url": "https://open.spotify.com/album/3qqzDfN6H1NUmGJXyf1Cfh"
+      },
+      "artists": [
+        {
+          "name": "Asambe EmKaY",
+          "url": "https://open.spotify.com/artist/5GzkAFuavCh80tZ4kJ2Fn5"
+        },
+        {
+          "name": "Cyle Ntokzin",
+          "url": "https://open.spotify.com/artist/3eWQ9eINZAbjC9CzSNzTB5"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309420,
+      "name": "Umdans'omusha",
+      "url": "https://open.spotify.com/track/1HWazaXsTqB51bRh6UP8YF"
+    },
+    {
+      "album": {
+        "name": "DURBAN BANG",
+        "url": "https://open.spotify.com/album/190rUz6bQctegEJipev2pk"
+      },
+      "artists": [
+        {
+          "name": "DJ Mavu",
+          "url": "https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu"
+        },
+        {
+          "name": "Bhuda M",
+          "url": "https://open.spotify.com/artist/0uCXKLH8559TeyNdDZ5RwL"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264289,
+      "name": "Umdlalo",
+      "url": "https://open.spotify.com/track/4u3KsApnRhmtC7JdZEQZSD"
+    },
+    {
+      "album": {
         "name": "Area 51",
         "url": "https://open.spotify.com/album/08dxDjvS78ikVFQdyxgLt8"
       },
@@ -9156,6 +9324,24 @@
       "duration_ms": 246047,
       "name": "Umgido",
       "url": "https://open.spotify.com/track/4QXQDH5NxmXOIVlSXS3I4b"
+    },
+    {
+      "album": {
+        "name": "District 1",
+        "url": "https://open.spotify.com/album/5IoslCxyAQ6LKp0h4LzsYz"
+      },
+      "artists": [
+        {
+          "name": "DJ Mavu",
+          "url": "https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343457,
+      "name": "Umgijimi - Original",
+      "url": "https://open.spotify.com/track/7cQWs4Z6YvGQmyfrY4j5su"
     },
     {
       "album": {

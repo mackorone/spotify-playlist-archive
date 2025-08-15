@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Adrianna Cinta, Farouk Roman",
+  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Tenxi, Suisei, Jemsii",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 199826,
       "name": "Begini Jadinya",
       "url": "https://open.spotify.com/track/7rJ5CbscJEQXQsfLXVBD5f"
@@ -1756,6 +1756,24 @@
       "duration_ms": 159190,
       "name": "Benar",
       "url": "https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1"
+    },
+    {
+      "album": {
+        "name": "Berakhir Kita",
+        "url": "https://open.spotify.com/album/4v0cvLL6N83qHivF4vJhdf"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194166,
+      "name": "Berakhir Kita",
+      "url": "https://open.spotify.com/track/7bZX9MyLOWtUccoRw1Gha1"
     },
     {
       "album": {
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 213187,
       "name": "BORAK",
       "url": "https://open.spotify.com/track/4AwEmXLCvsKucjtuWkUPFs"
@@ -7173,6 +7191,28 @@
     },
     {
       "album": {
+        "name": "KOPI",
+        "url": "https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g"
+      },
+      "artists": [
+        {
+          "name": "NAZU",
+          "url": "https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk"
+        },
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174798,
+      "name": "KOPI",
+      "url": "https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw"
+    },
+    {
+      "album": {
         "name": "Kopi Sepi",
         "url": "https://open.spotify.com/album/0EP1K4z5uyenKCDYs1Nu93"
       },
@@ -7572,6 +7612,32 @@
       "duration_ms": 270000,
       "name": "Laut",
       "url": "https://open.spotify.com/track/0v0XEH9pzcIPKrehl914ky"
+    },
+    {
+      "album": {
+        "name": "Laut Kelabu",
+        "url": "https://open.spotify.com/album/42EQMlaWuo2SyGq3jNq4gl"
+      },
+      "artists": [
+        {
+          "name": "empty page.",
+          "url": "https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh"
+        },
+        {
+          "name": "Syiqin Azln",
+          "url": "https://open.spotify.com/artist/0TFLxpXh2OoCO6fqGPJVgK"
+        },
+        {
+          "name": "mimpi.",
+          "url": "https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186350,
+      "name": "Laut Kelabu",
+      "url": "https://open.spotify.com/track/6euN3gFQhWPjhrAF702WRz"
     },
     {
       "album": {
@@ -8870,7 +8936,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 270582,
       "name": "menyesal",
       "url": "https://open.spotify.com/track/5GYmoRBgyubcAf7AzyjvrQ"
@@ -10246,7 +10312,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 252187,
       "name": "Pernah Punya Aku",
       "url": "https://open.spotify.com/track/4gXkKOIp1Y0TgUkooLSLFC"
@@ -13474,6 +13540,24 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "album": {
+        "name": "Seharum Nama",
+        "url": "https://open.spotify.com/album/4uPtgYPxvRpPJywCa6wvgH"
+      },
+      "artists": [
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188188,
+      "name": "Tak Tidur Malam",
+      "url": "https://open.spotify.com/track/6Aac7jJ6IgzpsW8M4dlJLp"
     },
     {
       "album": {

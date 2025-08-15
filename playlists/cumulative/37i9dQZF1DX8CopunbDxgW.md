@@ -2,7 +2,7 @@
 
 ### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
 
-> New tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
+> new tune from Sam Gellaitry! ❤️ it's all the best indie dance tracks of the moment
 
 1,954 songs - 4 day 23 hr 6 min
 

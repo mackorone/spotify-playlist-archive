@@ -2,7 +2,7 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: GRISANA
+> Топові новинки української та світової поп\-музики\. Обкладинка: TVORCHI & The Maneken
 
 394 songs - 19 hr 44 min
 

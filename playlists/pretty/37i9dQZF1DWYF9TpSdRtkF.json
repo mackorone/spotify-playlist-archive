@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18077,
+  "num_followers": 18076,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5c3e\u7f8e\u4e5f (CV.\u6850\u8c37\u8776\u3005)",
+          "url": "https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "\u30cf\u30c3\u30d4\uff5e \u30a8\u30d5\u30a7\u30af\u30c8!",
+      "url": "https://open.spotify.com/track/2LZyl3gX8HfHPmjgfeeJC8"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape",
         "url": "https://open.spotify.com/album/6Gy0t8MgPIC4GMZcYX3hIa"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 228266,
       "name": "I.D \uff5eEScape from Utopia\uff5e",
       "url": "https://open.spotify.com/track/2I1RzxRvjjfXIVLfPM0PDH"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
-        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
-      },
-      "artists": [
-        {
-          "name": "\u5bae\u5c3e\u7f8e\u4e5f (CV.\u6850\u8c37\u8776\u3005)",
-          "url": "https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "\u30cf\u30c3\u30d4\uff5e \u30a8\u30d5\u30a7\u30af\u30c8!",
-      "url": "https://open.spotify.com/track/2LZyl3gX8HfHPmjgfeeJC8"
     }
   ],
   "unique_name": "THE IDOLM@STER MILLION LIVE! ",

@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Bigflo & Oli
+> Les plus belles plumes rap français du moment\. Photo : Zamdane
 
-250 songs - 13 hr 19 min
+251 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A la bien, avec la haine](https://open.spotify.com/track/1VXm7U859FXJI9eRUMKlNN) | [Double Zulu](https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6) | [A la bien, avec la haine](https://open.spotify.com/album/0elHVySe9X5VZCc7jTQ5AS) | 2:26 | 2024-11-14 | 2024-12-20 |
 | [A propos](https://open.spotify.com/track/7mWbONmkFQUJpLzJBp0AOJ) | [Zek](https://open.spotify.com/artist/0ZvXadOwtNaacnVKZVFzLr) | [A propos](https://open.spotify.com/album/5tozyKVQZGr5lPdYDwQksY) | 3:42 | 2024-10-17 | 2024-11-15 |
 | [ADN](https://open.spotify.com/track/7Bo74bTYehggjIuyK8qLSL) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [ADN](https://open.spotify.com/album/3xOvdgz81DihnwDwxu9VNk) | 3:42 | 2025-06-05 | 2025-07-18 |
+| [Aha](https://open.spotify.com/track/2dRFARutLjSqOAtlweuSOk) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ), [Grödash](https://open.spotify.com/artist/5UkzlzLr46wmFHyqFJXjSu) | [Aha](https://open.spotify.com/album/2x0YY673nDbfVJyhVmfgSy) | 3:29 | 2025-08-14 |  |
 | [Alain](https://open.spotify.com/track/0ddKHPkFBKA2UqIQu9YMcj) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/1EW4m0Hyks4GIitJfFwBFr) | 3:39 | 2024-06-27 | 2024-09-20 |
 | [Anesthésie](https://open.spotify.com/track/5jfMspyQC74ofGRoJbWidw) | [Tetsuro](https://open.spotify.com/artist/3IwBr3YlABBLg3ZGDSwMVA) | [après l'averse.](https://open.spotify.com/album/763Z9gsho7ieD6c8TX72un) | 2:54 | 2025-02-20 | 2025-03-28 |
 | [Anomalie](https://open.spotify.com/track/7uLmBIDzFOYECWnLvXa6qG) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [Anomalie](https://open.spotify.com/album/1H6RDsIjlGZliLI078xLsd) | 7:17 | 2024-06-27 | 2024-11-08 |
@@ -40,7 +41,7 @@
 | [BLC](https://open.spotify.com/track/0Loh9vCsQQmap79CJKTWqH) | [Souli](https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn) | [BLC](https://open.spotify.com/album/6L2e5qg3kgWu4gVxAQ6S3Z) | 2:12 | 2025-06-19 |  |
 | [BLE$$$](https://open.spotify.com/track/1lprI0YPsf1eiUFGfs8o0v) | [Beeby](https://open.spotify.com/artist/0dbSMR7FjTxrmClPei3FPk) | [LA BOHEME](https://open.spotify.com/album/6iPE5EhqCDwC9ShJusaKmI) | 2:49 | 2025-01-09 | 2025-02-14 |
 | [blouseblanche](https://open.spotify.com/track/1RkmXt2d0kIu3hLAjUHmW8) | [Livaï](https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp) | [blouseblanche](https://open.spotify.com/album/0O9QzquMbh5G63KQwwd8rC) | 3:39 | 2025-01-16 | 2025-02-28 |
-| [Boomshit](https://open.spotify.com/track/1mCF92bUISrWB8MX8gQHnz) | [Kyo Itachi](https://open.spotify.com/artist/5PRPuZbf1ia2JcLdxBxtXB), [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD) | [Original Boomshit : À L'instinct Dans L'instant](https://open.spotify.com/album/0PJW8Qe17L7hSsllsk2B7q) | 3:23 | 2025-07-17 |  |
+| [Boomshit](https://open.spotify.com/track/1mCF92bUISrWB8MX8gQHnz) | [Kyo Itachi](https://open.spotify.com/artist/5PRPuZbf1ia2JcLdxBxtXB), [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD) | [Original Boomshit : À L'instinct Dans L'instant](https://open.spotify.com/album/0PJW8Qe17L7hSsllsk2B7q) | 3:23 | 2025-07-17 | 2025-08-15 |
 | [Booska Héritage \(Braquage Vocal\)](https://open.spotify.com/track/2Q1sxUGJjYVr2seeHR4N3g) | [Missan](https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk), [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh) | [Booska Héritage \(Braquage Vocal\)](https://open.spotify.com/album/7Dnu5Na9u9JJ6r2hkFcc2q) | 2:30 | 2025-04-17 | 2025-05-16 |
 | [BORD DE MER](https://open.spotify.com/track/1Txy4dU5fZa0GBkiROmaTz) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [TOUT DROIT](https://open.spotify.com/album/4d7sU643kUdpmolO1M7bRF) | 3:00 | 2025-05-15 | 2025-07-11 |
 | [BORDEL](https://open.spotify.com/track/53i4NiZxdvUP4TYCXbXhfn) | [Tha Manz](https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl) | [BORDEL](https://open.spotify.com/album/6IQZDeqjlraSyL1sYy1JKP) | 2:46 | 2025-04-03 | 2025-04-25 |

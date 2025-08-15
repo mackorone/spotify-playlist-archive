@@ -2,9 +2,9 @@
 
 ### [Country Musiek](https://open.spotify.com/playlist/37i9dQZF1DXd9JlcuGVUBL)
 
-> Die beste country musiek\. Omslag: BlackByrd
+> Die beste country musiek\. Omslag: Ariana Venus
 
-244 songs - 13 hr 31 min
+246 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Find Your Way Back](https://open.spotify.com/track/5aodxEQTHDKwNd1LhUzLjd) | [Janine Fourie](https://open.spotify.com/artist/0sqBXuozInkZyFQDOMKJvs) | [Find Your Way Back](https://open.spotify.com/album/5q4ldRiuefCbS2n3DHIcnj) | 3:16 | 2025-05-29 | 2025-06-17 |
 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 | 2025-04-03 | 2025-06-16 |
 | [First](https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [First](https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n) | 2:54 | 2024-05-02 | 2024-11-22 |
-| [Friends in Low Places](https://open.spotify.com/track/6HhmhU3ZhSc21IXsQT8otM) | [Campbell Brothers](https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC) | [Friends in Low Places](https://open.spotify.com/album/04wimdGl4c8IYzANGZdyzJ) | 4:01 | 2025-07-31 |  |
+| [Friends in Low Places](https://open.spotify.com/track/6HhmhU3ZhSc21IXsQT8otM) | [Campbell Brothers](https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC) | [Friends in Low Places](https://open.spotify.com/album/04wimdGl4c8IYzANGZdyzJ) | 4:01 | 2025-07-31 | 2025-08-15 |
 | [Friends Like That \- feat\. Jason Aldean \- Stripped](https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Friends Like That \(feat\. Jason Aldean \- Stripped\)](https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06) | 3:00 | 2025-04-10 | 2025-04-18 |
 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 | 2025-03-06 | 2025-03-25 |
 | [Girl I Never Met](https://open.spotify.com/track/3e3ULne1BkdKR64AlZkw3x) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Girl I Never Met](https://open.spotify.com/album/00RBopMn0LvTbCOnoK15hu) | 2:57 | 2025-03-06 | 2025-03-15 |
@@ -108,7 +108,7 @@
 | [Hometown](https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg) | [Maren Lein](https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq) | [Hometown](https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7) | 3:01 | 2025-05-22 | 2025-05-30 |
 | [Household](https://open.spotify.com/track/6MB7n0DXS9aEFcHkM3L9ff) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Household](https://open.spotify.com/album/2FZWouLd9aPwZB8PyPiPKn) | 2:51 | 2025-03-28 | 2025-04-04 |
 | [How Far Will We Take It?](https://open.spotify.com/track/453CeQGjxlMGaokntLtz5x) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 2:52 | 2024-05-09 | 2024-08-10 |
-| [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 |  |
+| [Hundred Mile High](https://open.spotify.com/track/12QsAlRWEyg3AB7qqPSJ4s) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hundred Mile High](https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr) | 2:52 | 2025-01-30 | 2025-08-15 |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-17 |  |
 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 | 2025-01-02 |  |
 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-13 | 2025-01-03 |
@@ -176,6 +176,7 @@
 | [Prayed For You](https://open.spotify.com/track/2ihFl88JQJtqPzsNQaS4BU) | [Jacksonville](https://open.spotify.com/artist/5lHCbhzMq5D72UDS2cCr3l) | [Prayed For You](https://open.spotify.com/album/08YFJliM9RLRkpxS3AvPZs) | 3:26 | 2024-06-13 | 2024-07-13 |
 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2024-07-26 | 2024-12-13 |
 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 | 2025-06-26 | 2025-07-04 |
+| [Reg](https://open.spotify.com/track/2QtC6GutRB7JPpG6spfTtS) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Reg](https://open.spotify.com/album/2zKOyA9xXwtmmrOSuobNbU) | 3:39 | 2025-08-14 |  |
 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 | 2024-06-13 | 2025-08-08 |
 | [Road Trip](https://open.spotify.com/track/6gNBLDUfHMdSKhNuD69p1n) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Road Trip](https://open.spotify.com/album/4cRjcg8RpoI220aXO4GGMY) | 2:57 | 2024-12-05 | 2025-01-31 |
 | [Rooi Vlag](https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Rooi Vlag](https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45) | 4:06 | 2025-07-25 | 2025-08-01 |
@@ -234,6 +235,7 @@
 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 | 2024-09-12 | 2024-09-24 |
 | [When Love Turns to Lies](https://open.spotify.com/track/21fAYsQMr7U08fayOZ0uDQ) | [Rock the Boat](https://open.spotify.com/artist/6thZnAuP1GhobU38ag8ojX) | [When Love Turns to Lies](https://open.spotify.com/album/1NkvaWjfi4X39kI0WkiN2d) | 3:13 | 2025-05-29 | 2025-06-17 |
 | [Where The Wild Things Are](https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [About Last Night](https://open.spotify.com/album/0gZPTH0ayDDEhUhDWAxvR7) | 3:56 | 2024-09-05 | 2025-04-11 |
+| [WHERE YOU'LL FIND ME](https://open.spotify.com/track/0XxfzXtECJyHoDXzidruzQ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/5LOSkN1kUg1sgZ15rSqoO1) | 2:58 | 2025-08-14 |  |
 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 | 2024-12-05 | 2025-03-29 |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-23 | 2025-04-13 |
 | [Whiskey en Water, Rooiwyn of Jy](https://open.spotify.com/track/31SpkcCrKEmVAcEbh3WJ9u) | [Logan Pietersen](https://open.spotify.com/artist/0Y2DVvg0bwD4dBrjNZTxqd) | [Whiskey en Water, Rooiwyn of Jy](https://open.spotify.com/album/56FA5CH5SWf4V91ZHXJezB) | 4:08 | 2025-03-06 | 2025-03-29 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Cloudy June
+> Neues aus der Welt des Pop\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,512 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,516 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 75 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
 | 76 | [Bitter Pill](https://open.spotify.com/track/4mWzxSV8E5QkaH2y97jBCy) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Missed Connections Collection](https://open.spotify.com/album/3VbZpY0kD7Ghx81QS8XMkC) | 2:45 |
 
-Snapshot ID: `AAAAAHTLFahbUCJlbQJkGKBT941eqXUE`
+Snapshot ID: `AAAAALs+QF6BesCbWlsZAoufSQ7C7G1L`

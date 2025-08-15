@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Loud
+> Le meilleur du hip\-hop québécois\. Photo: DawaMafia
 
-832 songs - 1 day 18 hr 11 min
+834 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [FTG](https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [FTG](https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v) | 3:03 | 2023-09-29 | 2024-03-09 |
 | [Fuck That](https://open.spotify.com/track/0aPy6slOERNdDUvz0HvGSl) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 3:34 | 2022-01-07 | 2022-01-15 |
 | [Funambule](https://open.spotify.com/track/17IYFs7jWrOZ3q30kBmnBn) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Funambule](https://open.spotify.com/album/4o4Wy7x6zIvGaeDdJxC9k2) | 2:34 | 2022-09-02 | 2022-12-24 |
+| [Fusion](https://open.spotify.com/track/7a2IAS8wXPikqHfLdWCv86) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Fusion](https://open.spotify.com/album/35opTTcaHnmDM7i8RS8a86) | 2:37 | 2025-08-15 |  |
 | [Future Ex](https://open.spotify.com/track/4c5hY1uAZGRFWrcwb3ZSjO) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Un jour de plus au paradis](https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd) | 3:01 | 2022-12-09 | 2023-11-04 |
 | [G.O.A.T.S.](https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires : Rouge](https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k) | 4:07 | 2022-01-07 | 2022-05-28 |
 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 | 2022-01-07 | 2022-06-18 |
@@ -514,6 +515,7 @@
 | [Money & A Bag Of Weed](https://open.spotify.com/track/4C8i8QInf73Zps21w3tPjs) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Money & A Bag Of Weed](https://open.spotify.com/album/0rYf8X3DCTiD1odGKWJSZD) | 3:20 | 2024-04-26 | 2024-05-18 |
 | [Money Up](https://open.spotify.com/track/5dj2jy1T2LhSi9z5s1ntSb) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [Tout vient d'en haut](https://open.spotify.com/album/6puUijNg2lAxC93OZr1QB0) | 3:17 | 2023-06-02 | 2024-03-16 |
 | [Monkey See Monkey Do](https://open.spotify.com/track/1nkSM3aKotsIwOgafMpQqQ) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Monkey See Monkey Do](https://open.spotify.com/album/2XHD8IJglSeKL203sKOFkR) | 3:18 | 2022-10-07 | 2022-11-19 |
+| [Monnaie](https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Monnaie](https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ) | 2:25 | 2025-08-15 |  |
 | [MONNAIE](https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [MONNAIE](https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI) | 2:32 | 2023-08-18 | 2023-11-25 |
 | [Monnaie](https://open.spotify.com/track/0LIKOSDqVHvvZkBnjaYa2W) | [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [PETiTOM](https://open.spotify.com/album/6HXIjuxcjCMm2tBG6HuW5r) | 2:29 | 2022-09-09 | 2022-09-24 |
 | [Monochrome](https://open.spotify.com/track/2Y9DqcZ43ybo06qJoElOR5) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Monochrome](https://open.spotify.com/album/37NFf8kkfvIGpOOJlFTGm6) | 2:39 | 2022-04-29 | 2022-05-28 |

@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: Tele
 
-801 songs - 2 day 2 hr 23 min
+802 songs - 2 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Christmas Wish](https://open.spotify.com/track/2XPm3kT9wJZIIy9LimP69P) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Christmas Wish](https://open.spotify.com/album/3l8ODsnB6nj1q3qHtf4Dez) | 3:31 | 2024-12-10 | 2025-02-19 |
 | [cinema](https://open.spotify.com/track/1FmopaVTLI7dD6ZujdKc17) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [cinema](https://open.spotify.com/album/3lgoPcyXDDXOSTk1adyrTb) | 4:24 | 2025-01-21 | 2025-02-12 |
 | [close your eyes](https://open.spotify.com/track/2z15Tol8VnN0T0jDzAIfHu) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [close your eyes](https://open.spotify.com/album/5FvkxMNtC33Tn3oGAxpbOl) | 4:29 | 2024-10-01 | 2025-01-15 |
-| [Closer](https://open.spotify.com/track/74gXElgz9jVRxCTI0Rtszi) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Closer](https://open.spotify.com/album/76EkqonDdNdN3VUWZVocrN) | 3:58 | 2025-07-22 |  |
+| [Closer](https://open.spotify.com/track/74gXElgz9jVRxCTI0Rtszi) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO) | [Closer](https://open.spotify.com/album/76EkqonDdNdN3VUWZVocrN) | 3:58 | 2025-07-22 | 2025-08-15 |
 | [Cold Sleep](https://open.spotify.com/track/2wo03t4FoUf97yuEvajZuj) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [Cold Sleep](https://open.spotify.com/album/1YWYBZGa5JEKiHTt0lH4iX) | 4:58 | 2025-02-18 | 2025-02-26 |
 | [COLORATURA](https://open.spotify.com/track/5SCKeEcc8msC3pg2tNCc4A) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luminescent Creatures](https://open.spotify.com/album/2mLrmtSEmIWLO6sLAq4lNH) | 4:07 | 2025-03-04 | 2025-07-09 |
 | [Colors](https://open.spotify.com/track/2MymFU6gUfjtKdtbejI67D) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Like A Diary](https://open.spotify.com/album/5K9dQuDCEJ1GEp6zFr4Dod) | 4:12 | 2025-01-28 | 2025-02-12 |
@@ -480,6 +480,7 @@
 | [キンモクセイ](https://open.spotify.com/track/4Dc7HhgTf3lvnOEk8kaSCU) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [キンモクセイ](https://open.spotify.com/album/2cF3FboitdxvaADTCzWWmQ) | 3:07 | 2024-07-02 | 2024-12-04 |
 | [ギリギリガール](https://open.spotify.com/track/3l5PqJmUaIxzKTex48pfiT) | [ゆうやけしはす](https://open.spotify.com/artist/3CwuIn6tAOwZiPt8e0ydoi) | [ギリギリガール](https://open.spotify.com/album/5BeUOqlFuZiacNLBWAuIrw) | 3:00 | 2024-07-30 | 2024-08-07 |
 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 | 2025-07-29 |  |
+| [クスノキ\-500年の風に吹かれて\-](https://open.spotify.com/track/2FigKAIY8YTuXsvaxttQsg) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [クスノキ\-500年の風に吹かれて\-](https://open.spotify.com/album/4xOhsCDCU5dKMZHh42VmMi) | 5:29 | 2025-08-12 |  |
 | [クリスマスの日じゃなくていいから](https://open.spotify.com/track/6RkW1REvjaQ6PHy4Md83rS) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [クリスマスの日じゃなくていいから](https://open.spotify.com/album/2gmHW4KyqlXI8cPihREQbC) | 4:27 | 2024-12-10 | 2025-04-23 |
 | [クリームソーダ](https://open.spotify.com/track/7MHHbT7CU9STkNpQHj8uQe) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [クリームソーダ](https://open.spotify.com/album/18NdantAIuFKymUjrS1RM5) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [グッド・バイ](https://open.spotify.com/track/5dpKo3gR5CnJ7d8ookkPDz) | [芝岡翔梧](https://open.spotify.com/artist/3mmLxRZUem9RCaW5xoLJcT) | [グッド・バイ](https://open.spotify.com/album/6fwieGfBGpAHYx9jJ8rEKN) | 4:25 | 2025-03-04 | 2025-03-12 |

@@ -4,7 +4,7 @@
 
 > Este Flow tiene otro Flow\. Foto: Lucky Brown y Tobal Mj.
 
-994 songs - 2 day 5 hr 12 min
+995 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [PISTOLONES](https://open.spotify.com/track/5oPjTmrIXMADIPpVMIEIqv) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Dunkan](https://open.spotify.com/artist/3WPRuzfjcRBf7byiF6pFvE) | [PISTOLONES](https://open.spotify.com/album/5187iSibIms9NTpphGCL4O) | 3:40 | 2023-04-07 | 2023-05-19 |
 | [Placer](https://open.spotify.com/track/5Uxw51GW6G8MtzUmmV1b6P) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Yabel](https://open.spotify.com/artist/3Zan5Poez2lZsuz9xXJfvn) | [Placer](https://open.spotify.com/album/1gsoB2gWI9bvC6qy7hZRdz) | 3:00 | 2023-10-14 | 2023-10-28 |
 | [Plata o Plomo](https://open.spotify.com/track/229sfiAhUrcl53cRSOkkdb) | [Son Gotten](https://open.spotify.com/artist/6WjgkE7KEl4vyqwVXSuAox), [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD), [El Goldo De Las Conec](https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr) | [Plata o Plomo](https://open.spotify.com/album/5hg2rdw9l36rUswjzVTAAk) | 3:01 | 2023-03-10 | 2023-04-15 |
+| [PNSD\-K \(feat\. Fran C\)](https://open.spotify.com/track/5WR8CilKvYzG1sweZPqQw9) | [En La Nota Records](https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [PNSD\-K \(feat\. Fran C\)](https://open.spotify.com/album/3MoFMwixzoBiJguPRXUhDn) | 3:17 | 2025-08-15 |  |
 | [Polarizado](https://open.spotify.com/track/3d2WrfpTd1tWFulRyLVTmu) | [Fran Maira](https://open.spotify.com/artist/62ztrjzw3tYDq5udATPhwN), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Polarizado](https://open.spotify.com/album/1Cg2KYOeeAsTxLONsm6qI7) | 2:40 | 2025-07-11 |  |
 | [Polen](https://open.spotify.com/track/0BPkXAcwpEZUjLVgNHh1kM) | [Pipo Beatz](https://open.spotify.com/artist/5zDVnUun4YSqFlbGk0W1kZ), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Polen](https://open.spotify.com/album/66dZn2PQN9PFTrZ9yEGR79) | 2:07 | 2024-06-28 | 2024-07-06 |
 | [Polémica](https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Polémica](https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8) | 2:31 | 2023-05-05 | 2023-08-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Yolte",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: ",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 161224,
       "name": "Barman Batsoi Rappers",
       "url": "https://open.spotify.com/track/5pbHkdbow6bFICTrpA8QiG"
@@ -1356,6 +1356,24 @@
       "duration_ms": 93648,
       "name": "Benz",
       "url": "https://open.spotify.com/track/6ImpMToliAD0SqtTtuVqYO"
+    },
+    {
+      "album": {
+        "name": "bichota",
+        "url": "https://open.spotify.com/album/52UuThkSQTrH7wXCjFLSk3"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "bichota",
+      "url": "https://open.spotify.com/track/7JB5KMD4UvyiJvZ0ZAGwxW"
     },
     {
       "album": {
@@ -3522,6 +3540,24 @@
     {
       "album": {
         "name": "FOTIA",
+        "url": "https://open.spotify.com/album/018vgFG2q7Gru59X6YVu2u"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "FOTIA",
+      "url": "https://open.spotify.com/track/5KD5e1AcZvf8cDvk9lMFIt"
+    },
+    {
+      "album": {
+        "name": "FOTIA",
         "url": "https://open.spotify.com/album/7tZHyy5oXZiaDFGxAg4GYp"
       },
       "artists": [
@@ -4273,6 +4309,24 @@
     },
     {
       "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/7FZiadbexPEv9gnRnzA0MM"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Gunshot",
+      "url": "https://open.spotify.com/track/0TfiM5B3ODte1XwSMs9E3r"
+    },
+    {
+      "album": {
         "name": "GUZMAN",
         "url": "https://open.spotify.com/album/1b5IAxsuk13wd4zUbvKT1i"
       },
@@ -4632,7 +4686,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 174000,
       "name": "INA",
       "url": "https://open.spotify.com/track/2OhQ0ASJMdj6TvQMwxi8E9"
@@ -6175,6 +6229,40 @@
     },
     {
       "album": {
+        "name": "ME TYRANNAEI",
+        "url": "https://open.spotify.com/album/0uAladPvBpmmCc9VvojuJW"
+      },
+      "artists": [
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        },
+        {
+          "name": "Pindos Atletico",
+          "url": "https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck"
+        },
+        {
+          "name": "ENEM",
+          "url": "https://open.spotify.com/artist/6ASifUtmNbT4u8x7O8YBHW"
+        },
+        {
+          "name": "Mpelafon",
+          "url": "https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F"
+        },
+        {
+          "name": "Thel",
+          "url": "https://open.spotify.com/artist/2NO9RoBxLVhsnFOvAKYIzE"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249433,
+      "name": "ME TYRANNAEI",
+      "url": "https://open.spotify.com/track/0CyZfSYQXaHMqeCscmbiEA"
+    },
+    {
+      "album": {
         "name": "Ki2d",
         "url": "https://open.spotify.com/album/4APMq2g1qGMZxkuHrgqO6q"
       },
@@ -6701,6 +6789,28 @@
     },
     {
       "album": {
+        "name": "NAXO",
+        "url": "https://open.spotify.com/album/1lwa1Dba6uADUwmasQR6Mc"
+      },
+      "artists": [
+        {
+          "name": "BAKV",
+          "url": "https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "NAXO",
+      "url": "https://open.spotify.com/track/76GRYJiHeSiMQwnduYIlyr"
+    },
+    {
+      "album": {
         "name": "NEGAN",
         "url": "https://open.spotify.com/album/4ZoFf16ze8cPPMnPrt5Ato"
       },
@@ -7073,6 +7183,28 @@
     },
     {
       "album": {
+        "name": "OLA GYRNANE",
+        "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "OLA GYRNANE",
+      "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+    },
+    {
+      "album": {
         "name": "OLE",
         "url": "https://open.spotify.com/album/5zx3izI5OvVu99ikBKau4N"
       },
@@ -7434,7 +7566,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 141406,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/0VzLi4og9pVyuoo4jfjkWw"
@@ -7496,7 +7628,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 167251,
       "name": "PALI",
       "url": "https://open.spotify.com/track/48tcwflLj2v1mDsPQnjxN7"
@@ -9368,7 +9500,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 120000,
       "name": "Stoxos",
       "url": "https://open.spotify.com/track/5NexhGBdV6SagfdOGPFRik"
@@ -10856,7 +10988,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 135983,
       "name": "Xorigos",
       "url": "https://open.spotify.com/track/4t9oNpGHVQfms0CMhQh3BU"

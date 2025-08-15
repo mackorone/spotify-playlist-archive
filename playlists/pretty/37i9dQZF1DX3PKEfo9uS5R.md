@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,254 likes - 200 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,297 likes - 200 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 19 | [Longing](https://open.spotify.com/track/60GDCHXtRlL0QTzI4eazxd) | [Phil Axes](https://open.spotify.com/artist/0VFWh6K23ZImXW9loa6ciu) | [Longing](https://open.spotify.com/album/0MDVVU9VFY3XjNMxEKPjXZ) | 2:04 |
 | 20 | [Haze](https://open.spotify.com/track/1t1LV5GROdzRNTwAhPAfz9) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Haze](https://open.spotify.com/album/2xlrz75D6hTMtJheY9CeDc) | 2:37 |
 | 21 | [dimmed blue](https://open.spotify.com/track/1qIrqhG9JQSfsfQHJpVX7x) | [Morning life](https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj) | [dimmed blue](https://open.spotify.com/album/7lkXFcM230kJSiHkbsejj6) | 2:14 |
-| 22 | [Sunset\-buff](https://open.spotify.com/track/4F8Nw5MBAbY0BXa5vVFaBY) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Yes Day](https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg) | 2:20 |
+| 22 | [Yes Day](https://open.spotify.com/track/4F8Nw5MBAbY0BXa5vVFaBY) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Yes Day](https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg) | 2:20 |
 | 23 | [Tropical Reverie](https://open.spotify.com/track/5hkOYmUzYJL3oA2KFmJVz5) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Tropical Reverie](https://open.spotify.com/album/3BhX5LRNo7B3CiKhlwfRxh) | 3:16 |
 | 24 | [sundown](https://open.spotify.com/track/793JxLnZphGoLRvoncnjhT) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Sundown](https://open.spotify.com/album/4citJntYFmKucI98xwscZT) | 3:06 |
 | 25 | [fruity sand](https://open.spotify.com/track/41ajk8hLuuJcPUvKWkB6ID) | [honeypie](https://open.spotify.com/artist/3q5KQTkrGDcIYI7pUWPV2b) | [fruity sand](https://open.spotify.com/album/1mD8yTzWy68Kk2d4tjtDeB) | 2:25 |

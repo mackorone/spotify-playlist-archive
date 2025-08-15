@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von RAF Camora und Ufo361, Ed Sheeran, Kraftklub, LUNAX und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,735 likes - 85 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,806 likes - 85 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 84 | [High](https://open.spotify.com/track/12Jnatk6BJiM855QZodXPT) | [Ina Müller](https://open.spotify.com/artist/4sX5aHE7Jnbl4bTrah2aDu) | [High](https://open.spotify.com/album/0zEIqyty1PSeR5gZ4QCwxh) | 3:26 |
 | 85 | [Espiritú](https://open.spotify.com/track/1QLvwPTBeKKfUaG46IiHsE) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Niños Del Bosque](https://open.spotify.com/album/0cOMJwSdi2gNMIeMVtOkLZ) | 3:19 |
 
-Snapshot ID: `AAAAAFy4GT9dgY2W7eGd1qLFAJmFg3fp`
+Snapshot ID: `AAAAAPd18BNTIGtimLo9yMZiH+foPy5X`

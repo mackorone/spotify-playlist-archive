@@ -2,7 +2,7 @@
 
 ### [Pop Rising Korea](https://open.spotify.com/playlist/37i9dQZF1DWVuUd3Ffrcx8)
 
-> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>Laufey\)
+> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: <br/>Conan Gray\)
 
 603 songs - 1 day 8 hr 35 min
 

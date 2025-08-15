@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "day off",
+      "url": "https://open.spotify.com/track/26F7czXceIFiTw3j0qXrXK"
+    },
+    {
+      "album": {
         "name": "Daydrinking",
         "url": "https://open.spotify.com/album/1LzTssDA9JdPiqUgO21lDV"
       },
@@ -1984,6 +2002,24 @@
       "duration_ms": 267048,
       "name": "\uc124\uba85\ud558\uae30 \uadc0\ucc2e\uc740 \ubc24",
       "url": "https://open.spotify.com/track/34NbLGushBGKom3ifJYNiP"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/65B9PeoRbBTQwBTtGrWHJT"
+      },
+      "artists": [
+        {
+          "name": "SUNGJIN",
+          "url": "https://open.spotify.com/artist/5ZQ96t8nPfBXYdZaXZwDHC"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244667,
+      "name": "\uc544\ubb34\uac83\ub3c4 \uc548 \ud558\uace0 \uc2f6\ub2e4 I don't wanna do anything",
+      "url": "https://open.spotify.com/track/6UJEtBT9wPkZ0fFeRqUN2e"
     },
     {
       "album": {

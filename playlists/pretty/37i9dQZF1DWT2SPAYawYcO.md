@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Ninajirachi, Bailey Zimmerman, The Kid LAROI, Guy Sebastian, mgk + more!
+> Brand new music from Tobiahs, Olivia Dean, Chase Atlantic, Paul Kelly + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,813 likes - 81 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,058 likes - 81 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 80 | [No Such Time](https://open.spotify.com/track/2IrrF2MzBtghfx3UVyYw44) | [The Southern River Band](https://open.spotify.com/artist/77giZvm3lPMYiI79FmmS31) | [No Such Time](https://open.spotify.com/album/5p390P7RWk3PZ9C5u9E8BU) | 3:22 |
 | 81 | [Love It And Leave It](https://open.spotify.com/track/1fhEM2Jnf9ZMsdIfKDxsJW) | [LOLA](https://open.spotify.com/artist/0cD96GFyKaDX2LdpHpyT7d) | [Love It And Leave It](https://open.spotify.com/album/0zo45nv5QPrCMsOrXFVjsC) | 2:50 |
 
-Snapshot ID: `AAAAADacfuWJRn7ddf71eG0SOUpJ3Oro`
+Snapshot ID: `AAAAAPs1XjzkGd/dwx6UgzBYIHa+pL0q`

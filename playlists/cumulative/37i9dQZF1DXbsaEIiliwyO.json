@@ -2127,6 +2127,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30aa\u3068\u30ad\u30e9\u30e1\u30ad",
+        "url": "https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30d4\u30e9\u30fb\u30b9\u30d4\u30ab",
+          "url": "https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO"
+        }
+      ],
+      "date_added": "2025-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "\u30a2\u30aa\u3068\u30ad\u30e9\u30e1\u30ad",
+      "url": "https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30de\u30ea\u30ea\u30b9",
         "url": "https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT"
       },
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 213640,
       "name": "\u30b9\u30bf\u30fc\u30de\u30fc\u30ab\u30fc (Album Mix)",
       "url": "https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj"

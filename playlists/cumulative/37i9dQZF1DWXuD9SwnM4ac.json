@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the new indie tracks worth knowing about. Cover: Ethel Cain",
+  "description": "All the new indie tracks worth knowing about. Cover: Steve Lacy",
   "name": "Indie Arrivals",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 160500,
       "name": "'06 wayne rooney",
       "url": "https://open.spotify.com/track/7p6LdEcYnSbw68yJDbUjxD"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 230399,
       "name": "always summer",
       "url": "https://open.spotify.com/track/7KPWowW2yokxIVyinIgdPx"
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
@@ -1852,6 +1852,24 @@
       "duration_ms": 243607,
       "name": "Best Bits",
       "url": "https://open.spotify.com/track/57O7ES7W7nREsC78LWq5ah"
+    },
+    {
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/3gwUL03L7rksTKNwvy1Od3"
+      },
+      "artists": [
+        {
+          "name": "Garage Sale",
+          "url": "https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158909,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/54M8OyFOZR5FxVxL58Cwjj"
     },
     {
       "album": {
@@ -4105,6 +4123,42 @@
     },
     {
       "album": {
+        "name": "Dancing2",
+        "url": "https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272803,
+      "name": "Dancing2",
+      "url": "https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW"
+    },
+    {
+      "album": {
+        "name": "Double Magic",
+        "url": "https://open.spotify.com/album/6OVaItJwnVzWHYLCJ0yNzm"
+      },
+      "artists": [
+        {
+          "name": "Sunbeam Sound Machine",
+          "url": "https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304491,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7FlItTigF11asc9sTJA73X"
+    },
+    {
+      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV"
       },
@@ -4116,7 +4170,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 196279,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u"
@@ -4228,7 +4282,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
@@ -5169,6 +5223,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221412,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
+    },
+    {
+      "album": {
         "name": "Club 20",
         "url": "https://open.spotify.com/album/3P2CgypNUCjskPdRd4J0OQ"
       },
@@ -5740,7 +5812,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 147597,
       "name": "Falling on my Sword",
       "url": "https://open.spotify.com/track/3t6xrRUy8FmhH7XH86RO1O"
@@ -7236,7 +7308,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 256519,
       "name": "Harry and the Jets",
       "url": "https://open.spotify.com/track/6lSAHuOAfFC5DtSQrCsfE3"
@@ -7254,7 +7326,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 227986,
       "name": "Hate Goodbyes",
       "url": "https://open.spotify.com/track/0NlEsQabHwAR9JpZgFGRwl"
@@ -7572,6 +7644,24 @@
       "duration_ms": 254218,
       "name": "hey you",
       "url": "https://open.spotify.com/track/6FSppvXYbhoBHwI3ofNfkd"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
       "album": {
@@ -8515,6 +8605,24 @@
     },
     {
       "album": {
+        "name": "Idiot",
+        "url": "https://open.spotify.com/album/7h25f5sdZnvWLs0DsdKV7O"
+      },
+      "artists": [
+        {
+          "name": "The Tullamarines",
+          "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189190,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/5VD7uUXARSfqRZ1mALZhum"
+    },
+    {
+      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -8772,7 +8880,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 179900,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF"
@@ -9639,6 +9747,24 @@
     },
     {
       "album": {
+        "name": "Lesbian Of The Year",
+        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213824,
+      "name": "Lesbian Of The Year",
+      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
+    },
+    {
+      "album": {
         "name": "Less of You",
         "url": "https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht"
       },
@@ -10315,6 +10441,24 @@
     },
     {
       "album": {
+        "name": "Lucky Dimes",
+        "url": "https://open.spotify.com/album/5WeCbcQ2IxU5IFVx5zlf9f"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208028,
+      "name": "Lucky Dimes",
+      "url": "https://open.spotify.com/track/5RBsjWGHFmZlVeA4QuP9WI"
+    },
+    {
+      "album": {
         "name": "Lucky Star",
         "url": "https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS"
       },
@@ -10500,7 +10644,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 231546,
       "name": "Mango Season",
       "url": "https://open.spotify.com/track/6bjcpk0L4ldnJeYk2iGd9i"
@@ -11266,7 +11410,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 175833,
       "name": "moody",
       "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
@@ -11620,6 +11764,24 @@
       "duration_ms": 226910,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/3TJhZ9uBZ0HlBgdhCSdcXd"
+    },
+    {
+      "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
       "album": {
@@ -12324,7 +12486,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 172786,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
@@ -12378,7 +12540,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 195146,
       "name": "Original",
       "url": "https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ"
@@ -14111,6 +14273,42 @@
     },
     {
       "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172667,
+      "name": "slip & let go",
+      "url": "https://open.spotify.com/track/1O2XByHHfcbMSBv1lKMNL8"
+    },
+    {
+      "album": {
+        "name": "Sliver",
+        "url": "https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi"
+      },
+      "artists": [
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156586,
+      "name": "Sliver",
+      "url": "https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/6nYbcbxFng8Lkm4aNwQ9xt"
       },
@@ -14924,7 +15122,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 296363,
       "name": "Strange Love",
       "url": "https://open.spotify.com/track/1ykGRL4ef1OPOl5VYQqF0p"
@@ -15675,6 +15873,24 @@
     },
     {
       "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/5y5g63F5OpGcjwWKLVpnQb"
+      },
+      "artists": [
+        {
+          "name": "Channo",
+          "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140339,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5ay3JwzdhHMWA1dpCaZJ0a"
+    },
+    {
+      "album": {
         "name": "Time Is A Flower (Deluxe)",
         "url": "https://open.spotify.com/album/14Kc6BfJB8fCTyH6FZU2UW"
       },
@@ -16398,7 +16614,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 177582,
       "name": "Thought You'd Know By Now",
       "url": "https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6"
@@ -17117,6 +17333,24 @@
     },
     {
       "album": {
+        "name": "We Could Be Together",
+        "url": "https://open.spotify.com/album/5fZrSi4Mtt7mLXDG0ElQfi"
+      },
+      "artists": [
+        {
+          "name": "Salarymen",
+          "url": "https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "We Could Be Together",
+      "url": "https://open.spotify.com/track/54qAc90egMQQ23ZBVL245S"
+    },
+    {
+      "album": {
         "name": "WE DESPISE THE BOURGEOISIE",
         "url": "https://open.spotify.com/album/3cL611FIu6TSrRs5gZmLWW"
       },
@@ -17324,6 +17558,24 @@
       "duration_ms": 271497,
       "name": "What is ashwagandha",
       "url": "https://open.spotify.com/track/59abjui3aifvPewKh2siLY"
+    },
+    {
+      "album": {
+        "name": "its not your brain its just the drugs",
+        "url": "https://open.spotify.com/album/6KIvAhHotxCiZJXdxVtwqX"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250562,
+      "name": "what sugar you craving",
+      "url": "https://open.spotify.com/track/1DMkF0mJ1UVpKkLYYmiYuc"
     },
     {
       "album": {
@@ -17738,7 +17990,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 156578,
       "name": "Wipe your tears",
       "url": "https://open.spotify.com/track/3K5bLOU8pMGrDsPCfdL25g"
@@ -18196,7 +18448,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-15",
       "duration_ms": 131726,
       "name": "Yucky's Song",
       "url": "https://open.spotify.com/track/5cRJk8e9Y2qgIFPo0lE3dr"

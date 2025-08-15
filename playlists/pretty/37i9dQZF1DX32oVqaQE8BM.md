@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,931 likes - 190 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,007 likes - 190 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 2 | [Lift Off](https://open.spotify.com/track/060AmlKT5Y6xOKS1X4mUK1) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Lift Off](https://open.spotify.com/album/0VK2ZN3eIZLpzuY0R2nT3U) | 2:46 |
 | 3 | [Platoon](https://open.spotify.com/track/0JVWhjQZxnU3cdFc2FETgZ) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Platoon](https://open.spotify.com/album/5aEMLOMJiw57EORRaOwvLQ) | 2:59 |
 | 4 | [Epiphany](https://open.spotify.com/track/5TwX2FkMDATNTac7ilXosD) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Epiphany](https://open.spotify.com/album/2eIoBdml7VpzlXbnY0t7Ot) | 2:26 |
-| 5 | [Sunset\-buff](https://open.spotify.com/track/4F8Nw5MBAbY0BXa5vVFaBY) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Yes Day](https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg) | 2:20 |
+| 5 | [Yes Day](https://open.spotify.com/track/4F8Nw5MBAbY0BXa5vVFaBY) | [Sunset\-buff](https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W) | [Yes Day](https://open.spotify.com/album/5uI2t0jGQZ0k68ToIC25xg) | 2:20 |
 | 6 | [inspire](https://open.spotify.com/track/1CuL2X0K0BUV460hf0LUlt) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [inspire](https://open.spotify.com/album/5Q4fxuKSzgGmK6DEkzk1qz) | 2:21 |
 | 7 | [runAway](https://open.spotify.com/track/7DR8XmrCVMCvjg6LYSoLLG) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [runAway](https://open.spotify.com/album/2hZKQKRN4NTygDaSH90cpm) | 2:39 |
 | 8 | [Fiji Springs](https://open.spotify.com/track/4gAcB9MAlEVp0YQkwTqA8G) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Fiji Springs](https://open.spotify.com/album/3RdGDbBStWy0QfPyiRJRb8) | 2:23 |
