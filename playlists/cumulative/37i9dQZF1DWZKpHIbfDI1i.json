@@ -6271,6 +6271,28 @@
     },
     {
       "album": {
+        "name": "PORTATE BIEN",
+        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209110,
+      "name": "CUANTAS VECES",
+      "url": "https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb"
+    },
+    {
+      "album": {
         "name": "Amarte Duele (Versiones de Ximena)",
         "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
       },
@@ -6904,7 +6926,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 218411,
       "name": "De Sobremanera",
       "url": "https://open.spotify.com/track/3cVKbHNzwHOqsqJB70H63R"

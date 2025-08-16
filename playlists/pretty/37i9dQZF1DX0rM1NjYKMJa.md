@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Get ready for Notting Hill Carnival 2025\. The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,818 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,197 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 21 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 |
 | 22 | [Bob the Builder](https://open.spotify.com/track/1K35Ej6qQciVEXD18g3OaX) | [Lady Lava](https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ) | [Bob the Builder](https://open.spotify.com/album/0GjSEtiNfPCQHWqb2wynMV) | 2:13 |
 | 23 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
-| 24 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
-| 25 | [I Know](https://open.spotify.com/track/1gSyVQDOARkemBoM1o8Hvi) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [I Know](https://open.spotify.com/album/021nE8jAFXDJdH3SNnmmWC) | 3:01 |
-| 26 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
-| 27 | [Puni Police](https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Puni Police](https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09) | 2:44 |
+| 24 | [I Know](https://open.spotify.com/track/1gSyVQDOARkemBoM1o8Hvi) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [I Know](https://open.spotify.com/album/021nE8jAFXDJdH3SNnmmWC) | 3:01 |
+| 25 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
+| 26 | [Puni Police](https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Puni Police](https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09) | 2:44 |
+| 27 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 |
 | 28 | [Hustling In My Blood](https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Damian "Jr Gong" Marley](https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Hustling In My Blood](https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK) | 4:15 |
 | 29 | [PARDY](https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [PARDY](https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL) | 3:42 |
 | 30 | [Ms Pretty Rockstar](https://open.spotify.com/track/0OP6uabvEok2R5i3OzltCB) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Ms Pretty Rockstar](https://open.spotify.com/album/2hNJ03DujEamkpCIsAGjZ3) | 2:24 |

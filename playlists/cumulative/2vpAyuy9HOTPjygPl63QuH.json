@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/5dGWRvO997qN20ROrBN1NX"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/7hI6lsC3yvxExoVG3w8euT"
+    },
+    {
+      "album": {
         "name": "20:22 (DJEAU Remix)",
         "url": "https://open.spotify.com/album/1RwJ6qNM3nAYiLGc2qvIO0"
       },
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 181874,
       "name": "Baby Got Back",
       "url": "https://open.spotify.com/track/2DC888t0oMQlVOyda1QNn9"
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 208524,
       "name": "Billions - Major League Djz Remix",
       "url": "https://open.spotify.com/track/1HeDGAsbt3ifG3enK4eCT9"
@@ -7642,7 +7660,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 152030,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/7zKuqq6C5d9hiONmhzLfzj"
@@ -9829,6 +9847,28 @@
     },
     {
       "album": {
+        "name": "Doin' It feat. MC DT",
+        "url": "https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177831,
+      "name": "Doin' it featuring MC DT",
+      "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
+    },
+    {
+      "album": {
         "name": "DOMINATION (R3WIRE REMIX)",
         "url": "https://open.spotify.com/album/4BCsZijQM48GRcoSlZERTF"
       },
@@ -11815,6 +11855,28 @@
     },
     {
       "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/4ZCj0fAQM8WbSuqvnHT4J7"
+      },
+      "artists": [
+        {
+          "name": "Torren Foot",
+          "url": "https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4"
+        },
+        {
+          "name": "Airwolf Paradise",
+          "url": "https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5glulfNqVHMi9D8nXXeH8J"
+    },
+    {
+      "album": {
         "name": "Everybody Everybody",
         "url": "https://open.spotify.com/album/7kLFiZyNmWIH5F3cswDX6M"
       },
@@ -12869,6 +12931,24 @@
     },
     {
       "album": {
+        "name": "Feel The Heat",
+        "url": "https://open.spotify.com/album/62dxnU6YCP207geZjvYU5v"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184673,
+      "name": "Feel The Heat",
+      "url": "https://open.spotify.com/track/3gzFwocYC3xcdl6vIOEu3f"
+    },
+    {
+      "album": {
         "name": "Feel the Music",
         "url": "https://open.spotify.com/album/08Iuw43mvfJbaCd1fSXSYV"
       },
@@ -13446,7 +13526,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 209076,
       "name": "FLY",
       "url": "https://open.spotify.com/track/2zb5saBnxlDmD47NdlXtyv"
@@ -14580,7 +14660,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 177327,
       "name": "GDH",
       "url": "https://open.spotify.com/track/2PhKn3tXUkx5vHlYM3P4Ob"
@@ -17916,7 +17996,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 177927,
       "name": "House x Pressure",
       "url": "https://open.spotify.com/track/5e5hE3DuPYFh7pJHzZ6YeL"
@@ -26502,6 +26582,24 @@
       "duration_ms": 145669,
       "name": "My Church (feat. LIINKS)",
       "url": "https://open.spotify.com/track/0jhC5GYDyL80u6dscyOT24"
+    },
+    {
+      "album": {
+        "name": "My City",
+        "url": "https://open.spotify.com/album/0VjQFiFiUMApc3wD1uxFdq"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/6ipv6Mrfq4qF26ZRXAGgzp"
     },
     {
       "album": {
@@ -35175,6 +35273,24 @@
     },
     {
       "album": {
+        "name": "Show Stealer",
+        "url": "https://open.spotify.com/album/4hHM6Gg6VlQTZ9REZNRHKx"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200583,
+      "name": "Show Stealer",
+      "url": "https://open.spotify.com/track/2A3KrVBHHMInwXvDswI0Ze"
+    },
+    {
+      "album": {
         "name": "Shut Up!",
         "url": "https://open.spotify.com/album/0QsVUKTGbtYEM57fUNeivc"
       },
@@ -40685,6 +40801,24 @@
     },
     {
       "album": {
+        "name": "ENDZ061",
+        "url": "https://open.spotify.com/album/66l4BIequxiDPjxXoH900j"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Time Away",
+      "url": "https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr"
+    },
+    {
+      "album": {
         "name": "Time Is Now",
         "url": "https://open.spotify.com/album/17AOcjsMLOvLwYBXDOaGDk"
       },
@@ -42508,7 +42642,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 207230,
       "name": "Up Front",
       "url": "https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL"

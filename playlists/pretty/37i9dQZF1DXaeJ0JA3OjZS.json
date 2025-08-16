@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 194655,
+  "num_followers": 194892,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -647,8 +647,8 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -731,8 +731,8 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -944,17 +944,13 @@
           "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
         },
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Edwin Luna",
+          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
         }
       ],
-      "duration_ms": 278623,
-      "name": "Potro Lobo Gateado",
-      "url": "https://open.spotify.com/track/1Ks8NK7LDMjOMEc26rithO"
+      "duration_ms": 181635,
+      "name": "El Alaz\u00e1n y el Rosillo",
+      "url": "https://open.spotify.com/track/2CSqRM3YG0JzXB9KMFdR0M"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -1032,13 +1028,25 @@
           "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
         },
         {
+          "name": "Edwin Luna",
+          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
+        },
+        {
           "name": "Leandro R\u00edos",
           "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Humberto Herrera",
+          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
         }
       ],
-      "duration_ms": 162867,
-      "name": "Se Vende un Caballo",
-      "url": "https://open.spotify.com/track/1JYTrgXZsXbrNLCBXfEwds"
+      "duration_ms": 178272,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6k9wJzaGs5qBAfMGSMGHQn"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -1120,13 +1128,17 @@
           "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
         },
         {
-          "name": "Edwin Luna",
-          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 181635,
-      "name": "El Alaz\u00e1n y el Rosillo",
-      "url": "https://open.spotify.com/track/2CSqRM3YG0JzXB9KMFdR0M"
+      "duration_ms": 278623,
+      "name": "Potro Lobo Gateado",
+      "url": "https://open.spotify.com/track/1Ks8NK7LDMjOMEc26rithO"
     },
     {
       "added_at": "2025-05-09 06:00:12",

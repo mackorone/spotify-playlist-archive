@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 20114,
+  "num_followers": 20132,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-06-13 04:00:47",
       "album": {
+        "name": "Green Love",
+        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
+      },
+      "artists": [
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Green Love",
+      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
+    },
+    {
+      "added_at": "2025-06-13 04:00:47",
+      "album": {
         "name": "SUPERNOVA",
         "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2025-06-13 04:00:47",
       "album": {
-        "name": "Green Love",
-        "url": "https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB"
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
       },
       "artists": [
         {
-          "name": "TRIST\u00c1N!",
-          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
         }
       ],
-      "duration_ms": 144240,
-      "name": "Green Love",
-      "url": "https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp"
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "added_at": "2025-06-13 04:00:47",
@@ -879,22 +895,6 @@
       "duration_ms": 208489,
       "name": "L\u00e1grimas de sol",
       "url": "https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd"
-    },
-    {
-      "added_at": "2025-06-13 04:00:47",
-      "album": {
-        "name": "no llames lo m\u00edo nuestro",
-        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "no llames lo m\u00edo nuestro",
-      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "added_at": "2025-06-13 04:00:47",

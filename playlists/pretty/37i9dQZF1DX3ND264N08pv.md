@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,967 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,999 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 36 | [In Synergy](https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [In Synergy](https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T) | 2:46 |
 | 37 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
 | 38 | [REBELS AT HEART](https://open.spotify.com/track/7sRBCzeVu9wnOtOi7ifXGP) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [REBELS AT HEART](https://open.spotify.com/album/4GSKfWQafbT294cDzRb6y1) | 2:04 |
-| 39 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |
-| 40 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
+| 39 | [Hardcore Strikes Back](https://open.spotify.com/track/7bf4DG2tPnRn5Dce4virJE) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Hardcore Strikes Back](https://open.spotify.com/album/6mReiEKP5mrzmQV1N0YRdE) | 3:09 |
+| 40 | [Monkey Man](https://open.spotify.com/track/6bSKqsylJ6DzDP6Onvp746) | [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu), [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Monkey Man](https://open.spotify.com/album/4R9thnGKDqtC5jzajpi5u4) | 2:20 |
 | 41 | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/track/48KVM5tvfliqY6l7kduiPF) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Frenchcore Familia](https://open.spotify.com/artist/3lX2yJBnRgHzvGp6d5xGjR) | [F.R.E.N.C.H.C.O.R.E.](https://open.spotify.com/album/08UAg9MSdmXQ2IBnhJx6eC) | 2:38 |
 | 42 | [Kamikaze](https://open.spotify.com/track/3BaGQ8tsutNrim7MGWBjbC) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [EZG](https://open.spotify.com/artist/19a4917FBnuYz90ezDrKv4) | [Kamikaze](https://open.spotify.com/album/49C4pHCfwYCc0XeSSeJvV0) | 3:40 |
 | 43 | [Life's A Bitch](https://open.spotify.com/track/3IatERaIQb9jVbR0OmrlXa) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Life's A Bitch](https://open.spotify.com/album/4LbVG19yQnDbyt1khkSIGI) | 3:33 |

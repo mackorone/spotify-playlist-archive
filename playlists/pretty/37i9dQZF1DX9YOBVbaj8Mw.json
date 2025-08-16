@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 17646,
+  "num_followers": 17644,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Letnie my\u015bli",
+        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Letnie my\u015bli",
+      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Sanatorium",
         "url": "https://open.spotify.com/album/2fyAniBCpsGLEMTiQKM9CA"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 136000,
       "name": "primabalerina",
       "url": "https://open.spotify.com/track/0omUewlK4jhfp1bYpYMzrk"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Letnie my\u015bli",
-        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 210612,
-      "name": "Letnie my\u015bli",
-      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Pierwsza P\u0142yta",
-        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 202069,
-      "name": "mleko i mood",
-      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "REM",
         "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 197942,
       "name": "P\u00f3\u0142noc",
       "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Pierwsza P\u0142yta",
+        "url": "https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 202069,
+      "name": "mleko i mood",
+      "url": "https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Dziewczyna S\u0142o\u0144ca",
-        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
-      },
-      "artists": [
-        {
-          "name": "Anna Rusowicz",
-          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Tobie",
-      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 202037,
       "name": "Sama na planecie",
       "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Dziewczyna S\u0142o\u0144ca",
+        "url": "https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL"
+      },
+      "artists": [
+        {
+          "name": "Anna Rusowicz",
+          "url": "https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Tobie",
+      "url": "https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1187,30 +1187,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Adam's Apple",
-        "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Smoczy\u0144ski",
-          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
-        },
-        {
-          "name": "Rafal Janiak",
-          "url": "https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme"
-        },
-        {
-          "name": "Chopin University Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O"
-        }
-      ],
-      "duration_ms": 314728,
-      "name": "Adam's Apple: III. Temptation",
-      "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "A statek p\u0142ynie",
         "url": "https://open.spotify.com/album/1FDmrBj9fm34SRd5F8qxlj"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 188187,
       "name": "Serbowie",
       "url": "https://open.spotify.com/track/6f4Z4mZA5XdO0DXZjoIxJc"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Adam's Apple",
+        "url": "https://open.spotify.com/album/2a8z64pYBe16Mp8xLHFzMf"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Smoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/0uYix4krQWE2zDQO17Shlu"
+        },
+        {
+          "name": "Rafal Janiak",
+          "url": "https://open.spotify.com/artist/26xDzMhDqi1HtB3riFUqme"
+        },
+        {
+          "name": "Chopin University Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6UV8U2a96aSNrQhaFO2O0O"
+        }
+      ],
+      "duration_ms": 314728,
+      "name": "Adam's Apple: III. Temptation",
+      "url": "https://open.spotify.com/track/7dsdSD422nQiCJeYfrFSPc"
     },
     {
       "added_at": "2025-04-06 08:27:45",

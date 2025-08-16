@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Alex G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,950 likes - 180 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,345 likes - 180 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

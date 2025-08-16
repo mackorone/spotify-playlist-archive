@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "Mali Dje",
+      "url": "https://open.spotify.com/track/19HLWdo9rmxdpLuJZEjXyc"
+    },
+    {
+      "album": {
         "name": "In the Heart of the Moon",
         "url": "https://open.spotify.com/album/1tSY0PB7uHvKhnEnjJQXLX"
       },

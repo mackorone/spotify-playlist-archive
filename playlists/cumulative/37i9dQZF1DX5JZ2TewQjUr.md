@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Luna Is A Bep
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Michael C
 
-1,492 songs - 3 day 12 hr 8 min
+1,497 songs - 3 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Give It Up \- Live](https://open.spotify.com/track/4omJ7cFiuK8I8tTbdnalEh) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Give It Up \(Live\)](https://open.spotify.com/album/7mOFUTdjtYNv8AkBmV1ZxI) | 3:36 | 2022-12-15 | 2023-01-06 |
 | [Go Head](https://open.spotify.com/track/5gtoVdkR5k72kCdRNjTxq8) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [Go Head](https://open.spotify.com/album/0zVYqZ4HtVpGHng9HL0oEH) | 2:51 | 2024-12-19 | 2025-05-30 |
 | [GO UP](https://open.spotify.com/track/1WLjBAS287dg6jaYdYjdpn) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [GO UP](https://open.spotify.com/album/55ShbiXKTKwGmHpb78dz5V) | 3:07 | 2023-05-11 | 2023-09-01 |
+| [Go with You](https://open.spotify.com/track/0bwINGzIcFSN533lYDOINI) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Go with You](https://open.spotify.com/album/7ewcp9Xv7Xw8ZI0in81axl) | 2:35 | 2025-08-15 |  |
 | [GO!!! \(from NARUTO \-ナルト\-\)](https://open.spotify.com/track/1pUDenp90KWctbUit1McX8) | [Kabaaneko](https://open.spotify.com/artist/0lqyrQVQPUtl9uBj3lAOHt), [KASA](https://open.spotify.com/artist/2npcg8bjHorVxVkRyy7iFO) | [GO!!! \(from NARUTO \-ナルト\-\)](https://open.spotify.com/album/3ZgIekADjrfFHsu4bnOBYM) | 3:56 | 2025-05-01 | 2025-08-01 |
 | [God's Plan](https://open.spotify.com/track/4pTVAW9kmTo1Hm9AvcucoU) | [Wish Master](https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn), [Kong The Artisan](https://open.spotify.com/artist/5bPN5M1j5Je82NV1Vcp3qE), [Krush](https://open.spotify.com/artist/3D5b3r7RSuaOADstxs25vo) | [God's Plan](https://open.spotify.com/album/3u2LxJoD40CzHBH8aMFQlO) | 2:57 | 2024-10-24 | 2025-02-14 |
 | [GODSROOM 殿](https://open.spotify.com/track/6cq3QFJfZMi2IReXNsJjro) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [GODSROOM 殿](https://open.spotify.com/album/6lSTMCNUXWFX1Rq5XSJGda) | 3:14 | 2023-06-22 | 2023-11-03 |
@@ -676,6 +677,7 @@
 | [pineapple bun](https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [pineapple bun](https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md) | 3:29 | 2025-05-22 |  |
 | [Pinocchio](https://open.spotify.com/track/5WihmbIXAuVYr9vNTchJD8) | [Raylee Forest](https://open.spotify.com/artist/0sjPDzNZVEwTlpzLfoJjRc) | [Pinocchio](https://open.spotify.com/album/713Br8tfG9knS9eKgyW6to) | 2:47 | 2024-06-20 | 2024-11-15 |
 | [Pipe Down](https://open.spotify.com/track/3IPG9sobVyGdFgMqEIvbNB) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Pipe Down](https://open.spotify.com/album/7pNGJ4e0VIqDXt3S9yTyeM) | 4:41 | 2025-04-04 | 2025-07-11 |
+| [Place To Cry](https://open.spotify.com/track/2s7HTmNznpsZZyRUHFy4Fq) | [just Min](https://open.spotify.com/artist/30WOLSr0UBs8AKHEIbQB1B) | [Place To Cry](https://open.spotify.com/album/5KhmmyYM8Rsfnre4iMWPZq) | 2:55 | 2025-08-15 |  |
 | [Planet Nine](https://open.spotify.com/track/319vdKBCMdU0lSqk0DyPBo) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [Planet Nine](https://open.spotify.com/album/3MuUF4M67ZzKFdcO1u5jNk) | 3:12 | 2023-12-28 | 2024-05-10 |
 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 | 2025-01-23 | 2025-05-30 |
 | [Play](https://open.spotify.com/track/7lpPJlkx7gyfDSnMJrPLjJ) | [The Paisley Daze](https://open.spotify.com/artist/4uo2Q2JUeasRjRlxxQGu3h) | [Play](https://open.spotify.com/album/0L3Mc7E9XeqR18RzpY675C) | 2:41 | 2022-08-25 | 2023-01-06 |
@@ -835,6 +837,7 @@
 | [Sway Under the Sunset](https://open.spotify.com/track/2W1O09TSo5mGLKbH3iXM9w) | [Chris Tong](https://open.spotify.com/artist/1TSAMb57hxZezDzEujAFHb), [Jas Wishes](https://open.spotify.com/artist/0djzRnaX4wQ8uKZviOXFmc) | [Sway Under the Sunset](https://open.spotify.com/album/5wczaaKkmGOROeWd4QNgfL) | 3:00 | 2024-10-10 | 2025-02-14 |
 | [Sweetest Bubble Love](https://open.spotify.com/track/1leFRbTWjH5neWNUuOSdc3) | [Thewzy](https://open.spotify.com/artist/4RU4k4WMO5OtU6zsHHM7Co) | [Feelings I Wish I Told You](https://open.spotify.com/album/5khW3QpCxtyAeVfMa1vNRD) | 3:37 | 2022-12-29 | 2023-01-06 |
 | [Swimming Upwards](https://open.spotify.com/track/7ElIakirHUE5ZtSbkTf7g7) | [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [Swimming Upwards](https://open.spotify.com/album/3QgNI7ReRsnFzvBGCVw14h) | 3:12 | 2023-07-27 | 2023-11-03 |
+| [Switchblade](https://open.spotify.com/track/3VAAYwpfBF5CmWeF8RKfvT) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Switchblade](https://open.spotify.com/album/7hPdt89xCPCWCBWHaDyKx2) | 3:58 | 2025-08-15 |  |
 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 | 2022-12-29 | 2023-05-26 |
 | [Take Me Away](https://open.spotify.com/track/5Kfb3wI5TljirWNXzcYq9y) | [WARM HOUSE.](https://open.spotify.com/artist/6FkLFvKugd9UPs1bSawnQR) | [Take Me Away](https://open.spotify.com/album/56zne7LIQd97f5WLVfRUxG) | 3:48 | 2024-04-11 | 2024-11-15 |
 | [Take Me Back](https://open.spotify.com/track/1ezPtg7OOklRD4b3KY9osM) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [Take Me Back](https://open.spotify.com/album/10YPFcXMzBP9qdC8jEOcpT) | 3:55 | 2022-06-02 | 2022-09-09 |
@@ -1209,6 +1212,7 @@
 | [慢條斯理狗 chill doggo](https://open.spotify.com/track/25eH109NelBtf6mrNqvzf1) | [王和平](https://open.spotify.com/artist/0QZFObHsPNvgQzKquyuVvt) | [慢條斯理狗 chill doggo](https://open.spotify.com/album/6rBxxJ3ZF6ibh9os2MTY7i) | 2:25 | 2025-06-05 |  |
 | [慣了習慣](https://open.spotify.com/track/1JkWAOkGyHRKY67xQGyqQS) | [Edmund Chan](https://open.spotify.com/artist/3RwDrv1IZ9T77yuQWfNoh0), [Shadow](https://open.spotify.com/artist/1UBpWQtYb1NyNE4ZUqblkk) | [慣了習慣](https://open.spotify.com/album/1mYvD5TT8oIW61K9jsLl2h) | 3:05 | 2022-07-21 | 2022-09-09 |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-04 | 2023-09-01 |
+| [戀愛BB班](https://open.spotify.com/track/1vV0CAFs85GStDGwSL08MC) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [戀愛BB班](https://open.spotify.com/album/6VPYnffOUibcBFAbDyIwIU) | 2:49 | 2025-08-15 |  |
 | [我不回去](https://open.spotify.com/track/42IahRHRZqyqSmwSpttIzU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我不回去](https://open.spotify.com/album/2TJYjfi8gAFrUpW42Iwe8k) | 4:07 | 2023-11-02 | 2024-01-05 |
 | [我們之間的花期不是永遠](https://open.spotify.com/track/1lWyFWupCnE7HIGuKhxTfj) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [我們之間的花期不是永遠](https://open.spotify.com/album/12Idf6J0CaXnshoFZLb19M) | 4:03 | 2024-05-16 | 2024-11-15 |
 | [我們都是這樣沒有長大的](https://open.spotify.com/track/7pnB9tJ104EX96VcpuW9uC) | [Locksmiths 開鎖佬](https://open.spotify.com/artist/1Z4uKuJsVmcbUGaozKoXO8) | [我們都是這樣沒有長大的](https://open.spotify.com/album/4wecsHPeCz9d3HH05tlAoO) | 3:08 | 2024-06-27 | 2024-11-15 |
@@ -1257,6 +1261,7 @@
 | [明年不想再工作](https://open.spotify.com/track/52S15nFChya2OGE92pk5KB) | [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [where i've been](https://open.spotify.com/album/28OlURIftdVsnw0oGysFoZ) | 3:30 | 2023-10-05 | 2023-12-01 |
 | [明年明月](https://open.spotify.com/track/0iMbnIhDW11ZzSS7akROha) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [明年明月](https://open.spotify.com/album/1pEfGasstmw9jxElalWmXY) | 3:25 | 2023-02-09 | 2023-07-14 |
 | [明年明月](https://open.spotify.com/track/1czgwSlElpIwyKbbxve0dU) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [十月八日記](https://open.spotify.com/album/6Ulo2WTKUB1feiJ89URvci) | 3:25 | 2024-01-05 | 2024-05-10 |
+| [明日之後](https://open.spotify.com/track/1W6ftwpimBTMPQrswQpIXS) | [MATCH](https://open.spotify.com/artist/3Chg16F5OR4qSf1zE4vywa) | [明日之後](https://open.spotify.com/album/3mwv6mRNfG8kZiwntPDGQ6) | 3:47 | 2025-08-15 |  |
 | [明星生活 \- Love Version](https://open.spotify.com/track/0CSUOuklPtq22jagP5b7LT) | [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx), [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [明星生活 \(Love Version\)](https://open.spotify.com/album/2CAuqbXVvwPLd9p6Bx3CUs) | 2:27 | 2025-01-23 | 2025-03-14 |
 | [易容](https://open.spotify.com/track/1YlSc5sUKWtXLrvq4hXBzP) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [易容](https://open.spotify.com/album/12sJpUvdnAwVPXnSsfe0qR) | 3:14 | 2022-08-11 | 2022-11-04 |
 | [星河馳騁](https://open.spotify.com/track/6Cx0O6b4HkEDbdI2Uh5jgx) | [徐嘉蔚Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3) | [星河馳騁](https://open.spotify.com/album/45mvcd7R5D3JyFpMWKD5Cr) | 4:02 | 2024-02-29 | 2024-06-07 |

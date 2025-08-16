@@ -4,7 +4,7 @@
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Yeolan
 
-2,165 songs - 5 day 6 hr 55 min
+2,166 songs - 5 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Có Duyên Ta Sẽ Gặp Lại](https://open.spotify.com/track/3Gzozh2jaFPGsCEgkqQZ8e) | [Hiya](https://open.spotify.com/artist/36HqaJcdxxKup5AbhP87k5) | [Có Duyên Ta Sẽ Gặp Lại](https://open.spotify.com/album/71eAvh5PYovKGwhcz2TInA) | 4:11 | 2024-11-21 | 2024-12-05 |
 | [Có Em Về Bên Mình](https://open.spotify.com/track/1RunwOLt1RxFhIEv50bDNO) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Có Em Về Bên Mình](https://open.spotify.com/album/3LSAk3gi2NrQYS9IUimWqc) | 5:16 | 2022-02-15 | 2022-03-02 |
 | [có em đây là mắt anh đâu cần](https://open.spotify.com/track/4csG1YwYrL8Sr75Pi9gXuC) | [CRAYONS](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [có em đây là mắt anh đâu cần](https://open.spotify.com/album/0k9gYgOPDlxw7x6cmtkfbT) | 3:43 | 2022-08-18 | 2022-09-18 |
+| [Có gã đàn ông vu vơ bật khóc](https://open.spotify.com/track/0E7RbrktdioMmubWlwLbev) | [ALBUS](https://open.spotify.com/artist/6ldAq4EAhHR6dJ08GpwRK1) | [Có gã đàn ông vu vơ bật khóc](https://open.spotify.com/album/0AdVnzivMpEvFBIbwlO9b3) | 3:44 | 2025-08-15 |  |
 | [Có Hay Từ Bao Giờ 2](https://open.spotify.com/track/1Tcr9My0VNNjh9ejfz44s6) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e) | [Có Hay Từ Bao Giờ 2](https://open.spotify.com/album/0a7LctHPjjYbyCYx3nuBe5) | 4:51 | 2023-03-20 | 2024-05-15 |
 | [Có Hay Từ Bao Giờ?](https://open.spotify.com/track/3QXSennQGgTqhrQ0saHyN8) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Ed.Hast](https://open.spotify.com/artist/6tKesL0hlachfddWwq0Tzm), [KEI](https://open.spotify.com/artist/3TLujYTRHGq5M1Hh11vLYv) | [Có Hay Từ Bao Giờ?](https://open.spotify.com/album/6ogBJt0FJtE63RxCCtTI2Q) | 4:09 | 2022-09-09 | 2023-03-10 |
 | [Có Hay Từ Bao Giờ?](https://open.spotify.com/track/0oxd6z00u7t1gouhoEXeIY) | [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06), [Hast](https://open.spotify.com/artist/0LIZC1GStlO5tEEYC0cB1e), [KEI](https://open.spotify.com/artist/3TLujYTRHGq5M1Hh11vLYv) | [Có Hay Từ Bao Giờ?](https://open.spotify.com/album/730heV46hHb6G2u0iLrk1V) | 4:09 | 2023-11-29 | 2024-02-22 |
@@ -627,7 +628,7 @@
 | [Em Thích](https://open.spotify.com/track/2MHGIiWus5xHykiZGuDtNe) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/1cC4Mq5DZf014oC8g2FmCx) | 2:56 | 2022-01-06 | 2022-07-29 |
 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 | 2022-07-28 | 2023-01-06 |
 | [Em và...](https://open.spotify.com/track/5quyXV8gJzdzBnUI9uYUjZ) | [Bon Ma](https://open.spotify.com/artist/7Am0uM7zd9oMI8Qyo5qmZd), [Minh Lame](https://open.spotify.com/artist/2yr3M7WBJ21pYIOW5Jhzza) | [Em và...](https://open.spotify.com/album/55ySDHE0sD1qH4guxELMrw) | 4:30 | 2025-06-26 |  |
-| [Em Xinh](https://open.spotify.com/track/1zBP33Wq6UMvfgosXoSFBx) | [NOIR](https://open.spotify.com/artist/7muTp7jVpikPTC2KdRyytE) | [Em Xinh](https://open.spotify.com/album/3XLAHVyZPv28A10dbNOwml) | 2:09 | 2025-07-29 |  |
+| [Em Xinh](https://open.spotify.com/track/1zBP33Wq6UMvfgosXoSFBx) | [NOIR](https://open.spotify.com/artist/7muTp7jVpikPTC2KdRyytE) | [Em Xinh](https://open.spotify.com/album/3XLAHVyZPv28A10dbNOwml) | 2:09 | 2025-07-29 | 2025-08-16 |
 | [Em Xinh Như Đóa Hoa](https://open.spotify.com/track/6zOBkYSMDFZBPdno8tbMwY) | [Lapphan](https://open.spotify.com/artist/2NkP0wQ6f10FjcdWp4QxGL), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Em Xinh Như Đóa Hoa](https://open.spotify.com/album/5jfhxGaOKm5SYeRuj4QvXe) | 2:38 | 2025-05-08 | 2025-06-28 |
 | [Em Đa Nghi](https://open.spotify.com/track/5apbs8mAhF7p80LNQDAbQ5) | [Tùa](https://open.spotify.com/artist/6OX2h0HXN8oN2tb2pmYOby) | [Em Đa Nghi](https://open.spotify.com/album/5EJejurcckpajuvyTIYN68) | 3:15 | 2024-04-04 | 2024-06-25 |
 | [Em Đang Yêu Ai Đó](https://open.spotify.com/track/677TfyoOterQsgr5wo38r0) | [Han](https://open.spotify.com/artist/6xI4HKNrfT3SBf8PSwGMFG), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Em Đang Yêu Ai Đó](https://open.spotify.com/album/76bRizUYyjsxjVYXecFrOa) | 2:53 | 2025-06-10 | 2025-07-10 |

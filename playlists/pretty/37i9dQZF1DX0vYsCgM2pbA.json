@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 144158,
+  "num_followers": 144164,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPANKAvZXPIFtqYo/rwhjM6eN+D",
+  "snapshot_id": "AAAAAJChMLEjzulGc0B36aDuLUOzaKVk",
   "tracks": [
     {
       "added_at": "2025-08-01 04:00:43",
@@ -547,26 +547,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "REMEMBER",
-        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Tim Ayre",
-          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "REMEMBER",
-      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "See In Color",
         "url": "https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 154960,
       "name": "See In Color",
       "url": "https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "REMEMBER",
+        "url": "https://open.spotify.com/album/7z947NgHMz8Ievh7nUciWY"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Tim Ayre",
+          "url": "https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "REMEMBER",
+      "url": "https://open.spotify.com/track/3kuSEpeOT2IuPaIynwpcjq"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "I Want You (feat. Darren Hayes)",
         "url": "https://open.spotify.com/album/1d2QuGwi7Rt8LgBVu7krvW"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 172657,
       "name": "I Want You (feat. Darren Hayes)",
       "url": "https://open.spotify.com/track/08C8eHg9dK6m3846bm3100"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Blue Light",
         "url": "https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 236434,
       "name": "Blue Light",
       "url": "https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Everything Begins Again",
-        "url": "https://open.spotify.com/album/4NJRCRC3nqmw1uKscmZBd4"
-      },
-      "artists": [
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Say No More",
-      "url": "https://open.spotify.com/track/7tLGJbAhl7jmIAwOhNomI9"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 246832,
       "name": "You",
       "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Everything Begins Again",
+        "url": "https://open.spotify.com/album/4NJRCRC3nqmw1uKscmZBd4"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Say No More",
+      "url": "https://open.spotify.com/track/7tLGJbAhl7jmIAwOhNomI9"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
-      },
-      "artists": [
-        {
-          "name": "Tom Budin",
-          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
-        },
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 169658,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/0BVelZe3PwM89tt7Fr5KXy"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 140806,
       "name": "Differences",
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
+      },
+      "artists": [
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 169658,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Frake",
-        "url": "https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS"
-      },
-      "artists": [
-        {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
-        }
-      ],
-      "duration_ms": 197924,
-      "name": "Frake",
-      "url": "https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 278840,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Frake",
+        "url": "https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "duration_ms": 197924,
+      "name": "Frake",
+      "url": "https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V"
-      },
-      "artists": [
-        {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0MeZyJktOJFpawsJIr9tQk"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Apple Crumble",
         "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 215269,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/6QtRHuLd5S2UZGatYZtl6V"
+      },
+      "artists": [
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0MeZyJktOJFpawsJIr9tQk"
     },
     {
       "added_at": "2025-08-01 04:00:43",

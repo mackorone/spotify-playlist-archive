@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto:  AMORE.",
-  "num_followers": 20869,
+  "num_followers": 20870,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -152,7 +152,7 @@
       },
       "artists": [
         {
-          "name": "Luna Ki.",
+          "name": "Luna Ki",
           "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
         }
       ],
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-08-06 09:35:45",
       "album": {
+        "name": "Nunca Llega 05",
+        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 159056,
+      "name": "Nunca Llega 05",
+      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
+    },
+    {
+      "added_at": "2025-08-06 09:35:45",
+      "album": {
         "name": "Gritando Amor",
         "url": "https://open.spotify.com/album/76QEBMEFhoNBb8EWIjiTBY"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 258461,
       "name": "Gritando Amor",
       "url": "https://open.spotify.com/track/6w8DDYLQJW6PRei3DJbktj"
-    },
-    {
-      "added_at": "2025-08-06 09:35:45",
-      "album": {
-        "name": "Nunca Llega 05",
-        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 159056,
-      "name": "Nunca Llega 05",
-      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
     },
     {
       "added_at": "2025-08-06 09:35:45",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 ### [Divina MPB](https://open.spotify.com/playlist/37i9dQZF1DWTWoEMrRMHZ8)
 
-> As belas novidades da MPB\. Foto: Chico Chico
+> As belas novidades da MPB\. Foto: Alulu Paranhos, Bruno Berle
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,833 likes - 85 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,835 likes - 85 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 84 | [Piquete](https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Rivo III e a Fé](https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf) | 4:13 |
 | 85 | [aprender a perder](https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b) | [LUIZGA](https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f), [João Silva](https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS) | [real cinema](https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt) | 3:23 |
 
-Snapshot ID: `AAAAAPmCW1VVF9iLWCXcvDTP9xW2riM0`
+Snapshot ID: `AAAAAEKpwv3CdEIZ2ZD8OrbhRsPpF7pB`

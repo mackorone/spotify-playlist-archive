@@ -3029,6 +3029,28 @@
     },
     {
       "album": {
+        "name": "Nitakungoja",
+        "url": "https://open.spotify.com/album/5i9feOeVUEQU3I0sTVYFC4"
+      },
+      "artists": [
+        {
+          "name": "J blessing",
+          "url": "https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr"
+        },
+        {
+          "name": "Janet Otieno",
+          "url": "https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Nitakungoja",
+      "url": "https://open.spotify.com/track/2NHd6djppB1dXE88EgLsfi"
+    },
+    {
+      "album": {
         "name": "Nitendee Muujiza",
         "url": "https://open.spotify.com/album/6JTwPg2DEXufA77WVTbpZv"
       },
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 237531,
       "name": "Shukrani",
       "url": "https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk"

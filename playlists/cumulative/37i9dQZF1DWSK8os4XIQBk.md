@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Morgan Wallen and the biggest hits in country music.
+> Thomas Rhett and the biggest hits in country music.
 
 943 songs - 2 day 3 hr 11 min
 

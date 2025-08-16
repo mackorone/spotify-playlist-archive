@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 102631,
       "name": "AGENT-PROVOCATEUR",
       "url": "https://open.spotify.com/track/7BgRKxGurY7Kds8X74mD88"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "AIST",
       "url": "https://open.spotify.com/track/3VieScqwrczxcSVTsH20gu"
@@ -3338,7 +3338,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -5044,7 +5044,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
@@ -5718,7 +5718,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-24",
+      "date_removed": null,
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -8214,7 +8214,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 173693,
       "name": "\u0413\u0434\u0435 \u0442\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW"
@@ -8232,7 +8232,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 82269,
       "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
@@ -9827,6 +9827,24 @@
     },
     {
       "album": {
+        "name": "\u041c\u0430\u043b\u044b\u0439 \u043f\u043e\u0432\u0437\u0440\u043e\u0441\u043b\u0435\u043b, \u0427. 2",
+        "url": "https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177626,
+      "name": "\u041c\u0430\u043b\u0438\u043d\u043e\u0432\u044b\u0439 \u0437\u0430\u043a\u0430\u0442",
+      "url": "https://open.spotify.com/track/2fP2RBX81C55kEBaHZHomY"
+    },
+    {
+      "album": {
         "name": "Old Days",
         "url": "https://open.spotify.com/album/1jwHnR93ODLofIjcKl31LS"
       },
@@ -10138,7 +10156,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 236878,
       "name": "\u041c\u043e\u0442\u044b\u043b\u0451\u043a",
       "url": "https://open.spotify.com/track/3tGcfXzjfMMKW4nZbfdD5H"

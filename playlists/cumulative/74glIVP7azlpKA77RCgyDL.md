@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Bad Omens.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: GAEREA.
 
-1,064 songs - 2 day 18 hr 38 min
+1,070 songs - 2 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Best Before: Death](https://open.spotify.com/track/2uTahQV0g3RtBUysdYdXLZ) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Best Before: Death](https://open.spotify.com/album/5SQIF1zQZk1kmiReGa3Kh7) | 3:33 | 2023-03-03 | 2024-02-03 |
 | [Betrayal](https://open.spotify.com/track/5BDcGkq3HoyvgvbMDnzCN5) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Betrayal](https://open.spotify.com/album/0EYPOzgnCNRp2Z95AZtyMf) | 5:19 | 2022-07-15 | 2023-07-15 |
 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 | 2024-07-12 | 2025-04-11 |
+| [Beyond Recognition](https://open.spotify.com/track/2oDkIF60894dGg6lYIVEio) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Beyond Recognition](https://open.spotify.com/album/5VFCmocCYBltaeTKjlnxYA) | 3:42 | 2025-08-15 |  |
 | [Big Man](https://open.spotify.com/track/5RvkIiOCUCUNpHRnrbzpEC) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Big Man](https://open.spotify.com/album/0aVjveFPW5GO8RnwSu0JjP) | 1:45 | 2023-04-13 | 2024-02-03 |
 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-05-02 |  |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 | 2023-07-15 |
@@ -480,6 +481,7 @@
 | [Journey of the Host](https://open.spotify.com/track/7fm2ipYq1hEBTdOkAGqdOm) | [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Journey of the Host](https://open.spotify.com/album/00BeFzpaDtXKCWkEoglFqz) | 2:40 | 2023-03-10 | 2024-02-03 |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0N4UhLz3AC0uPWIDaCBHdv) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/album/0J8q6CzYw1m9Fv8L4U8Mu8) | 3:26 | 2022-01-14 | 2023-07-15 |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2023-07-15 |
+| [Karma Goddess](https://open.spotify.com/track/7nIq1nnF5MfihZqyNabpBz) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Bright as Blasphemy](https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt) | 4:11 | 2025-08-15 |  |
 | [Kill Fee](https://open.spotify.com/track/1NSnYkwYK7LN8zuiRVD2Xp) | [Deadguy](https://open.spotify.com/artist/06p0y7edz7fFY3A85oiUgF) | [Kill Fee](https://open.spotify.com/album/0aO2cDnbIVfUdmC6554agD) | 2:48 | 2025-05-02 |  |
 | [Kill the Disease](https://open.spotify.com/track/2dZk04PrdKVlnuNrH4FnUu) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Last Day of Sun](https://open.spotify.com/album/0WGIHvgYm71t9u3sUUKylU) | 3:20 | 2023-11-03 | 2024-02-03 |
 | [Killing Floor](https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Killing Floor](https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ) | 2:53 | 2022-11-18 | 2023-07-15 |
@@ -620,6 +622,7 @@
 | [Nü Burn](https://open.spotify.com/track/6SpXyStq0oiro815bJLey9) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Nü Burn](https://open.spotify.com/album/01i8t4KWDs5RSTO6mR69m0) | 4:01 | 2025-03-07 |  |
 | [Obliquity of the Ecliptic](https://open.spotify.com/track/0c1EnTUEQoXVH73NbVDi3D) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Luminescent Bridge](https://open.spotify.com/album/6fw6OaFAR6IsxWk1ZjIYUJ) | 8:53 | 2023-09-15 | 2024-02-03 |
 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 | 2025-05-16 |  |
+| [Obsolete](https://open.spotify.com/track/7MuVMzOoomIlcdTRPx4hiP) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Obsolete](https://open.spotify.com/album/5t5ATC7XZSx8clvDETqDYH) | 5:12 | 2025-08-15 |  |
 | [Ode To Jimbo](https://open.spotify.com/track/7q6vrn80hhtQNWww0XJ8GX) | [Couch Slut](https://open.spotify.com/artist/4fBGtHTw0pGQ9C0vbg7UBp) | [Ode To Jimbo](https://open.spotify.com/album/620sI4XfiLMTpiKcw6l2Zc) | 3:11 | 2024-02-23 | 2025-04-11 |
 | [Of Days Renewed](https://open.spotify.com/track/4miqxJDAzac7riX5p3RNAl) | [Magnitude](https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ) | [Of Days Renewed](https://open.spotify.com/album/4zchFiJME9vUv36mLReDAH) | 3:21 | 2023-08-11 | 2024-02-03 |
 | [Off The Meter](https://open.spotify.com/track/48hV9HJP3fb8t3MG8m4hRH) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [Off The Meter](https://open.spotify.com/album/7IstdpmV2yAv798ZL9MxzI) | 2:49 | 2024-06-28 | 2025-04-11 |
@@ -795,6 +798,7 @@
 | [Societal Bile](https://open.spotify.com/track/0caF9S71yIZl43EbGCn85u) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Societal Bile](https://open.spotify.com/album/6Huux7HHfhFuKtTAd1zL5v) | 3:00 | 2024-01-12 | 2025-04-11 |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 | 2024-02-03 |
 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 | 2024-09-06 | 2025-04-11 |
+| [Solara](https://open.spotify.com/track/0ExH5I7VFtpJkhHHkn2MkQ) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Solara](https://open.spotify.com/album/2LP59v3Jf7NBPrthnouxXP) | 3:25 | 2025-08-15 |  |
 | [Someone's Daughter](https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Someone's Daughter](https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh) | 4:17 | 2024-08-02 | 2025-04-11 |
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-05-24 | 2025-04-11 |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-17 | 2024-02-03 |
@@ -826,6 +830,7 @@
 | [Strangled By Hatred](https://open.spotify.com/track/65B2NhSzmvxgjlSeOYEGjn) | [Laceration](https://open.spotify.com/artist/762Ablx3xD0IF4ijV5Eq2G) | [Strangled By Hatred](https://open.spotify.com/album/3YqXnuGlKmUZoDYcxT5t8M) | 4:59 | 2024-07-05 | 2025-04-11 |
 | [Stress Positions](https://open.spotify.com/track/7yBD5X9gABxFVWhFq58t3y) | [Vacuous](https://open.spotify.com/artist/6Aakz04B1cWFdcMNFch4QS) | [Stress Positions](https://open.spotify.com/album/7AqOyXDy5EIoBWVoqFcTWb) | 4:07 | 2025-01-31 |  |
 | [Stuck in a Dream](https://open.spotify.com/track/5DN4UT7DeL7CDkkqgrKKBZ) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Stuck in a Dream](https://open.spotify.com/album/4UiowcedUnLore1tPSqkM2) | 2:40 | 2024-01-12 | 2025-04-11 |
+| [Submerged](https://open.spotify.com/track/4D2Sj9wMIIZmd7yqgmE9wi) | [Gaerea](https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw) | [Submerged](https://open.spotify.com/album/2ksaF0VuU3Wk8dZLtHlSs0) | 5:08 | 2025-08-15 |  |
 | [such.a.shame](https://open.spotify.com/track/04NGTMGRH8GmDMOvTuRZ6R) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [such.a.shame](https://open.spotify.com/album/7rfZBUbE3cfxXXPW9haLxw) | 3:18 | 2022-02-25 | 2023-07-15 |
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/album/2Ow8BhxOQJDErR0ei0RYHo) | 2:44 | 2024-04-26 | 2025-04-11 |
 | [Suicide Today](https://open.spotify.com/track/6abMnvv2fgc6ULNCh3qnDQ) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [Never, Neverland \(Deluxe Edition\)](https://open.spotify.com/album/39nstb37kAyWR4LUZMxcs9) | 3:16 | 2024-09-20 | 2025-04-11 |
@@ -958,6 +963,7 @@
 | [Twitching On The Cross](https://open.spotify.com/track/7Gq5GQwZbizhT8l5QvgzlA) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Twitching On The Cross](https://open.spotify.com/album/6KYwRXq9egHcIp8klVf6J4) | 2:30 | 2024-09-13 | 2025-04-11 |
 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 | 2023-11-17 | 2024-02-03 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-15 | 2025-04-11 |
+| [Tyrants Serenade](https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Tyrants Serenade](https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD) | 4:20 | 2025-08-15 |  |
 | [Uh Yaya](https://open.spotify.com/track/7rvPUq1aEiKrPJckEwWwAm) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Uh Yaya](https://open.spotify.com/album/2pyg5qIAqEVNBVX4heDVpi) | 4:09 | 2025-07-04 |  |
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 | 2024-02-03 |
 | [Umbra](https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 5:31 | 2025-04-25 |  |

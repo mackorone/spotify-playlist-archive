@@ -4245,6 +4245,28 @@
     },
     {
       "album": {
+        "name": "ANSEIO",
+        "url": "https://open.spotify.com/album/38yRX2xjxjfhC7wgRXsF5R"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321952,
+      "name": "ANSEIO",
+      "url": "https://open.spotify.com/track/4JduDB9VejMCvKKVM0ImXG"
+    },
+    {
+      "album": {
         "name": "Piano & Voz",
         "url": "https://open.spotify.com/album/51dOlkKepCwQSa1NLk6pA7"
       },

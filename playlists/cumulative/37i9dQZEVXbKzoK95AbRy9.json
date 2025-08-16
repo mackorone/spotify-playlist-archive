@@ -2573,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "Ao Vivo Em Uberl\u00e2ndia Vol. 02",
+        "url": "https://open.spotify.com/album/29VnTLRHOkm8hoJj9AvEMv"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165452,
+      "name": "Dama do Baralho - Ao Vivo",
+      "url": "https://open.spotify.com/track/0HzmOYziBey06dFfxC0029"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Uberl\u00e2ndia Vol. 01",
         "url": "https://open.spotify.com/album/6nVk02INL9nxhppU0Sqi5o"
       },
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 165452,
       "name": "Dama do Baralho - Ao Vivo",
       "url": "https://open.spotify.com/track/4Nj2zoYULwyYnJTU3AZf6B"
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 163089,
       "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
       "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
@@ -3680,7 +3698,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -6208,7 +6226,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 103727,
       "name": "MONTAGEM BAIL\u00c3O",
       "url": "https://open.spotify.com/track/1RnPdd7EKKhKN3E4o4DRsh"
@@ -8224,7 +8242,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 208917,
       "name": "Princesa - Ao Vivo",
       "url": "https://open.spotify.com/track/7tz0PRdO9wOCHL5wr8Rne4"
@@ -10720,20 +10738,34 @@
           "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
         },
         {
-          "name": "D\u00e9bora Rabelo",
-          "url": "https://open.spotify.com/artist/422QvLrp4rn4VaTnb810uJ"
-        },
-        {
           "name": "Hamilton Rabelo",
           "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
         }
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao Vivo",
       "url": "https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Em Uberl\u00e2ndia Vol. 02",
+        "url": "https://open.spotify.com/album/29VnTLRHOkm8hoJj9AvEMv"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mg7xsgu0pzcWFwk6Ckwdx"
     },
     {
       "album": {
@@ -10766,7 +10798,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
@@ -11026,6 +11058,28 @@
       "duration_ms": 136367,
       "name": "Vacilona - Ao Vivo",
       "url": "https://open.spotify.com/track/0EfOfW72dE43humkvijiYq"
+    },
+    {
+      "album": {
+        "name": "Vai Cair \u00c1gua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Vesvt7F80ZEOkCluw6Op1"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150936,
+      "name": "Vai Cair \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Vsh9frTSsEwqwcbvZpItT"
     },
     {
       "album": {
@@ -11345,6 +11399,44 @@
     },
     {
       "album": {
+        "name": "A Nata de Tudo - A Ovelha Negra",
+        "url": "https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281774,
+      "name": "Vou pela Madrugada",
+      "url": "https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq"
+    },
+    {
+      "album": {
         "name": "Vou Raspar Seu Bigodin",
         "url": "https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW"
       },
@@ -11498,7 +11590,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"

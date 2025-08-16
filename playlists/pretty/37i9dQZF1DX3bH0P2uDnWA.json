@@ -1,13 +1,37 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 384185,
+  "num_followers": 384174,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJnLt8t1sgmKGcwQAxskVzpQpV2d",
+  "snapshot_id": "AAAAACNWhE31e8JwPAAXgJZoeagOQAL/",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:03",
+      "album": {
+        "name": "Boy!",
+        "url": "https://open.spotify.com/album/0OPrEJ9c2dQFvRqkpEL0AM"
+      },
+      "artists": [
+        {
+          "name": "Alanna Lyes",
+          "url": "https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy"
+        },
+        {
+          "name": "Offbeat",
+          "url": "https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8"
+        },
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 181131,
+      "name": "Boy!",
+      "url": "https://open.spotify.com/track/7rz0r3ulmgc3uGYuBGSvkd"
+    },
     {
       "added_at": "2025-07-11 04:00:06",
       "album": {
@@ -1535,26 +1559,6 @@
       "duration_ms": 218796,
       "name": "Andrew's Break",
       "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "Too Damn Hot (Phos Toni Remix - Radio Edit)",
-        "url": "https://open.spotify.com/album/1ImykEAd3wNV5hV8gT03Pr"
-      },
-      "artists": [
-        {
-          "name": "Alice Francis",
-          "url": "https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA"
-        },
-        {
-          "name": "Phos Toni",
-          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
-        }
-      ],
-      "duration_ms": 178518,
-      "name": "Too Damn Hot - Phos Toni Remix - Radio Edit",
-      "url": "https://open.spotify.com/track/33yLH412tgEXEoLkxbY5tq"
     },
     {
       "added_at": "2024-11-04 16:02:20",

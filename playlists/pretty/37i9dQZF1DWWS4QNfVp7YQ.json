@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 93172,
+  "num_followers": 93212,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "NEAS DON'T CRY",
+        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
+      },
+      "artists": [
+        {
+          "name": "Cornetto",
+          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Toa Pa' Mi",
+      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "vaMos",
         "url": "https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 171432,
       "name": "vaMos",
       "url": "https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "NEAS DON'T CRY",
-        "url": "https://open.spotify.com/album/6Tn0Eu7eLlWk1jfZzxhJQD"
-      },
-      "artists": [
-        {
-          "name": "Cornetto",
-          "url": "https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Toa Pa' Mi",
-      "url": "https://open.spotify.com/track/3mEEubQKCp0dpWOrSaZHfR"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Trippyal",
-        "url": "https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY"
-      },
-      "artists": [
-        {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
-        }
-      ],
-      "duration_ms": 170149,
-      "name": "Trippyal",
-      "url": "https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Aborigen",
         "url": "https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 152004,
       "name": "Aborigen",
       "url": "https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Trippyal",
+        "url": "https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY"
+      },
+      "artists": [
+        {
+          "name": "XAVO",
+          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+        }
+      ],
+      "duration_ms": 170149,
+      "name": "Trippyal",
+      "url": "https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3"
     },
     {
       "added_at": "2024-07-05 22:41:57",

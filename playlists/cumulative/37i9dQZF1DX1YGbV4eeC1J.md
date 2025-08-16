@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Harmonize & Abigail Chams
 
-311 songs - 17 hr 27 min
+311 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Keki](https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Keki](https://open.spotify.com/album/3JiAtCjaZzPx1Z4uK1n16W) | 3:03 | 2025-01-31 |  |
 | [Kipepeo](https://open.spotify.com/track/13R4oID4F5Cpq9Bte0tSdn) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Queen of the East](https://open.spotify.com/album/1abchHmLCSd4InI3xxVvIN) | 3:52 | 2024-08-29 | 2025-02-14 |
 | [Kipofu \(feat\. Alikiba\)](https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW) | [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Kipofu \(feat\. Alikiba\)](https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6) | 3:55 | 2024-08-15 | 2024-11-08 |
+| [Kiss Me](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:03 | 2025-08-14 |  |
 | [Komando](https://open.spotify.com/track/4H8j1OrVUVGk9b7lkyfJHf) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Komando](https://open.spotify.com/album/57ejAmwWLxZD6qviYZ9etd) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Kukupenda](https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP) | [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3) | [Kukupenda](https://open.spotify.com/album/1nsDxtG4GX7aMgAQ1QTTo7) | 3:32 | 2024-06-14 | 2024-06-21 |
 | [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 | 2025-01-09 |  |
@@ -276,7 +277,6 @@
 | [Tina](https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Tina](https://open.spotify.com/album/0PenAHs174BfKImPfisGti) | 3:06 | 2024-09-20 | 2025-01-17 |
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 | 2025-07-25 |
-| [Track 5](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 0:00 | 2025-08-14 |  |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
 | [Tulia Na Mimi \(feat\. Jay Melody\)](https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 3:09 | 2025-02-06 | 2025-07-05 |
 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 | 2024-11-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJMiQ53rTyJ.md) - [plain]
 
 > The most streamed songs of 2024 in the USA Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,205 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,176 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

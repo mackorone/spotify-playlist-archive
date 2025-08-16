@@ -4,7 +4,7 @@
 
 > 
 
-275 songs - 10 hr 45 min
+279 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2025-03-25 |  |
 | [ash.](https://open.spotify.com/track/68WwyjUeTVHlQnEZslzfqV) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:55 | 2025-04-30 |  |
 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-03-06 |  |
+| [Back To Back](https://open.spotify.com/track/1bnPx6g0DaiVbmEr2u221H) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV), [Hugo Loud](https://open.spotify.com/artist/68iEahGCoHxwo219tbcPf2) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 2:51 | 2025-08-15 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2025-05-19 |  |
 | [BEAM!](https://open.spotify.com/track/6zjto41Jnk4HGIHucW5ime) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [BEAM!](https://open.spotify.com/album/3ydmXcIWr4aWdPYHLuEfqR) | 1:49 | 2025-01-05 |  |
 | [Benz](https://open.spotify.com/track/3yLTbZ2ZAbPNzmGu6iIJtY) | [xetonyl's archive](https://open.spotify.com/artist/0J2jBYZmdub00VdGsXrmfk), [kaido](https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX) | [Benz](https://open.spotify.com/album/732fMBz16cHOcFShf3u8Yk) | 1:13 | 2025-07-25 |  |
@@ -254,9 +255,11 @@
 | [Биография](https://open.spotify.com/track/5PkgICX1gpyCSOqNEXX99f) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:40 | 2025-08-15 |  |
 | [Буллинг](https://open.spotify.com/track/5za13iBWWRRinTrS9cGwsJ) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:17 | 2025-08-13 |  |
 | [Вибрация](https://open.spotify.com/track/6gUU3AMtg5PQqXy6BoouAi) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [68 Languages](https://open.spotify.com/album/4ADAI0tu0p8NnxYcVE4GtD) | 2:14 | 2025-08-11 |  |
-| [Водка 2](https://open.spotify.com/track/50kfjdmN1bXx0p6KKe02J9) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:48 | 2025-08-15 |  |
+| [Водка 2](https://open.spotify.com/track/50kfjdmN1bXx0p6KKe02J9) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:48 | 2025-08-15 | 2025-08-16 |
+| [Время](https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Двадцать](https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6) | 2:23 | 2025-08-15 |  |
 | [Все это подходит](https://open.spotify.com/track/5F3Cp2dsshuQUFeTN6mJHZ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:44 | 2025-08-12 |  |
 | [Делай](https://open.spotify.com/track/4g00Wv1illOrg0SnmJ22Qz) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:56 | 2025-08-12 |  |
+| [Динамика](https://open.spotify.com/track/2Cxa9RcBGdvVvawCqDXRVb) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Классика Квартала](https://open.spotify.com/album/1DeAs0vBw3ZRrqDkB5Fnt2) | 2:13 | 2025-08-15 |  |
 | [Другой стиль](https://open.spotify.com/track/1wIu4Ou0z7XJcLB0rs3Ufz) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 3:10 | 2025-08-09 |  |
 | [Жмурки](https://open.spotify.com/track/3WhjBLDn0rIae7vtTDKpCO) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:07 | 2025-08-09 |  |
 | [Картофель фри](https://open.spotify.com/track/3knvvNaXp6BFQGNeQTcxTl) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 1:34 | 2025-08-13 |  |
@@ -265,6 +268,7 @@
 | [Магазин](https://open.spotify.com/track/0cxKqzCYTNND97CQOBWtha) | [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Excalibur](https://open.spotify.com/album/33rtyAHvVG2lU8ZFKVK5Mv) | 1:49 | 2025-08-09 |  |
 | [Миллионы](https://open.spotify.com/track/0LashOy5hSLnHb9noCEahN) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 1:59 | 2025-08-12 |  |
 | [Никому не верить](https://open.spotify.com/track/3yEXRe4siLLNZGOYQnbwWg) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:11 | 2025-08-12 |  |
+| [Одиноко](https://open.spotify.com/track/6JglAFyh4xI7bpeHqCiSkx) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Двадцать](https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6) | 1:37 | 2025-08-15 |  |
 | [Окраина](https://open.spotify.com/track/4enCMfd6Ubyn2m9Tkb8lUV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Окраина](https://open.spotify.com/album/1ZBBU3IExZhUzvJPlNFNSe) | 3:00 | 2025-08-09 |  |
 | [Оффер](https://open.spotify.com/track/5eOle5suK36LQwLzPvZTZQ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:16 | 2025-08-09 |  |
 | [ПК](https://open.spotify.com/track/2x6PhteYTbNMVHubU0hxmX) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 3:28 | 2025-08-12 |  |

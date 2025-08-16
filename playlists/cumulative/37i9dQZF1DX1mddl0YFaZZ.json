@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Explosivo",
+        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243866,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
+    },
+    {
+      "album": {
         "name": "100% Merengue",
         "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 258959,
       "name": "La Ultima Vez",
       "url": "https://open.spotify.com/track/1SUxJZSudxSyzbRvCWKkrp"

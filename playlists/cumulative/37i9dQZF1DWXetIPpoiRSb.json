@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "KOREAN AMERICAN",
+        "url": "https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147316,
+      "name": "1-800-FUCKOFF",
+      "url": "https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP"
+    },
+    {
+      "album": {
         "name": "1-800-GOT-STRESS",
         "url": "https://open.spotify.com/album/7au7oYaB1KzTr9k2JdOlGJ"
       },
@@ -32746,32 +32772,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "KOREAN AMERICAN",
-        "url": "https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83"
-      },
-      "artists": [
-        {
-          "name": "kimj",
-          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
-        },
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        },
-        {
-          "name": "umru",
-          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
-        }
-      ],
-      "date_added": "2025-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP"
     },
     {
       "album": {

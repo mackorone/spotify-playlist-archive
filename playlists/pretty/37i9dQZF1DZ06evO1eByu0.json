@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162361,
+  "num_followers": 162365,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAAAyYZRAY3KFi6UZRxeN3t/e",
+  "snapshot_id": "aJ0nAAAAAACx36vwKXLIrvXGdGhlTWSL",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros 20 Anos Ao Vivo",
+        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 402500,
       "name": "Pra Sempre (Forever)",
       "url": "https://open.spotify.com/track/2Bqo9gax65ExHellyl2qZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros 20 Anos Ao Vivo",
-        "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made In My Life) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6lp6PPv7PjP8mLLP7bVjgZ"
     },
     {
       "added_at": null,

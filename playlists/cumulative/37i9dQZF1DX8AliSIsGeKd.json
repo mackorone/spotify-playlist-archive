@@ -22725,6 +22725,24 @@
     },
     {
       "album": {
+        "name": "Nostalgie und Traurigkeit",
+        "url": "https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210911,
+      "name": "Das Omen",
+      "url": "https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL"
+    },
+    {
+      "album": {
         "name": "Das schlagende Herz",
         "url": "https://open.spotify.com/album/4zyhLk3Qh5pLArXNY90cn2"
       },
@@ -103728,24 +103746,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "Nostalgie und Traurigkeit",
-        "url": "https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "date_added": "2025-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL"
     },
     {
       "album": {

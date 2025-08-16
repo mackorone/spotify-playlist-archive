@@ -2,7 +2,7 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Sex Week
+> Underground indie rock gems\. Cover: Pool Kids
 
 1,676 songs - 4 day 0 hr 36 min
 

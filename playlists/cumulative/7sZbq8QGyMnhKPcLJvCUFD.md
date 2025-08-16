@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-748 songs - 1 day 13 hr 38 min
+749 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Devil \- Slowed](https://open.spotify.com/track/4meFgYtUxSwZBqBHhItNfN) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Devil \(Sped Up/Slowed\)](https://open.spotify.com/album/19GYAxxkTNPebb67P8RtMk) | 3:05 | 2024-09-25 |  |
 | [Devil \- Sped Up](https://open.spotify.com/track/1cvxdPlVS4gLh5Iuma52cn) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F), [Sped Up Sounds](https://open.spotify.com/artist/3UjvEdmZztE7KXqx8cmKHe) | [Devil \(Sped Up/Slowed\)](https://open.spotify.com/album/19GYAxxkTNPebb67P8RtMk) | 2:40 | 2024-09-25 | 2025-01-08 |
 | [Dial Tone](https://open.spotify.com/track/74TKpZ4qtUBebygXkees6i) | [ASHWOOD](https://open.spotify.com/artist/7IuzLCgXUTGA5z3h4bvvu0), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Realize EP](https://open.spotify.com/album/6nyzv7wxeMosJQzUiglK7W) | 2:25 | 2023-07-06 | 2023-08-10 |
+| [did it mean forever](https://open.spotify.com/track/28DGbuoqeWTuW0SZaLOKQ4) | [Nolan van Lith](https://open.spotify.com/artist/1xdeCF6RglHDkz8FSQhTm4) | [did it mean forever](https://open.spotify.com/album/5x5f2X0GYXAdSYJGNdpWEa) | 2:08 | 2025-08-15 |  |
 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 | 2022-10-11 | 2023-08-10 |
 | [Different Eyes](https://open.spotify.com/track/1oilJqWTB17JjNSQ6mU0O3) | [MVSTAFA](https://open.spotify.com/artist/6Z7B1Ns8xEu05hFDCCwE1f), [ANIZYZ](https://open.spotify.com/artist/2MWaA6CZ9Rf8tDDuoMjZJq) | [Different Eyes](https://open.spotify.com/album/70998LAhRJkFW5W7cg3G5P) | 1:54 | 2024-07-18 |  |
 | [digital death](https://open.spotify.com/track/1ELR2oipJqgJbofkGPfSgE) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0) | [digital death](https://open.spotify.com/album/0gvh5QKSQCIxDH0mkvhT5c) | 3:19 | 2025-07-29 |  |

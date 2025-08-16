@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aswell",
-  "num_followers": 45765,
+  "num_followers": 45820,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Tour du monde",
         "url": "https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 171489,
       "name": "Tour du monde",
       "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -383,22 +383,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "FARA FARA GANG - BDLM EXTENSION",
-        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
+        "name": "Congolaise",
+        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
         },
         {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 229189,
-      "name": "MBIFE",
-      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
+      "duration_ms": 174920,
+      "name": "Congolaise",
+      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
     },
     {
       "added_at": "2025-08-07 20:30:24",
@@ -419,22 +419,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Congolaise",
-        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
+        "name": "FARA FARA GANG - BDLM EXTENSION",
+        "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
       },
       "artists": [
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         },
         {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
         }
       ],
-      "duration_ms": 174920,
-      "name": "Congolaise",
-      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
+      "duration_ms": 229189,
+      "name": "MBIFE",
+      "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
     },
     {
       "added_at": "2025-08-01 04:00:28",

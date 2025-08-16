@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> New music from Laufey, Ed Sheeran, Gunna, Bailey Zimmerman & The Kid LAROI, and more!
+> New music from Dijon, Conan Gray, Cardi B, Jordan Davis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,422,514 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,426,018 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Then You Happened](https://open.spotify.com/track/6ecMgHh6mgKLjBTM1BynhM) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Then You Happened](https://open.spotify.com/album/32Q4UfB1mCue1NGQaLER4H) | 3:03 |
 | 100 | [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 |
 
-Snapshot ID: `AAAAAMo+vHl8XBSaqSSYyuf3noQ/kexv`
+Snapshot ID: `AAAAAH2MYODaDG8WA4Q2VNR3+SWuInGx`

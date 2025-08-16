@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: fliss
+> Discover the next wave of talent writing their own songs\. Cover: Sabrina Sterling
 
-915 songs - 2 day 1 hr 3 min
+918 songs - 2 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 | 2025-05-10 |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
 | [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 | 2023-07-22 |
+| [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-15 |  |
 | [Friends](https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Friends](https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F) | 3:17 | 2024-08-30 | 2025-01-18 |
 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 | 2023-04-07 | 2023-08-19 |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
@@ -650,7 +651,7 @@
 | [rage](https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:37 | 2022-04-22 | 2022-07-16 |
 | [Rain](https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Rain](https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt) | 4:15 | 2024-11-15 | 2025-01-25 |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2022-01-14 | 2022-03-18 |
-| [Ramona](https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA) | 2:46 | 2025-07-18 |  |
+| [Ramona](https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA) | 2:46 | 2025-07-18 | 2025-08-16 |
 | [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 | 2022-11-25 | 2023-01-28 |
 | [Rearview](https://open.spotify.com/track/2wsvrOWiTvfFMxp3QEVIOT) | [Nicolina](https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb) | [Rearview](https://open.spotify.com/album/2VuST67lANIbEPX13rzCTp) | 3:12 | 2024-10-11 | 2025-01-18 |
 | [Rearview Mirror](https://open.spotify.com/track/2SSgYTvesgv4JbLtb6pMD9) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Rearview Mirror](https://open.spotify.com/album/6Yjc1ormevTi3c5lZb4rqF) | 2:33 | 2024-05-17 | 2024-11-02 |
@@ -669,6 +670,7 @@
 | [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-07-12 | 2024-08-24 |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-10-01 |
 | [Roses](https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Roses](https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj) | 3:27 | 2023-11-10 | 2024-01-20 |
+| [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 |  |
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-05-30 |  |
 | [Ruined](https://open.spotify.com/track/2NinkPppZ8hpTg6UabxfCz) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Driving Backwards](https://open.spotify.com/album/3AzgjMcUjnXhK7yV4epzEq) | 2:25 | 2025-05-09 | 2025-08-02 |
 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 | 2023-03-24 | 2023-10-01 |
@@ -702,7 +704,8 @@
 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 | 2023-07-07 | 2023-12-14 |
 | [Silence](https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Silence](https://open.spotify.com/album/0QTeJJR2WXrNd07TUbbhql) | 2:57 | 2023-06-23 | 2023-11-11 |
 | [SILLY LITTLE LOVER GIRL](https://open.spotify.com/track/5UdujlNkq2QhpegF09A5YO) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [SILLY LITTLE LOVER GIRL](https://open.spotify.com/album/2fGNBd9UScPGmcndhTUNGP) | 3:05 | 2025-05-30 |  |
-| [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 |  |
+| [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 | 2025-08-16 |
+| [Simple Math](https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs) | [Emma Andersen](https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v) | [Simple Math](https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5) | 2:24 | 2025-08-15 |  |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-18 | 2022-07-29 |
 | [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 | 2022-07-22 | 2022-08-20 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-23 |
@@ -889,7 +892,7 @@
 | [Who Am I](https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:39 | 2025-05-30 |  |
 | [Why](https://open.spotify.com/track/6j2HmPazSCDegWfHiodg3a) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Why](https://open.spotify.com/album/4dwTJ4XFbs63wrqKBnoaJB) | 3:10 | 2024-04-12 | 2024-09-07 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-04 | 2023-03-04 |
-| [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-07 |  |
+| [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-07 | 2025-08-16 |
 | [Wicked Nature](https://open.spotify.com/track/0YyQ5ejNk4P8nwwOyreKzk) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [In My Bones \(Deluxe\)](https://open.spotify.com/album/3eRt3LACTqStCVgGaXWoBp) | 3:01 | 2025-05-16 | 2025-08-09 |
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-21 | 2022-02-19 |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-08-18 | 2023-11-11 |

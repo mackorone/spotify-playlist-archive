@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Hamilton & Farruko",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Jerry Di",
   "name": "Afro Ritmo",
   "tracks": [
     {
@@ -588,7 +588,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 129235,
       "name": "Bajo La Misma Luna",
       "url": "https://open.spotify.com/track/2cnDrPPhnNa945NxsdviVj"
@@ -2659,6 +2659,32 @@
     },
     {
       "album": {
+        "name": "LLUVIA",
+        "url": "https://open.spotify.com/album/21QMRyGxOlvlKldRJdbX6j"
+      },
+      "artists": [
+        {
+          "name": "Jhosy",
+          "url": "https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo"
+        },
+        {
+          "name": "Koora",
+          "url": "https://open.spotify.com/artist/3mWID7rld1CKPADQLJnqQI"
+        },
+        {
+          "name": "Fifty",
+          "url": "https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "LLUVIA",
+      "url": "https://open.spotify.com/track/7cE2GBb64NzMOinj0T0pdO"
+    },
+    {
+      "album": {
         "name": "Lo Que Tiene",
         "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
       },
@@ -2892,7 +2918,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
@@ -3050,7 +3076,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 214026,
       "name": "MARIA",
       "url": "https://open.spotify.com/track/5E4PJej4WvULabhdbFgnVp"
@@ -3866,7 +3892,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 150594,
       "name": "Ojal\u00e1 (Mi Hoodie)",
       "url": "https://open.spotify.com/track/6YXygjn1doxfPoBHNfOKua"
@@ -4926,7 +4952,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 141176,
       "name": "Si Te Paso a Buscar",
       "url": "https://open.spotify.com/track/0eA4w4L8xXBnngpCC5Q0jG"
@@ -5781,6 +5807,24 @@
     },
     {
       "album": {
+        "name": "TUYO",
+        "url": "https://open.spotify.com/album/6hDHCbRdrZ3UCzopkjkfOI"
+      },
+      "artists": [
+        {
+          "name": "DEEIKEL",
+          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "TUYO",
+      "url": "https://open.spotify.com/track/6g4NcaysI50DxBHJFMJ3iC"
+    },
+    {
+      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -6222,6 +6266,42 @@
       "duration_ms": 159776,
       "name": "Wapa",
       "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+    },
+    {
+      "album": {
+        "name": "WAYO :(",
+        "url": "https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI"
+      },
+      "artists": [
+        {
+          "name": "RICCII",
+          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145405,
+      "name": "WAYO :(",
+      "url": "https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP"
+    },
+    {
+      "album": {
+        "name": "White Wine",
+        "url": "https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192075,
+      "name": "White Wine",
+      "url": "https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb"
     },
     {
       "album": {

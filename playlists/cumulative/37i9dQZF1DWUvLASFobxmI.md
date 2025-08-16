@@ -2,7 +2,7 @@
 
 ### [Norteño 2025](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
-> Bravías, románticas y rancheras, las mejores canciones norteñas\. Raul Vega en portada.
+> Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Rojos en portada.
 
 725 songs - 1 day 14 hr 8 min
 

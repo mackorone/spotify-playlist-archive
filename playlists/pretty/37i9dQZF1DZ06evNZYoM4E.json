@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107163,
+  "num_followers": 107161,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAADu55fxKnqtrX6Cdb2SUJ+V",
+  "snapshot_id": "aJ0nAAAAAAA4UYF7KTGGcj0Vi3euAIPs",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Liefde",
-        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "Ik Heb 'T Altijd Al Geweten",
-      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Met Liefde",
+        "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "Ik Heb 'T Altijd Al Geweten",
+      "url": "https://open.spotify.com/track/2yxvyBcNRXbb7Y0AfBpdTF"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Ik Hou Van Jou",
-        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Want Ik Hou Van Jou",
-      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zonder Zorgen",
         "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 194426,
       "name": "De Wereld Is Van Ons Allemaal",
       "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Want Ik Hou Van Jou",
+        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Want Ik Hou Van Jou",
+      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jij En Ik",
         "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 205426,
       "name": "Donker Om Je Heen",
       "url": "https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
     },
     {
       "added_at": null,

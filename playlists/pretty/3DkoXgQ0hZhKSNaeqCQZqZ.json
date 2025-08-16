@@ -1,12 +1,12 @@
 {
   "description": "Made for furs, by furs.  Check out FurryRadio.com",
-  "num_followers": 660,
+  "num_followers": 661,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAD65DQzgljFVdf0ayw36b+ZfA9Y2rR",
+  "snapshot_id": "AAAD74BiabG8ChN2WfAKbMZpJicGtBnp",
   "tracks": [
     {
       "added_at": "2024-03-15 20:27:51",
@@ -23,6 +23,22 @@
       "duration_ms": 146564,
       "name": "SPOTS",
       "url": "https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW"
+    },
+    {
+      "added_at": "2025-08-15 04:02:54",
+      "album": {
+        "name": "SPOTS 2",
+        "url": "https://open.spotify.com/album/43rqwQewbnqPw1S8EUgOyC"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 150930,
+      "name": "SPOTS 2",
+      "url": "https://open.spotify.com/track/4duDZn6Idgy9qH9Yl95pTs"
     },
     {
       "added_at": "2025-08-12 05:26:20",

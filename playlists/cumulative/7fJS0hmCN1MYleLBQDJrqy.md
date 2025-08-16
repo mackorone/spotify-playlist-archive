@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-75 songs - 3 hr 16 min
+76 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-07-18 |  |
 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 | 2025-07-18 |  |
 | [Check D'r In \(feat\. Mr\. Polska\)](https://open.spotify.com/track/3DCKTj8EPMu7iaKm1aCQAb) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mr\. Polska](https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6) | [Check D'r In \(feat\. Mr\. Polska\)](https://open.spotify.com/album/3zWQ8Is7USfahs7ZLifufD) | 2:09 | 2025-07-18 |  |
-| [Diva](https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz) | [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Diva](https://open.spotify.com/album/7jmbYMTS57ymh42Y8jWNPs) | 2:36 | 2025-07-18 |  |
+| [Diva](https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz) | [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Diva](https://open.spotify.com/album/7jmbYMTS57ymh42Y8jWNPs) | 2:36 | 2025-07-18 | 2025-08-16 |
 | [Doe Maar](https://open.spotify.com/track/2bUBLKwK2GKoxIcbmcLhUq) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:30 | 2025-07-18 |  |
 | [DRONKEN](https://open.spotify.com/track/75MXC8JjEeXsxOFzBWZURb) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [DRONKEN](https://open.spotify.com/album/7m1j8RtMNo7NiSxolRYPmm) | 3:07 | 2025-07-18 |  |
 | [Echo van de Nacht](https://open.spotify.com/track/6PQNVtaWphnTqYmWY9TbWU) | [TIJE](https://open.spotify.com/artist/55gYZdYxonabF6ptsbSm7C), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu), [KlikKlak](https://open.spotify.com/artist/000TJhsWOqbyNbTqCU26cW) | [Echo van de Nacht](https://open.spotify.com/album/6ri5kmnWT8i5WzbxZpdUus) | 2:22 | 2025-07-18 |  |
@@ -50,6 +50,7 @@
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2025-07-18 |  |
 | [Hyperventilatie](https://open.spotify.com/track/3yHt2DUM0AhAs1olpPcm7s) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Nacht Is Van Ons](https://open.spotify.com/album/5jbKfYGJeY4KmqIurYhb9u) | 2:18 | 2025-07-18 |  |
 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 | 2025-07-18 |  |
+| [If I tell you](https://open.spotify.com/track/547CS3a05csbbZLDIEkWVS) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [If I tell you](https://open.spotify.com/album/4g3f4iBv0Vus7eOFe9zqu3) | 3:11 | 2025-08-15 |  |
 | [iK bEpAaL](https://open.spotify.com/track/6lmi0bh5sDtotBrxnFisI9) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [iK bEpAaL](https://open.spotify.com/album/36nq9ytLZx0BiFtf9zRp6U) | 2:58 | 2025-08-08 |  |
 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2025-07-18 |  |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2025-07-18 |  |

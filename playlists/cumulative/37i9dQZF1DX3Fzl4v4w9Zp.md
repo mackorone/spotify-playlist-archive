@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Charley Crockett
 
-838 songs - 2 day 3 hr 34 min
+839 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Everyone But You](https://open.spotify.com/track/3PS7zsYHyOrG050v9CK6xH) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Everyone But You](https://open.spotify.com/album/6L3nLBtCelt2STcaWoMu5l) | 3:40 | 2024-07-19 | 2025-05-17 |
 | [Everything At Once \(feat\. Jeff Tweedy\)](https://open.spotify.com/track/1uFxDct07CM36KdhQYjWEh) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [The Chicago Sessions](https://open.spotify.com/album/43n3JA5Xt9rnxgq3yQ7i6o) | 3:45 | 2024-03-29 | 2024-04-19 |
 | [Everything At Once \(feat\. Jeff Tweedy\)](https://open.spotify.com/track/5Ge9rfVubgN6gDv6yBz7An) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Lucky](https://open.spotify.com/album/65O5v9lS0MPGkEEO2EPqya) | 3:45 | 2023-04-28 | 2024-08-31 |
+| [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 | 2025-08-15 |  |
 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 | 2024-03-29 | 2024-07-19 |
 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 | 2023-02-17 | 2024-04-19 |
 | [Evicted](https://open.spotify.com/track/2JW4rkz1XshjSVV4LES2RJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Evicted](https://open.spotify.com/album/2Exf1TaOG1wElBCKNDzWdz) | 3:29 | 2024-03-29 | 2025-03-01 |
@@ -699,7 +700,7 @@
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2021-12-17 | 2022-11-12 |
 | [Thankful](https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Thankful](https://open.spotify.com/album/4ndbGpeNneXLCcbfHelFKk) | 3:38 | 2024-11-15 |  |
-| [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 | 2025-06-06 |  |
+| [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 | 2025-06-06 | 2025-08-16 |
 | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/2Njx2qH5mUaKXHNvMeQeue) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/album/1j9PYG8WzrHfUvrLRTcjXo) | 2:49 | 2025-05-16 |  |
 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 | 2024-02-23 | 2025-07-05 |
 | [The Crowd Goes Wild](https://open.spotify.com/track/5XuaAzE08QYbEKLhEQEtK3) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/2MUgdyyd6Cl0VjplzIn8UE) | 3:34 | 2024-03-29 | 2025-03-08 |

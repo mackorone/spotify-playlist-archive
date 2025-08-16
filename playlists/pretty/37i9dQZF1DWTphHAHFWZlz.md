@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 MARTTEIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,396 likes - 57 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,393 likes - 57 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 56 | [Mi Barrio \(feat\. Neo Pistea & CA7RIEL\)](https://open.spotify.com/track/2qhi1jUSeDXmFWHQTXmD2K) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Íntimo Extremo \- 30 Años](https://open.spotify.com/album/3dkp0dRoQfbbPNjiBujDMC) | 3:29 |
 | 57 | [Pucho](https://open.spotify.com/track/4cYDDzsxSSn1RZmCmNMYNg) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:04 |
 
-Snapshot ID: `AAAAACGQkT573gLLVquai4D3v5AsTRip`
+Snapshot ID: `AAAAAKDjl6++tpp8jgnCJb49TmB8xBk6`

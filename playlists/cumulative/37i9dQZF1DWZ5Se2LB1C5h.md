@@ -2,7 +2,7 @@
 
 ### [EUPHORIA](https://open.spotify.com/playlist/37i9dQZF1DWZ5Se2LB1C5h)
 
-> Únete a la extravaganza del neón\. Tame Impala en portada.
+> Únete a la extravaganza del neón\. KAYTRANADA en portada.
 
 242 songs - 12 hr 30 min
 

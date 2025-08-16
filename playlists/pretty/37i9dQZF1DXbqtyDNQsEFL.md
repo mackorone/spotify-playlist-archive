@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,846 likes - 80 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,858 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5SDcksP8En1l6RtTY1wzHc) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion](https://open.spotify.com/album/7LHFVlsndw7HxDGJPWJS7S) | 8:55 |
 | 2 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
 | 3 | [God Will Work It Out](https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [God Will Work It Out](https://open.spotify.com/album/6osf9pssDlwps1Dc6ZeORw) | 6:32 |
-| 4 | [Ezinna](https://open.spotify.com/track/2mMpE4T0k5KOGoZHfNk5iO) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [KAYA](https://open.spotify.com/album/0CIpzfndd4ycRb5lIT0JC9) | 3:38 |
+| 4 | [Best Years](https://open.spotify.com/track/7bekCjFhzYSnU9blJzV97I) | [Victory Gbakara](https://open.spotify.com/artist/5MJZoYivzjQ5lO6F6wavtt) | [Best Years](https://open.spotify.com/album/2DlMAbkvyCjG41650CYgfP) | 4:07 |
 | 5 | [No Turning Back II](https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [No Turning Back II](https://open.spotify.com/album/4J3JoxIKe3ehKLJ39ABh5C) | 4:59 |
 | 6 | [If You Believe](https://open.spotify.com/track/1Z25zW2xBqMHVfgYAdKeqX) | [Strive to Be](https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj), [Patch Crowe](https://open.spotify.com/artist/1MIq5NXNxANzwF7LJj6UQR) | [A Great Work](https://open.spotify.com/album/0o9a31MuEFplebgbvfQCWt) | 2:33 |
 | 7 | [Canopy](https://open.spotify.com/track/4QJrfpom9tgm5D3HavVYzK) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Canopy](https://open.spotify.com/album/1at7LjqRsusfeqI7NbfVHv) | 2:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 |
 | 80 | [Light](https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [Light](https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A) | 6:08 |
 
-Snapshot ID: `AAAAAHibtiBfsveJdOJpz6NieePuII9G`
+Snapshot ID: `AAAAAFt7WEhqDpkPGFIMxfsBeIp2SSIU`

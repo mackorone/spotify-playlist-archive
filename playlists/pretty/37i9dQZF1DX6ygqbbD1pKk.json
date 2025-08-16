@@ -1,12 +1,12 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney. Lilo & Stitch, Moana 2, Encanto y mucho m\u00e1s!",
-  "num_followers": 200108,
+  "num_followers": 200159,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGaYZ9N2WrboFW6bmEOkKYmYtisR",
+  "snapshot_id": "AAAAAHWPKY8g5AUBWg+yAlsj7T0FOWzS",
   "tracks": [
     {
       "added_at": "2025-05-12 14:29:55",
@@ -83,6 +83,34 @@
       "duration_ms": 196306,
       "name": "Al final (Versi\u00f3n de cr\u00e9ditos)",
       "url": "https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv"
+    },
+    {
+      "added_at": "2025-08-15 20:49:57",
+      "album": {
+        "name": "ZOMBIES 4: Dawn of the Vampires (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        },
+        {
+          "name": "Malachi Barton",
+          "url": "https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dream Come True",
+      "url": "https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO"
     },
     {
       "added_at": "2025-05-12 14:29:55",

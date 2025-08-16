@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşiflerin 10\. yılını kutluyoruz! Kapak: Ezgi B Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,803 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,802 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 68 | [Biri Buna](https://open.spotify.com/track/6VwHRd8GJt8N156G2JFXtY) | [BiziBozar](https://open.spotify.com/artist/3NKm3v7AQbMlu8RibQj1n7) | [Biri Buna](https://open.spotify.com/album/4PHFtvwmWSe1ixEdgEPqX4) | 4:39 |
 | 69 | [Komedi](https://open.spotify.com/track/79Q1UntGJYsQu7SlZx30IW) | [Gecenin Biri](https://open.spotify.com/artist/6soP2Kay0Eq9M4LyvubbRB) | [Komedi](https://open.spotify.com/album/6VIQDAaUyUnij0H4f7sQTY) | 3:23 |
 
-Snapshot ID: `AAAAACFaM/0wb6uI6Hq0elB0RJHhTFsh`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

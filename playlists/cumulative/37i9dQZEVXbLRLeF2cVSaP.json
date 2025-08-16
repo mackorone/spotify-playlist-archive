@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "AIST",
       "url": "https://open.spotify.com/track/3VieScqwrczxcSVTsH20gu"
@@ -2364,7 +2364,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 116052,
       "name": "No Gletcher Gang 2",
       "url": "https://open.spotify.com/track/0nXNsOS6gKYKS6pdoTBeHR"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/2WQ09wqQBIOor7Q0VpIDBK"
@@ -2762,7 +2762,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 268840,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -3439,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/0KIv2HwJItvjalsFzQRzf8"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165450,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4T6kkDUqUiv7Adh9o5ImRw"
+    },
+    {
+      "album": {
         "name": "HOP",
         "url": "https://open.spotify.com/album/7dqL6gtJSFwzRG4M361mTH"
       },
@@ -3486,7 +3504,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 166153,
       "name": "welcome to forever",
       "url": "https://open.spotify.com/track/1aUdxA82tU5bBEnG2H0Jn7"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 166809,
       "name": "Who (Shibuyakei Remix)",
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 82269,
       "name": "\u0413\u0435\u043a\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/71LcXxyXOLybJnTjno152t"
@@ -4460,6 +4478,24 @@
       "duration_ms": 188411,
       "name": "\u0413\u041b\u0410\u041c\u0423\u0420",
       "url": "https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u043b\u044b\u0439 \u043f\u043e\u0432\u0437\u0440\u043e\u0441\u043b\u0435\u043b, \u0427. 2",
+        "url": "https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239910,
+      "name": "\u0413\u043e\u0440\u044b \u043f\u043e \u043a\u043e\u043b\u0435\u043d\u043e",
+      "url": "https://open.spotify.com/track/7f6ALwMTMLAhXCfoHYLCsx"
     },
     {
       "album": {
@@ -4578,7 +4614,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 207057,
       "name": "\u0414\u0430\u0432\u0430\u0439 \u0441\u043a\u043e\u043d\u043d\u0435\u043a\u0442\u0438\u043c\u0441\u044f",
       "url": "https://open.spotify.com/track/3YpYzeTyWOYXilCaBTxBUT"
@@ -4982,7 +5018,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 228000,
       "name": "\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439",
       "url": "https://open.spotify.com/track/0qC4BgAbK9YI3fJ31n2fOO"
@@ -5186,7 +5222,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 185164,
       "name": "\u041a\u043b\u0435\u043e\u043f\u0430\u0442\u0440\u0438",
       "url": "https://open.spotify.com/track/5TEYAw98yTZlpsvIJc7wq8"
@@ -6390,7 +6426,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 246743,
       "name": "\u041f\u041e\u0420\u041d\u0425\u0410\u0411 \u041a\u0420\u0418\u0421\u041c\u0410\u0421 \u041a\u041b\u0410\u0411",
       "url": "https://open.spotify.com/track/5jgFvROeP9DlLl9dMHQEtw"
@@ -6484,7 +6520,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 162526,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u041b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
@@ -6662,7 +6698,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 195532,
       "name": "\u041f\u044c\u044f\u043d\u044b\u0439 \u0434\u043e\u0436\u0434\u044c",
       "url": "https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc"
@@ -7132,7 +7168,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 188240,
       "name": "\u0421\u0442\u0430\u043d\u044c",
       "url": "https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r"
@@ -7740,7 +7776,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 98029,
       "name": "\u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv"
@@ -8008,7 +8044,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 268906,
       "name": "\u042d\u043d\u0434\u043e\u0440\u0444\u0438\u043d",
       "url": "https://open.spotify.com/track/4GbHNkWtWUIZAL0owhoz1i"
@@ -8080,7 +8116,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 127505,
       "name": "\u044f \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u044e\u0441\u044c \u043c\u0435\u0448\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/3HuWSpAduuIwOr8Qfu1xK5"

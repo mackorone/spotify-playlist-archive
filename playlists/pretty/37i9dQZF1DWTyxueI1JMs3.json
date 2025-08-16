@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40203,
+  "num_followers": 40205,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! Blooming AUTUMN EP",
-        "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
-      },
-      "artists": [
-        {
-          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Living The Dream",
-      "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! First SPRING EP",
         "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 258733,
       "name": "Spring has come!",
       "url": "https://open.spotify.com/track/2RRBQEw3laesyrXApTgWnV"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! Blooming AUTUMN EP",
+        "url": "https://open.spotify.com/album/65f9bBqVmfy9fIfJUffUsb"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u5c3e\u592a\u4e00(CV:\u6ff1\u5065\u4eba)",
+          "url": "https://open.spotify.com/artist/6rjV7hrqfg15EH17MGttU1"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Living The Dream",
+      "url": "https://open.spotify.com/track/7v0vmIUV1PLRpFQqHicMag"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! VIVID SPRING EP",
-        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30ba\u30ef\u30eb\u30c9 [\u536f\u6728\u5343\u666f (CV: \u7fbd\u591a\u91ce\u6e09)]",
-          "url": "https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI"
-        },
-        {
-          "name": "\u30ea\u30c3\u30af[\u4f50\u4e45\u9593\u54b2\u4e5f (CV: \u9152\u4e95\u5e83\u5927)]",
-          "url": "https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! VIVID WINTER EP",
         "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 302160,
       "name": "UNMASK",
       "url": "https://open.spotify.com/track/0CxxlKX5LEiMCWAoeaWOmY"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! VIVID SPRING EP",
+        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30ba\u30ef\u30eb\u30c9 [\u536f\u6728\u5343\u666f (CV: \u7fbd\u591a\u91ce\u6e09)]",
+          "url": "https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI"
+        },
+        {
+          "name": "\u30ea\u30c3\u30af[\u4f50\u4e45\u9593\u54b2\u4e5f (CV: \u9152\u4e95\u5e83\u5927)]",
+          "url": "https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
     },
     {
       "added_at": "2025-04-22 19:04:27",

@@ -4,7 +4,7 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-146 songs - 7 hr 26 min
+147 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Did I Mention](https://open.spotify.com/track/1YekSxsAlGlYvm9zjLsKdh) | [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \- Original TV Movie Soundtrack](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:33 | 2024-04-30 | 2024-09-12 |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2024-04-30 |  |
 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 | 2023-09-15 | 2024-05-01 |
+| [Dream Come True](https://open.spotify.com/track/0kh3Vsiqf3LWNP7dIMxqYO) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn), [Malachi Barton](https://open.spotify.com/artist/3fknxSm9gKHsiN2C6lcRme), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 4: Dawn of the Vampires \(Original Soundtrack\)](https://open.spotify.com/album/6Pbfaaiw90G9rK2mhmSd4Q) | 3:18 | 2025-08-15 |  |
 | [El Latido de mi Corazón](https://open.spotify.com/track/2qZ9pgLM4mJ1hy4lfe8Zi9) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:01 | 2023-12-06 |  |
 | [El Latido de mi Corazón](https://open.spotify.com/track/5GqGavoD0DCHBcRxfRK7v1) | [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 2:01 | 2024-10-11 |  |
 | [El Mejor Guerrero \- De "Mulán"](https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [El Mejor Guerrero \(De "Mulán"\)](https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F) | 2:43 | 2023-09-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60012,
+  "num_followers": 60041,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
+        "name": "Ta honom",
+        "url": "https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 128759,
+      "name": "Ta honom",
+      "url": "https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
         "name": "ett minne i taget",
         "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 111971,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
-        "name": "Ta honom",
-        "url": "https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 128759,
-      "name": "Ta honom",
-      "url": "https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -387,6 +387,26 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
+        "name": "500 kr",
+        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
+      },
+      "artists": [
+        {
+          "name": "I$AK",
+          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
+        },
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "500 kr",
+      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
-        "name": "500 kr",
-        "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
-      },
-      "artists": [
-        {
-          "name": "I$AK",
-          "url": "https://open.spotify.com/artist/5JpxWPjUEY7eQRYpX1FWIE"
-        },
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "500 kr",
-      "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Tappar det",
-        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
-      },
-      "artists": [
-        {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
-        }
-      ],
-      "duration_ms": 155975,
-      "name": "Tappar det",
-      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "Dina fula skor",
         "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 138187,
       "name": "Dina fula skor",
       "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Tappar det",
+        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
+      },
+      "artists": [
+        {
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+        }
+      ],
+      "duration_ms": 155975,
+      "name": "Tappar det",
+      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 141058,
-      "name": "More",
-      "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/2KRSxzDsKG1TkJjAjzlHJm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 131100,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/6HIyVsMgerWNe8aqJKeivg"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 141058,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
+      "duration_ms": 248533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7JSgVeo8NtFfryHq2Mg04I"
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
       },
       "artists": [
         {
-          "name": "2AM-DM",
-          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 248533,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/39xD4NicfBWgixzN9X2D68"
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Can We Go Back",
-        "url": "https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4"
-      },
-      "artists": [
-        {
-          "name": "Pink Butter",
-          "url": "https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM"
-        },
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 225593,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "N\u00e5gon annan \u00e4n dig",
         "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 164869,
       "name": "N\u00e5gon annan \u00e4n dig",
       "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Can We Go Back",
+        "url": "https://open.spotify.com/album/41aQrkyyRcqOsue4j9Scn4"
+      },
+      "artists": [
+        {
+          "name": "Pink Butter",
+          "url": "https://open.spotify.com/artist/5gTEP7Z60jRE0DSpj48ukM"
+        },
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 225593,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/1R6RXKsCXPokaX4kToMg1g"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "INATT IGEN",
-        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "INATT IGEN",
-      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "K\u00e4nner ni igen er",
         "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "INATT IGEN",
+        "url": "https://open.spotify.com/album/4w83t50g9487UwORpDiCOh"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "INATT IGEN",
+      "url": "https://open.spotify.com/track/2VqbxwOaj6t3DW6Yylv9PW"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Your Fantasy",
-        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 139444,
-      "name": "Your Fantasy",
-      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Your Fantasy",
+        "url": "https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 139444,
+      "name": "Your Fantasy",
+      "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"
     },
     {
       "added_at": "2025-08-14 22:00:27",

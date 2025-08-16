@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: PLUTO",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -616,6 +616,24 @@
       "duration_ms": 198385,
       "name": "Anything Flows (feat. Maiya The Don, 2Rare & Kari Faux)",
       "url": "https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m"
+    },
+    {
+      "album": {
+        "name": "Anyways, Whatever",
+        "url": "https://open.spotify.com/album/2Sj9vpeGbkV0GpH4vrcokn"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143606,
+      "name": "Anyways, Whatever",
+      "url": "https://open.spotify.com/track/4b6kGhWarTvoIHNIsRVkUs"
     },
     {
       "album": {
@@ -1642,6 +1660,28 @@
       "duration_ms": 175112,
       "name": "BIRTHDAY",
       "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY BEHAVIOR",
+        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BIRTHDAY BEHAVIOR",
+      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
     },
     {
       "album": {
@@ -3478,7 +3518,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 130271,
       "name": "Dog Ass Nigga 2.0 (feat. Big Boogie)",
       "url": "https://open.spotify.com/track/0oTxvUWADAlzsOCrFdhSIB"
@@ -4132,7 +4172,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 167547,
       "name": "Fall in Love",
       "url": "https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni"
@@ -6188,6 +6228,24 @@
       "duration_ms": 124823,
       "name": "Im So ATL",
       "url": "https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A"
+    },
+    {
+      "album": {
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
       "album": {
@@ -9070,7 +9128,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 217533,
       "name": "ONE THING",
       "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"

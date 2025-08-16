@@ -4,7 +4,7 @@
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll &amp; Marshmello
 
-366 songs - 20 hr 1 min
+368 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 | 2025-04-25 |  |
 | [Ain't A Bad Life](https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(& A Good Ol' Boy\)](https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC) | 3:07 | 2025-07-18 |  |
 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 | 2023-11-03 | 2024-07-20 |
+| [Ain't Enough Road](https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:59 | 2025-08-15 |  |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-06-17 |  |
 | [Ain't The One](https://open.spotify.com/track/1DMKxugJjRgFjEzUb6Sd62) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/6mgEILhlga6pdEns5qahoU) | 3:05 | 2023-11-03 | 2024-01-13 |
 | [Alimony](https://open.spotify.com/track/7Lkb8cyy1iLuLCUhfMOpJJ) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Alimony](https://open.spotify.com/album/75PVKU0GHALIqPZ92fpTvf) | 3:15 | 2024-07-26 | 2024-09-21 |
@@ -229,6 +230,7 @@
 | [no rain](https://open.spotify.com/track/5N2LbYvPXJfJJednSuhlpm) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [no rain](https://open.spotify.com/album/5xLs6KYupvd41s6hrsoMoT) | 3:00 | 2025-02-21 | 2025-03-15 |
 | [Nobody's Nobody](https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 3:09 | 2023-11-03 | 2023-11-18 |
 | [Nostalgia](https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [The Storyteller](https://open.spotify.com/album/7KypIz0P88XTX6VrtYdC0E) | 3:31 | 2024-10-04 | 2025-02-22 |
+| [Nostalgic for Nothing](https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Nostalgic for Nothing](https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c) | 3:25 | 2025-08-15 |  |
 | [Not So Much No More](https://open.spotify.com/track/2FKqYH559u3BIhdKpPRKtE) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Not So Much No More](https://open.spotify.com/album/3yHlZnt3ibKcgWORuu9swz) | 2:58 | 2024-06-08 | 2024-07-20 |
 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 | 2023-11-03 | 2023-11-11 |
 | [Nowhere Town](https://open.spotify.com/track/1Wc5fINADFJzBaGlxcpIjh) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Trouble Is](https://open.spotify.com/album/7kDzDEi9qffLWSMeLPkEMZ) | 2:29 | 2024-01-12 | 2024-02-24 |

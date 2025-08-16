@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35237,
+  "num_followers": 35249,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAAC5LRhtMDlozsiZbMpqOfnY",
+  "snapshot_id": "aJ0nAAAAAABzWej6Asy9MrqSl8PJLJ3G",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "En Tus Horas",
-      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
@@ -628,9 +612,25 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+      "duration_ms": 223586,
+      "name": "En Tus Horas",
+      "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
       "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 394573,
-      "name": "Foto de Primera Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
     },
     {
       "added_at": null,

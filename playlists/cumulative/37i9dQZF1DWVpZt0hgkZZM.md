@@ -4,7 +4,7 @@
 
 > ¡Pasadía y sabrosura!
 
-232 songs - 15 hr 20 min
+233 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [El Ciclón \(Live\)](https://open.spotify.com/track/5LhlhZaOJVIYJWOGTiIp8u) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:48 | 2021-12-16 | 2024-02-29 |
 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2021-12-16 | 2024-04-19 |
 | [El Debilitao](https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [Historia Musical de los Nemus del Pacífico](https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv) | 4:31 | 2024-04-06 |  |
-| [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 | 2024-04-06 |  |
+| [El Eco y el Carretero](https://open.spotify.com/track/4lMlLqCKleGBiztVjpnpKl) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:28 | 2024-04-06 | 2025-08-16 |
+| [El Esclavo](https://open.spotify.com/track/6xxCu3DCal5jf5KPqDUhxp) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:50 | 2024-07-12 |  |
 | [El Escorpión](https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q) | [Víctor Salamanca](https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI) | [Costa Alegre](https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo) | 2:43 | 2024-07-12 |  |
 | [El Forastero](https://open.spotify.com/track/1cMqeDFxoS32WAGNtfg9di) | [Nelson Y Sus Estrellas](https://open.spotify.com/artist/5SRwYMyavJCNT2AdVMpPgi) | [Orquídea de Plata](https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn) | 2:59 | 2021-12-16 | 2024-03-27 |
 | [El Hijo de Tuta](https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 4:00 | 2021-12-16 | 2024-04-19 |

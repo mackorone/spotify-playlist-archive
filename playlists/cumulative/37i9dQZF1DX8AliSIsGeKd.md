@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Pretty Pink
 
-5,762 songs - 20 day 2 hr 45 min
+5,762 songs - 20 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,6 +1142,7 @@
 | [Darko \- 2023 Remix](https://open.spotify.com/track/3EwNDJlZfckJsL1wmnEf2g) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Darko \(2023 Remix\)](https://open.spotify.com/album/4Y6jB4WU8lFw1S29GkbMPH) | 3:14 | 2023-07-14 | 2023-08-04 |
 | [Das Elementarteilchen](https://open.spotify.com/track/57gXDWwsbl1XiDShlRYO4E) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Das Elementarteilchen](https://open.spotify.com/album/2Sojp8BcLL1FWCDoIX7fuw) | 4:01 | 2022-05-12 | 2022-05-27 |
 | [Das Erwachen](https://open.spotify.com/track/7xhpUTLZ4EQ2iUmy2vzchV) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Das Erwachen](https://open.spotify.com/album/4GjiSLohMkX4uMvj4T4dnt) | 4:17 | 2023-11-02 | 2023-11-25 |
+| [Das Omen](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 3:30 | 2025-08-14 |  |
 | [Das schlagende Herz](https://open.spotify.com/track/63fnjm9KIucPy30bHCDhe1) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Das schlagende Herz](https://open.spotify.com/album/4zyhLk3Qh5pLArXNY90cn2) | 2:56 | 2024-04-11 | 2024-04-26 |
 | [Data Loss](https://open.spotify.com/track/2Zi8rrvjVcctJH9q1TKcQQ) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz) | [Data Loss](https://open.spotify.com/album/6Jdm29F376V4QRnP3AIQe8) | 5:53 | 2024-07-11 | 2024-07-27 |
 | [Dawn Beyond](https://open.spotify.com/track/39lsi4cPpq25nzejBUprQS) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Dawn Beyond](https://open.spotify.com/album/0ONHjTZfUAt99kjcLbixcl) | 6:51 | 2023-07-14 | 2023-08-04 |
@@ -5189,7 +5190,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 3](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 0:00 | 2025-08-14 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Train to Utogi](https://open.spotify.com/track/14wCCWEzzUsjRl8BPosbPc) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Wasabi Syndrome](https://open.spotify.com/album/1iFX3SJw4IfpLzIb8YMrhh) | 6:22 | 2023-04-20 | 2023-05-05 |

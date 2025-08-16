@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 799722,
+  "num_followers": 799690,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,38 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
         "name": "La Biographie de Luka Philipsen",
         "url": "https://open.spotify.com/album/02o4ipeZALU4EG2RX6d4Ip"
       },
@@ -595,38 +627,6 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Born To Be Alive",
-        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
-      },
-      "artists": [
-        {
-          "name": "Bea and her Business",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 157068,
-      "name": "Born To Be Alive",
-      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
         "name": "how did they know",
         "url": "https://open.spotify.com/album/5XQnun6cfXG7S7KmXagM1K"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "The Pirate's Gospel (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
+        "name": "Born To Be Alive",
+        "url": "https://open.spotify.com/album/3FfMjxeN7TOVyUwDqPCaXE"
       },
       "artists": [
         {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+          "name": "Bea and her Business",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 175453,
-      "name": "The Pirate's Gospel",
-      "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
+      "duration_ms": 157068,
+      "name": "Born To Be Alive",
+      "url": "https://open.spotify.com/track/3t5o6aDBXWyNZiyFQylraq"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -791,6 +775,22 @@
       "duration_ms": 260120,
       "name": "Soon We'll Be Found",
       "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
+        "name": "The Pirate's Gospel (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1rxMCeSrBGC5qf9di9gOJ6"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "The Pirate's Gospel",
+      "url": "https://open.spotify.com/track/5azaaeLKtKevqs8u1XHRHI"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+        "name": "Memoir of a Sparklemuffin (Deluxe)",
+        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+      "duration_ms": 208008,
+      "name": "The Bellboy (One Last Crush)",
+      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Memoir of a Sparklemuffin (Deluxe)",
-        "url": "https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz"
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 208008,
-      "name": "The Bellboy (One Last Crush)",
-      "url": "https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln"
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -907,6 +907,30 @@
       "duration_ms": 206808,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
+        "name": "Times Square Jesus",
+        "url": "https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 255195,
+      "name": "Times Square Jesus",
+      "url": "https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -1047,22 +1071,6 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 158613,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1099,6 +1107,22 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 158613,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5"
       },
@@ -1131,6 +1155,22 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 228760,
+      "name": "Black Dog",
+      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb"
       },
@@ -1147,22 +1187,6 @@
       "duration_ms": 202800,
       "name": "Blue",
       "url": "https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 228760,
-      "name": "Black Dog",
-      "url": "https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -1267,18 +1291,18 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Better Believe It",
-        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
       },
       "artists": [
         {
-          "name": "Carla Geneve",
-          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 142892,
-      "name": "Better Believe It",
-      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
+      "duration_ms": 144744,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -1299,22 +1323,6 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1331,6 +1339,22 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
+        "name": "Better Believe It",
+        "url": "https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh"
+      },
+      "artists": [
+        {
+          "name": "Carla Geneve",
+          "url": "https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT"
+        }
+      ],
+      "duration_ms": 142892,
+      "name": "Better Believe It",
+      "url": "https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
         "name": "H24",
         "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
       },
@@ -1343,30 +1367,6 @@
       "duration_ms": 216939,
       "name": "H24",
       "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
-        "name": "Times Square Jesus",
-        "url": "https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX"
-      },
-      "artists": [
-        {
-          "name": "The Favors",
-          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        },
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 255195,
-      "name": "Times Square Jesus",
-      "url": "https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc"
     },
     {
       "added_at": "2025-08-14 22:00:22",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-08-14 22:00:22",
       "album": {
-        "name": "Patterns in Repeat",
-        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/6CP9LzE18KTX5FnvUnwXpc"
-    },
-    {
-      "added_at": "2025-08-14 22:00:22",
-      "album": {
         "name": "Why Can't I Cry About It?",
         "url": "https://open.spotify.com/album/6LiaRWi95Dn6JMMGhs3zh0"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 164690,
       "name": "Why Can't I Cry About It?",
       "url": "https://open.spotify.com/track/6jZUN3N3oDTuePPCVxpP3W"
+    },
+    {
+      "added_at": "2025-08-14 22:00:22",
+      "album": {
+        "name": "Patterns in Repeat",
+        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/6CP9LzE18KTX5FnvUnwXpc"
     },
     {
       "added_at": "2025-08-14 22:00:22",

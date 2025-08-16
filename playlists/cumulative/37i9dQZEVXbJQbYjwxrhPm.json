@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 201230,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs"
@@ -1274,6 +1274,28 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
+    },
+    {
+      "album": {
+        "name": "CHUMBER",
+        "url": "https://open.spotify.com/album/5RfIqeCJmFmdDfDUe8tukD"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157349,
+      "name": "CHUMBER",
+      "url": "https://open.spotify.com/track/3vFOfbQ2nyBysnMhKSHRVr"
     },
     {
       "album": {
@@ -5224,7 +5246,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 219088,
       "name": "Pochivni Dni",
       "url": "https://open.spotify.com/track/7KZaoTIrhLIzZj9B5nVBJK"
@@ -5264,7 +5286,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 215625,
       "name": "Polujivi",
       "url": "https://open.spotify.com/track/5USdMIrRxaU3vnKaPxqj1C"
@@ -6644,7 +6666,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
@@ -6684,7 +6706,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -7568,7 +7590,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 197030,
       "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
       "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
@@ -8524,7 +8546,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 176923,
       "name": "\u041c\u0430\u0439 \u043f\u043e\u043b\u0443\u0434\u044f\u0445",
       "url": "https://open.spotify.com/track/7rpYxeb9bA0qUa4KdeIfS6"

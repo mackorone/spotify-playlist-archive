@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Luz Casal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,176 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,175 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 18 | [Qué mas da](https://open.spotify.com/track/4qMrhpzaRCmiGKC2EAR58p) | [Carmen Ferre](https://open.spotify.com/artist/0YQ5lCNqrjymrsqmSn62YV) | [Qué mas da](https://open.spotify.com/album/2o3dKw1mNNSXS0IUbwHn5B) | 2:48 |
 | 19 | [TETEO](https://open.spotify.com/track/4AGI13yBbpupGhnyWwm3eJ) | [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ), [Papá Levante](https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf) | [TETEO](https://open.spotify.com/album/7zqQO27KvrfeMzesV3An0r) | 2:32 |
 | 20 | [San Juan](https://open.spotify.com/track/3yNqe6KpSaVyAFjAXwNMNO) | [BEA PELEA](https://open.spotify.com/artist/7n8CEf82NSsckIB7kMwm9d) | [San Juan](https://open.spotify.com/album/6rrqadLO3eWARIZD5qsxhG) | 2:44 |
-| 21 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki.](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
+| 21 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 | 22 | [La última rave](https://open.spotify.com/track/7hxGtvCTHCItNbGXlaXec8) | [Xina Mora](https://open.spotify.com/artist/4dRPdWRUFyJp0yhjGBLClx) | [La última rave](https://open.spotify.com/album/3GNlJvjq0isfBGUm5sV0qf) | 3:01 |
 | 23 | [Bikini Rojo](https://open.spotify.com/track/740I972rjadktN3ciBogDg) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Bikini Rojo](https://open.spotify.com/album/1PdSnxa330Xpub81WdQrXi) | 2:18 |
 | 24 | [Fuego Lento](https://open.spotify.com/track/3U8DEnbRUGE1jHmr4PVlRY) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Fuego Lento](https://open.spotify.com/album/5pbyuxzzQXCdHAGlINxihm) | 3:26 |

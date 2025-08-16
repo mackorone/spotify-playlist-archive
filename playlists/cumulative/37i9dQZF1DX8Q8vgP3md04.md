@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-122 songs - 9 hr 3 min
+123 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Fiker](https://open.spotify.com/track/4UuPQugjrx9pQyEmfOeLrs) | [Dawit Cherent](https://open.spotify.com/artist/26MgB2XBEqAtyISkep3iC1) | [Sew, Pt\. 1 Mot](https://open.spotify.com/album/7bM7TdqRgpuDGl15zjFPet) | 5:16 | 2020-06-05 | 2024-03-09 |
 | [Fiker Beamargna](https://open.spotify.com/track/3u0vFUuILcUmhQXUzBHt7F) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Fikir Beamargna](https://open.spotify.com/album/0rYlsn4ivsz2EMPtv4S66x) | 4:20 | 2018-10-04 |  |
 | [Fiyah Burn](https://open.spotify.com/track/1z3WMz6hnl2bC1E0WEeIyZ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Fiyah Burn](https://open.spotify.com/album/3N0dCv4K4kG6yXQqoBs8ee) | 2:23 | 2024-07-12 |  |
-| [Gela](https://open.spotify.com/track/0wb2PD8aLfAOFeYdHVCANE) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Gela](https://open.spotify.com/album/2RLtp5wHOkBUilge4TIlGr) | 3:34 | 2024-03-22 |  |
+| [Gela](https://open.spotify.com/track/0wb2PD8aLfAOFeYdHVCANE) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Gela](https://open.spotify.com/album/2RLtp5wHOkBUilge4TIlGr) | 3:34 | 2024-03-22 | 2025-08-16 |
 | [Gerager](https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr) | [Zebiba Girma](https://open.spotify.com/artist/5Tu7xzkOlzjuxouXfUefHb) | [Gerager](https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa) | 4:13 | 2020-06-05 |  |
 | [Geriye](https://open.spotify.com/track/0RpIZYbiYCUhct3IID6Ty2) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 4:05 | 2018-10-04 | 2023-03-18 |
 | [Get to Work](https://open.spotify.com/track/2bvCPqlkiQGOUntCvgy1JR) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Reflection](https://open.spotify.com/album/3uuKxEAuZtmcAqF2TwfatE) | 3:49 | 2018-10-04 |  |
@@ -113,6 +113,7 @@
 | [Tilobign](https://open.spotify.com/track/57eim2kUA5BYD7m6fdLeDM) | [Rahel Getu](https://open.spotify.com/artist/6KbkfWzDjN1R46Dt3usSwZ) | [Tilobign](https://open.spotify.com/album/0r806TJjYUw4g4d5LEoSh9) | 4:55 | 2020-06-05 |  |
 | [Tiritaye](https://open.spotify.com/track/6yczkZAYHZ1phW2eUd1IDR) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Tiritaye](https://open.spotify.com/album/1yh4cLMTXqSRqz5G5cGb4v) | 3:47 | 2023-06-23 |  |
 | [Tizita](https://open.spotify.com/track/784q54gDzR98Mfd56z56OF) | [Buzuayew Demissie](https://open.spotify.com/artist/2Wm17zcM0MLD7TQBS1lgPq) | [Nahiom Favorites, Vol\. 19](https://open.spotify.com/album/4DfZwvE1S6ZimCJ7dEYwXg) | 5:56 | 2018-10-04 | 2024-10-12 |
+| [Tsehaye](https://open.spotify.com/track/3yfaNVTyG1uGeXCS8T76Gk) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Tsehaye](https://open.spotify.com/album/1s3biOskkUZ3JS28U9emXq) | 4:08 | 2025-08-15 |  |
 | [Twek](https://open.spotify.com/track/3OADWQ0NN2leWsq7nWOcdi) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 5:10 | 2018-10-04 | 2023-10-14 |
 | [Waste My Time](https://open.spotify.com/track/40kRaQPqDy44Ez8u7vM8vo) | [jasmine bellé](https://open.spotify.com/artist/0UcIIFcB47UaSOH9I4bKd8) | [Waste My Time](https://open.spotify.com/album/3rIDIWRGE8XMJutRXi5Ckm) | 2:43 | 2024-10-04 |  |
 | [Web Alem](https://open.spotify.com/track/5trOza7zXZEddQgwX2Cu4L) | [KUTU](https://open.spotify.com/artist/4ELJpRf923CpualWnE17LJ), [Théo Ceccaldi](https://open.spotify.com/artist/4mz08nmtjVH6ITqxBEmzHY), [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Web Alem](https://open.spotify.com/album/5SSeoww2Lt36bXi7g0HnRz) | 3:19 | 2024-10-11 |  |

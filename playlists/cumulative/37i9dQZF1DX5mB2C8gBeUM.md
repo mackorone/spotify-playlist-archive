@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-518 songs - 1 day 1 hr 40 min
+519 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 | 2022-02-25 | 2023-09-30 |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2021-12-10 | 2022-06-11 |
 | [Turnt](https://open.spotify.com/track/6bwRDyna9lHRw5NOBWlsXh) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Turnt](https://open.spotify.com/album/10S4Tsq1IkFSHkYvSOSloH) | 3:39 | 2021-12-10 | 2023-01-04 |
+| [Turquoise Cowboy](https://open.spotify.com/track/4LifLPjq01uBbFF0yKTrzU) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Turquoise Cowboy](https://open.spotify.com/album/1JMzzKhYbJcYNQ3VKC0lpw) | 3:16 | 2025-08-15 |  |
 | [Twenty One](https://open.spotify.com/track/37GplPmP2JCLifXt9YXVv2) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6) | [Twenty One](https://open.spotify.com/album/4D8JP6VGjKOpdKt7U8A7lm) | 2:30 | 2024-01-12 | 2025-06-30 |
 | [U\-Turn](https://open.spotify.com/track/3yfMEOxldOvo9MvxuEQ7Mn) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [U\-Turn](https://open.spotify.com/album/7yHtirGfEgRNGV0YB3FctW) | 3:11 | 2021-12-10 | 2022-09-24 |
 | [Unlonely Me](https://open.spotify.com/track/1yUHlqsVLvrPEKXMB0prDe) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Unlonely Me](https://open.spotify.com/album/6OK35UjN0ggzzNAfsEE09I) | 2:31 | 2021-12-10 | 2023-01-04 |

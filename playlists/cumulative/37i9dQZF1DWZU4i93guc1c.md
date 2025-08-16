@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: ТУЧА
 
-441 songs - 23 hr 2 min
+442 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Амбівалентний](https://open.spotify.com/track/1lfupPeDhugwiT00Citb0q) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Що спільного між вороном і кроликом?](https://open.spotify.com/album/3zSZmZsFb91EjRb6BicuFq) | 2:19 | 2024-11-07 | 2025-04-24 |
 | [антиутопія](https://open.spotify.com/track/30LTUnfJ8GsMkmufwSlZQy) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [антиутопія](https://open.spotify.com/album/4ofEbzZHdlvdSAA0YUseds) | 4:05 | 2024-07-12 | 2024-07-27 |
 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 | 2025-01-24 | 2025-06-07 |
+| [Афродіта](https://open.spotify.com/track/55O2LvQJACyuecjeHxXYxk) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [АФРОДІТА](https://open.spotify.com/album/3YWdygtk7xmqTjqueS7cru) | 1:55 | 2025-08-08 |  |
 | [Бабл\-ті](https://open.spotify.com/track/3fKf2eObKWjzUjiW26leOT) | [Alice Change](https://open.spotify.com/artist/2MUGwis27QiudPF2SfL2yh) | [Бабл\-ті](https://open.spotify.com/album/5RmFQ73eITw0sc3blVwLBr) | 1:39 | 2025-08-08 |  |
 | [багатель зі сну в кіото](https://open.spotify.com/track/5WNqb7lpR0VS5LO1q8g7Cn) | [provulok](https://open.spotify.com/artist/3i448OV2OVpKy6EQtenzzZ), [Монтеск'є](https://open.spotify.com/artist/2HJh8v2atfiAjRk76wSJNa) | [багатель зі сну в кіото](https://open.spotify.com/album/5LFkVnUrAjUrJuiiLWJQmw) | 3:28 | 2025-06-19 | 2025-07-23 |
 | [БАЛАМУТЕ](https://open.spotify.com/track/2QbPzOjIgAMaeguHMDO0TS) | [Morelyubovi](https://open.spotify.com/artist/46PC20GzKRvXpZuc4RdScj) | [БАЛАМУТЕ](https://open.spotify.com/album/0qIqBJI7gKRc2dZJyn13Qh) | 3:19 | 2025-03-17 | 2025-04-12 |
@@ -403,7 +404,7 @@
 | [Улюблені речі](https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g) | [Sonhe](https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8) | [Улюблені речі](https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O) | 2:53 | 2025-05-30 |  |
 | [Усе попереду](https://open.spotify.com/track/75y3khMIUF0KystIo6UUDa) | [Женя і Катя](https://open.spotify.com/artist/0GVdstE7poXVPgHK8hNsBh) | [Усе попереду](https://open.spotify.com/album/30gAFvselrpjeyNlp38GIT) | 3:20 | 2024-08-23 | 2024-09-14 |
 | [Усі в мені](https://open.spotify.com/track/4OVrTzb3SOKSaqgHX8KYda) | [Vivienne Mort](https://open.spotify.com/artist/6mQd5HeHhMBZK8u2bTCduH) | [Фата](https://open.spotify.com/album/3lxbhmhTvCy7FH2Vi6ia7L) | 2:51 | 2024-09-13 | 2025-06-07 |
-| [Усі ми прагнемо любові](https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK), [ULIA LORD](https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9), [Qarpa](https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em) | [Усі ми прагнемо любові](https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe) | 3:48 | 2025-05-30 |  |
+| [Усі ми прагнемо любові](https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK), [ULIA LORD](https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9), [Qarpa](https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em) | [Усі ми прагнемо любові](https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe) | 3:48 | 2025-05-30 | 2025-08-16 |
 | [Фантазія](https://open.spotify.com/track/0LTBEDJsr3Ki4jsK2l22lv) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Фантазія](https://open.spotify.com/album/0wDlj0BBaTfYVsWF3OdWtZ) | 2:01 | 2025-08-08 |  |
 | [Фантастично](https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5) | [TESLENKO](https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF) | [Фантастично](https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt) | 2:10 | 2024-06-27 | 2024-10-19 |
 | [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 | 2025-03-17 |  |

@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0OYKPxMZIhDnusBbGdhtJx"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266336,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0KEal3l75K6hENtwBw9J5g"
+    },
+    {
+      "album": {
         "name": "Foolish Heart",
         "url": "https://open.spotify.com/album/5cUUrej4rYW0RjDH6zNsxO"
       },
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 275694,
       "name": "Gratified",
       "url": "https://open.spotify.com/track/5JLFIvCjxQOMmFyOdykNaG"

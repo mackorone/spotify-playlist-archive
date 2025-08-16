@@ -1,13 +1,29 @@
 {
   "description": "All live, all jazz. Cover: Nat King Cole",
-  "num_followers": 15629,
+  "num_followers": 15641,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPKNVTBzojn2m1Iqh/3wQvcvpuT5",
+  "snapshot_id": "AAAAAHkFNXLv+xWev7HqcvCh/57+t3YC",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:01",
+      "album": {
+        "name": "No Smokin' (Live at The Penthouse, Seattle, WA / 1965)",
+        "url": "https://open.spotify.com/album/4PxMpJSp2MYwmi94Efcfet"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 377269,
+      "name": "No Smokin' - Live at The Penthouse, Seattle, WA / 1965",
+      "url": "https://open.spotify.com/track/3wMlrFX6pMCAYl2bZXmasY"
+    },
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
@@ -983,22 +999,6 @@
       "duration_ms": 415695,
       "name": "The Lady in My Life",
       "url": "https://open.spotify.com/track/5Oed9NlDp3H0sCJQa3Xpsm"
-    },
-    {
-      "added_at": "2021-11-12 05:14:12",
-      "album": {
-        "name": "Doin' The Thing: The Horace Silver Quintet At The Village Gate (Remastered 2006/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6CPk8vCQBxUtcPBQgnVvJv"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
-        }
-      ],
-      "duration_ms": 662026,
-      "name": "Filthy McNasty - Live At Village Gate Club, New York, 1961 / Remastered 2006 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/78DXI2y5wYjNm2W5cDAUSA"
     },
     {
       "added_at": "2021-11-12 05:14:12",

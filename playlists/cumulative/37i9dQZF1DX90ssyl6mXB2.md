@@ -2,7 +2,7 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Tyler Watts
+> late night vibes – notifications off\. cover: Avenoir
 
 243 songs - 11 hr 12 min
 

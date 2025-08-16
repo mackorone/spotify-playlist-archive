@@ -2,9 +2,9 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> A curated space for the avant\-garde\. Cover: Nourished by Time
+> A curated space for the avant\-garde\. Cover: Sudan Archives
 
-1,685 songs - 3 day 20 hr 42 min
+1,687 songs - 3 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Animal Death Already Breathing](https://open.spotify.com/track/2k2USr0srRydgTSilsEz4r) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [Animal Death Already Breathing](https://open.spotify.com/album/2Ts2zLCzEWBnu2wTfcGgpA) | 2:39 | 2025-03-07 | 2025-03-22 |
 | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq) | 3:48 | 2023-09-29 | 2024-03-02 |
 | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/72AeIPJXQxYgtOIcmSnvQo) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/58pSNHS8b5euMMXhLb1UAZ) | 3:48 | 2024-03-01 | 2024-03-16 |
+| [Another Baby!](https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:27 | 2025-08-15 |  |
 | [Another Life](https://open.spotify.com/track/6Bv0HF6uWodg3DIDXSDQs4) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Another Life](https://open.spotify.com/album/5CiIjIsYsYSpqPCUbfLYgo) | 4:30 | 2023-01-20 | 2023-03-11 |
 | [Another Stone](https://open.spotify.com/track/5RHhmGMV3FKxRa63AIfIgZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:10 | 2025-05-23 |  |
 | [ANTI\-GUÉRISON](https://open.spotify.com/track/3dKLqqYzxWyFK54zhaGc5L) | [Xela Edna](https://open.spotify.com/artist/5uurP255LK3PxVKgkZWMdS), [Eius Echo](https://open.spotify.com/artist/5HKktNgsAXBcjWG4frwBmE) | [ANTI\-GUÉRISON](https://open.spotify.com/album/6hM7kqdd2WkEkQ7g17FMGi) | 3:51 | 2024-10-11 | 2025-03-08 |
@@ -995,6 +996,7 @@
 | [Move On](https://open.spotify.com/track/4FoGNyJaWEY5g4N0AHBM3K) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Move On](https://open.spotify.com/album/5kK0N3M1FTlqaTM6mCPKyd) | 3:38 | 2022-02-18 | 2022-04-09 |
 | [Move Rework \(with Kojey Radical\)](https://open.spotify.com/track/2hubi34ScUn8qxQpSR7LVR) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Move Rework](https://open.spotify.com/album/3hDqL7n3t19bPEk4d7Y2nz) | 3:55 | 2022-11-11 | 2023-02-11 |
 | [mr useless](https://open.spotify.com/track/1Ar2McJ98hNvgsHlxLTPQc) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [Club Shy \(extended\)](https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g) | 2:29 | 2024-03-29 | 2024-08-03 |
+| [MS\. PAC MAN](https://open.spotify.com/track/77znSEH8JaxMlgBN48NKBC) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [MS\. PAC MAN](https://open.spotify.com/album/27PoIYUgfm5iGDimPMwSEK) | 3:04 | 2025-08-15 |  |
 | [MTV](https://open.spotify.com/track/3qnGbqeCaJbK49xVhSqRdI) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:34 | 2024-09-20 | 2025-02-15 |
 | [MUERTE PROFUNDA](https://open.spotify.com/track/20WiJleGqh8LoVrW0jE4Sm) | [Rattlesnakke](https://open.spotify.com/artist/5AqHeGEHpiF20R9PZM9CYx), [Aleroj](https://open.spotify.com/artist/54m3plxbB6d8a0oIADRAgh) | [MUERTE PROFUNDA](https://open.spotify.com/album/4Z0MeU0fdA73z4Bd2xzcgL) | 4:04 | 2024-04-05 | 2024-08-10 |
 | [Musicality](https://open.spotify.com/track/4KnN1qVhG1gccZe7cJxWn3) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/59enWNqQlZKbTD1oQ74dtY) | 2:18 | 2025-06-13 |  |

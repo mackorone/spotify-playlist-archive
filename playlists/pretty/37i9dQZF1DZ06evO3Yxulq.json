@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41277,
+  "num_followers": 41281,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAAABx9xf3HSg/mvaZxCWzUJj",
+  "snapshot_id": "aJ0nAAAAAAC4LQtvL6ux+z8HK4NobqDp",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas",
-      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 450875,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/10AHJmPp1y86W3hYg5fjeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas",
+      "url": "https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U"
     },
     {
       "added_at": null,
@@ -519,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-        "url": "https://open.spotify.com/album/0UIPmtXYrJBWsJBttYmVEZ"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 245973,
-      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
-      "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
+      "duration_ms": 467012,
+      "name": "Para M\u00ed Es Solo Cristo",
+      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+        "url": "https://open.spotify.com/album/0UIPmtXYrJBWsJBttYmVEZ"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 467012,
-      "name": "Para M\u00ed Es Solo Cristo",
-      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
+      "duration_ms": 245973,
+      "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
+      "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Santo (Tu Nombre Es)",
-      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Desmayes Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 344125,
       "name": "En Ti Confiar\u00e9",
       "url": "https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Santo (Tu Nombre Es)",
+      "url": "https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ"
     },
     {
       "added_at": null,

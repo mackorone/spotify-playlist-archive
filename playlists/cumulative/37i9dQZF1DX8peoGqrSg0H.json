@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/5eOWzmD5rI0XuH3OoQETsE"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187016,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/4VXH51RB0JJXQkkn0sAXrr"
+    },
+    {
+      "album": {
         "name": "Melbourne",
         "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
       },
@@ -7364,7 +7382,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 176903,
       "name": "\u0e19\u0e49\u0e33\u0e2b\u0e22\u0e14\u0e25\u0e07\u0e2b\u0e34\u0e19 (Drip)",
       "url": "https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL"

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 133008,
+  "num_followers": 133036,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 312666,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -763,42 +763,6 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Neon Moon - with Kacey Musgraves",
-      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -823,6 +787,42 @@
       "duration_ms": 267341,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Neon Moon - with Kacey Musgraves",
+      "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
+        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
+        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Seminole Wind",
+      "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
         "name": "I'm On Fire - Spotify Singles",
         "url": "https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
-        "name": "Something Borrowed, Something New: A Tribute to John Anderson",
-        "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Seminole Wind",
-      "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
         "name": "A Tribute To The Judds",
         "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
-        "name": "Odies But Goodies",
-        "url": "https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 210120,
-      "name": "Lookin' for Love",
-      "url": "https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
+        "name": "Odies But Goodies",
+        "url": "https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 210120,
+      "name": "Lookin' for Love",
+      "url": "https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
+        "name": "Glen Campbell I'll Be Me Soundtrack",
+        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 189253,
+      "name": "Gentle On My Mind",
+      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
         "name": "Lord, I Hope This Day Is Good",
         "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
       },
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
-        "name": "Glen Campbell I'll Be Me Soundtrack",
-        "url": "https://open.spotify.com/album/78BasjleeC7P7hrjQGjlKa"
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
       },
       "artists": [
         {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+          "name": "Charly Reynolds",
+          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
         }
       ],
-      "duration_ms": 189253,
-      "name": "Gentle On My Mind",
-      "url": "https://open.spotify.com/track/3BGXzcX7YtQySO5wF1h5b2"
+      "duration_ms": 276116,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -1615,22 +1631,6 @@
       "duration_ms": 224736,
       "name": "Dare You to Move",
       "url": "https://open.spotify.com/track/4uyCECRGpW2NFsSaPvkkVm"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
-      },
-      "artists": [
-        {
-          "name": "Charly Reynolds",
-          "url": "https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp"
-        }
-      ],
-      "duration_ms": 276116,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
     },
     {
       "added_at": "2025-08-14 21:21:04",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-08-14 21:21:04",
       "album": {
-        "name": "Rancho Fiesta Sessions",
-        "url": "https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 171033,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8"
-    },
-    {
-      "added_at": "2025-08-14 21:21:04",
-      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 171320,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0"
+    },
+    {
+      "added_at": "2025-08-14 21:21:04",
+      "album": {
+        "name": "Rancho Fiesta Sessions",
+        "url": "https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 171033,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/0JH86boEDEXrREt6rOBac8"
     },
     {
       "added_at": "2025-08-14 21:21:04",

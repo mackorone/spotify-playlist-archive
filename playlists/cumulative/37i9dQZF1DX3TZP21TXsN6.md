@@ -2,9 +2,9 @@
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Karma K, FOCUS, Pierrii en meer...
+> Nieuw: TYCH, Brunzyn, Getit en meer...
 
-77 songs - 3 hr 17 min
+77 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [HAKIMI](https://open.spotify.com/track/19UkD9gQsKyFGNIdW1SwVF) | [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [HAKIMI](https://open.spotify.com/album/532Xd7ZKo2gXyBYxU2y7U2) | 2:13 | 2025-08-07 |  |
 | [Hier Blijven](https://open.spotify.com/track/36Q6P2YB2LdU7cyfDt6Qa3) | [Rocher](https://open.spotify.com/artist/2gVPi9fTLuumDLlkRn2G5j) | [Hier Blijven](https://open.spotify.com/album/70QD3nPB8VV9kcxdMnXbSl) | 2:52 | 2025-07-17 | 2025-08-15 |
 | [Hoelang](https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Hoelang](https://open.spotify.com/album/0XMlh8RJF5RqNaX6D1bbLg) | 2:53 | 2025-07-17 |  |
+| [Hoogwater](https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Omdat Het Kan](https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6) | 2:27 | 2025-08-14 |  |
 | [Huismuziek](https://open.spotify.com/track/2jyIoULidueBNoIaOAe0Uy) | [Marou](https://open.spotify.com/artist/787K0Q2xGqiAL0jcoo5kb5), [Massin](https://open.spotify.com/artist/7g8HFGXym7WNVPMsuAINQE), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Huismuziek](https://open.spotify.com/album/0oB2M2lgv9YK4X2eRRmYk7) | 2:45 | 2025-07-17 | 2025-08-15 |
 | [IJskoud Affiliated](https://open.spotify.com/track/6Fdzhh2rgpGHC1HK3qOrBq) | [W19](https://open.spotify.com/artist/5016jZ4DoKPDuKy5xZyUpU), [PB](https://open.spotify.com/artist/2TnfeQKbvmQMhIb3XK0rkJ), [Gina](https://open.spotify.com/artist/0Uk9zTPdKWZxctyvybqRkI), [Jaïr](https://open.spotify.com/artist/6vG755giuevRw6BkA3ZQLB) | [IJskoud Affiliated](https://open.spotify.com/album/2eSiJDAIPajc0U3M78pYbP) | 3:04 | 2025-08-07 |  |
 | [Isri](https://open.spotify.com/track/3rDpGytBHq64SXDRf9LQrt) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Poppe](https://open.spotify.com/artist/7rMTGOF2vqBUcsh1cH64bC), [Ayya Ites](https://open.spotify.com/artist/471zrtvGVQFHk0ZKuaxaNf) | [Isri](https://open.spotify.com/album/44UABAk12dzr0x8JRHV4ip) | 2:50 | 2025-08-07 |  |
@@ -76,7 +77,6 @@
 | [Summertime babe](https://open.spotify.com/track/2zuh3CXSXeEkp2GZSNPKCV) | [KraagBoyz](https://open.spotify.com/artist/1zvXk8JqqlvmjEtVRVxeBh), [Monsif](https://open.spotify.com/artist/2zGNNkuDbxiDVcIdt5fUUk), [24k Water](https://open.spotify.com/artist/08zCPe6ID8PSsFK1q4D037), [Flavio](https://open.spotify.com/artist/52H0eJ4FUfYYbWb8Dc32BU) | [Summertime babe](https://open.spotify.com/album/4JevY7W75wEjjUwqwzHnvz) | 2:08 | 2025-08-14 |  |
 | [Team](https://open.spotify.com/track/7JVfx9A6NQv9iFPpviuAXK) | [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Foncé](https://open.spotify.com/artist/2VYoSgP5JVmpOMm3h9Hb1m), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO) | [Team](https://open.spotify.com/album/5tikz6VjPbVvvsc0e6OaaI) | 2:24 | 2025-07-17 |  |
 | [These Dayz](https://open.spotify.com/track/6RTkAAd7wTqLZunCzUIjwi) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [These Dayz](https://open.spotify.com/album/1coKPJ6hARR3PuF4h4ASKd) | 2:42 | 2025-07-17 | 2025-08-15 |
-| [Track 11](https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Omdat Het Kan](https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6) | 0:00 | 2025-08-14 |  |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Trenches](https://open.spotify.com/track/2hbtk7UT9d3v7Tqba50i8I) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Trenches](https://open.spotify.com/album/1MEqUhx1oixOQ4tC06K25q) | 2:56 | 2025-07-17 | 2025-08-15 |
 | [Tweestrijd](https://open.spotify.com/track/1TLnw07bMuCKMWiIanLmiR) | [Opium Lotus](https://open.spotify.com/artist/1hdlDnJu1jX9mLpR2XiTQm) | [Tweestrijd](https://open.spotify.com/album/3JitLU8YuoVprOWFpPbnqZ) | 3:29 | 2025-07-17 | 2025-08-15 |

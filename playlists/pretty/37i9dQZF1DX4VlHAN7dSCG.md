@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: VH \(Vast & Hazy\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,405 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,413 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [誤入病區](https://open.spotify.com/track/7wFq3aHz2AP2vl7fAnnOjF) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [誤入病區](https://open.spotify.com/album/2Wpf708AhzErTgMfJqzCW5) | 3:28 |
 | 2 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:42 |
 | 3 | [Let's Dream About Love \(feat\. GermanPops Orchestra\) \[Live\]](https://open.spotify.com/track/42v7fZoy8aebsHmnfO8TDv) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [German Pops Orchestra](https://open.spotify.com/artist/41iM2TVnXEGbB1K02NA0WW) | [二十站一刻](https://open.spotify.com/album/2J8v6PzV4WeCCcX1wZL4fE) | 3:33 |
-| 4 | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/track/7r9rxsVZeGggiszibAnHGV) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp), [張勝為](https://open.spotify.com/artist/0sVqKKgTSajF3T7SWi2zkg), [梁宏彰](https://open.spotify.com/artist/7HzoNb1VXWTsU7N6y7Yz2u), [謝宗翰](https://open.spotify.com/artist/0Pe2x2wVow1RLMBBzWL7s8) | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/album/2wlWkHONbSYYy6rzHX5AqO) | 2:00 |
+| 4 | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/track/7r9rxsVZeGggiszibAnHGV) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/album/2wlWkHONbSYYy6rzHX5AqO) | 2:00 |
 | 5 | [內心有一把聲音](https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on) | [Ah5ive the Band](https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N) | [內心有一把聲音](https://open.spotify.com/album/5ltdirAiuhR8nSLFq19aCR) | 5:09 |
 | 6 | [黑羊](https://open.spotify.com/track/7wvCf0TVfwkTCi08qDoKYV) | [生命樹](https://open.spotify.com/artist/2o2RrZDsatJnaOvxjv26Rb) | [黑羊](https://open.spotify.com/album/2ZBph7n09KJ2ve2oZXnOW7) | 3:33 |
 | 7 | [永遠都是你](https://open.spotify.com/track/2tBIDeDHSH8eWaJQEMWACV) | [火把音樂](https://open.spotify.com/artist/2qPgWeth9XUj2F6oXn3raV) | [永遠都是你](https://open.spotify.com/album/52JJCN8RuyWgpcW9BxVe5e) | 5:26 |

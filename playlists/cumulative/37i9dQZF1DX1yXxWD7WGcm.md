@@ -2,7 +2,7 @@
 
 ### [Zouk All Stars](https://open.spotify.com/playlist/37i9dQZF1DX1yXxWD7WGcm)
 
-> Les classiques du zouk\. Photo : Fanny J
+> Les classiques du zouk\. Photo : Kim
 
 79 songs - 5 hr 38 min
 

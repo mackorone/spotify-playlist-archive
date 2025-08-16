@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74qyMLAYIii.md) - [plain]
 
 > Psicodélica, eléctrica y amazónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,427 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,436 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

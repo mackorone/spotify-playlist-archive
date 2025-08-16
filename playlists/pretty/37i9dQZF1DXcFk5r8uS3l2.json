@@ -1,13 +1,49 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: KebMo & Taj Mahal",
-  "num_followers": 464363,
+  "num_followers": 464407,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
+  "snapshot_id": "AAAAAGNmaIfPyoBArbctaAYJtZilizAM",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:05",
+      "album": {
+        "name": "The Mule",
+        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        }
+      ],
+      "duration_ms": 180150,
+      "name": "The Mule",
+      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
+    },
+    {
+      "added_at": "2025-08-15 04:00:05",
+      "album": {
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
+    },
     {
       "added_at": "2025-05-23 04:00:36",
       "album": {
@@ -415,22 +451,6 @@
       "duration_ms": 251197,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/72FXmE7sYz78NpGFzO0ogl"
-    },
-    {
-      "added_at": "2025-01-24 05:00:25",
-      "album": {
-        "name": "Bad News",
-        "url": "https://open.spotify.com/album/09j5cMuAxke4rblpRXq9Qp"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 140941,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7"
     },
     {
       "added_at": "2025-01-10 05:00:09",
@@ -1667,22 +1687,6 @@
       "duration_ms": 300240,
       "name": "A Thousand Heartaches",
       "url": "https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0HyNnJrfMh3pQyjQFr5j60"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 309936,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Luccas Carlos
 
-849 songs - 1 day 18 hr 25 min
+850 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Lilás](https://open.spotify.com/track/6tEG7zGGyWgztkKlbW2HsE) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Lilás](https://open.spotify.com/album/6gqc9vh0zqPJ4tseFyIC0b) | 2:55 | 2023-12-01 | 2024-01-20 |
 | [Lindo Dom](https://open.spotify.com/track/0myYqS56qDgkhORsngm4YX) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Lindo Dom](https://open.spotify.com/album/3ynnDgzReFpyKzctGIOeUf) | 3:13 | 2023-09-01 | 2024-07-19 |
 | [Lisboa](https://open.spotify.com/track/2o2xhyri4aJUtgMGkf5P0J) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:39 | 2024-11-06 | 2025-02-14 |
+| [livre](https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [livre](https://open.spotify.com/album/2S44KPi02GbKAartH6tddN) | 1:03 | 2025-08-15 |  |
 | [Logo Eu](https://open.spotify.com/track/1pPpL3JEgD2mJLA6uBVolj) | [Zek](https://open.spotify.com/artist/39A7Z4FUZvnRvIVNfyfesh) | [Decolagem](https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK) | 2:32 | 2023-02-03 | 2023-04-29 |
 | [Longe de Mim](https://open.spotify.com/track/4VQ5sykAzSAcimgu6cRxPj) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [Longe de Mim](https://open.spotify.com/album/06ojZMF5zjFtXX5axLV2JU) | 3:14 | 2023-01-27 | 2023-02-04 |
 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 | 2022-08-01 | 2023-02-25 |
@@ -453,7 +454,7 @@
 | [meu amô chegou](https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [meu amô chegou](https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y) | 3:40 | 2024-06-21 | 2024-08-31 |
 | [Meu Bem](https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Mágica Por Trás Da Forma](https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE) | 2:13 | 2023-03-17 | 2023-12-02 |
 | [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 | 2025-03-21 |  |
-| [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 |  |
+| [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 | 2025-08-16 |
 | [Meu Lugar Preferido](https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Meu Lugar Preferido](https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j) | 2:22 | 2023-12-15 | 2024-04-19 |
 | [Meu Quesito é Saber Viver \- Ao Vivo](https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 3](https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1) | 3:19 | 2023-10-27 | 2023-11-18 |
 | [Meus Boletos](https://open.spotify.com/track/2PIm3q14YWBuD08IZqgJ56) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Meus Boletos](https://open.spotify.com/album/4EdCXFrVKFoxk8twoHJUUc) | 3:35 | 2023-04-14 | 2023-05-06 |

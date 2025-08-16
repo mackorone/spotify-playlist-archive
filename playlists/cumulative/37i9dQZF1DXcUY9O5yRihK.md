@@ -2,9 +2,9 @@
 
 ### [bossa pop](https://open.spotify.com/playlist/37i9dQZF1DXcUY9O5yRihK)
 
-> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
+> Bossa nova vibes for the hopeless romantic daydreamers\. Cover: dodie
 
-168 songs - 8 hr 30 min
+169 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Hot Yoga](https://open.spotify.com/track/7Kww1lvMVSlOK7LttfKxNO) | [Morganne](https://open.spotify.com/artist/6Au2T6xOPGJU6SsgyLWKp8) | [Hot Yoga](https://open.spotify.com/album/2uGz5bn9F2IkqpZwwkO3be) | 2:57 | 2023-09-15 | 2024-02-03 |
 | [hotline \(edit\)](https://open.spotify.com/track/0WFryfbNKPXVtVQlz5dZ8H) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [hotline \(edit\)](https://open.spotify.com/album/5iq9BytomHl2yBtORjUlzP) | 1:00 | 2024-04-10 | 2025-03-22 |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2023-01-06 |  |
+| [I Feel Bad For You, Dave](https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [I Feel Bad For You, Dave](https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab) | 3:03 | 2025-08-15 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2023-07-28 |  |
 | [I wish for the rain](https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [I wish for the rain](https://open.spotify.com/album/1d8v7jpq86c6WjRwTsoYIk) | 2:31 | 2024-04-26 | 2024-07-27 |
 | [I'll Play the Fool](https://open.spotify.com/track/0ypsakEytTz70C7OgZjfbf) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0MgXt3BuZIRMEGaVI3uOU8) | 2:48 | 2024-04-12 | 2024-07-06 |
@@ -106,7 +107,7 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 |  |
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-16 |  |
 | [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-03-21 |  |
-| [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 | 2024-12-06 |  |
+| [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 | 2024-12-06 | 2025-08-16 |
 | [Old With You](https://open.spotify.com/track/2XPLk9RyWawxFmVDQsC0ke) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 3:26 | 2023-08-04 | 2024-12-14 |
 | [ON THE LINE](https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW EP](https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau) | 2:30 | 2024-02-09 | 2024-09-10 |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2023-01-06 |  |

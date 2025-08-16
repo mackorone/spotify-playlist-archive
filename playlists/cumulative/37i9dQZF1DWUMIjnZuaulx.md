@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: Darrel Walls & PJ Morton
+> Spread the Good News with the best Gospel songs of the moment\. Cover: CeCe Winans
 
-699 songs - 2 day 11 hr 44 min
+700 songs - 2 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Only One Night Tho \- Live](https://open.spotify.com/track/69A3RyQQwoHMkNgqxBtSMG) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 10:25 | 2024-02-09 | 2025-03-22 |
 | [Only One Way Home \- Radio Edit](https://open.spotify.com/track/3ICem2CLceuIgRo7Q8H4Lx) | [Mississippi Mass Choir](https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW), [Paul Porter](https://open.spotify.com/artist/35qCI10NSI2BwsLDq3MFeK) | [Only One Way Home \(Radio Edit\)](https://open.spotify.com/album/1nmmNRAL0ioPvazeyl4I51) | 3:54 | 2024-03-29 | 2024-08-10 |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-03-01 | 2024-06-29 |
+| [Onyeoma \(Good God\)](https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Onyeoma \(Good God\)](https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM) | 4:25 | 2025-08-15 |  |
 | [Out Here Trusting God](https://open.spotify.com/track/6UcLisdQQJlqxBxOpGRdlk) | [Anita Wilson](https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS), [Rubi Green](https://open.spotify.com/artist/0fiLMSycO9JIC3T7EQpGJ9), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Soul Sister](https://open.spotify.com/album/0NTIi6ERXzMw7T7XiZOTTU) | 3:36 | 2022-02-18 | 2022-10-30 |
 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 | 2024-05-18 |
 | [Peace Be Still](https://open.spotify.com/track/0jfcAhP2hWHkj36ZdnTnW5) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [Peace Be Still](https://open.spotify.com/album/1zBeDm3o4LyQYnIHMb923x) | 5:47 | 2022-02-18 | 2022-06-18 |
@@ -662,7 +663,7 @@
 | [When I Think \- Live](https://open.spotify.com/track/5tKalDnf02u9iBKgfs0RAS) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Live\)](https://open.spotify.com/album/0ffWtIAVN0F7sOvZurNYne) | 8:54 | 2023-12-01 | 2024-01-13 |
 | [When I Think \- Radio Edit / Live](https://open.spotify.com/track/4AoH3vZnIqEFVzNe5PPOS0) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [When I Think \(Radio Edit / Live\)](https://open.spotify.com/album/4bWTwHmi9rwMhNxXdZYp9Q) | 3:55 | 2025-01-17 |  |
 | [When the Praises Go Up \(The Blessings Come Down\) \- Remix](https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Maya Marchelle](https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k) | [When the Praises Go Up \(The Blessings Come Down\) \[Remix\]](https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL) | 2:41 | 2025-01-24 | 2025-05-24 |
-| [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 |  |
+| [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 | 2025-08-16 |
 | [Who Do You Love](https://open.spotify.com/track/2V7EY8WTG5Z3pxT7RbZtC1) | [Ariel Fitz\-Patrick](https://open.spotify.com/artist/0Y2NXQx6UQT0Jh932dxFah) | [Who Do You Love](https://open.spotify.com/album/1nBzuAVRJNEKPHUvZ8YO17) | 2:28 | 2024-11-22 |  |
 | [Whole World In His Hands \- Radio Edit](https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Whole World In His Hands \(Radio Edit\)](https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw) | 3:39 | 2022-06-03 | 2022-10-08 |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-02 | 2024-01-27 |

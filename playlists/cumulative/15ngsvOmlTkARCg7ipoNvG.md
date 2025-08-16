@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,999 songs - 1 day 16 hr 26 min
+2,000 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1288,6 +1288,7 @@
 | [Peace In Beauty Arr\. For Piano](https://open.spotify.com/track/6hqgWGHZXUrLkSqOqeVpS3) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Peace In Beauty](https://open.spotify.com/album/7fWFVMjHJSVWAWvipjWX8b) | 1:01 | 2023-06-16 | 2024-01-30 |
 | [Peace In Beauty Arr\. For Strings](https://open.spotify.com/track/1TN23an8hpEF34nY2LaFL7) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Peace In Beauty Arr\. For Strings](https://open.spotify.com/album/6mmSmYtmjSQSM7c1oOJy1w) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Peace In Silence](https://open.spotify.com/track/3BJiK9172bgnMW3RSMUVcy) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Peace In Silence](https://open.spotify.com/album/6MOGl9xtO7OpqyVGLhIZT3) | 1:00 | 2025-07-20 |  |
+| [Peace In Silence \- Alternate Piano Version](https://open.spotify.com/track/3EdCUwpHQrG6AfA8pSnW9v) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Peace In Silence \(Alternate Piano Version\)](https://open.spotify.com/album/3AqXCEhcezJ3zh615om7F5) | 1:00 | 2025-08-15 |  |
 | [Peace In The Rain](https://open.spotify.com/track/7hPqLiLoKOjEPyHPnj7Mrt) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Peace In The Rain](https://open.spotify.com/album/1IYzPEAPQS8SkJVg73pDCD) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Peace Is the Only Way](https://open.spotify.com/track/0vJCt2jnOAwSUm5XeEf7PW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:37 | 2022-01-20 |  |
 | [Peace on the Water](https://open.spotify.com/track/0SqbAQ3G3BTnOWEurcBDno) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grateful Hearts](https://open.spotify.com/album/1zFFBWzfLyAI2hesLvb6gV) | 1:32 | 2022-01-20 | 2024-01-30 |

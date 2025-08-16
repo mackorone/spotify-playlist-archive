@@ -2,7 +2,7 @@
 
 ### [All New Country](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
-> All of the newest country songs in one playlist! Featuring BigXthaPlug with Ella Langley, Bailey Zimmerman with The Kid LAROI, and more.
+> All of the newest country songs in one playlist! Featuring Ty Myers, Jordan Davis, Gavin Adcock and more.
 
 10,604 songs - 24 day 3 hr 40 min
 

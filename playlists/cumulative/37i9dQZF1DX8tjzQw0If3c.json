@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "bulletproof",
+        "url": "https://open.spotify.com/album/3WmUjPOiCEdQTdSHorxncI"
+      },
+      "artists": [
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "bulletproof",
+      "url": "https://open.spotify.com/track/70cDc1svNtvagHkzNtWj97"
+    },
+    {
+      "album": {
         "name": "Burn (English Version)",
         "url": "https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE"
       },
@@ -2030,6 +2048,28 @@
       "duration_ms": 268800,
       "name": "LESSONS",
       "url": "https://open.spotify.com/track/4e6BzRekPHuGyVzWsVdKUX"
+    },
+    {
+      "album": {
+        "name": "Lifetime Subscription",
+        "url": "https://open.spotify.com/album/7q6BO3xnbzYbtGqEJ9cDdt"
+      },
+      "artists": [
+        {
+          "name": "Penelope",
+          "url": "https://open.spotify.com/artist/4pmdWxcPYV8NkfuMmL7Ubu"
+        },
+        {
+          "name": "ICEBOX",
+          "url": "https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Lifetime Subscription",
+      "url": "https://open.spotify.com/track/1CKLRj9zh6P5QHbMUDLHFV"
     },
     {
       "album": {

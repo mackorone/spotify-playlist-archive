@@ -2141,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "So Long Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224861,
+      "name": "Everything Burns",
+      "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
+    },
+    {
+      "album": {
         "name": "Everywhere a Mountain",
         "url": "https://open.spotify.com/album/6OdcLvhNjQp2537SLupcHA"
       },
@@ -7080,7 +7098,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 217000,
       "name": "That's Gonna Leave a Mark",
       "url": "https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko"
@@ -8360,6 +8378,24 @@
       "duration_ms": 376674,
       "name": "Winds of Rowan County",
       "url": "https://open.spotify.com/track/29gZwI1XQRkzZBnXAuCW4Q"
+    },
+    {
+      "album": {
+        "name": "Working Man Blues",
+        "url": "https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "Working Man Blues",
+      "url": "https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV"
     },
     {
       "album": {

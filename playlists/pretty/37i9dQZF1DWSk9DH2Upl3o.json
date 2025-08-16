@@ -1,13 +1,61 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 39962,
+  "num_followers": 39992,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEe9Rg2F2+6Bmd6EkC1u38MRYA1o",
+  "snapshot_id": "AAAAACj0HRck2qW3eb+Td/qYH0bwZVxu",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:08",
+      "album": {
+        "name": "Hit The Ground Runnin\u2019",
+        "url": "https://open.spotify.com/album/4B6JFPdRiQN8AWKeydxxSX"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        }
+      ],
+      "duration_ms": 197251,
+      "name": "Hit The Ground Runnin\u2019",
+      "url": "https://open.spotify.com/track/6pdQqWYLQaWlVba7D5YEAf"
+    },
+    {
+      "added_at": "2025-08-15 04:00:08",
+      "album": {
+        "name": "Song For Salma",
+        "url": "https://open.spotify.com/album/5vKmKaoHFSfxwRCdn7kAX6"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 189606,
+      "name": "Song For Salma",
+      "url": "https://open.spotify.com/track/6jZfmUOykbnKR5WjqalthT"
+    },
+    {
+      "added_at": "2025-08-15 04:00:08",
+      "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/3D8I9MD0ecHQCTIvtBPPDf"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 355626,
+      "name": "Royal",
+      "url": "https://open.spotify.com/track/4mm74pVCGXcaa6kU86D1K9"
+    },
     {
       "added_at": "2025-07-04 04:00:19",
       "album": {
@@ -23,26 +71,6 @@
       "duration_ms": 190535,
       "name": "Me & My Lady",
       "url": "https://open.spotify.com/track/6L4iw08eNogB3cEssYFGNl"
-    },
-    {
-      "added_at": "2025-04-11 04:00:20",
-      "album": {
-        "name": "Love Line",
-        "url": "https://open.spotify.com/album/4kmktRozz840aJjfCQvv2n"
-      },
-      "artists": [
-        {
-          "name": "TAUK",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
-        },
-        {
-          "name": "Kanika Moore",
-          "url": "https://open.spotify.com/artist/7l3wgJeWp7SWHnRG8WQ10V"
-        }
-      ],
-      "duration_ms": 201919,
-      "name": "Love Line",
-      "url": "https://open.spotify.com/track/0svZOna20LwtbhIAL8HD1o"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -495,22 +523,6 @@
       "duration_ms": 219363,
       "name": "Cloudburst",
       "url": "https://open.spotify.com/track/1cs7HeOLNf8phc48xpWScr"
-    },
-    {
-      "added_at": "2024-03-01 05:01:00",
-      "album": {
-        "name": "Feelin' Fine",
-        "url": "https://open.spotify.com/album/6sXG4V3wpbhx54O48PfIFg"
-      },
-      "artists": [
-        {
-          "name": "Pigeons Playing Ping Pong",
-          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
-        }
-      ],
-      "duration_ms": 245838,
-      "name": "Feelin' Fine",
-      "url": "https://open.spotify.com/track/4BDxJjCg1ETWK9hxcM4Fu4"
     },
     {
       "added_at": "2024-03-01 05:01:00",
@@ -1423,22 +1435,6 @@
       "duration_ms": 354127,
       "name": "Don't Say Goodnight Just Yet",
       "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Off Leash",
-        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 462830,
-      "name": "Off Leash",
-      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
     },
     {
       "added_at": "2022-07-01 04:02:00",

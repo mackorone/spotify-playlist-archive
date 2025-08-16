@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 174066,
       "name": "Can't Bring Me Down",
       "url": "https://open.spotify.com/track/3FEyTktnU2N2vRshFC7yZ6"
@@ -10502,7 +10502,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 267240,
       "name": "Life Change",
       "url": "https://open.spotify.com/track/0P1ecEPIq13098gwcy9vIP"
@@ -13682,6 +13682,28 @@
       "duration_ms": 207903,
       "name": "Pomegranate",
       "url": "https://open.spotify.com/track/4fuCjmRIxbmGHnplGymd9c"
+    },
+    {
+      "album": {
+        "name": "Pomegranate",
+        "url": "https://open.spotify.com/album/5t1rE3BbJsYHmwyH3UCaw8"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207903,
+      "name": "Pomegranate",
+      "url": "https://open.spotify.com/track/7FPjNok7D1z4lZQN2DwEtc"
     },
     {
       "album": {

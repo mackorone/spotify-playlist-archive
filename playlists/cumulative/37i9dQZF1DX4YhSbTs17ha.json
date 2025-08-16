@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Corina Smith y Lasso en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Karol G y Marco Antonio Sol\u00eds  en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 174660,
       "name": "11 de 10",
       "url": "https://open.spotify.com/track/38NaTXsIaxUK0RSuHJxfMR"
@@ -1279,6 +1279,28 @@
     },
     {
       "album": {
+        "name": "Apodo",
+        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173954,
+      "name": "Apodo",
+      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed No Es",
         "url": "https://open.spotify.com/album/7BfhNkFp9vWbH3TJ3UAPu0"
       },
@@ -2074,7 +2096,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 123136,
       "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/3sD5xTCmglML7uUHkLRtDN"
@@ -4074,7 +4096,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 175113,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O"
@@ -5142,7 +5164,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 168398,
       "name": "Es Tan Corta la Vida",
       "url": "https://open.spotify.com/track/7gySsUqpWJhn76VDeAAV3Y"
@@ -5230,7 +5252,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 195612,
       "name": "Ese Verano (Que S\u00ed, Que No)",
       "url": "https://open.spotify.com/track/5y2HaGntrgumTcml3ERrDG"
@@ -8122,7 +8144,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 181216,
       "name": "Mal Escrito",
       "url": "https://open.spotify.com/track/6MAqeJpsP5at9E4XxHC9Hj"
@@ -8256,7 +8278,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 213000,
       "name": "Maldito ChatGPT",
       "url": "https://open.spotify.com/track/4umq06kfyvtQMlBALXhxuI"
@@ -8504,6 +8526,24 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "album": {
+        "name": "Martes",
+        "url": "https://open.spotify.com/album/3Xxrqd0NFlBptNX1uO8wRi"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Martes",
+      "url": "https://open.spotify.com/track/61O6savt7JklVele1QpQvZ"
     },
     {
       "album": {
@@ -11857,6 +11897,24 @@
     },
     {
       "album": {
+        "name": "Quiero Olvidarte (Respuesta #1)",
+        "url": "https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162099,
+      "name": "Quiero Olvidarte - Respuesta #1",
+      "url": "https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT"
+    },
+    {
+      "album": {
         "name": "QUIZ\u00c1S SI QUIZ\u00c1S NO",
         "url": "https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw"
       },
@@ -12098,7 +12156,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 204831,
       "name": "Regalo de la Vida",
       "url": "https://open.spotify.com/track/12RB7Re6nRdf99V7E6RYKO"
@@ -15017,6 +15075,24 @@
     },
     {
       "album": {
+        "name": "Volver\u00eda",
+        "url": "https://open.spotify.com/album/3JB5cOPooKdhmP528Z3Uaa"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180749,
+      "name": "Volver\u00eda",
+      "url": "https://open.spotify.com/track/7Fh6jDbjjoyELGdlHjfLKl"
+    },
+    {
+      "album": {
         "name": "Ya Es Ma\u00f1ana",
         "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
       },
@@ -15562,7 +15638,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 198090,
       "name": "\u00bfQui\u00e9n Lo Har\u00e1?",
       "url": "https://open.spotify.com/track/6cA1CHqfjoGUo232kJtjMC"

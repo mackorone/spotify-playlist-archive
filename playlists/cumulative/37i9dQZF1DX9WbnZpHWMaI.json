@@ -2811,6 +2811,28 @@
     },
     {
       "album": {
+        "name": "E After Next",
+        "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239179,
+      "name": "E After Next",
+      "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
+    },
+    {
+      "album": {
         "name": "E Tu",
         "url": "https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm"
       },
@@ -3582,6 +3604,24 @@
       "duration_ms": 198625,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX"
+    },
+    {
+      "album": {
+        "name": "Flood In",
+        "url": "https://open.spotify.com/album/4d5SgOysEgsNeGYyuwEGhc"
+      },
+      "artists": [
+        {
+          "name": "Selena Faider",
+          "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154612,
+      "name": "Flood In",
+      "url": "https://open.spotify.com/track/791X2PUfJeQmiOf7uB5y8L"
     },
     {
       "album": {
@@ -8946,7 +8986,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 202500,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/6C3jGzujdwT76XU4CH6ZHg"
@@ -11994,7 +12034,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 207178,
       "name": "whenever you're ready",
       "url": "https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ"

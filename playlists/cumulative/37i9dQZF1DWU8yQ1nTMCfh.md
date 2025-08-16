@@ -2,7 +2,7 @@
 
 ### [Rock Total](https://open.spotify.com/playlist/37i9dQZF1DWU8yQ1nTMCfh)
 
-> Las nuevas vibras del rock en español\. Cover: 1915
+> Las nuevas vibras del rock en español\. Cover: Zoé
 
 342 songs - 19 hr 0 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Anumita Nadesan, Janisht Joshi,  and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Meera, Sagar Verma and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -1138,6 +1138,28 @@
       "duration_ms": 215287,
       "name": "Adhoore Hum",
       "url": "https://open.spotify.com/track/7HTB2kvarPgyGQfH9KjEg4"
+    },
+    {
+      "album": {
+        "name": "adhoore humsafar",
+        "url": "https://open.spotify.com/album/4mpuUytuzwpO2gYRQUPtVY"
+      },
+      "artists": [
+        {
+          "name": "Meera",
+          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+        },
+        {
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164727,
+      "name": "adhoore humsafar",
+      "url": "https://open.spotify.com/track/0PcFui48eZSBmTUWy7SigV"
     },
     {
       "album": {
@@ -4027,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "Chandni",
+        "url": "https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp"
+      },
+      "artists": [
+        {
+          "name": "Anmol A",
+          "url": "https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Chandni",
+      "url": "https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG"
+    },
+    {
+      "album": {
         "name": "Chandni Raat",
         "url": "https://open.spotify.com/album/37fimO5ahI9qtvEN7OqlME"
       },
@@ -4454,7 +4494,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 153500,
       "name": "Darwaaze",
       "url": "https://open.spotify.com/track/4ex9xorhTcYDITsU7jacuy"
@@ -7350,7 +7390,7 @@
       ],
       "date_added": "2025-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 219051,
       "name": "Har Subah",
       "url": "https://open.spotify.com/track/2oUsJvFbdF9tbm6PKecwuT"

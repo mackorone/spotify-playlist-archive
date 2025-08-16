@@ -12004,7 +12004,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "\u05d0\u05d9\u05df \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
       "url": "https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE"
@@ -13152,7 +13152,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 183750,
       "name": "\u05d1\u05d0\u05de\u05ea \u05e9\u05dc \u05d4\u05d0\u05de\u05ea",
       "url": "https://open.spotify.com/track/3Dx920qUWdBswFizsT1PxR"
@@ -14192,6 +14192,24 @@
       "duration_ms": 167930,
       "name": "\u05d2\u05d9\u05d8\u05e8\u05d4 \u05d5\u05dc\u05e0\u05e9\u05d5\u05dd",
       "url": "https://open.spotify.com/track/0FEmTSrI0M8nImeYOrCaPi"
+    },
+    {
+      "album": {
+        "name": "\u05d2\u05dc \u05e2\u05d9\u05e0\u05d9\u05d9",
+        "url": "https://open.spotify.com/album/5fzolWm4o4kgITLSKpTpAm"
+      },
+      "artists": [
+        {
+          "name": "Hanan Ben Ari",
+          "url": "https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191459,
+      "name": "\u05d2\u05dc \u05e2\u05d9\u05e0\u05d9\u05d9",
+      "url": "https://open.spotify.com/track/635ke14KZqjGWRnRpd42w0"
     },
     {
       "album": {
@@ -15732,7 +15750,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 186500,
       "name": "\u05d7\u05d5\u05dc\u05d4 \u05d9\u05e8\u05d7",
       "url": "https://open.spotify.com/track/2eauhZzDelRWx1f3PmdaxU"
@@ -20642,10 +20660,28 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 172999,
       "name": "\u05e1\u05d9\u05e4\u05d5\u05e8\u05d9 \u05e6\u05d3\u05d9\u05e7\u05d9\u05dd",
       "url": "https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05db\u05d9\u05df",
+        "url": "https://open.spotify.com/album/5wiTZk7STMgDzesGKzu5wy"
+      },
+      "artists": [
+        {
+          "name": "Nissim Baranes",
+          "url": "https://open.spotify.com/artist/1yKoyIHvp0ljQaG4HsvVOn"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165255,
+      "name": "\u05e1\u05db\u05d9\u05df",
+      "url": "https://open.spotify.com/track/6EgKPoNztkLCy3T9Z2zZxL"
     },
     {
       "album": {
@@ -23450,7 +23486,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 181001,
       "name": "\u05e9\u05d9\u05e8 \u05e9\u05dc \u05e7\u05d9\u05e5",
       "url": "https://open.spotify.com/track/1syU4K9EEabDPWpEUISOET"
@@ -23750,7 +23786,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 199525,
       "name": "\u05e9\u05e0\u05d9 \u05d6\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1GODZl0cB9rbCT9MMlE2Xp"

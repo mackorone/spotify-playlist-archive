@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Taylor Swift
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Loco
 
 1,246 songs - 3 day 3 hr 3 min
 

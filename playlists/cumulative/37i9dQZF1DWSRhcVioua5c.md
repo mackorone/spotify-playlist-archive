@@ -4,10 +4,11 @@
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-158 songs - 9 hr 59 min
+160 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Escondidas](https://open.spotify.com/track/3hf7Fhg3kMO3teI1xt9fWB) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz) | [A Escondidas](https://open.spotify.com/album/6VUieUgmlyiJ13NYI81Fn2) | 2:50 | 2025-08-15 |  |
 | [A una Rosa](https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:32 | 2021-10-08 |  |
 | [Adios Que Te Vaya Bien](https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 2:37 | 2021-10-08 |  |
 | [Adiós Amor Mío](https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Adiós Amor Mío](https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt) | 2:29 | 2021-10-08 |  |
@@ -71,10 +72,11 @@
 | [La Forma Perfecta](https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [La Forma Perfecta](https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF) | 3:13 | 2024-02-05 |  |
 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 | 2021-10-08 |  |
 | [La Ley Y La Trampa](https://open.spotify.com/track/0L5wghl5RSXbOInxDhHAUU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/1iBOBHP4VTGUKplKdtXot4) | 2:48 | 2022-07-15 | 2024-04-19 |
-| [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 | 2021-10-08 |  |
+| [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 | 2021-10-08 | 2025-08-16 |
 | [La Ley y La Trampa](https://open.spotify.com/track/22Lq8kVbpIUJeaqwaWMbc6) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley y La Trampa](https://open.spotify.com/album/3zYO2TBoDkiRim2Lpmz0mJ) | 2:53 | 2022-10-07 | 2022-11-13 |
 | [La Luna](https://open.spotify.com/track/113QNBn4EGOGo2uGNCa1J3) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [La Luna](https://open.spotify.com/album/4GBYS12uU7UxPhQ1jbAXZw) | 3:42 | 2021-10-08 | 2022-07-29 |
 | [La Luna](https://open.spotify.com/track/5m3SdNod7s5n2vFkQiJqYF) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 3:42 | 2022-07-15 | 2024-04-19 |
+| [La López Pereyra](https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [La Historia Vol 3](https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq) | 3:36 | 2025-08-15 |  |
 | [La Noche Sin Tí](https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:18 | 2021-10-08 |  |
 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 | 2023-05-12 |  |
 | [La Soñé](https://open.spotify.com/track/5irK16GrbSb7eSKzvrbJiZ) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Poncho](https://open.spotify.com/album/2LqkMvdnxBpqdOwGXPMdP3) | 3:15 | 2022-07-15 | 2024-04-19 |
@@ -160,7 +162,7 @@
 | [Zamba para Decir Adiós](https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zamba para Decir Adiós](https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5) | 3:54 | 2022-07-15 | 2024-04-19 |
 | [Zamba para Decir Adiós](https://open.spotify.com/track/58ovR1eDL61corweuS4h40) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zamba para Decir Adiós](https://open.spotify.com/album/2mv60g9gXQFuCr6gp3aG0N) | 3:54 | 2021-10-08 | 2022-07-29 |
 | [Zamba para Olvidarte](https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [Zamba para Olvidarte](https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO) | 3:19 | 2021-10-08 |  |
-| [Zamba y Acuarela](https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/0jZXoejsjx2oS5vEHXmWzt) | 4:32 | 2021-10-08 |  |
+| [Zamba y Acuarela](https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/0jZXoejsjx2oS5vEHXmWzt) | 4:32 | 2021-10-08 | 2025-08-16 |
 | [Zamba y Acuarela](https://open.spotify.com/track/4M7ODmOvmSny2kBEOgp2cX) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/2ww3i7PqUVMM4JmokgyRb5) | 4:32 | 2022-07-15 | 2024-04-19 |
 | [Zamba y Acuarela](https://open.spotify.com/track/4NuT2p7BwMRM4FwKr7TtEl) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Grandes Éxitos](https://open.spotify.com/album/5yl4DxJbBo7gq9soEW7fmY) | 4:33 | 2022-10-07 | 2022-11-14 |
 | [Zambas Románticas: Mujer, Niña y Amiga / Gustito a Mistol / Gallitos del Aire / Jazmín de Luna](https://open.spotify.com/track/4fGfiuxECgwNDL8cTC9SOT) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Zambas Románticas: Mujer, Niña y Amiga / Gustito a Mistol / Gallitos del Aire / Jazmín de Luna](https://open.spotify.com/album/475rRqqrmSGkwYYJFcOUaz) | 7:26 | 2022-07-15 |  |

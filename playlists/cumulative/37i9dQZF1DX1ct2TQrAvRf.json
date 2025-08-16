@@ -4505,6 +4505,32 @@
     },
     {
       "album": {
+        "name": "NERA",
+        "url": "https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "NERA",
+      "url": "https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC"
+    },
+    {
+      "album": {
         "name": "No Fluke",
         "url": "https://open.spotify.com/album/4bWXLZzAM9LIIUOoPnEpnr"
       },
@@ -4520,6 +4546,28 @@
       "duration_ms": 208750,
       "name": "No Fluke",
       "url": "https://open.spotify.com/track/0e00wW89E66Ndp8poSdjA2"
+    },
+    {
+      "album": {
+        "name": "NO MIDMAN",
+        "url": "https://open.spotify.com/album/3z7Qb70k9Q3jIB8q5pjfko"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Yaari Ghuman",
+          "url": "https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218531,
+      "name": "NO MIDMAN",
+      "url": "https://open.spotify.com/track/4vrnlcjMrRpTecEvdiuiAv"
     },
     {
       "album": {
@@ -4702,7 +4750,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 310043,
       "name": "OM",
       "url": "https://open.spotify.com/track/64whxGk19WtoxDzHRbcXJI"
@@ -4724,6 +4772,28 @@
       "duration_ms": 183428,
       "name": "On Top",
       "url": "https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw"
+    },
+    {
+      "album": {
+        "name": "Devi",
+        "url": "https://open.spotify.com/album/3cUr4H7l3mNOqvoczhGdzT"
+      },
+      "artists": [
+        {
+          "name": "Trilok",
+          "url": "https://open.spotify.com/artist/3KGvPJVuMw3dluy8gXmoFd"
+        },
+        {
+          "name": "Agnijita Sen",
+          "url": "https://open.spotify.com/artist/4Lw4HLMsSt8uXZ6bvkwZJE"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182319,
+      "name": "One Who Breaks Them All (feat. Agnijita Sen)",
+      "url": "https://open.spotify.com/track/7qxHEcU31PGAHIdzSgLQBn"
     },
     {
       "album": {
@@ -5738,7 +5808,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 229787,
       "name": "Shoes Off",
       "url": "https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn"
@@ -6808,7 +6878,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 161450,
       "name": "Who Rules The World - From \"The Royals\"",
       "url": "https://open.spotify.com/track/0ugq5D5qFOMAqVWtuI8fin"

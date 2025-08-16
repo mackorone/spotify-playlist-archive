@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > the summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873,883 likes - 120 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,874,863 likes - 120 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 119 | [Ice 2 Water](https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Ice 2 Water](https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd) | 3:16 |
 | 120 | [Can't find you](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Can't find you](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
 
-Snapshot ID: `AAAAAM7KGEPQIYW5HiG5rJanR4l3aXSG`
+Snapshot ID: `AAAAAFb5Log7talKzP99SLbTnmgJKUpY`

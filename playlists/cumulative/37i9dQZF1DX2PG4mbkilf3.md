@@ -4,7 +4,7 @@
 
 > This is the range of R&B in Canada\. Elevate your aura with Osé from Toronto, ON.
 
-1,405 songs - 3 day 1 hr 6 min
+1,407 songs - 3 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [MORAL](https://open.spotify.com/track/6wCDE1tpYcU7aPWkdxlJzt) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/3ThoYoeN8LuYrErKTM3qOg) | 2:45 | 2023-03-03 | 2023-10-08 |
 | [More](https://open.spotify.com/track/43AkwjzRPBKbFrGM7Rn9JF) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [More](https://open.spotify.com/album/1sF44ZsrgWPrJ2imXUCcDB) | 3:16 | 2023-08-25 | 2023-10-14 |
 | [MORE](https://open.spotify.com/track/47kXceQYFos7TpbwhHHGgj) | [Nicole Chambers](https://open.spotify.com/artist/5kvxSGkZcVesEX2mqw0AtC) | [MORE](https://open.spotify.com/album/7pthZEyiFlYQ7h61F4Zo0L) | 2:59 | 2023-07-14 | 2023-08-19 |
+| [MORE THAN A HOMIE](https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [MORE THAN A HOMIE](https://open.spotify.com/album/1mJDMgJyr19JFmT0GxBCgT) | 3:34 | 2025-08-15 |  |
 | [More Than Anything](https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI) | 2:20 | 2023-07-21 | 2023-08-19 |
 | [More Than Anything](https://open.spotify.com/track/5X57YbtIeVPhJTXENLd1No) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Pretty Conversation](https://open.spotify.com/album/4onXNs51cbbqZQAfj95b1U) | 2:20 | 2023-09-01 | 2023-09-09 |
 | [More Than Anything](https://open.spotify.com/track/5kH7SG2iopdPgXXZxvx6Lq) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [More Than Anything](https://open.spotify.com/album/0S2x2CE6zEix5dwvEmJ1sV) | 2:20 | 2023-08-18 | 2023-09-08 |
@@ -993,6 +994,7 @@
 | [Red Handed](https://open.spotify.com/track/61k46pWQAEEwpagctUMgry) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [Red Handed](https://open.spotify.com/album/67mUKShwkfh8J6NACuQ85k) | 2:48 | 2022-05-27 | 2022-07-30 |
 | [Red Light](https://open.spotify.com/track/7gV7gStLkm7ybb2WZhhksp) | [Amaal Nuux](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Red Light](https://open.spotify.com/album/1w0t2M46PMA76fvR5rMEbo) | 2:28 | 2023-09-15 | 2023-12-16 |
 | [Red Lights](https://open.spotify.com/track/3eOpKl1MtiXLruprhuouC4) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Escape From Limbo](https://open.spotify.com/album/3ZYNk9fMQNCcNoD40DEHZV) | 2:49 | 2024-10-18 | 2025-01-25 |
+| [Red Rover](https://open.spotify.com/track/1vHHMDMJwVTJu5lFZqj8D3) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Red Rover](https://open.spotify.com/album/4ZYygbzb4lzQ8FlkibyGIV) | 3:07 | 2025-08-15 |  |
 | [redlight](https://open.spotify.com/track/4eXAp9qvIa6auptkIzdH7L) | [NADUH](https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh) | [redlight](https://open.spotify.com/album/3ti9VIKWR5SZSXFeUcovEf) | 3:08 | 2025-04-11 | 2025-04-18 |
 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 | 2023-05-26 | 2023-09-16 |
 | [Regrets](https://open.spotify.com/track/2RuOxSKuPvJmIgBEWUUTio) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Regrets](https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx) | 3:45 | 2022-02-18 | 2022-02-26 |

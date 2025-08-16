@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Luis Alfonso
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,513 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,552 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 3 | [Volvamos a Ser Novios](https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Último Baile](https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si) | 3:57 |
 | 4 | [Mi Despedida](https://open.spotify.com/track/4Dy0MUErHjdhtWaqpbCQCn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6) | [Mi Despedida](https://open.spotify.com/album/7xQlUUXlVX4AJWTALzyYfh) | 2:34 |
 | 5 | [El Agropecuario](https://open.spotify.com/track/3Xq3SxdRD48Cz3i8L7P70r) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El Agropecuario](https://open.spotify.com/album/033EobOjqzf4mRbJH5OxGZ) | 2:55 |
-| 6 | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/track/1ixIQXRPH0ZjrCcq13DIl1) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/album/72i69AiCrCe9e6PBh8zyoL) | 3:32 |
+| 6 | [ME ENGAÑARON LOS DOS](https://open.spotify.com/track/6y3hRQeVYOAIjopk0mCm4D) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [ME ENGAÑARON LOS DOS](https://open.spotify.com/album/2rSNFyF3dVnLvjgwlTmae0) | 2:43 |
 | 7 | [El Cora Me Duele](https://open.spotify.com/track/432m7Cs5gMFnVzx1onM8eb) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [El Cora Me Duele](https://open.spotify.com/album/07Du4Lfun5J9bBpNCxZYpS) | 3:09 |
 | 8 | [Hasta La Madre](https://open.spotify.com/track/2ZXu8wKzZ9eSAOHxrxcraF) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/1amlimmx04UgT7cL4aRkq5) | 2:38 |
 | 9 | [Tengo Ganas](https://open.spotify.com/track/4TiS7REpiQIaj6BJHFc05d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Tengo Ganas](https://open.spotify.com/album/5TMdQRTAyXs6pyka3ICrtg) | 3:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 79 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 80 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 |
 
-Snapshot ID: `AAAAAJG/1jkpo961xbWcwns7be26DXGF`
+Snapshot ID: `AAAAAA9LSnKAxzAosCJczB4Xoeahg+jw`

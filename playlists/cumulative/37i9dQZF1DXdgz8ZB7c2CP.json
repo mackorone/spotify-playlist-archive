@@ -2389,6 +2389,28 @@
     },
     {
       "album": {
+        "name": "BRIGHT",
+        "url": "https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P"
+      },
+      "artists": [
+        {
+          "name": "Atura",
+          "url": "https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229859,
+      "name": "BRIGHT",
+      "url": "https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0"
+    },
+    {
+      "album": {
         "name": "BRING BACK THE COLOR (feat. AURORA)",
         "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
       },
@@ -3146,7 +3168,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 175238,
       "name": "Chi-Town",
       "url": "https://open.spotify.com/track/1730qesuRhIb92FrXEm04h"
@@ -8419,6 +8441,28 @@
     },
     {
       "album": {
+        "name": "Helium",
+        "url": "https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Anna Sofia",
+          "url": "https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/0YftsFeJDR0IykBqmUVHlp"
       },
@@ -11114,7 +11158,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 228656,
       "name": "Let the Lips Fall Where They May",
       "url": "https://open.spotify.com/track/5eH0Jh6P971WZ76oeQq43x"
@@ -11716,7 +11760,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 203024,
       "name": "Lost In Mumbai - IMANU Remix",
       "url": "https://open.spotify.com/track/0VWayAeovmiY52OeltaRo9"
@@ -14900,6 +14944,24 @@
       "duration_ms": 279500,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/3DQHSzs0mtdCHXEPtH1KlQ"
+    },
+    {
+      "album": {
+        "name": "PUSHINN",
+        "url": "https://open.spotify.com/album/2umT6tMDBC2DDbjCEckF3v"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139701,
+      "name": "PUSHINN",
+      "url": "https://open.spotify.com/track/3afe2BTqwgrwrLoOatjxFi"
     },
     {
       "album": {
@@ -21658,7 +21720,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 139445,
       "name": "want u",
       "url": "https://open.spotify.com/track/6J0BtIohxje0XgiJ5L5pRV"
@@ -21808,6 +21870,24 @@
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
+    },
+    {
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/0rFr91GLEBl13aD9wVQcis"
+      },
+      "artists": [
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118260,
+      "name": "WATERFALL",
+      "url": "https://open.spotify.com/track/5drjS02AIq4EZWVlWBTgvl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Milena Pina
 
-202 songs - 11 hr 59 min
+203 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Ao Teu Lado \- Acústico](https://open.spotify.com/track/1uP31TFAG8a4VGwpE7w3yT) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF) | [Ao Teu Lado \(Acústico\)](https://open.spotify.com/album/0u1E6iC4UA69cVBHFSBkjk) | 3:42 | 2022-08-05 | 2023-04-16 |
 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 | 2022-08-05 |  |
 | [Aprendiz](https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Aprendiz](https://open.spotify.com/album/4WVhaUNsM0PBmdzDOwZDAg) | 3:42 | 2022-08-05 | 2023-08-05 |
-| [Aqui Vou Eu](https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68) | [Ipalpha Nova](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB) | [Aqui Vou Eu](https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal) | 4:20 | 2024-11-29 |  |
+| [Aqui Vou Eu](https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68) | [Ipalpha Nova](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB) | [Aqui Vou Eu](https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal) | 4:20 | 2024-11-29 | 2025-08-16 |
 | [Asas](https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Asas](https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC) | 3:37 | 2022-08-05 | 2023-09-26 |
 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 | 2024-08-09 |  |
 | [Até Sermos Um](https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41) | [Leo Schiappadini](https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr) | [Até Sermos Um](https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG) | 2:58 | 2024-04-19 |  |
@@ -209,6 +209,7 @@
 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 | 2023-10-20 |  |
 | [YESHUA](https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [YESHUA](https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx) | 2:40 | 2024-08-30 | 2025-01-11 |
 | [É de Coração](https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [É de Coração](https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4) | 3:16 | 2022-08-05 |  |
+| [É Mais Que Uma Honra](https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb) | [É Mais Que Uma Honra](https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94) | 4:56 | 2025-08-15 |  |
 | [É Você](https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você](https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX) | 3:51 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

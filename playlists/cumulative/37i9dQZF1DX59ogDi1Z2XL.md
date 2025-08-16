@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-1,937 songs - 3 day 17 hr 45 min
+1,939 songs - 3 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Cookin](https://open.spotify.com/track/0W28FQJ9q2385L0vb9UPi7) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN) | [Cookin](https://open.spotify.com/album/3REvpGLrPhpYP2Q94vffJx) | 2:28 | 2023-08-25 | 2023-11-18 |
 | [COOL ME DOWN](https://open.spotify.com/track/2qJNYYNY4eg7FeBWE7vzjp) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [COOL ME DOWN](https://open.spotify.com/album/23tg66acfwthbiUGN40UHf) | 3:07 | 2023-07-14 | 2023-07-29 |
 | [Corde à linge](https://open.spotify.com/track/0U4ukkvUsKmvNw4aUMikco) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Corde à linge](https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2) | 3:19 | 2022-02-11 | 2022-02-19 |
+| [Corporate Prophet](https://open.spotify.com/track/0vRsW41kB53FgrgLS9IxPU) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU) | [Corporate Prophet](https://open.spotify.com/album/2y3LygTyG2pB7jzn9C3G4p) | 2:25 | 2025-08-15 |  |
 | [COST OF CHOICES](https://open.spotify.com/track/5VsCK3AdztCegw4Lz4fdny) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [COST OF CHOICES](https://open.spotify.com/album/25F5pauoGMG4V7Wiw5tpY4) | 2:31 | 2022-06-10 | 2022-06-18 |
 | [Cougar](https://open.spotify.com/track/6vpbR7ppnFZ0OQ3QF3c6Jf) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [Cougar](https://open.spotify.com/album/3Muji1llzu5xew9ONMfsQD) | 2:50 | 2022-07-08 | 2022-09-03 |
 | [COUNT SHEEP](https://open.spotify.com/track/7pismjI4OiuJNM0yK3E73A) | [I.R.B](https://open.spotify.com/artist/06ZYLwI2i8bSaqgeC6mEQb), [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe) | [COUNT SHEEP](https://open.spotify.com/album/2gAw0x0urfJOOWX35mDbBg) | 1:55 | 2023-10-06 | 2023-12-09 |
@@ -1507,6 +1508,7 @@
 | [SHINE \(with SiR\)](https://open.spotify.com/track/79cQ8BxtYKsb8nAp8LfcZB) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [SHINE \(with SiR\)](https://open.spotify.com/album/41oaGXdQll9lAxJAwoZrlm) | 2:59 | 2023-12-15 | 2024-06-01 |
 | [Shinigami Flow](https://open.spotify.com/track/7nqXeFOVEc7rJQSSpFzVH9) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Jaegen](https://open.spotify.com/artist/175rsyRzKsoKcbEDaqDuC6) | [ECLIPSE](https://open.spotify.com/album/3SluEWtJ93kVaBcmd4JfFd) | 1:43 | 2023-01-27 | 2023-02-18 |
 | [Shinobi](https://open.spotify.com/track/3x7qgPolBilNARNwnUNBS7) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Shinobi](https://open.spotify.com/album/4r5htcG3j8krOPPHTQRSph) | 2:14 | 2023-05-26 | 2023-08-12 |
+| [Shoot & Drive](https://open.spotify.com/track/66x8cFjDG5teUYG4Yrku9f) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r) | [Shoot & Drive](https://open.spotify.com/album/0UIjFrnU3PfzEHRS4jypaz) | 2:08 | 2025-08-15 |  |
 | [Shots Fired](https://open.spotify.com/track/2AtYnDbxNMfPZiwwyjXsJQ) | [Booggz](https://open.spotify.com/artist/17LWRPvDAiIUUPECIakeBu) | [Father Figure](https://open.spotify.com/album/3i9dNxXGq4WVICBDk2AUOA) | 2:52 | 2022-01-07 | 2022-03-18 |
 | [SHOULD I ?](https://open.spotify.com/track/6TTmWfbqFVyDZwCEJGgubC) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [SHOULD I ?](https://open.spotify.com/album/3f1IierbFvj70gGYcTZTai) | 2:16 | 2023-10-06 | 2023-10-14 |
 | [Show Me](https://open.spotify.com/track/5fHZ0cDHAMZZhqp49RwDOS) | [TkMN](https://open.spotify.com/artist/61A2QGJWZ3b8mlVtQ552qU) | [Show Me](https://open.spotify.com/album/4jEfbVIUT05emUZkSS4LW1) | 2:40 | 2022-07-01 | 2022-07-16 |

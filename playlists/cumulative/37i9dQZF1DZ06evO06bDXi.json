@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 257533,
       "name": "As Time Goes By from \"Casablanca\" (1942)",
       "url": "https://open.spotify.com/track/5JCMmD3ysCoxTD8c04iG5L"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 177560,
       "name": "Rieding: Violin Concerto in B Minor, Op. 35: I. Allegro moderato",
       "url": "https://open.spotify.com/track/7i2l3STMDXzO0ethxPBl9v"
@@ -1257,6 +1257,36 @@
     },
     {
       "album": {
+        "name": "Mozart: Violin Concertos Nos. 3 & 5",
+        "url": "https://open.spotify.com/album/2oaky393ootB7Ar3CgRrMY"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529647,
+      "name": "Violin Concerto No. 3 in G Major, K. 216: II. Adagio (Cadenza Itzhak Perlman)",
+      "url": "https://open.spotify.com/track/3KUkfFRZILBSgyV7ayXOkK"
+    },
+    {
+      "album": {
         "name": "Mozart: The Violin Sonatas",
         "url": "https://open.spotify.com/album/2BNl1Z20i7UxDwneYXhbhu"
       },
@@ -1462,7 +1492,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 298733,
       "name": "Yentl: Papa, Can You Hear Me?",
       "url": "https://open.spotify.com/track/6NqifdCpPVpkOX2soLxFXq"

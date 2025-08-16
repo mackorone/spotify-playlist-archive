@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring J\. Worra.
 
-649 songs - 1 day 16 hr 52 min
+651 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 | 2025-04-18 | 2025-07-26 |
 | [Drowning](https://open.spotify.com/track/1cwt2CE4yESnT0gLT46IJO) | [Brina Knauss](https://open.spotify.com/artist/3dAC3NjJnsavHLFC8GCyRZ) | [Drowning](https://open.spotify.com/album/73SLZEZYiyYcwMEY0gHhWx) | 3:40 | 2024-07-12 | 2024-08-24 |
 | [Drunken Clouds](https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Drunken Clouds](https://open.spotify.com/album/7zq2EKERswJ5whwvT9frrR) | 4:13 | 2023-03-07 | 2024-03-02 |
+| [E After Next](https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [E After Next](https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU) | 3:59 | 2025-08-15 |  |
 | [E Tu](https://open.spotify.com/track/5thlXjvNrM6XVugoLOUz0a) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt) | [E Tu](https://open.spotify.com/album/7f7nETvUZJdhXEWSgmhAfm) | 4:19 | 2024-03-01 | 2024-04-19 |
 | [Each Other](https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [Each Other](https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv) | 3:04 | 2025-04-11 | 2025-05-24 |
 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 | 2021-03-01 | 2024-03-02 |
@@ -198,6 +199,7 @@
 | [Find Your Way Home](https://open.spotify.com/track/1yYoSZ9e1zE2zZlYEytggU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/3hkdqLvcp6vFYyHHw19NBu) | 8:17 | 2023-03-07 | 2024-03-02 |
 | [Fine Day](https://open.spotify.com/track/3HCl43sITVpqHnCwMHTNxk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Fine Day](https://open.spotify.com/album/0CvSM3QZgTG0a1Z0PGSQ38) | 3:23 | 2024-03-01 | 2024-06-01 |
 | [Firefly](https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 3:18 | 2023-03-07 | 2024-03-02 |
+| [Flood In](https://open.spotify.com/track/791X2PUfJeQmiOf7uB5y8L) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Flood In](https://open.spotify.com/album/4d5SgOysEgsNeGYyuwEGhc) | 2:34 | 2025-08-15 |  |
 | [Fluffy Clouds](https://open.spotify.com/track/46An1qrp2NBF7rP8CgmnpK) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Fluffy Clouds](https://open.spotify.com/album/3dWZLsrLsh8gcbnekWIg7H) | 5:44 | 2021-03-01 | 2023-03-08 |
 | [Follow](https://open.spotify.com/track/2XGh5hmwLX517lMBSvglwS) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0kI8CjLFsSKL7xA2tSBZFa) | 5:37 | 2022-03-08 | 2023-03-08 |
 | [Follow](https://open.spotify.com/track/5UsfWcP6SThHlZ4oAgx7ge) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Stay With Me](https://open.spotify.com/album/0vlWyzbAl3ff9b3zout1XQ) | 5:37 | 2021-03-01 | 2022-11-20 |
@@ -477,7 +479,7 @@
 | [Real Girls](https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Star City](https://open.spotify.com/album/4jPLbIb5TphH4e97lE6Bmv) | 3:12 | 2024-03-01 | 2024-03-30 |
 | [Real Love](https://open.spotify.com/track/6gWsOhNNpEBBd1jFVa73Re) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Real Love \(AFP Deep Love Mix\)](https://open.spotify.com/album/1780GWrsihICzZnFTW8dC6) | 2:53 | 2024-03-01 | 2024-06-08 |
 | [Retox](https://open.spotify.com/track/5zxCjPF27PPCHCyaGobU6m) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Retox](https://open.spotify.com/album/6rG5MVTfMpCiOPi2vTX3XI) | 3:45 | 2024-06-24 | 2024-08-10 |
-| [Revolution](https://open.spotify.com/track/6C3jGzujdwT76XU4CH6ZHg) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Revolution](https://open.spotify.com/album/7519Ww1er6JNd64E8sW8rB) | 3:22 | 2025-06-13 |  |
+| [Revolution](https://open.spotify.com/track/6C3jGzujdwT76XU4CH6ZHg) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Revolution](https://open.spotify.com/album/7519Ww1er6JNd64E8sW8rB) | 3:22 | 2025-06-13 | 2025-08-16 |
 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 | 2024-06-20 | 2024-08-10 |
 | [Ride Or Die](https://open.spotify.com/track/2CbuQYjqutizzJraX3ILZY) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Ride Or Die](https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS) | 2:48 | 2024-05-03 | 2024-09-07 |
 | [Right Here](https://open.spotify.com/track/27PLkQCMxOlaiouTPejkmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Right Here](https://open.spotify.com/album/3QcjyO7WglcOzKQmfgKwXp) | 3:49 | 2024-05-17 | 2025-01-11 |
@@ -639,7 +641,7 @@
 | [What Have You Done For Me Lately](https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [What Have You Done For Me Lately](https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr) | 3:29 | 2025-01-07 | 2025-07-19 |
 | [What We Live For](https://open.spotify.com/track/18K9abEONMttU0sx38Phun) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [What We Live For](https://open.spotify.com/album/3tzAwMMF99SeLuz4hND1T8) | 5:37 | 2024-04-19 | 2024-05-18 |
 | [When It Comes To Love](https://open.spotify.com/track/4at3vuKWn64sDq1ClFTmOf) | [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Pressure](https://open.spotify.com/album/2lGuyCKc6O3dDteX2GO5ZK) | 2:51 | 2024-08-09 | 2024-10-26 |
-| [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-05-30 |  |
+| [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-05-30 | 2025-08-16 |
 | [Where Is My Angel](https://open.spotify.com/track/48ChqGVn3yIpcYWxfzPHfD) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Where Is My Angel](https://open.spotify.com/album/3BbOh6UaSYNbdSZbQdrCfd) | 4:25 | 2025-06-06 |  |
 | [Where My Girls At?](https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Samira](https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT) | [Where My Girls At?](https://open.spotify.com/album/0V67ejz6Vt8Ucjkh6ZMcVY) | 2:28 | 2024-03-01 | 2024-06-08 |
 | [Whispers](https://open.spotify.com/track/5PqAPfjhNfDoTrjtrPRZXe) | [Khira Li](https://open.spotify.com/artist/3bek8rwCEzQExpuy8RXRYS) | [Whispers](https://open.spotify.com/album/1uub1O2WZ95A7vV5IdnDpU) | 3:17 | 2024-03-22 | 2024-05-18 |

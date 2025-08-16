@@ -1,13 +1,133 @@
 {
-  "description": "New jazz for open minds. Cover: Jonathan Blake",
-  "num_followers": 950781,
+  "description": "New jazz for open minds. Cover: Charles Lloyd Delta Trio",
+  "num_followers": 950755,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALsWlEGqIyIF+vfTdTqY16o3BEP2",
+  "snapshot_id": "AAAAAJx99mBSD6kysMoEfZQ+XTDkL76/",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:14",
+      "album": {
+        "name": "Figure In Blue, memories of Duke",
+        "url": "https://open.spotify.com/album/0PDj0RSnbT8qdgwvSZsBFb"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 433221,
+      "name": "Figure In Blue, memories of Duke",
+      "url": "https://open.spotify.com/track/1Va193NLv7i6UA9aGvVkYV"
+    },
+    {
+      "added_at": "2025-08-15 04:00:14",
+      "album": {
+        "name": "Diamond Staircase",
+        "url": "https://open.spotify.com/album/7ndB2mztr8DG60MZnz93he"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "James McAlister",
+          "url": "https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z"
+        }
+      ],
+      "duration_ms": 115205,
+      "name": "Stair 1",
+      "url": "https://open.spotify.com/track/4jl4G2EWBLxIVKeT03oAe9"
+    },
+    {
+      "added_at": "2025-08-15 04:00:14",
+      "album": {
+        "name": "Wear and Tear",
+        "url": "https://open.spotify.com/album/5bolRHcWoIIET6qafkDUtT"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "duration_ms": 189135,
+      "name": "Wear and Tear",
+      "url": "https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:14",
+      "album": {
+        "name": "Colorbars (feat. Chris Thile)",
+        "url": "https://open.spotify.com/album/4tkOBq5HLmSXT18ufEUBM6"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 323701,
+      "name": "Colorbars (feat. Chris Thile)",
+      "url": "https://open.spotify.com/track/3OY2R7N6anYFW5IND5Ekrj"
+    },
+    {
+      "added_at": "2025-08-15 04:00:14",
+      "album": {
+        "name": "lvdf",
+        "url": "https://open.spotify.com/album/4xSEK5RgNiPe7PeCkZcytz"
+      },
+      "artists": [
+        {
+          "name": "lvdf",
+          "url": "https://open.spotify.com/artist/62ICfUzsPLLnODuhv583Tl"
+        },
+        {
+          "name": "Alex Hitchcock",
+          "url": "https://open.spotify.com/artist/4MrFF8cBU4dYrJsCeBdNrZ"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "Michelangelo Scandroglio",
+          "url": "https://open.spotify.com/artist/72Z4tAXXYHocMPutumKEwq"
+        },
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        }
+      ],
+      "duration_ms": 252083,
+      "name": "Jorge's Vision",
+      "url": "https://open.spotify.com/track/5LzCs06Mb04mFgIBsdSvVV"
+    },
     {
       "added_at": "2025-08-08 04:18:05",
       "album": {
@@ -399,22 +519,6 @@
       "duration_ms": 384243,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2gzXIH2zuVQ6omwQBvpeas"
-    },
-    {
-      "added_at": "2025-06-27 04:00:28",
-      "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/6ibbmbJZagdeyyU3r8eJQF"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 301561,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/6Ja01KJ1mVGcONnRzHtGBi"
     },
     {
       "added_at": "2025-07-04 04:00:19",
@@ -1441,26 +1545,6 @@
       "url": "https://open.spotify.com/track/4ilE6MkpkFz1rKXHDfGFPA"
     },
     {
-      "added_at": "2025-04-04 04:00:20",
-      "album": {
-        "name": "digi-squires",
-        "url": "https://open.spotify.com/album/6ycjfJwh8ZIZAarrYQcFSa"
-      },
-      "artists": [
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
-        }
-      ],
-      "duration_ms": 309000,
-      "name": "the vilage",
-      "url": "https://open.spotify.com/track/5lTWTGe9kFDflaUy8I6Tlq"
-    },
-    {
       "added_at": "2025-03-28 04:00:37",
       "album": {
         "name": "Prophet",
@@ -1901,26 +1985,6 @@
       "url": "https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS"
     },
     {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "For Fat Man",
-        "url": "https://open.spotify.com/album/05LGYTSJcAL7lV5q7qhxkd"
-      },
-      "artists": [
-        {
-          "name": "Preservation Brass",
-          "url": "https://open.spotify.com/artist/1hSpi5KaYmsLZbNxo0JLOE"
-        },
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 299285,
-      "name": "Bill Bailey Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/1DogeQJg0tWMxcFODP3mur"
-    },
-    {
       "added_at": "2025-02-07 05:00:30",
       "album": {
         "name": "No More Water: The Gospel Of James Baldwin",
@@ -1935,46 +1999,6 @@
       "duration_ms": 222653,
       "name": "Love",
       "url": "https://open.spotify.com/track/2BFIPXGjO8v1ng8mRtzoV0"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/3ske4zgFlCKi4NiYdOEDFf"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "Afrofuturism",
-      "url": "https://open.spotify.com/track/7lNuHvEdAyQshC0BEhJURB"
-    },
-    {
-      "added_at": "2025-01-31 05:00:25",
-      "album": {
-        "name": "Ebo Taylor JID022",
-        "url": "https://open.spotify.com/album/1iKRvRE0TAb0CgPJtUYTkh"
-      },
-      "artists": [
-        {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 212402,
-      "name": "Kusi Na Sibo",
-      "url": "https://open.spotify.com/track/6KsK0EjzwjtMtW1lNfMiF9"
     },
     {
       "added_at": "2025-01-17 05:00:30",

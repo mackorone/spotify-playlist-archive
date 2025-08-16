@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo en música tropical 📸 Grupo Cañaveral & La Joaqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,713 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,045 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Tierra del Olvido \- Versión Salsa](https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Tierra del Olvido \(Versión Salsa\)](https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx) | 4:22 |
-| 2 | [Echarme Al Olvido](https://open.spotify.com/track/16Pff0FadGUI8noya36AsN) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Echarme Al Olvido](https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN) | 4:38 |
+| 1 | [Echarme Al Olvido](https://open.spotify.com/track/16Pff0FadGUI8noya36AsN) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Echarme Al Olvido](https://open.spotify.com/album/3wDHFioqgXvjbUcXxhhXmN) | 4:38 |
+| 2 | [La Tierra del Olvido \- Versión Salsa](https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Tierra del Olvido \(Versión Salsa\)](https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx) | 4:22 |
 | 3 | [Cuarteto Sessions \#4 \- En Vivo](https://open.spotify.com/track/69WeS55fEovmlIpi84Zy48) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Cuarteto Sessions \#4 \(En Vivo\)](https://open.spotify.com/album/2Hgd5do9peh1gs9EA5QBYI) | 5:16 |
 | 4 | [Yo Tengo Un Ángel](https://open.spotify.com/track/7cZbTKenlFHYy393AN0L4A) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Yo Tengo Un Ángel](https://open.spotify.com/album/3itRSwUmnbm4jKDqSfonOj) | 2:03 |
 | 5 | [Si Esta Casa Hablara / Tu Misterioso Alguien \- En Vivo](https://open.spotify.com/track/6jNl3MK9WF5HV2SivemFC5) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Si Esta Casa Hablara / Tu Misterioso Alguien \(En Vivo\)](https://open.spotify.com/album/118S7OqtZMQPnHpvFFB0xp) | 3:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 98 | [FOKIN ALMOHADA](https://open.spotify.com/track/7gCo50glkjklaUcYCyw6jl) | [Emilio Cabra](https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI), [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [FOKIN ALMOHADA](https://open.spotify.com/album/1JxAQEMuC2vfO8OeRqj4LD) | 2:28 |
 | 99 | [Ahora](https://open.spotify.com/track/5FNAoc8z1ltd823QbS0V5I) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Mauro El Código Secreto](https://open.spotify.com/artist/5WlqTMUK1osjZ3G7cqyC9x) | [Ahora](https://open.spotify.com/album/3GaqBHtHkuMVecx1VRCMiI) | 2:50 |
 
-Snapshot ID: `AAAAADDluT7CMRbwDhypC5c2a9MEINyk`
+Snapshot ID: `AAAAAAYpc9eE0mdLwajnIbi/m5zImUye`

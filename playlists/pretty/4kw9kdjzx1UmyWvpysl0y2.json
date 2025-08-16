@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125083,
+  "num_followers": 125079,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUeJtlLq/+LbnhTVHccbY4iKnBpYFy",
+  "snapshot_id": "AAAUeoH63GWzeEEimjsCtdNFW6pyajKL",
   "tracks": [
+    {
+      "added_at": "2025-08-15 14:32:08",
+      "album": {
+        "name": "HAPPY TO BE HERE",
+        "url": "https://open.spotify.com/album/6kvhLgVUAb6AAeapXz56mF"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 141517,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/4jkpRIW7PGnMc6wQHfRof4"
+    },
     {
       "added_at": "2025-08-14 14:29:54",
       "album": {
@@ -1123,182 +1143,6 @@
       "duration_ms": 168000,
       "name": "Adore",
       "url": "https://open.spotify.com/track/1vukPZMZWg6BcdT3xShfmY"
-    },
-    {
-      "added_at": "2025-05-26 14:21:42",
-      "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/6Hj33Lfj7HLFAPlSz3VsnR"
-      },
-      "artists": [
-        {
-          "name": "Merage",
-          "url": "https://open.spotify.com/artist/34cpsw0b9PMy47utxhl0rK"
-        },
-        {
-          "name": "Egzod",
-          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1Bg04k5dLQQODib8Xyl0X5"
-    },
-    {
-      "added_at": "2025-05-23 14:02:13",
-      "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/33jVgupLOP3SgVTAPj4eWv"
-      },
-      "artists": [
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        },
-        {
-          "name": "ILLAMAN",
-          "url": "https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/5hoyYgWURD3d68sZAECzwB"
-    },
-    {
-      "added_at": "2025-05-22 15:08:17",
-      "album": {
-        "name": "In My Eyes",
-        "url": "https://open.spotify.com/album/20j8vVWdM8QdqyJzxw5joN"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "M A R N i E",
-          "url": "https://open.spotify.com/artist/5IIMk50U5mxPCeusKFjHph"
-        },
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/7aEDTeARc5sdHA1komPczb"
-        }
-      ],
-      "duration_ms": 193735,
-      "name": "In My Eyes",
-      "url": "https://open.spotify.com/track/3cKk2nduHxSXklVQowf80Y"
-    },
-    {
-      "added_at": "2025-05-21 14:14:34",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4jvgXjygIbhKSysm8EsZ9o"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/6runSRlHCq8b1QWuzQY3zj"
-    },
-    {
-      "added_at": "2025-05-20 15:49:47",
-      "album": {
-        "name": "Eucalyptus",
-        "url": "https://open.spotify.com/album/700EBo3VDkXqSssWGjCFMl"
-      },
-      "artists": [
-        {
-          "name": "Flexible Fire",
-          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
-        },
-        {
-          "name": "Dias Ridge",
-          "url": "https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Eucalyptus",
-      "url": "https://open.spotify.com/track/6Clt8DqNy7pvteaNfwSTDI"
-    },
-    {
-      "added_at": "2025-05-20 15:49:26",
-      "album": {
-        "name": "LIGHTSHOW",
-        "url": "https://open.spotify.com/album/79ZaRE4ev6xGaY1p4Tl5sn"
-      },
-      "artists": [
-        {
-          "name": "THIRST",
-          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
-        }
-      ],
-      "duration_ms": 145054,
-      "name": "LIGHTSHOW",
-      "url": "https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj"
-    },
-    {
-      "added_at": "2025-05-16 14:08:42",
-      "album": {
-        "name": "Shanti",
-        "url": "https://open.spotify.com/album/4No45mKgjb31CUUkZckmBO"
-      },
-      "artists": [
-        {
-          "name": "hayve",
-          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
-        },
-        {
-          "name": "Laminar",
-          "url": "https://open.spotify.com/artist/7KR2Kk6DSExT2gK5vDHgTr"
-        }
-      ],
-      "duration_ms": 244137,
-      "name": "Shanti",
-      "url": "https://open.spotify.com/track/13dH1ApsDZKh0GUowY2Pqm"
-    },
-    {
-      "added_at": "2025-05-15 15:08:00",
-      "album": {
-        "name": "REBIRTH",
-        "url": "https://open.spotify.com/album/3KnEpXKw5PquEpKvf4C3uy"
-      },
-      "artists": [
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/2H91UEIDaVFl9Lpah4OeI7"
-    },
-    {
-      "added_at": "2025-05-14 14:52:25",
-      "album": {
-        "name": "By My Side",
-        "url": "https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0"
-      },
-      "artists": [
-        {
-          "name": "Paper Skies",
-          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        },
-        {
-          "name": "Janet Tung",
-          "url": "https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB"
-        }
-      ],
-      "duration_ms": 219633,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F?si=HZYKRvOMSI6E1QWxlE2\_qg">Rhass</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,466 likes - 60 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,514 likes - 60 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

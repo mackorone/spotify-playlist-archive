@@ -5363,6 +5363,24 @@
     },
     {
       "album": {
+        "name": "FMK!",
+        "url": "https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "FMK!",
+      "url": "https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x"
+    },
+    {
+      "album": {
         "name": "Follow You / Cutthroat",
         "url": "https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY"
       },
@@ -5378,6 +5396,28 @@
       "duration_ms": 175643,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2"
+    },
+    {
+      "album": {
+        "name": "june",
+        "url": "https://open.spotify.com/album/3mtccJISwpBDKW1kUnrYVz"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "forever [Feat. I DONT KNOW HOW BUT THEY FOUND ME]",
+      "url": "https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B"
     },
     {
       "album": {
@@ -10032,7 +10072,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 137933,
       "name": "Moneymaker",
       "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
@@ -10358,7 +10398,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 145294,
       "name": "nobody",
       "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"

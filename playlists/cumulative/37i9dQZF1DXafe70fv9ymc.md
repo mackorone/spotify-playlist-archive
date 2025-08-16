@@ -4,7 +4,7 @@
 
 > sexy afrobeats
 
-158 songs - 8 hr 0 min
+159 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All The Way](https://open.spotify.com/track/0MxWBWLNPdNWtIOgTHD9hO) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Robin Rozay](https://open.spotify.com/artist/3p5fc6bu54bLBRlv6ZbWlV) | [YOU WILL KNOW MY NAME](https://open.spotify.com/album/3BL6PeAQwWi2vwrj8wfI87) | 2:47 | 2024-03-01 | 2024-04-19 |
 | [ALTé GIRLS XOXO](https://open.spotify.com/track/54E9z0hKFzsMfvyW8vO4fw) | [BLAKBOYKAY](https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b) | [Things We Do For Love](https://open.spotify.com/album/7n0A8zB1plk7HQcXKtzYvP) | 2:50 | 2025-07-04 |  |
 | [Attention](https://open.spotify.com/track/16jBRxCexHXzOlBG0RApsQ) | [Cheska Cruz](https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ), [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY) | [Temper & Pleasure](https://open.spotify.com/album/51XN4vPEjkVIIZx4WhR9xY) | 2:26 | 2025-05-09 | 2025-08-15 |
+| [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 |  |
 | [BackFat](https://open.spotify.com/track/2mxic3Fzx2iakoVVaHtepk) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [BackFat](https://open.spotify.com/album/0LRhLilERMSRAxszBoq2S9) | 3:57 | 2024-09-13 | 2025-04-05 |
 | [Bad Decisions & Foreplay](https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Bad Decisions & Foreplay](https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd) | 2:49 | 2024-08-02 |  |
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2024-02-09 | 2024-06-21 |

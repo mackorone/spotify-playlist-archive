@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 22049,
+  "num_followers": 22066,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAACDrWVglrfJKE21m/cZrDYj",
+  "snapshot_id": "aJ0nAAAAAACuPbRW4r8c6dMZxsfRMOY2",
   "tracks": [
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Komen Terug",
-        "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 274377,
-      "name": "We Komen Terug",
-      "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schooier (feat. Chicco)",
         "url": "https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 218322,
       "name": "Schooier (feat. Chicco)",
       "url": "https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Komen Terug",
+        "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 274377,
+      "name": "We Komen Terug",
+      "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Das Armas",
-        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Das Armas",
-      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zimmer Frei",
         "url": "https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 173988,
       "name": "Zimmer Frei",
       "url": "https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Das Armas",
+        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Das Armas",
+      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
     },
     {
       "added_at": null,

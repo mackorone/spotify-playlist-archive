@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 164840,
       "name": "Ain't No Money To Me",
       "url": "https://open.spotify.com/track/0dkUmCcsXnKflxBVSMl8vf"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 96156,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/2b6EjhUXgDvYKB8xzWNKQA"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 127200,
       "name": "Diosa de Ebano",
       "url": "https://open.spotify.com/track/1J3ckZEZb28gBEEYoV4upm"
@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 342857,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
@@ -3528,6 +3528,28 @@
       "duration_ms": 170218,
       "name": "Eu resolvo",
       "url": "https://open.spotify.com/track/4VrsePMGKngZtCOUF5dH9G"
+    },
+    {
+      "album": {
+        "name": "Drunk Nightz & High Morninz, Vol. 1 (Mixtape Sampler)",
+        "url": "https://open.spotify.com/album/6t7j3L1gJ4hKngIiRp3NAv"
+      },
+      "artists": [
+        {
+          "name": "Loone Don Aka Mr Get Ryte",
+          "url": "https://open.spotify.com/artist/3lNhUYoU5oLic82G39prBu"
+        },
+        {
+          "name": "John Davy",
+          "url": "https://open.spotify.com/artist/00vgzSEMya4WtQPdSVc9JP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209162,
+      "name": "Face Lift",
+      "url": "https://open.spotify.com/track/4Pa1rpJAKx0c9PgM9TPqoH"
     },
     {
       "album": {
@@ -3760,6 +3782,24 @@
       "duration_ms": 180983,
       "name": "Float",
       "url": "https://open.spotify.com/track/1tD18ato1ljiI5xkfBCKO1"
+    },
+    {
+      "album": {
+        "name": "Floatin Back",
+        "url": "https://open.spotify.com/album/2JdruDKaZeBTG3yZhYmH5y"
+      },
+      "artists": [
+        {
+          "name": "Thera P",
+          "url": "https://open.spotify.com/artist/6DSeuabeKeEBopTySEtw23"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Floatin Back",
+      "url": "https://open.spotify.com/track/6iwSRhpO9Pi6cccFzb3cCL"
     },
     {
       "album": {
@@ -4918,7 +4958,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 131362,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1oPA8J9IytAMdaxnTYr903"
@@ -5882,7 +5922,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 130847,
       "name": "Kiss the Sky",
       "url": "https://open.spotify.com/track/6yYi2D80jEZqi6fREhxMc5"
@@ -6532,7 +6572,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 180000,
       "name": "low waist jeans",
       "url": "https://open.spotify.com/track/5VKGZcVYrrCeZiydPMCpxR"
@@ -7026,6 +7066,28 @@
       "duration_ms": 190751,
       "name": "Messi, Ronaldo",
       "url": "https://open.spotify.com/track/0Ct6I99vRk4jzyFridsYlB"
+    },
+    {
+      "album": {
+        "name": "Metal On The Seat",
+        "url": "https://open.spotify.com/album/1VfWqWmxqcYaook14a5EBQ"
+      },
+      "artists": [
+        {
+          "name": "KEYON STACKS",
+          "url": "https://open.spotify.com/artist/7aOzSrSHHjLH0ce9D6dpi8"
+        },
+        {
+          "name": "YG Hootie",
+          "url": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172251,
+      "name": "Metal On The Seat",
+      "url": "https://open.spotify.com/track/0o6F53CZrybFJlqpy7FBpL"
     },
     {
       "album": {
@@ -7660,7 +7722,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 204914,
       "name": "NIKE FLIPFLOP",
       "url": "https://open.spotify.com/track/5urow6hKEjRvLY2WHs3RK1"
@@ -7754,7 +7816,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 119040,
       "name": "No Mo",
       "url": "https://open.spotify.com/track/6PjU3fk35C41MZLHhjrE0c"
@@ -8192,7 +8254,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 209303,
       "name": "On them",
       "url": "https://open.spotify.com/track/11v4njemAXDVcqBIMdPJld"
@@ -9788,7 +9850,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 177319,
       "name": "Space N Time",
       "url": "https://open.spotify.com/track/70bQbnJmEl8492pMI22thF"
@@ -9890,7 +9952,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 163440,
       "name": "Stand On Ten",
       "url": "https://open.spotify.com/track/0e5rBnURTB3PTEJGvXw0zn"
@@ -10144,6 +10206,24 @@
       "duration_ms": 150413,
       "name": "Super Cool",
       "url": "https://open.spotify.com/track/2Yy5d9il950kWsZcjmm5aC"
+    },
+    {
+      "album": {
+        "name": "Super H\u00e9ros",
+        "url": "https://open.spotify.com/album/2WkGZtbSkqYsifThNKlMhy"
+      },
+      "artists": [
+        {
+          "name": "Zoolio",
+          "url": "https://open.spotify.com/artist/59e4jBUp6Ioy4WiSrKHzJB"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Super H\u00e9ros",
+      "url": "https://open.spotify.com/track/5tOnvReGGDw5mzv8niZoCG"
     },
     {
       "album": {
@@ -11036,6 +11116,24 @@
       "duration_ms": 87118,
       "name": "Touch Turns Gold",
       "url": "https://open.spotify.com/track/0Z8QIxQUTRmn4uexZmQwLJ"
+    },
+    {
+      "album": {
+        "name": "Tough Phase In Canada",
+        "url": "https://open.spotify.com/album/74lxOLXe1C13TPrzJ7TTl6"
+      },
+      "artists": [
+        {
+          "name": "Jashan Sanghera",
+          "url": "https://open.spotify.com/artist/442fTnnfnRzR8XcpmnogrZ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235543,
+      "name": "Tough Phase In Canada",
+      "url": "https://open.spotify.com/track/6okqp3JQZyz5pW03xZGPcz"
     },
     {
       "album": {
@@ -12008,7 +12106,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 385928,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/3eB4J6mNJGF7e95RyvEi4Z"

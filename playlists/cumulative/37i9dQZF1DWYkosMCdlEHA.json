@@ -439,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Divide",
+        "url": "https://open.spotify.com/album/4r3b7z6iqWKvPGLOAN9k1H"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198938,
+      "name": "Divide - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3V02Z8lFX5ppPMIXTLFwKf"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Helio Bentes",
         "url": "https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh"
       },
@@ -744,7 +766,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 231474,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe"

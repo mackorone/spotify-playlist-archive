@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Blush Davis",
-  "num_followers": 40132,
+  "num_followers": 40144,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "was ich f\u00fchl",
-        "url": "https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ"
-      },
-      "artists": [
-        {
-          "name": "Esther Graf",
-          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
-        }
-      ],
-      "duration_ms": 171918,
-      "name": "was ich f\u00fchl",
-      "url": "https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03"
-    },
-    {
-      "added_at": "2025-08-05 22:00:22",
-      "album": {
         "name": "arsch der welt",
         "url": "https://open.spotify.com/album/2axT5MfRsRkkldQcXMhVGB"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 157006,
       "name": "arsch der welt",
       "url": "https://open.spotify.com/track/5Biw0sdkjcyNxBRdA2gkvy"
+    },
+    {
+      "added_at": "2025-08-05 22:00:22",
+      "album": {
+        "name": "was ich f\u00fchl",
+        "url": "https://open.spotify.com/album/30dMPlHrOzT58edpPsKpUJ"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "duration_ms": 171918,
+      "name": "was ich f\u00fchl",
+      "url": "https://open.spotify.com/track/450Msk6LSW4yhRdtcedx03"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "Playing House",
-        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Playing House",
-      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
-    },
-    {
-      "added_at": "2025-08-05 22:00:22",
-      "album": {
         "name": "Ich nehm die Sonne mit",
         "url": "https://open.spotify.com/album/4HBIImyViKdxKae8JzvlUQ"
       },
@@ -271,22 +255,6 @@
       "duration_ms": 170840,
       "name": "Ich nehm die Sonne mit",
       "url": "https://open.spotify.com/track/1gx7oxnWR9Aiw9CiMh2idj"
-    },
-    {
-      "added_at": "2025-08-05 22:00:22",
-      "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC"
-      },
-      "artists": [
-        {
-          "name": "Blush Davis",
-          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
-        }
-      ],
-      "duration_ms": 182687,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -307,18 +275,34 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "Million de Mois",
-        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC"
       },
       "artists": [
         {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
         }
       ],
-      "duration_ms": 177376,
-      "name": "Million de Mois",
-      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
+      "duration_ms": 182687,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI"
+    },
+    {
+      "added_at": "2025-08-05 22:00:22",
+      "album": {
+        "name": "Playing House",
+        "url": "https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Playing House",
+      "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -335,6 +319,22 @@
       "duration_ms": 187093,
       "name": "Kopf gegen die Wand",
       "url": "https://open.spotify.com/track/11FgjKX6bMIKDg3lN5la0f"
+    },
+    {
+      "added_at": "2025-08-05 22:00:22",
+      "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD"
+        "name": "So nah",
+        "url": "https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg"
       },
       "artists": [
         {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
+          "name": "Die P",
+          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
         }
       ],
-      "duration_ms": 198733,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp"
+      "duration_ms": 206117,
+      "name": "So nah",
+      "url": "https://open.spotify.com/track/3jiTUSjtdSekmfgZYkGjKl"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "So nah",
-        "url": "https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD"
       },
       "artists": [
         {
-          "name": "Die P",
-          "url": "https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ"
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
         }
       ],
-      "duration_ms": 206117,
-      "name": "So nah",
-      "url": "https://open.spotify.com/track/3jiTUSjtdSekmfgZYkGjKl"
+      "duration_ms": 198733,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "wie wir uns verlieren",
-        "url": "https://open.spotify.com/album/1AvqTJjVeH5jEd4V89efQl"
-      },
-      "artists": [
-        {
-          "name": "fiora",
-          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "wie wir uns verlieren",
-      "url": "https://open.spotify.com/track/44q6ciob0fFJJFl87lmchb"
-    },
-    {
-      "added_at": "2025-08-05 22:00:22",
-      "album": {
         "name": "ich glaub ich",
         "url": "https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 166100,
       "name": "ich glaub ich",
       "url": "https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI"
+    },
+    {
+      "added_at": "2025-08-05 22:00:22",
+      "album": {
+        "name": "wie wir uns verlieren",
+        "url": "https://open.spotify.com/album/1AvqTJjVeH5jEd4V89efQl"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "wie wir uns verlieren",
+      "url": "https://open.spotify.com/track/44q6ciob0fFJJFl87lmchb"
     },
     {
       "added_at": "2025-08-05 22:00:22",

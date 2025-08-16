@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Mau y Ricky, Boza",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
   "name": "Flow Panam\u00e1",
   "tracks": [
     {
@@ -10589,6 +10589,28 @@
     },
     {
       "album": {
+        "name": "THE BOX",
+        "url": "https://open.spotify.com/album/1GGyPWUxauZ3NnaC0vWRcW"
+      },
+      "artists": [
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "THE BOX",
+      "url": "https://open.spotify.com/track/1akymZ4zkunutRuH551l4I"
+    },
+    {
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/502HTZa2IfWh9QNLbrLhlV"
       },
@@ -11136,6 +11158,36 @@
       "duration_ms": 190909,
       "name": "Tu Traici\u00f3n",
       "url": "https://open.spotify.com/track/1RbQZ3W5fsve8oAF7ui96y"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/6xE2yAAe3EXPHLKuo97wsD"
+      },
+      "artists": [
+        {
+          "name": "Baby Wally",
+          "url": "https://open.spotify.com/artist/6JQETbp0JAmQr26FZjSqJd"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Akim",
+          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
+        },
+        {
+          "name": "Chequea La Music",
+          "url": "https://open.spotify.com/artist/7mq4vAQWUlFyHOPqsKgneF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190410,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/0XjaPTMU1ZmIqEZUbn0N4g"
     },
     {
       "album": {
@@ -11818,7 +11870,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 172363,
       "name": "voltaje",
       "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"

@@ -1,6 +1,6 @@
 {
   "description": "Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song. \u6700\u65b0\u4f5c\u300eFINAL FANTASY VII REBIRTH\u300f\u3092\u306f\u3058\u3081\u3068\u3059\u308b\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc\u306e\u73e0\u7389\u306e\u540d\u66f2\u96c6\u3002\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u306e\u8ffd\u52a0\u3092\u304a\u5f85\u3061\u304f\u3060\u3055\u3044\u3002\u00a92019 SQUARE ENIX CO., LTD. All Rights Reserved.",
-  "num_followers": 203341,
+  "num_followers": 203360,
   "original_name": "FINAL FANTASY",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
+        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
+        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
+        }
+      ],
+      "duration_ms": 527000,
+      "name": "Living Legacy",
+      "url": "https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
         "name": "KINGSGLAIVE FINAL FANTASY XV Original Soundtrack",
         "url": "https://open.spotify.com/album/345ixvSOx8iXoy1DonTYcI"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 220904,
       "name": "Calling for Rain",
       "url": "https://open.spotify.com/track/7vqpKhLbVZkBY2s6l59Q4L"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
-        "name": "CRISIS CORE -FINAL FANTASY VII- Original Soundtrack",
-        "url": "https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi"
-      },
-      "artists": [
-        {
-          "name": "\u77f3\u5143 \u4e08\u6674",
-          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
-        }
-      ],
-      "duration_ms": 527000,
-      "name": "Living Legacy",
-      "url": "https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -796,13 +796,13 @@
       },
       "artists": [
         {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
-      "duration_ms": 135186,
-      "name": "Why (CCFFVII Mix)",
-      "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
+      "duration_ms": 242800,
+      "name": "CRISIS CORE Theme - Under the Apple Tree",
+      "url": "https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -812,13 +812,13 @@
       },
       "artists": [
         {
-          "name": "\u77f3\u5143 \u4e08\u6674",
-          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
       ],
-      "duration_ms": 242800,
-      "name": "CRISIS CORE Theme - Under the Apple Tree",
-      "url": "https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr"
+      "duration_ms": 135186,
+      "name": "Why (CCFFVII Mix)",
+      "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -844,13 +844,13 @@
       },
       "artists": [
         {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+          "name": "Joelle",
+          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Full Speed Ahead",
-      "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
+      "duration_ms": 216480,
+      "name": "Plains of Eternity",
+      "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -860,13 +860,13 @@
       },
       "artists": [
         {
-          "name": "Joelle",
-          "url": "https://open.spotify.com/artist/6F3V2oqTV0cAf0fuZKtGh8"
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Plains of Eternity",
-      "url": "https://open.spotify.com/track/0gp5D3qcl0u74WUEILRkOT"
+      "duration_ms": 234893,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
-      },
-      "artists": [
-        {
-          "name": "Naoshi Mizuta",
-          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
-        }
-      ],
-      "duration_ms": 343320,
-      "name": "Sunset Path",
-      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "FINAL FANTASY XIII-2 Original Soundtrack",
         "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 167613,
       "name": "Serah's Theme - Memories -",
       "url": "https://open.spotify.com/track/3qHXeYe8zOcogPoEjuK073"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
+        "name": "LIGHTNING RETURNS:FINAL FANTASY XIII ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/5AAlUHdWLoL1ih4vroqWSI"
+      },
+      "artists": [
+        {
+          "name": "Naoshi Mizuta",
+          "url": "https://open.spotify.com/artist/7EcpyneWBtxsJ9dyYrFrZe"
+        }
+      ],
+      "duration_ms": 343320,
+      "name": "Sunset Path",
+      "url": "https://open.spotify.com/track/75NI6pNNvOvpeb8SsBkedd"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY TACTICS Original Soundtrack",
-        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
-      },
-      "artists": [
-        {
-          "name": "Hitoshi Sakimoto",
-          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "Trisection",
-      "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
-    },
-    {
-      "added_at": "2024-09-18 01:48:43",
-      "album": {
         "name": "FINAL FANTASY XIV Duality \uff5e Arrangement Album \uff5e",
         "url": "https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 287610,
       "name": "Band:Locus",
       "url": "https://open.spotify.com/track/1VsFMjYvordUV0ZG0NVr3x"
+    },
+    {
+      "added_at": "2024-09-18 01:48:43",
+      "album": {
+        "name": "FINAL FANTASY TACTICS Original Soundtrack",
+        "url": "https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc"
+      },
+      "artists": [
+        {
+          "name": "Hitoshi Sakimoto",
+          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Trisection",
+      "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1164,13 +1164,13 @@
       },
       "artists": [
         {
-          "name": "Hitoshi Sakimoto",
-          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
+          "name": "Masaharu Iwata",
+          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
         }
       ],
-      "duration_ms": 69826,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW"
+      "duration_ms": 105960,
+      "name": "Character Creation",
+      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1180,13 +1180,13 @@
       },
       "artists": [
         {
-          "name": "Masaharu Iwata",
-          "url": "https://open.spotify.com/artist/44WcmZasHi1s8IIRP9l8b3"
+          "name": "Hitoshi Sakimoto",
+          "url": "https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm"
         }
       ],
-      "duration_ms": 105960,
-      "name": "Character Creation",
-      "url": "https://open.spotify.com/track/6wLLZeNrVi3UFtYgp9onhd"
+      "duration_ms": 69826,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/2ega5twcEqXE03JPv2UhuW"
     },
     {
       "added_at": "2024-09-18 01:48:43",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-09-18 01:48:43",
       "album": {
-        "name": "FINAL FANTASY XIII-2 Original Soundtrack",
-        "url": "https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK"
+        "name": "FINAL FANTASY XI Original Soundtrack",
+        "url": "https://open.spotify.com/album/0tLTkzPj5Hye6VvhBPzYuR"
       },
       "artists": [
         {
-          "name": "ORIGA",
-          "url": "https://open.spotify.com/artist/7iynOuMgvVo1P7Pu0rjz5M"
+          "name": "Kumi Tanioka",
+          "url": "https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B"
         }
       ],
-      "duration_ms": 268266,
-      "name": "Historia Crux",
-      "url": "https://open.spotify.com/track/3Z5a9ViXNRzMpTYB2flARR"
+      "duration_ms": 252600,
+      "name": "Gustaberg",
+      "url": "https://open.spotify.com/track/7rlBWutBNvmMhEL0CToKY6"
     }
   ],
   "unique_name": "FINAL FANTASY",

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Hermanos Gutiérrez x Leon Bridges
 
-532 songs - 1 day 7 hr 59 min
+533 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [I Can't Get You Out Of My Mind](https://open.spotify.com/track/0ip8o1lEyLkuG6M4HieVpq) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [I Can't Get You Out Of My Mind](https://open.spotify.com/album/0IiBKeJR3hLccDd2fj4Ogo) | 4:04 | 2025-01-24 |  |
 | [I Do](https://open.spotify.com/track/2ROGRLF59VgUst8a6f6oez) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:00 | 2022-01-28 | 2022-07-29 |
 | [i found a diamond](https://open.spotify.com/track/3oRbkpNDMAIfwaLgWg6yco) | [Alex Cherney](https://open.spotify.com/artist/0MnGfy4FclSRUj9NnVKujd), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [i found a diamond](https://open.spotify.com/album/2DtOE3ffS4sZakYgD3VMIm) | 4:08 | 2023-06-30 | 2023-07-29 |
-| [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2024-11-08 |  |
+| [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 | 2024-11-08 | 2025-08-16 |
 | [I Like the Way You Love Me](https://open.spotify.com/track/1ENu4Hu1Rf45NxIde0X1rr) | [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM) | [I Like the Way You Love Me](https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR) | 2:26 | 2023-03-17 | 2023-06-24 |
 | [I Miss You \- Radio Edit](https://open.spotify.com/track/3qyZk0hMioN5kEMCPDPxzo) | [J.P\. Bimeni](https://open.spotify.com/artist/3CzQotBuoiDb8B9VAkh5fx), [The Black Belts](https://open.spotify.com/artist/0E2ByLJA2G0NMjQg0Dn8ct) | [Free Me](https://open.spotify.com/album/5I6bqE1FN7H0ecfdpz8lTY) | 3:19 | 2023-10-20 | 2025-08-02 |
 | [I Miss You Baby, Pt\. 1](https://open.spotify.com/track/3Jf2y674Wnhjz2RwPRsp84) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Miss You Baby, Pt\. 1](https://open.spotify.com/album/46INZCbg8BTR4f66KzhzHF) | 4:04 | 2022-08-26 | 2022-09-24 |
@@ -438,6 +438,7 @@
 | [Street People](https://open.spotify.com/track/39n0HaRNVVxtvINVdivQwH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Street People](https://open.spotify.com/album/15NOultLFQgFoZyYLfy8hM) | 5:52 | 2024-03-01 | 2024-04-27 |
 | [Stretch Out](https://open.spotify.com/track/73H3Vjx7PtC6ntVr3F1rRU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stretch Out](https://open.spotify.com/album/02hSfOu0sNbuWlh8lxEQ4e) | 3:10 | 2023-09-01 | 2025-05-03 |
 | [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 | 2024-09-20 |  |
+| [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 | 2025-08-15 |  |
 | [Sun Go Down](https://open.spotify.com/track/6UJThOHpnTSWu583jJ4dbo) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Lazy Days](https://open.spotify.com/album/3dsG1JN1wE7XL5DLuWNKk5) | 3:42 | 2021-07-09 | 2023-01-28 |
 | [Sunny And Warm](https://open.spotify.com/track/12I7wlvWuPvMXHJxwfA68l) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Sunny And Warm](https://open.spotify.com/album/56zBru86m6LhGmC0heS1s8) | 3:25 | 2021-07-16 | 2022-07-26 |
 | [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2021-07-09 | 2023-01-28 |

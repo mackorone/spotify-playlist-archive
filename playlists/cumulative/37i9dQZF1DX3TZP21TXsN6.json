@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: Karma K, FOCUS, Pierrii en meer...",
+  "description": "Nieuw: TYCH, Brunzyn, Getit en meer...",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Omdat Het Kan",
+        "url": "https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6"
+      },
+      "artists": [
+        {
+          "name": "Getit",
+          "url": "https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Hoogwater",
+      "url": "https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz"
+    },
+    {
+      "album": {
         "name": "Huismuziek",
         "url": "https://open.spotify.com/album/0oB2M2lgv9YK4X2eRRmYk7"
       },
@@ -1438,24 +1456,6 @@
       "duration_ms": 162259,
       "name": "These Dayz",
       "url": "https://open.spotify.com/track/6RTkAAd7wTqLZunCzUIjwi"
-    },
-    {
-      "album": {
-        "name": "Omdat Het Kan",
-        "url": "https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6"
-      },
-      "artists": [
-        {
-          "name": "Getit",
-          "url": "https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I"
-        }
-      ],
-      "date_added": "2025-08-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz"
     },
     {
       "album": {

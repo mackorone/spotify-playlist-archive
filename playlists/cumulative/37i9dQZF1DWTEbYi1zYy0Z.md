@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-518 songs - 1 day 12 hr 36 min
+519 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Flow](https://open.spotify.com/track/36tUynQfikBMxs8CzHUWJ7) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg), [Mike "Big Mike" Hart](https://open.spotify.com/artist/0w8zYoQhaEgTicuoFKpCYV) | [Flow](https://open.spotify.com/album/4L2cWfX8037pnNrUsPzCnk) | 3:06 | 2025-05-09 | 2025-06-14 |
 | [Fluid](https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Fluid](https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH) | 4:25 | 2021-01-22 | 2022-03-18 |
 | [Fly By](https://open.spotify.com/track/0oNPCOuuS2RzBgFgJX8kdt) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Unstoppable](https://open.spotify.com/album/3yzAabPvqBDSnN1vBe3RQY) | 4:15 | 2024-03-22 |  |
+| [Follow Me](https://open.spotify.com/track/0KEal3l75K6hENtwBw9J5g) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg) | [Follow Me](https://open.spotify.com/album/0OYKPxMZIhDnusBbGdhtJx) | 4:26 | 2025-08-15 |  |
 | [Foolish Heart](https://open.spotify.com/track/2GYcLZuDL2u26oqwYILFTk) | [Johnny "Dr\. J" James](https://open.spotify.com/artist/7bZOiRuWfaU6RMAxz1XqsR), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Foolish Heart](https://open.spotify.com/album/5cUUrej4rYW0RjDH6zNsxO) | 3:37 | 2022-03-04 | 2022-07-29 |
 | [Foolish Heart](https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq) | [Johnny James Dr J](https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ) | [Foolish Heart](https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj) | 3:37 | 2022-03-04 | 2023-08-05 |
 | [For The Cool In You](https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Promise](https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p) | 4:29 | 2023-03-17 | 2024-04-19 |
@@ -192,7 +193,7 @@
 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 | 2022-05-20 | 2024-01-06 |
 | [Grass\-Fed Funk](https://open.spotify.com/track/0snsRf7lSLTEvDxoGjSjP8) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grass\-Fed Funk](https://open.spotify.com/album/6HrgzDHYrshIlEglpxaoJj) | 5:06 | 2024-04-12 | 2024-05-11 |
 | [Grass\-Fed Funk \(feat\. Marcus Anderson\)](https://open.spotify.com/track/3kKW85fudYfR3NT4Fwp9Fg) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grass\-Fed Funk \(feat\. Marcus Anderson\)](https://open.spotify.com/album/3Galo1stQ6Ks8SS1t91n3I) | 5:06 | 2024-04-12 | 2024-04-19 |
-| [Gratified](https://open.spotify.com/track/5JLFIvCjxQOMmFyOdykNaG) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Gratified](https://open.spotify.com/album/2UdylqKANahv1rrHSStfxU) | 4:35 | 2025-03-14 |  |
+| [Gratified](https://open.spotify.com/track/5JLFIvCjxQOMmFyOdykNaG) | [Julian Vaughn](https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg), [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Gratified](https://open.spotify.com/album/2UdylqKANahv1rrHSStfxU) | 4:35 | 2025-03-14 | 2025-08-16 |
 | [Groove Factor](https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:14 | 2023-04-28 | 2024-04-19 |
 | [Groove Factor](https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF) | 5:14 | 2023-04-28 | 2025-05-24 |
 | [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 | 2023-07-31 |

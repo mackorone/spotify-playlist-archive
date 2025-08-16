@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: ziproom, JUMADIBA
 
-1,868 songs - 3 day 22 hr 50 min
+1,869 songs - 3 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Made in Japan \(feat\. ¥ellow Bucks & JP THE WAVY\)](https://open.spotify.com/track/3AR0kqkUIOqOs1kHnKEltp) | [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [VINNY](https://open.spotify.com/album/7vweI3qVBBFyAJ8mQ1I1nZ) | 4:07 | 2025-04-29 | 2025-05-14 |
 | [Madrugada](https://open.spotify.com/track/3lBiEWTJORoGmf3R3Scg3q) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [DamnBoush](https://open.spotify.com/artist/0n3VzH6YmmbajUKdnHiCqP) | [Madrugada](https://open.spotify.com/album/0SIqkifcfWB4qXlThsRkAt) | 4:26 | 2024-07-23 | 2024-08-14 |
 | [Magic Hour](https://open.spotify.com/track/5nePUc9XXUmpwMqkt8oKyK) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [X\-FACTOR 3](https://open.spotify.com/album/5KnOyCLJHa2Tag5kZYUk1v) | 3:16 | 2025-01-30 | 2025-03-12 |
+| [Magic Hour \(feat\. DALU\)](https://open.spotify.com/track/1aBEK2s5OJ8DFhE7WTX3nX) | [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm) | [Magic Hour \(feat\. DALU\)](https://open.spotify.com/album/0tdPg7FxXDQGBDC1C4phaN) | 3:41 | 2025-08-15 |  |
 | [Main Job \(feat\. Gottz & MUD\)](https://open.spotify.com/track/2uU6FXiZNXg7FfUp65hc6t) | [Gottz ＆ MUD](https://open.spotify.com/artist/3Ieu7FyYG3wYUb4NB2abjg), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Main Job \(feat\. Gottz & MUD\)](https://open.spotify.com/album/3nCJgTTy7OAdZLT2ZhrZY4) | 2:51 | 2025-05-30 | 2025-07-16 |
 | [maishu](https://open.spotify.com/track/296XikdDKnR4a9DBNGOZJj) | [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ), [Puckafall](https://open.spotify.com/artist/4sk5D1u9uIWDjupHAdxjwg) | [maishu](https://open.spotify.com/album/7HxkU8qMo9tMUOUhcf6Sww) | 2:46 | 2025-04-29 | 2025-06-18 |
 | [MaisonDe Summer Boogie](https://open.spotify.com/track/5kCccGvQafWWvtTkAA2Rp2) | [MaisonDe](https://open.spotify.com/artist/3iJc8ZDkeB2gV3gNSugy5P), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Taiyoh](https://open.spotify.com/artist/6hT6jq5757GgRKLuPi2g4h) | [MaisonDe Summer Boogie](https://open.spotify.com/album/0N5SkqXCjuk9kStojEnHwh) | 1:57 | 2025-06-20 | 2025-07-16 |

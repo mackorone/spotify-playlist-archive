@@ -856,7 +856,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 184634,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/3SmgPYIvylEkKBwIDRzC7l"
@@ -8112,7 +8112,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 132444,
       "name": "easy",
       "url": "https://open.spotify.com/track/3IaiBk51hqgCSuwEdRKPdz"
@@ -28767,6 +28767,24 @@
     },
     {
       "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/3a5ukvh0q48ui5MZ7pJ6Ox"
       },
@@ -34354,7 +34372,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 256913,
       "name": "Walk You Home",
       "url": "https://open.spotify.com/track/0pQLATJZDRlQzAb4Wzq46G"

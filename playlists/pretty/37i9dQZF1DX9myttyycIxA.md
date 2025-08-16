@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Sex Week
+> Underground indie rock gems\. Cover: Pool Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,138 likes - 122 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,135 likes - 122 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 121 | [Mountain](https://open.spotify.com/track/2L2gjXyR49y51IyBz7wKvl) | [Cryogeyser](https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Mountain](https://open.spotify.com/album/4e0AsgwbmUBQhy92uMUZfv) | 2:59 |
 | 122 | [Funny](https://open.spotify.com/track/1NjQvWlo2JxKc4ST0hJdxZ) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Funny](https://open.spotify.com/album/5EZn9ph9YN8zbioYjNrMmm) | 3:57 |
 
-Snapshot ID: `AAAAADwl0lHrPysxVv9NJFh1QX7Fnj9u`
+Snapshot ID: `AAAAAP1ixFnI2yD27LGcB5OiiNrMSe+D`

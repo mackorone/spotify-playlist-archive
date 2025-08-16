@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,326 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,343 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Baaygo Baaygo](https://open.spotify.com/track/5Hwba9pAPtFKrEPsupYmvM) | [Ajay](https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH), [Atul Gogavale](https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob) | [Ringa Ringa](https://open.spotify.com/album/0unnoqFH7KO7kXaDV68BvL) | 4:32 |
 | 43 | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/track/0P7QtX3D8lw9Ws8zy1SaTn) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3) | [Aapli Yaari \(feat\. Adarsh Shinde & Sonali Sonawane\)](https://open.spotify.com/album/7hnkrHkIiLVtgg67fR0NG4) | 4:54 |
 
-Snapshot ID: `AAAAAONWNMVnsD6TwJGSD20ZB9+IsoOu`
+Snapshot ID: `AAAAAKOrAIxKk9bPGPHTSf5TKDGvNdyW`

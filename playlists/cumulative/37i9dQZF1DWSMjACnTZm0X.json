@@ -8865,32 +8865,6 @@
     },
     {
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4"
-      },
-      "artists": [
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        },
-        {
-          "name": "Billnass",
-          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
-        },
-        {
-          "name": "Dj Awakening",
-          "url": "https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d"
-        }
-      ],
-      "date_added": "2025-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/08gKu7H4TZf3SJchIq1ymK"
-    },
-    {
-      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -9112,6 +9086,32 @@
       "duration_ms": 437787,
       "name": "Uyaphapha Marn (feat. Scotts Maphuma & Kabelo Sings)",
       "url": "https://open.spotify.com/track/1F3J7D5byxTWbEyhpizptk"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4"
+      },
+      "artists": [
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        },
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Dj Awakening",
+          "url": "https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182654,
+      "name": "V.I.P. (feat. Billnass & DJ Awakening)",
+      "url": "https://open.spotify.com/track/08gKu7H4TZf3SJchIq1ymK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-202 songs - 11 hr 1 min
+204 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 | 2024-12-05 |
 | [Buih Jadi Permadani](https://open.spotify.com/track/5HjUZ1cxdN4hrmdsXACNUw) | [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij), [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Buih Jadi Permadani](https://open.spotify.com/album/0Ln5cqHxEjFcHGe7PqIgju) | 6:01 | 2024-11-28 | 2024-12-05 |
 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 | 2025-04-15 |  |
+| [bulletproof](https://open.spotify.com/track/70cDc1svNtvagHkzNtWj97) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [bulletproof](https://open.spotify.com/album/3WmUjPOiCEdQTdSHorxncI) | 2:34 | 2025-08-15 |  |
 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 | 2024-06-27 | 2025-04-16 |
 | [BUSSDOWN](https://open.spotify.com/track/1ysZrTXCyxKWherTLuYZDr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [JOEK](https://open.spotify.com/artist/7uGX423vQ21F0GrjCI7fvu) | [BUSSDOWN](https://open.spotify.com/album/12nyRS91N6oD8DgXuRg50H) | 2:42 | 2024-06-27 | 2024-12-05 |
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-22 | 2024-12-05 |
@@ -114,6 +115,7 @@
 | [leftover feelings](https://open.spotify.com/track/4Q6GXGl5DcW5w615iSiUjf) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [leftover feelings](https://open.spotify.com/album/30nGunlYKukm79Nq7XbNnC) | 5:23 | 2024-06-27 | 2024-12-05 |
 | [leftover feelings](https://open.spotify.com/track/4WVVkyq96BDHm4MgVKYbGK) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 5:23 | 2024-12-04 | 2025-04-16 |
 | [LESSONS](https://open.spotify.com/track/4e6BzRekPHuGyVzWsVdKUX) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 4:28 | 2025-04-15 |  |
+| [Lifetime Subscription](https://open.spotify.com/track/1CKLRj9zh6P5QHbMUDLHFV) | [Penelope](https://open.spotify.com/artist/4pmdWxcPYV8NkfuMmL7Ubu), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lifetime Subscription](https://open.spotify.com/album/7q6BO3xnbzYbtGqEJ9cDdt) | 3:07 | 2025-08-15 |  |
 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 | 2024-10-10 | 2024-12-05 |
 | [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 | 2025-07-31 |  |
 | [LOSING FEELINGS](https://open.spotify.com/track/7bKeqLu2NQOME2TnwkoKmS) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT) | [LOSING FEELINGS](https://open.spotify.com/album/1oo63K1kPBISER5tXwlBr1) | 2:05 | 2025-04-15 |  |

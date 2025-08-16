@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Nesk Only
 
-493 songs - 1 day 1 hr 22 min
+494 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Fiquei Rico](https://open.spotify.com/track/3cHrklJmf2X5eaIgD1q8ik) | [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7), [Curioso Beats](https://open.spotify.com/artist/6yKGxz1NyKpjxh4jAkbU4u) | [Parecido \(Deluxe\)](https://open.spotify.com/album/7kULMw8Url9Fx5KOWVxRQh) | 2:08 | 2023-01-13 | 2023-03-25 |
 | [Firme](https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw) | [Fe Ribeiro](https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX), [Ty Fig](https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S) | [Firme](https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI) | 2:36 | 2024-08-23 |  |
 | [Flame](https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Flame](https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4) | 3:17 | 2025-08-01 |  |
-| [Flechas](https://open.spotify.com/track/66Vldh0uYt8nnfHcTJ0LnT) | [Neyriellen Ferreira](https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl) | [Flechas](https://open.spotify.com/album/1Xl0kC5u88lK2gs3LkYaTz) | 2:52 | 2025-06-13 |  |
+| [Flechas](https://open.spotify.com/track/66Vldh0uYt8nnfHcTJ0LnT) | [Neyriellen Ferreira](https://open.spotify.com/artist/0FhGKwqvB6mvHxJB2n3fYl) | [Flechas](https://open.spotify.com/album/1Xl0kC5u88lK2gs3LkYaTz) | 2:52 | 2025-06-13 | 2025-08-16 |
 | [Flow 021](https://open.spotify.com/track/2PkulRyJcqFkgHv4mwuzcx) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y), [Dima](https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih) | [Flow 021](https://open.spotify.com/album/1tUxrtzGIWi9x0JvZUMI7v) | 3:00 | 2024-10-25 | 2024-11-22 |
 | [Flow André Valadão](https://open.spotify.com/track/0QS8rdbrzHgk9OojEpouXP) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Teólogo Latino](https://open.spotify.com/artist/0wQutIhJcYPXhINS00dopp) | [Flow André Valadão](https://open.spotify.com/album/5dyZzkL5isNZnvJShBPJ6r) | 3:56 | 2022-04-01 | 2022-04-27 |
 | [FLOW ISADORA POMPEO](https://open.spotify.com/track/1v3Gr65M8szE3ySn9gqsaD) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [DG Beatz](https://open.spotify.com/artist/0PrH9vTBeW7zwwrwykDKOR) | [FLOW ISADORA POMPEO](https://open.spotify.com/album/67h5O3D5HHmSYbYsGQfSUl) | 2:16 | 2024-06-28 | 2024-08-17 |
@@ -278,6 +278,7 @@
 | [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 | 2023-07-07 |  |
 | [Meu Sonho](https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Meu Sonho](https://open.spotify.com/album/2uol5nnCAv9RHeadO2TRoJ) | 2:37 | 2024-05-24 | 2024-08-17 |
 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 | 2022-03-22 | 2023-02-25 |
+| [Momentos Difíceis](https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Momentos Difíceis](https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu) | 2:38 | 2025-08-15 |  |
 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 | 2022-03-22 | 2023-04-29 |
 | [Morada de Deus](https://open.spotify.com/track/14LYGtg9GRl16qB0EILfFB) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Morada de Deus](https://open.spotify.com/album/4TfiTRoOANsqNl8LdjWrpJ) | 3:43 | 2023-04-28 | 2023-09-09 |
 | [MORADIA](https://open.spotify.com/track/5BU7c2aD5wDoUg0vhY6zdn) | [BIG THE KIID](https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1), [borbabeatz](https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM) | [COLAPSO](https://open.spotify.com/album/3GbiPp0Xbi3yQNzC8WTENZ) | 3:02 | 2022-12-09 | 2023-02-25 |

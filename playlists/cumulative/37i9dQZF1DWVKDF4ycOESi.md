@@ -2,7 +2,7 @@
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Nuovi brani di Ethel Cain, Ed Sheeran, Don Joe, Rita Ora, Farruko e molti altri.
+> La playlist è in pausa, ci rivediamo venerdì 22 per le migliori nuove uscite delle due settimane precedenti!
 
 5,896 songs - 12 day 8 hr 36 min
 

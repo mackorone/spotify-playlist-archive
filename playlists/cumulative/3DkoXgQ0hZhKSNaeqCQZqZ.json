@@ -6321,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "SPOTS 2",
+        "url": "https://open.spotify.com/album/43rqwQewbnqPw1S8EUgOyC"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150930,
+      "name": "SPOTS 2",
+      "url": "https://open.spotify.com/track/4duDZn6Idgy9qH9Yl95pTs"
+    },
+    {
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5"
       },

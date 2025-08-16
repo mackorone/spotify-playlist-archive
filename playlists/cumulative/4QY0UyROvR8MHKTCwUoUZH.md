@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-96 songs - 5 hr 14 min
+99 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 | 2025-07-18 |  |
 | [ALL I EVER DO](https://open.spotify.com/track/4VPmNvFDBUoncOB3u6Ioc8) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [ALL I EVER DO](https://open.spotify.com/album/2heJmwKeBIDb8cBZsYAuFg) | 2:52 | 2025-07-18 |  |
 | [American Town](https://open.spotify.com/track/58oljhgRB2FFtF1l2v31QJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations \(Fan Living Room Sessions\)](https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA) | 3:17 | 2025-07-18 |  |
-| [Atlantis](https://open.spotify.com/track/3frjrXxQkPbIXLrfxQ0NzE) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Atlantis](https://open.spotify.com/album/3y01EIiIHvN4pTYsUX1L7s) | 3:00 | 2025-07-18 |  |
+| [Atlantis](https://open.spotify.com/track/3frjrXxQkPbIXLrfxQ0NzE) | [Sven Cilliers](https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI) | [Atlantis](https://open.spotify.com/album/3y01EIiIHvN4pTYsUX1L7s) | 3:00 | 2025-07-18 | 2025-08-16 |
 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-07-18 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-18 |  |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-07-18 |  |
@@ -25,6 +25,7 @@
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2025-07-18 |  |
 | [Catch 22](https://open.spotify.com/track/6PwQarviIfpD5dqUeGnf01) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Catch 22](https://open.spotify.com/album/1BpLEq3RV91FPE7TQd9WDv) | 3:17 | 2025-07-18 |  |
 | [Cincinnati Heart](https://open.spotify.com/track/4yqzPEy3QxniyBzWPm35WO) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Cincinnati Heart](https://open.spotify.com/album/7q4GSv2PuFyj0m7viXGEfS) | 2:51 | 2025-07-18 |  |
+| [Colorbars \(feat\. Chris Thile\)](https://open.spotify.com/track/3OY2R7N6anYFW5IND5Ekrj) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Colorbars \(feat\. Chris Thile\)](https://open.spotify.com/album/4tkOBq5HLmSXT18ufEUBM6) | 5:23 | 2025-08-15 |  |
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-07-18 |  |
 | [Crazy](https://open.spotify.com/track/4J96RsI1RWyl3KRTtJ9GLC) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/1UQXwn8i2zfy4e0KlbOq5g) | 3:10 | 2025-07-18 |  |
 | [danny don't](https://open.spotify.com/track/3PtMxHx8skkd05SSfBOgYk) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [danny don't](https://open.spotify.com/album/3ecARtzyeGy9gtmq3iqRuR) | 3:51 | 2025-07-18 |  |
@@ -67,7 +68,7 @@
 | [Medusa \(Acoustic\)](https://open.spotify.com/track/4MnYLHydHtkAF9CrIIcjHU) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa \(Acoustic\)](https://open.spotify.com/album/75qB8x7iB50qcq00Y5thmR) | 3:03 | 2025-07-18 |  |
 | [Need You More](https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:10 | 2025-07-18 |  |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-07-18 |  |
-| [Nobody Knows](https://open.spotify.com/track/0373dQ4sHzNCDlpLOn3wWK) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Nobody Knows](https://open.spotify.com/album/4Nt6FDNm0CcYKpgskKU2mu) | 3:14 | 2025-07-18 |  |
+| [Nobody Knows](https://open.spotify.com/track/0373dQ4sHzNCDlpLOn3wWK) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Nobody Knows](https://open.spotify.com/album/4Nt6FDNm0CcYKpgskKU2mu) | 3:14 | 2025-07-18 | 2025-08-16 |
 | [Oh, Appalachia](https://open.spotify.com/track/6Kb7peAoXd3IQKdjT4uDNG) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Oh, Appalachia](https://open.spotify.com/album/14uzkANP7JREy91akB99YV) | 3:06 | 2025-07-18 |  |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-07-18 |  |
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2025-07-18 |  |
@@ -86,6 +87,7 @@
 | [Somebody New](https://open.spotify.com/track/6kMuoz0iuzByKqjMYxIY7y) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/7nPAHt752Iqi3noSMr9YcW) | 2:52 | 2025-07-18 |  |
 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2025-07-18 |  |
 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 | 2025-08-08 |  |
+| [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2025-08-15 |  |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-07-18 |  |
 | [Still Love \- Acoustic](https://open.spotify.com/track/17WlwZjrDIUQaQAzZQFjVr) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love \(Acoustic\)](https://open.spotify.com/album/1YG1qbUceCNhWj6KfS0TQQ) | 3:09 | 2025-07-18 |  |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2025-07-18 |  |
@@ -98,8 +100,9 @@
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-07-18 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-07-18 |  |
 | [Vauxhall](https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Slowly, It Dawns](https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR) | 3:22 | 2025-07-18 |  |
-| [what are friends for?](https://open.spotify.com/track/2w2XDOLq812JhcXe4nL2lI) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what are friends for?](https://open.spotify.com/album/1lleZ7nqFgCsP6ySrObaMn) | 2:57 | 2025-07-18 |  |
+| [what are friends for?](https://open.spotify.com/track/2w2XDOLq812JhcXe4nL2lI) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [what are friends for?](https://open.spotify.com/album/1lleZ7nqFgCsP6ySrObaMn) | 2:57 | 2025-07-18 | 2025-08-16 |
 | [What’s on your mind?!](https://open.spotify.com/track/7zetTt73XEyvXy3xdq5gDs) | [Emmy d’Arc](https://open.spotify.com/artist/19ZNy5L0VBexChkhobSJ7o) | [What’s on your mind?!](https://open.spotify.com/album/400zMpudSCsm7wltCmspf3) | 3:38 | 2025-07-18 |  |
+| [Will I Ever Love Again \(feat\. Christina Barrett\)](https://open.spotify.com/track/6sKBBcC2A2LHQmu818UPdB) | [Blue Hue](https://open.spotify.com/artist/06Hn5bMvONssasZlSCJ7fU), [Christina Barrett](https://open.spotify.com/artist/0wCF391GJXKDyaKZcrvrEM) | [Birdsongs \(feat\. Christina Barrett\)](https://open.spotify.com/album/4ukEFrB5vzdV7UTnytGUgq) | 3:06 | 2025-08-15 |  |
 | [Wish I Never Met You](https://open.spotify.com/track/0fzCczqLzsWvvMobo1dUmy) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Wish I Never Met You](https://open.spotify.com/album/0XwXdmNgdSNC3eYojBIdsk) | 2:37 | 2025-07-18 |  |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2025-07-18 |  |
 | [Your New Favorite Song](https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your New Favorite Song](https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue) | 3:07 | 2025-07-18 |  |

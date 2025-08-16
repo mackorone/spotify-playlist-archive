@@ -4,7 +4,7 @@
 
 > If you're driving a car, flying a plane, or riding a bus \- these songs about transportation are for you.
 
-119 songs - 4 hr 14 min
+120 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Sounds](https://open.spotify.com/track/6yj1vDpJ2PzMxhQSaouJGX) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD) | 2:07 | 2019-10-29 | 2024-04-19 |
 | [Sounds](https://open.spotify.com/track/0aAXqjc8tNg3gZbcoXTEAz) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Thomas & Friends: All Star Tracks](https://open.spotify.com/album/0hUqrvAGI6uJYcHhZR0BoC) | 2:07 | 2019-10-29 |  |
 | [Sport Car Song](https://open.spotify.com/track/4TMq3QChrJnPWDbRPRXOU1) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl) | 2:07 | 2020-09-25 | 2024-04-19 |
-| [Sports Car Song](https://open.spotify.com/track/2ZNrzFZ2UK0yPPDSiXeQ2b) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an) | 2:07 | 2020-09-25 |  |
+| [Sports Car Song](https://open.spotify.com/track/2ZNrzFZ2UK0yPPDSiXeQ2b) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/1TbfXoVpPCMDp9PoBTm2an) | 2:07 | 2020-09-25 | 2025-08-16 |
 | [Standing On A Bus](https://open.spotify.com/track/4lUWNJm0MdomiaGdhRbpmG) | [Peter Combe](https://open.spotify.com/artist/0UrDI2pvxUUaSgkaSkcpjb) | [Toffee Apple](https://open.spotify.com/album/2OOJgkqqyQOTlVYOGGdka0) | 1:15 | 2019-10-29 | 2024-04-19 |
 | [Standing On A Bus](https://open.spotify.com/track/34oaVNRhUmhyxSugKzDz66) | [Peter Combe](https://open.spotify.com/artist/0UrDI2pvxUUaSgkaSkcpjb) | [Moovy Groovy Songs](https://open.spotify.com/album/6KqBKIIjGONdtMpqnImcKO) | 1:16 | 2019-10-29 |  |
 | [Street Sweeper](https://open.spotify.com/track/00rrWEJGAPjIX7CuIcpuEw) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 4: Vehicles](https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl) | 1:59 | 2020-09-25 | 2024-04-19 |
@@ -105,6 +105,7 @@
 | [The Little Engine That Could](https://open.spotify.com/track/6AKV1f4Q4xyLu5uUDvd96A) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [All Aboard!](https://open.spotify.com/album/75ChgvAlfFOk9145qwMzD6) | 2:34 | 2019-10-29 |  |
 | [The Subway Shake](https://open.spotify.com/track/4UjWHUGzJUZoCuQCMElVdb) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 1:59 | 2020-04-16 |  |
 | [The Train Song](https://open.spotify.com/track/2Wrypv1iEhQh38P4aopPKH) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [The Train Song](https://open.spotify.com/album/3qf4Ji7FSqNYrocrrqCD0K) | 2:49 | 2025-01-17 |  |
+| [The Ultimate Vehicle Song](https://open.spotify.com/track/1bvuvzQRXdnFui6lQToxu3) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Be Like Blippi](https://open.spotify.com/album/5Larw4PyF2wT5goQYwMi4X) | 2:17 | 2025-08-15 |  |
 | [Tractors Song](https://open.spotify.com/track/5EOPDGIz7vHmfhxHjfW2hX) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Fun Vehicle Songs for Children! Learn about Transport with LittleBabyBum](https://open.spotify.com/album/1pXeFG7PI0rfUhL5hwkuIj) | 1:43 | 2019-10-29 | 2024-04-19 |
 | [Tractors Song](https://open.spotify.com/track/644uvcDlBvvCS97wCuEgWt) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Farm Animal Fun!](https://open.spotify.com/album/5qSfTzM1O5GwQkK3cRGtsH) | 1:43 | 2019-10-29 | 2022-11-14 |
 | [Tractors Song](https://open.spotify.com/track/7K4Ye9DJpb4tAEBiVzmu84) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol 1](https://open.spotify.com/album/6M4hu1ubzcihIDsAZFnlFX) | 1:43 | 2019-10-29 |  |

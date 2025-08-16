@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "the best new metalcore. where brutality and technicality collide. Cover: Wind Walkers",
+  "description": "the best new metalcore. where brutality and technicality collide. Cover: Fit For A King",
   "name": "The Core",
   "tracks": [
     {
@@ -8628,7 +8628,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 245979,
       "name": "Forever Aligned",
       "url": "https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx"
@@ -8960,7 +8960,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 229546,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK"
@@ -15957,6 +15957,24 @@
     },
     {
       "album": {
+        "name": "Parting Ways",
+        "url": "https://open.spotify.com/album/0lQzY4FbjBmUeOWceO268U"
+      },
+      "artists": [
+        {
+          "name": "Adept",
+          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298797,
+      "name": "Parting Ways",
+      "url": "https://open.spotify.com/track/02z82YXVP6bQlIUt7r3gK5"
+    },
+    {
+      "album": {
         "name": "This place only brings death",
         "url": "https://open.spotify.com/album/5bds0LlgCaYsvAscrK1HQ0"
       },
@@ -16477,6 +16495,28 @@
     },
     {
       "album": {
+        "name": "Push Me Away (feat. Landon Tewers)",
+        "url": "https://open.spotify.com/album/5UwXaYF0ZxpyIvEtiitDt1"
+      },
+      "artists": [
+        {
+          "name": "Acres",
+          "url": "https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD"
+        },
+        {
+          "name": "Landon Tewers",
+          "url": "https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202956,
+      "name": "Push Me Away (feat. Landon Tewers)",
+      "url": "https://open.spotify.com/track/2SOG2JS0yX7WTQuULoZMrn"
+    },
+    {
+      "album": {
         "name": "Pushing The Pink Envelope",
         "url": "https://open.spotify.com/album/5o0XYoeBMFq6zeyADEfBqU"
       },
@@ -16604,7 +16644,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 177187,
       "name": "RAIN",
       "url": "https://open.spotify.com/track/7jvtwjcmvwRvRizkgIJdqA"
@@ -18252,7 +18292,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 208274,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0"
@@ -18984,6 +19024,28 @@
       "duration_ms": 225277,
       "name": "Solace in Suffer",
       "url": "https://open.spotify.com/track/0q1Mg3WITHYJNWzqrmMPp1"
+    },
+    {
+      "album": {
+        "name": "Solara",
+        "url": "https://open.spotify.com/album/0mukLdYTkQhAOs4PkL7a9b"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        },
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "Solara",
+      "url": "https://open.spotify.com/track/201IWB7RX6rP68IeM22FxM"
     },
     {
       "album": {
@@ -23778,6 +23840,24 @@
       "duration_ms": 204000,
       "name": "Wildfires",
       "url": "https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm"
+    },
+    {
+      "album": {
+        "name": "Wish You The Worst",
+        "url": "https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186837,
+      "name": "Wish You The Worst",
+      "url": "https://open.spotify.com/track/5bP9loKqIou1QjTpjBD4x7"
     },
     {
       "album": {

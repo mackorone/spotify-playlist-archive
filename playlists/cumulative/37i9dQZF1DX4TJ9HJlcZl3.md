@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-126 songs - 7 hr 51 min
+127 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Better Than Ever](https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Away From The Castle](https://open.spotify.com/album/2QbX68So8TZjAmUzpvmt6R) | 3:56 | 2023-09-08 | 2024-04-19 |
 | [Big Brown Eyes](https://open.spotify.com/track/3lRDE6JZRfstK9mWig5oaf) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 4:11 | 2022-10-21 | 2023-01-14 |
 | [Big Dipper](https://open.spotify.com/track/3dH6J7zTb9v1M3zV4Aimvr) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Big Dipper](https://open.spotify.com/album/08xdtJQENlsg6GD8NHnFOJ) | 3:08 | 2025-02-07 | 2025-03-08 |
+| [Catching Bodies](https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Catching Bodies](https://open.spotify.com/album/5xktIJwrny2WstcXimkvTN) | 3:06 | 2025-08-15 |  |
 | [Cheeky](https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Cheeky](https://open.spotify.com/album/25CyID8DgntGUEhcfK4kUk) | 2:39 | 2024-01-19 |  |
 | [CHIVALRY IS DEAD](https://open.spotify.com/track/48KAjFkydsuZHkG7ftt8GW) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [CHIVALRY IS DEAD](https://open.spotify.com/album/7L4qkkUL8dr979LA7hzV9W) | 3:03 | 2023-10-13 |  |
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2022-10-21 | 2024-06-29 |
@@ -55,7 +56,7 @@
 | [In Real Life](https://open.spotify.com/track/2pGj2JONrsGJwGqCbzw8aC) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/album/2yImgiwCG9KZnxzgulVthl) | 2:57 | 2025-03-07 |  |
 | [It Will Come In Time](https://open.spotify.com/track/2eqocLN1rW8h10svumB8wd) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [It Will Come In Time](https://open.spotify.com/album/3kUX1L10eOj1lSuwrfk9PM) | 2:53 | 2022-10-21 | 2022-10-29 |
 | [Just My Type](https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7) | [Swoodeasu](https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD), [TSUYO](https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW) | [Just My Type](https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W) | 3:20 | 2023-09-08 |  |
-| [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu), [Salem Lee](https://open.spotify.com/artist/1u5Wv2X6keaZkjxIUNxyf6) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 | 2023-01-06 |  |
+| [Kenny Blues](https://open.spotify.com/track/1XniHNy9PvQSBj9xUtUMw0) | [Rubber Band](https://open.spotify.com/artist/2XHnoChNd8VueTILbmnOlu), [Salem Lee](https://open.spotify.com/artist/1u5Wv2X6keaZkjxIUNxyf6) | [Kenny Blues](https://open.spotify.com/album/4Srn0HSrvlC9XuElk3izQT) | 3:08 | 2023-01-06 | 2025-08-16 |
 | [Konichiwa](https://open.spotify.com/track/5qY5MMXsrlCmYj9X4qKqBX) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [The Don](https://open.spotify.com/album/0drE0Xqo5yrSPirL3edUuX) | 4:37 | 2022-10-21 |  |
 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 | 2022-10-21 | 2023-05-27 |
 | [Le Parapluie](https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Le Parapluie](https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR) | 4:07 | 2023-04-28 |  |

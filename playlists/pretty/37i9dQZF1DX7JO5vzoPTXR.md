@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: Nova Wav <a href="spotify:playlist:37i9dQZF1EFMzqILIGFdfQ"> \(Denisia "Blu June" Andrews </a> & <a href="spotify:playlist:37i9dQZF1EFL1iJRmGqdtT"> Brittany "Chi" Coney\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,351 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,361 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Reza y Reza](https://open.spotify.com/track/5tPd32WlspSYjEZOyc3HAs) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:52 |
 | 50 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 |
 
-Snapshot ID: `AAAAAEf+QUsEbnAKwVuK0bRFZ8oIbPoj`
+Snapshot ID: `AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK`

@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Tyler Nance
+> Top trending country tracks from the last few months\. Cover: Marshmello and Jelly Roll
 
 576 songs - 1 day 7 hr 1 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Tyler Watts
+> late night vibes – notifications off\. cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,870 likes - 182 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,920 likes - 182 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 181 | [Bad Bchs](https://open.spotify.com/track/5LyklsZHoMhct1WaX7DGhV) | [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp) | [Bad Bchs](https://open.spotify.com/album/1T1T3ftHa3uSa2CISNnIaD) | 2:38 |
 | 182 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 |
 
-Snapshot ID: `AAAAAMaF+AIQpxpRo29nw59FZA6BK4FK`
+Snapshot ID: `AAAAAPISv+U0IvimErDVGVIY7j+mRHNZ`

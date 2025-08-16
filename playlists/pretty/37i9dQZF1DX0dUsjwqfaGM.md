@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,081 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,082 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 9 | [Vui Đét](https://open.spotify.com/track/5e1kUuII1bqgwu8fjuFNxE) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [Duy B](https://open.spotify.com/artist/5PMctPa8RxN3yzRVm93SI0), [Trix](https://open.spotify.com/artist/6n5eDbbT3ErAGFipwc9DEg) | [Vui Đét](https://open.spotify.com/album/6UmKSgtvHaQ62A2LHDQyuB) | 3:12 |
 | 10 | [Gentle Bad](https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:56 |
 | 11 | [Buộc Vào Cơn Gió](https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 3:38 |
-| 12 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
+| 12 | [Cho phép tôi mời anh một ly](https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 2:58 |
 | 13 | [Chờ Chia Tay](https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:06 |
 | 14 | [Ảo Giác](https://open.spotify.com/track/4IkYjqZKEaSpS88OoI2BVM) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [Ảo Giác](https://open.spotify.com/album/1S3i3m9hH5ilHb2RP2XWwp) | 2:41 |
 | 15 | [CÓ LẼ ANH](https://open.spotify.com/track/2UNdTmeZOycErIaIKeuZlh) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [CÓ LẼ ANH](https://open.spotify.com/album/0j4xZa2YuuNfWP7z5D2Ruj) | 2:59 |
 | 16 | [Cúc Hoạ Mi](https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:13 |
-| 17 | [Cho phép tôi mời anh một ly](https://open.spotify.com/track/4XP59vzJsW9CRptktJqEwA) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 2:58 |
+| 17 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
 | 18 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
 | 19 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |
 | 20 | [Emotion](https://open.spotify.com/track/2A1bhm6a6Na7dkP3c83OVt) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:06 |

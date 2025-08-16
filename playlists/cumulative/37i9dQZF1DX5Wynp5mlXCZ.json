@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 237778,
       "name": "Alleys of My Mind",
       "url": "https://open.spotify.com/track/0bgt662yW0WgqgKvwiDVZQ"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 158095,
       "name": "Fight For Life",
       "url": "https://open.spotify.com/track/3lDBo8CXgQQyEfFqK6JWWF"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 195328,
       "name": "Is This Really Love?",
       "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Manuscript",
+        "url": "https://open.spotify.com/album/2UFEgo5YwtYx502nAOv1z2"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Manuscript",
+      "url": "https://open.spotify.com/track/19uuIw82xrHu7afEOddYiI"
+    },
+    {
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -2226,6 +2244,24 @@
       "duration_ms": 179055,
       "name": "Messy (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
+    },
+    {
+      "album": {
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/34ePrRcSKMbg0oshvKitV3"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172766,
+      "name": "MINE",
+      "url": "https://open.spotify.com/track/5VGwXtLOgMWnAwDPf3enFT"
     },
     {
       "album": {
@@ -5528,7 +5564,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 186666,
       "name": "\u041b\u0456\u0440\u0438\u043a\u0430 \u041b\u044e\u0431\u043e\u0432\u0456",
       "url": "https://open.spotify.com/track/2N9NcJPlSAkkf6Ej6CNcny"
@@ -5941,6 +5977,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0430\u0435\u043b\u0435\u043a\u0442\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/4fhEGt4fOobPmROeLmKfs0"
+      },
+      "artists": [
+        {
+          "name": "LAUD",
+          "url": "https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u041d\u0430\u0435\u043b\u0435\u043a\u0442\u0440\u0438\u0437\u043e\u0432\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/2bpmPhRX5OCvn7vtV4GJH2"
+    },
+    {
+      "album": {
         "name": "\u041d\u0430\u0437\u0430\u0432\u0436\u0434\u0438",
         "url": "https://open.spotify.com/album/0CNkkOjeQweARbqPeHvTzD"
       },
@@ -6188,6 +6242,28 @@
       "duration_ms": 124787,
       "name": "\u043e\u0434\u043d\u0430 \u043d\u0430 \u043c\u0456\u043b\u044c\u0439\u043e\u043d",
       "url": "https://open.spotify.com/track/5VKJufULN74JETARDItgue"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0434\u0456\u0441\u0441\u0435\u044f",
+        "url": "https://open.spotify.com/album/6Z1HGWBLIJaE5EluFv7rcd"
+      },
+      "artists": [
+        {
+          "name": "TVORCHI",
+          "url": "https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5"
+        },
+        {
+          "name": "The Maneken",
+          "url": "https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "\u041e\u0434\u0456\u0441\u0441\u0435\u044f",
+      "url": "https://open.spotify.com/track/2vj3T8bFc0YGgv4Sut9eSS"
     },
     {
       "album": {
@@ -6737,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "\u0441\u0442\u0456\u043a",
+        "url": "https://open.spotify.com/album/1gZAPxbywA9bfxJTPLzr7f"
+      },
+      "artists": [
+        {
+          "name": "M1SHKA",
+          "url": "https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "\u0441\u0442\u0456\u043a",
+      "url": "https://open.spotify.com/track/5qmqtLN4Qh79sRRB1TStfW"
+    },
+    {
+      "album": {
         "name": "\u0421\u043e\u043d\u044c, \u0442\u0438 \u0441\u043f\u0438\u0448?",
         "url": "https://open.spotify.com/album/5SOprLKOOiyW248WNOnf9d"
       },
@@ -6962,7 +7056,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 162782,
       "name": "\u0422\u0438 \u043b\u0438\u0445\u0430",
       "url": "https://open.spotify.com/track/2nf6UI96SAnltWFZJzzDtz"

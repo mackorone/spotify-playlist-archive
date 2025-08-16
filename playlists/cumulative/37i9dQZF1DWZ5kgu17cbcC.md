@@ -4,12 +4,13 @@
 
 > Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-163 songs - 7 hr 53 min
+164 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day In The Life \- Remastered 2009](https://open.spotify.com/track/0hKRSZhUGEhKU6aNSPBACZ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 5:37 | 2024-01-05 | 2024-07-03 |
 | [A Mother's Influence](https://open.spotify.com/track/5nnv5nci7rosFObNZVUVRq) | [Sion Trefor](https://open.spotify.com/artist/2a5yyDrTuWCLGXOIGLpnBt) | [Say Nothing \(Original Soundtrack\)](https://open.spotify.com/album/0GYiPIg7l2jDeM74lqlYjF) | 2:41 | 2024-11-15 |  |
+| [Alien \- Earth](https://open.spotify.com/track/7v5pjaMvpZ6TL3exjqQfrU) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Alien: Earth \(Original Soundtrack\)](https://open.spotify.com/album/29rW2ZaHjqfTtHN5CbZJIN) | 2:38 | 2025-08-15 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/10PM0z82JBTm34E0Jikpvm) | [Gabriel Mann](https://open.spotify.com/artist/33dnQjRlbxp0FzvlNpy50B) | [A Million Little Things: Season 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/49xVXnOn5JDk8C4bCThLEd) | 3:45 | 2025-05-06 |  |
 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 | 2024-01-05 | 2024-07-03 |
 | [Angel in Flip\-Flops \- From "Only Murders in the Building"](https://open.spotify.com/track/35a0b8D7gUMVCuaEB6uHRm) | [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih) | [Angel in Flip\-Flops \(From "Only Murders in the Building"\)](https://open.spotify.com/album/1goD29Bs4ws5F19FpgE5EL) | 1:58 | 2024-01-05 |  |

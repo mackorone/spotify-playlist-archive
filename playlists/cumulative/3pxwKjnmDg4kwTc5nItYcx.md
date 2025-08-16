@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-843 songs - 1 day 21 hr 16 min
+844 songs - 1 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 | 2023-06-23 |  |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-03-08 |  |
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-10-21 | 2022-11-14 |
+| [Running Home](https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Running Home](https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t) | 3:44 | 2025-08-15 |  |
 | [running in place](https://open.spotify.com/track/3bGJaTfUpcbSNeJgFdxI9s) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [running in place](https://open.spotify.com/album/5WohdQVT7eFimhNjlMeXt3) | 2:45 | 2021-04-28 | 2025-07-17 |
 | [Running On My Mind](https://open.spotify.com/track/0xEW9gPv5wNuS84pXGG3lc) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Running On My Mind](https://open.spotify.com/album/117stOgbjnRoJjARCJjADm) | 2:36 | 2020-05-29 | 2021-05-12 |
 | [Sabotage \(feat\. CHIKA\)](https://open.spotify.com/track/7mGNbYBInkLQwPHicUgWQ5) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Sabotage \(feat\. CHIKA\)](https://open.spotify.com/album/1EHJCMK3kqXhvkGSNOt4T9) | 3:44 | 2019-10-28 | 2020-02-12 |

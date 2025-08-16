@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Luis Alfonso
 
-222 songs - 12 hr 38 min
+223 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 | 2024-03-29 |  |
 | [Mañanita De Invierno \(feat\. Silvestre Dangond\)](https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz) | [Poncho Zuleta](https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Poncho Zuleta 45 Años](https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy) | 8:37 | 2022-08-18 |  |
 | [Me Enamoré](https://open.spotify.com/track/6yh4phrNduhMduSKHdW626) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Lo Más Importante Es El Amor](https://open.spotify.com/album/3RFzIXaLYrCxF7t8yqOC1R) | 2:57 | 2025-03-21 | 2025-05-31 |
+| [ME ENGAÑARON LOS DOS](https://open.spotify.com/track/6y3hRQeVYOAIjopk0mCm4D) | [Julian Daza](https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [ME ENGAÑARON LOS DOS](https://open.spotify.com/album/2rSNFyF3dVnLvjgwlTmae0) | 2:43 | 2025-08-15 |  |
 | [Me Llevó a la Luna](https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Me Llevó a la Luna](https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH) | 3:17 | 2022-08-18 |  |
 | [Me Tiene Pechichón](https://open.spotify.com/track/1nvXQOgTXYwHhDqpKiJA0e) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 4:01 | 2022-08-18 | 2023-02-04 |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-03 | 2023-08-26 |
@@ -172,7 +173,7 @@
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2023-02-03 | 2023-10-21 |
 | [Parchaito](https://open.spotify.com/track/0zLwep7GCH62x7LUrOtyQT) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [The Stallionz](https://open.spotify.com/artist/4ukBKliKfm0Uxnws7yCr24) | [Descriterio](https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p) | 2:23 | 2025-05-30 |  |
 | [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 | 2024-05-17 | 2024-07-27 |
-| [POR MI BIEN Y X TU BIEN](https://open.spotify.com/track/1ixIQXRPH0ZjrCcq13DIl1) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/album/72i69AiCrCe9e6PBh8zyoL) | 3:32 | 2025-06-06 |  |
+| [POR MI BIEN Y X TU BIEN](https://open.spotify.com/track/1ixIQXRPH0ZjrCcq13DIl1) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/album/72i69AiCrCe9e6PBh8zyoL) | 3:32 | 2025-06-06 | 2025-08-16 |
 | [Por un Beso de Tu Boca \- Versión Vallenato](https://open.spotify.com/track/0iNN906YaH34RzPhYrdLyv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Por un Beso de Tu Boca \(Versión Vallenato\)](https://open.spotify.com/album/0DX0n5Ee7NWxG8wxYwL57v) | 3:06 | 2022-08-18 | 2025-05-31 |
 | [Que Mal Te Ves Sin Mí](https://open.spotify.com/track/7zHo6F8N4z4SOl9eBmLqpn) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/36AXhk3xVtjYKGHhV4NfKu) | 3:17 | 2024-03-29 |  |
 | [Que Sea](https://open.spotify.com/track/3LBnikk8IS3TSBbVUn86eA) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 2:49 | 2022-08-18 | 2023-02-04 |

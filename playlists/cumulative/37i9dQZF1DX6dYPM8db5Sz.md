@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp?si=wPa4fuFbTQWgDlxyoBAMDg">Steve Lacy</a>
 
-1,369 songs - 3 day 6 hr 19 min
+1,370 songs - 3 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1352,6 +1352,7 @@
 | [Wyoming](https://open.spotify.com/track/2DpP3gfvXqyOroXWIREwxv) | [NIRESAN](https://open.spotify.com/artist/4icnMO2iFmNmeImB5mDFFI) | [Wyoming](https://open.spotify.com/album/60hOYamHX7vgT2glXYFmbm) | 2:45 | 2023-05-05 | 2023-05-12 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-11 | 2024-08-16 |
 | [y3llow bike](https://open.spotify.com/track/4vo4KkMSWRQCD7xpufEHdU) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [y3llow bike](https://open.spotify.com/album/2BbTCbIU80QgpujEbHHDNA) | 2:54 | 2025-06-26 | 2025-07-11 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-14 |  |
 | [Yamaha Dreaming](https://open.spotify.com/track/22uQRcmyl1txDgfznXAOEu) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 3:23 | 2025-07-17 | 2025-08-10 |
 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-06 | 2025-04-19 |
 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 | 2025-04-10 | 2025-06-16 |

@@ -2,7 +2,7 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Wolf Alice along with the hottest alternative songs right now.
+> The Temper Trap along with the hottest alternative songs right now.
 
 904 songs - 2 day 3 hr 14 min
 

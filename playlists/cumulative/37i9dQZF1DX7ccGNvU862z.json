@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Saran",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The BESTS",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -351,6 +351,28 @@
     },
     {
       "album": {
+        "name": "ALL THE NIGHT",
+        "url": "https://open.spotify.com/album/3e2vLBbCsVPJA7rwdufsJi"
+      },
+      "artists": [
+        {
+          "name": "9frvme",
+          "url": "https://open.spotify.com/artist/2FAg1ZIIqwiAV95dk4QYLA"
+        },
+        {
+          "name": "WRP",
+          "url": "https://open.spotify.com/artist/4aUTVa6ZWuQZjqpCf1wMHf"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "ALL THE NIGHT",
+      "url": "https://open.spotify.com/track/5scPARiobpyP6hNPtXzv3y"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/1PbwgHvgCZdP5EiSrbTMob"
       },
@@ -545,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Bali",
+        "url": "https://open.spotify.com/album/36sJ8gvs8SZRyMAWec8Xun"
+      },
+      "artists": [
+        {
+          "name": "IRONBOY",
+          "url": "https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102461,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4dg3peJ7J2sanlkyOCw7tf"
+    },
+    {
+      "album": {
         "name": "Barbie",
         "url": "https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc"
       },
@@ -556,10 +596,28 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 123680,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI"
+    },
+    {
+      "album": {
+        "name": "DEEP DARKNESS",
+        "url": "https://open.spotify.com/album/5lnYaesNpPlxBjxZdiK287"
+      },
+      "artists": [
+        {
+          "name": "OG-ANIC",
+          "url": "https://open.spotify.com/artist/1OXHqAK6r5mF0FV94nc0pD"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "BE YOURSELF",
+      "url": "https://open.spotify.com/track/0osrXTNCRrAe2GScaZVMxp"
     },
     {
       "album": {
@@ -1999,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Get Tf Up Out My Way",
+        "url": "https://open.spotify.com/album/1NxU0Pfo45c13nk05NRRUz"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Get Tf Up Out My Way",
+      "url": "https://open.spotify.com/track/0AFGkM23jP7Nkf3c77uRgj"
+    },
+    {
+      "album": {
         "name": "GET WICKED",
         "url": "https://open.spotify.com/album/3Kl1jNtZLg2CAxHIFMq3Pe"
       },
@@ -2934,7 +3010,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 192000,
       "name": "King without a crown",
       "url": "https://open.spotify.com/track/0wdrModq3sbAsLYKiIrfyu"
@@ -4728,7 +4804,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 209032,
       "name": "Pongkhun",
       "url": "https://open.spotify.com/track/4aMrNhvxO7Os25BS66p787"
@@ -5298,7 +5374,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 206984,
       "name": "Saxo Love (\u0e0a\u0e38\u0e14\u0e19\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e19\u0e2d\u0e19)",
       "url": "https://open.spotify.com/track/64L6sxYcL3TnoIhXYYsOR1"
@@ -5882,7 +5958,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 188571,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7omsAvppAOiVxpjDQhUCxE"
@@ -6013,6 +6089,28 @@
     },
     {
       "album": {
+        "name": "Taboo (feat. Tobii)",
+        "url": "https://open.spotify.com/album/5I1MaGUZevQ3PIL4sUUoYs"
+      },
+      "artists": [
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        },
+        {
+          "name": "Tobii",
+          "url": "https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Taboo (feat. Tobii)",
+      "url": "https://open.spotify.com/track/6bvMA4wCSHYVB16pPiRUnX"
+    },
+    {
+      "album": {
         "name": "Take off your clothes",
         "url": "https://open.spotify.com/album/4CSFgPXgvpRX0mags4FYaC"
       },
@@ -6072,7 +6170,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 198302,
       "name": "ThaiKids",
       "url": "https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo"
@@ -7812,6 +7910,24 @@
       "duration_ms": 197647,
       "name": "\u0e04\u0e33\u0e2a\u0e32\u0e23\u0e20\u0e32\u0e1e",
       "url": "https://open.spotify.com/track/66hMeagJVQVjvf295ggudK"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0H2c4MoUepEnoRLj2wqdqt"
+      },
+      "artists": [
+        {
+          "name": "APE FREDDA",
+          "url": "https://open.spotify.com/artist/3441oNU7Ok92QFaOwvg5P8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/1zjpgNOWW001eOROTZkMea"
     },
     {
       "album": {
@@ -10238,7 +10354,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 258461,
       "name": "\u0e22\u0e31\u0e07\u0e17\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/1KeyDnClorS43SC256tQ5i"
@@ -12229,6 +12345,32 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e04\u0e22\u0e04\u0e34\u0e14\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49 (feat. SIMON & SARAN)",
+        "url": "https://open.spotify.com/album/3z4oV1ImlgXLFzsX4dOezi"
+      },
+      "artists": [
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227647,
+      "name": "\u0e40\u0e04\u0e22\u0e04\u0e34\u0e14\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49 (feat. SIMON & SARAN)",
+      "url": "https://open.spotify.com/track/4n59FNaSSgzZ2wYT2RKsw1"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/365r2hdNTOblQBeqp7Ksw8"
       },
@@ -13257,6 +13399,32 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2a\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e0a\u0e32\u0e15\u0e34",
+        "url": "https://open.spotify.com/album/3WcTSeXr47fJebmOGAgUd9"
+      },
+      "artists": [
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "1ST",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "JEANS",
+          "url": "https://open.spotify.com/artist/3pUQxpBiVB7HlPD1GUkHs4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "\u0e40\u0e2a\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e0a\u0e32\u0e15\u0e34",
+      "url": "https://open.spotify.com/track/2KEFoxpFe8K5RBhTnZntOs"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e27\u0e2b\u0e19\u0e49\u0e32\u0e42\u0e2b\u0e14",
         "url": "https://open.spotify.com/album/7nuVsLQEDl5m9ewjQPcand"
       },
@@ -13444,7 +13612,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 150386,
       "name": "\u0e41\u0e04\u0e1b\u0e2b\u0e21\u0e39",
       "url": "https://open.spotify.com/track/5vPkVHgDPJY11j62plGUoD"

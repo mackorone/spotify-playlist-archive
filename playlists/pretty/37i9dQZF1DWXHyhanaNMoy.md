@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Architrackz & JayKoppig ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,579 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,587 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zak](https://open.spotify.com/track/6mN8mkxZvE8d6BBo0xDWwa) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Zak](https://open.spotify.com/album/4RDr4qsLZF8LhA8ICTQKkb) | 2:19 |
+| 1 | [Zak](https://open.spotify.com/track/6mN8mkxZvE8d6BBo0xDWwa) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi) | [Zak](https://open.spotify.com/album/4RDr4qsLZF8LhA8ICTQKkb) | 2:19 |
 | 2 | [mas q nada](https://open.spotify.com/track/2g6gR7WCwhLS0QCrMU7xBC) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 3:38 |
 | 3 | [Allerlaatste Kus](https://open.spotify.com/track/4PgmFTZGjBlwnS59PvmQvl) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Eranio](https://open.spotify.com/artist/5VZST1JSwD9JThdYzEO7WV) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:08 |
 | 4 | [Geen Zorgen](https://open.spotify.com/track/4VTUvI4WzherVbWgpWD44H) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Geen Zorgen](https://open.spotify.com/album/1kxnKdzVOihQteYbElLLbx) | 2:05 |

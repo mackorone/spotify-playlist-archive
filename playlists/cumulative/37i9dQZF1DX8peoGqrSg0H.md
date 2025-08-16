@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BOWKYLION, Jeff Satur
 
-742 songs - 1 day 19 hr 48 min
+743 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
 | [LYKYOU](https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU \- Single](https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg) | 3:34 | 2024-12-05 | 2025-01-30 |
 | [Magic Moment](https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Magic Moment](https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf) | 3:58 | 2024-07-26 | 2024-08-09 |
+| [Make You Mine](https://open.spotify.com/track/4VXH51RB0JJXQkkn0sAXrr) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [Make You Mine](https://open.spotify.com/album/5eOWzmD5rI0XuH3OoQETsE) | 3:07 | 2025-08-15 |  |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
 | [Midnight Crisis](https://open.spotify.com/track/4qqs5lPdlW3hQrbvmAtvrL) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [TEMPO](https://open.spotify.com/album/1XAuTBouINWgSGonuCbmWg) | 3:27 | 2023-05-26 | 2023-06-02 |
 | [MIRROR MIRROR](https://open.spotify.com/track/25LdwJdbFOPGrmtBDYa4Bk) | [VIIS \(วิส\)](https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au) | [MIRROR MIRROR \- Single](https://open.spotify.com/album/2OpFTU0dMeSWDmNLiogAiN) | 3:40 | 2024-05-10 | 2024-06-21 |
@@ -398,7 +399,7 @@
 | [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 | 2022-11-19 | 2023-10-27 |
 | [น้อย น้อย หน่อย \(Say Less\)](https://open.spotify.com/track/1eXXMr53N6awg5v5MYq9Xk) | [EMPRESS](https://open.spotify.com/artist/7f57J64jShBdEI6EB1dmRu) | [น้อย น้อย หน่อย \(Say Less\)](https://open.spotify.com/album/33UiAgKAlDgNoPpw0HXG4Y) | 2:47 | 2025-02-20 | 2025-02-28 |
 | [น้อยใจ \(hurt\)](https://open.spotify.com/track/4SUjsrUM5F05F85ZdAZn2v) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [น้อยใจ \(hurt\)](https://open.spotify.com/album/7w6pH6dWy5zIBNQBvvJ0Wm) | 3:52 | 2023-10-12 | 2023-12-08 |
-| [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh) | 2:56 | 2025-07-10 |  |
+| [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/track/5rgaCzKqB8WEvSIQ1Nj8rL) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [น้ำหยดลงหิน \(Drip\)](https://open.spotify.com/album/4vIoOt8BTgikAbRUyLQLFh) | 2:56 | 2025-07-10 | 2025-08-16 |
 | [บรรเทา \- PLASTER](https://open.spotify.com/track/5khymyREguDo1CVkvmkNbF) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [บรรเทา \(PLASTER\)](https://open.spotify.com/album/3YvA19eCW4iFHuQhpMEMkt) | 3:43 | 2022-07-23 | 2022-07-29 |
 | [บอกเธอว่าชอบดาว \(Starry Diary\)](https://open.spotify.com/track/2wPCd7FoBaJ0c71RKkRILX) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [บอกเธอว่าชอบดาว \(Starry Diary\)](https://open.spotify.com/album/3pjQCR9Roe4OdVnZjVv1gN) | 3:45 | 2025-05-22 | 2025-06-06 |
 | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [Copter](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [บอกให้ฟังหน่อยนะ \(please tell me\)](https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm) | 3:36 | 2022-07-28 | 2022-09-30 |

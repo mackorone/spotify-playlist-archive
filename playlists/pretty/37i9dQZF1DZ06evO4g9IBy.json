@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 170219,
+  "num_followers": 170244,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAADMCBELOoEUsyzW8/nllFa+",
+  "snapshot_id": "aJ0nAAAAAABFBYCHGhwr6FjL6I+8FYim",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street Angel",
         "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 263813,
       "name": "Blue Denim",
       "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Trouble in Shangri-La",
-      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 201826,
       "name": "I Will Run to You - 2016 Remaster",
       "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Trouble in Shangri-La",
+      "url": "https://open.spotify.com/track/77j3CiF7PNJC0amTTcJ0zK"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 294920,
-      "name": "Sorcerer",
-      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 301293,
       "name": "Nightbird - 2016 Remaster",
       "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 294920,
+      "name": "Sorcerer",
+      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Planets of the Universe",
-      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Planets of the Universe",
+      "url": "https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crystal Visions...The Very Best of Stevie Nicks",
         "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
       },
@@ -575,26 +575,6 @@
       "duration_ms": 421800,
       "name": "Rhiannon - Live 2005",
       "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
-        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
     },
     {
       "added_at": null,
@@ -631,6 +611,26 @@
       "duration_ms": 255186,
       "name": "Sable on Blond - 2016 Remaster",
       "url": "https://open.spotify.com/track/2u8fEGC5PpKDDb2cvg1dkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock and Roll Hall of Fame Volume 5: 1998-1999",
+        "url": "https://open.spotify.com/album/0OLosiZA06HMWEB9gxnd0c"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5fprEY6WEN1wvFXkgfb22C"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Maybe Love Will Change Your Mind",
-      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Your Dreams",
         "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 334853,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/1HKApG1WCilb4B82fIUoje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "Maybe Love Will Change Your Mind",
+      "url": "https://open.spotify.com/track/3FmNXP5tWfjZAImUxzns74"
     },
     {
       "added_at": null,

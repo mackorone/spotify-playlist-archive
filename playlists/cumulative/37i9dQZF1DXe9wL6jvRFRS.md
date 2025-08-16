@@ -2,9 +2,9 @@
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. caroline on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Racing Mount Pleasant on the cover.
 
-57 songs - 4 hr 23 min
+58 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,9 +42,10 @@
 | [Landscaping](https://open.spotify.com/track/7LQ4TRgCras6mN4D9kUvx6) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Landscaping](https://open.spotify.com/album/1aTksRGuBQJkDTTzW9hiG1) | 5:59 | 2025-07-10 |  |
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-07-10 |  |
 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 | 2025-07-10 |  |
+| [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-15 |  |
 | [Pamphlets](https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Bright Green Field](https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt) | 8:03 | 2025-07-10 |  |
 | [Pushing Hands](https://open.spotify.com/track/3pWupodCGDYk9fH5onVEwt) | [something in the lake](https://open.spotify.com/artist/0QSN1JG6PjhBLCNnPSyUhI) | [Dogs](https://open.spotify.com/album/5fLKCgQ0kmovPnvsebJrfY) | 4:08 | 2025-07-10 |  |
-| [Racing Mount Pleasant](https://open.spotify.com/track/3fua3zsMYUgGBgnNlocxrU) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/6S3we3LnQcy47E2hhoamXV) | 5:15 | 2025-07-10 |  |
+| [Racing Mount Pleasant](https://open.spotify.com/track/3fua3zsMYUgGBgnNlocxrU) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/6S3we3LnQcy47E2hhoamXV) | 5:15 | 2025-07-10 | 2025-08-16 |
 | [Ran Out of Time](https://open.spotify.com/track/2G4aLoVnpjWcyXgBRhnDI2) | [Aunt Katrina](https://open.spotify.com/artist/7sMEd7g4LPNijUP8eH2wyf) | [Ran Out of Time](https://open.spotify.com/album/4mLYTyjoHin9yZjSzUUeg6) | 2:53 | 2025-07-10 |  |
 | [Resisting Resistance](https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Connla's Well](https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa) | 5:58 | 2025-07-10 |  |
 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-07-10 |  |

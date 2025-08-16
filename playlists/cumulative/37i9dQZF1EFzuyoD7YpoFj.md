@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-595 songs - 1 day 8 hr 18 min
+596 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 | 2024-07-24 |  |
 | [From Alpha to Omega](https://open.spotify.com/track/0gUWRzwRKeerxnDx3wL3KO) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:44 | 2024-07-24 |  |
 | [From Now On \- Remastered](https://open.spotify.com/track/2qLfJ0RFI6SUW4NUEkR20D) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ole Ala Lee](https://open.spotify.com/album/3vvQ55dkibnUUE7A79HZDW) | 1:55 | 2025-07-10 |  |
+| [From This Very Moment On](https://open.spotify.com/track/51NEzUzAXcUoyco6xfm6Wg) | [As Is](https://open.spotify.com/artist/3kCaOfJgiMuDKOPkzJL3aI), [Kokayi](https://open.spotify.com/artist/2AyMC7HowLT6ULLdKwJSZ2) | [From This Very Moment On](https://open.spotify.com/album/1oAC3LOWfi9ZTHdgoKsDXu) | 5:20 | 2025-08-15 |  |
 | [Fujiyama Mama \- Remastered](https://open.spotify.com/track/5GZKrlylsU8zoILY2aiDJz) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:14 | 2024-07-24 | 2025-06-28 |
 | [Fácil de Amar](https://open.spotify.com/track/34exKFkA7VU93MaBMXtDNT) | [Sergio Ortiz](https://open.spotify.com/artist/1utVivrC7PRXJ65TMt0V4x) | [Grandes Exitos](https://open.spotify.com/album/5iV6ZnQTbS8MzrVMiSAhcT) | 2:04 | 2025-05-31 |  |
 | [Ganz Paris träumt von der Liebe](https://open.spotify.com/track/5KzB6s7mGfDfIKFcTzCoYr) | [Caterina Valente](https://open.spotify.com/artist/6U43w7qaIwFTlbJWuLiBrf) | [Ein Gruß von Caterina Valente \(Expanded Edition\)](https://open.spotify.com/album/2LSfGoJ9U8f8zeYwx8AObL) | 2:53 | 2024-07-24 |  |

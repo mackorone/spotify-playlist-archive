@@ -4,7 +4,7 @@
 
 > 
 
-1,142 songs - 2 day 9 hr 34 min
+1,144 songs - 2 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 | 2025-06-01 |  |
 | [Oh eX whY](https://open.spotify.com/track/15bjjTkuMb2vwdBijmD02S) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 | 2023-03-12 | 2023-05-09 |
 | [Oh No Storm! / Manipulate](https://open.spotify.com/track/6fJstjSlx6C3Vje79KD7XW) | [Summrs International](https://open.spotify.com/artist/7mU4CK3tjxSrGn6hparWVY) | [Oh No Storm! / Manipulate](https://open.spotify.com/album/2m8L6XDdXwMDgKgNerYQld) | 4:12 | 2023-07-20 | 2023-12-14 |
+| [Oh, What a Wretched Man I Am!](https://open.spotify.com/track/6LCGD2bl7itBHHayQ4ltPc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:39 | 2025-08-16 |  |
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-03-04 | 2024-04-24 |
 | [ok / what i do](https://open.spotify.com/track/1jNaZAWYQnCAJiACFHWgRO) | [Destroy Lonely Archive](https://open.spotify.com/artist/5ZerbSqqmkJ6Um3rtywm6o) | [XO](https://open.spotify.com/album/0CDS6LJ9nlplHklEIgkCtr) | 2:03 | 2022-07-28 | 2023-12-14 |
 | [ok / what i do](https://open.spotify.com/track/4V7fgGBWKeNnTfn4UvcV60) | [kokori](https://open.spotify.com/artist/1tUWteCf6kMckNEm6DFGOZ) | [XO](https://open.spotify.com/album/16czINg68lsXnb7y3zfdoQ) | 2:06 | 2023-12-27 | 2024-04-24 |
@@ -1142,6 +1143,7 @@
 | [Xposed](https://open.spotify.com/track/5kEcA3809KnRGpI7ml48cV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:50 | 2025-06-01 |  |
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-12-25 | 2023-05-09 |
 | [Yacht](https://open.spotify.com/track/4BHwo6sEEYjtZyopn04gEJ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Five Forever](https://open.spotify.com/album/0zBzGId66SwQWCsPJgNLY1) | 2:33 | 2025-05-31 |  |
+| [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 | 2025-08-16 |  |
 | [Yoppenheimer](https://open.spotify.com/track/59xdYjVILhhafdiPHBpRda) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Yoppenheimer](https://open.spotify.com/album/1eUhZBzrbVNVkP0UE1r5bB) | 2:15 | 2025-08-02 |  |
 | [You > Them \(Hate It!\)](https://open.spotify.com/track/3XwNEmdMEmjf9CkZrDBpM9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [You > Them \(Hate It!\)](https://open.spotify.com/album/1t3gqZG4owzK59lurQyRjl) | 2:15 | 2022-12-07 | 2024-04-24 |
 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2025-05-01 |  |

@@ -1,4 +1,4 @@
-## Playlists \(8744\)
+## Playlists \(8745\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5889,6 +5889,7 @@
 - [The Crown Official Playlist](/playlists/pretty/37i9dQZF1DX7pKSVhIpJRE.md)
 - [The Dance Tent](/playlists/pretty/37i9dQZF1DXaTFABWvWVT6.md)
 - [The Dark Side](/playlists/pretty/37i9dQZF1DXbRQkm2Ah3WW.md)
+- [The Disastrous Life of Saiki K\. 斉木楠雄のΨ難](/playlists/pretty/37i9dQZF1DWV0NdeXmnYpT.md)
 - [The Dissociation Station](/playlists/pretty/3m9htS7sBzxtCipDBWYHTB.md)
 - [The Electric State Official Playlist](/playlists/pretty/37i9dQZF1DX6w89fnbIo78.md)
 - [The Essential Edgar Allan Poe](/playlists/pretty/37i9dQZF1DWVezbGpUvpz7.md)

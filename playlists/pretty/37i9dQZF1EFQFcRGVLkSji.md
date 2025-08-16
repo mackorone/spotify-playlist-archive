@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 68 | [SUPERBOY](https://open.spotify.com/track/4YtYrEB1utkTC75rvlsH97) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 5:07 |
 | 69 | [DIAMONDS LIGHTS FAST CARS \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0dE6bo63eqDDfIr8XZhZpN) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 2:41 |
 | 70 | [Disclosure](https://open.spotify.com/track/3tRfmb7TerFE7XsQBVGl8l) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [The Fleur Print](https://open.spotify.com/album/6ccDPGKd4UC3rWOokj2DCs) | 3:00 |
-| 71 | [Dazed](https://open.spotify.com/track/0yvzGLzdyJIJ294lbt5ESc) | [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [Dazed](https://open.spotify.com/album/7bjaG4ZyFG9VaAlQLr9xBj) | 2:08 |
-| 72 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 |
+| 71 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 |
+| 72 | [Dazed](https://open.spotify.com/track/0yvzGLzdyJIJ294lbt5ESc) | [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [Dazed](https://open.spotify.com/album/7bjaG4ZyFG9VaAlQLr9xBj) | 2:08 |
 | 73 | [Sex Talk](https://open.spotify.com/track/4yzrCEkv9pO6hrpWARyi0V) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Sex Talk](https://open.spotify.com/album/1xEdPfKwLNWJlWaYxcaNWB) | 2:03 |
 | 74 | [Live Up To the Hype](https://open.spotify.com/track/7K0MmOeYgozw9Y5y9V5K3R) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs) | [Fully Loaded](https://open.spotify.com/album/6nakKOO8Qfv0xU24BvEXnn) | 3:01 |
 | 75 | [i'm fine](https://open.spotify.com/track/2Ff84Bm75EdzfM0KOT3pn7) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/7iCr8Y0ct09AJ44RANcHNe) | 1:40 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 148 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 149 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `Ab5gsgAAAABtFlvPjtk94Y22Fk0Rdszp`
+Snapshot ID: `Ab5mNAAAAADxFwHk643a3duQZOn9p0xl`

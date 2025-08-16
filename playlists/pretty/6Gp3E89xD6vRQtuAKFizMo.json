@@ -1,13 +1,93 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44009,
+  "num_followers": 44013,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaV++1W21d1wNS5U5ETXP076TsawOD",
+  "snapshot_id": "AAAaW8YittLz6bVaOSSvOBTjU3hSCB6E",
   "tracks": [
+    {
+      "added_at": "2025-08-15 11:54:37",
+      "album": {
+        "name": "Cry Me A River",
+        "url": "https://open.spotify.com/album/1iyL5MD15REXnRbw769U5W"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/4jU7BzdI8lxvtuKu0dXKL1"
+    },
+    {
+      "added_at": "2025-08-15 11:54:51",
+      "album": {
+        "name": "Take A Chance (Tim Sanders Remix)",
+        "url": "https://open.spotify.com/album/4ix9eltIH0iOdNWvUdstWX"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        },
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 143154,
+      "name": "Take A Chance - Tim Sanders Remix",
+      "url": "https://open.spotify.com/track/1z8nGQ1CVlSZHKt05pF7nx"
+    },
+    {
+      "added_at": "2025-08-15 11:55:12",
+      "album": {
+        "name": "Take A Chance (Illyus Barrientos Remix)",
+        "url": "https://open.spotify.com/album/7sIESd87NSm5i035EKqb5b"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "MOYA",
+          "url": "https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq"
+        },
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Take A Chance - Ilyus Barrientos Remix",
+      "url": "https://open.spotify.com/track/6JAtc2sP67FEFIPvrwhOt5"
+    },
     {
       "added_at": "2025-08-08 15:49:16",
       "album": {

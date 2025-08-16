@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=WChcPtqOT\_iJlSWQ1CmdKg">Xolly Mncwango</a>
 
-179 songs - 18 hr 39 min
+180 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Icebo Lakhe](https://open.spotify.com/track/0tpaaOdbbrB9ifqQo8ce0w) | [Tsholofelo Nonkonyana](https://open.spotify.com/artist/085BjpMJpstVo3ee7uwoNy) | [Icebo Lakhe](https://open.spotify.com/album/27mMuugLcKYLLvQQK9a2q3) | 5:09 | 2025-08-08 |  |
 | [Icebo Lami](https://open.spotify.com/track/3ZJK0p0svv1nahMZg2bVD4) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi) | [Sizovumelana Worship Encounter](https://open.spotify.com/album/6YUqBdgl5izBkNhwEkqQF9) | 4:58 | 2025-04-11 | 2025-06-13 |
 | [Igama Lakho \- Live](https://open.spotify.com/track/0rpD7PM4FoyHNFp86OHOK4) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [HEART OF WORSHIP VOL 1](https://open.spotify.com/album/0hSYjCkIgebDmVuuTKzoDg) | 5:55 | 2025-05-02 | 2025-07-25 |
-| [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 | 2025-07-25 |  |
+| [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 | 2025-07-25 | 2025-08-16 |
+| [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 |  |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-08-06 |
 | [Inceba \- Live](https://open.spotify.com/track/0gY3XhFFRVJpNbd4z0J7wa) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Kept by Grace \(Live\)](https://open.spotify.com/album/1B6aBvOv8EE3oXhj5CpTqX) | 8:21 | 2024-11-16 |  |
 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 | 2024-10-11 |  |

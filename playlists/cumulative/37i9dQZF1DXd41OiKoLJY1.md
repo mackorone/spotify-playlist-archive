@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Kxci Artwork: Isu Kim
 
-3,556 songs - 8 day 16 hr 14 min
+3,559 songs - 8 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3007,6 +3007,7 @@
 | [Stuck In My Head](https://open.spotify.com/track/1YoYm28cO6sVwDopCKNd8Y) | [Valere](https://open.spotify.com/artist/5ZQF36w4zKY03Rq4zbYx88) | [Stuck In My Head](https://open.spotify.com/album/47Cr3XsoojeUKIDqowRfHl) | 2:50 | 2023-03-16 | 2023-04-07 |
 | [STUFF IM DEALIN WITH](https://open.spotify.com/track/2e3vf9LaqijmrqK4AJbSmL) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [STUFF IM DEALIN WITH](https://open.spotify.com/album/2ZMiTkSDgvLWth7ioSPacp) | 2:41 | 2023-06-22 | 2023-07-14 |
 | [Stupid](https://open.spotify.com/track/1OuZIJvpYxmkgCMhqVzuyC) | [Dixzie Cruel](https://open.spotify.com/artist/4ygDJFavIesKaO2kesqHyx) | [Stupid](https://open.spotify.com/album/4KjJyJKCYDPtC39pzluJDE) | 3:01 | 2025-02-14 | 2025-04-04 |
+| [Subukan](https://open.spotify.com/track/7wK5XRBpRilwDBvQk6UYzy) | [DR3MT](https://open.spotify.com/artist/6s4SDijPlQfmf9bPHMX67i) | [Subukan](https://open.spotify.com/album/2fw938Wp2nKCdqWsdWE1FE) | 2:54 | 2025-08-14 |  |
 | [Subukan Mo](https://open.spotify.com/track/4F2QhVZDj8WFBglxytnpFp) | [Andrea Badinas](https://open.spotify.com/artist/2gxV8pvMInzaEgEi7riKmV) | [Subukan Mo](https://open.spotify.com/album/0sA4egCAMVUO5ZKMUiUyVR) | 4:20 | 2023-11-16 | 2024-02-02 |
 | [Sugal](https://open.spotify.com/track/5A0zMwcjan4mfadUFIr0Vx) | [Al Facundo](https://open.spotify.com/artist/4lpJ2CjApRZROTDr8cbQSl), [Lexus](https://open.spotify.com/artist/2zyAiiDn92GNUJHo5sTdoP) | [Sugal](https://open.spotify.com/album/6mdXkRn0gvCd7T73W7aa9X) | 3:45 | 2022-04-21 | 2022-05-06 |
 | [Sugal](https://open.spotify.com/track/5XGN5ak6S9M43xEQonNnvy) | [RCHRD](https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO) | [Sugal](https://open.spotify.com/album/5FMtsjJq9BYUZjVYI4GBWG) | 3:27 | 2024-03-21 | 2024-05-03 |
@@ -3375,6 +3376,7 @@
 | [Wag Mong Ipilit](https://open.spotify.com/track/2L0oVxojBEiIjm8xxMIRwD) | [Vince Monte](https://open.spotify.com/artist/1y1mL2PDCOrmGxDCLgesDF) | [Wag Mong Ipilit](https://open.spotify.com/album/3KMV3udec19nuaUDWFg6IA) | 3:09 | 2025-04-10 | 2025-05-23 |
 | [Wag na lang](https://open.spotify.com/track/4pCF7JfjBGYxJAlbxlt5qB) | [Deypi](https://open.spotify.com/artist/4rModzTyhxJ31vgulQPpb2) | [Wag na lang](https://open.spotify.com/album/1xYBhiO0rT8agW7bywWJqi) | 3:04 | 2023-05-25 | 2023-06-09 |
 | [Wag Na Magselos](https://open.spotify.com/track/1UzOeJ5in3wqsWbimDIfh6) | [Jade Baco](https://open.spotify.com/artist/6sG54RVG3Ta2i7bVsGGGmp) | [Wag Na Magselos](https://open.spotify.com/album/6YtwqJbtqcGP5Wxs0EqN9c) | 5:04 | 2022-03-31 | 2022-04-08 |
+| [Wag Nang Ipilit Pa](https://open.spotify.com/track/40yhjIg3yiGzX539mgm9LU) | [Nico Bisco](https://open.spotify.com/artist/5vVMl2dt9Cjbu7dNg4Xf1n) | [Wag Nang Ipilit Pa](https://open.spotify.com/album/323tm993dTWce9U3Y67UUr) | 4:01 | 2025-08-14 |  |
 | [Wag Siya](https://open.spotify.com/track/36j2rbFoj1uhSu6DPqvhjy) | [Mark Rivera](https://open.spotify.com/artist/6dZbMKNYQNmxcSuE0djM90) | [Wag Siya](https://open.spotify.com/album/0SxRUn3SdOgCw3MSQOZdnD) | 3:56 | 2024-11-07 | 2025-02-21 |
 | [Wagi](https://open.spotify.com/track/6OjkUN1Yx3RSuwsjIdaZ7d) | [Karl Ramirez](https://open.spotify.com/artist/78JXNSo2xUBaf6L0tmJabL) | [Wagi](https://open.spotify.com/album/5wgn6REDiY9Vtc9plAft4J) | 4:28 | 2022-09-08 | 2022-10-14 |
 | [WAH!](https://open.spotify.com/track/5VzFU0utQ9a2vdXWBEcs0N) | [Kenji The Plague](https://open.spotify.com/artist/7xPWLmOfBpEW4mCHMwnfLx) | [WAH!](https://open.spotify.com/album/5EmVxueC7JQ6PMIlDUoCeV) | 2:06 | 2023-03-16 | 2023-03-31 |
@@ -3391,6 +3393,7 @@
 | [Wala Nang Tayo](https://open.spotify.com/track/2UViY0UWtHK1ke4HIuTHkh) | [Cidge](https://open.spotify.com/artist/6eAjNftqqRLppEILHT7rm7), [Axcel](https://open.spotify.com/artist/0qDIpMHnSe96vV0rqtlK9q) | [Wala Nang Tayo](https://open.spotify.com/album/6eIAlodZ3C6HG2lT736bkC) | 6:10 | 2023-01-26 | 2023-02-17 |
 | [Wala ng ikaw](https://open.spotify.com/track/5xOKZqB5i7mJDCrjWv0bWu) | [Karl Alegno](https://open.spotify.com/artist/1AcFiabUgchHZOQbg3Hauo) | [Wala ng ikaw](https://open.spotify.com/album/21GgQFjl9dZefrnNYYKaDU) | 2:39 | 2022-03-10 | 2022-04-01 |
 | [WALAG](https://open.spotify.com/track/60LsvLxdk6fYmBpdMFTQKd) | [Pinkbarney](https://open.spotify.com/artist/2LXDeK2ugpMawkXuEiXFwo), [Rich Geng](https://open.spotify.com/artist/2tGlFHw7er5hCDnjrtRbIH) | [WALAG](https://open.spotify.com/album/2ytM7PZUUEIWmrKXBB1ANZ) | 2:50 | 2025-07-10 |  |
+| [Walang Bluff](https://open.spotify.com/track/5eRBpU86IphqDajlzKKBUw) | [Daz Cue](https://open.spotify.com/artist/15ObU3lzom807WiHf0BU72), [YKP](https://open.spotify.com/artist/7q9oODX2e5ATHkctqEAI1D) | [Walang Bluff](https://open.spotify.com/album/0lrfkbduxr1W5uGK3Xw1SG) | 3:38 | 2025-08-14 |  |
 | [Walang Bobo Sa Mundo](https://open.spotify.com/track/0K2iHndeKFFV5BDXXjYJE9) | [Splendio Tritus](https://open.spotify.com/artist/5svvAcRpq3mmOTu8N48Fxw) | [Walang Bobo Sa Mundo](https://open.spotify.com/album/3ccbpH7nhm0a9Xa4mZNxYd) | 4:08 | 2024-06-13 | 2024-07-12 |
 | [Walang Gana](https://open.spotify.com/track/3q55zTn6l70JOZ5dDAh2jk) | [Zone 24Seven](https://open.spotify.com/artist/3Y6Hv4el40evxRTUglk8uK), [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq), [El Rios](https://open.spotify.com/artist/3LDA3FS14KsKU5gv05sgE8), [CBAKE$](https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q), [Nik Makino](https://open.spotify.com/artist/2GyDGQ5U2bb2NcHaUXykkT), [Shao Lin](https://open.spotify.com/artist/7mdiFBTvpw94abBvqa9xhW) | [Walang Gana](https://open.spotify.com/album/4ZChP6fEK6ulsuUjbSUhsF) | 5:39 | 2022-01-27 | 2022-02-11 |
 | [Walang Iba](https://open.spotify.com/track/6hu4JYy0w0KcEtkcSsLsLi) | [EJMRND](https://open.spotify.com/artist/6CVmW8dZxlfF0GuyUJhKfO) | [Walang Iba](https://open.spotify.com/album/6UofQ9QKKEYf97IfjWYE43) | 4:50 | 2024-08-08 | 2024-09-06 |

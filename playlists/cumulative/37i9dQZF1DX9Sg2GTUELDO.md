@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: JACE 陳凱詠
 
-541 songs - 1 day 8 hr 15 min
+542 songs - 1 day 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [唱到痛的情歌](https://open.spotify.com/track/0q7RTQxeqcR3ADu5r9KY3t) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [唱到痛的情歌](https://open.spotify.com/album/7aqhLgMWp7Hdj8hDYT8gKX) | 4:46 | 2024-06-27 |  |
 | [單戀勿語](https://open.spotify.com/track/3WakD4Ojp9Bf3X7XFtZPXR) | [陳伊霖](https://open.spotify.com/artist/0iTxACKxpEMbeaGPFiTdtY) | [單戀勿語](https://open.spotify.com/album/3odN6kFs21z0mx68QhCoP6) | 3:23 | 2024-06-27 |  |
 | [單戀這件小事](https://open.spotify.com/track/00ySQSYPxGTttzsTEgctqQ) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [單戀這件小事](https://open.spotify.com/album/718IdkPUNXGPIjsV6ksata) | 3:40 | 2024-06-27 |  |
+| [單身不會死](https://open.spotify.com/track/6VVCbUi2Bn7MfMDXZSV8ss) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [單身不會死](https://open.spotify.com/album/5BqAONqMf65GyxBQAIKbYc) | 2:42 | 2025-08-14 |  |
 | [喵喵厭世學](https://open.spotify.com/track/5Cex2CJTLDN1bWbtF9RZ8W) | [黃健怡](https://open.spotify.com/artist/7qajreH6nUWuPXAoW2BFSb) | [喵喵厭世學](https://open.spotify.com/album/7kEm3PHPvDwFbVDIMXXuwV) | 4:01 | 2024-06-27 |  |
 | [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2024-06-27 |  |
 | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/track/0amgqlDzvmEecNiTLY1WRG) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [在一起 \(劇集《企業強人》片尾曲\)](https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1) | 3:34 | 2024-09-19 |  |

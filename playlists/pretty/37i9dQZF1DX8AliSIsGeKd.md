@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,346 likes - 89 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,689 likes - 89 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 29 | [Feel The Heat](https://open.spotify.com/track/3gzFwocYC3xcdl6vIOEu3f) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Feel The Heat](https://open.spotify.com/album/62dxnU6YCP207geZjvYU5v) | 3:04 |
 | 30 | [Kore \- André Winter & Oliver Huntemann Remix](https://open.spotify.com/track/4s7kiLes8lI7vKtF7mnm90) | [Dusty Kid](https://open.spotify.com/artist/6JGLndnzrQrIFkd8NFha3C), [André Winter](https://open.spotify.com/artist/3uGjpxycNoFU7hQYQduP4k), [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Kore](https://open.spotify.com/album/25LIg4pVdmj1C2e76LpdFg) | 6:12 |
 | 31 | [Partners of Destiny](https://open.spotify.com/track/6VfxcjXxjJrXhK2EXXbkKy) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Partners of Destiny](https://open.spotify.com/album/1uk10nTknJpttQ8pZCmO3Q) | 4:21 |
-| 32 | [Track 3](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 0:00 |
+| 32 | [Das Omen](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 3:30 |
 | 33 | [Fire Element](https://open.spotify.com/track/10tEQ0DhDJPs81TFP00GmU) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [Fire Element](https://open.spotify.com/album/09d6tqVZfNBoglvkxtApub) | 3:26 |
 | 34 | [Blacked Out Rover](https://open.spotify.com/track/6nYobocJhN3WhUgddjrLrh) | [DavidK3y](https://open.spotify.com/artist/7BjJB2bYFPs0swSDrhhbhp), [Nathan Rux](https://open.spotify.com/artist/6otY3GdTYnxB2hH7nFhwfQ) | [Blacked Out Rover](https://open.spotify.com/album/1dOwRntevkHo711dkI4jMc) | 2:20 |
 | 35 | [Furusam](https://open.spotify.com/track/2jflQfRKFyiagKEEOyJFwO) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Furusam](https://open.spotify.com/album/1tyAcBZWlIir3PAQS9gYNG) | 5:44 |

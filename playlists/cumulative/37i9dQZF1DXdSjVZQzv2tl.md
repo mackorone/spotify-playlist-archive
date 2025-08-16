@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Clayton & Romário
+> O melhor do sertanejo em uma só playlist! Foto: Felipe e Rodrigo
 
-327 songs - 15 hr 20 min
+328 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Vacilona \- Ao Vivo](https://open.spotify.com/track/0EfOfW72dE43humkvijiYq) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Vacilona \(Ao Vivo\)](https://open.spotify.com/album/5ZzS1sHF60IsFGFcEsTD51) | 2:16 | 2025-07-11 |  |
 | [Vagabundo](https://open.spotify.com/track/6Lrzxd7ST5oQ6FYKXKH7Ia) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vagabundo](https://open.spotify.com/album/7fUBlrxykadQWJx0Jikf3v) | 2:45 | 2021-12-31 | 2022-04-09 |
 | [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 | 2022-02-18 | 2023-06-10 |
+| [Vai Cair Água \- Ao Vivo](https://open.spotify.com/track/1Vsh9frTSsEwqwcbvZpItT) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vai Cair Água \(Ao Vivo\)](https://open.spotify.com/album/0Vesvt7F80ZEOkCluw6Op1) | 2:30 | 2025-08-15 |  |
 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 | 2024-10-04 |  |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 | 2021-12-31 | 2022-07-29 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 3:11 | 2022-07-22 | 2023-03-18 |
@@ -330,7 +331,7 @@
 | [Você Vai Ser Fiel \- Ao Vivo Em Nova Iorque / 2022](https://open.spotify.com/track/4TVPiACLzxgDjmkwaabMxs) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Nova Iorque EP3\)](https://open.spotify.com/album/0o2dcSIEUJlFNFjRk4VPwV) | 2:44 | 2023-12-08 | 2024-10-04 |
 | [Voltou Com Quem Não Voltava \- Ao Vivo](https://open.spotify.com/track/0Q1oLvAI9QaD3DIlvluTqx) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/1LIa0K4VQnzCreRogfMP68) | 2:27 | 2023-06-02 | 2024-03-30 |
 | [Voltável \- Ao Vivo](https://open.spotify.com/track/74LohOvD6SpyKQHPt4WTGC) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Voltável \(Ao Vivo\)](https://open.spotify.com/album/5KQFBxqRzgy89ryE8HZ8si) | 2:47 | 2025-02-26 |  |
-| [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 | 2024-08-23 |  |
+| [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 | 2024-08-23 | 2025-08-16 |
 | [Zero Saudade \- Ao Vivo](https://open.spotify.com/track/1oIqP923yBKV45IaXm5s14) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Da Roça Pra Cidade \(Ao Vivo\), Vol\. 05](https://open.spotify.com/album/1WrwJGau8eVMIdryUdhBW4) | 3:04 | 2021-12-31 | 2022-07-02 |
 | [Água Nos Zói \- Ao Vivo](https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Água Nos Zói \(Ao Vivo\)](https://open.spotify.com/album/055iSHIEhSre9fapRUBcRP) | 3:08 | 2021-12-31 | 2022-12-17 |
 | [Última Noite \- Ao Vivo](https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/0DPsEpVRLlu8yZ0hFRIxxw) | 2:28 | 2023-11-17 | 2024-01-20 |

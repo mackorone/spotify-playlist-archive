@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 192000,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 295000,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 142131,
       "name": "BAD FOR YOU",
       "url": "https://open.spotify.com/track/0BEBCQ9ghZglvrZQpo94ke"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 194395,
       "name": "BADO",
       "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 181000,
       "name": "Closer (feat. Bantu)",
       "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
@@ -6000,7 +6000,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 360270,
       "name": "EYES WIDE OPEN",
       "url": "https://open.spotify.com/track/1k0uIwMxTiL0ZZ0XPZq44b"
@@ -6528,7 +6528,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
@@ -6562,7 +6562,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 161463,
       "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
       "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
@@ -6912,6 +6912,32 @@
       "duration_ms": 432786,
       "name": "Giza",
       "url": "https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf"
+    },
+    {
+      "album": {
+        "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
+        "url": "https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        },
+        {
+          "name": "Tasty Or Not",
+          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
+      "url": "https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1"
     },
     {
       "album": {
@@ -7660,7 +7686,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 192210,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/25ptHEGFaskKZQPv4dq4T7"
@@ -7880,7 +7906,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 195371,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/4EvinQrLxLUvtHpntEeftx"
@@ -8530,7 +8556,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Inner Wars",
       "url": "https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs"
@@ -8938,7 +8964,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 194442,
       "name": "Jolie Fille (feat. Layefa)",
       "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
@@ -9338,7 +9364,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 168780,
       "name": "Kidz",
       "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
@@ -9518,7 +9544,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 165500,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9"
@@ -12746,7 +12772,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 225245,
       "name": "Naam",
       "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
@@ -13458,6 +13484,24 @@
       "duration_ms": 198688,
       "name": "Nothing That I Need",
       "url": "https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N"
+    },
+    {
+      "album": {
+        "name": "Nothing Wrong",
+        "url": "https://open.spotify.com/album/6K2eYBkRKd1PigxrMJujNn"
+      },
+      "artists": [
+        {
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "Nothing Wrong - Love Mix",
+      "url": "https://open.spotify.com/track/7iplrJUdhVjYgAjZGINro8"
     },
     {
       "album": {
@@ -14574,7 +14618,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 238114,
       "name": "Penumbra (Rework)",
       "url": "https://open.spotify.com/track/2a9SuwpFbWFYFl2ShuMFRQ"
@@ -15626,7 +15670,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 315371,
       "name": "Riga",
       "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
@@ -16221,6 +16265,40 @@
     },
     {
       "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271007,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "album": {
         "name": "Sentimental (Sombras)",
         "url": "https://open.spotify.com/album/3PuKobf2zMiYe686HFaQiy"
       },
@@ -16236,7 +16314,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 213442,
       "name": "Sentimental - Sombras",
       "url": "https://open.spotify.com/track/5rl7bbc4BX52AqIhKI2PK1"
@@ -18586,7 +18664,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 206890,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/7wGmPBuP4YuLGd8VBr3tXT"
@@ -19626,7 +19704,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 199954,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/2tv6GYr8MFaF29qQWqC0fU"
@@ -20364,7 +20442,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Waste Away",
       "url": "https://open.spotify.com/track/7huXvIux5BzSSeOcyPaLHp"
@@ -20676,7 +20754,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 320624,
       "name": "Who's That Girl - JL & Afterman Mix",
       "url": "https://open.spotify.com/track/0iPwcwbrS0ZMIvqvyQw1Qs"
@@ -20992,7 +21070,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-07",
+      "date_removed": null,
       "duration_ms": 263250,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
@@ -21226,7 +21304,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 302815,
       "name": "Yours to Take",
       "url": "https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv"

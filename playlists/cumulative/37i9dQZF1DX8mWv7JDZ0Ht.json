@@ -7785,6 +7785,24 @@
     },
     {
       "album": {
+        "name": "livre",
+        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63239,
+      "name": "livre",
+      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
+    },
+    {
+      "album": {
         "name": "Decolagem",
         "url": "https://open.spotify.com/album/6i02cQxaeYpaKEeMRasSXK"
       },
@@ -8922,7 +8940,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 188203,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS"

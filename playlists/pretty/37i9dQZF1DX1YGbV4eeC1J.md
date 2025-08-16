@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Harmonize & Abigail Chams
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,874 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,916 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 5 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 |
 | 6 | [Ntadedi](https://open.spotify.com/track/3wOWM4YK7PFONA0wNHcNru) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Ntadedi](https://open.spotify.com/album/1OWV8U3pfhPLw1Ko7dxDCw) | 2:57 |
 | 7 | [Wangu](https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:49 |
-| 8 | [Track 5](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 0:00 |
+| 8 | [Kiss Me](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:03 |
 | 9 | [Unanifaa](https://open.spotify.com/track/1h1mm9Hp4V8gDVBx0FB4sr) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr) | [Unanifaa](https://open.spotify.com/album/7duSQWmI6IcwqBIHb6Lmn5) | 3:34 |
 | 10 | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/track/55rxNs9Drmu7u2oC6skJP2) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Best Couple \(feat\. Rudeboy\)](https://open.spotify.com/album/2zNmjbJMq3G0TLzruDHjBt) | 2:54 |
 | 11 | [Mahaba](https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Mahaba](https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x) | 3:16 |

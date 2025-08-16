@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u00a1Brillando baldosa! Foto: Mike Bah\u00eda",
+  "description": "\u00a1Brillando baldosa! Foto: Carlos Vives, Grupo Niche",
   "name": "Salsa Colombiana",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 300559,
       "name": "Conmoci\u00f3n",
       "url": "https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM"
@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
+        "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262641,
+      "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "album": {
         "name": "La \u00danica",
         "url": "https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7"
       },
@@ -1708,6 +1730,28 @@
       "duration_ms": 284653,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/4fMzopYZnezYVCOADldvq7"
+    },
+    {
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228582,
+      "name": "Misterio",
+      "url": "https://open.spotify.com/track/3DIkuC14QBUNNsdPkAl6MT"
     },
     {
       "album": {
@@ -2324,7 +2368,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 207029,
       "name": "Se\u00f1or Marido",
       "url": "https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi"

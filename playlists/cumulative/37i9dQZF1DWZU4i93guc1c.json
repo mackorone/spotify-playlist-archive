@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "\u0410\u0424\u0420\u041e\u0414\u0406\u0422\u0410",
+        "url": "https://open.spotify.com/album/3YWdygtk7xmqTjqueS7cru"
+      },
+      "artists": [
+        {
+          "name": "PALMYRA",
+          "url": "https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "\u0410\u0444\u0440\u043e\u0434\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/55O2LvQJACyuecjeHxXYxk"
+    },
+    {
+      "album": {
         "name": "\u0411\u0430\u0431\u043b-\u0442\u0456",
         "url": "https://open.spotify.com/album/5RmFQ73eITw0sc3blVwLBr"
       },
@@ -7482,7 +7500,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 228078,
       "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
       "url": "https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm"

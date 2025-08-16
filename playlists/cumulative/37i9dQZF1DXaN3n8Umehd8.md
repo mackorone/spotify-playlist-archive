@@ -4,7 +4,7 @@
 
 > perreito para rebotar un rato, por Cachirula 🍑🔥
 
-616 songs - 1 day 13 hr 29 min
+617 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -573,7 +573,8 @@
 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 | 2021-12-26 | 2022-07-29 |
 | [Tusi Tabuena](https://open.spotify.com/track/2MrOhzbfkSwuJ4qUdPT8dO) | [Alberto Dimeo](https://open.spotify.com/artist/6Mmw70zSqPeCzN7K9Br57q), [Gabriel Dominguez](https://open.spotify.com/artist/6jockFof1s3dGGEvAjC0iW), [Gregory Palencia](https://open.spotify.com/artist/4r49wT7fgbWKiM6UDXimL2) | [Tusi Tabuena](https://open.spotify.com/album/2JH7ePtlO3b2tCKuMhuIFm) | 3:50 | 2024-07-11 | 2024-10-12 |
 | [Tuss](https://open.spotify.com/track/0qd7ACCc9z2mlTYgPRcnUJ) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Tuss](https://open.spotify.com/album/4l7IpfEVv21t2gxYnrRPKA) | 3:41 | 2025-04-24 |  |
-| [Uii](https://open.spotify.com/track/662fjsQNXUB31uSOqgAZAq) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Uii](https://open.spotify.com/album/5u8YxRWbjjZgCUf45Ar18G) | 2:16 | 2025-04-24 |  |
+| [Uii](https://open.spotify.com/track/662fjsQNXUB31uSOqgAZAq) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Uii](https://open.spotify.com/album/5u8YxRWbjjZgCUf45Ar18G) | 2:16 | 2025-04-24 | 2025-08-16 |
+| [Uii \- Remix](https://open.spotify.com/track/57tl0pTeaJcWAjxJHI1sxB) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Uii \(Remix\)](https://open.spotify.com/album/2Bdk7y5zw1JdzUiWcZq4Me) | 2:58 | 2025-08-15 |  |
 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 | 2021-12-26 | 2023-03-16 |
 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 | 2023-10-26 | 2024-01-17 |
 | [Un Año Mas](https://open.spotify.com/track/1seCZJ3pEVjghbzZ2mV4Xl) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical / Une Femme Avec Une Femme](https://open.spotify.com/album/3ddhOdEVme7tbJqHnUBx2J) | 4:29 | 2024-01-16 | 2024-03-28 |

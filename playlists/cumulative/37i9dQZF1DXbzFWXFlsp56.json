@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: Ysa C.",
+  "description": "Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Per\u00fa. Foto: UNIVERSE.",
   "name": "RADAR Andinos",
   "tracks": [
     {
@@ -260,6 +260,24 @@
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
+    },
+    {
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/3Xd6z6sSA4tkWGVdAXuS81"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183033,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
     },
     {
       "album": {
@@ -662,7 +680,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 179786,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/7vNFTnFGuezEzBVRTYqIPZ"
@@ -927,6 +945,24 @@
     },
     {
       "album": {
+        "name": "el tiempo pasa r\u00e1pido",
+        "url": "https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247043,
+      "name": "el tiempo pasa r\u00e1pido",
+      "url": "https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1"
+    },
+    {
+      "album": {
         "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
       },
@@ -1048,7 +1084,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 146400,
       "name": "Espejito, Espejito",
       "url": "https://open.spotify.com/track/3fK2tHK7FWZ0hfR1qyHZtG"
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 232200,
       "name": "Invisibles",
       "url": "https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9"
@@ -1445,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Me Perdi",
+        "url": "https://open.spotify.com/album/0dXKFJxIx8YHwc9GMYggyA"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Me Perdi",
+      "url": "https://open.spotify.com/track/4FaoxGpwXMyahuOsb0mowj"
+    },
+    {
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1520,6 +1578,24 @@
       "duration_ms": 189333,
       "name": "Minotauros",
       "url": "https://open.spotify.com/track/1Q496s61Y6lEbFmGiost0a"
+    },
+    {
+      "album": {
+        "name": "Florida Sunset",
+        "url": "https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189936,
+      "name": "Montego Bay",
+      "url": "https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME"
     },
     {
       "album": {
@@ -1654,7 +1730,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
@@ -2226,7 +2302,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
@@ -2252,6 +2328,28 @@
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/55dvVIoys8Xq3VVA6df6Jx"
+    },
+    {
+      "album": {
+        "name": "Traguita",
+        "url": "https://open.spotify.com/album/3NlNFBaehJIQUn3ykiGjrO"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137347,
+      "name": "Traguita",
+      "url": "https://open.spotify.com/track/1W3M3xXa2CYG8EFLffaYez"
     },
     {
       "album": {
@@ -2361,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "VIBEX",
+        "url": "https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91"
+      },
+      "artists": [
+        {
+          "name": "UNIVERSE",
+          "url": "https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99955,
+      "name": "VIBEX",
+      "url": "https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4"
+    },
+    {
+      "album": {
         "name": "Yo Soy Dios",
         "url": "https://open.spotify.com/album/2iw7qlG3uOlg6qC56rUJOs"
       },
@@ -2434,7 +2550,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 159256,
       "name": "\u00bfEl 14 qu\u00e9 har\u00e1s?",
       "url": "https://open.spotify.com/track/2JV6LNI0rX9KcUEDCT9wQ8"

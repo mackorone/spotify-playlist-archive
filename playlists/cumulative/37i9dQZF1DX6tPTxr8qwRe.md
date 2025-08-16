@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Lydia Night
+> Dark, hard hitting pop\. Cover: Ashnikko
 
-956 songs - 1 day 20 hr 5 min
+960 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [ballad of a homeschooled girl](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:23 | 2023-10-13 | 2023-11-18 |
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-02-17 | 2023-08-19 |
 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 | 2022-04-08 | 2022-07-09 |
-| [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 | 2025-05-30 |  |
+| [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 | 2025-05-30 | 2025-08-16 |
 | [beautiful girls \(get the ugliest world\)](https://open.spotify.com/track/1Uc5BvsiKVuuz0ArDutZTC) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [beautiful girls \(get the ugliest world\)](https://open.spotify.com/album/1KEZGBWPqUjUQPmuAwWaol) | 2:29 | 2024-08-23 | 2025-01-25 |
 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-22 | 2022-11-19 |
 | [Bedroom](https://open.spotify.com/track/7fnICPO0s3jcQ049Yk0EmV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:53 | 2023-10-20 | 2023-11-11 |
@@ -174,7 +174,7 @@
 | [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 | 2023-09-04 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-01 | 2022-09-17 |
 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-10-20 | 2024-01-27 |
-| [CLINGY](https://open.spotify.com/track/5OxYShyvkoXuUqKIgdFzhL) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [CLINGY](https://open.spotify.com/album/32bSkiLlTyQILJTpMnjyrq) | 3:24 | 2025-05-02 |  |
+| [CLINGY](https://open.spotify.com/track/5OxYShyvkoXuUqKIgdFzhL) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [CLINGY](https://open.spotify.com/album/32bSkiLlTyQILJTpMnjyrq) | 3:24 | 2025-05-02 | 2025-08-16 |
 | [Closer to the moon](https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Closer to the moon](https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl) | 3:59 | 2024-12-20 | 2025-05-03 |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 | 2024-09-21 |
 | [Cold Killer](https://open.spotify.com/track/0lwCIykH3nebbJevHiJRhf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [Cold Killer](https://open.spotify.com/album/0Bn7DT5CEtYArcKk3X2ffw) | 2:39 | 2022-10-07 | 2023-04-01 |
@@ -342,7 +342,7 @@
 | [Good In Bed](https://open.spotify.com/track/3nceiixhkjFwEpFITqy3f0) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Life's A Bitch](https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd) | 2:38 | 2022-10-28 | 2023-04-01 |
 | [Good Manners](https://open.spotify.com/track/427AW23lZGVKj2u5i8uh6f) | [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [Good Manners](https://open.spotify.com/album/25d9kqU3kUA4odSt5eM2zv) | 2:28 | 2024-06-21 | 2024-09-21 |
 | [Good Riddance](https://open.spotify.com/track/6griwc1RjYP1BxnzTkxnqO) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Good Riddance](https://open.spotify.com/album/6LsUmHRz2GZ9eKbETHBlSh) | 2:48 | 2024-07-26 | 2024-10-19 |
-| [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 | 2025-05-23 |  |
+| [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 | 2025-05-23 | 2025-08-16 |
 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-04-26 | 2024-06-29 |
 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7pwF2SFF9LUeqD0f5wWrSR) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/1hQaM7OHSXpXcNK7qExkW5) | 3:50 | 2021-11-12 | 2022-03-18 |
 | [Goodbye, Good Riddance](https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Goodbye, Good Riddance](https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG) | 2:39 | 2025-07-18 |  |
@@ -383,6 +383,7 @@
 | [Heaven](https://open.spotify.com/track/0GLEKwNRP5cW30x0WTNfoX) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Heaven](https://open.spotify.com/album/6yeOGs3rN9il6xHVcERw59) | 2:25 | 2023-12-01 | 2024-03-23 |
 | [hell of a good time](https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [hell of a good time](https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT) | 2:41 | 2024-03-15 | 2024-06-29 |
 | [HELL ON ME](https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HELL ON ME](https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg) | 2:58 | 2025-01-10 | 2025-06-14 |
+| [Hellbent](https://open.spotify.com/track/1KpnWktqDqyTr0IXagwLIS) | [Astrid Pierce](https://open.spotify.com/artist/7AUfg9LvTM8ZR4rtiacUpH), [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Last Ditch Effort](https://open.spotify.com/album/4AWnBAP7do9Wpz4frLDZii) | 2:35 | 2025-08-15 |  |
 | [HELLO IT'S THE NEW ME](https://open.spotify.com/track/5eer85eFn4TmVvLUYET5yj) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [HELLO IT'S THE NEW ME](https://open.spotify.com/album/1ttN46F4hRsBJ3wTkFnCMA) | 2:34 | 2024-08-09 | 2024-10-19 |
 | [HEXED](https://open.spotify.com/track/2YsjASle6ww8UK1rui5bEB) | [Leah Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [HEXED](https://open.spotify.com/album/4a7qonEl8Qvw1JwrywEixj) | 2:52 | 2024-08-09 | 2025-01-25 |
 | [HEY LITTLE BABY](https://open.spotify.com/track/5GpxpmH6eQyH9YhHBENUfd) | [Tangerine Cassette](https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n) | [HEY LITTLE BABY](https://open.spotify.com/album/4HVlPmwXccZieyP3tUdatk) | 2:25 | 2024-10-18 | 2025-01-25 |
@@ -599,6 +600,7 @@
 | [Never Dated You](https://open.spotify.com/track/2aXe6ng2bLrWDgS2ko7Rhv) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Never Dated You](https://open.spotify.com/album/1LrGdbVm4nYRbRX4mPZEcU) | 2:01 | 2022-09-16 | 2023-02-04 |
 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 | 2024-01-12 | 2024-04-27 |
 | [No Comma](https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [No Comma](https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4) | 2:41 | 2024-09-20 | 2025-01-25 |
+| [No Fair](https://open.spotify.com/track/38oTngdlSyvTSOSuBxMo7y) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [No Fair](https://open.spotify.com/album/33Z3HByYE3waLUxBwim2MZ) | 3:20 | 2025-08-15 |  |
 | [NO FAVORS](https://open.spotify.com/track/0yC5FVKCYgPdPqkBxifItx) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [NO FAVORS](https://open.spotify.com/album/3NyNscLjMBpZyb18dYrtnO) | 1:54 | 2025-07-11 |  |
 | [NO HANDS \(SIDE A\)](https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:17 | 2023-10-20 | 2024-03-26 |
 | [Nosebleed](https://open.spotify.com/track/1ElDn0WlZ4ELXHksk0Z8mu) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Nosebleed](https://open.spotify.com/album/47SX20nouYkuWaMtczHvE7) | 2:13 | 2023-03-31 | 2023-12-09 |
@@ -841,9 +843,10 @@
 | [Thing of Beauty](https://open.spotify.com/track/5fDbX9qCPLjBNZkZVnu19E) | [Danger Twins](https://open.spotify.com/artist/1YuielWiKfNC5Mh2GizHSO) | [Thing of Beauty](https://open.spotify.com/album/4nz28faAHZndFb42UEwf5P) | 0:29 | 2022-03-04 | 2022-07-02 |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-08-04 | 2024-01-05 |
 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 | 2021-09-10 | 2023-03-25 |
-| [Threw Me Away](https://open.spotify.com/track/4yErFNfUp8cD7BYd5WjD4B) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Threw Me Away](https://open.spotify.com/album/1Su8F6OFMWs8mTUiNw2bIH) | 3:03 | 2025-04-04 |  |
+| [Threw Me Away](https://open.spotify.com/track/4yErFNfUp8cD7BYd5WjD4B) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Threw Me Away](https://open.spotify.com/album/1Su8F6OFMWs8mTUiNw2bIH) | 3:03 | 2025-04-04 | 2025-08-16 |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2021-10-08 | 2022-02-19 |
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 | 2022-09-10 |
+| [Till Death](https://open.spotify.com/track/0ANmyFstzs8OOD5BjY8HZo) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Till Death](https://open.spotify.com/album/7beT8amZsq15bpTKOz3FuN) | 2:53 | 2025-08-15 |  |
 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 | 2022-09-16 | 2022-10-29 |
 | [TILT](https://open.spotify.com/track/2j39Br4f9tl4yOIs2vwKYc) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [TILT](https://open.spotify.com/album/5QHKR2HWulH1Y3Bpqqv5Xr) | 2:30 | 2024-10-18 | 2025-01-25 |
 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 | 2024-10-04 | 2025-01-25 |
@@ -859,6 +862,7 @@
 | [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 | 2023-05-05 | 2023-08-05 |
 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 | 2024-07-26 | 2024-10-19 |
 | [Tough Luck](https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Tough Luck](https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD) | 2:43 | 2025-03-07 | 2025-06-14 |
+| [Trinkets](https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Trinkets](https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g) | 1:56 | 2025-08-15 |  |
 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-08 | 2022-08-20 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-08 | 2022-07-29 |
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 | 2022-12-03 |

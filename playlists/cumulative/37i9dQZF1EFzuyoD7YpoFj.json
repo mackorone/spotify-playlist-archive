@@ -3075,6 +3075,28 @@
     },
     {
       "album": {
+        "name": "From This Very Moment On",
+        "url": "https://open.spotify.com/album/1oAC3LOWfi9ZTHdgoKsDXu"
+      },
+      "artists": [
+        {
+          "name": "As Is",
+          "url": "https://open.spotify.com/artist/3kCaOfJgiMuDKOPkzJL3aI"
+        },
+        {
+          "name": "Kokayi",
+          "url": "https://open.spotify.com/artist/2AyMC7HowLT6ULLdKwJSZ2"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320254,
+      "name": "From This Very Moment On",
+      "url": "https://open.spotify.com/track/51NEzUzAXcUoyco6xfm6Wg"
+    },
+    {
+      "album": {
         "name": "Rockin' With Wanda",
         "url": "https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca"
       },

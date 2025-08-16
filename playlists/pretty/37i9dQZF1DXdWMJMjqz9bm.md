@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: People R Ugly
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,820 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,858 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 49 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 |
 | 50 | [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 |
 
-Snapshot ID: `AAAAAC//kY1E6lgf7ee3ypGPzZ6Oin4Q`
+Snapshot ID: `AAAAAOB9roC72COjnxHWiZ8W36uIQADa`

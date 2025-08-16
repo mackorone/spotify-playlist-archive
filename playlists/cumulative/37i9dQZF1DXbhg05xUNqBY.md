@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-300 songs - 20 hr 0 min
+301 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Midnight \- Radio Version](https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c) | [Midnight](https://open.spotify.com/album/1KI4ndRW4pVUrCXgR8XaAt) | 5:03 | 2024-06-23 | 2024-07-27 |
 | [Midnight/Daylight \(Heth\)](https://open.spotify.com/track/1bBh996mXxkdC57J8oNCjt) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW) | [Midnight/Daylight \(Heth\)](https://open.spotify.com/album/5VuEHLjo0EaPgpzNjTrlHj) | 6:08 | 2025-08-08 |  |
 | [MIRACLE WORKER](https://open.spotify.com/track/1D9ByxtOr0trURwGmKG7wm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [CHILD OF GOD](https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb) | 3:03 | 2024-07-26 |  |
-| [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 | 2025-04-05 |  |
+| [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Mo Wa Dupe \(Thank You\)](https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb) | 3:34 | 2025-04-05 | 2025-08-16 |
 | [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-08-08 |  |
 | [My Cry](https://open.spotify.com/track/1MU4Ce6tNV7AlpTitDyBcm) | [Auraè](https://open.spotify.com/artist/3tZVXVqt6MP5k80gT723pM) | [My Cry](https://open.spotify.com/album/2EWs0Ircr47V4JueLQR6XL) | 3:20 | 2025-04-05 | 2025-08-09 |
 | [my refuge](https://open.spotify.com/track/54MQrGFEVRzKxVoxvHkQ4y) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [The Shepherd, a folk\-hop beat tape](https://open.spotify.com/album/6TFgl5OXOPWDrWAxJ63nEy) | 2:05 | 2025-04-05 |  |
@@ -199,6 +199,7 @@
 | [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 | 2024-07-26 | 2024-09-09 |
 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 | 2023-02-07 | 2024-06-23 |
 | [Peter](https://open.spotify.com/track/7GGu45fmannds2HrskiAow) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [ie.](https://open.spotify.com/artist/7LpJNkkhQ1AvdUlZ9hUMNa) | [Peter](https://open.spotify.com/album/1dvg8VrzUfV37k8d6FRKi9) | 2:46 | 2025-04-05 |  |
+| [pieces in your peace](https://open.spotify.com/track/0bWfd5zCC0C74CeZo7N3Ev) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [pieces in your peace](https://open.spotify.com/album/6TQFMda381PR2KmR6KZ84G) | 3:47 | 2025-08-08 |  |
 | [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 | 2024-07-26 | 2025-04-05 |
 | [Praise](https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Praise](https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs) | 4:38 | 2024-07-26 |  |
 | [Praise \- Acoustic](https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Praise \(Acoustic\)](https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8) | 3:35 | 2024-07-26 |  |

@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 181903,
       "name": "16 ct",
       "url": "https://open.spotify.com/track/3RbtraQDqbNGuviw5iJDJt"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 159493,
       "name": "Baller",
       "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 145873,
       "name": "BANANANAS",
       "url": "https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 148705,
       "name": "Change Your Mind (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC"
@@ -2070,6 +2070,24 @@
       "duration_ms": 180565,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6"
+    },
+    {
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "album": {
@@ -2694,7 +2712,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 187396,
       "name": "Drive (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
@@ -2774,7 +2792,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 162070,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/1LXXQd8QKCS6jE7zIsHGo3"
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -4353,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "Haluun el\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/0WuEH3SQr8ZM6tItDQMZ4U"
+      },
+      "artists": [
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193482,
+      "name": "Haluun el\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/1ycZc1mTlBaMUG9XhcUCDQ"
+    },
+    {
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -4658,7 +4694,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 150454,
       "name": "Helpompaa",
       "url": "https://open.spotify.com/track/32bnxGecUeJzzVazFQqX3l"
@@ -5483,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "Idoli",
+        "url": "https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170378,
+      "name": "Idoli",
+      "url": "https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV"
+    },
+    {
+      "album": {
         "name": "Ievan Polkka",
         "url": "https://open.spotify.com/album/24Z6v6rf6xFHbUQTMPjtwd"
       },
@@ -5502,7 +5556,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 153185,
       "name": "Ievan Polkka",
       "url": "https://open.spotify.com/track/2YWTBz2n9ucqx0OAHzVQCz"
@@ -5840,7 +5894,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 174392,
       "name": "Innovaattori",
       "url": "https://open.spotify.com/track/38ttg6L4jKJAdfJnfs6wU1"
@@ -6258,7 +6312,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 167373,
       "name": "J\u00e4\u00e4 mun viereen",
       "url": "https://open.spotify.com/track/7I4B447EyCUwweN5BcMdZ7"
@@ -6832,7 +6886,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 157973,
       "name": "Konkurssi",
       "url": "https://open.spotify.com/track/4WzPB59x6SZ1m5Lt6LP35J"
@@ -7676,7 +7730,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 184010,
       "name": "Lokki",
       "url": "https://open.spotify.com/track/6Zv5jnFzy5HFBlURKwRkCv"
@@ -7938,6 +7992,28 @@
       "duration_ms": 160920,
       "name": "Love is Glue",
       "url": "https://open.spotify.com/track/7ij0JBNWSaxjO4YCYJYXfL"
+    },
+    {
+      "album": {
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174911,
+      "name": "Love Is Like (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
     },
     {
       "album": {
@@ -8402,7 +8478,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
@@ -8688,7 +8764,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 179055,
       "name": "Messy (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9"
@@ -8784,6 +8860,24 @@
       "duration_ms": 164466,
       "name": "Mietitk\u00f6 s\u00e4 mua",
       "url": "https://open.spotify.com/track/6AYQ3CQePkIRZ6ouD3BF5c"
+    },
+    {
+      "album": {
+        "name": "miks s\u00e4 teet n\u00e4in",
+        "url": "https://open.spotify.com/album/3FSegFCplttHBCWg3GrjZE"
+      },
+      "artists": [
+        {
+          "name": "kia",
+          "url": "https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167563,
+      "name": "miks s\u00e4 teet n\u00e4in",
+      "url": "https://open.spotify.com/track/2YutIWwRYIu3Qw6vaMFnm6"
     },
     {
       "album": {
@@ -9052,7 +9146,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 161633,
       "name": "Mit\u00e4 ollaan?",
       "url": "https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU"
@@ -9226,7 +9320,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 144461,
       "name": "Mosquito",
       "url": "https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T"
@@ -9598,7 +9692,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 150176,
       "name": "Nainen",
       "url": "https://open.spotify.com/track/4TCiNeoH3grVJVt5PDUHBY"
@@ -10214,7 +10308,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 257386,
       "name": "Ollaanko t\u00e4m\u00e4 kes\u00e4 n\u00e4in?",
       "url": "https://open.spotify.com/track/45W3OW8VgBNjb8lOpPXWeT"
@@ -10286,7 +10380,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 208829,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
@@ -10740,7 +10834,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-06",
+      "date_removed": null,
       "duration_ms": 195029,
       "name": "Paperihaavoja",
       "url": "https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l"
@@ -12656,7 +12750,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 257065,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m"
@@ -12730,7 +12824,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 231070,
       "name": "Shutdown",
       "url": "https://open.spotify.com/track/31k2GXJC7k1DZeT6BB2WxB"
@@ -13060,7 +13154,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 124014,
       "name": "Sori rakas",
       "url": "https://open.spotify.com/track/6FBXR79IkXG5buvnkAiuoB"
@@ -13872,7 +13966,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 171199,
       "name": "Take My Mind",
       "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"
@@ -14268,7 +14362,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
@@ -15034,7 +15128,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 154687,
       "name": "T\u00e4\u00e4 y\u00f6",
       "url": "https://open.spotify.com/track/44tpujjBaMAjTUnx1To90r"
@@ -16020,7 +16114,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"

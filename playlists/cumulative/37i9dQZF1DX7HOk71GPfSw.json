@@ -201,6 +201,32 @@
     },
     {
       "album": {
+        "name": "KOREAN AMERICAN",
+        "url": "https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83"
+      },
+      "artists": [
+        {
+          "name": "kimj",
+          "url": "https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147316,
+      "name": "1-800-FUCKOFF",
+      "url": "https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP"
+    },
+    {
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/1NylSTZTrL5NF7C9nowlmD"
       },
@@ -7287,6 +7313,28 @@
     },
     {
       "album": {
+        "name": "Calvin Klein (feat. Jane Remover)",
+        "url": "https://open.spotify.com/album/1ydsSaeY9FnNEBE8qsyRfw"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232738,
+      "name": "Calvin Klein (feat. Jane Remover)",
+      "url": "https://open.spotify.com/track/2yVnLYsbTnCvAK4YPBj31T"
+    },
+    {
+      "album": {
         "name": "can't let go",
         "url": "https://open.spotify.com/album/0eJLW1pzlUvY8Ail8FUlji"
       },
@@ -13366,7 +13414,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 173254,
       "name": "everything will b ok",
       "url": "https://open.spotify.com/track/7kxwQt1M97v5mhzPeXcRQU"
@@ -28948,7 +28996,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 244839,
       "name": "My Forever (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"

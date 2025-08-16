@@ -1,6 +1,6 @@
 {
   "description": "Revive a la generaci\u00f3n que transform\u00f3 el rock en espa\u00f1ol para siempre. En portada: Soda Stereo",
-  "num_followers": 228698,
+  "num_followers": 228762,
   "original_name": "Rock en tu Idioma",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Carrousel",
-        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "Guitarras Blancas",
-      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/7kbzQFUUaR7IRFLT40k4cT"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "Guitarras Blancas",
+      "url": "https://open.spotify.com/track/4g6BF5KhQDIpwJuevv7bFa"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Veinte Para Las Doce",
         "url": "https://open.spotify.com/album/4hiYI3znWcf5uPUxfKVKeI"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 294333,
       "name": "A\u00fan",
       "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Al calor del amor en un bar",
-        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
-      },
-      "artists": [
-        {
-          "name": "Gabinete Caligari",
-          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "El calor del amor en un bar",
-      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
         "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 310586,
       "name": "Es Por Amor",
       "url": "https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Al calor del amor en un bar",
+        "url": "https://open.spotify.com/album/6trh5fT753w9Si8rdigFGm"
+      },
+      "artists": [
+        {
+          "name": "Gabinete Caligari",
+          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "El calor del amor en un bar",
+      "url": "https://open.spotify.com/track/0AFJOoRQFlo10Vm1p6BRjg"
     },
     {
       "added_at": "2024-04-05 21:37:24",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-04-05 21:37:24",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/75vFVCLOnOhkGvIOp7laB7"
-      },
-      "artists": [
-        {
-          "name": "Gabinete Caligari",
-          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "La culpa fue del cha-cha-ch\u00e1",
-      "url": "https://open.spotify.com/track/4v2WZwihAzu0RZFUMl4y8l"
-    },
-    {
-      "added_at": "2024-04-05 21:37:24",
-      "album": {
         "name": "Obras Cumbres (Parte 2)",
         "url": "https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 292320,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/2VWQAtJhyN3sQPJidCbP8v"
+    },
+    {
+      "added_at": "2024-04-05 21:37:24",
+      "album": {
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/75vFVCLOnOhkGvIOp7laB7"
+      },
+      "artists": [
+        {
+          "name": "Gabinete Caligari",
+          "url": "https://open.spotify.com/artist/112QHbB1xApqwVJR6n20xy"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "La culpa fue del cha-cha-ch\u00e1",
+      "url": "https://open.spotify.com/track/4v2WZwihAzu0RZFUMl4y8l"
     },
     {
       "added_at": "2024-04-05 21:37:24",

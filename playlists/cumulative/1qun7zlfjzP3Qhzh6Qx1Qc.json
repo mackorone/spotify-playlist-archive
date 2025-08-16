@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "5 on 8",
+        "url": "https://open.spotify.com/album/2WpaMix0EzNmrVzkrwgCFQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Ault",
+          "url": "https://open.spotify.com/artist/11cNMNyPrGHQ1dlE7Bk4vR"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190437,
+      "name": "5 on 8",
+      "url": "https://open.spotify.com/track/5sosWkRvWpR4NCbXKuuEPm"
+    },
+    {
+      "album": {
         "name": "6 Months Later",
         "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 191771,
       "name": "Back On Deseret",
       "url": "https://open.spotify.com/track/65UW5vb1j5Z3oiOAnDRBqW"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 230266,
       "name": "Bad Feelin'",
       "url": "https://open.spotify.com/track/7tYXoarpdgYVOalGPFtzMR"
@@ -1626,6 +1644,24 @@
       "duration_ms": 190089,
       "name": "Coming Home To",
       "url": "https://open.spotify.com/track/0RkPPQPyNgrA0gQnphCiwl"
+    },
+    {
+      "album": {
+        "name": "Coming Home Tomorrow",
+        "url": "https://open.spotify.com/album/6EG01vE9twDFn3sJIwnScO"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152698,
+      "name": "Coming Home Tomorrow",
+      "url": "https://open.spotify.com/track/3qtZ23iLx4dCH5YeNVE7Fq"
     },
     {
       "album": {
@@ -3783,6 +3819,28 @@
     },
     {
       "album": {
+        "name": "The Tracks",
+        "url": "https://open.spotify.com/album/6EvefmFc1PBusCfp4vTl8k"
+      },
+      "artists": [
+        {
+          "name": "Noah James",
+          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
+        },
+        {
+          "name": "Anna Rae",
+          "url": "https://open.spotify.com/artist/4aQ52tbH4voTjlrYduJkNA"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201522,
+      "name": "Howl At The Moon",
+      "url": "https://open.spotify.com/track/27IAwjyOkQg7Q6CCkBoCmh"
+    },
+    {
+      "album": {
         "name": "hungover",
         "url": "https://open.spotify.com/album/1BLYk8Knw5UEM3ocztYIgP"
       },
@@ -4169,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Jesus, Momma, Country Radio",
+        "url": "https://open.spotify.com/album/0QBZvl8WU0wGlArE42UNjk"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Jesus, Momma, Country Radio",
+      "url": "https://open.spotify.com/track/2MN308Z97up5fJy2hV5osh"
+    },
+    {
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -4295,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "Late Great Heartbreak",
+        "url": "https://open.spotify.com/album/7EK72V1AIviuzHIaUdHsze"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216482,
+      "name": "Late Great Heartbreak",
+      "url": "https://open.spotify.com/track/2RMnh3vwM4SylRrWgacyEp"
+    },
+    {
+      "album": {
         "name": "Late Texts",
         "url": "https://open.spotify.com/album/1PTPDyzku0kwaY55kZJLW0"
       },
@@ -4324,7 +4418,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 225374,
       "name": "Leaving Carolina",
       "url": "https://open.spotify.com/track/5smjahcnDCjHK53UeG4YRt"
@@ -4778,7 +4872,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 169949,
       "name": "Man or the Song",
       "url": "https://open.spotify.com/track/1RVqZGMIByPikzt72b5lrj"
@@ -4836,6 +4930,24 @@
       "duration_ms": 183485,
       "name": "Meant to Be Friends",
       "url": "https://open.spotify.com/track/1WwxUd7O771ekVCBnAUrt3"
+    },
+    {
+      "album": {
+        "name": "Memories We Never Made",
+        "url": "https://open.spotify.com/album/7KlHACXjbYLrz3ylkZGv4O"
+      },
+      "artists": [
+        {
+          "name": "McCoy Moore",
+          "url": "https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Memories We Never Made",
+      "url": "https://open.spotify.com/track/6ZuC9soVLqp6ZY8DaS4pro"
     },
     {
       "album": {
@@ -4980,7 +5092,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 196365,
       "name": "My Truck, Some Weed, and a Guitar",
       "url": "https://open.spotify.com/track/3fz8uYbzhg08cYe7KraTWD"
@@ -5433,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Oh Sweet Lady",
+        "url": "https://open.spotify.com/album/4WjtVDf7jOPajYEM7mxRgw"
+      },
+      "artists": [
+        {
+          "name": "Eli Tabor",
+          "url": "https://open.spotify.com/artist/60R3GIkKYC7N6EhEujxogx"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222841,
+      "name": "Oh Sweet Lady",
+      "url": "https://open.spotify.com/track/7vCEBWjolzECMWIeBmzMdK"
+    },
+    {
+      "album": {
         "name": "OIL MONEY",
         "url": "https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx"
       },
@@ -5462,7 +5592,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 232302,
       "name": "On Rolls the Wheel",
       "url": "https://open.spotify.com/track/0QA8zWdU1bEWFYq0s0t6Qv"
@@ -7352,7 +7482,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 191798,
       "name": "Thinkin' Bout That",
       "url": "https://open.spotify.com/track/1qF4gsQbJQiUHToLcg3MaE"
@@ -7670,10 +7800,28 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 185466,
       "name": "Turns Out That I Am God",
       "url": "https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk"
+    },
+    {
+      "album": {
+        "name": "Two Roads",
+        "url": "https://open.spotify.com/album/5N1HWPxpCPkYSxt5eBwsdi"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214851,
+      "name": "Two Roads",
+      "url": "https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD"
     },
     {
       "album": {

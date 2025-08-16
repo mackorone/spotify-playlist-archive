@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Tchaikovsky: The Seasons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5W9C5JOcgr2MUzCMpEoHAZ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280373,
+      "name": "2 Pieces, Op. 10: No. 1, Nocturne in F Major",
+      "url": "https://open.spotify.com/track/6ntetyfnnMqBsv2rduCp8x"
+    },
+    {
+      "album": {
         "name": "Shostakovich: 24 Preludes & Fugues",
         "url": "https://open.spotify.com/album/6T3UPmEEZWfrsLFfEaoMsQ"
       },
@@ -1122,10 +1144,32 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 250586,
       "name": "Consolations, S. 172: No. 3 in D-Flat Major. Lento placido",
       "url": "https://open.spotify.com/track/15gAVsm22lkiOCiuOvbIFX"
+    },
+    {
+      "album": {
+        "name": "Liszt: Consolations, S. 172: No. 3 in D-Flat Major. Lento, placido",
+        "url": "https://open.spotify.com/album/5cvhYG4yaj2jjgW1vPOFCZ"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Isata Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "Consolations, S. 172: No. 3 in D-Flat Major. Lento, placido",
+      "url": "https://open.spotify.com/track/05ccfzoQjmDzcbYRuCsw20"
     },
     {
       "album": {
@@ -1614,6 +1658,24 @@
       "duration_ms": 411080,
       "name": "I Giorni",
       "url": "https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f"
+    },
+    {
+      "album": {
+        "name": "Tharaud: Improvisation on \"L'hymne \u00e0 l\u2019amour\" by Monnot & Piaf",
+        "url": "https://open.spotify.com/album/0J7OfxAldGeDooo97o9OUD"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Improvisation on \"L'hymne \u00e0 l'amour\" by Monnot & Piaf",
+      "url": "https://open.spotify.com/track/1b0qaIerZRuA8cmbZtqdyG"
     },
     {
       "album": {

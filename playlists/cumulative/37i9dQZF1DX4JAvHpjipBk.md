@@ -2,7 +2,7 @@
 
 ### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
 
-> New music from Laufey, Ed Sheeran, Gunna, Bailey Zimmerman & The Kid LAROI, and more!
+> New music from Dijon, Conan Gray, Cardi B, Jordan Davis, and more!
 
 30,069 songs - 66 day 3 hr 40 min
 

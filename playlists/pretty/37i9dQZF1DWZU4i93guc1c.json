@@ -1,6 +1,6 @@
 {
   "description": "\u0410\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456 \u0445\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u0422\u0423\u0427\u0410",
-  "num_followers": 38561,
+  "num_followers": 38558,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
-        "url": "https://open.spotify.com/album/7h2cSRUhyvAtXLLzT2FVpo"
-      },
-      "artists": [
-        {
-          "name": "\u042e\u043b\u044f \u042e\u0440\u0456\u043d\u0430",
-          "url": "https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM"
-        }
-      ],
-      "duration_ms": 183115,
-      "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
-      "url": "https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv"
-    },
-    {
-      "added_at": "2025-08-08 10:56:31",
-      "album": {
         "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
         "url": "https://open.spotify.com/album/1pEJUVKehVzrUPZSUFZK6F"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 194594,
       "name": "\u043a\u0438\u0457\u0432-\u043d\u044c\u044e-\u0439\u043e\u0440\u043a",
       "url": "https://open.spotify.com/track/1AVRmL5zK400J56dNJj0i1"
+    },
+    {
+      "added_at": "2025-08-08 10:56:31",
+      "album": {
+        "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
+        "url": "https://open.spotify.com/album/7h2cSRUhyvAtXLLzT2FVpo"
+      },
+      "artists": [
+        {
+          "name": "\u042e\u043b\u044f \u042e\u0440\u0456\u043d\u0430",
+          "url": "https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM"
+        }
+      ],
+      "duration_ms": 183115,
+      "name": "\u0410 \u0447\u0438 \u0431\u0443\u043b\u043e \u043b\u0456\u0442\u043e",
+      "url": "https://open.spotify.com/track/3SolEhaDZWKJhQ8lS7mZSv"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
+        "name": "\u0423\u043b\u044e\u0431\u043b\u0435\u043d\u0456 \u0440\u0435\u0447\u0456",
+        "url": "https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O"
+      },
+      "artists": [
+        {
+          "name": "Sonhe",
+          "url": "https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8"
+        }
+      ],
+      "duration_ms": 173100,
+      "name": "\u0423\u043b\u044e\u0431\u043b\u0435\u043d\u0456 \u0440\u0435\u0447\u0456",
+      "url": "https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g"
+    },
+    {
+      "added_at": "2025-08-08 10:56:31",
+      "album": {
         "name": "\u041f\u0423-\u041f\u0423-\u041f\u0423",
         "url": "https://open.spotify.com/album/1YxN5njBve7AbCfbI5kkPk"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0423\u043b\u044e\u0431\u043b\u0435\u043d\u0456 \u0440\u0435\u0447\u0456",
-        "url": "https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O"
+        "name": "\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u043c\u0430\u043a\u0456\u0442\u0440\u0438",
+        "url": "https://open.spotify.com/album/3tej56EN2DJjEvSd2Vs8XR"
       },
       "artists": [
         {
-          "name": "Sonhe",
-          "url": "https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8"
+          "name": "Mark Greider",
+          "url": "https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ"
         }
       ],
-      "duration_ms": 173100,
-      "name": "\u0423\u043b\u044e\u0431\u043b\u0435\u043d\u0456 \u0440\u0435\u0447\u0456",
-      "url": "https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g"
+      "duration_ms": 162352,
+      "name": "\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u043c\u0430\u043a\u0456\u0442\u0440\u0438",
+      "url": "https://open.spotify.com/track/7u2l6Gnz2j0HrkPEVVYHJM"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -643,22 +659,6 @@
       "duration_ms": 200439,
       "name": "\u0414\u0438\u0441\u0442\u0430\u043d\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/5BzFwMal6KeCD5aqiFNbfA"
-    },
-    {
-      "added_at": "2025-08-08 10:56:31",
-      "album": {
-        "name": "\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u043c\u0430\u043a\u0456\u0442\u0440\u0438",
-        "url": "https://open.spotify.com/album/3tej56EN2DJjEvSd2Vs8XR"
-      },
-      "artists": [
-        {
-          "name": "Mark Greider",
-          "url": "https://open.spotify.com/artist/5uFQX3xS7WcnexP5lH91eJ"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u043c\u0430\u043a\u0456\u0442\u0440\u0438",
-      "url": "https://open.spotify.com/track/7u2l6Gnz2j0HrkPEVVYHJM"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u043d\u0435 \u043e\u0434\u0438\u043d",
-        "url": "https://open.spotify.com/album/0k5Arenyl0yRWvBmZMZ4Y9"
-      },
-      "artists": [
-        {
-          "name": "typeled",
-          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u043d\u0435 \u043e\u0434\u0438\u043d",
-      "url": "https://open.spotify.com/track/3Gy0qB1a8oqOwz6XqoDqyW"
-    },
-    {
-      "added_at": "2025-08-08 10:56:31",
-      "album": {
         "name": "\u0441\u0442\u0430\u043d\u044c \u0441\u043f\u043e\u0433\u0430\u0434\u043e\u043c",
         "url": "https://open.spotify.com/album/05lNYdGCe65S2i4BZnTjoQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 215720,
       "name": "c\u0442\u0430\u043d\u044c \u0441\u043f\u043e\u0433\u0430\u0434\u043e\u043c",
       "url": "https://open.spotify.com/track/4LAQnU0ZkDRFBahPrJqrzs"
+    },
+    {
+      "added_at": "2025-08-08 10:56:31",
+      "album": {
+        "name": "\u043d\u0435 \u043e\u0434\u0438\u043d",
+        "url": "https://open.spotify.com/album/0k5Arenyl0yRWvBmZMZ4Y9"
+      },
+      "artists": [
+        {
+          "name": "typeled",
+          "url": "https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u043d\u0435 \u043e\u0434\u0438\u043d",
+      "url": "https://open.spotify.com/track/3Gy0qB1a8oqOwz6XqoDqyW"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "Cry Me the Dnipro",
-        "url": "https://open.spotify.com/album/2qkOfvpF9ew2iJeKReAi3i"
-      },
-      "artists": [
-        {
-          "name": "LOVERA BREAUX",
-          "url": "https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Cry Me the Dnipro",
-      "url": "https://open.spotify.com/track/2dhZKTPyPzt8Zug3EyTIxk"
-    },
-    {
-      "added_at": "2025-08-08 10:56:31",
-      "album": {
         "name": "\u041f\u0456\u0448\u0430\u043a",
         "url": "https://open.spotify.com/album/48cFt2mOEUxbJBXhWeORqX"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 139200,
       "name": "\u041f\u0456\u0448\u0430\u043a",
       "url": "https://open.spotify.com/track/5i4J0Wx6lMDp0zLy0OU4Aw"
+    },
+    {
+      "added_at": "2025-08-08 10:56:31",
+      "album": {
+        "name": "Cry Me the Dnipro",
+        "url": "https://open.spotify.com/album/2qkOfvpF9ew2iJeKReAi3i"
+      },
+      "artists": [
+        {
+          "name": "LOVERA BREAUX",
+          "url": "https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Cry Me the Dnipro",
+      "url": "https://open.spotify.com/track/2dhZKTPyPzt8Zug3EyTIxk"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0436\u0438\u0442\u0438",
-        "url": "https://open.spotify.com/album/5BGdvQLoYfWHMBKlNMa2So"
-      },
-      "artists": [
-        {
-          "name": "yosyaa",
-          "url": "https://open.spotify.com/artist/3G8XcG1zIsU5edIBQGsnIV"
-        }
-      ],
-      "duration_ms": 157537,
-      "name": "\u0436\u0438\u0442\u0438",
-      "url": "https://open.spotify.com/track/3C3wVH1hFcJVrHnPNNjT85"
-    },
-    {
-      "added_at": "2025-08-08 10:56:31",
-      "album": {
         "name": "\u0406\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0456\u0439",
         "url": "https://open.spotify.com/album/2nSlNQSReh6bPaAHjSTaVH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 297428,
       "name": "\u0406\u043d\u0434\u0443\u043b\u044c\u0433\u0435\u043d\u0446\u0456\u0439",
       "url": "https://open.spotify.com/track/4sHwXjhXEevKGEubBoRffr"
+    },
+    {
+      "added_at": "2025-08-08 10:56:31",
+      "album": {
+        "name": "\u0436\u0438\u0442\u0438",
+        "url": "https://open.spotify.com/album/5BGdvQLoYfWHMBKlNMa2So"
+      },
+      "artists": [
+        {
+          "name": "yosyaa",
+          "url": "https://open.spotify.com/artist/3G8XcG1zIsU5edIBQGsnIV"
+        }
+      ],
+      "duration_ms": 157537,
+      "name": "\u0436\u0438\u0442\u0438",
+      "url": "https://open.spotify.com/track/3C3wVH1hFcJVrHnPNNjT85"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
+        "name": "\u0444\u0430\u0440\u0431\u0438 \u0437\u0430\u0431\u0443\u0442\u0442\u044f",
+        "url": "https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX"
+      },
+      "artists": [
+        {
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+        }
+      ],
+      "duration_ms": 178771,
+      "name": "\u0444\u0430\u0440\u0431\u0438",
+      "url": "https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP"
+    },
+    {
+      "added_at": "2025-08-08 10:56:31",
+      "album": {
         "name": "\u0421\u0418\u0421\u0422\u0415\u041c\u0410",
         "url": "https://open.spotify.com/album/5RIvJWSQFDKbJekzvsaLL8"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0444\u0430\u0440\u0431\u0438 \u0437\u0430\u0431\u0443\u0442\u0442\u044f",
-        "url": "https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX"
+        "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
+        "url": "https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH"
       },
       "artists": [
         {
-          "name": "The Soul Delusion",
-          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+          "name": "Anna Petrash",
+          "url": "https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2"
         }
       ],
-      "duration_ms": 178771,
-      "name": "\u0444\u0430\u0440\u0431\u0438",
-      "url": "https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP"
+      "duration_ms": 199186,
+      "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
+      "url": "https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -1095,26 +1111,6 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0416\u0438\u0442\u0442\u044f \u043d\u0430 \u0441\u043c\u0430\u043a",
-        "url": "https://open.spotify.com/album/7EsmEGu9wpMp392Z6Vx3ah"
-      },
-      "artists": [
-        {
-          "name": "The Sonic Temple",
-          "url": "https://open.spotify.com/artist/2to4QfMDFnZ2eWYo0LOGmO"
-        },
-        {
-          "name": "fimamaru",
-          "url": "https://open.spotify.com/artist/3h2oNmmBzcR7cH3dHzF4zD"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "\u0416\u0438\u0442\u0442\u044f \u043d\u0430 \u0441\u043c\u0430\u043a",
-      "url": "https://open.spotify.com/track/5SRfVxbI5wsLBOmjIs42Sl"
-    },
-    {
-      "added_at": "2025-08-08 10:56:31",
-      "album": {
         "name": "\u0437\u0430\u0447\u0430\u0440\u0443\u0432\u0430\u0432",
         "url": "https://open.spotify.com/album/4QrNGszNGpGM5bN0RvoKv3"
       },
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
-        "url": "https://open.spotify.com/album/69pKv2BekWnZCLMIRZAGcH"
+        "name": "\u0416\u0438\u0442\u0442\u044f \u043d\u0430 \u0441\u043c\u0430\u043a",
+        "url": "https://open.spotify.com/album/7EsmEGu9wpMp392Z6Vx3ah"
       },
       "artists": [
         {
-          "name": "Anna Petrash",
-          "url": "https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2"
+          "name": "The Sonic Temple",
+          "url": "https://open.spotify.com/artist/2to4QfMDFnZ2eWYo0LOGmO"
+        },
+        {
+          "name": "fimamaru",
+          "url": "https://open.spotify.com/artist/3h2oNmmBzcR7cH3dHzF4zD"
         }
       ],
-      "duration_ms": 199186,
-      "name": "\u0421\u0443\u0442\u0456\u043d\u043a\u0438",
-      "url": "https://open.spotify.com/track/5bAsKGr5prU5YdXRCksOfO"
+      "duration_ms": 212062,
+      "name": "\u0416\u0438\u0442\u0442\u044f \u043d\u0430 \u0441\u043c\u0430\u043a",
+      "url": "https://open.spotify.com/track/5SRfVxbI5wsLBOmjIs42Sl"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "Spotguide",
-        "url": "https://open.spotify.com/album/5F7UA29oTxkFMHRBdiikEE"
+        "name": "Orphan",
+        "url": "https://open.spotify.com/album/6rqB9VaPBth2KrpvOYbN5a"
       },
       "artists": [
         {
-          "name": "Cepasa",
-          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
+          "name": "Aircraft",
+          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
         }
       ],
-      "duration_ms": 316097,
-      "name": "Spotguide",
-      "url": "https://open.spotify.com/track/0tPLTXp6lkIi4qhOyRV6IO"
+      "duration_ms": 427627,
+      "name": "Orphan",
+      "url": "https://open.spotify.com/track/21936wTpdKLQnBBOrEoefF"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "Orphan",
-        "url": "https://open.spotify.com/album/6rqB9VaPBth2KrpvOYbN5a"
+        "name": "Spotguide",
+        "url": "https://open.spotify.com/album/5F7UA29oTxkFMHRBdiikEE"
       },
       "artists": [
         {
-          "name": "Aircraft",
-          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
+          "name": "Cepasa",
+          "url": "https://open.spotify.com/artist/5fJEnhCIEvK6eevDCVJ1k1"
         }
       ],
-      "duration_ms": 427627,
-      "name": "Orphan",
-      "url": "https://open.spotify.com/track/21936wTpdKLQnBBOrEoefF"
+      "duration_ms": 316097,
+      "name": "Spotguide",
+      "url": "https://open.spotify.com/track/0tPLTXp6lkIi4qhOyRV6IO"
     },
     {
       "added_at": "2025-08-08 10:56:31",
@@ -1363,26 +1363,18 @@
     {
       "added_at": "2025-08-08 10:56:31",
       "album": {
-        "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
-        "url": "https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe"
+        "name": "\u0410\u0424\u0420\u041e\u0414\u0406\u0422\u0410",
+        "url": "https://open.spotify.com/album/3YWdygtk7xmqTjqueS7cru"
       },
       "artists": [
         {
-          "name": "\u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430",
-          "url": "https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK"
-        },
-        {
-          "name": "ULIA LORD",
-          "url": "https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9"
-        },
-        {
-          "name": "Qarpa",
-          "url": "https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em"
+          "name": "PALMYRA",
+          "url": "https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj"
         }
       ],
-      "duration_ms": 228078,
-      "name": "\u0423\u0441\u0456 \u043c\u0438 \u043f\u0440\u0430\u0433\u043d\u0435\u043c\u043e \u043b\u044e\u0431\u043e\u0432\u0456",
-      "url": "https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm"
+      "duration_ms": 115200,
+      "name": "\u0410\u0444\u0440\u043e\u0434\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/55O2LvQJACyuecjeHxXYxk"
     }
   ],
   "unique_name": "\u0456\u043d\u0434\u0456",

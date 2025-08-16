@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: EESKAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,059 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,108 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 9 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 |
 | 10 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |
 | 11 | [Obasanjo](https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7) | [Yagaa](https://open.spotify.com/artist/0yhQ0VohiKINXDZQTyEwha) | [Obasanjo](https://open.spotify.com/album/1xOat3bVEqUTylh62soG6O) | 2:37 |
-| 12 | [Reaching For My Soul](https://open.spotify.com/track/33A63DvS0Es8XmDv9sIMlS) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p) | [Prodigy](https://open.spotify.com/album/0U4M1Hmk9Jtkw7TOKSNn2Y) | 2:49 |
+| 12 | [Reaching For My Soul](https://open.spotify.com/track/33A63DvS0Es8XmDv9sIMlS) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p) | [Prodigy](https://open.spotify.com/album/0U4M1Hmk9Jtkw7TOKSNn2Y) | 2:39 |
 | 13 | [Igbo](https://open.spotify.com/track/5yz4hoAl0eaOG2N7hK16OY) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Igbo](https://open.spotify.com/album/3goOtAKuLnu6m5qIMcv31L) | 3:03 |
 | 14 | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 |
 | 15 | [Ozugbo](https://open.spotify.com/track/23cr5nh5qIJT1XBbpDDArv) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ozugbo](https://open.spotify.com/album/0b7WNNJBGgqXY0ZFPFksqY) | 2:17 |

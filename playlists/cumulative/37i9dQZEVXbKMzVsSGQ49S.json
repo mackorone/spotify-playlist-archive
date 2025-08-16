@@ -21241,6 +21241,24 @@
     },
     {
       "album": {
+        "name": "Hugmyndir",
+        "url": "https://open.spotify.com/album/0tAQdTKe1e0sABmLtSkYWl"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180222,
+      "name": "Hugmyndir",
+      "url": "https://open.spotify.com/track/7ME7ZuwjPlssALgr3vrqOe"
+    },
+    {
+      "album": {
         "name": "Hugsa Bara Um \u00deig",
         "url": "https://open.spotify.com/album/1VIieGdsxCMVAI4z923Abt"
       },
@@ -21420,7 +21438,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 146853,
       "name": "Hvar ertu n\u00fa?",
       "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
@@ -28172,7 +28190,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 253472,
       "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
       "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
@@ -45176,7 +45194,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 323813,
       "name": "Tala minn sk\u00edt",
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"

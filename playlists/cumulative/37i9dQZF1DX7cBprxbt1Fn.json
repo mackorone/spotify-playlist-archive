@@ -927,6 +927,54 @@
     },
     {
       "album": {
+        "name": "Satie: Gnossienne No. 1 (Arr. Dyens for Guitar)",
+        "url": "https://open.spotify.com/album/6A31DVhBwEM8e7W7q2aNL4"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Gnossienne No. 1 (Arr. Dyens for Guitar)",
+      "url": "https://open.spotify.com/track/0DKHLVXCeX7vI4HoelvrFD"
+    },
+    {
+      "album": {
+        "name": "Goldberg Variations, BWV 988: Aria",
+        "url": "https://open.spotify.com/album/30jsI1KUodN5co5v7Usbax"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Martin Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF"
+        },
+        {
+          "name": "S\u00e9bastien Dub\u00e9",
+          "url": "https://open.spotify.com/artist/0yr0ei8Af6lm3R682hECFG"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289333,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/0HNuXEgv0SLk0i42uzZ6DG"
+    },
+    {
+      "album": {
         "name": "Bach, Sitkovetsky: Goldberg Variations",
         "url": "https://open.spotify.com/album/3UD1Mpkdb2b2A3Jq6QEuhO"
       },
@@ -946,7 +994,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 213853,
       "name": "Goldberg Variations: Goldberg Variations: Aria",
       "url": "https://open.spotify.com/track/62wOFoV1t2yIGuQ0pufHmb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,365 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,373 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 47 | [I Miss The Club](https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO) | [Kweku Saunderson](https://open.spotify.com/artist/6TLjcZpFzo4Sno68bY6MkZ), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [I Miss The Club](https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83) | 2:56 |
 | 48 | [House Princess](https://open.spotify.com/track/2faERFNJkMa1dFoiGgV9Pp) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f) | [House Princess](https://open.spotify.com/album/6wgtaAwdbqmcjIYjMLOsVe) | 5:16 |
 | 49 | [Wanda's Cunty Vision](https://open.spotify.com/track/1IQUcRrh5tY2aAdiO6YObw) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Wanda's Cunty Vision](https://open.spotify.com/album/09IZ4WDGwtbDARXjLCaHRC) | 1:57 |
-| 50 | [Aquecimento de Quatraum](https://open.spotify.com/track/6VaD170zmOKUcgHykfkWIt) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [DJ Swag do Complexo](https://open.spotify.com/artist/7jIZzhw1kzIiFmaWz06PxA), [Oly](https://open.spotify.com/artist/2EJdZPREuVzEQSieC7JQJY) | [Aquecimento de Quatraum](https://open.spotify.com/album/5JAYbFsXleIy2fsSUXKTnL) | 3:18 |
+| 50 | [Aquecimento de Quatraum](https://open.spotify.com/track/6VaD170zmOKUcgHykfkWIt) | [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH), [DJ Swag do Complexo](https://open.spotify.com/artist/7jIZzhw1kzIiFmaWz06PxA), [Oly](https://open.spotify.com/artist/7BfA33PxkDArHxNAZHOmef) | [Aquecimento de Quatraum](https://open.spotify.com/album/5JAYbFsXleIy2fsSUXKTnL) | 3:18 |
 | 51 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 |
 | 52 | [Lite Werk](https://open.spotify.com/track/2ClaJ5SohcbFiwUDZsk7TY) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Muvaland Vol\. 2](https://open.spotify.com/album/2vzMFec2lQn8bZWvljJayj) | 2:26 |
 | 53 | [Wig](https://open.spotify.com/track/40n4caMKy5TSzxKtKOeKRp) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 2](https://open.spotify.com/album/16oQd9JhXxh1swlhdFzedL) | 3:40 |

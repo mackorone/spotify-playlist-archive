@@ -551,6 +551,32 @@
     },
     {
       "album": {
+        "name": "AZUL",
+        "url": "https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        },
+        {
+          "name": "Lavish Dhiman",
+          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138177,
+      "name": "AZUL",
+      "url": "https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL"
+    },
+    {
+      "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
@@ -2004,7 +2030,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 133043,
       "name": "MEDAL",
       "url": "https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC"

@@ -2,7 +2,7 @@
 
 ### [OTW](https://open.spotify.com/playlist/37i9dQZF1DX5ENxuuyTX48)
 
-> wru? OTW!\. Cover: Bunga
+> wru? OTW!\. Cover: Regina Song
 
 1,754 songs - 4 day 9 hr 20 min
 

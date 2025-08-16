@@ -4,7 +4,7 @@
 
 > brutal breakdowns and riffs to amp you up.
 
-349 songs - 23 hr 38 min
+350 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chop Suey!](https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:30 | 2021-12-17 |  |
 | [Collapse](https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Dig Deep](https://open.spotify.com/album/7ABqA1tuH6eonHAIBaBqHe) | 4:12 | 2021-12-17 | 2022-06-09 |
 | [Cowboys from Hell](https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Cowboys from Hell](https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe) | 4:03 | 2021-12-17 |  |
+| [Craven](https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF) | [Vilamoura](https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH) | [Craven](https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd) | 3:43 | 2025-08-15 |  |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-29 | 2024-05-09 |
 | [Cryin' Like A Bitch!!](https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [The Oracle \(Deluxe Edition\)](https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq) | 3:21 | 2021-12-17 |  |
 | [Curse of Darkness](https://open.spotify.com/track/3LUFvlVXNOm2CAmVF11Xbl) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Reaching into Infinity](https://open.spotify.com/album/5lW7oJLGH5ggUyqJEBXu59) | 5:35 | 2021-12-17 | 2022-07-21 |
@@ -296,7 +297,7 @@
 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 | 2021-12-17 |  |
 | [Take Control](https://open.spotify.com/track/32ycd4AOeqMGXmuLA8FSxc) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Repentless](https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL) | 3:13 | 2021-12-17 | 2022-01-19 |
 | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-09-12 | 2025-03-15 |
-| [TANEBI](https://open.spotify.com/track/1qHuqLqX3WMb6EYTk5YIrf) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [TANEBI](https://open.spotify.com/album/0SNL3hIHvftXGTlzy6vdJC) | 3:32 | 2025-06-27 |  |
+| [TANEBI](https://open.spotify.com/track/1qHuqLqX3WMb6EYTk5YIrf) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [TANEBI](https://open.spotify.com/album/0SNL3hIHvftXGTlzy6vdJC) | 3:32 | 2025-06-27 | 2025-08-16 |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2022-01-06 | 2024-04-19 |
 | [Tears Don't Fall](https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 5:48 | 2021-12-17 |  |
 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 | 2021-12-17 |  |

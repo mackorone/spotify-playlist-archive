@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-127 songs - 9 hr 22 min
+128 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 Percent](https://open.spotify.com/track/2EhAOc7H0qXKBK9SDTCcKu) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Friends And Other Necessities](https://open.spotify.com/album/5ECnPA9o4D8IlJRBBaC1fe) | 3:29 | 2022-10-28 |  |
 | [Abdelhak](https://open.spotify.com/track/2auWvIfCr5N2FMp8M80hP5) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Lifestyle](https://open.spotify.com/album/5A2e5fAX9EGVDhYAfVgoFj) | 4:03 | 2024-08-02 |  |
 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 | 2021-05-14 |  |
+| [Artificial Love](https://open.spotify.com/track/3bp5qpZaIgSiCBdgZP2s49) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Diastrata](https://open.spotify.com/artist/1Z1MedqFUlxM3OHqdHK7mx) | [Artificial Love](https://open.spotify.com/album/65UpqgG3qjIrwPLVfdIg2z) | 3:56 | 2025-08-15 |  |
 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 | 2022-04-01 |  |
 | [Baby \- Short Version](https://open.spotify.com/track/2vYhju4THfPTF7gTEjaZvr) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/67e02HjSWRGyQ3bJIsMH2S) | 3:07 | 2022-04-01 | 2024-04-19 |
 | [Baby Girl](https://open.spotify.com/track/4JNrXBUhRwZiMnO98GrFgn) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV) | [Baby Girl](https://open.spotify.com/album/6RI3EgiH5O8H46ASJ1QnNb) | 4:17 | 2020-09-18 |  |

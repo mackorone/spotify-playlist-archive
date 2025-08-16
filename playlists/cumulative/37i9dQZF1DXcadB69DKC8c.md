@@ -4,7 +4,7 @@
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-80 songs - 5 hr 50 min
+81 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,13 +55,14 @@
 | [Muziqa muziqa](https://open.spotify.com/track/7uqrZRQZg69UROk3q7rLkU) | [Seyoum Gèbrèyès](https://open.spotify.com/artist/2kTLGigWSwK55FFokkFD5Y), [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:43 | 2018-10-05 |  |
 | [Muziqawi silt \- instrumental](https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H) | [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:46 | 2018-10-05 |  |
 | [Mèla ùèla](https://open.spotify.com/track/1qg8rGaSG8vnX6WNDMRtq6) | [Sèyfu Yohannès](https://open.spotify.com/artist/7G8w8HKoaqt0mbXOkvFHSr) | [Ethiopiques, Vol\. 1: Golden Years of Modern Ethiopian Music 1969\-1975](https://open.spotify.com/album/3WkDWD8ycVO7kHfQPXWDSJ) | 3:26 | 2018-10-05 |  |
+| [Nètsanèt](https://open.spotify.com/track/4xcDmuvy6lmcB3XtT97MvC) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Nètsanèt](https://open.spotify.com/album/2CfmWNMRiJqwdsWkRX6bTW) | 8:15 | 2025-08-15 |  |
 | [Nèy\-nèy wèlèba](https://open.spotify.com/track/3waKYLA5cSivbsdGogvN2F) | [Eténèsh](https://open.spotify.com/artist/1oTyvjrnoid70Yalhl19Sk), [Le Tigre \(des platanes\)](https://open.spotify.com/artist/65H345Tkhe6SuD5FMGtGdE) | [Zèraf!](https://open.spotify.com/album/6p1qdQHjgigdHe3ikHmWbC) | 4:27 | 2018-10-05 |  |
 | [Qelemewa](https://open.spotify.com/track/4BNNLeunrfNyeRGyuJ8tLw) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3) | [Qelemewa](https://open.spotify.com/album/4UDeVOsaWESg690fXrsMq0) | 4:07 | 2018-10-05 |  |
 | [Radcliffe](https://open.spotify.com/track/3yPDgCeNYzu4rKik9Onjq0) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Steps Ahead](https://open.spotify.com/album/7jEivoGNSPuXZhpO2SQrLR) | 7:54 | 2018-10-05 | 2024-04-19 |
 | [Radcliffe](https://open.spotify.com/track/4BLvJsU6EIiDfzIsEWSshH) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Steps Ahead](https://open.spotify.com/album/3XZtjifQdahhaR9zTPJe7E) | 7:54 | 2018-10-05 |  |
 | [Sameraye](https://open.spotify.com/track/7xCkNJI7GXy3OLJjwD0YOy) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 3:28 | 2018-10-05 |  |
 | [Sound of Washint & Masinko \(feat\. Mulatu Astatke\)](https://open.spotify.com/track/2CdBbAcbd9FHbT8xO2C721) | [Tukul Band](https://open.spotify.com/artist/34XOIFTcNr5KJbhUaXDZIf), [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Addis 1988 \(feat\. Mulatu Astatke\)](https://open.spotify.com/album/2sonNCd7qfzjIAkEZXM24M) | 3:33 | 2023-08-14 |  |
-| [Stuzzicadenti](https://open.spotify.com/track/2v2bSUXNQpR0JjTBZltLO7) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 2:23 | 2018-10-05 |  |
+| [Stuzzicadenti](https://open.spotify.com/track/2v2bSUXNQpR0JjTBZltLO7) | [Cosmic Analog Ensemble](https://open.spotify.com/artist/477PPCXcCS9mi3lRRnudCq) | [Beyond Addis 02 \(Modern Ethiopian Dance Grooves Inspired By Swinging Addis\)](https://open.spotify.com/album/0h6TpRuK6ysFLQDXPDM4yT) | 2:23 | 2018-10-05 | 2025-08-16 |
 | [Suur Tõll](https://open.spotify.com/track/7CrA3Zt9he26Dea8pFCYeD) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 4:45 | 2018-10-05 |  |
 | [Telantena zare](https://open.spotify.com/track/1Rs3d222xwyNcB4PrrAtYa) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 9: Alèmayèhu Eshèté 1969\-1974](https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD) | 3:46 | 2018-10-05 |  |
 | [Tezeta](https://open.spotify.com/track/6DJ5dm6aDeobMcFq1WWj18) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tezeta](https://open.spotify.com/album/7l6cwZjSOsaOYD20YaFODd) | 4:30 | 2023-08-14 |  |

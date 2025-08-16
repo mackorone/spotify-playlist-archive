@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Dijon
 
-646 songs - 1 day 13 hr 10 min
+649 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-06-27 | 2024-07-12 |
 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 | 2025-06-12 |  |
 | [Finding Money](https://open.spotify.com/track/0bpA5JIBVexaQFIVPq0kgm) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu), [Jessica Barden](https://open.spotify.com/artist/6iJSrJ7PuMv7aOuHX1eP7j) | [Finding Money](https://open.spotify.com/album/4j0ANvwaysKFyohHAoJw17) | 5:40 | 2025-04-03 | 2025-05-30 |
+| [FIRE!](https://open.spotify.com/track/4dfRBif6eGu0dLau5J5a2Q) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 2:40 | 2025-08-14 |  |
 | [Flicker](https://open.spotify.com/track/1NzbOLW9or6igsD6grouL9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Flicker](https://open.spotify.com/album/0paeHpGbZZ8OLLzZLcA8rv) | 2:49 | 2025-05-29 |  |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-11 | 2024-10-04 |
 | [Flood](https://open.spotify.com/track/6xTHApbdtb0GZEHqpKe2MU) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Flood](https://open.spotify.com/album/2W71nSL9RnbhRvnlwDlmT1) | 2:47 | 2025-02-28 | 2025-05-23 |
@@ -389,6 +390,7 @@
 | [Mungkin Saja](https://open.spotify.com/track/0P9SQLVE76N3QX4AkiyuM7) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Mungkin Saja](https://open.spotify.com/album/4simdciqfJWcdZHk1URkfW) | 2:15 | 2024-06-27 | 2024-07-27 |
 | [My Forever \(feat\. Cecile Believe\)](https://open.spotify.com/track/6xzuuoar0gaGjqvB0Wwy6J) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:04 | 2024-09-27 | 2024-11-22 |
 | [My Love](https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Posse EP Volume 2](https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y) | 4:15 | 2024-07-11 | 2025-02-14 |
+| [my man](https://open.spotify.com/track/12STQE6jL68yjGk63UCmPn) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:59 | 2025-08-14 |  |
 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 | 2025-01-17 | 2025-04-04 |
 | [NAZARETH](https://open.spotify.com/track/0ZEMeEQErtSTxRhHivmwWQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [NAZARETH](https://open.spotify.com/album/7cfzLoxdqBkiJP8AvbOLfd) | 3:04 | 2024-09-20 | 2025-02-14 |
 | [need 2 breathe](https://open.spotify.com/track/1WO4Kn1TmIM56ksI4wF9mw) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [need 2 breathe](https://open.spotify.com/album/7J0eh1T8zhjzgvi3yig48y) | 2:31 | 2025-03-14 | 2025-05-16 |
@@ -647,6 +649,7 @@
 | [x\-ray eyes](https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [x\-ray eyes](https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt) | 4:51 | 2024-11-01 | 2024-11-15 |
 | [Y Gath](https://open.spotify.com/track/0vogozD1nNBsfNLjkR2SMi) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty) | [Y Gath](https://open.spotify.com/album/6LnYighGETaBk0RiIVs6Uv) | 4:05 | 2025-06-05 | 2025-07-25 |
 | [y3llow bike](https://open.spotify.com/track/4vo4KkMSWRQCD7xpufEHdU) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [y3llow bike](https://open.spotify.com/album/2BbTCbIU80QgpujEbHHDNA) | 2:54 | 2025-06-26 | 2025-08-15 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-14 |  |
 | [Yoga Teacher](https://open.spotify.com/track/5GBZZ2Q99ZGmJ5lU9XbXSN) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Yoga Teacher](https://open.spotify.com/album/5Q6OuANaLh0lskxqvvZE69) | 2:58 | 2024-11-22 | 2025-02-14 |
 | [YOMM](https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [INTRO](https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF) | 3:33 | 2024-09-20 | 2024-10-18 |
 | [You Don't Even Need It](https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Burn The Right Things Down](https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2) | 3:16 | 2024-10-17 | 2024-11-15 |

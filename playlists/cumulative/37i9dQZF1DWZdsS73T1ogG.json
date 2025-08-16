@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Omar Courtz, Bassyy, Derek Santana",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Kidd Voodoo",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -7486,7 +7486,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 116493,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/2fLoNEeUh5Gd7gDrRjGmql"
@@ -8310,7 +8310,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 172800,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/5JEbjp9bZj555BHIBR4NzN"
@@ -8416,6 +8416,32 @@
       "duration_ms": 157021,
       "name": "Con La Mini",
       "url": "https://open.spotify.com/track/0mo9HCsRSwDE2dMInlm8OJ"
+    },
+    {
+      "album": {
+        "name": "TAROT: Del cielo al infierno",
+        "url": "https://open.spotify.com/album/0mxQjzU4dTtAc6YeEK7ax0"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Con Otra",
+      "url": "https://open.spotify.com/track/1NhvH0qdOuuFncWGAIXxTg"
     },
     {
       "album": {
@@ -8562,7 +8588,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 151442,
       "name": "Conmigo Se Escapa",
       "url": "https://open.spotify.com/track/2U48v71nIFHBxdKsih8r4P"
@@ -11047,6 +11073,24 @@
     },
     {
       "album": {
+        "name": "dime tu bb",
+        "url": "https://open.spotify.com/album/4D4oTIQbQgrwIcMKIhFnAH"
+      },
+      "artists": [
+        {
+          "name": "TORRRES",
+          "url": "https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "dime tu bb",
+      "url": "https://open.spotify.com/track/4G4v8SFiypvlXfCPVG0w2O"
+    },
+    {
+      "album": {
         "name": "Dios Te Guarde",
         "url": "https://open.spotify.com/album/39FWI7m59GEtYNHxrTZrod"
       },
@@ -11772,7 +11816,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 155294,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/1PRBPRUtxegMupMRWhbP8C"
@@ -13716,7 +13760,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 146666,
       "name": "Esto Es Un Party",
       "url": "https://open.spotify.com/track/2i37hZepfYVPFz6jw7qIsh"
@@ -14539,6 +14583,32 @@
     },
     {
       "album": {
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/4yncxbDiei50iRgylAbRAs"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "DJ Maff",
+          "url": "https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226363,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/0OIKfpoILjgIyAuOl7N7dB"
+    },
+    {
+      "album": {
         "name": "FISHULERIA (INTERLUDE N.02)",
         "url": "https://open.spotify.com/album/7mMebbeTdVsX7dFgCrkzRa"
       },
@@ -14580,7 +14650,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 217500,
       "name": "FIT EUROPEO",
       "url": "https://open.spotify.com/track/7b525BstcjLwRvaNzjKiXL"
@@ -14686,7 +14756,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 182871,
       "name": "Flashbacks | CROSSOVER #9",
       "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
@@ -15756,7 +15826,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 179318,
       "name": "GASTAR",
       "url": "https://open.spotify.com/track/6kejWIS75SB4JqRM0BWZDc"
@@ -16492,7 +16562,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 115764,
       "name": "GOUT",
       "url": "https://open.spotify.com/track/27hhDyCqi0cLgl5rmcXOXX"
@@ -19348,7 +19418,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 193408,
       "name": "LA BB",
       "url": "https://open.spotify.com/track/0ZHa7r3FjMjZlnwgwyTdgX"
@@ -20275,6 +20345,28 @@
     },
     {
       "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Die",
+          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm"
+    },
+    {
+      "album": {
         "name": "LA Pleasure",
         "url": "https://open.spotify.com/album/7CCeqdT0OadxmilsfaTKzp"
       },
@@ -20746,7 +20838,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 132467,
       "name": "LaBlackie - Fugitivo Vol. 33",
       "url": "https://open.spotify.com/track/629r2uHAUpsGxLpxjDgxm7"
@@ -21022,7 +21114,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
@@ -21200,7 +21292,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 169705,
       "name": "LINDA",
       "url": "https://open.spotify.com/track/3rpatdv4oGWHL2rZzTAscf"
@@ -23280,7 +23372,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 183636,
       "name": "MARTINI+",
       "url": "https://open.spotify.com/track/6LNeAcM7VY0715oliFJ8dd"
@@ -25746,7 +25838,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 169200,
       "name": "Morrita (Tinker Bell)",
       "url": "https://open.spotify.com/track/6YdkAzfexm7nUydxWaU9aQ"
@@ -27494,7 +27586,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 126458,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/3G3Uw55jRnU0akfHO2fHZM"
@@ -27556,7 +27648,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -28588,7 +28680,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 156470,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/1XqfvcXdjSte9ds4zL9Nm9"
@@ -28606,7 +28698,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 141575,
       "name": "Ojitos Chinos",
       "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
@@ -29376,7 +29468,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 260254,
       "name": "Pa las girlas (con DJ Urba) - Remix",
       "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
@@ -29820,7 +29912,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 205866,
       "name": "Palomita - Remix",
       "url": "https://open.spotify.com/track/61DiWW5LRdxPpkYuaUOd7i"
@@ -31867,6 +31959,40 @@
     },
     {
       "album": {
+        "name": "Polvora (feat. Baby Johnny, Juliito)",
+        "url": "https://open.spotify.com/album/4jcZJTXQ9vibwU0xDCakyV"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Tutu",
+          "url": "https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W"
+        },
+        {
+          "name": "Baby Johnny",
+          "url": "https://open.spotify.com/artist/16yTBMwXmeW9MQgfcHZgA7"
+        },
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329454,
+      "name": "Polvora (feat. Baby Johnny, Juliito)",
+      "url": "https://open.spotify.com/track/5Vrl6IcsieRi52qu69p8zZ"
+    },
+    {
+      "album": {
         "name": "Pol\u00e9mica",
         "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
       },
@@ -32204,7 +32330,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 176470,
       "name": "Prende Algo",
       "url": "https://open.spotify.com/track/4w1oKzWEDOjUafW6k28Tsl"
@@ -33978,7 +34104,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 215730,
       "name": "Ranking",
       "url": "https://open.spotify.com/track/1QsA4ruZoBRobvtrrzmjyO"
@@ -34870,7 +34996,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 173022,
       "name": "ROS\u00c9",
       "url": "https://open.spotify.com/track/5oXo0e51380SVSKtx0fhqF"
@@ -36150,7 +36276,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 210007,
       "name": "Si Las Gatas Se Amotinan (feat. DobleP) - Remix",
       "url": "https://open.spotify.com/track/2MYGYUldG51mtKTKvT1h6Q"
@@ -36370,6 +36496,28 @@
       "duration_ms": 141146,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/39giKLa2hFi1zWX6lZKhnt"
+    },
+    {
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
     },
     {
       "album": {
@@ -38585,6 +38733,48 @@
     },
     {
       "album": {
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/5DT754rqI4CDH9PFEZWbVP"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "LA M RECORDS",
+          "url": "https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X"
+        },
+        {
+          "name": "LA X27",
+          "url": "https://open.spotify.com/artist/0xdUgji7b1jMGaCCZWJ8KK"
+        },
+        {
+          "name": "Slick La Mina",
+          "url": "https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n"
+        },
+        {
+          "name": "Blackinny",
+          "url": "https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334744,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/4Pg6wwrHnrM9WqRgcpEBIV"
+    },
+    {
+      "album": {
         "name": "TBT (Remix) [feat. Micro TDH, Feid]",
         "url": "https://open.spotify.com/album/4fJCo0tMt9NELbHalwY5Qe"
       },
@@ -39096,6 +39286,28 @@
       "duration_ms": 325174,
       "name": "Te Veo Bailar (feat. Brray & Alejandro Armes)",
       "url": "https://open.spotify.com/track/3CerlljsJSVaRrzESJQVWU"
+    },
+    {
+      "album": {
+        "name": "Telenovela - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7MmNrpIYMaertJRmaXHu7t"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153585,
+      "name": "Telenovela - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5WZaRKWmxLuoQqpsrbOQw8"
     },
     {
       "album": {
@@ -39682,6 +39894,32 @@
       "duration_ms": 301428,
       "name": "Todita RMX",
       "url": "https://open.spotify.com/track/4a1zarsLq1i7EDnutpy3kl"
+    },
+    {
+      "album": {
+        "name": "TODO KE VER",
+        "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "TODO KE VER",
+      "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
     },
     {
       "album": {
@@ -40302,7 +40540,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 332820,
       "name": "Tranquilo (Remix Oficial) feat. Kris R., iZaak",
       "url": "https://open.spotify.com/track/0J2sWV6wNwKvSoaadiZ5LK"
@@ -43004,7 +43242,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 170721,
       "name": "Wayar",
       "url": "https://open.spotify.com/track/2XHTHAAEkCFBHD8Q8Y9gYY"
@@ -44516,7 +44754,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 165779,
       "name": "\u00bfQu\u00e9 vas a hacer?",
       "url": "https://open.spotify.com/track/1Dosy4xZNhFmi5KXjhehVt"

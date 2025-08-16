@@ -2,7 +2,7 @@
 
 ### [Women of R&B](https://open.spotify.com/playlist/37i9dQZF1DX1wNY9tfWQsS)
 
-> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mariah Carey
+> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: CoCo Jones & Alicia Keys
 
 187 songs - 11 hr 58 min
 

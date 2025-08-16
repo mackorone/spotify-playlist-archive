@@ -2,7 +2,7 @@
 
 ### [Hot Hits USA](https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl)
 
-> The hottest tracks in the United States\. Cover: Disco Lines & Tinashe
+> The hottest tracks in the United States\. Cover: Chappell Roan
 
 751 songs - 1 day 16 hr 42 min
 

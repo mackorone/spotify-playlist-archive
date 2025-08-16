@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: ena mori
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,536 likes - 58 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,535 likes - 58 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 31 | [sementeryo](https://open.spotify.com/track/7CGUHkmCRap32eFjXFaV1s) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [sementeryo](https://open.spotify.com/album/4UbSOWtgTWW7z9Qw6Ykplv) | 3:06 |
 | 32 | [Everybody Wants To Rule The World](https://open.spotify.com/track/0wIV2L2LvmRkNGSBbSUiuF) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Everybody Wants To Rule The World](https://open.spotify.com/album/5ZlME2u1TJL4HXouSGbIrF) | 4:17 |
 | 33 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |
-| 34 | [praning](https://open.spotify.com/track/2KaDMYTcrwwpKxeaOuEiQN) | [unikko ijo](https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK) | [praning](https://open.spotify.com/album/6mJByoG2Pwpfj7JiIYmW3g) | 2:49 |
+| 34 | [praning](https://open.spotify.com/track/2KaDMYTcrwwpKxeaOuEiQN) | [unikko ijo](https://open.spotify.com/artist/2D7VJeNRHoVQgxnNXxR9cK), [Kenneth Co](https://open.spotify.com/artist/2r9rCV2Yfl4r9YwCFNPqtl) | [praning](https://open.spotify.com/album/6mJByoG2Pwpfj7JiIYmW3g) | 2:49 |
 | 35 | [Lia](https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Superpower](https://open.spotify.com/album/047FChdsheEbLOQ1LzuuO8) | 4:20 |
 | 36 | [san juan](https://open.spotify.com/track/1NT1aQIoEz6TDf88T1mq1W) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [oshin](https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB) | 3:53 |
 | 37 | [October](https://open.spotify.com/track/2FLcvttJzDNFmAyRyikgc9) | [Wiji Kun](https://open.spotify.com/artist/1X3KbP5esRXH95jVlTi1R6) | [October](https://open.spotify.com/album/1l35MLMhL5L2EDrllIASY3) | 3:52 |

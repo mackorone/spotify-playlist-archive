@@ -8231,6 +8231,24 @@
     },
     {
       "album": {
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/1V1dNfi7rebbHqcX1K4Mt8"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144810,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/1CrGyHNz5qicP2Q5JQSS8E"
+    },
+    {
+      "album": {
         "name": "BROKEN",
         "url": "https://open.spotify.com/album/1aHlFkhxyz1Yxmb7sgQh24"
       },
@@ -18048,7 +18066,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 120500,
       "name": "f\u00fchl ich",
       "url": "https://open.spotify.com/track/1YaNZ0YiRArV4k8akieibd"

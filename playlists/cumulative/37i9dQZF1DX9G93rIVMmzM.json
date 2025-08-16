@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7zNKFmUNZ6yAzsYqv0Habc"
+      },
+      "artists": [
+        {
+          "name": "Dreams They Have Stolen",
+          "url": "https://open.spotify.com/artist/3pvmmwd6f0zBP0Fkp6X4dU"
+        },
+        {
+          "name": "Artifer",
+          "url": "https://open.spotify.com/artist/5DZaSqMnJ9V5KDQVZhns5n"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242553,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/3p0yOrPChxUXZQgIUg4OLZ"
+    },
+    {
+      "album": {
         "name": "BE QUIET AND DRIVE (FAR AWAY) \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr"
       },
@@ -218,7 +240,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 310000,
       "name": "Beneath A Lightless Star",
       "url": "https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth"

@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras elevando a la Música Mexicana\. Cover:  Clave Especial
+> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Grupo Frontera
 
 941 songs - 2 day 0 hr 39 min
 

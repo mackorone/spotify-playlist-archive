@@ -2,7 +2,7 @@
 
 ### [Dominguêra](https://open.spotify.com/playlist/37i9dQZF1DXc1j0125Pa5C)
 
-> Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Clareou, Milthinho
+> Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
 258 songs - 22 hr 11 min
 

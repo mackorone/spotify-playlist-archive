@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "BANDROOM SESSIONS EPISODE 1",
+        "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Alipin",
+      "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
+    },
+    {
+      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
       },
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 303880,
       "name": "Eroplanong Papel",
       "url": "https://open.spotify.com/track/7MrDNu3hC1MjczXhi1citM"
@@ -9234,7 +9252,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 225444,
       "name": "LASIK",
       "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
@@ -18456,7 +18474,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 337580,
       "name": "Waltz of Four Left Feet",
       "url": "https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H"

@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 196402,
       "name": "De c\u00f3mo empezamos (Cruce de Caminos)",
       "url": "https://open.spotify.com/track/6YtegG7HMyUZR0ukaBS2mu"
@@ -1688,6 +1688,24 @@
       "duration_ms": 288626,
       "name": "Dice la gente",
       "url": "https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia"
+    },
+    {
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/5rcb27gz7zYhz2LASit9cF"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220084,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4R6FsEosZEko5S92ne5QyV"
     },
     {
       "album": {
@@ -2726,7 +2744,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 246009,
       "name": "Irenita",
       "url": "https://open.spotify.com/track/7BdTaAig1ZrdS5VspEce8Y"
@@ -2798,7 +2816,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "La Belleza",
       "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
@@ -3676,7 +3694,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 385816,
       "name": "Mascaritas de Cristal",
       "url": "https://open.spotify.com/track/7wXNrDKCtYQGqtw1GFptJ0"
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 159066,
       "name": "Mi Querida Espa\u00f1a",
       "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"

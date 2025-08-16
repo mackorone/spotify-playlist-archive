@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-686 songs - 1 day 11 hr 17 min
+687 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Day 'N' Night](https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Day 'N' Night](https://open.spotify.com/album/0nnIZNFYODXvnI9gOFqrI0) | 3:20 | 2024-06-24 | 2024-07-05 |
 | [Daydream](https://open.spotify.com/track/5b8TXX2rT4BmF16oaP8aSX) | [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Daydream](https://open.spotify.com/album/1jRziziJ06m9TjKGlrvKou) | 2:34 | 2022-05-06 | 2022-07-29 |
 | [DEADWEIGHT](https://open.spotify.com/track/6IPDsLsGrJ9cFmQF54QUWS) | [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [ROYBOY](https://open.spotify.com/artist/2EYpoEcPaewrXHX819yiX5) | [DEADWEIGHT](https://open.spotify.com/album/5vyDKDwOhXfll369nVdc76) | 3:03 | 2024-09-27 | 2024-11-15 |
+| [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 | 2025-08-08 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-07-05 | 2024-07-27 |
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 1:57 | 2023-07-18 |  |
 | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Datura](https://open.spotify.com/artist/7Gd5WhhkYzzlMgtkT46oPN) | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId) | 2:22 | 2023-11-22 | 2024-06-25 |
@@ -314,7 +315,7 @@
 | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/track/0TuMPEUwvdKnLQcnq4RS8L) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/album/3zq4pkMU7nSZ7eXGRstvt0) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [IMY \(feat\. Bella Renee\)](https://open.spotify.com/track/6oosMYrpIekDxg67SV60Va) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [DISRUPTOR LP](https://open.spotify.com/album/1UXLEXcUYHLNouwidskiMa) | 2:46 | 2023-03-24 | 2024-04-19 |
 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-16 |  |
-| [In My Arms \- KREAM Remix](https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [In My Arms \(KREAM Remix\)](https://open.spotify.com/album/1qXuQg53DXGnNa7MED6azY) | 3:37 | 2025-07-25 |  |
+| [In My Arms \- KREAM Remix](https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [In My Arms \(KREAM Remix\)](https://open.spotify.com/album/1qXuQg53DXGnNa7MED6azY) | 3:37 | 2025-07-25 | 2025-08-16 |
 | [In My Head](https://open.spotify.com/track/7Ji2sHw2oScKQ14W956LUL) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [In My Head](https://open.spotify.com/album/1qF0GY3P5093pR5cYCKYxp) | 3:40 | 2022-05-06 | 2022-07-28 |
 | [In My Mind](https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [In My Mind](https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa) | 3:04 | 2022-07-14 | 2022-10-01 |
 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 | 2024-09-06 | 2024-11-22 |

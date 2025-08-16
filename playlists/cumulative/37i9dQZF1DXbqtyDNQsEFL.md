@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-582 songs - 2 day 5 hr 41 min
+583 songs - 2 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8) | 5:38 | 2022-06-09 | 2024-07-27 |
 | [Believe For It \- Live](https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor) | 8:22 | 2022-06-09 | 2024-04-19 |
 | [Belong](https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Jubilate](https://open.spotify.com/album/0zAQfG1ejG8bVJ3OrJSRgy) | 2:42 | 2025-07-11 |  |
+| [Best Years](https://open.spotify.com/track/7bekCjFhzYSnU9blJzV97I) | [Victory Gbakara](https://open.spotify.com/artist/5MJZoYivzjQ5lO6F6wavtt) | [Best Years](https://open.spotify.com/album/2DlMAbkvyCjG41650CYgfP) | 4:07 | 2025-08-15 |  |
 | [BEULAH](https://open.spotify.com/track/3kZYEuLgAiBButXGJjWNzb) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [BEULAH](https://open.spotify.com/album/6S5H8R6mzqXkCX2ktKthnX) | 5:25 | 2025-04-18 | 2025-05-02 |
 | [Bigger \- odogwu](https://open.spotify.com/track/4g5KxATLbcyOGNpOYFErU7) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Bigger \(odogwu\)](https://open.spotify.com/album/48QML3HO0ku6ZMnkuYCuAx) | 2:56 | 2023-12-05 | 2023-12-11 |
 | [Billion Words](https://open.spotify.com/track/2puMJOrIlIR5ED23tXG69u) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Billion Words](https://open.spotify.com/album/3MxeCft9yM5F5rpfokjV6Y) | 7:44 | 2022-06-09 | 2023-06-06 |
@@ -130,7 +131,7 @@
 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 | 2023-04-14 | 2024-03-01 |
 | [Eze Ebube](https://open.spotify.com/track/0gv4xh4D75UrI6PrgkEQuC) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Songs Of Gratitude](https://open.spotify.com/album/4S9pQQRdIPNuQuTTULJROK) | 4:07 | 2024-12-31 | 2025-01-07 |
 | [Eze Ebube II](https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Eze Ebube II](https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh) | 7:12 | 2022-06-16 | 2025-02-07 |
-| [Ezinna](https://open.spotify.com/track/2mMpE4T0k5KOGoZHfNk5iO) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [KAYA](https://open.spotify.com/album/0CIpzfndd4ycRb5lIT0JC9) | 3:38 | 2025-08-01 |  |
+| [Ezinna](https://open.spotify.com/track/2mMpE4T0k5KOGoZHfNk5iO) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [KAYA](https://open.spotify.com/album/0CIpzfndd4ycRb5lIT0JC9) | 3:38 | 2025-08-01 | 2025-08-16 |
 | [Faa Faa](https://open.spotify.com/track/7DA0Xpjkc3RQllO9VtOiIy) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF), [Sensational Bamidele](https://open.spotify.com/artist/0alkqw0yku7LVGw6L7SA7N) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 4:14 | 2023-12-05 | 2023-12-11 |
 | [Fade Away](https://open.spotify.com/track/2EiWrz9GFeka1rdT8redKn) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Fade Away](https://open.spotify.com/album/6aJJ3GRPM2S8rfK1gNUUuT) | 8:27 | 2024-11-08 | 2024-11-22 |
 | [Faithful God \- Live](https://open.spotify.com/track/6mkHJKfrdyDvz2efY0KzkZ) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 11:00 | 2023-12-05 | 2023-12-11 |

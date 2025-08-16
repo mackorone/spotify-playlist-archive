@@ -2,7 +2,7 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: MercyMe
+> The best mix of today's Christian music, all genres, worldwide\. Cover: Katy Nichole
 
 1,172 songs - 3 day 7 hr 42 min
 

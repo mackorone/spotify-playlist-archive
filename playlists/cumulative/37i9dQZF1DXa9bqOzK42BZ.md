@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO?si=fqM7FOF0TyGe\_Q8OgNmSqA">Walter Chilambo</a>
 
-259 songs - 22 hr 17 min
+260 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 | 2023-08-25 |  |
 | [Nishike Mkono Bwana](https://open.spotify.com/track/7f16UXvpb37sQMzZs31Gnc) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Nishike Mkono Bwana](https://open.spotify.com/album/2voS8bqTJ6NPmMvtUJqGtk) | 5:56 | 2024-09-27 | 2025-03-21 |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2023-11-24 |  |
+| [Nitakungoja](https://open.spotify.com/track/2NHd6djppB1dXE88EgLsfi) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Nitakungoja](https://open.spotify.com/album/5i9feOeVUEQU3I0sTVYFC4) | 3:41 | 2025-08-15 |  |
 | [Nitendee Muujiza](https://open.spotify.com/track/2LaBKtwYXJUcezbtsTm6mv) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nitendee Muujiza](https://open.spotify.com/album/6JTwPg2DEXufA77WVTbpZv) | 7:39 | 2025-03-21 | 2025-07-25 |
 | [Nitume](https://open.spotify.com/track/3cL9yo7yNtcwnxmEihEhy7) | [Ambassada](https://open.spotify.com/artist/6qpyACpw41RivvvNo2LjsS), [Jaguar](https://open.spotify.com/artist/0cenougOfkeia2aXkKWAUy) | [Nitume](https://open.spotify.com/album/4w353odvJymxTjPYThWZNt) | 3:08 | 2024-03-01 | 2025-02-21 |
 | [Nitumie](https://open.spotify.com/track/336Jz0yGtnAvPfQbLjjlBo) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Thamani](https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF) | 3:56 | 2022-06-24 | 2024-04-19 |
@@ -194,7 +195,7 @@
 | [SEMA ASANTE](https://open.spotify.com/track/2TZ4fabbGN00FOuAP2Hl1p) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [SEMA ASANTE](https://open.spotify.com/album/0kmO8vsAYqPMPEPj25gXPs) | 2:35 | 2024-02-02 | 2024-02-16 |
 | [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 | 2024-02-02 | 2024-10-18 |
 | [Shida](https://open.spotify.com/track/1DwIdpfjh50nhswAniJpQW) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shida](https://open.spotify.com/album/6A83CUr0UmsmAZu8PahRe7) | 4:02 | 2023-08-18 | 2025-02-21 |
-| [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 |  |
+| [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 | 2025-08-16 |
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 | 2024-05-03 |

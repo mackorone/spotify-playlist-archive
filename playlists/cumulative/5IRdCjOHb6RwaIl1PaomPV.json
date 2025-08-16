@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Joon Gloom and Miss Madeline &amp; Chase Icon, plus the latest cuts from Clara Kimera \u00actinbed, TDJ, and more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Bennett Coast, MCR-T &amp; Six Sex, plus the latest cuts from Joon Gloom, Miss Madeline and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
@@ -4443,6 +4443,28 @@
     },
     {
       "album": {
+        "name": "Eteus (K-LONE Remix)",
+        "url": "https://open.spotify.com/album/2NqXnPgLi8w4kzJrs257hw"
+      },
+      "artists": [
+        {
+          "name": "not even noticed",
+          "url": "https://open.spotify.com/artist/2pAV7s3FEruu2LJW6JQGFo"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Eteus - K-LONE Remix",
+      "url": "https://open.spotify.com/track/6W3KgMPghnxvOk9ROfezYo"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/4kTezqSLeK5GcUxu1smYhI"
       },
@@ -4836,7 +4858,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 118936,
       "name": "Family Mart",
       "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
@@ -5816,7 +5838,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 196165,
       "name": "Gonna Be Good",
       "url": "https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW"
@@ -9143,6 +9165,28 @@
     },
     {
       "album": {
+        "name": "MOJADO Y MOJADA",
+        "url": "https://open.spotify.com/album/7MWjI3eBgqZDIaTs4ghGXH"
+      },
+      "artists": [
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184840,
+      "name": "MOJADO Y MOJADA",
+      "url": "https://open.spotify.com/track/3hcH3hBbyifKpMMiKeUXk3"
+    },
+    {
+      "album": {
         "name": "Powders",
         "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
       },
@@ -9950,7 +9994,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -11077,6 +11121,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/66QnzKFEFwji6nKdd2EiH3"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245320,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5IM7K2NbI81E02JR48ggbS"
+    },
+    {
+      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
@@ -11658,6 +11720,24 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
+    },
+    {
+      "album": {
+        "name": "red mustang",
+        "url": "https://open.spotify.com/album/5zBq50aMfduBmJFZ5QqCLV"
+      },
+      "artists": [
+        {
+          "name": "ALCATRAZ",
+          "url": "https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140146,
+      "name": "red mustang",
+      "url": "https://open.spotify.com/track/7GCIBsR9AaK0zMvzhhGcvV"
     },
     {
       "album": {
@@ -14405,6 +14485,28 @@
     },
     {
       "album": {
+        "name": "unknown reasons",
+        "url": "https://open.spotify.com/album/1pY9tTjFfRMV2tbSrxZLqL"
+      },
+      "artists": [
+        {
+          "name": "notinbed",
+          "url": "https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8"
+        },
+        {
+          "name": "Clara Kimera",
+          "url": "https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225988,
+      "name": "touch grass",
+      "url": "https://open.spotify.com/track/5swQzUvPEeYFfI8KDezHth"
+    },
+    {
+      "album": {
         "name": "Jam City Presents EFM",
         "url": "https://open.spotify.com/album/0qeUqiPHZbBNfQjcWxIvWR"
       },
@@ -15436,7 +15538,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 172859,
       "name": "Where's The Daddy?",
       "url": "https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL"

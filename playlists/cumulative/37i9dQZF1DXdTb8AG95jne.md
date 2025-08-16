@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: SE SO NEON\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,051 songs - 2 day 15 hr 50 min
+1,052 songs - 2 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -921,6 +921,7 @@
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-15 | 2024-05-10 |
 | [Twin](https://open.spotify.com/track/6xBpDSWAn3ovizgJ9WJcax) | [kang](https://open.spotify.com/artist/4WmXMT5h8qV91UNj76WoiG) | [Twin](https://open.spotify.com/album/4jDNuQGVjqkuJMqX2TXyDS) | 3:17 | 2021-12-21 | 2022-04-19 |
 | [TWISTED FANTASY](https://open.spotify.com/track/2gWcql4DxoZe2A6sfIqYFa) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [A BLOODSUCKER](https://open.spotify.com/album/4MqSOAUx06i8FBWbPCMKSQ) | 2:59 | 2025-06-18 | 2025-07-23 |
+| [Twit Winter](https://open.spotify.com/track/5qBRUlDyVF6PyX8PmICULm) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:21 | 2025-08-15 |  |
 | [Two Days](https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:36 | 2021-12-12 | 2022-07-28 |
 | [Typing \. \. \. \(with Jehwwn\)](https://open.spotify.com/track/4yR254OLRXvEYiAdwSyhTR) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Recall 2](https://open.spotify.com/album/0CGkAjIWKjuDGWXlP38TWU) | 2:48 | 2025-07-29 |  |
 | [ULT](https://open.spotify.com/track/3XNXfOmvlsMxD3G5FWbzpj) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [ULT](https://open.spotify.com/album/0veNUIgNPdXFfJUmr3z7Lu) | 2:26 | 2024-02-07 | 2024-03-09 |
@@ -1036,7 +1037,7 @@
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2021-12-12 | 2025-08-13 |
 | [널 지우려 해](https://open.spotify.com/track/2rrYnRZaanjsF4iPbGk3dS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [여름 감성](https://open.spotify.com/album/4yOWIAHIQYOWGkZ3BOKi3o) | 3:29 | 2021-12-21 | 2022-06-28 |
 | [널 쳐다볼 수 없다는 건 \(feat\. 애주레버\)](https://open.spotify.com/track/5pfn2VzX9479nIJpJimI7y) | [ONSEEON](https://open.spotify.com/artist/4cF9R9jQRn9KDSJ7NJukdy), [Azurever](https://open.spotify.com/artist/0e2qmR2yaHGVpsjwZpJ35N) | [널 쳐다볼 수 없다는 건](https://open.spotify.com/album/2C5UnsoKTOXkCStmqKoFjE) | 3:04 | 2025-03-14 | 2025-04-10 |
-| [뉴 로맨틱](https://open.spotify.com/track/52Ui66UsXzLYILg6cTzwAE) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [뉴 로맨틱](https://open.spotify.com/album/2brDUUXgAcB5l1vVmWtiYi) | 2:57 | 2025-07-18 |  |
+| [뉴 로맨틱](https://open.spotify.com/track/52Ui66UsXzLYILg6cTzwAE) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [뉴 로맨틱](https://open.spotify.com/album/2brDUUXgAcB5l1vVmWtiYi) | 2:57 | 2025-07-18 | 2025-08-16 |
 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 | 2022-03-31 | 2022-04-08 |
 | [떠날까 Should We Leave](https://open.spotify.com/track/63yfmOOnCoH6CVxJIOl3pm) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [아무도 모르게 Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 4:45 | 2023-07-05 | 2023-07-18 |
 | [마네킨 Mannequin](https://open.spotify.com/track/2jZl3rjxP3BcouBIEd4XS2) | [The ASIANIC](https://open.spotify.com/artist/7hrYxrbbaa7TtlKqg9iruF) | [마네킨 Mannequin](https://open.spotify.com/album/2xuc8x41OZSjTeP255pqdv) | 3:40 | 2023-01-10 | 2023-01-26 |

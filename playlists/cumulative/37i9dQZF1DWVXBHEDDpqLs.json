@@ -4003,6 +4003,28 @@
     },
     {
       "album": {
+        "name": "E After Next",
+        "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239179,
+      "name": "E After Next",
+      "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
+    },
+    {
+      "album": {
         "name": "Earnest Binary",
         "url": "https://open.spotify.com/album/6hV13F7pRbFqP0igKhjPHr"
       },
@@ -4342,7 +4364,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 166285,
       "name": "Everybody Over",
       "url": "https://open.spotify.com/track/4No1alSr6ux0ttjJqjAx8A"
@@ -7544,7 +7566,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 245687,
       "name": "Kinda Like That (ft. Kassie Krut)",
       "url": "https://open.spotify.com/track/4VIROWRp3bCbdFF6xpRpKD"
@@ -9382,6 +9404,24 @@
       "duration_ms": 292682,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/46zUvDdntnlZRTAZr9nMRS"
+    },
+    {
+      "album": {
+        "name": "WRITING WRONGS",
+        "url": "https://open.spotify.com/album/1LTZqJGD1v36iqwIGRHL6g"
+      },
+      "artists": [
+        {
+          "name": "PLUS ONE",
+          "url": "https://open.spotify.com/artist/3mKAVq1GsEjcDLrvGKZKxP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "ONE EYE SHUT",
+      "url": "https://open.spotify.com/track/318rPEgLcvzmdK3nzJpRf2"
     },
     {
       "album": {

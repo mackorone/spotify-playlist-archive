@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Amaarae
+> Afro sounds crossing borders\. Cover: Wizkid and Tyla
 
 858 songs - 1 day 20 hr 12 min
 

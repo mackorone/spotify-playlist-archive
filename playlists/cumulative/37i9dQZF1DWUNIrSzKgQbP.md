@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-782 songs - 2 day 1 hr 1 min
+783 songs - 2 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Summer Girl](https://open.spotify.com/track/3MkcVmqLSxHTkTFgczctbQ) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Songbook](https://open.spotify.com/album/0HaxURSQDvUzdSDGcrgkDz) | 3:16 | 2022-06-07 | 2022-09-07 |
 | [Summer Guest](https://open.spotify.com/track/2x4DW2FItY2bHdOvEm30kM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence](https://open.spotify.com/album/69ca0kNrnT5F8jvzNpEjD8) | 3:44 | 2022-06-07 | 2022-09-07 |
 | [Summer in Sweden](https://open.spotify.com/track/1LokUjbKTVhz8wBoqL9fRX) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF) | [Summer in Sweden](https://open.spotify.com/album/3RkTNWVtI8tSe7NroYDpdh) | 3:59 | 2024-05-28 | 2024-08-29 |
+| [Summer of Love](https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 4:48 | 2025-08-15 |  |
 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 | 2025-06-23 |  |
 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 | 2023-06-21 |  |
 | [Sunset Strip](https://open.spotify.com/track/11GJY4xMU7GcHZ2ODYhHqX) | [J.E\. Sunde](https://open.spotify.com/artist/17x8QHiHxUhMSEv26RT7lW) | [Sunset Strip](https://open.spotify.com/album/5wYMHpstmqwu9rmR9bqgym) | 3:33 | 2022-03-21 | 2022-06-08 |

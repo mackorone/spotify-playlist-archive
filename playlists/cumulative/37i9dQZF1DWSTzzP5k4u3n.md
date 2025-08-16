@@ -2,7 +2,7 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa Samuli Putro.
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa Tuure Kilpeläinen.
 
 473 songs - 1 day 3 hr 44 min
 

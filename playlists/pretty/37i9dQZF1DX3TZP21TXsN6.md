@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 ### [Fresh Flows](https://open.spotify.com/playlist/37i9dQZF1DX3TZP21TXsN6)
 
-> Nieuw: Karma K, FOCUS, Pierrii en meer...
+> Nieuw: TYCH, Brunzyn, Getit en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,723 likes - 38 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,721 likes - 38 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Da's Brunzynbaby](https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9), [Dentalhon](https://open.spotify.com/artist/7aIdHQ8AGazYhQrF8dOe84) | [Da's Brunzynbaby](https://open.spotify.com/album/4IBxYCz5rMWl99Y4mvq55l) | 2:03 |
 | 2 | [Borderline](https://open.spotify.com/track/3j8Cv655AAT5M9AsxZ0skx) | [TYCH](https://open.spotify.com/artist/6kTbW6MDF6yj2PHjz4kSoJ), [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Borderline](https://open.spotify.com/album/6HJ6xLe9h0jfT1wbIbHKYR) | 2:24 |
 | 3 | [101](https://open.spotify.com/track/5iagAmyHevYQhpBRFRiJ0F) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [101](https://open.spotify.com/album/1ZFICtj5yKkg6cXk9A4bU7) | 2:32 |
-| 4 | [Track 11](https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Omdat Het Kan](https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6) | 0:00 |
+| 4 | [Hoogwater](https://open.spotify.com/track/3oL34RUjavJXyCTVafn7Hz) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Omdat Het Kan](https://open.spotify.com/album/6i6EKiaER1rWdZl9CVS8Q6) | 2:27 |
 | 5 | [Piece of me](https://open.spotify.com/track/70ydevkdO0djQ3rJmpDuIa) | [Loontje Packs](https://open.spotify.com/artist/7zdCYb0tL9wzgtiZmo86yo), [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [SURRI](https://open.spotify.com/artist/1CLP6paOGZXg1qIkYvyzHo) | [Piece of me](https://open.spotify.com/album/5XmkKi4gOenQnMTUquv1VF) | 3:11 |
 | 6 | [Papucho](https://open.spotify.com/track/2odDG9OI4nyZoT5567Se0B) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0) | [Papucho](https://open.spotify.com/album/1EVZHXfuIBIlZkOHH6fOHW) | 2:55 |
 | 7 | [Summertime babe](https://open.spotify.com/track/2zuh3CXSXeEkp2GZSNPKCV) | [KraagBoyz](https://open.spotify.com/artist/1zvXk8JqqlvmjEtVRVxeBh), [Monsif](https://open.spotify.com/artist/2zGNNkuDbxiDVcIdt5fUUk), [24k Water](https://open.spotify.com/artist/08zCPe6ID8PSsFK1q4D037), [Flavio](https://open.spotify.com/artist/52H0eJ4FUfYYbWb8Dc32BU) | [Summertime babe](https://open.spotify.com/album/4JevY7W75wEjjUwqwzHnvz) | 2:08 |

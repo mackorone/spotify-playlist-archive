@@ -4,7 +4,7 @@
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-80 songs - 4 hr 30 min
+81 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Sueños Sepultados](https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 4:25 | 2023-12-30 | 2024-04-10 |
 | [También](https://open.spotify.com/track/5aGIUlnA7rzfcktPG7TdtM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Honesty](https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB) | 2:28 | 2025-08-14 |  |
 | [También](https://open.spotify.com/track/6MBO36iLmjGYXxHkLYSnmW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 2:28 | 2025-07-24 | 2025-08-14 |
-| [Tampoco](https://open.spotify.com/track/0daV7ewqqgPfO7ZWjAlm2p) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 4:22 | 2025-07-06 |  |
+| [Tampoco](https://open.spotify.com/track/0daV7ewqqgPfO7ZWjAlm2p) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 4:22 | 2025-07-06 | 2025-08-16 |
+| [Tampoco](https://open.spotify.com/track/658cKzKKCgIGtmnnnNq2qH) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Honesty](https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB) | 4:22 | 2025-08-16 |  |
 | [Todo El Tiempo](https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Todo El Tiempo](https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv) | 2:33 | 2023-12-30 | 2025-07-06 |
 | [Tú](https://open.spotify.com/track/3qP10K3jeiB2xoz8OZF6nO) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:33 | 2023-12-30 |  |
 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 | 2023-12-30 |  |

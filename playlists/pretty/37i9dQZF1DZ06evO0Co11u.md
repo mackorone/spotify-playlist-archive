@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,184 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,200 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 49 | [C’est Si Bon \- Live](https://open.spotify.com/track/2Txs5QunNcvxgWWGAy0Tkz) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Swiss Radio Days Jazz Series Vol\. 48 \(Live At Lausanne 1952\)](https://open.spotify.com/album/0ftmKj5CIkEvw5Gquuf3K3) | 2:55 |
 | 50 | [When The Saints Go Marching In](https://open.spotify.com/track/3GMxobnrcay3xl6jJ7fbVz) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Armstrong Of New Orleans](https://open.spotify.com/album/6E7Os1yQXJ6suqGSK5GdzL) | 2:42 |
 
-Snapshot ID: `aJvVgAAAAAC56CWB9A6LvYP9tAci8aE4`
+Snapshot ID: `aJ0nAAAAAAAnCfO8ZNq0f1x4m1j6olr6`

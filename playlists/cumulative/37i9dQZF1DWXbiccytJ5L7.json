@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187692,
+      "name": "Runnin",
+      "url": "https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9"
+    },
+    {
+      "album": {
         "name": "SHOOT THE LOCK",
         "url": "https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP"
       },
@@ -2780,6 +2798,24 @@
       "duration_ms": 148486,
       "name": "Sinner Like Me",
       "url": "https://open.spotify.com/track/01sSGVKLUffTpikbdvjEwl"
+    },
+    {
+      "album": {
+        "name": "Sippin Country",
+        "url": "https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd"
+      },
+      "artists": [
+        {
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "Sippin Country",
+      "url": "https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq"
     },
     {
       "album": {

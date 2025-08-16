@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > hi Zara ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,855 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,806 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 3 | [Trinkets](https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Trinkets](https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g) | 1:56 |
 | 4 | [CAR CRASH](https://open.spotify.com/track/5vUQ9itUCoPJolzp2L2SqY) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [Dolly Zoom](https://open.spotify.com/album/252UgdVnTPfKwiAKq5KLlx) | 2:21 |
 | 5 | [It's You](https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 2:49 |
-| 6 | [Track 3](https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [KOREAN AMERICAN](https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83) | 0:00 |
+| 6 | [1\-800\-FUCKOFF](https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [KOREAN AMERICAN](https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83) | 2:27 |
 | 7 | [Catch Me If You Can](https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Catch Me If You Can](https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm) | 2:37 |
 | 8 | [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 |
 | 9 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |

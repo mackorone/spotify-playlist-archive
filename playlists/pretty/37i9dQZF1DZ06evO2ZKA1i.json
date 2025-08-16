@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 298474,
+  "num_followers": 298503,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAADvHMJ4Y8m6vqLW4XTP94Q5",
+  "snapshot_id": "aJ0nAAAAAAB8haAhbTeX/L+OYxTdorsP",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "A Gypsy's Kiss",
-      "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/6ivsgcVBWi6Etm2EldytF4"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 287479,
       "name": "Things I Never Said - 20th Anniversary Remix",
       "url": "https://open.spotify.com/track/3kcZN8cbpnF4MY5FL7qka3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 312826,
+      "name": "A Gypsy's Kiss",
+      "url": "https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "Bad Attitude",
-      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 240026,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 286733,
+      "name": "Bad Attitude",
+      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Bloodsucker - 1995 Remaster",
-      "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Strangers",
         "url": "https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 278826,
       "name": "Under The Gun",
       "url": "https://open.spotify.com/track/3tWcr1XvZumZ8a6MenaEq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Bloodsucker - 1995 Remaster",
+      "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
-        "url": "https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 297756,
-      "name": "MTV - 2005 Studio Jam",
-      "url": "https://open.spotify.com/track/2jZlAUENIibCQHtu6GIBuf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 256626,
       "name": "Vavoom: Ted The Mechanic",
       "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whoosh!",
+        "url": "https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Nothing at All",
+      "url": "https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whoosh!",
-        "url": "https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2"
+        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Nothing at All",
-      "url": "https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j"
+      "duration_ms": 297756,
+      "name": "MTV - 2005 Studio Jam",
+      "url": "https://open.spotify.com/track/2jZlAUENIibCQHtu6GIBuf"
     },
     {
       "added_at": null,

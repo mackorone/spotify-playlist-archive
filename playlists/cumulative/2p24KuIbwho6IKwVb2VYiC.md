@@ -4,7 +4,7 @@
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: James Hype
 
-346 songs - 18 hr 6 min
+347 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [set me free](https://open.spotify.com/track/7Dwk4YmBNSqOfRAN7MjQZK) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [set me free](https://open.spotify.com/album/1WNtZYYc1F8LzMRtHhr94M) | 3:38 | 2024-10-24 |  |
 | [Settle For Less](https://open.spotify.com/track/2JnF9w6ONUVFN1JqhgZYSn) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Settle For Less](https://open.spotify.com/album/2sp2DmqYC3CKn8XwInSqYU) | 4:04 | 2024-03-15 | 2025-03-08 |
 | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/track/748MqeDRJ401KBqwCn5zHB) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Seven \(feat\. Latto\) \(Alesso Remix\)](https://open.spotify.com/album/3nDzRDgvd0SxAxRHEefwDb) | 2:42 | 2023-10-27 | 2025-01-22 |
+| [Sex In The Mosh](https://open.spotify.com/track/2jjtWrKi0LW8nnFqbRJr8p) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Sex In The Mosh](https://open.spotify.com/album/0TMRJHdvd1GBEcKeMoadew) | 2:14 | 2025-08-15 |  |
 | [Shadows](https://open.spotify.com/track/0Ni4MDtBVlLPXm5gkkAuO6) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Shadows](https://open.spotify.com/album/6MlLPpOvRWGdwQEtFasIP4) | 3:45 | 2023-10-27 | 2023-11-25 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-05-31 | 2025-01-22 |
 | [Showstopper \(Feat\. AJ Tracey\) \- Remix](https://open.spotify.com/track/2wVGQRIr9TAEAHH8QqzfOE) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Showstopper \(Feat\. AJ Tracey\) \[Remix\]](https://open.spotify.com/album/6ayHvDamcngmka9d5Bms1l) | 2:38 | 2025-01-06 | 2025-01-22 |

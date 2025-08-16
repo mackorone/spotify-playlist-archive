@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 580321,
+  "num_followers": 580389,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAAD8G3E/OpLkFhJQrOsmY6CF",
+  "snapshot_id": "aJ0nAAAAAADiRIZzNzyJWkir//aQQF9+",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret Of Life: Partners, Volume 2",
-        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
       "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 232751,
-      "name": "The Very Thought Of You (with Bob Dylan)",
-      "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
+      "duration_ms": 277106,
+      "name": "Boots of Spanish Leather",
+      "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+        "name": "The Secret Of Life: Partners, Volume 2",
+        "url": "https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2"
       },
       "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 277106,
-      "name": "Boots of Spanish Leather",
-      "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+      "duration_ms": 232751,
+      "name": "The Very Thought Of You (with Bob Dylan)",
+      "url": "https://open.spotify.com/track/11D9S73itV15ZGvlaCIL0L"
     },
     {
       "added_at": null,

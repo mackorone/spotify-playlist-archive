@@ -1675,6 +1675,40 @@
     },
     {
       "album": {
+        "name": "The Music of the Night",
+        "url": "https://open.spotify.com/album/1tiJbQz0iqXMEx6FPnTNMQ"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Charles Hart",
+          "url": "https://open.spotify.com/artist/6IFUhDPbZkH4ytZZDiu0x4"
+        },
+        {
+          "name": "Richard Stilgoe",
+          "url": "https://open.spotify.com/artist/17peneSLV6CavfRbQEACCu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259146,
+      "name": "The Music of the Night",
+      "url": "https://open.spotify.com/track/00z8mp4OhNj73Q3fxCkA3l"
+    },
+    {
+      "album": {
         "name": "Songs for Mother's Day",
         "url": "https://open.spotify.com/album/2rf9GLP4UNK76ZzbuimoFN"
       },

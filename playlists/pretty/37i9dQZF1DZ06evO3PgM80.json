@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21161,
+  "num_followers": 21164,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAADhvu5fKhtoazwn8p4pMt0Y",
+  "snapshot_id": "aJ0nAAAAAAA7LHW09Ky67j7FUOb24++b",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Luciano Camargo",
-          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "Sem Palavras",
-      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ele Vem / A Cidade Santa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QYG11SWkllPiFFnq5pxgQ"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 329586,
       "name": "Ele Vem / A Cidade Santa - Ao Vivo",
       "url": "https://open.spotify.com/track/3ITvJ8pM7FVFsqXwBepr0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Luciano Camargo",
+          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "Sem Palavras",
+      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
+        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 417426,
-      "name": "Alfa e \u00d4mega - Ao Vivo",
-      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+      "duration_ms": 245133,
+      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
+        "name": "Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
+      "duration_ms": 417426,
+      "name": "Alfa e \u00d4mega - Ao Vivo",
+      "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
     },
     {
       "added_at": null,

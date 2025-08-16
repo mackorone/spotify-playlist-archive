@@ -4421,6 +4421,32 @@
     },
     {
       "album": {
+        "name": "ASAP",
+        "url": "https://open.spotify.com/album/3sPRCUZ4nQZWOqWL4MVqEf"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220496,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/4B5uXnQnWdDYnJzIGHLyTe"
+    },
+    {
+      "album": {
         "name": "ASERE",
         "url": "https://open.spotify.com/album/6mPUr9I6hMOh2UB6rvL0B7"
       },
@@ -21459,7 +21485,7 @@
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 197520,
+      "duration_ms": 149500,
       "name": "Gafas Carrera",
       "url": "https://open.spotify.com/track/3JAvgj69ef7nfE2ubci0JG"
     },
@@ -24562,6 +24588,24 @@
       "duration_ms": 213030,
       "name": "ILYSMIH",
       "url": "https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap"
+    },
+    {
+      "album": {
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
       "album": {
@@ -59852,6 +59896,24 @@
       "duration_ms": 186666,
       "name": "Ya s\u00e9",
       "url": "https://open.spotify.com/track/38ydHYk2vT3UNNxG5GbhJs"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "album": {

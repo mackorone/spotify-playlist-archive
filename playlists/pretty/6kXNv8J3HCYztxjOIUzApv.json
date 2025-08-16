@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you work out! Follow for updates!",
-  "num_followers": 61676,
+  "num_followers": 61675,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAIz7lQQrIFYazatBaIjmzkMc+ayHnb",
+  "snapshot_id": "AAAI0viYfSTe8cxSiLeXH5ntAkFabx7t",
   "tracks": [
     {
       "added_at": "2025-08-08 16:01:32",
@@ -535,6 +535,22 @@
       "duration_ms": 190906,
       "name": "Dead_Alive",
       "url": "https://open.spotify.com/track/4pZJXU5qsZfWj5Gnp5UgSR"
+    },
+    {
+      "added_at": "2025-08-15 11:18:52",
+      "album": {
+        "name": "Wish You The Worst",
+        "url": "https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 186837,
+      "name": "Wish You The Worst",
+      "url": "https://open.spotify.com/track/5bP9loKqIou1QjTpjBD4x7"
     },
     {
       "added_at": "2025-06-13 15:26:37",
@@ -3483,6 +3499,38 @@
       "duration_ms": 203706,
       "name": "Guerrilla Radio",
       "url": "https://open.spotify.com/track/1lenAyuxQejwcsgLQtGqPV"
+    },
+    {
+      "added_at": "2025-08-15 11:18:52",
+      "album": {
+        "name": "Wish You The Worst",
+        "url": "https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Dead_Alive",
+      "url": "https://open.spotify.com/track/4WOCfO9F6eVwE5KGDt7T1Y"
+    },
+    {
+      "added_at": "2025-08-15 11:18:52",
+      "album": {
+        "name": "Wish You The Worst",
+        "url": "https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 184325,
+      "name": "Where Were You..?",
+      "url": "https://open.spotify.com/track/1xzGXbSJDSAyd92Wwn3fkV"
     }
   ],
   "unique_name": "Hard Rock Workout",

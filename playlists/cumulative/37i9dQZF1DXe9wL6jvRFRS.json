@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-11",
-  "description": "spun from south london\u2019s windmill scene, a thread of community-driven experimental guitar music and constant evolution worldwide. caroline on the cover.",
+  "description": "spun from south london\u2019s windmill scene, a thread of community-driven experimental guitar music and constant evolution worldwide. Racing Mount Pleasant on the cover.",
   "name": "Spindle",
   "tracks": [
     {
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Racing Mount Pleasant",
+        "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
+      },
+      "artists": [
+        {
+          "name": "Racing Mount Pleasant",
+          "url": "https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301744,
+      "name": "Outlast",
+      "url": "https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC"
+    },
+    {
+      "album": {
         "name": "Bright Green Field",
         "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 315619,
       "name": "Racing Mount Pleasant",
       "url": "https://open.spotify.com/track/3fua3zsMYUgGBgnNlocxrU"

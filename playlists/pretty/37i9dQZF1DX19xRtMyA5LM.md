@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Frenna & Hamza
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,839 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,855 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 8 | [Laatste Nacht](https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:21 |
 | 9 | [noord](https://open.spotify.com/track/7KqFp0nwYNVgMF8Co3ELGg) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [noord](https://open.spotify.com/album/1hur4aUfZ3azbyF5OVczdk) | 1:57 |
 | 10 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 |
-| 11 | [Zak](https://open.spotify.com/track/6mN8mkxZvE8d6BBo0xDWwa) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Zak](https://open.spotify.com/album/4RDr4qsLZF8LhA8ICTQKkb) | 2:19 |
+| 11 | [Zak](https://open.spotify.com/track/6mN8mkxZvE8d6BBo0xDWwa) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi) | [Zak](https://open.spotify.com/album/4RDr4qsLZF8LhA8ICTQKkb) | 2:19 |
 | 12 | [Hetzelfde Liedje](https://open.spotify.com/track/7spyb42SHishjLoNC7icpc) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Hetzelfde Liedje](https://open.spotify.com/album/2TRJRQGiyh4bVXBS8w9lpm) | 3:24 |
 | 13 | [Noord Africano](https://open.spotify.com/track/0l1sQbnwbLIWzGcSVAgmPO) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Noord Africano](https://open.spotify.com/album/0QlNKFqSnmpdzcuqBYY4x0) | 2:47 |
 | 14 | [Vdv](https://open.spotify.com/track/6qB66SFVZSTTWlWT8POSlM) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793) | [Noéden](https://open.spotify.com/album/1v80U9kA5nNBvJXlCQbEFW) | 3:31 |

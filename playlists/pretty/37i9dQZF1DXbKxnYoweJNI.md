@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 好樂團 \(Good Band\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,399 likes - 145 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,432 likes - 145 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 7 | [爱我别烦](https://open.spotify.com/track/7lxYye2HtDWeN2R8MRyvyC) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI), [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [不好意思我要开始冒犯了](https://open.spotify.com/album/0EJ0Ckr9LCtJ3AMMFvqYYi) | 3:17 |
 | 8 | [輝煌旅行社 \(feat\. 李炳輝\)](https://open.spotify.com/track/67r70wQhYUAKnmtmtxBc9k) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB), [李炳輝](https://open.spotify.com/artist/7gMPvoGwlG78NPqN5FjQ5T) | [輝煌旅行社 \(feat\. 李炳輝\)](https://open.spotify.com/album/4jDuy5tUSSQj265vzz87wl) | 4:19 |
 | 9 | [誤入病區](https://open.spotify.com/track/7wFq3aHz2AP2vl7fAnnOjF) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [誤入病區](https://open.spotify.com/album/2Wpf708AhzErTgMfJqzCW5) | 3:28 |
-| 10 | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/track/7r9rxsVZeGggiszibAnHGV) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp), [張勝為](https://open.spotify.com/artist/0sVqKKgTSajF3T7SWi2zkg), [梁宏彰](https://open.spotify.com/artist/7HzoNb1VXWTsU7N6y7Yz2u), [謝宗翰](https://open.spotify.com/artist/0Pe2x2wVow1RLMBBzWL7s8) | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/album/2wlWkHONbSYYy6rzHX5AqO) | 2:00 |
+| 10 | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/track/7r9rxsVZeGggiszibAnHGV) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/album/2wlWkHONbSYYy6rzHX5AqO) | 2:00 |
 | 11 | [夢啊望《角頭\-鬥陣欸》電影片尾曲](https://open.spotify.com/track/7GledKFvWqT5fzu3KBwsp7) | [Jason Wang](https://open.spotify.com/artist/51ebLrYm2zzhVTz56XR57C) | [夢啊望《角頭\-鬥陣欸》電影片尾曲](https://open.spotify.com/album/62YrS0SytWUbaaXr6tqJKc) | 4:42 |
 | 12 | [Let's Dream About Love \(feat\. GermanPops Orchestra\) \[Live\]](https://open.spotify.com/track/42v7fZoy8aebsHmnfO8TDv) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [German Pops Orchestra](https://open.spotify.com/artist/41iM2TVnXEGbB1K02NA0WW) | [二十站一刻](https://open.spotify.com/album/2J8v6PzV4WeCCcX1wZL4fE) | 3:33 |
 | 13 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康钧](https://open.spotify.com/artist/6nm407v04NzMuUrci7SxNP) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 44 | [Coffee Table Lunch](https://open.spotify.com/track/6ibWACBdTi3m7rXWvZZw5i) | [冠妤 Nikko](https://open.spotify.com/artist/4NUexdfszshMuohBRzHANX) | [Coffee Table Lunch](https://open.spotify.com/album/09g3N58bV8kSeAxjY7UKms) | 3:00 |
 | 45 | [濃](https://open.spotify.com/track/4mvTIx47MPz41ScELVsqJi) | [陳世威](https://open.spotify.com/artist/0NzfQtDc3HlyRVrVJ9UJUD) | [濃](https://open.spotify.com/album/3kQjKntoK2faY13480v006) | 3:46 |
 | 46 | [給月亮的情書](https://open.spotify.com/track/2ZqCwuKgjbUAhpnpLjjX04) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [給月亮的情書](https://open.spotify.com/album/3WZqmI0dLE7g7az7g7EWr1) | 3:20 |
-| 47 | [窮寡婦](https://open.spotify.com/track/6qy6gCMrhqjONOx6CsUnLL) | [Elim 以琳](https://open.spotify.com/artist/4Y9qG7S2ijwe068wxqn8pY), [Mini Liu](https://open.spotify.com/artist/1QHPn0LAG1uvkPzOyRXeaw) | [窮寡婦](https://open.spotify.com/album/3f2lOCACYLp8iGq0pAVnEw) | 2:51 |
+| 47 | [窮寡婦](https://open.spotify.com/track/6qy6gCMrhqjONOx6CsUnLL) | [Elim 以琳](https://open.spotify.com/artist/4Y9qG7S2ijwe068wxqn8pY), [Mini Liu](https://open.spotify.com/artist/1QHPn0LAG1uvkPzOyRXeaw), [雅博渡口](https://open.spotify.com/artist/608mwVFOr4eUD1H3oXxx6e) | [窮寡婦](https://open.spotify.com/album/3f2lOCACYLp8iGq0pAVnEw) | 2:51 |
 | 48 | [Summertime](https://open.spotify.com/track/7K8Ler9o1ebJk3Wp5HCcrZ) | [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma) | [Summertime](https://open.spotify.com/album/6LhmdCwHKDEbQKUah9xRG4) | 2:49 |
 | 49 | [以爲和因爲 \(feat\. 牛奶白\)](https://open.spotify.com/track/062WNxqtuGYtxlu72nDXsU) | [王美蓮](https://open.spotify.com/artist/7aAxpHEKyv5LMkhSLBUlJN), [牛奶白](https://open.spotify.com/artist/7oiYU5piZs5UFgTsz97N61) | [以爲和因爲 \(feat\. 牛奶白\)](https://open.spotify.com/album/38zEJd0iQZx5vyFRH492p9) | 4:06 |
 | 50 | [情绪过载\(Emotional Overload\)](https://open.spotify.com/track/0rZv3eMgVlZ1eovwPmtVez) | [Yimi3翁一铭](https://open.spotify.com/artist/7nBaSK50UJk2un8OWJO0Aj) | [情绪过载\(Emotional Overload\)](https://open.spotify.com/album/314Vt0yokfioyiQ2DSdAjz) | 2:46 |

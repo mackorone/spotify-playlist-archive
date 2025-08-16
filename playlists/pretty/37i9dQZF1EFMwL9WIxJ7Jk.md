@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,400 likes - 92 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,401 likes - 92 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,6 +99,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 89 | [Jingle Bells](https://open.spotify.com/track/7uxQZgOHsAKyG0Bb9CrNqO) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7cZBXcpZ2VMJovpQqYOYhy) | 2:15 |
 | 90 | [Thuis Met Kerst](https://open.spotify.com/track/7GPYBjORxZHTRkzlWdg9ZH) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/57F06YWxjejADp9Flm5eFJ) | 3:10 |
 | 91 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
-| 92 | [Nice To Meet Ya](https://open.spotify.com/track/5u38Dc4sPhelP1unYecOwi) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Super Step Workout 3](https://open.spotify.com/album/3B975kDF73jnEphg0CteCO) | 4:01 |
+| 92 | [Nice to Meet Ya](https://open.spotify.com/track/60SQiZejxmqwgiSe2mPJqu) | [Cody Pendelton](https://open.spotify.com/artist/0kxOvMQwTYw90WEV7JrHBT) | [Mega Bops](https://open.spotify.com/album/5ajMtM28U3mK2az8PLY6Eu) | 3:17 |
 
-Snapshot ID: `Ab5gngAAAABXxa9u11zmV/gfIaat7S0H`
+Snapshot ID: `Ab5mNAAAAAAtx0WGUos8AlNNsOqXWeZd`

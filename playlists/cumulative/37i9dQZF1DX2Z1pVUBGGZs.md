@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring Asha Banks 🌙
 
-580 songs - 1 day 5 hr 11 min
+581 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Why's this dealer?](https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Why's this dealer?](https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX) | 2:09 | 2024-08-29 | 2025-03-07 |
 | [wild flower](https://open.spotify.com/track/4TchkLQGxjFlrPVnaQAKoK) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [in waves](https://open.spotify.com/album/6y1BndaDRT2FtLEHLg301e) | 4:10 | 2025-04-11 | 2025-05-23 |
 | [WRONG](https://open.spotify.com/track/2wecLXIHdYjBgEnqW2PEsX) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [WRONG](https://open.spotify.com/album/69EOzQ7nMQ7IWHPb8wGSq4) | 2:56 | 2025-05-29 | 2025-07-25 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-14 |  |
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-03 | 2024-11-22 |
 | [You & I](https://open.spotify.com/track/3JlBXzmvPO4hb86LAfeyZ0) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [We Talk Thunderstorms Not Showers \(Part 1\)](https://open.spotify.com/album/35R9EEIY2aMIGPbrMvfLO0) | 2:08 | 2025-02-14 | 2025-03-15 |
 | [you couldn't stay for long](https://open.spotify.com/track/0Y5ofZAfjhPhhP8F7rxE9Q) | [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [you couldn’t stay for long](https://open.spotify.com/album/7sC7tq4fL9SYUB50NZUkcS) | 3:16 | 2025-05-22 | 2025-08-15 |

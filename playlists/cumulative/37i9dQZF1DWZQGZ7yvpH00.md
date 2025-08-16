@@ -2,7 +2,7 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eslabon Armado en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Chino Pacas en portada.
 
 492 songs - 1 day 3 hr 13 min
 

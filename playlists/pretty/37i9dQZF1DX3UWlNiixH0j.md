@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: DYGL
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,234 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,258 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 56 | [sekisei inko](https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sekisei inko](https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9) | 3:27 |
 | 57 | [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 |
 | 58 | [PERFECT](https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [TIME SLIP](https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo) | 4:28 |
-| 59 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
-| 60 | [Perfection](https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Naz Yamada](https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB) | [Togetherness Jam](https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk) | 3:47 |
-| 61 | [真珠色](https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光の路](https://open.spotify.com/album/582c8uDijGKHpheqhprwdm) | 4:00 |
-| 62 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
-| 63 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 59 | [Perfection](https://open.spotify.com/track/2ecm0BE0kRX9nHl7Xgb56m) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [Naz Yamada](https://open.spotify.com/artist/47nbdbnYzAVz3TuhzgPZpB) | [Togetherness Jam](https://open.spotify.com/album/4uRgmfabBc3XhZ1psqFcAk) | 3:47 |
+| 60 | [夏の幻](https://open.spotify.com/track/4cPZnL4hqsb5gGYkg0BCvi) | [the paddles](https://open.spotify.com/artist/49QNPOMtx2yZmOxXGqJ1MO) | [夏の幻](https://open.spotify.com/album/6b91XQOCaGyOvY55EJBmuM) | 4:26 |
+| 61 | [花粉](https://open.spotify.com/track/3zMFEGYHWW8W0dkcEd7qsC) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [花粉](https://open.spotify.com/album/612j2yQlcZ3I58paV1Iosj) | 4:19 |
+| 62 | [真珠色](https://open.spotify.com/track/24ig6rx0VPphf6nJ6hIyqt) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [光の路](https://open.spotify.com/album/582c8uDijGKHpheqhprwdm) | 4:00 |
+| 63 | [eeny meeny](https://open.spotify.com/track/1zB528nZpEHqU6OvPgdBI4) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [eeny meeny](https://open.spotify.com/album/3FXVX5ocEWkuTg5eMNDsNX) | 4:16 |
 | 64 | [WINDSDAY](https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [WINDSDAY](https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh) | 3:05 |
-| 65 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
-| 66 | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/album/73UJZj4EcVKqqiFZZDqQu1) | 3:14 |
-| 67 | [たぶん悪魔が](https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [MY CHEMICAL ROMANCE](https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn) | 3:57 |
-| 68 | [いい湯だな](https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [いい湯だな](https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU) | 2:41 |
-| 69 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
-| 70 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
-| 71 | [Supernice \- feat\. トリプルファイヤー吉田](https://open.spotify.com/track/0OA3ffeRroSiyZKWFc91TH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX) | [Supernice \(feat\. トリプルファイヤー吉田\)](https://open.spotify.com/album/5cKmc7jOSE0DwoPDiwggm4) | 3:49 |
-| 72 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
-| 73 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
-| 74 | [Let it Out](https://open.spotify.com/track/0Hq4ipiDzacP4oDNS7sHae) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [凌元耕](https://open.spotify.com/artist/4T9yqxoC8xxX8Qt1EWT7aj) | [Let it Out](https://open.spotify.com/album/6EhX0X2emIWJMXJK21hHqC) | 3:27 |
-| 75 | [Lone Star](https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Lone Star](https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi) | 4:22 |
+| 65 | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [不完全な僕の声と君の完璧なダンス](https://open.spotify.com/album/73UJZj4EcVKqqiFZZDqQu1) | 3:14 |
+| 66 | [いい湯だな](https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [いい湯だな](https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU) | 2:41 |
+| 67 | [NEON TOKYO](https://open.spotify.com/track/1Vhe6NNoxa3YpSeymrmoVQ) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [NEON TOKYO](https://open.spotify.com/album/5YRg8VJpj2k5nybZHHsSdN) | 3:38 |
+| 68 | [たぶん悪魔が](https://open.spotify.com/track/5b0g5HwI78H21tN7sTq5zS) | [ゆうらん船](https://open.spotify.com/artist/4SDLL3cZT6a7CKfcOreWZm) | [MY CHEMICAL ROMANCE](https://open.spotify.com/album/2Rsi3rsTQuOZTJECcFh2zn) | 3:57 |
+| 69 | [Can we do it again?](https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Can we do it again?](https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr) | 3:30 |
+| 70 | [Blur](https://open.spotify.com/track/6uoksVrNY1sJRSGPwbZS8O) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Blur](https://open.spotify.com/album/7dGGUywMPNHdKpLJpoljuO) | 4:09 |
+| 71 | [AWAKE](https://open.spotify.com/track/0Mou1LRIG7KRfFtfcJfnJv) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [AWAKE](https://open.spotify.com/album/75E4yuPqN4aAfLpfZu0TME) | 3:53 |
+| 72 | [Lone Star](https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Lone Star](https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi) | 4:22 |
+| 73 | [Supernice \- feat\. トリプルファイヤー吉田](https://open.spotify.com/track/0OA3ffeRroSiyZKWFc91TH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [トリプルファイヤー](https://open.spotify.com/artist/1Hr7ESrCzlm2W7FbpUgYwX) | [Supernice \(feat\. トリプルファイヤー吉田\)](https://open.spotify.com/album/5cKmc7jOSE0DwoPDiwggm4) | 3:49 |
+| 74 | [人生は失敗だった](https://open.spotify.com/track/1stY1Q72eXqTG2TwRVP2QQ) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [人生は失敗だった](https://open.spotify.com/album/6o7zKGuuxJMvjbaujRhIWS) | 3:27 |
+| 75 | [echoes of fading girl](https://open.spotify.com/track/1hfQ5DyTYhgudSZ7lbQP5Q) | [揺れるは幽霊](https://open.spotify.com/artist/70047sK1o9JHFzaj6tyg5Y) | [echoes of fading girl](https://open.spotify.com/album/7vl5WnSGQlnQbbK3iZxQNm) | 4:39 |
 
 Snapshot ID: `AAAAAJOmrZmSwwhFd3kdtHgU0rY4X3xl`

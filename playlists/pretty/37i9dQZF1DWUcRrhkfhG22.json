@@ -1,13 +1,33 @@
 {
   "description": "Funky vocoders and talk boxes",
-  "num_followers": 59403,
+  "num_followers": 59422,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANB5XJKbMRjMd6COc5URVwFtv15F",
+  "snapshot_id": "AAAAAEYY+wv9kiDrp5ho2UVVyTdsv3y8",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:11",
+      "album": {
+        "name": "Artificial Love",
+        "url": "https://open.spotify.com/album/65UpqgG3qjIrwPLVfdIg2z"
+      },
+      "artists": [
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        },
+        {
+          "name": "Diastrata",
+          "url": "https://open.spotify.com/artist/1Z1MedqFUlxM3OHqdHK7mx"
+        }
+      ],
+      "duration_ms": 236208,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/3bp5qpZaIgSiCBdgZP2s49"
+    },
     {
       "added_at": "2025-03-21 04:00:44",
       "album": {

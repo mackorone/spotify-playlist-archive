@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: Mechatok
+> Genre\-less\. Quality first always\. Cover: Djion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,063 likes - 177 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,038 likes - 177 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 176 | [Armani Section](https://open.spotify.com/track/7pgwaq8Kcrjaefu8sMHqvO) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Armani Section](https://open.spotify.com/album/58rUJ7zrrbiKubVa4LO59K) | 3:00 |
 | 177 | [Omorfo Mou](https://open.spotify.com/track/0KfsgnDl1DxrudLyDrD1Iq) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Omorfo Mou](https://open.spotify.com/album/0c7AnOZzrNxSSNwEotCL8m) | 2:47 |
 
-Snapshot ID: `AAAAANSMGfzkD/KeMalq3S4vfT9kySrO`
+Snapshot ID: `AAAAAAv12KJEjBdI2viHvOSX1UpYglLY`

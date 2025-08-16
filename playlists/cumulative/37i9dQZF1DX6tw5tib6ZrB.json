@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Drake, Offset, Tyler, The Creator and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Cardi B, Nasty C, Offset  and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 208000,
       "name": "Baby Mad At Me (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 127862,
       "name": "boffum",
       "url": "https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS"
@@ -1810,6 +1810,32 @@
       "duration_ms": 194811,
       "name": "coMPRess",
       "url": "https://open.spotify.com/track/6NXG22PY2M8tdRU5WNKGjn"
+    },
+    {
+      "album": {
+        "name": "Control (with Joeboy & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185880,
+      "name": "Control (with Joeboy & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
     },
     {
       "album": {
@@ -3838,7 +3864,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 177777,
       "name": "HOT GIRL PROBLEMS",
       "url": "https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh"
@@ -4132,6 +4158,24 @@
       "duration_ms": 184630,
       "name": "ILMB (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+    },
+    {
+      "album": {
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
     },
     {
       "album": {
@@ -4508,6 +4552,28 @@
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
+    },
+    {
+      "album": {
+        "name": "Leftie (Dlala Ngcobo)",
+        "url": "https://open.spotify.com/album/4vrHJEAGizqZHuf4pSXpQD"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148869,
+      "name": "Leftie (Dlala Ngcobo)",
+      "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
     },
     {
       "album": {
@@ -5180,6 +5246,28 @@
       "duration_ms": 164861,
       "name": "MOTOWN",
       "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
+    },
+    {
+      "album": {
+        "name": "Move Wrong (feat. VonOff1700)",
+        "url": "https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139807,
+      "name": "Move Wrong (feat. VonOff1700)",
+      "url": "https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV"
     },
     {
       "album": {
@@ -7238,7 +7326,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 202500,
       "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
       "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"
@@ -8291,6 +8379,28 @@
     },
     {
       "album": {
+        "name": "Thierry Henry",
+        "url": "https://open.spotify.com/album/5LuSGdSF3GM7tFz9g2m7B3"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "36",
+          "url": "https://open.spotify.com/artist/7DGmBOT6629EbsQOqINEqJ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "Thierry Henry",
+      "url": "https://open.spotify.com/track/5pqLT31JcC7kwjqIsq74D2"
+    },
+    {
+      "album": {
         "name": "Think U The Shit (Fart)",
         "url": "https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO"
       },
@@ -8618,7 +8728,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 267692,
       "name": "Tree",
       "url": "https://open.spotify.com/track/6jwtD6xAveK9dZbnirE8sz"

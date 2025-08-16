@@ -2,7 +2,7 @@
 
 ### [Street Energy ](https://open.spotify.com/playlist/37i9dQZF1DX1GHMwBE32Ob)
 
-> From the trenches\. Through the streets.<br/>Cover: Rema
+> From the trenches\. Through the streets.<br/>Cover: Shoday
 
 384 songs - 17 hr 40 min
 

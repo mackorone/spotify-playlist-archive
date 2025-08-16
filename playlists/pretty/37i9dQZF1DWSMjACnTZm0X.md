@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C?si=Ir\-jxYolQAa\_kEyVh8eDuQ">D'banj</a>, <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=MQIy0hxGSWSE56AjAIzpEg">DJ Maphorisa</a>, <a href="https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe?si=ddoaKh86SCanWqMsvMzAVg">DJ OBI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,243 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,246 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 6 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 7 | [Loyal](https://open.spotify.com/track/01pAPjpO2BBDAWG4yGs6uA) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Loyal](https://open.spotify.com/album/4gYliBmMW5PvtrRbOn5Ish) | 2:40 |
 | 8 | [Jo Vibe Remix](https://open.spotify.com/track/0Z9FI7KCUie4rowDZMJvbK) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jo Vibe Remix](https://open.spotify.com/album/2DtfoxVGDXVooE1143c3mz) | 2:14 |
-| 9 | [Track 6](https://open.spotify.com/track/08gKu7H4TZf3SJchIq1ymK) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 0:00 |
+| 9 | [V.I.P\. \(feat\. Billnass & DJ Awakening\)](https://open.spotify.com/track/08gKu7H4TZf3SJchIq1ymK) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:02 |
 | 10 | [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 |
 | 11 | [Na Scra](https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Na Scra](https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B) | 2:30 |
 | 12 | [Kautaka](https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Kautaka](https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA) | 3:19 |

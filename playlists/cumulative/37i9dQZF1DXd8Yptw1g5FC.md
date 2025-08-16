@@ -4,7 +4,7 @@
 
 > Melek Mosso ve haftanın en iyi çıkışları!
 
-2,683 songs - 5 day 15 hr 5 min
+2,685 songs - 5 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 | 2025-03-27 | 2025-04-04 |
 | [Casablanca](https://open.spotify.com/track/00HUcArEVDd5LovEBPk6x3) | [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0) | [Casablanca](https://open.spotify.com/album/0oaj4sMs9T9snJ3wqwKUdX) | 2:05 | 2025-04-03 | 2025-04-11 |
 | [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 | 2025-08-07 | 2025-08-15 |
+| [CAYIR CAYIR](https://open.spotify.com/track/61b9UFsQ3ALbl7jcVar1MC) | [Filiz Karadeniz](https://open.spotify.com/artist/2QH6bBeh0fPlnlnW293oTm) | [CAYIR CAYIR](https://open.spotify.com/album/0MeUo4wJBhTNAyAsi09uv3) | 2:26 | 2025-08-14 |  |
 | [Cehalet Krallığı](https://open.spotify.com/track/2czaH7kNSYlCWmsEmw5yFJ) | [Bozukçalar](https://open.spotify.com/artist/27UnVk35f1D6SLcbvt1DEt) | [Cehalet Krallığı](https://open.spotify.com/album/6F6IKSyGQZ3hu8xPXkaC8H) | 3:38 | 2025-04-17 | 2025-04-25 |
 | [Cehennem](https://open.spotify.com/track/2YWKPckFWxBEklu418lS1w) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Cehennem](https://open.spotify.com/album/5SuFfOuEJQaRvqSoyfPWKO) | 2:14 | 2025-08-07 | 2025-08-15 |
 | [Celestial Longing](https://open.spotify.com/track/0e2WS0kHuTx4fR2N74asTg) | [Esin Aydıngöz](https://open.spotify.com/artist/6ZQWiuIwptdIdRiqchBR1p) | [Celestial Longing](https://open.spotify.com/album/3SvMsx6nEO3E5Aswh2fhSv) | 2:56 | 2025-07-31 | 2025-08-09 |
@@ -1136,6 +1137,7 @@
 | [Ikigai](https://open.spotify.com/track/11k7eTVrVozKSpSMwsKcZt) | [Sezer Uysal](https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj) | [Ikigai](https://open.spotify.com/album/2QBlfdFCuN8jjITsDCJTMt) | 6:34 | 2025-05-08 | 2025-05-16 |
 | [ilk](https://open.spotify.com/track/5bqa2T8pBDYO7zimJHONCJ) | [Mert Üçkardeş](https://open.spotify.com/artist/0YyvO3CyEqiwVmNBKtAwj8) | [ilk](https://open.spotify.com/album/0ooHVswDJnvGsT5TbI8CY9) | 3:20 | 2025-07-03 | 2025-07-11 |
 | [ILYSMIH](https://open.spotify.com/track/3WvPycGo4WJEEGYP429aap) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ILYSMIH](https://open.spotify.com/album/4vRXm1xnqxUkBUeeSqIS5e) | 3:33 | 2025-04-24 | 2025-05-02 |
+| [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-08-14 |  |
 | [In My Life \(Oh Ayah\)](https://open.spotify.com/track/1LzvTGwdQEnAy9OexQ3TYs) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0), [vidi roca](https://open.spotify.com/artist/6jrFGWNf3MF89fhTbnCsBj) | [In My Life \(Oh Ayah\)](https://open.spotify.com/album/3hSEYCMqIsNEn263DkDO4l) | 2:41 | 2025-06-19 | 2025-06-27 |
 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 | 2025-05-29 | 2025-06-06 |
 | [In The Sound Of Breathing](https://open.spotify.com/track/7yNYzyUExexEqXvN0F4E9A) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [In The Sound Of Breathing / Opening](https://open.spotify.com/album/5jdLTKpUZFbtreAaGuZ3vt) | 3:55 | 2025-03-06 | 2025-03-14 |

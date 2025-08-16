@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Kings Elliot
 
-387 songs - 19 hr 58 min
+388 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Mathilda](https://open.spotify.com/track/0WDdn12hdqiLZ0z51XhIk3) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Mathilda](https://open.spotify.com/album/62aBfUsSWYtxGhnmIv3RbN) | 4:02 | 2025-03-14 | 2025-04-06 |
 | [Mayhem](https://open.spotify.com/track/0bTNqfjULSzLvDiqO38K4w) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/4B9uvunHpnqxAuie42u8t1) | 4:28 | 2025-04-17 | 2025-04-25 |
 | [Melody](https://open.spotify.com/track/5wZOJaNBQbOR4adcp4BDNU) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Aquatic Ballet](https://open.spotify.com/album/5J8qlAxbu3hczWlNi0CuY8) | 4:12 | 2025-05-01 | 2025-05-09 |
-| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 |  |
+| [Meteoriti](https://open.spotify.com/track/5v97denncuVynKzc9bdhfD) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Meteoriti](https://open.spotify.com/album/3NKSQ3tHskF1jKbfhZgAmp) | 2:47 | 2025-04-24 | 2025-08-16 |
 | [MEXENDO OMBRIN](https://open.spotify.com/track/4q4vNgUjbtSCjUiHfSBLae) | [BAHIANO](https://open.spotify.com/artist/1Eak86FtlSJpUcBi7TXEXA), [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Trembart](https://open.spotify.com/artist/4rncj8X31QBuSSXiT5XiIR) | [MEXENDO OMBRIN](https://open.spotify.com/album/76M7ENrL7ywPCi0Nxorryx) | 2:19 | 2025-04-24 | 2025-05-02 |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |
 | [Migros oder Coop](https://open.spotify.com/track/7DK5IE6ynYeCFRWWqVh5zk) | [Fründe](https://open.spotify.com/artist/2wfimwYFeZLGY59D7cxc3c) | [Migros oder Coop](https://open.spotify.com/album/1cc3f0UR1Gk2L5C3GEEFxM) | 2:40 | 2025-05-08 | 2025-05-16 |
@@ -378,6 +378,7 @@
 | [Weird Kid](https://open.spotify.com/track/6ChiiuzwA5FV2Szt22nJ7s) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Weird Kid](https://open.spotify.com/album/5YBiuHnpqXl0UBC3tthNj6) | 3:45 | 2025-06-26 |  |
 | [Wenn Du Das Lied Ghörsch](https://open.spotify.com/track/4Iu56eMBRx5CN6l5m4M16o) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fürs Volk](https://open.spotify.com/album/5LMk7KjAHAhOqEna4GNqZG) | 3:33 | 2025-05-01 | 2025-05-09 |
 | [Wer hats erfunden](https://open.spotify.com/track/0QDZw9cs0VnQzEol2DfGJh) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer hats erfunden](https://open.spotify.com/album/52JBA7u2pkfcovbX91KTpm) | 2:12 | 2025-05-22 |  |
+| [What If This World](https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [What If This World](https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr) | 3:39 | 2025-08-14 |  |
 | [What Went Wrong](https://open.spotify.com/track/09LPMQYwT0rv2OleNUJajK) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [April](https://open.spotify.com/album/6g2f5WpDL8hYf8zvrXMiUW) | 2:08 | 2025-05-22 | 2025-06-01 |
 | [When We Get There We'll Know](https://open.spotify.com/track/4wXHE6HfR95WkzbAwWkMP3) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know](https://open.spotify.com/album/2uNlRP9wGl6kZnzAcO0piz) | 3:00 | 2025-05-22 | 2025-06-16 |
 | [Where Were You](https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Where Were You](https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG) | 2:42 | 2024-08-19 | 2025-03-15 |

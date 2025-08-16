@@ -1,13 +1,29 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Lydia Night",
-  "num_followers": 426091,
+  "description": "Dark, hard hitting pop. Cover: Ashnikko",
+  "num_followers": 426132,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaQqYi/2pQaIZNNmkija74Ow933",
+  "snapshot_id": "AAAAAGXgrUKxTaRudXyvI2NXMINxlhjl",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:23",
+      "album": {
+        "name": "Trinkets",
+        "url": "https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 116504,
+      "name": "Trinkets",
+      "url": "https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv"
+    },
     {
       "added_at": "2025-08-08 04:00:49",
       "album": {
@@ -25,20 +41,24 @@
       "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
     },
     {
-      "added_at": "2025-08-08 04:00:49",
+      "added_at": "2025-08-15 04:00:23",
       "album": {
-        "name": "FOREIGN GIRL IN YOUR ROOM",
-        "url": "https://open.spotify.com/album/2SWphLG9i3etow1cF3yCZX"
+        "name": "No Fair",
+        "url": "https://open.spotify.com/album/33Z3HByYE3waLUxBwim2MZ"
       },
       "artists": [
         {
-          "name": "Anna Kornis",
-          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
         }
       ],
-      "duration_ms": 156988,
-      "name": "TOUCH SOMEBODY",
-      "url": "https://open.spotify.com/track/7tbPQ931BWN2j6861w1XKe"
+      "duration_ms": 200074,
+      "name": "No Fair",
+      "url": "https://open.spotify.com/track/38oTngdlSyvTSOSuBxMo7y"
     },
     {
       "added_at": "2025-08-01 04:00:33",
@@ -57,6 +77,74 @@
       "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"
     },
     {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "milk & honey",
+        "url": "https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl"
+      },
+      "artists": [
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 173027,
+      "name": "ur gf",
+      "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
+    },
+    {
+      "added_at": "2025-08-15 04:00:23",
+      "album": {
+        "name": "Till Death",
+        "url": "https://open.spotify.com/album/7beT8amZsq15bpTKOz3FuN"
+      },
+      "artists": [
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Till Death",
+      "url": "https://open.spotify.com/track/0ANmyFstzs8OOD5BjY8HZo"
+    },
+    {
+      "added_at": "2025-08-08 04:00:49",
+      "album": {
+        "name": "FOREIGN GIRL IN YOUR ROOM",
+        "url": "https://open.spotify.com/album/2SWphLG9i3etow1cF3yCZX"
+      },
+      "artists": [
+        {
+          "name": "Anna Kornis",
+          "url": "https://open.spotify.com/artist/7agKvt4n9o9aKwgs9Zce3n"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "TOUCH SOMEBODY",
+      "url": "https://open.spotify.com/track/7tbPQ931BWN2j6861w1XKe"
+    },
+    {
+      "added_at": "2025-08-15 04:00:23",
+      "album": {
+        "name": "Last Ditch Effort",
+        "url": "https://open.spotify.com/album/4AWnBAP7do9Wpz4frLDZii"
+      },
+      "artists": [
+        {
+          "name": "Astrid Pierce",
+          "url": "https://open.spotify.com/artist/7AUfg9LvTM8ZR4rtiacUpH"
+        },
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "duration_ms": 155561,
+      "name": "Hellbent",
+      "url": "https://open.spotify.com/track/1KpnWktqDqyTr0IXagwLIS"
+    },
+    {
       "added_at": "2025-08-08 04:00:49",
       "album": {
         "name": "Who Was I To Want You?",
@@ -73,20 +161,20 @@
       "url": "https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5"
     },
     {
-      "added_at": "2025-08-01 04:00:33",
+      "added_at": "2025-08-08 04:00:49",
       "album": {
-        "name": "milk & honey",
-        "url": "https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl"
+        "name": "1-800-F**K-YOU",
+        "url": "https://open.spotify.com/album/5EZ98Kq5X22Oese1iPoBRx"
       },
       "artists": [
         {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
         }
       ],
-      "duration_ms": 173027,
-      "name": "ur gf",
-      "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
+      "duration_ms": 115113,
+      "name": "1-800-F**K-YOU",
+      "url": "https://open.spotify.com/track/0XUZUSGfg5BdDgPwIWO1GX"
     },
     {
       "added_at": "2025-08-08 04:00:49",
@@ -135,22 +223,6 @@
       "duration_ms": 137536,
       "name": "amen",
       "url": "https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v"
-    },
-    {
-      "added_at": "2025-08-08 04:00:49",
-      "album": {
-        "name": "1-800-F**K-YOU",
-        "url": "https://open.spotify.com/album/5EZ98Kq5X22Oese1iPoBRx"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 115113,
-      "name": "1-800-F**K-YOU",
-      "url": "https://open.spotify.com/track/0XUZUSGfg5BdDgPwIWO1GX"
     },
     {
       "added_at": "2025-08-08 04:00:49",
@@ -761,22 +833,6 @@
       "url": "https://open.spotify.com/track/71m5UAl8ImCsCIUmB6BebA"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "ARC 01: MAIDEN",
-        "url": "https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn"
-      },
-      "artists": [
-        {
-          "name": "Alissic",
-          "url": "https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "BE NO BODY",
-      "url": "https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice"
-    },
-    {
       "added_at": "2025-06-06 04:00:31",
       "album": {
         "name": "Turn Me On",
@@ -843,22 +899,6 @@
     {
       "added_at": "2025-05-23 04:00:41",
       "album": {
-        "name": "We are",
-        "url": "https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 154386,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
-    },
-    {
-      "added_at": "2025-05-23 04:00:41",
-      "album": {
         "name": "addicted",
         "url": "https://open.spotify.com/album/70106lIC8nwyleCcCZQ6uR"
       },
@@ -921,22 +961,6 @@
       "url": "https://open.spotify.com/track/2Y8aKLQSTd5BCIMMmPzdPG"
     },
     {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "CLINGY",
-        "url": "https://open.spotify.com/album/32bSkiLlTyQILJTpMnjyrq"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 204786,
-      "name": "CLINGY",
-      "url": "https://open.spotify.com/track/5OxYShyvkoXuUqKIgdFzhL"
-    },
-    {
       "added_at": "2025-04-18 04:00:43",
       "album": {
         "name": "I'M NOT SCARED",
@@ -951,22 +975,6 @@
       "duration_ms": 152249,
       "name": "I'M NOT SCARED",
       "url": "https://open.spotify.com/track/44aXDy69XdxDgOxULxKIl3"
-    },
-    {
-      "added_at": "2025-04-04 04:00:32",
-      "album": {
-        "name": "Threw Me Away",
-        "url": "https://open.spotify.com/album/1Su8F6OFMWs8mTUiNw2bIH"
-      },
-      "artists": [
-        {
-          "name": "Hayes Warner",
-          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
-        }
-      ],
-      "duration_ms": 183128,
-      "name": "Threw Me Away",
-      "url": "https://open.spotify.com/track/4yErFNfUp8cD7BYd5WjD4B"
     }
   ],
   "unique_name": "SALT",

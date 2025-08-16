@@ -2,9 +2,9 @@
 
 ### [New Dance 2025](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
-> Wekelijkse update! Cover: Marlon Hoffstadt & KI/KI
+> Wekelijkse update! Cover: Julian Fijma
 
-175 songs - 8 hr 45 min
+176 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-08-07 |  |
 | [What You've Done](https://open.spotify.com/track/0gpEMBnI9bV6XUeVhQV2z1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Felixx](https://open.spotify.com/artist/0XC9No7W96qmxh2AweFsjQ), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [What You've Done](https://open.spotify.com/album/5sq3pYe4geR9UybicHvPNw) | 2:08 | 2025-08-07 |  |
 | [When I'm With You](https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [When I'm With You](https://open.spotify.com/album/1bPwymD7N8R2L4HHRi3N1j) | 3:53 | 2025-08-14 |  |
+| [Where Did We Go](https://open.spotify.com/track/03137mzmOhUyJ6jNz77N99) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Where Did We Go](https://open.spotify.com/album/1dKTNjX0FKSEXzuGKqtbLI) | 2:59 | 2025-08-14 |  |
 | [Where's Billy?](https://open.spotify.com/track/4mj8CluVE96YxWvEsOXuDF) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Where's Billy?](https://open.spotify.com/album/0gK8q8yfOfWmtECZM8d0Jp) | 2:18 | 2025-08-14 |  |
 | [Wild Ride](https://open.spotify.com/track/6MNUgYj2zReIKveWUBY2uD) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Wild Ride](https://open.spotify.com/album/0Gvqxk76tbtQaIDySOUpaT) | 3:00 | 2025-07-17 | 2025-08-07 |
 | [YOGO](https://open.spotify.com/track/2SXKj9agH7uy9KAwXCOsyi) | [KEANU](https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3), [CHUMA](https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs), [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh) | [YOGO](https://open.spotify.com/album/1kK0y9HhFhjTnEfIooJxl7) | 3:09 | 2025-08-14 |  |

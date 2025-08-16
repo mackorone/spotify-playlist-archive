@@ -4,7 +4,7 @@
 
 > The premier indie melancholia playlist, featuring Lana Del Rey
 
-430 songs - 1 day 4 hr 48 min
+431 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2022-09-02 | 2024-04-19 |
 | [Drinking Age](https://open.spotify.com/track/6nUPcVDYjCrnNMaXAJ9eO3) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:30 | 2025-01-17 | 2025-02-08 |
 | [Driving the Dynamite Truck](https://open.spotify.com/track/4mxEulRzxyx6SMkVh6mDPY) | [Seam](https://open.spotify.com/artist/0AOyxXRa4odDG1PisHJtKx) | [Kernel](https://open.spotify.com/album/1PCIUbIXn7yPQhqO2LEeE0) | 6:04 | 2020-08-30 | 2020-09-11 |
+| [Dust Bowl](https://open.spotify.com/track/7aamc4vRYmHLYI2aKTDjdJ) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 6:26 | 2025-08-15 |  |
 | [Early To The Party](https://open.spotify.com/track/0J3JK0bohyKpn6zaPheYy0) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 4:05 | 2019-09-29\* | 2020-01-17 |
 | [Emily I'm Sorry](https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 3:34 | 2023-01-18 | 2023-03-03 |
 | [Emily I'm Sorry](https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:34 | 2023-01-18 | 2024-01-04 |
@@ -256,7 +257,7 @@
 | [Otherside](https://open.spotify.com/track/7nycFVsC616uen7TOxhOQb) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:40 | 2019-09-29\* | 2022-07-29 |
 | [Outside with the Cuties](https://open.spotify.com/track/56J5dZ21WjuGKO3Z6LDIoc) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:34 | 2022-08-26 | 2024-04-19 |
 | [Outside with the Cuties](https://open.spotify.com/track/6L5ks2ivQVCLnI4JmIr9NT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/7mTf6AXzDt1q7Iy4Vig1U5) | 2:34 | 2024-03-08 | 2024-09-14 |
-| [Painkillers](https://open.spotify.com/track/6fc51JZVE0Yijdi6RuoLFv) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 3:33 | 2022-04-14 |  |
+| [Painkillers](https://open.spotify.com/track/6fc51JZVE0Yijdi6RuoLFv) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 3:33 | 2022-04-14 | 2025-08-16 |
 | [Paper Thin](https://open.spotify.com/track/65JyCv3jVXSpkGaVyIMnbw) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy) | 4:58 | 2020-10-14 | 2024-09-14 |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2022-07-15 | 2024-04-19 |
 | [Paper Thin](https://open.spotify.com/track/7lrsiXMsUzWsqofMaL3U8e) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Chill Hits](https://open.spotify.com/album/3jjQUZkrzqOtfwHBKa5uoz) | 4:58 | 2022-09-02 | 2022-11-13 |

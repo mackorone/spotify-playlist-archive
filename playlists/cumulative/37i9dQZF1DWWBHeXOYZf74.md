@@ -2,7 +2,7 @@
 
 ### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
 
-> Genre\-less\. Quality first always\. Cover: Mechatok
+> Genre\-less\. Quality first always\. Cover: Djion
 
 3,108 songs - 7 day 6 hr 1 min
 

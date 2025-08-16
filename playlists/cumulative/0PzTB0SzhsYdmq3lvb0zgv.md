@@ -4,7 +4,7 @@
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-243 songs - 13 hr 28 min
+248 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't But a Thing](https://open.spotify.com/track/5gEDBhaAhzoijeO2pQlV35) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 3:41 | 2025-07-18 |  |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-07-18 |  |
 | [All In](https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [All In](https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK) | 2:46 | 2025-07-30 | 2025-08-02 |
+| [All This Love](https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [All This Love](https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4) | 3:25 | 2025-08-15 |  |
 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 | 2025-07-18 |  |
 | [Am I Your Girl](https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:14 | 2025-07-18 |  |
 | [Angel](https://open.spotify.com/track/5yHyfnRuZSwzeyOiKiYUSv) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 2:41 | 2025-07-18 |  |
@@ -157,6 +158,7 @@
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2025-07-18 |  |
 | [One By One](https://open.spotify.com/track/7LUGvDGuIXsSaKcdsM3MfF) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 3:44 | 2025-07-18 |  |
 | [One Heart, One Voice \(with Mariah Carey & Ariana Grande\)](https://open.spotify.com/track/4ZfLdr8yKKza6ZMEa5VMxI) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Secret Of Life: Partners, Volume 2](https://open.spotify.com/album/3IWJnA5vzbaVW3LaNuftb2) | 5:19 | 2025-07-18 | 2025-08-09 |
+| [One Way Out](https://open.spotify.com/track/6Zc5FWIm0Q3tS66TbY8Sbt) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [One Way Out](https://open.spotify.com/album/7B0BKvJ9Ib6Ogfqxf1q334) | 2:44 | 2025-08-15 |  |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-07-18 |  |
 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-18 |  |
 | [Only Happen](https://open.spotify.com/track/2zQt3vKJafeBV6JjZD7oSn) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Only Happen](https://open.spotify.com/album/4MEMDFaYFsHgCrTzwbufQR) | 3:28 | 2025-07-18 |  |
@@ -190,6 +192,7 @@
 | [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-08 |  |
 | [Solo](https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 3:19 | 2025-07-18 |  |
 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 | 2025-07-18 |  |
+| [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 | 2025-08-15 |  |
 | [Space Hurts](https://open.spotify.com/track/5ZNs6Fa6oxrMKtGqNDXt5p) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Space Hurts](https://open.spotify.com/album/3lbmOM8Tgq7I4iwinoex7e) | 2:53 | 2025-07-18 |  |
 | [Speeding](https://open.spotify.com/track/3bgi6jmYXxdEyUq3buRRr3) | [David Arlo](https://open.spotify.com/artist/0p5H44Hufi4BrG8PyaH7rK) | [Speeding](https://open.spotify.com/album/3xUNzOaYhCQT3GarYKpWG6) | 2:53 | 2025-08-11 |  |
 | [Spin the Block](https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Spin the Block](https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6) | 2:46 | 2025-07-18 |  |
@@ -223,7 +226,8 @@
 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 |  |
 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-07-18 |  |
 | [This City](https://open.spotify.com/track/5oJmBs9L5xwDkUbDWqn6Wr) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:15 | 2025-07-18 |  |
-| [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-30 |  |
+| [Through a Screen](https://open.spotify.com/track/5Dx0aVPJlZk7Pdfe5pkkGC) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Through a Screen](https://open.spotify.com/album/1M4jqcExdn2aFJ1uJrEoux) | 4:21 | 2025-08-15 |  |
+| [To Be Free](https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Be Free](https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb) | 4:15 | 2025-07-30 | 2025-08-16 |
 | [Too Late for a Lovesong](https://open.spotify.com/track/0MG0WjooFGAOZqQIqNkPzt) | [Ralph Moerman](https://open.spotify.com/artist/1KnT4e4f38872CbGkEo3UR) | [Too Late for a Lovesong](https://open.spotify.com/album/0OcNiFDsei8lxhPEMz9PGM) | 2:10 | 2025-07-18 |  |
 | [Truth](https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Truth](https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37) | 3:27 | 2025-07-18 |  |
 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 | 2025-07-18 |  |
@@ -249,6 +253,7 @@
 | [You](https://open.spotify.com/track/3LNRi4UytUnez6T0hFb4x3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 2:59 | 2025-07-18 |  |
 | [You Again](https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [You Again](https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m) | 3:14 | 2025-08-01 |  |
 | [You Don't Care About Me](https://open.spotify.com/track/7e4EoaW3Dz8fW6EsSwdXye) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [You Don't Care About Me](https://open.spotify.com/album/5sW8TKxllrahM2SaZ9i6jC) | 2:57 | 2025-07-18 |  |
+| [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 | 2025-08-15 |  |
 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 | 2025-07-18 |  |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2025-07-18 |  |
 

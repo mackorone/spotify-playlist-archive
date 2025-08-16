@@ -4,7 +4,7 @@
 
 > hi Zara ☀️
 
-1,911 songs - 3 day 23 hr 46 min
+1,911 songs - 3 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-21 | 2025-03-21 |
 | [1 Day 2 Nights](https://open.spotify.com/track/7bRu6qrKsJlwbxf04aZiTT) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [1 Day 2 Nights](https://open.spotify.com/album/4HOViEGgltWnwKliaJHX1K) | 2:18 | 2021-06-12 | 2021-08-28 |
 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 | 2020-10-13\* | 2020-12-11 |
+| [1\-800\-FUCKOFF](https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [KOREAN AMERICAN](https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83) | 2:27 | 2025-08-14 |  |
 | [1\-800\-GOT\-STRESS](https://open.spotify.com/track/7fhAWoFWTKaOl1VtdqqZhf) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [1\-800\-GOT\-STRESS](https://open.spotify.com/album/7au7oYaB1KzTr9k2JdOlGJ) | 3:09 | 2023-06-02 | 2023-08-05 |
 | [1/17](https://open.spotify.com/track/5cwjNspmIDLehxMTfX2NIC) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/3WehGHIYOKvthEqIs8E8ID) | 4:12 | 2025-03-21 | 2025-05-09 |
 | [10 percent](https://open.spotify.com/track/6tD3yJpporbcCmbcdOoADp) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [10 percent](https://open.spotify.com/album/2xD4eDG2v7bIduuU1LsS3N) | 3:21 | 2022-04-08 | 2022-07-02 |
@@ -1748,7 +1749,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 3](https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP) | [kimj](https://open.spotify.com/artist/2DwWHe8gOHsUzMn1saNYjw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [KOREAN AMERICAN](https://open.spotify.com/album/4NgXl0FfvHvfsJJbeIHq83) | 0:00 | 2025-08-14 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |

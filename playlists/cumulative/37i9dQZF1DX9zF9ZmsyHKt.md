@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-304 songs - 17 hr 50 min
+305 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 | 2021-10-15 | 2024-10-23 |
 | [Aceita](https://open.spotify.com/track/6pQ3voPXI2HlrQAlWRtlnW) | [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Trovão](https://open.spotify.com/album/5NXGSmRD8DmKeSWOzPSlaW) | 3:48 | 2021-10-15 | 2022-07-26 |
 | [Aceita Meu Amor](https://open.spotify.com/track/0uCz530eIv1baO4SpwbzAE) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Aceita Meu Amor](https://open.spotify.com/album/12xRuoSjB4PSEoRIth8dhy) | 3:44 | 2024-10-22 | 2024-12-10 |
+| [Aceita Meu Tchau](https://open.spotify.com/track/7IVVrDXbD6BDKIGmw3WwMe) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Aceita Meu Tchau](https://open.spotify.com/album/6OAz7DzgWVGNdyrlWDQQkS) | 2:44 | 2025-08-15 |  |
 | [Acenda a Luz](https://open.spotify.com/track/3Vhg88cJ59iBJwbXUGsdXq) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU), [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa), [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24) | [Acenda a Luz](https://open.spotify.com/album/2MJtwr2U9lQzOcERqBycgf) | 3:17 | 2021-10-15 | 2022-07-29 |
 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 | 2024-10-22 |  |
 | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/track/5YDyubwvYmgXR0mWjL8dXF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Ai Ai Ai Mega Príncipe](https://open.spotify.com/album/2Xz4Xcm86sv57xDz8akLvj) | 3:03 | 2024-10-22 |  |
@@ -79,7 +80,7 @@
 | [Dançando e Beijando](https://open.spotify.com/track/07NOfxIl2JR9qxg8Zpe6iH) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Dançando e Beijando](https://open.spotify.com/album/6KPBm9CwV3uHFFvdflir7l) | 2:46 | 2024-10-22 | 2024-12-10 |
 | [Dançar Com Itamaraty](https://open.spotify.com/track/57d8TX3hNbGV0pWrU6oM3I) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:00 | 2024-12-09 | 2025-04-18 |
 | [Daqui pra Sempre](https://open.spotify.com/track/5LCegtYPODbcqbTE5CZVv8) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Daqui pra Sempre](https://open.spotify.com/album/4HNcDgIUD0m7sbaFf3NOBa) | 3:22 | 2024-10-22 |  |
-| [De Mim Tu Não Merece Nada](https://open.spotify.com/track/6RlJtIsfScbQakH0M0ibIr) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [De Mim Tu Não Merece Nada](https://open.spotify.com/album/2uLtrCIXqVLGJyp6mFikOg) | 3:40 | 2025-06-27 |  |
+| [De Mim Tu Não Merece Nada](https://open.spotify.com/track/6RlJtIsfScbQakH0M0ibIr) | [Banda Halley](https://open.spotify.com/artist/5UgJvzYWsiYKJPnmLixmpt) | [De Mim Tu Não Merece Nada](https://open.spotify.com/album/2uLtrCIXqVLGJyp6mFikOg) | 3:40 | 2025-06-27 | 2025-08-16 |
 | [De Volta Pro Aconchego](https://open.spotify.com/track/6vzEUwK4CbcDMDvmJ09WsY) | [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A) | [Fogo Na Mistura](https://open.spotify.com/album/4AChNbwadWZ9nTyRLs1RMf) | 4:37 | 2021-10-15 | 2024-10-23 |
 | [Decote \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/2wBr59j9see3tGF9Haxbo3) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Decote \(feat\. Pabllo Vittar\)](https://open.spotify.com/album/69PDqjhM6qtLSinYmpiXE6) | 2:58 | 2021-10-15 | 2022-07-18 |
 | [Deixa](https://open.spotify.com/track/7FVOOixkNSoUkY3GUUfREK) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ana Muller](https://open.spotify.com/album/0wzMf9BvPCaVifQiWwkIp4) | 4:04 | 2021-10-15 | 2022-07-28 |

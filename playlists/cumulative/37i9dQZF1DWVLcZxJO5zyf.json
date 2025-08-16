@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "album": {
         "name": "AGRIDOCE (PARTE 1)",
         "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
       },
@@ -1461,6 +1479,32 @@
     },
     {
       "album": {
+        "name": "BRINCADEIRA",
+        "url": "https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Rogerio Flausino",
+          "url": "https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ"
+        },
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165609,
+      "name": "BRINCADEIRA",
+      "url": "https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf"
+    },
+    {
+      "album": {
         "name": "Bruta",
         "url": "https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep"
       },
@@ -1928,7 +1972,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 146796,
       "name": "Cora\u00e7\u00f5es de Pedra",
       "url": "https://open.spotify.com/track/6l82v8lFlguhAHNQrI80iU"
@@ -8176,7 +8220,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 186763,
       "name": "TOKIT\u00d4",
       "url": "https://open.spotify.com/track/1os5N47cdC2rycRhpMzgMP"

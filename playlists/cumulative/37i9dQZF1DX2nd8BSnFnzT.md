@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Lupe De Lupe
 
-551 songs - 1 day 6 hr 49 min
+552 songs - 1 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Duas Vidas Em Jogo](https://open.spotify.com/track/6YB8N8pPrXW84xgJ03Gu9E) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Diorama](https://open.spotify.com/artist/6E6B0NdJdBCZ0hVcFB4yNV) | [Duas Vidas Em Jogo](https://open.spotify.com/album/7nUDW1cWvea6dJyrY6s7Ol) | 3:10 | 2022-12-16 | 2024-01-13 |
 | [Dúvida](https://open.spotify.com/track/0k3EZCbCi8iZwi9RKytLZT) | [Codinome Winchester](https://open.spotify.com/artist/0oxzuDPaVqVeGDKQfp36QZ) | [Dúvida](https://open.spotify.com/album/5ofKjhI9gC78JmdlQNRQ05) | 4:33 | 2022-01-14 | 2022-02-05 |
 | [E Foi Assim](https://open.spotify.com/track/7elsjWBo5jzqJQ3SLePYBj) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [E Foi Assim](https://open.spotify.com/album/35I7xwlS2UKao7pU9GSQt0) | 2:17 | 2024-01-19 | 2024-04-27 |
-| [eh complicado...](https://open.spotify.com/track/4PrdP954ZWaeC92fFyXSWG) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [eh complicado...](https://open.spotify.com/album/4nX5dWqBkY6APFQTNPZsWV) | 2:54 | 2025-07-25 |  |
+| [eh complicado...](https://open.spotify.com/track/4PrdP954ZWaeC92fFyXSWG) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [eh complicado...](https://open.spotify.com/album/4nX5dWqBkY6APFQTNPZsWV) | 2:54 | 2025-07-25 | 2025-08-16 |
 | [Ela Traiu o Rock And Roll \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/5GhZ6FWfK82xnQWc5qX9en) | [Pedra Leticia](https://open.spotify.com/artist/3RizejcAkXH07quZqFCtpU), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Pedra Letícia ilumina Sonastério](https://open.spotify.com/album/5H7T27oIJGXx9JX7GwOkIR) | 3:40 | 2022-01-14 | 2022-04-16 |
 | [Encoleirado \- Ao Vivo](https://open.spotify.com/track/1ktNQyJr4ZvUBGhNFIjDhT) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Supla \- Audio Sp 2020 \(Ao Vivo\)](https://open.spotify.com/album/2spQsNyVQ3vZuOXED6kwz7) | 2:23 | 2023-02-17 | 2023-10-21 |
 | [Enfrente](https://open.spotify.com/track/3wmOTnWCQhf6URs91lxjFi) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/4CNy6VgZdz0YW4hKFWbKpa) | 3:44 | 2024-05-03 | 2024-06-08 |
@@ -547,6 +547,7 @@
 | [Virar O Jogo](https://open.spotify.com/track/40yDQNMltSs9LJjbmuzXR8) | [LA GANG](https://open.spotify.com/artist/5RreoTuWQBJSW7pHhl3yjR) | [Virar O Jogo](https://open.spotify.com/album/2dP4vn2pC3S90ogOcw4HMT) | 2:20 | 2024-05-10 | 2024-11-23 |
 | [Vital E Sua Moto 2024](https://open.spotify.com/track/24JnBtwF07WzODgJtTYyKN) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Vital E Sua Moto 2024](https://open.spotify.com/album/1ivFEPEPpN10pc2JQlMZay) | 3:25 | 2024-06-21 |  |
 | [Vitória](https://open.spotify.com/track/2uRlVcj6AjZKAMP2Gc1xpj) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [30 + 1, Pt.3](https://open.spotify.com/album/13x5PRkYrO2vLrTntH0Jkh) | 3:20 | 2022-08-12 | 2023-03-11 |
+| [Você Tem O Que Merece Ter](https://open.spotify.com/track/60hp4U6TBZoNJGuh3a3qZh) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Você Tem O Que Merece Ter](https://open.spotify.com/album/3AD2RdswWSsmBCm29FYOdC) | 2:48 | 2025-08-15 |  |
 | [Você Vai Lembrar de Mim](https://open.spotify.com/track/2bVt8bpiSBQn6HMizoRX4k) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Você Vai Lembrar de Mim](https://open.spotify.com/album/6POQpPegZbqAUtawoGW7wh) | 3:05 | 2023-07-14 | 2024-07-06 |
 | [Voe](https://open.spotify.com/track/4auuWHV7lGdaYLRrCACoeT) | [Abel Capella](https://open.spotify.com/artist/6sC9qbOTdfboHJIWQF3lkw) | [Voe](https://open.spotify.com/album/7fdN4LLQLWYveuG4Mrcalp) | 3:41 | 2022-01-14 | 2022-11-19 |
 | [Volta Pra Mim](https://open.spotify.com/track/5WBGraMuV2Zb7mODUPSvRL) | [Banda AL9](https://open.spotify.com/artist/1IbLVq7OjqcArp3TkgfaOX) | [Banda AL9](https://open.spotify.com/album/5agyY1IhTHqDC42g8ww23g) | 2:14 | 2022-09-02 | 2022-11-12 |

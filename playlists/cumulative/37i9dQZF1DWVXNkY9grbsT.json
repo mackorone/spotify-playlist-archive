@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 528000,
       "name": "Become Am",
       "url": "https://open.spotify.com/track/0VHZYg5jbhk8opXpqnmqUf"
@@ -1780,6 +1780,28 @@
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "album": {
+        "name": "Broken Arrows (Portico Quartet Rework)",
+        "url": "https://open.spotify.com/album/3M64RZHX596gZE5KCyhUtd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352238,
+      "name": "Broken Arrows - Portico Quartet Rework",
+      "url": "https://open.spotify.com/track/20h3zih9fIOMvupdSsBawu"
     },
     {
       "album": {
@@ -3212,7 +3234,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 303157,
       "name": "Drive West On Sunset - Ambient",
       "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
@@ -4786,7 +4808,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 275560,
       "name": "In the Distance",
       "url": "https://open.spotify.com/track/0CUp66lnTBhJmSvK89a6Qy"
@@ -5364,6 +5386,24 @@
       "duration_ms": 283584,
       "name": "Malady of duration",
       "url": "https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT"
+    },
+    {
+      "album": {
+        "name": "Psiconomimesis",
+        "url": "https://open.spotify.com/album/3bRuhKtTj8AY2DYW5SsJpb"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o \u00c1rbol",
+          "url": "https://open.spotify.com/artist/5m0sadWkszdehCnCpa2HYI"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294742,
+      "name": "Manto (aqu\u00ed no duele)",
+      "url": "https://open.spotify.com/track/02pNHnAbjk5whIg02iGZNQ"
     },
     {
       "album": {
@@ -10262,7 +10302,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 212626,
       "name": "Yellowed Leaves Drift Down",
       "url": "https://open.spotify.com/track/4Hjvdc6ikX3vqok41B30cB"

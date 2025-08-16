@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-255 songs - 19 hr 35 min
+256 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Garden Life \(Live\)](https://open.spotify.com/track/34pSYu4FnJipVv35Vi7N12) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [Nostalgia \(Live from Los Angeles\)](https://open.spotify.com/album/6gTQWUXesJ5jzy4twmtnSt) | 3:41 | 2024-12-06 | 2025-01-18 |
 | [Ghost \- Live From Spotify NYC](https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Spotify Sessions \(Live From Spotify NYC\)](https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL) | 2:40 | 2022-04-14 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 | 2022-04-14 | 2025-01-18 |
+| [GLORY BOX \- Live](https://open.spotify.com/track/41khonWEvTmQxeoQOolP3U) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE TOUR \(LIVE IN LOS ANGELES\)](https://open.spotify.com/album/2NeXIwj1hEH80NYMyI9wB9) | 1:52 | 2025-08-15 |  |
 | [Go West \- Live at Live 8, Red Square, Moscow, 2nd July 2005](https://open.spotify.com/track/2lCnjCnm8j3zV342OCBqOI) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 7:21 | 2022-04-14 | 2022-07-29 |
 | [god is a woman \- live](https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:33 | 2022-04-29 |  |
 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 | 2022-04-14 | 2025-01-18 |

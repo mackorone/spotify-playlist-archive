@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-222 songs - 11 hr 36 min
+223 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,9 +157,10 @@
 | [My Selfish Heart](https://open.spotify.com/track/3nomMSRbIRpAfIZLf3jOqS) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:46 | 2023-12-30 | 2025-03-30 |
 | [Naughty List](https://open.spotify.com/track/5iGw5PJKukFN1YMj3Ls2rm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:37 | 2023-12-30 |  |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2023-12-30 |  |
+| [Nice to Meet Ya](https://open.spotify.com/track/60SQiZejxmqwgiSe2mPJqu) | [Cody Pendelton](https://open.spotify.com/artist/0kxOvMQwTYw90WEV7JrHBT) | [Mega Bops](https://open.spotify.com/album/5ajMtM28U3mK2az8PLY6Eu) | 3:17 | 2025-08-15 |  |
 | [Nice to Meet Ya](https://open.spotify.com/track/3rs5lCftiXSH4O1AS8ZeGV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nice to Meet Ya \(Official Music Video\)](https://open.spotify.com/album/2mG6h0US9OvguiNDNlmKlj) | 3:17 | 2023-12-30 | 2024-02-02 |
 | [Nice To Meet Ya](https://open.spotify.com/track/4BOljrLghhs18tNkvN5OW8) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Best Of 2019 Vol\. 1 \(130 BPM\)](https://open.spotify.com/album/78bcfgNlM7IAEsXMnPb8RF) | 3:56 | 2025-07-25 | 2025-08-15 |
-| [Nice To Meet Ya](https://open.spotify.com/track/5u38Dc4sPhelP1unYecOwi) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Super Step Workout 3](https://open.spotify.com/album/3B975kDF73jnEphg0CteCO) | 4:01 | 2025-08-14 |  |
+| [Nice To Meet Ya](https://open.spotify.com/track/5u38Dc4sPhelP1unYecOwi) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [Super Step Workout 3](https://open.spotify.com/album/3B975kDF73jnEphg0CteCO) | 4:01 | 2025-08-14 | 2025-08-16 |
 | [Nice to Meet Ya \(feat\. Nicki Minaj\)](https://open.spotify.com/track/5HqRQwSAPAgJBQ3bhtpUTg) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 | 2024-01-02 | 2025-07-12 |
 | [NO](https://open.spotify.com/track/3ge54HUrk1ht3EX5SMhIzZ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe\)](https://open.spotify.com/album/5nkgosKhWt1yXRzmjXNV2d) | 3:33 | 2024-01-01 | 2025-07-12 |
 | [NO](https://open.spotify.com/track/2163jfvW37LJNxprDPmgQp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [NO](https://open.spotify.com/album/0jStMb0alHcc2QdQaJanYb) | 3:42 | 2023-12-30 | 2024-02-01 |

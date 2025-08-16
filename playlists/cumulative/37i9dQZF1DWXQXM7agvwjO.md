@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: SE SO NEON \(South Korea\)
 
-2,123 songs - 5 day 8 hr 28 min
+2,124 songs - 5 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1213,7 +1213,7 @@
 | [Nova](https://open.spotify.com/track/3QkgLkww7FsUppMATzetN4) | [alpha yang](https://open.spotify.com/artist/09QqZsgEmhAkYA99qe6QrE) | [Uphill](https://open.spotify.com/album/5X2pb3G82RMKog6YGxsmSS) | 2:51 | 2025-02-20 | 2025-03-07 |
 | [November Blue](https://open.spotify.com/track/0PVVLuxXLWf4Sw7zjV6rd8) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/3ApfPiXonK9F6KiJQSeYeN) | 4:02 | 2022-10-06 | 2022-11-25 |
 | [November Blue](https://open.spotify.com/track/1rVHGgB6wbPqFgsMcBYbYL) | [Sweet After Tears](https://open.spotify.com/artist/2Enh29LYOD99ZmmKNZ6qnm) | [Strangest Things](https://open.spotify.com/album/1efuRhREYd3lBKa3HV1DyN) | 4:02 | 2022-10-06 | 2022-10-09 |
-| [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [<NOW> \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 | 2025-08-14 |  |
+| [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 | 2025-08-14 |  |
 | [Now and Ever](https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Now and Ever](https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU) | 3:40 | 2024-06-13 | 2025-06-20 |
 | [Nuggets](https://open.spotify.com/track/2t08smZmwGJojfpu7ZA2vc) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Nuggets](https://open.spotify.com/album/7hKFnf3BL6yNe57oqJRKd1) | 4:10 | 2022-04-21 | 2022-06-10 |
 | [Numb face](https://open.spotify.com/track/7HIM3fpXtx7edtpcdP1IZK) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Numb face](https://open.spotify.com/album/05vJSkIdQPRkCO6C1fbXsq) | 2:36 | 2025-03-27 | 2025-04-04 |
@@ -1471,7 +1471,7 @@
 | [Silver Bullet](https://open.spotify.com/track/5nacrWjXCSKWCqUnwNfWQU) | [Powloh](https://open.spotify.com/artist/1k6pzQFm9xjWETHy8Gv7OA) | [Silver Bullet](https://open.spotify.com/album/0uKGQSvfdeEVKa33wNjZ7S) | 4:05 | 2025-05-01 | 2025-05-09 |
 | [Silver Linings](https://open.spotify.com/track/6XeTC7wUIiDBU08LITgAZZ) | [Seagrass And The Waves](https://open.spotify.com/artist/65Jc9hPwMXPfkSo4FMFsFB) | [Silver Linings](https://open.spotify.com/album/3WwII3mLrRfFS4JUxcfnjU) | 3:19 | 2025-02-20 | 2025-03-07 |
 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 | 2023-05-11 | 2023-05-26 |
-| [Sin](https://open.spotify.com/track/5k59VaLMbV9UsrEPasU5me) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Sin](https://open.spotify.com/album/2x9OXzRHaYZ3tmTLVaXSLF) | 6:49 | 2025-06-12 |  |
+| [Sin](https://open.spotify.com/track/5k59VaLMbV9UsrEPasU5me) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Sin](https://open.spotify.com/album/2x9OXzRHaYZ3tmTLVaXSLF) | 6:49 | 2025-06-12 | 2025-08-16 |
 | [Sing in the Rain](https://open.spotify.com/track/0oVaYKGZswYA36QaqUKKBT) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Sing in the Rain](https://open.spotify.com/album/2BWMIQ0jCngWSmMdEC2JGQ) | 2:15 | 2023-08-31 | 2023-09-08 |
 | [Sink](https://open.spotify.com/track/2YgkzkCXMHLUAlCyomymc7) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Sink](https://open.spotify.com/album/2n8eGRpSFWWRml7x0g7j2m) | 4:00 | 2025-06-19 |  |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-24 | 2022-05-07 |
@@ -2042,6 +2042,7 @@
 | [威士忌](https://open.spotify.com/track/0FGkzJY7uDgzN26n6lWHx7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [威士忌](https://open.spotify.com/album/1uJzvjFpaQWOZpe2H3lfIE) | 2:57 | 2024-08-01 | 2024-12-13 |
 | [尖東沒有派對](https://open.spotify.com/track/0JUsY7m9Hd4kzo7ZLHM7cA) | [SGEK](https://open.spotify.com/artist/0xxiRt9QWek6YggmDew2Xt) | [尖東沒有派對](https://open.spotify.com/album/2lmg6F5et3ZUNPvuA5Sx8E) | 3:36 | 2024-08-29 | 2024-09-06 |
 | [山の方から来てくれればいいのに](https://open.spotify.com/track/5bBGjWdEsrFMEMDdtPsyp2) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [B my baby](https://open.spotify.com/album/5aNHndZusOzmC9UiwJ2qB8) | 3:21 | 2023-06-08 | 2023-06-16 |
+| [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/track/7r9rxsVZeGggiszibAnHGV) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [島嶼的記持 \(《新臺灣史運動》動畫主題曲\)](https://open.spotify.com/album/2wlWkHONbSYYy6rzHX5AqO) | 2:00 | 2025-08-15 |  |
 | [巴黎的夜晚走走](https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [巴黎的夜晚走走](https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w) | 2:52 | 2024-10-10 | 2024-12-13 |
 | [帰ろう](https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [帰ろう](https://open.spotify.com/album/45ANe5X8QzmFz8isn8JGSf) | 3:48 | 2023-05-25 | 2023-07-09 |
 | [平衡木](https://open.spotify.com/track/74xIEZIHWCEC8BW9AlocKV) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [平衡木](https://open.spotify.com/album/6cjIpMMjJ72e00A4xl23js) | 3:30 | 2024-11-21 | 2024-12-06 |

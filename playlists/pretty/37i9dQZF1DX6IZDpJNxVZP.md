@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,308 likes - 75 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,297 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 26 | [Let's Decorate the House for Halloween](https://open.spotify.com/track/4iwPcKfDmsGXkoYMa8Cm7g) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Let's Decorate the House for Halloween](https://open.spotify.com/album/6WNhjObUhy1pimzih4sr6g) | 2:15 |
 | 27 | [The Skeleton Band](https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs](https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm) | 1:20 |
 | 28 | [Spooky, Scary Skeletons](https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:40 |
-| 29 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 |
-| 30 | [Count JJ All Day!](https://open.spotify.com/track/26V8pwWlIZ7gqUDqIKoQVX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Songs](https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F) | 2:39 |
+| 29 | [Count JJ All Day!](https://open.spotify.com/track/26V8pwWlIZ7gqUDqIKoQVX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Songs](https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F) | 2:39 |
+| 30 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 |
 | 31 | [What Will You Be for Halloween?](https://open.spotify.com/track/4BYemuA5Ld6WnHqvXDv0z8) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [What Will You Be for Halloween?](https://open.spotify.com/album/4rtIbTzYyoOiwMOsriCMJh) | 2:24 |
 | 32 | [Monster Party](https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Monster Party](https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV) | 1:43 |
 | 33 | [Monsters](https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:32 |
 | 34 | [It's Halloween](https://open.spotify.com/track/0UAxsfIlQZ1XK6RknnN5CE) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:15 |
-| 35 | [The Monsters In The House](https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:04 |
+| 35 | [Shake Them Skeleton Bones](https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Preschool Halloween Songs](https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti) | 2:20 |
 | 36 | [This is the Way We Trick or Treat](https://open.spotify.com/track/1C7ob1VIwc1JiEmMDNfHWt) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [This is the Way We Trick or Treat & More Kids Halloween Songs](https://open.spotify.com/album/4v0edjUBgK8yhA9upHeu9W) | 1:49 |
-| 37 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 |
-| 38 | [Shake Them Skeleton Bones](https://open.spotify.com/track/6yyUXmHgVY3T0HjY9JjK8k) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Preschool Halloween Songs](https://open.spotify.com/album/43jz0Ysu62z2Zvi9NZJ3ti) | 2:20 |
+| 37 | [The Monsters In The House](https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:04 |
+| 38 | [Vampire Wedding](https://open.spotify.com/track/2hH8xQrEH39WJ2cOckewvQ) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 3](https://open.spotify.com/album/3JoS9KsDBydpJuxJ0YFbKV) | 1:21 |
 | 39 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 |
 | 40 | [Disturbia](https://open.spotify.com/track/0VvRlHBj4Ax4w1RrilcXIV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:30 |
 | 41 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 72 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
 | 73 | [Stirring The Brew](https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU) | [Jennielea](https://open.spotify.com/artist/6P6UPaX07Ha288fcXwWRKZ) | [It's Me Jennielea And My Very First CD](https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq) | 0:58 |
 | 74 | [Skeleton Shake](https://open.spotify.com/track/3dAqvO0MKcWsOYK6K6kShH) | [Bari Koral](https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ) | [Skeleton Shake](https://open.spotify.com/album/2XSPmhwlCOWP77RNQHPomh) | 3:19 |
-| 75 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 |
+| 75 | [The Wheels on the Halloween Bus](https://open.spotify.com/track/0s1UgIZsNTIsaeuJ9ahVGa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Spooky Sing\-Along Halloween Songs](https://open.spotify.com/album/3Pqck35IQqpzHjsDmIoz4B) | 1:43 |
 
 Snapshot ID: `AAAAACKZQABbswhSSh8SELAOxKPDWg/X`

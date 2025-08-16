@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. bambie thug
 
-1,177 songs - 2 day 9 hr 41 min
+1,177 songs - 2 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,6 +957,7 @@
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-12-28 | 2022-01-06 |
 | [Small World Syndrome](https://open.spotify.com/track/0J8A3Ccs5ghyo8Fa1iKOTv) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Small World Syndrome](https://open.spotify.com/album/5CZ3urtWdgLk6av5TUFwn5) | 2:45 | 2025-07-17 |  |
 | [smile](https://open.spotify.com/track/7tu9g2cQxMFD6F9fBDvjga) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [smile](https://open.spotify.com/album/0vBpPNstLWsQCeAbAPuHHY) | 3:08 | 2024-05-16 | 2024-07-12 |
+| [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 | 2025-08-14 |  |
 | [Smothering](https://open.spotify.com/track/28NemsDIgRYIyVovK6hQ59) | [BEEFCAKE](https://open.spotify.com/artist/6IfirsQubd1wvYMUdNQ6hj) | [Smothering](https://open.spotify.com/album/7bNplBoRxfnAtNhWz7iNLj) | 3:32 | 2025-03-28 | 2025-05-16 |
 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 | 2024-04-18 | 2024-09-27 |
 | [snow queen](https://open.spotify.com/track/46zPKknII8irWI3RFs2dJz) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [snow queen](https://open.spotify.com/album/0hrWSRs4Qyf313T5sMc8SL) | 2:30 | 2024-11-22 | 2025-05-02 |
@@ -1075,7 +1076,6 @@
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-08-09 |
 | [Toxic](https://open.spotify.com/track/75nfXT58HlELm2SGI3L0Ea) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Toxic](https://open.spotify.com/album/5RMQfalO8QgRNArs0nIFuk) | 2:10 | 2023-12-15 | 2024-05-29 |
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-10-04 |
-| [Track 1](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 0:00 | 2025-08-14 |  |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-08-09 |
 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 | 2023-07-27 | 2023-09-15 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2023-02-24 |

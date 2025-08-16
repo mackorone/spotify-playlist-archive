@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-409 songs - 23 hr 1 min
+410 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 | 2022-05-13 | 2024-04-06 |
 | [Boring 20s \- Betty Booom Remix](https://open.spotify.com/track/1J9BJ1Px6IB5mBQiCfrlSv) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s \(Betty Booom Remix\)](https://open.spotify.com/album/3daonoHg3FU4SyBUtcEQbC) | 2:38 | 2024-04-26 |  |
 | [Boy Met Girl](https://open.spotify.com/track/7uoUAYZAe7hyo8jQRYQ6xS) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Boy Met Girl](https://open.spotify.com/album/4wosV0MkmsGXFhZBRK7zQD) | 2:55 | 2024-05-24 |  |
+| [Boy!](https://open.spotify.com/track/7rz0r3ulmgc3uGYuBGSvkd) | [Alanna Lyes](https://open.spotify.com/artist/7BljoID3up8yhSHHNKhSBy), [Offbeat](https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8), [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Boy!](https://open.spotify.com/album/0OPrEJ9c2dQFvRqkpEL0AM) | 3:01 | 2025-08-15 |  |
 | [Boys Don't Cry](https://open.spotify.com/track/0suHjahTUrHRTiwqdjlM30) | [Damn the Witch Siren](https://open.spotify.com/artist/7cNpzcG39DLaQWrGqlIlBx) | [Gold Magic](https://open.spotify.com/album/2TGo61xXzrq8ozhGaSFTRl) | 3:34 | 2022-11-07 |  |
 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 | 2020-10-30 | 2023-03-11 |
 | [Busy Doing Nothing](https://open.spotify.com/track/1WJkGgiuF9ye09HqMiU2Pw) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Busy Doing Nothing](https://open.spotify.com/album/1UtlRgPOYym8XUmfFg9fLr) | 3:19 | 2023-07-07 |  |
@@ -370,7 +371,7 @@
 | [Tom's Diner \- Electro Swing Mix](https://open.spotify.com/track/1DvthxX5TD7RHuyOAM2H77) | [Mr\. Jazzek](https://open.spotify.com/artist/48ibaXmdU89j4rWWf6cdGh), [Kasia Buja](https://open.spotify.com/artist/0Raqt5611HhEAPm88g2aeg) | [Tom's Diner \(Electro Swing Mix\)](https://open.spotify.com/album/7oIVtGiQ1cZE8S5DKqh9dw) | 3:11 | 2023-01-13 |  |
 | [Tom's Diner \- Electro Swing Radio Edit](https://open.spotify.com/track/2D4VwRmOXXdg1XrbtR7CVn) | [Musique Boutique](https://open.spotify.com/artist/1D9QYipRiTgOfVMGbBiyeC) | [Tom's Diner](https://open.spotify.com/album/5sGOwscsYt5ifyX9Xm0bBa) | 2:57 | 2024-02-16 |  |
 | [Tommy on the Bone](https://open.spotify.com/track/3WeLZpJzE9HTD3piV9KfpD) | [1000streets](https://open.spotify.com/artist/3JYeR3KstaUwBsK0KXYHz1), [Les Babettes](https://open.spotify.com/artist/0gCnvI2CcR1Q0ceZBAP3Yq) | [Electro Way](https://open.spotify.com/album/7lnigrS5NeARD3aLKkXy7a) | 2:39 | 2021-06-11 |  |
-| [Too Damn Hot \- Phos Toni Remix \- Radio Edit](https://open.spotify.com/track/33yLH412tgEXEoLkxbY5tq) | [Alice Francis](https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Too Damn Hot \(Phos Toni Remix \- Radio Edit\)](https://open.spotify.com/album/1ImykEAd3wNV5hV8gT03Pr) | 2:58 | 2023-03-10 |  |
+| [Too Damn Hot \- Phos Toni Remix \- Radio Edit](https://open.spotify.com/track/33yLH412tgEXEoLkxbY5tq) | [Alice Francis](https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Too Damn Hot \(Phos Toni Remix \- Radio Edit\)](https://open.spotify.com/album/1ImykEAd3wNV5hV8gT03Pr) | 2:58 | 2023-03-10 | 2025-08-16 |
 | [Topswing](https://open.spotify.com/track/5Pjg9XU50SLeDrMUpDjTk0) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Topswing](https://open.spotify.com/album/3bENoRQYUhngTHiM4bL18Q) | 4:15 | 2020-10-30 | 2022-07-13 |
 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 | 2021-08-27 |  |
 | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu) | [Player2](https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy), [A\_A\_RonHD](https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS) | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g) | 3:53 | 2022-09-02 |  |

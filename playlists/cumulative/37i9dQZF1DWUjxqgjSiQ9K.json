@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Gilberto Daza",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Evan Craft",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 256000,
       "name": "Asombro",
       "url": "https://open.spotify.com/track/4U6oEggTon4GMdnn2DE6l0"
@@ -2885,6 +2885,28 @@
     },
     {
       "album": {
+        "name": "Como David (Live)",
+        "url": "https://open.spotify.com/album/3Oh9482vxEBKdYkfpPimF8"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Como David",
+      "url": "https://open.spotify.com/track/4f7OAbmlCzlJjCXALIg9Uh"
+    },
+    {
+      "album": {
         "name": "Como Eh",
         "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
       },
@@ -2922,7 +2944,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 312902,
       "name": "Como Me Amas",
       "url": "https://open.spotify.com/track/1jztI6iezhm25VcOqkpqPK"
@@ -5841,6 +5863,28 @@
     },
     {
       "album": {
+        "name": "La Buena Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2gryNVW2SJ4AhLCTYPVIvv"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349853,
+      "name": "Eres - Ao Vivo",
+      "url": "https://open.spotify.com/track/0xVyAVuqHMiPe4IdQnjhGZ"
+    },
+    {
+      "album": {
         "name": "Eres Fiel",
         "url": "https://open.spotify.com/album/3OWCVFKDcqv93twk8mWdkd"
       },
@@ -7016,6 +7060,24 @@
       "duration_ms": 158753,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/3EkF29sbMPt8YI7nByg9tc"
+    },
+    {
+      "album": {
+        "name": "Sesi\u00f3n de Casa",
+        "url": "https://open.spotify.com/album/2Rgmo98dKZ08ZBrCnxJliA"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441917,
+      "name": "Gracia + Solo De Jes\u00fas (Himno)",
+      "url": "https://open.spotify.com/track/4Z37LYxVBysKaueA7AffbQ"
     },
     {
       "album": {
@@ -8840,7 +8902,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 406317,
       "name": "Lo He Visto",
       "url": "https://open.spotify.com/track/1jaY6jnD56RZwvb0ICI7sq"
@@ -9246,7 +9308,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 191760,
       "name": "Mate",
       "url": "https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk"
@@ -15470,6 +15532,24 @@
       "duration_ms": 286767,
       "name": "Tu Iglesia",
       "url": "https://open.spotify.com/track/2vx5gfAsMpFls9VTIICGKx"
+    },
+    {
+      "album": {
+        "name": "Que Cante La Iglesia",
+        "url": "https://open.spotify.com/album/6IH7rVBDcmIc9pgqpPlBIe"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249218,
+      "name": "Tu Iglesia Cantar\u00e1",
+      "url": "https://open.spotify.com/track/3Tk7o1NAtUkp6ryW1RTIRa"
     },
     {
       "album": {

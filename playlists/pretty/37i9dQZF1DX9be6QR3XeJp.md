@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: MOIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,061 likes - 248 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,058 likes - 248 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

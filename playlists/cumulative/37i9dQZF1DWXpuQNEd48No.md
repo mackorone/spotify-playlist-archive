@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-473 songs - 1 day 0 hr 5 min
+474 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Flex](https://open.spotify.com/track/1DAc8QCWssjO2wBsRgbb7W) | [PANJETA](https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR), [Jd Daniyal](https://open.spotify.com/artist/352TevEVY9CfveW5roOeF7), [Signature By OG](https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu) | [Flex](https://open.spotify.com/album/6bV8qHjgKC2FpAgDLn1Sut) | 2:04 | 2025-08-12 |  |
 | [Flirt](https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e) | [KD Desirock](https://open.spotify.com/artist/72nM77XevGnNC8btIBlvmS), [Samvee](https://open.spotify.com/artist/6RazaIkItMMHgNvl1s6TMj) | [Flirt](https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN) | 4:47 | 2023-03-28 | 2024-08-13 |
 | [For You](https://open.spotify.com/track/3KirlybsJTZ3MuSZR1b8Gi) | [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [For You](https://open.spotify.com/album/0EO1b7PA2gQA9RfQHH5dp9) | 3:44 | 2025-06-20 |  |
-| [FORMULA](https://open.spotify.com/track/0SxyY1IJWdhF1tGITvCjvT) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [FORMULA](https://open.spotify.com/album/3ABGz0CFyRQEQEnYfgCSUg) | 2:08 | 2025-08-12 |  |
+| [FORMULA](https://open.spotify.com/track/0SxyY1IJWdhF1tGITvCjvT) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [FORMULA](https://open.spotify.com/album/3ABGz0CFyRQEQEnYfgCSUg) | 2:08 | 2025-08-12 | 2025-08-16 |
 | [Fortuner](https://open.spotify.com/track/0m8o9TQBNFaaJmwFDfgw2y) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Fortuner](https://open.spotify.com/album/5pbhMShQNPV4FzJ7rVoMUA) | 2:08 | 2025-05-16 |  |
 | [Fortuner Drill](https://open.spotify.com/track/5QdyptjamyyuZJ4r39N95X) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Fortuner Drill](https://open.spotify.com/album/3WeVtSZdA0zln8sfEgGZsb) | 3:07 | 2024-04-10 | 2025-02-11 |
 | [Four Seater](https://open.spotify.com/track/55M3qbsvxy8wIu6pvEaqYM) | [Dussi Thakur](https://open.spotify.com/artist/2jmPbgfxS1Iq4pAAnAJCFG), [DK Thakur](https://open.spotify.com/artist/5C8nnMAJJgoLewlz08YjOK) | [Four Seater](https://open.spotify.com/album/1tmM6WfooyH9jvAyAlney3) | 2:38 | 2023-08-30 | 2023-09-14 |
@@ -186,6 +186,7 @@
 | [Ghani Syaani](https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Syaani](https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc) | 3:33 | 2023-03-28 | 2023-08-31 |
 | [Ghar Jaane De](https://open.spotify.com/track/0AU0jnkTn516bqy2tJSlmp) | [Mandys](https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu) | [Ghar Jaane De](https://open.spotify.com/album/0gmGkBBlAHsx1EggphIQ3h) | 2:21 | 2024-01-13 | 2025-01-11 |
 | [GOAT ANTHEM](https://open.spotify.com/track/0pXKN8T5b1sXMkrOoxSlGO) | [Rakesh Mor](https://open.spotify.com/artist/6Q1rjvVMBkw1q0zIge4qXv), [Nimish](https://open.spotify.com/artist/0bcdCsL0pRZoBda7sVvfkl) | [GOAT ANTHEM](https://open.spotify.com/album/6Yp6OALOmvQVcTdgA8Fywv) | 2:34 | 2024-09-30 | 2024-10-22 |
+| [God's Deed](https://open.spotify.com/track/76dHeWfTuqf2p5BICYvJec) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [God's Deed](https://open.spotify.com/album/0fodxcQQhIFHUiawclfHM5) | 3:16 | 2025-08-15 |  |
 | [Goli](https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS) | [Goli](https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m) | 2:45 | 2023-03-28 | 2023-04-04 |
 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/2bdyNpVEnnVc1WDz79Riz4) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 | 2023-07-11 | 2023-12-17 |
 | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/track/4HATNfC9i1QhyKu12K79DK) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn), [Khushi Verma](https://open.spotify.com/artist/6VK3DHQtrpLI82AdK9fcwY) | [Goli \(feat\. Khushi Verma\)](https://open.spotify.com/album/6uOg651hrzwS9y5I1uEz5d) | 2:34 | 2023-12-14 | 2024-04-19 |

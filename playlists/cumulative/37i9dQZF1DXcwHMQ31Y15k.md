@@ -2,7 +2,7 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
 505 songs - 1 day 18 hr 15 min
 

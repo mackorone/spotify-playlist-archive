@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Kukkatalo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,977 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,991 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 3 | [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 |
 | 4 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
 | 5 | [Rakkauden kesä '25](https://open.spotify.com/track/6voVmRAlJUGCZguqxLHG1g) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Rakkauden kesä '25](https://open.spotify.com/album/4gUaEueG35zVbHBleS7FGw) | 3:32 |
-| 6 | [Chervona ruta](https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Yona](https://open.spotify.com/artist/5BkXsfNLBm4G7L82WEBCfv), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Solovey \- Lauluja Ukrainasta](https://open.spotify.com/album/2cGIkil6v7zVbIAgehuU92) | 4:04 |
+| 6 | [Chervona ruta](https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Solovey \- Lauluja Ukrainasta](https://open.spotify.com/album/2cGIkil6v7zVbIAgehuU92) | 4:04 |
 | 7 | [Sun tyttö](https://open.spotify.com/track/2jdzwygTOKriMLTilBhhcB) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sun tyttö](https://open.spotify.com/album/3sn0vIRq13oKCgdz6WaPJ9) | 3:50 |
 | 8 | [Lapis philosophorum](https://open.spotify.com/track/43KgbIw8U93aV7iZlpPIxX) | [Jaakko Laitinen & Väärä Raha](https://open.spotify.com/artist/5QPVowsUcqhMFwZXmdGNUv) | [Lapis philosophorum](https://open.spotify.com/album/4REXtOg58aYwpKD378GkPo) | 4:18 |
 | 9 | [Miljoonien kyynelten maa](https://open.spotify.com/track/4pcTprmm5AzHcq5iM567Sg) | [Ken Lie & Hän](https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5) | [Miljoonien kyynelten maa](https://open.spotify.com/album/0zFMnmsRO8l27427khVo5x) | 3:03 |

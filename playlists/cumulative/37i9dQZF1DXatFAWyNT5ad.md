@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-879 songs - 1 day 21 hr 11 min
+881 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,9 @@
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2022-03-17 | 2023-03-25 |
 | [Flowers](https://open.spotify.com/track/5vDoProElesaYAv7PBVxKX) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Flowers / Algorithm & Blues \(Over & Over\)](https://open.spotify.com/album/6xpowGOQPPNpOsKJDEJfbV) | 3:44 | 2025-07-18 |  |
 | [fmk \(with blackbear\)](https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 3:09 | 2022-09-15 | 2025-02-15 |
+| [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-08-15 |  |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2022-03-24 | 2023-03-25 |
+| [forever \[Feat\. I DONT KNOW HOW BUT THEY FOUND ME\]](https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [june](https://open.spotify.com/album/3mtccJISwpBDKW1kUnrYVz) | 3:04 | 2025-08-15 |  |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2022-03-17 | 2023-03-18 |
 | [Forget to Forget You](https://open.spotify.com/track/2d72tfHrceo8IRrQYsh5Ye) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Forget to Forget You](https://open.spotify.com/album/3K5fQsYTJeax7eJ7KxQSim) | 3:24 | 2022-03-24 | 2022-04-12 |
 | [FREAK](https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5) | 2:29 | 2023-03-17 |  |
@@ -540,7 +542,7 @@
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-03-17 | 2023-05-23 |
 | [Moments](https://open.spotify.com/track/1jQl9VPQjB3FsEQAUnPgWU) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [Moments](https://open.spotify.com/album/70IiZhyldR4WR88Nyudi3P) | 3:35 | 2022-03-24 | 2022-04-21 |
 | [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-23 |  |
-| [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2024-03-08 |  |
+| [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2024-03-08 | 2025-08-16 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-06-17 |
 | [Monster](https://open.spotify.com/track/6Wl7eKrZdQtobWOYbLI47J) | [Casey Lowry](https://open.spotify.com/artist/6g01TPprAdALKCjAwBYPH1) | [Nervous](https://open.spotify.com/album/7gK6jXAO3V7f3nDcQM2Wlf) | 3:01 | 2022-03-24 | 2022-04-18 |
 | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 | 2022-03-17 | 2023-03-18 |
@@ -557,7 +559,7 @@
 | [New Age Meds](https://open.spotify.com/track/4FaYk25oNcZClZ6tx5CE8R) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [New Age Meds](https://open.spotify.com/album/4QyxAGwZ1rlb58wSY1oRu0) | 3:30 | 2022-03-24 | 2022-05-06 |
 | [No Champagne](https://open.spotify.com/track/4X3KXMKeQ7UTIuJmjAnTCu) | [Lo Talker](https://open.spotify.com/artist/76FasD1q35Rjz1PrGTSm9U) | [No Champagne](https://open.spotify.com/album/5Lxhu0evMdASSGfeJXATKf) | 3:34 | 2022-03-24 | 2022-04-19 |
 | [No More Friends \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/5jbk17nRpXXvzGXPXjm3uW) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [No More Friends](https://open.spotify.com/album/5T2HtXj1rvReE0gAAMNx53) | 3:13 | 2022-03-17 | 2022-07-29 |
-| [nobody](https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [nobody](https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB) | 2:25 | 2024-06-21 |  |
+| [nobody](https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [nobody](https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB) | 2:25 | 2024-06-21 | 2025-08-16 |
 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 | 2023-07-28 | 2024-01-18 |
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-06-30 | 2022-08-02 |
 | [nostalgic \(luvsick\)](https://open.spotify.com/track/1DQj87dLf0PPrpEjvBgHXP) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [nostalgic \(luvsick\)](https://open.spotify.com/album/5DHL2kzqmvPTRwE5JJbUsK) | 2:45 | 2022-03-17 | 2022-06-14 |

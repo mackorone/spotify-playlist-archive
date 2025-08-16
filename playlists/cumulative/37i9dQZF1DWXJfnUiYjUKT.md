@@ -2,7 +2,7 @@
 
 ### [New Music Friday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT)
 
-> The very best in new music from around the world, with Laufey on the cover.
+> The very best in new music from around the world, with Dijon on the cover.
 
 18,534 songs - 40 day 20 hr 1 min
 

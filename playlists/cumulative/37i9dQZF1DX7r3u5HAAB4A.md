@@ -2,7 +2,7 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\.  Cover: Skillibeng
+> A melting pot of Caribbean culture\.  Cover: YG Marley
 
 248 songs - 12 hr 18 min
 

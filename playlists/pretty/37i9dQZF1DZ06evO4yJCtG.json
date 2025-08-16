@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 152279,
+  "num_followers": 152295,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJvVgAAAAAB4hpfG/cf78uubrS/YUzGd",
+  "snapshot_id": "aJ0nAAAAAADVH12TUDbT4EKYJR89oOvJ",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
       },
       "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 225286,
-      "name": "Jealous (with Ella Mai)",
-      "url": "https://open.spotify.com/track/4xPqjF1t6wGa2j6QEMPF95"
+      "duration_ms": 191503,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
     },
     {
       "added_at": null,
@@ -603,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
       "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
         {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 191503,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0SZwTcyp6qcICqdRVOpbPy"
+      "duration_ms": 225286,
+      "name": "Jealous (with Ella Mai)",
+      "url": "https://open.spotify.com/track/4xPqjF1t6wGa2j6QEMPF95"
     },
     {
       "added_at": null,
@@ -635,26 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 226479,
-      "name": "One Bad Decision - feat. Ella Mai & Roddy Ricch",
-      "url": "https://open.spotify.com/track/1dId0BBASxqAz45lE0201A"
+      "duration_ms": 89443,
+      "name": "Old Dog, New Bitch",
+      "url": "https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR"
     },
     {
       "added_at": null,
@@ -679,18 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/2l5Nx7nlsDzNR2LTN1aiy2"
       },
       "artists": [
         {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
           "name": "Ella Mai",
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 89443,
-      "name": "Old Dog, New Bitch",
-      "url": "https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR"
+      "duration_ms": 226479,
+      "name": "One Bad Decision - feat. Ella Mai & Roddy Ricch",
+      "url": "https://open.spotify.com/track/1dId0BBASxqAz45lE0201A"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-134 songs - 9 hr 0 min
+135 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [breathing in](https://open.spotify.com/track/5SQFF77hbKu61zAhuofSx9) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [feel it yet?](https://open.spotify.com/album/73TPblj9INiaI87pRaV5EW) | 3:01 | 2025-02-21 |  |
 | [Brooklyn 9:00am](https://open.spotify.com/track/0YrhuzbViNhtseDz6H4JCw) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Brooklyn 9:00am](https://open.spotify.com/album/4b7mMlruldC2R7w71vzyTg) | 2:40 | 2025-02-21 |  |
 | [BUTTER BREAD](https://open.spotify.com/track/2S4pfn4eZbyOLpJwy6T8kA) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [BUTTER BREAD](https://open.spotify.com/album/6IjENtVmf4WU836bGcBWv0) | 3:34 | 2025-03-28 |  |
-| [Calypso](https://open.spotify.com/track/4UahXJRzy7JgPEXXhdnQPU) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Black Sand](https://open.spotify.com/album/7EH8VWCoo1NOnyRhIDZZjC) | 2:34 | 2025-05-23 |  |
+| [Calypso](https://open.spotify.com/track/4UahXJRzy7JgPEXXhdnQPU) | [Clear Path Ensemble](https://open.spotify.com/artist/1VQ28k8VLZK2x1fgTpGO4W) | [Black Sand](https://open.spotify.com/album/7EH8VWCoo1NOnyRhIDZZjC) | 2:34 | 2025-05-23 | 2025-08-16 |
 | [Celestial Bean](https://open.spotify.com/track/3y1WjyKAd04lZZQq1Uc81s) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Celestial Bean](https://open.spotify.com/album/2ZWq2ttal2Zi3z7yjFpAQq) | 4:35 | 2025-02-28 |  |
 | [Cloud Nine](https://open.spotify.com/track/4HbYC5n3UHmm6SxdCC7Jn2) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Days In The Sun](https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx) | 3:12 | 2025-02-21 |  |
 | [Cold nights and city bike rides.](https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Oliver Rees](https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI) | [Cold nights and city bike rides.](https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2) | 2:46 | 2025-06-27 |  |
@@ -80,6 +80,7 @@
 | [Little Me](https://open.spotify.com/track/5Zz7T3gOuOKwVcYqmsgQpR) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Little Me](https://open.spotify.com/album/22yrN8AV9X7bQrz8MDXr6E) | 3:39 | 2025-02-21 | 2025-04-05 |
 | [Love Language](https://open.spotify.com/track/2x9lYHqC6bIPVGofPEj54j) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 4:38 | 2025-05-09 |  |
 | [Love Language](https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love Language](https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6) | 4:38 | 2025-02-21 | 2025-05-10 |
+| [Love You More \(Edit\)](https://open.spotify.com/track/1WzGTl81zGtaf0Dy3D8AD3) | [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Love You More \(Edit\)](https://open.spotify.com/album/5rlFlsvWLmYeSDQDGT6Arj) | 4:02 | 2025-08-15 |  |
 | [Manhattan Jazz Club](https://open.spotify.com/track/2DT4NNCNbdrELvG0Ku5wF0) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [Manhattan Jazz Club](https://open.spotify.com/album/2dsbWPcnKWv7HsZcH0Wb8v) | 4:34 | 2025-02-21 |  |
 | [Mari Ye Phepha \- Kedi Cruise Remix](https://open.spotify.com/track/3oFujGX5ogNeYA7Efr3AYs) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Jazz Cruise Series Vol\. 1](https://open.spotify.com/album/05PU51SCYUrmmFgV6Qvmvs) | 9:58 | 2025-02-21 |  |
 | [Metropolis](https://open.spotify.com/track/53Z2PO6u3LG9ba0A6EBaTI) | [AJ Hamilton](https://open.spotify.com/artist/6JvOEBar34Q5TQulmpLj3V) | [Metropolis](https://open.spotify.com/album/6ZiOldPmvjyuWcA9WwuVX9) | 3:54 | 2025-02-21 |  |

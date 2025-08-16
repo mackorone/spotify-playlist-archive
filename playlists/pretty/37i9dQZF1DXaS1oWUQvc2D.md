@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 
 > <a href="spotify:artist:4Bv3GYUzNM11yYGQslJOkp">Mr\. ID</a>'s favorite tracks\. Updated regularly\. Curated by Mr\. ID\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,854 likes - 51 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,858 likes - 51 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS1oWUQvc2D.md) - [plain]
 | 27 | [Zero](https://open.spotify.com/track/1Sz4BE9zI2UjbZwriK8TOl) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY) | [Zero](https://open.spotify.com/album/7xMWFYshBVoAMq8AGNIWDk) | 3:01 |
 | 28 | [Sanba Yo Pran Pale \- Ankhoï Remix](https://open.spotify.com/track/4mazzDHeclrlA6rbFM34z1) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Sanba Yo Pran Pale \(Ankhoï Remix\)](https://open.spotify.com/album/7msC6j0hF69JZLwy9cSYhJ) | 3:59 |
 | 29 | [Wicked Travellers](https://open.spotify.com/track/7gGRxwk93h5X0rN82FCRJk) | [AfroNerd](https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD), [Miza \(EG\)](https://open.spotify.com/artist/4S3tYJNB7IJupFghLdFw29) | [Wicked Travellers](https://open.spotify.com/album/0GnkHbnBohUuputjwkdfOq) | 6:20 |
-| 30 | [Nyè Sonni So \(The Strength Within\)](https://open.spotify.com/track/2ZJHA2l7Bfxc6dYaGjuA1b) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [In Spite of Everything](https://open.spotify.com/album/6svY7i3cDiFmH6heGzstZC) | 3:58 |
+| 30 | [Nyè Sonni So \(The Strength Within\)](https://open.spotify.com/track/2ZJHA2l7Bfxc6dYaGjuA1b) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Abdul Champion](https://open.spotify.com/artist/5GVIK3KxkRrjJjg8frkjzj) | [In Spite of Everything](https://open.spotify.com/album/6svY7i3cDiFmH6heGzstZC) | 3:58 |
 | 31 | [Massar](https://open.spotify.com/track/0dSCoXyr9aRYNaOOozWCCt) | [Adwas](https://open.spotify.com/artist/3OtnUwnj5pRWmr8hvE0aS4), [Tony L Issac](https://open.spotify.com/artist/525L1gtqbrlklwKaKvxNSe) | [Massar](https://open.spotify.com/album/6at2ih37ZWRlEqXgtM9LqO) | 6:54 |
 | 32 | [Sometimes It Hurts \- Main Mix](https://open.spotify.com/track/4vMBAgp2x6J5T4tRrvrF7F) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Sometimes It Hurts](https://open.spotify.com/album/4dwebbvM41Ut5kZValt7Xz) | 6:17 |
 | 33 | [Fufu](https://open.spotify.com/track/0R5uhGKtmnyDPV5i2oGnKo) | [Dj Gálio](https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP), [DJ Satelite](https://open.spotify.com/artist/3Jbb0CKTNea0vdoBVrXaYk), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Fufu](https://open.spotify.com/album/1M52oI1CgGJtnMkqR1Rm0C) | 5:36 |

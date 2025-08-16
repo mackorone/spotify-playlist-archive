@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new school - Alternative R&B. Cover: Isaia Huron",
+  "description": "The new school - Alternative R&B. Cover: Steve Lacy",
   "name": "Vanguard",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 200000,
       "name": "2ofUs",
       "url": "https://open.spotify.com/track/1c4x14bQbdoNkCZn2lJXgZ"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 145120,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF"
@@ -2613,6 +2613,24 @@
     },
     {
       "album": {
+        "name": "be careful",
+        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203940,
+      "name": "be careful",
+      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
+    },
+    {
+      "album": {
         "name": "SOUL URGE",
         "url": "https://open.spotify.com/album/1DfBrXghMA9GswZIyrlKJU"
       },
@@ -2740,6 +2758,24 @@
       "duration_ms": 268113,
       "name": "bell",
       "url": "https://open.spotify.com/track/0K4FT5OQub6DDCTZx8hyDp"
+    },
+    {
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/1RhfxWkVqVhY6iSnHs4KX9"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148369,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/3qulGnMuDFn1javAqho9yi"
     },
     {
       "album": {
@@ -6508,7 +6544,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 109413,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/6U09H7CVra0HbNPJGnQDDU"
@@ -10928,7 +10964,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 228266,
       "name": "Hey Girl(s)",
       "url": "https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ"
@@ -11228,7 +11264,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 192481,
       "name": "HOML",
       "url": "https://open.spotify.com/track/6rfuYqZXMl6r2HPZ7BNZbn"
@@ -13324,6 +13360,24 @@
       "duration_ms": 226355,
       "name": "Killing Me Softly With His Song - Spotify Singles",
       "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277275,
+      "name": "Kindalove",
+      "url": "https://open.spotify.com/track/6TbSdRNQejxvrXX3M9VBXh"
     },
     {
       "album": {
@@ -16310,7 +16364,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 176488,
       "name": "need your love",
       "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
@@ -16464,6 +16518,24 @@
       "duration_ms": 163507,
       "name": "Next 2 Me",
       "url": "https://open.spotify.com/track/1W3xsWvZq7k1XtMk9U5Mnr"
+    },
+    {
+      "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
       "album": {
@@ -17254,7 +17326,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 60074,
       "name": "On & On",
       "url": "https://open.spotify.com/track/02frfyWWBOpCjBaPXi0Qcl"
@@ -25056,7 +25128,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 230560,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
@@ -27261,6 +27333,24 @@
     },
     {
       "album": {
+        "name": "Why Why",
+        "url": "https://open.spotify.com/album/0Fh7cxMOkonvxdPJzxMBkp"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205650,
+      "name": "Why Why",
+      "url": "https://open.spotify.com/track/4zgUOjpuMgolNDRxwQDaKY"
+    },
+    {
+      "album": {
         "name": "Why Would I",
         "url": "https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs"
       },
@@ -27872,6 +27962,24 @@
       "duration_ms": 158739,
       "name": "XXX",
       "url": "https://open.spotify.com/track/23NCkVILmpLFV6HAe4dOCf"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "album": {

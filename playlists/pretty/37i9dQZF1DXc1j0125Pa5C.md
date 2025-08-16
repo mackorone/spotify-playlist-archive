@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 ### [Dominguêra](https://open.spotify.com/playlist/37i9dQZF1DXc1j0125Pa5C)
 
-> Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Clareou, Milthinho
+> Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,896 likes - 75 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,944 likes - 75 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

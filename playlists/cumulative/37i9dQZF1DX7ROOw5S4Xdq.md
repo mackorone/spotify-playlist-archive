@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-2,634 songs - 9 day 5 hr 17 min
+2,635 songs - 9 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Amores](https://open.spotify.com/track/7LpA3ODyBgx2W4mvsx70CB) | [Igor Felix](https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud) | [Amores](https://open.spotify.com/album/0jUSE5x6J14RnYg07STs03) | 4:02 | 2024-08-16 | 2024-08-24 |
 | [Amém \- Ao Vivo](https://open.spotify.com/track/7sp6RyxX8GrFltFWneJDz9) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al), [Bruno Alves](https://open.spotify.com/artist/4IvS8wAt7VjB6IIPDS6psH) | [Amém \- Ao Vivo](https://open.spotify.com/album/07wVlXxefnPVjUdoV4HVmz) | 4:51 | 2024-08-09 | 2024-08-17 |
 | [Anjo \(Studio Session\)](https://open.spotify.com/track/6YCY81vhPyOhPXsdtfTOQg) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Anjo \(Studio Session\)](https://open.spotify.com/album/1BHff1eyC690SlPkryRJ8Z) | 3:11 | 2024-04-26 | 2024-06-15 |
+| [ANSEIO](https://open.spotify.com/track/4JduDB9VejMCvKKVM0ImXG) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [ANSEIO](https://open.spotify.com/album/38yRX2xjxjfhC7wgRXsF5R) | 5:21 | 2025-08-15 |  |
 | [Antes de Te Conhecer](https://open.spotify.com/track/2Q7GiV3c2h750sxbU0B6Lj) | [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb) | [Piano & Voz](https://open.spotify.com/album/51dOlkKepCwQSa1NLk6pA7) | 2:48 | 2024-04-26 | 2024-06-15 |
 | [Antes de Tudo](https://open.spotify.com/track/0oYMEcA9QftpypdKEVKh1x) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i), [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Antes de Tudo](https://open.spotify.com/album/0qYNKejio9hdhsV3LPOxWe) | 3:49 | 2024-11-22 | 2024-11-30 |
 | [Antes e Depois](https://open.spotify.com/track/7BMtQ7eslSqJlijnhl4q0e) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Marina De Oliveira](https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB) | [Antes e Depois](https://open.spotify.com/album/7nf6YTKTrpRnW5C7OGugyg) | 4:28 | 2023-09-01 | 2023-09-09 |

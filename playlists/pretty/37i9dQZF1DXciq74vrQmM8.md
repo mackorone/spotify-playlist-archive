@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. bambie thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,039 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,041 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 44 | [CONCRETE](https://open.spotify.com/track/7l2NInPwslS8CaEPQdhKdx) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [CONCRETE](https://open.spotify.com/album/6gL9iXYs1SD0VNLaPKwIhB) | 3:16 |
 | 45 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
 | 46 | [pink gun](https://open.spotify.com/track/6UNszlYyXAmKAAqF3e3Lv2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [pink gun](https://open.spotify.com/album/6ibuf1X8PFFtLgxOXUo5EM) | 3:08 |
-| 47 | [Track 1](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 0:00 |
+| 47 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 |
 | 48 | [Suppressed](https://open.spotify.com/track/4e3G3PEG45LHucMQnuksN3) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Suppressed](https://open.spotify.com/album/4kfNrokr8BVLsheiqlKEPQ) | 3:19 |
 | 49 | [Phantom Limb](https://open.spotify.com/track/0ztCJyjFzDkWUGQogDBioF) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Still Fucking Sucks](https://open.spotify.com/album/65t0i9VT9K6A2NX6LFvRik) | 3:15 |
 | 50 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Abdullah Maharvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,573 likes - 66 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,575 likes - 66 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 65 | [Wanderlust](https://open.spotify.com/track/0HVzY1Jxy3rpCHrf622vyU) | [Amna Askari](https://open.spotify.com/artist/1APOwzQ3mP56pRkFIueZbh) | [Wanderlust](https://open.spotify.com/album/2MvayR0I7OOHaP8jBbgxxE) | 2:11 |
 | 66 | [Rooth Gaya](https://open.spotify.com/track/3bmTIzl2qNOlLiia1WNMZc) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2) | [Rooth Gaya](https://open.spotify.com/album/3qtn0iZYpVuxl5SesjwGB3) | 3:40 |
 
-Snapshot ID: `AAAAAF3URKX+juP1T1SePQncHq4TyZUn`
+Snapshot ID: `AAAAAL2GEslKboPmHzgeiU1UuROj12nm`

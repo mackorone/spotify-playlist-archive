@@ -1,13 +1,61 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: fliss",
-  "num_followers": 219094,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Sabrina Sterling",
+  "num_followers": 219095,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKXVD9beNGmtTyVaNHQhz/crM+DF",
+  "snapshot_id": "AAAAAKANP20Q9Wt+NELq4/Wr0+FD/MiV",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:19",
+      "album": {
+        "name": "Ramona",
+        "url": "https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Sterling",
+          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
+        }
+      ],
+      "duration_ms": 192592,
+      "name": "Rot",
+      "url": "https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ"
+    },
+    {
+      "added_at": "2025-08-15 04:00:19",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 170740,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD"
+    },
+    {
+      "added_at": "2025-08-15 13:16:50",
+      "album": {
+        "name": "Simple Math",
+        "url": "https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5"
+      },
+      "artists": [
+        {
+          "name": "Emma Andersen",
+          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
+        }
+      ],
+      "duration_ms": 144817,
+      "name": "Simple Math",
+      "url": "https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs"
+    },
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
@@ -375,22 +423,6 @@
       "duration_ms": 170955,
       "name": "Better in Person",
       "url": "https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "Ramona",
-        "url": "https://open.spotify.com/album/1JJmc71cvmsm31GbBRy4MA"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Sterling",
-          "url": "https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd"
     },
     {
       "added_at": "2025-07-11 04:00:17",
@@ -939,38 +971,6 @@
       "duration_ms": 161931,
       "name": "Northern Star",
       "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
-    },
-    {
-      "added_at": "2025-03-07 05:00:33",
-      "album": {
-        "name": "Why Keep Trying?",
-        "url": "https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX"
-      },
-      "artists": [
-        {
-          "name": "Aggy Ally",
-          "url": "https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs"
-        }
-      ],
-      "duration_ms": 222162,
-      "name": "Why Keep Trying?",
-      "url": "https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj"
-    },
-    {
-      "added_at": "2025-02-21 05:00:19",
-      "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

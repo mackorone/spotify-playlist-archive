@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-164 songs - 8 hr 43 min
+166 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,9 +136,11 @@
 | [River Rat](https://open.spotify.com/track/6LMLpHHp0OWOjAioVwrV2Z) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [River Rat](https://open.spotify.com/album/7JD03Rcjz7mmnJWXwJaTBo) | 3:28 | 2023-06-16 |  |
 | [Roll With Me](https://open.spotify.com/track/1A8bSRTIaWjOjtt1y8gmZO) | [I4NI](https://open.spotify.com/artist/3zLyy1Z82ukEfGVOsOB2Io), [Chris Hurt](https://open.spotify.com/artist/6cOsEsSXiTvTRciYa0nol2), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Country Boy City Slick](https://open.spotify.com/album/58rS611GRSt8OEG1Wb1fRu) | 3:55 | 2023-03-17 |  |
 | [Runaway Train](https://open.spotify.com/track/39T5oAenSW23lsJT41u8VP) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Runaway Train](https://open.spotify.com/album/00GNobeHKDEOYXXkXxGwl5) | 3:15 | 2023-09-29 | 2024-07-13 |
+| [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 | 2025-08-15 |  |
 | [SHOOT THE LOCK](https://open.spotify.com/track/3EXdrPdRuTmJFcPYvNR1PT) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [SHOOT THE LOCK](https://open.spotify.com/album/3orD58TRYdUHChxr39TkcP) | 2:41 | 2024-07-19 |  |
 | [Shot Me Alive](https://open.spotify.com/track/0p4i3IVz9DMiSs2yq4LiQP) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Shot Me Alive](https://open.spotify.com/album/0JeH0Zusi2x59hwWik9Za9) | 3:06 | 2023-03-17 |  |
 | [Sinner Like Me](https://open.spotify.com/track/01sSGVKLUffTpikbdvjEwl) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Certified Savage](https://open.spotify.com/album/0bM7pyWrF2NRJmqppf09hY) | 2:28 | 2023-03-17 |  |
+| [Sippin Country](https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Sippin Country](https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd) | 2:39 | 2025-08-15 |  |
 | [Son Of The Dirty South](https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [So Help Me God](https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL) | 2:59 | 2023-03-17 | 2024-04-19 |
 | [Son Of The Dirty South](https://open.spotify.com/track/6e5zD3UWwZmbae4jN3qibs) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Son Of The Dirty South](https://open.spotify.com/album/4GLrwjbdcgzlW3MGWJFarS) | 2:59 | 2024-04-19 |  |
 | [Southern Land](https://open.spotify.com/track/2bX3Cb6QE8OetYBwJKnd0o) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Southern Land](https://open.spotify.com/album/06O3dxp8QBUjimf94haj4q) | 3:42 | 2023-03-17 |  |

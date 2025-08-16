@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 ### [New Music Friday \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXJfnUiYjUKT)
 
-> The very best in new music from around the world, with Laufey on the cover.
+> The very best in new music from around the world, with Dijon on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,320 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,986 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Then You Happened](https://open.spotify.com/track/6ecMgHh6mgKLjBTM1BynhM) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Then You Happened](https://open.spotify.com/album/32Q4UfB1mCue1NGQaLER4H) | 3:03 |
 | 100 | [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 |
 
-Snapshot ID: `AAAAAHkQvvWupWyyDAgbJs/jCe4OxpnE`
+Snapshot ID: `AAAAAKbk9GwIqqyCizMwtvDhvrrpMVPO`

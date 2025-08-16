@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 
 > De Jaren 80 playlist met de grootste hits uit de jaren 80 en 80s\. Met o.a\. Kate Bush, Prince, David Bowie, a\-ha, Phil Collins, Talking Heads en nog veel meer! Foto: Prince \| Jaren 80 hits \- Jaren 80
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,136 likes - 106 songs - 7 hr 20 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,131 likes - 106 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 | 105 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 106 | [Annie, I'm Not Your Daddy](https://open.spotify.com/track/5paJLghWSGmEf6sY7LeYel) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:47 |
 
-Snapshot ID: `AAAGnPQCPANXuwjU/UJl/AxBkF+GS2QQ`
+Snapshot ID: `AAAGuqmcmwqez1IcPRfS22UWXqZqVwPq`

@@ -115,6 +115,28 @@
     },
     {
       "album": {
+        "name": "1AM",
+        "url": "https://open.spotify.com/album/6fsDtN0dsLeaIRHl2DnYWA"
+      },
+      "artists": [
+        {
+          "name": "Alex Martin",
+          "url": "https://open.spotify.com/artist/04DZVy8gTWcLSGZOPqPp2c"
+        },
+        {
+          "name": "NIKK",
+          "url": "https://open.spotify.com/artist/0WpOkyZny3FSpdF95rJBJP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196615,
+      "name": "1AM",
+      "url": "https://open.spotify.com/track/4kvDluWBjy7u4T5moAgRz2"
+    },
+    {
+      "album": {
         "name": "2077",
         "url": "https://open.spotify.com/album/3VUqlLwfhgY1UDR2UFGGvc"
       },
@@ -7264,7 +7286,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
@@ -8605,6 +8627,24 @@
     },
     {
       "album": {
+        "name": "Give Me A Dub",
+        "url": "https://open.spotify.com/album/1CCLUfUFMd6BTEYmjDjPkY"
+      },
+      "artists": [
+        {
+          "name": "Matsu",
+          "url": "https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215229,
+      "name": "Give Me A Dub",
+      "url": "https://open.spotify.com/track/6FkQzlk7Z5n6wcq1FCa3Cr"
+    },
+    {
+      "album": {
         "name": "Giving Up On Love",
         "url": "https://open.spotify.com/album/0ZVqV79CTkqSGhGBXdUbO5"
       },
@@ -9016,7 +9056,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 184687,
       "name": "Goonies",
       "url": "https://open.spotify.com/track/6u49WF0vY6mjmF2nU6x155"
@@ -9572,6 +9612,24 @@
       "duration_ms": 233333,
       "name": "Hey Hey (Heard You Say)",
       "url": "https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141860,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
     },
     {
       "album": {
@@ -12046,7 +12104,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 216562,
       "name": "Like This",
       "url": "https://open.spotify.com/track/6XLjxYyrr6r40l5RPZR9WO"
@@ -14232,6 +14290,24 @@
       "duration_ms": 169523,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0gtMx0Y0pkjuLYvmmCkyGE"
+    },
+    {
+      "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
     },
     {
       "album": {
@@ -19924,7 +20000,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 183941,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/0ZOXCG0P1ypNum07Pg9G38"
@@ -22726,7 +22802,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Wrong Feels Right",
       "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
@@ -22842,7 +22918,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 164653,
       "name": "You Love It",
       "url": "https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa"

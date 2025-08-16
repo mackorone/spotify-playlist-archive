@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 200275,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6Vj6G2zYawNa27DJLpEHiP"
@@ -9822,7 +9822,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 122568,
       "name": "Cannonball (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/57yu1WujridphAAkPgpkhC"
@@ -13958,7 +13958,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
@@ -14764,7 +14764,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
@@ -17740,7 +17740,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-20",
+      "date_removed": null,
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
@@ -21812,10 +21812,28 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 217606,
       "name": "Gianna",
       "url": "https://open.spotify.com/track/01JATpwGBlirlrNfDHTjaD"
+    },
+    {
+      "album": {
+        "name": "Grande Amore",
+        "url": "https://open.spotify.com/album/50bLvnuiHRnu7JwIOhyQZg"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217606,
+      "name": "Gianna",
+      "url": "https://open.spotify.com/track/56Y88HOwL6sTkPriMX3Nwm"
     },
     {
       "album": {
@@ -23318,7 +23336,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 209684,
       "name": "Hadal Ahbek",
       "url": "https://open.spotify.com/track/6nIGMTqiL0cZYyNa8gzj0e"
@@ -25470,6 +25488,24 @@
       "duration_ms": 288160,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/53wnscuzFnH8jaGymzqgfi"
+    },
+    {
+      "album": {
+        "name": "To zvl\u00e1dneme",
+        "url": "https://open.spotify.com/album/70AXf61ifoxFcYogBErATL"
+      },
+      "artists": [
+        {
+          "name": "Michal Ju\u0159i\u010dka",
+          "url": "https://open.spotify.com/artist/0Bmd57IusHJodKvSFJPp8g"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126075,
+      "name": "Holky, co cht\u011bj, abych je \u0161krtil (jemn\u011b)",
+      "url": "https://open.spotify.com/track/2WiB7cIKwBNvEAg6xOrUwU"
     },
     {
       "album": {
@@ -51520,7 +51556,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 147307,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"

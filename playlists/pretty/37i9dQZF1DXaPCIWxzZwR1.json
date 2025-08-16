@@ -1,13 +1,29 @@
 {
-  "description": "next gen pop\n\nCover: Ruel",
-  "num_followers": 1274690,
+  "description": "next gen pop\n\nCover: Audrey Hobert",
+  "num_followers": 1274606,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAHe7kRAOoXIfXuOa8gkcZ8skVt5",
+  "snapshot_id": "AAAAAHUte9afsrJvgRnEg+WjWoFjMIz1",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:24",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Thirst Trap",
+      "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
+    },
     {
       "added_at": "2025-08-08 04:00:50",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
     },
     {
-      "added_at": "2025-07-18 04:00:30",
+      "added_at": "2025-08-15 04:00:24",
       "album": {
-        "name": "I Can Die Now",
-        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
       },
       "artists": [
         {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 171280,
-      "name": "I Can Die Now",
-      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
     },
     {
       "added_at": "2025-08-08 04:00:50",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
     },
     {
+      "added_at": "2025-06-13 04:00:52",
+      "album": {
+        "name": "Girls Like You",
+        "url": "https://open.spotify.com/album/1TO1Ccdu03e0E3vGWHLZnc"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 215694,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/6BfN2z3FfrqT8poo78l5hY"
+    },
+    {
       "added_at": "2025-08-01 04:00:38",
       "album": {
         "name": "coming around",
@@ -187,6 +219,42 @@
     {
       "added_at": "2025-07-05 04:00:22",
       "album": {
+        "name": "Hold On You",
+        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Hold On You",
+      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
+    },
+    {
+      "added_at": "2025-03-14 04:00:26",
+      "album": {
+        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
+        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        },
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "duration_ms": 179166,
+      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
+      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
+    },
+    {
+      "added_at": "2025-07-05 04:00:22",
+      "album": {
         "name": "autonomy",
         "url": "https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE"
       },
@@ -199,22 +267,6 @@
       "duration_ms": 156368,
       "name": "Sugar, baby",
       "url": "https://open.spotify.com/track/2nYeH89Z9pwZ7JWvCqGqY5"
-    },
-    {
-      "added_at": "2025-06-13 04:00:52",
-      "album": {
-        "name": "Girls Like You",
-        "url": "https://open.spotify.com/album/1TO1Ccdu03e0E3vGWHLZnc"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 215694,
-      "name": "Girls Like You",
-      "url": "https://open.spotify.com/track/6BfN2z3FfrqT8poo78l5hY"
     },
     {
       "added_at": "2025-03-28 04:00:49",
@@ -233,6 +285,22 @@
       "url": "https://open.spotify.com/track/2djMadJLhufUl397ravYvO"
     },
     {
+      "added_at": "2025-07-18 04:00:30",
+      "album": {
+        "name": "I Can Die Now",
+        "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "I Can Die Now",
+      "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
+    },
+    {
       "added_at": "2025-06-27 04:00:48",
       "album": {
         "name": "new friends",
@@ -247,6 +315,22 @@
       "duration_ms": 165668,
       "name": "new friends",
       "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
+    },
+    {
+      "added_at": "2025-07-18 04:00:30",
+      "album": {
+        "name": "Change of Plans",
+        "url": "https://open.spotify.com/album/761KOqmdU3EZgU8EFKydPk"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 160947,
+      "name": "Swiss Army Knife",
+      "url": "https://open.spotify.com/track/44DV4JLsOuXvFRhERDCHSJ"
     },
     {
       "added_at": "2025-08-01 04:00:38",
@@ -299,22 +383,6 @@
       "duration_ms": 184200,
       "name": "spelling bee",
       "url": "https://open.spotify.com/track/33OStqVx8yvu6egc2WBt6F"
-    },
-    {
-      "added_at": "2025-07-05 04:00:22",
-      "album": {
-        "name": "Hold On You",
-        "url": "https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM"
-      },
-      "artists": [
-        {
-          "name": "merci, mercy",
-          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Hold On You",
-      "url": "https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk"
     },
     {
       "added_at": "2025-05-16 04:00:32",
@@ -395,6 +463,42 @@
       "duration_ms": 171986,
       "name": "Candy",
       "url": "https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe"
+    },
+    {
+      "added_at": "2025-07-05 04:00:22",
+      "album": {
+        "name": "HEARTLAND : PART I",
+        "url": "https://open.spotify.com/album/4DTMQjooZcqq7rXrYmywo6"
+      },
+      "artists": [
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        },
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "TALK ABOUT IT",
+      "url": "https://open.spotify.com/track/5thXit7SfvatSSoRbks4DX"
+    },
+    {
+      "added_at": "2025-03-28 04:00:49",
+      "album": {
+        "name": "Backflips in a Restaurant",
+        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 165522,
+      "name": "Need You Around",
+      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
     },
     {
       "added_at": "2025-05-30 04:00:32",
@@ -509,42 +613,6 @@
       "url": "https://open.spotify.com/track/5c7hCvAfvS1c9X27L8hFZF"
     },
     {
-      "added_at": "2025-07-05 04:00:22",
-      "album": {
-        "name": "HEARTLAND : PART I",
-        "url": "https://open.spotify.com/album/4DTMQjooZcqq7rXrYmywo6"
-      },
-      "artists": [
-        {
-          "name": "MORGXN",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "TALK ABOUT IT",
-      "url": "https://open.spotify.com/track/5thXit7SfvatSSoRbks4DX"
-    },
-    {
-      "added_at": "2025-03-28 04:00:49",
-      "album": {
-        "name": "Backflips in a Restaurant",
-        "url": "https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 165522,
-      "name": "Need You Around",
-      "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
-    },
-    {
       "added_at": "2025-06-27 04:00:48",
       "album": {
         "name": "Romeo",
@@ -561,6 +629,22 @@
       "url": "https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Rhetorical Questions",
+        "url": "https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Rhetorical Questions",
+      "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
+    },
+    {
       "added_at": "2025-04-04 04:00:35",
       "album": {
         "name": "CHILDSTAR",
@@ -575,22 +659,6 @@
       "duration_ms": 171001,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls"
-    },
-    {
-      "added_at": "2025-07-18 04:00:30",
-      "album": {
-        "name": "Change of Plans",
-        "url": "https://open.spotify.com/album/761KOqmdU3EZgU8EFKydPk"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 160947,
-      "name": "Swiss Army Knife",
-      "url": "https://open.spotify.com/track/44DV4JLsOuXvFRhERDCHSJ"
     },
     {
       "added_at": "2025-05-23 04:00:52",
@@ -751,22 +819,6 @@
       "duration_ms": 155354,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4TDcVE5LKoKjzJu4T3T4fa"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Rhetorical Questions",
-        "url": "https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Rhetorical Questions",
-      "url": "https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE"
     },
     {
       "added_at": "2025-07-18 04:00:30",
@@ -947,26 +999,6 @@
       "duration_ms": 191219,
       "name": "Castle",
       "url": "https://open.spotify.com/track/4B6irprsslV13IM1nr0QoR"
-    },
-    {
-      "added_at": "2025-03-14 04:00:26",
-      "album": {
-        "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-        "url": "https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        },
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Give Me A Sign (feat. Caroline Kingsbury)",
-      "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
     },
     {
       "added_at": "2025-03-21 04:00:48",
@@ -1257,6 +1289,22 @@
       "url": "https://open.spotify.com/track/2vcHGq62LLg2quONoXB32B"
     },
     {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "shoreline",
+        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
+    },
+    {
       "added_at": "2025-03-21 04:00:48",
       "album": {
         "name": "Marble Arch",
@@ -1351,22 +1399,6 @@
       "duration_ms": 152708,
       "name": "Questions",
       "url": "https://open.spotify.com/track/3LpmZrDqY7GsCdCYHRqT3n"
-    },
-    {
-      "added_at": "2025-01-17 05:01:01",
-      "album": {
-        "name": "shoreline",
-        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 244473,
-      "name": "shoreline",
-      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -1577,22 +1609,6 @@
       "url": "https://open.spotify.com/track/3KYEnA8hogjKIquhHC0A5X"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "BACK TO BLONDE",
@@ -1623,22 +1639,6 @@
       "duration_ms": 148597,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "I Really Don't Care!",
-        "url": "https://open.spotify.com/album/3RC6eBwdiknJTFFVQ3BEFj"
-      },
-      "artists": [
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Fly Too Close",
-      "url": "https://open.spotify.com/track/4ayKdgNYQKVGgQ77sVesVy"
     }
   ],
   "unique_name": "Pop Sauce",

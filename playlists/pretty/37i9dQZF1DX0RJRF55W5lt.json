@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 605467,
+  "num_followers": 605600,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "187",
-        "url": "https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4"
-      },
-      "artists": [
-        {
-          "name": "187 Lockdown",
-          "url": "https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p"
-        }
-      ],
-      "duration_ms": 391293,
-      "name": "Kung-Fu",
-      "url": "https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "UK Garage Classics - Jeremy Sylvester in the Mix (feat. Tj Lewis)",
         "url": "https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 320546,
       "name": "Realise",
       "url": "https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "187",
+        "url": "https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4"
+      },
+      "artists": [
+        {
+          "name": "187 Lockdown",
+          "url": "https://open.spotify.com/artist/1tlAuGE8fWLJOWyqdBrR2p"
+        }
+      ],
+      "duration_ms": 391293,
+      "name": "Kung-Fu",
+      "url": "https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Deep Inside (Remixes)",
+        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 145940,
+      "name": "Deep Inside - Shadow Child Remix Edit",
+      "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "My Desire (Remixes)",
         "url": "https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug"
       },
@@ -1339,26 +1355,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Becoming Remixed",
-        "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
-      },
-      "artists": [
-        {
-          "name": "Sneaker Pimps",
-          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
-        },
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        }
-      ],
-      "duration_ms": 543466,
-      "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
-      "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Flava On Wax EP",
         "url": "https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S"
       },
@@ -1375,18 +1371,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Deep Inside (Remixes)",
-        "url": "https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs"
+        "name": "Becoming Remixed",
+        "url": "https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1"
       },
       "artists": [
         {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+          "name": "Sneaker Pimps",
+          "url": "https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
         }
       ],
-      "duration_ms": 145940,
-      "name": "Deep Inside - Shadow Child Remix Edit",
-      "url": "https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM"
+      "duration_ms": 543466,
+      "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
+      "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
     }
   ],
   "unique_name": "UK Garage Classics",

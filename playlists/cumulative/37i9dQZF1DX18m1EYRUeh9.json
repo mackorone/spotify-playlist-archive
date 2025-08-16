@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: mark william lewis",
+  "description": "Smooth indie jazz joints from around the globe. Cover: El Michels Affair",
   "name": "Rarities",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 200875,
       "name": "80 Summers",
       "url": "https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 180426,
       "name": "A Matter Of Fact",
       "url": "https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw"
@@ -234,6 +234,24 @@
       "duration_ms": 204893,
       "name": "Allergies (feat. Delaney Bailey)",
       "url": "https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN"
+    },
+    {
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/0Q9JN5IMPLHreqEkUqJ7Vc"
+      },
+      "artists": [
+        {
+          "name": "Beach for Tiger",
+          "url": "https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183775,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/1HpRxna6vhK0VfVkCLP4tz"
     },
     {
       "album": {
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 182000,
       "name": "Dust",
       "url": "https://open.spotify.com/track/6OPH8mhQbsrWXLPOuL5Jhq"
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 222945,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
@@ -2813,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Indifference",
+        "url": "https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Indifference",
+      "url": "https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u"
+    },
+    {
+      "album": {
         "name": "Perceive Its Beauty, Acknowledge Its Grace",
         "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
       },
@@ -3177,6 +3217,32 @@
     },
     {
       "album": {
+        "name": "Les Feuilles Mortes",
+        "url": "https://open.spotify.com/album/0QMIxSlb3xe80GoGoS7lMr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Funch",
+          "url": "https://open.spotify.com/artist/6kQJj57dZlRmY5afn18EmS"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Mikkel Hess",
+          "url": "https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412500,
+      "name": "Les Feuilles Mortes",
+      "url": "https://open.spotify.com/track/3hqapRZt0hi2Bn9tZyUqZl"
+    },
+    {
+      "album": {
         "name": "Quiet Music For Young People",
         "url": "https://open.spotify.com/album/7EnjFsVN3FXf3L1tknhyKm"
       },
@@ -3286,6 +3352,24 @@
       "duration_ms": 172042,
       "name": "Listen To The Sky",
       "url": "https://open.spotify.com/track/5Hp5ffZ2NOFuJCGuJ04psW"
+    },
+    {
+      "album": {
+        "name": "LITTLE BOY",
+        "url": "https://open.spotify.com/album/4PvIvGtOKaFKfn9z5GjFAK"
+      },
+      "artists": [
+        {
+          "name": "Raquel Martins",
+          "url": "https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197498,
+      "name": "LITTLE BOY",
+      "url": "https://open.spotify.com/track/6fjdGbQ2vRYOjKQlB5JeHT"
     },
     {
       "album": {
@@ -4436,7 +4520,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 239213,
       "name": "Questions",
       "url": "https://open.spotify.com/track/2g37Oi6GLhqoa2Z2NjrUe7"
@@ -5716,6 +5800,24 @@
       "duration_ms": 148093,
       "name": "The Only Way",
       "url": "https://open.spotify.com/track/1V9GYXroUEuxUXYAzNkysN"
+    },
+    {
+      "album": {
+        "name": "Total Blue",
+        "url": "https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG"
+      },
+      "artists": [
+        {
+          "name": "Total Blue",
+          "url": "https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276157,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/3AKpwoEOw7UE4WbckbMlFJ"
     },
     {
       "album": {

@@ -6505,6 +6505,36 @@
     },
     {
       "album": {
+        "name": "Shake The Nation",
+        "url": "https://open.spotify.com/album/20zW7tBycTKoY58oQAFPZ9"
+      },
+      "artists": [
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Hyperloop",
+          "url": "https://open.spotify.com/artist/34VllgUG0XUn6gwIZcuGtk"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Shake The Nation",
+      "url": "https://open.spotify.com/track/2sfKtzdVmXz3FmfJZl3lPt"
+    },
+    {
+      "album": {
         "name": "Shank",
         "url": "https://open.spotify.com/album/2MsT9FhObbMNzL4AepS9WA"
       },

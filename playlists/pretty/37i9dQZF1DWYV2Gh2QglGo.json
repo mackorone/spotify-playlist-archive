@@ -1,13 +1,61 @@
 {
-  "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
-  "num_followers": 81909,
+  "description": "The home of Canadian country music. Cover: Thelma & James",
+  "num_followers": 81938,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2YnV2X1YymYMW1kTGcxERJNpzh",
+  "snapshot_id": "AAAAALgxxKKxzXKb2MG4HCHnNKFs3umc",
   "tracks": [
+    {
+      "added_at": "2025-08-15 11:27:18",
+      "album": {
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
+    },
+    {
+      "added_at": "2025-08-01 04:01:28",
+      "album": {
+        "name": "I'm Leavin' You",
+        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 152915,
+      "name": "I'm Leavin' You",
+      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+    },
+    {
+      "added_at": "2025-08-15 11:27:18",
+      "album": {
+        "name": "He's Mine",
+        "url": "https://open.spotify.com/album/6G6GMdTiHbvd9AkemiYcod"
+      },
+      "artists": [
+        {
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
+        }
+      ],
+      "duration_ms": 228951,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/60LKaC9TqYaiIuTkxcaCMy"
+    },
     {
       "added_at": "2025-08-08 04:01:29",
       "album": {
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0"
     },
     {
-      "added_at": "2025-08-01 04:01:28",
+      "added_at": "2025-08-15 11:27:18",
       "album": {
-        "name": "I'm Leavin' You",
-        "url": "https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj"
+        "name": "On And On",
+        "url": "https://open.spotify.com/album/29850HPzMZCYr56zKWRb31"
       },
       "artists": [
         {
-          "name": "High Valley",
-          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+          "name": "Justin Tyler",
+          "url": "https://open.spotify.com/artist/2FKvcZLG5cDJ0PrjpfEQvg"
         }
       ],
-      "duration_ms": 152915,
-      "name": "I'm Leavin' You",
-      "url": "https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX"
+      "duration_ms": 182857,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/6honQK5C0CSpM31KQXCAOG"
     },
     {
       "added_at": "2025-07-18 04:01:06",
@@ -89,20 +137,36 @@
       "url": "https://open.spotify.com/track/4gReEWsdCfxdRzd1GwRr7K"
     },
     {
-      "added_at": "2025-08-08 04:01:29",
+      "added_at": "2025-08-15 11:27:18",
       "album": {
-        "name": "Are You With Me?",
-        "url": "https://open.spotify.com/album/0nJZ3MC23bIYlQ6e3Zn7Hm"
+        "name": "Dirty Hands, Clean Money",
+        "url": "https://open.spotify.com/album/7Lw3SNSudOL9PrFDFcbVQi"
       },
       "artists": [
         {
-          "name": "Sarah Vanderzon",
-          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+          "name": "The Road Hammers",
+          "url": "https://open.spotify.com/artist/1JEhLfoNDGbqu40txdS8go"
         }
       ],
-      "duration_ms": 183715,
-      "name": "Are You With Me?",
-      "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
+      "duration_ms": 202119,
+      "name": "Dirty Hands, Clean Money",
+      "url": "https://open.spotify.com/track/5xI0F5mOLBB2zOjygmmdJT"
+    },
+    {
+      "added_at": "2025-08-15 11:27:18",
+      "album": {
+        "name": "Oh Jesus",
+        "url": "https://open.spotify.com/album/1RY5Zc6eKhlzdISmHljhdm"
+      },
+      "artists": [
+        {
+          "name": "Robert Adam",
+          "url": "https://open.spotify.com/artist/1nQfw4PecsFq0uw4Cj1z7u"
+        }
+      ],
+      "duration_ms": 235224,
+      "name": "Oh Jesus",
+      "url": "https://open.spotify.com/track/2sFc7zjwbOuWbx2tyVgbD3"
     },
     {
       "added_at": "2025-08-01 04:01:28",
@@ -137,6 +201,22 @@
       "url": "https://open.spotify.com/track/1v6KfzL3Tw4jt6eYM9l0Fk"
     },
     {
+      "added_at": "2025-08-15 11:27:18",
+      "album": {
+        "name": "Damned",
+        "url": "https://open.spotify.com/album/5FcLSr6SOiI2lHsic5f82Z"
+      },
+      "artists": [
+        {
+          "name": "Dave Sampson",
+          "url": "https://open.spotify.com/artist/6uGkbfEf30iy7nVOqZIWJp"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Damned",
+      "url": "https://open.spotify.com/track/5WyZHmCCzqNysk3yjLVS4z"
+    },
+    {
       "added_at": "2025-07-25 04:01:35",
       "album": {
         "name": "Somewhere in a Small Town",
@@ -151,6 +231,22 @@
       "duration_ms": 186318,
       "name": "Somewhere in a Small Town",
       "url": "https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ"
+    },
+    {
+      "added_at": "2025-08-08 04:01:29",
+      "album": {
+        "name": "Are You With Me?",
+        "url": "https://open.spotify.com/album/0nJZ3MC23bIYlQ6e3Zn7Hm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "duration_ms": 183715,
+      "name": "Are You With Me?",
+      "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
     },
     {
       "added_at": "2025-08-08 04:01:29",
@@ -879,22 +975,6 @@
     {
       "added_at": "2025-07-11 04:01:06",
       "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/4nGtXwoFXTdIJ73vySkkAR"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/0TYydMAKPBYjZB0jgGCN7h"
-        }
-      ],
-      "duration_ms": 138994,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/3TSw1YzzkWSuHfgx0DY13g"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
         "name": "Feels Country To Me (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19tVEMyqvXqOt3LiVjohQI"
       },
@@ -923,22 +1003,6 @@
       "duration_ms": 167058,
       "name": "Love and Hate",
       "url": "https://open.spotify.com/track/4yA6KwNbwak1zyO4uufc37"
-    },
-    {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/1kxBDv8EZP84fpagF10KoW"
-      },
-      "artists": [
-        {
-          "name": "Brettyn Rose",
-          "url": "https://open.spotify.com/artist/6nWt7zuZMhRyN0ZTx47dVn"
-        }
-      ],
-      "duration_ms": 211468,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/3ivvrPzqU2biwqkY8Tfgke"
     },
     {
       "added_at": "2025-07-11 04:01:06",
@@ -1037,22 +1101,6 @@
       "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
     },
     {
-      "added_at": "2025-07-11 04:01:06",
-      "album": {
-        "name": "Take The Money (Take Back My Last Name)",
-        "url": "https://open.spotify.com/album/2Smh3G8hjfnyBzsvZPVEZ1"
-      },
-      "artists": [
-        {
-          "name": "Nicole Sumerlyn",
-          "url": "https://open.spotify.com/artist/0LNuRsYq6ZR4MoxEA4gm5t"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Take The Money (Take Back My Last Name)",
-      "url": "https://open.spotify.com/track/43du1hSri3Sm9AIfloTGfz"
-    },
-    {
       "added_at": "2025-07-04 04:00:20",
       "album": {
         "name": "Worth The Double",
@@ -1131,58 +1179,6 @@
       "duration_ms": 153543,
       "name": "Wish I Was",
       "url": "https://open.spotify.com/track/49NbdrkcFCdERnptZ1M17c"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Drinkin' Hand",
-        "url": "https://open.spotify.com/album/04bJuRgewEbjeGiSrQgPWT"
-      },
-      "artists": [
-        {
-          "name": "Aaron Goodvin",
-          "url": "https://open.spotify.com/artist/5EbZ3EVGLkAoDJfn89PDXW"
-        }
-      ],
-      "duration_ms": 184150,
-      "name": "Said No Redneck Ever",
-      "url": "https://open.spotify.com/track/55x4wIhw8MZMAxJocbnebF"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Heartbreak Rodeo",
-        "url": "https://open.spotify.com/album/5CsPQZX5z0cgIUW5TR9jG8"
-      },
-      "artists": [
-        {
-          "name": "Elyse Saunders",
-          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
-        }
-      ],
-      "duration_ms": 160768,
-      "name": "Heartbreak Rodeo",
-      "url": "https://open.spotify.com/track/2rWuh8EBT4fCzFzDnmAR2W"
-    },
-    {
-      "added_at": "2025-07-04 04:00:20",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/0tDsJddA8lRaQC2Y5zE5X2"
-      },
-      "artists": [
-        {
-          "name": "Hunter Brothers",
-          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
-        },
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 161749,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2J2lkDj2UeHdCLLkszHN6s"
     },
     {
       "added_at": "2025-07-04 04:00:20",

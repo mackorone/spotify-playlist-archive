@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-227 songs - 5 hr 57 min
+228 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [I'm a Firefighter](https://open.spotify.com/track/6OWfse0RdCkZQn9zaxiolV) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 1:09 | 2022-09-16 |  |
 | [I've Got a Friend Named Bob](https://open.spotify.com/track/4dQ3mGRpf96cs44j9w2yDJ) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:22 | 2022-03-18 |  |
 | [In Your Paws \- From "Sofia the First"](https://open.spotify.com/track/7EgZBRXDVS5LEDAkUaN4Au) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p), [Clover](https://open.spotify.com/artist/25wd2jHq2IQ1lE3OXwpV1Y), [Crackle](https://open.spotify.com/artist/0RH65hnjf5URwYDjoxQ6Gr) | [Disney Junior DJ Shuffle 2](https://open.spotify.com/album/7mkN6sP8t2aa9ReN8Ir1oR) | 1:56 | 2022-03-18 |  |
+| [Iron Friends Let's Go](https://open.spotify.com/track/3fbVHBF0iQH0ckF4t11WC8) | [Iron Man and His Awesome Friends \- Cast](https://open.spotify.com/artist/3ylI4nEWPYHtPIKYAPZyWw), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Iron Man and His Awesome Friends](https://open.spotify.com/album/6oYlFzm9YKClbkgoJLY7Fk) | 1:41 | 2025-08-15 |  |
 | [It's Jeff](https://open.spotify.com/track/0S1PjjMHpZiXy8CANVWSBg) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Marvel's Spidey and His Amazing Friends \- Water Webs](https://open.spotify.com/album/1t27m5EXAMl2yglCztc3OQ) | 2:11 | 2025-06-03 |  |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/3POKZKjJdiJ8YhzASXHHKI) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Nursery Rhymes Vol\. 4](https://open.spotify.com/album/0CEROqJxzE7OTEqw1Fj30v) | 1:23 | 2022-03-18 | 2023-11-23 |
 | [Jake and the Never Land Pirates \(Main Title\) \- From "Jake and the Never Land Pirates"/Soundtrack Version](https://open.spotify.com/track/6j6fuhuCNiULtPmlfYKOz2) | [The Never Land Pirate Band](https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM) | [Jake And The Never Land Pirates](https://open.spotify.com/album/6AiPOzsx3NiOfeFvBivBYM) | 0:59 | 2022-03-18 |  |

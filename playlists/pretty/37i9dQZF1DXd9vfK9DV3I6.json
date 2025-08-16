@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 364588,
+  "num_followers": 364678,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
+        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "K\u0259nan Bayraml\u0131",
+          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 216521,
       "name": "Heatiche - Vip Mix",
       "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
-        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "K\u0259nan Bayraml\u0131",
-          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -455,18 +455,26 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
-        "name": "Bodv\u00e1r",
-        "url": "https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu"
+        "name": "Ederlezi (feat. Dikanda)",
+        "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
       },
       "artists": [
         {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+        },
+        {
+          "name": "Dikanda",
+          "url": "https://open.spotify.com/artist/5IgWYAqgf7ZJAqzCHDFOvQ"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Bodv\u00e1r",
-      "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
+      "duration_ms": 244878,
+      "name": "Ederlezi (feat. Dikanda)",
+      "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -495,26 +503,18 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
-        "name": "Ederlezi (feat. Dikanda)",
-        "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
+        "name": "Bodv\u00e1r",
+        "url": "https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu"
       },
       "artists": [
         {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
-        },
-        {
-          "name": "Dikanda",
-          "url": "https://open.spotify.com/artist/5IgWYAqgf7ZJAqzCHDFOvQ"
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
         }
       ],
-      "duration_ms": 244878,
-      "name": "Ederlezi (feat. Dikanda)",
-      "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+      "duration_ms": 166556,
+      "name": "Bodv\u00e1r",
+      "url": "https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
+        "name": "Younan",
+        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
+      },
+      "artists": [
+        {
+          "name": "Al\u00ec Farahani",
+          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
+        }
+      ],
+      "duration_ms": 418413,
+      "name": "Younan",
+      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
         "name": "Orient Spirit",
         "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 147976,
       "name": "Orient Spirit",
       "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
-        "name": "Younan",
-        "url": "https://open.spotify.com/album/26WARN8fvuRh322ZoKuFi3"
-      },
-      "artists": [
-        {
-          "name": "Al\u00ec Farahani",
-          "url": "https://open.spotify.com/artist/6R7amlI5rHTNVDpOnldyfT"
-        }
-      ],
-      "duration_ms": 418413,
-      "name": "Younan",
-      "url": "https://open.spotify.com/track/1AgmGgtc24tcBwK4eSNTlx"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
-        "name": "Cairo's Scent",
-        "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
-      },
-      "artists": [
-        {
-          "name": "Suray",
-          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
-        },
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        }
-      ],
-      "duration_ms": 206610,
-      "name": "Cairo's Scent",
-      "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
+        "name": "Cairo's Scent",
+        "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
+      },
+      "artists": [
+        {
+          "name": "Suray",
+          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
+        },
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        }
+      ],
+      "duration_ms": 206610,
+      "name": "Cairo's Scent",
+      "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
-        "name": "Jawi",
-        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
-      },
-      "artists": [
-        {
-          "name": "HbbZ",
-          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Jawi",
-      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
         "name": "Liya Snin (Omerar Nanda Remix)",
         "url": "https://open.spotify.com/album/3sh5SSAFAdbdkTtWSuhehz"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 395851,
       "name": "Liya Snin - Omerar Nanda Remix",
       "url": "https://open.spotify.com/track/46uAfcDVMnD95lDGDfdb3n"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
+        "name": "Jawi",
+        "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
+      },
+      "artists": [
+        {
+          "name": "HbbZ",
+          "url": "https://open.spotify.com/artist/2nfiyna13PWJGEEQ806fmu"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Jawi",
+      "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
-      },
-      "artists": [
-        {
-          "name": "ilkan Muslu",
-          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Askim",
-      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
+      },
+      "artists": [
+        {
+          "name": "ilkan Muslu",
+          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "Askim",
+      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2025-08-14 19:34:28",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2025-08-14 19:34:28",
       "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "omar",
-          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2025-08-14 19:34:28",
-      "album": {
         "name": "Anatolieni",
         "url": "https://open.spotify.com/album/5eStJjR5hOHlfsA4so6ddY"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 126545,
       "name": "Anatolieni",
       "url": "https://open.spotify.com/track/0aiLsfS9b2L7puIX9FsuEv"
+    },
+    {
+      "added_at": "2025-08-14 19:34:28",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "omar",
+          "url": "https://open.spotify.com/artist/7INIfNB2NFtgBYlumOHVOd"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
     },
     {
       "added_at": "2025-08-14 19:34:28",

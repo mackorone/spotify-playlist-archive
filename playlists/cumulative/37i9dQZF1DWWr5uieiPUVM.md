@@ -2,7 +2,7 @@
 
 ### [O Trap Mais Caro](https://open.spotify.com/playlist/37i9dQZF1DWWr5uieiPUVM)
 
-> lá em cima feito Ret com a habilidade do Alee e a auto estima do Ye / Foto: Alee
+> 2T bota pra fvd3  \- é diamante é ouro rose é carro do ano ixi esqueça...
 
 667 songs - 1 day 10 hr 44 min
 

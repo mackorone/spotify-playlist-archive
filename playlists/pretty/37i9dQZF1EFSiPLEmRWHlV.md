@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299 likes - 138 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 300 likes - 138 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 86 | [Heart & Soul](https://open.spotify.com/track/6EJCWAsghmXowYHsATICoK) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Heart & Soul](https://open.spotify.com/album/1LBJDoSJtZlJOskDr1Tuvv) | 2:47 |
 | 87 | [Feel The Rage](https://open.spotify.com/track/2E6OQmLM3iVEkJiBLnaUK8) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp) | [Mr\. Ready To Blitz](https://open.spotify.com/album/4KMUDk8tBzLIw9MUbEZVEw) | 2:52 |
 | 88 | [Passion \- Tantrum Desire Remix](https://open.spotify.com/track/2v88kuFdMAZofeB3Wo1DLX) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Tantrum Desire](https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS) | [Ten Thousand Feet & Rising \(The Remixes\)](https://open.spotify.com/album/7kp17InWsncD5sl6B7yakM) | 4:47 |
-| 89 | [Heat Of The Sun](https://open.spotify.com/track/0MpdQSs4jWNIbBhJi2w7Pp) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 2:45 |
-| 90 | [Free Again](https://open.spotify.com/track/5n66lPIb8QuuIwRJlVjGgV) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Free Again](https://open.spotify.com/album/4ZGNAnIunLi6EMWMUlYpZA) | 2:25 |
-| 91 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 |
+| 89 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 |
+| 90 | [Heat Of The Sun](https://open.spotify.com/track/0MpdQSs4jWNIbBhJi2w7Pp) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 2:45 |
+| 91 | [Free Again](https://open.spotify.com/track/5n66lPIb8QuuIwRJlVjGgV) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Free Again](https://open.spotify.com/album/4ZGNAnIunLi6EMWMUlYpZA) | 2:25 |
 | 92 | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/track/58TtCuz5DDLeFZq0otJrMV) | [Trutopia](https://open.spotify.com/artist/5DiMSJgUwT3jluRsGj4h4o), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Under Your Spell \(feat\. Clementine Douglas\)](https://open.spotify.com/album/2wWHLHlI3xNVz9M5gOVi4U) | 3:39 |
 | 93 | [10,000](https://open.spotify.com/track/08GQ59X7CfBA2fcauFZft5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 4:22 |
 | 94 | [Call Out](https://open.spotify.com/track/3nONMKE40ClWSyT7zMqxdl) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Call Out](https://open.spotify.com/album/5MvloWk6nlyJ53zMcwLijk) | 4:10 |
@@ -126,9 +126,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 116 | [I Want To Feel](https://open.spotify.com/track/0Um0sGHLnktSqGcyKW5PNJ) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt) | [Be Quiet, They're Listening](https://open.spotify.com/album/0EIbZV49z7ETAM1Y2g6PrJ) | 3:32 |
 | 117 | [Hold On](https://open.spotify.com/track/1Bj286OtRqZeE87Y4JHS2U) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Hold On](https://open.spotify.com/album/03t57S3XQ8hJEOvlcqxbry) | 2:54 |
 | 118 | [Are You With Me?](https://open.spotify.com/track/1EjxFbCPnKL84gXL2CGTRv) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:45 |
-| 119 | [Enemy](https://open.spotify.com/track/5pYgx7mS2aReFggKs1XEZ9) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:45 |
-| 120 | [CMND CNTRL \(feat\. FEYI\)](https://open.spotify.com/track/2nx4zXquY958X4LKNlHD6X) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [My House My Rules](https://open.spotify.com/album/3yqp5I9jxG7smLaqjVdbvl) | 3:41 |
-| 121 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 |
+| 119 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 |
+| 120 | [Enemy](https://open.spotify.com/track/5pYgx7mS2aReFggKs1XEZ9) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Shaded](https://open.spotify.com/album/606voFlzDUI4Ozt1VUqACG) | 3:45 |
+| 121 | [CMND CNTRL \(feat\. FEYI\)](https://open.spotify.com/track/2nx4zXquY958X4LKNlHD6X) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [My House My Rules](https://open.spotify.com/album/3yqp5I9jxG7smLaqjVdbvl) | 3:41 |
 | 122 | [Never Let You Go](https://open.spotify.com/track/5yQzLPrsfpPW4OjlacvJgF) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Never Let You Go](https://open.spotify.com/album/0OtpU10W9Ce2winkVNcoTh) | 4:14 |
 | 123 | [Skin Tight](https://open.spotify.com/track/1buhwbciiMTHeE5P13DHKK) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Skin Tight](https://open.spotify.com/album/7ly8jHDPkgPsm0LmJ90MMG) | 3:28 |
 | 124 | [Room for Love](https://open.spotify.com/track/7fzNR6GEyrK9TYDfl7bvAl) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 4:08 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 137 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 | 138 | [Heaven\-I](https://open.spotify.com/track/5ynjLKhFbyI9qnx7UWlkBl) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Music For Waltzers](https://open.spotify.com/album/3heoA7WTbjIXnibKVDLLMS) | 3:17 |
 
-Snapshot ID: `Ab5gngAAAABbrPQGsVkDsX2syTVwPV6W`
+Snapshot ID: `Ab5mNAAAAABVEXrxi68e8FOovJOh1h9U`

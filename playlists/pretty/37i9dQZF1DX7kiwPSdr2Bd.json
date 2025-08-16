@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Bruna Karla, Julliany Souza",
-  "num_followers": 354726,
+  "num_followers": 354780,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
+        "name": "Me Atraiu (Reimagined)",
+        "url": "https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 264220,
+      "name": "Me Atraiu (Reimagined)",
+      "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
+    },
+    {
+      "added_at": "2025-08-11 15:16:52",
+      "album": {
         "name": "As Minhas Ora\u00e7\u00f5es Cantadas - Vol 1",
         "url": "https://open.spotify.com/album/11NNFMy26D8SgEFuHZJml0"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
-        "name": "Me Atraiu (Reimagined)",
-        "url": "https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR"
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 264220,
-      "name": "Me Atraiu (Reimagined)",
-      "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
     },
     {
       "added_at": "2025-08-11 15:16:52",
@@ -639,22 +655,6 @@
       "duration_ms": 579405,
       "name": "Santo - Ao Vivo",
       "url": "https://open.spotify.com/track/0uXHdrHWe2bY686YKpVqF2"
-    },
-    {
-      "added_at": "2025-08-11 15:16:52",
-      "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 366461,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
     },
     {
       "added_at": "2025-08-11 15:16:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
-        "name": "Dependente (Ao Vivo)",
-        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 354173,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
-    },
-    {
-      "added_at": "2025-08-11 15:16:52",
-      "album": {
         "name": "Romanos 8:26 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 269739,
       "name": "Romanos 8:26 (Ao Vivo)",
       "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "added_at": "2025-08-11 15:16:52",
+      "album": {
+        "name": "Dependente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 354173,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
     },
     {
       "added_at": "2025-08-11 15:16:52",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
-        "name": "Contando os Dias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 403272,
-      "name": "Contando os Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm"
-    },
-    {
-      "added_at": "2025-08-11 15:16:52",
-      "album": {
         "name": "Vem, Esp\u00edrito de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xEoXWBbk44CK84qGvK7kV"
       },
@@ -951,6 +931,22 @@
       "duration_ms": 264786,
       "name": "Vem, Esp\u00edrito de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/7w9Pi6SUHwlx5fbfBaT4d3"
+    },
+    {
+      "added_at": "2025-08-11 15:16:52",
+      "album": {
+        "name": "Deus Vai Agir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
     },
     {
       "added_at": "2025-08-11 15:16:52",
@@ -1003,22 +999,6 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
-        "name": "Deus Vai Agir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5vSTBOJukCTLSoQK5hkx2o"
-    },
-    {
-      "added_at": "2025-08-11 15:16:52",
-      "album": {
         "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 265026,
       "name": "Aos P\u00e9s da Cruz - Ao Vivo",
       "url": "https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y"
+    },
+    {
+      "added_at": "2025-08-11 15:16:52",
+      "album": {
+        "name": "Contando os Dias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 403272,
+      "name": "Contando os Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm"
     },
     {
       "added_at": "2025-08-11 15:16:52",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
-    },
-    {
-      "added_at": "2025-08-11 15:16:52",
-      "album": {
         "name": "O Tanque de Betesda (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 304280,
       "name": "O Tanque de Betesda (Ao Vivo)",
       "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+    },
+    {
+      "added_at": "2025-08-11 15:16:52",
+      "album": {
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": "2025-08-11 15:16:52",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-08-11 15:16:52",
       "album": {
-        "name": "Cora\u00e7\u00e3o que Sangra / Vem Me Consolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "Cora\u00e7\u00e3o que Sangra - Ao Vivo",
-      "url": "https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh"
-    },
-    {
-      "added_at": "2025-08-11 15:16:52",
-      "album": {
         "name": "Nada Pode Calar Um Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ly8mUZMyQInjEq95eH31y"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 328001,
       "name": "Nada Pode Calar Um Adorador (Ao Vivo)",
       "url": "https://open.spotify.com/track/4ZDc1aKX8ldalXDH98i9ef"
+    },
+    {
+      "added_at": "2025-08-11 15:16:52",
+      "album": {
+        "name": "Cora\u00e7\u00e3o que Sangra / Vem Me Consolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Ui5tEKDYJXEz7BeSdgOv2"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "Cora\u00e7\u00e3o que Sangra - Ao Vivo",
+      "url": "https://open.spotify.com/track/0MoEjiOO8k4u8OdcJfB3vh"
     },
     {
       "added_at": "2025-08-11 15:16:52",

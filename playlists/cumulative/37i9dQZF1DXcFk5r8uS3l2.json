@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Ain't Half Bad",
+        "url": "https://open.spotify.com/album/58QcvID20nLWQmJT0MB694"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Ain't Half Bad",
+      "url": "https://open.spotify.com/track/7rXzaSJTLTkALZbTcjUmjj"
+    },
+    {
+      "album": {
         "name": "Ain't No Harmin' Me",
         "url": "https://open.spotify.com/album/0tk6hm3xKUefjBLDt4xkS9"
       },
@@ -624,7 +642,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 140941,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7"
@@ -6584,7 +6602,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 309936,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb"
@@ -7078,6 +7096,28 @@
       "duration_ms": 217284,
       "name": "The Mend",
       "url": "https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg"
+    },
+    {
+      "album": {
+        "name": "The Mule",
+        "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
+      },
+      "artists": [
+        {
+          "name": "The Mystix",
+          "url": "https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ"
+        },
+        {
+          "name": "Larry Campbell",
+          "url": "https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180150,
+      "name": "The Mule",
+      "url": "https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl"
     },
     {
       "album": {

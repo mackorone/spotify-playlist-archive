@@ -2,7 +2,7 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance & electronic hits\. Cover: Mau P
+> The world's biggest dance & electronic hits\. Cover: KAYTRANADA
 
 1,307 songs - 3 day 0 hr 17 min
 

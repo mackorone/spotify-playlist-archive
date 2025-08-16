@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-448 songs - 1 day 1 hr 47 min
+449 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 | 2022-03-25 | 2022-12-30 |
 | [Diamonds](https://open.spotify.com/track/5qizUaJepbFJ5qGZyuyQim) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [In Your Prime \- EP](https://open.spotify.com/album/22XLHhWmIM8IuCFqpkpCHX) | 4:07 | 2022-03-25 | 2025-06-09 |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4RVmTDYYWR4xivKlLMjS0q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/0OTkauhBKvLKa7r1Kue0bz) | 2:59 | 2021-12-17 | 2022-04-16 |
+| [Diet Pepsi \- Live from 2025 Las Culturistas Culture Awards](https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Diet Pepsi \(Live from 2025 Las Culturistas Culture Awards\)](https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq) | 3:14 | 2025-08-15 |  |
 | [Digital Love](https://open.spotify.com/track/4zOyh7D39nvmacly6Wj0FT) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Digital Love](https://open.spotify.com/album/1Alro4P8exTMmn1skh1xO1) | 3:26 | 2021-12-17 | 2022-05-02 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-12-29 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm) | [Amanda Jackson Band](https://open.spotify.com/artist/1rsnYoKcEZ9G1DdqSGzoYm) | [Ocean](https://open.spotify.com/album/5bzQOredYZZ0gV4bRNbg0P) | 4:23 | 2021-12-17 | 2025-03-22 |

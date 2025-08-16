@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-421 songs - 21 hr 13 min
+422 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [City Looks Different](https://open.spotify.com/track/73Q1ftTv3Id2YlIylUQdsK) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [City Looks Different](https://open.spotify.com/album/6ml8hgQ7FjIOC305LOc5gH) | 2:32 | 2022-07-29 | 2023-08-11 |
 | [City Looks Different \- HAVOQ Remix](https://open.spotify.com/track/1cr4PTFUEXVwVlFa5tai4D) | [JEFFREY SUTORIUS](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [\#aparttogether \(The Remixes Part 2\)](https://open.spotify.com/album/0aSUeTmeG6KqX1SxEOlrJ5) | 3:16 | 2022-11-04 |  |
 | [Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:31 | 2023-08-10 |  |
+| [Coca](https://open.spotify.com/track/6SRAC3J4PoLc4OXxcaVapS) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [Coca](https://open.spotify.com/album/5E5vPrPKqu3kWtudvefW2h) | 2:42 | 2025-08-15 |  |
 | [Coming Alive \- Jeffrey Sutorius Remix](https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jone Fields](https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [Coming Alive \(Jeffrey Sutorius Remix\)](https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX) | 3:53 | 2023-01-26 | 2023-09-09 |
 | [Control](https://open.spotify.com/track/3GWeeuS0rRQ8oUfjmqZ8fw) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz) | [Control](https://open.spotify.com/album/2IANfZ2LtHRMVRfClATewD) | 2:36 | 2023-06-23 | 2023-07-29 |
 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 | 2023-08-11 | 2024-09-28 |

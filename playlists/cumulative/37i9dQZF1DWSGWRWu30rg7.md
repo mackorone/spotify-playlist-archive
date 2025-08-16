@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Alisha Dira
 
-4,947 songs - 12 day 15 hr 8 min
+4,948 songs - 12 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2225,6 +2225,7 @@
 | [Kau Cinta Matiku](https://open.spotify.com/track/5Hp42MkalRuVZ3Ke9ahNZ0) | [Gya](https://open.spotify.com/artist/5plT8sNGUbyQO8pahtRh3n) | [Kau Cinta Matiku](https://open.spotify.com/album/1DMT4eIRwoSy2G040N5QJ9) | 3:34 | 2023-05-25 | 2023-06-09 |
 | [Kau Dan Aku](https://open.spotify.com/track/2Gkh8pvHTAGoxIwvFnJpFR) | [Kais](https://open.spotify.com/artist/5r5WxTiLmwoWCiw0RLoWHQ) | [Kau Dan Aku](https://open.spotify.com/album/4ChGJjbpLWnlGTudSOup9I) | 3:37 | 2022-01-27 | 2022-02-11 |
 | [Kau dan Hujan](https://open.spotify.com/track/5M7EFMAkfAzAeovwnQptdL) | [Troü](https://open.spotify.com/artist/2LomlpyRPxQYnJHZ12Sgno) | [Kau dan Hujan](https://open.spotify.com/album/6iJKs5ECMAXOhz1LNnC2jR) | 4:53 | 2024-02-15 | 2024-03-08 |
+| [Kau Masih Kekasihku](https://open.spotify.com/track/0WBDoX8ANjfEI4QriFDziF) | [Eby](https://open.spotify.com/artist/5gDlLgkZisEeYWMUvarltN) | [Kau Masih Kekasihku](https://open.spotify.com/album/0L7YRvxp0tSp6wshW0ImcY) | 4:22 | 2025-08-15 |  |
 | [Kau Pilih Dia](https://open.spotify.com/track/1BupzCNunldnbAHPi7yChV) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH), [Mas Jordan](https://open.spotify.com/artist/60DER02sQPfuD32Y5e5LC1), [Malikoendang](https://open.spotify.com/artist/5F8bwX8A27eKQp8FZw0fZI) | [Kau Pilih Dia](https://open.spotify.com/album/2fiSKPE4Ki58GVOnlwjcfR) | 4:01 | 2024-05-16 | 2024-06-07 |
 | [Kau Sempurna \(Tegar Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/2AhkPsPs0olsfXAxmeG0fw) | [Joan Wakum](https://open.spotify.com/artist/1Ht0pnN5zDOJ3nVsGardIX) | [Kau Sempurna \(Tegar Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/7zml7uRNJTMfWJwfCq9DyB) | 3:54 | 2025-02-20 | 2025-03-14 |
 | [KAU TOXIC \(No Bully\)](https://open.spotify.com/track/6MTm2GvIvH3k11Q3msKjl5) | [Keiko Kioko](https://open.spotify.com/artist/0oYIsPONsm8ta0mZZbfNZ0) | [KAU TOXIC \(No Bully\)](https://open.spotify.com/album/0KdzFCJrbfZiUbG0YGygni) | 3:44 | 2024-01-11 | 2024-02-03 |

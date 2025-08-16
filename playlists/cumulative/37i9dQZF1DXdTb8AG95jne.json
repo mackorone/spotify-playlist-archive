@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: 87dance) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: SE SO NEON) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -17115,6 +17115,24 @@
     },
     {
       "album": {
+        "name": "\u3008NOW\u3009 (English Deluxe)",
+        "url": "https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261985,
+      "name": "Twit Winter",
+      "url": "https://open.spotify.com/track/5qBRUlDyVF6PyX8PmICULm"
+    },
+    {
+      "album": {
         "name": "Good Luck To You, Girl Scout!",
         "url": "https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR"
       },
@@ -19276,7 +19294,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 177191,
       "name": "\ub274 \ub85c\ub9e8\ud2f1",
       "url": "https://open.spotify.com/track/52Ui66UsXzLYILg6cTzwAE"

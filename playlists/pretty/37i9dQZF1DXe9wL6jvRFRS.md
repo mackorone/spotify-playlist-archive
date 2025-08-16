@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. caroline on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Racing Mount Pleasant on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,381 likes - 57 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,424 likes - 57 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 |
-| 2 | [Coldplay cover](https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:16 |
-| 3 | [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 |
-| 4 | [Racing Mount Pleasant](https://open.spotify.com/track/3fua3zsMYUgGBgnNlocxrU) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/6S3we3LnQcy47E2hhoamXV) | 5:15 |
+| 1 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 |
+| 2 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 |
+| 3 | [Coldplay cover](https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:16 |
+| 4 | [Honest Song](https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK) | [pencil](https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk) | [Bohemian Clutter](https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3) | 4:39 |
 | 5 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
 | 6 | [An Altar](https://open.spotify.com/track/0DEy93ZO2okor4lijxtDZl) | [Speedial](https://open.spotify.com/artist/6mPywLRzgpD0KGRe89WECW) | [Light of the Late Night](https://open.spotify.com/album/5b09wYh14OreAunqhRneXP) | 4:15 |
 | 7 | [Icy Windy Sky](https://open.spotify.com/track/66U7274Oapr417BNqeQLoS) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Twice Around the Sun](https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp) | 6:48 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9wL6jvRFRS.md) - [plain]
 | 56 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
 | 57 | [Nids Niteca](https://open.spotify.com/track/5dZHzvPMx6VvQcHqYYkmp6) | [Junk Drawer](https://open.spotify.com/artist/5t4EvkMzfu9IJui3iiL2Rs) | [Nids Niteca](https://open.spotify.com/album/49071Dn7i7TUEU2fJ5Tyqu) | 2:27 |
 
-Snapshot ID: `AAAAAFMkup9cKlD83Z868qdLPl6K3R4F`
+Snapshot ID: `AAAAAN857Hmd4T0+vRY0JU1vKAvOwbhd`

@@ -2,7 +2,7 @@
 
 ### [New Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with all the drops\. Cover: Amaarae
+> The hottest new pop with all the drops\. Cover: The Chainsmokers and Anna Sofia
 
 1,668 songs - 3 day 9 hr 28 min
 

@@ -2,9 +2,9 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
 
-> Current indie tunes from Asia and around the world\. Cover: yung kai
+> Current indie tunes from Asia and around the world\. Cover: Dijon
 
-2,341 songs - 5 day 20 hr 35 min
+2,342 songs - 5 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1430,7 +1430,7 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-13 | 2023-03-11 |
 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 | 2024-01-16 | 2024-03-23 |
 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-10 | 2023-05-06 |
-| [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [<NOW> \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 | 2025-08-14 |  |
+| [NOW](https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [〈NOW〉 \(English Deluxe\)](https://open.spotify.com/album/0oTkQLTmgvP6wyF3x3WqOF) | 4:13 | 2025-08-14 |  |
 | [Now and Ever](https://open.spotify.com/track/1VHM91Ost9UKZYPg7rRdhK) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Now and Ever](https://open.spotify.com/album/27u7Lg41vdi6Ku1KGW1UrU) | 3:40 | 2024-06-14 | 2024-08-10 |
 | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/2Xm5Iz7jDPK0mqxbHHp5Mr) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Now Is The Hour \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/4GJeD72vDjBoOjNYmBF7Vo) | 2:32 | 2024-02-08 | 2024-03-31 |
 | [Now You See Me](https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/2QUtniCVdNz7EEZHx8M0Od) | 2:54 | 2021-12-16 | 2022-01-21 |
@@ -2297,6 +2297,7 @@
 | [Write Me Another Song](https://open.spotify.com/track/4gjjm1Q1fgHby4einyc0rV) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Write Me Another Song](https://open.spotify.com/album/0DKTxLlMO5NZGrAjXZ9C4S) | 4:08 | 2022-01-28 | 2022-03-11 |
 | [X's](https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:03 | 2024-07-12 | 2024-09-03 |
 | [XOXO](https://open.spotify.com/track/556gAhB2GfQeqOrJPGh0Hf) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [XOXO](https://open.spotify.com/album/6NOpCPMMhjM3yx9HzPeRuU) | 3:41 | 2023-05-19 | 2023-06-17 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-15 |  |
 | [Yearning](https://open.spotify.com/track/1bmiU7ALrg8TlYY71RAaBh) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Yearning](https://open.spotify.com/album/1JPJ2SDY9CshZ7m6bNcyE9) | 3:40 | 2023-08-01 | 2023-09-30 |
 | [Years](https://open.spotify.com/track/2CRCLqCSRPPAudN3MjHoPI) | [EJ Marais](https://open.spotify.com/artist/1sgiPS5ieDRh7HbFUgfs7S) | [Dream Cafe](https://open.spotify.com/album/2z3mJYwr4VoMEVktD3TShn) | 2:59 | 2021-12-16 | 2022-01-21 |
 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 | 2024-01-25 | 2024-02-16 |

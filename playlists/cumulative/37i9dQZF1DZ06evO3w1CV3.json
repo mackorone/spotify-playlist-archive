@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Somebody To You",
+        "url": "https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177446,
+      "name": "Somebody To You",
+      "url": "https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE"
+    },
+    {
+      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE"
       },

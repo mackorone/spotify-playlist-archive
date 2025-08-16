@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: Royale Lynn
 
-276 songs - 16 hr 2 min
+277 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Red Wing](https://open.spotify.com/track/5bZMw4BXuxEgjXH1anAMUA) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 3:11 | 2022-07-29 | 2022-08-20 |
 | [Reign of Error](https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6) | [Dead Cross](https://open.spotify.com/artist/5o7MNRaQrt87SwYWxHEZvN) | [Reign of Error](https://open.spotify.com/album/4xaUhkUdiuUKb4aqIZPSOd) | 1:45 | 2022-07-29 | 2022-10-15 |
 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 | 2024-07-16 |
-| [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-07-15 |  |
+| [ROC SH!T](https://open.spotify.com/track/5mQH7w7Cqphygl68gTsDBg) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Ferality](https://open.spotify.com/album/5TRazGLWI1r9hL3XsQ1feB) | 3:05 | 2024-07-15 | 2025-08-16 |
 | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/track/6Evx0j5rPXT2QDihyAYBvZ) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [Rock Bottom \(Is a Stepping Stone\)](https://open.spotify.com/album/6kE2Vk9b5omyj9nfDbXgFf) | 3:49 | 2022-07-29 | 2022-10-01 |
 | [Rotting Wool](https://open.spotify.com/track/7vNLTNEYdUI3FwieneXrFV) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Rotting Wool](https://open.spotify.com/album/25xhIBIh52pBTmn0RDlaBE) | 2:18 | 2024-07-15 |  |
 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 | 2022-07-29 | 2022-10-01 |
@@ -268,6 +268,7 @@
 | [We Can Never Go Back to Arizona](https://open.spotify.com/track/5dr7QhlY2wPGYvVCcKN58K) | [To Bloom](https://open.spotify.com/artist/2rNqQ0mRpXnJGqwRHh12DL) | [We Can Never Go Back to Arizona](https://open.spotify.com/album/0ES4Wdnw4p3ceYFDDCYpBE) | 5:20 | 2022-08-19 | 2022-09-03 |
 | [Weaponize This](https://open.spotify.com/track/5DLeSJtjxhoNQRUm2zCWyk) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Weaponize This](https://open.spotify.com/album/6Ju8h0MO81dfkW43SO76Og) | 2:40 | 2023-03-02 | 2024-07-16 |
 | [What I Have Become](https://open.spotify.com/track/0xEUNhv6HTQVwcfcOnou60) | [LIGHTCHAPTER](https://open.spotify.com/artist/1hNQCLYOJGhaPY0Uf7EWbO) | [What I Have Become](https://open.spotify.com/album/2VGWQCo8cDsboFFWsNfqN6) | 3:49 | 2025-06-06 |  |
+| [When Does It End](https://open.spotify.com/track/3StP9aHUSmy6GE0h7sxYJN) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Medusa's Home](https://open.spotify.com/album/0bfzr4j6SEVremjsrEQo42) | 3:19 | 2025-08-15 |  |
 | [Why](https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 3:31 | 2022-11-18 | 2024-07-16 |
 | [Why Do We Fall?](https://open.spotify.com/track/4lTypHFJlOykJPbrHaMLSC) | [Ways.](https://open.spotify.com/artist/1CMHBL8Fwery02fixGOUTf) | [Why Do We Fall?](https://open.spotify.com/album/0bOPfOC2jAWJnnyJmRKsCZ) | 4:04 | 2023-03-02 | 2024-07-16 |
 | [WITHOUT YOU](https://open.spotify.com/track/1xHlY90KUIbTriodDlHfLd) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [WITHOUT YOU](https://open.spotify.com/album/5i51yNWwFg8NiD9OKavrpk) | 3:18 | 2025-06-06 |  |

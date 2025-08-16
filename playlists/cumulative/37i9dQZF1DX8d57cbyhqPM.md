@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tontons Gradur et L2B.
 
-626 songs - 1 day 11 hr 37 min
+627 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,6 +469,7 @@
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-06-30 | 2023-03-25 |
 | [Par Terre – A COLORS SHOW](https://open.spotify.com/track/0vm0LYhr2BdhZ3tYFIxeRx) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Par Terre – A COLORS SHOW](https://open.spotify.com/album/1VDtSNMukAMgQbiSrKFQ9X) | 3:30 | 2022-11-18 | 2023-03-25 |
 | [Parcours](https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Parcours](https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA) | 3:30 | 2023-09-29 | 2024-03-02 |
+| [PARISIENNE](https://open.spotify.com/track/5gvvdf0mk5nL5Gu9h5cUTX) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/1Pbn4jIeuwCSbcXiaVyoPf) | 2:38 | 2025-08-15 |  |
 | [Parraza](https://open.spotify.com/track/2tQbM5HxcRvpNhvNs1oi2m) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Parraza](https://open.spotify.com/album/1nYmHXiB85tKEsWRdP25wE) | 3:51 | 2024-04-19 | 2024-05-18 |
 | [Pas besoin](https://open.spotify.com/track/4LyRgm94FGnT577MSvj1By) | [LZ](https://open.spotify.com/artist/5HPJiHxebHdqOuei6LpFgh) | [Pas besoin](https://open.spotify.com/album/3RrONxLSoEtBV1fV1SWiKT) | 1:44 | 2024-08-23 | 2024-10-05 |
 | [Pas comme eux \- Remix](https://open.spotify.com/track/4b4irV00fhcXBxIfD2z1q9) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Pas comme eux \(Remix\)](https://open.spotify.com/album/1nogGp45JYTkF7GW9BfeB3) | 2:32 | 2024-01-26 | 2024-03-02 |
@@ -571,7 +572,7 @@
 | [Ton cœur mon cœur](https://open.spotify.com/track/0wZhGOsCvvrJCzF6Gbmgpq) | [Gally](https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7) | [Ton cœur mon cœur](https://open.spotify.com/album/5ZoQWxNQWctAWDMDSpwiul) | 3:34 | 2024-12-13 |  |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-07-11 |  |
 | [TOUCHE MOI \- Tindidi](https://open.spotify.com/track/104G7WYYF0YcrkzL6xMEz5) | [5 car ecco](https://open.spotify.com/artist/70tsfWFioo72yfJQ4wkk7N), [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l), [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [TOUCHE MOI \(Tindidi\)](https://open.spotify.com/album/557ibuoURcCgf5uONft8el) | 3:22 | 2023-07-14 | 2023-12-02 |
-| [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 | 2025-04-11 |  |
+| [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 | 2025-04-11 | 2025-08-16 |
 | [Tourner](https://open.spotify.com/track/1LLk7c2XYipi2gLAQCajVY) | [Tatiana Kruz](https://open.spotify.com/artist/2dYcbOzX9g2bo2KwrMuT9a) | [Piñata](https://open.spotify.com/album/3utanBL9w4bOQha9p2nE6s) | 3:04 | 2024-12-06 | 2025-01-25 |
 | [TOUS LES JOURS](https://open.spotify.com/track/06n6bxwFUx6seLfrqDW18z) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd) | [TOUS LES JOURS](https://open.spotify.com/album/6rsalUpzdAwBaUleENE3Yb) | 2:52 | 2025-07-04 |  |
 | [Tout Donner](https://open.spotify.com/track/1HSZMFQHI8fsoz6nhKwy4L) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Je T'avais Dit, Non?](https://open.spotify.com/album/7gZpTGhY7OkBZNWKEs4Kxw) | 3:08 | 2024-07-12 | 2024-10-19 |

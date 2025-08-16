@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Lydia Night",
+  "description": "Dark, hard hitting pop. Cover: Ashnikko",
   "name": "SALT",
   "tracks": [
     {
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 205714,
       "name": "BE NO BODY",
       "url": "https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 204786,
       "name": "CLINGY",
       "url": "https://open.spotify.com/track/5OxYShyvkoXuUqKIgdFzhL"
@@ -6144,7 +6144,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw"
@@ -6868,6 +6868,28 @@
       "duration_ms": 178411,
       "name": "HELL ON ME",
       "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
+    },
+    {
+      "album": {
+        "name": "Last Ditch Effort",
+        "url": "https://open.spotify.com/album/4AWnBAP7do9Wpz4frLDZii"
+      },
+      "artists": [
+        {
+          "name": "Astrid Pierce",
+          "url": "https://open.spotify.com/artist/7AUfg9LvTM8ZR4rtiacUpH"
+        },
+        {
+          "name": "Jackie Hayes",
+          "url": "https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155561,
+      "name": "Hellbent",
+      "url": "https://open.spotify.com/track/1KpnWktqDqyTr0IXagwLIS"
     },
     {
       "album": {
@@ -10824,6 +10846,28 @@
       "duration_ms": 161266,
       "name": "No Comma",
       "url": "https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh"
+    },
+    {
+      "album": {
+        "name": "No Fair",
+        "url": "https://open.spotify.com/album/33Z3HByYE3waLUxBwim2MZ"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200074,
+      "name": "No Fair",
+      "url": "https://open.spotify.com/track/38oTngdlSyvTSOSuBxMo7y"
     },
     {
       "album": {
@@ -15318,7 +15362,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 183128,
       "name": "Threw Me Away",
       "url": "https://open.spotify.com/track/4yErFNfUp8cD7BYd5WjD4B"
@@ -15358,6 +15402,24 @@
       "duration_ms": 164659,
       "name": "Throw Up When I See Your Face",
       "url": "https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB"
+    },
+    {
+      "album": {
+        "name": "Till Death",
+        "url": "https://open.spotify.com/album/7beT8amZsq15bpTKOz3FuN"
+      },
+      "artists": [
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Till Death",
+      "url": "https://open.spotify.com/track/0ANmyFstzs8OOD5BjY8HZo"
     },
     {
       "album": {
@@ -15628,6 +15690,24 @@
       "duration_ms": 163805,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt"
+    },
+    {
+      "album": {
+        "name": "Trinkets",
+        "url": "https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116504,
+      "name": "Trinkets",
+      "url": "https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv"
     },
     {
       "album": {

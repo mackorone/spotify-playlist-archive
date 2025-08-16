@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-724 songs - 2 day 21 hr 23 min
+725 songs - 2 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Animus \- Shorter](https://open.spotify.com/track/24rpWUub8ylST1yoHJ9p7Y) | [Polynation](https://open.spotify.com/artist/4Rcol4u0q89lypqKI83GDz) | [Animus](https://open.spotify.com/album/60aRhWwK8oAVRzpLKugTHs) | 4:11 | 2020-01-01 | 2021-02-27 |
 | [Anna Painting](https://open.spotify.com/track/4Q8LnVINko045PEZ9pul8v) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Anna Painting](https://open.spotify.com/album/0CTMk3XKsfG1LfmKu1KCCA) | 7:41 | 2019-09-19 | 2019-09-27 |
 | [Another Life](https://open.spotify.com/track/1Ikxe4XFu0B5zW3FJX7PUO) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Another Life](https://open.spotify.com/album/7658gfBxb1ZihgN0BA1CDg) | 6:24 | 2022-07-01 | 2023-09-30 |
-| [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 |  |
+| [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-18 | 2025-08-16 |
 | [Anxiety](https://open.spotify.com/track/6LyVI2CQj6cI0DKkzGeAKD) | [Hidden Face](https://open.spotify.com/artist/1Itil4naIwgkm48BNTjZ2A) | [Anxiety EP](https://open.spotify.com/album/3kvPvCplHNzVnilOWNdGTy) | 3:35 | 2020-08-08 | 2021-09-11 |
 | [Aphelion](https://open.spotify.com/track/49As5IfsLXTc0kTN6kEaGR) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Aphelion](https://open.spotify.com/album/2jZdn5d3aW3qZg6Q0fXVlE) | 7:34 | 2021-10-11 | 2022-07-26 |
 | [Apricots](https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Apricots](https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc) | 4:06 | 2020-11-03 | 2023-07-01 |
@@ -307,6 +307,7 @@
 | [Immersion](https://open.spotify.com/track/7FdNxJTStUj6fsWEmSrlPN) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Synchronicity I](https://open.spotify.com/album/3Ygk7ALQhqkyWmIK4wwSIY) | 6:27 | 2020-06-29 | 2022-04-18 |
 | [In A Dream](https://open.spotify.com/track/0WUI5sIb9cmFeRfNptr0eu) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [In A Dream](https://open.spotify.com/album/1RxcifSP1CkuR6gTIbuIZQ) | 3:42 | 2021-02-28 | 2022-07-29 |
 | [In Between \(Memories and Dreams\)](https://open.spotify.com/track/6GTRvFO1ymxw6IEN9bWvBb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [LUCIE](https://open.spotify.com/artist/4pYgti9cm1t0gPHRJ5wtMI) | [In Between \(Memories and Dreams\)](https://open.spotify.com/album/4Z3p2fGC88qnOfQJPVZMUd) | 6:37 | 2024-06-14 | 2024-07-19 |
+| [In My Place \- Edit](https://open.spotify.com/track/0AaeFlBxNLeaQelNSP9CTb) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [In My Place](https://open.spotify.com/album/1yfIjadWoA8WtcmoXICYNk) | 3:28 | 2025-08-15 |  |
 | [In Our Hearts](https://open.spotify.com/track/2WK0vNlEM3pWOMpe4UIoMm) | [GRAZZE](https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt) | [In Our Hearts/Hesze](https://open.spotify.com/album/36SRSN4NfYWgimLYAT5a5e) | 4:00 | 2020-06-12 | 2021-03-19 |
 | [In The Dust](https://open.spotify.com/track/47MCbUMo5YM8hgLC3flMZ7) | [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3), [Jelen](https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [In The Dust](https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK) | 3:11 | 2023-11-11 | 2025-08-12 |
 | [In The End \- Lost Tapes](https://open.spotify.com/track/4vrkipzHOkljzaA19vOrIj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Man Without Country](https://open.spotify.com/artist/00b3RKsk2pv5VWSnYAKW8u) | [In The End \(Lost Tapes\)](https://open.spotify.com/album/2kV6pH3XJUUifDTR5K21dB) | 6:16 | 2019-08-06\* | 2019-09-19 |

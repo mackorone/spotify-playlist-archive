@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 89903,
+  "num_followers": 89917,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Solarize",
+        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Swimming Pool Summer",
+      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Solarize",
-        "url": "https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Swimming Pool Summer",
-      "url": "https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd"
       },
@@ -1607,6 +1623,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "summer depression",
         "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
       },
@@ -1619,22 +1651,6 @@
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/7J2oRTfH14BbakDbmqMgiM"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1655,22 +1671,6 @@
       "duration_ms": 208067,
       "name": "Summer Time High Time",
       "url": "https://open.spotify.com/track/7t5MUcFIIayP1M6TNhtWE0"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/4OmCAIrckfZx2vVM9pIHZH"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5mLTKuS2yHKBgxvm4Jn27a"
     }
   ],
   "unique_name": "Best of Indie 2018",

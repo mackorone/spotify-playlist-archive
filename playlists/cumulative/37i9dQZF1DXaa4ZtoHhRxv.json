@@ -2027,6 +2027,32 @@
     },
     {
       "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/4WcdlEZRqVfccTdrDklll8"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/2drOe9KPGQqlsF0zhWGHgW"
+    },
+    {
+      "album": {
         "name": "Hard Out Here For A Country Boy (+ FUZZ)",
         "url": "https://open.spotify.com/album/2fvbbiXAYuHjZphvBOsFYZ"
       },
@@ -2770,6 +2796,28 @@
       "duration_ms": 172362,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42"
+    },
+    {
+      "album": {
+        "name": "Lose You Tonight",
+        "url": "https://open.spotify.com/album/1OCiQ5H78tMxbdc4UN8heu"
+      },
+      "artists": [
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Lose You Tonight",
+      "url": "https://open.spotify.com/track/0OUREF7q7wQjbUHZYWHl28"
     },
     {
       "album": {

@@ -801,6 +801,32 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/6w2APV7R1Tcn7ysPMaLpYD"
+      },
+      "artists": [
+        {
+          "name": "Manse",
+          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+        },
+        {
+          "name": "G.U.O.L.",
+          "url": "https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16"
+        },
+        {
+          "name": "John White",
+          "url": "https://open.spotify.com/artist/1UVoyard7BA5KdbK6JdTPx"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/0PWFrN7yZy1wXFDxNlbcvh"
+    },
+    {
+      "album": {
         "name": "Angel In The Dark",
         "url": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm"
       },
@@ -6732,7 +6758,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 149673,
       "name": "Heart Like Mine (feat. Rosa Linn)",
       "url": "https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl"
@@ -8520,6 +8546,28 @@
       "duration_ms": 176000,
       "name": "Just A Kid",
       "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
+    },
+    {
+      "album": {
+        "name": "Just One Night",
+        "url": "https://open.spotify.com/album/4rxV8ziZU15NxL5PxUBgPs"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Just One Night",
+      "url": "https://open.spotify.com/track/4BsUxqPABPlzJzNImkMBCD"
     },
     {
       "album": {
@@ -18252,7 +18300,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 184649,
       "name": "Where You Are - Zedd Remix",
       "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"

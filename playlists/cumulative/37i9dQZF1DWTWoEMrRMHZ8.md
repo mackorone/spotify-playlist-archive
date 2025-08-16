@@ -2,7 +2,7 @@
 
 ### [Divina MPB](https://open.spotify.com/playlist/37i9dQZF1DWTWoEMrRMHZ8)
 
-> As belas novidades da MPB\. Foto: Chico Chico
+> As belas novidades da MPB\. Foto: Alulu Paranhos, Bruno Berle
 
 1,017 songs - 2 day 11 hr 14 min
 

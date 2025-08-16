@@ -1,360 +1,304 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2524,
+  "num_followers": 2523,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAEQ12esb9x2J/w3c+mWKHtqkKoYcVB",
+  "snapshot_id": "AAAERU2o5SWHKi1F2vzSZz12pVRS7FsN",
   "tracks": [
     {
-      "added_at": "2025-08-01 13:48:59",
+      "added_at": "2025-08-15 14:43:47",
       "album": {
-        "name": "Another Long Night",
-        "url": "https://open.spotify.com/album/77Wq32ZkMnBgqLgJWL3zI6"
+        "name": "Devil In Disguise",
+        "url": "https://open.spotify.com/album/0wuBTjudSxceCGfPPiSP2W"
       },
       "artists": [
         {
-          "name": "Sunny Suljic",
-          "url": "https://open.spotify.com/artist/3JcGZ9gszrHCHXC9wJtNko"
+          "name": "Nathan Maher",
+          "url": "https://open.spotify.com/artist/0RvGEHynJ4tWEawxxEJMDa"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Another Long Night",
-      "url": "https://open.spotify.com/track/2bfeCwvgVYvBwLEvOqLmFB"
+      "duration_ms": 234606,
+      "name": "Devil In Disguise",
+      "url": "https://open.spotify.com/track/5bQNtGD3JqzJky9r0AuuUY"
     },
     {
-      "added_at": "2025-08-08 10:52:48",
+      "added_at": "2025-08-15 14:43:47",
       "album": {
-        "name": "OXFORD 2025 (From \"Subway Surfers\")",
-        "url": "https://open.spotify.com/album/5HSKG6Tr3wXCkGc3olMtqn"
+        "name": "The Rot Beneath",
+        "url": "https://open.spotify.com/album/0TRww07uzdNPbF85KV7409"
       },
       "artists": [
         {
-          "name": "Subway Surfers",
-          "url": "https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ"
+          "name": "Grand Cadaver",
+          "url": "https://open.spotify.com/artist/6K520oxrZlHZC5MSALzFZC"
         }
       ],
-      "duration_ms": 151365,
-      "name": "OXFORD 2025 - From \"Subway Surfers\"",
-      "url": "https://open.spotify.com/track/2T5oerBBzwKLqe0DiYRE3a"
+      "duration_ms": 272824,
+      "name": "Blood-Red Banner",
+      "url": "https://open.spotify.com/track/51B8sMrEJFtL7POit0gab4"
     },
     {
-      "added_at": "2025-08-08 10:52:48",
+      "added_at": "2025-08-15 14:43:47",
       "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/55h4f9GsTfiDtq4aSM7HFn"
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/60dXZD8mgIPogCoDJJmFPh"
       },
       "artists": [
         {
-          "name": "Aidoneus",
-          "url": "https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5"
+          "name": "Maklo & Peter",
+          "url": "https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Now and then",
+      "url": "https://open.spotify.com/track/0VIhqZOHurgnNOLKu2UhMl"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Poison talk",
+        "url": "https://open.spotify.com/album/04fSY5HDN6fMERAheUqC1z"
+      },
+      "artists": [
+        {
+          "name": "Mona Gryt\u00f8yr",
+          "url": "https://open.spotify.com/artist/4fGxnBkPa3XKnP7BWt8U3j"
+        }
+      ],
+      "duration_ms": 275343,
+      "name": "Poison talk",
+      "url": "https://open.spotify.com/track/5JbcFjNdDu1YgcL5XjOd8f"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "He is living",
+        "url": "https://open.spotify.com/album/7agn2OuLrib9YMddzDo7RE"
+      },
+      "artists": [
+        {
+          "name": "Gloriam Dei",
+          "url": "https://open.spotify.com/artist/7BrRirZ8SrfgrNOL1qpG15"
+        }
+      ],
+      "duration_ms": 241682,
+      "name": "He is living",
+      "url": "https://open.spotify.com/track/59AuAbar56e7KdUnjwXQp4"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
+        "url": "https://open.spotify.com/album/4OXVTeAdn4CibJLaVcqlR9"
+      },
+      "artists": [
+        {
+          "name": "Maklo & Peter",
+          "url": "https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7"
+        }
+      ],
+      "duration_ms": 231488,
+      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig",
+      "url": "https://open.spotify.com/track/6QO8XYjWMeXjBKHrIsTcR7"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "all in your head!!!",
+        "url": "https://open.spotify.com/album/21l61JuPNnRGFzJHvOqKnR"
+      },
+      "artists": [
+        {
+          "name": "Dema Raye",
+          "url": "https://open.spotify.com/artist/0iahDtxeEYBAwWNgEHrzZd"
+        }
+      ],
+      "duration_ms": 241867,
+      "name": "all in your head!!!",
+      "url": "https://open.spotify.com/track/5sM2iGSUG0qhRYeWVX3Gcx"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Genom sprickorna",
+        "url": "https://open.spotify.com/album/1XqCrpmOccGuHscvZlO4A0"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00f6st",
+          "url": "https://open.spotify.com/artist/6mK0tTwRa66p8BsyYqno1G"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Som i en dr\u00f6m",
+      "url": "https://open.spotify.com/track/1sUIzA8jXh40brcwUrssyL"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Black Cloud",
+        "url": "https://open.spotify.com/album/6wUUm6s0S45ged05bbQ0ZH"
+      },
+      "artists": [
+        {
+          "name": "People Crisis",
+          "url": "https://open.spotify.com/artist/0aQ5yJdKWoECZiAV4piwVv"
+        }
+      ],
+      "duration_ms": 226909,
+      "name": "Black Cloud",
+      "url": "https://open.spotify.com/track/4PyAin7aX0WIqNxpHBBsCQ"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "God of War",
+        "url": "https://open.spotify.com/album/7gIXZ8XAfJRMAjPe9dBpoS"
+      },
+      "artists": [
+        {
+          "name": "Katana Cartel",
+          "url": "https://open.spotify.com/artist/6MngbKovX3R5FrHMXbAqaL"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Your Time Has Run Out",
+      "url": "https://open.spotify.com/track/7vXXOfpEdP2EiTbtO58G74"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Giving Me Light",
+        "url": "https://open.spotify.com/album/0CVNiom5nbDqJakUfwZPjc"
+      },
+      "artists": [
+        {
+          "name": "CASA",
+          "url": "https://open.spotify.com/artist/5kHrnCkGPBQHgEhexrFQTQ"
+        }
+      ],
+      "duration_ms": 253103,
+      "name": "Giving Me Light",
+      "url": "https://open.spotify.com/track/3j4C7ByQpJLx7awXgRn3ZZ"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Spirits Of Alcohol",
+        "url": "https://open.spotify.com/album/1u6BzmX7VjOw3Ertkyc3O7"
+      },
+      "artists": [
+        {
+          "name": "Coogee Bay Road Band",
+          "url": "https://open.spotify.com/artist/1OBInN4IAseOOqIiwrGUUz"
+        }
+      ],
+      "duration_ms": 302272,
+      "name": "Spirits Of Alcohol",
+      "url": "https://open.spotify.com/track/3WUk8NLVYtM09syyXFSzU2"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Lay Me Down",
+        "url": "https://open.spotify.com/album/3ACpEuzfgEgpRIAylSXyET"
+      },
+      "artists": [
+        {
+          "name": "Gekko",
+          "url": "https://open.spotify.com/artist/3pAlvy9K8p3VChT6y8n0qa"
+        }
+      ],
+      "duration_ms": 226859,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/1OU9ZGEZj4HaKV8sEORpZU"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Devil's song",
+        "url": "https://open.spotify.com/album/4fsVkC3gsEBjEIUDvo3IN1"
+      },
+      "artists": [
+        {
+          "name": "P\u00e4r Andersson",
+          "url": "https://open.spotify.com/artist/5S3CYfLyo5RjcDrBr83Phz"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Devil's song",
+      "url": "https://open.spotify.com/track/3A2hyXp0J6EdtNsmKZo9VG"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Slow tide",
+        "url": "https://open.spotify.com/album/2ei4r2fcuCAez0idzSrus3"
+      },
+      "artists": [
+        {
+          "name": "M LUCA",
+          "url": "https://open.spotify.com/artist/5OMlmd0Hl5a6D6MnRW40Yn"
+        }
+      ],
+      "duration_ms": 267096,
+      "name": "Slow tide",
+      "url": "https://open.spotify.com/track/1G75bG6fWiaVwKPmpdBddp"
+    },
+    {
+      "added_at": "2025-08-15 14:43:47",
+      "album": {
+        "name": "Za nami (akustycznie)",
+        "url": "https://open.spotify.com/album/3TSrVAFKcMEDSbxt8tGczx"
+      },
+      "artists": [
+        {
+          "name": "krochmaliny",
+          "url": "https://open.spotify.com/artist/2osTDMn7vvQybenkNxVGtM"
         },
         {
-          "name": "Yara Liz",
-          "url": "https://open.spotify.com/artist/2bK30CUQYUBhG7HbOYVPoO"
+          "name": "Adrian Ciepli\u0144ski",
+          "url": "https://open.spotify.com/artist/35fgaXTHw6v1JN45iSSie5"
         }
       ],
-      "duration_ms": 177390,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/421VFv4DRWDa8l83TJCz5q"
+      "duration_ms": 211013,
+      "name": "Za nami (akustycznie)",
+      "url": "https://open.spotify.com/track/735WsOIdZTf7JDo0eCX3Dh"
     },
     {
-      "added_at": "2025-08-08 10:52:48",
+      "added_at": "2025-08-15 14:43:47",
       "album": {
-        "name": "Burn After Listening",
-        "url": "https://open.spotify.com/album/7xxjZMggrW1lUYoIyR4Fpn"
+        "name": "Ghost Mode",
+        "url": "https://open.spotify.com/album/5oql9plBcpPERK40kRrfBF"
       },
       "artists": [
         {
-          "name": "SCARAB",
-          "url": "https://open.spotify.com/artist/3DmQmled0fZTVhU9MEBSrX"
+          "name": "Roger K",
+          "url": "https://open.spotify.com/artist/41hkPBRM1scZzY6JEcoLxT"
         }
       ],
-      "duration_ms": 110702,
-      "name": "Ten Foot Shadow",
-      "url": "https://open.spotify.com/track/60uaZFl3j0VFVt9fzgVCkR"
+      "duration_ms": 164362,
+      "name": "Ghost Mode",
+      "url": "https://open.spotify.com/track/4tyn5JsPrGFUAOZMMIfbDu"
     },
     {
-      "added_at": "2025-08-08 10:52:48",
+      "added_at": "2025-08-15 14:43:47",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/7gArlOcDbppVexfKG4aLyN"
+        "name": "Light On The Wall",
+        "url": "https://open.spotify.com/album/4PGuKTZ8ri4cXUACQKLyGF"
       },
       "artists": [
         {
-          "name": "MADDY MAY",
-          "url": "https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu"
+          "name": "Jeremy Sousa",
+          "url": "https://open.spotify.com/artist/46JAQMjLv4iRke2SBknlYT"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/0Ptt3H6hIHj63gXiI72oh5"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Nothin Shifts",
-        "url": "https://open.spotify.com/album/6T8uFawymZDBoDpqbkguC7"
-      },
-      "artists": [
-        {
-          "name": "WhiskeyStainedLyrics",
-          "url": "https://open.spotify.com/artist/6V56DaOiajbZuX3TOKgEFB"
-        }
-      ],
-      "duration_ms": 165680,
-      "name": "Half Tank No Map",
-      "url": "https://open.spotify.com/track/4q2ruPdpkgtSuF5FVgIkBc"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Serelith",
-        "url": "https://open.spotify.com/album/70q8O8npuQaM19EeUHKSrR"
-      },
-      "artists": [
-        {
-          "name": "Peter Mikkola",
-          "url": "https://open.spotify.com/artist/4h7pQ8I5B4C4JMzDdVgmQB"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "Serelith - Extended Version",
-      "url": "https://open.spotify.com/track/5AeONF3UhqJD4V5ja2VQL3"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Marin dep\u00e5",
-        "url": "https://open.spotify.com/album/0B7fWwSfEsQyrSDIor0eJ6"
-      },
-      "artists": [
-        {
-          "name": "nils",
-          "url": "https://open.spotify.com/artist/3n5dQXO79VaSq7Kncx6I1U"
-        }
-      ],
-      "duration_ms": 202730,
-      "name": "Marin dep\u00e5",
-      "url": "https://open.spotify.com/track/5OiPYzZ0KSuITvq4fGD62r"
-    },
-    {
-      "added_at": "2025-08-01 13:48:59",
-      "album": {
-        "name": "I Feel Love",
-        "url": "https://open.spotify.com/album/6DztZ9WvIjwsn81CC6RjsR"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brixton",
-          "url": "https://open.spotify.com/artist/7hGduJGVJq40Fpi4N7KvpE"
-        },
-        {
-          "name": "Joe Rodwell",
-          "url": "https://open.spotify.com/artist/08v2ze9Khd6JwFPdgDoDRR"
-        }
-      ],
-      "duration_ms": 244549,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/6cxjhminsvw6NEI89qOGf0"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "SOROR",
-        "url": "https://open.spotify.com/album/7akfMMJnJKUNLNFjUALEel"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Muse",
-          "url": "https://open.spotify.com/artist/315RcWJAdfObjoa7vkH5F0"
-        },
-        {
-          "name": "Peter Renzullo",
-          "url": "https://open.spotify.com/artist/1J9Zgv1GGvDoWYzmtAIfNm"
-        }
-      ],
-      "duration_ms": 224260,
-      "name": "SOROR",
-      "url": "https://open.spotify.com/track/65JQQJZmHBzp7EBt6gn76f"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/5aLPBaCdXVOTBxBTp97tgM"
-      },
-      "artists": [
-        {
-          "name": "moost",
-          "url": "https://open.spotify.com/artist/6tu7uGMjfKX6u3ntCjofCV"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "lonely",
-      "url": "https://open.spotify.com/track/2rTkimd5g4OFWD6xQzsSFR"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "White Lies Kill Slowly",
-        "url": "https://open.spotify.com/album/7DMlbCcq6kIKF1KuNJpVoV"
-      },
-      "artists": [
-        {
-          "name": "Like a Glove",
-          "url": "https://open.spotify.com/artist/18MrqP1VGvxCiAz6IINKb4"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "Anemia",
-      "url": "https://open.spotify.com/track/3aVkwvzPJXGfugGiQxqO9W"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Teraz ta\u0144cz\u0119",
-        "url": "https://open.spotify.com/album/1JuhkcvihS0aR72gE8ZZz0"
-      },
-      "artists": [
-        {
-          "name": "Flow Up!",
-          "url": "https://open.spotify.com/artist/0xtJPlMJMYlb9IoPdhqrky"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "Teraz ta\u0144cz\u0119",
-      "url": "https://open.spotify.com/track/7wtKKfWiz5ch6L5H97twfD"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Yhden illan miljon\u00e4\u00e4ri",
-        "url": "https://open.spotify.com/album/0d0zw6UAwe3m1qjnKG57rY"
-      },
-      "artists": [
-        {
-          "name": "Pessi",
-          "url": "https://open.spotify.com/artist/6pWojJsgNYZBnzvYRxLdb6"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Yhden illan miljon\u00e4\u00e4ri",
-      "url": "https://open.spotify.com/track/6gP3j53jzM5YTtkkEKZlhU"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Blonde Streak Baddie",
-        "url": "https://open.spotify.com/album/2kIEIpkPvV94ccJEqGVhkD"
-      },
-      "artists": [
-        {
-          "name": "glassk1d",
-          "url": "https://open.spotify.com/artist/0IFjZ97Bni6LFOdTiLPMN5"
-        }
-      ],
-      "duration_ms": 145960,
-      "name": "Blonde Streak Baddie",
-      "url": "https://open.spotify.com/track/2MfMLQRwWs1ykP2w9t0nAF"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Stuck With Me",
-        "url": "https://open.spotify.com/album/2ga0GgZn81GDbu5YKEw9O2"
-      },
-      "artists": [
-        {
-          "name": "logi.",
-          "url": "https://open.spotify.com/artist/2r5o8lQI54C20FAtdxuPNm"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Stuck With Me",
-      "url": "https://open.spotify.com/track/54Bb10A7gFco20aIEqKwYG"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "NARCISSIST",
-        "url": "https://open.spotify.com/album/5U1MBKC1xrmuAQHpUb9JgY"
-      },
-      "artists": [
-        {
-          "name": "Moise J",
-          "url": "https://open.spotify.com/artist/5reo8c8qxiHB7BzCG7VWAE"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "NARCISSIST",
-      "url": "https://open.spotify.com/track/1BjbFCYfP9iiBJcen3QnLS"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Freebird at Dawn (Karaoke-Yelling)",
-        "url": "https://open.spotify.com/album/69ho0RYyBCkxPOI5zTZbZh"
-      },
-      "artists": [
-        {
-          "name": "Nikki Hadari",
-          "url": "https://open.spotify.com/artist/2jAZ119o6kwc8vPuji4iaP"
-        }
-      ],
-      "duration_ms": 185016,
-      "name": "Freebird at Dawn (Karaoke-Yelling)",
-      "url": "https://open.spotify.com/track/3ENPn2vxJOB9x3yUHxgGGk"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "L\u00e4ngtar",
-        "url": "https://open.spotify.com/album/7rCodZBVX43x1hTRJ66qz2"
-      },
-      "artists": [
-        {
-          "name": "Dan, Julian & Frank",
-          "url": "https://open.spotify.com/artist/5AjQHyfAq94mUgu3s1jfja"
-        }
-      ],
-      "duration_ms": 231874,
-      "name": "L\u00e4ngtar",
-      "url": "https://open.spotify.com/track/3x0bruTzuIDxxbYc8AJ1nd"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Bait & Hook",
-        "url": "https://open.spotify.com/album/6tqEZxbpnhZ4anGrKslifE"
-      },
-      "artists": [
-        {
-          "name": "Kizz Mando",
-          "url": "https://open.spotify.com/artist/4JN1rAgbZuD7w94KVI3nFi"
-        }
-      ],
-      "duration_ms": 217159,
-      "name": "Bait & Hook",
-      "url": "https://open.spotify.com/track/0abr7YGNdvQ4F0HExNNcHx"
-    },
-    {
-      "added_at": "2025-08-08 10:52:48",
-      "album": {
-        "name": "Atom Bombs / Fallin' Down The Valley",
-        "url": "https://open.spotify.com/album/2fLTSkn3m1O2sp3m27U13T"
-      },
-      "artists": [
-        {
-          "name": "Broke Brothers",
-          "url": "https://open.spotify.com/artist/4lfbhVgDHO2k5iyYfwpivP"
-        }
-      ],
-      "duration_ms": 200928,
-      "name": "Atom Bombs",
-      "url": "https://open.spotify.com/track/5Eu2TaeAgfPo9UbUU0OJRT"
+      "duration_ms": 242004,
+      "name": "Light On The Wall",
+      "url": "https://open.spotify.com/track/51uwOPTHVIbNkQTVaIN0Up"
     }
   ],
   "unique_name": "Independent Music Friday",

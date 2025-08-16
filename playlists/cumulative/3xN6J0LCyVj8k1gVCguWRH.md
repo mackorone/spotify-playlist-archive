@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,229 songs - 12 day 4 hr 26 min
+5,232 songs - 12 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1272,7 +1272,7 @@
 | [Dream I'm In](https://open.spotify.com/track/7gfjlLvQxV9JVXl7aaGobq) | [Night Talks](https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz) | [Dream I'm In](https://open.spotify.com/album/4XkvRbodE4RcJcoSiK6kZX) | 3:21 | 2025-04-18 | 2025-04-30 |
 | [Dream Song](https://open.spotify.com/track/7J6bBnnykhiGvw6zjBP423) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Please, Come Home](https://open.spotify.com/album/4NrIGbAQCnlkpA8GtalM5T) | 4:31 | 2021-10-23 | 2021-11-07 |
 | [DREAM2U](https://open.spotify.com/track/03JyanEnPlnPK3AlQNR0uh) | [Muhammad $mith](https://open.spotify.com/artist/6DFxdtNB64gpETzLIdOBOD) | [Sadboi/Happyboi](https://open.spotify.com/album/12rqExEIVoQr2wqaN9n9YT) | 2:23 | 2025-03-26 | 2025-04-07 |
-| [Dreamer Too](https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Dreamer Too](https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA) | 4:31 | 2025-07-25 |  |
+| [Dreamer Too](https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Dreamer Too](https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA) | 4:31 | 2025-07-25 | 2025-08-16 |
 | [Dreamers Ball](https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc) | [Rebecca Poole](https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D) | [Dreamers Ball](https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx) | 4:43 | 2024-03-11 | 2024-03-20 |
 | [Dreaming](https://open.spotify.com/track/2DbAAE60XTkud3FYwADhQh) | [David Morin](https://open.spotify.com/artist/24kIGBNAXpwruRnnYjfN2p), [Koyla](https://open.spotify.com/artist/4ZPTXiGXai2aHL3625gokV) | [Dreaming](https://open.spotify.com/album/1ANCCq2iXOTbtXL6iVJfzU) | 5:00 | 2025-07-22 | 2025-08-05 |
 | [Dreaming](https://open.spotify.com/track/7l5oDmgxDEhtZpdxeZzCg9) | [Joy Bogat](https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg) | [Dreaming](https://open.spotify.com/album/6s3Jqfp7KifWtCzWzt83xK) | 3:41 | 2024-01-22 | 2024-02-04 |
@@ -2601,6 +2601,7 @@
 | [Life She Don't Lie](https://open.spotify.com/track/0yRX4OIvoWfzobLpTB4958) | [Waiting for Smith](https://open.spotify.com/artist/57oieIojgviKMyTtzG4kn2) | [Life She Don't Lie](https://open.spotify.com/album/2NkE0EbSOSxluLlF2dD1MC) | 3:24 | 2021-11-27 | 2021-12-12 |
 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 | 2023-07-15 | 2023-08-04 |
 | [Lifetime](https://open.spotify.com/track/7iOBFSH9HNbAGl2V3Zplcj) | [Tone Troy](https://open.spotify.com/artist/2QOdCLXGXs9uJbJ7LHPu31) | [Lifetime](https://open.spotify.com/album/0Tij8yIRjXKifzpcrLRIrR) | 3:25 | 2022-11-25 | 2022-12-17 |
+| [Lift](https://open.spotify.com/track/2QZev4jUPcdgvtzpmSJMPJ) | [Aaron Ridge](https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1) | [Lift](https://open.spotify.com/album/5Rj4W4eOAwDdPf27tXk904) | 3:00 | 2025-08-15 |  |
 | [Lift You Up](https://open.spotify.com/track/6TUj70FPkkH8PKDew2s7fj) | [MUNNYCAT](https://open.spotify.com/artist/3mib3ZXDjjjGpWxnoZu0XF), [LG \(TEAM GENIUS\)](https://open.spotify.com/artist/7iI4KMaRDjJGuHA6QLGnJx) | [Lift You Up](https://open.spotify.com/album/2UftMluccu2Ev2WcDT4zyn) | 2:46 | 2025-02-28 | 2025-03-16 |
 | [Light as a Feather](https://open.spotify.com/track/2duYJP1P2vASWbZOETm26I) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Light as a Feather](https://open.spotify.com/album/2rF1N1FUUqvawW9DTloY5V) | 3:17 | 2022-02-10 | 2022-02-26 |
 | [Light in the Shadow](https://open.spotify.com/track/7MoAnSriBN0f8coBmsEpGa) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Light in the Shadow](https://open.spotify.com/album/1w0FoxxOoljhvfRPW6t0Ih) | 2:53 | 2025-01-14 | 2025-01-28 |
@@ -3081,6 +3082,7 @@
 | [My Type](https://open.spotify.com/track/1jrGYEJhRqQuugrjUNcNuV) | [Tre Moore](https://open.spotify.com/artist/45q9gZcmGChvO1UXvLWWBL) | [My Type](https://open.spotify.com/album/01MJhC8HFQAZAf37EsyBqT) | 2:10 | 2024-08-24 | 2024-09-18 |
 | [My Wave](https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [My Wave](https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7) | 2:30 | 2025-08-06 |  |
 | [My Wonder](https://open.spotify.com/track/2aak38gnzNNuJnrd1AACrI) | [Alejandra O'Leary](https://open.spotify.com/artist/3y4khrJjdxXrnhBvfqAVn6) | [Everest](https://open.spotify.com/album/1yFHruHeMll9KYvrMeS3Ev) | 5:06 | 2025-07-09 | 2025-07-21 |
+| [My World \(beyond\)](https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [My World \(beyond\)](https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b) | 4:05 | 2025-08-15 |  |
 | [MYM](https://open.spotify.com/track/0pbq8UdSJYBMVhTQPsM1CR) | [Trilla da Vinci](https://open.spotify.com/artist/0ot3tViQujUGlIKjd31NQU) | [MYM](https://open.spotify.com/album/3Tccb3fdj1hckLvHG9iYCA) | 2:53 | 2022-09-02 | 2022-09-18 |
 | [Mystery's Golden](https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8) | [Ross Livermore](https://open.spotify.com/artist/3NnWvFrTYmolzV1athoz8g) | [Mystery's Golden](https://open.spotify.com/album/1Lb6SwZEf25ZbYOPjH1ayn) | 4:01 | 2024-11-08 | 2024-12-10 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-06-07 | 2025-07-11 |
@@ -3780,7 +3782,7 @@
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2020-07-21 | 2020-08-20 |
 | [Roslyn](https://open.spotify.com/track/7cOaFebpU2WeTNps7lUKSB) | [EDU](https://open.spotify.com/artist/07DkcQ39rNICxi4FExM0O4), [Isabella Castillo](https://open.spotify.com/artist/1KUjNqQQPqBrIMKQ2ONefF) | [Roslyn](https://open.spotify.com/album/5xPJnK6xJWpNp2lPFuHYzC) | 2:55 | 2024-07-15 | 2024-07-27 |
 | [Rotation](https://open.spotify.com/track/2XKut37KFBAZ771tLRK1sv) | [Mikaela Stenmo](https://open.spotify.com/artist/2NkXWIUXqFVM1gnOIpoVZq) | [Blue](https://open.spotify.com/album/3ASuS5UwhcW8UMAl2Ahsbn) | 2:31 | 2024-02-23 | 2024-03-08 |
-| [rotten](https://open.spotify.com/track/151308GW9mAeD56RBcKwFy) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [more](https://open.spotify.com/album/2EeDqfb23rofyx7h2FbWe4) | 3:07 | 2025-07-18 |  |
+| [rotten](https://open.spotify.com/track/151308GW9mAeD56RBcKwFy) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [more](https://open.spotify.com/album/2EeDqfb23rofyx7h2FbWe4) | 3:07 | 2025-07-18 | 2025-08-16 |
 | [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 | 2024-11-12 | 2024-11-24 |
 | [Rough Old Friend](https://open.spotify.com/track/1ZiQ8AldPsAIKrq1n3OPta) | [Cody Ellis](https://open.spotify.com/artist/3xrYyxHp2V0jQEE8wZdVjg) | [Good Medicine](https://open.spotify.com/album/5p9CiKZWW4h5U8f2kXDT7U) | 2:43 | 2023-06-24 | 2023-07-04 |
 | [Roughed up and Rowdy](https://open.spotify.com/track/6cMLCLiiSk87Kgb1Vhlb7B) | [Redondo Red](https://open.spotify.com/artist/7lbEzkNxEp17LsaEGO0sHu) | [Roughed up and Rowdy](https://open.spotify.com/album/6U6zFGuIEcySQSuRkZyGat) | 3:25 | 2025-04-16 | 2025-04-28 |
@@ -3980,7 +3982,7 @@
 | [Shut Up!](https://open.spotify.com/track/4ABbOz6EfUUwkypIdHP0hW) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Shut Up!](https://open.spotify.com/album/53cOuoMR1vjlHJAE9TcdF0) | 2:40 | 2024-12-27 | 2025-01-08 |
 | [Shut Up! \- Remix](https://open.spotify.com/track/2qgRIUlMjPPs7ubALkAyJu) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Shut Up! \(Remix\)](https://open.spotify.com/album/0VumUQYv6xhVFomRhUFIyu) | 2:52 | 2025-05-14 | 2025-05-26 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-01 | 2025-02-09 |
-| [Si Estás Tú](https://open.spotify.com/track/73boys8t6EZpAaTkqe7eUb) | [Mercee](https://open.spotify.com/artist/43XYW7dEnlB8qXeQafi9zm) | [Si Estás Tú](https://open.spotify.com/album/2Fjqvwu2gOdhyy5euBlukf) | 2:26 | 2025-07-26 |  |
+| [Si Estás Tú](https://open.spotify.com/track/73boys8t6EZpAaTkqe7eUb) | [Mercee](https://open.spotify.com/artist/43XYW7dEnlB8qXeQafi9zm) | [Si Estás Tú](https://open.spotify.com/album/2Fjqvwu2gOdhyy5euBlukf) | 2:26 | 2025-07-26 | 2025-08-16 |
 | [Si Mami Supiera](https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Mami Supiera](https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V) | 2:40 | 2024-09-11 | 2024-09-24 |
 | [Si Me Das Tu Vida](https://open.spotify.com/track/0bcy1ViuqTZzUODRz4f0hI) | [Carlo Meucci](https://open.spotify.com/artist/2m4YO3P3mXSrX52wPoH2xa) | [Si Me Das Tu Vida](https://open.spotify.com/album/2SF29zcTKB84GrSVAdQKGl) | 3:19 | 2023-07-28 | 2023-08-20 |
 | [Si Tú Supieras](https://open.spotify.com/track/1hw9AueHCN9FwA6sii9Nu1) | [Raquel Maradey](https://open.spotify.com/artist/5ZJsXAvMdY9V2xwQJCEOMI) | [Si Tú Supieras](https://open.spotify.com/album/1pAlLczYYyVTTXiE3LUFIY) | 3:45 | 2023-03-12 | 2023-04-03 |
@@ -4077,6 +4079,7 @@
 | [Soju](https://open.spotify.com/track/2dcD5s2X2A9QOV0Xhe0cdd) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [Soju](https://open.spotify.com/album/5PCBZNCMphWJAC5eVYdMLV) | 3:01 | 2022-06-20 | 2022-07-07 |
 | [Sol y Luna](https://open.spotify.com/track/7q7Boh5hhO8uBmRCWt9IGr) | [Franco Leoz](https://open.spotify.com/artist/1I94Mwfe4eUDvnGaZ7lRdz) | [Sol y Luna](https://open.spotify.com/album/5raJyNP1v1yD2ZM78huQEP) | 2:48 | 2025-03-19 | 2025-03-31 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-11 | 2021-07-12 |
+| [Soldiers](https://open.spotify.com/track/2TdZHEfYEp0hPHCiXuoyVA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Soldiers](https://open.spotify.com/album/6sML4lbkhjYHsEae5LCVt4) | 3:23 | 2025-08-15 |  |
 | [Solitude Burns](https://open.spotify.com/track/1FQWkhlvCcjPsaqpMU9Yfn) | [The Strange Seeds](https://open.spotify.com/artist/3gwMCAZVLTLsYL2SFOXMYR) | [Solitude Burns](https://open.spotify.com/album/55ReHPAjW2g0qjfpBGNwvk) | 5:48 | 2024-01-31 | 2024-02-08 |
 | [Solo por Necesidad](https://open.spotify.com/track/3PberEargUf8d607ITEQRS) | [Diocelina Peralta](https://open.spotify.com/artist/0Tf9GlVMnkWTybJlaprIhi) | [Massage](https://open.spotify.com/album/6PfUWj6eRsLUADUlYbZmPK) | 4:25 | 2024-03-13 | 2024-03-22 |
 | [Solomon Sang](https://open.spotify.com/track/791eQ4TI42crcH5DKIz7uA) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [New Moon Daughter](https://open.spotify.com/album/7jV22JIrWgtCKCX34cJrzA) | 5:56 | 2020-08-20 | 2023-08-28 |

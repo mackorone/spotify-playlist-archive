@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 102752,
+  "num_followers": 102844,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Umuthi",
+        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "Ibhanoyi",
+      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Masithokoze",
         "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 427217,
       "name": "Masithokoze",
       "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Umuthi",
-        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
-      },
-      "artists": [
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 249795,
-      "name": "Ibhanoyi",
-      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Imizwa",
-        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
-      },
-      "artists": [
-        {
-          "name": "Lwah Ndlunkulu",
-          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
-        }
-      ],
-      "duration_ms": 260488,
-      "name": "Eyami",
-      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 227460,
       "name": "Let Me Love You Now",
       "url": "https://open.spotify.com/track/6EOTIOmlG2jZDw69KMmAH1"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Imizwa",
+        "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
+      },
+      "artists": [
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        }
+      ],
+      "duration_ms": 260488,
+      "name": "Eyami",
+      "url": "https://open.spotify.com/track/4xQgivVLGFlB0tctjpR2SU"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Naninina",
-        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
-      },
-      "artists": [
-        {
-          "name": "Vusi Nova",
-          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Ndikuthandile",
-      "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+        "name": "Naninina",
+        "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
       },
       "artists": [
         {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+          "name": "Vusi Nova",
+          "url": "https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8"
         }
       ],
-      "duration_ms": 281860,
-      "name": "Chikwere",
-      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+      "duration_ms": 254453,
+      "name": "Ndikuthandile",
+      "url": "https://open.spotify.com/track/7ovomBLtn5G84bT9eZUKhz"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -823,6 +807,22 @@
       "duration_ms": 293613,
       "name": "Mthande",
       "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 244615,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 484285,
       "name": "uThando",
       "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/4TxdkXdMxDBgRapJazxSkI"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 244615,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/01VOoRJ86VrIIPPlMlJ06Y"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Hawataweza",
-        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
-      },
-      "artists": [
-        {
-          "name": "Wanavokali",
-          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Hawataweza",
-      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Phakade Lami",
         "url": "https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Sasa Hivi [Stripped Down]",
-        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
-      },
-      "artists": [
-        {
-          "name": "V-Be",
-          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
-        },
-        {
-          "name": "Ashley Music",
-          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Sasa Hivi [Stripped Down]",
-      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Slave Becomes A King",
         "url": "https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 205691,
       "name": "Loyalty (feat. Marioo & Nandy)",
       "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Sasa Hivi [Stripped Down]",
+        "url": "https://open.spotify.com/album/1JAFcsR793tC7RbHSkpIig"
+      },
+      "artists": [
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        },
+        {
+          "name": "Ashley Music",
+          "url": "https://open.spotify.com/artist/7K1bNbgDvQmbwHXftT2xTd"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Sasa Hivi [Stripped Down]",
+      "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
     },
     {
       "added_at": "2025-07-11 08:09:25",

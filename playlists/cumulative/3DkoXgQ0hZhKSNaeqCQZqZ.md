@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-378 songs - 20 hr 4 min
+379 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [spinnin round my head](https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ) | [phimtown](https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [spinnin round my head](https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p) | 1:51 | 2025-01-25 |  |
 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 | 2025-01-17 |  |
 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 | 2024-03-15 |  |
+| [SPOTS 2](https://open.spotify.com/track/4duDZn6Idgy9qH9Yl95pTs) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS 2](https://open.spotify.com/album/43rqwQewbnqPw1S8EUgOyC) | 2:30 | 2025-08-15 |  |
 | [Stars Slumbering In The Shade](https://open.spotify.com/track/3NVIDqMy2rnRkHu78Bqwc0) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 4:08 | 2023-12-15 |  |
 | [STEREO](https://open.spotify.com/track/6zv74Wofa6MjtFb6g0LSy1) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [STEREO](https://open.spotify.com/album/3t6AnLqqJPmjHG905DSciR) | 2:29 | 2024-07-14 |  |
 | [Stranded](https://open.spotify.com/track/2Fp950faiPewSg3cyRSk8u) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Stranded](https://open.spotify.com/album/7sByh9eDixb9KBnzhcx9oh) | 3:24 | 2024-11-25 |  |

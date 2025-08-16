@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Artificial Love",
+        "url": "https://open.spotify.com/album/65UpqgG3qjIrwPLVfdIg2z"
+      },
+      "artists": [
+        {
+          "name": "Flamingosis",
+          "url": "https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb"
+        },
+        {
+          "name": "Diastrata",
+          "url": "https://open.spotify.com/artist/1Z1MedqFUlxM3OHqdHK7mx"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236208,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/3bp5qpZaIgSiCBdgZP2s49"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka"
       },

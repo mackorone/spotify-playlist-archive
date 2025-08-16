@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Bailey Zimmerman
+> Today's top country hits\. Cover: Jordan Davis
 
 913 songs - 2 day 1 hr 22 min
 

@@ -859,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Showboy",
+        "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
+      },
+      "artists": [
+        {
+          "name": "Spy Shitta",
+          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141269,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH"
+    },
+    {
+      "album": {
         "name": "B.T.S {Burst Their Speakers}",
         "url": "https://open.spotify.com/album/1cuXQbiNsRvtSHpHnn302x"
       },
@@ -3354,7 +3376,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 153473,
       "name": "From Softie to You (Dey There)",
       "url": "https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7"

@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
-  "num_followers": 199973,
+  "num_followers": 200005,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "ny affair",
-        "url": "https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H"
-      },
-      "artists": [
-        {
-          "name": "Irenegarry",
-          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
-        }
-      ],
-      "duration_ms": 128315,
-      "name": "ny affair",
-      "url": "https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Kryptonita",
         "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164257,
       "name": "Kryptonita",
       "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "ny affair",
+        "url": "https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H"
+      },
+      "artists": [
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        }
+      ],
+      "duration_ms": 128315,
+      "name": "ny affair",
+      "url": "https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -819,38 +819,18 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Pienso En Ti",
-        "url": "https://open.spotify.com/album/3h9y40Uj7jkoEVbn0TvgKb"
+        "name": "hibernarse",
+        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
       },
       "artists": [
         {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        },
-        {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
         }
       ],
-      "duration_ms": 203921,
-      "name": "Pienso En Ti",
-      "url": "https://open.spotify.com/track/6JrampDbMp4AM7R0TyLGtN"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "Zumo de Manzana",
-        "url": "https://open.spotify.com/album/4pE7i42NAB53SdZMZg2TKI"
-      },
-      "artists": [
-        {
-          "name": "GOMZ",
-          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
-        }
-      ],
-      "duration_ms": 182654,
-      "name": "Zumo de Manzana",
-      "url": "https://open.spotify.com/track/5z7M3lkaVpDxiPTadkDtQ9"
+      "duration_ms": 163576,
+      "name": "hibernarse",
+      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -875,18 +855,38 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "hibernarse",
-        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
+        "name": "Zumo de Manzana",
+        "url": "https://open.spotify.com/album/4pE7i42NAB53SdZMZg2TKI"
       },
       "artists": [
         {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
         }
       ],
-      "duration_ms": 163576,
-      "name": "hibernarse",
-      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
+      "duration_ms": 182654,
+      "name": "Zumo de Manzana",
+      "url": "https://open.spotify.com/track/5z7M3lkaVpDxiPTadkDtQ9"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Pienso En Ti",
+        "url": "https://open.spotify.com/album/3h9y40Uj7jkoEVbn0TvgKb"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        },
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "duration_ms": 203921,
+      "name": "Pienso En Ti",
+      "url": "https://open.spotify.com/track/6JrampDbMp4AM7R0TyLGtN"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "ALKIMIA",
-        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 173168,
-      "name": "Cu\u00eddalas",
-      "url": "https://open.spotify.com/track/0OC8N9MIch9GK5YyXnycGO"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 166866,
       "name": "Sexo Y Rock & Roll",
       "url": "https://open.spotify.com/track/5g3Xe10vTdbDfqP5c4q6Xg"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "ALKIMIA",
+        "url": "https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 173168,
+      "name": "Cu\u00eddalas",
+      "url": "https://open.spotify.com/track/0OC8N9MIch9GK5YyXnycGO"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Robot",
-        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 165742,
-      "name": "Robot",
-      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 157653,
       "name": "Gatos De Gasolinera",
       "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Robot",
+        "url": "https://open.spotify.com/album/7LkM1ja45h3CScbixsRwFP"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 165742,
+      "name": "Robot",
+      "url": "https://open.spotify.com/track/4h2DkBcsx4plDDW4mRwIfp"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1199,6 +1199,22 @@
       "duration_ms": 190127,
       "name": "( ali despierta )",
       "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "No Me Digas La Verdad",
         "url": "https://open.spotify.com/album/72Yjfy1e1BQdyqy4srqm4c"
       },
@@ -1291,8 +1291,8 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
@@ -1300,9 +1300,9 @@
           "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "FIESTAS DE PUEBLO",
-        "url": "https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym"
-      },
-      "artists": [
-        {
-          "name": "HORROCRUX",
-          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "FIESTAS DE PUEBLO",
-      "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Desencantada",
         "url": "https://open.spotify.com/album/4Wd4JfLIhzGMO2ElwqC6iI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 173290,
       "name": "Desencantada",
       "url": "https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "El Laberinto [2012]",
+        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 231889,
+      "name": "El Laberinto [2012]",
+      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "El Laberinto [2012]",
-        "url": "https://open.spotify.com/album/1qJB4EdssS9kX5geBS2LHV"
+        "name": "FIESTAS DE PUEBLO",
+        "url": "https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym"
       },
       "artists": [
         {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
         }
       ],
-      "duration_ms": 231889,
-      "name": "El Laberinto [2012]",
-      "url": "https://open.spotify.com/track/5Ghk0ic7mDCGQHHvUH4QOc"
+      "duration_ms": 185687,
+      "name": "FIESTAS DE PUEBLO",
+      "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
+        "name": "El Bosque [2025]",
+        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 237242,
+      "name": "El Bosque [2025]",
+      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
         "name": "La Plaza",
         "url": "https://open.spotify.com/album/1s45Afazi1jmO46HBNlfmu"
       },
@@ -1559,6 +1575,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
+        "name": "costa brava",
+        "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "costa brava",
+      "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
         "name": "El ef\u00edmero arte de perdonar",
         "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
       },
@@ -1575,8 +1607,8 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "El Bosque [2025]",
-        "url": "https://open.spotify.com/album/7xJaH7iOl4xpSPDCAY9coQ"
+        "name": "El Bosque",
+        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
       },
       "artists": [
         {
@@ -1584,25 +1616,9 @@
           "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
         }
       ],
-      "duration_ms": 237242,
-      "name": "El Bosque [2025]",
-      "url": "https://open.spotify.com/track/3yCDGq7JG1FLTwr1oiuQvr"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "costa brava",
-        "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "costa brava",
-      "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
+      "duration_ms": 238945,
+      "name": "La Br\u00fajula [2018]",
+      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Mar Menor",
-        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Mar Menor",
-      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Desde el amor",
         "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 173332,
       "name": "Desde el amor",
       "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Mar Menor",
+        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Mar Menor",
+      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1671,38 +1687,18 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
-        "url": "https://open.spotify.com/album/3ENhLw4HeANW13LFIs9caP"
+        "name": "filosofar",
+        "url": "https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4"
       },
       "artists": [
         {
-          "name": "Colectivo Panamera",
-          "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Mario Diaz",
-          "url": "https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 206086,
-      "name": "Nuevas melod\u00edas (feat. Mario Diaz)",
-      "url": "https://open.spotify.com/track/7K8lR16djMcWJ1GHcenpVV"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "El Bosque",
-        "url": "https://open.spotify.com/album/3Z3nDVA3nbeSRbJY1hAcpq"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 238945,
-      "name": "La Br\u00fajula [2018]",
-      "url": "https://open.spotify.com/track/1NRJBv0Kk2eMfPoU5OS5EA"
+      "duration_ms": 223392,
+      "name": "filosofar",
+      "url": "https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L"
     }
   ],
   "unique_name": "Radar Indie",

@@ -4,7 +4,7 @@
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-411 songs - 1 day 16 hr 9 min
+412 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Sensation \- Radio Edit](https://open.spotify.com/track/2ay8zTIxN01I6rFEeRQcUd) | [Luis Miranda](https://open.spotify.com/artist/41zyWmhhxxcTSTy5Yul7hC) | [Sensation EP](https://open.spotify.com/album/5f6BI2SpMHeFGWAkyqA3jO) | 5:23 | 2022-08-15 | 2023-02-14 |
 | [Sequences of Self Sabotage \- Live](https://open.spotify.com/track/7sJXNYULybaUX2O0ayVOiZ) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 7:33 | 2023-12-15 | 2024-02-28 |
 | [Seven Subjects \- Live](https://open.spotify.com/track/7zVPuyj3DM22cYio5UXWEc) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 7:08 | 2024-02-27 | 2024-04-30 |
+| [Shake The Nation](https://open.spotify.com/track/2sfKtzdVmXz3FmfJZl3lPt) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Hyperloop](https://open.spotify.com/artist/34VllgUG0XUn6gwIZcuGtk), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Shake The Nation](https://open.spotify.com/album/20zW7tBycTKoY58oQAFPZ9) | 3:22 | 2025-08-15 |  |
 | [Shank](https://open.spotify.com/track/0u6tJdnEJGa1J2l7plLNhr) | [Monrella](https://open.spotify.com/artist/3IaqdYidFqtiJRgcwPbeP5) | [Shank](https://open.spotify.com/album/2MsT9FhObbMNzL4AepS9WA) | 5:37 | 2024-11-20 |  |
 | [She Hates That Chord](https://open.spotify.com/track/0zQuTridxjxuXQFB8j0JGS) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [ASW Trax Vol\. 1](https://open.spotify.com/album/5nqgzTouLgCVoth2XtQvjS) | 5:58 | 2025-01-24 | 2025-03-14 |
 | [She Hates That Chord](https://open.spotify.com/track/10lunxgDSbEVCjHB0kn295) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Elderberry](https://open.spotify.com/album/22GARvmQSSYb7FxQq5QGOj) | 5:58 | 2024-12-06 |  |

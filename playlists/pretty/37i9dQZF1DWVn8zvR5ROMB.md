@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 ### [All New Country](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
-> All of the newest country songs in one playlist! Featuring BigXthaPlug with Ella Langley, Bailey Zimmerman with The Kid LAROI, and more.
+> All of the newest country songs in one playlist! Featuring Ty Myers, Jordan Davis, Gavin Adcock and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,783 likes - 61 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,011 likes - 61 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 60 | [If a Bar Served You](https://open.spotify.com/track/1yukGZWWNrlKB9jTI2hS42) | [Blake Tyler](https://open.spotify.com/artist/51u8UtHI6ws0n4gCdqblFS) | [If a Bar Served You](https://open.spotify.com/album/1dB0Xrh8OAz7eSnZmK2lvY) | 3:42 |
 | 61 | [Here for the Beer](https://open.spotify.com/track/6NafGjZ800AmZ2rMNMWFY6) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Here for the Beer](https://open.spotify.com/album/2vBKS6GvIWEWpuZGOUBAoJ) | 2:44 |
 
-Snapshot ID: `AAAAAAbLm6UV1CNR6CbGmqgMypld4Sxe`
+Snapshot ID: `AAAAAHX0n18uNMJOqE4/a/KCQ+3qiyfv`

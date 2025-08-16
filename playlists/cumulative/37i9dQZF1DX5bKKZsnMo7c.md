@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Mikayla Geier
 
-485 songs - 1 day 2 hr 20 min
+486 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [2econd 2ight 2eer \(that was fun, goodbye.\)](https://open.spotify.com/track/4jd13hFvWAZKZpomQleZ8L) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [The Normal Album](https://open.spotify.com/album/3e4el0X3Rqx0Lms74bUrkJ) | 3:26 | 2022-05-17 | 2023-01-07 |
 | [30 SECOND LOVE STORY](https://open.spotify.com/track/6tLZW1YLLHRXq7GjtB5w3T) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [30 SECOND LOVE STORY](https://open.spotify.com/album/5yHbTChYXogi7kX0DF404T) | 2:44 | 2023-12-08 | 2023-12-30 |
 | [30/90](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/5jMxsWwmiQl6lRo01xHMmG) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2022-05-17 | 2024-01-05 |
-| [A Can Of Worms](https://open.spotify.com/track/26SjJ9wLMF5fzvJQark2M5) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Can Of Worms](https://open.spotify.com/album/0yfBTLhr4uZtrQccVhVEGg) | 3:38 | 2025-07-25 |  |
+| [A Can Of Worms](https://open.spotify.com/track/26SjJ9wLMF5fzvJQark2M5) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [A Can Of Worms](https://open.spotify.com/album/0yfBTLhr4uZtrQccVhVEGg) | 3:38 | 2025-07-25 | 2025-08-16 |
 | [A TV Show Called Earth](https://open.spotify.com/track/0htdbSx3Z3dRU6GcaQrNBD) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [A TV Show Called Earth](https://open.spotify.com/album/6ISLeFSTZIVxxKrPY3DGq7) | 3:22 | 2023-05-05 | 2024-01-23 |
 | [Afraid of Quiet](https://open.spotify.com/track/2hETlIC41ua0yYcPyE5WLI) | [Lydia the Bard](https://open.spotify.com/artist/4dYuygkzjqrehCNZMTjkNJ), [Ben Tomalin](https://open.spotify.com/artist/19kzH2dKYDamaNJ1e0OO4X) | [Afraid of Quiet](https://open.spotify.com/album/44ozYQu5laX3TgKDDTalpc) | 3:03 | 2024-05-29 | 2024-08-10 |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-01-27 |
@@ -322,6 +322,7 @@
 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 | 2022-05-17 | 2024-01-27 |
 | [ODE TO A BLACK HOLE](https://open.spotify.com/track/7jiKUb6Gras1SjfhB01uzu) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [And You Who Drowned in the Grief of a Golden Thing](https://open.spotify.com/album/34TeI2ZUr5Y75ElLckuwOs) | 3:43 | 2025-05-02 |  |
 | [Oh No!](https://open.spotify.com/track/4sNwdacKyi2S26WrRtNama) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:02 | 2023-12-29 | 2024-09-28 |
+| [One Man Circus](https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [One Man Circus](https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN) | 4:40 | 2025-08-15 |  |
 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 | 2022-08-05 | 2022-12-10 |
 | [Over & Over](https://open.spotify.com/track/0NSKePv9EAvvCL4YHiMfUv) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Over & Over](https://open.spotify.com/album/1SvObtq8R8BpE2CsfCt2tF) | 1:40 | 2024-08-09 | 2025-03-15 |
 | [Oxygen](https://open.spotify.com/track/0xDR3F8eOQirXPWE5npmaO) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Oxygen](https://open.spotify.com/album/7q9RtrpQMUr7NclRPMcTfI) | 3:39 | 2023-04-12 | 2023-06-03 |

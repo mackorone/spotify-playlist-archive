@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Rombongan Bodonk Koplo, Ncum
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,815 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,897 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 14 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 15 | [P Ramlee Saloma](https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t) | [P Ramlee Saloma](https://open.spotify.com/album/7oCqvPcLCDWQ5Nxj5ZVVJN) | 3:18 |
 | 16 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 |
-| 17 | [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 |
-| 18 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 |
-| 19 | [Ingat](https://open.spotify.com/track/0QnyIDSjy366dQZjcHS2yF) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 3:35 |
+| 17 | [Ingat](https://open.spotify.com/track/0QnyIDSjy366dQZjcHS2yF) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [The Storm](https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6) | 3:35 |
+| 18 | [lowkey](https://open.spotify.com/track/2ABV2OYzFdpWsNTpMDLZaL) | [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Heil Nuan](https://open.spotify.com/artist/3BVptctlsxecpETrp0wpW5) | [lowkey](https://open.spotify.com/album/7ztS9ILcFuesq0fDeolS7r) | 3:37 |
+| 19 | [Aku Ada](https://open.spotify.com/track/5THepVv09GWpRYyaEIGPT4) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Aku Ada](https://open.spotify.com/album/7qIpOc3Ild13s6iDAapo5R) | 4:22 |
 | 20 | [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 |
 | 21 | [KOPI](https://open.spotify.com/track/2EWtkQdW9o8PtIbw0OqNMw) | [NAZU](https://open.spotify.com/artist/37MgONBWvDKXtHSnIo59dk), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [KOPI](https://open.spotify.com/album/5bqruzmuQMjI8YZXIv589g) | 2:54 |
 | 22 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 30 | [31.8.57](https://open.spotify.com/track/4pIFT7R6ULOClqYicCw7u8) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [31.8.57](https://open.spotify.com/album/7gAGvxB8zmyn1XHZCGP9Fn) | 3:12 |
 | 31 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
 | 32 | [Kita Usahakan Lagi](https://open.spotify.com/track/1wfbqUSPWbnPjkiBA9UmoF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Kita Usahakan Lagi](https://open.spotify.com/album/0gOmfHG7fEF7dq72Q7jl9q) | 3:53 |
-| 33 | [i don't like u \(but i love u\)](https://open.spotify.com/track/4tEkd3ta78WY2IRtRz3ou8) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [i don't like u \(but i love u\)](https://open.spotify.com/album/4I0lSg6mDyJStWrNBJrcCK) | 3:07 |
-| 34 | [妥协](https://open.spotify.com/track/4Hyikffe4OuecsMB6FtoNS) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [妥协](https://open.spotify.com/album/64E2Ch2AbXRG7UbJqjRTGo) | 4:19 |
-| 35 | [Menamakanmu Cinta](https://open.spotify.com/track/1QAwKDm1FPgoD2V6lLiKmC) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Menamakanmu Cinta](https://open.spotify.com/album/6bIOflYBZHvfWTG1niLv44) | 4:28 |
+| 33 | [Menamakanmu Cinta](https://open.spotify.com/track/1QAwKDm1FPgoD2V6lLiKmC) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Menamakanmu Cinta](https://open.spotify.com/album/6bIOflYBZHvfWTG1niLv44) | 4:28 |
+| 34 | [i don't like u \(but i love u\)](https://open.spotify.com/track/4tEkd3ta78WY2IRtRz3ou8) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [i don't like u \(but i love u\)](https://open.spotify.com/album/4I0lSg6mDyJStWrNBJrcCK) | 3:07 |
+| 35 | [妥协](https://open.spotify.com/track/4Hyikffe4OuecsMB6FtoNS) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [妥协](https://open.spotify.com/album/64E2Ch2AbXRG7UbJqjRTGo) | 4:19 |
 | 36 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 |
 | 37 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
 | 38 | [Tanya Tuhan](https://open.spotify.com/track/0hF04dFSA5eXncV1qg3mKl) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR), [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk) | [Tanya Tuhan](https://open.spotify.com/album/2UM02MbfJ57suVFhqFCpES) | 3:52 |

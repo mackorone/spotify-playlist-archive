@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "A collection of the best Metal covers out there. Cover: Bring Me The Horizon",
+  "description": "A collection of the best Metal covers out there. Cover: Lamb of God",
   "name": "Metal Covers",
   "tracks": [
     {
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Children of the Grave",
+        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287780,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
+    },
+    {
+      "album": {
         "name": "Nativity In Black: A Tribute To Black Sabbath",
         "url": "https://open.spotify.com/album/3UlxkwnznivcfY2FdxsnSu"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 226800,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 72467,
       "name": "EVIL J0RDAN - COVER",
       "url": "https://open.spotify.com/track/6SrUDOk7mUsdVKdvRTzIIW"
@@ -1186,6 +1204,24 @@
       "duration_ms": 298127,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/5nsTZrGlDYRJR5hkKXwYOM"
+    },
+    {
+      "album": {
+        "name": "Heart Shaped Box",
+        "url": "https://open.spotify.com/album/1ccPQcsxn49Lf5CGs0dZ6I"
+      },
+      "artists": [
+        {
+          "name": "A Killer's Confession",
+          "url": "https://open.spotify.com/artist/5zLrMhpswOj8Wk9EK1PTDM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290594,
+      "name": "Heart Shaped Box",
+      "url": "https://open.spotify.com/track/7g83tbChriBEh5VgTgVY3y"
     },
     {
       "album": {

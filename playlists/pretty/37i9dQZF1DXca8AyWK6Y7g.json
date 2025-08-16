@@ -1,12 +1,12 @@
 {
   "description": "WHO'S MY SALLY TONIGHT? ",
-  "num_followers": 1582066,
+  "num_followers": 1581987,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtV53T31LiBWc24T3kKeAheh79p",
+  "snapshot_id": "AAAAALL0mRrC4jGr6+0k649rwDThsHQM",
   "tracks": [
     {
       "added_at": "2025-02-14 05:00:41",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
+      "added_at": "2025-08-15 04:00:30",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "added_at": "2025-05-30 04:00:37",
+      "album": {
+        "name": "don't hold me accountable",
+        "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
+      },
+      "artists": [
+        {
+          "name": "Cil",
+          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+        }
+      ],
+      "duration_ms": 175290,
+      "name": "hot shit",
+      "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
+    },
+    {
       "added_at": "2025-08-08 04:35:43",
       "album": {
         "name": "Parody Of Pleasure",
@@ -39,22 +71,6 @@
       "duration_ms": 142730,
       "name": "The Bomb",
       "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
-    },
-    {
-      "added_at": "2025-07-25 04:01:01",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-08-08 04:35:43",
@@ -73,20 +89,52 @@
       "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
-      "added_at": "2025-05-30 04:00:37",
+      "added_at": "2025-08-15 13:50:11",
       "album": {
-        "name": "don't hold me accountable",
-        "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
+        "name": "Pigs Fly",
+        "url": "https://open.spotify.com/album/5VwfJrkLas04tu4Lwkixqz"
       },
       "artists": [
         {
-          "name": "Cil",
-          "url": "https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU"
+          "name": "billie-angela",
+          "url": "https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm"
         }
       ],
-      "duration_ms": 175290,
-      "name": "hot shit",
-      "url": "https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh"
+      "duration_ms": 144000,
+      "name": "Plan A (Dance)",
+      "url": "https://open.spotify.com/track/6tmV50auKhS4U7DTqnpicM"
+    },
+    {
+      "added_at": "2025-07-25 04:01:01",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-08-15 04:00:30",
+      "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/11daOULnDqGxMe7B6CTt8t"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Running Home",
+      "url": "https://open.spotify.com/track/2d0QRGVqmN3IunUZAHDUCU"
     },
     {
       "added_at": "2025-08-08 04:35:43",
@@ -135,6 +183,22 @@
       "duration_ms": 193466,
       "name": "Ego",
       "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
+    },
+    {
+      "added_at": "2025-08-15 04:00:30",
+      "album": {
+        "name": "No Really, I'm Good",
+        "url": "https://open.spotify.com/album/5uDgHAf5w9Z3AtkNAuqYMO"
+      },
+      "artists": [
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 157034,
+      "name": "No Really, I'm Good",
+      "url": "https://open.spotify.com/track/1GgdyKQ9WccwrKC8IbtNkt"
     },
     {
       "added_at": "2025-07-11 04:00:22",
@@ -579,22 +643,6 @@
       "duration_ms": 197655,
       "name": "21st Century Cool Girl",
       "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
-    },
-    {
-      "added_at": "2025-07-11 04:00:22",
-      "album": {
-        "name": "Jayden",
-        "url": "https://open.spotify.com/album/4laPsPzT4S2303LpAtLK5m"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "Jayden",
-      "url": "https://open.spotify.com/track/36LmIqVU6uZeucCfY1Tqgv"
     },
     {
       "added_at": "2025-06-27 04:00:43",
@@ -1453,22 +1501,6 @@
       "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
     },
     {
-      "added_at": "2025-05-16 04:00:12",
-      "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 208829,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
-    },
-    {
       "added_at": "2025-05-30 04:00:37",
       "album": {
         "name": "Girls Like You",
@@ -1565,26 +1597,6 @@
       "url": "https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1"
     },
     {
-      "added_at": "2025-02-07 05:00:35",
-      "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
-    },
-    {
       "added_at": "2025-02-28 05:07:44",
       "album": {
         "name": "Not At This Party",
@@ -1599,38 +1611,6 @@
       "duration_ms": 212437,
       "name": "Not At This Party",
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
-    },
-    {
-      "added_at": "2025-01-17 05:01:01",
-      "album": {
-        "name": "shoreline",
-        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 244473,
-      "name": "shoreline",
-      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "good luck, goodbye (over nostalgic edition)",
-        "url": "https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0"
-      },
-      "artists": [
-        {
-          "name": "Kenzie Cait",
-          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
-        }
-      ],
-      "duration_ms": 217241,
-      "name": "someday, someone",
-      "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
     },
     {
       "added_at": "2024-10-18 04:00:00",

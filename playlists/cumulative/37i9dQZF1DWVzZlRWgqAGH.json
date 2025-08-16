@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Mark Ronson, RAYE and music for your soul.",
+  "description": "THEHONESTGUY and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 126973,
       "name": "Art of War",
       "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
@@ -3370,7 +3370,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 365771,
       "name": "Big Man / Freedom - Live",
       "url": "https://open.spotify.com/track/79AmTzLaLBK8T36y26W5Rq"
@@ -6834,7 +6834,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp"
@@ -7634,7 +7634,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 196680,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/2tufVWmQEXjEnA3cB3m5T8"
@@ -14531,6 +14531,24 @@
     },
     {
       "album": {
+        "name": "In Our Sight",
+        "url": "https://open.spotify.com/album/1cAS2LMD5lfjq4jxhprxb6"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236813,
+      "name": "In Our Sight",
+      "url": "https://open.spotify.com/track/2Z6LKK4NITZealrsv6KROq"
+    },
+    {
+      "album": {
         "name": "In Punta Di Piedi (feat. Le Feste Antonacci)",
         "url": "https://open.spotify.com/album/3u4ctLYqhmGxkWSs3dznYc"
       },
@@ -15228,7 +15246,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 211510,
       "name": "JUNGLE FEVER",
       "url": "https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa"
@@ -18427,6 +18445,28 @@
     },
     {
       "album": {
+        "name": "Miss Black America",
+        "url": "https://open.spotify.com/album/3EyZXAu9zmBIotrbvGPpT8"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163024,
+      "name": "Miss Black America",
+      "url": "https://open.spotify.com/track/3lOnh5ByORm35L62fscThB"
+    },
+    {
+      "album": {
         "name": "Miss Your Body",
         "url": "https://open.spotify.com/album/0ihxNBCEii0F0uca2HtINC"
       },
@@ -18700,6 +18740,24 @@
       "duration_ms": 187557,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "album": {
+        "name": "MORE THAN A HOMIE",
+        "url": "https://open.spotify.com/album/1mJDMgJyr19JFmT0GxBCgT"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214265,
+      "name": "MORE THAN A HOMIE",
+      "url": "https://open.spotify.com/track/4LRzUc9qsLTwHhzXd8WaTI"
     },
     {
       "album": {
@@ -24947,6 +25005,24 @@
     },
     {
       "album": {
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190194,
+      "name": "SHINE YOUR LIGHT FOR WE",
+      "url": "https://open.spotify.com/track/6LKDFniziDLiGaWauLqzia"
+    },
+    {
+      "album": {
         "name": "SHOES (feat. Virgil Abloh)",
         "url": "https://open.spotify.com/album/2A0sj4krGmSoBLcbllOIhK"
       },
@@ -31096,6 +31172,40 @@
       "duration_ms": 164475,
       "name": "Weak - Mav's Version",
       "url": "https://open.spotify.com/track/3j6Zfk3H6v9IO6r48YdKVo"
+    },
+    {
+      "album": {
+        "name": "Wear and Tear",
+        "url": "https://open.spotify.com/album/5bolRHcWoIIET6qafkDUtT"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        },
+        {
+          "name": "Jah Wobble",
+          "url": "https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189135,
+      "name": "Wear and Tear",
+      "url": "https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI"
     },
     {
       "album": {

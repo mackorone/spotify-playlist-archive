@@ -2,9 +2,9 @@
 
 ### [Salsa Colombiana](https://open.spotify.com/playlist/37i9dQZF1DX18u16ebmQgx)
 
-> ¡Brillando baldosa! Foto: Mike Bahía
+> ¡Brillando baldosa! Foto: Carlos Vives, Grupo Niche
 
-138 songs - 10 hr 18 min
+140 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Caramelo](https://open.spotify.com/track/7FzYZso8aRnoE9gKDbauJA) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Bailando Salsa](https://open.spotify.com/album/7A9rMQU9AmTm9zST0SzHED) | 3:35 | 2022-06-24 | 2024-04-19 |
 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 | 2022-06-24 |  |
 | [Clásicos 1.0: Robando Sueños](https://open.spotify.com/track/3ZZeaTte2fAU5pyrxNy3ei) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0](https://open.spotify.com/album/4UcLZ4fbxbCj9LBYE5MuOl) | 3:54 | 2025-03-28 |  |
-| [Conmoción](https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM) | [Conmoción Orquesta](https://open.spotify.com/artist/2IStcUgrPfLfTXDjrhdjnd) | [La Cara del Gato](https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq) | 5:00 | 2022-06-24 |  |
+| [Conmoción](https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM) | [Conmoción Orquesta](https://open.spotify.com/artist/2IStcUgrPfLfTXDjrhdjnd) | [La Cara del Gato](https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq) | 5:00 | 2022-06-24 | 2025-08-16 |
 | [Curao en Salsa](https://open.spotify.com/track/1I70lW77TO4TbXAyAofPYy) | [Curao En Salsa](https://open.spotify.com/artist/6olL7cjgBRwpBZIphKCV5b) | [Salsa para el Bailador, Vol\. 1](https://open.spotify.com/album/7vqBHVKimf5ggc7PghVgMv) | 4:50 | 2022-06-24 |  |
 | [Dale al Bombo](https://open.spotify.com/track/43zdSGprJL0dg6cBQbwftd) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Historia de la Salsa en el Siglo XX \(Vol\. 3\)](https://open.spotify.com/album/5cteav4JbTG3fF1nSVkZVs) | 3:43 | 2023-08-04 |  |
 | [Dale al Bombo](https://open.spotify.com/track/7HFYqi1uV3xEK5cb0mOHsG) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [John Jairo Murillo](https://open.spotify.com/artist/4Sc7BeVNdVXKK6C6GfIso2) | [Discos Fuentes Collection](https://open.spotify.com/album/6htjT2LFUcEEL0U2bN2DB3) | 3:43 | 2022-06-24 | 2024-04-19 |
@@ -83,6 +83,7 @@
 | [La Salsa la Traigo Yo](https://open.spotify.com/track/5ljVAksVW3T7BUN3VvAxzB) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold Pelaez](https://open.spotify.com/artist/7dSzgAh9oy23FLoZQtjaH7) | [Al Son de los Cueros](https://open.spotify.com/album/54c38xGI5RK6XolTmY2RFD) | 4:19 | 2022-06-24 | 2024-04-19 |
 | [La Salsa la Traigo Yo](https://open.spotify.com/track/6UEKsdkhIyL5jjzFgdq7Ig) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold Pelaez](https://open.spotify.com/artist/7dSzgAh9oy23FLoZQtjaH7) | [Greatest Hits](https://open.spotify.com/album/1qKM5Xj81D0e8HRrIiMc5o) | 4:19 | 2022-06-24 | 2022-11-14 |
 | [La Semilla](https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys), [Marcial Istúriz](https://open.spotify.com/artist/3g4HfF9u5onPeMymTTPUNx) | [La Semilla](https://open.spotify.com/album/1nUMlgzPbxhdjGXOnm4r7K) | 4:53 | 2022-06-24 | 2025-03-28 |
+| [La Tierra del Olvido \- Versión Salsa](https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Tierra del Olvido \(Versión Salsa\)](https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx) | 4:22 | 2025-08-15 |  |
 | [La Única](https://open.spotify.com/track/4ecq0bpcAfBzdAwA20Sy5M) | [Juan Carlos Ensamble](https://open.spotify.com/artist/2D6mQmDTdaLcA9BZytb4yk) | [La Única](https://open.spotify.com/album/1SCjBabL3glZMAXCwqC5W7) | 2:57 | 2022-12-02 | 2023-09-16 |
 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/5Ru99vS2BaLyBCH1PXFiJo) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Grandes Hits \- Latin Brothers](https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq) | 3:52 | 2023-08-04 |  |
 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:57 | 2022-06-24 | 2024-04-19 |
@@ -97,6 +98,7 @@
 | [Micaela](https://open.spotify.com/track/6cFecmNzTj6MSV4aIYcCHg) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [Viejoteca en Tiempo de Salsa, Vol\. 6](https://open.spotify.com/album/02uyPWSIRRXGLmhsm6t5xR) | 4:44 | 2023-08-04 |  |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-06-24 | 2024-04-19 |
 | [Micaela](https://open.spotify.com/track/4fMzopYZnezYVCOADldvq7) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [Boogaloo Is Here](https://open.spotify.com/album/1SemOW7b7Wz8yEyQTmZ6p6) | 4:44 | 2022-06-24 | 2022-11-13 |
+| [Misterio](https://open.spotify.com/track/3DIkuC14QBUNNsdPkAl6MT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:48 | 2025-08-15 |  |
 | [Negrita](https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 4:00 | 2022-06-24 |  |
 | [Noche de Arreboles](https://open.spotify.com/track/0OwS05mubfyTnplfP8rMwu) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [32 Grandes Exitos](https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA) | 4:05 | 2022-06-24 |  |
 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 | 2022-06-24 | 2024-04-19 |
@@ -128,7 +130,7 @@
 | [Salsa](https://open.spotify.com/track/0pFLD8oIWPHDBgkPzINYcG) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Yo Soy](https://open.spotify.com/album/3PB2RhTronK7QGdyOdDaBs) | 4:28 | 2023-08-04 |  |
 | [Salsa](https://open.spotify.com/track/7ElA9eXX6zKtexObEeexHf) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Salsita Pal Corazón](https://open.spotify.com/album/5Sec49juKX7hXBWI6tz7j0) | 4:28 | 2022-06-24 | 2022-11-13 |
 | [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 | 2022-06-24 |  |
-| [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-11-29 |  |
+| [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-11-29 | 2025-08-16 |
 | [Si Yo Te Dije](https://open.spotify.com/track/3VpMDXyvUuBvlK49u2sKeE) | [Aguanile](https://open.spotify.com/artist/1hdKuH2r5ZyarRGZC6vsdA), [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn) | [Si Yo Te Dije](https://open.spotify.com/album/1UhSwKJnp9xYkdCvsBa7cU) | 4:07 | 2023-09-15 | 2024-07-13 |
 | [Sobre las Olas](https://open.spotify.com/track/6jly2CevRmnMbmU2R1cm1e) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Grandes Hits \- Latin Brothers](https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq) | 3:24 | 2023-08-04 |  |
 | [Sobre las Olas](https://open.spotify.com/track/0fSBpCMkoTvMFH41UlX1T5) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [Colección Oro de la Salsa, Vol\. 1](https://open.spotify.com/album/68vd86slpVQ4vk2Uzr3Fut) | 3:24 | 2022-06-24 | 2022-11-13 |

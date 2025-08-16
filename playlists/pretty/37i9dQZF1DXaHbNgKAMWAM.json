@@ -387,26 +387,6 @@
     {
       "added_at": "2025-08-12 06:58:48",
       "album": {
-        "name": "gimbap",
-        "url": "https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        },
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "romeo n juliet (feat. youra)",
-      "url": "https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws"
-    },
-    {
-      "added_at": "2025-08-12 06:58:48",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
       },
@@ -423,18 +403,22 @@
     {
       "added_at": "2025-08-12 06:58:48",
       "album": {
-        "name": "Our Unwritten Seoul (Original Soundtrack) Part.5",
-        "url": "https://open.spotify.com/album/0hCpITfrmFA8LaTKiSedgp"
+        "name": "gimbap",
+        "url": "https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp"
       },
       "artists": [
         {
-          "name": "dori",
-          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 270000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/56n3vNJ6S9vUJgcFxTnJ8l"
+      "duration_ms": 201080,
+      "name": "romeo n juliet (feat. youra)",
+      "url": "https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws"
     },
     {
       "added_at": "2025-08-12 06:58:48",
@@ -467,6 +451,22 @@
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2025-08-12 06:58:48",
+      "album": {
+        "name": "Our Unwritten Seoul (Original Soundtrack) Part.5",
+        "url": "https://open.spotify.com/album/0hCpITfrmFA8LaTKiSedgp"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/56n3vNJ6S9vUJgcFxTnJ8l"
     },
     {
       "added_at": "2025-08-12 06:58:48",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-08-12 06:58:48",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7HQTiQjKzpR4u88SfNkdOw"
-      },
-      "artists": [
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Us (prod. D.O)",
-      "url": "https://open.spotify.com/track/5edARuT05GkrWeFvcPM9As"
-    },
-    {
-      "added_at": "2025-08-12 06:58:48",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2025-08-12 06:58:48",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7HQTiQjKzpR4u88SfNkdOw"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Us (prod. D.O)",
+      "url": "https://open.spotify.com/track/5edARuT05GkrWeFvcPM9As"
     },
     {
       "added_at": "2025-08-12 06:58:48",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-08-12 06:58:48",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2025-08-12 06:58:48",
-      "album": {
         "name": "Trust in Me (Piano by Cho Youngsoo)",
         "url": "https://open.spotify.com/album/3bNYE2TxqWOeZiQW0KMaXy"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 241413,
       "name": "Trust in Me (Piano by Cho Youngsoo)",
       "url": "https://open.spotify.com/track/7DULpHxJUhahQYxHGXmwcp"
+    },
+    {
+      "added_at": "2025-08-12 06:58:48",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2025-08-12 06:58:48",

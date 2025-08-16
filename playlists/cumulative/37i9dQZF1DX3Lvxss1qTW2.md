@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover: Magixx
 
-473 songs - 21 hr 53 min
+474 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Avalay](https://open.spotify.com/track/57JrMpf7h96weuQz8rvJuK) | [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Avalay](https://open.spotify.com/album/6YdF793jc4usd4QUnfjThf) | 2:18 | 2024-06-28 | 2024-07-27 |
 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 | 2024-11-15 | 2025-03-29 |
 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 | 2024-08-30 | 2024-10-01 |
+| [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 |  |
 | [B.T.S {Burst Their Speakers}](https://open.spotify.com/track/0B9MUEcDmz5oWvDLPO9QXP) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [B.T.S {Burst Their Speakers}](https://open.spotify.com/album/1cuXQbiNsRvtSHpHnn302x) | 2:23 | 2025-08-01 | 2025-08-15 |
 | [Ba$tard, Don't Be Silly](https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:51 | 2024-06-28 | 2024-09-06 |
 | [Babcock](https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Babcock](https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L) | 2:23 | 2025-03-28 | 2025-05-30 |
@@ -165,7 +166,7 @@
 | [Forgive Me](https://open.spotify.com/track/6S2nSU6FmY2xCJFkh1lHER) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:54 | 2024-07-26 | 2024-09-20 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-28 | 2025-05-30 |
 | [Friday Night](https://open.spotify.com/track/6NfV8y0AyagUxnv1WTA5O2) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Friday Night](https://open.spotify.com/album/6Bb9LEeAQW6hw3fEuTz4Oc) | 2:20 | 2025-07-11 |  |
-| [From Softie to You \(Dey There\)](https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [From Softie to You \(Dey There\)](https://open.spotify.com/album/6oGKVPLpN29GUsfKT1zega) | 2:33 | 2025-05-16 |  |
+| [From Softie to You \(Dey There\)](https://open.spotify.com/track/0900x6zcJZ93gRi11xutc7) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [From Softie to You \(Dey There\)](https://open.spotify.com/album/6oGKVPLpN29GUsfKT1zega) | 2:33 | 2025-05-16 | 2025-08-16 |
 | [Fuji Garbage](https://open.spotify.com/track/7g31Io2YE8QGPPHIx14WHS) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Fuji Garbage](https://open.spotify.com/album/1pXLDgBGgSmlKz9l1KQV5T) | 2:41 | 2024-12-06 | 2024-12-22 |
 | [Gabaya](https://open.spotify.com/track/4mSRQspSNU7xkAuCtdhggi) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC) | [Gabaya](https://open.spotify.com/album/4LyY5dGgOvL0LzlT6NR4Wy) | 2:02 | 2025-06-27 |  |
 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 | 2025-06-20 |  |

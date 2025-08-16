@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1720805,
+  "num_followers": 1721022,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Pacha Ibiza - The House Collection (2000-2009)",
         "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
       },
@@ -1611,26 +1611,6 @@
       "duration_ms": 201413,
       "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
       "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "The Longest Road",
-        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
-      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1655,18 +1635,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
+        "name": "The Longest Road",
+        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
         }
       ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
+      "duration_ms": 239213,
+      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
+      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
-      },
-      "artists": [
-        {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Gone - Radio Edit",
-      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1767,6 +1751,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2mRezrqtiSjOdo902xAzyJ"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Gone - Radio Edit",
+      "url": "https://open.spotify.com/track/7okxXBe93gMNiXqOd6cCdU"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
       },
@@ -1795,6 +1795,22 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "What Hurts the Most - Radio Mix U.S.",
+      "url": "https://open.spotify.com/track/3OW3uDpM7mgLe3xU6EYX5q"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1835,22 +1851,6 @@
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/00vuTPggKkAZ4qGcsYE1zm"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "What Hurts the Most - Radio Mix U.S.",
-      "url": "https://open.spotify.com/track/3OW3uDpM7mgLe3xU6EYX5q"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        },
-        {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Another Place - Radio Edit",
-      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Love Has Gone (Remixes)",
         "url": "https://open.spotify.com/album/11gfmVEBzhaF8V9gnrbKwp"
       },
@@ -2123,6 +2103,26 @@
       "duration_ms": 401373,
       "name": "Love Has Gone - Fonzerelli Remix",
       "url": "https://open.spotify.com/track/4DAELRHy3hEpRwxLDOCqfq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Another Place - Radio Edit",
+      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
     },
     {
       "added_at": "2024-07-12 15:40:20",

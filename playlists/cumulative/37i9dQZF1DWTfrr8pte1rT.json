@@ -6889,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "New Levels New Devils",
+        "url": "https://open.spotify.com/album/2vjlI71jNRspIA9bH6R9IO"
+      },
+      "artists": [
+        {
+          "name": "Vastive",
+          "url": "https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236130,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/7g3cLta2W7pmhPpgUAuKm3"
+    },
+    {
+      "album": {
         "name": "Not Letting Go",
         "url": "https://open.spotify.com/album/3PmTpFfC6pLv98v8CJlUZV"
       },
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
@@ -10854,7 +10872,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
@@ -11188,6 +11206,36 @@
       "duration_ms": 199374,
       "name": "Years",
       "url": "https://open.spotify.com/track/2hwgLB5lv2AZrxAj9Q4Ywl"
+    },
+    {
+      "album": {
+        "name": "You Call Me Reckless",
+        "url": "https://open.spotify.com/album/77GBZv45BvxMeDEPaJgGX0"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        },
+        {
+          "name": "Life Awaits",
+          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195929,
+      "name": "You Call Me Reckless",
+      "url": "https://open.spotify.com/track/0GRhBpD36Iu7ur3fUUJgzN"
     },
     {
       "album": {

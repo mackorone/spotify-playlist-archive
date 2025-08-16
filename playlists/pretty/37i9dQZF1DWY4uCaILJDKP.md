@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 103 | [ナイス！ライス！スマイル！](https://open.spotify.com/track/0PMcPmVEG7d6qUNawJ5LC7) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [ナイス！ライス！スマイル！](https://open.spotify.com/album/3em0CCyMaXYruR2Lh1gLVb) | 3:25 |
 | 104 | [推しクラまんじゅう](https://open.spotify.com/track/6QOEgrgWl0KCPl7Fx0B0S4) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [推しクラまんじゅう](https://open.spotify.com/album/2h6fq90puoUhBfglXqebne) | 3:53 |
 
-Snapshot ID: `AAAAAJXeGAGr8fA+kwrEv9IEcSFaX0fE`
+Snapshot ID: `AAAAADrNi/dXZ9E68k1f5TsndSj4BSyI`

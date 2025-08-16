@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,768 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,773 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 8 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 |
 | 9 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 10 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
-| 11 | [L'Anno Che Verrà](https://open.spotify.com/track/2buPtPaKomtwoT8YvxO13f) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 4:26 |
-| 12 | [Il pescatore](https://open.spotify.com/track/0i4mLwfyxnSSgF6hwIkU2L) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Fabrizio De André Opere Complete](https://open.spotify.com/album/4O3H3CcqEyK7J5T7rhVf72) | 2:20 |
+| 11 | [Il pescatore](https://open.spotify.com/track/0i4mLwfyxnSSgF6hwIkU2L) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Fabrizio De André Opere Complete](https://open.spotify.com/album/4O3H3CcqEyK7J5T7rhVf72) | 2:20 |
+| 12 | [L'Anno Che Verrà](https://open.spotify.com/track/2buPtPaKomtwoT8YvxO13f) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 4:26 |
 | 13 | [Fiori rosa, fiori di pesco](https://open.spotify.com/track/51Z0G9wCaGl2pcBISoJu9x) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Emozioni](https://open.spotify.com/album/6C91Sp5eJ1LPEFuSoEf5vw) | 3:12 |
 | 14 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
 | 15 | [The Sound of Silence \- Electric Version](https://open.spotify.com/track/2YplrdHMBoRdnHgMeHEwHm) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 3:05 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 29 | [Io Sono Francesco](https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga) | [Tricarico](https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2) | [Tricarico](https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG) | 4:07 |
 | 30 | [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 |
 | 31 | [La cura](https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz), [Amara](https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb) | [Quando sarai piccola](https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm) | 3:45 |
-| 32 | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d), [Neri Per Caso](https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q) | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz) | 3:21 |
-| 33 | [Che Cosa c'è](https://open.spotify.com/track/222NjdAmBVfJetuG6aggiC) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 2:38 |
+| 32 | [Che Cosa c'è](https://open.spotify.com/track/222NjdAmBVfJetuG6aggiC) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 2:38 |
+| 33 | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d), [Neri Per Caso](https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q) | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz) | 3:21 |
 | 34 | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI) | 3:28 |
 | 35 | [Angelo](https://open.spotify.com/track/6RDWdgnE3jYqVWQqrFlTgk) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Angelo](https://open.spotify.com/album/2vsfijbIztEAJ6D2TG9dYg) | 3:25 |
 | 36 | [Tutto il resto è noia \(feat\. Tony Effe\)](https://open.spotify.com/track/2PmuzC0gr5Za1ubhKV5r0d) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Nostalgia](https://open.spotify.com/album/6awhjqs3acQA1WAYrsAPs6) | 2:21 |

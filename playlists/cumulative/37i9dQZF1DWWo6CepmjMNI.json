@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: rubberstamp",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TWODAYS",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -974,10 +974,28 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 243076,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e08\u0e30\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01\u0e15\u0e25\u0e2d\u0e14\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/5IsuBsJjpErpS8ZGtvcSVO"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e17\u0e33\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/3JmGQz8oMdmtKrviXbQ3OP"
+      },
+      "artists": [
+        {
+          "name": "TWODAYS",
+          "url": "https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e08\u0e30\u0e17\u0e33\u0e23\u0e49\u0e32\u0e22\u0e01\u0e31\u0e19\u0e44\u0e1b\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/1e8OYH9bDLfCFtLhKMn3Kj"
     },
     {
       "album": {
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 300000,
       "name": "\u0e04\u0e07\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23 (ok)",
       "url": "https://open.spotify.com/track/3Uzn9sjceYOxR6fQD45KyG"
@@ -1230,6 +1248,24 @@
       "duration_ms": 198088,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e01\u0e36\u0e48\u0e07\u0e2a\u0e33\u0e40\u0e23\u0e47\u0e08\u0e23\u0e39\u0e1b",
       "url": "https://open.spotify.com/track/65pifvWSgPeukXKWOA7y7X"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e41\u0e25\u0e30\u0e01\u0e32\u0e25\u0e40\u0e27\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/0YBTEplsEGWcdzIul9m5gT"
+      },
+      "artists": [
+        {
+          "name": "Bluedream",
+          "url": "https://open.spotify.com/artist/0KFHTUubhWrWJ3IBGyQ6vS"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408036,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e41\u0e25\u0e30\u0e01\u0e32\u0e25\u0e40\u0e27\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/0ZCkY4XP9bq56S1xayQzmW"
     },
     {
       "album": {
@@ -1554,7 +1590,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 282976,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/0ayDqcjc5Sif6k0BozklKN"
@@ -2556,7 +2592,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 229000,
       "name": "\u0e21\u0e34\u0e16\u0e38\u0e19\u0e32 (Amygdala)",
       "url": "https://open.spotify.com/track/25GbVBQ3uetWjmMIaZAJN3"
@@ -3003,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e1a\u0e2a\u0e32\u0e22\u0e15\u0e32 (Your Eyes)",
+        "url": "https://open.spotify.com/album/6Fr4UeZWQugS5g31UPm9WS"
+      },
+      "artists": [
+        {
+          "name": "TOR.NUETUN",
+          "url": "https://open.spotify.com/artist/6Vr9XDktpy7W5S3NhSmcpq"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303025,
+      "name": "\u0e2a\u0e1a\u0e2a\u0e32\u0e22\u0e15\u0e32 (Your Eyes)",
+      "url": "https://open.spotify.com/track/5wN67YVsTI4xFWddtmCaEU"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e08\u0e30\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e1d\u0e19 (It will rain)",
         "url": "https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS"
       },
@@ -3018,6 +3072,28 @@
       "duration_ms": 260084,
       "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e08\u0e30\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e1d\u0e19 (It will rain)",
       "url": "https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07",
+        "url": "https://open.spotify.com/album/4SvTTGi0gRbZq894bmYzCz"
+      },
+      "artists": [
+        {
+          "name": "Something Sweet",
+          "url": "https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX"
+        },
+        {
+          "name": "WHATFALSE)",
+          "url": "https://open.spotify.com/artist/1oKUUKTRXdkOTRnVRlwuRh"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239125,
+      "name": "\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/5PwxUIurBN6rV4DTfaVyYx"
     },
     {
       "album": {
@@ -3266,7 +3342,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 294886,
       "name": "\u0e2d\u0e19\u0e31\u0e19\u0e15\u0e01\u0e32\u0e25",
       "url": "https://open.spotify.com/track/1Q8mMXizYlIL3uE3klZPkT"
@@ -4358,6 +4434,28 @@
       "duration_ms": 295842,
       "name": "\u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e08\u0e30\u0e14\u0e32\u0e27\u0e14\u0e27\u0e07\u0e44\u0e2b\u0e19 (Under any star)",
       "url": "https://open.spotify.com/track/6BhCYlMoARieAdhSQVJj2M"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b (Before u go)",
+        "url": "https://open.spotify.com/album/6pf3J33KdDrfIdbizm0Qjj"
+      },
+      "artists": [
+        {
+          "name": "Plantpot",
+          "url": "https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R"
+        },
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/0EubXtpso45245tzrMHtKZ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e2b\u0e32\u0e22\u0e44\u0e1b (Before u go)",
+      "url": "https://open.spotify.com/track/6Q1eZLRcZsU6LEK5r1LgN0"
     },
     {
       "album": {

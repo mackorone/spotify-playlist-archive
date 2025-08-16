@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 111764,
       "name": "BANDIDO",
       "url": "https://open.spotify.com/track/5UUMUv9LSQRFTtBj3asJI8"
@@ -2942,6 +2942,28 @@
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "album": {
+        "name": "Envuelto en Llamas",
+        "url": "https://open.spotify.com/album/4H4Ch6gwAVOAk1WCcyMw2H"
+      },
+      "artists": [
+        {
+          "name": "Los Wachiturros",
+          "url": "https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo"
+        },
+        {
+          "name": "Gonza BR",
+          "url": "https://open.spotify.com/artist/6vo2878nQ08o3wpZVTXc15"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Envuelto En Llamas",
+      "url": "https://open.spotify.com/track/0L0bEJeoIATJfL4vlckNps"
     },
     {
       "album": {

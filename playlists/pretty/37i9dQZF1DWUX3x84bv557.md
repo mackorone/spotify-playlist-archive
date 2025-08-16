@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop! Nieuw: Ruben Annink & Danique \(cover\), Nielson, Emma Heesters en meer...
+> Frisse Nederlandse pop: LUNA & Russo \(cover\), Pommelien Thijs, Ruben Annink & Danique en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,567 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,603 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

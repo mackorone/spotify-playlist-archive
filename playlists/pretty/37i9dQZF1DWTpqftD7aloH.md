@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,357 likes - 120 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,472 likes - 120 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Medley Coração Igual ao Teu \- Ao Vivo](https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Helena Tannure](https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5), [João Lúcio Tannure](https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe) | [Medley Coração Igual ao Teu \(Ao Vivo\)](https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK) | 7:17 |
 | 120 | [Convém Que Tú Cresças \- Ao Vivo](https://open.spotify.com/track/53dg2QHNItiUTDzETTZBLx) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Morelzinho](https://open.spotify.com/artist/1GI7OMBkCGuM25mxweZeyY) | [Rahamim \(Ao Vivo\)](https://open.spotify.com/album/7thffmU6YnyXOowuno3vhN) | 6:30 |
 
-Snapshot ID: `AAAAAI6IE14VT5/GeZlyb+VsaaZ9yrke`
+Snapshot ID: `AAAAAP375axpc2ZPxDUwE314II2JkrZE`

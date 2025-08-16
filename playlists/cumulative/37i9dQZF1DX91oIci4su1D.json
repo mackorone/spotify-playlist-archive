@@ -1684,6 +1684,24 @@
     {
       "album": {
         "name": "Ascend",
+        "url": "https://open.spotify.com/album/1lbWbT7G4YUQAN7TUIsWMq"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/52QYnyhOTbk9ICVCSQkUBd"
+    },
+    {
+      "album": {
+        "name": "Ascend",
         "url": "https://open.spotify.com/album/1eOd6pPjaUdoKqY39dhxch"
       },
       "artists": [
@@ -2551,6 +2569,28 @@
     },
     {
       "album": {
+        "name": "Bigger Than All Of Us (Club Mix)",
+        "url": "https://open.spotify.com/album/66SVqoxHHXUfLBoj5vCv9U"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228797,
+      "name": "Bigger Than All Of Us - Above & Beyond Club Mix",
+      "url": "https://open.spotify.com/track/3BvKrvifBeTAsKlQSTAOv1"
+    },
+    {
+      "album": {
         "name": "Birds of A Feather",
         "url": "https://open.spotify.com/album/4qhdgJc85N7KSulzmRgZAM"
       },
@@ -2798,7 +2838,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 174000,
       "name": "Blue Java",
       "url": "https://open.spotify.com/track/1ViDAynqPwS9NB2OylS5tF"
@@ -4032,7 +4072,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-16",
       "duration_ms": 230000,
       "name": "Cicero",
       "url": "https://open.spotify.com/track/5rWTEexNPxNkDVvPiD9q6C"
@@ -9419,6 +9459,28 @@
     },
     {
       "album": {
+        "name": "Have Me (If You Want Me Too)",
+        "url": "https://open.spotify.com/album/6h1GkjgJKgu97nQ9Zd68U8"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177116,
+      "name": "Have Me (If You Want Me Too)",
+      "url": "https://open.spotify.com/track/0dZiD65nVUS5eeuowSpmNo"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/5rTItOZIS3XGkqOryZeGqt"
       },
@@ -9562,6 +9624,28 @@
       "duration_ms": 208124,
       "name": "Heart Of Stone",
       "url": "https://open.spotify.com/track/7qt3LDpwGFYtkZyefJlwG6"
+    },
+    {
+      "album": {
+        "name": "Heart On The Line",
+        "url": "https://open.spotify.com/album/3ZvI4JBS12Mc6sfiyqvAj5"
+      },
+      "artists": [
+        {
+          "name": "Steve Brian",
+          "url": "https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf"
+        },
+        {
+          "name": "talkofthetown",
+          "url": "https://open.spotify.com/artist/7yVhJ72pRD1ccDcIYyK02C"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Heart On The Line",
+      "url": "https://open.spotify.com/track/4I0OrfavQmANTFNUKvjbZS"
     },
     {
       "album": {
@@ -10332,6 +10416,24 @@
       "duration_ms": 228043,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/0OR1XuIrLuCF52kDXdhMPf"
+    },
+    {
+      "album": {
+        "name": "I See / Take Me Away",
+        "url": "https://open.spotify.com/album/7nVd2JRTaWtYDv8dSsNF3H"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "I See",
+      "url": "https://open.spotify.com/track/28W88vK7c1nKjAUPik9jPc"
     },
     {
       "album": {
@@ -13113,6 +13215,28 @@
     },
     {
       "album": {
+        "name": "Love Resurrection",
+        "url": "https://open.spotify.com/album/5GrYNnb7WlnDuI4XOShmLk"
+      },
+      "artists": [
+        {
+          "name": "Chris Element",
+          "url": "https://open.spotify.com/artist/691AHfFj6AWjhxsHBt4npM"
+        },
+        {
+          "name": "Tara Louise",
+          "url": "https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Love Resurrection",
+      "url": "https://open.spotify.com/track/5mM4HhMpFGJTaIXMqc3LJH"
+    },
+    {
+      "album": {
         "name": "Solarstone presents Pure Trance Vol. 9 (mixed by Solarstone and Stoneface & Terminal)",
         "url": "https://open.spotify.com/album/4ykzHbhg9DL5q1xAECvX3I"
       },
@@ -14638,6 +14762,24 @@
       "duration_ms": 249565,
       "name": "Need To Feel Loved",
       "url": "https://open.spotify.com/track/4SdHIbH7OmWuOYunj5BWtm"
+    },
+    {
+      "album": {
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/6kvnJ5pmiCBpoip8MAPhF0"
+      },
+      "artists": [
+        {
+          "name": "Tommy Holohan",
+          "url": "https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309000,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/1zVQwQxsAluE0ZWbAz5jix"
     },
     {
       "album": {
