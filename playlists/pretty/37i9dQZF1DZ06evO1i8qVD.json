@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 36975,
+  "num_followers": 36980,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADkwMmwwLv2ECYhy7fWWAWk",
+  "snapshot_id": "aJ54gAAAAAChq3q+Xs7l3bZPZHi4tXw1",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "What Kind Of Woman Is This?",
-      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 242280,
       "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "What Kind Of Woman Is This?",
+      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     },
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -595,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
@@ -604,13 +624,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+      "duration_ms": 219240,
+      "name": "Blue No More (feat. James Bay)",
+      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -647,26 +667,6 @@
       "duration_ms": 224280,
       "name": "One Day Away (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "Blue No More (feat. James Bay)",
-      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Blues Is That (feat. Joe Walsh)",
-        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "How Blues Is That (feat. Joe Walsh)",
-      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 236466,
       "name": "Good Morning Schoolgirl",
       "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Blues Is That (feat. Joe Walsh)",
+        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "How Blues Is That (feat. Joe Walsh)",
+      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 276293,
-      "name": "All That Makes Me Happy Is the Blues",
-      "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
+      "duration_ms": 314026,
+      "name": "The Devil's Daughter",
+      "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
     },
     {
       "added_at": null,
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 314026,
-      "name": "The Devil's Daughter",
-      "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
+      "duration_ms": 276293,
+      "name": "All That Makes Me Happy Is the Blues",
+      "url": "https://open.spotify.com/track/7hsbxGPIEBr9G2wP9cTO2L"
     }
   ],
   "unique_name": "This Is Buddy Guy",

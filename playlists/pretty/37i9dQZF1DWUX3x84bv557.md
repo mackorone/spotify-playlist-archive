@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop: LUNA & Russo \(cover\), Pommelien Thijs, Ruben Annink & Danique en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,603 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,600 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 3:01 |
+| 1 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
 | 2 | [Ben je klaar?](https://open.spotify.com/track/5Zj0gTZAjXSHAaSxVtFVlq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Ben je klaar?](https://open.spotify.com/album/1t75WIdwiHc9qTvv50RYRA) | 3:40 |
 | 3 | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo) | [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Blijf Dan Hier \(feat\. Danique\)](https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv) | 2:14 |
 | 4 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 |

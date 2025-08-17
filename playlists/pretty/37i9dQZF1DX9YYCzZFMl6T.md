@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,506 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,520 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 32 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
 | 33 | [Christmas Tree in the Window](https://open.spotify.com/track/0yvWyeKe1Og8DDprkEv8gS) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Christmas Tree in the Window](https://open.spotify.com/album/2rwOJbEi8XzqrNHPl705ES) | 4:24 |
 | 34 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 |
-| 35 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
-| 36 | [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 |
+| 35 | [Under the Mistletoe!](https://open.spotify.com/track/74YpSfHQSct8wznkHopETX) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ronnie Spector](https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj) | [Under the Mistletoe!](https://open.spotify.com/album/7JIwLbalAQ20uJEjbMf8aZ) | 2:42 |
+| 36 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
 | 37 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
 | 38 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
 | 39 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 45 | [Winter Wonderland](https://open.spotify.com/track/39KIuW3VSBGZMo4aiKOzMr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Winter Wonderland](https://open.spotify.com/album/6H69IpUOiZqIYZ9W529Hfy) | 3:38 |
 | 46 | [Fishing for Christmas](https://open.spotify.com/track/7mu6D5qqardVZkxdkIqXFG) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Fishing for Christmas](https://open.spotify.com/album/4l2InyeRp1418Unpbjac3c) | 4:16 |
 | 47 | [Christmas Everywhere](https://open.spotify.com/track/47RGDPSLWuczgwKM2kL2KY) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Christmas Everywhere](https://open.spotify.com/album/0ItLsaVhF3zZavq6lzUGyl) | 3:22 |
-| 48 | [Merry Christmas Wherever You Are](https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0) | 3:01 |
-| 49 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 |
+| 48 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7GnQsPZ4C4mecUcglkUJgr) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0Lt81n1P5yl3I35EbUrvd3) | 3:28 |
+| 49 | [Merry Christmas Wherever You Are](https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Merry Christmas Wherever You Are](https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0) | 3:01 |
 | 50 | [Wonderful Christmastime](https://open.spotify.com/track/79JkCtAeosUtWlgheu6sAj) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:03 |
 
 Snapshot ID: `AAAAAFd8FvSfMIGyTQEI+5FlgvXgh5+n`

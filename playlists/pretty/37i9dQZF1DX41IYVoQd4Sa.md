@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : רועי ריק
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,382 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,388 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 36 | [Grow](https://open.spotify.com/track/1HiflKZ1j4EbduV5pSPEhF) | [Lia D'sau](https://open.spotify.com/artist/7F1pxS8QveIS1n1ggy1i6R), [Tom Meira Armony](https://open.spotify.com/artist/0oj8hNnM00zzw4PPoWl4TK) | [Grow](https://open.spotify.com/album/5oCzUFXe0IiACt29jaIAH6) | 3:47 |
 | 37 | [Running Out of Time](https://open.spotify.com/track/1KUEdMf6Xnzax3U51jQlrE) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Danny Kuttner](https://open.spotify.com/artist/7JQoDD1lpEKouUMyh9yIFH) | [Running Out of Time](https://open.spotify.com/album/2DgobiB87KuMBbLwVkZIMW) | 3:00 |
 | 38 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |
-| 39 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
-| 40 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
-| 41 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
-| 42 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 39 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
+| 40 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
+| 41 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 42 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 43 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
 | 44 | [אביגיל](https://open.spotify.com/track/70TuLyNWVlEj0SYi9cHGHj) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB) | [אביגיל](https://open.spotify.com/album/5tqQPNRAfgpzLitYK1xuPt) | 4:11 |
 | 45 | [את כבר לא איתי](https://open.spotify.com/track/1vXEkrj2fvnyjfPl9XaoNW) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [את כבר לא איתי](https://open.spotify.com/album/4B1ceipHIibHQUXUZ6JSP6) | 3:15 |

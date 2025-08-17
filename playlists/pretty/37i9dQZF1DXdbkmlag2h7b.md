@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668,882 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 668,922 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 19 | [Apogee](https://open.spotify.com/track/3nCjMRvyfq0wgR3hDcAcWb) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Apogee](https://open.spotify.com/album/5xrbFlHe5YxRFctRbWyzmq) | 2:47 |
 | 20 | [Aspire](https://open.spotify.com/track/4QOXTDBIYl5Kzblrv4LrRv) | [Karim Diaz](https://open.spotify.com/artist/6PYmLrxgwgHBjWexkXGmgK) | [Aspire](https://open.spotify.com/album/7mfLZZbZe6hH81ul9NNNIQ) | 2:30 |
 | 21 | [Alya](https://open.spotify.com/track/6lcAqMJXbjrCFwOJV5V1Gy) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Alya](https://open.spotify.com/album/53WAoOHSDwfkFoDWZuZcq2) | 3:20 |
-| 22 | [Elementary](https://open.spotify.com/track/5T3RgzkKqFZCDvKD1COCvG) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Elementary](https://open.spotify.com/album/4ZrhQ6nrneKjveFdTKcpjK) | 3:08 |
-| 23 | [Bother To Care](https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Bother To Care](https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo) | 3:10 |
-| 24 | [Within Light](https://open.spotify.com/track/10UgsXGEFjEMAOYDGmxvZM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Within Light](https://open.spotify.com/album/0llAwfdqzKLSPQlSpeHCEC) | 2:40 |
+| 22 | [Within Light](https://open.spotify.com/track/10UgsXGEFjEMAOYDGmxvZM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Within Light](https://open.spotify.com/album/0llAwfdqzKLSPQlSpeHCEC) | 2:40 |
+| 23 | [Elementary](https://open.spotify.com/track/5T3RgzkKqFZCDvKD1COCvG) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Elementary](https://open.spotify.com/album/4ZrhQ6nrneKjveFdTKcpjK) | 3:08 |
+| 24 | [Bother To Care](https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Bother To Care](https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo) | 3:10 |
 | 25 | [Orbital Oasis](https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Orbital Oasis](https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu) | 3:07 |
 | 26 | [Calm Retreat](https://open.spotify.com/track/0b0xU3Qgi88KHTduT89d6N) | [Diphthong](https://open.spotify.com/artist/6rFQdN2p2yfZ9rk88nKYTY) | [Calm Retreat](https://open.spotify.com/album/6quDXt0rHWUURagbWIKIAK) | 2:56 |
 | 27 | [Celestial](https://open.spotify.com/track/1FPjiDSqB5qYzLy77eQqMU) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Celestial](https://open.spotify.com/album/42vrYOv2bbFPQp9pku4loa) | 2:51 |
@@ -68,11 +68,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 58 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 |
 | 59 | [Healing State](https://open.spotify.com/track/01bdjWszWID47jX6HZ8iNJ) | [Johan Davidsson](https://open.spotify.com/artist/0i70m6QJcItJ6uOmxZwuWi) | [Healing State](https://open.spotify.com/album/7tqTYLioSmQA1QZeCqupqU) | 4:29 |
 | 60 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
-| 61 | [From Another View](https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W) | [Salvation Hildersham](https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN) | [From Another View](https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi) | 2:58 |
+| 61 | [6 Figures](https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [6 Figures](https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW) | 3:05 |
 | 62 | [Vila](https://open.spotify.com/track/3v7Wc8Z5Z1HuZPleTT9E0m) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Vila](https://open.spotify.com/album/0AYjEP6XYekv2ghPhe3Fws) | 3:15 |
-| 63 | [6 Figures](https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [6 Figures](https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW) | 3:05 |
-| 64 | [Downing](https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Downing](https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM) | 3:09 |
-| 65 | [At Last, The Sun](https://open.spotify.com/track/4Zw5XvWWG0RcMZrCexbgTR) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [At Last, The Sun](https://open.spotify.com/album/7e3Z92QeOzqJoPJzkoRxM6) | 3:37 |
+| 63 | [Downing](https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Downing](https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM) | 3:09 |
+| 64 | [At Last, The Sun](https://open.spotify.com/track/4Zw5XvWWG0RcMZrCexbgTR) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [At Last, The Sun](https://open.spotify.com/album/7e3Z92QeOzqJoPJzkoRxM6) | 3:37 |
+| 65 | [From Another View](https://open.spotify.com/track/57j4uWKtFJVGMvxic5XU3W) | [Salvation Hildersham](https://open.spotify.com/artist/2jb9AEBAA0ZagaymcZsLiN) | [From Another View](https://open.spotify.com/album/0GzzVS6eaJUgouC806LQRi) | 2:58 |
 | 66 | [Sighflow](https://open.spotify.com/track/4SMiHZ1GLqQn20ANwYDbZm) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Sighflow](https://open.spotify.com/album/1avfK96H7mThKNJaFTfD9L) | 3:50 |
 | 67 | [Fusion Dream](https://open.spotify.com/track/5MQIP4uIEs5oECSjj8Fjrb) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Fusion Dream](https://open.spotify.com/album/5v24oFKT1kZmZVYk4ZJJyN) | 3:43 |
 | 68 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 77 | [One Sky](https://open.spotify.com/track/39ON6mVu7zBZj16q1WDUqr) | [øchd](https://open.spotify.com/artist/44xr4MsX6T1FB5wUxRRExQ) | [One Sky](https://open.spotify.com/album/6KRRLpyVDi5aXtwKOKYcYL) | 2:30 |
 | 78 | [Sleeping Journey](https://open.spotify.com/track/4DpAoSHyiWV5m3cUKTcvjN) | [Wherewithal](https://open.spotify.com/artist/4nPbqrPiwJp1Zlrfvw2XIM) | [Sleeping Journey](https://open.spotify.com/album/3bWi4zMrLtceOUcubv6p01) | 2:29 |
 | 79 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
-| 80 | [Sampadan](https://open.spotify.com/track/1wUpOQbHQStS91migVQa8p) | [Slumber Harmony](https://open.spotify.com/artist/4tzF0JSYPIoWAUZo1zRQDn) | [Sampadan](https://open.spotify.com/album/5drJguDDuDK4AHHXCCRH5t) | 3:21 |
-| 81 | [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 |
-| 82 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 |
+| 80 | [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 |
+| 81 | [Libero](https://open.spotify.com/track/5pWWLk03VKmzHE8bgDczyx) | [André Calmaz](https://open.spotify.com/artist/6wMD854zzb5SpQuyjAQLht) | [Evanescenza](https://open.spotify.com/album/0YeEbaafXj7QU1rY5Rn2KK) | 3:06 |
+| 82 | [Sampadan](https://open.spotify.com/track/1wUpOQbHQStS91migVQa8p) | [Slumber Harmony](https://open.spotify.com/artist/4tzF0JSYPIoWAUZo1zRQDn) | [Sampadan](https://open.spotify.com/album/5drJguDDuDK4AHHXCCRH5t) | 3:21 |
 | 83 | [Nebulae](https://open.spotify.com/track/7nbFzKcMFQETEjOYWiAOhc) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Nebulae](https://open.spotify.com/album/2Z7IBmw0mk0FQQGauqCXbz) | 2:42 |
-| 84 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
-| 85 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 |
+| 84 | [Even Silence](https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r) | [Sadia Leys](https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK) | [Even Silence](https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj) | 2:20 |
+| 85 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
 | 86 | [Kadunud Taevasse](https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU) | [Kikolu](https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5) | [Kadunud Taevasse](https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA) | 3:00 |
 | 87 | [Myriads](https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Myriads](https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr) | 2:55 |
 | 88 | [Anagogical](https://open.spotify.com/track/71HsC2geq7IBZq5yV9AbCQ) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Anagogical](https://open.spotify.com/album/0RqpBaIJtIO4G1177lsBXc) | 2:27 |

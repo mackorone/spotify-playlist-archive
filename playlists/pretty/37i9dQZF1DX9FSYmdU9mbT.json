@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1432197,
+  "num_followers": 1432530,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Elis (Remastered)",
-        "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 171530,
-      "name": "Casa No Campo - Remastered 2021",
-      "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Couvert Art\u00edstico JB FM: Fagner",
         "url": "https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 276480,
       "name": "Noturno (Cora\u00e7\u00e3o Alado)",
       "url": "https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Elis (Remastered)",
+        "url": "https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 171530,
+      "name": "Casa No Campo - Remastered 2021",
+      "url": "https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ"
     },
     {
       "added_at": "2025-05-30 05:19:13",

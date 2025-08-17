@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,493 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,520 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 47 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 |
 | 48 | [The Funeral \- Acoustic](https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer) | 3:33 |
 | 49 | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH) | 2:27 |
-| 50 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
-| 51 | [Look At Us Now \(Honeycomb\) \- Acoustic Demo](https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\) \[Acoustic Demo\]](https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9) | 3:51 |
+| 50 | [Look At Us Now \(Honeycomb\) \- Acoustic Demo](https://open.spotify.com/track/4DuGcxb3gRaefxya5lBYzb) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Look At Us Now \(Honeycomb\) \[Acoustic Demo\]](https://open.spotify.com/album/49p1GJegoFfu4I1ltBmgY9) | 3:51 |
+| 51 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
 | 52 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
 | 53 | [abcdefu \(chill\)](https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(chill\)](https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0) | 2:56 |
 | 54 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |

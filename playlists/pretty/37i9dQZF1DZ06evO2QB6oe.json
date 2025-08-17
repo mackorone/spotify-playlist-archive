@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 69362,
+  "num_followers": 69372,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAAgvtQAFnp8XBtyA1KFNZwi",
+  "snapshot_id": "aJ54gAAAAAB52t7FCmFQYFZjqPQ0jvFp",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 218444,
-      "name": "Donde Hubo Amor",
-      "url": "https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2"
+      "duration_ms": 174917,
+      "name": "Buena Suerte",
+      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
     },
     {
       "added_at": null,
@@ -431,42 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 174917,
-      "name": "Buena Suerte",
-      "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iko Iko (My Bestie) (feat. Small Jam)",
         "url": "https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 175586,
       "name": "Iko Iko (My Bestie) (feat. Small Jam)",
       "url": "https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 218444,
+      "name": "Donde Hubo Amor",
+      "url": "https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 192169,
+      "name": "Bandera Blanca",
+      "url": "https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 178285,
       "name": "Jard\u00edn",
       "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 192169,
-      "name": "Bandera Blanca",
-      "url": "https://open.spotify.com/track/3NNR3dPoW2B0M8HEM66TEo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Relive the good ol' days with these 60s and 70s classics.",
-  "num_followers": 681474,
+  "num_followers": 681495,
   "original_name": "Happy Days",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-02-10 18:28:49",
       "album": {
-        "name": "Look At Us",
-        "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
-    },
-    {
-      "added_at": "2025-02-10 18:28:49",
-      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2025-02-10 18:28:49",
+      "album": {
+        "name": "Look At Us",
+        "url": "https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
     },
     {
       "added_at": "2025-02-10 18:28:49",

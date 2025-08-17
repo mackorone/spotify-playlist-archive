@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-918 songs - 2 day 12 hr 27 min
+919 songs - 2 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [33歳のエンディングノート](https://open.spotify.com/track/73qhEfQwAu558SHaGcnjyX) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Little Woman](https://open.spotify.com/album/4MOwIbt4OSBrLRGw4Bmhu6) | 4:17 | 2022-05-24 | 2023-11-11 |
 | [360](https://open.spotify.com/track/7GAgIge6v6N5KH1lsC4Ikx) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [360](https://open.spotify.com/album/7BKGNG6K7fUTDCN9GdKbae) | 4:11 | 2023-04-25 | 2023-05-31 |
 | [3号線](https://open.spotify.com/track/300DoYpld1TAIHrAodgpnX) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Yasuyuki Horigome](https://open.spotify.com/artist/1HWivlGf6KbIyxhTlTAlnj) | [3号線 \(feat\. 堀込泰行\)](https://open.spotify.com/album/4k1iWmDoy7ivu3kOUs3Lyo) | 5:50 | 2022-05-24 | 2023-02-24 |
+| [4:00 A.M\. \(2025 Re\-edit Version\)](https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [4:00 A.M\. \(2025 Re\-edit Version\)](https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi) | 4:43 | 2025-08-05 |  |
 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 | 2022-07-27 |  |
 | [965km](https://open.spotify.com/track/2czCmnb7wTA0gRmed9JhJi) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo) | [965km](https://open.spotify.com/album/3EJeJMO42jJYMVcCjt5XQc) | 3:21 | 2023-09-19 | 2023-09-28 |
 | [A Rainy Friday In June](https://open.spotify.com/track/3UXy5gTZLOYb5AIFcwNd5m) | [The Lamb](https://open.spotify.com/artist/6Df2pJCe7Ud1Q7kWvf68cx) | [A Rainy Friday In June](https://open.spotify.com/album/3xiFLn8OFUoqgi4mdZrSgn) | 3:48 | 2023-01-10 | 2023-02-01 |
@@ -839,7 +840,7 @@
 | [播磨無呼吸症候群](https://open.spotify.com/track/75nV8OPII60tvnNTIV4kxf) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [播磨無呼吸症候群](https://open.spotify.com/album/5Z1t3D7IGeYtueUlGQpqsO) | 3:07 | 2022-12-13 | 2022-12-15 |
 | [散る散る満ちる](https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [Just Wanna Sing](https://open.spotify.com/album/293T7KIVbF4NP9V2ajY0a5) | 4:12 | 2023-11-10 | 2025-05-23 |
 | [新天翔](https://open.spotify.com/track/7IfDZEJJFoNBZK8cEzq0eW) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [ESCAPE](https://open.spotify.com/album/3rTIONGx0luotULInSH6bE) | 3:57 | 2022-12-13 | 2023-01-11 |
-| [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 | 2022-11-30 |  |
+| [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 | 2022-11-30 | 2025-08-17 |
 | [春](https://open.spotify.com/track/0DIWUR6OVSleuWmPO5Dj2U) | [マダラメスルメ](https://open.spotify.com/artist/0Hv3B7rOi2DQN1lWaEH1JP) | [春](https://open.spotify.com/album/73YxeGPir2kRtW2welidV5) | 4:27 | 2022-06-16 | 2022-06-18 |
 | [春砂漠](https://open.spotify.com/track/1PCwSUdENks9PcoZR9UZS3) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [春砂漠](https://open.spotify.com/album/3qPaEsgm5tPihrm4ko05yi) | 2:40 | 2023-04-18 | 2023-04-20 |
 | [時を刻みながら](https://open.spotify.com/track/2s6OPsYVUAKtVNK1FzgSTU) | [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [時を刻みながら](https://open.spotify.com/album/3egPreNqxSn3AVDCBHcfW8) | 4:06 | 2024-03-12 | 2024-07-31 |

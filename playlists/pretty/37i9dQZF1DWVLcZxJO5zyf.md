@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Vitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,324,886 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324,732 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 5 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
 | 6 | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/track/5ZXuUeesGs5adylptucGn6) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Que Confusão, Amor \- Spotify Singles](https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF) | 2:54 |
 | 7 | [Sexta\-feira](https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Sexta\-feira](https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL) | 2:44 |
-| 8 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 |
+| 8 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 |
 | 9 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
 | 10 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
 | 11 | [Que Pecado!](https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Que Pecado!](https://open.spotify.com/album/3WXo4tB3KteRN81GGqNlOi) | 2:43 |

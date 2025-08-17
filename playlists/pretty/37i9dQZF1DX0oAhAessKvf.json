@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 131511,
+  "num_followers": 131550,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "De Nuevos a Viejos",
-        "url": "https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Pegate",
-      "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Reggaechanga",
         "url": "https://open.spotify.com/album/0b3CmcVQ76K9JQwgskon2G"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 227448,
       "name": "Noche Enferma",
       "url": "https://open.spotify.com/track/3LnOseGJ1C8xj1mHBNRCFU"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "De Nuevos a Viejos",
+        "url": "https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "No Fear Live",
-        "url": "https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f"
-      },
-      "artists": [
-        {
-          "name": "Voltio",
-          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
-        }
-      ],
-      "duration_ms": 181146,
-      "name": "Voltio (Live)",
-      "url": "https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 166960,
       "name": "Sabanas Blancas",
       "url": "https://open.spotify.com/track/5KF17ePUmiBbS6IEKu5gQL"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "No Fear Live",
+        "url": "https://open.spotify.com/album/3Q682W4ilQpUfwbFJwap4f"
+      },
+      "artists": [
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "duration_ms": 181146,
+      "name": "Voltio (Live)",
+      "url": "https://open.spotify.com/track/3DneCEkBhWz7Qy92mcNzW0"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1000,13 +1000,13 @@
       },
       "artists": [
         {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
         }
       ],
-      "duration_ms": 146880,
-      "name": "Me Arrepiento",
-      "url": "https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv"
+      "duration_ms": 149253,
+      "name": "Un Nnuevo Estilo",
+      "url": "https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1016,13 +1016,13 @@
       },
       "artists": [
         {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 149253,
-      "name": "Un Nnuevo Estilo",
-      "url": "https://open.spotify.com/track/0ynbMmMhaJQhPlCA8gZZsu"
+      "duration_ms": 146880,
+      "name": "Me Arrepiento",
+      "url": "https://open.spotify.com/track/0yQRj5qCgtjdLHYLjSrDPv"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+        "name": "DJ Joe presenta: A Mover...",
+        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
       },
       "artists": [
         {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov"
+          "name": "Dj Gian",
+          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
         }
       ],
-      "duration_ms": 103706,
-      "name": "San Y\u00f3!",
-      "url": "https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd"
+      "duration_ms": 194360,
+      "name": "Callate",
+      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1128,29 +1128,13 @@
       },
       "artists": [
         {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5yjQKQYt12QjWzQK62T8ov"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Intro - Soy El Sandunguero",
-      "url": "https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "DJ Joe presenta: A Mover...",
-        "url": "https://open.spotify.com/album/7aDgk10Avhs1oDFrcwz5u6"
-      },
-      "artists": [
-        {
-          "name": "Dj Gian",
-          "url": "https://open.spotify.com/artist/48cHGnpVsYp8ClqE3ItUQw"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Callate",
-      "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
+      "duration_ms": 103706,
+      "name": "San Y\u00f3!",
+      "url": "https://open.spotify.com/track/5EcakC8rdndqY8PuejawTd"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1167,6 +1151,22 @@
       "duration_ms": 116986,
       "name": "Tira Un Ritmo Sandunguero",
       "url": "https://open.spotify.com/track/5QOOE4L4ImVkwgu0bhlkx5"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Intro - Soy El Sandunguero",
+      "url": "https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
-        }
-      ],
-      "duration_ms": 58973,
-      "name": "Interlude - Prende El",
-      "url": "https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Gargolas 1",
         "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
       },
@@ -1231,6 +1215,38 @@
       "duration_ms": 192413,
       "name": "Unknown (Alberto Sytle / Gargolas 1)",
       "url": "https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sandunguero II",
+        "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
+      },
+      "artists": [
+        {
+          "name": "Blade Pacino",
+          "url": "https://open.spotify.com/artist/5dQr2trACfs9BpRReUUUEy"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/772PvX7M1q8cDvDX8RoqKy"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+      },
+      "artists": [
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        }
+      ],
+      "duration_ms": 58973,
+      "name": "Interlude - Prende El",
+      "url": "https://open.spotify.com/track/5FJ3GIgjMGjJrYFEwycIwE"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1263,22 +1279,6 @@
       "duration_ms": 149666,
       "name": "Vamos Alla",
       "url": "https://open.spotify.com/track/4Ircf7uE0Jd5Zfg18iVUzy"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Sandunguero II",
-        "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
-      },
-      "artists": [
-        {
-          "name": "Blade Pacino",
-          "url": "https://open.spotify.com/artist/5dQr2trACfs9BpRReUUUEy"
-        }
-      ],
-      "duration_ms": 179920,
-      "name": "Mami Chula",
-      "url": "https://open.spotify.com/track/772PvX7M1q8cDvDX8RoqKy"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACrTRbpmP5JVmOQkU3qQI4e",
+  "snapshot_id": "aJ54gAAAAADG2tdqdTAIm23D4/GQACOC",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 155400,
-      "name": "Wetin Be Love",
-      "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD"
     },
     {
       "added_at": null,
@@ -467,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Wetin Be Love",
+      "url": "https://open.spotify.com/track/0IRuh90YBK9a99cW3R9skS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -479,34 +507,6 @@
       "duration_ms": 173333,
       "name": "Kiss Me Like You Miss Me",
       "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
-        }
-      ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD"
     },
     {
       "added_at": null,
@@ -543,6 +543,26 @@
       "duration_ms": 175615,
       "name": "permit me",
       "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU"
     },
     {
       "added_at": null,
@@ -615,26 +635,6 @@
       "duration_ms": 194181,
       "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
       "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU"
     },
     {
       "added_at": null,

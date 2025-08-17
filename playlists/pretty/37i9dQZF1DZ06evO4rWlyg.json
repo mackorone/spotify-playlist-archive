@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 146820,
+  "num_followers": 146835,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAD1K4ptNsnROVlvvJ57sFSi",
+  "snapshot_id": "aJ54gAAAAAAg+Z6ud4lfr906MCpRavi6",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "Kasimyn",
-          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
-        }
-      ],
-      "duration_ms": 259064,
-      "name": "Fossora",
-      "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 305703,
       "name": "Blissing Me",
       "url": "https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Kasimyn",
+          "url": "https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5"
+        }
+      ],
+      "duration_ms": 259064,
+      "name": "Fossora",
+      "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
     },
     {
       "added_at": null,

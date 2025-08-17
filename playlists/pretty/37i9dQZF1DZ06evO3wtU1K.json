@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAAO0HS3hk1QYQDd/OlPLnKa",
+  "snapshot_id": "aJ54gAAAAAAlhVljCtkkO6qIV5QHTJz2",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
         }
       ],
-      "duration_ms": 383973,
-      "name": "Forever At Your Feet",
-      "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
+      "duration_ms": 163899,
+      "name": "Won't Be Too Long",
+      "url": "https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y"
     },
     {
       "added_at": null,
@@ -595,62 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 163899,
-      "name": "Won't Be Too Long",
-      "url": "https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do It Anyway",
-        "url": "https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/2rF5K9wMGwaiwsTwVjDrDq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Maverick Way - EP",
-        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
         }
       ],
-      "duration_ms": 556673,
-      "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
-      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
+      "duration_ms": 383973,
+      "name": "Forever At Your Feet",
+      "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
     },
     {
       "added_at": null,
@@ -691,6 +647,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Maverick Way - EP",
+        "url": "https://open.spotify.com/album/4GHtoBIXzNJcjoqPD0WSlz"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 556673,
+      "name": "More Than Able (feat. Tasha Cobbs Leonard & Chandler Moore)",
+      "url": "https://open.spotify.com/track/7KeMUZAdegNFrikChmSbvV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0vtGFiSSmdHEnAb2faXyzC"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 225623,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1OfkAN8mUaNCR2aXGpfrbg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Place Live (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 455480,
-      "name": "You Still Love Me - Live",
-      "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
     },
     {
       "added_at": null,
@@ -760,9 +728,41 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 373120,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/6XpAJgHhWlS58Ys7WNoIRh"
+      "duration_ms": 177201,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Place Live (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 455480,
+      "name": "You Still Love Me - Live",
+      "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+      "duration_ms": 373120,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/6XpAJgHhWlS58Ys7WNoIRh"
     },
     {
       "added_at": null,
@@ -819,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 196614,
-      "name": "I Needed God",
-      "url": "https://open.spotify.com/track/4bSBB0OyRIUqz6LcT8162M"
+      "duration_ms": 166798,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
+      "duration_ms": 196614,
+      "name": "I Needed God",
+      "url": "https://open.spotify.com/track/4bSBB0OyRIUqz6LcT8162M"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
       "duration_ms": 204601,
       "name": "Together (We'll Get Through This)",
       "url": "https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 253620,
-      "name": "Brand New Day",
-      "url": "https://open.spotify.com/track/5HlV1nDJQOaNBSF9bOPvLJ"
     },
     {
       "added_at": null,
@@ -947,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 253620,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/5HlV1nDJQOaNBSF9bOPvLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -963,22 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 256042,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/36fuvtDlb4y3qGjI0UOQLN"
+      "duration_ms": 231073,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7enQOizrAIlq1Lu9SSmaPi"
     }
   ],
   "unique_name": "This Is Tasha Cobbs Leonard",

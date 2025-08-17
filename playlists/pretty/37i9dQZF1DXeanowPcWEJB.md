@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,202 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,252 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 13 | [Por Debajo De La Mesa](https://open.spotify.com/track/7APywryIFuLnEQ4daWSeMM) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Por Debajo De La Mesa](https://open.spotify.com/album/2QrB02JkL43RYWYkZRVd5B) | 2:59 |
 | 14 | [Historia De Un Amor](https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Historia De Un Amor](https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg) | 3:06 |
 | 15 | [Lagrima](https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 2:00 |
-| 16 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
-| 17 | [No Se Tú](https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:14 |
+| 16 | [No Se Tú](https://open.spotify.com/track/6BFAhQJHsOqJCa9lIJZUE8) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:14 |
+| 17 | [Somos Novios](https://open.spotify.com/track/7yWJtlafh6TTjcljGpSn5B) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Somos Novios](https://open.spotify.com/album/5pzOJCIXm7y4YucjI04SQI) | 2:46 |
 | 18 | [Sabor A Mi](https://open.spotify.com/track/2T5EXt3R5JlSgsDU31CQNl) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Sabor A Mi](https://open.spotify.com/album/26DHsH3JefudnjpnssJh2c) | 2:48 |
 | 19 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 20 | [Como Una Flor Bolero](https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:14 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 42 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
 | 43 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
 | 44 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
-| 45 | [Las Golondrinas](https://open.spotify.com/track/0dkDktCKm9bLtBjx6bSNco) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:16 |
-| 46 | [Popurri de Huapangos: La Malagueña / Serenata Huasteca / El Mil Amores / El Aguacero](https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:04 |
+| 45 | [Popurri de Huapangos: La Malagueña / Serenata Huasteca / El Mil Amores / El Aguacero](https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:04 |
+| 46 | [Las Golondrinas](https://open.spotify.com/track/0dkDktCKm9bLtBjx6bSNco) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:16 |
 | 47 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
 | 48 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 49 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 92 | [Tico\-Tico](https://open.spotify.com/track/4Bz4Gaqu67YmZpZphOor6Q) | [Ramon Dona\-Dio Y Sus Guitarras Mexicanas](https://open.spotify.com/artist/5QdoHnJ2GRqsMdYKNuryip) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 2:54 |
 | 93 | [2 Canciones mexicanas \(Version for Guitar\): No\. 2, Estrellita](https://open.spotify.com/track/7xjB07oDrnC4e2sQjfbAqR) | [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Gorgeous Guitar: Best Loved Classical Guitar Music](https://open.spotify.com/album/6oSy78tFxjggVUnycHOSov) | 2:24 |
 | 94 | [Mi Ciudad \(Remasterizado\)](https://open.spotify.com/track/69CRO9ofTkrgFUg2CKX8oR) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Tesoros De Colección \- Las Grandes Guitarras Mexicanas](https://open.spotify.com/album/5oXeGRM1GB8Olw0p1W1FQ3) | 4:11 |
-| 95 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
+| 95 | [Mi Amor](https://open.spotify.com/track/0Qi2p7krDLp04vdTDG2yIb) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 4:26 |
 | 96 | [Con los Años Que Me Quedan](https://open.spotify.com/track/0Xhg05D95egupooxyWYd4f) | [Chamin Correa](https://open.spotify.com/artist/5nbu0z9YPCdLMUr4OsiQ9w) | [Éxitos, Vol\. 2](https://open.spotify.com/album/27u9LlecBGDngpTp0SRghR) | 4:59 |
 | 97 | [Concierto de Mariachi \- Morena de Mi Corazon](https://open.spotify.com/track/3QtDxwOY5Xyc26mXQfLViu) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:53 |
 | 98 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/3icAqJwBZz9pFyImj9DjIY) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:49 |
 | 99 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 |
-| 100 | [El Camino De Mi Alma](https://open.spotify.com/track/6Jfpv3vvfobay7uYVxWXog) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Camino De Mi Alma](https://open.spotify.com/album/1drg7Khmc8lZML5biWWtjY) | 6:01 |
+| 100 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 
 Snapshot ID: `AAAAAHTqkLspaoRcDdLEy8ddR79RkI/1`

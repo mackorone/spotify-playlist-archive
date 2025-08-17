@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 27680,
+  "num_followers": 27694,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAA/UF0qnqcizFLkWKjy3Rxu",
+  "snapshot_id": "aJ54gAAAAACb/RgtOU+KgbCakUAVlxYb",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 130707,
+      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
+      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Strips (Remix) (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 133659,
       "name": "Blue Strips (feat. Sexyy Red) - Remix",
       "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 130707,
-      "name": "Looking For The Hoes (Ain\u2019t My Fault)",
-      "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
     },
     {
       "added_at": null,
@@ -291,6 +291,26 @@
       "duration_ms": 140400,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 152157,
+      "name": "I Like It (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/41MFBsrwAGyY3NZq1Kxqj4"
     },
     {
       "added_at": null,
@@ -499,30 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nookie (Pu$$y) (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/4Fo1bpA5OcnIblyK26UVI3"
-      },
-      "artists": [
-        {
-          "name": "21 Lil Harold",
-          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Nookie (Pu$$y) (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -551,6 +547,30 @@
       "duration_ms": 158018,
       "name": "U Kno What To Do (UKWTD)",
       "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nookie (Pu$$y) (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/4Fo1bpA5OcnIblyK26UVI3"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Nookie (Pu$$y) (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/4MCuCTuevnlTnwm5Rekfwx"
     },
     {
       "added_at": null,
@@ -679,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iz It a Crime?",
-        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158270,
-      "name": "Me N OG Snoop",
-      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pound Town (and Tay Keith)",
         "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
       },
@@ -715,6 +715,26 @@
       "duration_ms": 129429,
       "name": "Pound Town (and Tay Keith)",
       "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iz It a Crime?",
+        "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158270,
+      "name": "Me N OG Snoop",
+      "url": "https://open.spotify.com/track/4pfUkkJKUgrsXuVVYRuSh4"
     },
     {
       "added_at": null,
@@ -1007,22 +1027,6 @@
       "duration_ms": 193041,
       "name": "Daddy (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Trust Em",
-        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 210102,
-      "name": "Don't Trust Em",
-      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
     }
   ],
   "unique_name": "This Is Sexyy Red",

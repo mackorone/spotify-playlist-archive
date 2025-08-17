@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Will Bloomfield
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,836 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,867 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Miles Ahead](https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:05 |
 | 40 | [Downstairs](https://open.spotify.com/track/5a0z3YMeIkXwvJxja3gdy9) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Downstairs](https://open.spotify.com/album/2Fy7LvK1AMkieRTyAVXC5Q) | 3:36 |
 
-Snapshot ID: `AAAAAKM1tNZorFaHnuTaHvdUoi3lPGVd`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

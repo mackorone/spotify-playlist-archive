@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin",
-  "num_followers": 644370,
+  "num_followers": 644451,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
+        "name": "Give It Time",
+        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 208480,
+      "name": "Honestly, We Just Need Jesus",
+      "url": "https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8"
+    },
+    {
+      "added_at": "2025-06-17 20:44:42",
+      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 318693,
       "name": "How He Loves",
       "url": "https://open.spotify.com/track/6WSFMa721PvfnspCRsGOMh"
-    },
-    {
-      "added_at": "2025-06-17 20:44:42",
-      "album": {
-        "name": "Give It Time",
-        "url": "https://open.spotify.com/album/36TqkiS7AIf2u2dG4fQymd"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "Honestly, We Just Need Jesus",
-      "url": "https://open.spotify.com/track/4tBmvwXJKaxi8pWyBWMwT8"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "Followers",
-        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
-      },
-      "artists": [
-        {
-          "name": "Tenth Avenue North",
-          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Control (Somehow You Want Me)",
-      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
-    },
-    {
-      "added_at": "2025-06-17 20:44:42",
-      "album": {
         "name": "Battle Belongs",
         "url": "https://open.spotify.com/album/2zDJQXEuStErUHYOQdbBM0"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 287532,
       "name": "Battle Belongs",
       "url": "https://open.spotify.com/track/3CwpNu67Qg1Mcl8WNtzUgo"
+    },
+    {
+      "added_at": "2025-06-17 20:44:42",
+      "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Control (Somehow You Want Me)",
+      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "Overcomer",
-        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Overcomer",
-      "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
-    },
-    {
-      "added_at": "2025-06-17 20:44:42",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 238306,
       "name": "Scars",
       "url": "https://open.spotify.com/track/72B1Omo2kmEst4YKO8vOB6"
+    },
+    {
+      "added_at": "2025-06-17 20:44:42",
+      "album": {
+        "name": "Overcomer",
+        "url": "https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Overcomer",
+      "url": "https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "United We Stand (Live)",
-        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        }
-      ],
-      "duration_ms": 378986,
-      "name": "From The Inside Out - Live",
-      "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
-    },
-    {
-      "added_at": "2025-06-17 20:44:42",
-      "album": {
         "name": "I Am Loved",
         "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 432640,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
+    },
+    {
+      "added_at": "2025-06-17 20:44:42",
+      "album": {
+        "name": "United We Stand (Live)",
+        "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "duration_ms": 378986,
+      "name": "From The Inside Out - Live",
+      "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "A Heart That Knows You",
-        "url": "https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5"
+        "name": "The Glorious Unfolding",
+        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
       },
       "artists": [
         {
-          "name": "Twila Paris",
-          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 247933,
-      "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
-      "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
+      "duration_ms": 286826,
+      "name": "Glorious Unfolding",
+      "url": "https://open.spotify.com/track/5AyWEKs3d9PXpPkUuf5vup"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "The Glorious Unfolding",
-        "url": "https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ"
+        "name": "A Heart That Knows You",
+        "url": "https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5"
       },
       "artists": [
         {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+          "name": "Twila Paris",
+          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
         }
       ],
-      "duration_ms": 286826,
-      "name": "Glorious Unfolding",
-      "url": "https://open.spotify.com/track/5AyWEKs3d9PXpPkUuf5vup"
+      "duration_ms": 247933,
+      "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
+      "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
-    },
-    {
-      "added_at": "2025-06-17 20:44:42",
-      "album": {
         "name": "2.0",
         "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 244786,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
+    },
+    {
+      "added_at": "2025-06-17 20:44:42",
+      "album": {
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -2403,8 +2403,8 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
+        "name": "Welcome to the New",
+        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
       },
       "artists": [
         {
@@ -2412,9 +2412,9 @@
           "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Grace Got You",
-      "url": "https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf"
+      "duration_ms": 247040,
+      "name": "Greater",
+      "url": "https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -2487,8 +2487,8 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "Welcome to the New",
-        "url": "https://open.spotify.com/album/4xBIDYQZtXRghjFPwqDLsP"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
       "artists": [
         {
@@ -2496,9 +2496,9 @@
           "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 247040,
-      "name": "Greater",
-      "url": "https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc"
+      "duration_ms": 215133,
+      "name": "Grace Got You",
+      "url": "https://open.spotify.com/track/72Hr8XLZckFo1Gie68XoMf"
     },
     {
       "added_at": "2025-06-17 20:44:42",
@@ -2519,18 +2519,18 @@
     {
       "added_at": "2025-06-17 20:44:42",
       "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/1iNQhl4XQD8hAKunfJ6TdH"
       },
       "artists": [
         {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+          "name": "Phillips, Craig & Dean",
+          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
+      "duration_ms": 353013,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/2BflXRITyEi4dUJ6XJtahG"
     }
   ],
   "unique_name": "Christian Classics",

@@ -4,7 +4,7 @@
 
 > Classic Contemporary Christian songs you can always count on! Cover: Chris Tomlin
 
-363 songs - 1 day 3 hr 1 min
+364 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Rescuer \(Good News\)](https://open.spotify.com/track/32f24TdkpHx8L0EZX2HbP4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Rescuer \(Good News\)](https://open.spotify.com/album/5mati4th5xS4GWys74MiR2) | 3:28 | 2024-12-11 |  |
 | [Resurrecting \(Live\)](https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Here As In Heaven](https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF) | 7:47 | 2020-08-26 | 2024-06-23 |
 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 | 2024-12-11 |  |
+| [Revelation Song](https://open.spotify.com/track/2BflXRITyEi4dUJ6XJtahG) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Fearless](https://open.spotify.com/album/1iNQhl4XQD8hAKunfJ6TdH) | 5:53 | 2025-06-17 |  |
 | [Right Where You Are](https://open.spotify.com/track/1UscjxjPkZ25Efe8rEaUQM) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Right Where You Are](https://open.spotify.com/album/1nM9E1dc2aBJaITJouZT3S) | 3:07 | 2024-06-23 | 2024-12-12 |
 | [Run To The Father](https://open.spotify.com/track/3g7bn09uvp9jkMAW0jXOms) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Run To The Father](https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv) | 5:08 | 2020-08-26 |  |
 | [Same God \(feat\. Jonsal Barrientes\)](https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Jonsal Barrientes](https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J) | [LION](https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh) | 8:01 | 2024-12-11 |  |
@@ -286,7 +287,7 @@
 | [Springtime](https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Springtime](https://open.spotify.com/album/62xXWkJPnP0bFdwEspp0CT) | 4:14 | 2020-08-26 | 2022-07-29 |
 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 | 2020-08-26 | 2024-04-19 |
 | [Stand In Your Love \- Radio Version](https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d) | 3:41 | 2024-12-11 |  |
-| [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 | 2024-12-11 |  |
+| [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 | 2024-12-11 | 2025-08-17 |
 | [Strong Enough](https://open.spotify.com/track/3b6yQRfPf0wPiEKCTA46ZO) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [The Story Of Your Life](https://open.spotify.com/album/53FZR7fpE4NarQjLLB6h39) | 4:03 | 2020-08-26 | 2024-06-23 |
 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 | 2024-12-11 |  |
 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 | 2024-06-23 | 2024-12-12 |

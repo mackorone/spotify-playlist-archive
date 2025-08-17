@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gusttavo Lima, Vulgo FK, Simone Mendes e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,134,261 likes - 99 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,134,685 likes - 99 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 34 | [De Quinta A Domingo](https://open.spotify.com/track/3DPpnsH5S0269NXaD2uZ3v) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [De Quinta A Domingo](https://open.spotify.com/album/0UFiIp4aj71h2CEAymFy7T) | 3:17 |
 | 35 | [Tanto Pra Dizer](https://open.spotify.com/track/4B2LyOxrCYgfQIytHwcHH7) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Tanto Pra Dizer](https://open.spotify.com/album/0g4HVjJ3ExcS3Hcwds5Ryv) | 2:43 |
 | 36 | [Pegapacapá](https://open.spotify.com/track/51tEvo1E9MOaxRWsmNibNO) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Pegapacapá](https://open.spotify.com/album/0GQTE0kgr87Jsi306VD5zq) | 3:45 |
-| 37 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 |
+| 37 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 |
 | 38 | [Sofá de Casa](https://open.spotify.com/track/0t1RkDdVKdoMErkNZxXf2Y) | [Durval Lelys](https://open.spotify.com/artist/3ToO2sJ9XN1V0UPRfnHJaM) | [Sofá de Casa](https://open.spotify.com/album/2mZGl6wzU6z0gOfhXmVdfp) | 2:52 |
 | 39 | [Testa](https://open.spotify.com/track/4ETX3vkNVSaOVCkfsfn7Hw) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Caranguejo \(Parte 1\)](https://open.spotify.com/album/7s49AGukDwUe9tYMXC0UKG) | 3:09 |
 | 40 | [Você Tem O Que Merece Ter](https://open.spotify.com/track/60hp4U6TBZoNJGuh3a3qZh) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Você Tem O Que Merece Ter](https://open.spotify.com/album/3AD2RdswWSsmBCm29FYOdC) | 2:48 |

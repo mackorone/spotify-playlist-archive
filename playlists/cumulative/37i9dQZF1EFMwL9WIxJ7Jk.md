@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-223 songs - 11 hr 39 min
+224 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Mr\. Almost \(feat\. Shy Carter\)](https://open.spotify.com/track/3Po7h7COTpvWXckHok5aKT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:16 | 2025-03-29 | 2025-07-12 |
 | [My Kind Of Present](https://open.spotify.com/track/2rkb8ijsPapKDMEh0cSe8I) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:41 | 2023-12-30 |  |
 | [My Kind Of Present](https://open.spotify.com/track/2x32vesenRYBI0HbqynTim) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [My Kind Of Present \(Official Music Video\)](https://open.spotify.com/album/5F8E9IoXnAGxgPcIlWzhTT) | 2:42 | 2023-12-31 | 2024-01-30 |
-| [My Selfish Heart](https://open.spotify.com/track/1x1oPQ9xXzqncfa6U090Ua) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:46 | 2025-03-29 | 2025-07-12 |
+| [My Selfish Heart](https://open.spotify.com/track/1x1oPQ9xXzqncfa6U090Ua) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:46 | 2025-03-29 |  |
 | [My Selfish Heart](https://open.spotify.com/track/3nomMSRbIRpAfIZLf3jOqS) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:46 | 2023-12-30 | 2025-03-30 |
 | [Naughty List](https://open.spotify.com/track/5iGw5PJKukFN1YMj3Ls2rm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:37 | 2023-12-30 |  |
 | [Next](https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Next](https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa) | 2:55 | 2023-12-30 |  |
@@ -170,6 +170,7 @@
 | [No Good For You](https://open.spotify.com/track/5lOK3NCvbvgK6cohyTTQ4Z) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:36 | 2023-12-30 | 2025-03-30 |
 | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1PwPlrkSztcrXcRFzO2DnH) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Ocean \(feat\. Meghan Trainor\)](https://open.spotify.com/album/3kyLA7vyU0y5rpUP6Ksely) | 3:36 | 2023-12-30 | 2025-07-12 |
 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 | 2023-12-30 | 2025-07-12 |
+| [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 | 2025-08-16 |  |
 | [Painkiller \(feat\. Meghan Trainor\)](https://open.spotify.com/track/6ILsOdeN5cv3M0tp0ootWF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:23 | 2023-12-30 | 2025-07-12 |
 | [Powder](https://open.spotify.com/track/6vMyhlFtDt4Ilj8Xy35x25) | [JEM](https://open.spotify.com/artist/7DYWZumhYpDQ5lPhdWkTab) | [Love Trigger](https://open.spotify.com/album/1g6edxL2UctiNHHZlX8D7o) | 3:54 | 2023-12-30 |  |
 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 | 2023-12-30 |  |

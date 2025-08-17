@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 22066,
+  "num_followers": 22080,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACuPbRW4r8c6dMZxsfRMOY2",
+  "snapshot_id": "aJ54gAAAAAAH7X3+ezMmN43AmQbUeUSJ",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1 Team",
-        "url": "https://open.spotify.com/album/48DFwSlZ74X0yPX3bRm080"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "De Kraaien",
-          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
-        }
-      ],
-      "duration_ms": 198368,
-      "name": "1 Team",
-      "url": "https://open.spotify.com/track/0Hyn9l85xe3mgDLHPKFERe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popcorn",
         "url": "https://open.spotify.com/album/2pM2KhElow7DCyDuf1vZ4O"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 196645,
       "name": "Popcorn",
       "url": "https://open.spotify.com/track/2WEAjQeoTRm7T3leqV2YfQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1 Team",
+        "url": "https://open.spotify.com/album/48DFwSlZ74X0yPX3bRm080"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        }
+      ],
+      "duration_ms": 198368,
+      "name": "1 Team",
+      "url": "https://open.spotify.com/track/0Hyn9l85xe3mgDLHPKFERe"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Komen Terug",
+        "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "duration_ms": 274377,
+      "name": "We Komen Terug",
+      "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schooier (feat. Chicco)",
         "url": "https://open.spotify.com/album/4EZ2RE6eZtPRJopw0rW2SV"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 218322,
       "name": "Schooier (feat. Chicco)",
       "url": "https://open.spotify.com/track/45Wtlihsfygwj4GcXl59sS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Komen Terug",
-        "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Django Wagner",
-          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
-        }
-      ],
-      "duration_ms": 274377,
-      "name": "We Komen Terug",
-      "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"
     },
     {
       "added_at": null,

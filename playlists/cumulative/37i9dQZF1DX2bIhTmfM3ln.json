@@ -1269,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Showboy",
+        "url": "https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1"
+      },
+      "artists": [
+        {
+          "name": "Spy Shitta",
+          "url": "https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141269,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH"
+    },
+    {
+      "album": {
         "name": "Road To Fuego",
         "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
       },
@@ -7080,7 +7102,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 155094,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"

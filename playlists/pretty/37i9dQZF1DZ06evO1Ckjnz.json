@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 19945,
+  "num_followers": 19944,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAABleNTAjvLEpV4sp6VysZZJ",
+  "snapshot_id": "aJ54gAAAAAAG3rRgSdaJ+b5RYfPq18xr",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jealous (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Jealous (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speed It Up (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/3CJJ9CzPOMItOHiVBctGEa"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 143277,
       "name": "Speed It Up (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/6B0nCPXnBSCUiQTF5IUa05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jealous (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Jealous (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136829,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONEPOINTFIVE",
         "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 119920,
       "name": "SUGARPARENTS (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/2WS2N8wgs9Drd5MNJLJxkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136829,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
     },
     {
       "added_at": null,
@@ -919,6 +919,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        },
+        {
+          "name": "Jason Evigan",
+          "url": "https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj"
+        }
+      ],
+      "duration_ms": 131293,
+      "name": "One On 5 (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -955,8 +979,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
       "artists": [
         {
@@ -964,33 +988,13 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         },
         {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        },
-        {
-          "name": "Jason Evigan",
-          "url": "https://open.spotify.com/artist/1aZENDSuD4XXPlue0RJwSj"
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/7jbmResraKoISsYl58lSs1"
         }
       ],
-      "duration_ms": 131293,
-      "name": "One On 5 (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/0geh0360Ns6t3i0HbOH6DF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
+      "duration_ms": 153666,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/4Onanh2sbZQKTGH8KvWzxS"
     }
   ],
   "unique_name": "This Is Rico Nasty",

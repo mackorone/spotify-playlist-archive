@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,395 songs - 5 day 6 hr 11 min
+2,397 songs - 5 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Bruxelles je t’aime](https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Bruxelles je t'aime](https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp) | 3:48 | 2021-10-23 | 2021-12-05 |
 | [Brûle](https://open.spotify.com/track/4SsSjoHtxj70UG5W88i0Dy) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [M.A.N \(Black Roses & Lost Feelings\)](https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE) | 3:31 | 2022-03-20 | 2022-04-16 |
 | [BRÛLURES INDIENNES](https://open.spotify.com/track/24vDSi6wZW34oY8sTrgQf7) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 2:57 | 2023-03-18 | 2023-03-23 |
-| [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 | 2025-08-15 |  |
+| [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 | 2025-08-15 | 2025-08-17 |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:50 | 2023-06-14 | 2023-08-24 |
 | [Businessman](https://open.spotify.com/track/6Ut71PoNsLM9ubj5uLI7m4) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [R.A.T](https://open.spotify.com/album/2UJVbFBTuYHtwHk9FvkgGU) | 2:59 | 2025-07-01 | 2025-07-03 |
 | [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-20 | 2024-04-22 |
@@ -690,7 +690,7 @@
 | [Driving Home for Christmas](https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:59 | 2023-12-25 | 2023-12-27 |
 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 | 2021-12-25 | 2022-12-28 |
 | [Droit au but](https://open.spotify.com/track/4y7wmBHkbyAiyeRyOuf0h6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:15 | 2023-06-10 | 2023-06-12 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-12 |  |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-12 | 2025-08-17 |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-04 | 2024-05-09 |
 | [Du mal à te dire](https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Stamina, Memento](https://open.spotify.com/album/2D5pAt1QO1tcuM8oe3O8T9) | 3:27 | 2021-07-04 | 2021-10-17 |
 | [Du propre](https://open.spotify.com/track/17gkoi8EGPO1XssTOYK5ki) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:47 | 2021-11-21 | 2022-10-31 |
@@ -1148,6 +1148,7 @@
 | [La 15 \(GSXR\)](https://open.spotify.com/track/7ou6xAiug6yizA6EMQQtUv) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Arès](https://open.spotify.com/album/3YqLNAFhUEpmmWWrTP015P) | 2:50 | 2022-05-21 | 2022-05-26 |
 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 | 2023-03-27 | 2025-05-04 |
 | [La battue](https://open.spotify.com/track/4hlrY5fxxzKRYb193YP5Cu) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS II](https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7) | 1:57 | 2021-03-27\* | 2021-03-27 |
+| [La Belette](https://open.spotify.com/track/2MUVuW834R2Ep08eyXFAZx) | [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [La Belette](https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO) | 1:41 | 2025-08-16 |  |
 | [LA BELLE ET LA BÊTE](https://open.spotify.com/track/6k9j7OWexZSqZqG6HExWi7) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:14 | 2024-11-30 | 2024-12-06 |
 | [La beu beu](https://open.spotify.com/track/3BFlHQD1nt7vHXmh0SswCO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Arès](https://open.spotify.com/album/0xs4XLhKpleNSEhDCUhKoD) | 2:57 | 2021-10-17 | 2021-10-24 |
 | [La beuh](https://open.spotify.com/track/5vv0ZW6DSpbVmoXP4VfdL9) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 2:18 | 2022-10-01 | 2022-10-03 |
@@ -2236,6 +2237,7 @@
 | [Tu le sais](https://open.spotify.com/track/1frmYvoVtyFlGypiapnkrX) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Tombolo](https://open.spotify.com/album/5x2zkoZogYhBNF6pYJIzk3) | 3:42 | 2022-04-30 | 2022-05-03 |
 | [Tu le sais](https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Tu le sais](https://open.spotify.com/album/6cPtIMxznYVT2LUH49rd5z) | 3:42 | 2021-10-07 | 2022-04-30 |
 | [Tu le sais](https://open.spotify.com/track/5YGerFnx06FnfmMCnKYEPS) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Tu le sais](https://open.spotify.com/album/33yC029awaQ6siII5nEC7f) | 3:42 | 2021-09-17 | 2021-10-07 |
+| [TU ME RENDS BÊTE](https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [TU ME RENDS BÊTE](https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2) | 2:45 | 2025-08-16 |  |
 | [Tu Sais](https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Tu Sais](https://open.spotify.com/album/6lqW7JxQYN90kAv278RRFv) | 2:38 | 2025-06-21 | 2025-06-29 |
 | [Tu Sais](https://open.spotify.com/track/1nIDA3rO6m1AeIeCs5xJJ7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [TERMINAL 7](https://open.spotify.com/album/4NOV35gIOJhCDJVinN4EjL) | 2:38 | 2025-06-28 | 2025-07-14 |
 | [Tu sais d'où je viens](https://open.spotify.com/track/2KT7J70xC24fEyYEG1Ky90) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:58 | 2025-04-26 | 2025-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,150 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,168 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 4 | [Jimmy \- Originele Studio Versie](https://open.spotify.com/track/10qcJkRx2MVqnAVKtBquS6) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Hoe Sterk Is De Eenzame Fietser](https://open.spotify.com/album/43GWGeGchyR7Td3pkK2HRG) | 3:56 |
 | 5 | [Jan Klaassen De Trompetter](https://open.spotify.com/track/1ebr7FJjtFRM3hq1qBXoT3) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [In De Uren Van De Middag \(Expanded Edition\)](https://open.spotify.com/album/1HYy0T6EbZVJR2ioeTVRrg) | 3:12 |
 | 6 | [Voor Haar](https://open.spotify.com/track/5qKdMteVok1Rog4vIKz75q) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Frans Halsema 1939\-1984](https://open.spotify.com/album/0440RuDjeEIRAo5bwADBav) | 2:52 |
-| 7 | [Zing \- Vecht \- Huil \- Bid \- Lach \- Werk en Bewonder](https://open.spotify.com/track/6WSFHH1ReDQoeT7bUsufBo) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [De Top 10 Van](https://open.spotify.com/album/2Nc13S1yJXsN9xFO3XJphl) | 4:41 |
+| 7 | [Het Dorp \- Single Version](https://open.spotify.com/track/60B0BFGuCb5w1aCYmxfwKs) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Liedjes 3 & 4 \- Wim Sonneveld](https://open.spotify.com/album/4PlaU7rWKNmjsM28mvM7a3) | 3:14 |
 | 8 | [1948 \(Toen Was Geluk Heel Gewoon\)](https://open.spotify.com/track/12lKjWZSwRMejGWKTrvukB) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:04 |
-| 9 | [Het Dorp \- Single Version](https://open.spotify.com/track/60B0BFGuCb5w1aCYmxfwKs) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Liedjes 3 & 4 \- Wim Sonneveld](https://open.spotify.com/album/4PlaU7rWKNmjsM28mvM7a3) | 3:14 |
+| 9 | [Zing \- Vecht \- Huil \- Bid \- Lach \- Werk en Bewonder](https://open.spotify.com/track/6WSFHH1ReDQoeT7bUsufBo) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [De Top 10 Van](https://open.spotify.com/album/2Nc13S1yJXsN9xFO3XJphl) | 4:41 |
 | 10 | [Laat Me Alleen](https://open.spotify.com/track/1Z3Ns97nNVgXWGsgwOOQKG) | [Rita Hovink](https://open.spotify.com/artist/7blaRp95WUYbzLU6wXO87m) | [Laat Me Alleen \- 16 Onvergetelijke Liedjes](https://open.spotify.com/album/6RBetjOqVEFWiaMePJCzIf) | 4:41 |
 | 11 | [Als De Rook Om Je Hoofd Is Verdwenen](https://open.spotify.com/track/2jpptvSaztyVA95fvLq5O9) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 3:24 |
 | 12 | [Manuela](https://open.spotify.com/track/5wwi3PFLF74ifd5yDmNRph) | [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [Jacques Herb](https://open.spotify.com/album/2dnBP1VFcWr4S7l6QWEOlO) | 4:59 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 18 | [Ik Ben Verliefd Op John Travolta](https://open.spotify.com/track/5tC59DDuaODHeYpX4kKsRZ) | [Sandy](https://open.spotify.com/artist/5PpJnd7D504yfy2B0AjyAo) | [Sandy \(Remastered\)](https://open.spotify.com/album/2HPPNcdT5ezzRbE16asLaI) | 3:39 |
 | 19 | [Guus](https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf) | [Alexander Curly](https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN) | [Vette Jus En Boerenjongens](https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw) | 3:47 |
 | 20 | [Zou Het Erg Zijn, Lieve Opa](https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ) | [Wilma](https://open.spotify.com/artist/5qfQ89hvnImhLth6VTewEi), [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq) | [Wilma](https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq) | 4:02 |
-| 21 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
-| 22 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
+| 21 | [Als De Dag Van Toen](https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt) | [Reinhard Mey](https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C) | [! Ich Kann](https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q) | 5:15 |
+| 22 | [We Zullen Doorgaan.](https://open.spotify.com/track/56HFxh3vBtdZOpxSshaXYR) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses '97](https://open.spotify.com/album/19o5Lq38UK1liTEUnA3WUX) | 5:11 |
 | 23 | [Carolientje](https://open.spotify.com/track/5sIxiugKMRHJzbfZiNGVWT) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Come Prima](https://open.spotify.com/album/0aU8iJZSpimikSJ0b1b0cr) | 3:10 |
 | 24 | [Hé Kom Aan](https://open.spotify.com/track/2H7IJB05VJymLMBYJ6bE79) | [Dimitri Van Toren](https://open.spotify.com/artist/6o8d8XXO1VTWSVoEg0j5sb) | [Liedjes van Toen \- Grootste Hollandse Hits 1973\-1974](https://open.spotify.com/album/4sGNb7vx99j0cP2kDJEG2W) | 2:06 |
 | 25 | [Waarheen, Waarvoor](https://open.spotify.com/track/7tLxcHzbbeezs1auDLq5lQ) | [Mieke Telkamp](https://open.spotify.com/artist/7MapYRyHxqCY4JrujFIzfq) | [Waarheen, Waarvoor](https://open.spotify.com/album/6IDpXkN0suXABodTg84j2X) | 3:47 |

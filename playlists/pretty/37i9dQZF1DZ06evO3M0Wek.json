@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 111675,
+  "num_followers": 111697,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAAaOV6BLKyQt2kM4GEOppEZ",
+  "snapshot_id": "aJ54gAAAAACWdF7yQ3U1oLA0gEsbX21J",
   "tracks": [
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+        "name": "The Strange Case of... (Deluxe)",
+        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+      "duration_ms": 191680,
+      "name": "You Call Me a Bitch Like It's a Bad Thing",
+      "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/1nbK54b5KkCw3CoJxFWxEg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 191680,
-      "name": "You Call Me a Bitch Like It's a Bad Thing",
-      "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
+      "duration_ms": 199093,
+      "name": "Rock Show",
+      "url": "https://open.spotify.com/track/42h9lxw9OKy1sw6vh6dKBP"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 194866,
       "name": "I'm Not an Angel",
       "url": "https://open.spotify.com/track/5vujcl17dn04lMgBGtI3Kf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Uncomfortable",
-      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Strange Case of... (Deluxe)",
-        "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Rock Show",
-      "url": "https://open.spotify.com/track/42h9lxw9OKy1sw6vh6dKBP"
+      "duration_ms": 220666,
+      "name": "Uncomfortable",
+      "url": "https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ReAniMate 3.0: The CoVeRs eP",
         "url": "https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 208240,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30fSw0eXTPQ6U07aShNukW.md) - [plain]
 
 > 
 
-[24seven](https://open.spotify.com/user/11158327701) - 0 likes - 52 songs - 3 hr 11 min
+[24seven](https://open.spotify.com/user/11158327701) - 0 likes - 53 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,5 +60,6 @@ pretty - [cumulative](/playlists/cumulative/30fSw0eXTPQ6U07aShNukW.md) - [plain]
 | 50 | [Manchmal haben Frauen...](https://open.spotify.com/track/7mSIm0LzfRp4P8OxtJfwdA) | [Die Ärzte](https://open.spotify.com/artist/0cbL6CYnRqpAxf1evwUVQD) | [Runter mit den Spendierhosen, Unsichtbarer!](https://open.spotify.com/album/3lb8OdNAHYsvXNp9YrSnx1) | 4:16 |
 | 51 | [Move Along](https://open.spotify.com/track/58HpsDKeYoLtNhXFQyQmz5) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 3:58 |
 | 52 | [Riva \(Restart The Game\) \- Single Edit](https://open.spotify.com/track/5lXjc66h9H0ZrO5faWp4zW) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Riva \(Restart The Game\)](https://open.spotify.com/album/5qXoMGuWymOd4Mktnzzd3m) | 3:00 |
+| 53 | [Laura non c'è](https://open.spotify.com/track/7anRsNjcOSrNYf2FjYopCH) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Lei, gli amici e tutto il resto](https://open.spotify.com/album/3yGAdaEbdDBo37XuLwm2YB) | 3:46 |
 
-Snapshot ID: `AAAANe+5pdLBMWOTXN0QMYY5f6mMHGon`
+Snapshot ID: `AAAANvvxqLDxleEGyOV8F82npXKDcJ5Z`

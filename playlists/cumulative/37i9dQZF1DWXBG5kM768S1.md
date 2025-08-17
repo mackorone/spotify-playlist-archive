@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-261 songs - 16 hr 40 min
+262 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Himmelblå](https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR) | [Anne Marie Almedal](https://open.spotify.com/artist/49nP0U2x9Egz06cjDphoez) | [Blue Sky Blue](https://open.spotify.com/album/4sfHf8C3gtRkGS4eX1tB0X) | 3:47 | 2021-12-16 | 2022-07-25 |
 | [Himmelblå](https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd) | 3:45 | 2023-04-13 | 2024-04-19 |
 | [Himmelblå](https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT) | 3:45 | 2022-01-27 | 2023-03-23 |
+| [Himmelen var vid](https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Himmelen var vid](https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR) | 3:00 | 2025-08-14 |  |
 | [Hjem](https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY), [Jonas Fjeld](https://open.spotify.com/artist/7pocZafsod6agMyzxt90iD) | [Hjem](https://open.spotify.com/album/6QWsi5qGR8wr4v7xCQC5de) | 3:25 | 2021-12-16 | 2022-07-29 |
 | [Hold meg](https://open.spotify.com/track/7kXCyyagaPgbTYeiL0qrZH) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Hold meg](https://open.spotify.com/album/5hT3YwZXdUfv9yJZl9bbxy) | 4:05 | 2021-12-16 | 2022-07-28 |
 | [Hold ut, hold på](https://open.spotify.com/track/5mtK3xLdrYjZrFKREJ6eWb) | [Jan Eggum](https://open.spotify.com/artist/1QfTCSQTI4rrK027UaiSQ6) | [Hold ut, hold på](https://open.spotify.com/album/5J5Hqmvkq4WJXMIo4JWKh6) | 2:38 | 2022-01-06 | 2022-04-18 |
@@ -224,7 +225,7 @@
 | [SUPER 8](https://open.spotify.com/track/5dbP3o1bqkIz5pbjnMwLek) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA) | [SUPER 8](https://open.spotify.com/album/11yMIAowUPX1Q3inE8qCSl) | 3:28 | 2021-12-16 | 2022-07-14 |
 | [Svarte Skyer](https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5) | [Hanne Sørvaag](https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH) | [Svarte Skyer](https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R) | 3:00 | 2021-12-16 | 2025-02-28 |
 | [Syng sang](https://open.spotify.com/track/6KAUmaaVCpxZbkZsrT3QP4) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Syng sang](https://open.spotify.com/album/3VAOGqaAQsbl7uOEjDwVXI) | 2:44 | 2023-02-02 | 2023-08-02 |
-| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 |  |
+| [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 | 2021-12-16 | 2025-08-17 |
 | [Så godt at det gjør vondt](https://open.spotify.com/track/04bIOgwqaOlu6Vwqn35RX0) | [Daniel Kvammen](https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A) | [Så godt at det gjør vondt](https://open.spotify.com/album/3Lh1JnSMYRjPqMHcWpkdlF) | 4:37 | 2022-03-23 | 2022-04-20 |
 | [Så lett som ingenting](https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Så lett som ingenting](https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3) | 3:49 | 2022-06-02 | 2022-11-06 |
 | [Så syng eg da ein song for deg](https://open.spotify.com/track/5JNfXFtBW50P3OftyAhNnr) | [Ine Hoem](https://open.spotify.com/artist/5MTbPbWnnllwgJBsahACzy) | [Så syng eg da ein song for deg](https://open.spotify.com/album/6Prh2JMSdlVuPUUKADBujR) | 4:02 | 2021-12-16 | 2022-01-06 |

@@ -4,7 +4,7 @@
 
 > WHO'S MY SALLY TONIGHT?
 
-2,498 songs - 5 day 5 hr 29 min
+2,499 songs - 5 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,6 +986,7 @@
 | [Hide Away](https://open.spotify.com/track/0wCMJ0s4wTZhLREbqz8i5N) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Hide Away](https://open.spotify.com/album/0SRANkHALQf6UsEnhetYnQ) | 3:24 | 2022-05-20 | 2022-05-28 |
 | [high & dry](https://open.spotify.com/track/7o96u1spqcNwctcM43jrUx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade \(high & dry / prom dress\)](https://open.spotify.com/album/14Ml9A5HvmrdpTSu0tIEz7) | 3:39 | 2019-06-29 | 2020-02-19 |
 | [High For This](https://open.spotify.com/track/5Lv2XtP4R1Nw8IstAhm8dS) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE) | [High For This](https://open.spotify.com/album/1LIvgfJdxRRyNqHKyqxWpt) | 2:52 | 2019-09-27 | 2021-03-19 |
+| [high like heaven](https://open.spotify.com/track/3meres0DABX79jyb2DX37O) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [high like heaven](https://open.spotify.com/album/0yN3ErS7WzyswjZGpzuRHk) | 2:11 | 2025-08-15 |  |
 | [high school romance](https://open.spotify.com/track/1UUnTGjJwJktSLUxYYYzYW) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P) | [high school romance](https://open.spotify.com/album/1i14AOua5Q17PpcnUgRs1D) | 2:02 | 2021-04-23 | 2021-10-16 |
 | [high sexpectations](https://open.spotify.com/track/5uxXy4vFMs0uaDvier6dlv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [high sexpectations](https://open.spotify.com/album/1Y4uaqrrgReJ33LZUuzDWh) | 2:49 | 2022-11-11 | 2022-11-14 |
 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 | 2023-06-30 | 2023-07-08 |
@@ -1247,7 +1248,7 @@
 | [Last Call](https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Last Call](https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD) | 2:54 | 2023-01-13 | 2024-10-19 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-09-24 |
 | [last few months](https://open.spotify.com/track/6qD7p6bu17jLdxgJpS9t6o) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [last few months](https://open.spotify.com/album/7tDLg1TVv3m005vLGFAqA6) | 3:22 | 2020-12-12 | 2021-11-05 |
-| [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 | 2025-06-13 |  |
+| [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 | 2025-06-13 | 2025-08-17 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 | 2025-08-01 |
 | [Late in the Evening](https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Late in the Evening](https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP) | 3:33 | 2022-11-11 | 2022-12-24 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-26 | 2022-10-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Zar feat. No Te Va Gustar",
-  "num_followers": 162011,
+  "num_followers": 162087,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Diez a\u00f1os despu\u00e9s",
+      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 247419,
       "name": "Tan Distintos",
       "url": "https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Diez a\u00f1os despu\u00e9s",
-      "url": "https://open.spotify.com/track/75ri6NVvxCULgNRrbGkfzj"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/2J0X6FPGlp14rymZQQN1ZD"
+        "name": "El Universo",
+        "url": "https://open.spotify.com/album/3TOpU3w0sTPPSKl8yt323D"
       },
       "artists": [
         {
-          "name": "Manuel Wirzt",
-          "url": "https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 254142,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/1UZCVYRJ2qZaUEMrsqIJkI"
+      "duration_ms": 136747,
+      "name": "El Universo",
+      "url": "https://open.spotify.com/track/0YBn48a0CAaS8I7FpcWAvv"
     }
   ],
   "unique_name": "Baladas Rock",

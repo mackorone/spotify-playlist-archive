@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2473338,
+  "num_followers": 2473659,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJIsxCRHPuKh38j4Rh3uN5BtA9w",
+  "snapshot_id": "AAAAAKhNfjgYe0cLGVL0f6l68i+4I8Cn",
   "tracks": [
     {
       "added_at": "2025-07-30 07:44:40",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Tanong",
-        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Kailan?",
-      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
-    },
-    {
-      "added_at": "2025-07-30 07:44:40",
-      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
+        "name": "Tanong",
+        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
       },
       "artists": [
         {
-          "name": "Lola Amour",
-          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 201806,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
+      "duration_ms": 234666,
+      "name": "Kailan?",
+      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -427,22 +411,18 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Senaryo",
-        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/65mubteFOgv2qZeSWMdNl7"
       },
       "artists": [
         {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
         }
       ],
-      "duration_ms": 201951,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
+      "duration_ms": 201806,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -459,6 +439,26 @@
       "duration_ms": 241185,
       "name": "Uhaw (Tayong Lahat)",
       "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+    },
+    {
+      "added_at": "2025-07-30 07:44:40",
+      "album": {
+        "name": "Senaryo",
+        "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2025-07-30 07:44:40",
-      "album": {
         "name": "Kisame",
         "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
       },
@@ -559,34 +543,18 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2025-07-30 07:44:40",
-      "album": {
-        "name": "Ang Mutya Ng Section E (A Viva One Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl"
-      },
-      "artists": [
-        {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Tibok",
-      "url": "https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt"
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -623,6 +591,38 @@
       "duration_ms": 341573,
       "name": "Pauwi Nako",
       "url": "https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr"
+    },
+    {
+      "added_at": "2025-07-30 07:44:40",
+      "album": {
+        "name": "Ang Mutya Ng Section E (A Viva One Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Tibok",
+      "url": "https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt"
+    },
+    {
+      "added_at": "2025-07-30 07:44:40",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2025-07-30 07:44:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-07-30 07:44:40",
       "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
-    },
-    {
-      "added_at": "2025-07-30 07:44:40",
-      "album": {
         "name": "Sinta",
         "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 316683,
       "name": "Sinta",
       "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+    },
+    {
+      "added_at": "2025-07-30 07:44:40",
+      "album": {
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     },
     {
       "added_at": "2025-07-30 07:44:40",

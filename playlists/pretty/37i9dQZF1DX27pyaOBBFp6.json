@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 23745,
+  "num_followers": 23761,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -296,6 +296,22 @@
       },
       "artists": [
         {
+          "name": "Egbert Douwe",
+          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Kom Uit De Bedstee M'n Liefste",
+      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
           "name": "Adele Bloemendaal",
           "url": "https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L"
         },
@@ -315,22 +331,6 @@
       "duration_ms": 163120,
       "name": "We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar",
       "url": "https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Egbert Douwe",
-          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Kom Uit De Bedstee M'n Liefste",
-      "url": "https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
-      },
-      "artists": [
-        {
-          "name": "Rein De Vries",
-          "url": "https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ"
-        }
-      ],
-      "duration_ms": 174960,
-      "name": "Patsy",
-      "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Die Goeie Ouwe Tijd Top 100",
         "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 159000,
       "name": "Dans Je De Hele Nacht Met Mij?",
       "url": "https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Rein De Vries",
+          "url": "https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "Patsy",
+      "url": "https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Middellandse Zee",
-        "url": "https://open.spotify.com/album/1yLrPvd8Y5bV2pHkKxjgZz"
-      },
-      "artists": [
-        {
-          "name": "Anita Berry",
-          "url": "https://open.spotify.com/artist/2Lrqb1RPGQ8vXNVTL65uL0"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Middellandse Zee",
-      "url": "https://open.spotify.com/track/5VJZNUSVtEntXztFaJWcZt"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Zai Zai Zai",
         "url": "https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 185138,
       "name": "Zai Zai Zai",
       "url": "https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Middellandse Zee",
+        "url": "https://open.spotify.com/album/1yLrPvd8Y5bV2pHkKxjgZz"
+      },
+      "artists": [
+        {
+          "name": "Anita Berry",
+          "url": "https://open.spotify.com/artist/2Lrqb1RPGQ8vXNVTL65uL0"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Middellandse Zee",
+      "url": "https://open.spotify.com/track/5VJZNUSVtEntXztFaJWcZt"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste van Armand",
-        "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
-      },
-      "artists": [
-        {
-          "name": "Armand",
-          "url": "https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Blommenkinders",
-      "url": "https://open.spotify.com/track/5VNpi0AGdtQzwUke46rKRA"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Televisie-Vriendjes",
         "url": "https://open.spotify.com/album/69LtdnsqRSOnHM8ZQdzfnV"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
-        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+        "name": "Het Beste van Armand",
+        "url": "https://open.spotify.com/album/3v789DbvAeqXKPoSwOC4q6"
       },
       "artists": [
         {
-          "name": "Trea Dobbs",
-          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+          "name": "Armand",
+          "url": "https://open.spotify.com/artist/2TjgWhGv4T3pGRalEQmiwV"
         }
       ],
-      "duration_ms": 121613,
-      "name": "De Ploem-Ploem Jenka",
-      "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
+      "duration_ms": 212933,
+      "name": "Blommenkinders",
+      "url": "https://open.spotify.com/track/5VNpi0AGdtQzwUke46rKRA"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -939,6 +923,22 @@
       "duration_ms": 197853,
       "name": "Hou Je Echt Nog Van Mij Rockin Billy !",
       "url": "https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd 2 - Top 100",
+        "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
+      },
+      "artists": [
+        {
+          "name": "Trea Dobbs",
+          "url": "https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe"
+        }
+      ],
+      "duration_ms": 121613,
+      "name": "De Ploem-Ploem Jenka",
+      "url": "https://open.spotify.com/track/4fZnBFGXhusQwxSGRyl1GY"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Rijst Met Kouseband (En Andere Poku's)",
-        "url": "https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz"
-      },
-      "artists": [
-        {
-          "name": "Max Woiski Jr.",
-          "url": "https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF"
-        }
-      ],
-      "duration_ms": 124893,
-      "name": "Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw",
-      "url": "https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Hollands Glorie Liedjes van vroeger Top 100",
         "url": "https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 315853,
       "name": "Een glaasje madeira",
       "url": "https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Rijst Met Kouseband (En Andere Poku's)",
+        "url": "https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz"
+      },
+      "artists": [
+        {
+          "name": "Max Woiski Jr.",
+          "url": "https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF"
+        }
+      ],
+      "duration_ms": 124893,
+      "name": "Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw",
+      "url": "https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A"
     },
     {
       "added_at": "2024-07-19 06:41:15",

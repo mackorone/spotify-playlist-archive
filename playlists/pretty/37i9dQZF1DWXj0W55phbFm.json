@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 73728,
+  "num_followers": 73763,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Groovin' High",
+        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Groovin' High",
-        "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/2mjlWBSR9NAyQVVhxRTgpt"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -919,38 +919,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Towards Language",
-        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 336138,
-      "name": "Groundswell",
-      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Dona Nostra",
         "url": "https://open.spotify.com/album/5ld8MkClrbCUoPIud5B80N"
       },
@@ -983,6 +951,38 @@
       "duration_ms": 227773,
       "name": "What Reason Could I Give",
       "url": "https://open.spotify.com/track/0JRq65dblAmI3REEchAfF8"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Towards Language",
+        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 336138,
+      "name": "Groundswell",
+      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 179840,
       "name": "I Lost My Gal from Memphis",
       "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1347,6 +1347,34 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Leosia",
+        "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Sta\u0144ko",
+          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
+        },
+        {
+          "name": "Bobo Stenson",
+          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
+        },
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Tony Oxley",
+          "url": "https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03"
+        }
+      ],
+      "duration_ms": 367093,
+      "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
+      "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "With The Swedish All Stars Vol. 1",
         "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
@@ -1367,22 +1395,6 @@
       "duration_ms": 320579,
       "name": "Stockholm Sweetnin'",
       "url": "https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 429666,
-      "name": "Concentric Circles",
-      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1411,30 +1423,18 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Leosia",
-        "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
       "artists": [
         {
-          "name": "Tomasz Sta\u0144ko",
-          "url": "https://open.spotify.com/artist/65WFsTQhFYVqbovrVZAOd7"
-        },
-        {
-          "name": "Bobo Stenson",
-          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
-        },
-        {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
-        },
-        {
-          "name": "Tony Oxley",
-          "url": "https://open.spotify.com/artist/38hAXjCbg6MlaUqFpdNB03"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 367093,
-      "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
-      "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+      "duration_ms": 429666,
+      "name": "Concentric Circles",
+      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Beiderbecke, Bix: Bix Lives! (1926-1930)",
         "url": "https://open.spotify.com/album/5W97y6BVQ6m3xBrfuL7MUQ"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 187200,
       "name": "Jazz Me Blues",
       "url": "https://open.spotify.com/track/2Slpoc7hyJngbrpX0wa3T5"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "Intimacy Calling - Standard Time Vol. 2",
+        "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 514293,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 552600,
       "name": "Tales For A Girl, 12",
       "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Intimacy Calling - Standard Time Vol. 2",
-        "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 514293,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
     },
     {
       "added_at": "2024-11-08 10:26:51",

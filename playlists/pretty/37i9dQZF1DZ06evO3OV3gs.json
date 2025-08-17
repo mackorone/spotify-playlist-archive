@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 690053,
+  "num_followers": 690143,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAD+0aym8fE64w+eTR/FIbuV",
+  "snapshot_id": "aJ54gAAAAAAL76aizHLnhU93ZPsrhked",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 238360,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hung Up",
         "url": "https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 202720,
       "name": "Hung Up - Radio Version",
       "url": "https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE"
     },
     {
       "added_at": null,
@@ -491,26 +491,6 @@
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Veronica Electronica",
-        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Peter Rauhofer",
-          "url": "https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "Nothing Really Matters - Club 69 Speed Mix Meets the Dub",
-      "url": "https://open.spotify.com/track/0I9gHN3Zor9DkUqiulDP2o"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Veronica Electronica",
+        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Peter Rauhofer",
+          "url": "https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Nothing Really Matters - Club 69 Speed Mix Meets the Dub",
+      "url": "https://open.spotify.com/track/0I9gHN3Zor9DkUqiulDP2o"
     },
     {
       "added_at": null,
@@ -607,6 +607,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Veronica Electronica",
+        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+        },
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 321173,
+      "name": "Drowned World / Substitute for Love - BT & Sasha's Bucklodge Ashram New Edit",
+      "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
@@ -639,30 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Veronica Electronica",
-        "url": "https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
-        },
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
-        }
-      ],
-      "duration_ms": 321173,
-      "name": "Drowned World / Substitute for Love - BT & Sasha's Bucklodge Ashram New Edit",
-      "url": "https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 289560,
       "name": "Vogue - Edit",
       "url": "https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 78293,
-      "name": "A Cinema in Buenos Aires, 26 July 1952",
-      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 337840,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 78293,
+      "name": "A Cinema in Buenos Aires, 26 July 1952",
+      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
     },
     {
       "added_at": null,
@@ -811,38 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 335733,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone Gone Gone (Original Demo Version)",
-        "url": "https://open.spotify.com/album/5HeJkWdWkPMdAR5ysM5NxA"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 279066,
-      "name": "Gone Gone Gone - Original Demo Version",
-      "url": "https://open.spotify.com/track/1LbwREbw5dfkeEj9zKC5hi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -859,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 335733,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 262320,
       "name": "Forbidden Love",
       "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Gone Gone (Original Demo Version)",
+        "url": "https://open.spotify.com/album/5HeJkWdWkPMdAR5ysM5NxA"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Gone Gone Gone - Original Demo Version",
+      "url": "https://open.spotify.com/track/1LbwREbw5dfkeEj9zKC5hi"
     }
   ],
   "unique_name": "This Is Madonna",

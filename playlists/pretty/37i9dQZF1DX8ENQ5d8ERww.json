@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12874,
+  "num_followers": 12875,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-07-24 13:47:10",
       "album": {
-        "name": "Du & Ich",
-        "url": "https://open.spotify.com/album/76WhAV5kBQARS2T6Dk39RU"
-      },
-      "artists": [
-        {
-          "name": "Bligg'N'Lexx",
-          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
-        },
-        {
-          "name": "Pete Penicka",
-          "url": "https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "Du & Ich - Radio Edit",
-      "url": "https://open.spotify.com/track/5Ej5atpjCZcFmu1OTXeFHx"
-    },
-    {
-      "added_at": "2025-07-24 13:47:10",
-      "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/2f5D1RmL2eg6iWFZPjPBxF"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 248000,
       "name": "Hip Hop Kultur (feat. Black Tiger & Skelt!)",
       "url": "https://open.spotify.com/track/1FuozMI3cN9K7eZUoaYl5a"
+    },
+    {
+      "added_at": "2025-07-24 13:47:10",
+      "album": {
+        "name": "Du & Ich",
+        "url": "https://open.spotify.com/album/76WhAV5kBQARS2T6Dk39RU"
+      },
+      "artists": [
+        {
+          "name": "Bligg'N'Lexx",
+          "url": "https://open.spotify.com/artist/2YTqyRWexXW6jaGClLdCiK"
+        },
+        {
+          "name": "Pete Penicka",
+          "url": "https://open.spotify.com/artist/2isO7oz1eaYNOlFJCUbWSN"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Du & Ich - Radio Edit",
+      "url": "https://open.spotify.com/track/5Ej5atpjCZcFmu1OTXeFHx"
     },
     {
       "added_at": "2025-07-24 13:47:10",

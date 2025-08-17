@@ -341,6 +341,32 @@
     },
     {
       "album": {
+        "name": "De M\u00fasica Ligera",
+        "url": "https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "De M\u00fasica Ligera",
+      "url": "https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG"
+    },
+    {
+      "album": {
         "name": "Vueltas De La Vida",
         "url": "https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7"
       },
@@ -610,6 +636,24 @@
       "duration_ms": 189450,
       "name": "Hasta el Dia de Hoy",
       "url": "https://open.spotify.com/track/17OipakbVTusJ6e6MeQSNw"
+    },
+    {
+      "album": {
+        "name": "Heisenberg",
+        "url": "https://open.spotify.com/album/0DwmfIRLTlKWbYm9mH0y4S"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178114,
+      "name": "Heisenberg",
+      "url": "https://open.spotify.com/track/6QCupuIoTrOUxO214431rw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,579 songs - 19 day 14 hr 10 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,580 songs - 19 day 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7499,7 +7499,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7489 | [Luv \(sic\) pt2](https://open.spotify.com/track/6gSalwEvVQfSFiqgwfyITp) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:33 |
 | 7490 | [Piano Concerto No\. 2 in C Minor, Op\. 18: 2\. Adagio sostenuto](https://open.spotify.com/track/4rrrn8OLrttq7r9RgNXalU) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Michael Francis](https://open.spotify.com/artist/4znpeZQkiPbcXtHlRbfTqF) | [Rachmaninov: Piano Concerto No.2](https://open.spotify.com/album/5lVqgXqdoIH3W1wUM2hzPx) | 10:44 |
 | 7491 | [Evil Woman](https://open.spotify.com/track/4N6HYihypXOVL24bnaR4fp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [All Over The World: The Very Best Of ELO](https://open.spotify.com/album/1npNR6mWuE6qaqU3GGpNTB) | 4:11 |
-| 7492 | [Red Rose](https://open.spotify.com/track/61FX2iQOlgHjTStwENyg0T) | [Woo Ye Rin	](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Day : 바람의 옷을 입고 초록을 달리네](https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5) | 3:34 |
+| 7492 | [Red Rose](https://open.spotify.com/track/61FX2iQOlgHjTStwENyg0T) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Day : 바람의 옷을 입고 초록을 달리네](https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5) | 3:34 |
 | 7493 | [still love me? \(My Sweden Laundry \#2\)](https://open.spotify.com/track/0yTFx0iWAbm2yAKcrIXe7O) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [still love me? \(My Sweden Laundry \#2\)](https://open.spotify.com/album/6AfXs8y1KSRATouzb4vdf0) | 2:50 |
 | 7494 | [내생에 봄날은...](https://open.spotify.com/track/7p5vCCJi48DHb3X4sFFZnu) | [CAN](https://open.spotify.com/artist/2c1h7Xz5KxOeVuwfz8HTGQ) | [Can With Piano](https://open.spotify.com/album/3YiTiVLwE5I7zLGYpD8JYB) | 4:02 |
 | 7495 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
@@ -7587,5 +7587,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7577 | [More One Night](https://open.spotify.com/track/4w9liUG6jNrzTr7owXb0Mh) | [チト\(CV:水瀬いのり\)](https://open.spotify.com/artist/2cHhOd4brIQTAAJxbVoK3A), [ユーリ\(CV:久保ユリカ\)](https://open.spotify.com/artist/00PGeyhFEAm7jfV8bkUTo0) | [TVアニメ「少女終末旅行」エンディングテーマ「More One Night」](https://open.spotify.com/album/7bA5Y1dCxPnFpPxQssAbiA) | 3:40 |
 | 7578 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 | 7579 | [Ride \(feat\. Do or Die\)](https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 2:59 |
+| 7580 | [아름다운 세상](https://open.spotify.com/track/4uh2B2Ps2Nci12nkzcj1nH) | [Yurisangja](https://open.spotify.com/artist/0yHsQ2vzDleLT7qjgo7qt7) | [All That Yurisangja](https://open.spotify.com/album/2AFoXmIqS5xgmaCzQRBtlY) | 3:34 |
 
-Snapshot ID: `AAAIYWtrDiKCKNF/WXTCpI6PGhj0mQQk`
+Snapshot ID: `AAAIYkW9FyAS3NZuJiHxBoJv2zsafZRx`

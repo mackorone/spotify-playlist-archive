@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4URHBvyj3VW.md) - [plain]
 
 > The switch is back! Listen to your favorite music from the original Freaky Friday and the brand\-new Freakier Friday, in theaters now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,797 likes - 38 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,182 likes - 38 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

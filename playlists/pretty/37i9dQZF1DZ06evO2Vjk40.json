@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 693254,
+  "num_followers": 693415,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAABub523LX/GFfT4ZAM2I3A",
+  "snapshot_id": "aJ54gAAAAABPalIAxzZHH6zY3GgZESjG",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 248053,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
+      "duration_ms": 243093,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/7sO969CnGNCZ7kDravLtPO"
     },
     {
       "added_at": null,
@@ -788,33 +788,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 243093,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/7sO969CnGNCZ7kDravLtPO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLOW (with Chris Stapleton & Bruno Mars)",
-        "url": "https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
-      "url": "https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM"
+      "duration_ms": 248053,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
     },
     {
       "added_at": null,
@@ -835,6 +811,30 @@
       "duration_ms": 226853,
       "name": "Joy",
       "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
     },
     {
       "added_at": null,

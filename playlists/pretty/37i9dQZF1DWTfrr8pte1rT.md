@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Tokyo Machine  \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,237 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,271 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 79 | [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 |
 | 80 | [The Beginning](https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Beginning](https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5) | 4:11 |
 | 81 | [Unbound](https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Unbound](https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi) | 3:47 |
-| 82 | [Devils](https://open.spotify.com/track/0l8Z7ihxlxHWwoyxyalZ1r) | [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Devils](https://open.spotify.com/album/320iHDUkfTSlAcTxyM3xAz) | 3:58 |
-| 83 | [Fireball](https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [MELLODEATH Tapes Vol\. I](https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc) | 3:15 |
+| 82 | [Fireball](https://open.spotify.com/track/1r7WUr8dw048EcIXA90lg2) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0), [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [MELLODEATH Tapes Vol\. I](https://open.spotify.com/album/127BvEDtmAoZak4Y8Q1Emc) | 3:15 |
+| 83 | [Devils](https://open.spotify.com/track/0l8Z7ihxlxHWwoyxyalZ1r) | [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Devils](https://open.spotify.com/album/320iHDUkfTSlAcTxyM3xAz) | 3:58 |
 | 84 | [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 |
 | 85 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 |
 | 86 | [Wouldn’t Change A Thing](https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Wouldn’t Change A Thing](https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb) | 3:07 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 120 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
 | 121 | [Next To You](https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Next To You](https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj) | 2:51 |
 | 122 | [Dark Void \- Sullivan King Remix](https://open.spotify.com/track/1Q6XaN68AR4f9QNk0HiVha) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Dark Void EP](https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd) | 3:09 |
-| 123 | [Enemy Brain](https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain Entertainment Suite](https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b) | 4:11 |
-| 124 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
+| 123 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
+| 124 | [Enemy Brain](https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Enemy Brain Entertainment Suite](https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b) | 4:11 |
 | 125 | [Ritual](https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Ritual](https://open.spotify.com/album/1lT3ohVQ41Rvq17iDLFOZq) | 4:06 |
 
 Snapshot ID: `AAAAAOueDBJgbBRMYU97KH+LMCdPsJpn`

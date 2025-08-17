@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo"
+    },
+    {
+      "album": {
         "name": "Dodo Birds",
         "url": "https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft"
       },

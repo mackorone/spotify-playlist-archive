@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,172 songs - 9 day 4 hr 53 min
+4,173 songs - 9 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [ACTIN UP](https://open.spotify.com/track/1Nk1kQx3HmUaobcAu9S26f) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ACTIN UP](https://open.spotify.com/album/5qzqgeNDDbRmfiw1umMIM3) | 2:13 | 2025-02-25 | 2025-03-05 |
 | [Active](https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:52 | 2024-08-27 | 2024-09-01 |
 | [Adaline](https://open.spotify.com/track/45VAz8CDfeOUVeFernZH1J) | [Tyce Delk](https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f) | [Adaline](https://open.spotify.com/album/4tMOmDInz1T9UvHhj54e3R) | 3:44 | 2025-08-05 | 2025-08-08 |
-| [Adaline](https://open.spotify.com/track/6zoq2IObGRnwkZDGEKZVTi) | [Tyce Delk](https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f) | [Adaline](https://open.spotify.com/album/4rHdm5YC78WE0r5OjPsJU4) | 3:44 | 2025-08-08 |  |
+| [Adaline](https://open.spotify.com/track/6zoq2IObGRnwkZDGEKZVTi) | [Tyce Delk](https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f) | [Adaline](https://open.spotify.com/album/4rHdm5YC78WE0r5OjPsJU4) | 3:44 | 2025-08-08 | 2025-08-17 |
 | [Adaline](https://open.spotify.com/track/3j9JgZHnzykzAYaR6tmzeD) | [Tyce Delk](https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f) | [Adaline](https://open.spotify.com/album/0d9hrvI7TCq7U66twLPfP4) | 3:44 | 2025-08-07 | 2025-08-09 |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-04-16 | 2024-06-02 |
 | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [LEWS](https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL), [FIRSTCLASS](https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK), [TIMID.](https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg) | [Addicted \(feat\. TIMID.\)](https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs) | 2:14 | 2025-07-27 |  |
@@ -1208,6 +1208,7 @@
 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 | 2024-09-07 | 2024-09-16 |
 | [flex fm \(freddit\)](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\)](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 | 2024-08-27 | 2024-09-13 |
 | [Flights](https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc) | [BandoPop](https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Flights](https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd) | 3:26 | 2022-01-18 | 2022-02-02 |
+| [FLIRT](https://open.spotify.com/track/72dMSqYRAUzsZj1E8BUbFB) | [Slevpy808](https://open.spotify.com/artist/0NRPZs1M9XVUcy11A9mkXf), [Cutty Vibez](https://open.spotify.com/artist/1UkCLh64SVsVv3oSjPlzGQ) | [FLIRT](https://open.spotify.com/album/0NMpcDJVkbG5GELUmH3i59) | 2:35 | 2025-08-16 |  |
 | [Float](https://open.spotify.com/track/79X3dUeEnrYoJMQM3I8ZTG) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Float](https://open.spotify.com/album/5DCRR6UHRl5R3ZE4lcTwbD) | 3:34 | 2022-08-02 | 2022-08-10 |
 | [Floor It](https://open.spotify.com/track/4tRls4eOIDQdGNtnQwk8KI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 3:12 | 2024-12-02 | 2024-12-04 |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-03-13 | 2024-04-03 |

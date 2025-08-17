@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,350 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,356 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cambalache \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/2cebuDRXBsi89lb1Jz3TFs) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:04 |
-| 2 | [Adiós Muchachos](https://open.spotify.com/track/4I0SK7HDyVKL3ycr8lBMsc) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [La Historia Completa De Carlos Gardel \- Volumen 6](https://open.spotify.com/album/4gmnUTT6lzn7EcyNqjVnNh) | 2:29 |
+| 2 | [La cumparsita](https://open.spotify.com/track/2joB3G4b527szRVC6L5VYL) | [Juan D'Arienzo](https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4) | [Orquesta Juan D' Arienzo \- La cumparsita](https://open.spotify.com/album/0ZmzauQgjoSoVd9QGzPfW9) | 3:42 |
 | 3 | [Jugar Con Fuego](https://open.spotify.com/track/24P2QUnDcKOcPL4umczz39) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Jugar Con Fuego](https://open.spotify.com/album/6fI5p3T9SCZYudbeziHmfb) | 2:57 |
-| 4 | [La cumparsita](https://open.spotify.com/track/2joB3G4b527szRVC6L5VYL) | [Juan D'Arienzo](https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4) | [Orquesta Juan D' Arienzo \- La cumparsita](https://open.spotify.com/album/0ZmzauQgjoSoVd9QGzPfW9) | 3:42 |
+| 4 | [Adiós Muchachos](https://open.spotify.com/track/4I0SK7HDyVKL3ycr8lBMsc) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [La Historia Completa De Carlos Gardel \- Volumen 6](https://open.spotify.com/album/4gmnUTT6lzn7EcyNqjVnNh) | 2:29 |
 | 5 | [Se Dice De Mi](https://open.spotify.com/track/7rb5qQHrnnwUwS4udW6J8H) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:28 |
 | 6 | [Mano a Mano \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/6Wo9pGMG6SeqTyhjAbcQbw) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Tango Lo Siento Así](https://open.spotify.com/album/7amr3RlvimM5xJ3ipKCiv9) | 3:12 |
 | 7 | [Milonga de mis amores \- Estilo Pedro Laurenz](https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK) | [SEXTETO VISCERAL](https://open.spotify.com/artist/5OyqRQZbRb8r3TGDGf6X8C) | [Milonga de mis amores](https://open.spotify.com/album/5NZALaO88l6G50M9IpVwA9) | 2:22 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 76 | [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 |
 | 77 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
 | 78 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
-| 79 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 |
-| 80 | [Revuelo sur](https://open.spotify.com/track/7944IqWQ10wwbTgzuct4RO) | [Susy Shock](https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY), [La Bandada de Colibríes](https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO) | [Revuelo Sur](https://open.spotify.com/album/3HiRTZaJVTT4HglplKZmF2) | 3:10 |
+| 79 | [Revuelo sur](https://open.spotify.com/track/7944IqWQ10wwbTgzuct4RO) | [Susy Shock](https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY), [La Bandada de Colibríes](https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO) | [Revuelo Sur](https://open.spotify.com/album/3HiRTZaJVTT4HglplKZmF2) | 3:10 |
+| 80 | [Tinta Roja](https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tinta Roja](https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4) | 3:08 |
 
 Snapshot ID: `AAAAABDpQ3OnX4dIpmCeXTOlKaj4aSlJ`

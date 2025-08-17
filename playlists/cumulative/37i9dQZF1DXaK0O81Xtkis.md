@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring MGK
 
-1,428 songs - 2 day 23 hr 7 min
+1,429 songs - 2 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Don't Take The Night](https://open.spotify.com/track/7sWnUG7lH6vjFiJlrFH8EA) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Don't Take The Night](https://open.spotify.com/album/04Ss9muqWdaSGvYBCWvEoA) | 3:49 | 2025-02-28 | 2025-05-17 |
 | [Don't Tell The Girls](https://open.spotify.com/track/3zMr8WPJTChcnrJR2kXqHa) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Don’t Tell The Girls](https://open.spotify.com/album/1U932jtjwu2EAPpJgAgmGR) | 3:04 | 2025-04-04 | 2025-06-07 |
 | [don't wanna be your friend](https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend](https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr) | 2:45 | 2022-10-14 | 2022-12-03 |
+| [Don't Waste Your Love On Me](https://open.spotify.com/track/6eCdFhskFCVIO5vf6FgDfJ) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Don't Waste Your Love On Me](https://open.spotify.com/album/2uWdNOrNf2se8aanR3DiId) | 3:08 | 2025-08-17 |  |
 | [Don't You Worry](https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Don't You Worry](https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV) | 2:42 | 2022-07-15 | 2022-09-17 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-16 | 2025-06-21 |
 | [Don’t You Dare](https://open.spotify.com/track/15OXdwbUlsHhyaEfqSxlZJ) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Don’t You Dare](https://open.spotify.com/album/3COjdSCHZ3pY8bs49ZlbNK) | 2:44 | 2025-02-07 | 2025-04-12 |
@@ -440,7 +441,7 @@
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2024-08-16 | 2024-10-19 |
 | [Fling for the Summer](https://open.spotify.com/track/2gtm8uC0kTOm87OKcuvLxo) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Fling for the Summer](https://open.spotify.com/album/1R3ckMl7RHuEhYEPFACpUM) | 2:06 | 2023-07-28 | 2023-09-16 |
 | [FLORIDA](https://open.spotify.com/track/7x73321FbMqdxsaZBhlyzc) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [FLORIDA](https://open.spotify.com/album/6czpw6gDlrFGb1rbrlxdAI) | 2:25 | 2024-03-08 | 2024-04-27 |
-| [Florida California \(State of Mind\)](https://open.spotify.com/track/4jRNRiUAwyKaz2ogK8ESvn) | [Dylan Cotrone](https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU) | [Florida California \(State of Mind\)](https://open.spotify.com/album/1bFYQ8FnOc29LrzYNHFmvp) | 2:27 | 2025-06-06 |  |
+| [Florida California \(State of Mind\)](https://open.spotify.com/track/4jRNRiUAwyKaz2ogK8ESvn) | [Dylan Cotrone](https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU) | [Florida California \(State of Mind\)](https://open.spotify.com/album/1bFYQ8FnOc29LrzYNHFmvp) | 2:27 | 2025-06-06 | 2025-08-17 |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 | 2023-02-04 |
 | [Foolish](https://open.spotify.com/track/6Ul6j61QulfLucooYMcrtV) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Foolish](https://open.spotify.com/album/1MKF7YY7sSoNFqA5muU38C) | 3:10 | 2024-01-26 | 2024-03-30 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-05-28 |

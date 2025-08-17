@@ -907,6 +907,36 @@
     },
     {
       "album": {
+        "name": "Scarlett\u00b4s",
+        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "Scarlett\u00b4s",
+      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
+    },
+    {
+      "album": {
         "name": "Sobra y Falta",
         "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
       },

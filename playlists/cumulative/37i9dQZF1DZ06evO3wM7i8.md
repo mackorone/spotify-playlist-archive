@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 30 min
+51 songs - 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Minor Swing](https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:16 | 2025-07-20 |  |
 | [Montmartre](https://open.spotify.com/track/0XX4H46p4ahalPWzLz1zrr) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Rex Stewart](https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:25 | 2025-07-20 |  |
 | [Moonglow](https://open.spotify.com/track/4Xd6tNggPuGqq6DMdwymCp) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 3:04 | 2025-07-20 |  |
-| [My Melancholy Baby](https://open.spotify.com/track/7lq8o4DEGJU9lJnDrHKB9B) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 |  |
+| [My Melancholy Baby](https://open.spotify.com/track/1SDvm4WAujlsLkj0R1YCYu) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:48 | 2025-08-17 |  |
+| [My Melancholy Baby](https://open.spotify.com/track/7lq8o4DEGJU9lJnDrHKB9B) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 | 2025-08-17 |
 | [My Serenade](https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 3:02 | 2025-07-20 |  |
 | [Nagasaki](https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol.2 / 1936 \- 1937](https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2) | 2:51 | 2025-07-20 |  |
 | [Naguine](https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:29 | 2025-07-20 |  |

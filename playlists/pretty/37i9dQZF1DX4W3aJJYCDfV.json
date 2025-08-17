@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Olivia Dean, Steve Lacy, Dijon and more!",
-  "num_followers": 923021,
+  "num_followers": 923056,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -592,12 +592,12 @@
       },
       "artists": [
         {
-          "name": "Brodie",
-          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
-        },
-        {
           "name": "Born On Road",
           "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
         }
       ],
       "duration_ms": 217411,

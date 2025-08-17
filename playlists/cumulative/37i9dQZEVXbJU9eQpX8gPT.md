@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,810 songs - 4 day 2 hr 41 min
+1,811 songs - 4 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1640,6 +1640,7 @@
 | [Tsunami](https://open.spotify.com/track/5nPUi1FjzXA2Ur35LIS0X3) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:37 | 2023-02-18 | 2023-02-20 |
 | [Tt Va Bien](https://open.spotify.com/track/4Tid3jOcqtTtvGe4IQO5Kv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tt Va Bien](https://open.spotify.com/album/2DbK52rV0HWp7jVKJXDQ2s) | 2:38 | 2021-05-17 | 2022-01-30 |
 | [TTT](https://open.spotify.com/track/5MJeXPp7TRk6FV8eLNofrA) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [TTT](https://open.spotify.com/album/3r0oic7aHB18g1SifqxbaJ) | 3:02 | 2022-04-09 | 2022-04-29 |
+| [TU ME RENDS BÊTE](https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [TU ME RENDS BÊTE](https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2) | 2:45 | 2025-08-16 |  |
 | [Tukoh Taka \- Official FIFA Fan Festival™ Anthem](https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Myriam Fares](https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Tukoh Taka \(Official FIFA Fan Festival™Anthem\)](https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO) | 2:58 | 2022-12-07 | 2022-12-13 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-24 | 2025-02-22 |
 | [TWINS](https://open.spotify.com/track/3IeTr3DQ1SSTrBGUUAGqln) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-01-10 |  |
@@ -1800,7 +1801,7 @@
 | [Τ\. CHIALER](https://open.spotify.com/track/3xkB3FONm2ZZKUpo5NRYGa) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [YG Pablo](https://open.spotify.com/artist/3UHc2YZGHYS6TEYMJeDf1D) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 3:48 | 2021-04-30 | 2021-05-07 |
 | [Υ\. 2 DIAMANTS](https://open.spotify.com/track/1swQocGVyXMAamWDjNzoLx) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 3:17 | 2021-04-30 | 2021-05-07 |
 | [Φ\. THEVIE RADIO](https://open.spotify.com/track/4URf8X1z0ZGaPemh0dKx2M) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 3:54 | 2021-04-30 | 2021-05-06 |
-| [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 | 2025-06-08 |  |
+| [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 | 2025-06-08 | 2025-08-17 |
 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 | 2023-02-23 | 2023-05-28 |
 | [بتمنى أنساك](https://open.spotify.com/track/0Rv0N34JIc3XGK5x2ohPOG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بتمنى أنساك](https://open.spotify.com/album/2qjCon1r5mx9dxpMLwwDuG) | 2:59 | 2025-06-27 | 2025-07-03 |
 | [درجة درجة](https://open.spotify.com/track/1GrF2SzPPCOVyWHEhUrKUU) | [Lefaa](https://open.spotify.com/artist/0RmVpYw1xZbaawRQlwNGHW), [Amine Semma](https://open.spotify.com/artist/4DxhnaiklqCU8TSbG4UQrd) | [درجة درجة](https://open.spotify.com/album/3GJ9zOwjUAmZwOcazZLIYl) | 2:18 | 2022-03-15 | 2022-04-09 |

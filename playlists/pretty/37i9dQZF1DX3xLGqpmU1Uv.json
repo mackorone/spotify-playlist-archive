@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 174571,
+  "num_followers": 174609,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Al Claro de Luna",
-        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
-      },
-      "artists": [
-        {
-          "name": "Rafael V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
-        }
-      ],
-      "duration_ms": 111493,
-      "name": "Al Claro de Luna",
-      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Coraz\u00f3n Loco",
         "url": "https://open.spotify.com/album/08XD8IgAqvepttmUV4B1FE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 113266,
       "name": "Yo No Fui",
       "url": "https://open.spotify.com/track/6DHJHTkZ0kveYy5L41Us7Y"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Al Claro de Luna",
+        "url": "https://open.spotify.com/album/25JxL7hnzWG9HdTqeBZhGl"
+      },
+      "artists": [
+        {
+          "name": "Rafael V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/56UYVyXvw0Nb7iFKoiajGd"
+        }
+      ],
+      "duration_ms": 111493,
+      "name": "Al Claro de Luna",
+      "url": "https://open.spotify.com/track/23xY5vuCuLJfU8YRrpRdcY"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -720,13 +720,13 @@
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
         }
       ],
-      "duration_ms": 166603,
-      "name": "Tumbaloflesicodelicomicoso",
-      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
+      "duration_ms": 126827,
+      "name": "Hava Naguila",
+      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -736,13 +736,13 @@
       },
       "artists": [
         {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 126827,
-      "name": "Hava Naguila",
-      "url": "https://open.spotify.com/track/1Bup946FiEFhuxFmj2Y5xE"
+      "duration_ms": 166603,
+      "name": "Tumbaloflesicodelicomicoso",
+      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
     },
     {
       "added_at": "2024-07-12 13:46:41",

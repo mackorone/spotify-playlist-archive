@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-417 songs - 1 day 1 hr 32 min
+418 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-06 | 2025-07-11 |
 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 | 2025-07-03 |  |
 | [Helen of Hammersmith Bridge](https://open.spotify.com/track/3NGgTwc729hicuKpErwASC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [First Loves](https://open.spotify.com/album/2KSGfv7hOKQz1eld08fkBb) | 4:16 | 2023-07-04 | 2023-07-22 |
-| [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 | 2024-04-15 |  |
+| [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 | 2024-04-15 | 2025-08-17 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 |  |
 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 | 2022-11-25 | 2023-01-10 |
 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 | 2022-11-25 | 2024-04-19 |
@@ -221,6 +221,7 @@
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2022-11-25 |  |
 | [Les montagnes de Corée](https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Les montagnes de Corée](https://open.spotify.com/album/4gGUSlybPIo465qR464coa) | 3:17 | 2024-04-15 | 2025-06-22 |
 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 | 2024-04-15 |  |
+| [Lesbian Of The Year](https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Lesbian Of The Year](https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW) | 3:33 | 2025-08-14 |  |
 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 | 2022-11-25 | 2024-04-19 |
 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 | 2022-11-25 | 2023-02-22 |
 | [Let You Go](https://open.spotify.com/track/2pK3jFRZt9Yqpl1mAEwcEr) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/5IOq1HOpMp9raDkcl4Mjsh) | 3:52 | 2023-12-13 | 2024-04-19 |

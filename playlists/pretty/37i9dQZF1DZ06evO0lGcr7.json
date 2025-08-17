@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47273,
+  "num_followers": 47274,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACkyx+pG80ZPbTgglfK/SJ2",
+  "snapshot_id": "aJ54gAAAAACLqkImGJnakKc20OwJu0Y+",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "blister in the sun",
-      "url": "https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
@@ -443,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "please don't",
-        "url": "https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR"
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
         {
@@ -452,9 +436,25 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 256601,
-      "name": "please don't",
-      "url": "https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i"
+      "duration_ms": 144440,
+      "name": "blister in the sun",
+      "url": "https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "dance (end of the world)",
+      "url": "https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+        "name": "please don't",
+        "url": "https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158426,
-      "name": "dance (end of the world)",
-      "url": "https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4"
+      "duration_ms": 256601,
+      "name": "please don't",
+      "url": "https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+      "duration_ms": 246626,
+      "name": "unspoken words",
+      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 246626,
-      "name": "unspoken words",
-      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
     },
     {
       "added_at": null,

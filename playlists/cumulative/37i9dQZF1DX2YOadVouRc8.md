@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-660 songs - 1 day 8 hr 2 min
+661 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-11-22 | 2025-07-18 |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-06-01 |
 | [Awolowo](https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3) | 2:15 | 2024-08-29 | 2025-01-17 |
+| [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 |  |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2022-06-09 | 2024-06-15 |
 | [BAD 4 ME](https://open.spotify.com/track/5AtlUqgx9gKkxnK7ogynPn) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [BAD 4 ME](https://open.spotify.com/album/4FDkDPETtPpH0ede2qV1hN) | 2:20 | 2022-12-08 | 2023-03-25 |
 | [Bad Belle](https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad Belle](https://open.spotify.com/album/1C5CS9qseNOh13TsHRUK4d) | 3:26 | 2025-03-14 | 2025-07-05 |
@@ -258,7 +259,7 @@
 | [I Dey Slide](https://open.spotify.com/track/3lzeRhDFuhqI21l6tnsUx7) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ) | [I Dey Slide](https://open.spotify.com/album/3DPXpC2nWKUoSFmU9ejvgo) | 3:22 | 2024-02-02 | 2024-03-09 |
 | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/track/2xCAYXRU26CeRNchBUs91p) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [I Made It \(feat\. Bobby Shmurda & Bien\)](https://open.spotify.com/album/7yJk5o612tCEOe2mEaCX7t) | 4:28 | 2024-02-02 | 2024-03-22 |
 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 | 2025-08-01 |  |
-| [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 |  |
+| [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 | 2025-08-17 |
 | [I Saw An Angel On The Roof & Wept](https://open.spotify.com/track/0bDSVRBBZDLCVHhCH3mMXz) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Heart Of The Heavenly Undeniable \(HOTHU\)](https://open.spotify.com/album/198JrQy13MkMT65kWGoo59) | 2:13 | 2022-11-25 | 2023-05-09 |
 | [IDG](https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:07 | 2022-06-09 | 2022-10-01 |
 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 | 2024-11-22 | 2025-02-22 |

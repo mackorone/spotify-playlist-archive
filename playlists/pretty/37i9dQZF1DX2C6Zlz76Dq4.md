@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,248 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,247 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

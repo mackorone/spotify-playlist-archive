@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4492,7 +4492,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 205933,
       "name": "Azul",
       "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
@@ -4998,7 +4998,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
@@ -5994,7 +5994,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -29516,7 +29516,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -41954,7 +41954,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -43358,6 +43358,28 @@
       "duration_ms": 181226,
       "name": "saudade, saudade",
       "url": "https://open.spotify.com/track/4S4Amrpr631M16IIXqRk73"
+    },
+    {
+      "album": {
+        "name": "Banditorinho 2",
+        "url": "https://open.spotify.com/album/1MRdWNh2d1HGfayGvHdaip"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109280,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/2Ed0ve2x6FVzEVKYVbPfGq"
     },
     {
       "album": {
@@ -44936,7 +44958,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -48193,6 +48215,28 @@
     },
     {
       "album": {
+        "name": "Banditorinho 2",
+        "url": "https://open.spotify.com/album/1MRdWNh2d1HGfayGvHdaip"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Sure Shots",
+      "url": "https://open.spotify.com/track/2rus6RzlKwTYPod5pFBcUU"
+    },
+    {
+      "album": {
         "name": "Sure Shots",
         "url": "https://open.spotify.com/album/17O5lB1crIROppolN6toHG"
       },
@@ -50152,7 +50196,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -52443,6 +52487,28 @@
     },
     {
       "album": {
+        "name": "TU ME RENDS B\u00caTE",
+        "url": "https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "TU ME RENDS B\u00caTE",
+      "url": "https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK"
+    },
+    {
+      "album": {
         "name": "Tu Quizas",
         "url": "https://open.spotify.com/album/4QNbNEIpiBVC9dsXk5OEqQ"
       },
@@ -53008,6 +53074,28 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
+    },
+    {
+      "album": {
+        "name": "Banditorinho 2",
+        "url": "https://open.spotify.com/album/1MRdWNh2d1HGfayGvHdaip"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171160,
+      "name": "Uncut",
+      "url": "https://open.spotify.com/track/2bW6Ir2ZHO32KJHyYdI46u"
     },
     {
       "album": {
@@ -53898,7 +53986,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"

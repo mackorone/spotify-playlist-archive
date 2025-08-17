@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 140816,
       "name": "a me mi piace (feat. Manu Chao)",
       "url": "https://open.spotify.com/track/7oJtUqvumujVKarcXa1SPj"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 217500,
       "name": "Anche Stasera",
       "url": "https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj"
@@ -4986,10 +4986,32 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 180302,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/4KVniEaketaWkpVFVrIEgw"
+    },
+    {
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/65YL1tAQfGR90srSaOG48A"
+      },
+      "artists": [
+        {
+          "name": "Banfy",
+          "url": "https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8"
+        },
+        {
+          "name": "Sheridan",
+          "url": "https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180313,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/4yU3KRhKSYaj0ERbv629R7"
     },
     {
       "album": {
@@ -13192,7 +13214,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 212148,
       "name": "Depresso fortunato",
       "url": "https://open.spotify.com/track/0xju4u3DFjOy1fhITDPZ6B"
@@ -13214,7 +13236,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 212148,
       "name": "Depresso fortunato",
       "url": "https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ"
@@ -36568,7 +36590,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 169180,
       "name": "OH MA",
       "url": "https://open.spotify.com/track/1uymk7hJ8fAi75Jxh79h63"
@@ -38952,7 +38974,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5nFyfjGy6AMZqkW0OMUWJJ"

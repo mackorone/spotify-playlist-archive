@@ -4,7 +4,7 @@
 
 > Melek Mosso ve haftanın en iyi çıkışları!
 
-2,685 songs - 5 day 15 hr 11 min
+2,687 songs - 5 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Aldandım](https://open.spotify.com/track/6A8VkKf7vemtpdfGrN4tHc) | [Yuşa Kürkcü](https://open.spotify.com/artist/69rrO4uBkRRa1gQH0p1OmB) | [Aldandım](https://open.spotify.com/album/1ePiASn8bWTdSzsbZv2dpC) | 2:54 | 2025-06-26 | 2025-07-04 |
 | [Aldatarak](https://open.spotify.com/track/0W4mzq7ZbonRFsr49t943x) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Aldatarak](https://open.spotify.com/album/6MABGFJymHDYUvW1Gep82g) | 2:20 | 2025-04-24 | 2025-05-02 |
 | [Aldılar Hevesimi](https://open.spotify.com/track/3ZzzYuesh4mNOLzk1ibH5d) | [Ekin Uzunlar](https://open.spotify.com/artist/35ngoeYRyOveM0rPvahkot) | [Aldılar Hevesimi](https://open.spotify.com/album/5nC0fAZTLP58GC2sq1mALX) | 2:14 | 2025-06-12 | 2025-06-20 |
+| [Alem](https://open.spotify.com/track/02qdhIhzfdgR97MBHjk2mY) | [EFE](https://open.spotify.com/artist/7cToz5qpJ36piEZpiRqQsJ), [Bengisu Doğan](https://open.spotify.com/artist/16k7HHpFqCF9n306owStSh) | [Alem](https://open.spotify.com/album/3xQM5rs1nAdUDeFwwMsU0E) | 2:59 | 2025-08-15 |  |
 | [Alev Alev](https://open.spotify.com/track/56kngvYyFbuqoCaP2urRh8) | [Vento](https://open.spotify.com/artist/6AVltkaemYSoibjVs2Tf6J), [yirmibir](https://open.spotify.com/artist/6oWrLP1fMoSIHk7fcTlRb8) | [Alev Alev](https://open.spotify.com/album/33u95C6TCSl49rM8YEjtdJ) | 2:50 | 2025-05-22 | 2025-05-30 |
 | [ali baba](https://open.spotify.com/track/62ay5oDY3jTbPoGcTRPsTE) | [Flu](https://open.spotify.com/artist/6fYnlrTks0Ee7VodY4kUby), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [ali baba](https://open.spotify.com/album/5DJToyS8ziZ2KjSAICw6to) | 2:28 | 2025-08-14 |  |
 | [ALIVE](https://open.spotify.com/track/6gfO4hhEu55JRGsFHkkFDJ) | [Furkan Uçar](https://open.spotify.com/artist/4J3xSCmG6BaKZoVmAY8rA5) | [ALIVE](https://open.spotify.com/album/1OmcXCLFzHEHsgA1SQrn66) | 4:00 | 2025-07-24 | 2025-08-01 |
@@ -855,7 +856,7 @@
 | [Geberecektim](https://open.spotify.com/track/2t5wV6RxDM523d7ejP2oI8) | [Can Baydar](https://open.spotify.com/artist/1TKAV7Rj6ElufFElp7zLRv) | [Her Şey Geçer](https://open.spotify.com/album/2uA2aFYXzwtzDIPLlh95zI) | 2:54 | 2025-05-08 | 2025-05-16 |
 | [Gece Boyu](https://open.spotify.com/track/3TmxBVYIHQr3khR7rSk0PU) | [Chef Bi](https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM) | [Gece Boyu](https://open.spotify.com/album/4GCpJE2DUHSWSjMNzO00Yh) | 2:25 | 2025-02-27 | 2025-03-07 |
 | [Gece Gibi Gözleri](https://open.spotify.com/track/53Cddqwki7yiceIjp5IWZw) | [Kaan Küçük](https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ) | [Gece Gibi Gözleri](https://open.spotify.com/album/6dwyvKsxQhpAZFJOyLyY0y) | 2:24 | 2025-08-14 |  |
-| [Gece Gündüz](https://open.spotify.com/track/6MvQ7C97uRWCOzXnYwYxMP) | [487APHE](https://open.spotify.com/artist/3kCTsQ7Fvse9nqMiZJXfoT), [BARO](https://open.spotify.com/artist/34tuu1IhVrXqgadfA6OCrT) | [Gece Gündüz](https://open.spotify.com/album/1VyUFavIyiNOabWk7RNusN) | 1:51 | 2025-08-14 |  |
+| [Gece Gündüz](https://open.spotify.com/track/6MvQ7C97uRWCOzXnYwYxMP) | [APHE](https://open.spotify.com/artist/2ZLabHfvJFop1azfpuLfYN), [BARO](https://open.spotify.com/artist/34tuu1IhVrXqgadfA6OCrT) | [Gece Gündüz](https://open.spotify.com/album/1VyUFavIyiNOabWk7RNusN) | 1:51 | 2025-08-14 |  |
 | [Gece Yolcusu](https://open.spotify.com/track/0e8blEESoZzt7hVPkcdoHs) | [Nezih Ünen](https://open.spotify.com/artist/6tlwCFmdgKmVWdd3APJ7vI) | [Gece Yolcusu](https://open.spotify.com/album/5EV4VFPAPm5AJI5HSxTp97) | 3:23 | 2025-06-26 | 2025-07-04 |
 | [Geceler İnsafsız](https://open.spotify.com/track/3Cv1yQpdnglFaIbCxLQpes) | [Dilde](https://open.spotify.com/artist/0GDoXnSw4iGdysDQWCiuP3) | [Geceler İnsafsız](https://open.spotify.com/album/15AaCkEwWtJPemLqgJMlBs) | 2:27 | 2025-06-05 | 2025-06-13 |
 | [GECELER UZUN OLUR BAZEN](https://open.spotify.com/track/3fWbiu1oyO7GElOKZfCp0l) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [GOLDSCHOOL](https://open.spotify.com/album/6SjndXH2R4Yiu6MiVgtinW) | 2:01 | 2025-06-05 | 2025-06-13 |
@@ -1274,6 +1275,7 @@
 | [kalpten](https://open.spotify.com/track/0GEC41Ui70MyJbQrBPQmcN) | [kaanulum](https://open.spotify.com/artist/1jetn7yvidvFW9pD87pAQB) | [kalpten](https://open.spotify.com/album/2iWt0Vq7XlpQVQ19Y6tRXf) | 2:04 | 2025-05-08 | 2025-05-16 |
 | [Kalsaydın Bari](https://open.spotify.com/track/55OEul4Tg0pP3CEdr7okvJ) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Kalsaydın Bari](https://open.spotify.com/album/7GKDohCfpXNRHcD5Q1nYCK) | 2:31 | 2025-05-01 | 2025-05-09 |
 | [Kanaya Kanaya](https://open.spotify.com/track/6Nu88RiBVzV9SidZrf1uXk) | [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii) | [Kanaya Kanaya](https://open.spotify.com/album/0Xtth2Dd93KcJkokJkwrny) | 2:34 | 2025-05-22 | 2025-05-30 |
+| [Kandım](https://open.spotify.com/track/3LuedX2S05DG0Cq5wwVxBX) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Kandım](https://open.spotify.com/album/1mvy62Xu6egls3dS6StBcB) | 2:51 | 2025-08-15 |  |
 | [Kandırma](https://open.spotify.com/track/1I7HW3rzJtaQaPVHNFbbsY) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Kandırma](https://open.spotify.com/album/3aPOHYpcqG87zC7xTLfxRm) | 3:14 | 2025-08-07 | 2025-08-15 |
 | [Kapak Olsun Cypher](https://open.spotify.com/track/3UJ3JSjqkwOmYgKGskpf24) | [NELLIE](https://open.spotify.com/artist/6GBQJMWv06Q5Vt6QQ1RWC3), [Erdem Eskimez](https://open.spotify.com/artist/0xCQ10AFLg1n5qXoGH8Rs7), [Konfezar](https://open.spotify.com/artist/67Lp3xvEAJZ4UJ0tRtl20u) | [Kapak Olsun Cypher](https://open.spotify.com/album/3yz5nKLE3enjT0O2W56cz0) | 2:48 | 2025-05-01 | 2025-05-09 |
 | [KAPLANIN ŞARKISI, la ballade du tigre](https://open.spotify.com/track/0LJOnZi3UBANxwWxbTAe3E) | [Selman Faris](https://open.spotify.com/artist/5ayDS7FNf9uXxMk5NyhFUf) | [KAPLANIN ŞARKISI, la ballade du tigre](https://open.spotify.com/album/6IZTuiEIcmYXDG5svoKuwA) | 3:30 | 2025-03-27 | 2025-04-04 |

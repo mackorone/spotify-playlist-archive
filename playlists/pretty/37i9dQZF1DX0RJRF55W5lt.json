@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 605600,
+  "num_followers": 605700,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Dooms Night",
-        "url": "https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N"
-      },
-      "artists": [
-        {
-          "name": "Azzido Da Bass",
-          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
-        },
-        {
-          "name": "Timo Maas",
-          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Dooms Night - Timo Maas Radio Edit",
-      "url": "https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Scott & Leon - You Used to Hold Me -EP",
         "url": "https://open.spotify.com/album/6MxISa3lEe2NTw4jlceiPA"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 326034,
       "name": "You Used to Hold Me - Original Mix",
       "url": "https://open.spotify.com/track/4UcubRTZEdPHBOns9Y9zZZ"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Dooms Night",
+        "url": "https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N"
+      },
+      "artists": [
+        {
+          "name": "Azzido Da Bass",
+          "url": "https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Dooms Night - Timo Maas Radio Edit",
+      "url": "https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "UK Garage Classics - Jeremy Sylvester in the Mix (feat. Tj Lewis)",
-        "url": "https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Sylvester",
-          "url": "https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "Realise",
-      "url": "https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "187",
         "url": "https://open.spotify.com/album/7v4aQVzT2vh3S4kinfpnV4"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 391293,
       "name": "Kung-Fu",
       "url": "https://open.spotify.com/track/5y7mEkaEL1fivzcwNhYtrU"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "UK Garage Classics - Jeremy Sylvester in the Mix (feat. Tj Lewis)",
+        "url": "https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Sylvester",
+          "url": "https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Realise",
+      "url": "https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz"
     },
     {
       "added_at": "2024-10-06 08:09:55",

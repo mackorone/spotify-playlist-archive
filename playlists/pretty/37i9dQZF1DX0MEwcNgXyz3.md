@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MEwcNgXyz3.md) - [plain]
 
 > The prince and Simon are determined to be together, but will they jeopardize their freedom and love in conflict with Royal ideals, traditions, and responsibilities?? Young Royals season 3, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,099 likes - 103 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,104 likes - 103 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

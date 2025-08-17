@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,629 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,652 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 4 | [Te Dejo Ganar](https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:21 |
 | 5 | [Mi Universo](https://open.spotify.com/track/6lMk5sY36yHg5vY2Q29lJd) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:13 |
 | 6 | [Sumérgeme](https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR) | 5:27 |
-| 7 | [Tú Estás Aquí \(Live\)](https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Marcela Gandara \(Live\)](https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq) | 5:30 |
-| 8 | [Que Sería De Mi \- En Vivo](https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:49 |
+| 7 | [Que Sería De Mi \- En Vivo](https://open.spotify.com/track/6765SHKbINOPj3EJFnBGMs) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Cerca De Ti](https://open.spotify.com/album/7iLjDR00sTKSu4kfrqjBPM) | 4:49 |
+| 8 | [Tú Estás Aquí \(Live\)](https://open.spotify.com/track/6uExMEig887UmyXoFqdyOW) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Marcela Gandara \(Live\)](https://open.spotify.com/album/3u0wEJACfVAI4SwRg9LHEq) | 5:30 |
 | 9 | [Como La Brisa](https://open.spotify.com/track/5GjG4bnnc8uLqH0VvP1Fby) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2HRHQ7kJBdwXLR2dDe0qAV) | 4:58 |
 | 10 | [Ven, Te Necesito](https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 5:43 |
 | 11 | [Tu Bandera](https://open.spotify.com/track/2cpTtthg2R3PMRjkxOJJyK) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 49 | [Te Busqué \(feat\. Brian Sandoval\)](https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:51 |
 | 50 | [Mundo Interior](https://open.spotify.com/track/5LJMEK8ZaRVptww0R1RlqI) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:18 |
 
-Snapshot ID: `aJ0nAAAAAABjQdht31H7nc/WE8gddjdr`
+Snapshot ID: `aJ54gAAAAAB8Od/OW9kvCbrcrM3LZUId`

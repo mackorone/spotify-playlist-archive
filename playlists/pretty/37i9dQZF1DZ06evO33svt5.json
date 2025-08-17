@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1073473,
+  "num_followers": 1073502,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADtKtUe+3BfeR3wEr/QV9LZ",
+  "snapshot_id": "aJ54gAAAAAB2gbALM2J/6t+Qt1UxLoID",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amala",
+        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Go To Town",
+      "url": "https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 162560,
       "name": "STILL CANT FUH (FEAT. DOJA CAT)",
       "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amala",
-        "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Go To Town",
-      "url": "https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd"
     },
     {
       "added_at": null,

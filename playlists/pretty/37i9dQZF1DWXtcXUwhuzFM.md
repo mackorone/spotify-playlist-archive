@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Uutta musiikkia Vestalta, Sara Siipolalta, Lewis Capaldilta ja monelta muulta!
+> Uutta musiikkia Vestalta, Sara Siipolalta, kialta, Zara Larssonilta ja monelta muulta!
 
 [Spotify](https://open.spotify.com/user/spotify) - 102,544 likes - 112 songs - 6 hr 12 min
 
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 111 | [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 |
 | 112 | [Lammella](https://open.spotify.com/track/2T5BVyYWzrn5UNWbJbJm5s) | [Laura Hynninen](https://open.spotify.com/artist/34TPmQUcZvfSgrpkW8Wj06) | [Lammella](https://open.spotify.com/album/3qkna9kN5ujgf82RKmLIpL) | 7:05 |
 
-Snapshot ID: `AAAAALl0R3gweFS7n3ALcIcy7aIL8pB6`
+Snapshot ID: `AAAAAPqw1mayd7JGknDdOY8/0IyMBw9f`

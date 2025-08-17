@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: <a href="https://open.spotify.com/artist/6lyHG2RfrqozySImvcfwBa?si=5KXjpnRpQG29vGq\-\_vyh0g">Natasha MD</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,256 likes - 62 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,306 likes - 62 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

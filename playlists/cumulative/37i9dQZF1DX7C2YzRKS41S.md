@@ -4,7 +4,7 @@
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-464 songs - 1 day 3 hr 19 min
+465 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Meu Bem](https://open.spotify.com/track/0ytvLIAhBCFT504fZU5pUo) | [Guil](https://open.spotify.com/artist/2XHBtzbbgnF9s2QRvmmZi2) | [Guil](https://open.spotify.com/album/4bC19EkmFsVCI0S5Ke1Cro) | 2:51 | 2022-03-25 | 2022-04-20 |
 | [Meu Primeiro Amor](https://open.spotify.com/track/5Ui1KfWnjRAl3gCM6mrkVN) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Meu Primeiro Amor](https://open.spotify.com/album/4XzvYXmxuOyV0gXpVVz5pT) | 3:13 | 2022-03-25 | 2025-06-21 |
 | [Meu Verão \(Versão K7\) \- Acústica](https://open.spotify.com/track/3nHKkYCczRfd7y5exRNulV) | [LoFábio](https://open.spotify.com/artist/5UfL2BN66Pa8Rxah2KbhXg) | [Meu Verão \(Versão K7\) \[Acústica\]](https://open.spotify.com/album/0phTuahRIPaaEP6tquAFsr) | 3:31 | 2021-12-24 | 2022-07-29 |
+| [Minha Opinião](https://open.spotify.com/track/6rK1HZYFcmB6UKcWVuG2Jf) | [Lara Estelita](https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH) | [Minha Opinião](https://open.spotify.com/album/5QCfoe3PWZi7907yAlMMrU) | 3:40 | 2025-08-15 |  |
 | [Minha Viagem](https://open.spotify.com/track/3qiyRWp6A9GExfXXWKVsoM) | [almanua](https://open.spotify.com/artist/4s2zj4RMLkUdNzJFBkc1NL) | [Minha Viagem](https://open.spotify.com/album/1tSaL5DtUZI4yRpbVm0fa3) | 2:47 | 2022-03-25 | 2022-04-12 |
 | [Minha Voz](https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa) | [Versos Que Compomos Na Estrada](https://open.spotify.com/artist/4rwTeE0LZKlPm6d8N4w5ME), [Eu Me Chamo Antônio](https://open.spotify.com/artist/5VPWkoRQuCpvtvH1cB0MUh) | [Um Verão Qualquer](https://open.spotify.com/album/48K0xdUQuGVzVj3FbNVOQX) | 2:42 | 2023-01-06 |  |
 | [Minto pra quem perguntar](https://open.spotify.com/track/1ayciaPYnEVXA0sYvOssB8) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:07 | 2025-02-07 | 2025-02-22 |
@@ -317,7 +318,7 @@
 | [Pela Janela](https://open.spotify.com/track/3vxM6AQVRD2Hsw8YrRDQb3) | [Pedro Mann](https://open.spotify.com/artist/6K0th5Ko8P3DR6KHN4xVoj) | [Pela Janela](https://open.spotify.com/album/0VyG9Rk3cWAjpymKbj1seg) | 2:21 | 2021-12-24 | 2022-07-20 |
 | [Pensando Bem](https://open.spotify.com/track/2vz5y776IIyrac1KkYuY75) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [Zé Luis Nascimento](https://open.spotify.com/artist/3DGZdkW22HAlgGpXOzzaaE), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Eu Sou Outro](https://open.spotify.com/album/7jsBgAZRvGyECgLpcEIa6Z) | 3:22 | 2021-12-24 | 2025-03-22 |
 | [Perde Tudo](https://open.spotify.com/track/5Gk06ewtT8rdy8Qt5tzBXE) | [Cassiano Andrade](https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl), [Lua Blanco](https://open.spotify.com/artist/1shvlaBEDzIJGYhXbMxKJY) | [Perde Tudo](https://open.spotify.com/album/1WUCXHpLMl9fMMIwk8bLvd) | 3:13 | 2021-12-24 | 2022-07-22 |
-| [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-09-02 |  |
+| [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-09-02 | 2025-08-17 |
 | [Plano A](https://open.spotify.com/track/6iQx2epCU2bcMk3tNZZLlx) | [Mateus Noel](https://open.spotify.com/artist/7kQWbAUpx1ch0ZskOPeKec) | [Plano A](https://open.spotify.com/album/1cAWcSDlWgAhCaQrqRtSBI) | 4:35 | 2022-03-25 | 2022-04-20 |
 | [Pneu](https://open.spotify.com/track/4xKTwUPc3ga5w23a9o2WgJ) | [Gelpi](https://open.spotify.com/artist/4Tl6p9xrmtzx5fLIiSKPtb) | [Pneu](https://open.spotify.com/album/5ntUGInu5pSXgInjX4Dn9G) | 3:22 | 2022-03-25 | 2022-07-25 |
 | [Pode \(Ukulele\)](https://open.spotify.com/track/3NUZ7NfdHILDXkRMe6e67e) | [Fabrízio Rubinstein](https://open.spotify.com/artist/2jwQOo6a4B29ezjM7FATPA) | [Pode \(Ukulele\)](https://open.spotify.com/album/5y91n2TjchWyRrKNnRwxvn) | 3:33 | 2021-12-24 | 2022-04-14 |

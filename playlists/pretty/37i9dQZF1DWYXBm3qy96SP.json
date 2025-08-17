@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: YUNGBLUD",
-  "num_followers": 264613,
+  "num_followers": 264598,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -663,18 +663,22 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+      "duration_ms": 168280,
+      "name": "GOSSIP (feat. Tom Morello)",
+      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -695,22 +699,18 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 168280,
-      "name": "GOSSIP (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
+        "name": "milk of the madonna",
+        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
-        "name": "Heavy Is the Crown",
-        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "Heavy Is the Crown",
-      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -783,38 +783,18 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "milk of the madonna",
-        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
-        "name": "RATATATA",
-        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 216428,
-      "name": "RATATATA",
-      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -843,6 +823,26 @@
       "duration_ms": 234933,
       "name": "Not Strong Enough",
       "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
+        "name": "RATATATA",
+        "url": "https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 216428,
+      "name": "RATATATA",
+      "url": "https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "As Alive As You Need Me To Be",
-        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "As Alive As You Need Me To Be",
-      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
         "name": "tower of memories",
         "url": "https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
+        "name": "As Alive As You Need Me To Be",
+        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "from me to u (feat. Poppy)",
-        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 204526,
-      "name": "from me to u (feat. Poppy)",
-      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
         "name": "Apologies",
         "url": "https://open.spotify.com/album/2OXvqcP3PvhUs9PTd39AkY"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 264836,
       "name": "Damocles",
       "url": "https://open.spotify.com/track/1ulH5PIntNj0ro2K69W4Fx"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
+        "name": "from me to u (feat. Poppy)",
+        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204526,
+      "name": "from me to u (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 211457,
-      "name": "San Quentin",
-      "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
         "name": "Ensenada",
         "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 154484,
       "name": "Ensenada",
       "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 211457,
+      "name": "San Quentin",
+      "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
         "name": "Revery",
         "url": "https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 233853,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN"
+      "duration_ms": 240151,
+      "name": "Wonderwall - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1399,22 +1415,6 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 240151,
-      "name": "Wonderwall - Spotify Singles",
-      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "Unshatter",
-        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "The Rope",
-        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 190574,
-      "name": "The Rope",
-      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 190574,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
         "name": "What Do We Ever Really Know?",
         "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
       },
@@ -1611,26 +1627,6 @@
       "duration_ms": 233000,
       "name": "What Do We Ever Really Know?",
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
-        "name": "Kon! Kon! (feat. Bloodywood)",
-        "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Bloodywood",
-          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
-        }
-      ],
-      "duration_ms": 235127,
-      "name": "Kon! Kon! (feat. Bloodywood)",
-      "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
     },
     {
       "added_at": "2025-08-14 15:00:29",
@@ -1651,22 +1647,6 @@
     {
       "added_at": "2025-08-14 15:00:29",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-08-14 15:00:29",
-      "album": {
         "name": "GRIZZLY",
         "url": "https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 229982,
       "name": "Imdead",
       "url": "https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn"
+    },
+    {
+      "added_at": "2025-08-14 15:00:29",
+      "album": {
+        "name": "Kon! Kon! (feat. Bloodywood)",
+        "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Bloodywood",
+          "url": "https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9"
+        }
+      ],
+      "duration_ms": 235127,
+      "name": "Kon! Kon! (feat. Bloodywood)",
+      "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
     }
   ],
   "unique_name": "Rock The World",

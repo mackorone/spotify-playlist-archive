@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Megan Moroney",
-  "num_followers": 644452,
+  "num_followers": 644693,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "The Price of Admission",
         "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Holy Smokes",
-        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Holy Smokes",
-      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Bad State of Mind",
         "url": "https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 261006,
       "name": "Bad State of Mind",
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Think I\u2019m In Love With You",
-        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Think I'm In Love With You",
-      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 179294,
       "name": "Where It Ends",
       "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "3,2,1",
-        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "3,2,1",
-      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Outskirts",
         "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 182706,
       "name": "Outskirts",
       "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "3,2,1",
+        "url": "https://open.spotify.com/album/5IPdGQ46nrjHlnBLpU5oGQ"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "3,2,1",
+      "url": "https://open.spotify.com/track/2mxyToKuuc2JGhxBNlJzUh"
     },
     {
       "added_at": "2025-08-15 04:00:16",

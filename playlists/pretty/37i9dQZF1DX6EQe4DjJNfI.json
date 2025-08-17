@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 180987,
+  "num_followers": 181004,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcqd6PLm3ZgPqjnpsHvHD6aT3Xr",
+  "snapshot_id": "AAAAAHshPPpt7oYqHLaRG4K7U2ToaYOc",
   "tracks": [
     {
       "added_at": "2025-08-01 19:16:04",
@@ -351,26 +351,6 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2025-08-01 19:16:04",
-      "album": {
         "name": "Porque Me Responde Ainda",
         "url": "https://open.spotify.com/album/27JH4nsKkUIEbu3ri1EXph"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 225566,
       "name": "Porque Me Responde Ainda",
       "url": "https://open.spotify.com/track/0MniTeJQje07YTaMbKRlSE"
+    },
+    {
+      "added_at": "2025-08-01 19:16:04",
+      "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2025-08-01 19:16:04",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
-    },
-    {
-      "added_at": "2025-08-01 19:16:04",
-      "album": {
         "name": "Te Amar",
         "url": "https://open.spotify.com/album/6bQnUgwX47nRxeP8Vzkj26"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 166857,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/4yL8VzD2WK9Sicx039ezs7"
+    },
+    {
+      "added_at": "2025-08-01 19:16:04",
+      "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2025-08-01 19:16:04",
@@ -747,22 +747,26 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
-        "name": "Tempo Que N\u00e3o Volta",
-        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
+        "name": "Liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
       "artists": [
         {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+          "name": "Meraki",
+          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
         },
         {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+          "name": "BlakkLan\u00e7a",
+          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Tempo Que N\u00e3o Volta",
-      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
+      "duration_ms": 209389,
+      "name": "Liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
     },
     {
       "added_at": "2025-08-01 19:16:04",
@@ -827,26 +831,22 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
-        "name": "Liga\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+        "name": "Tempo Que N\u00e3o Volta",
+        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
       "artists": [
         {
-          "name": "Meraki",
-          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
         },
         {
-          "name": "BlakkLan\u00e7a",
-          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
-        },
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 209389,
-      "name": "Liga\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+      "duration_ms": 172173,
+      "name": "Tempo Que N\u00e3o Volta",
+      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "added_at": "2025-08-01 19:16:04",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
+        "name": "Assome",
+        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 179498,
+      "name": "Assome",
+      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
+    },
+    {
+      "added_at": "2025-08-01 19:16:04",
+      "album": {
         "name": "Desse Meu Mel",
         "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
@@ -1087,34 +1103,22 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
-        "name": "Assome",
-        "url": "https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c"
+        "name": "Sobrenome",
+        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
       "artists": [
         {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 179498,
-      "name": "Assome",
-      "url": "https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO"
-    },
-    {
-      "added_at": "2025-08-01 19:16:04",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
         {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
         }
       ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+      "duration_ms": 134476,
+      "name": "Sobrenome",
+      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
     },
     {
       "added_at": "2025-08-01 19:16:04",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
-        "name": "Sobrenome",
-        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
       },
       "artists": [
         {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        },
-        {
-          "name": "Dodoin",
-          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
         }
       ],
-      "duration_ms": 134476,
-      "name": "Sobrenome",
-      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2025-08-01 19:16:04",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-08-01 19:16:04",
       "album": {
+        "name": "UNHA DE FOGUINHO",
+        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 165037,
+      "name": "UNHA DE FOGUINHO",
+      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
+    },
+    {
+      "added_at": "2025-08-01 19:16:04",
+      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 193414,
       "name": "A\u00e7a\u00ed e Amendo\u00edm",
       "url": "https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw"
-    },
-    {
-      "added_at": "2025-08-01 19:16:04",
-      "album": {
-        "name": "UNHA DE FOGUINHO",
-        "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 165037,
-      "name": "UNHA DE FOGUINHO",
-      "url": "https://open.spotify.com/track/6lH6NusL3eoEv9XIJTVNWH"
     },
     {
       "added_at": "2025-08-01 19:16:04",

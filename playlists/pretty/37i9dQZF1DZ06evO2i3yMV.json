@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8525,
+  "num_followers": 8526,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAC/EgJ4Rkn4M4lhFSi3zycO",
+  "snapshot_id": "aJ54gAAAAABfw0oSa2oteZdAxbM6NqrX",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Rose's Thorn",
+      "url": "https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
       },
@@ -203,18 +219,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Dumbfoundead",
+          "url": "https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
         }
       ],
-      "duration_ms": 264733,
-      "name": "Rose's Thorn",
-      "url": "https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h"
+      "duration_ms": 212811,
+      "name": "Get Me Some",
+      "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
     },
     {
       "added_at": null,
@@ -243,30 +267,6 @@
       "duration_ms": 232848,
       "name": "On Sum - MPH Remix",
       "url": "https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Dumbfoundead",
-          "url": "https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed"
-        },
-        {
-          "name": "Drew Love",
-          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
-        }
-      ],
-      "duration_ms": 212811,
-      "name": "Get Me Some",
-      "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
     },
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 217537,
-      "name": "Don't Call Me (feat. Yuna)",
-      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
+      "duration_ms": 217537,
+      "name": "Don't Call Me (feat. Yuna)",
+      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
       "duration_ms": 173096,
       "name": "Floating - feat. Candy Crush Saga",
       "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 266643,
-      "name": "I Wish I Could (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
     },
     {
       "added_at": null,
@@ -571,6 +551,26 @@
       "duration_ms": 241753,
       "name": "Little Pleasures",
       "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
     },
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Young Art Sound II",
+        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 153297,
+      "name": "Strange Froot",
+      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -731,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Art Sound II",
-        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 153297,
-      "name": "Strange Froot",
-      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 216726,
       "name": "Sweet Day",
       "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 237357,
-      "name": "Death by Disco",
-      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Half Shadows",
         "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 209280,
       "name": "Soul to Seoul",
       "url": "https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
     },
     {
       "added_at": null,

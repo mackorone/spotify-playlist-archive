@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off\. cover: Avenoir
 
-243 songs - 11 hr 12 min
+247 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2024-02-02 |  |
 | [all for you](https://open.spotify.com/track/6V0TBXCbwfP3oQGoCJ7Uqi) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [all for you](https://open.spotify.com/album/195zWVS2ywArtagBSsCi88) | 3:37 | 2024-11-22 |  |
 | [All You](https://open.spotify.com/track/4IM0dSMLSYjjQm2pIj1QQK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [All You](https://open.spotify.com/album/73aiCN2KEiRbGaK6EzdiGm) | 2:42 | 2024-12-06 |  |
+| [Alone](https://open.spotify.com/track/1LsfJiTZ9ty64JE4Fq26gF) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Alone](https://open.spotify.com/album/0FBiNNjtlkTBZg5WhkQCAO) | 2:25 | 2025-08-15 |  |
 | [ANOTHER LOVE STORY](https://open.spotify.com/track/1jJgfnrhuDOdM68tSlugBa) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb) | [THERES ALWAYS MORE](https://open.spotify.com/album/6FBEAmINge2toN4aABjXG7) | 3:04 | 2024-03-15 |  |
 | [Art of War](https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Art of War](https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm) | 2:06 | 2025-02-28 |  |
 | [Autumn](https://open.spotify.com/track/4XRR2nNTU9UWBTBOdmnmyT) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Autumn](https://open.spotify.com/album/3vdIKZeNtDF9JZvodWAbFN) | 3:08 | 2024-09-13 | 2024-10-19 |
@@ -106,6 +107,7 @@
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 |  |
 | [Hesitation \(with Karri\)](https://open.spotify.com/track/7zvnKUsXJ15zvxRMAu3AHG) | [Joe Kay](https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [If Not Now, Then When?](https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH) | 2:48 | 2025-04-04 |  |
+| [HIT MY PHONE](https://open.spotify.com/track/5WXbDxcW6ob9XLckvdvG74) | [NateTaylorr](https://open.spotify.com/artist/6FaeHLNz3ISxqrVJCprURb), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [HIT MY PHONE](https://open.spotify.com/album/1iAsBAduNSRfvvlZ91k80d) | 3:09 | 2025-08-15 |  |
 | [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 | 2024-10-25 |  |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2024-02-02 |  |
 | [hope u don't mind](https://open.spotify.com/track/6H1b1BiyS4Qoo15VhVoKsu) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [since yall say ion drop enough](https://open.spotify.com/album/4qLTi34aG7nh2CkOZ5fhPU) | 2:01 | 2025-05-02 |  |
@@ -181,6 +183,7 @@
 | [RAINING IN HOUSTON](https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:04 | 2025-02-14 | 2025-03-29 |
 | [Receipts](https://open.spotify.com/track/1Lw4Q4fdDkm9teelfS3fx9) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Apollo](https://open.spotify.com/album/6V8N8vobePP7eRwPBrUH5d) | 3:24 | 2025-03-07 |  |
 | [Receipts](https://open.spotify.com/track/2xOjybeL1vGxDldY7IDnsw) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Receipts](https://open.spotify.com/album/5ReTSrbMWIIW8UN8ZCD7IP) | 3:24 | 2024-07-05 | 2025-03-08 |
+| [Red Rover](https://open.spotify.com/track/1vHHMDMJwVTJu5lFZqj8D3) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Red Rover](https://open.spotify.com/album/4ZYygbzb4lzQ8FlkibyGIV) | 3:07 | 2025-08-15 |  |
 | [RESET](https://open.spotify.com/track/5cxsqpBAzhPvityPDEFA7u) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU STILL MISS ME](https://open.spotify.com/album/2V9BmFd3tgAihAwcqb7hMl) | 2:43 | 2024-03-29 |  |
 | [Ridin' Shotgun](https://open.spotify.com/track/3V0AIBseDcSsxm8B5yVhBm) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4db6EzTNxSHtDKdaZMXJLh) | 1:53 | 2024-05-03 |  |
 | [Right My Wrongs](https://open.spotify.com/track/5rgrBsAFYMun6yhtnLKRPz) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [T R A P S O U L](https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl) | 4:09 | 2024-02-02 |  |
@@ -205,6 +208,7 @@
 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 | 2024-10-25 |  |
 | [SUNRISE](https://open.spotify.com/track/2P6rt3bjK89diw8482QQt5) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [NIVA](https://open.spotify.com/album/1VUKae81QX1lng1x78e8yp) | 1:53 | 2025-04-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 | 2025-03-08 |
+| [sweet nothings](https://open.spotify.com/track/3rH8TjGLB7bOEF6tjrn0Yb) | [Destiny Briona](https://open.spotify.com/artist/5cDpxYNTOjkL0osMji7Zqs), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [i'm not crying, u are](https://open.spotify.com/album/5XT2LoElBao7oO2l3bcJK5) | 3:55 | 2025-08-15 |  |
 | [Talk To Me The Same](https://open.spotify.com/track/1izzvkVNFvyFZkmEP4IQAX) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [Talk To Me The Same](https://open.spotify.com/album/1ms0sdyuNVH6eyYoe85X6I) | 2:56 | 2025-06-06 |  |
 | [tell em](https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [tell em / time flies](https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4) | 2:38 | 2025-01-24 | 2025-06-07 |
 | [tell em](https://open.spotify.com/track/5bO0JH6KIaALYxvzPkrKKY) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [TWENTY TWENTY TYDE](https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s) | 2:38 | 2025-04-25 |  |

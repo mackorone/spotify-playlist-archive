@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Mau y Ricky, J Balvin, Ryan Castro & Grupo Frontera and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,726 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,747 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 24 | [Líneas temporales](https://open.spotify.com/track/3WKfDUsHzmclNSY7nh33W2) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Mazzarri](https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9) | [Líneas temporales](https://open.spotify.com/album/631Q5JID87Gsm2Ve7JF30s) | 3:25 |
 | 25 | [Polvora \(feat\. Baby Johnny, Juliito\)](https://open.spotify.com/track/5Vrl6IcsieRi52qu69p8zZ) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W), [Baby Johnny](https://open.spotify.com/artist/16yTBMwXmeW9MQgfcHZgA7), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Polvora \(feat\. Baby Johnny, Juliito\)](https://open.spotify.com/album/4jcZJTXQ9vibwU0xDCakyV) | 5:29 |
 | 26 | [ESO ES POR MI](https://open.spotify.com/track/4tV4uHJ1BpHc7b1M6xleiH) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS) | [ESO ES POR MI](https://open.spotify.com/album/4AimIH5oxk7tNt9sOTcFK6) | 4:08 |
-| 27 | [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 |
+| 27 | [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu), [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 |
 | 28 | [200 pistolas 300 soldados](https://open.spotify.com/track/0YATmnfzmTsKLxinbaTRGh) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [200 pistolas 300 soldados](https://open.spotify.com/album/011MzVwLv6590MHDbxCDMS) | 3:20 |
 | 29 | [Sabado](https://open.spotify.com/track/4UzaREEr4USyqShcm7Fem4) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Sabado](https://open.spotify.com/album/5Z97FpVRiVLgQrqZ3gQtWK) | 2:07 |
 | 30 | [Usain Bolt](https://open.spotify.com/track/4HzYeG6jGvxMzXoCIXFo2t) | [Sammer](https://open.spotify.com/artist/3Wp3hbqnxMJqXAHVqqzB9X), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [Usain Bolt](https://open.spotify.com/album/7zcBT33kU360NhrYBElbQb) | 2:54 |
@@ -56,6 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 46 | [Nada Bby](https://open.spotify.com/track/0Ds9Q3YUYDnJMmZSD6mcvx) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Nada Bby](https://open.spotify.com/album/7x7DbT2keyki21JNP8bqhI) | 2:12 |
 | 47 | [PROPHECY](https://open.spotify.com/track/0t4x6r1bBelD0IExQ4hNt4) | [Kuinvi](https://open.spotify.com/artist/08w1NsqxgMffO78J6v0uCr) | [PROPHECY](https://open.spotify.com/album/1bLwd13FkHNCqv43lNsHxO) | 3:15 |
 | 48 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
-| 49 | [Llámame Antes De Dormir](https://open.spotify.com/track/2s5CMNXWtWQqkL7I1yHZ4y) | [Sami Tariffi](https://open.spotify.com/artist/6B9lBVaJxGefJ4gqdORzSY) | [Llámame Antes De Dormir](https://open.spotify.com/album/7ADKK1FABqbyEiPODhdlB9) | 2:40 |
+| 49 | [Juntos Pa Japón](https://open.spotify.com/track/4vATMg7zYcGhEbumY7p6fL) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Melodías Del Corazón](https://open.spotify.com/album/76rHh9HMyU3tFswjl5Wt7i) | 2:56 |
+| 50 | [Llámame Antes De Dormir](https://open.spotify.com/track/2s5CMNXWtWQqkL7I1yHZ4y) | [Sami Tariffi](https://open.spotify.com/artist/6B9lBVaJxGefJ4gqdORzSY) | [Llámame Antes De Dormir](https://open.spotify.com/album/7ADKK1FABqbyEiPODhdlB9) | 2:40 |
 
-Snapshot ID: `AAAAAB2WgAVrpgyfa/SwvE3i3zBiNUhI`
+Snapshot ID: `AAAAAPm0hD8FcwxGhJrzGayNFwHDVWtz`

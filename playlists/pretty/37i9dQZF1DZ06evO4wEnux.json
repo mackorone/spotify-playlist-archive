@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAABgP2lV44XO16JND1VWqJ9",
+  "snapshot_id": "aJ54gAAAAAAzBC7xmvN8DuDi1IiI3DDj",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
       "artists": [
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        },
-        {
-          "name": "Bryde",
-          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 284973,
-      "name": "Nothing to No One",
-      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
+      "duration_ms": 191506,
+      "name": "The Feeling And The Sound",
+      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
       },
       "artists": [
         {
           "name": "Fatherson",
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        },
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
         }
       ],
-      "duration_ms": 191506,
-      "name": "The Feeling And The Sound",
-      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
+      "duration_ms": 284973,
+      "name": "Nothing to No One",
+      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
     },
     {
       "added_at": null,

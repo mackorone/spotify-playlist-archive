@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Pierce The Veil",
-  "num_followers": 596968,
+  "num_followers": 596990,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -307,18 +307,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "Rejects",
-        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
+        "name": "Hate This Song",
+        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
       "artists": [
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
         }
       ],
-      "duration_ms": 174634,
-      "name": "Rejects",
-      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
+      "duration_ms": 175693,
+      "name": "Hate This Song",
+      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -371,22 +375,18 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "Hate This Song",
-        "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
+        "name": "Rejects",
+        "url": "https://open.spotify.com/album/78grezRlmscONkCdIIvkQa"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 175693,
-      "name": "Hate This Song",
-      "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "Stepper",
-        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 196748,
-      "name": "Stepper",
-      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "Fake As Hell (with Avril Lavigne)",
         "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
-        "name": "Take What You Want",
-        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 146703,
-      "name": "Take What You Want",
-      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/1sjiQ0Im0VKvv2SxvjoLwt"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
+        "name": "Take What You Want",
+        "url": "https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 146703,
+      "name": "Take What You Want",
+      "url": "https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
         "name": "Lessons That We Swear to Keep",
         "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
-        "name": "By The Way",
-        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "By The Way",
-      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
+        "name": "third degree",
+        "url": "https://open.spotify.com/album/21DyQCFJhDNPIzX4HB79kH"
+      },
+      "artists": [
+        {
+          "name": "davvn",
+          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "third degree",
+      "url": "https://open.spotify.com/track/2tAvRoEE2g5IukKQlHhdvm"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
         "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 213600,
       "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
-        "name": "third degree",
-        "url": "https://open.spotify.com/album/21DyQCFJhDNPIzX4HB79kH"
-      },
-      "artists": [
-        {
-          "name": "davvn",
-          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "third degree",
-      "url": "https://open.spotify.com/track/2tAvRoEE2g5IukKQlHhdvm"
     },
     {
       "added_at": "2025-08-07 23:00:25",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-08-07 23:00:25",
       "album": {
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+    },
+    {
+      "added_at": "2025-08-07 23:00:25",
+      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 189897,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
-    },
-    {
-      "added_at": "2025-08-07 23:00:25",
-      "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
     },
     {
       "added_at": "2025-08-07 23:00:25",

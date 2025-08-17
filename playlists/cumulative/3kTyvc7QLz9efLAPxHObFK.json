@@ -33225,6 +33225,24 @@
     },
     {
       "album": {
+        "name": "OTD",
+        "url": "https://open.spotify.com/album/4xXw1MSvCigjkXv2Hgx1w6"
+      },
+      "artists": [
+        {
+          "name": "Dead X",
+          "url": "https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "OTD",
+      "url": "https://open.spotify.com/track/3URjL0cGqoOTiZlGbDMALR"
+    },
+    {
+      "album": {
         "name": "OUR DESTRUCTION",
         "url": "https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H"
       },

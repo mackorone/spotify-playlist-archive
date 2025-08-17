@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 465883,
+  "num_followers": 465933,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAD4Zy6WYT6cZXT2fLxK2u+l",
+  "snapshot_id": "aJ54gAAAAAAhPIvPZWgcKEdp5ZzAaCWZ",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
-      },
-      "artists": [
-        {
-          "name": "Jay Sean",
-          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/5aPR14AS7MRLz3fea04oKj"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 217631,
       "name": "Miami (feat. Lil Wayne & Rick Ross)",
       "url": "https://open.spotify.com/track/4vsarEetbprJa5Z2ZJ4RL7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
     },
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "HYFR (Hell Ya Fucking Right)",
+      "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "HYFR (Hell Ya Fucking Right)",
-      "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
     },
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Human Being II (Deluxe)",
-        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 223173,
-      "name": "Rich As Fuck",
-      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
+      "duration_ms": 174911,
+      "name": "Love Is Like (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Human Being II (Deluxe)",
+        "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Rich As Fuck",
+      "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
     },
     {
       "added_at": null,
@@ -891,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 156525,
+      "name": "Sorry 4 The Wait",
+      "url": "https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -911,22 +947,6 @@
       "duration_ms": 229759,
       "name": "Sharks (feat. Jelly Roll, Big Sean)",
       "url": "https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 156525,
-      "name": "Sorry 4 The Wait",
-      "url": "https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"
     },
     {
       "added_at": null,
@@ -971,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Mad At Me (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Baby Mad At Me (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -1011,6 +1011,26 @@
       "duration_ms": 309040,
       "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Mad At Me (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/7JtNrU7zVsy7P4fovWll3p"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Baby Mad At Me (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7hP4fV6LerorRdZGmZsNjI"
     },
     {
       "added_at": null,
@@ -1091,26 +1111,6 @@
       "duration_ms": 237360,
       "name": "Gimme That Remix (feat. Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 249450,
-      "name": "Don't Cry (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/5BQrp63SHCVf4bzCzJePne"
     }
   ],
   "unique_name": "This Is Lil Wayne",

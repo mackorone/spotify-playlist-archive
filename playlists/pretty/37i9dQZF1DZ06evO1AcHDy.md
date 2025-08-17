@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,740 likes - 34 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,736 likes - 34 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 33 | [Bees & Honey \(Bonus Track\)](https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc) | 1:46 |
 | 34 | [Ordinary Superstar](https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:47 |
 
-Snapshot ID: `aJ0nAAAAAACtQKFe7rajBoy55HA/QhMt`
+Snapshot ID: `aJ54gAAAAACAS5R/ZC5PfIV5FHsEtYj+`

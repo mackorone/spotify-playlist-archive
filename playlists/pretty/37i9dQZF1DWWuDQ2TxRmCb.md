@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,968 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,985 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 27 | [SUWA TERI YAADON MA](https://open.spotify.com/track/4jxf2xH4KEoIvFrPXhnbIS) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Amit Saagar](https://open.spotify.com/artist/3ypGCTyMQVDPL5hAkjctCE) | [SUWA TERI YAADON MA](https://open.spotify.com/album/3mmRUd5H441cSYu8biuVp0) | 2:45 |
 | 28 | [Kandisa](https://open.spotify.com/track/2wQqVbWE7FI47lEXPEoocc) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Kandisa](https://open.spotify.com/album/4MBagMMRFRIvXGcg0Ph6rI) | 7:40 |
 | 29 | [Moko Kahan](https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Moko Kahan](https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP) | 7:06 |
-| 30 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 |
-| 31 | [Chhaap Tilak](https://open.spotify.com/track/1xMfoLDuxnwPBGR0uVrRpc) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54) | [Chhaap Tilak](https://open.spotify.com/album/4PxJFikJLP5xm6P2WyWkml) | 5:31 |
+| 30 | [Chhaap Tilak](https://open.spotify.com/track/1xMfoLDuxnwPBGR0uVrRpc) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Rahul Vaidya](https://open.spotify.com/artist/6XypcJDBmfuRjq52PFUVwd), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54) | [Chhaap Tilak](https://open.spotify.com/album/4PxJFikJLP5xm6P2WyWkml) | 5:31 |
+| 31 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 |
 | 32 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 |
 | 33 | [Maarag](https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Salim Khan](https://open.spotify.com/artist/3y8bArrNsmocFZGkIiVG4n) | [Maarag](https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw) | 7:42 |
 | 34 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |

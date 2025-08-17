@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,665 songs - 3 day 20 hr 58 min
+1,666 songs - 3 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,7 +1037,7 @@
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-08 | 2024-08-27 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-28 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-06-22 | 2025-05-21 |
-| [OHNANA](https://open.spotify.com/track/482PEx8hfMHSsuGtHd960A) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:36 | 2025-08-12 |  |
+| [OHNANA](https://open.spotify.com/track/482PEx8hfMHSsuGtHd960A) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 2:36 | 2025-08-12 | 2025-08-17 |
 | [Ohtani](https://open.spotify.com/track/7MJVcGtxARJzYfU6CIttGa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:18 | 2025-04-05 | 2025-04-10 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-07 | 2024-01-13 |
 | [OJOS FERRARI](https://open.spotify.com/track/5yAIrkplUEpMNeojW8Q30o) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:00 | 2023-02-25 | 2023-03-04 |
@@ -1206,6 +1206,7 @@
 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 | 2024-09-23 |  |
 | [Q.Q](https://open.spotify.com/track/173bCrkGlLxKU4YnzByhhS) | [Mr\. Saik](https://open.spotify.com/artist/7fzjOp0zWBmu7M5R7kZW60), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [Q.Q](https://open.spotify.com/album/6Az99IEZuYzoq7u9BV5d3F) | 3:21 | 2024-11-25 | 2024-11-27 |
 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 | 2023-08-12 | 2024-11-16 |
+| [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 | 2025-08-16 |  |
 | [Que Cojones](https://open.spotify.com/track/22TyikLrwsaXhsL31mewls) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Que Cojones](https://open.spotify.com/album/1S4ZEZswAp0XrN5KuRNgbh) | 2:41 | 2022-08-05 | 2022-08-08 |
 | [QUE HABILIDAD](https://open.spotify.com/track/1IidViHpUaEASL36jjPsK0) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:53 | 2022-11-05 | 2022-11-07 |
 | [Que LLore La Tuya Primero](https://open.spotify.com/track/3KBCpSGLQMeWOioiDOuqcN) | [Juny Montana](https://open.spotify.com/artist/4lwoHJna6OGeV4BQVYMFxP), [Polaco](https://open.spotify.com/artist/1SNvQ5uaWr5rNHmtAXAqsT) | [Que LLore La Tuya Primero](https://open.spotify.com/album/3KDiRn8hrgUaH8ZmqinnEa) | 3:37 | 2022-11-05 | 2022-11-20 |

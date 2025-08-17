@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > qué me importan las noches de junio, la luna de octubre o cualquier primavera x Código FN
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,546 likes - 37 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,542 likes - 37 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

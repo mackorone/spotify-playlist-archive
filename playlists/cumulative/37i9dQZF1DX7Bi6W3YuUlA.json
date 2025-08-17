@@ -5169,6 +5169,28 @@
     },
     {
       "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236501,
+      "name": "Just A Drop (feat. Jay Electronica)",
+      "url": "https://open.spotify.com/track/3gxDopbcUDigbjJUiHkSRT"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -6698,7 +6720,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 194285,
       "name": "No Popstar",
       "url": "https://open.spotify.com/track/4NOasKvxJd9CSSyDJ9C1DQ"

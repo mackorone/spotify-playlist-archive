@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 382537,
+  "num_followers": 382676,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -191,42 +191,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/40DGSWZJmPfFl9ckCy78Se"
-      },
-      "artists": [
-        {
-          "name": "sxxnt.",
-          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
-        },
-        {
-          "name": "Sara Damon",
-          "url": "https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75"
-        }
-      ],
-      "duration_ms": 270503,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/1IXBIXdb8uDYA9sqBysVp3"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Just Hold On",
-        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "Just Hold On",
-      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Still Waters (Psalm 23) [Acoustic]",
         "url": "https://open.spotify.com/album/2ow282yox2uRtgZgktAeZJ"
       },
@@ -247,6 +211,42 @@
       "duration_ms": 250101,
       "name": "Still Waters (Psalm 23) - Acoustic",
       "url": "https://open.spotify.com/track/3Q9W1stYm98AVSNKbw7iGQ"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Just Hold On",
+        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "Just Hold On",
+      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/40DGSWZJmPfFl9ckCy78Se"
+      },
+      "artists": [
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        },
+        {
+          "name": "Sara Damon",
+          "url": "https://open.spotify.com/artist/2u0jTrfgCdm3bTBbKFZd75"
+        }
+      ],
+      "duration_ms": 270503,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/1IXBIXdb8uDYA9sqBysVp3"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -343,22 +343,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/4jMmHLhkvQToncD10srcty"
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         },
         {
-          "name": "Valerie Guerra",
-          "url": "https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw"
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
         }
       ],
-      "duration_ms": 204000,
-      "name": "The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL"
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -379,22 +379,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Happily Hidden",
-        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/4jMmHLhkvQToncD10srcty"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         },
         {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+          "name": "Valerie Guerra",
+          "url": "https://open.spotify.com/artist/5stAPRk6DmzRWm3jCLSzmw"
         }
       ],
-      "duration_ms": 233129,
-      "name": "Happily Hidden (with John Mark McMillan)",
-      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
+      "duration_ms": 204000,
+      "name": "The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/06XwBbs5yjVtjHA1vcWbyL"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "EVERY DAY",
+        "url": "https://open.spotify.com/album/1pYohVyJ0mDkI4O6ZO8qh9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 224100,
+      "name": "EVERY DAY",
+      "url": "https://open.spotify.com/track/6RUJTGKm7wEnkydR7EKcsW"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Mighty Refuge",
         "url": "https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "EVERY DAY",
-        "url": "https://open.spotify.com/album/1pYohVyJ0mDkI4O6ZO8qh9"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 224100,
-      "name": "EVERY DAY",
-      "url": "https://open.spotify.com/track/6RUJTGKm7wEnkydR7EKcsW"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Light of Heaven",
         "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 193926,
       "name": "That's who I praise - from the studio",
       "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "This is How I Thank The Lord (Acoustic)",
-        "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 178548,
-      "name": "This Is How I Thank The Lord - Acoustic",
-      "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -763,6 +747,22 @@
       "duration_ms": 329812,
       "name": "Leaning on the Everlasting Arms",
       "url": "https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "This is How I Thank The Lord (Acoustic)",
+        "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 178548,
+      "name": "This Is How I Thank The Lord - Acoustic",
+      "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Be My Glory",
         "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 262213,
       "name": "Be My Glory",
       "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "I Smile (Neo-Soul Version)",
+        "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "I Smile - Neo-Soul Version",
+      "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Saving Me Still",
         "url": "https://open.spotify.com/album/1C6cUX3FHiop0xcbZpMjca"
       },
@@ -1035,6 +1051,38 @@
       "duration_ms": 380800,
       "name": "Saving Me Still",
       "url": "https://open.spotify.com/track/1Hbao8n85TOgeIZFfZmCdV"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Simple Phrase",
+        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Simple Phrase",
+      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1059,50 +1107,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "I Smile (Neo-Soul Version)",
-        "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
+        "name": "Taste And See",
+        "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
       "artists": [
         {
-          "name": "Kaye-Marie",
-          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "I Smile - Neo-Soul Version",
-      "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
+          "name": "Cether",
+          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
+        },
         {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Simple Phrase",
-        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Simple Phrase",
-      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
+      "duration_ms": 261000,
+      "name": "Taste And See",
+      "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1127,22 +1147,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Taste And See",
-        "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
+        "name": "Calling Me Home",
+        "url": "https://open.spotify.com/album/1Q8ZPBPyPK1Kz3jDVb04Ru"
       },
       "artists": [
-        {
-          "name": "Cether",
-          "url": "https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7"
-        },
         {
           "name": "D\u00e2mares Gomes",
           "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 261000,
-      "name": "Taste And See",
-      "url": "https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5"
+      "duration_ms": 180015,
+      "name": "Calling Me Home",
+      "url": "https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1159,22 +1175,6 @@
       "duration_ms": 249084,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Calling Me Home",
-        "url": "https://open.spotify.com/album/1Q8ZPBPyPK1Kz3jDVb04Ru"
-      },
-      "artists": [
-        {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
-        }
-      ],
-      "duration_ms": 180015,
-      "name": "Calling Me Home",
-      "url": "https://open.spotify.com/track/6M31tD9sFCe7Myvo3iQHJZ"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
       },
       "artists": [
         {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1299,6 +1283,22 @@
       "duration_ms": 317000,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1331,38 +1331,6 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "God of the Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
-      },
-      "artists": [
-        {
-          "name": "Milestone Worship",
-          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
-        }
-      ],
-      "duration_ms": 353478,
-      "name": "God of the Breakthrough (Live)",
-      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
-      },
-      "artists": [
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
-        }
-      ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1407,6 +1375,38 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+        }
+      ],
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "God of the Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
+      },
+      "artists": [
+        {
+          "name": "Milestone Worship",
+          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
+        }
+      ],
+      "duration_ms": 353478,
+      "name": "God of the Breakthrough (Live)",
+      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
-      },
-      "artists": [
-        {
-          "name": "Michael Hughes Watson",
-          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
-        }
-      ],
-      "duration_ms": 289411,
-      "name": "Hanging onto Every Word That You Say",
-      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Not in a Hurry (Reimagined)",
         "url": "https://open.spotify.com/album/6HZtVgDAvqdpbC1KCwwFlK"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 254118,
       "name": "Not in a Hurry - Reimagined",
       "url": "https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
+      },
+      "artists": [
+        {
+          "name": "Michael Hughes Watson",
+          "url": "https://open.spotify.com/artist/0VzwcKIcGtWlNa3OW0t1BZ"
+        }
+      ],
+      "duration_ms": 289411,
+      "name": "Hanging onto Every Word That You Say",
+      "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Kingdoms",
-        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
-      },
-      "artists": [
-        {
-          "name": "Enterline",
-          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
-        }
-      ],
-      "duration_ms": 207135,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
       },
@@ -1551,26 +1535,6 @@
       "duration_ms": 212543,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Better Plan",
-        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
-      },
-      "artists": [
-        {
-          "name": "eightFour",
-          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
-        },
-        {
-          "name": "Calah Mikal",
-          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
-        }
-      ],
-      "duration_ms": 238152,
-      "name": "Better Plan",
-      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1595,6 +1559,26 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Better Plan",
+        "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
+      },
+      "artists": [
+        {
+          "name": "eightFour",
+          "url": "https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs"
+        },
+        {
+          "name": "Calah Mikal",
+          "url": "https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h"
+        }
+      ],
+      "duration_ms": 238152,
+      "name": "Better Plan",
+      "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Kingdoms",
+        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
+      },
+      "artists": [
+        {
+          "name": "Enterline",
+          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
+        }
+      ],
+      "duration_ms": 207135,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Fortress (Acoustic)",
         "url": "https://open.spotify.com/album/08acRJo4M0enLC2Vta6w9X"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 249485,
       "name": "Fortress (Acoustic)",
       "url": "https://open.spotify.com/track/7J2Ct0qVKKeSZJtx7HQfn3"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+        "name": "I See the Birds",
+        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
       },
       "artists": [
         {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+      "duration_ms": 243808,
+      "name": "I See the Birds",
+      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "I See the Birds",
-        "url": "https://open.spotify.com/album/0VJ9aAYXGKg7DtsPMPFYqz"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 243808,
-      "name": "I See the Birds",
-      "url": "https://open.spotify.com/track/6iIZLd29ZRRnan0gqYrpsv"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Who May Ascend",
         "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
       },
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Shepherd",
+        "url": "https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "Shepherd",
+      "url": "https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "King of Eternity",
         "url": "https://open.spotify.com/album/7okIu2F7XP4pvAcNpyYwqq"
       },
@@ -1807,38 +1823,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Go With Me",
-        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 265566,
-      "name": "Go With Me",
-      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Shepherd",
-        "url": "https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD"
-      },
-      "artists": [
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Shepherd",
-      "url": "https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Songs About Jesus",
         "url": "https://open.spotify.com/album/2L0thC4nvrQ4yVRLxFzgCG"
       },
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+        "name": "Go With Me",
+        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
       },
       "artists": [
         {
-          "name": "Faith Rose",
-          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
         }
       ],
-      "duration_ms": 229617,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
+      "duration_ms": 265566,
+      "name": "Go With Me",
+      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1883,6 +1867,22 @@
       "duration_ms": 317509,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+      },
+      "artists": [
+        {
+          "name": "Faith Rose",
+          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+        }
+      ],
+      "duration_ms": 229617,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Don't Let Me Stray",
-        "url": "https://open.spotify.com/album/1IdIWg8IWI1aHE4f2eWO2z"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 331533,
-      "name": "Don't Let Me Stray",
-      "url": "https://open.spotify.com/track/1XCpH3pqDi1dsOPPKsXyfS"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Wonderful, Wonderful Lord (Ps 139)",
         "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 274657,
       "name": "Wonderful, Wonderful Lord (Ps 139)",
       "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Don't Let Me Stray",
+        "url": "https://open.spotify.com/album/1IdIWg8IWI1aHE4f2eWO2z"
+      },
+      "artists": [
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "duration_ms": 331533,
+      "name": "Don't Let Me Stray",
+      "url": "https://open.spotify.com/track/1XCpH3pqDi1dsOPPKsXyfS"
     },
     {
       "added_at": "2025-08-06 07:25:48",

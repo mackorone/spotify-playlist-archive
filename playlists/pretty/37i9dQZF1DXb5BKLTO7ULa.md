@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Frenna, Maroon 5, LUNA, Pommelien Thijs en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,420 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,443 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BIG TIME](https://open.spotify.com/track/22nBwtL9r1UumgwqbiIc4D) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG TIME](https://open.spotify.com/album/4KcENTAXETG5BOW9spdGp4) | 3:10 |
 | 2 | [Ben je klaar?](https://open.spotify.com/track/5Zj0gTZAjXSHAaSxVtFVlq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Ben je klaar?](https://open.spotify.com/album/1t75WIdwiHc9qTvv50RYRA) | 3:40 |
-| 3 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 3:01 |
+| 3 | [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 |
 | 4 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 5 | [The Dog](https://open.spotify.com/track/0nULVYvO6l97udJH6dlOrm) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [The Dog](https://open.spotify.com/album/5mQuWMrCe9NeiwhgFBsuad) | 5:01 |
 | 6 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 50 | [Iets Doen](https://open.spotify.com/track/3x67x8aGK8wzkFjK9zsEXg) | [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Iets Doen](https://open.spotify.com/album/5Ozq8VelGdeIfxUywHkQkC) | 2:10 |
 | 51 | [Cross Your Mind](https://open.spotify.com/track/40vDwvTk7B2X9IoPwFxUoT) | [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW), [Cherry](https://open.spotify.com/artist/0GZgL7TSoGoGJ4hZeIBB58) | [Cross Your Mind](https://open.spotify.com/album/2BCKJi7m7HSR97q4tRT2VF) | 3:02 |
 | 52 | [noord](https://open.spotify.com/track/7KqFp0nwYNVgMF8Co3ELGg) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [noord](https://open.spotify.com/album/1hur4aUfZ3azbyF5OVczdk) | 1:57 |
-| 53 | [Route](https://open.spotify.com/track/74b6Krkz0zbNZRLaQuSxCn) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Route](https://open.spotify.com/album/6hh4CYTgPSAaPGeGOHOnAn) | 2:26 |
+| 53 | [Route](https://open.spotify.com/track/74b6Krkz0zbNZRLaQuSxCn) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz) | [Route](https://open.spotify.com/album/6hh4CYTgPSAaPGeGOHOnAn) | 2:26 |
 | 54 | [Teasen](https://open.spotify.com/track/2N5iYSspcFpqqhBUFNgTS1) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Teasen](https://open.spotify.com/album/5to6nUfWOfIKwABvpx3Xor) | 2:36 |
 | 55 | [MARSEILLE](https://open.spotify.com/track/2u3xX0vQ8m4iYjzV1H3SGh) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [MARSEILLE](https://open.spotify.com/album/46bHlbcS8PVEzSUPJbq4Eo) | 2:53 |
 | 56 | [RUMBA](https://open.spotify.com/track/1pwgyTGXTQllI9P62zSwcE) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [RUMBA](https://open.spotify.com/album/1SnkJbnDGcqqVMDY9PIljT) | 2:40 |

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: LE SSERAFIM](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: Three Man Down](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Warning: this setlist may cause spontaneous crying, screaming, and slaying\. Cover: LE SSERAFIM
+> Where soaring melodies meet raw emotion\. Cover: Three Man Down
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,411 likes - 22 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,389 likes - 22 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 21 | [No\-Return \(Into the unknown\)](https://open.spotify.com/track/6DSGb5CmwHX4pvclq8HUU1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:04 |
 | 22 | [So Cynical \(Badum\)](https://open.spotify.com/track/1Hw8WhXlRjfUFDMykf92gA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:35 |
 
-Snapshot ID: `AAAAAKFqZ7AofC+uOYw5K29WZpOzEW60`
+Snapshot ID: `AAAAAPJEh7yh04nMmD6+IJ/8+7YAb0yO`

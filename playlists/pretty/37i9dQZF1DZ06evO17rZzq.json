@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4692,
+  "num_followers": 4694,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAD4S4IgYs/6KmGXqooY7jgC",
+  "snapshot_id": "aJ54gAAAAADaKJiWu7rIFo0PWHYbzgwe",
   "tracks": [
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOZO",
+        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "BOZO",
+      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8"
       },
@@ -295,42 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOZO",
-        "url": "https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "BOZO",
-      "url": "https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Eat It Up (feat. BIA)",
-      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MULTI",
         "url": "https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 208770,
       "name": "Where She At (feat. Kali, KenTheMan)",
       "url": "https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
     {
       "added_at": null,

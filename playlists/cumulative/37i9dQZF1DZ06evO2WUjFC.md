@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-139 songs - 7 hr 46 min
+140 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cumbia Del Sol \(Live\)](https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 4:29 | 2024-07-22 | 2025-02-28 |
 | [Cupido Loco](https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW) | [grupo linea sierreña](https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri), [Impresionantes De Sinaloa](https://open.spotify.com/artist/2kvwWTIotgzIb7HmZrOVUG), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Cupido Loco](https://open.spotify.com/album/4cGbwXhx9SVsZvvjnuaGQg) | 2:13 | 2025-07-15 |  |
 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 | 2024-01-29 |  |
+| [De Los Cerros La Escuela](https://open.spotify.com/track/1wYaJCv6agf7B6ZrxDBItf) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Los Cerros La Escuela](https://open.spotify.com/album/5EWHeFaUAITcGjIITQHteo) | 2:22 | 2025-08-17 |  |
 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 | 2024-01-29 |  |
 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 | 2024-06-25 |
 | [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 | 2024-01-29 |  |
@@ -116,7 +117,7 @@
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 | 2024-01-29 | 2024-09-25 |
 | [POPURRÍ RETRO \- En Vivo](https://open.spotify.com/track/4Qe6D5zMsUnuEFQG1cg8vU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [POPURRÍ RETRO \(En Vivo\)](https://open.spotify.com/album/3vWJhdj4HXVYvCLuVIzWIf) | 5:00 | 2025-02-16 | 2025-08-02 |
-| [POR UNA MUJER BONITA \- En Vivo](https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Mas Sierreños](https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:05 | 2025-04-16 |  |
+| [POR UNA MUJER BONITA \- En Vivo](https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Mas Sierreños](https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:05 | 2025-04-16 | 2025-08-17 |
 | [PRC \- En Vivo](https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:11 | 2024-03-31 |  |
 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 | 2025-07-23 |
 | [QUIÉREME](https://open.spotify.com/track/7DXa9fFf0GZmpCfd5X0Rn2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [QUIÉREME](https://open.spotify.com/album/28FeS8GCbUhRWEuoe5L1Om) | 3:43 | 2024-04-14 | 2024-08-19 |

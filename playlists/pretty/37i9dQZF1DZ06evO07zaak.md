@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 > This is Pink Floyd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,528,928 likes - 43 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,068 likes - 42 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 38 | [One of the Few](https://open.spotify.com/track/2rcpqbAf0ZXdgddldbu1sU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 1:17 |
 | 39 | [A New Machine, Pt\. 2](https://open.spotify.com/track/1gqS8bomGckIqmfDbavdHD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 0:39 |
 | 40 | [Childhood's End](https://open.spotify.com/track/4fnJmewCdmTfErfSYSysyM) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:33 |
-| 41 | [Careful with That Axe, Eugene \- Live at Pompeii \- MCMLXXII \- 2025 Mix](https://open.spotify.com/track/69v5uSz6Kgdafs6Gm4msuu) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Pink Floyd at Pompeii \- MCMLXXII \(2025 Mix\)](https://open.spotify.com/album/0ptvgHrZARlAZFmbg0WvDI) | 6:37 |
-| 42 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:26 |
-| 43 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
+| 41 | [Your Possible Pasts](https://open.spotify.com/track/1IAiDrvZCOx8AHlNZGY5yU) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut](https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y) | 4:26 |
+| 42 | [Obscured by Clouds](https://open.spotify.com/track/3c8LKbUsjW9lMYQzVScXQT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 3:04 |
 
-Snapshot ID: `aJ0nAAAAAAAg13jGvBiaqVKzrx8bxU1f`
+Snapshot ID: `aJ54gAAAAACrX2sf13EQDNwVbrGpAPwp`

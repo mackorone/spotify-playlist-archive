@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208833,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31"
+    },
+    {
+      "album": {
         "name": "Amor Real (Holiday Song)",
         "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
       },

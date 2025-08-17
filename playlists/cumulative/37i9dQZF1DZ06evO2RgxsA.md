@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-101 songs - 4 hr 0 min
+102 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Dinosaurs Will Die](https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:58 | 2022-09-16 |  |
 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 | 2022-09-16 |  |
 | [Don't Count on Me](https://open.spotify.com/track/319N7QUdPMVS1WemoPEZfF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 4:19 | 2022-12-04 | 2022-12-08 |
-| [Drugs Are Good](https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:18 | 2022-09-16 |  |
+| [Drugs Are Good](https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 2:18 | 2022-09-16 | 2025-08-17 |
+| [Drugs Are Good](https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g) | 2:18 | 2025-08-17 |  |
 | [Eat The Meek](https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 3:31 | 2022-09-19 |  |
 | [Estranged Fruit](https://open.spotify.com/track/0ntWDwPFaWKHmbjtIjjBQI) | [Fishbone](https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi), [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Estranged Fruit](https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N) | 3:39 | 2023-05-22 | 2023-07-02 |
 | [Fake\-a\-Wish Foundation](https://open.spotify.com/track/3zphlVNZhI0c6qqFEccPN2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 1:26 | 2024-04-21 | 2024-07-04 |

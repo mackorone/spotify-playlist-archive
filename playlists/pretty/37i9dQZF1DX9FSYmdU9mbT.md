@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Caetano & Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432,197 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432,530 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 69 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
 | 70 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 |
 | 71 | [A Paz \- Ao Vivo](https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Unplugged \(Ao vivo\)](https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf) | 4:53 |
-| 72 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 |
-| 73 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 |
+| 72 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 |
+| 73 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 |
 | 74 | [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 |
 | 75 | [Prazer De Viver \(Barra\)](https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3) | [Paulinho Boca De Cantor](https://open.spotify.com/artist/2CMkJfPBOkw1hQSi8EWLbU) | [Prazer De Viver](https://open.spotify.com/album/31X7O3CHeltLrDAz0P9AOS) | 3:45 |
 | 76 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 |

@@ -7929,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/4dd1PM2auq7wGx5KDV0IJc"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185156,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/5i38KlxVGVijoKWFCIcspq"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/3M5B7azVVzoKyyvRRpeuUx"
       },
@@ -27626,7 +27644,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 241904,
       "name": "Music Meets The Ocean",
       "url": "https://open.spotify.com/track/1hrcpVVnd2aWh83oYA9bAe"

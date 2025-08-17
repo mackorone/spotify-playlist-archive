@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 28878,
+  "num_followers": 28890,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAAlnt4R3JfY+23e7NIjF8Nv",
+  "snapshot_id": "aJ54gAAAAACBZTGmPW2e0BTiP0b0vHqZ",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos y Sentimientos",
+        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 184882,
+      "name": "Dinero Voy Ganado",
+      "url": "https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sapo 777",
         "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 196979,
       "name": "Sapo 777",
       "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Sentimientos",
-        "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 184882,
-      "name": "Dinero Voy Ganado",
-      "url": "https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U"
     },
     {
       "added_at": null,
@@ -671,38 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 135223,
-      "name": "JOHNNIE WALKER",
-      "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 161192,
-      "name": "FUIMOS CASI ALGO",
-      "url": "https://open.spotify.com/track/5juswOHyQNEBSC5b9WQWXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/0dWXN6tsNvIKTDVfhN3tkg"
       },
@@ -723,6 +691,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 135223,
+      "name": "JOHNNIE WALKER",
+      "url": "https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos y Sentimientos",
         "url": "https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH"
       },
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+      "duration_ms": 161192,
+      "name": "FUIMOS CASI ALGO",
+      "url": "https://open.spotify.com/track/5juswOHyQNEBSC5b9WQWXn"
     },
     {
       "added_at": null,

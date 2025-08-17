@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   AFSKUM
 
-275 songs - 14 hr 4 min
+277 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Pæn](https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Pæn](https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY) | 3:10 | 2025-05-15 |  |
 | [Regn](https://open.spotify.com/track/2fPIqRfy3iZIFwycVk8J90) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Regn](https://open.spotify.com/album/5xRpLE2g1CpQStr3AeNYHl) | 3:42 | 2024-06-27 | 2025-03-28 |
 | [Regn På Min Kind](https://open.spotify.com/track/5mcIyGl60e8Y1pk4hx8l6S) | [BUKURU](https://open.spotify.com/artist/3ihqaAb6mlqx7JYCgo8mSN) | [Regn På Min Kind](https://open.spotify.com/album/6xscW4MSCl4g87YaQyd8BH) | 2:49 | 2025-03-27 | 2025-05-23 |
+| [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 |  |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 |  |
 | [Samme side](https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Samme side](https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P) | 2:34 | 2025-01-23 | 2025-05-30 |
 | [Sandheden er..](https://open.spotify.com/track/1jINWYv94BOSm6oLu3rNbt) | [Sara Vita](https://open.spotify.com/artist/0NL4k9oswvKfTgIYxoRQG4) | [Sandheden er..](https://open.spotify.com/album/5wXLWxfRnB9EbgZyqpqLFQ) | 2:48 | 2025-05-22 | 2025-05-30 |
@@ -254,7 +255,7 @@
 | [Uheldig](https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [Uheldig](https://open.spotify.com/album/2hE13utkQDgMP4jnbedxOd) | 2:34 | 2024-07-04 | 2024-08-26 |
 | [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 | 2024-08-23 | 2024-09-12 |
 | [Ulykkelig](https://open.spotify.com/track/2YDLTIoCXWBw77xk2Irxe9) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ulykkelig](https://open.spotify.com/album/7h7vLjEEYuicY1oBmN37Fc) | 2:16 | 2024-09-11 | 2025-01-10 |
-| [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 | 2025-07-31 |  |
+| [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 | 2025-07-31 | 2025-08-17 |
 | [Un \(Done\)](https://open.spotify.com/track/0NlQLgOZnIgeXnI33NgW8i) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [\(Un\) Done](https://open.spotify.com/album/2ZBw1VZX0sZeVUopv5pKT6) | 2:16 | 2025-07-03 | 2025-07-11 |
 | [Under Din Sne](https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Under Din Sne](https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ) | 4:24 | 2024-06-27 | 2025-01-24 |
 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 | 2025-05-01 |  |
@@ -265,7 +266,7 @@
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |
 | [Venter Kun På Dig](https://open.spotify.com/track/7y5aDrMQIYHnySJk84yyUZ) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Venter Kun På Dig](https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL) | 2:20 | 2025-06-05 |  |
 | [venter venter](https://open.spotify.com/track/3D0gL4WndIjNjETzEumRwZ) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [venter venter](https://open.spotify.com/album/1RHkIVr9rfmw4o3nLPurlJ) | 3:39 | 2025-05-29 | 2025-06-06 |
-| [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 |  |
+| [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 | 2025-05-01 | 2025-08-17 |
 | [Vilde Øjne](https://open.spotify.com/track/5hJIRRLXYauzGrqKNXqxux) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Vilde Øjne](https://open.spotify.com/album/098k8y3O9JDDX8wigSekbS) | 3:10 | 2025-07-17 |  |
 | [Vinder Ikke Mere](https://open.spotify.com/track/6idRbzcrBLHQjCJmTSaqLC) | [Astrid Schick](https://open.spotify.com/artist/63MG9SvV2U3MTBcus237QI) | [Vinder Ikke Mere](https://open.spotify.com/album/2lmQ2oaFJjyjbJsock3zdw) | 3:06 | 2025-03-07 | 2025-03-22 |
 | [Vis Mig Alt](https://open.spotify.com/track/4pa7tAyNpiZShIWpn36rxW) | [Elias Kingo](https://open.spotify.com/artist/2H5Xin8lzK6OvxdijxC96E) | [Vis Mig Alt](https://open.spotify.com/album/7mhApSWZdkETIQzgufU85b) | 2:21 | 2025-06-19 | 2025-06-27 |
@@ -283,5 +284,6 @@
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |
 | [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-08 |
 | [ZAMINA](https://open.spotify.com/track/1DUOr1ivwCp4ICR4hmG6tJ) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [ZAMINA](https://open.spotify.com/album/5aM1Gfnf17ypEJlffL1oPT) | 3:12 | 2025-07-03 | 2025-08-12 |
+| [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 | 2025-08-14 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

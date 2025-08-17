@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Escarlata",
-  "num_followers": 99038,
+  "num_followers": 99056,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
+        "name": "tu amor me da paz",
+        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 195413,
+      "name": "tu amor me da paz",
+      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 181024,
       "name": "Dos Gardenias",
       "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
-        "name": "tu amor me da paz",
-        "url": "https://open.spotify.com/album/60pmaWLTyguqSTl7HBUXXN"
-      },
-      "artists": [
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 195413,
-      "name": "tu amor me da paz",
-      "url": "https://open.spotify.com/track/1gE1rA1cAMv0mHcOFhcsQZ"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Frio",
-        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 155208,
-      "name": "Frio",
-      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Amores Ajenos",
         "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 162510,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Frio",
+        "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 155208,
+      "name": "Frio",
+      "url": "https://open.spotify.com/track/0Upd1dGnqg5TtrFb8urWTb"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -731,18 +731,22 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+        "name": "TRAUMADOS",
+        "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
       },
       "artists": [
         {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
         }
       ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+      "duration_ms": 255714,
+      "name": "cuando el mundo acabe",
+      "url": "https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -767,22 +771,18 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "TRAUMADOS",
-        "url": "https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV"
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
       },
       "artists": [
         {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
         }
       ],
-      "duration_ms": 255714,
-      "name": "cuando el mundo acabe",
-      "url": "https://open.spotify.com/track/09CWemxTQUearEPP4pT4uB"
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
     },
     {
       "added_at": "2025-07-25 04:00:58",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-07-25 04:00:58",
       "album": {
-        "name": "Para No Romperme",
-        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Para No Romperme",
-      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
-    },
-    {
-      "added_at": "2025-07-25 04:00:58",
-      "album": {
         "name": "Fantas\u00edas",
         "url": "https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 226336,
       "name": "Fantas\u00edas",
       "url": "https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k"
+    },
+    {
+      "added_at": "2025-07-25 04:00:58",
+      "album": {
+        "name": "Para No Romperme",
+        "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Para No Romperme",
+      "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
     },
     {
       "added_at": "2025-07-25 04:00:58",

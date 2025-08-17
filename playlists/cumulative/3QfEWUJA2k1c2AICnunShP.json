@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/6BajwpPSYOh5vVU29F88DA"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164632,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/4s29AsWgcC9WBeicomKq1u"
+    },
+    {
+      "album": {
         "name": "LYR",
         "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
       },

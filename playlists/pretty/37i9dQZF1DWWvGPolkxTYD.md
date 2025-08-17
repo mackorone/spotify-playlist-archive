@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,763 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,762 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 27 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 | 28 | [Islands of Peace](https://open.spotify.com/track/2MhrdSEfjv2cjQ226BHEN5) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Best of Arabian Lounge](https://open.spotify.com/album/44seqBGCa20ECWZBI2RviV) | 3:54 |
 | 29 | [Laytaka](https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [À l'ombre des mots \(Avec la voix de Mahmoud Darwich\)](https://open.spotify.com/album/4gyFm0eNM9D9vi6A1gFgZR) | 6:07 |
-| 30 | [Ourakjoutyoun \(Joy\) \[Lebanon\]](https://open.spotify.com/track/305gXVEe581fZ93X3qmTBo) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Music of the Middle East \- Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à](https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF) | 2:56 |
-| 31 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
+| 30 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
+| 31 | [Ourakjoutyoun \(Joy\) \[Lebanon\]](https://open.spotify.com/track/305gXVEe581fZ93X3qmTBo) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL) | [Music of the Middle East \- Iran, Syria, Iraq, Egypt, Turkey, Armenia, Lebanon à](https://open.spotify.com/album/7gH8Q7FboKsxqpfTbXWElF) | 2:56 |
 | 32 | [Aman Avcı Vurma Beni \- Turkey](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:45 |
 | 33 | [Oriental Pearls](https://open.spotify.com/track/4rj7twM1JiFJAHmAUPVB2N) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:19 |
 | 34 | [Meçhul](https://open.spotify.com/track/4btMC5zessMUb1G9JUTT6q) | [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY) | [Dünya, Vol\. 1 \(Gün Doğumu\)](https://open.spotify.com/album/2Qocr6xEdeOsTOFGzTdTw9) | 7:39 |

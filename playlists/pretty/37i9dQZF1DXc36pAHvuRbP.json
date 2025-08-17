@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r"
         }
       ],
-      "duration_ms": 96706,
-      "name": "36'50",
-      "url": "https://open.spotify.com/track/20F4MbrdwZ8uWNLCzlJRsS"
+      "duration_ms": 164733,
+      "name": "Behhh !",
+      "url": "https://open.spotify.com/track/0mIDfkO3ECnK3Hb7kDoFZl"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Doudou",
-      "url": "https://open.spotify.com/track/4eYQxnxsePWIkFgWRrUncV"
+      "duration_ms": 182573,
+      "name": "Mon pyjama de nuit",
+      "url": "https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm"
         }
       ],
-      "duration_ms": 182573,
-      "name": "Mon pyjama de nuit",
-      "url": "https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8"
+      "duration_ms": 164893,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/4eYQxnxsePWIkFgWRrUncV"
     },
     {
       "added_at": "2023-08-08 08:47:20",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-08-08 08:47:20",
       "album": {
+        "name": "Une petite plume",
+        "url": "https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy"
+      },
+      "artists": [
+        {
+          "name": "Steve Waring",
+          "url": "https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg"
+        },
+        {
+          "name": "Alice Waring",
+          "url": "https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV"
+        }
+      ],
+      "duration_ms": 117176,
+      "name": "Une petite plume",
+      "url": "https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp"
+    },
+    {
+      "added_at": "2023-08-08 08:47:20",
+      "album": {
         "name": "Le mod\u00e8le r\u00e9duit de nos pens\u00e9es",
         "url": "https://open.spotify.com/album/4uGe4qThtLqR6IZ3BYZKW3"
       },
@@ -879,22 +899,6 @@
       "duration_ms": 189462,
       "name": "J'm'aime pas comme papa",
       "url": "https://open.spotify.com/track/2I7yUaYJjpwLbuCzCwCsf6"
-    },
-    {
-      "added_at": "2023-08-08 08:47:20",
-      "album": {
-        "name": "Chansons polies pour enfants \u00e9nerv\u00e9s",
-        "url": "https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM"
-      },
-      "artists": [
-        {
-          "name": "LAFREUX",
-          "url": "https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Non oui",
-      "url": "https://open.spotify.com/track/2bNp29G1UCFD1PcctgsBgy"
     }
   ],
   "unique_name": "Bo\u00eete \u00e0 jouets",

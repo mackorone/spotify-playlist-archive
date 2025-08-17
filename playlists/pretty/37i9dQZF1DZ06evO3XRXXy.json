@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 147595,
+  "num_followers": 147628,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAB+PDeGZxdWu8gZeOxKU9Ex",
+  "snapshot_id": "aJ54gAAAAABbCJGmRxk38FrXF8ndWLcd",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 192492,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 213877,
       "name": "Use This Gospel",
       "url": "https://open.spotify.com/track/0oPOuDmmkVp3h6puekhs6P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Innocence",
-        "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 192492,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/1kdJIblHd6cHPMqoHXbEWJ"
     },
     {
       "added_at": null,
@@ -683,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
-        "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 177094,
-      "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
-      "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innocence",
         "url": "https://open.spotify.com/album/37AgaeP8GA0Jl8y3og1Y0x"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 197125,
       "name": "A Mother\u2019s Lullaby",
       "url": "https://open.spotify.com/track/2FdWsATDfwQHKzWaDD24Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
+        "url": "https://open.spotify.com/album/2G57LyYDGdyVVgES3RAOo1"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 177094,
+      "name": "More Than Anybody (feat. Izzy Bizu, Kenny G)",
+      "url": "https://open.spotify.com/track/5lI6cMKmok4edtVqYFWt1P"
     },
     {
       "added_at": null,

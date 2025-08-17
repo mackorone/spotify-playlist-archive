@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9T8P88bzbxH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: LE SSERAFIM](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: Three Man Down](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Warning: this setlist may cause spontaneous crying, screaming, and slaying\. Cover: LE SSERAFIM
+> Where soaring melodies meet raw emotion\. Cover: Three Man Down
 
 743 songs - 1 day 18 hr 53 min
 

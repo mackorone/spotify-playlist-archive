@@ -4,7 +4,7 @@
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-50 songs - 3 hr 8 min
+51 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 | 2020-02-10 |  |
 | [Hier Kom Ik Weg](https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS) | 3:28 | 2020-02-10 |  |
 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 | 2020-02-10 |  |
+| [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Alle 40 Goed \- Hollandse Hits](https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub) | 3:56 | 2020-02-10 |  |
 | [Jij Bent Zo](https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:31 | 2020-02-10 |  |
 | [Laura](https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [JanSmit.com](https://open.spotify.com/album/71v1iplssftNV8DOYZwJuw) | 3:08 | 2020-02-10 |  |
 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 | 2020-02-10 |  |
@@ -53,7 +54,7 @@
 | [Uit de Schaduw](https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Uit de schaduw](https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC) | 3:49 | 2020-02-10 |  |
 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 | 2020-02-10 |  |
 | [Voorbij](https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Zien](https://open.spotify.com/album/3fDaMcFWW1zR18e6umeiOf) | 4:06 | 2023-04-12 |  |
-| [Watermensen](https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:28 | 2020-02-10 |  |
+| [Watermensen](https://open.spotify.com/track/5i0GCe9HKoiKi8WbFZRTqi) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Totzoverder \(Het Beste Van 3JS\)](https://open.spotify.com/album/18oD8jR60K0DXhs7A2mi1h) | 3:28 | 2020-02-10 | 2025-08-17 |
 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 | 2020-02-10 |  |
 | [Zij](https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:05 | 2020-02-10 |  |
 | [Zij Gelooft In Mij](https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Gewoon Andre](https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe) | 3:49 | 2020-02-10 |  |

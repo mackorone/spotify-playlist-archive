@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 97180,
+  "num_followers": 97280,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAABbRnPGZ0H0q8mSikMKekMP",
+  "snapshot_id": "aJ54gAAAAACmjVdZMSaWwOSaU01nfcIV",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle Feather",
-        "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Feather In My Hat (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workin' Overtime",
         "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eagle Feather",
+        "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Feather In My Hat (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 177727,
-      "name": "Breakin' Your Heart",
-      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 175675,
-      "name": "Waste of Good Whiskey",
-      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
+      "duration_ms": 177727,
+      "name": "Breakin' Your Heart",
+      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
     },
     {
       "added_at": null,

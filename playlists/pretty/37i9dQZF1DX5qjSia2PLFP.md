@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,415 likes - 64 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,456 likes - 64 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

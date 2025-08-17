@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 116043,
       "name": "2003",
       "url": "https://open.spotify.com/track/69IEUJIZe3xDxaM1AufVY9"
@@ -3634,7 +3634,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 140100,
       "name": "EAT ME (alive)",
       "url": "https://open.spotify.com/track/26KHB75CMVWUh1q7v9KLPt"
@@ -11215,6 +11215,24 @@
     },
     {
       "album": {
+        "name": "Sippin Country",
+        "url": "https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd"
+      },
+      "artists": [
+        {
+          "name": "Lil Man J",
+          "url": "https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159622,
+      "name": "Sippin Country",
+      "url": "https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq"
+    },
+    {
+      "album": {
         "name": "Ski Trip",
         "url": "https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk"
       },
@@ -12674,6 +12692,24 @@
       "duration_ms": 196873,
       "name": "The Best Part of Life",
       "url": "https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB"
+    },
+    {
+      "album": {
+        "name": "the middle",
+        "url": "https://open.spotify.com/album/2WlczGZGOWDR3igZva0zKs"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "the middle",
+      "url": "https://open.spotify.com/track/6B78WUX5itO7nSEx4ZjUp8"
     },
     {
       "album": {

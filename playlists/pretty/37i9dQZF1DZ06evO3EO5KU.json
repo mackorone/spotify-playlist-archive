@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 162869,
+  "num_followers": 162886,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAABKYSbe+pSf0GoE5p9xWpom",
+  "snapshot_id": "aJ54gAAAAAA9Xn4bXuH88q9nesrf71li",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toro Encartado (En Vivo)",
-        "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 218771,
-      "name": "Toro Encartado - En Vivo",
-      "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duren",
         "url": "https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 190423,
       "name": "Duren",
       "url": "https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toro Encartado (En Vivo)",
+        "url": "https://open.spotify.com/album/7xBSPL05RobjeaUwj0bTMA"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 218771,
+      "name": "Toro Encartado - En Vivo",
+      "url": "https://open.spotify.com/track/2uqioTIH7tswiDWK23nrwe"
     },
     {
       "added_at": null,

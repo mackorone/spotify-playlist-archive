@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 13 | [Greece](https://open.spotify.com/track/7yG364iLzExYFIaIUTbiug) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Rap Game Awful](https://open.spotify.com/album/1gGEh8LZdW7Dt51anEyYBl) | 2:40 |
 | 14 | [Burner on Deck \(feat\. Pop Smoke & Young Adz\)](https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:07 |
 | 15 | [Mercury](https://open.spotify.com/track/1w6Gcw670LjrAnrbAWObqT) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 5:23 |
-| 16 | [50s](https://open.spotify.com/track/6WZtUG0qldMF7bzOtz7ZR3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s \(headiokart remix\)](https://open.spotify.com/album/6QsiObcRCtcPHjTVkNJ49Z) | 2:39 |
-| 17 | [Three Rivers](https://open.spotify.com/track/6lHN6T5ZkPCEKDPZqDKcYw) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:31 |
+| 16 | [Three Rivers](https://open.spotify.com/track/6lHN6T5ZkPCEKDPZqDKcYw) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:31 |
+| 17 | [50s](https://open.spotify.com/track/6WZtUG0qldMF7bzOtz7ZR3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s \(headiokart remix\)](https://open.spotify.com/album/6QsiObcRCtcPHjTVkNJ49Z) | 2:39 |
 | 18 | [Attitude](https://open.spotify.com/track/5u1IwY8m1KBKVXaHUoQrn7) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:16 |
 | 19 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 |
 | 20 | [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFrPfkOz1Un8.md) - [plain]
 | 32 | [Crazy](https://open.spotify.com/track/3XcD1khvzlkPVvDSpwDlLx) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:43 |
 | 33 | [Full Moon](https://open.spotify.com/track/7IUpteTNUxLrbu6nl7kiWz) | [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Easy](https://open.spotify.com/album/1fPA6uSDNiuLgEwDNrolZR) | 2:55 |
 
-Snapshot ID: `Ab5mSAAAAAAyJ1QK1wD45s3YHPdXVJqM`
+Snapshot ID: `Ab5r8gAAAADNqfPGAYxOBMFnqIsn53RI`

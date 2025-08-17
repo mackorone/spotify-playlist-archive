@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 37794,
+  "num_followers": 37800,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADhRw72x8xETNNiZBMzfXtr",
+  "snapshot_id": "aJ54gAAAAADVR5a3jmWf6DPXlH+nOvVX",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Little More Magic",
         "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 303720,
       "name": "Can't We Try",
       "url": "https://open.spotify.com/track/16fL0EBjZAqAVASav7A6Rl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Is It Still Good to Ya",
-      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 292560,
       "name": "Easy, Easy, Got To Take It Easy",
       "url": "https://open.spotify.com/track/5zqA1u5TMNsZUgcVfSdVs3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Is It Still Good to Ya",
+      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe In Love",
-        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Believe In Love - Phat Phili Mix",
-      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -807,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This One's For You",
-        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
+        "name": "Believe In Love",
+        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
       },
       "artists": [
         {
@@ -816,9 +800,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 378266,
-      "name": "This One's for You",
-      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
+      "duration_ms": 258680,
+      "name": "Believe In Love - Phat Phili Mix",
+      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
     },
     {
       "added_at": null,
@@ -835,6 +819,22 @@
       "duration_ms": 357333,
       "name": "It's Time for Love",
       "url": "https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This One's For You",
+        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 378266,
+      "name": "This One's for You",
+      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
     },
     {
       "added_at": null,

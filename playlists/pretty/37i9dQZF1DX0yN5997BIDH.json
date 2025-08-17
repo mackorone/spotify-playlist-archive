@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Deja que la m\u00fasica te inspire para acabar con tu tarea!",
-  "num_followers": 556620,
+  "num_followers": 556552,
   "original_name": "Tarea Casual",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
-      },
-      "artists": [
-        {
-          "name": "Will Joseph Cook",
-          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "A Boy from Colorado",
         "url": "https://open.spotify.com/album/1RKiTh2gOJYS6SRh7iMXBK"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 138136,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1dFzOEaw0sm022IIBgTDU4"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/6mGpTiv7McWu5YLeKgupGp"
+      },
+      "artists": [
+        {
+          "name": "Will Joseph Cook",
+          "url": "https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/5xtNtoKG2fE1gEe8JGexyS"
     },
     {
       "added_at": "2024-07-11 01:17:45",
@@ -1519,70 +1519,6 @@
     {
       "added_at": "2024-07-11 01:17:45",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "what would you do?",
-        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "what would you do?",
-      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "Your Power",
-        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2024-07-11 01:17:45",
-      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -1603,6 +1539,70 @@
       "duration_ms": 307014,
       "name": "Love's Train",
       "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Your Power",
+        "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "what would you do?",
+        "url": "https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "what would you do?",
+      "url": "https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s"
+    },
+    {
+      "added_at": "2024-07-11 01:17:45",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2024-07-11 01:17:45",

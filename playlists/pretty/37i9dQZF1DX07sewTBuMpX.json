@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 140057,
+  "num_followers": 140068,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 160628,
       "name": "CARR\u00c9 OK",
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 195643,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "Klop Klop",
         "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 167684,
       "name": "Meteoriet",
       "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
-      },
-      "artists": [
-        {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1531,34 +1531,6 @@
       "duration_ms": 172271,
       "name": "Trust",
       "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
-        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
-      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1611,6 +1583,34 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
+        "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
         "name": "GIRLS WANNA HAVE FUN",
         "url": "https://open.spotify.com/album/7I10Tjo8NKUvesJtUrpBof"
       },
@@ -1651,30 +1651,6 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Spanje",
-        "url": "https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF"
-      },
-      "artists": [
-        {
-          "name": "Ksix",
-          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
-        },
-        {
-          "name": "J.FIZ",
-          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
-        },
-        {
-          "name": "Dylisa",
-          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
-        }
-      ],
-      "duration_ms": 141230,
-      "name": "Spanje",
-      "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
-    },
-    {
-      "added_at": "2025-07-17 22:00:46",
-      "album": {
         "name": "AH TXE TXE",
         "url": "https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio"
       },
@@ -1695,6 +1671,30 @@
       "duration_ms": 136350,
       "name": "AH TXE TXE",
       "url": "https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY"
+    },
+    {
+      "added_at": "2025-07-17 22:00:46",
+      "album": {
+        "name": "Spanje",
+        "url": "https://open.spotify.com/album/2wu6po7eDveSp9XYYNjeqF"
+      },
+      "artists": [
+        {
+          "name": "Ksix",
+          "url": "https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR"
+        },
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        }
+      ],
+      "duration_ms": 141230,
+      "name": "Spanje",
+      "url": "https://open.spotify.com/track/5pFxWvLViHHkKBFiln1vij"
     },
     {
       "added_at": "2025-07-17 22:00:46",
@@ -1735,26 +1735,18 @@
     {
       "added_at": "2025-07-17 22:00:46",
       "album": {
-        "name": "Ik Heb Je",
-        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/7DAvYht3wOOdf81NY8J9vu"
       },
       "artists": [
         {
           "name": "Idaly",
           "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         }
       ],
-      "duration_ms": 194347,
-      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
-      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+      "duration_ms": 174063,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/62pSIMezFKYK2UxQHmCE4g"
     },
     {
       "added_at": "2025-07-17 22:00:46",

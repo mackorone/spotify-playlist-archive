@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 227833,
+  "num_followers": 227910,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -279,34 +279,6 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Band Baaja Baaraat",
-        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Salim Merchant",
-          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-        },
-        {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 267624,
-      "name": "Ainvayi Ainvayi",
-      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -331,6 +303,34 @@
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
+        "name": "Band Baaja Baaraat",
+        "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Salim Merchant",
+          "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 267624,
+      "name": "Ainvayi Ainvayi",
+      "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -419,30 +419,6 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Jab We Met",
-        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        }
-      ],
-      "duration_ms": 245099,
-      "name": "Mauja Hi Mauja",
-      "url": "https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
         "name": "Student of the Year (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 262866,
       "name": "Kukkad",
       "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
+        "name": "Jab We Met",
+        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 245099,
+      "name": "Mauja Hi Mauja",
+      "url": "https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -535,34 +535,6 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -587,6 +559,34 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
+        "name": "Coca Cola (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Coca Cola (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Bom Diggy - Single",
-        "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
-      },
-      "artists": [
-        {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
-        },
-        {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Bom Diggy",
-      "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
-    },
-    {
-      "added_at": "2025-07-31 10:41:39",
-      "album": {
         "name": "Dus Bahane 2.0 (From \"Baaghi 3\") (feat. K.K., Shaan, Tulsi Kumar)",
         "url": "https://open.spotify.com/album/6apDnjHHb93tIEiPyNxhba"
       },
@@ -1135,30 +1115,42 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
-        "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
+        "name": "Bom Diggy - Single",
+        "url": "https://open.spotify.com/album/6YZdJ32vbH2lJmmIobqoc8"
       },
       "artists": [
         {
-          "name": "Chandana Dixit",
-          "url": "https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2"
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
         },
         {
-          "name": "Abhijeet",
-          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Anand-Milind",
-          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
         }
       ],
-      "duration_ms": 267416,
-      "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
-      "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
+      "duration_ms": 207692,
+      "name": "Bom Diggy",
+      "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
+    },
+    {
+      "added_at": "2025-07-31 10:41:39",
+      "album": {
+        "name": "Lakshya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 375706,
+      "name": "Lakshya",
+      "url": "https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T"
     },
     {
       "added_at": "2025-07-31 10:41:39",
@@ -1199,22 +1191,30 @@
     {
       "added_at": "2025-07-31 10:41:39",
       "album": {
-        "name": "Lakshya (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe"
+        "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
+        "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
       "artists": [
         {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          "name": "Chandana Dixit",
+          "url": "https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2"
         },
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
         }
       ],
-      "duration_ms": 375706,
-      "name": "Lakshya",
-      "url": "https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T"
+      "duration_ms": 267416,
+      "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
+      "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
     },
     {
       "added_at": "2025-07-31 10:41:39",

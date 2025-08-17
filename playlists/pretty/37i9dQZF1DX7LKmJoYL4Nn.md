@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,118 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,125 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 58 | [No name yet](https://open.spotify.com/track/34siwMLyNV8M8V5RwaF4Re) | [Double Face/三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/3dtzZMV1ZuvWrpmR1s89ju) | [Double Face「No name yet」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb) | 4:14 |
 | 59 | [月光奇譚](https://open.spotify.com/track/705LiBmCJHgFJaOj2bEiEE) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [紅月「月光奇譚」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/069zrfaEQIbpcoLh2YX5kH) | 4:23 |
 | 60 | [RISKY VENUS](https://open.spotify.com/track/5GrzF7LHTKa4Uwf0H00rIC) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ユニットソングCD Crazy:B](https://open.spotify.com/album/7HXv5hldgkfCwW67aMjk1j) | 4:41 |
-| 61 | [Heart Heat Beat](https://open.spotify.com/track/2zLGp5k35Jms0lyAf1E5Yt) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [流星隊「熱血☆流星忍法帖」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/0KsFst811VgzL06L27pPWH) | 4:23 |
+| 61 | [Savage Love Affair](https://open.spotify.com/track/4mI9ml3lMrUSBpWYORI2fd) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [UNDEAD「FORBIDDEN RAIN」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5PVU3WIqTxfohzNmI48brf) | 4:38 |
 | 62 | [You're Speculation](https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 3:41 |
-| 63 | [Savage Love Affair](https://open.spotify.com/track/4mI9ml3lMrUSBpWYORI2fd) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [UNDEAD「FORBIDDEN RAIN」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/5PVU3WIqTxfohzNmI48brf) | 4:38 |
+| 63 | [Heart Heat Beat](https://open.spotify.com/track/2zLGp5k35Jms0lyAf1E5Yt) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [流星隊「熱血☆流星忍法帖」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/0KsFst811VgzL06L27pPWH) | 4:23 |
 | 64 | [麗しのナイチンゲール](https://open.spotify.com/track/6uZmHyyfFbDr7seMwmUSfz) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [Valkyrie「Acanthe」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc) | 4:31 |
 | 65 | [Noisy:Beep](https://open.spotify.com/track/2txvj2W5aUiSUdjx9bca3o) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [Crazy:B「指先のアリアドネ」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO) | 4:02 |
 | 66 | [A little bit UP!!](https://open.spotify.com/track/3PQyK1cirH5POLnr8ECCfC) | [Switch/逆先夏目\(CV.野島健児\)、青葉つむぎ\(CV.石川界人\)、春川宙\(CV.山本和臣\)](https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV) | [Switch「Brilliant Smile」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc) | 4:28 |

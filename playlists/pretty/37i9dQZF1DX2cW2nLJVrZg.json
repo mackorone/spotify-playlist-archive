@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 257162,
+  "num_followers": 257139,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
+      },
+      "artists": [
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 165186,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "The Muppets (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 347600,
       "name": "Into the West",
       "url": "https://open.spotify.com/track/0gSEyG7pOFuHM05433EibX"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Beauty And The Beast (Special Edition)",
-        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
-      },
-      "artists": [
-        {
-          "name": "Angela Lansbury",
-          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 165186,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/4dhPM05Kr49JbsvPwGROnJ"
     },
     {
       "added_at": "2024-01-23 19:55:12",

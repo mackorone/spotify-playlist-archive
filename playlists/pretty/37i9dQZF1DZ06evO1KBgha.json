@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 365018,
+  "num_followers": 365022,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADhJXPY8xYVESdhACJB41i4",
+  "snapshot_id": "aJ54gAAAAAA4Hk2Q9PewbfB7Qba0ry3T",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAN TURRONA REMIX",
-        "url": "https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY"
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
       "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 182155,
-      "name": "SAN TURRONA REMIX",
-      "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
+      "duration_ms": 141631,
+      "name": "Tu Peor Pesadilla",
+      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+        "name": "SAN TURRONA REMIX",
+        "url": "https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY"
       },
       "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 141631,
-      "name": "Tu Peor Pesadilla",
-      "url": "https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL"
+      "duration_ms": 182155,
+      "name": "SAN TURRONA REMIX",
+      "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
     },
     {
       "added_at": null,

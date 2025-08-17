@@ -4,7 +4,7 @@
 
 > 
 
-52 songs - 3 hr 11 min
+53 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 | 2025-08-05 |  |
 | [Invincible](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/album/5P5ckQNn8AibK7TVTVrUoC) | 3:10 | 2025-08-05 |  |
 | [Jerk It Out](https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV) | [Caesars](https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr) | [Love For The Streets](https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal) | 3:15 | 2025-08-05 |  |
+| [Laura non c'è](https://open.spotify.com/track/7anRsNjcOSrNYf2FjYopCH) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Lei, gli amici e tutto il resto](https://open.spotify.com/album/3yGAdaEbdDBo37XuLwm2YB) | 3:46 | 2025-08-16 |  |
 | [Light Switch](https://open.spotify.com/track/5Lh7DFcEwboYBefjnDVGz5) | [Rain Paris](https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB) | [Light Switch](https://open.spotify.com/album/2867dAr71CyRHt6MMco7yk) | 3:04 | 2025-08-05 |  |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2025-08-05 |  |
 | [Manchmal haben Frauen...](https://open.spotify.com/track/7mSIm0LzfRp4P8OxtJfwdA) | [Die Ärzte](https://open.spotify.com/artist/0cbL6CYnRqpAxf1evwUVQD) | [Runter mit den Spendierhosen, Unsichtbarer!](https://open.spotify.com/album/3lb8OdNAHYsvXNp9YrSnx1) | 4:16 | 2025-08-05 |  |

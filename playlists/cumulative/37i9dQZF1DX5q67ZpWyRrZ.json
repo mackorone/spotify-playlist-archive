@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Sweetburn",
+        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        },
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237378,
+      "name": "Bolo Bolo",
+      "url": "https://open.spotify.com/track/3dYnYRTcJSfELlIH3mgNOl"
+    },
+    {
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N"
       },
@@ -2662,7 +2684,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 162206,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"

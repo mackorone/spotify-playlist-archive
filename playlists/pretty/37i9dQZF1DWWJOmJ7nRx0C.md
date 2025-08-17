@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,953 likes - 76 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,875 likes - 76 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 64 | [Negative Space](https://open.spotify.com/track/2y360Vbmgunt8pyLHmwOUf) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Negative Space](https://open.spotify.com/album/3BSAYIxEIPKc6DdJwpSeDh) | 3:18 |
 | 65 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 |
 | 66 | [Sandbox](https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Sandbox](https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd) | 2:25 |
-| 67 | [dark things](https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [dark things](https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO) | 4:40 |
+| 67 | [DARK THINGS](https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DARK THINGS](https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO) | 4:40 |
 | 68 | [60 Ways to Forget People](https://open.spotify.com/track/0x5gbbBiPs9pr6gMLgrerX) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [60 Ways to Forget People](https://open.spotify.com/album/6ee6HzKPVb3JSkqavLMwIR) | 2:47 |
 | 69 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 |
 | 70 | [Addicted to the Wicked & Twisted](https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Death or Glory](https://open.spotify.com/album/0d057DHZkVhYZCDRrr1p5f) | 3:32 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4468,
+  "num_followers": 4470,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACxcJOHOR+O5siUNdnranp3",
+  "snapshot_id": "aJ54gAAAAACxY+odND3oA99DU72vNHFu",
   "tracks": [
     {
       "added_at": null,
@@ -403,30 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap God 2",
-        "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "Bullet Wound (feat. Lil Wayne & Young Scooter)",
-      "url": "https://open.spotify.com/track/6t9dhGRdZ79uPGpqjyuB2q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 255493,
       "name": "Muddy (feat. Young Dolph & Young Scooter)",
       "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap God 2",
+        "url": "https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 207160,
+      "name": "Bullet Wound (feat. Lil Wayne & Young Scooter)",
+      "url": "https://open.spotify.com/track/6t9dhGRdZ79uPGpqjyuB2q"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap's Last Hope",
+        "url": "https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 175361,
+      "name": "Grind Dont Stop",
+      "url": "https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -491,26 +507,6 @@
       "duration_ms": 233725,
       "name": "Do It Big (feat. Future)",
       "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "Come Eat Wit Us",
-      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap's Last Hope",
-        "url": "https://open.spotify.com/album/20UGfoQBYKeVrcph3ti0OI"
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
       "artists": [
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 175361,
-      "name": "Grind Dont Stop",
-      "url": "https://open.spotify.com/track/41QEAMvVuZNabhwvICttLn"
+      "duration_ms": 176901,
+      "name": "Come Eat Wit Us",
+      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Streetz Krazy",
         "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Bricks 2",
         "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
       },
@@ -807,26 +807,6 @@
       "duration_ms": 223946,
       "name": "Re Up",
       "url": "https://open.spotify.com/track/7BHt2zee786p8zTtL6ZzaV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        }
-      ],
-      "duration_ms": 172808,
-      "name": "Middle Of The Hood",
-      "url": "https://open.spotify.com/track/66KafkpdRjbRevYn2V1B77"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
       "duration_ms": 209099,
       "name": "Black Migo",
       "url": "https://open.spotify.com/track/31l9ecQfaEpEBe78KmpraS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "duration_ms": 172808,
+      "name": "Middle Of The Hood",
+      "url": "https://open.spotify.com/track/66KafkpdRjbRevYn2V1B77"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Peewee Longway",
-          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
-        }
-      ],
-      "duration_ms": 146571,
-      "name": "Touchdown",
-      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -943,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Jefe",
-        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
       },
       "artists": [
         {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        },
-        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Peewee Longway",
+          "url": "https://open.spotify.com/artist/0xTcxl35DKXUeYRWqY10w6"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Medellin (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
+      "duration_ms": 146571,
+      "name": "Touchdown",
+      "url": "https://open.spotify.com/track/7uBxxv1fY6JodMDIuEDUxd"
     },
     {
       "added_at": null,
@@ -983,26 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "East Atlanta Memphis",
-        "url": "https://open.spotify.com/album/4wIWqqDGcwWLG15GxVYWpc"
+        "name": "Young Jefe",
+        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 279745,
-      "name": "Can't Handle Me - feat. Young Scooter",
-      "url": "https://open.spotify.com/track/2jZuZtEzTQRliWvgRw6Ela"
+      "duration_ms": 213773,
+      "name": "Medellin (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
     },
     {
       "added_at": null,
@@ -1027,6 +1003,30 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "East Atlanta Memphis",
+        "url": "https://open.spotify.com/album/4wIWqqDGcwWLG15GxVYWpc"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 279745,
+      "name": "Can't Handle Me - feat. Young Scooter",
+      "url": "https://open.spotify.com/track/2jZuZtEzTQRliWvgRw6Ela"
     },
     {
       "added_at": null,

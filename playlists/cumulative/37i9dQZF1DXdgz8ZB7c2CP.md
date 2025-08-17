@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Ninajirachi
 
-1,105 songs - 2 day 12 hr 43 min
+1,106 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [CREATURE$](https://open.spotify.com/track/2waNhBLIAagext0aj6HqeS) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Surya Sen](https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap) | [CREATURE$](https://open.spotify.com/album/0uYkKeNG9wzWr0s6DFFC6q) | 3:08 | 2025-04-24 | 2025-05-09 |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-06-30 | 2024-11-29 |
 | [Cross Me](https://open.spotify.com/track/6OXTbzpfIyd3e8wDB1QQnD) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Cross Me](https://open.spotify.com/album/6zVp3A8lkZjrDOAxExLdMi) | 4:16 | 2022-12-21 | 2023-04-07 |
+| [Cross Your Mind](https://open.spotify.com/track/40vDwvTk7B2X9IoPwFxUoT) | [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW), [Cherry](https://open.spotify.com/artist/0GZgL7TSoGoGJ4hZeIBB58) | [Cross Your Mind](https://open.spotify.com/album/2BCKJi7m7HSR97q4tRT2VF) | 3:02 | 2025-08-15 |  |
 | [Crossed Our Hearts](https://open.spotify.com/track/6ZI7dfjX2IlxaXsFw5LIdf) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Crossed Our Hearts](https://open.spotify.com/album/1rdWSzcZSimmLjNQZQGO1o) | 2:50 | 2022-05-13 | 2022-07-26 |
 | [Crossing Fingers](https://open.spotify.com/track/69SV1FqSLQny0dtyzIHqkC) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d), [Cayenne](https://open.spotify.com/artist/1JTyFHtzmZHTOUW74ChuRj) | [Crossing Fingers](https://open.spotify.com/album/45ITGXURdV4KBMiGvHnofx) | 3:35 | 2023-05-12 | 2023-05-20 |
 | [CRUISIN](https://open.spotify.com/track/2GQI4Xj5hjT2wCp95W2U6R) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5) | [EVERYDAY SAMPLER](https://open.spotify.com/album/6NdcpJSBmFjY7ulKPPvmoQ) | 3:08 | 2024-04-18 | 2024-04-26 |
@@ -416,7 +417,7 @@
 | [HEARTH SONG](https://open.spotify.com/track/3k67GdGoKbxhibQz6YbhDn) | [Aleksandir](https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b), [Ola](https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC) | [HEARTH SONG](https://open.spotify.com/album/6PGmxC2f5UjpCuOO36QX6C) | 5:24 | 2024-04-25 | 2024-05-21 |
 | [HEARTPIECE](https://open.spotify.com/track/4Fd6Tuj0ZeRshcftzX4AAF) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [HEARTPIECE](https://open.spotify.com/album/0vdqNRrtw4J3QSWHsljwNC) | 2:00 | 2025-01-23 | 2025-02-28 |
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2021-08-06 | 2023-05-13 |
-| [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 | 2025-08-15 |  |
+| [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 | 2025-08-15 | 2025-08-17 |
 | [Her](https://open.spotify.com/track/3hUZ0j3ED7sZ3PwyxrrmZH) | [VALENTINE](https://open.spotify.com/artist/1oSgUcr4PGbytOf7G7Y4DZ) | [Her](https://open.spotify.com/album/0YftsFeJDR0IykBqmUVHlp) | 4:53 | 2021-08-06 | 2022-04-20 |
 | [hey listen!](https://open.spotify.com/track/4yNhe3jDAo8o1SJ0hTEkvt) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL) | [hey listen!](https://open.spotify.com/album/2EY9vOrYUDrzQEr2R2QZMN) | 2:38 | 2025-08-01 |  |
 | [High](https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [High](https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ) | 2:52 | 2023-07-21 | 2023-11-11 |

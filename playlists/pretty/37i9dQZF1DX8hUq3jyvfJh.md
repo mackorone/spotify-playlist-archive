@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,721 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,711 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [F.U.B.U\. \(feat\. The\-Dream & BJ The Chicago Kid\)](https://open.spotify.com/track/2aR6SYRJxy2QsBxA459ATF) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 5:13 |
 | 24 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 25 | [DESCONFORTO](https://open.spotify.com/track/29tBLOZpAyaXZgsNuGUC86) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [BUNMI](https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX) | 3:38 |
-| 26 | [Tipo Cyclone](https://open.spotify.com/track/1VWdLSwcEd0NSGUkRLQeOL) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [LOGO MANIA](https://open.spotify.com/album/2PZmM0dcw06xshDRwHzUup) | 3:00 |
-| 27 | [Super Sleazy \(Igual uma Garota Francesa\)](https://open.spotify.com/track/6pgOTqXWdJMai9LFJ1mW0R) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Tsunami Season](https://open.spotify.com/album/6z0CqvNEwV2NuKQyPTeWvi) | 2:31 |
+| 26 | [Super Sleazy \(Igual uma Garota Francesa\)](https://open.spotify.com/track/6pgOTqXWdJMai9LFJ1mW0R) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Tsunami Season](https://open.spotify.com/album/6z0CqvNEwV2NuKQyPTeWvi) | 2:31 |
+| 27 | [Tipo Cyclone](https://open.spotify.com/track/1VWdLSwcEd0NSGUkRLQeOL) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [DJ SAZE](https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [LOGO MANIA](https://open.spotify.com/album/2PZmM0dcw06xshDRwHzUup) | 3:00 |
 | 28 | [Balas do Meu Bairro](https://open.spotify.com/track/1q2u58F58Jclr58j3iR1xp) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:00 |
 | 29 | [Ultron](https://open.spotify.com/track/3xDYJYZEDTYzcPFlHcFx8C) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Leonok](https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta) | [Ultron](https://open.spotify.com/album/5kH4fghH5BTis2BVVYVh5J) | 2:03 |
 | 30 | [FUGIR NÃO ADIANTA](https://open.spotify.com/track/463cD2sfyCzpK8f8q9idTI) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BUNMI](https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX) | 3:00 |

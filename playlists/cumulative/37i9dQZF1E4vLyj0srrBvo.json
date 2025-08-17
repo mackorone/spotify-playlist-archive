@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Pastel Ghost, Labyrinth Ear, Eartheater and more",
+  "description": "With Pastel Ghost, Labyrinth Ear, Pearly Drops and more",
   "name": "Grimes Radio",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 247478,
       "name": "3NDL3SS",
       "url": "https://open.spotify.com/track/3ldt8V99xmV1oGeqbWJaO5"
@@ -6488,7 +6488,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 247000,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh"
@@ -7642,7 +7642,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 222000,
       "name": "Dark Beach",
       "url": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
@@ -7928,7 +7928,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
@@ -9446,7 +9446,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 204124,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL"
@@ -10970,7 +10970,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
@@ -14738,7 +14738,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 198106,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS"
@@ -15616,7 +15616,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 218384,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4t9vB7wIKWE5jIhjcztmmd"
@@ -17956,7 +17956,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 193586,
       "name": "Lost In My Bedroom",
       "url": "https://open.spotify.com/track/61AXzGgiu768lqCXHBHlt8"
@@ -21190,7 +21190,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 199183,
       "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
@@ -21996,7 +21996,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 314866,
       "name": "Pagan Poetry",
       "url": "https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU"
@@ -23177,6 +23177,24 @@
     },
     {
       "album": {
+        "name": "Era Extra\u00f1a",
+        "url": "https://open.spotify.com/album/2N9pVEQw0ByXjNn9QSknz3"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Polish Girl",
+      "url": "https://open.spotify.com/track/7vA9zWg6fmjLZn105Uj4TE"
+    },
+    {
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
       },
@@ -23740,6 +23758,24 @@
       "duration_ms": 206000,
       "name": "Proto",
       "url": "https://open.spotify.com/track/1kQgvgzTxrGQMU8HjR6Mdv"
+    },
+    {
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383866,
+      "name": "Ptolemaea",
+      "url": "https://open.spotify.com/track/29LsI5izZL8txZEJhegSBs"
     },
     {
       "album": {
@@ -24840,7 +24876,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 262600,
       "name": "Run the Road",
       "url": "https://open.spotify.com/track/43kUtI55YuzmKZ6BBQLd4F"
@@ -25798,7 +25834,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 208624,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2"
@@ -26366,7 +26402,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 194622,
       "name": "Sims 2",
       "url": "https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI"
@@ -26474,7 +26510,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 240000,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/659mtBqBiCt0Ohz7FI5cZ7"
@@ -29636,7 +29672,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -30484,7 +30520,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 197000,
       "name": "Translucid",
       "url": "https://open.spotify.com/track/4rM5Ff04DiHb4rTILpA560"
@@ -32798,7 +32834,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 235733,
       "name": "Without Love",
       "url": "https://open.spotify.com/track/40G45aA4dDcFt6AalUBsCu"

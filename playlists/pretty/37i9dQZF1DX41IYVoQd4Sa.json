@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e8\u05d5\u05e2\u05d9 \u05e8\u05d9\u05e7",
-  "num_followers": 32382,
+  "num_followers": 32388,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-14 21:00:11",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
-      },
-      "artists": [
-        {
-          "name": "Yael Deckelbaum",
-          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Only Love is Real",
-      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
-    },
-    {
-      "added_at": "2025-08-14 21:00:11",
-      "album": {
         "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
         "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
@@ -739,18 +723,18 @@
     {
       "added_at": "2025-08-14 21:00:11",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Yael Deckelbaum",
+          "url": "https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj"
         }
       ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+      "duration_ms": 167000,
+      "name": "Only Love is Real",
+      "url": "https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m"
     },
     {
       "added_at": "2025-08-14 21:00:11",
@@ -767,6 +751,22 @@
       "duration_ms": 362108,
       "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2025-08-14 21:00:11",
+      "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
     },
     {
       "added_at": "2025-08-14 21:00:11",

@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-115 songs - 5 hr 23 min
+116 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [BIG BUSINESS](https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:41 | 2023-07-29 | 2025-03-10 |
 | [BIG BUSINESS](https://open.spotify.com/track/3x0AuSjITqCy6pA3tDqCpE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 1:41 | 2024-03-15 | 2024-05-07 |
 | [BIG DEAL \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:33 | 2022-10-28 | 2025-05-07 |
+| [BIRTHDAY BEHAVIOR](https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIRTHDAY BEHAVIOR](https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW) | 2:24 | 2025-08-17 |  |
 | [Bitch Duh \(Remix\)](https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh \(Remix\)](https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i) | 2:52 | 2024-04-15 | 2024-04-27 |
-| [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 | 2024-04-27 |  |
+| [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bitch Duh feat\. BIA \(Remix\)](https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo) | 2:52 | 2024-04-27 | 2025-08-17 |
 | [BLUE BANK](https://open.spotify.com/track/6U5wHb6zuV96FGsAJcDbkM) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 2:36 | 2022-10-28 | 2023-07-30 |
 | [Bo$$day](https://open.spotify.com/track/0QLB087RjF3zRLdKhpld8d) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Bo$$day](https://open.spotify.com/album/1Yn3gqAQitxjKrll6vSpWT) | 2:25 | 2022-10-28 | 2023-08-05 |
 | [BOTH](https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BOTH](https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL) | 3:08 | 2023-08-31 |  |

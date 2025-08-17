@@ -4175,6 +4175,32 @@
     },
     {
       "album": {
+        "name": "Cross Your Mind",
+        "url": "https://open.spotify.com/album/2BCKJi7m7HSR97q4tRT2VF"
+      },
+      "artists": [
+        {
+          "name": "Boaz van de Beatz",
+          "url": "https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw"
+        },
+        {
+          "name": "Nicole Millar",
+          "url": "https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW"
+        },
+        {
+          "name": "Cherry",
+          "url": "https://open.spotify.com/artist/0GZgL7TSoGoGJ4hZeIBB58"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182514,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/40vDwvTk7B2X9IoPwFxUoT"
+    },
+    {
+      "album": {
         "name": "Crossed Our Hearts",
         "url": "https://open.spotify.com/album/1rdWSzcZSimmLjNQZQGO1o"
       },
@@ -8456,7 +8482,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 138857,
       "name": "Helium",
       "url": "https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz"

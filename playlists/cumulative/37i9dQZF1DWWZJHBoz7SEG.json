@@ -94641,24 +94641,6 @@
     },
     {
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        }
-      ],
-      "date_added": "2025-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196678,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK"
-    },
-    {
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
       },
@@ -94872,6 +94854,24 @@
       "duration_ms": 148338,
       "name": "Locochona",
       "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+    },
+    {
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196678,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK"
     },
     {
       "album": {

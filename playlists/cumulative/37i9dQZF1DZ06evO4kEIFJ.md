@@ -4,7 +4,7 @@
 
 > This is Lil Nas X\. The essential tracks, all in one playlist.
 
-46 songs - 2 hr 8 min
+47 songs - 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [J CHRIST](https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [J CHRIST](https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J) | 2:33 | 2024-01-13 |  |
 | [Kick It](https://open.spotify.com/track/3qIV7Rnj3ZxLs2JcLPUbFV) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:21 | 2023-07-28 |  |
 | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3GbQcjKWT7eVpUfzqwUjxv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Late To Da Party \(F\*CK BET\) \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0KmzOXbNJa5oTpxdCBhmHd) | 3:00 | 2023-07-28 |  |
-| [LEAN ON MY BODY](https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LEAN ON MY BODY](https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p) | 3:25 | 2025-03-23 |  |
+| [LEAN ON MY BODY](https://open.spotify.com/track/1UjT0n2YNQHqk4yL86CWrS) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LEAN ON MY BODY](https://open.spotify.com/album/0jhD8ONMLsw0NWEq9TIg3p) | 3:25 | 2025-03-23 | 2025-08-17 |
+| [LEAN ON MY BODY](https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:25 | 2025-08-17 |  |
 | [LIGHT AGAIN!](https://open.spotify.com/track/2wQZ5DBJiir4QJkdbzyBm3) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LIGHT AGAIN!](https://open.spotify.com/album/3LlPX1QwsKNaHPT1tnzShL) | 2:57 | 2024-11-17 |  |
 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/0PICOOdvy8swK7UZevzAxj) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/album/1jGxVap6do7ySzr0XPq4QL) | 2:31 | 2024-03-23 | 2024-05-16 |
 | [light! \(with Lil Nas X & 9lives\)](https://open.spotify.com/track/3WuWoY8tx0ySmCd5ErgEiF) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:31 | 2024-07-13 |  |

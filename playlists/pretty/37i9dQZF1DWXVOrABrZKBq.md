@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Hamza
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,975 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,981 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 49 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 |
 | 50 | [Something About Us](https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Something About Us](https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH) | 3:12 |
 
-Snapshot ID: `AAAAALm5P5nwVZvPVC/wqU518nlF0NAl`
+Snapshot ID: `AAAAAAJls7omIUSR+3ZV7N/iWXi3cJBu`

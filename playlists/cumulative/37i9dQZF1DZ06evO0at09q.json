@@ -1099,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Let The DJ Know",
+        "url": "https://open.spotify.com/album/0eS1vs0jMhsdikJZLuU3wQ"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Food Fight",
+          "url": "https://open.spotify.com/artist/3mapBHfiHRAXwbJYTuJ6gL"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210015,
+      "name": "Let The DJ Know",
+      "url": "https://open.spotify.com/track/4t9SCOdgIDsZZtmdl6YM0l"
+    },
+    {
+      "album": {
         "name": "Modern Mechanics",
         "url": "https://open.spotify.com/album/4FgF4wJx5pqlBiHUi4XOfD"
       },
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 245760,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7EhWwj8p9Onker9p9R2bHI"

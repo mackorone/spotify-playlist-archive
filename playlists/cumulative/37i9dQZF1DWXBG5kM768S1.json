@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "Himmelen var vid",
+        "url": "https://open.spotify.com/album/6uWyWLZ0uaFUImbfbO6LiR"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180506,
+      "name": "Himmelen var vid",
+      "url": "https://open.spotify.com/track/0ksBsczjgpbDRr73m2OXFG"
+    },
+    {
+      "album": {
         "name": "Hjem",
         "url": "https://open.spotify.com/album/6QWsi5qGR8wr4v7xCQC5de"
       },
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"

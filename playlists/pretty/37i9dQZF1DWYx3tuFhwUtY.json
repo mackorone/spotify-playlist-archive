@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 135497,
+  "num_followers": 135465,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Mushroom Death Sex Bummer Party",
-        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
-      },
-      "artists": [
-        {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
-        }
-      ],
-      "duration_ms": 90343,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/4RZBZPSvCxcfD74UxTRgYB"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 220106,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2teMWxI0AhcKHArtjumPzZ"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Mushroom Death Sex Bummer Party",
+        "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 90343,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/4IixKf4WnlQ56QPwHchEO5"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "The Ceiling / Border (CH. III)",
-        "url": "https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "The Ceiling",
-      "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Cosas Que Probablemente No Van a Pasar",
         "url": "https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 160000,
       "name": "Cosas que probablemente no van a pasar",
       "url": "https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "The Ceiling / Border (CH. III)",
+        "url": "https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "The Ceiling",
+      "url": "https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Nature Always Wins",
-        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
-      },
-      "artists": [
-        {
-          "name": "Maximo Park",
-          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "Why Must A Building Burn?",
-      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Strong Feelings",
         "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 244533,
       "name": "Strong Feelings",
       "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Nature Always Wins",
+        "url": "https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4"
+      },
+      "artists": [
+        {
+          "name": "Maximo Park",
+          "url": "https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic"
+        }
+      ],
+      "duration_ms": 182210,
+      "name": "Why Must A Building Burn?",
+      "url": "https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

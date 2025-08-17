@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 30451,
+  "num_followers": 30464,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACJimEE3DQYw3qlSkf2WoDw",
+  "snapshot_id": "aJ54gAAAAAB+ubDsGuPr7YJBlvQQbRtt",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cuando Te Vayas",
-      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
+      "duration_ms": 243080,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 243080,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
+      "duration_ms": 281386,
+      "name": "Cuando Te Vayas",
+      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inquietos por el Mundo",
         "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 280466,
       "name": "Amame",
       "url": "https://open.spotify.com/track/5AcfRWqX8JgoXalSAXZJGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66"
     },
     {
       "added_at": null,

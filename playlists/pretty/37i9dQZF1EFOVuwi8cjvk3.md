@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 242 songs - 14 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 385 likes - 242 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 115 | [Different Now](https://open.spotify.com/track/5h2RIt544riNwCr3EH9xGe) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Different Now](https://open.spotify.com/album/0nRbM6EKEQhmyCTsWEPLO7) | 3:22 |
 | 116 | [Company](https://open.spotify.com/track/0paIDUEcixm7WmcC72KgKZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:24 |
 | 117 | [Groundhog Day](https://open.spotify.com/track/1SCl4Y5tTalU4q8Yp5ywWC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2](https://open.spotify.com/album/1UiPHgFputxSUssPibAVxc) | 4:53 |
-| 118 | [Cold Hearted II](https://open.spotify.com/track/75ld9n7watXCD0nHnE931J) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 5:01 |
-| 119 | [Spaceship \(feat\. Sheck Wes\)](https://open.spotify.com/track/0cbO20ZF2lFflZGnNUHhGB) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:05 |
+| 118 | [Spaceship \(feat\. Sheck Wes\)](https://open.spotify.com/track/0cbO20ZF2lFflZGnNUHhGB) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:05 |
+| 119 | [Cold Hearted II](https://open.spotify.com/track/75ld9n7watXCD0nHnE931J) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 5:01 |
 | 120 | [Charged Up](https://open.spotify.com/track/4pc01CAhGKx15PY23uPjHp) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Charged Up](https://open.spotify.com/album/2b3q6C2zmtXRKlk0j4eX4v) | 3:09 |
 | 121 | [Friends With Benefits](https://open.spotify.com/track/1zqCcxtHDODySsHnM7lxox) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 5:29 |
 | 122 | [Kids](https://open.spotify.com/track/0iUxQW0LRXKHcnur6CGu2c) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq) | 4:30 |
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 180 | [Higher Calling \(feat\. Jill Scott\)](https://open.spotify.com/track/0XMtJELwYVRDtv8KhFLE6P) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/4vPCCjXRWZsZaJXgwLoMBC) | 3:53 |
 | 181 | [Eyes Closed](https://open.spotify.com/track/3tdGiKfoiBa7fZzwvsvBLc) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:58 |
 | 182 | [Too Late](https://open.spotify.com/track/5W8aXA5fRDRG7yTCPWSU7w) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:54 |
-| 183 | [Laptop](https://open.spotify.com/track/52SqJwQ2bveCI74WE7XPoA) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Installation I](https://open.spotify.com/album/1u4p9Aw53qYC4o3Cd907fp) | 3:18 |
-| 184 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
+| 183 | [CHEVALIER CITADIN](https://open.spotify.com/track/2K54qMapljPASWtY4HvsRC) | [NeS](https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9) | [POUR DE VRAI](https://open.spotify.com/album/49e3VAZuj9MqEjaEGE2fBL) | 2:29 |
+| 184 | [Laptop](https://open.spotify.com/track/52SqJwQ2bveCI74WE7XPoA) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Installation I](https://open.spotify.com/album/1u4p9Aw53qYC4o3Cd907fp) | 3:18 |
 | 185 | [Like Them \(feat\. Tory Lanez, Rick Ross\)](https://open.spotify.com/track/6Xfb6qPfyxd74crexohl8p) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 3:50 |
 | 186 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 187 | [Jo Bros](https://open.spotify.com/track/6RMNFacCLVjpthfp62orGz) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [One Night Only](https://open.spotify.com/album/6GdJPhGu12KSZ7KdgBfye1) | 3:35 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
 | 242 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Ab5mNAAAAABQg5uko0wPDOMJEqGz694d`
+Snapshot ID: `Ab5r8gAAAAColuXb+w87USmvhhAj5xfG`

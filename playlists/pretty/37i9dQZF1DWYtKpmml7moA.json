@@ -1,6 +1,6 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 522668,
+  "num_followers": 522870,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-04-25 11:31:19",
       "album": {
+        "name": "Gunman",
+        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
+    },
+    {
+      "added_at": "2025-04-25 11:31:19",
+      "album": {
         "name": "Light My Way",
         "url": "https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 199230,
       "name": "Light My Way",
       "url": "https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d"
-    },
-    {
-      "added_at": "2025-04-25 11:31:19",
-      "album": {
-        "name": "Gunman",
-        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Gunman",
-      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
     }
   ],
   "unique_name": "Chilled Reggae",

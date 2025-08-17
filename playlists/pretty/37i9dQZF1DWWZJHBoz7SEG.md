@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Ya es Viernes y el cuerpo lo sabeeeee y Zoé esta de regreso!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,579 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,863 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 32 | [TEYACULOLECHE](https://open.spotify.com/track/2KGdxJgXWvWUDFIi0OpXYJ) | [Kid Pistola](https://open.spotify.com/artist/3Y2qwY5R2OqefGohE3tMLU), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [TEYACULOLECHE](https://open.spotify.com/album/3acjecqMB1oWJqUrC2KOhf) | 2:27 |
 | 33 | [El Compa Richard](https://open.spotify.com/track/7bwQXgJUl8vAVqdfe71VRm) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [El Compa Richard](https://open.spotify.com/album/09UURQ1wOdufHZOh13DDJ2) | 3:15 |
 | 34 | [DECIDE](https://open.spotify.com/track/3oO3W9vNA4OXsJOQwhbHrd) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [DECIDE](https://open.spotify.com/album/3XdwtnS4mDgNlOcxmzXQK3) | 3:21 |
-| 35 | [Loco](https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Locos](https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK) | 3:16 |
+| 35 | [Locos](https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Locos](https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK) | 3:16 |
 | 36 | [CUANDO PIENSO EN TI](https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [CUANDO PIENSO EN TI](https://open.spotify.com/album/5OH5uSG2KcwFb4OJODn0NQ) | 2:22 |
 | 37 | [ADVERTENCIA](https://open.spotify.com/track/0mmMUUNv4DQTXHH4KbDqTW) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [ADVERTENCIA](https://open.spotify.com/album/6ctY5tbGpuMzoSCPTXMLYz) | 2:46 |
 | 38 | [Suave](https://open.spotify.com/track/5pracMSDM7CisYlR3U5MiK) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Suave](https://open.spotify.com/album/5pm9rCtbNOf48v5uiRuXDi) | 3:12 |

@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 161570,
+  "num_followers": 161633,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "\u2026Que viva el vallenato!",
-        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 294640,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -727,6 +711,22 @@
       "duration_ms": 220080,
       "name": "Mi Pasado y Mi Presente",
       "url": "https://open.spotify.com/track/588ROs3NuPqlPSYpIuitKS"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "\u2026Que viva el vallenato!",
+        "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 294640,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "A Pesar De Todo (15 Super Temas)",
-        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 346800,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "A Pesar De Todo (15 Super Temas)",
+        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
         }
       ],
-      "duration_ms": 346800,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+      "duration_ms": 215840,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
       "artists": [
         {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "De Monterrey a Sinaloa",
         "url": "https://open.spotify.com/album/1RVvXaNvZedvPDVQfozH1I"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 204200,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/4fYNJdS986IYQWxVoZjY3A"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Por Amor A Ti",
         "url": "https://open.spotify.com/album/1O8ZCkuCwPpvTAzhdNOUQy"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 217813,
       "name": "Soy De La Calle",
       "url": "https://open.spotify.com/track/4ANwRC8rQJHkaciHKYfUzQ"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1771,18 +1771,22 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Palabras Tristes",
-        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3GA3RoW04gWXZYTw3dHdRN"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Pancho Uresti",
+          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
         }
       ],
-      "duration_ms": 190813,
-      "name": "Mary Lee",
-      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+      "duration_ms": 184893,
+      "name": "Debajo del Sombrero (feat. Pancho Uresti)",
+      "url": "https://open.spotify.com/track/1WxHPhfIClKbpSnPPHnkF4"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -1803,22 +1807,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3GA3RoW04gWXZYTw3dHdRN"
+        "name": "Palabras Tristes",
+        "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
       "artists": [
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Pancho Uresti",
-          "url": "https://open.spotify.com/artist/7bNmosifuMqLwui79Cjqcd"
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Debajo del Sombrero (feat. Pancho Uresti)",
-      "url": "https://open.spotify.com/track/1WxHPhfIClKbpSnPPHnkF4"
+      "duration_ms": 190813,
+      "name": "Mary Lee",
+      "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
-    },
-    {
-      "added_at": "2025-06-17 18:16:46",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2025-06-17 18:16:46",
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
     },
     {
       "added_at": "2025-06-17 18:16:46",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2025-06-17 18:16:46",
       "album": {
-        "name": "Falsa Traici\u00f3n",
-        "url": "https://open.spotify.com/album/0hgNADfjKFvsM3SwgKRqnR"
+        "name": "Cumbia Embajadora",
+        "url": "https://open.spotify.com/album/3UGYBi2lUmY2RaCKthRugd"
       },
       "artists": [
         {
-          "name": "Sonido Mazter",
-          "url": "https://open.spotify.com/artist/2Je9VeZnmnpDrCIwWu3wuM"
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
         }
       ],
-      "duration_ms": 150213,
-      "name": "Casi Siempre Estoy Pensando En Ti",
-      "url": "https://open.spotify.com/track/313aLoAv5EAuPDxXqpFTIe"
+      "duration_ms": 218337,
+      "name": "Cumbia de Nuevo Le\u00f3n",
+      "url": "https://open.spotify.com/track/4ibivMUDrnGixov6ca0FML"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

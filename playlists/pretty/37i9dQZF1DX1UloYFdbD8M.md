@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sushin Shyam
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,463 likes - 76 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,478 likes - 76 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

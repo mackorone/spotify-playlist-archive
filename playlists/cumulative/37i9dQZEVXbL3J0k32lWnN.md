@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,100 songs - 4 day 12 hr 22 min
+2,101 songs - 4 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [EH PAPA](https://open.spotify.com/track/7mTlWxWhi6wxnD2bsXWlFC) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [EH PAPA](https://open.spotify.com/album/0jcVhFdI3P2hxFpNQTvHBs) | 2:08 | 2021-05-23 | 2021-07-20 |
 | [Elo Elo](https://open.spotify.com/track/3i0kzCSbAY2kDX2xiJdRLE) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Elo Elo](https://open.spotify.com/album/0x7BDbNbdoXcFcsHrd3lft) | 1:50 | 2023-01-01 | 2023-05-14 |
 | [Elsker Dig Så Meget](https://open.spotify.com/track/4LedraX4BFROmP6SX2EC7o) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Elsker Dig Så Meget](https://open.spotify.com/album/7pH5XZrKDu2S4Ml3IYndCR) | 3:21 | 2024-08-02 | 2024-10-13 |
-| [Elsker Dig Så Meget](https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Dine Venner](https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2) | 3:22 | 2024-10-12 |  |
+| [Elsker Dig Så Meget](https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Dine Venner](https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2) | 3:22 | 2024-10-12 | 2025-08-17 |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-07 | 2024-10-13 |
 | [Emil](https://open.spotify.com/track/0cDHgTZcDMFyFV5gTqVxEv) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Infinity Action](https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM) | 2:53 | 2022-01-08 | 2024-06-28 |
 | [Emil](https://open.spotify.com/track/2a8XSO5Kv7xnYiHW4D0Iv3) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL) | [Emil](https://open.spotify.com/album/0oXDmnAgtxYwBCk3wnFTb9) | 3:03 | 2021-06-20 | 2021-09-25 |
@@ -2103,6 +2103,7 @@
 | [Årstider](https://open.spotify.com/track/21h80Cfo35Foa17LFp6O0A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 3:23 | 2022-10-03 | 2022-10-13 |
 | [Æstetisk](https://open.spotify.com/track/4PCcN37jm4tDj8RPZuvC1H) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Æstetisk](https://open.spotify.com/album/6wV9sbuZnumfF8mRnzODZn) | 2:31 | 2022-03-12 | 2022-03-14 |
 | [Æteren](https://open.spotify.com/track/2wBtw8BsIWSOfejZVT8k6z) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Vera](https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 2:39 | 2025-04-26 | 2025-05-05 |
+| [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 | 2025-08-16 |  |
 | [Øjne](https://open.spotify.com/track/6pXUCLrL4aGd9k6GeSLDlr) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:30 | 2024-06-01 | 2024-06-03 |
 | [Øjne Som Dine](https://open.spotify.com/track/7hQltyI2tgXb4lRNFncJdk) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Øjne Som Dine](https://open.spotify.com/album/7t5XWRm0jDYuKnuHlB50SQ) | 2:39 | 2021-10-23 | 2021-11-27 |
 | [Øresund \(feat\. Thomas Helmig\)](https://open.spotify.com/track/7DnzLWWY227roD8kyYAZQg) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Øresund \(feat\. Thomas Helmig\)](https://open.spotify.com/album/3hSUeg27HqPCY7RHWkD6AZ) | 3:30 | 2025-04-12 | 2025-04-19 |

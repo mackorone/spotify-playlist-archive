@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,232 songs - 12 day 4 hr 37 min
+5,233 songs - 12 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5145,6 +5145,7 @@
 | [Xchel](https://open.spotify.com/track/4HYyIst3xHBTWdqfmGEKrk) | [Manon Mullener](https://open.spotify.com/artist/7ir5761dcvKURbEWypEKGH) | [Xchel](https://open.spotify.com/album/788iivoYT7Y2BDHyB3GiR4) | 5:29 | 2025-01-26 | 2025-02-07 |
 | [Y Now](https://open.spotify.com/track/6nVHJwcke4LYPSC3O5EMRv) | [PrettiBoiRoq](https://open.spotify.com/artist/623mwUcajbhT7NQvhk8VgM), [Chanel Jolé](https://open.spotify.com/artist/6niZPR543hx8yBiXu8yNer) | [Y Now](https://open.spotify.com/album/3nNq07aG04tCAdwgtNAxs3) | 2:55 | 2025-07-10 | 2025-07-22 |
 | [Ya Hayati](https://open.spotify.com/track/5JzM88Nu26X5Vcieux6AMW) | [Sandra Sahi](https://open.spotify.com/artist/6vsINxrcRKcYHdOvruIgfy) | [Ya Hayati](https://open.spotify.com/album/4OVlWSss3EbzlEtxB2sBLu) | 2:13 | 2022-11-18 | 2022-12-10 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-16 |  |
 | [Yanni](https://open.spotify.com/track/2Xo9G2vUXVB7MrGFjqBtLC) | [kmë](https://open.spotify.com/artist/5BlpmYS9XescgyeewPLZzE) | [Intuitive](https://open.spotify.com/album/2fv5MJ13MPuA0EWFFGZyH0) | 2:05 | 2024-03-31 | 2024-04-11 |
 | [Yaro](https://open.spotify.com/track/6UtnlIR1th1t1aZu7zD1Im) | [Lisa Yaro](https://open.spotify.com/artist/1mfHjffkZjz4lfP4xCxZ5k), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Yaro](https://open.spotify.com/album/5kXlY0xcyo2C9tM9l4syl9) | 3:06 | 2022-12-09 | 2023-01-03 |
 | [YAYO](https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:30 | 2024-08-12 |  |

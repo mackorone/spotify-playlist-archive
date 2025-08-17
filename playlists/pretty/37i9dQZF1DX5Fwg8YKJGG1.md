@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,848 likes - 65 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,850 likes - 65 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

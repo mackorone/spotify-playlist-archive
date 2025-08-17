@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-235 songs - 12 hr 11 min
+237 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All I have to do is dream](https://open.spotify.com/track/6n1cGIlaYq9vS2IhaVNsmQ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [All I have to do is dream](https://open.spotify.com/album/2rILOh9OCQWDgjO1dbDtVd) | 2:10 | 2025-04-10 |  |
 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-05-29 |  |
 | [Alt jeg har drømt om](https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Alt jeg har drømt om](https://open.spotify.com/album/78baGAYAw809s68WP75BXX) | 2:26 | 2024-06-27 | 2024-10-12 |
+| [Alt til sin tid](https://open.spotify.com/track/6KXuQnp9OlSbxGqXccex47) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Alt til sin tid](https://open.spotify.com/album/5cA6qcqSAJJqyNOcZHuwb0) | 2:07 | 2025-08-14 |  |
 | [Back to Earth](https://open.spotify.com/track/0Omz7BJ7hx2fqB3m1cxWPG) | [Gard Read](https://open.spotify.com/artist/1TkhgAxiqbWnWotiIUKey5) | [Back to Earth](https://open.spotify.com/album/1oC2UDyXBmD8VDZDtpVOsA) | 3:32 | 2025-04-17 | 2025-06-08 |
 | [Beroendeframkallande](https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Beroendeframkallande](https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4) | 3:02 | 2024-06-27 | 2025-05-03 |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 |  |
@@ -62,7 +63,7 @@
 | [Frøken Oslo V](https://open.spotify.com/track/78LCLrKFF22QHmNExXnlWr) | [Bølgen](https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW) | [Frøken Oslo V](https://open.spotify.com/album/4qm9mJcERZOQJvIJ0UN6c1) | 2:07 | 2024-06-27 | 2024-10-25 |
 | [Fy faen du e deili](https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH) | 3:35 | 2025-06-12 |  |
 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 | 2024-06-27 | 2024-10-25 |
-| [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 |  |
+| [Før han for](https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6) | 2:56 | 2024-10-24 | 2025-08-17 |
 | [Gamle vaner](https://open.spotify.com/track/3spvaek151dJXQ3Uc7wDrK) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Gamle vaner](https://open.spotify.com/album/223dqSTNxI8iK6Bj7iudvN) | 2:04 | 2025-07-17 |  |
 | [Get Away](https://open.spotify.com/track/1cZCvmW4b4DGpiZhgwvb5j) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Get Away](https://open.spotify.com/album/64iH7iS9FsuhcYC5A4FAZ2) | 3:41 | 2025-04-17 | 2025-06-12 |
 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 | 2025-06-12 |  |
@@ -111,7 +112,8 @@
 | [I veit](https://open.spotify.com/track/2BVufDWowBtrpyN2rIHmzy) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [I veit](https://open.spotify.com/album/14aX895lIZdOR9iq3ZDvMj) | 2:27 | 2025-07-03 | 2025-07-18 |
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-02 | 2025-06-28 |
 | [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-03-20 |
-| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 |  |
+| [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 | 2025-08-14 |  |
+| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 | 2025-08-17 |
 | [Iskrem på pinne](https://open.spotify.com/track/0q2YHUCIKxUx0LLkg9TUKy) | [Aryaan](https://open.spotify.com/artist/7GfpTDYmPjWyGlJcOkMnfy) | [Iskrem på pinne](https://open.spotify.com/album/6rN6EpfHhVUkssQPwdxo1E) | 2:10 | 2025-06-24 | 2025-07-18 |
 | [It´s Ok If You Forget Me \(feat\. Emma Jensen\)](https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [It's Ok If You Forget Me](https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG) | 2:56 | 2025-01-16 |  |
 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 | 2025-04-10 |  |

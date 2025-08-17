@@ -1090,6 +1090,24 @@
     {
       "album": {
         "name": "All",
+        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185780,
+      "name": "Pep Talk",
+      "url": "https://open.spotify.com/track/7CGRxDsYJS5vBIfDSdKTiF"
+    },
+    {
+      "album": {
+        "name": "All",
         "url": "https://open.spotify.com/album/02ZwlIiMwnSolCumjuSQ8U"
       },
       "artists": [

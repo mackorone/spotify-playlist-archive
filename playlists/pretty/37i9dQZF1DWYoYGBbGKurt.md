@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,704 likes - 250 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,077 likes - 250 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 249 | [Slumber](https://open.spotify.com/track/2qlhzE5NwEvD2xK27gTuol) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [Sanu](https://open.spotify.com/artist/4a9bZ6Cp8BXlUxJ7YgX1fq), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Slumber](https://open.spotify.com/album/4U2LSvfWAOEczANoavJxIk) | 1:54 |
 | 250 | [Neat](https://open.spotify.com/track/4iaamHeOj24TJGBxukOCFT) | [LYXOc](https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc) | [Neat](https://open.spotify.com/album/07aJ5ca6o9sQGjlkIh6OaC) | 2:22 |
 
-Snapshot ID: `AAAAAH/gRZ6WI++bAzfjafhdWtBdQKHg`
+Snapshot ID: `AAAAABoPO+DkcxOGo2vhuZXdrbpshRLd`

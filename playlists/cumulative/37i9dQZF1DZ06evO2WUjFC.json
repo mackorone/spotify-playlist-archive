@@ -609,6 +609,28 @@
     },
     {
       "album": {
+        "name": "De Los Cerros La Escuela",
+        "url": "https://open.spotify.com/album/5EWHeFaUAITcGjIITQHteo"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142796,
+      "name": "De Los Cerros La Escuela",
+      "url": "https://open.spotify.com/track/1wYaJCv6agf7B6ZrxDBItf"
+    },
+    {
+      "album": {
         "name": "De Negra a Negra",
         "url": "https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp"
       },
@@ -2208,7 +2230,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 245493,
       "name": "POR UNA MUJER BONITA - En Vivo",
       "url": "https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd"

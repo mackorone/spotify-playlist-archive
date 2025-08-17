@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 367436,
+  "num_followers": 367505,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACQRTAYdpXB69yNwN7l+CAx",
+  "snapshot_id": "aJ54gAAAAAC8SpIK+4mlSwIxBfJaCuLY",
   "tracks": [
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Tu Ritmo",
+      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "Tu Ritmo",
-      "url": "https://open.spotify.com/track/7JArcReBGffsbhMaosvQR0"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 1",
+        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Paz Mental",
+      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chulx",
         "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 183829,
       "name": "Chulx",
       "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 1",
-        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Paz Mental",
-      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
     },
     {
       "added_at": null,

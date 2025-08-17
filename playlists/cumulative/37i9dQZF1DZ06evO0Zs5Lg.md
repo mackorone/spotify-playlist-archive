@@ -4,7 +4,7 @@
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 45 min
+52 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Dead Man Shuffle](https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 2:35 | 2025-04-19 |  |
 | [Destiny \(with Sauce Walka\)](https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [Destiny \(with Sauce Walka\)](https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD) | 3:15 | 2025-06-15 |  |
 | [Devils Gate \(with Kevin Gates\)](https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:35 | 2025-04-19 |  |
+| [Dirty Work](https://open.spotify.com/track/3CDaT41CYRfgn1t8pYMiJo) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dirty Work](https://open.spotify.com/album/4stJxEqPXyiXGHIQNyS9D9) | 2:14 | 2025-08-17 |  |
 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 | 2025-04-19 |  |
 | [Dynamite](https://open.spotify.com/track/76N39WgN4xENapS5tnw7Of) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Ghosttown](https://open.spotify.com/artist/0N0vqeNgObPiqIVeNZYHKf) | [Dynamite](https://open.spotify.com/album/7BYzMlE0anzovqdMe5bNSJ) | 2:40 | 2025-04-19 |  |
 | [Farout](https://open.spotify.com/track/11yDV9YCkT5hyKVc0L5Vfp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:56 | 2025-04-19 |  |

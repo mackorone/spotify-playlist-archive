@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-150 songs - 8 hr 6 min
+151 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541/3](https://open.spotify.com/track/5CDCkuiTQhiXLLVILc4WCH) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Liszt: Piano Works](https://open.spotify.com/album/3ZywfV6j1ZeKAi3uOcJ9f9) | 5:28 | 2022-12-01 |  |
 | [Lily of the Valley](https://open.spotify.com/track/6KnBJZ8OKkCfs11CB9uyRX) | [Eusebius](https://open.spotify.com/artist/1Ug4iFVzMNtcycejiPJeqc) | [Flowers](https://open.spotify.com/album/5RxIvqGsR2rAduArT4a8O2) | 1:30 | 2020-05-06 |  |
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2019-10-09 |  |
+| [Lullaby](https://open.spotify.com/track/4s29AsWgcC9WBeicomKq1u) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Lullaby](https://open.spotify.com/album/6BajwpPSYOh5vVU29F88DA) | 2:44 | 2025-08-16 |  |
 | [LYR](https://open.spotify.com/track/4FlZu9Bx7vUsqtMI9XIwDK) | [Aeden Azora](https://open.spotify.com/artist/1i8TmQk2llivVppXakTAiX) | [LYR](https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H) | 3:00 | 2022-10-01 |  |
 | [Magic Shop](https://open.spotify.com/track/6kEOnQEa5vrFhqUJzaKeea) | [Jamal Green](https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt) | [Skelattack \(Music from the Video Game\)](https://open.spotify.com/album/3TgLeglnJ0ilEYW8cWyVLp) | 2:04 | 2020-06-06 |  |
 | [Memories of a Promenade II](https://open.spotify.com/track/3IXGkfKL3hFA7GZ2S5p0HQ) | [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Flying Steps](https://open.spotify.com/artist/1Oi59eHWhHIuwnVaFd3M60) | [Memories of a Promenade II](https://open.spotify.com/album/64tSEDm53lDy700XNDHK24) | 3:33 | 2022-12-01 |  |

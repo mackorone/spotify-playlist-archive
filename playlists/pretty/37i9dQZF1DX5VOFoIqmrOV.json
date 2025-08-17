@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 424598,
+  "num_followers": 424762,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -273,30 +273,6 @@
       "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
     },
     {
-      "added_at": "2023-01-11 20:52:12",
-      "album": {
-        "name": "Urike Urike (From \"Hit 2\")",
-        "url": "https://open.spotify.com/album/7r8A3HBoG7OvQUEBjecUe1"
-      },
-      "artists": [
-        {
-          "name": "MM Sreelekha",
-          "url": "https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        }
-      ],
-      "duration_ms": 275625,
-      "name": "Urike Urike",
-      "url": "https://open.spotify.com/track/3Chq3BCsBaK3VHX7yPtAC4"
-    },
-    {
       "added_at": "2022-08-03 09:42:51",
       "album": {
         "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
@@ -319,6 +295,30 @@
       "duration_ms": 223325,
       "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "added_at": "2023-01-11 20:52:12",
+      "album": {
+        "name": "Urike Urike (From \"Hit 2\")",
+        "url": "https://open.spotify.com/album/7r8A3HBoG7OvQUEBjecUe1"
+      },
+      "artists": [
+        {
+          "name": "MM Sreelekha",
+          "url": "https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        }
+      ],
+      "duration_ms": 275625,
+      "name": "Urike Urike",
+      "url": "https://open.spotify.com/track/3Chq3BCsBaK3VHX7yPtAC4"
     },
     {
       "added_at": "2022-02-09 09:10:51",
@@ -797,46 +797,6 @@
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Srimanthudu",
-        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
-      },
-      "artists": [
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
-        },
-        {
-          "name": "Suchitra",
-          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
-        }
-      ],
-      "duration_ms": 224194,
-      "name": "Jatha Kalise",
-      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Malli Malli Idi Rani Roju",
-        "url": "https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7"
-      },
-      "artists": [
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 271428,
-      "name": "Yenno Yenno",
-      "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
-    },
-    {
       "added_at": "2023-12-12 05:49:47",
       "album": {
         "name": "Adipurush (TELUGU)",
@@ -861,6 +821,46 @@
       "url": "https://open.spotify.com/track/4wFU6Q4vInTg2HQ2mkko8x"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Malli Malli Idi Rani Roju",
+        "url": "https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 271428,
+      "name": "Yenno Yenno",
+      "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Srimanthudu",
+        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Jatha Kalise",
+      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
+    },
+    {
       "added_at": "2023-01-11 20:52:12",
       "album": {
         "name": "Gundellonaa (From \"Ori Devuda\")",
@@ -879,6 +879,34 @@
       "duration_ms": 200113,
       "name": "Gundellonaa",
       "url": "https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu"
+    },
+    {
+      "added_at": "2025-01-20 06:56:34",
+      "album": {
+        "name": "Game Changer (Telugu)",
+        "url": "https://open.spotify.com/album/3wuQ79aExSzvo3n5tmM9Yx"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa",
+      "url": "https://open.spotify.com/track/1rI7CPuz8ydyn0fdB0i2hZ"
     },
     {
       "added_at": "2022-11-28 04:35:07",
@@ -925,34 +953,6 @@
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
-      "added_at": "2025-01-20 06:56:34",
-      "album": {
-        "name": "Game Changer (Telugu)",
-        "url": "https://open.spotify.com/album/3wuQ79aExSzvo3n5tmM9Yx"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 272908,
-      "name": "NaaNaa Hyraanaa",
-      "url": "https://open.spotify.com/track/1rI7CPuz8ydyn0fdB0i2hZ"
-    },
-    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Dhruva",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Majili",
+        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 245885,
+      "name": "Priyathama Priyathama",
+      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Son Of Satyamurthy",
@@ -1011,22 +1027,6 @@
       "duration_ms": 278188,
       "name": "Super Machi",
       "url": "https://open.spotify.com/track/3WTHnUPLqVZXSw54PFLtiL"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Majili",
-        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 245885,
-      "name": "Priyathama Priyathama",
-      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2023-02-10 09:20:04",
@@ -1073,30 +1073,6 @@
       "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Aa Aaa",
-        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
-      },
-      "artists": [
-        {
-          "name": "Ramya",
-          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
-        },
-        {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
-        },
-        {
-          "name": "Shivani",
-          "url": "https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje"
-        }
-      ],
-      "duration_ms": 241301,
-      "name": "Rang de",
-      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
-    },
-    {
       "added_at": "2021-12-16 12:46:43",
       "album": {
         "name": "Psycho Saiyaan (From \"Saaho\")",
@@ -1119,6 +1095,30 @@
       "duration_ms": 166293,
       "name": "Psycho Saiyaan (From \"Saaho\")",
       "url": "https://open.spotify.com/track/2IbRKQwgiyvXY1yVq8GuA3"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Aa Aaa",
+        "url": "https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY"
+      },
+      "artists": [
+        {
+          "name": "Ramya",
+          "url": "https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU"
+        },
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "Shivani",
+          "url": "https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje"
+        }
+      ],
+      "duration_ms": 241301,
+      "name": "Rang de",
+      "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
     },
     {
       "added_at": "2023-08-07 09:11:28",

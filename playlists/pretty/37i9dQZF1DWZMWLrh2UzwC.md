@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Andi Bernadee, Conan Gray, Cardi B, 3P, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,532 likes - 116 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,534 likes - 116 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 5 | [Bangkit Malaysia](https://open.spotify.com/track/4vbHljcC2uqqNwTqoPdoWH) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL) | [Bangkit Malaysia](https://open.spotify.com/album/52I1iXmhTPo4RdgqnEoKeN) | 4:04 |
 | 6 | [BISH!](https://open.spotify.com/track/0qwDpzQyLQNEdLVGnxug4P) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [BISH!](https://open.spotify.com/album/5DBKUrlxeljVzXqpU2nlhV) | 2:05 |
 | 7 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 |
-| 8 | [Nara \- Honor of Kings](https://open.spotify.com/track/1kdC6vKdEi5IcQoiIQuVXm) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Nara \(Honor of Kings\)](https://open.spotify.com/album/0veLn76bFb69RXf6RTJBmt) | 2:21 |
+| 8 | [Nara \- From "Honor of Kings"](https://open.spotify.com/track/1kdC6vKdEi5IcQoiIQuVXm) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Nara \(From "Honor of Kings"\)](https://open.spotify.com/album/0veLn76bFb69RXf6RTJBmt) | 2:21 |
 | 9 | [kita](https://open.spotify.com/track/361QoU0R60r9PnsGwBiA3C) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq), [HARRY](https://open.spotify.com/artist/3MQ2dIX3qP6pNbLgkciS0F) | [kita](https://open.spotify.com/album/2jKcVDRD1YgSzPCUCFMuDZ) | 4:12 |
 | 10 | [seasons](https://open.spotify.com/track/6VBM8Yzy0MWs2x3dH6rxsv) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [the asia tour: blooming season ep](https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam) | 2:50 |
 | 11 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 483001,
+  "num_followers": 482969,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAAgZP+Eg88Sv3vkFOOEq+94",
+  "snapshot_id": "aJ54gAAAAADhyRbDCu1Bklguj/XeSOV0",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 153653,
-      "name": "JUST 4 FUN",
-      "url": "https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN"
+      "duration_ms": 175480,
+      "name": "CRASHOUT",
+      "url": "https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fitness",
-        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 156284,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
+      "duration_ms": 185594,
+      "name": "Water Me",
+      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
     },
     {
       "added_at": null,
@@ -504,15 +504,15 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 175480,
-      "name": "CRASHOUT",
-      "url": "https://open.spotify.com/track/5aTuLDuY1gOnY7DavzaNbA"
+      "duration_ms": 153653,
+      "name": "JUST 4 FUN",
+      "url": "https://open.spotify.com/track/7BFydzRqLiUUH2qcHUJhzN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "Fitness",
+        "url": "https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185594,
-      "name": "Water Me",
-      "url": "https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF"
+      "duration_ms": 156284,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 133058,
-      "name": "Better in Color",
-      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3rd Ward Bounce",
         "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 185890,
       "name": "Karaoke (feat. Lizzo)",
       "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 133058,
+      "name": "Better in Color",
+      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
     },
     {
       "added_at": null,

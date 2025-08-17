@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1603990,
+  "num_followers": 1603980,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Blank Generation",
-        "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
-      },
-      "artists": [
-        {
-          "name": "Richard Hell",
-          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blank Generation",
-      "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/5XK8FpKFOJVp65F9pkuIO9"
       },
@@ -1539,22 +1523,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Germ Free Adolescents: The Anthology",
-        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Angels With Dirty Faces",
         "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
@@ -1567,6 +1535,38 @@
       "duration_ms": 206666,
       "name": "Hurry Up Harry",
       "url": "https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Blank Generation",
+        "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
+      },
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blank Generation",
+      "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Germ Free Adolescents: The Anthology",
+        "url": "https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv"
     },
     {
       "added_at": "2024-11-29 00:00:00",

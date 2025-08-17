@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,894 likes - 100 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,921 likes - 100 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 42 | [Cosmic Energy](https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 8:09 |
 | 43 | [Peer Gynt, Suite No\. 2: Solveig's Song](https://open.spotify.com/track/6hnHp6HChR0OnNVw56cdZ4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [Kosmos](https://open.spotify.com/album/34507GICqU2YpiJEbBOKph) | 4:49 |
 | 44 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
-| 45 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
-| 46 | [Hergest Ridge: Part One \- 2010 Stereo Mix](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
+| 45 | [Hergest Ridge: Part One \- 2010 Stereo Mix](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
+| 46 | [Dion Blue](https://open.spotify.com/track/7c1jIpvsut26pU97e8Q9YS) | [Tim Weisberg](https://open.spotify.com/artist/1hNG8iAB1E8Kltynmhzw1v) | [Best Of Tim Weisberg: Smile!](https://open.spotify.com/album/2WwC3c6eu5jPB4QX26WYox) | 3:29 |
 | 47 | [The Fifth Wave \- Water Lullaby](https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:47 |
 | 48 | [The Mermaid](https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Out Of Silence](https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz) | 3:47 |
 | 49 | [Zen Garden of the Soul Part III \- IV](https://open.spotify.com/track/11U2eSjRCMQqkY79yXgMeQ) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 6:22 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 52 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 |
 | 53 | [Stepping Stars](https://open.spotify.com/track/75MXJxeq3YutNAiSV8UXHd) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:45 |
 | 54 | [Interlude II](https://open.spotify.com/track/74fBQYF9lWbnUq5xDWHzAf) | [Mannheim Steamroller](https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe) | [Fresh Aire I](https://open.spotify.com/album/3hL31GvqVxkVBORWWv8ufu) | 2:33 |
-| 55 | [Living Your Ending](https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 5:32 |
-| 56 | [Prism](https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK) | [Chris Spheeris](https://open.spotify.com/artist/42hAALNK37w5Zx8dnGGLZ6), [Paul Voudouris](https://open.spotify.com/artist/5Qwks7s6d53U9yYy9jyQfh) | [Passage](https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB) | 12:34 |
+| 55 | [Prism](https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK) | [Chris Spheeris](https://open.spotify.com/artist/42hAALNK37w5Zx8dnGGLZ6), [Paul Voudouris](https://open.spotify.com/artist/5Qwks7s6d53U9yYy9jyQfh) | [Passage](https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB) | 12:34 |
+| 56 | [Living Your Ending](https://open.spotify.com/track/6paVj0h627Cg6BsofgPdi8) | [Schawkie Roth](https://open.spotify.com/artist/74y6Yo0Qo80WWOoX4DvXtf) | [Heaven on Earth](https://open.spotify.com/album/6kG8wYW07MJM7DerMehJxI) | 5:32 |
 | 57 | [By Your Grace](https://open.spotify.com/track/579p22QFJ8bkdQLXp0VBy7) | [Beaver & Krause](https://open.spotify.com/artist/6ssIHNGjiohpzxmB3tDIgv) | [In A Wild Sanctuary/Gardharva](https://open.spotify.com/album/1B7FI5QL7KDDSR4mxIXdvJ) | 5:14 |
 | 58 | [Valley In The Clouds](https://open.spotify.com/track/7HWWIxRF76VDkYE6gltmCs) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0) | [Valley In The Clouds](https://open.spotify.com/album/1iGU0qo9ux9uEJslDdHM3S) | 3:35 |
 | 59 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 |

@@ -59,6 +59,42 @@
     },
     {
       "album": {
+        "name": "Here are the first 3 songs from my mixtape, Rocket",
+        "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102528,
+      "name": "Aftermath - Edit",
+      "url": "https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef"
+    },
+    {
+      "album": {
+        "name": "Here are the first 3 songs from my mixtape, Rocket",
+        "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146107,
+      "name": "All Hands on Deck",
+      "url": "https://open.spotify.com/track/2V1d53nRhAzKos82tt8kJs"
+    },
+    {
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -256,7 +292,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 76480,
       "name": "Dominic\u2019s Interlude",
       "url": "https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI"
@@ -702,6 +738,24 @@
       "duration_ms": 133560,
       "name": "She Wants My Money",
       "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
+    },
+    {
+      "album": {
+        "name": "Here are the first 3 songs from my mixtape, Rocket",
+        "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87387,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6dtx4FBWXE4dP9XZ22MVVm"
     },
     {
       "album": {

@@ -12052,7 +12052,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 178841,
       "name": "My 45 (with Jean Carter)",
       "url": "https://open.spotify.com/track/0bkjYsOt7EDEjW1SdUsVx6"
@@ -15877,6 +15877,24 @@
     },
     {
       "album": {
+        "name": "SPACE INVADER",
+        "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274302,
+      "name": "SPACE INVADER",
+      "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
+    },
+    {
+      "album": {
         "name": "Special (feat. SZA)",
         "url": "https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O"
       },
@@ -16140,7 +16158,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -19488,6 +19506,24 @@
       "duration_ms": 274766,
       "name": "YA YA",
       "url": "https://open.spotify.com/track/0K9tfzrxJyCQIf7oAlPwaK"
+    },
+    {
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
       "album": {

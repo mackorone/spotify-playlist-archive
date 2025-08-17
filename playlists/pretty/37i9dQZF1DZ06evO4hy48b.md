@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,172 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,194 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 39 | [Lo Malo](https://open.spotify.com/track/5bhDL4GgUvr5LBrpjqyrte) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) | [Lo Malo](https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn) | 3:00 |
 | 40 | [TELÉFONO](https://open.spotify.com/track/5h8VHxOBK1VWWj46T8fSly) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [TELÉFONO](https://open.spotify.com/album/3hgpPBjZ7yR1yHyrVEngZL) | 2:43 |
 
-Snapshot ID: `aJ0nAAAAAACkOnIEJJYAemK6xDjNGBsF`
+Snapshot ID: `aJ54gAAAAADOFyBo1njmJyycsPKnlnux`

@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Zoé
 
-342 songs - 19 hr 0 min
+343 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 | 2022-07-19 | 2023-01-09 |
 | [CABI](https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [CABI](https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N) | 2:01 | 2023-03-24 | 2023-05-13 |
 | [Cama Vacía](https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [Cama Vacía](https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW) | 3:59 | 2023-12-01 |  |
+| [Campo De Fuerza](https://open.spotify.com/track/1m38lWWKzmJqykCVawumPP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Campo De Fuerza](https://open.spotify.com/album/6IhAlXYc7SpLasMhtu645D) | 4:38 | 2025-08-15 |  |
 | [Cansado de estar triste](https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Cansado de estar triste](https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2) | 2:55 | 2023-04-14 | 2024-06-01 |
 | [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 4:44 | 2022-04-15 | 2023-01-06 |
 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2022-07-19 | 2024-02-24 |
@@ -117,7 +118,7 @@
 | [Fumar de Día \- En Vivo](https://open.spotify.com/track/0n1UrWMX0Njj3kVMc24tOE) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Sesión Saldias \(En Vivo\)](https://open.spotify.com/album/206rMmryQBWqNoIMNsOS8q) | 3:01 | 2022-04-15 | 2022-07-20 |
 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 | 2024-01-12 |  |
 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 | 2023-11-10 |  |
-| [Genes Rebeldes](https://open.spotify.com/track/21Wc5F2CLsh9fngtepqnGF) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Genes Rebeldes](https://open.spotify.com/album/3bLNYtp9nMBnQrW85P3If6) | 3:48 | 2025-04-25 |  |
+| [Genes Rebeldes](https://open.spotify.com/track/21Wc5F2CLsh9fngtepqnGF) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Genes Rebeldes](https://open.spotify.com/album/3bLNYtp9nMBnQrW85P3If6) | 3:48 | 2025-04-25 | 2025-08-17 |
 | [Golly](https://open.spotify.com/track/45G6zyppoH1QYioyFisbBU) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/4qAKzGLGB4vFMF60Lt9Wfb) | 4:35 | 2022-04-15 | 2022-12-10 |
 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-03 |  |
 | [Guanaco](https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Guanaco](https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr) | 5:08 | 2023-04-14 | 2023-05-30 |

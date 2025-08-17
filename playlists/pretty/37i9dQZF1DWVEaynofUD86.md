@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEaynofUD86.md) - [plain]
 
 > It's not summer without you\. Listen to the music from and inspired by The Summer I Turned Pretty, new season now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,993 likes - 215 songs - 12 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,183 likes - 215 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

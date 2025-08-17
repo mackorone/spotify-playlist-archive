@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,296 likes - 160 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,364 likes - 160 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

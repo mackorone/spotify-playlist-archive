@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 702756,
+  "num_followers": 703123,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Superstring",
         "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 187520,
       "name": "Superstring - RANK 1's Radio Edit",
       "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Armada Collected: Aly & Fila",
-        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
-      },
-      "artists": [
-        {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Jwaydan",
-          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
-        }
-      ],
-      "duration_ms": 226673,
-      "name": "We Control The Sunlight",
-      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Not Over Yet '99 (feat. Grace)",
         "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 214266,
       "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Armada Collected: Aly & Fila",
+        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
+      },
+      "artists": [
+        {
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "Jwaydan",
+          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
+        }
+      ],
+      "duration_ms": 226673,
+      "name": "We Control The Sunlight",
+      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
     },
     {
       "added_at": "2024-07-23 09:55:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Johnny Drille & Tiwa Savage, Libianca, Cardi B, Magixx and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,205 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,286 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 34 | [Passport](https://open.spotify.com/track/6zndkRnkrpNLXj4Hk64YN6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 2:38 |
 | 35 | [OBELEKE](https://open.spotify.com/track/7E4lPHzqCxfYxZRXfklyst) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn) | [OBELEKE](https://open.spotify.com/album/6pN313gFXc2pOCgWRo2o3h) | 2:27 |
 | 36 | [Sexy Roma](https://open.spotify.com/track/3yTgd6eflmtQUr7QYXTS3g) | [Prayly](https://open.spotify.com/artist/1bIlyg8r7BMZZgUVKn9LyH) | [Sexy Roma](https://open.spotify.com/album/1IegkTCiqiahBKNx6q1swn) | 2:49 |
-| 37 | [The Greatest Bend Over \(Take It Easy\) \- Chloe x Moliy Remix](https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [The Greatest Bend Over \(Take It Easy\) \[Chloe x Moliy Remix\]](https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh) | 3:28 |
+| 37 | [The Greatest Bend Over \(Take It Easy\) \- Chlöe x MOLIY Remix](https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [The Greatest Bend Over \(Take It Easy\) \[Chlöe x MOLIY Remix\]](https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh) | 3:28 |
 | 38 | [Juju Pro](https://open.spotify.com/track/0N7DEvhWW02wnppAzxNhF5) | [PRA](https://open.spotify.com/artist/6iQXgvrjqZRVmKjDljaePY), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Juju Pro](https://open.spotify.com/album/1j7jtuErCBXVBpY0WyHDBx) | 2:53 |
 | 39 | [Don't II](https://open.spotify.com/track/4WWTOIlnAZVa2UcBevki65) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Don't II](https://open.spotify.com/album/3YobN3WLwUnCXy8djztp5n) | 2:53 |
 | 40 | [Mbali](https://open.spotify.com/track/3nnZWb6mhiPhhyRV2sQv0X) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mbali](https://open.spotify.com/album/414Ob3floRfurHgYHnRqk0) | 2:47 |

@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-119 songs - 7 hr 10 min
+120 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,8 +107,9 @@
 | [The Path](https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 8:27 | 2023-12-21 | 2024-04-07 |
 | [The River\-daughter \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/7mOi1ez8ZqQDxynyF8Q7Ah) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 1:09 | 2024-08-30 | 2025-08-08 |
 | [The Second Foundation](https://open.spotify.com/track/7g1ZS3b4q5t0p16We3C3q6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [Foundation: Season 3 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1VkLyajPWCqbEtUuCzcRCY) | 3:41 | 2025-07-13 | 2025-08-09 |
+| [The Stone of Destiny](https://open.spotify.com/track/0IPRA6clzovEXXt74duGmX) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of My Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 3:03 | 2025-08-17 |  |
 | [The Stranger](https://open.spotify.com/track/4lRIrVALubeKxXQ9zDXnO6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 5:03 | 2022-12-07 | 2023-01-14 |
-| [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 | 2023-03-31 |  |
+| [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 | 2023-03-31 | 2025-08-17 |
 | [The Sun Yet Shines](https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 4:34 | 2024-09-12 |  |
 | [The Uprising Begins](https://open.spotify.com/track/3eEbDIMV2WLrvRYTLb2iGz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 1:57 | 2023-08-30 | 2023-10-05 |
 | [The War Chieftain](https://open.spotify.com/track/6f7cPtdghcBJSzmrpcwQjF) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Blood of My Blood \(Season 1 Original Series Soundtrack\)](https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6) | 2:27 | 2025-08-16 |  |

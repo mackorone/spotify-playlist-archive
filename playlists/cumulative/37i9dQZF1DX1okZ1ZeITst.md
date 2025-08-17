@@ -4,7 +4,7 @@
 
 > Discover Disney songs to sing along to, including songs from the Descendants/Zombies: Worlds Collide Tour.
 
-174 songs - 8 hr 58 min
+175 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [The Scuttlebutt](https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt) | [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 2:01 | 2024-01-08 |  |
 | [The Witches Are Back](https://open.spotify.com/track/6SWxJnEL4PgRySciwic4N3) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W), [Sarah Jessica Parker](https://open.spotify.com/artist/07fyshwD6z8kprzXN7hQYH), [Kathy Najimy](https://open.spotify.com/artist/1JdX5huLHgBUAHTNinXnN5) | [Hocus Pocus 2 \(Original Soundtrack\)](https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED) | 1:44 | 2024-01-08 |  |
 | [There's a Great Big Beautiful Tomorrow](https://open.spotify.com/track/3rynFprrGTQdpYzdzdUGsj) | [Rex Allen](https://open.spotify.com/artist/66SqnH24eOjN0IEwWjmMyQ) | [The Sherman Brothers Songbook](https://open.spotify.com/album/1Hrim7KTK1mNyAYAw17Q1s) | 2:16 | 2025-05-16 |  |
-| [This Is Me](https://open.spotify.com/track/5c94W4Yh0kDVnC5bx8zMhD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [This Is Me](https://open.spotify.com/album/29zdXTtKK4yAE8SUzbHC7m) | 3:06 | 2024-01-08 |  |
+| [This Is Me](https://open.spotify.com/track/5c94W4Yh0kDVnC5bx8zMhD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [This Is Me](https://open.spotify.com/album/29zdXTtKK4yAE8SUzbHC7m) | 3:06 | 2024-01-08 | 2025-08-17 |
+| [This Is Me](https://open.spotify.com/track/7Dk2vTvSkgvNH7QS0UDc4V) | [Liamani](https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack/Season 3\)](https://open.spotify.com/album/71FLsJroKR8vr5BbWRZHGc) | 3:04 | 2025-08-15 |  |
 | [This Is The Thanks I Get?! \- From "Wish"](https://open.spotify.com/track/5jzCoRQd6YsKNWy4S3SUsx) | [Chris Pine](https://open.spotify.com/artist/5ueYs7bR3niiOeZdOSge5e), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Is The Thanks I Get?! \(From "Wish"\)](https://open.spotify.com/album/68aJkU3aeRGUW2p4lGnVzL) | 3:14 | 2024-01-08 |  |
 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2024-01-08 |  |
 | [Trip a Little Light Fantastic \- From "Mary Poppins Returns"/Edit](https://open.spotify.com/track/5YWSlrbFrK7X0ENL0uK9Uz) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG), [Tarik Frimpong](https://open.spotify.com/artist/05MsRjcE48ltjSB8PayAvu), [Pixie Davies](https://open.spotify.com/artist/1NaX9hqu8YlSxgo8cCoAxl), [Joel Dawson](https://open.spotify.com/artist/33ZSgBeFDUU6dW5V3zyvs5), [Nathanael Saleh](https://open.spotify.com/artist/2S3EJVZ9xe8Q2gDQALiRXX), [Leeries](https://open.spotify.com/artist/0WtcJOTNrXTmd6N90r9dMD) | [Trip a Little Light Fantastic \(From "Mary Poppins Returns"/Edit\)](https://open.spotify.com/album/1tc1VbI8dIANRKPi98JVZ4) | 4:05 | 2024-01-08 |  |

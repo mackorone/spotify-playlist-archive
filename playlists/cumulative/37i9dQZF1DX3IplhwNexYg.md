@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Wolf Alice
 
-771 songs - 1 day 19 hr 44 min
+773 songs - 1 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Get Out of My House](https://open.spotify.com/track/34G5OFBcyzDCxPKTuhSfye) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Get Out of My House](https://open.spotify.com/album/3OkTj8C7lVgXTqFShwOH5s) | 3:32 | 2023-05-25 | 2023-06-10 |
 | [Get the Piss Up](https://open.spotify.com/track/1O2qx7Q2Qm1LYxzCMHqYLn) | [Broken Baby](https://open.spotify.com/artist/3HqT4VT5m66V7HvOgxtmoA) | [Get the Piss Up](https://open.spotify.com/album/7pcNOY0MHc4kbVa5qTAMHN) | 3:34 | 2021-07-16 | 2022-08-19 |
 | [Getaway](https://open.spotify.com/track/1LkXt269l41wqGQjcLHLE4) | [Satellite Citi](https://open.spotify.com/artist/4laO1AzROVryZq7KcHnDfL) | [Getaway](https://open.spotify.com/album/1VA0JxpKhq7aFk8jTq34tB) | 3:39 | 2021-03-09 | 2022-01-17 |
-| [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 | 2025-03-27 |  |
+| [Gethsemane](https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Gethsemane](https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A) | 10:51 | 2025-03-27 | 2025-08-17 |
 | [Girlfriend](https://open.spotify.com/track/4LvUNvzk0a6giwk1655Qu7) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Girlfriend](https://open.spotify.com/album/3fX6Tjrop4puyO774iUrSJ) | 3:57 | 2022-08-18 | 2022-10-07 |
 | [Girlfriend](https://open.spotify.com/track/7tp6lHD5Ic2iKLhNFEhQ0V) | [The Beverly Chills](https://open.spotify.com/artist/2i8WYszPBblwToDvihkGhK) | [Girlfriend](https://open.spotify.com/album/4RtiLhku9krTE05LuaHtCd) | 2:37 | 2021-03-09 | 2022-01-17 |
 | [GIRLFRIEND SONG](https://open.spotify.com/track/2QVs38RF95zCnylGTeYsAk) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [GIRLFRIEND SONG](https://open.spotify.com/album/0bXvu05qQvg89TY89kYDVH) | 3:44 | 2022-08-18 | 2022-10-16 |
@@ -503,6 +503,7 @@
 | [Or Durves](https://open.spotify.com/track/52Jdjv3m2QrXK94MgupDza) | [Egg Drop Soup](https://open.spotify.com/artist/7pzH64zegJsbv79XgCYXr0) | [Or Durves](https://open.spotify.com/album/6ixqkqbhv6oF0bqBYnQHRO) | 2:02 | 2021-06-04 | 2022-08-19 |
 | [Ordinary Creature](https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Ordinary Creature](https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln) | 3:40 | 2025-08-08 |  |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2022-10-06 | 2023-03-03 |
+| [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 | 2025-08-14 |  |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-13 | 2023-05-26 |
 | [Over and Over](https://open.spotify.com/track/7EgfTld4hrzfdBLkqd52cx) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Over and Over](https://open.spotify.com/album/5e4eoRfKYGH0CYbcTd2UmL) | 3:57 | 2025-03-27 | 2025-05-26 |
 | [OVERWHELMING FEAR](https://open.spotify.com/track/6T2TSk6rNtySifGzQCWztN) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [OVERWHELMING FEAR](https://open.spotify.com/album/6GjxBVbGpQcZdPxJqAC93w) | 4:10 | 2025-08-14 |  |
@@ -612,6 +613,7 @@
 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 | 2024-03-15 | 2025-03-28 |
 | [Snowflake Suzie](https://open.spotify.com/track/0B2hkwmDeDi2Tx87YgHQui) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Snowflake Suzie](https://open.spotify.com/album/6HBxIk9HDOQy1qPuC9oaRm) | 3:40 | 2023-11-24 | 2024-01-12 |
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-05-25 | 2023-10-01 |
+| [Soak](https://open.spotify.com/track/2ZX6kJnF1sFD24xzCrTqEt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Soak](https://open.spotify.com/album/1PGXOxv1Gb6NiWHmei4lWe) | 3:34 | 2025-08-14 |  |
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-17 | 2024-04-19 |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-05 | 2023-04-03 |
 | [Sofa King](https://open.spotify.com/track/4CxgqrS5kSP1asW2Mtj7sP) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/2GLBrbr4Syp565yWaurWJo) | 3:16 | 2024-03-15 | 2024-05-01 |
@@ -654,7 +656,7 @@
 | [Swimming with Dolphins](https://open.spotify.com/track/6qCDZC0B30GZlOA9l5x4XD) | [Peace](https://open.spotify.com/artist/2O9XW1nnGRMkMV1wpK8IiS) | [Swimming with Dolphins](https://open.spotify.com/album/2jWLsbRw24SxJeO1rKsRj2) | 3:34 | 2025-03-27 | 2025-03-30 |
 | [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 | 2025-06-07 |
 | [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-27 |  |
-| [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 | 2025-03-27 |  |
+| [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 | 2025-03-27 | 2025-08-17 |
 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 | 2025-07-04 |  |
 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 | 2025-06-06 |  |
 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 | 2022-08-18 | 2025-03-28 |

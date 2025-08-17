@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,811 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,810 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 12 | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/album/4HFu2CSI1n0vAiKdhbHDGX) | 3:58 |
 | 13 | [Move \(feat\. Yseult\)](https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:41 |
 | 14 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
-| 15 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
-| 16 | [Heart Of Glass](https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Heart Of Glass](https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH) | 3:15 |
+| 15 | [Heart Of Glass](https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Heart Of Glass](https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH) | 3:15 |
+| 16 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
 | 17 | [Lost Child](https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:25 |
 | 18 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 |
 | 19 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 28 | [BB](https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:33 |
 | 29 | [L’orage](https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:17 |
 | 30 | [TUNING](https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:42 |
-| 31 | [Noir](https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 2:39 |
-| 32 | [+ Mélange](https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:03 |
+| 31 | [+ Mélange](https://open.spotify.com/track/5yUz7XHxsGQjhRD2OZa25Y) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Encore + pour de vrai](https://open.spotify.com/album/5dhxh8Zi75WRK95hqc7Djy) | 3:03 |
+| 32 | [Noir](https://open.spotify.com/track/6mJvBmoVQxO3B3QqNVmLIz) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 2:39 |
 | 33 | [La mamma](https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 4:03 |
 | 34 | [GARÇON](https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:13 |
 | 35 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 50 | [Ferme là](https://open.spotify.com/track/13WkCO8JEH89AEyvJ4KqOx) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Le Motif](https://open.spotify.com/artist/0HdLXCWPtmK9wgd7CyNuj3) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 3:27 |
 
-Snapshot ID: `aJ0nAAAAAAC3sg2pGtSLIBvSCkk/nn8S`
+Snapshot ID: `aJ54gAAAAAA7wYsolkIGleIzQAla83FG`

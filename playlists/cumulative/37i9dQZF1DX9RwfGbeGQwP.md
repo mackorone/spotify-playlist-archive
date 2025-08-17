@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,575 songs - 2 day 11 hr 13 min
+1,576 songs - 2 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [dar um rolê](https://open.spotify.com/track/1UTkUZVFNa2R1UKf9gCjac) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [viagem](https://open.spotify.com/album/0dmM1nzbgKTTKLMMPomXf6) | 1:09 | 2022-07-29 | 2022-10-15 |
 | [Day Trip](https://open.spotify.com/track/1NNPO0JO53BzyPuClzO5lu) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Day Trip](https://open.spotify.com/album/3ufFJOy2FVCYzO6MriMgMk) | 1:50 | 2025-03-21 | 2025-05-24 |
 | [Daybreak](https://open.spotify.com/track/1j762f5KtqxChgVIQfbo26) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Daybreak](https://open.spotify.com/album/3d1t534xCImdyO3rYX2HLF) | 2:05 | 2022-08-12 | 2022-11-12 |
+| [daylight](https://open.spotify.com/track/0lWDC2aAZd8j0RYXj0F5Fp) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [daylight](https://open.spotify.com/album/4qkA2kJu3F34BoHG6tBgqB) | 1:48 | 2025-07-10 |  |
 | [days gone](https://open.spotify.com/track/6Nhb2IfvQoFWQYeob0bO6o) | [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [sanctuary](https://open.spotify.com/album/7FbBDAt6EB609Ibl4p8eDi) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [Dead Forest](https://open.spotify.com/track/2q53veTbDwZuRqFBjkWQ4m) | [ANe\-O](https://open.spotify.com/artist/43vYLABttGx7q5XDXkdKBJ), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Fall Frequencies, Vol.3](https://open.spotify.com/album/7p6FTMiHOqTzHmPHn9rxZ8) | 1:36 | 2022-11-11 | 2023-09-29 |
 | [Dear Dilla](https://open.spotify.com/track/7GXAduzM6nHEFfbWjJs6xc) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dear Dilla](https://open.spotify.com/album/14HiCmKSRWO096DYScudKp) | 2:47 | 2022-07-29 | 2022-10-29 |
@@ -1216,7 +1217,7 @@
 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 | 2022-10-15 | 2023-09-22 |
 | [Silky Way](https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT) | [Upah Beats](https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI) | [Silky Way](https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE) | 2:33 | 2023-11-17 | 2024-05-17 |
 | [silly me](https://open.spotify.com/track/1Bl2RqLfN5V3uCTpcWl7Bn) | [titicon](https://open.spotify.com/artist/5v5Qkgl02bizOecA6OY7p3) | [silly me](https://open.spotify.com/album/68WtH1tl9o9QSmEH3q5WKt) | 1:30 | 2022-09-02 |  |
-| [silly n proud](https://open.spotify.com/track/0Mllvrh9hG4xmdKkr1MlYZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [silly n proud](https://open.spotify.com/album/3c1StHkjtZrY9ZBg8VxpAe) | 2:53 | 2022-04-22 |  |
+| [silly n proud](https://open.spotify.com/track/0Mllvrh9hG4xmdKkr1MlYZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [silly n proud](https://open.spotify.com/album/3c1StHkjtZrY9ZBg8VxpAe) | 2:53 | 2022-04-22 | 2025-08-17 |
 | [Similes](https://open.spotify.com/track/3ndjOcHGZ924UKDneWdstW) | [Whereisalex](https://open.spotify.com/artist/5hMpjfYzeUt7BGGEo3YyPT) | [Similes](https://open.spotify.com/album/4cwCYkwltW2xf5KNRQTc6k) | 2:50 | 2022-09-30 | 2023-08-04 |
 | [Simple Life](https://open.spotify.com/track/6LRmCgTbzVORakDfTfP8CW) | [yengotti](https://open.spotify.com/artist/1RaEktJWhxIrpYnj1LmXHU) | [Simple Life](https://open.spotify.com/album/3gf6zbNCUl3Aur6g7R1WMW) | 2:28 | 2022-09-23 | 2023-04-21 |
 | [Since When](https://open.spotify.com/track/7d7y2JnDs6YyEF7615uW7E) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Since When](https://open.spotify.com/album/2MDTi396LFLo6phItbGW8m) | 1:32 | 2023-06-05 |  |

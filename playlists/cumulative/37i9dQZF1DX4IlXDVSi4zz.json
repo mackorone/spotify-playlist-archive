@@ -961,6 +961,32 @@
     },
     {
       "album": {
+        "name": "Cola (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Cola - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "album": {
         "name": "COLLECT THE COMMAS",
         "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
       },
@@ -3224,7 +3250,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 196044,
       "name": "Like Wooh Wooh",
       "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"

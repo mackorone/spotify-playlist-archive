@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Ninajirachi",
-  "num_followers": 129618,
+  "num_followers": 129621,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
+        "name": "i don\u2019t want your garden",
+        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 225570,
+      "name": "i don\u2019t want your garden",
+      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
         "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
         "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
       },
@@ -739,18 +755,34 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "i don\u2019t want your garden",
-        "url": "https://open.spotify.com/album/4sGp8Y0WhwgxF41DNM2zyq"
+        "name": "Fall From The Light",
+        "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
         }
       ],
-      "duration_ms": 225570,
-      "name": "i don\u2019t want your garden",
-      "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
+      "duration_ms": 206870,
+      "name": "Rage Against The Fatigue",
+      "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "Disco Cowgirl",
+        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 205156,
+      "name": "Disco Cowgirl",
+      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -771,38 +803,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "In Another Life",
-        "url": "https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 208438,
-      "name": "In Another Life",
-      "url": "https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "Fall From The Light",
-        "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        }
-      ],
-      "duration_ms": 206870,
-      "name": "Rage Against The Fatigue",
-      "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "mountain of a memory",
+        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 145134,
+      "name": "mountain of a memory",
+      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -887,6 +903,22 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
+        "name": "In Another Life",
+        "url": "https://open.spotify.com/album/7zStGIgfi4iUqbjYj69Ivb"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 208438,
+      "name": "In Another Life",
+      "url": "https://open.spotify.com/track/6vXv6uFxhMNNMdla9oVmts"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
         "name": "Far Side of the Moon",
         "url": "https://open.spotify.com/album/1AAUSquFaEbVPlazWqvKMJ"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 213503,
       "name": "Far Side of the Moon",
       "url": "https://open.spotify.com/track/5S7Jok7NAJks2akNJPSoWt"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "mountain of a memory",
-        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 145134,
-      "name": "mountain of a memory",
-      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "Disco Cowgirl",
-        "url": "https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 205156,
-      "name": "Disco Cowgirl",
-      "url": "https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -955,6 +955,22 @@
       "duration_ms": 181172,
       "name": "Air Maxes",
       "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Save The Cat",
-        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 172404,
-      "name": "Save The Cat",
-      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R"
       },
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+        "name": "Save The Cat",
+        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         }
       ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
+      "duration_ms": 172404,
+      "name": "Save The Cat",
+      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
+        "name": "Luxford",
+        "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 207015,
+      "name": "Luxford",
+      "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "Luxford",
-        "url": "https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx"
-      },
-      "artists": [
-        {
-          "name": "ONEFOUR",
-          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 207015,
-      "name": "Luxford",
-      "url": "https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Hotel TV",
-        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
       },
       "artists": [
         {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
         }
       ],
-      "duration_ms": 277951,
-      "name": "Hotel TV",
-      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "i couldn't hold back",
-        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
+        "name": "Hotel TV",
+        "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
       },
       "artists": [
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
         }
       ],
-      "duration_ms": 170316,
-      "name": "i couldn't hold back",
-      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
+      "duration_ms": 277951,
+      "name": "Hotel TV",
+      "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
     }
   ],
   "unique_name": "Turn Up Aus",

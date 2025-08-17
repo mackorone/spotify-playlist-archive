@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8295,
+  "num_followers": 8304,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAABXxmtI6LUrD27K9RpPytwy",
+  "snapshot_id": "aJ54gAAAAAACWIFfd0yJd3/OCZ182llQ",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 144981,
+      "name": "No Hay Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 144981,
-      "name": "No Hay Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 212013,
+      "name": "Quiero Ser (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 146659,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "Quiero Ser (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 125662,
+      "name": "Nuestro Final",
+      "url": "https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loko",
         "url": "https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 125662,
-      "name": "Nuestro Final",
-      "url": "https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -367,6 +367,38 @@
       "duration_ms": 250240,
       "name": "Labios Rojos (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CUANDO PIENSO EN TI",
+        "url": "https://open.spotify.com/album/5OH5uSG2KcwFb4OJODn0NQ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 142695,
+      "name": "CUANDO PIENSO EN TI",
+      "url": "https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 159188,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k"
     },
     {
       "added_at": null,
@@ -395,42 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vicio Mi Adicci\u00f3n",
-        "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 139685,
-      "name": "Mi Vicio Mi Adicci\u00f3n",
-      "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 159188,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5IXU5eUPQJwhCGOmcOzc9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna De Miel",
         "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
       },
@@ -447,6 +443,26 @@
       "duration_ms": 141811,
       "name": "Esta Noche (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vicio Mi Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 139685,
+      "name": "Mi Vicio Mi Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
     },
     {
       "added_at": null,
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 193874,
-      "name": "SATIRO",
-      "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
+      "duration_ms": 223874,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP"
     },
     {
       "added_at": null,
@@ -764,29 +780,9 @@
           "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 223874,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/6aQgAhpCebGWOqrMdY2VhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
-      },
-      "artists": [
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+      "duration_ms": 193874,
+      "name": "SATIRO",
+      "url": "https://open.spotify.com/track/00e7R21236OX75ACaT8HH0"
     },
     {
       "added_at": null,
@@ -827,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/4SyZjya75uUPpzfrKwS2XO"
+      },
+      "artists": [
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 233250,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/21vFXhM6whAImWe4p8WwOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Ama Sin Temor",
         "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
@@ -863,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Tesec",
+      "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PDE",
         "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
@@ -891,38 +923,6 @@
       "duration_ms": 179066,
       "name": "Marc\u00e1ndote",
       "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Tesec",
-      "url": "https://open.spotify.com/track/3gGiXwtdax32RF2Zb687OB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viene Diciembre",
-        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 186394,
-      "name": "Viene Diciembre",
-      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

@@ -67393,6 +67393,28 @@
     },
     {
       "album": {
+        "name": "Hello Kitty",
+        "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158409,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX"
+    },
+    {
+      "album": {
         "name": "Hermano",
         "url": "https://open.spotify.com/album/242UuFHJJFy9DbPfGHefw6"
       },
@@ -85607,24 +85629,6 @@
     },
     {
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK"
-      },
-      "artists": [
-        {
-          "name": "La Ventaja",
-          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
-        }
-      ],
-      "date_added": "2025-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196678,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK"
-    },
-    {
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
       },
@@ -85822,6 +85826,24 @@
       "duration_ms": 126771,
       "name": "Loco y Enamorado",
       "url": "https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ"
+    },
+    {
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196678,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK"
     },
     {
       "album": {

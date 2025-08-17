@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 34 | [GUAGLIÒ](https://open.spotify.com/track/7wSfdZWyjZwjInPFlpkvOT) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/0vqU1hJuj9MOFTAyVVFKzz) | 2:42 |
 | 35 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 |
 | 36 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 |
-| 37 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA) | 2:52 |
-| 38 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
+| 37 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
+| 38 | [Testa tra le nuvole, Pt\. 0](https://open.spotify.com/track/4kroXv8P8Jz9aMlALh4zpm) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Before Wanderlust](https://open.spotify.com/album/7yfUJSxxqFcI5obk2nyrGA) | 2:52 |
 | 39 | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/track/57bACDRjkVmyFVjYPGRkY3) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/album/6sJp75vw3Cp5p2GX5t6VQr) | 2:32 |
 | 40 | [Nuvole di zanzare](https://open.spotify.com/track/5WGBPphxMAMtxEOIPGsqeJ) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Alma](https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms) | 3:01 |
 | 41 | [Prima di te](https://open.spotify.com/track/58IqnJR6PRquHRqf4jLbdi) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Prima di te](https://open.spotify.com/album/5t9ito4iEA9Qo9tTOMFpdp) | 2:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 69 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 70 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 
-Snapshot ID: `Ab5mSAAAAAAwG107mu0/LfeoM/3qeQUd`
+Snapshot ID: `Ab5r8gAAAAAjiw4v9YoyRrXr5K2HldiH`

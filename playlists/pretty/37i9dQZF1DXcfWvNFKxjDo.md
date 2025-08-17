@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, RANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,360 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,371 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 30 | [KEIN IDOL](https://open.spotify.com/track/5LV4eJUl5l5ATBd0LW08Tc) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [KEIN IDOL](https://open.spotify.com/album/4JP6z7m7flIkAMHFBCUwrF) | 2:27 |
 | 31 | [Space](https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Space](https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI) | 4:04 |
 | 32 | [Moonlight Shadow 2025](https://open.spotify.com/track/0pMjKetbAbhGdYJ78kcyER) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Moonlight Shadow 2025](https://open.spotify.com/album/0V3JbPxy7EHz0qAY8S3wNf) | 2:45 |
-| 33 | [I am A Gummy Bear \(The Gummy Bear Song\)](https://open.spotify.com/track/2FWLhQ0RQuJJiszmRQogqu) | [ROBIN WHITE](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Carpoolboy](https://open.spotify.com/artist/2Ncvl4iQXrbH7FeJScNg87), [VolTrack](https://open.spotify.com/artist/0VdqCAMdwy98iuRaUA1psR) | [I Am Your Gummy Bear \(The Gummy Bear Song\)](https://open.spotify.com/album/2QV2I7t4xFCWHn0Z7tF2OW) | 2:36 |
+| 33 | [I Am Your Gummy Bear \(The Gummy Bear Song\)](https://open.spotify.com/track/2FWLhQ0RQuJJiszmRQogqu) | [ROBIN WHITE](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [Carpoolboy](https://open.spotify.com/artist/2Ncvl4iQXrbH7FeJScNg87), [VolTrack](https://open.spotify.com/artist/0VdqCAMdwy98iuRaUA1psR) | [I Am Your Gummy Bear \(The Gummy Bear Song\)](https://open.spotify.com/album/2QV2I7t4xFCWHn0Z7tF2OW) | 2:36 |
 | 34 | [Luv U More](https://open.spotify.com/track/5WfL4VVFQaHhjkNowXoZSZ) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luv U More](https://open.spotify.com/album/0lAckFjUGpMs9g2J3N5WDn) | 2:42 |
 | 35 | [Higher](https://open.spotify.com/track/7KPdR8JukL0erLHKnPz3Ao) | [Sunkanmi](https://open.spotify.com/artist/2V0djJYh4RcX8oxSuFpFYq), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Higher](https://open.spotify.com/album/3CRP7ZLrrjVFSUVv8T1swF) | 2:15 |
 | 36 | [So Bist Du](https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J) | [Oli\. P](https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [So Bist Du](https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg) | 3:29 |

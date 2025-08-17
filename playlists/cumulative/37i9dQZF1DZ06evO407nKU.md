@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-138 songs - 7 hr 49 min
+139 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Cada Día Más \(En Vivo\)](https://open.spotify.com/track/5OcOGi0n1ViUacMgX5ekVi) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdidos en el Alcohol \(En Vivo\)](https://open.spotify.com/album/61fghf49dcy5C3Bi6BO5Qu) | 3:13 | 2024-06-22 | 2024-07-19 |
 | [Callando Bocas](https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Carlitos Vazquez](https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB) | [Callando Bocas](https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z) | 2:40 | 2024-04-20 | 2024-08-31 |
 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 | 2022-06-02 |  |
+| [Chica Traviesa](https://open.spotify.com/track/7zXxlCRQ1UGq2twIEuhlnD) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Expansion](https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN) | [Chica Traviesa](https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt) | 3:05 | 2025-08-17 |  |
 | [Chiquilla](https://open.spotify.com/track/2JQEodEhepMxC1JdMfm454) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 4:19 | 2022-08-17 | 2022-08-19 |
 | [Cinco Minutos](https://open.spotify.com/track/5xGahPi8NyyOefUbSOs8LW) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Grupo Dual](https://open.spotify.com/artist/0Gz0umq9MkzCPkwrO67llg), [emiliano leal](https://open.spotify.com/artist/7a7jFqAQfK8rqgkTaglahi) | [Cinco Minutos](https://open.spotify.com/album/5PRmplKgfcZ3b5FG1x6AIB) | 2:39 | 2024-11-24 | 2025-05-07 |
 | [Como Cielo Sin Estrellas](https://open.spotify.com/track/6qRlxvzAvYJ4zJdkfyGkcS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:31 | 2023-06-11 | 2023-12-31 |
@@ -75,7 +76,7 @@
 | [Mi Amiga Mi Amor](https://open.spotify.com/track/6SD5Pju2T8SH0mdT1Frmte) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mi Amiga Mi Amor](https://open.spotify.com/album/4oU46Z95Li3uT5pRp05RES) | 3:17 | 2023-12-13 | 2024-03-13 |
 | [Mi Error](https://open.spotify.com/track/08UWHH1UZwowsKGkWphHCz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:24 | 2022-06-13 | 2022-07-11 |
 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 | 2022-10-12 |  |
-| [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 | 2022-06-01 |  |
+| [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 | 2022-06-01 | 2025-08-17 |
 | [Misa De Cuerpo Presente](https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:22 | 2023-02-08 |  |
 | [Morí](https://open.spotify.com/track/60ZnEd8EldyWJUJ9wuTqZN) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Douglas Bastidas Tranzas](https://open.spotify.com/artist/6ekmUnU8sgXqLDJWWWSNvz) | [Morí](https://open.spotify.com/album/5WGVNULWg82krh2zUUwM79) | 3:48 | 2022-10-31 | 2023-03-23 |
 | [Mujer Hermosa](https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:42 | 2022-06-01 |  |

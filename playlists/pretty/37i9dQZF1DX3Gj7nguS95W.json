@@ -1,6 +1,6 @@
 {
   "description": "The greatest New Wave songs through the decades. Cover: Blondie",
-  "num_followers": 943744,
+  "num_followers": 943913,
   "original_name": "Essential New Wave",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/2ccrabRMmY1gECUdyqblP2"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic - Remastered 2003",
+      "url": "https://open.spotify.com/track/5pDmunv6G71w7NSjOPXbYw"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
         "name": "Billy Idol",
         "url": "https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 250760,
       "name": "White Wedding - Part 1 - 2001- Remaster",
       "url": "https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
-        "name": "This Year's Model",
-        "url": "https://open.spotify.com/album/0mUFefHSr0Ovi9vNcUGppt"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Pump It Up",
-      "url": "https://open.spotify.com/track/0JgMHia55MBfhfqZIRi3kF"
     }
   ],
   "unique_name": "Essential New Wave",

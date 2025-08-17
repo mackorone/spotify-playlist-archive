@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,702 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,727 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 37 | [Morni](https://open.spotify.com/track/3jPLJbSL14oH6pcSLIaMGJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Morni](https://open.spotify.com/album/1xWp8jVcJqW40Aey8il8wE) | 2:51 |
 | 38 | [TERE TE](https://open.spotify.com/track/0ptqV9ySE8HVbWblGdv3Eb) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/69VUBIbtxtouNd7eKKD6BI) | 1:54 |
 | 39 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 |
-| 40 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
-| 41 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
+| 40 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
+| 41 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
 | 42 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 43 | [Filhall](https://open.spotify.com/track/7DE0I3buHcns00C0YEsYsY) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Akshay Kumar](https://open.spotify.com/artist/0w0mlcvl7QH28Cs28O6waY), [Nupur Sanon](https://open.spotify.com/artist/2vCsnF6h4c2b1csudqJiV5) | [Filhall](https://open.spotify.com/album/6qc16gUvik05h9ztn3OwHn) | 4:15 |
 | 44 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 |

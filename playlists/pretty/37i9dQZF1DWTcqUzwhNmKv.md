@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Lorna Shore are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,588,993 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,180 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 |
 | 2 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 |
 | 3 | [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 |
-| 4 | [God Is A Weapon](https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God Is A Weapon](https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw) | 3:35 |
-| 5 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 |
-| 6 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
-| 7 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
-| 8 | [where did you go?](https://open.spotify.com/track/5ZOcWbAXApsKHeQH6spuf0) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [where did you go?](https://open.spotify.com/album/3pctHU8ITALcpUmKyZcJfI) | 3:45 |
-| 9 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
+| 4 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
+| 5 | [God Is A Weapon](https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God Is A Weapon](https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw) | 3:35 |
+| 6 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 |
+| 7 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
+| 8 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
+| 9 | [where did you go?](https://open.spotify.com/track/5ZOcWbAXApsKHeQH6spuf0) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [where did you go?](https://open.spotify.com/album/3pctHU8ITALcpUmKyZcJfI) | 3:45 |
 | 10 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 11 | [Imdead](https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m), [Ronnie Radke](https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth) | [GRIZZLY](https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2) | 3:49 |
 | 12 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Cold](https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Cold](https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8) | 2:58 |
 | 80 | [Incinerate](https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Incinerate](https://open.spotify.com/album/0BJD0KxYywhhP4fVcbopPj) | 3:07 |
 
-Snapshot ID: `AAAAADEzF9iECvTACJYNLhDBCMyyvhxw`
+Snapshot ID: `AAAAAPCBaCGH3agHAzt3r6C8es3uGuyI`

@@ -4,7 +4,7 @@
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 13 min
+68 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Happy New Year](https://open.spotify.com/track/2Tsl7uA8FKysp2nyoeLn15) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:59 | 2025-06-15 | 2025-08-14 |
 | [Hell of a Year](https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:52 | 2025-08-14 |  |
 | [Hell of a Year](https://open.spotify.com/track/2kvlpIO6c9yvKAzk2KF0IS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/4IrKqWfXyJknGVjBGbGX1v) | 3:52 | 2025-06-15 | 2025-08-14 |
-| [High Above the Water](https://open.spotify.com/track/6YVY8qFZBtp73vRNZYDsij) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 4:11 | 2025-06-15 |  |
+| [High Above the Water](https://open.spotify.com/track/4oJU2pJNmtAlduLSAMJ7QE) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:11 | 2025-08-17 |  |
+| [High Above the Water](https://open.spotify.com/track/6YVY8qFZBtp73vRNZYDsij) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 4:11 | 2025-06-15 | 2025-08-17 |
 | [Hold Me Back](https://open.spotify.com/track/0b0bblC9e8Xxrq5rfq3omD) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:03 | 2025-06-15 |  |
 | [Hope That I’m Enough](https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:45 | 2025-08-11 |  |
 | [Hope That I’m Enough](https://open.spotify.com/track/74mjyK6UGHGSCLaFtmJfOW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hope That I’m Enough](https://open.spotify.com/album/4FdBwdv1qPuYHw6rm8gzh4) | 4:45 | 2025-06-15 | 2025-08-11 |

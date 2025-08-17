@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10173,
+  "num_followers": 10179,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAC17vC4jwppYk/4S6UOM1v+",
+  "snapshot_id": "aJ54gAAAAAAl8Aa6ztEv5RUDygcxzszV",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing You Home - Children's Songs for Family Reunification",
-        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 157966,
-      "name": "Si Pudiera Leer Tus Sue\u00f1os",
-      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STEP (Music From and Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 359706,
       "name": "Jump",
       "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing You Home - Children's Songs for Family Reunification",
+        "url": "https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 157966,
+      "name": "Si Pudiera Leer Tus Sue\u00f1os",
+      "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
     },
     {
       "added_at": null,

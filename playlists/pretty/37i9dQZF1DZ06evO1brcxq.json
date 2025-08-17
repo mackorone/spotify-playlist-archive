@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 174770,
+  "num_followers": 174870,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAA5A/O7YxP3cVaKcRcH50Od",
+  "snapshot_id": "aJ54gAAAAAAHpwNf2ENkjAOrb7W3b0H3",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 136614,
-      "name": "Good Ones",
-      "url": "https://open.spotify.com/track/2grSOc6HNTXQQXNoRKt9UM"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Constant Repeat",
+      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Number 1 Angel",
         "url": "https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 234755,
       "name": "Lipgloss (feat. CupcakKe)",
       "url": "https://open.spotify.com/track/7niKxzFThgRf5fXlIYdjtZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "Constant Repeat",
-      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
     },
     {
       "added_at": null,

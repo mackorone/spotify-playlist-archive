@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n",
-  "num_followers": 286602,
+  "num_followers": 286708,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
+        "name": "Buenos Muchachos",
+        "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
+      },
+      "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Te Quiero Comer La Boca",
+      "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
+    },
+    {
+      "added_at": "2024-06-12 20:40:05",
+      "album": {
         "name": "Defecto Perfecto",
         "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2024-06-12 20:40:05",
       "album": {
-        "name": "Buenos Muchachos",
-        "url": "https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM"
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
       "artists": [
         {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Te Quiero Comer La Boca",
-      "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2024-06-12 20:40:05",
@@ -615,22 +631,6 @@
       "duration_ms": 328906,
       "name": "El Duelo (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2024-06-12 20:40:05",
-      "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2024-06-12 20:40:05",

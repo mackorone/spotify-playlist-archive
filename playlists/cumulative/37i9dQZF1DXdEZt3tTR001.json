@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 279360,
       "name": "Can U Handle It?",
       "url": "https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 164000,
       "name": "Colorado, TX",
       "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
@@ -2490,7 +2490,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 201666,
       "name": "Homerun 2021",
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
@@ -2765,6 +2765,28 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1I8HPrHRyiVzrySgQTOY9A"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7b5zrhSZ2UNKVza8Fnfv6N"
+    },
+    {
+      "album": {
         "name": "I\u2019D MISS THE BIRDS",
         "url": "https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW"
       },
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 335958,
       "name": "Kanana",
       "url": "https://open.spotify.com/track/5KNbuqKLvnMkJpW29vcUgJ"
@@ -3754,7 +3776,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 216000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1IOOLV6bwrN4uH4KWHei0R"
@@ -4405,6 +4427,28 @@
     },
     {
       "album": {
+        "name": "Scatter - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3DBtIe7LqKGD7jV8YWIwwW"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231689,
+      "name": "Scatter - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0r9s0mdh4owbNocWDPrn1L"
+    },
+    {
+      "album": {
         "name": "sean leon must die",
         "url": "https://open.spotify.com/album/7xJ6ZYpqRgMyONwLNpxHVc"
       },
@@ -4682,7 +4726,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 215412,
       "name": "slow dance in the diner",
       "url": "https://open.spotify.com/track/44tkU5OWulSCRn01iTyAXK"
@@ -5066,6 +5110,24 @@
       "duration_ms": 201917,
       "name": "Summer Madness",
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
+    },
+    {
+      "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A"
     },
     {
       "album": {
@@ -5960,6 +6022,28 @@
       "duration_ms": 200958,
       "name": "won't make it",
       "url": "https://open.spotify.com/track/5fm2hA6xErpIpankZuyokX"
+    },
+    {
+      "album": {
+        "name": "Wrapped in the Weight - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/33k1zDMo4BhqaVFxiJP0yq"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259586,
+      "name": "Wrapped in the Weight - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6KCtRNu75DNvDgrFMYlEqO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdEZt3tTR001"

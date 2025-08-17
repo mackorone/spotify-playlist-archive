@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,766 likes - 58 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,794 likes - 58 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

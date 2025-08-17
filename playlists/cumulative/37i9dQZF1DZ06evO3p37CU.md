@@ -4,7 +4,7 @@
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 44 min
+61 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Meditate \(feat\. J.I.D.\)](https://open.spotify.com/track/0Eqm7hD828cATBLUx2fJox) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Rags](https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ) | 4:38 | 2025-02-25 |  |
 | [Menace](https://open.spotify.com/track/6P0qxnyxLL6D7Gmm8ZMlF2) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Antagonist](https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ) | 3:05 | 2025-02-25 |  |
 | [Missed Calls](https://open.spotify.com/track/3Z7dieIRSquTYqLVR15mov) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:30 | 2025-02-25 |  |
-| [Monday](https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Torba](https://open.spotify.com/album/1bfSnW4xc5x4T49TRrDelF) | 5:36 | 2025-07-07 |  |
+| [Momma Told Me](https://open.spotify.com/track/6eSTuG07FIPpLkekbpYIsZ) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 3:54 | 2025-08-17 |  |
+| [Monday](https://open.spotify.com/track/1xSRhbrcNp5Nhfq3wLbNVP) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Torba](https://open.spotify.com/album/1bfSnW4xc5x4T49TRrDelF) | 5:36 | 2025-07-07 | 2025-08-17 |
 | [No Fear No More \(Remix\)](https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [No Fear No More \(Remix\)](https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t) | 2:54 | 2025-02-25 |  |
 | [Opium \(feat\. EARTHGANG\)](https://open.spotify.com/track/4jNs9cJBsFTiahZAe3iuwV) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 6:50 | 2025-02-25 |  |
 | [Oshun \(with EARTHGANG & 6LACK feat\. Jurdan Bryant\)](https://open.spotify.com/track/1ohxmwWvLNWIlt0kUo8kZF) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:02 | 2025-02-25 |  |

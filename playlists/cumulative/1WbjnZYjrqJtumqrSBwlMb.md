@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,154 songs - 2 day 22 hr 51 min
+1,155 songs - 2 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [New Mode](https://open.spotify.com/track/42pKWuJst0oAuUbTvkNqr6) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 3:56 | 2022-09-30 |  |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2020-06-09 |  |
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-03-27 |  |
+| [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 | 2025-08-16 |  |
 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 | 2021-08-10 |  |
 | [NIGHT RIDER](https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 2:07 | 2022-11-06 |  |
 | [No Buses](https://open.spotify.com/track/6mOiT65GFmXgBAviM3lrsE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:17 | 2019-11-03 |  |

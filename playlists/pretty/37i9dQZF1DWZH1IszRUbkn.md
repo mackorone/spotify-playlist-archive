@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,761 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 45 | [Garabato Colorado](https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 3:04 |
 | 46 | [El Sapo Pepe Y La Rana Juana](https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:09 |
 | 47 | [Osos de Paseo](https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:50 |
-| 48 | [Lala \- Lolo](https://open.spotify.com/track/4bK6C3UzOgWrfaK5IC3pOO) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos](https://open.spotify.com/album/2RTH0488SqLfL49MoQT2OL) | 1:27 |
+| 48 | [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 |
 | 49 | [Malísima](https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw) | 2:38 |
 | 50 | [Susanita](https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM) | [Daniela](https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82), [Los Pollitos](https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb) | [Canciones De La Granja 2](https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60) | 3:01 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2025</a>! Meet them first at the MU:CON 2025 official playlist\. \(뮤콘 2025 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,642 likes - 99 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,644 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 49 | [FEELING!](https://open.spotify.com/track/4MIhf91hI9FjzwSA1ctr5L) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 2:48 |
 | 50 | [Pick Up the Phone](https://open.spotify.com/track/3YcnS2ZZ6pBYTKO1SPnQb6) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Pick Up the Phone](https://open.spotify.com/album/5ZSyI8oiVTeaEk1yTBjiyH) | 3:18 |
 | 51 | [Don't Call](https://open.spotify.com/track/1CD9qQHdHFOwiuYt4vjQcj) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Don't Call](https://open.spotify.com/album/5aQ6SMCdPfrBFuG0gGtTWA) | 3:00 |
-| 52 | [Red Rose](https://open.spotify.com/track/3NuPGJZk2IIBcuN1LPtqr5) | [Woo Ye Rin	](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Red Rose](https://open.spotify.com/album/3eiTgUjtQnBsQx1XZGXOxz) | 3:35 |
-| 53 | [A Song of Stars](https://open.spotify.com/track/0ecm8gnc3reIkbGRxMU1i8) | [Woo Ye Rin	](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Night : 여름에 노란 꽃이 밤에만 핀다](https://open.spotify.com/album/3Td89zizGuOuCR61PdeXSy) | 4:18 |
-| 54 | [tinker\-ton](https://open.spotify.com/track/40eL9mTzbnH0LAdBdygzra) | [Woo Ye Rin	](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [tinker\-ton](https://open.spotify.com/album/2avC99Nl5Mg0BvJwn6mYgZ) | 3:27 |
+| 52 | [Red Rose](https://open.spotify.com/track/3NuPGJZk2IIBcuN1LPtqr5) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Red Rose](https://open.spotify.com/album/3eiTgUjtQnBsQx1XZGXOxz) | 3:35 |
+| 53 | [A Song of Stars](https://open.spotify.com/track/0ecm8gnc3reIkbGRxMU1i8) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Night : 여름에 노란 꽃이 밤에만 핀다](https://open.spotify.com/album/3Td89zizGuOuCR61PdeXSy) | 4:18 |
+| 54 | [tinker\-ton](https://open.spotify.com/track/40eL9mTzbnH0LAdBdygzra) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [tinker\-ton](https://open.spotify.com/album/2avC99Nl5Mg0BvJwn6mYgZ) | 3:27 |
 | 55 | [There is A Wolf](https://open.spotify.com/track/2YNrv84MQ5SA4jZ8k3Us9d) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [There is A Wolf](https://open.spotify.com/album/1QrWbdIbZAigQwNOqBtIjC) | 3:37 |
 | 56 | [The Generation of Tribulation](https://open.spotify.com/track/0PfGvaK0tQO8KE8fBUog3e) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [There is A Wolf](https://open.spotify.com/album/1QrWbdIbZAigQwNOqBtIjC) | 3:46 |
 | 57 | [신의 놀이](https://open.spotify.com/track/67yol8XYMfwJMTFEhuEpaG) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [신의 놀이](https://open.spotify.com/album/3T9MD1VuRHcGF1GPaCtf1T) | 2:53 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 98 | [Fighting](https://open.spotify.com/track/3GramJRJejUKwSxaah879N) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf), [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Fighting](https://open.spotify.com/album/1srljphnYcHZ7gfO5lTFel) | 3:16 |
 | 99 | [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 |
 
-Snapshot ID: `AAAAALRIppJjURZwRO9F/MMfs+2mJNaB`
+Snapshot ID: `AAAAANHHJ+WuO5wvs6/V3l73BYqn5OUT`

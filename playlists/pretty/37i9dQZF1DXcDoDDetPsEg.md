@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,364 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,335 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 3 | [sos](https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:16 |
 | 4 | [High End Fashion](https://open.spotify.com/track/0RleUkCUxQ8X1JMhiXmVSf) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [High End Fashion](https://open.spotify.com/album/0305fmUZMhziojoiZ2ZTc2) | 2:59 |
 | 5 | [Gold](https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Gold](https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM) | 3:08 |
-| 6 | [The Greatest Bend Over \(Take It Easy\) \- Chloe x Moliy Remix](https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [The Greatest Bend Over \(Take It Easy\) \[Chloe x Moliy Remix\]](https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh) | 3:28 |
+| 6 | [The Greatest Bend Over \(Take It Easy\) \- Chlöe x MOLIY Remix](https://open.spotify.com/track/33LEmmSf7GIjngduAHQ8VF) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [The Greatest Bend Over \(Take It Easy\) \[Chlöe x MOLIY Remix\]](https://open.spotify.com/album/5odK6dmKpJWenZo10gOCMh) | 3:28 |
 | 7 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 8 | [Init Gyal](https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Init Gyal](https://open.spotify.com/album/2qpKN28C1BfvGeHVULQ0mI) | 1:05 |
 | 9 | [So Easy](https://open.spotify.com/track/4wHhHmgtd6IORNd0X5zTmK) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [It's Not You, It's Summer](https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV) | 2:31 |

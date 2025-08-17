@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-92 songs - 5 hr 13 min
+93 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Staying](https://open.spotify.com/track/3tcCT8WhAIeRW2Ey9M4bL5) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:31 | 2024-04-07 |  |
 | [Stupid](https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:42 | 2022-10-28 |  |
 | [Stupid](https://open.spotify.com/track/6Pkxhe00RTJovt56H4yLL0) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV) | 3:42 | 2022-09-16 | 2022-10-29 |
+| [The Ballad of Floyd Collins](https://open.spotify.com/track/7EbjWtxRnufeqy0mSH8MAF) | [Cole Vaughan](https://open.spotify.com/artist/6d0p3m0WnAwoEl1EPt2cs2), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jessica Molaskey](https://open.spotify.com/artist/5QNZRrmYSHM0rjRjcm5B4V), [Jason Gotay](https://open.spotify.com/artist/18QGDMb7iwtEcsz3n5myg3), [Taylor Trensch](https://open.spotify.com/artist/7etvz6a5jRyLOit19OF5lf), [Original Broadway Cast of Floyd Collins](https://open.spotify.com/artist/5u2KMJw0usjlitlLdsP0A1) | [Floyd Collins \(Original Broadway Cast Recording\)](https://open.spotify.com/album/32F9ayzTrUtPVXcRCLoj8w) | 1:42 | 2025-08-17 |  |
 | [The Elevator](https://open.spotify.com/track/5wklBB5JW7yQS2t90ccjHn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 1:40 | 2025-05-30 |  |
 | [The Elevator](https://open.spotify.com/track/61k8ZA1BqCYXOrevJtzuH8) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:40 | 2024-04-07 | 2024-12-21 |
 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 | 2022-09-16 | 2022-10-29 |

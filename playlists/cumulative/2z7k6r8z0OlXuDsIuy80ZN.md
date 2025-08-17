@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-336 songs - 17 hr 31 min
+337 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-04-01 | 2023-07-16 |
 | [Faltas Tú](https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Faltas Tú](https://open.spotify.com/album/0ZNk0pIBMIIDgutlALp6ia) | 3:21 | 2024-04-13 | 2024-08-11 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-13 | 2025-04-13 |
-| [Festival](https://open.spotify.com/track/5sKt4nQDFx2RfkLwFd2u9f) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [10 Años Contigo](https://open.spotify.com/album/1k1YQTijBn6IarhgimMdbo) | 2:53 | 2025-02-22 |  |
+| [Festival](https://open.spotify.com/track/5sKt4nQDFx2RfkLwFd2u9f) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [10 Años Contigo](https://open.spotify.com/album/1k1YQTijBn6IarhgimMdbo) | 2:53 | 2025-02-22 | 2025-08-17 |
 | [Fiesta En El Centro](https://open.spotify.com/track/669RDcakvwPTTBFga67wqh) | [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Fiesta En El Centro](https://open.spotify.com/album/78D7Zbm7bbdYd8pU1UfqZF) | 2:36 | 2025-06-21 |  |
 | [Flecha](https://open.spotify.com/track/6XtOM0xVBmhjX8mRkrWo9z) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Flecha](https://open.spotify.com/album/6ppWzVBtrtH6Pfzkz1gx9V) | 3:53 | 2022-03-12 | 2022-06-05 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-28 | 2023-09-17 |
@@ -340,6 +340,7 @@
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-01-15 | 2022-08-07 |
 | [Windows](https://open.spotify.com/track/6Qzt3SRdoxQdG2lza82ExB) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Windows](https://open.spotify.com/album/7M3OZ6ZLQHE5kF0yO7t07c) | 3:57 | 2023-11-04 | 2024-03-10 |
 | [X AQUÍ X ALLÁ](https://open.spotify.com/track/4aACB2u00pLtue9eIUtbTt) | [Adexe & Nau](https://open.spotify.com/artist/0ndVqPlOidgsJ4yB3Fc5ec) | [X AQUÍ X ALLÁ](https://open.spotify.com/album/0a6tDYaeuHdrEU9LYPaqTP) | 1:58 | 2024-07-20 | 2025-02-23 |
+| [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 | 2025-08-16 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-02-03 | 2024-05-05 |
 | [Yo Soy Libre](https://open.spotify.com/track/0LZj39tmRvL5gbgALqNpoN) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [Yo Soy Libre](https://open.spotify.com/album/3sRPdl650qZYRmIjZQa5pY) | 3:11 | 2024-01-27 | 2024-08-11 |
 | [¿Cómo Pasó?](https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Cómo Pasó?](https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319) | 2:54 | 2024-08-10 | 2024-11-10 |

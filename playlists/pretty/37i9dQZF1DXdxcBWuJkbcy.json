@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7914254,
+  "num_followers": 7913978,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2025-08-14 13:12:53",
       "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
-    },
-    {
-      "added_at": "2025-08-14 13:12:53",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 203307,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
+    },
+    {
+      "added_at": "2025-08-14 13:12:53",
+      "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     }
   ],
   "unique_name": "Gym Hits",

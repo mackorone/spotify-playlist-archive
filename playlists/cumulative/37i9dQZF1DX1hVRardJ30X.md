@@ -4,7 +4,7 @@
 
 > New music by Mau y Ricky, J Balvin, Ryan Castro & Grupo Frontera and more! Updates every Friday.
 
-10,267 songs - 22 day 7 hr 20 min
+10,268 songs - 22 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4317,6 +4317,7 @@
 | [Junto a Mi](https://open.spotify.com/track/4nB3mDL1L6THwHtBvUwjm7) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Junto a Mi](https://open.spotify.com/album/50kZKXFGgFJunfwdmVEqky) | 3:04 | 2024-06-14 | 2024-06-22 |
 | [Junto A Tí](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Tí](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 | 2022-06-10 | 2022-06-18 |
 | [Juntos](https://open.spotify.com/track/6IfDktcwMkz0ZGC3BjXWaO) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Juntos](https://open.spotify.com/album/44xYEOqpP0lsRJ1BzbW9aB) | 3:25 | 2023-12-15 | 2023-12-23 |
+| [Juntos Pa Japón](https://open.spotify.com/track/4vATMg7zYcGhEbumY7p6fL) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh), [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Melodías Del Corazón](https://open.spotify.com/album/76rHh9HMyU3tFswjl5Wt7i) | 2:56 | 2025-08-16 |  |
 | [Juqueando](https://open.spotify.com/track/252ZimoPcGSFYaS6TfjBEG) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Juqueando](https://open.spotify.com/album/59p1PfGyRrCgeHtCuqDxGP) | 3:14 | 2022-10-07 | 2022-10-15 |
 | [Juro Q](https://open.spotify.com/track/6WmWsZjnqMx9mltYc5o52H) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Juro Q](https://open.spotify.com/album/3XZcEQhmfW8CAoyQo859kw) | 2:30 | 2025-01-10 | 2025-01-18 |
 | [Just One Time](https://open.spotify.com/track/34fROePGME5r33uRy1m8Dr) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Just One Time](https://open.spotify.com/album/20aZbKgEMFaHrLgCdASJNd) | 2:42 | 2022-12-09 | 2022-12-17 |
@@ -4671,7 +4672,7 @@
 | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [LA PERLA \(V\. ELECTRO\-CORRIDO\)](https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa) | 3:02 | 2024-12-28 | 2025-01-18 |
 | [LA PIPA DE LA PAZ](https://open.spotify.com/track/35k8oH1X7gfCyw2Bp3c1Yy) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [LA PIPA DE LA PAZ](https://open.spotify.com/album/6Y7QL2YRsVOkFB2gxpnBEZ) | 2:30 | 2023-04-21 | 2023-04-29 |
 | [La Piscina](https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Piscina](https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD) | 3:23 | 2024-08-02 | 2024-08-10 |
-| [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 | 2025-08-16 |  |
+| [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu), [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 | 2025-08-16 |  |
 | [LA Pleasure](https://open.spotify.com/track/6WAUld5VA8mmDGN3LvwF7E) | [G.O.K.B](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj), [Frank Louis](https://open.spotify.com/artist/2Do2APQHg1zQ4bvpKUm9q6) | [LA Pleasure](https://open.spotify.com/album/7CCeqdT0OadxmilsfaTKzp) | 3:47 | 2024-06-07 | 2024-06-15 |
 | [La Plebada \(En Vivo\)](https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Plebada \(En Vivo\)](https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq) | 3:38 | 2022-12-23 | 2023-01-06 |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-02-21 | 2025-03-01 |

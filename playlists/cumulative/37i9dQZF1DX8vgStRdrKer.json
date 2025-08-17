@@ -3027,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Follow the Lamb",
+        "url": "https://open.spotify.com/album/0rvQFF3rxjydtHBZJWEBhn"
+      },
+      "artists": [
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        },
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324375,
+      "name": "Follow the Lamb",
+      "url": "https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk"
+    },
+    {
+      "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
         "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
       },
@@ -5373,6 +5395,24 @@
     },
     {
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5"
+    },
+    {
+      "album": {
         "name": "Joy in Chaos (Extended)",
         "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
@@ -5714,7 +5754,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 156000,
       "name": "Kwechiri",
       "url": "https://open.spotify.com/track/5IVsnrFCDaMLWh8VdlFLJ7"
@@ -10204,7 +10244,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 190473,
       "name": "Victory",
       "url": "https://open.spotify.com/track/0vVhuLpWJslUjhKN9YXIIh"

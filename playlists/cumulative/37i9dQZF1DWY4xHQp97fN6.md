@@ -4,7 +4,7 @@
 
 > Mood: Turnt Cover: Travis Scott
 
-1,034 songs - 2 day 1 hr 29 min
+1,035 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [IM GONE](https://open.spotify.com/track/1rPVF9MO3Whz8B3ZhEmaNo) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [War Ready](https://open.spotify.com/album/2mDPUgNe4bXjo7ofYvEbfI) | 1:54 | 2024-12-06 | 2024-12-14 |
 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 | 2025-07-04 | 2025-07-26 |
 | [IMA HOE TOO \(with Yung Miami\)](https://open.spotify.com/track/7D2HPKFcJFQOhzGH5N2ARW) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [IMA HOE TOO \(with Yung Miami\)](https://open.spotify.com/album/1LvbxTx2RpXXnHJli3BETD) | 2:58 | 2025-02-14 | 2025-02-22 |
+| [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-08-15 |  |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-01-13 | 2024-01-27 |
 | [In Luv With The Money](https://open.spotify.com/track/3dw4v5lOsKRqIX3c1bouJW) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Too Good To Be True](https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX) | 3:09 | 2023-11-10 | 2023-12-09 |
 | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM) | 3:21 | 2022-07-22 | 2022-10-15 |
@@ -583,7 +584,7 @@
 | [Motion](https://open.spotify.com/track/6excfi52hCKksRlRt55VH2) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Motion](https://open.spotify.com/album/4gQHDKTolva19r36snfw8T) | 2:07 | 2022-11-18 | 2023-04-09 |
 | [Movie \(feat\. Az Chike\)](https://open.spotify.com/track/1X1EwijiXXOmEU5iMqhFT5) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 1:53 | 2024-03-01 | 2024-03-16 |
 | [Mr Chow](https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:57 | 2024-11-01 | 2024-11-09 |
-| [Mr\. President](https://open.spotify.com/track/0Z3ds3GJ7FqoaSgn6tLKF3) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Mr\. President](https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba) | 2:14 | 2025-08-08 |  |
+| [Mr\. President](https://open.spotify.com/track/0Z3ds3GJ7FqoaSgn6tLKF3) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Mr\. President](https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba) | 2:14 | 2025-08-08 | 2025-08-17 |
 | [Mrs\. Davis](https://open.spotify.com/track/3LKd2tQ7VdOf1cENAKZCz0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Mrs\. Davis](https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR) | 3:57 | 2022-06-03 | 2022-11-12 |
 | [ms\. beautiful V!](https://open.spotify.com/track/2xLgAD3wLIhkOjpnlnEbgs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:12 | 2024-12-20 | 2025-01-25 |
 | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/4RCQPrRcIH7jFBJ8khMQn3) | [D3szn](https://open.spotify.com/artist/3XUSSPMccIhcVTQ2kOHJPn), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Mudbaby \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4ZIqCkN9QsLsYUPZKYxhjQ) | 2:24 | 2022-04-29 | 2022-07-16 |

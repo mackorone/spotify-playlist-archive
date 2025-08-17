@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 112914,
+  "num_followers": 112959,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Aloha",
-        "url": "https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Berhana",
         "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
       },
@@ -1059,18 +1039,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+        "name": "Aloha",
+        "url": "https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ"
       },
       "artists": [
         {
-          "name": "The Lagoons",
-          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
         }
       ],
-      "duration_ms": 261773,
-      "name": "California",
-      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+      "duration_ms": 218400,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1103,6 +1087,22 @@
       "duration_ms": 242560,
       "name": "Worry",
       "url": "https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
+      },
+      "artists": [
+        {
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "California",
+      "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Warm on a Cold Night (Deluxe)",
         "url": "https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 244958,
       "name": "Someone That Loves You",
       "url": "https://open.spotify.com/track/2a5Ml671R56tzRB0WMaCfC"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Teens of Denial",
         "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 374653,
       "name": "Drunk Drivers/Killer Whales",
       "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "MY WOMAN",
+        "url": "https://open.spotify.com/album/5M8xQaQZuW2LZGVXZ3mlKN"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Shut Up Kiss Me",
+      "url": "https://open.spotify.com/track/5uZLsGY9fknBd5Rxr7AIss"
     }
   ],
   "unique_name": "Best of Indie 2016",

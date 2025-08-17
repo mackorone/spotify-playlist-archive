@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,148 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,158 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 4 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
 | 5 | [Cada Día \(Remix\)](https://open.spotify.com/track/1lKNmBOSyWe8wGQEAQ2nVl) | [Monks & Flags](https://open.spotify.com/artist/5BR8MvZtoOFuqJl7FCiQma), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Cada Día \(Remix\)](https://open.spotify.com/album/5tXhrjibrsDLQxoyEVKoeR) | 4:15 |
 | 6 | [He Querido Quererte](https://open.spotify.com/track/5buC1VFP7FSaB0YokvP0EJ) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Tico El Imigrante](https://open.spotify.com/artist/45CYEQIVD1Al0co9LLtklO) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:28 |
-| 7 | [Cuatro Palabras](https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Corazón Romántico..\. Los Exitos](https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3) | 3:42 |
-| 8 | [No Me Importa](https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Verdades Que Duelen](https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA) | 2:53 |
+| 7 | [No Me Importa](https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Verdades Que Duelen](https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA) | 2:53 |
+| 8 | [Cuatro Palabras](https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Corazón Romántico..\. Los Exitos](https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3) | 3:42 |
 | 9 | [Si Yo Fuera El](https://open.spotify.com/track/6s8svxgbUTerwHVInMIvBq) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Gracias](https://open.spotify.com/album/0J7CMzzFJYobHrVbgVluO7) | 3:12 |
 | 10 | [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 |
 | 11 | [Hechicera](https://open.spotify.com/track/7GuDL7idAKh36gXqpRq6I2) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Canciones Que Amo](https://open.spotify.com/album/1S3ISQFIikrKImUmUdQhwn) | 3:44 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 22 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 23 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
 | 24 | [Mis Noches Sin Ti](https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Mis Noches Sin Ti](https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU) | 3:25 |
-| 25 | [Tus Ojos No Me Ven \- feat\. Joewell y Randy](https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Tus Ojos No Me Ven \(feat\. Jowell y Randy and El Gorila\)](https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn) | 4:39 |
-| 26 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 25 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
+| 26 | [Tus Ojos No Me Ven \- feat\. Joewell y Randy](https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Tus Ojos No Me Ven \(feat\. Jowell y Randy and El Gorila\)](https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn) | 4:39 |
 | 27 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
 | 28 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
 | 29 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |

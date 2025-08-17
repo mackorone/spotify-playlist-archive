@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 218040,
+  "num_followers": 218023,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Somebody's Waiting",
-      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
-    },
-    {
       "added_at": "2022-11-25 20:23:30",
       "album": {
         "name": "Christmas Special",
@@ -567,6 +551,22 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Somebody's Waiting",
+      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
     },
     {
       "added_at": "2024-11-22 08:50:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Someday at Christmas",
-      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 140140,
       "name": "Santa Baby (with Summer Walker)",
       "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -797,38 +797,6 @@
       "url": "https://open.spotify.com/track/2z0I9SPBe6WBGaFki1NxvA"
     },
     {
-      "added_at": "2023-12-08 05:22:39",
-      "album": {
-        "name": "Let it Snow",
-        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Let it Snow",
-      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Merry Like This",
-        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Merry Like This",
-      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Litmas",
@@ -843,6 +811,22 @@
       "duration_ms": 188889,
       "name": "Litmas",
       "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "added_at": "2023-12-08 05:22:39",
+      "album": {
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 202135,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -863,6 +847,22 @@
       "duration_ms": 203207,
       "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
       "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
     },
     {
       "added_at": "2024-11-22 08:50:08",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "First Christmas",
         "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 263866,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
-      "added_at": "2024-12-13 10:14:16",
-      "album": {
-        "name": "Nothing Like Christmas",
-        "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 199415,
-      "name": "Nothing Like Christmas",
-      "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "The First Noel (feat. Cory Henry)",
@@ -1207,6 +1191,22 @@
       "duration_ms": 190286,
       "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
+    },
+    {
+      "added_at": "2024-12-13 10:14:16",
+      "album": {
+        "name": "Nothing Like Christmas",
+        "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 199415,
+      "name": "Nothing Like Christmas",
+      "url": "https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL"
     },
     {
       "added_at": "2024-11-22 17:56:01",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-11-25 20:23:30",
       "album": {
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
         "name": "Save The World Remix Suite",
         "url": "https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 299829,
       "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
       "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas, Love And You",
-        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        }
-      ],
-      "duration_ms": 261213,
-      "name": "Christmas, Love, and You",
-      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
     },
     {
       "added_at": "2023-11-03 05:45:27",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/6RTBRgVvCFxFjtCq8Wfop3"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
-    },
-    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "One Family",
@@ -1719,6 +1703,22 @@
       "duration_ms": 211200,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
+    },
+    {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
     },
     {
       "added_at": "2021-12-15 17:30:29",

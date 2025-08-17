@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Meera, Sagar Verma and other exciting artists.
 
-1,136 songs - 2 day 14 hr 3 min
+1,137 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Banjao Na](https://open.spotify.com/track/2gGYHnborT0UlPsMlIpmpi) | [Nikhil \- Swapnil](https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ) | [Banjao Na](https://open.spotify.com/album/6IOv5k0CQeUprbc3qif90O) | 2:48 | 2024-08-23 | 2024-10-04 |
 | [Banjare](https://open.spotify.com/track/2zBbZIp3560qNjQEV3uPeA) | [Arjun Tanwar](https://open.spotify.com/artist/4zTNA5UtD8nSTJtWvty6DX), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4) | [Banjare](https://open.spotify.com/album/28gM4trdy1XBUpBKX2WoNa) | 3:20 | 2024-07-26 | 2024-08-24 |
 | [Barbaad](https://open.spotify.com/track/63vqn1STGPk3GMH5QTwTyp) | [Arjun Tikadar](https://open.spotify.com/artist/6xVuJatFzZDvLRsU3mGAsn) | [Barbaad](https://open.spotify.com/album/2xxqc1HGYP2fi5nx3YMM7R) | 3:38 | 2023-12-15 | 2024-01-20 |
-| [Barbaadi](https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Barbaadi](https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl) | 3:03 | 2025-06-27 |  |
+| [Barbaadi](https://open.spotify.com/track/7G9x4ydZVnZBASY6Y8Ey3k) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Barbaadi](https://open.spotify.com/album/18sCJIWlucwrqdnazaVKKl) | 3:03 | 2025-06-27 | 2025-08-17 |
 | [Barf](https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Barf](https://open.spotify.com/album/4RTmstfIDxfHpKjnEjbscI) | 3:12 | 2024-08-30 | 2024-10-12 |
 | [Barkha](https://open.spotify.com/track/3AOGBR7ei0ocpvPlM46ofw) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv) | [Barkha](https://open.spotify.com/album/0rJs2XjAJZvzqWe4ElYTAM) | 2:55 | 2024-09-13 | 2024-10-19 |
 | [Barkha Badariya](https://open.spotify.com/track/21ctYICO05WgE99bGGYejT) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI), [Vritant Sharma](https://open.spotify.com/artist/5a4sc0Jyed3Id281jlloqe) | [Barkha Badariya](https://open.spotify.com/album/5khJdFlQYDkoy02sq99DJo) | 3:30 | 2024-06-28 | 2024-08-10 |
@@ -1126,6 +1126,7 @@
 | [Yeh Duniya Jala Do \(Glittery Cut\)](https://open.spotify.com/track/4mOlo4BjwvHXae8ZoVQamA) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9) | [Yeh Duniya Jala Do \(Glittery Cut\)](https://open.spotify.com/album/4aiVtIs3A0VBM5mHtYfV1D) | 3:38 | 2025-08-08 |  |
 | [Yeh Jo Din](https://open.spotify.com/track/3KszvzmyVCUBFM1YwrCik9) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Yeh Jo Din](https://open.spotify.com/album/4nBP7ughDRWgXEUw0hx8bs) | 2:40 | 2025-01-17 | 2025-06-06 |
 | [Yeh Sama](https://open.spotify.com/track/2HJiciviYnFJXF9bM80AwF) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Yeh Sama](https://open.spotify.com/album/4aU88UQdV5chDfZ3WWcGdp) | 2:09 | 2023-12-01 | 2024-02-03 |
+| [You](https://open.spotify.com/track/5DStpR7tH6DgP06HJpJr5r) | [Third Hour](https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ), [Jlok](https://open.spotify.com/artist/2SYXyfwDgUuad1YucOpGqy), [VZO](https://open.spotify.com/artist/0YdTJNwbHAnzpAhlwBDgXF) | [You](https://open.spotify.com/album/7xuRruXoz3s9VhTtIgHAAy) | 2:16 | 2025-08-15 |  |
 | [You And I](https://open.spotify.com/track/3S2TsAjJQ5E398qFMfSG3P) | [Joanna Pereira](https://open.spotify.com/artist/1wVOsf8Ur1QT70RCeMtcX8) | [You And I](https://open.spotify.com/album/4QdU0QKpIxrn4zKbLJyg57) | 3:19 | 2023-12-08 | 2023-12-16 |
 | [You're The Reason \(feat\. Mary Ann Alexander\)](https://open.spotify.com/track/70IH4V118n8hO0tqbn4vKA) | [NATE08](https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl), [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [You're The Reason \(feat\. Mary Ann Alexander\)](https://open.spotify.com/album/5oiYzgRszxk4pTj4f6pj6O) | 3:32 | 2025-02-28 | 2025-03-22 |
 | [YOURS TRULY](https://open.spotify.com/track/0f7Q8984eSXkP5q3PMXm02) | [Niyati Handa](https://open.spotify.com/artist/548L7yKLZMuFHfBVFQ2mO5), [Girish Nakod](https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [YOURS TRULY](https://open.spotify.com/album/15qlNT50CSml6ZQVUnI900) | 2:37 | 2024-03-08 | 2024-04-13 |

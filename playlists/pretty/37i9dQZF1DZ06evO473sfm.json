@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 509161,
+  "num_followers": 509430,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADLeoyfOYZwD4m5xz/jHlyj",
+  "snapshot_id": "aJ54gAAAAADA8BheFlXZLpcy84JFpOaz",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 190730,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/4vtIzbuGPJap419X869GDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apodo",
+        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 173954,
+      "name": "Apodo",
+      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
     },
     {
       "added_at": null,
@@ -675,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Lo Que Viene",
+        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 200608,
+      "name": "No Se Parece A Ti",
+      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -691,22 +727,6 @@
       "duration_ms": 160752,
       "name": "Quedate Conmigo",
       "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Lo Que Viene",
-        "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 200608,
-      "name": "No Se Parece A Ti",
-      "url": "https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5"
     },
     {
       "added_at": null,
@@ -751,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Buena Eras T\u00fa",
-        "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "La Buena Eras T\u00fa",
-      "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Lo Que Viene",
         "url": "https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 188330,
       "name": "\u00bfQu\u00e9 Haces Por Ac\u00e1?",
       "url": "https://open.spotify.com/track/2hMsGqC4z5czLGacKK93Ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Buena Eras T\u00fa",
+        "url": "https://open.spotify.com/album/7BnYrQCH2FxDF3aiuhQioX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "La Buena Eras T\u00fa",
+      "url": "https://open.spotify.com/track/2R8ddYbnIJqH1T6Pi2zU7s"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
       "duration_ms": 173305,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 254339,
-      "name": "La Pareja Ideal - En Vivo",
-      "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"
     }
   ],
   "unique_name": "This Is Grupo Frontera",

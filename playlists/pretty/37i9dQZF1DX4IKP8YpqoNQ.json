@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 31585,
+  "num_followers": 31587,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Feng Suave (Live from Studio Helmbreker)",
-        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
-      },
-      "artists": [
-        {
-          "name": "Feng Suave",
-          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Tomb For Rockets - Live from Studio Helmbreker",
-      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Life on Planet Groove",
         "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 225893,
       "name": "I Got You (I Feel Good) - Live",
       "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Feng Suave (Live from Studio Helmbreker)",
+        "url": "https://open.spotify.com/album/5lIGf0Fnor9WkgTRo0fIfn"
+      },
+      "artists": [
+        {
+          "name": "Feng Suave",
+          "url": "https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Tomb For Rockets - Live from Studio Helmbreker",
+      "url": "https://open.spotify.com/track/2AH5B9nSUeUGqJGNqUFpvW"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -839,18 +839,22 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Anniversary \u2013 The Live Album",
-        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
+        "name": "Stompin' At The Savoy",
+        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
       "artists": [
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 254992,
-      "name": "You're On My Mind - Anniversary \u2013 Live",
-      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
+      "duration_ms": 336440,
+      "name": "You Got the Love - Live Version",
+      "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -871,22 +875,18 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Stompin' At The Savoy",
-        "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
+        "name": "Anniversary \u2013 The Live Album",
+        "url": "https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t"
       },
       "artists": [
         {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
         }
       ],
-      "duration_ms": 336440,
-      "name": "You Got the Love - Live Version",
-      "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
+      "duration_ms": 254992,
+      "name": "You're On My Mind - Anniversary \u2013 Live",
+      "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 158266,
-      "name": "Nobody Knows You When You're Down And Out - Live In New York",
-      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Live And In Living Color",
         "url": "https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 394973,
       "name": "What Is Hip? - Live Version",
       "url": "https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158266,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York",
+      "url": "https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F"
     },
     {
       "added_at": "2024-10-25 07:48:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-25 07:48:43",
       "album": {
-        "name": "Live at Metropolis Studios",
-        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Family - Live at Metropolis Studios",
-      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
-    },
-    {
-      "added_at": "2024-10-25 07:48:43",
-      "album": {
         "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
         "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 299938,
       "name": "You Don't Know My Name (Live From Allianz Parque Sao Paulo Brazil)",
       "url": "https://open.spotify.com/track/117sYd0yQIwEkzW2cf2Tv8"
+    },
+    {
+      "added_at": "2024-10-25 07:48:43",
+      "album": {
+        "name": "Live at Metropolis Studios",
+        "url": "https://open.spotify.com/album/3oytf0eAa73F67CI48fiZC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 210413,
+      "name": "Family - Live at Metropolis Studios",
+      "url": "https://open.spotify.com/track/7GSxDH3HojN8aohitoSbAz"
     },
     {
       "added_at": "2024-10-25 07:48:43",

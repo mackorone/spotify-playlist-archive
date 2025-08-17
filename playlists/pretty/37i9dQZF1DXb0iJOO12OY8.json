@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 213789,
+  "num_followers": 213784,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+      },
+      "artists": [
+        {
+          "name": "Roc Boyz",
+          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+        }
+      ],
+      "duration_ms": 201459,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
-        "name": "Okej att d\u00f6",
-        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "FaceTime",
-      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -611,18 +611,18 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50"
+        "name": "Okej att d\u00f6",
+        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
       },
       "artists": [
         {
-          "name": "Roc Boyz",
-          "url": "https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
         }
       ],
-      "duration_ms": 201459,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN"
+      "duration_ms": 144360,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -659,18 +659,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/4OW1p0csvZytFhhAgNoABb"
+        "name": "Sjonglerer",
+        "url": "https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2"
       },
       "artists": [
         {
-          "name": "Hjorterud All\u00e9",
-          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5ShsKjYEFCpAg1MawQ71zC"
+      "duration_ms": 174793,
+      "name": "Sjonglerer",
+      "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -691,22 +695,18 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Sjonglerer",
-        "url": "https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2"
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/4OW1p0csvZytFhhAgNoABb"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Baloosh",
-          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+          "name": "Hjorterud All\u00e9",
+          "url": "https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7"
         }
       ],
-      "duration_ms": 174793,
-      "name": "Sjonglerer",
-      "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
+      "duration_ms": 130000,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5ShsKjYEFCpAg1MawQ71zC"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -743,38 +743,6 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
-        "name": "Memoarer",
-        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Memoarer",
-      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
         "name": "En Vakker Dag",
         "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
       },
@@ -791,6 +759,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 147125,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
+        "name": "Memoarer",
+        "url": "https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 183813,
+      "name": "Memoarer",
+      "url": "https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Didn't I?",
-        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
+        "name": "Sakte Film",
+        "url": "https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 170629,
-      "name": "Didn't I?",
-      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
+      "duration_ms": 157034,
+      "name": "Sakte Film",
+      "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Sakte Film",
-        "url": "https://open.spotify.com/album/3BgXNYkT0dJsg0at6P84Fa"
+        "name": "Didn't I?",
+        "url": "https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 157034,
-      "name": "Sakte Film",
-      "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
+      "duration_ms": 170629,
+      "name": "Didn't I?",
+      "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
     }
   ],
   "unique_name": "ung, dum & lovende",

@@ -30640,7 +30640,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
@@ -46448,7 +46448,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 292906,
       "name": "Meu Lugar",
       "url": "https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG"
@@ -49791,6 +49791,24 @@
     },
     {
       "album": {
+        "name": "Naam Chale",
+        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149375,
+      "name": "Naam Chale",
+      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
+    },
+    {
+      "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
       },
@@ -52664,7 +52682,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 247786,
       "name": "O Bem",
       "url": "https://open.spotify.com/track/6iByyLGlVa8OG1nRaviBua"
@@ -64662,7 +64680,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 274320,
       "name": "Ser\u00e1 que \u00e9 amor - Ao vivo",
       "url": "https://open.spotify.com/track/0ja80k9GL9aR5IZ79tQHVX"
@@ -69086,7 +69104,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -75468,7 +75486,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 225391,
       "name": "TUDO DE NOVO",
       "url": "https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532"
@@ -84262,7 +84280,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"

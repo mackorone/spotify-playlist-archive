@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,278 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,289 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,19 +87,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 77 | [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 |
 | 78 | [Rock To The Beat](https://open.spotify.com/track/6urOPAkDfSK1LZ3jeHVgGA) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:23 |
 | 79 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 |
-| 80 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |
-| 81 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
-| 82 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
-| 83 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
-| 84 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
+| 80 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
+| 81 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |
+| 82 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
+| 83 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
+| 84 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
 | 85 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
-| 86 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
+| 86 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
 | 87 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
 | 88 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 |
 | 89 | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv) | [Frédéric Sanchez](https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9) | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2) | 1:22 |
 | 90 | [YSL](https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY) | [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [HYPNOTIZE EP](https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud) | 2:42 |
-| 91 | [Avoid](https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU) | [mra](https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA) | [Avoid](https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU) | 3:22 |
-| 92 | [Lucky \- Edit](https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Lucky](https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2) | 3:11 |
+| 91 | [Lucky \- Edit](https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Lucky](https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2) | 3:11 |
+| 92 | [Avoid](https://open.spotify.com/track/7nm8pWoDmlEgMZRdHtZpZU) | [mra](https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA) | [Avoid](https://open.spotify.com/album/27h5vGfPVBw5zQpn7pXrUU) | 3:22 |
 | 93 | [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 |
 | 94 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 |
 | 95 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 |

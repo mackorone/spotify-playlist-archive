@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan\. Cover: Aya Uchida
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,512 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,516 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [死んだ! \- from CrosSing](https://open.spotify.com/track/4OdqUSNp55M11KDdrtJuaH) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [死んだ! \- from CrosSing](https://open.spotify.com/album/1fJRGIr9J2aH0xwQOp00mi) | 3:42 |
 | 50 | [TREASURE!](https://open.spotify.com/track/1fQb5ZrB5v1HkcuWn9ho85) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [TREASURE!](https://open.spotify.com/album/0w1S7iHc2Y8j4jANsNu2qg) | 3:57 |
 
-Snapshot ID: `AAAAAEIWUD8MeDmDLq6oXwbNCzrFKV5g`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

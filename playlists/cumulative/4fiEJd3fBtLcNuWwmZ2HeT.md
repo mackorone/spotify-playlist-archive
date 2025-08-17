@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-330 songs - 18 hr 46 min
+331 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 | 2025-07-20 |  |
 | [忘れてやらない](https://open.spotify.com/track/47xVHFTtByhvrYFZCi0Fgh) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [忘れてやらない](https://open.spotify.com/album/2gcOhrqnwqostpe71Vkqxu) | 3:43 | 2023-05-06 |  |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2021-04-05 |  |
+| [意識](https://open.spotify.com/track/0UWSwwUTnxnbu2KxonkoyF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 2:40 | 2025-08-16 |  |
 | [愛して 愛して 愛して](https://open.spotify.com/track/3ty4jnVIJ9My8ZnXFMc0Fg) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:12 | 2023-03-14 |  |
 | [愛じゃない](https://open.spotify.com/track/1nkNkmRZcHTUZoRKMiEPyz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [愛じゃない](https://open.spotify.com/album/44w5nAXNGLe7DzJXeXHwfZ) | 2:15 | 2023-09-14 |  |
 | [愛包ダンスホール](https://open.spotify.com/track/6c5ApwegStAPNQGuZVEoKJ) | [HIMEHINA](https://open.spotify.com/artist/5OBmR4AY53SS26qHZ4uwnq) | [愛包ダンスホール](https://open.spotify.com/album/4QsUcpeC75ePCTYLuXxv36) | 3:38 | 2024-08-02 |  |
@@ -302,7 +303,7 @@
 | [東京テディベア \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/3afQJAVGHLqm9cDdttOPLO) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 | 2022-12-24 |  |
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2023-10-02 |  |
 | [毒の王子さま](https://open.spotify.com/track/6btke96zwYQHwsoMGNeQM9) | [猫又おかゆ](https://open.spotify.com/artist/28lO8lCOqFvDB5la90xKUW) | [毒の王子さま](https://open.spotify.com/album/2HQmMyOZF4D3MWWfFfUeVM) | 3:35 | 2022-07-24 |  |
-| [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 | 2025-07-27 |  |
+| [沈める街 \(Sinking Town\)](https://open.spotify.com/track/25GHapzene6u7rRUevW8BZ) | [Yoeko Kurahashi](https://open.spotify.com/artist/0MVL5asQiErC4KdRNFvYCX) | [沈める街 \(Sinking Town\)](https://open.spotify.com/album/6EI5sGHGg1Rq1U02SgmuCI) | 3:01 | 2025-07-27 | 2025-08-17 |
 | [泡沫の夜](https://open.spotify.com/track/2fGQH6lxM7dQbgY2rbtEIG) | [nqrse](https://open.spotify.com/artist/5eduWHej9M7DxUUO3jokA3) | [泡沫の夜](https://open.spotify.com/album/1QkpaHdfrYfCUIw4OCYXAa) | 3:37 | 2023-12-04 |  |
 | [浴槽とネオンテトラ](https://open.spotify.com/track/07LC3H76ceeFbrA6XDjPxL) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [浴槽とネオンテトラ](https://open.spotify.com/album/4VqnMClvFtkT4GnQqQUHs8) | 4:25 | 2024-09-02 |  |
 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 | 2025-02-17 |  |

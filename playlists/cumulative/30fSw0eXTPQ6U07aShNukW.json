@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Lei, gli amici e tutto il resto",
+        "url": "https://open.spotify.com/album/3yGAdaEbdDBo37XuLwm2YB"
+      },
+      "artists": [
+        {
+          "name": "Nek",
+          "url": "https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226093,
+      "name": "Laura non c'\u00e8",
+      "url": "https://open.spotify.com/track/7anRsNjcOSrNYf2FjYopCH"
+    },
+    {
+      "album": {
         "name": "Light Switch",
         "url": "https://open.spotify.com/album/2867dAr71CyRHt6MMco7yk"
       },

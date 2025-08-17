@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43102,
+  "num_followers": 43099,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADcPSEKbU9toWj7knNN6AR4",
+  "snapshot_id": "aJ54gAAAAAApETfVK/KVrJetzCz7oEK8",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 193112,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/2SZx8N3eiLGqXTWEeN6dZt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MiuMiu",
         "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 179374,
       "name": "MiuMiu",
       "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 193112,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/2SZx8N3eiLGqXTWEeN6dZt"
     },
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
+        }
+      ],
+      "duration_ms": 190828,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R.I.P. (feat. Rita Ora & Anitta)",
         "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 187200,
       "name": "R.I.P. (feat. Rita Ora & Anitta)",
       "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 190828,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du"
     },
     {
       "added_at": null,

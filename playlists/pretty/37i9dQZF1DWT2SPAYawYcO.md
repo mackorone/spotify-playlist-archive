@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Tobiahs, Olivia Dean, Chase Atlantic, Paul Kelly + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,400 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,390 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 56 | [Temper](https://open.spotify.com/track/5ay3JwzdhHMWA1dpCaZJ0a) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Temper](https://open.spotify.com/album/5y5g63F5OpGcjwWKLVpnQb) | 2:20 |
 | 57 | [Hard Feelings](https://open.spotify.com/track/4MCg8Jj8P4tVnNY6MytUrk) | [Pistol Pete & Enzo](https://open.spotify.com/artist/2rii6NNe3ZNmGoLyq6yjUG), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Hard Feelings](https://open.spotify.com/album/4zY2afKKWaLswIPMfrNZQ1) | 2:10 |
 | 58 | [Inside Out](https://open.spotify.com/track/7m3KPHmhROMQ2tHv5kgYLp) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Inside Out](https://open.spotify.com/album/0ODzwrusaBLxxaU2JgM0zL) | 2:57 |
-| 59 | [Lovin' A Girl](https://open.spotify.com/track/0Gn4ZojjA1F2xcxnnW00nT) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5), [Alexander Laska](https://open.spotify.com/artist/2V7sFjOy6m3Yi0tFGV45gM) | [Lovin' A Girl](https://open.spotify.com/album/1f87EJ6Pf1nW8r9igLURSb) | 3:22 |
+| 59 | [Lovin' A Girl](https://open.spotify.com/track/0Gn4ZojjA1F2xcxnnW00nT) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [Lovin' A Girl](https://open.spotify.com/album/1f87EJ6Pf1nW8r9igLURSb) | 3:22 |
 | 60 | [peroxide](https://open.spotify.com/track/2BkiccWkWUL2IAg7kXL4fi) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [peroxide](https://open.spotify.com/album/2dVihQIWIlvSqSo2aCG9WE) | 2:28 |
 | 61 | [Pretty Colours \(feat\. Huck Hastings\)](https://open.spotify.com/track/5PHeXnVGAs6yQkxfFDT22v) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Huck Hastings](https://open.spotify.com/artist/3jn7GGpScmJrhkKZd9gzsn) | [Pretty Colours \(feat\. Huck Hastings\)](https://open.spotify.com/album/2dz0sizKrZDKf1zvaSEPNk) | 3:30 |
 | 62 | [Rebel](https://open.spotify.com/track/75YPDdGd6vjOfy6CMJOTRw) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Rebel](https://open.spotify.com/album/70j0Jx9FpwYgipETfFavCH) | 3:20 |

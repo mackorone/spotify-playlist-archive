@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 46373,
+  "num_followers": 46413,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADWHGpuYOxi0lBTYRp400Nw",
+  "snapshot_id": "aJ54gAAAAACs5Qjye2WfSvxcKUo6xKDS",
   "tracks": [
     {
       "added_at": null,
@@ -195,42 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "All Falls Down",
-      "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 189247,
-      "name": "reckless driving",
-      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -255,18 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 259165,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym"
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
       "added_at": null,
@@ -280,29 +248,25 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 201186,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
+      "duration_ms": 171840,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         }
       ],
-      "duration_ms": 214468,
-      "name": "erase me",
-      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
+      "duration_ms": 259165,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym"
     },
     {
       "added_at": null,
@@ -327,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
         }
       ],
-      "duration_ms": 225500,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
+      "duration_ms": 214468,
+      "name": "erase me",
+      "url": "https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po"
     },
     {
       "added_at": null,
@@ -352,15 +320,15 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 201186,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
       "artists": [
         {
@@ -368,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 197032,
-      "name": "all my ghosts",
-      "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
+      "duration_ms": 225500,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
     },
     {
       "added_at": null,
@@ -391,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
@@ -400,9 +368,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 242311,
-      "name": "Force of Nature",
-      "url": "https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE"
+      "duration_ms": 197032,
+      "name": "all my ghosts",
+      "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
     },
     {
       "added_at": null,
@@ -416,9 +384,25 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Come Down Soon",
-      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 242311,
+      "name": "Force of Nature",
+      "url": "https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224960,
+      "name": "Come Down Soon",
+      "url": "https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 92040,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/06eDgkoyyc0FWsvaYBk6oh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 202800,
       "name": "Same Boat",
       "url": "https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
     },
     {
       "added_at": null,
@@ -695,6 +695,42 @@
       "duration_ms": 180482,
       "name": "Let Light Be Light",
       "url": "https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Floyd Collins (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/32F9ayzTrUtPVXcRCLoj8w"
+      },
+      "artists": [
+        {
+          "name": "Cole Vaughan",
+          "url": "https://open.spotify.com/artist/6d0p3m0WnAwoEl1EPt2cs2"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jessica Molaskey",
+          "url": "https://open.spotify.com/artist/5QNZRrmYSHM0rjRjcm5B4V"
+        },
+        {
+          "name": "Jason Gotay",
+          "url": "https://open.spotify.com/artist/18QGDMb7iwtEcsz3n5myg3"
+        },
+        {
+          "name": "Taylor Trensch",
+          "url": "https://open.spotify.com/artist/7etvz6a5jRyLOit19OF5lf"
+        },
+        {
+          "name": "Original Broadway Cast of Floyd Collins",
+          "url": "https://open.spotify.com/artist/5u2KMJw0usjlitlLdsP0A1"
+        }
+      ],
+      "duration_ms": 102442,
+      "name": "The Ballad of Floyd Collins",
+      "url": "https://open.spotify.com/track/7EbjWtxRnufeqy0mSH8MAF"
     },
     {
       "added_at": null,

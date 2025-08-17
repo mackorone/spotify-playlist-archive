@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-119 songs - 6 hr 35 min
+120 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Billy Not Really](https://open.spotify.com/track/6dxm3Z8U4lOJTWo6cGVDCR) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Powers That B](https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO) | 3:48 | 2025-03-10 |  |
 | [black samuarai.](https://open.spotify.com/track/16JrfiRjHTFahRTV6fPKqQ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 2:54 | 2025-05-02 |  |
 | [BLOOD.](https://open.spotify.com/track/1n4jwRVXdkK2U34nBDUKKT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 1:58 | 2025-04-21 |  |
+| [Breathe In Breathe Out](https://open.spotify.com/track/4KFY4EEv9CN6ivrzD6vEvg) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:06 | 2025-08-16 |  |
 | [Caskets](https://open.spotify.com/track/17vv44Grd1z9E78FkUoSsG) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 4:51 | 2025-02-05 |  |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-03-22 | 2025-05-06 |
 | [Champion](https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 2:47 | 2025-04-17 |  |

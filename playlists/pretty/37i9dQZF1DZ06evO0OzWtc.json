@@ -6,8 +6,36 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAABni2UJUsSIH6fWRL6pU/ZL",
+  "snapshot_id": "aJ54gAAAAADN08lO51/Hv11dvb7RaHaL",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlett\u00b4s",
+        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Scarlett\u00b4s",
+      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
+    },
     {
       "added_at": null,
       "album": {
@@ -471,6 +499,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recio",
         "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
       },
@@ -495,30 +547,6 @@
       "duration_ms": 151564,
       "name": "Recio",
       "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": null,

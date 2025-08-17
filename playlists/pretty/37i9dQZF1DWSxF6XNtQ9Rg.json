@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 235237,
+  "num_followers": 235360,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,18 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 188564,
-      "name": "PANICO (feat. Takagi & Ketra)",
-      "url": "https://open.spotify.com/track/0SsUOrXUM2gZxVLYizZfQZ"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -631,18 +627,22 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+      "duration_ms": 188564,
+      "name": "PANICO (feat. Takagi & Ketra)",
+      "url": "https://open.spotify.com/track/0SsUOrXUM2gZxVLYizZfQZ"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "SIRIO",
-        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "The Globe",
         "url": "https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 146333,
       "name": "Il Filmografo",
       "url": "https://open.spotify.com/track/5nqOdSrqurNq8ejE7Ujc9l"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 133217,
+      "name": "Marocchino",
+      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+        "name": "SIRIO",
+        "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 133217,
-      "name": "Marocchino",
-      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Re Mida",
-        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
         }
       ],
-      "duration_ms": 145640,
-      "name": "Morto Mai",
-      "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 172615,
       "name": "COME VUOI",
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Re Mida",
+        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Morto Mai",
+      "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -907,6 +907,26 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
+        "name": "Santeria",
+        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 245197,
+      "name": "Salvador Dal\u00ec",
+      "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
         "name": "Senza Di Me",
         "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 201961,
       "name": "Senza Di Me (feat. Venerus & Franco126)",
       "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
-        "name": "Santeria",
-        "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 245197,
-      "name": "Salvador Dal\u00ec",
-      "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Suicidol",
-        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
-      },
-      "artists": [
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Pleasantville",
-      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 221973,
       "name": "Giovane fuoriclasse",
       "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Suicidol",
+        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "Pleasantville",
+      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Kepler",
-        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        },
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        }
-      ],
-      "duration_ms": 187615,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "Ges\u00f9 Bambino",
         "url": "https://open.spotify.com/album/73o3cVQvCogUq8jVRJ8DU4"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 158625,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/1jM7qLKYebmZhnjwl2MpTo"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Kepler",
+        "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "duration_ms": 187615,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Nonostante Tutto",
-        "url": "https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 237250,
-      "name": "Bene",
-      "url": "https://open.spotify.com/track/3Jfi1WRHzREEGBDsaCrIXD"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 198066,
       "name": "CASA",
       "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Nonostante Tutto",
+        "url": "https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "Bene",
+      "url": "https://open.spotify.com/track/3Jfi1WRHzREEGBDsaCrIXD"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
         "name": "Bossoli",
         "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 178758,
       "name": "Bossoli",
       "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
     },
     {
       "added_at": "2025-07-02 16:26:41",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-07-02 16:26:41",
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2025-07-02 16:26:41",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 202573,
       "name": "STAI ZITTO (feat. Fabri Fibra)",
       "url": "https://open.spotify.com/track/2rgOAX5Cj3pk8JFnaPwJbd"
-    },
-    {
-      "added_at": "2025-07-02 16:26:41",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     },
     {
       "added_at": "2025-07-02 16:26:41",

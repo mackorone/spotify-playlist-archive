@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6789,
+  "num_followers": 6790,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAAw7pDv5byL8LLyZr6j+p4U",
+  "snapshot_id": "aJ54gAAAAABMQUfRKhz2tb+4dww9ZYLP",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Brimstone Sluggers",
+        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Boondock",
+          "url": "https://open.spotify.com/artist/2VJcsmmDtLZshqPz98C50N"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Megatron",
+      "url": "https://open.spotify.com/track/1NcZGjLqdy6EjTikupoHsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Brimstone Sluggers",
-        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Boondock",
-          "url": "https://open.spotify.com/artist/2VJcsmmDtLZshqPz98C50N"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Megatron",
-      "url": "https://open.spotify.com/track/1NcZGjLqdy6EjTikupoHsf"
     },
     {
       "added_at": null,
@@ -207,6 +207,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Brimstone Sluggers",
+        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "J. Angel",
+          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
+        },
+        {
+          "name": "DJ Am",
+          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Born to Raise Hell",
+      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "APOCALIPS",
         "url": "https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 222573,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Brimstone Sluggers",
-        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "J. Angel",
-          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
-        },
-        {
-          "name": "DJ Am",
-          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Born to Raise Hell",
-      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
     },
     {
       "added_at": null,
@@ -295,6 +295,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Brimstone Sluggers",
+        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        },
+        {
+          "name": "Bishop Lamont",
+          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
+        },
+        {
+          "name": "Fann",
+          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
+        }
+      ],
+      "duration_ms": 255386,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 213346,
+      "name": "Boom Box Gang War - Unreleased",
+      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Lollipop Porn",
+      "url": "https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Harvest",
         "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
       },
@@ -320,49 +376,13 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Bishop Lamont",
-          "url": "https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h"
-        },
-        {
           "name": "Fann",
           "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 255386,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Lollipop Porn",
-      "url": "https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 213346,
-      "name": "Boom Box Gang War - Unreleased",
-      "url": "https://open.spotify.com/track/2PtijUyl9sT2Jl8gbwgBkQ"
+      "duration_ms": 189893,
+      "name": "Baby You Don't Know",
+      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,
@@ -379,26 +399,6 @@
       "duration_ms": 182271,
       "name": "Cake",
       "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Brimstone Sluggers",
-        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        },
-        {
-          "name": "Fann",
-          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "Baby You Don't Know",
-      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Skulls and Stars - Original Demo",
-      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Brimstone Sluggers",
         "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 219733,
       "name": "A Little More Time",
       "url": "https://open.spotify.com/track/5uu3JPIIjqRL6Z2Dvmq8qn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Skulls and Stars - Original Demo",
+      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Brimstone Sluggers",
+        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 227794,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Brimstone Sluggers",
-        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Come Inside",
-      "url": "https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 196160,
       "name": "Take It To The Bridge",
       "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     }
   ],
   "unique_name": "This Is Crazy Town",

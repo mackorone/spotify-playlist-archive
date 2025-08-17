@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rich Brian, Maroon 5, The Lantis dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,333 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,371 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 66 | [Indah](https://open.spotify.com/track/1CTz8WTrI4iWr4Xw7OK6a4) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk) | [Indah](https://open.spotify.com/album/2oIGQfpsCHtb6L6kGolcMh) | 4:12 |
 | 67 | [kita](https://open.spotify.com/track/361QoU0R60r9PnsGwBiA3C) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq), [HARRY](https://open.spotify.com/artist/3MQ2dIX3qP6pNbLgkciS0F) | [kita](https://open.spotify.com/album/2jKcVDRD1YgSzPCUCFMuDZ) | 4:12 |
 | 68 | [Siapakah Namamu](https://open.spotify.com/track/2aoRmqjLk7m1mBvRg2WwI0) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [Siapakah Namamu](https://open.spotify.com/album/3co1LZjJUxBQ8hViueCjOX) | 2:20 |
-| 69 | [Nara \- Honor of Kings](https://open.spotify.com/track/1kdC6vKdEi5IcQoiIQuVXm) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Nara \(Honor of Kings\)](https://open.spotify.com/album/0veLn76bFb69RXf6RTJBmt) | 2:21 |
+| 69 | [Nara \- From "Honor of Kings"](https://open.spotify.com/track/1kdC6vKdEi5IcQoiIQuVXm) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Nara \(From "Honor of Kings"\)](https://open.spotify.com/album/0veLn76bFb69RXf6RTJBmt) | 2:21 |
 | 70 | [Lelah](https://open.spotify.com/track/6lLAOJyHWlfVGCcK6Mpo34) | [Mark Adam](https://open.spotify.com/artist/34ZXDqINUbkF5sRC3F0ZL6) | [Lelah](https://open.spotify.com/album/4ROlyZLL2IilG80skAm9Dp) | 3:22 |
 | 71 | [Di Sampingmu](https://open.spotify.com/track/4WtnbN6waSp4P3yX3BkGVe) | [Syed Azmir](https://open.spotify.com/artist/7DJ8dCOF4SP3ORtbMWWkQs) | [Di Sampingmu](https://open.spotify.com/album/2r0t4MBSApfXordn1tvxVV) | 4:25 |
 | 72 | [Diamond](https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:30 |

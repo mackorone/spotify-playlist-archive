@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-679 songs - 1 day 10 hr 38 min
+680 songs - 1 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-07-31 | 2024-08-04 |
 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 | 2025-07-31 |  |
 | [Made It Awkward](https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made It Awkward](https://open.spotify.com/album/7LHaPrkGIBH8oo6u0b6O0J) | 3:04 | 2025-01-24 | 2025-01-26 |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-14 |  |
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-08-11 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-05 |  |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-11 |  |
@@ -630,7 +631,7 @@
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-27 | 2025-06-27 |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-05 | 2025-08-02 |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-01-10 |
-| [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 |  |
+| [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 | 2025-08-17 |
 | [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/track/2HOeXLg6RDlGawWGX7WFCT) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/album/3Ot6dkpfSysCzGcnBhf0aX) | 4:59 | 2024-12-12 | 2025-02-05 |
 | [Under Overfladen](https://open.spotify.com/track/2EXmj5AkvJLRhPVRUMZqw8) | [Turboweekend](https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80) | [Under Overfladen](https://open.spotify.com/album/2eOjVHqji1tnIcwDGKnM35) | 4:26 | 2025-03-13 | 2025-03-21 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-06-20 |

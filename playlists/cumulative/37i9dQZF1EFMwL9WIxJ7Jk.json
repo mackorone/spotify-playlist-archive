@@ -2802,7 +2802,7 @@
       ],
       "date_added": "2025-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 226413,
       "name": "My Selfish Heart",
       "url": "https://open.spotify.com/track/1x1oPQ9xXzqncfa6U090Ua"
@@ -3106,6 +3106,24 @@
       "duration_ms": 213600,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P"
+      },
+      "artists": [
+        {
+          "name": "The Potsdam Pitches",
+          "url": "https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191448,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42"
     },
     {
       "album": {

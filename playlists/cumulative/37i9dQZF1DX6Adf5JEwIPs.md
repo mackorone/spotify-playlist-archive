@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Camila Fernández
 
-8,134 songs - 17 day 13 hr 43 min
+8,135 songs - 17 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3426,6 +3426,7 @@
 | [HECHOS REALES](https://open.spotify.com/track/6MG2ZObvsguFcfEJZArshu) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [HECHOS REALES](https://open.spotify.com/album/6c36OGBzArPbvHEH6r71u2) | 2:53 | 2024-08-09 | 2024-08-17 |
 | [Heisenberg](https://open.spotify.com/track/6QCupuIoTrOUxO214431rw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Heisenberg](https://open.spotify.com/album/0DwmfIRLTlKWbYm9mH0y4S) | 2:58 | 2025-08-15 |  |
 | [Heisenbern](https://open.spotify.com/track/6xA4c9bG8Eqrzf8rT167Ai) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Heisenbern](https://open.spotify.com/album/7zmMr2oxWs6WCWUtncO64t) | 3:09 | 2023-09-15 | 2023-09-23 |
+| [Hello Kitty](https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Hello Kitty](https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq) | 2:38 | 2025-08-16 |  |
 | [Hermano](https://open.spotify.com/track/3zqorc55u6f53ViFpJAHTF) | [El Trendy wey](https://open.spotify.com/artist/2mwvyXfpvnxiBkhI7Djolb) | [Hermano](https://open.spotify.com/album/242UuFHJJFy9DbPfGHefw6) | 2:38 | 2024-04-19 | 2024-04-27 |
 | [Hermanos Del Hielo](https://open.spotify.com/track/3wA2HljfzukmRTUDKwfmCm) | [Luis Barraza](https://open.spotify.com/artist/3rH1GEOZYS3LCJsAa2BQKv) | [Hermanos Del Hielo](https://open.spotify.com/album/1zHHHcnd079fAHMsWgNEjz) | 3:31 | 2022-09-02 | 2022-09-10 |
 | [Hermoso Cariño](https://open.spotify.com/track/3wqBE2tywA9V64phwGf1yZ) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Hermoso Cariño](https://open.spotify.com/album/5IQn4nuhpHWSpSQF2Rp9CS) | 2:39 | 2022-07-01 | 2022-07-09 |
@@ -4349,7 +4350,6 @@
 | [Lobos Disfrazados](https://open.spotify.com/track/0lAo8vihejGZXuR9zXihdD) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Lobos Disfrazados](https://open.spotify.com/album/5C2A2so3PeKjb6eebAOBxQ) | 3:48 | 2025-05-16 | 2025-05-24 |
 | [Loca \(En Vivo\)](https://open.spotify.com/track/3WVMUOqX4oTFgDCQDrCuGE) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Loca \(En Vivo\)](https://open.spotify.com/album/3RKlgSqJL5q7Ll35j5yiiH) | 2:25 | 2022-07-01 | 2022-07-09 |
 | [LOCA NAVIDAD](https://open.spotify.com/track/2dVg3aNxEyDqHaj4VL7uTY) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [LOCA NAVIDAD](https://open.spotify.com/album/59RAxEjafry6sNP6CPw06b) | 2:36 | 2024-11-08 | 2024-11-16 |
-| [Loco](https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Locos](https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK) | 3:16 | 2025-08-15 |  |
 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 | 2024-12-20 | 2025-01-11 |
 | [Loco Enamorado](https://open.spotify.com/track/5ZnQdZ3Gg7zsJeuhkng8C7) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Loco Enamorado](https://open.spotify.com/album/5GIXdsfc9E6sA31YFUp384) | 2:40 | 2023-07-14 | 2023-07-22 |
 | [Loco Enamorado](https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Perdido En El Tiempo](https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua) | 1:56 | 2023-02-24 | 2023-03-04 |
@@ -4360,6 +4360,7 @@
 | [Loco Tu Forma De Ser](https://open.spotify.com/track/30vGAyncjru9ifVcFQGAy0) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Loco Tu Forma De Ser](https://open.spotify.com/album/5Vz8UHFy3jmKyt5CHI2RYG) | 3:14 | 2024-07-12 | 2024-07-19 |
 | [Loco y Drogado \(En Vivo\)](https://open.spotify.com/track/291ekxuZ0hzYwz4F0zMDWt) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr) | [Hechando Rolas Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/2lspJ7QjGRq4cuCZIRbQ6q) | 2:50 | 2022-11-25 | 2022-12-03 |
 | [Loco y Enamorado](https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Loco y Enamorado](https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5) | 2:06 | 2022-05-27 | 2022-06-04 |
+| [Locos](https://open.spotify.com/track/2MWqzUtseTjxifr5lSSPyK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Locos](https://open.spotify.com/album/3pMj97N9jqCSWDnlFk7LZK) | 3:16 | 2025-08-15 |  |
 | [Lograr Olvidarte](https://open.spotify.com/track/4a1xLbxQVA0v1N4tO3B6Ze) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0) | [Lograr Olvidarte](https://open.spotify.com/album/2Gw5sXvm46Q1b86mfnLUS5) | 3:13 | 2022-11-11 | 2022-11-19 |
 | [Loki](https://open.spotify.com/track/2VoqPfvuZlCKD5qyNiFRfT) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Richland](https://open.spotify.com/album/6MkSY1LR0S215pdhQ5bioQ) | 2:09 | 2024-11-08 | 2024-11-16 |
 | [Loko](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Loko](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 | 2025-01-31 | 2025-02-08 |

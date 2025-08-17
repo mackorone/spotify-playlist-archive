@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Carlos Ares.",
-  "num_followers": 200005,
+  "num_followers": 199992,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -659,26 +659,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "volver a ti",
-        "url": "https://open.spotify.com/album/7n1LwAOLLNN6knNBw2n1Gf"
-      },
-      "artists": [
-        {
-          "name": "Serko",
-          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
-        },
-        {
-          "name": "jeney",
-          "url": "https://open.spotify.com/artist/2tHXGK160wGh4RTOXfZ96F"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "volver a ti",
-      "url": "https://open.spotify.com/track/6XRfyxbzqAwwdeGVE3wk0f"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Daniela Forever (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1Ksl4u33pffetVZyCUc6aZ"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 327552,
       "name": "Escolta la tempesta - Daniela Forever - End Titles",
       "url": "https://open.spotify.com/track/1H4BsrydFVdqGZ3FDYGhk0"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "volver a ti",
+        "url": "https://open.spotify.com/album/7n1LwAOLLNN6knNBw2n1Gf"
+      },
+      "artists": [
+        {
+          "name": "Serko",
+          "url": "https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq"
+        },
+        {
+          "name": "jeney",
+          "url": "https://open.spotify.com/artist/2tHXGK160wGh4RTOXfZ96F"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "volver a ti",
+      "url": "https://open.spotify.com/track/6XRfyxbzqAwwdeGVE3wk0f"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Kryptonita",
-        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "Kryptonita",
-      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "ny affair",
         "url": "https://open.spotify.com/album/7ptUztHexj09LRVBnjcl5H"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 128315,
       "name": "ny affair",
       "url": "https://open.spotify.com/track/1n9KF7ujt1U9MUTkAtH3SK"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Kryptonita",
+        "url": "https://open.spotify.com/album/02DqJlyV20fQ6tG9gYBKe9"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "Kryptonita",
+      "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "hibernarse",
-        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
-      },
-      "artists": [
-        {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
-        }
-      ],
-      "duration_ms": 163576,
-      "name": "hibernarse",
-      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 265046,
       "name": "Catro Cousas",
       "url": "https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "hibernarse",
+        "url": "https://open.spotify.com/album/0FhRwLDFcxf0nTF6AfF686"
+      },
+      "artists": [
+        {
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+        }
+      ],
+      "duration_ms": 163576,
+      "name": "hibernarse",
+      "url": "https://open.spotify.com/track/7BBaZuDWpmR6juOJbfXtJy"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "PERDEDOR",
-        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
-      },
-      "artists": [
-        {
-          "name": "henry semler",
-          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
-        }
-      ],
-      "duration_ms": 216244,
-      "name": "PERDEDOR",
-      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "TU FINA ESTAMPA",
         "url": "https://open.spotify.com/album/2DXWC7ctuPVrpzFp42DZSC"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Salto",
-        "url": "https://open.spotify.com/album/53cPtZPUXDd4Vfl3SYjQT3"
+        "name": "PERDEDOR",
+        "url": "https://open.spotify.com/album/7AILXluPyAN1brdUxePhz6"
       },
       "artists": [
         {
-          "name": "Ona Mafalda",
-          "url": "https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb"
+          "name": "henry semler",
+          "url": "https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS"
         }
       ],
-      "duration_ms": 134794,
-      "name": "Salto",
-      "url": "https://open.spotify.com/track/4F00zpGzwg5xl4sHdnv4sT"
+      "duration_ms": 216244,
+      "name": "PERDEDOR",
+      "url": "https://open.spotify.com/track/7A7cNKdwQCaQGsrbqQEdX0"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1039,6 +1023,22 @@
       "duration_ms": 212000,
       "name": "Mejor*",
       "url": "https://open.spotify.com/track/7y9PJa6g3OzSTWejceuyCo"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Salto",
+        "url": "https://open.spotify.com/album/53cPtZPUXDd4Vfl3SYjQT3"
+      },
+      "artists": [
+        {
+          "name": "Ona Mafalda",
+          "url": "https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb"
+        }
+      ],
+      "duration_ms": 134794,
+      "name": "Salto",
+      "url": "https://open.spotify.com/track/4F00zpGzwg5xl4sHdnv4sT"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1187,18 +1187,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "( ali despierta )",
-        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
+        "name": "Rendici\u00f3n",
+        "url": "https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s"
       },
       "artists": [
         {
-          "name": "Alice Wonder",
-          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+          "name": "Delaporte",
+          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
+        },
+        {
+          "name": "bruno",
+          "url": "https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna"
         }
       ],
-      "duration_ms": 190127,
-      "name": "( ali despierta )",
-      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+      "duration_ms": 224497,
+      "name": "Rendici\u00f3n",
+      "url": "https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1219,6 +1223,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
+        "name": "( ali despierta )",
+        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "duration_ms": 190127,
+      "name": "( ali despierta )",
+      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 198960,
       "name": "Desde El Otro Lado",
       "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "Rendici\u00f3n",
-        "url": "https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s"
-      },
-      "artists": [
-        {
-          "name": "Delaporte",
-          "url": "https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ"
-        },
-        {
-          "name": "bruno",
-          "url": "https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna"
-        }
-      ],
-      "duration_ms": 224497,
-      "name": "Rendici\u00f3n",
-      "url": "https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
+        "name": "El amor que solo a ti te pertenece",
+        "url": "https://open.spotify.com/album/7B7eYLcLAaB8i3YjkTNmgT"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 294545,
+      "name": "El amor que solo a ti te pertenece",
+      "url": "https://open.spotify.com/track/2TxZvBYHnpZsjxgEbxh4HN"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
         "name": "Bollera",
         "url": "https://open.spotify.com/album/7DSL0AxTYtjZf3Y5yHaCIJ"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 162789,
       "name": "Bollera",
       "url": "https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "El amor que solo a ti te pertenece",
-        "url": "https://open.spotify.com/album/7B7eYLcLAaB8i3YjkTNmgT"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 294545,
-      "name": "El amor que solo a ti te pertenece",
-      "url": "https://open.spotify.com/track/2TxZvBYHnpZsjxgEbxh4HN"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "FIESTAS DE PUEBLO",
-        "url": "https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym"
-      },
-      "artists": [
-        {
-          "name": "HORROCRUX",
-          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
-        }
-      ],
-      "duration_ms": 185687,
-      "name": "FIESTAS DE PUEBLO",
-      "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "El mejor verano de la vida",
         "url": "https://open.spotify.com/album/1gTXbQtT1bSiEUpvm7GmhJ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 206450,
       "name": "El mejor verano de la vida",
       "url": "https://open.spotify.com/track/4T2kuozefT58bTo3l1XYaL"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "FIESTAS DE PUEBLO",
+        "url": "https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        }
+      ],
+      "duration_ms": 185687,
+      "name": "FIESTAS DE PUEBLO",
+      "url": "https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "costa brava",
-        "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 178125,
-      "name": "costa brava",
-      "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "El ef\u00edmero arte de perdonar",
         "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 160000,
       "name": "El ef\u00edmero arte de perdonar",
       "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "costa brava",
+        "url": "https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "costa brava",
+      "url": "https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Mar Menor",
-        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
-      },
-      "artists": [
-        {
-          "name": "Jordana B.",
-          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Mar Menor",
-      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "SUSANA",
         "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 165280,
       "name": "SUSANA",
       "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Mar Menor",
+        "url": "https://open.spotify.com/album/5Na89Ihw3GMBVqtQqfLfLW"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Mar Menor",
+      "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
     },
     {
       "added_at": "2025-08-14 22:00:40",

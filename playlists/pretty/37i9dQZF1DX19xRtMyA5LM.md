@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Frenna & Hamza
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,855 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,862 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 24 | [Netvlies](https://open.spotify.com/track/6yaxq1G2zh6WAKofZVZSjC) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU) | [Netvlies](https://open.spotify.com/album/1N08jfMlRLXRijddi54kkQ) | 2:20 |
 | 25 | [DE LUCHT VALT](https://open.spotify.com/track/4OOU4fWirFUnWeqjHKhaCB) | [SMIB](https://open.spotify.com/artist/1z32oeFVVhOGidhdpkmw3t), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U), [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [EENDRAGHT MAECKT MAGHT](https://open.spotify.com/album/76ORhlUMmJgarKyoju9D7H) | 2:01 |
 | 26 | [2 iPHONES](https://open.spotify.com/track/3W2kYeHZ4sKIjU2Us1sOgd) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [2 iPHONES](https://open.spotify.com/album/3vADJKhXuZPrBoC7dkW4JB) | 2:20 |
-| 27 | [Route](https://open.spotify.com/track/74b6Krkz0zbNZRLaQuSxCn) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Route](https://open.spotify.com/album/6hh4CYTgPSAaPGeGOHOnAn) | 2:26 |
+| 27 | [Route](https://open.spotify.com/track/74b6Krkz0zbNZRLaQuSxCn) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Hakmadafack](https://open.spotify.com/artist/3zR5ehEa2HIlUB9oRGF0lz) | [Route](https://open.spotify.com/album/6hh4CYTgPSAaPGeGOHOnAn) | 2:26 |
 | 28 | [Tiffany](https://open.spotify.com/track/1h6tEGvt21f6TrGxjJ7RWJ) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Tiffany](https://open.spotify.com/album/7IXEhlp1q2hUAPEjKFqTZ3) | 2:27 |
 | 29 | [Duracell](https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Duracell](https://open.spotify.com/album/5gvKMvAS0tduRnzlFulKPZ) | 3:02 |
 | 30 | [Niet Genoeg](https://open.spotify.com/track/3nDTgr6tA6RGTqfsKMMrrM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Niet Genoeg](https://open.spotify.com/album/1ZEzfbl3tUydOdnNdcPFdv) | 3:05 |

@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -6243,7 +6243,7 @@
     },
     {
       "album": {
-        "name": "(WHAT'S THE STORY) MORNING GLORY?",
+        "name": "(What's The Story) Morning Glory?",
         "url": "https://open.spotify.com/album/2zw9FrFHDh3IlHKg6osNdo"
       },
       "artists": [
@@ -6254,7 +6254,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 449506,
       "name": "Champagne Supernova",
       "url": "https://open.spotify.com/track/5GGTgkmfEzkhAfmG0hxXk9"
@@ -6272,7 +6272,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 451320,
       "name": "Champagne Supernova - Remastered",
       "url": "https://open.spotify.com/track/1wo3UYTeizJHkwYIuLuBPF"
@@ -6600,10 +6600,28 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/2wKeVnM8OBoGjGm8Qvqhi5"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/5adjc9rGazKvYcyEHNtoz1"
     },
     {
       "album": {
@@ -13854,7 +13872,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 267333,
       "name": "Half the World Away - Remastered",
       "url": "https://open.spotify.com/track/6z1Xz89avh1KA7d3Ek7DQP"
@@ -14484,6 +14502,24 @@
       "duration_ms": 205062,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2edsQ1omIwIvdf5Id3EDPZ"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2zw9FrFHDh3IlHKg6osNdo"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201360,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/24R3iAektcSdG97d8aXvxS"
     },
     {
       "album": {
@@ -15686,7 +15722,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -16602,7 +16638,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -17710,7 +17746,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -19949,6 +19985,24 @@
     },
     {
       "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292866,
+      "name": "Little by Little",
+      "url": "https://open.spotify.com/track/3tQFthLmtBuc0XPL2b8nnu"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -20086,7 +20140,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 276826,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
@@ -20104,7 +20158,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
@@ -22805,6 +22859,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2zw9FrFHDh3IlHKg6osNdo"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304293,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/5uhKHittCEU69xbCNzfTR9"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -22816,7 +22888,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 303320,
       "name": "Morning Glory - Remastered",
       "url": "https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM"
@@ -23866,7 +23938,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 169940,
       "name": "Nine Ball",
       "url": "https://open.spotify.com/track/3xOi0YhDREKRURFHoNaAOQ"
@@ -27905,6 +27977,24 @@
     },
     {
       "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2zw9FrFHDh3IlHKg6osNdo"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Roll With It",
+      "url": "https://open.spotify.com/track/6cojOqMjb8aDPI1M4wUMgh"
+    },
+    {
+      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -28392,7 +28482,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -29737,6 +29827,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392733,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/2iDM76B3zHr6khKkiX4vUr"
+    },
+    {
+      "album": {
         "name": "Definitely Maybe (Remastered)",
         "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
       },
@@ -29748,7 +29856,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 392306,
       "name": "Slide Away - Remastered",
       "url": "https://open.spotify.com/track/62L8HlrCQLvBHKfpu8iqLa"
@@ -30314,6 +30422,24 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2zw9FrFHDh3IlHKg6osNdo"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328533,
+      "name": "Some Might Say",
+      "url": "https://open.spotify.com/track/1avW49i7WxqhimN7QNMPQj"
     },
     {
       "album": {
@@ -30893,7 +31019,7 @@
     },
     {
       "album": {
-        "name": "BE HERE NOW",
+        "name": "Be Here Now",
         "url": "https://open.spotify.com/album/52MnIMTDkfYPfqHSgj40iV"
       },
       "artists": [
@@ -30904,7 +31030,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 356066,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3pOZSiqMwaRxtW0I4oQmtz"
@@ -32226,7 +32352,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 283733,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/1tjji0FBo8iCrr9oHppV5i"
@@ -32262,7 +32388,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 283786,
       "name": "Supersonic - Remastered",
       "url": "https://open.spotify.com/track/6dUfUi14QkuIpGA0GFFPyC"
@@ -32876,6 +33002,24 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263746,
+      "name": "Talk Tonight - Remastered",
+      "url": "https://open.spotify.com/track/0nufhlacuDxP6rNm6qLNrc"
     },
     {
       "album": {
@@ -38023,6 +38167,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl"
+    },
+    {
+      "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
       },
@@ -39512,7 +39674,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
@@ -39610,7 +39772,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"

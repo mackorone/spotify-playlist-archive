@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27373,
+  "num_followers": 27382,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAABxSlz3WJe7is2VssXtquvb",
+  "snapshot_id": "aJ54gAAAAAClIZnnb7XpYDbo1OCclLEx",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "REVIVAL!",
+        "url": "https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 184865,
+      "name": "REVIVAL!",
+      "url": "https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Alright (Remix)",
         "url": "https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 222854,
       "name": "Be Alright - Remix",
       "url": "https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REVIVAL!",
-        "url": "https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 184865,
-      "name": "REVIVAL!",
-      "url": "https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 237496,
+      "name": "Undefeated (feat. KB)",
+      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 246346,
       "name": "One Sixteen",
       "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 237496,
-      "name": "Undefeated (feat. KB)",
-      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
     },
     {
       "added_at": null,

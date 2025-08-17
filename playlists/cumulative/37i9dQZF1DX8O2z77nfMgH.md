@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: J Balvin, Jay Wheeler
 
-11,115 songs - 24 day 13 hr 33 min
+11,116 songs - 24 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5101,7 +5101,7 @@
 | [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 | 2022-07-29 | 2022-08-06 |
 | [La Pinga Para \- Remix](https://open.spotify.com/track/7aEdPP9ah0ICkrp0u1p9pL) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Los Milindrinos](https://open.spotify.com/artist/7KIbzBhtKtkawGSKpc0O88) | [La Pinga Para \(Remix\)](https://open.spotify.com/album/0WnfRRLJQAYKkjxfm8Hn7d) | 4:08 | 2023-10-20 | 2023-10-29 |
 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 | 2022-02-11 | 2022-02-19 |
-| [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 | 2025-08-15 |  |
+| [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu), [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 | 2025-08-15 |  |
 | [La Plegaria de la Noche](https://open.spotify.com/track/4CHnu9MmiPITxzCmQ5W1R2) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [La Plegaria de la Noche](https://open.spotify.com/album/1RVQVJBoyI5o8PC0l0JQ5e) | 4:14 | 2022-07-15 | 2022-07-23 |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-02-21 | 2025-03-01 |
 | [La Policía](https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Policía](https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog) | 2:37 | 2024-11-29 | 2024-12-07 |
@@ -5309,6 +5309,7 @@
 | [Le Falta la Forty](https://open.spotify.com/track/18hTjSSkgVhK4AHMrMe6qE) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Le Falta la Forty](https://open.spotify.com/album/7h07MPO9K6uJNIzdkwOQue) | 2:57 | 2024-06-28 | 2024-07-06 |
 | [Le hacés falta vos](https://open.spotify.com/track/6stKcfnzJmDjijqxdXU2dz) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50) | [Le hacés falta vos](https://open.spotify.com/album/6xhP2AuFbSI8nW5TqiHWVp) | 2:47 | 2024-09-06 | 2024-09-14 |
 | [le jale el gatillo a cupido](https://open.spotify.com/track/2SZRBy3iTGGqpBgl9ngX8n) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [le jale el gatillo a cupido](https://open.spotify.com/album/3cxQ0N7zN0gXJVYW4DTENV) | 3:39 | 2025-02-15 | 2025-02-22 |
+| [le jalé el gatillo a cupido](https://open.spotify.com/track/7KcVSdl3rVDeZqtpwyH3Jb) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [le jalé el gatillo a cupido](https://open.spotify.com/album/6hZ7TxACXSMTT70Yss7Jol) | 3:39 | 2025-08-16 |  |
 | [le valgo madre](https://open.spotify.com/track/6L0gsXZazztIohGMF2EoGa) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [le valgo madre](https://open.spotify.com/album/15I3kzFmi64ex1BpKf8Erk) | 2:36 | 2024-04-05 | 2024-04-13 |
 | [LEAL](https://open.spotify.com/track/6dltsLkzqC5bBQfhx9XXoZ) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [LEAL](https://open.spotify.com/album/7y28LXJNi2uZZ6YRQvqPJD) | 2:42 | 2025-02-28 | 2025-03-08 |
 | [LEALTAD](https://open.spotify.com/track/1jlMnFogG1NeVbs8h4UUw1) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [LEALTAD](https://open.spotify.com/album/322JP4Usb0tyKnNQLdPgac) | 2:30 | 2023-03-17 | 2023-03-25 |

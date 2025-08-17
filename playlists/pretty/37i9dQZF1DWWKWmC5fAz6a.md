@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKWmC5fAz6a.md) - [plain]
 
 > Tao and Elle's mixtape\. Watch <a href="https://open.spotify.com/playlist/37i9dQZF1DX5KARSfd7WcM?si=990a337ebd6d4033">Heartstopper</a> now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,078 likes - 68 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,094 likes - 68 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

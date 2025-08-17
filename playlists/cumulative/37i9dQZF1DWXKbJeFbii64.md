@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-174 songs - 8 hr 17 min
+175 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
 | [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 |  |
 | [Summer Thunderstorm](https://open.spotify.com/track/6c2vveoFDpdo2VqxcclXkk) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Summer Thunderstorm](https://open.spotify.com/album/3cqdn3oQaHziJGZunQv8VL) | 3:27 | 2023-09-20 |  |
-| [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 |  |
+| [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 | 2025-08-17 |
 | [The Light Beyond](https://open.spotify.com/track/0ZqPKp59r2vRU28YB28k1X) | [Paracloud](https://open.spotify.com/artist/7IVFkv5KIYGpqzewofOqP2) | [The Light Beyond](https://open.spotify.com/album/6gmJaxaU3qjSo7NyhE6aO9) | 2:46 | 2023-09-20 | 2023-12-21 |
 | [The Mighty Storm](https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz) | [Thunderwards](https://open.spotify.com/artist/5xTEuFn2jsIs8REcyyQpoq) | [The Mighty Storm](https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId) | 2:06 | 2023-09-20 |  |
 | [The Storm is Here](https://open.spotify.com/track/3xforc0NmrEkc9VQduBcSR) | [Steve Shock](https://open.spotify.com/artist/0FgkiggVnGr0M7L693o0tY) | [Let There be Light](https://open.spotify.com/album/4NUuZHIeOaReJOPinJiptd) | 2:45 | 2023-09-20 | 2023-12-21 |
@@ -180,6 +180,7 @@
 | [Verdant Dreamland](https://open.spotify.com/track/375sTVKVgMi8pAc6UQGTXr) | [Lauren Whyatt](https://open.spotify.com/artist/6VrqstTqqTtV7nG13WRvrx) | [Verdant Dreamland](https://open.spotify.com/album/4IxDsU15b0fETy7T7lXHQl) | 4:51 | 2024-06-10 | 2025-06-10 |
 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 | 2023-02-13 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2022-10-28 |  |
+| [Windy Green Noise](https://open.spotify.com/track/7vTHgLyabM4wWJDy6S81d1) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Windy Green Noise](https://open.spotify.com/album/0UaYMl1fr54ct0cZe8Z8g7) | 2:30 | 2025-07-23 |  |
 | [Wonderstorm](https://open.spotify.com/track/7HMk44LhajDJ3urDcVZQNB) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [All About Thunder](https://open.spotify.com/album/1tU9mBLSohVCwKVQHNHGzp) | 2:40 | 2023-09-20 | 2025-08-02 |
 | [Woodland Thunder Sound](https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj) | [Cosmotic](https://open.spotify.com/artist/0OhxvQhPTdBniajVWnDNYV) | [Woodland Thunder Sound](https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k) | 3:20 | 2022-10-28 |  |
 

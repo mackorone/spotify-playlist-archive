@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-611 songs - 1 day 9 hr 41 min
+613 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 | 2024-08-23 |  |
 | [Broke a Sweat](https://open.spotify.com/track/3TL1qe9nHf6NkWpQ5P2j6d) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 2:50 | 2024-02-27 |  |
 | [Brutal Honesty \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/373qisfX9HkEIePg3bEZyZ) | [Justin Tranter](https://open.spotify.com/artist/3D7L8f9VRhsXHHNPiTBioz), [Tricia Fukuhara](https://open.spotify.com/artist/4SSnp3DgxryeD7ZaBwarod), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:55 | 2024-02-27 | 2025-06-28 |
+| [Bully](https://open.spotify.com/track/1p5qUDJr3cuyh1X3H1ToeS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:13 | 2025-08-16 |  |
 | [But I Like It](https://open.spotify.com/track/19Eqx3fA0k5JG73e6TsgWA) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Anything's Possible \(Motion Picture Soundtrack\)](https://open.spotify.com/album/33OeuOhSFRzm4pLlFNup4w) | 3:12 | 2025-02-08 |  |
 | [But I Like It](https://open.spotify.com/track/7e3znUhuOUghc1F9E8tk9n) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Music is Universal: Sing, Dance, Pride!](https://open.spotify.com/album/2wzQ9pc1ayujBQ1ZDQ1BC0) | 3:12 | 2024-02-27 | 2025-02-09 |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2024-02-27 |  |
@@ -594,6 +595,7 @@
 | [When a Woman](https://open.spotify.com/track/6MFVCPU3QN3YqMjJz4mtFe) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:18 | 2024-02-27 |  |
 | [When I Die](https://open.spotify.com/track/25AEte8XqBCT7NaBvBum9n) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [When I Die](https://open.spotify.com/album/6KF5zlT9iFtWPYNBdPTCzR) | 2:42 | 2024-02-27 |  |
 | [When I Was A Little Girl](https://open.spotify.com/track/1Cg4hAWU9Ox1HpaN2oWg4P) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:28 | 2024-02-27 |  |
+| [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 | 2025-08-16 |  |
 | [When You Walk Away \- Instrumental](https://open.spotify.com/track/6E52aNr2Axls9VVzHJX9Rz) | [Molotov Cocktail Piano](https://open.spotify.com/artist/72fQWyXObQBgUIUejMo6js) | [MCP Performs 5 Seconds of Summer \- Bonus & Deluxe, Vol\. 3 \(Instrumental\)](https://open.spotify.com/album/1HUrNkHB12rn7MDlZ5Jy6i) | 3:06 | 2024-02-27 | 2025-06-28 |
 | [Where Would I Be?](https://open.spotify.com/track/0gEMqVzeenTtGGC2jbFDVp) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:18 | 2024-02-27 |  |
 | [Where’s the Fun in Truth](https://open.spotify.com/track/5kHJYUgfMivULkrxLXXlLG) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:59 | 2024-02-27 |  |

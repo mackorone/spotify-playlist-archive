@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Julian Fijma
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,840 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,850 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 10 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 |
 | 11 | [Luv U More](https://open.spotify.com/track/55gm35sAPZur8MUQlRiMbA) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Luv U More](https://open.spotify.com/album/30atZNudx8ompV9e6wcRJ7) | 2:42 |
 | 12 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
-| 13 | [Where Did We Go](https://open.spotify.com/track/03137mzmOhUyJ6jNz77N99) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Where Did We Go](https://open.spotify.com/album/1dKTNjX0FKSEXzuGKqtbLI) | 2:59 |
+| 13 | [Where Did We Go](https://open.spotify.com/track/03137mzmOhUyJ6jNz77N99) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Where Did We Go](https://open.spotify.com/album/1dKTNjX0FKSEXzuGKqtbLI) | 2:59 |
 | 14 | [High](https://open.spotify.com/track/6zfJzUnevLqbmTtCCJslX2) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [High](https://open.spotify.com/album/44F0Y8cKhXQZ2RqE2ofeJh) | 2:14 |
 | 15 | [Sleepless Nights](https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Sleepless Nights](https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW) | 3:00 |
 | 16 | [Set Fire To The Rain](https://open.spotify.com/track/18MZOHHczAo8qReO4Cpsw4) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ansun](https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm), [YYVON](https://open.spotify.com/artist/2XfYEstAM52prsYmk7UYTM) | [Set Fire To The Rain](https://open.spotify.com/album/57m6mSh6X7ENvb89Tmxw6i) | 3:01 |

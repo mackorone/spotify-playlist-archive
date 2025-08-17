@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,095 likes - 290 songs - 14 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,155 likes - 290 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 4 | [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 |
 | 5 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
 | 6 | [Floating](https://open.spotify.com/track/5M07sDyqptLfK7CHrlkzb1) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Kiss 6](https://open.spotify.com/album/4cS6D5jhPr6j7JLFCvUTha) | 2:22 |
-| 7 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 3:15 |
+| 7 | [Understood \(Remix\)](https://open.spotify.com/track/0pqoUYn5drLonWq5Z91DCS) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Understood \(Remix\)](https://open.spotify.com/album/5WAQxvteVQ3lqgKXL5AUdo) | 2:55 |
 | 8 | [Into You \(feat\. Kenyon Dixon & Stacy Barthe\)](https://open.spotify.com/track/4Zsu8lfeOVWidxYgTXDbe7) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Fly Away](https://open.spotify.com/album/2LBkSXLjkKvUdGjySYvtGF) | 2:44 |
 | 9 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:08 |
 | 10 | [Dogg 'Em](https://open.spotify.com/track/1uzC4BLwXHhXFxvUm4jN1f) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Dogg 'Em](https://open.spotify.com/album/6ojTQjxivybiZOuKSvHfcN) | 2:34 |

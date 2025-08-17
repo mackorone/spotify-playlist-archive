@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,045 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,048 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 20 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
 | 21 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 22 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
-| 23 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
-| 24 | [the hell you are](https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [the hell you are](https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ) | 2:54 |
-| 25 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
-| 26 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
-| 27 | [Troubled Water](https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 2:45 |
-| 28 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 |
+| 23 | [the hell you are](https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [the hell you are](https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ) | 2:54 |
+| 24 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 25 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
+| 26 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
+| 27 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 |
+| 28 | [Troubled Water](https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 2:45 |
 | 29 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 30 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
 | 31 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 |
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 42 | [White Limousine](https://open.spotify.com/track/1Jb4Vy5d4iYSr2PWDxvzOo) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5Fkt6qIaLBxCz2MLrjVduc) | 4:07 |
 | 43 | [Born to Fly](https://open.spotify.com/track/3XKuIEGQ1boUlHDdEGopOQ) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Born to Fly EP](https://open.spotify.com/album/79rPw6bPRYr0VsjY3YfX80) | 3:32 |
 | 44 | [Fall in Love](https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Fall in Love](https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6) | 2:47 |
-| 45 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
-| 46 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 |
+| 45 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 |
+| 46 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
 | 47 | [Believer](https://open.spotify.com/track/6gLOkCljeiC4m4bJj6BT8l) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 6:02 |
 | 48 | [Under the Sun](https://open.spotify.com/track/72klJmmlwJkI8S03B0pU7J) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Under the Sun](https://open.spotify.com/album/2ijfVXrS8uuI9xLm4ByQH3) | 3:17 |
 | 49 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
-| 50 | [Jumbos](https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Jumbos](https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr) | 3:11 |
-| 51 | [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 |
-| 52 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
+| 50 | [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 |
+| 51 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
+| 52 | [Jumbos](https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Jumbos](https://open.spotify.com/album/5FLJL9V5MiJde68lPpdGZr) | 3:11 |
 | 53 | [Misfit](https://open.spotify.com/track/4gD5XuSoA8DqpY1oikxBhl) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Wild Child](https://open.spotify.com/album/7xYvqJyefvpXWdsG9hUlCC) | 3:04 |
 | 54 | [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 |
 | 55 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/6K57TO1Y8uSQWNYdOXmSRE) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Girls Just Wanna Be Famous](https://open.spotify.com/album/3dTj9QX5l2YQl1qbyxnnZt) | 2:41 |

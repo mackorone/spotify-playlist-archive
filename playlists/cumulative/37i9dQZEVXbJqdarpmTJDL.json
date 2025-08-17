@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 166530,
       "name": "AMG",
       "url": "https://open.spotify.com/track/5ewKh25NPwQEdOm51pMTpq"
@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 187058,
       "name": "AUREVOIR",
       "url": "https://open.spotify.com/track/3aFxTuIQQdVzvIoN7dZjdf"
@@ -12714,7 +12714,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 133846,
       "name": "EISAI BCC",
       "url": "https://open.spotify.com/track/4o6alQshJYIfjdH8WytWlc"
@@ -15898,6 +15898,24 @@
       "duration_ms": 255992,
       "name": "Fotia",
       "url": "https://open.spotify.com/track/4zW19Z4IVfpLEsrTSCXiS8"
+    },
+    {
+      "album": {
+        "name": "FOTIA",
+        "url": "https://open.spotify.com/album/018vgFG2q7Gru59X6YVu2u"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "FOTIA",
+      "url": "https://open.spotify.com/track/5KD5e1AcZvf8cDvk9lMFIt"
     },
     {
       "album": {
@@ -20282,7 +20300,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -21954,7 +21972,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -26216,7 +26234,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
@@ -27336,7 +27354,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 138583,
       "name": "MATIA MOU",
       "url": "https://open.spotify.com/track/55YOOSNuKxnocPWEyaFWTw"
@@ -32545,6 +32563,28 @@
     },
     {
       "album": {
+        "name": "OLA GYRNANE",
+        "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "OLA GYRNANE",
+      "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+    },
+    {
+      "album": {
         "name": "Ola Kala",
         "url": "https://open.spotify.com/album/25vFcAwCSIZzVID0k8sdXP"
       },
@@ -35218,7 +35258,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 160601,
       "name": "PINW KE METHW",
       "url": "https://open.spotify.com/track/5JfQ1BbePtmgGioszaahM4"
@@ -46420,7 +46460,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 135636,
       "name": "VARKARIS",
       "url": "https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6"
@@ -48182,7 +48222,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

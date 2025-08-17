@@ -743,6 +743,32 @@
     },
     {
       "album": {
+        "name": "So So Good (Live)",
+        "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288766,
+      "name": "So So Good - Live",
+      "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
+    },
+    {
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1148,7 +1174,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 307213,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6W0mhlKfKltIX0FY7LgOri"

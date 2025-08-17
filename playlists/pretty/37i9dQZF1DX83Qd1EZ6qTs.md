@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 47 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,297 likes - 47 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 13 | [Drut Tintâl](https://open.spotify.com/track/4AFjp9pi72ekK73f4XzTVG) | [Latif Ahmed Khan](https://open.spotify.com/artist/7o1px4JaKkGBGeGttSJ5cf), [Asif Ali Khan](https://open.spotify.com/artist/01WJRYrqBkkxXFPAreJVD8), [Ma Deva Prashanti](https://open.spotify.com/artist/7dgILeG3wG2476e4mrGDIf) | [Inde: Hommage à Latif Ahmed Khan \(India: A Tribute to Latif Ahmed Khan\)](https://open.spotify.com/album/0X7ABjctDytLyGlQIzjk3a) | 5:02 |
 | 14 | [Earth Kingdom](https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:25 |
 | 15 | [Tabla and the Beat](https://open.spotify.com/track/6CJS8wSAtOvd6oDSzPefCH) | [Drumspyder](https://open.spotify.com/artist/7dCTyOTIdbIvCxox9ocZlv) | [Harem: Club & Chillout Remixes](https://open.spotify.com/album/3tmsEhA1K6ZCp68mdOiocv) | 3:21 |
-| 16 | [Taj Mahal](https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1) | [Shaman Beats](https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w) | [Taj Mahal](https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no) | 2:35 |
-| 17 | [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 |
+| 16 | [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 |
+| 17 | [Taj Mahal](https://open.spotify.com/track/2Dr9bQ4FNwT8lEAMo7bzy1) | [Shaman Beats](https://open.spotify.com/artist/5Jklaf7H3C20te5LVe4H2w) | [Taj Mahal](https://open.spotify.com/album/5uVrPJrEOJYtIGtz5tl8no) | 2:35 |
 | 18 | [Tabla \- Dhwani \- Digitally Remastered](https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Very Best of Ravi Shankar](https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm) | 4:52 |
 | 19 | [Tabla Music](https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 3:56 |
 | 20 | [TablaTrap](https://open.spotify.com/track/0iw0rCaC2gw63fo8MqI0Hn) | [jomy george](https://open.spotify.com/artist/4egqbOwBPdQgSvm89qHjEZ) | [TablaTrap](https://open.spotify.com/album/0k3N7vIB6q6AKwQN1XycNQ) | 3:40 |

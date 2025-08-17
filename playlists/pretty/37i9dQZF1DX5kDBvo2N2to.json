@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60041,
+  "num_followers": 60042,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Dina fula skor",
-        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
-      },
-      "artists": [
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Dina fula skor",
-      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "Tappar det",
         "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 155975,
       "name": "Tappar det",
       "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Dina fula skor",
+        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Dina fula skor",
+      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Gatorna i Bor\u00e5s",
-        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Gatorna i Bor\u00e5s",
-      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "Jag m\u00e5ste v\u00e4lja",
         "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Gatorna i Bor\u00e5s",
+        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "Gatorna i Bor\u00e5s",
+      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Hail Mary",
-        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/4TN4aY61CdCWDqCSIxFsSn"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 194789,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Hail Mary",
+        "url": "https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Blundar F\u00f6r En Stund",
-        "url": "https://open.spotify.com/album/3lJKVj5d5dvy9BwFXPIGrN"
-      },
-      "artists": [
-        {
-          "name": "Vilhelm Nordvall",
-          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
-        }
-      ],
-      "duration_ms": 187097,
-      "name": "Blundar F\u00f6r En Stund",
-      "url": "https://open.spotify.com/track/2tVyDrg1bbOzHnYAZxcOcO"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "Tom Cruisin'",
         "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Do You Love Me",
-        "url": "https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I"
+        "name": "Blundar F\u00f6r En Stund",
+        "url": "https://open.spotify.com/album/3lJKVj5d5dvy9BwFXPIGrN"
       },
       "artists": [
         {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+          "name": "Vilhelm Nordvall",
+          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
         }
       ],
-      "duration_ms": 174480,
-      "name": "Do You Love Me",
-      "url": "https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y"
+      "duration_ms": 187097,
+      "name": "Blundar F\u00f6r En Stund",
+      "url": "https://open.spotify.com/track/2tVyDrg1bbOzHnYAZxcOcO"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1059,6 +1043,22 @@
       "duration_ms": 219642,
       "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
       "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Do You Love Me",
+        "url": "https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I"
+      },
+      "artists": [
+        {
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Do You Love Me",
+      "url": "https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "Rocko",
-        "url": "https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU"
-      },
-      "artists": [
-        {
-          "name": "Junior Brielle",
-          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Rocko",
-      "url": "https://open.spotify.com/track/1JpvGIVCdc7BRbHEVEk27r"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
         "name": "K\u00e4nner ni igen er",
         "url": "https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 279303,
       "name": "K\u00e4nner ni igen er",
       "url": "https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "Rocko",
+        "url": "https://open.spotify.com/album/4vUQaIMVDKzpKVjXHG20qU"
+      },
+      "artists": [
+        {
+          "name": "Junior Brielle",
+          "url": "https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Rocko",
+      "url": "https://open.spotify.com/track/1JpvGIVCdc7BRbHEVEk27r"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "LIE TO ME",
-        "url": "https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn"
+        "name": "F\u00f6rst\u00f6raren",
+        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
       },
       "artists": [
         {
-          "name": "DREAMDNVR",
-          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
-        },
-        {
-          "name": "KELLYKKE",
-          "url": "https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj"
+          "name": "Hemliga Klubben",
+          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
         }
       ],
-      "duration_ms": 169709,
-      "name": "LIE TO ME",
-      "url": "https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m"
+      "duration_ms": 146778,
+      "name": "F\u00f6rst\u00f6raren",
+      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2025-08-14 22:00:27",
       "album": {
-        "name": "F\u00f6rst\u00f6raren",
-        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
+        "name": "LIE TO ME",
+        "url": "https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn"
       },
       "artists": [
         {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+          "name": "DREAMDNVR",
+          "url": "https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb"
+        },
+        {
+          "name": "KELLYKKE",
+          "url": "https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj"
         }
       ],
-      "duration_ms": 146778,
-      "name": "F\u00f6rst\u00f6raren",
-      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
+      "duration_ms": 169709,
+      "name": "LIE TO ME",
+      "url": "https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1355,22 +1355,6 @@
       "duration_ms": 148058,
       "name": "Hj\u00e4rtat kan ha fel ibland",
       "url": "https://open.spotify.com/track/3f4ZfUlxPWfmcyFfm8l4f2"
-    },
-    {
-      "added_at": "2025-08-14 22:00:27",
-      "album": {
-        "name": "t-shirt",
-        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 152629,
-      "name": "t-shirt",
-      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
       "added_at": "2025-08-14 22:00:27",
@@ -1423,6 +1407,22 @@
       "duration_ms": 196321,
       "name": "112",
       "url": "https://open.spotify.com/track/2Mpbd4mtygXsLhnP4APlRn"
+    },
+    {
+      "added_at": "2025-08-14 22:00:27",
+      "album": {
+        "name": "t-shirt",
+        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 152629,
+      "name": "t-shirt",
+      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
       "added_at": "2025-08-14 22:00:27",

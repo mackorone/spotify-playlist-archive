@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: People R Ugly
 
-750 songs - 1 day 10 hr 17 min
+752 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2 more minutes](https://open.spotify.com/track/63kIONRvO9SrjwVsYbTFUJ) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [fun while it lasted](https://open.spotify.com/album/3j4kTkeH2BCc0VwWqRVYds) | 2:16 | 2022-08-26 | 2022-10-15 |
 | [2 The Weekend](https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [2 The Weekend](https://open.spotify.com/album/3IjdYALpGG1oDMU0PRmFTw) | 2:35 | 2021-11-19 | 2022-02-26 |
 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 | 2022-04-04 | 2022-09-24 |
-| [2003](https://open.spotify.com/track/69IEUJIZe3xDxaM1AufVY9) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SELF REALIZATION!](https://open.spotify.com/album/4UUaSaxviaghvVesm03opm) | 1:56 | 2025-05-16 |  |
+| [2003](https://open.spotify.com/track/69IEUJIZe3xDxaM1AufVY9) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SELF REALIZATION!](https://open.spotify.com/album/4UUaSaxviaghvVesm03opm) | 1:56 | 2025-05-16 | 2025-08-17 |
 | [22 and Confused](https://open.spotify.com/track/5cz5ks12l9nyKjwtoFEV6S) | [Johnny 2 Phones](https://open.spotify.com/artist/5G312D5mch8GZE501qpDIy) | [22 and Confused](https://open.spotify.com/album/2lxnzpLEjE8hY3ikX06if5) | 2:03 | 2021-11-16 | 2022-02-19 |
 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 | 2025-04-29 | 2025-07-02 |
 | [24 48](https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [24 48](https://open.spotify.com/album/4zd4y5FJHwvPn6c2BtKc5l) | 2:33 | 2022-04-15 | 2022-06-11 |
@@ -195,7 +195,7 @@
 | [Drowsy](https://open.spotify.com/track/3u6DVaD9jGvI6HNm1ODrMa) | [OHNO](https://open.spotify.com/artist/6h3EDETuCnGDrUk9hwvbGp) | [Sunshine In A Bag](https://open.spotify.com/album/60OGodPKisTJO0HLhT2nZy) | 2:47 | 2022-06-10 | 2022-07-13 |
 | [DRUGS](https://open.spotify.com/track/6Lf2Gu0656z3fzimF402nY) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/79FheIcTpTUgXlp8i4hQ34) | 2:39 | 2022-04-08 | 2023-07-01 |
 | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/track/7MODHYi60npkw5bgBStqV3) | [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII), [Tre Oh Fie](https://open.spotify.com/artist/6cA0eTMEit4fD6ZbTNoG4p), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Dump It Dummy \(feat\. 2rare\)](https://open.spotify.com/album/7KgNMvzNbOs0LtO0dduZlt) | 3:28 | 2022-08-19 | 2022-10-15 |
-| [EAT ME \(alive\)](https://open.spotify.com/track/26KHB75CMVWUh1q7v9KLPt) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [EAT ME \(alive\)](https://open.spotify.com/album/6sTS6YXcjoL0aGzKzjZdXR) | 2:20 | 2025-05-02 |  |
+| [EAT ME \(alive\)](https://open.spotify.com/track/26KHB75CMVWUh1q7v9KLPt) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [EAT ME \(alive\)](https://open.spotify.com/album/6sTS6YXcjoL0aGzKzjZdXR) | 2:20 | 2025-05-02 | 2025-08-17 |
 | [Edge of Tomorrow](https://open.spotify.com/track/4FznDspHMXUQ5RtmzJPdnb) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Edge of Tomorrow](https://open.spotify.com/album/79H3KbKr9M5scaV5Q0RMnY) | 2:00 | 2024-05-31 | 2025-04-30 |
 | [eighty\-five](https://open.spotify.com/track/6f8J5ZqWB5E8oKosn4h7c5) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [eighty\-five](https://open.spotify.com/album/3gb0W6DnHhwkJq0ZSFqnAe) | 3:15 | 2022-04-22 | 2022-12-21 |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-16 | 2022-02-19 |
@@ -587,6 +587,7 @@
 | [she's wild'](https://open.spotify.com/track/6qdwAVEI7Uo5xLj7XH3yd5) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [she's wild'](https://open.spotify.com/album/4C9KqRDbBuRxXApiIXBtNM) | 2:34 | 2023-12-01 | 2024-06-01 |
 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-07-12 | 2023-09-09 |
 | [Singin in the Shower](https://open.spotify.com/track/3VBLOSjxwxpr5pp6vpd95q) | [Jae Zole](https://open.spotify.com/artist/5EEohu8udCMKstAlCYm3Xa) | [Singin in the Shower](https://open.spotify.com/album/0fArp40eDK8mUK8p7YMuoF) | 2:32 | 2023-03-24 | 2023-06-17 |
+| [Sippin Country](https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Sippin Country](https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd) | 2:39 | 2025-08-15 |  |
 | [Ski Trip](https://open.spotify.com/track/66uplMFfrTOXEg7yIaclTk) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Ski Trip](https://open.spotify.com/album/5kgvLzREOpVSYSG86kauFk) | 2:46 | 2023-01-06 | 2023-07-08 |
 | [Skin like summer](https://open.spotify.com/track/3BMjaR4kVrlefsdlcMJteK) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Skin like summer](https://open.spotify.com/album/609HfWohVgTcur5W1e9SYM) | 1:57 | 2022-05-20 | 2022-07-07 |
 | [slip](https://open.spotify.com/track/3VEltwNocXM7dVGSdkAs7A) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [slip](https://open.spotify.com/album/4FYt2ycWupuX8zePf7Ps1g) | 3:03 | 2021-11-16 | 2022-02-26 |
@@ -664,6 +665,7 @@
 | [Texts](https://open.spotify.com/track/3S653c6Jwl9aSy4DosDm8j) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Texts](https://open.spotify.com/album/4IoE4c57vVygNfgbPReGda) | 2:23 | 2022-11-21 | 2022-12-21 |
 | [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 | 2023-01-27 | 2024-01-23 |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2021-12-17 | 2022-03-05 |
+| [the middle](https://open.spotify.com/track/6B78WUX5itO7nSEx4ZjUp8) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [the middle](https://open.spotify.com/album/2WlczGZGOWDR3igZva0zKs) | 3:14 | 2025-08-15 |  |
 | [the other side](https://open.spotify.com/track/3wledcRROg8EvoTbc27Xfw) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 2](https://open.spotify.com/album/4VFcsJluDONGiR78zu3h6a) | 1:57 | 2022-03-04 | 2022-05-07 |
 | [Therapy Music \(feat\. Russ\)](https://open.spotify.com/track/3WRT8uD7wYPzIJagtFRVjF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Therapy Music](https://open.spotify.com/album/0umXnJRqobrCwHOlWlHZc9) | 4:22 | 2022-05-06 | 2022-05-20 |
 | [Things In The Way](https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Things In The Way](https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ) | 2:39 | 2022-01-28 | 2022-02-26 |

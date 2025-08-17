@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2064435,
+  "num_followers": 2064503,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADAT4gfLwtL5qGXfdMvjeuh",
+  "snapshot_id": "aJ54gAAAAADfjok7arjpVTCxp3slaQhD",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 192680,
-      "name": "Ambush In The Night",
-      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
+      "duration_ms": 213866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/7e7kLujXF3G5IcHoskemSI"
+      "duration_ms": 192680,
+      "name": "Ambush In The Night",
+      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54"
     },
     {
       "added_at": null,

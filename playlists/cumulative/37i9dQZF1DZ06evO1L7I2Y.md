@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 26 min
+59 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Matemática](https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 2:14 | 2024-04-29 |  |
 | [MEC](https://open.spotify.com/track/0vXztPiti2BXzryaC9YxqU) | [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [PG 400](https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz) | [PLASMA](https://open.spotify.com/album/6v535oNr1rj96cFrYGIiSL) | 2:54 | 2024-08-03 |  |
 | [Metáfora](https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:01 | 2023-12-30 |  |
-| [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 | 2023-12-30 |  |
+| [Mo Parada](https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv) | 2:20 | 2025-08-17 |  |
+| [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 | 2023-12-30 | 2025-08-17 |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2024-01-24 | 2024-04-30 |
 | [N.I.N.A](https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 3:44 | 2024-04-30 |  |
 | [O Jogo Virou](https://open.spotify.com/track/187pijczzR58jQMhlyQbH8) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [O Jogo Virou](https://open.spotify.com/album/3m4s2u9Be8BzIv9rFhi3eN) | 2:52 | 2025-02-23 |  |

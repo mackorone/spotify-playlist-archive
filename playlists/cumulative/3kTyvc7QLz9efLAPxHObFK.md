@@ -4,7 +4,7 @@
 
 > 
 
-2,460 songs - 5 day 8 hr 48 min
+2,461 songs - 5 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1620,6 +1620,7 @@
 | [OOH LALA](https://open.spotify.com/track/0iSLjblXsl7VgS47ApVzZw) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [OOH LALA](https://open.spotify.com/album/04BjLtS6qyfbRXOIm2zjHI) | 2:24 | 2022-09-21 |  |
 | [Oracle](https://open.spotify.com/track/29u1AiJivUCQJ1J2wmLlKs) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Oracle](https://open.spotify.com/album/0Iy2YJj3EDMLNKuiKMY9Fa) | 2:29 | 2024-12-21 |  |
 | [Orbit](https://open.spotify.com/track/5fOmN2CwXTJTF1g7AufnIu) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Orbit](https://open.spotify.com/album/0FMn7bv3OZkg5wBnqIt3wv) | 2:53 | 2024-07-19 |  |
+| [OTD](https://open.spotify.com/track/3URjL0cGqoOTiZlGbDMALR) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [OTD](https://open.spotify.com/album/4xXw1MSvCigjkXv2Hgx1w6) | 2:43 | 2025-08-16 |  |
 | [OUR DESTRUCTION](https://open.spotify.com/track/5YwRFrawW6m3gQnnnbL5CO) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [OUR DESTRUCTION](https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H) | 3:16 | 2024-04-05 |  |
 | [Our Kingdom](https://open.spotify.com/track/1v0Nqnir1eJc7QTWo8t5nt) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Our Kingdom](https://open.spotify.com/album/6x3Vwunw5rmltcSIYPEFC3) | 4:43 | 2022-08-23 |  |
 | [Our Memories \(feat\. Kotori Koiwai\)](https://open.spotify.com/track/6HQwQv4rAacqVlGLCBLrqI) | [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [Kotori Koiwai](https://open.spotify.com/artist/12q1go3q8W7t3PTSSX2peL) | [Our Memories](https://open.spotify.com/album/3xXmrtnzGqrEv4wK5KXziA) | 3:19 | 2023-10-20 |  |

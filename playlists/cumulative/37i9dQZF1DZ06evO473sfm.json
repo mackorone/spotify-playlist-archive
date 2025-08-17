@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Apodo",
+        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173954,
+      "name": "Apodo",
+      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
+    },
+    {
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -878,7 +900,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 254339,
       "name": "La Pareja Ideal - En Vivo",
       "url": "https://open.spotify.com/track/2gpgzhumYabZNyrsyvdAat"

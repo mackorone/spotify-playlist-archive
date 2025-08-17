@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Dean, Steve Lacy, Dijon and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,021 likes - 121 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,056 likes - 121 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 31 | [March](https://open.spotify.com/track/14Xp70u5gSdGhr1sSru0cA) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [March](https://open.spotify.com/album/6SD9WINkovwJ85AoqOCBds) | 3:37 |
 | 32 | [Johnny](https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Johnny](https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR) | 1:58 |
 | 33 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
-| 34 | [Flowers](https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy) | [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t), [Born On Road](https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z) | [Flowers](https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7) | 3:37 |
+| 34 | [Flowers](https://open.spotify.com/track/0dDO88EP1FcKMrj8N1hXWy) | [Born On Road](https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Flowers](https://open.spotify.com/album/6tZ8Lr0POSPvr58qJAFwn7) | 3:37 |
 | 35 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 |
 | 36 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |
 | 37 | [My World \(beyond\)](https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [My World \(beyond\)](https://open.spotify.com/album/3kvP7kuhhSGKHsZEXJMd8b) | 4:05 |

@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "Chica Traviesa",
+        "url": "https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "La Expansion",
+          "url": "https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185126,
+      "name": "Chica Traviesa",
+      "url": "https://open.spotify.com/track/7zXxlCRQ1UGq2twIEuhlnD"
+    },
+    {
+      "album": {
         "name": "El Luchon",
         "url": "https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz"
       },
@@ -1374,7 +1396,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 210520,
       "name": "Mi Sueno Seria",
       "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"

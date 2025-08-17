@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 274222,
+  "num_followers": 274235,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACjwyrlhBpQuedD6LxlicMo",
+  "snapshot_id": "aJ54gAAAAABrPqBJyWRkiuANfWfCe515",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 166199,
-      "name": "Loyal Brave True",
-      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 217426,
       "name": "Genio Atrapado",
       "url": "https://open.spotify.com/track/3ne8ipFCs7RUr2K6QoD6BQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 166199,
+      "name": "Loyal Brave True",
+      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217996,
-      "name": "Reflection (2020)",
-      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 289200,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217996,
+      "name": "Reflection (2020)",
+      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Not Myself Tonight",
-      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 176960,
       "name": "Falsas Esperanzas",
       "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Not Myself Tonight",
+      "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Learning To Fly",
-        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 176941,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 244933,
       "name": "Por Siempre T\u00fa",
       "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Learning To Fly",
+        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 176941,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
     },
     {
       "added_at": null,

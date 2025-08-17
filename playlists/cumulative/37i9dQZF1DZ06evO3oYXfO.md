@@ -4,13 +4,13 @@
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-57 songs - 5 hr 7 min
+58 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bit of Finger / Sleeping Village / Warning \- 2013 Remaster](https://open.spotify.com/track/01xU5pDHQ8FfVhEi98UFMY) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 14:13 | 2025-07-25 | 2025-07-31 |
 | [A National Acrobat \(2009 Remaster\)](https://open.spotify.com/track/6iJuDBangLQkI7cc9MdjPw) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 6:15 | 2025-07-23 |  |
-| [Ancient Warrior \- 2025 Remaster](https://open.spotify.com/track/3a96Xs6BiwXClyoQ4eBQzv) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 5:32 | 2025-08-15 |  |
+| [Ancient Warrior \- 2025 Remaster](https://open.spotify.com/track/3a96Xs6BiwXClyoQ4eBQzv) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 5:32 | 2025-08-15 | 2025-08-17 |
 | [Behind the Wall of Sleep \- 2009 Remaster](https://open.spotify.com/track/5JYanX4zPe3uX3nShgE0qR) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:37 | 2025-07-23 |  |
 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 | 2025-07-23 |  |
 | [Born to Lose \- 2025 Remaster](https://open.spotify.com/track/6Xf42BRgGkIVA8Sdw6nZ1v) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Eternal Idol \(2025 Remaster\)](https://open.spotify.com/album/6SeTsOYq4kVogN89Hekcdd) | 3:43 | 2025-08-03 | 2025-08-04 |
@@ -18,6 +18,7 @@
 | [Children of the Sea](https://open.spotify.com/track/7MDBR4dEvtOGNyOBKNmP8n) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 5:35 | 2025-07-23 |  |
 | [Cornucopia \- 2009 Remaster](https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:51 | 2025-07-23 |  |
 | [Die Young](https://open.spotify.com/track/5DcCUdxmc2qlTFglfxLStT) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 4:42 | 2025-07-23 |  |
+| [Don't Start \(Too Late\) \(2009 Remaster\)](https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 0:49 | 2025-08-17 |  |
 | [Electric Funeral \- 2009 Remaster](https://open.spotify.com/track/37gJgdjcyAIeeAeWzEIawU) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:49 | 2025-07-23 |  |
 | [End Of The Beginning](https://open.spotify.com/track/3QbnMRadaXqmlghaglLAit) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:06 | 2025-07-23 |  |
 | [Evil Woman, Don't Play Your Games with Me \- 2009 Remaster](https://open.spotify.com/track/046x8yuXjJFPaaQI6Iyz9e) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:20 | 2025-07-23 |  |

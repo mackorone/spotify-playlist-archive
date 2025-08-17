@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre 📸 Barbi Recanati.
 
-408 songs - 1 day 1 hr 20 min
+411 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-08-05 | 2022-11-12 |
 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 | 2022-06-24 | 2022-10-15 |
 | [El Fin Del Amor](https://open.spotify.com/track/0U1ktZf1FLmzraWqBQGqda) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [El Fin Del Amor](https://open.spotify.com/album/5kiuTKPY8IrZu2dargiqHZ) | 3:04 | 2024-10-10 |  |
+| [El francés](https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [El francés](https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA) | 2:17 | 2025-08-15 |  |
 | [El Gomoso](https://open.spotify.com/track/0H6rYPbDkdMmJbedmXMqV9) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Retorno](https://open.spotify.com/album/3wLN5TGDfK414XeVjrfvEm) | 3:09 | 2025-06-27 |  |
 | [EL GORDO](https://open.spotify.com/track/500kQAqm0AVQIPXIe6o1Ie) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [PARA QUIEN TRABAJAS Vol\. I](https://open.spotify.com/album/40Nq78LYEHEtCKd0tuOmy2) | 3:36 | 2025-05-23 |  |
 | [El Hit](https://open.spotify.com/track/0gt0wTEOGBNxooOdDKbKmm) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [El Hit](https://open.spotify.com/album/289DmDK5Hnq2Eh0d05HdI7) | 3:13 | 2024-06-25 | 2025-03-08 |
@@ -362,6 +363,8 @@
 | [Sábado \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/07QuE6e03a0AbGsHocsgRU) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:08 | 2025-03-07 |  |
 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 | 2024-09-21 |
 | [Tan Distintos \- Acústico](https://open.spotify.com/track/6VVSQJKIS8QoS3ATKYZpI8) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Tan Distintos \(Acústico\)](https://open.spotify.com/album/4kn2pDF2SAuQGc9yUMp31n) | 3:38 | 2023-09-22 |  |
+| [Tan Perfecto Que Asusta](https://open.spotify.com/track/1EhrnMotqbkIzvtYk23Kto) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Zona Liberada](https://open.spotify.com/album/2xAPsiGPc4ZiO6FyONelJi) | 4:34 | 2025-08-15 |  |
+| [Tan Solo Un Hombre](https://open.spotify.com/track/2PKoFmgmfDKxPnnyENcXLT) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Tan Solo Un Hombre](https://open.spotify.com/album/2LSqpzpG3EST7aE5YnivsV) | 3:18 | 2025-08-15 |  |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/5FNvmP6LSxwbyQM3Dc7PkK) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:58 | 2023-07-07 | 2023-09-23 |
 | [Tantas Cosas Buenas](https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Tantas Cosas Buenas](https://open.spotify.com/album/3sGo39318ViQM2ZHNporVo) | 3:58 | 2022-11-11 | 2023-07-11 |
 | [Tanto Tonto](https://open.spotify.com/track/74Z4on1nCgnIHgzN9XoARd) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Canciones Sobre una Casa, Cuatro Amigos y un Perro](https://open.spotify.com/album/311nosRPXrVfCY5fg1TK5M) | 1:49 | 2022-06-24 | 2022-07-16 |

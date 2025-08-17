@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "El franc\u00e9s",
+        "url": "https://open.spotify.com/album/05tthCC0TInn6fzqT0C2QA"
+      },
+      "artists": [
+        {
+          "name": "NOTA",
+          "url": "https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137523,
+      "name": "El franc\u00e9s",
+      "url": "https://open.spotify.com/track/61dysVMtaRdzZTWe2S4q7Q"
+    },
+    {
+      "album": {
         "name": "El Retorno",
         "url": "https://open.spotify.com/album/3wLN5TGDfK414XeVjrfvEm"
       },
@@ -6830,6 +6848,42 @@
       "duration_ms": 218659,
       "name": "Tan Distintos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6VVSQJKIS8QoS3ATKYZpI8"
+    },
+    {
+      "album": {
+        "name": "Zona Liberada",
+        "url": "https://open.spotify.com/album/2xAPsiGPc4ZiO6FyONelJi"
+      },
+      "artists": [
+        {
+          "name": "Don Osvaldo",
+          "url": "https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274102,
+      "name": "Tan Perfecto Que Asusta",
+      "url": "https://open.spotify.com/track/1EhrnMotqbkIzvtYk23Kto"
+    },
+    {
+      "album": {
+        "name": "Tan Solo Un Hombre",
+        "url": "https://open.spotify.com/album/2LSqpzpG3EST7aE5YnivsV"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198254,
+      "name": "Tan Solo Un Hombre",
+      "url": "https://open.spotify.com/track/2PKoFmgmfDKxPnnyENcXLT"
     },
     {
       "album": {

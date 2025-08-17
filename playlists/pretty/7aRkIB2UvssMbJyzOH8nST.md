@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 277,955 likes - 175 songs - 9 hr 55 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 277,924 likes - 175 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

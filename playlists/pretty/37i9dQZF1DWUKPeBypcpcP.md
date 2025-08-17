@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,370 likes - 92 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,280 likes - 92 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 | 77 | [Morning By The Ocean](https://open.spotify.com/track/42rgtZOk6UoK0T7K4DV2Ju) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 2](https://open.spotify.com/album/43VltFaOtQmwos3qwZxJsU) | 3:08 |
 | 78 | [Natures White Noise](https://open.spotify.com/track/5BznY5rMMB2BIrRu2LBGQd) | [Noises Of Ambience](https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316) | [Noises Of Ambience](https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK) | 2:25 |
 | 79 | [Big Ocean Waves](https://open.spotify.com/track/7Lj7U5e9TgSz5TcSoD9SZs) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [Deep Sleep FX](https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj) | 2:41 |
-| 80 | [Vain Rain](https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ) | [Skylated](https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS) | [Eye Of The Rain](https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ) | 2:26 |
-| 81 | [Sleep Well Rain](https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ) | [Rainfall Place](https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX) | [Rainfall Place](https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN) | 2:22 |
+| 80 | [Sleep Well Rain](https://open.spotify.com/track/1uf2Q4KhwuhWJ7DFBDrGvZ) | [Rainfall Place](https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX) | [Rainfall Place](https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN) | 2:22 |
+| 81 | [Vain Rain](https://open.spotify.com/track/0PColavKAYrvY3fXvQgOvQ) | [Skylated](https://open.spotify.com/artist/62iHUQsjVEK33b5YlpRsrS) | [Eye Of The Rain](https://open.spotify.com/album/6YpLnqT6dPYyacJMO0dLwZ) | 2:26 |
 | 82 | [The Windy Sea and the Magic Black Clow](https://open.spotify.com/track/0tFbty1a2beobzgmV5Cwlf) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Contemplation by the Sea](https://open.spotify.com/album/0YLBgediglomrRmXQFsX3a) | 2:14 |
 | 83 | [Eternal Rain](https://open.spotify.com/track/2fWQD5MZ0TxrgNDqcBZkCB) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:56 |
 | 84 | [Rain Falling Down](https://open.spotify.com/track/3v8tpKiO7zMZomEQh53cve) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Rain Sounds Vol\. 1](https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj) | 2:33 |

@@ -2,7 +2,7 @@
 
 ### [New Music Friday Suomi](https://open.spotify.com/playlist/37i9dQZF1DWXtcXUwhuzFM)
 
-> Uutta musiikkia Vestalta, Sara Siipolalta, Lewis Capaldilta ja monelta muulta!
+> Uutta musiikkia Vestalta, Sara Siipolalta, kialta, Zara Larssonilta ja monelta muulta!
 
 7,350 songs - 16 day 3 hr 48 min
 

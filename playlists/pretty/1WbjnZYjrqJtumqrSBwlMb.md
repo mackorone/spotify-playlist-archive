@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,112 songs - 2 day 20 hr 23 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,113 songs - 2 day 20 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1120,5 +1120,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1110 | [TOUCH THE SKY](https://open.spotify.com/track/2tJUxg2ZoLqsjaqjXz75qD) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(D SIDES\)](https://open.spotify.com/album/4vBU4v2QoZ4IL6QL0bpbva) | 2:31 |
 | 1111 | [Believe](https://open.spotify.com/track/3QPn2djEjTo0QFg083VIeV) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn) | 3:39 |
 | 1112 | [TOUCH THE SKY](https://open.spotify.com/track/3kJptBOmtHgfHkAJstQSV7) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(The Lost Tapes\)](https://open.spotify.com/album/3OOJWCsqkuGohtYAj8WI7D) | 2:30 |
+| 1113 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
 
-Snapshot ID: `AAAJQC/Rkl6YmDFk08twuunzGyXT71bJ`
+Snapshot ID: `AAAJQfWYW2GEfRqG8T3LDnRebG155wd/`

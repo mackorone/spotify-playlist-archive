@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,915 likes - 130 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 821,830 likes - 130 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

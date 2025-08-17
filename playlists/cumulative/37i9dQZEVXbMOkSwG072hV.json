@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -28628,7 +28628,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -48612,7 +48612,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 222480,
       "name": "Nos Bra\u00e7os da Batucada",
       "url": "https://open.spotify.com/track/0rI9pBj3tjDsVZQaSyTZtT"
@@ -48634,7 +48634,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 224881,
       "name": "Nossa Chance",
       "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV"
@@ -50920,7 +50920,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 248173,
       "name": "O Que \u00c9 o Amor",
       "url": "https://open.spotify.com/track/4u1MSjULnQ95O8w3cJTOzl"
@@ -61671,6 +61671,32 @@
     },
     {
       "album": {
+        "name": "SACODE AUTOMOTIVO",
+        "url": "https://open.spotify.com/album/4wzHsVLDn2g96COzbiBfnN"
+      },
+      "artists": [
+        {
+          "name": "DJ BRUNINHO 17",
+          "url": "https://open.spotify.com/artist/5FnCbiF8jgiBZ0TPzNfbNy"
+        },
+        {
+          "name": "DJ RIICK ORIGINAL",
+          "url": "https://open.spotify.com/artist/539BfDWlB12g6OTnW9iNdE"
+        },
+        {
+          "name": "Jean Divulga",
+          "url": "https://open.spotify.com/artist/0Pyh7An37MjUM6DjARIK0Q"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "SACODE AUTOMOTIVO",
+      "url": "https://open.spotify.com/track/09L86iWuxm6WJy2gXWNsQt"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -70194,7 +70220,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 99111,
       "name": "THAIN\u00c1 THAIN\u00c1",
       "url": "https://open.spotify.com/track/68Qn3HtP5XnQVAIw1e9rvO"
@@ -75648,6 +75674,32 @@
       "duration_ms": 243870,
       "name": "Vem Desestressar",
       "url": "https://open.spotify.com/track/5jrQZnYInM6YUjr2yFSa3E"
+    },
+    {
+      "album": {
+        "name": "Vem Fuder na Pele",
+        "url": "https://open.spotify.com/album/67xhOc9ZjNYPllI0uq3i5n"
+      },
+      "artists": [
+        {
+          "name": "Dj Alan Melo",
+          "url": "https://open.spotify.com/artist/05kM6bfPvwG2DRwR8o5aGp"
+        },
+        {
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        },
+        {
+          "name": "MC Nito",
+          "url": "https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "Vem Fuder na Pele",
+      "url": "https://open.spotify.com/track/14p62Exec4hR5MGAHJaiSx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 37,297 likes - 97 songs - 4 hr 30 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 37,266 likes - 97 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: TOMATULUGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,647 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,672 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

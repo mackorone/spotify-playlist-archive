@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,276 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,319 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 32 | [Anything You Want \- Not That](https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk) | [Belleruche](https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t) | [The Express](https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp) | 3:22 |
 | 33 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 |
 | 34 | [3 Days](https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 4:15 |
-| 35 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 |
-| 36 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 |
+| 35 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 |
+| 36 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 |
 | 37 | [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:39 |
 | 38 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
 | 39 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 72 | [Found Your Love](https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kuyen](https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b) | [Celestial Strut](https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM) | 5:49 |
 | 73 | [La prima estate](https://open.spotify.com/track/6vtG5IMWKidt5K54DCSUo6) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [La prima estate](https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB) | 4:00 |
 | 74 | [Flores](https://open.spotify.com/track/3G5QIGMaNyOR07cD0O5Htk) | [Arón Piper](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Arón Piper](https://open.spotify.com/album/4arvfKg3L3IP6hAeGX4XoM) | 3:20 |
-| 75 | [Montego Bay Spleen](https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:25 |
-| 76 | [Paradis bleu](https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Paradis bleu](https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg) | 3:57 |
-| 77 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 |
+| 75 | [Spell on You](https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0) | [Isteri](https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk) | 4:00 |
+| 76 | [Montego Bay Spleen](https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:25 |
+| 77 | [Paradis bleu](https://open.spotify.com/track/0iLicFNAMT18xb36wBrRNl) | [Revers Gagnant](https://open.spotify.com/artist/1JJFKIcDjsMUEJAini15V8), [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Paradis bleu](https://open.spotify.com/album/5AFmjJeQX1DxFO1YB5S7Dg) | 3:57 |
 | 78 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 | 79 | [Quand on arrive en ville](https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP) | [Fhin](https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p) | [Quand on arrive en ville](https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE) | 3:38 |
 | 80 | [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 |

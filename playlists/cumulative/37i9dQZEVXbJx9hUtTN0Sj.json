@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 143575,
       "name": "BADMAN GANGSTA",
       "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
@@ -15380,7 +15380,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 249140,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
@@ -18739,6 +18739,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Cumbia 1 & 2",
+        "url": "https://open.spotify.com/album/7r1Aoe1PF9XYNHxQsgJT9C"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo y su T\u00edpica RA7",
+          "url": "https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/5XyfJqyQbBXiZtG98a8RBY"
+    },
+    {
+      "album": {
         "name": "LA CURA PER ME",
         "url": "https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw"
       },
@@ -19786,7 +19804,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 144596,
       "name": "Let Him Go",
       "url": "https://open.spotify.com/track/7fvDXNMwfIDnvhTyMDROOp"
@@ -21734,6 +21752,24 @@
       "duration_ms": 212666,
       "name": "Magic Mountain",
       "url": "https://open.spotify.com/track/1gExMyY0hcnLisq9OJRabP"
+    },
+    {
+      "album": {
+        "name": "Na Regen Komt Zonneschijn",
+        "url": "https://open.spotify.com/album/57yPn5RVeNuOpfd3IwSB5j"
+      },
+      "artists": [
+        {
+          "name": "Nicky Du Soleil",
+          "url": "https://open.spotify.com/artist/4AC6Yqd1OJ1ON4jfecKW5j"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Magneetje",
+      "url": "https://open.spotify.com/track/4rEkQWN93Cmwfdr9RAqSCY"
     },
     {
       "album": {
@@ -34796,7 +34832,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 225205,
       "name": "Time for Acid",
       "url": "https://open.spotify.com/track/5ehH0AV2SP5BtdwT8WRtIZ"
@@ -36594,6 +36630,32 @@
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
+    },
+    {
+      "album": {
+        "name": "VEM NO PIQUE",
+        "url": "https://open.spotify.com/album/5ttntY13KCxOTIHgvdm2kO"
+      },
+      "artists": [
+        {
+          "name": "MGD",
+          "url": "https://open.spotify.com/artist/3STYzv5CU439PuqKi0CCGf"
+        },
+        {
+          "name": "Hwungii",
+          "url": "https://open.spotify.com/artist/3qAI31wl4QWza8G2bvm0vT"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100953,
+      "name": "VEM NO PIQUE",
+      "url": "https://open.spotify.com/track/3GbduPQThq9KIJ9Ql3JEaR"
     },
     {
       "album": {
@@ -38840,7 +38902,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 157948,
       "name": "YAPAR MISIN?",
       "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"

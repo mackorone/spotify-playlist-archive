@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kidd Voodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,559 likes - 170 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,523 likes - 170 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 12 | [Llover Pa' Arriba](https://open.spotify.com/track/5ToOLAZmfuJb7j1nt2byqs) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Millo Gangster Club](https://open.spotify.com/album/7Hh4GWH8UfNA2hgO6PbosD) | 3:00 |
 | 13 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 |
 | 14 | [dime tu bb](https://open.spotify.com/track/4G4v8SFiypvlXfCPVG0w2O) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [dime tu bb](https://open.spotify.com/album/4D4oTIQbQgrwIcMKIhFnAH) | 3:33 |
-| 15 | [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 |
+| 15 | [La Playa](https://open.spotify.com/track/5zDcxHJG72pGgL5USryAMm) | [BEATS PER MINUTES](https://open.spotify.com/artist/19Oso0ltYhvDbLtj7OkfCu), [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [La Playa](https://open.spotify.com/album/5jBa1IAdQJ4iyybFASSQRQ) | 2:56 |
 | 16 | [SOLITA](https://open.spotify.com/track/4UlGHMxhmg4L1uqF6qZLAL) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [SOLITA](https://open.spotify.com/album/5NG8dAO8PPVvT7629kbSan) | 3:54 |
 | 17 | [TAMOAQUI \(Bonus Track\)](https://open.spotify.com/track/5JgZ37BTp9nVuXFUoRZHRv) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Fine Pack Vol\. 1](https://open.spotify.com/album/2fTc0Fh5dcNJwh9WWmoyvI) | 2:12 |
 | 18 | [Telenovela \- A COLORS SHOW](https://open.spotify.com/track/5WZaRKWmxLuoQqpsrbOQw8) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Telenovela \- A COLORS SHOW](https://open.spotify.com/album/7MmNrpIYMaertJRmaXHu7t) | 2:33 |

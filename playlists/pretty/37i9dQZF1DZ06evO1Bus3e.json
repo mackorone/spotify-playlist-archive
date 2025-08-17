@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12418,
+  "num_followers": 12419,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAD5TKutRr27/t1+GwuvqR7E",
+  "snapshot_id": "aJ54gAAAAADgE+/eHJYBzqLTRLkNizZY",
   "tracks": [
     {
       "added_at": null,
@@ -351,46 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DDM Anthem",
-        "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Brianshredz",
-          "url": "https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o"
-        },
-        {
-          "name": "Kevin Cortez",
-          "url": "https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9"
-        }
-      ],
-      "duration_ms": 258726,
-      "name": "DDM Anthem",
-      "url": "https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 164064,
-      "name": "El Vivo Retrato (Ivan Archivaldo)",
-      "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.3",
         "url": "https://open.spotify.com/album/4ebX87u1162NvdQe0qKbiS"
       },
@@ -407,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
       "artists": [
         {
@@ -416,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 212749,
-      "name": "L.A. Dank",
-      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
+      "duration_ms": 164064,
+      "name": "El Vivo Retrato (Ivan Archivaldo)",
+      "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
     },
     {
       "added_at": null,
@@ -443,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 212749,
+      "name": "L.A. Dank",
+      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 238116,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DDM Anthem",
+        "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Brianshredz",
+          "url": "https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o"
+        },
+        {
+          "name": "Kevin Cortez",
+          "url": "https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9"
+        }
+      ],
+      "duration_ms": 258726,
+      "name": "DDM Anthem",
+      "url": "https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW"
     },
     {
       "added_at": null,

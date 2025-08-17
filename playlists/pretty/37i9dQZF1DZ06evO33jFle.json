@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 509730,
+  "num_followers": 509846,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAAD5byOjOcxGg6PqBqSzS1Z5",
+  "snapshot_id": "aJ54gAAAAAAz3ziCk9mRnUg01LbVZ0Ob",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 31760,
+      "name": "Intro: Pimienta y Especies",
+      "url": "https://open.spotify.com/track/2n0aVaak5ssmX8DJ9NarQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 158915,
       "name": "Trono Ca\u00eddo",
       "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
-      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 31760,
-      "name": "Intro: Pimienta y Especies",
-      "url": "https://open.spotify.com/track/2n0aVaak5ssmX8DJ9NarQ8"
+      "duration_ms": 233666,
+      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
+      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "indie folk latino de estaci\u00f3n. Foto: Inbal Comedi",
-  "num_followers": 61023,
+  "num_followers": 61018,
   "original_name": "folk & invierno",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Si Sabes Regresar",
-        "url": "https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN"
-      },
-      "artists": [
-        {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
-        }
-      ],
-      "duration_ms": 158658,
-      "name": "Si Sabes Regresar",
-      "url": "https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "sin dormir",
         "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Si Sabes Regresar",
+        "url": "https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 158658,
+      "name": "Si Sabes Regresar",
+      "url": "https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Reminiscencia",
-        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
-      },
-      "artists": [
-        {
-          "name": "Lu Ferreyra",
-          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
-        }
-      ],
-      "duration_ms": 220537,
-      "name": "Reminiscencia",
-      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Reminiscencia",
+        "url": "https://open.spotify.com/album/2YYYKlbq15SgyHOzyTqLvu"
+      },
+      "artists": [
+        {
+          "name": "Lu Ferreyra",
+          "url": "https://open.spotify.com/artist/723edx2BuJb3sprVI7DDyO"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Reminiscencia",
+      "url": "https://open.spotify.com/track/0bk8u1GOiuSJyIhvmzvQ10"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Sentado Esperando",
-        "url": "https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2"
-      },
-      "artists": [
-        {
-          "name": "Juan Wauters",
-          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
-        },
-        {
-          "name": "Nacho Rodriguez",
-          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
-        }
-      ],
-      "duration_ms": 257564,
-      "name": "Sentado Esperando",
-      "url": "https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Sentado Esperando",
+        "url": "https://open.spotify.com/album/5j39PJXUoATpOofTtr8JX2"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        },
+        {
+          "name": "Nacho Rodriguez",
+          "url": "https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9"
+        }
+      ],
+      "duration_ms": 257564,
+      "name": "Sentado Esperando",
+      "url": "https://open.spotify.com/track/4Df4BpSE9IsdGNoMkNRqVb"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
-      },
-      "artists": [
-        {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
-        }
-      ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+      },
+      "artists": [
+        {
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+        }
+      ],
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
         "name": "2:42",
         "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
       },
@@ -1147,6 +1147,26 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Comerte la boca (Nos Vamos a Comer)",
+        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "laia",
+          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
+        }
+      ],
+      "duration_ms": 147658,
+      "name": "Comerte la boca (Nos Vamos a Comer)",
+      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1187,26 +1207,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Comerte la boca (Nos Vamos a Comer)",
-        "url": "https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "laia",
-          "url": "https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5"
-        }
-      ],
-      "duration_ms": 147658,
-      "name": "Comerte la boca (Nos Vamos a Comer)",
-      "url": "https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
-      },
-      "artists": [
-        {
-          "name": "Luciana Tagliapietra",
-          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 170353,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD"
+      },
+      "artists": [
+        {
+          "name": "Luciana Tagliapietra",
+          "url": "https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 170353,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
         "name": "Bailar en la Cuerda Floja",
         "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 221620,
       "name": "Bailar en la Cuerda Floja",
       "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
-        "name": "Dolor",
-        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
-      },
-      "artists": [
-        {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
-        }
-      ],
-      "duration_ms": 168037,
-      "name": "Dolor",
-      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1331,6 +1315,22 @@
       "duration_ms": 166500,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Dolor",
+        "url": "https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h"
+      },
+      "artists": [
+        {
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+        }
+      ],
+      "duration_ms": 168037,
+      "name": "Dolor",
+      "url": "https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Lo Que Hicimos",
         "url": "https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 157725,
       "name": "Lo Que Hicimos",
       "url": "https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
     },
     {
       "added_at": "2025-08-01 03:00:09",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-08-01 03:00:09",
       "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        },
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Trance",
-      "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
-    },
-    {
-      "added_at": "2025-08-01 03:00:09",
-      "album": {
         "name": "Un Nuevo Refugio (Dulce Cuarto Sesiones) [En Vivo]",
         "url": "https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 187000,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
+    },
+    {
+      "added_at": "2025-08-01 03:00:09",
+      "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        },
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 241810,
+      "name": "Trance",
+      "url": "https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T"
     }
   ],
   "unique_name": "folk & invierno",

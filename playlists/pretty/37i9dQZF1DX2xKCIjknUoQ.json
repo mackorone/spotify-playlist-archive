@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 52968,
+  "num_followers": 52994,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
-      },
-      "artists": [
-        {
-          "name": "Mickey 3d",
-          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
-    },
-    {
-      "added_at": "2024-06-24 19:56:15",
-      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227973,
       "name": "Travel The World",
       "url": "https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn"
+    },
+    {
+      "added_at": "2024-06-24 19:56:15",
+      "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
+      },
+      "artists": [
+        {
+          "name": "Mickey 3d",
+          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
     },
     {
       "added_at": "2024-06-24 19:56:15",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-06-24 19:56:15",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb"
+        "name": "F F F",
+        "url": "https://open.spotify.com/album/3dl7Hqd2srZudubpaD8sTC"
       },
       "artists": [
         {
-          "name": "Detroit",
-          "url": "https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj"
+          "name": "F.F.F.",
+          "url": "https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Droit Dans Le Soleil",
-      "url": "https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu"
+      "duration_ms": 205466,
+      "name": "Le pire et le meilleur",
+      "url": "https://open.spotify.com/track/3SrUddck55h8vSltaiRGdi"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

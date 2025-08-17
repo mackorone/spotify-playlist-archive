@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 171 | [Blue](https://open.spotify.com/track/7IZCKhsBUkQ4lmBJzQOJSa) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:01 |
 | 172 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 |
 | 173 | [Quiet](https://open.spotify.com/track/4ojR83QBW57NgmFnCgR9gT) | [Wales](https://open.spotify.com/artist/3IxDETkXytMePFoyf7PYWQ) | [Quiet](https://open.spotify.com/album/2A1wpSpxxMBo1VNWRB4eeN) | 3:58 |
-| 174 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
-| 175 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
+| 174 | [Marigold](https://open.spotify.com/track/4CpewcqnF27xgFe4LWJebp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:03 |
+| 175 | [Like a Dream](https://open.spotify.com/track/0pmq1cjqHDBT87pJabXhq1) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Like a Dream](https://open.spotify.com/album/4P7xlrlQlV7Urlf3yZLoOt) | 3:32 |
 | 176 | [What You Want](https://open.spotify.com/track/6oAPRV8xNp5i8VT8kfahWL) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:07 |
 | 177 | [Backseat](https://open.spotify.com/track/5Kcd6Da7qph8vcnNyBYZ3f) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Crush](https://open.spotify.com/album/7tAcbMEaIxArJI00HCNWgs) | 3:46 |
 | 178 | [Further Out](https://open.spotify.com/track/5F76wwoJnfFV4dRRsuqHdl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:17 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 251 | [Water Lily](https://open.spotify.com/track/635tpDIpccjgHnOmd80WfP) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [III](https://open.spotify.com/album/0nsv6a3ClDLQKjpRlQWaza) | 2:45 |
 | 252 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Ab5mNAAAAAAPqWNG8NUVKvf9NfaMHzfG`
+Snapshot ID: `Ab5r8gAAAAAq1KliwKKMrvt848dzNyuI`

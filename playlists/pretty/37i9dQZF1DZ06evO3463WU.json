@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 155174,
+  "num_followers": 155190,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAACHNp7ZYkjmgQXLvGOSzEmO",
+  "snapshot_id": "aJ54gAAAAABWZv+1LsA3fcrpJ0OOmkzE",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Historia De Un Amor",
+        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
         "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 218493,
       "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
       "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Historia De Un Amor",
-        "url": "https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS"
     },
     {
       "added_at": null,

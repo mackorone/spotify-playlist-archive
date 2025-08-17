@@ -1,12 +1,12 @@
 {
   "description": "This is Quicksand. The essential tracks, all in one playlist.",
-  "num_followers": 1487,
+  "num_followers": 1488,
   "original_name": "This Is Quicksand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADJ9n/7jfJW4zjL4wO672hK",
+  "snapshot_id": "aJ54gAAAAADxzASYxYMXDp9bDITvbJpC",
   "tracks": [
     {
       "added_at": null,
@@ -292,15 +292,15 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 153226,
-      "name": "Omission",
-      "url": "https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0"
+      "duration_ms": 199160,
+      "name": "Freezing Process",
+      "url": "https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Triptych Continuum",
-        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 206130,
-      "name": "Multiverse",
-      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
+      "duration_ms": 169400,
+      "name": "Supercollider",
+      "url": "https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz"
     },
     {
       "added_at": null,
@@ -356,41 +356,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Freezing Process",
-      "url": "https://open.spotify.com/track/5VBol3e1pnxK1yjsl0jppx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/3rApgZdYko2Nt8Xm5W4Tnb"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Supercollider",
-      "url": "https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manic Compression",
-        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "Simpleton",
-      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
+      "duration_ms": 153226,
+      "name": "Omission",
+      "url": "https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0"
     },
     {
       "added_at": null,
@@ -411,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6"
       },
       "artists": [
         {
@@ -420,9 +388,25 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Clean Slate",
-      "url": "https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI"
+      "duration_ms": 155066,
+      "name": "Simpleton",
+      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triptych Continuum",
+        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 206130,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
     },
     {
       "added_at": null,
@@ -439,6 +423,38 @@
       "duration_ms": 154600,
       "name": "Free Radio Gainesville",
       "url": "https://open.spotify.com/track/619tfzPgzkD5aGUFF30PkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Fire This Time",
+      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI"
     },
     {
       "added_at": null,
@@ -467,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+        "name": "The Liberation Frequency",
+        "url": "https://open.spotify.com/album/3CGZ5i3Q8Z5dirnVhm5Zjv"
       },
       "artists": [
         {
@@ -476,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Fire This Time",
-      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
+      "duration_ms": 245800,
+      "name": "The Liberation Frequency",
+      "url": "https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 211237,
       "name": "Giving The Past Away",
       "url": "https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Liberation Frequency",
-        "url": "https://open.spotify.com/album/3CGZ5i3Q8Z5dirnVhm5Zjv"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 245800,
-      "name": "The Liberation Frequency",
-      "url": "https://open.spotify.com/track/2M9ZSHEQVaqdwcKoePiVKe"
     }
   ],
   "unique_name": "This Is Quicksand",

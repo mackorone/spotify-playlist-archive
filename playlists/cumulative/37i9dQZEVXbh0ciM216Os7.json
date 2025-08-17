@@ -3926,7 +3926,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 212962,
       "name": "Back in the Saddle",
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 144201,
       "name": "Bear Hill",
       "url": "https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn"
@@ -15629,6 +15629,24 @@
     },
     {
       "album": {
+        "name": "Ensenada",
+        "url": "https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154484,
+      "name": "Ensenada",
+      "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
+    },
+    {
+      "album": {
         "name": "Enter the swarm",
         "url": "https://open.spotify.com/album/62ElD2u33xgs9pAz9wyFsT"
       },
@@ -25390,7 +25408,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 220407,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/5TEbPy96mbPIH31c3XMWBK"
@@ -36833,6 +36851,28 @@
     },
     {
       "album": {
+        "name": "STAR LINE (Clean)",
+        "url": "https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E"
+    },
+    {
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -36848,7 +36888,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 293050,
       "name": "No More Old Men (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
@@ -47632,10 +47672,28 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 274302,
       "name": "SPACE INVADER",
       "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
+    },
+    {
+      "album": {
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274302,
+      "name": "SPACE INVADER",
+      "url": "https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4"
     },
     {
       "album": {
@@ -50732,7 +50790,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 202133,
       "name": "Tell Me What It Is",
       "url": "https://open.spotify.com/track/5lFf9WQMwthejzRre8ObNf"
@@ -53166,7 +53224,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"

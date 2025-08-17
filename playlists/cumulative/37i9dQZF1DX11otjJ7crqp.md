@@ -4,7 +4,7 @@
 
 > All this week's best new pop releases\. Cover: Claire Rosinkranz
 
-9,154 songs - 19 day 1 hr 9 min
+9,155 songs - 19 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2730,7 +2730,7 @@
 | [Finish Line](https://open.spotify.com/track/3O9zNcKGwoNLq4vUSqPekJ) | [HANA](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Finish Line](https://open.spotify.com/album/0lHlWcm8GT3PGJWxYIhAJJ) | 2:10 | 2025-08-15 |  |
 | [Fire](https://open.spotify.com/track/3BrPNamOVSIICrC2Kz0TDi) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole](https://open.spotify.com/album/6B7J2anabeL3P2kKK6UsOJ) | 3:45 | 2025-02-14 | 2025-03-01 |
 | [Fire](https://open.spotify.com/track/2dC02ccOj7ncAo1iaVg1Yt) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Fire](https://open.spotify.com/album/7cvRl2n8I7sleK9VUOPMQH) | 3:05 | 2025-06-27 | 2025-07-12 |
-| [Fire](https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Fire](https://open.spotify.com/album/0F6GGtpOpeS0Tl5Ks74X0W) | 2:47 | 2025-08-08 |  |
+| [Fire](https://open.spotify.com/track/5R3mhmaTWx6zlLgmBimBS6) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [Fire](https://open.spotify.com/album/0F6GGtpOpeS0Tl5Ks74X0W) | 2:47 | 2025-08-08 | 2025-08-17 |
 | [Fire Escapes](https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fire Escapes](https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK) | 2:50 | 2023-11-24 | 2023-12-23 |
 | [Fire Sign \(with Mikky Ekko\)](https://open.spotify.com/track/6EApscnGR126kSMYrqJ4kw) | [TRY](https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Shmuck the Loyal](https://open.spotify.com/artist/2P8NapWy187EyueZtdIg0C), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Fire Sign \(with Mikky Ekko\)](https://open.spotify.com/album/2vdcDXE3p5uDlGHj2Q8ULy) | 3:35 | 2023-01-13 | 2023-01-28 |
 | [Fired](https://open.spotify.com/track/3pswST6FEbW1HKR5AQiXm6) | [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Fired](https://open.spotify.com/album/7rn0KhYtCySANpEwwc00a6) | 2:38 | 2024-04-05 | 2024-04-19 |
@@ -6338,6 +6338,7 @@
 | [Placeholder](https://open.spotify.com/track/29waTH1Aw073qFjgRT03iJ) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Placeholder](https://open.spotify.com/album/3rAjk0lBzRqRN3XvNmyP1B) | 2:42 | 2023-04-14 | 2023-04-22 |
 | [placeholder](https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [placeholder](https://open.spotify.com/album/5wIu0AYkYEuZ1tKg9PFsUd) | 3:35 | 2025-04-11 | 2025-04-26 |
 | [Plain Jane](https://open.spotify.com/track/6Unkyut2N51QwGooY2jvHi) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Plain Jane](https://open.spotify.com/album/13aj4aihjIuJ1Ggwi6QIC5) | 2:45 | 2023-03-17 | 2023-03-25 |
+| [Plan A \(Dance\)](https://open.spotify.com/track/6tmV50auKhS4U7DTqnpicM) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Pigs Fly](https://open.spotify.com/album/5VwfJrkLas04tu4Lwkixqz) | 2:24 | 2025-08-15 |  |
 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 | 2024-02-23 | 2024-03-09 |
 | [PLANS](https://open.spotify.com/track/2aMsrMn7krkRtArl39lMxz) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [PLANS\*HANDLEBARS](https://open.spotify.com/album/2ugIFN8shtYMyVAX0iFHmg) | 3:04 | 2024-10-11 | 2024-10-26 |
 | [Plastic Box](https://open.spotify.com/track/7zPfFxH8WxUUffU8rqB4kU) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Plastic Box](https://open.spotify.com/album/1G7QhWDD2FgO8Rcmt7BYSj) | 3:21 | 2025-06-20 | 2025-06-28 |

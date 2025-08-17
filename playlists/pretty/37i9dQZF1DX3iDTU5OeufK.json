@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 119429,
+  "num_followers": 119449,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 191018,
-      "name": "Qu\u00e9 Pasar\u00eda...",
-      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "PILATES",
-        "url": "https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA"
-      },
-      "artists": [
-        {
-          "name": "ARIA BELA",
-          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
-        }
-      ],
-      "duration_ms": 164864,
-      "name": "PILATES",
-      "url": "https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
         "name": "K23",
         "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
+        "name": "PILATES",
+        "url": "https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA"
+      },
+      "artists": [
+        {
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+        }
+      ],
+      "duration_ms": 164864,
+      "name": "PILATES",
+      "url": "https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 198211,
-      "name": "+ Perra + Bitch",
-      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
         "name": "PCD",
         "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 198211,
+      "name": "+ Perra + Bitch",
+      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "ONLINE",
-        "url": "https://open.spotify.com/album/1yBBV8Gozmhg1xS6AjZ5nV"
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
       },
       "artists": [
         {
-          "name": "ARIA BELA",
-          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 212000,
-      "name": "ONLINE",
-      "url": "https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ"
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+        "name": "ONLINE",
+        "url": "https://open.spotify.com/album/1yBBV8Gozmhg1xS6AjZ5nV"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "ARIA BELA",
+          "url": "https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+      "duration_ms": 212000,
+      "name": "ONLINE",
+      "url": "https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1291,26 +1311,6 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "EX EX EX",
-      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
         "name": "Hermanas de leche",
         "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 165318,
       "name": "Hermanas de leche",
       "url": "https://open.spotify.com/track/5pHma7j2lG1mAsB04ZIoXr"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "EX EX EX",
+      "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1459,18 +1459,22 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd"
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
       },
       "artists": [
         {
           "name": "Sevdaliza",
           "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 176250,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv"
+      "duration_ms": 184510,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1547,22 +1551,18 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd"
       },
       "artists": [
         {
           "name": "Sevdaliza",
           "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 184510,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+      "duration_ms": 176250,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv"
     },
     {
       "added_at": "2025-07-11 06:00:36",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
-        "name": "No Es Pecado -Remasters",
-        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
-      },
-      "artists": [
-        {
-          "name": "Alaska Y Dinarama",
-          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "A qui\u00e9n le importa",
-      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
         "name": "Mu\u00f1ekita (with El Alfa & JT)",
         "url": "https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4"
       },
@@ -1771,6 +1755,38 @@
     {
       "added_at": "2025-07-11 06:00:36",
       "album": {
+        "name": "No Es Pecado -Remasters",
+        "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
+      },
+      "artists": [
+        {
+          "name": "Alaska Y Dinarama",
+          "url": "https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "A qui\u00e9n le importa",
+      "url": "https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
+    },
+    {
+      "added_at": "2025-07-11 06:00:36",
+      "album": {
         "name": "LA REINA (REMIX)",
         "url": "https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 205223,
       "name": "LA REINA - REMIX",
       "url": "https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M"
-    },
-    {
-      "added_at": "2025-07-11 06:00:36",
-      "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2025-07-11 06:00:36",

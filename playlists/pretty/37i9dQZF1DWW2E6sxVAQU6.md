@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,920 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,928 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 2 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
+| 2 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
 | 3 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |
-| 4 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
+| 4 | [ZITTI E BUONI](https://open.spotify.com/track/1lWWoec2z1j88GRblI5anV) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [ZITTI E BUONI](https://open.spotify.com/album/3DBUrkaKptFY2JSKpfukiy) | 3:12 |
 | 5 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 |
 | 6 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
 | 7 | [Rolls Royce \(feat\. Boss Doms, Frenetik&Orang3\)](https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w) | [1969 \- Achille Idol Rebirth](https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU) | 2:53 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 34 | [Mamma Non Lo Sa](https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG) | [Almamegretta](https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6) | [Controra](https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd) | 3:12 |
 | 35 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 36 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |
-| 37 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
-| 38 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
+| 37 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
+| 38 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
 | 39 | [La bottega del caffe'](https://open.spotify.com/track/4vgziFK1AtMxdnZllyaDnC) | [Alberto Camerini](https://open.spotify.com/artist/7kOQR3ATctYUODFM38PUOI) | [Rockmantic Collection](https://open.spotify.com/album/47UVu4TaCdXT12GFQPswt3) | 3:40 |
 | 40 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
 | 41 | [Pafff.\. bum!](https://open.spotify.com/track/3rIyt8qnPDXR8GRaWeiVtX) | [Gianfranco Reverberi](https://open.spotify.com/artist/0LDkZ7eiExUAygRAbJEzdq), [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [12000 lune](https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ) | 2:21 |

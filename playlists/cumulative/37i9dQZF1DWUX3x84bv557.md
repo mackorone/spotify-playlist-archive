@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop: LUNA & Russo \(cover\), Pommelien Thijs, Ruben Annink & Danique en meer...
 
-1,032 songs - 2 day 1 hr 16 min
+1,032 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,7 +935,7 @@
 | [Voor Mij \(with Nouri\)](https://open.spotify.com/track/7r5JpitFMYxZS8VDAS33jR) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/6k7cmSyTY44n7JeLGVJeRa) | [Voor Mij \(with Nouri\)](https://open.spotify.com/album/2TLxcaHWnaxg7lUbY135GQ) | 2:06 | 2025-03-06 | 2025-03-28 |
 | [Voor Mijn Hart](https://open.spotify.com/track/7ikORk2VQ1J3uD7JhzJnxs) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Voor Mijn Hart](https://open.spotify.com/album/3GIvLv9vHbiWk96h7zWGkL) | 3:04 | 2023-03-30 | 2023-05-26 |
 | [Voor Wat Je Lief Is](https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Spuug van God](https://open.spotify.com/album/1aAim07lpl5ARWVls0wKqM) | 3:06 | 2024-03-04 | 2024-05-17 |
-| [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 3:01 | 2025-08-14 |  |
+| [Voorbestemd](https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Voorbestemd](https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK) | 2:58 | 2025-08-14 |  |
 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 | 2025-02-13 | 2025-05-02 |
 | [Vrij Zijn](https://open.spotify.com/track/5cc7puTXcWlFYBpbAnWOv6) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Vrij Zijn](https://open.spotify.com/album/2qcDAnc2O7lEmCokCnQRor) | 2:49 | 2025-07-10 |  |
 | [Vrij Zijn](https://open.spotify.com/track/3rLZSLUZVZTcEVRgGjKPPF) | [Hiske](https://open.spotify.com/artist/0pIDqclsUDmHZ6XAvVZp0D) | [Vrij Zijn](https://open.spotify.com/album/4iisHiRRZZtHOTnbLqpRqD) | 3:00 | 2025-06-19 | 2025-07-11 |

@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 38495,
+  "num_followers": 38488,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "If the World Was Ending (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 208687,
-      "name": "If the World Was Ending (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "If the World Was Ending (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 208687,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 276066,
-      "name": "Lost Boy",
-      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "It's About Us",
         "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 185200,
       "name": "Little Do You Know",
       "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 276066,
+      "name": "Lost Boy",
+      "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "WITHERED",
-        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 195328,
-      "name": "Is This Really Love?",
-      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5jxXFBCxg9dCJhj1Ev8TNq"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 164129,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/4ks6j7JsfJorc1tb4THJo8"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "WITHERED",
+        "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 195328,
+      "name": "Is This Really Love?",
+      "url": "https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
+        "name": "You Let Me Walk Alone",
+        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "You Let Me Walk Alone",
+      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
         "name": "One Call Away (Acoustic)",
         "url": "https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
-        "name": "7 Layers",
-        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 209687,
-      "name": "Hungry",
-      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "You Let Me Walk Alone",
-        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
+        "name": "7 Layers",
+        "url": "https://open.spotify.com/album/6j7rolGd1DxrUDzo2XfC8z"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
         }
       ],
-      "duration_ms": 177886,
-      "name": "You Let Me Walk Alone",
-      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
+      "duration_ms": 209687,
+      "name": "Hungry",
+      "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
     },
     {
       "added_at": "2025-06-26 16:39:05",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2025-06-26 16:39:05",
       "album": {
-        "name": "7 Layers (Special Edition)",
-        "url": "https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Let The River In",
-      "url": "https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8"
-    },
-    {
-      "added_at": "2025-06-26 16:39:05",
-      "album": {
         "name": "Catch & Release",
         "url": "https://open.spotify.com/album/1nOS6PITU27mls9l2TH4r4"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 240066,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/3lsKY1alCeIrwkaYRI4sxV"
+    },
+    {
+      "added_at": "2025-06-26 16:39:05",
+      "album": {
+        "name": "7 Layers (Special Edition)",
+        "url": "https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Let The River In",
+      "url": "https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8"
     },
     {
       "added_at": "2025-06-26 16:39:05",

@@ -1,6 +1,6 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 221006,
+  "num_followers": 221055,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
+        "name": "voiles",
+        "url": "https://open.spotify.com/album/6KFW23WCeuR4fGz4cXuVLF"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        },
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "voiles",
+      "url": "https://open.spotify.com/track/2IEITXZudr701Y1KL2NqxF"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
         "name": "Ama\u00ebl",
         "url": "https://open.spotify.com/album/5OZJSP6ZtivR8Myi1in5YA"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 137213,
       "name": "Memory of Water",
       "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
-        "name": "voiles",
-        "url": "https://open.spotify.com/album/6KFW23WCeuR4fGz4cXuVLF"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        },
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "voiles",
-      "url": "https://open.spotify.com/track/2IEITXZudr701Y1KL2NqxF"
     },
     {
       "added_at": "2025-08-08 15:24:24",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
-        "name": "Impression, Skyline",
-        "url": "https://open.spotify.com/album/53AXZR0XL1gMBU08OoumdL"
-      },
-      "artists": [
-        {
-          "name": "Dardust",
-          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
-        }
-      ],
-      "duration_ms": 221408,
-      "name": "Impression, Skyline",
-      "url": "https://open.spotify.com/track/3F4unb6FxZuMV78D3t3Yb9"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
         "name": "A Tiny Ripple That Becomes A Giant Wave",
         "url": "https://open.spotify.com/album/2Bek2tLtyxT0wxwVxi4BU2"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 210440,
       "name": "A Tiny Ripple That Becomes A Giant Wave",
       "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
+        "name": "Impression, Skyline",
+        "url": "https://open.spotify.com/album/53AXZR0XL1gMBU08OoumdL"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "duration_ms": 221408,
+      "name": "Impression, Skyline",
+      "url": "https://open.spotify.com/track/3F4unb6FxZuMV78D3t3Yb9"
     },
     {
       "added_at": "2025-08-08 15:24:24",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
+        "name": "s\u00e9r\u00e9nades",
+        "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 284543,
+      "name": "yanni (piano)",
+      "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
         "name": "Br\u00e5ddjup",
         "url": "https://open.spotify.com/album/09X4bKe4wtQzL420dXtNay"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 184347,
       "name": "Br\u00e5ddjup",
       "url": "https://open.spotify.com/track/72X3TNw4gupUSI1BVC1fp9"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
-        "name": "s\u00e9r\u00e9nades",
-        "url": "https://open.spotify.com/album/1f9rbU8V20zuspGqNZC3dq"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 284543,
-      "name": "yanni (piano)",
-      "url": "https://open.spotify.com/track/18C6YL3LvUsjh1GEbBYWtj"
     },
     {
       "added_at": "2025-08-08 15:24:24",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
+        "name": "Town of Widows (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56Wl1Ce2jRBfFQjrwKBMTx"
+      },
+      "artists": [
+        {
+          "name": "Rob McAllister",
+          "url": "https://open.spotify.com/artist/3Sr2vN8SYHGGuMFG14Bvlg"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Persist and Persevere",
+      "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
         "name": "LYR",
         "url": "https://open.spotify.com/album/3NW0fyZvNtvLdBrK5VKf9H"
       },
@@ -2003,22 +2019,6 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
-        "name": "Town of Widows (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56Wl1Ce2jRBfFQjrwKBMTx"
-      },
-      "artists": [
-        {
-          "name": "Rob McAllister",
-          "url": "https://open.spotify.com/artist/3Sr2vN8SYHGGuMFG14Bvlg"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Persist and Persevere",
-      "url": "https://open.spotify.com/track/7tZAIFDdk4mTpxyjCmeyR7"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
         "name": "Luminescence EP",
         "url": "https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
-        "name": "Belonged",
-        "url": "https://open.spotify.com/album/3SxefnYU0SN9E7xlS9urh3"
-      },
-      "artists": [
-        {
-          "name": "Giuliano Poles",
-          "url": "https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "Belonged",
-      "url": "https://open.spotify.com/track/05iB7o0m4TQzj1Ac6TW9eD"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
         "name": "Upstream Dream",
         "url": "https://open.spotify.com/album/1srML4m8W67DuWLV3zAgRN"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 256005,
       "name": "Upstream Dream",
       "url": "https://open.spotify.com/track/36nGeAgQbzIgtvhTbOAA0S"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
+        "name": "Belonged",
+        "url": "https://open.spotify.com/album/3SxefnYU0SN9E7xlS9urh3"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Poles",
+          "url": "https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Belonged",
+      "url": "https://open.spotify.com/track/05iB7o0m4TQzj1Ac6TW9eD"
     },
     {
       "added_at": "2025-08-08 15:24:24",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/2u8jIYNrBc5obxvbXlAIYx"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Cullen",
+          "url": "https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE"
+        }
+      ],
+      "duration_ms": 123656,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
         "name": "is this really it?",
         "url": "https://open.spotify.com/album/0iAe8b0UeOxLbQHsippL5M"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 172716,
       "name": "is this really it?",
       "url": "https://open.spotify.com/track/2A8n9X3Jvw2oh7DH8OozPu"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/2u8jIYNrBc5obxvbXlAIYx"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Cullen",
-          "url": "https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE"
-        }
-      ],
-      "duration_ms": 123656,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
     },
     {
       "added_at": "2025-08-08 15:24:24",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
-        "name": "Nostalgi",
-        "url": "https://open.spotify.com/album/65HFrbOPleregv8K8Pq3fu"
-      },
-      "artists": [
-        {
-          "name": "Julia Andersson",
-          "url": "https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Nostalgi",
-      "url": "https://open.spotify.com/track/0BzLmawcOxJz0FhCWoGXHT"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
         "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
         "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 307840,
       "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
+        "name": "Nostalgi",
+        "url": "https://open.spotify.com/album/65HFrbOPleregv8K8Pq3fu"
+      },
+      "artists": [
+        {
+          "name": "Julia Andersson",
+          "url": "https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Nostalgi",
+      "url": "https://open.spotify.com/track/0BzLmawcOxJz0FhCWoGXHT"
     },
     {
       "added_at": "2025-08-08 15:24:24",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2025-08-08 15:24:24",
       "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
-    },
-    {
-      "added_at": "2025-08-08 15:24:24",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/2PkwLM9JNzXPVwQxyizrZC"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 234293,
       "name": "Reconnaissance Without End",
       "url": "https://open.spotify.com/track/7JIFJgMkEHvrasSXjoHBie"
+    },
+    {
+      "added_at": "2025-08-08 15:24:24",
+      "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
     },
     {
       "added_at": "2025-08-08 15:24:24",

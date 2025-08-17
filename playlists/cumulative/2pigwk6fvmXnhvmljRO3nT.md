@@ -4,7 +4,7 @@
 
 > 
 
-7,647 songs - 19 day 17 hr 54 min
+7,648 songs - 19 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4754,7 +4754,7 @@
 | [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 | 2025-01-03 |  |
 | [Red Moon](https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Red Moon](https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob) | 2:51 | 2025-04-24 |  |
 | [Red Room](https://open.spotify.com/track/2MJdgSby3DtSS7bUJx2cly) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Red Room](https://open.spotify.com/album/3lxvJqSvGR9o3Z402FnY0Z) | 4:01 | 2025-01-04 |  |
-| [Red Rose](https://open.spotify.com/track/61FX2iQOlgHjTStwENyg0T) | [Woo Ye Rin	](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Day : 바람의 옷을 입고 초록을 달리네](https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5) | 3:34 | 2025-08-05 |  |
+| [Red Rose](https://open.spotify.com/track/61FX2iQOlgHjTStwENyg0T) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Day : 바람의 옷을 입고 초록을 달리네](https://open.spotify.com/album/2XTYLKxTTLNrz7tgcjQjv5) | 3:34 | 2025-08-05 |  |
 | [Red Velvet](https://open.spotify.com/track/5AnpPlwvf01F9D1gcAbCRa) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:52 | 2025-01-15 |  |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2024-12-14 |  |
 | [Redbone](https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 5:26 | 2025-01-12 |  |
@@ -7524,6 +7524,7 @@
 | [십계 \(십계명\)](https://open.spotify.com/track/3rnjtMTkP5vf3EzWJakq81) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool 4.5 Best Winter Version](https://open.spotify.com/album/6WmVvxjgeZgeXHObv6jnx7) | 3:45 | 2024-12-14 |  |
 | [아로하](https://open.spotify.com/track/5oX05zSKGE4uFZakzvg0B0) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [First Whisper](https://open.spotify.com/album/2ib6GGdpldDCmH8ql12bI3) | 4:27 | 2024-12-14 |  |
 | [아름다운 구속](https://open.spotify.com/track/5CE7Q33bONpzjgKAjRkDxv) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Ⅴ](https://open.spotify.com/album/4eKFy8EDH3HrAU6G0AOEp3) | 4:12 | 2025-01-03 |  |
+| [아름다운 세상](https://open.spotify.com/track/4uh2B2Ps2Nci12nkzcj1nH) | [Yurisangja](https://open.spotify.com/artist/0yHsQ2vzDleLT7qjgo7qt7) | [All That Yurisangja](https://open.spotify.com/album/2AFoXmIqS5xgmaCzQRBtlY) | 3:34 | 2025-08-17 |  |
 | [아름다운 세상](https://open.spotify.com/track/1U7aeIHtT712qmF4NnqxS6) | [유리상자](https://open.spotify.com/artist/0XT8epaZZMkIeYcu17Ie2Z) | [All That Yurisangja](https://open.spotify.com/album/4Tx0odGJYdzB6eCZGbU1De) | 3:34 | 2025-01-15 |  |
 | [아름다운 오해](https://open.spotify.com/track/77kzQDQXcy1nw5j9JF9no5) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:04 | 2025-01-03 |  |
 | [아버지와나](https://open.spotify.com/track/4ga6fPHRcRg7Rkj4UpmrlN) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [넥스트 5.5집](https://open.spotify.com/album/5JlCKiLaaF0P0ny9QjlnXk) | 5:09 | 2025-01-04 |  |

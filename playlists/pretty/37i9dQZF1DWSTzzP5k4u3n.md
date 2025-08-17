@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Tuure Kilpeläinen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,249 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,270 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
-| 2 | [Ikipuut](https://open.spotify.com/track/1PcPem1EN5DY6jDO2fq7pI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Ikipuut](https://open.spotify.com/album/3FPM3ZGoZZrVkj1hhq8yX4) | 3:13 |
+| 1 | [Ikipuut](https://open.spotify.com/track/1PcPem1EN5DY6jDO2fq7pI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Ikipuut](https://open.spotify.com/album/3FPM3ZGoZZrVkj1hhq8yX4) | 3:13 |
+| 2 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
 | 3 | [Kesävieraat](https://open.spotify.com/track/5nrCMYvV23bw9THeTgGFrW) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kesävieraat](https://open.spotify.com/album/5a8scIkc9EqfeJtpMnQmlL) | 3:06 |
 | 4 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
 | 5 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Yhen yön terapia](https://open.spotify.com/track/7qXuK2hqFCmIYvDrUJqpfX) | [MINÄMINÄ](https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl) | [Pari terapiaa](https://open.spotify.com/album/1O6NJhNKL4TXcZa4x5nmQy) | 3:56 |
 | 80 | [Ennen kuin linnut vaikenee](https://open.spotify.com/track/4LkjEAQP3sihKg82Cb3V9Y) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Ennen kuin linnut vaikenee](https://open.spotify.com/album/0MnLtJlF4tWtu3vpy7K46X) | 3:22 |
 
-Snapshot ID: `AAAAANdtXZ2FMDKCmdNaLjJS3h1JMInw`
+Snapshot ID: `AAAAACdVBz6YDhilEL5LNxC6pGrZiSyz`

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,010 songs - 11 day 13 hr 16 min
+5,011 songs - 11 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2069,6 +2069,7 @@
 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-06 | 2025-06-28 |
 | [I DID NOT FORGET YOU](https://open.spotify.com/track/1J9xPvtoRnGej6gj4D4E4b) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [I DID NOT FORGET YOU](https://open.spotify.com/album/6mM1w3dqGuUC0lf3S9tnwh) | 3:31 | 2025-01-24 | 2025-02-01 |
 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/3szxCZ6sxjkJzg2v8VfFji) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/6KePTmkw32h7TdPsAfdN1u) | 2:46 | 2024-10-04 | 2024-10-12 |
+| [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 | 2025-08-16 |  |
 | [I Don't Trust A Soul](https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [I Don't Trust A Soul](https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP) | 2:26 | 2025-08-07 | 2025-08-16 |
 | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/track/616pKgs2dHcWAygreRapKM) | [Vlad Holiday](https://open.spotify.com/artist/4kzBapiIVMxwhJLsTm28Gc), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [I Don't Wanna Party Anymore \(Feat\. Kacey Musgraves\)](https://open.spotify.com/album/6cSRavtBLkklc8TjWTi91S) | 2:52 | 2024-08-16 | 2024-08-24 |
 | [I Don’t Work Here Anymore](https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Motel Du Cap](https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD) | 3:41 | 2025-08-07 | 2025-08-16 |

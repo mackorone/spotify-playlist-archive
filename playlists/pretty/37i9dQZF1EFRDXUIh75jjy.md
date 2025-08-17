@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 233 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 644 likes - 233 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 60 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 |
 | 61 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 |
 | 62 | [Sad Forever](https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror \(Deluxe\)](https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq) | 2:55 |
-| 63 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
-| 64 | [No Time To Talk](https://open.spotify.com/track/4vK7HSyLhSCG6OzLt6C8i0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:35 |
+| 63 | [No Time To Talk](https://open.spotify.com/track/4vK7HSyLhSCG6OzLt6C8i0) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:35 |
+| 64 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
 | 65 | [to the grave](https://open.spotify.com/track/5V7wh1SBtYZTqRLEsBuZAL) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:57 |
 | 66 | [Don't Want It Back](https://open.spotify.com/track/2yqhHi9QfZ5INE13sS5Bva) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:01 |
 | 67 | [ok with it](https://open.spotify.com/track/26xOau4IoTbBTdcVjITxcp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 2:45 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 152 | [All My Life](https://open.spotify.com/track/0Hb0Z2YDsu8WKZlj8jSfMw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:56 |
 | 153 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
 | 154 | [Hanging On](https://open.spotify.com/track/6hDXJbOh3PmAO8d6NSfSEv) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Hanging On](https://open.spotify.com/album/0PlU5KBD4gYLyee8ixByoR) | 2:51 |
-| 155 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 |
-| 156 | [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 |
+| 155 | [Grudge](https://open.spotify.com/track/5bflBZU8xtdhfuLJMVlVWy) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Grudge](https://open.spotify.com/album/3fv6xGd7MydT0OjTM7Gnbt) | 3:15 |
+| 156 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 |
 | 157 | [U Sometimes](https://open.spotify.com/track/1w77M7nvWjLJOO1ffSOzua) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Be Alright // U Sometimes](https://open.spotify.com/album/2l9hUZ6VOlwDim9igWpiK5) | 2:48 |
 | 158 | [Chameleon](https://open.spotify.com/track/2dUbh6RaHpDQd8gTlu2hUg) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Chameleon](https://open.spotify.com/album/2sHZNoBTXZmva4P2CD7DNT) | 3:06 |
 | 159 | [In the End](https://open.spotify.com/track/76ZM2e3QNTG2PXHN6Lhg1h) | [Annika Rose](https://open.spotify.com/artist/3E6TQHXjqR21vX9H0c5mOv) | [In the End](https://open.spotify.com/album/5wqeo9Po4CU3afnDB2RdrU) | 4:14 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 232 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 233 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `Ab5mKgAAAADOO0kp3io9Rv7VehXxDVfP`
+Snapshot ID: `Ab5r8gAAAAAwQcVwaydrlptol7jy9+Sx`

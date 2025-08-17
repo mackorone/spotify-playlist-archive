@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 318747,
+  "num_followers": 318749,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABqnt1QnuzWEHiWphgbK8EMs88PG",
+  "snapshot_id": "AAAAAGYd7AduND2ss4bj/A3bhL1WjBn3",
   "tracks": [
     {
       "added_at": "2025-08-01 19:15:40",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Eu Te Entendo",
-        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 157437,
-      "name": "Eu Te Entendo",
-      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
         "name": "Talvez N\u00e3o Seja",
         "url": "https://open.spotify.com/album/7FZk0HuDvDv6cBO8HC5AHQ"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 235740,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
+        "name": "Eu Te Entendo",
+        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 157437,
+      "name": "Eu Te Entendo",
+      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
     },
     {
       "added_at": "2025-08-01 19:15:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Tenho Voc\u00ea",
-        "url": "https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm"
-      },
-      "artists": [
-        {
-          "name": "Davi Sabbag",
-          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
-        }
-      ],
-      "duration_ms": 185139,
-      "name": "Tenho Voc\u00ea",
-      "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
-    },
-    {
-      "added_at": "2025-08-01 19:15:40",
-      "album": {
         "name": "DISK",
         "url": "https://open.spotify.com/album/7AlFDQgoQ3UOVhbdItG33T"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 157241,
       "name": "DISK",
       "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
+    },
+    {
+      "added_at": "2025-08-01 19:15:40",
+      "album": {
+        "name": "Tenho Voc\u00ea",
+        "url": "https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm"
+      },
+      "artists": [
+        {
+          "name": "Davi Sabbag",
+          "url": "https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8"
+        }
+      ],
+      "duration_ms": 185139,
+      "name": "Tenho Voc\u00ea",
+      "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
     },
     {
       "added_at": "2025-08-01 19:15:40",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2025-08-01 19:15:40",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/2R6pUKYNA3c2ph5dTkaa06"
+        "name": "Faz A Posi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG"
       },
       "artists": [
         {
-          "name": "N\u00eassa",
-          "url": "https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
         }
       ],
-      "duration_ms": 206608,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/3jbrQ70noEPkUyiYvZkOHe"
+      "duration_ms": 179877,
+      "name": "Faz A Posi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg"
     }
   ],
   "unique_name": "Rala e Rola",

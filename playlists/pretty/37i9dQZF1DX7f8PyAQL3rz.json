@@ -1,6 +1,6 @@
 {
   "description": "pi\u00e3o na jacu p\u00eassego ali, fk nos falante alt\u00e3o pensa?",
-  "num_followers": 1405924,
+  "num_followers": 1405860,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto (feat. Veigh & Niink)",
       "url": "https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
-        "name": "Amina",
-        "url": "https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Amina",
-      "url": "https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -571,62 +571,6 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
-        "name": "Veterano",
-        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
-      },
-      "artists": [
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        },
-        {
-          "name": "Surfista",
-          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
-        },
-        {
-          "name": "Ryuchi",
-          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
-        },
-        {
-          "name": "Ian Durso",
-          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
-        },
-        {
-          "name": "JVMVO",
-          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Veterano",
-      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
-        "name": "Discreto",
-        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 120937,
-      "name": "Discreto",
-      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
         "name": "Let's Go 5",
         "url": "https://open.spotify.com/album/44o1iCizbxPt4a6VJEQOKZ"
       },
@@ -687,6 +631,62 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "Discreto",
+        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 120937,
+      "name": "Discreto",
+      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "Veterano",
+        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
+      },
+      "artists": [
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        },
+        {
+          "name": "JVMVO",
+          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Veterano",
+      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1064,21 +1064,13 @@
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
           "name": "Wall Hein",
           "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "CVSTRO",
-          "url": "https://open.spotify.com/artist/0QVJH6vaMDapyORDypL5hS"
         }
       ],
-      "duration_ms": 147049,
-      "name": "Pretona",
-      "url": "https://open.spotify.com/track/6idXBqkckApk0JsS9mGhJR"
+      "duration_ms": 145055,
+      "name": "Cartas na Mesa (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1180,13 +1172,21 @@
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
           "name": "Wall Hein",
           "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "CVSTRO",
+          "url": "https://open.spotify.com/artist/0QVJH6vaMDapyORDypL5hS"
         }
       ],
-      "duration_ms": 145055,
-      "name": "Cartas na Mesa (B\u00f4nus)",
-      "url": "https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS"
+      "duration_ms": 147049,
+      "name": "Pretona",
+      "url": "https://open.spotify.com/track/6idXBqkckApk0JsS9mGhJR"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1383,58 +1383,6 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
-        "name": "Dia Ap\u00f3s Dia",
-        "url": "https://open.spotify.com/album/1Sn7h4iRurPRkiLoZPsYmK"
-      },
-      "artists": [
-        {
-          "name": "Clara Lima",
-          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
-        },
-        {
-          "name": "Pedro Trick",
-          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
-        },
-        {
-          "name": "Becks",
-          "url": "https://open.spotify.com/artist/3Y8piIfN1Dbettwo0uDg7F"
-        },
-        {
-          "name": "SART\u00d8R",
-          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
-        },
-        {
-          "name": "CAMPING",
-          "url": "https://open.spotify.com/artist/05ugEOR6Mr3l27oIegLhYj"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Dia Ap\u00f3s Dia",
-      "url": "https://open.spotify.com/track/1ioR9hWlldRsM5didqwgrl"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ"
-      },
-      "artists": [
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "TJP Freestyle",
-      "url": "https://open.spotify.com/track/2CYAKdrrkzfLo91buNtOUg"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
         "name": "Yeezy Slide \"REMIX\"",
         "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
@@ -1463,6 +1411,46 @@
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/6mSGXrTsXeTyJ0EPVcTrSQ"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "TJP Freestyle",
+      "url": "https://open.spotify.com/track/2CYAKdrrkzfLo91buNtOUg"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "Uma Noite",
+        "url": "https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Uma Noite",
+      "url": "https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1507,6 +1495,38 @@
       "duration_ms": 496941,
       "name": "Gostosa Demais",
       "url": "https://open.spotify.com/track/6VOu9NObZ00mk5KFC6HfIQ"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "Dia Ap\u00f3s Dia",
+        "url": "https://open.spotify.com/album/1Sn7h4iRurPRkiLoZPsYmK"
+      },
+      "artists": [
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Pedro Trick",
+          "url": "https://open.spotify.com/artist/1WLVUunmc5UgrR7gGCdiKa"
+        },
+        {
+          "name": "Becks",
+          "url": "https://open.spotify.com/artist/3Y8piIfN1Dbettwo0uDg7F"
+        },
+        {
+          "name": "SART\u00d8R",
+          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
+        },
+        {
+          "name": "CAMPING",
+          "url": "https://open.spotify.com/artist/05ugEOR6Mr3l27oIegLhYj"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Dia Ap\u00f3s Dia",
+      "url": "https://open.spotify.com/track/1ioR9hWlldRsM5didqwgrl"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1571,26 +1591,6 @@
       "duration_ms": 119538,
       "name": "GRAVE COM BOLHA",
       "url": "https://open.spotify.com/track/0JL108ixFHAwPYR2Ed2oV4"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
-        "name": "Uma Noite",
-        "url": "https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Uma Noite",
-      "url": "https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT"
     }
   ],
   "unique_name": "creme",

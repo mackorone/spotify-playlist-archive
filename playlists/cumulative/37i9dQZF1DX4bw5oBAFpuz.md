@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-569 songs - 1 day 8 hr 29 min
+570 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2023-02-23 | 2023-04-26 |
 | [Divide](https://open.spotify.com/track/0PbCOBEUjlnvBCe5uCdLlw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:23 | 2023-02-23 | 2023-06-20 |
 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 | 2023-06-06 | 2024-04-19 |
-| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 |  |
+| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 | 2025-08-17 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Special Edition\)](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2024-03-21 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2023-02-23 | 2024-04-13 |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-05-01 |  |
@@ -568,6 +568,7 @@
 | [Word's Out](https://open.spotify.com/track/5hfI4QZTb4KgGO358YWh6J) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 3:47 | 2023-02-23 |  |
 | [World At My Feet](https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I WILL.](https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl) | 2:51 | 2025-06-26 |  |
 | [World's Worst Girlfriend](https://open.spotify.com/track/22NOtyVXO6HsxpmEZFHdMh) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [World's Worst Girlfriend](https://open.spotify.com/album/4VQtiwqwug58DnnejHvGv6) | 2:41 | 2025-06-26 |  |
+| [Worry About You](https://open.spotify.com/track/72h5CLklGzoJhWXM9aZzvC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Worry About You](https://open.spotify.com/album/5nmek7NtizCaPrpePZFQkz) | 3:33 | 2025-08-14 |  |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2024-03-19 |  |
 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 | 2023-02-23 | 2025-04-29 |
 | [You Are the Best Thing](https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Gossip In The Grain](https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso) | 3:51 | 2023-02-23 | 2024-04-19 |

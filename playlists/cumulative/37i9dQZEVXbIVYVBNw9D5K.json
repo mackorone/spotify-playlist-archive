@@ -9168,7 +9168,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 186562,
       "name": "GELME \u0130STEMEM",
       "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
@@ -10132,7 +10132,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 176625,
       "name": "G\u00f6zlerinden G\u00f6zlerine",
       "url": "https://open.spotify.com/track/3XZDLNS43nxBJ6HmAlVMGp"
@@ -10560,7 +10560,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 133548,
       "name": "Hako diyorlar",
       "url": "https://open.spotify.com/track/2CdAVMxPhRsEHr3w5JzJu6"
@@ -11284,7 +11284,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 149626,
       "name": "Her Nerdeysen",
       "url": "https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU"
@@ -19559,6 +19559,28 @@
     },
     {
       "album": {
+        "name": "Sabrettim",
+        "url": "https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185114,
+      "name": "Sabrettim",
+      "url": "https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -19722,10 +19744,28 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 156372,
       "name": "Sakin Ol",
       "url": "https://open.spotify.com/track/1TsqyCcGctVZpyLraRRt2i"
+    },
+    {
+      "album": {
+        "name": "Bachi-Bouzouk",
+        "url": "https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156372,
+      "name": "Sakin Ol",
+      "url": "https://open.spotify.com/track/45nN556YERNZp3DbfSXeLz"
     },
     {
       "album": {
@@ -21625,6 +21665,24 @@
     },
     {
       "album": {
+        "name": "S\u0131f\u0131rdan Zirveye",
+        "url": "https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158546,
+      "name": "S\u0131f\u0131rdan Zirveye",
+      "url": "https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM"
+    },
+    {
+      "album": {
         "name": "S\u0131r",
         "url": "https://open.spotify.com/album/1DAMEAIqb27PCErT8HjCDx"
       },
@@ -23462,7 +23520,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 151512,
       "name": "YANKI X \u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
@@ -24842,6 +24900,24 @@
       "duration_ms": 187826,
       "name": "\u00c7a\u011f\u0131r",
       "url": "https://open.spotify.com/track/5Q6cDjM0JuvGu2mxulXGwo"
+    },
+    {
+      "album": {
+        "name": "Bachi-Bouzouk",
+        "url": "https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "date_added": "2025-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180233,
+      "name": "\u00c7ek Teti\u011fi",
+      "url": "https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK"
     },
     {
       "album": {

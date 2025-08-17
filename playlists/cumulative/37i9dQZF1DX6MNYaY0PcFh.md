@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Jorja Smith
 
-295 songs - 16 hr 43 min
+296 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [See Me](https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [SHIMA](https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI) | [See Me](https://open.spotify.com/album/7AfLC7I27rL70s7HFOmX3O) | 3:04 | 2023-09-01 | 2025-05-16 |
 | [Senses](https://open.spotify.com/track/3ll3R3NIJAIgrxRhyUPbBq) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Senses](https://open.spotify.com/album/288sNd4BQCtDFtqD661sQK) | 2:51 | 2024-05-31 | 2024-06-28 |
 | [Shadows Pt\. 3](https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Shadows Pt\. 3](https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy) | 3:14 | 2024-05-10 | 2024-10-07 |
+| [Shine](https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Shine](https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5) | 2:49 | 2025-08-15 |  |
 | [Shining](https://open.spotify.com/track/5ezWIpNsX82DNuzMm9pef7) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Time & Space](https://open.spotify.com/album/5uiCCxwaSSTcwlfKGCvY3E) | 3:15 | 2024-01-03 | 2024-02-14 |
 | [Shooting Star \- Badger Remix](https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Shooting Star \(Badger Remix\)](https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB) | 2:13 | 2024-03-22 | 2025-06-13 |
 | [Show Me](https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Show Me](https://open.spotify.com/album/61AStQYO30jVau93JxRtXP) | 4:29 | 2024-01-03 | 2024-02-23 |
@@ -253,7 +254,7 @@
 | [Straight From The Underground](https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Straight From The Underground](https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX) | 3:13 | 2025-05-29 |  |
 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-05-31 | 2025-06-20 |
 | [Sundown](https://open.spotify.com/track/6e40VGmlR2S8yhmBNkISlP) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [Sundown](https://open.spotify.com/album/3FIEevE1XXBP1rg4BCdBcH) | 3:01 | 2022-11-25 | 2023-01-25 |
-| [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 | 2025-01-17 |  |
+| [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 | 2025-01-17 | 2025-08-17 |
 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 | 2024-06-28 | 2025-05-31 |
 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 | 2025-06-12 |  |
 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 | 2022-11-25 | 2024-01-04 |

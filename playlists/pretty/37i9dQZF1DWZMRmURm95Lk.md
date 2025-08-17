@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > DJ Shocca è tornato, 60 Hz II\. Beat e rime, oggi come una volta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,299 likes - 145 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,301 likes - 145 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 31 | [RAP MONEY \(feat\. Guè\)](https://open.spotify.com/track/4KyZqiE5MDR7gZNThBWjg0) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CVLT \- HELLRAISERS](https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw) | 3:33 |
 | 32 | [Chiudi Gli Occhi](https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:02 |
 | 33 | [Momenti no](https://open.spotify.com/track/4fE5D8udvgEqCJKMqx69tl) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mr\. Simpatia](https://open.spotify.com/album/5dwAak7S2zKsJ8QQoCPhrf) | 4:19 |
-| 34 | [Beh ok \(feat\. Madman\)](https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [PENKILLER](https://open.spotify.com/album/0OWt4MfX6LNXO7Z5ie5vRm) | 2:46 |
-| 35 | [URLAMI](https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr) | [genn butch](https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [URLAMI](https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT) | 3:01 |
+| 34 | [URLAMI](https://open.spotify.com/track/1ZyOP4INoz4Gs8cyMp7Ipr) | [genn butch](https://open.spotify.com/artist/0dqR6YWgjpc6gHnwfXEEOs), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [URLAMI](https://open.spotify.com/album/5aXym1ZTc7Uz901r7DBaOT) | 3:01 |
+| 35 | [Beh ok \(feat\. Madman\)](https://open.spotify.com/track/06ZQuqmlzQuUIfwQ6Imh47) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [PENKILLER](https://open.spotify.com/album/0OWt4MfX6LNXO7Z5ie5vRm) | 2:46 |
 | 36 | [Giorni matti](https://open.spotify.com/track/4UcEhlM24HS6DkVwnv7Hys) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX), [Ape](https://open.spotify.com/artist/5jHrsaNkl9n2qBGYXGiCFM), [Zampa](https://open.spotify.com/artist/74hjtVEnADkw2SwqBuP2T8) | [Classe 73](https://open.spotify.com/album/54GeEc4tDY4pozqquEQ8qj) | 3:42 |
 | 37 | [KO](https://open.spotify.com/track/3nNjgpxiTpsV3QSdhonBbT) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Acqua](https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG) | 2:40 |
 | 38 | [HELLRAISERS](https://open.spotify.com/track/3aYEFedGDfaZnxj0ezWf44) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT \- HELLRAISERS](https://open.spotify.com/album/5QpNXrDu68PAmxEXYDSePw) | 1:50 |

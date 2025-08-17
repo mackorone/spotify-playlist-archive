@@ -1,13 +1,29 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 683422,
+  "num_followers": 683459,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ0nAAAAAADG2u0q30BlkGxYL8MAEVcG",
+  "snapshot_id": "aJ54gAAAAACFnW4r8exPYQh8A5TBuEC4",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginary Playerz",
+        "url": "https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 207380,
+      "name": "Imaginary Playerz",
+      "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
+    },
     {
       "added_at": null,
       "album": {
@@ -259,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026",
         "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
       },
@@ -275,22 +307,6 @@
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 183527,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
     },
     {
       "added_at": null,
@@ -967,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toot It Up",
-        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
-      },
-      "artists": [
-        {
-          "name": "Pardison Fontaine",
-          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 129599,
-      "name": "Toot It Up",
-      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -1007,6 +1003,26 @@
       "duration_ms": 276214,
       "name": "No Love (with SZA & Cardi B) - Extended Version",
       "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toot It Up",
+        "url": "https://open.spotify.com/album/0O2cYfWzJuOwXcso9RZKjO"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 129599,
+      "name": "Toot It Up",
+      "url": "https://open.spotify.com/track/4RwmCGfqGRF0n9InbkuMsB"
     },
     {
       "added_at": null,
@@ -1051,26 +1067,6 @@
       "duration_ms": 281112,
       "name": "Bitter - Narration By Cardi B",
       "url": "https://open.spotify.com/track/5cwnxz6QPfbOf731UPqphs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Point Me 2 (with Cardi B)",
-        "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
-      },
-      "artists": [
-        {
-          "name": "FendiDa Rappa",
-          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 225492,
-      "name": "Point Me 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu"
     }
   ],
   "unique_name": "This Is Cardi B",

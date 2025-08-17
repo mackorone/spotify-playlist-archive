@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,273 likes - 96 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,021 likes - 96 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 22 | [12 Études, Op\. 10: No\. 2 in A Minor](https://open.spotify.com/track/3rXYoFjHSkikmuJKmLJK7r) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz) | 1:30 |
 | 23 | [Waltz in E Minor, Op\. Posth.](https://open.spotify.com/track/2YJgIsU0vreWfKytQelclt) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jean\-Paul Gasparian](https://open.spotify.com/artist/1KAYt5PzgkE6W3ExmqoNPn) | [Chopin: 4 Ballades, Polonaise Héroïque, Polonaise Fantaisie, Nocturnes, Waltzes](https://open.spotify.com/album/5fcuS3R2juppzqsUULK4DP) | 2:52 |
 | 24 | [12 Études, Op\. 10: No\. 6 in E\-Flat Minor](https://open.spotify.com/track/6KDbcbrpyyyDrVlpnff49w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Études](https://open.spotify.com/album/3OUQNvIRDG3ioZP3FgiIuz) | 3:16 |
-| 25 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/16gPkzO59TtYNAfqnyIyaP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:08 |
+| 25 | [Nocturne No\. 19 in E Minor, Op\. 72 No\. 1](https://open.spotify.com/track/16gPkzO59TtYNAfqnyIyaP) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:08 |
 | 26 | [Mazurkas, Op\. 24: Mazurka No\. 16 in A\-Flat Major, Op\. 24, No\. 3](https://open.spotify.com/track/6mBWS5L6J61xrQZnPpxaNk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Mazurkas, Vol\. 1](https://open.spotify.com/album/7p41w6rasps37nOAysSBdX) | 2:34 |
 | 27 | [Piano Sonata No\. 3 in B Minor, Op\. 58: III\. Largo](https://open.spotify.com/track/0pAZ0HPtTfaqlHP5rk6G3p) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mitsuko Uchida](https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe) | [Chopin: Piano Sonatas Nos\. 2 & 3](https://open.spotify.com/album/011uevuqb2lEFDvgEMV2E0) | 9:35 |
 | 28 | [Waltz in A Minor "Morgan Library & Museum MS"](https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Stephen Hough](https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP) | [Chopin: Complete Waltzes](https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB) | 0:52 |

@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 820089,
+  "num_followers": 820188,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,26 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "It Runs Through Me (feat. De La Soul)",
+      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
         "name": "Private Space",
         "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
-    },
-    {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "It Runs Through Me (feat. De La Soul)",
-      "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
     },
     {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
       "added_at": "2025-07-03 19:05:16",
       "album": {
         "name": "'Justments",
@@ -415,6 +399,22 @@
       "duration_ms": 229573,
       "name": "Can We Pretend",
       "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
+        "name": "Telling The Truth",
+        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+      },
+      "artists": [
+        {
+          "name": "Willie Wright",
+          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Nantucket Island",
+      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
         "name": "The Way That I Do",
         "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
-        "name": "Telling The Truth",
-        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+        "name": "Anne, If",
+        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
       },
       "artists": [
         {
-          "name": "Willie Wright",
-          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+          "name": "GHOSTWOMAN",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Nantucket Island",
-      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+      "duration_ms": 191451,
+      "name": "The End of a Gun",
+      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -891,22 +907,6 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
-    },
-    {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
-        "name": "Anne, If",
-        "url": "https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX"
-      },
-      "artists": [
-        {
-          "name": "GHOSTWOMAN",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 191451,
-      "name": "The End of a Gun",
-      "url": "https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
-        "name": "Addicted To You",
-        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
-      },
-      "artists": [
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Two Trees",
-      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
-    },
-    {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 191037,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
+        "name": "Addicted To You",
+        "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Two Trees",
+      "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
-    },
-    {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
         "name": "Grapetooth",
         "url": "https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -1507,6 +1491,22 @@
       "duration_ms": 240453,
       "name": "One Evening - Remix By VV",
       "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
         "name": "Little Push",
         "url": "https://open.spotify.com/album/2A3NYiDl0D1hKEclqH6rGj"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 185187,
       "name": "Little Push",
       "url": "https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2025-06-04 13:25:18",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-06-04 13:25:18",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2025-06-04 13:25:18",
-      "album": {
         "name": "Freedom to Talk",
         "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 233500,
       "name": "Lament for the Sky",
       "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
+    },
+    {
+      "added_at": "2025-06-04 13:25:18",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2025-06-04 13:25:18",

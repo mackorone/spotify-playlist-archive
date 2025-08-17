@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 469415,
+  "num_followers": 469454,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "About To Lose It",
-        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "About To Lose It",
-      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
         "name": "I Got Feelings",
         "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 153321,
       "name": "I Got Feelings",
       "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "About To Lose It",
+        "url": "https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "About To Lose It",
+      "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1447,6 +1447,50 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Puku",
+          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Rock My World",
+      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "Seismic",
+        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Seismic",
+      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -1467,46 +1511,6 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Rock My World",
-        "url": "https://open.spotify.com/album/4bSZYuWLGG4keN9XSUxXPe"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Puku",
-          "url": "https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Rock My World",
-      "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1575,8 +1579,8 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Seismic",
-        "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
       "artists": [
         {
@@ -1584,17 +1588,29 @@
           "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Fly With Us",
-          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Seismic",
-      "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
+        "name": "RUTHLESS",
+        "url": "https://open.spotify.com/album/0x84158jURFRuqivkXGhq1"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 142741,
+      "name": "RUTHLESS",
+      "url": "https://open.spotify.com/track/1990CkST0tqUvYiPfjFBnt"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1615,22 +1631,6 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "RUTHLESS",
-        "url": "https://open.spotify.com/album/0x84158jURFRuqivkXGhq1"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 142741,
-      "name": "RUTHLESS",
-      "url": "https://open.spotify.com/track/1990CkST0tqUvYiPfjFBnt"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -1951,6 +1951,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Late Night Secrets",
+        "url": "https://open.spotify.com/album/0erqXse0aWsncui7Eew8al"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        }
+      ],
+      "duration_ms": 185952,
+      "name": "Late Night Secrets",
+      "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 186576,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3YsG1EMppOjIJD067Keqjp"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Late Night Secrets",
-        "url": "https://open.spotify.com/album/0erqXse0aWsncui7Eew8al"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 185952,
-      "name": "Late Night Secrets",
-      "url": "https://open.spotify.com/track/5zlwBcdCPaJAOwkqdwaQbl"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Backstage Baddies",
+        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "Mike Renza",
+          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Backstage Baddies",
+      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Baggy Black Jeans",
         "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 200610,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/2K1w2Tw0eLnASMPMN6ijzD"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Backstage Baddies",
-        "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "Mike Renza",
-          "url": "https://open.spotify.com/artist/144ouiKO7kLKKiX1qyCkBI"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Backstage Baddies",
-      "url": "https://open.spotify.com/track/6FoVj4XLb8Aro1gxcCT6Rk"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2175,6 +2175,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "Choose Violence",
+        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 195071,
+      "name": "Choose Violence",
+      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Movement",
         "url": "https://open.spotify.com/album/34cwLFc3QmyRTmNGGgZ60a"
       },
@@ -2199,42 +2219,18 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "Choose Violence",
-        "url": "https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr"
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 195071,
-      "name": "Choose Violence",
-      "url": "https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
-      },
-      "artists": [
-        {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2279,18 +2275,22 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0mbxkLiiUPXgvNNP0FNjeE"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
         }
       ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
+      "duration_ms": 206200,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4nrkuhPnpgAd4NFm908YoW"
     },
     {
       "added_at": "2025-08-08 04:00:44",
@@ -2387,6 +2387,26 @@
     {
       "added_at": "2025-08-08 04:00:44",
       "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
+    },
+    {
+      "added_at": "2025-08-08 04:00:44",
+      "album": {
         "name": "Street Level / Listen Up",
         "url": "https://open.spotify.com/album/2nX6zYHBUXbfDYAdBoaRLy"
       },
@@ -2419,26 +2439,6 @@
       "duration_ms": 167727,
       "name": "Move Over",
       "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
-    },
-    {
-      "added_at": "2025-08-08 04:00:44",
-      "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     }
   ],
   "unique_name": "Nasty Bits",

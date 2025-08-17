@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-819 songs - 1 day 15 hr 44 min
+820 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Automatic](https://open.spotify.com/track/1yz6NJ6hXpVvaRbllgXQpI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Automatic](https://open.spotify.com/album/3y0yjUEuag7X0HQSc4aqDF) | 2:56 | 2023-01-20 | 2023-01-28 |
 | [Ave Maria](https://open.spotify.com/track/4azaom4n0UaMEcJCY4iAZL) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Ave Maria](https://open.spotify.com/album/2uAGDDNP8V3aMbYeJmu7KS) | 2:47 | 2024-08-02 | 2024-08-26 |
 | [Away](https://open.spotify.com/track/2s9OC1yMrccPa9lJpwBmTL) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Yimeeka](https://open.spotify.com/album/4wmJQOsN4UqbcdeaVXuh6a) | 2:18 | 2024-04-26 | 2024-05-17 |
+| [Ayaya](https://open.spotify.com/track/5hVcc3iI2uOf48IMGO8fwH) | [Spy Shitta](https://open.spotify.com/artist/4LTESjldd92V5ZxhEITidD), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Showboy](https://open.spotify.com/album/2FTl3Npv8uiTJ3FEywx2U1) | 2:21 | 2025-08-15 |  |
 | [Azonto Fiesta \(feat\. Amaarae & Mugeez\)](https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 2:51 | 2024-11-22 | 2025-05-11 |
 | [B.O.A \(Based On Analysis\)](https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [B.O.A \(Based On Analysis\)](https://open.spotify.com/album/5otlaiucF8ysHx3fyjsXc9) | 2:52 | 2022-10-13 | 2022-10-22 |
 | [Baaaddie](https://open.spotify.com/track/5ykOtCwcQkNabqk7jwgebK) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Freckles](https://open.spotify.com/album/6z5JNzljLRS4ZULgIrvv24) | 1:53 | 2023-08-10 | 2023-09-15 |
@@ -354,7 +355,7 @@
 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 | 2024-11-15 |  |
 | [Insensitive](https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Insensitive](https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax) | 3:34 | 2022-12-05 | 2022-12-13 |
 | [Inside](https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Finding Nimo Series: The Capsule](https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg) | 2:36 | 2024-07-12 | 2024-07-19 |
-| [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 |  |
+| [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 | 2025-08-17 |
 | [Into The Future](https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [5th Dimension](https://open.spotify.com/album/0sV7MVjtvmIlLqA6AJxzAu) | 2:30 | 2023-06-22 | 2023-07-21 |
 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-14 | 2024-11-22 |
 | [Iron Man](https://open.spotify.com/track/643yJvJU3qlEOBmb6vje2N) | [Pawzz](https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU) | [Iron Man](https://open.spotify.com/album/7oag7V3A2z0M3hjWOdi2A9) | 2:32 | 2023-07-20 | 2023-08-04 |

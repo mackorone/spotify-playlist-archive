@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 501 likes - 267 songs - 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 267 songs - 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 131 | [Better Thangs](https://open.spotify.com/track/34uOYKTIOAfxZh1hibRx1c) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Better Thangs](https://open.spotify.com/album/5p0qpCnLfkjg4XbiL8nLSm) | 3:34 |
 | 132 | [Rich \(feat\. August Alsina\)](https://open.spotify.com/track/2ISkefAz7mMFraeKHIYodY) | [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ), [Augusta Alsina](https://open.spotify.com/artist/3yf9M0BHlsSM7uhowQrdT3) | [Rich \(feat\. August Alsina\)](https://open.spotify.com/album/0ZHbSx4zEjHL0wGMLsUEQh) | 4:07 |
 | 133 | [c2.0](https://open.spotify.com/track/5gNTRfMRPZg1U07j7KSSaG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:40 |
-| 134 | [Reminds Me](https://open.spotify.com/track/5HBlf1Ee25TDArDH3jzVrW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/1yN7614Id4IrpsaN70reKP) | 2:37 |
-| 135 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
+| 134 | [NIRVANA](https://open.spotify.com/track/5JjWmMZcdx4xtQsyou3BMk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:51 |
+| 135 | [Reminds Me](https://open.spotify.com/track/5HBlf1Ee25TDArDH3jzVrW) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Reminds Me](https://open.spotify.com/album/1yN7614Id4IrpsaN70reKP) | 2:37 |
 | 136 | [Give Me Love](https://open.spotify.com/track/03jcNioX4fCfRgDagg9kvB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:20 |
 | 137 | [Don't You Worry](https://open.spotify.com/track/54dchlJdlVs58DRNqKH1yf) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:54 |
 | 138 | [Greatest Love](https://open.spotify.com/track/3ezgsGkbkfKfYG2i6VaeyQ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Beauty Marks](https://open.spotify.com/album/1Ww0yZ7iXbzkE5duwnMVNI) | 3:43 |
@@ -235,8 +235,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 225 | [Makeup](https://open.spotify.com/track/1yVsXwUiSuINsTBXIhAhCk) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:51 |
 | 226 | [On De Grind](https://open.spotify.com/track/7EaAqG0KtU3g04WemdCso5) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Crunk Rock \(Deluxe\)](https://open.spotify.com/album/49qpwRDGLfNAkUG9UeGoTV) | 4:18 |
 | 227 | [Crazy Night \(feat\. R\. City\)](https://open.spotify.com/track/2AMFqw4VoOkSEmOT12VDib) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Untitled](https://open.spotify.com/album/3zlbXZZ6S0Wf29Eij8MCV9) | 3:34 |
-| 228 | [Freaky](https://open.spotify.com/track/4KvmAkJH65OnA68GPaw61i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:36 |
-| 229 | [Winning \(feat\. Big Freedia\)](https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:30 |
+| 228 | [Winning \(feat\. Big Freedia\)](https://open.spotify.com/track/71S0amxrIugHC94xfD9jLW) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 2:30 |
+| 229 | [Freaky](https://open.spotify.com/track/4KvmAkJH65OnA68GPaw61i) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:36 |
 | 230 | [Amanama \- DJ Antoine vs\. Mad Mark Deluxe Edit](https://open.spotify.com/track/3s2QnfSIrCKO1y5wc4zUNa) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr) | [Welcome to DJ Antoine](https://open.spotify.com/album/5MtCt1WcTLyZ631UcvdWki) | 4:16 |
 | 231 | [You The One](https://open.spotify.com/track/6lrkdix2etZFi4EERKbrdL) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [You The One](https://open.spotify.com/album/5VFVeblZu48dMUdLGxsnje) | 2:12 |
 | 232 | [Angel](https://open.spotify.com/track/0BAARl1iTAHL89HtvjlpfU) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 2:59 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 266 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 267 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `Ab5mNAAAAABcODFnvIrtgXvgqehw5AGi`
+Snapshot ID: `Ab5r8gAAAACzYRGb7t2vNgAhF/x0cvak`

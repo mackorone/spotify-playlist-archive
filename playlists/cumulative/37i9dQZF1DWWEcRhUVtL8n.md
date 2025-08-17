@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Shelly
 
-2,174 songs - 4 day 19 hr 15 min
+2,175 songs - 4 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2162,7 +2162,7 @@
 | [You Got The Part](https://open.spotify.com/track/2wG3vRFT68jYXaXZ9kB6qM) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [You Got The Part](https://open.spotify.com/album/5rPdSuEALEZAj2DmyCneop) | 3:03 | 2021-10-13 | 2021-10-14 |
 | [You Keep Me Up At Night](https://open.spotify.com/track/0POOOfkVbM8suYFRWUkDQQ) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [You Keep Me Up At Night](https://open.spotify.com/album/3Tt8qHRIi8pRlMLISmVQE3) | 2:18 | 2024-09-13 | 2025-03-08 |
 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 | 2023-03-25 | 2023-04-01 |
-| [You Owe Me](https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Two New Malcolm Todd Songs](https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E) | 3:40 | 2024-09-27 |  |
+| [You Owe Me](https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Two New Malcolm Todd Songs](https://open.spotify.com/album/2JNBq8nFR1FedwJbYnOF0E) | 3:40 | 2024-09-27 | 2025-08-17 |
 | [You Sad](https://open.spotify.com/track/7CCpHRIkmLUNGetpe4VQ5c) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol.2](https://open.spotify.com/album/7DoQVFuq50UZLWVTVzHGHq) | 2:37 | 2020-10-16 | 2022-04-13 |
 | [You Shaped Hole](https://open.spotify.com/track/6EDUMn3BJw6bI9JjigYZm1) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [You Shaped Hole](https://open.spotify.com/album/7J9wdRxHvteGjRbx5AWDWm) | 2:59 | 2021-10-14 | 2021-10-16 |
 | [you should probably just hang up](https://open.spotify.com/track/0CxMLWQt9MLF5w1oGBzT2w) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [you should probably just hang up](https://open.spotify.com/album/7Mzh8CBDrwcwCdkTEfBCsm) | 2:53 | 2020-10-20 | 2021-05-28 |
@@ -2180,6 +2180,7 @@
 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 | 2020-10-20 | 2021-06-03 |
 | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/track/6qsIkaOBHaQByY3jiNZSaA) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [You’d Be Stars \(feat\. chloe moriondo\)](https://open.spotify.com/album/0BiwIMzRsVUWQFl2taiScY) | 3:42 | 2023-09-22 | 2024-02-10 |
 | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/track/0rmyzkvYsf8BTIUbZqzh3r) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ), [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [You’re The Worst Thing To Happen To Me Since 1993](https://open.spotify.com/album/0OFkJ9OmLuLHhMMx6c50Zq) | 3:10 | 2021-11-12 | 2022-04-07 |
+| [Zip Up My Fly](https://open.spotify.com/track/37nwfPGR24VGbOUWvzbZs1) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Malcolm Todd \(still\)](https://open.spotify.com/album/2kxdruQ1hg4Kt4mZSRR7I6) | 2:11 | 2025-08-15 |  |
 | [‎u and ‎everyone ‎u ‎know !](https://open.spotify.com/track/73D4DWoHYqmoKGbOoim9qB) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎u ‎and ‎everyone ‎u ‎know !](https://open.spotify.com/album/38xAUDDYH4H4ykYm0MMWoV) | 3:35 | 2022-04-29 | 2022-05-12 |
 | [まるごと](https://open.spotify.com/track/5i0AInYjZh8TuG16HyJDMZ) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [まるごと](https://open.spotify.com/album/0do13T8rlL2pjpvWCpx9R7) | 2:52 | 2022-01-14 | 2022-04-12 |
 

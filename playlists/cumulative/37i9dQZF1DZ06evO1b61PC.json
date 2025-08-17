@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
+    },
+    {
+      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: Alisha Dira
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,274 likes - 84 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,271 likes - 84 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 22 | [OVT](https://open.spotify.com/track/7uhs4BzcB90fVjyEdZLNmN) | [PICK ME](https://open.spotify.com/artist/1qUCi6yeYsvWeNzJkVbecz) | [H E A L](https://open.spotify.com/album/23wR3P4ONshnluTcdIOT0g) | 4:00 |
 | 23 | [Pasti\-Pasti Aja \(feat\. Berry Saint Loco\) \[Remastered\]](https://open.spotify.com/track/4cKyDdP8h1RA0JHaOx3IiE) | [Obin The Flops](https://open.spotify.com/artist/2wXqfe7SLy5IvueZkOI21L), [Berry Saint Loco](https://open.spotify.com/artist/1TB3hqYSOqWl3vg9SJCEd0) | [Pasti\-Pasti Aja \(feat\. Berry Saint Loco\) \[Remastered\]](https://open.spotify.com/album/616Bpm1tC9uCnhgGZoGlcE) | 4:13 |
 | 24 | [Belantara](https://open.spotify.com/track/57QIoIgz8WGw8vOZk7SQ9O) | [ElectricBird](https://open.spotify.com/artist/0oQpseNKMgUuWyqF8pepNM) | [Belantara](https://open.spotify.com/album/4DLcPkBVcFOH13fp8hqon5) | 3:47 |
-| 25 | [Happy\-Go\-Lucky](https://open.spotify.com/track/3MNlSRbvb4uwDPyMbbv9FN) | [LEMON](https://open.spotify.com/artist/1eqGGRmr9SeUDGRd3BNwc6) | [Happy\-Go\-Lucky](https://open.spotify.com/album/3j75TtVxJ0COtH6GQNz3A9) | 3:52 |
+| 25 | [Happy\-Go\-Lucky](https://open.spotify.com/track/3MNlSRbvb4uwDPyMbbv9FN) | [LEMON](https://open.spotify.com/artist/0UDpQOXtscRkCJYylmx123) | [Happy\-Go\-Lucky](https://open.spotify.com/album/3j75TtVxJ0COtH6GQNz3A9) | 3:52 |
 | 26 | [Foolish Man](https://open.spotify.com/track/1r3IimYyteUP9uDSincxTk) | [Xeva Al Gazel](https://open.spotify.com/artist/6eJAxZZ18R9bsueqikw05i) | [Love Epitome](https://open.spotify.com/album/60Pf5whQg32iqed81McjXw) | 3:33 |
 | 27 | [hard to choose](https://open.spotify.com/track/3WL1XNyN7xXiMvzAy0PqZF) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ), [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN) | [hard to choose](https://open.spotify.com/album/7CFesjqK7I5Cp5Cof5mz6F) | 3:05 |
 | 28 | [Do You Feel the Same](https://open.spotify.com/track/50xtyYaH3NhvpXrxTg9wYR) | [Kaleigo](https://open.spotify.com/artist/7deoKuPj6iXVF38vjr2KXI) | [Do You Feel the Same](https://open.spotify.com/album/0IiNrLhuLIWKjbQAGejymB) | 3:01 |

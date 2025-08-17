@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWqSrfwW8NAh>Bad Bunny</a>, <a href=spotify:playlist:37i9dQZF1EIUw97cM1CFwl>Perdenin Ard\u0131ndakiler</a>, <a href=spotify:playlist:37i9dQZF1EIUz2mPlRQ2Nq>Jaani</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYoEcoc1o1HZ>Adele</a>, <a href=spotify:playlist:37i9dQZF1EIYK84AA0BG6L>Jasiel Nu\u00f1ez</a>, <a href=spotify:playlist:37i9dQZF1EIV8Xin1DA4e0>SEVENTEEN</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 317091,
       "name": "Achha Sila Diya",
       "url": "https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4"
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 121886,
       "name": "changes",
       "url": "https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO"
@@ -3832,7 +3832,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 179080,
       "name": "Get You The Moon (feat. Sn\u00f8w)",
       "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
@@ -4531,6 +4531,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'",
+        "url": "https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159110,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/7jPev7m1RQ6gUMYIfGobAl"
+    },
+    {
+      "album": {
         "name": "head or heart",
         "url": "https://open.spotify.com/album/74PXwYZw2Z5UF6keoLp8qH"
       },
@@ -4578,7 +4596,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 170240,
       "name": "I Bet on Losing Dogs",
       "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 197702,
       "name": "Kalbinde Birileri Var",
       "url": "https://open.spotify.com/track/2FgmDd6M9OM9CjKHn9ckxU"
@@ -6236,6 +6254,28 @@
       "duration_ms": 193749,
       "name": "Lights Are On",
       "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
+    },
+    {
+      "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/6cjEhqFijFqThr4IsYpkkH"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260173,
+      "name": "Linda Mujer",
+      "url": "https://open.spotify.com/track/4iRdARZrb4eD80jlqRHx6i"
     },
     {
       "album": {
@@ -7427,6 +7467,24 @@
     },
     {
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389107,
+      "name": "My Little Love",
+      "url": "https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -8106,7 +8164,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 240607,
       "name": "Penyangkalan",
       "url": "https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL"
@@ -8142,7 +8200,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-17",
       "duration_ms": 160638,
       "name": "Pero Ya No",
       "url": "https://open.spotify.com/track/75pQqzwgCjUOSSy5CpmAjy"

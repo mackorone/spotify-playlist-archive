@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,196 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,202 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Baby Mine](https://open.spotify.com/track/5DyFc8rXIB1uvvIqq6Kcj2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Was \(Not Was\)](https://open.spotify.com/artist/7Jmod60ZpPG0tckhY0Ls0p) | [Stay Awake \(Various Interpretations Of Music From Vintage Disney Films\)](https://open.spotify.com/album/48eR76ue3eFPCJdBppIWQ0) | 3:14 |
 | 50 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 |
 
-Snapshot ID: `aJ0nAAAAAAAYbbLrlDdiYBSyWFdJBPDv`
+Snapshot ID: `aJ54gAAAAACnhHvvoJSXxKR5df2X/bHY`
