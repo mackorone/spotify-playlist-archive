@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Para pra Pensar",
-        "url": "https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 244005,
-      "name": "Para pra Pensar",
-      "url": "https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Racionais 3 D\u00e9cadas",
         "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 354310,
       "name": "Negro Drama - Ao Vivo",
       "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Para pra Pensar",
+        "url": "https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 244005,
+      "name": "Para pra Pensar",
+      "url": "https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP"
     },
     {
       "added_at": "2024-08-16 20:28:24",

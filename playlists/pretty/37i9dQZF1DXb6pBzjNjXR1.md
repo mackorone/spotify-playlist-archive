@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=IDV6FFKHTZqZY6esFdH2\-A">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,403 likes - 70 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,656 likes - 70 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

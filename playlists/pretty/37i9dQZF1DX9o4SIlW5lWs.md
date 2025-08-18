@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,610 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,676 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 85 | [Si Me Lo Pide Otra Vez](https://open.spotify.com/track/3073TdsCufG8slSs1UFHyR) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Hay Mas de Mi](https://open.spotify.com/album/04cIzWwavLKDt7TCirmeuV) | 3:33 |
 | 86 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 87 | [Me Equivoqué Otra Vez](https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Me Equivoqué Otra Vez](https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy) | 2:55 |
-| 88 | [Tú, la más bella \- En Vivo](https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tú, la más bella \(En Vivo\)](https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL) | 2:29 |
-| 89 | [Prometí](https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID), [Candu DomÍnguez](https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI), [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9) | [Prometí](https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1) | 2:36 |
+| 88 | [Prometí](https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID), [Candu DomÍnguez](https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI), [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9) | [Prometí](https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1) | 2:36 |
+| 89 | [Tú, la más bella \- En Vivo](https://open.spotify.com/track/4iNUGRz8usCC8ZeczwIcQN) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Tú, la más bella \(En Vivo\)](https://open.spotify.com/album/3PKKvCRMgsXJi8v4HxuroL) | 2:29 |
 | 90 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
 | 91 | [Inolvidable \- En Vivo](https://open.spotify.com/track/3X8U1BnkXXGOszX4YjKeVE) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Guitarra de Pila](https://open.spotify.com/artist/7yeiKcOihagxn1Q1rZ5oKq) | [Inolvidable \(En Vivo\)](https://open.spotify.com/album/1d7wuYyHZyJMUwT7tlki5M) | 2:28 |
 | 92 | [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 |

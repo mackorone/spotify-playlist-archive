@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Kxci Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,609 likes - 198 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,620 likes - 198 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

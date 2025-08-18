@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-682 songs - 1 day 15 hr 58 min
+687 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 | 2024-05-16 |
 | [Blimps Go 90](https://open.spotify.com/track/6HuETBwV7SXoJueNMWVMBE) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:40 | 2025-04-30 | 2025-07-04 |
 | [Body's In Trouble](https://open.spotify.com/track/15Edy9um1W2jrCb9MVaIBV) | [Mary Margaret O'Hara](https://open.spotify.com/artist/7d4LXGxrBM99Ayu2MkcMWo) | [Miss America](https://open.spotify.com/album/7EorEag88teTV1CevBYuMV) | 5:01 | 2025-05-01 | 2025-07-04 |
+| [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 | 2025-08-18 |  |
 | [Bonbon sucre](https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:44 | 2025-06-12 | 2025-07-04 |
 | [Bouge\-toi](https://open.spotify.com/track/52E5gMJk3PTV9ycMjJWmei) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:09 | 2025-04-02 | 2025-05-09 |
 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 | 2024-07-12 |
@@ -195,6 +196,7 @@
 | [Fishbrain](https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Fishbrain](https://open.spotify.com/album/0ynJtdryiHqFKeHHSCRjnc) | 4:37 | 2024-02-09 | 2024-03-10 |
 | [Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Flash in the Pan](https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt) | 3:43 | 2024-11-29 | 2025-01-12 |
 | [Flight and Pursuit \- Richard Sen Remix](https://open.spotify.com/track/0Q54iLRgaaR2AWken6qto4) | [C.A.R.](https://open.spotify.com/artist/0f5WhR4J5QIfykB15aOKNK), [Richard Sen](https://open.spotify.com/artist/5JdGnUoHsAtIwmyW7L4tCM) | [Recrossing Prior Street](https://open.spotify.com/album/5MGm2i8WTCK5UmToj0l0YY) | 6:43 | 2025-03-01 | 2025-05-09 |
+| [Follow That Dream](https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 3:53 | 2025-08-17 |  |
 | [Fool](https://open.spotify.com/track/60ffqfm2XFkdKeo8tp96ml) | [The Slaps](https://open.spotify.com/artist/4nNxZ9weXMeokvs9ohcmZl) | [Mudglimmer](https://open.spotify.com/album/6do71LE89y6Uqs4hVXbFH3) | 3:29 | 2024-11-17 | 2025-01-12 |
 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 | 2025-07-03 |  |
 | [For You](https://open.spotify.com/track/3ZPgyQzK9cwKMQzxDFiYRd) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [Then I Try Some More](https://open.spotify.com/album/0TrqwVnAcuTtGU7VcRJFiJ) | 2:07 | 2024-07-12 | 2024-09-08 |
@@ -241,6 +243,7 @@
 | [Haverford Impromptu \#1](https://open.spotify.com/track/2lHvKGSQZzm2PlP4N5KpRy) | [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Haverford College, Jan\. 25th, 1980 \(Solo Rhodes Piano\)](https://open.spotify.com/album/0jVth1ufo1rI9gD7yCIQQQ) | 3:21 | 2025-04-02 | 2025-05-09 |
 | [Hawaiian Baby](https://open.spotify.com/track/0eyCLfTyf1KBwOFIBQaIUC) | [The Spinanes](https://open.spotify.com/artist/6lz8TrJesUMdGhKoyXTTda) | [Imp Years](https://open.spotify.com/album/1AbStfXk1A6n70yhAd9oZL) | 5:45 | 2024-12-27 | 2025-01-12 |
 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 | 2024-08-19 | 2024-09-08 |
+| [Heaven Can Wait \- 2006 Remaster](https://open.spotify.com/track/2dX9cTn90GmGsGodXEi3l3) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 4:34 | 2025-08-17 |  |
 | [Hewlett](https://open.spotify.com/track/2lXcKxWjdpdYq5ywSuO8kq) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [The Fascinating Chimera Project](https://open.spotify.com/album/5vXWQ39mAfzbsshrH7cAcb) | 1:32 | 2025-01-30 | 2025-03-02 |
 | [Hey Baby](https://open.spotify.com/track/68RtnQedwKOJ4MmtXErnOU) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Hey Baby](https://open.spotify.com/album/59BkwpCbJSFyUdrA6HCT4Z) | 2:47 | 2025-03-21 | 2025-05-09 |
 | [Hey, Hey Girl](https://open.spotify.com/track/0yKDswdkUhrD1FlI7OaXfe) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Hey, Hey Girl 7"](https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67) | 2:15 | 2024-04-03 | 2024-05-16 |
@@ -597,6 +600,7 @@
 | [The Joy Of Living](https://open.spotify.com/track/3HLB0NiX67dDjDCM84rv8Q) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Unisex](https://open.spotify.com/album/4SxP15xAMiqz0W4kOKFdS0) | 4:30 | 2024-08-27 | 2024-09-08 |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
 | [The Last Days of a Tragic Allegory](https://open.spotify.com/track/5ZDj2lA7ysADXg08fNwPFZ) | [Saxon Shore](https://open.spotify.com/artist/6aGxmrOqjSpDGvIJdId29O) | [Be a Bright Blue](https://open.spotify.com/album/42bm1KAdbgmq5nmG41N7IW) | 3:58 | 2025-07-09 | 2025-07-14 |
+| [The Light Reveals The Place](https://open.spotify.com/track/0GWF2ruSPrqtQgW96w4Hyy) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 6:59 | 2025-08-18 |  |
 | [The Magic Beads](https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 6:28 | 2025-01-24 | 2025-03-02 |
 | [The Minx](https://open.spotify.com/track/0KdLCqxvaeah6qC4WP7Iu5) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [The Minx \(Original Soundtrack\)](https://open.spotify.com/album/79YsTrJJxb14X1Jb5zeKcS) | 2:30 | 2024-09-07 | 2024-11-14 |
 | [The Mystery At Ogwen's Farm](https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 2:59 | 2025-01-25 | 2025-03-02 |
@@ -646,6 +650,7 @@
 | [Vanity Shapes](https://open.spotify.com/track/79CpR9McKQMbGJvcoKGHtv) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Like Cartoon Vampires](https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum) | 1:58 | 2025-05-08 | 2025-07-04 |
 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 | 2024-12-28 | 2025-01-12 |
 | [Virtual You](https://open.spotify.com/track/5TAlGe3sXWSYHuVEbrwN2W) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Virtual You](https://open.spotify.com/album/4qgvcFgjKdcLQRcgd12DNo) | 2:08 | 2024-09-07 | 2024-11-14 |
+| [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 | 2025-08-17 |  |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 | 2025-04-20 | 2025-05-09 |
 | [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 | 2025-06-14 | 2025-07-04 |

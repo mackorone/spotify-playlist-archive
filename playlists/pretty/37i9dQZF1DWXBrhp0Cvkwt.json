@@ -1,12 +1,12 @@
 {
   "description": "soundtracking your ex calling/nothing's working/existential crisis",
-  "num_followers": 153775,
+  "num_followers": 153838,
   "original_name": "mercury in retrograde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABS1s00IVkWP2Da5+MAoLdFH7d3",
+  "snapshot_id": "AAAAANuJVGVJrJZWRCiqsWQ2Ua/hslnf",
   "tracks": [
     {
       "added_at": "2025-07-16 21:01:36",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx"
     },
     {
+      "added_at": "2025-08-17 03:53:11",
+      "album": {
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+    },
+    {
       "added_at": "2025-07-16 21:01:36",
       "album": {
         "name": "Surrender (2014 - 2017)",
@@ -1283,22 +1299,6 @@
       "duration_ms": 124933,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/7x4b0UccXSKBWxWmjcrG2T"
-    },
-    {
-      "added_at": "2025-07-16 21:01:36",
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "stand on it",
-      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
     }
   ],
   "unique_name": "mercury in retrograde",

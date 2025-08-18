@@ -1,6 +1,6 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: DJ Snake & J Balvin",
-  "num_followers": 498784,
+  "num_followers": 498760,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-07-04 04:00:38",
       "album": {
-        "name": "F1 The Album (Cinematic Edition)",
-        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 143315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3iU3vterGFTshfcupg5tKg"
-    },
-    {
-      "added_at": "2025-07-04 04:00:38",
-      "album": {
         "name": "Vision Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 166000,
       "name": "Vision Remix (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
+    },
+    {
+      "added_at": "2025-07-04 04:00:38",
+      "album": {
+        "name": "F1 The Album (Cinematic Edition)",
+        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 143315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3iU3vterGFTshfcupg5tKg"
     },
     {
       "added_at": "2025-07-04 04:00:38",

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-618 songs - 2 day 3 hr 26 min
+619 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Distance](https://open.spotify.com/track/2kI2g20VpLziryb7552XS7) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Distance](https://open.spotify.com/album/1oxXB0erXtlTfmJ9YwIndH) | 3:08 | 2024-11-22 | 2025-03-30 |
 | [Do No More](https://open.spotify.com/track/21YVPtVHmvpodDiy7GyhUU) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Do No More](https://open.spotify.com/album/7lYVmgsxzp11ONTb9OynO0) | 2:42 | 2023-07-31 |  |
 | [Do You Care](https://open.spotify.com/track/0NX0CN8OVQZQsmxCJnH0f4) | [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Fractured Reflections](https://open.spotify.com/album/7i6HU97dbHiVlKeRvklH1T) | 6:21 | 2025-06-19 |  |
-| [Don't Make Me Wait](https://open.spotify.com/track/3VeS72g6grKG0oKV6n6ytL) | [Jake Jeffery](https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh) | [Don’t Make Me Wait](https://open.spotify.com/album/7AJEjqJ7I1XbwEUVbVWiDc) | 3:41 | 2025-08-01 |  |
+| [Don't Make Me Wait](https://open.spotify.com/track/3VeS72g6grKG0oKV6n6ytL) | [Jake Jeffery](https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh) | [Don’t Make Me Wait](https://open.spotify.com/album/7AJEjqJ7I1XbwEUVbVWiDc) | 3:41 | 2025-08-01 | 2025-08-18 |
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [dreamforever](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [dreamforever](https://open.spotify.com/album/7AdGCHuoZzGY8IK9Cbbz2H) | 2:50 | 2025-03-28 |  |
 | [Echoes](https://open.spotify.com/track/5iQf9pkvWsCr04zimLkusr) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Echoes](https://open.spotify.com/album/1nm30Bq5LbhXGUiTDoGSj8) | 3:49 | 2025-04-11 |  |
@@ -231,6 +231,7 @@
 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 | 2021-12-08 |  |
 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 | 2022-05-03 | 2023-04-12 |
 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 | 2021-12-08 | 2022-07-29 |
+| [I'll Be There \(feat\. Extra Special\)](https://open.spotify.com/track/6zNQHbsFK3ZY6qm9AdZE3C) | [Kaiyan](https://open.spotify.com/artist/2LTLYlJsnetSUuVQEnVNrE), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [I'll Be There \(feat\. Extra Special\)](https://open.spotify.com/album/4GzizSW5HvRENlslbUrPLk) | 3:40 | 2025-08-08 |  |
 | [Ibiza Blue](https://open.spotify.com/track/3HnJq0iCE0bVO1yYFxNX1C) | [Sue Avenue](https://open.spotify.com/artist/2UohvWGrvyjG67c93W6aqv) | [Ibiza Blue](https://open.spotify.com/album/6x9IjCEY9ZAwKtAUopoXKm) | 8:54 | 2021-12-08 |  |
 | [In My Dreams](https://open.spotify.com/track/00e1pgUUpOSk7dfbxXOjrq) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Dani Siciliano](https://open.spotify.com/artist/0FmDQmTLE8q1cOtLdmhhVF) | [In My Dreams](https://open.spotify.com/album/25ahu69SLbXVP60jlHrpAt) | 3:04 | 2025-07-04 | 2025-08-14 |
 | [In My Head](https://open.spotify.com/track/1KCqxAWsSoXC9abnWLiYqH) | [Trilucid](https://open.spotify.com/artist/2T6mOFQ2RGAypMuKtIg9ic) | [In My Head](https://open.spotify.com/album/7I1VmJNtSnoM82exSSoAxX) | 3:10 | 2023-12-15 |  |

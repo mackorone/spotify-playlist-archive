@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-609 songs - 1 day 18 hr 13 min
+610 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Change](https://open.spotify.com/track/5UjOTMEtd4vqSLXxyO71Yb) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG) | [Change](https://open.spotify.com/album/3AEd6QqRYFC4Jcw74u2kcg) | 6:32 | 2021-05-07 | 2022-04-20 |
 | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/track/1ABmhkPKvCoVSNh5NJYScq) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/album/7jPy3P2O7RA3VCBNtqzJS8) | 4:00 | 2022-02-04 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Change Your Mind](https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR) | 2:40 | 2022-07-01 | 2023-05-16 |
-| [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-03-07 |  |
+| [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-03-07 | 2025-08-18 |
 | [Chemical](https://open.spotify.com/track/5w7oiZLuf3fFilWEnp9pqo) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Chemical](https://open.spotify.com/album/2sZjKwUAJzBIO89XANMon8) | 3:35 | 2021-10-08 | 2022-07-29 |
 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 | 2022-07-01 | 2024-04-19 |
 | [Children \- Edit Mix](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y) | 4:05 | 2021-05-07 |  |
@@ -479,6 +479,7 @@
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-10 | 2025-01-25 |
 | [SOS](https://open.spotify.com/track/7pdI0NvmX1AstoqafRMcsb) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [SOS](https://open.spotify.com/album/2wX5pUWjQPYwkh5Z7sPT9b) | 3:04 | 2025-05-02 |  |
 | [Soulnote](https://open.spotify.com/track/6MEQnyDmSH8062mjmcWNLO) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Bella Mar 12](https://open.spotify.com/album/5eMSgnTyLgLQgMog32lx3q) | 3:52 | 2025-07-18 |  |
+| [Space](https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Space](https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI) | 4:04 | 2025-08-15 |  |
 | [Space Between Us](https://open.spotify.com/track/7i6E5BAg4MCdRymdTNv2bc) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:03 | 2021-05-07 | 2022-04-16 |
 | [Spicy \(feat\. Ginger\) \- Edit](https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Spicy \(feat\. Ginger\) \[Edit\]](https://open.spotify.com/album/5NiOkqIUEhAutwSmH4uD5X) | 3:31 | 2021-05-07 | 2023-04-01 |
 | [Spitfire](https://open.spotify.com/track/0Zr1L1ABbqyBqdLM0qKLnu) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Spitfire](https://open.spotify.com/album/4sMCBTKpLTrG1A4uyvfr50) | 4:29 | 2022-06-03 | 2022-07-29 |

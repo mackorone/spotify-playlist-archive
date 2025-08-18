@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2304598,
+  "num_followers": 2304523,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-07-04 00:52:09",
       "album": {
-        "name": "Songs in the Kitchen",
-        "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
-      },
-      "artists": [
-        {
-          "name": "Se\u00e1nie Bermingham",
-          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
-        }
-      ],
-      "duration_ms": 190319,
-      "name": "Songs in the Kitchen",
-      "url": "https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob"
-    },
-    {
-      "added_at": "2025-07-04 00:52:09",
-      "album": {
         "name": "i went outside",
         "url": "https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F"
       },
@@ -1195,22 +1179,18 @@
     {
       "added_at": "2025-07-04 00:52:09",
       "album": {
-        "name": "Someone Like You 2",
-        "url": "https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj"
+        "name": "Songs in the Kitchen",
+        "url": "https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ"
       },
       "artists": [
         {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "Matthew Harris",
-          "url": "https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij"
+          "name": "Se\u00e1nie Bermingham",
+          "url": "https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Someone Like You 2",
-      "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
+      "duration_ms": 190319,
+      "name": "Songs in the Kitchen",
+      "url": "https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob"
     },
     {
       "added_at": "2025-07-04 00:52:09",
@@ -1247,6 +1227,26 @@
       "duration_ms": 223942,
       "name": "Let Your Love Run Cold",
       "url": "https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61"
+    },
+    {
+      "added_at": "2025-07-04 00:52:09",
+      "album": {
+        "name": "Someone Like You 2",
+        "url": "https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "Matthew Harris",
+          "url": "https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Someone Like You 2",
+      "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
     },
     {
       "added_at": "2025-07-04 00:52:09",

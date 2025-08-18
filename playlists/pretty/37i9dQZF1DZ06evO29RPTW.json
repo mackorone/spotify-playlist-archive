@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 131131,
+  "num_followers": 131163,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ54gAAAAADCKc8qGZCjFkVDRql37vos",
+  "snapshot_id": "aJ/KAAAAAADxywtU/PcQsz6SsQ2FDuZb",
   "tracks": [
     {
       "added_at": null,
@@ -619,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
       },
       "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
+      "duration_ms": 217847,
+      "name": "Burn MF (feat Rob Zombie)",
+      "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
     },
     {
       "added_at": null,
@@ -655,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn MF (feat. Rob Zombie)",
-        "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 217847,
-      "name": "Burn MF (feat Rob Zombie)",
-      "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
+      "duration_ms": 166573,
+      "name": "The Hideous Exhibitions Of A Dedicated Gore Whore",
+      "url": "https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 166573,
-      "name": "The Hideous Exhibitions Of A Dedicated Gore Whore",
-      "url": "https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2"
+      "duration_ms": 181253,
+      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,

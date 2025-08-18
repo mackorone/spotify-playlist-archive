@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 144878,
       "name": "Darby Crashing Your Party",
       "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
@@ -1788,10 +1788,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 164226,
       "name": "We Threw Gasoline.......",
       "url": "https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
     },
     {
       "album": {

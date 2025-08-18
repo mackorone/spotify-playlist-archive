@@ -1,13 +1,45 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: Mikayla Geier",
-  "num_followers": 550783,
+  "description": "Feeling dramatic? All eyes on you. Cover: Madilyn Mei",
+  "num_followers": 550865,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOAS3vm9qjXHuiDM9zrM/67utMeM",
+  "snapshot_id": "AAAAAJW9cvX10oAo3WY+dAmit7Ec4VP/",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "One Man Circus",
+        "url": "https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "duration_ms": 280240,
+      "name": "One Man Circus",
+      "url": "https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Circe",
+        "url": "https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp"
+      },
+      "artists": [
+        {
+          "name": "Lilith Max",
+          "url": "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM"
+        }
+      ],
+      "duration_ms": 187582,
+      "name": "Circe",
+      "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
+    },
     {
       "added_at": "2025-06-20 04:00:48",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 130203,
       "name": "piano in the sky",
       "url": "https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW"
+    },
+    {
+      "added_at": "2024-08-23 04:11:51",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -41,10 +89,26 @@
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
-      "added_at": "2025-08-15 04:00:29",
+      "added_at": "2025-08-18 02:36:33",
       "album": {
-        "name": "One Man Circus",
-        "url": "https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN"
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2pXEKAY1DxmPGSc6k6Gb1P"
+      },
+      "artists": [
+        {
+          "name": "Chloe Ament",
+          "url": "https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu"
+        }
+      ],
+      "duration_ms": 240134,
+      "name": "The Water Is Fine",
+      "url": "https://open.spotify.com/track/3gS0VrWH2NyPGXYiFmcagd"
+    },
+    {
+      "added_at": "2025-08-18 02:36:33",
+      "album": {
+        "name": "The Milk Carton",
+        "url": "https://open.spotify.com/album/4wyw0CaVn3kGYRDIDQlKiq"
       },
       "artists": [
         {
@@ -52,9 +116,41 @@
           "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
         }
       ],
-      "duration_ms": 280240,
-      "name": "One Man Circus",
-      "url": "https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba"
+      "duration_ms": 310000,
+      "name": "The Milk Carton",
+      "url": "https://open.spotify.com/track/0uEeF2vQCTu4ucShvarTIH"
+    },
+    {
+      "added_at": "2024-08-23 04:11:51",
+      "album": {
+        "name": "The Family Jewels",
+        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Hermit the Frog",
+      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+    },
+    {
+      "added_at": "2025-08-18 02:36:33",
+      "album": {
+        "name": "The Last Werewolf",
+        "url": "https://open.spotify.com/album/3lZ6LgRBT4VV6bjFSdIFxp"
+      },
+      "artists": [
+        {
+          "name": "The Real Tuesday Weld",
+          "url": "https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2"
+        }
+      ],
+      "duration_ms": 264386,
+      "name": "Me and Mr Wolf",
+      "url": "https://open.spotify.com/track/1v6IAzMitH1xrFEZLQmmRN"
     },
     {
       "added_at": "2025-07-25 04:11:48",
@@ -89,52 +185,52 @@
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
     },
     {
-      "added_at": "2025-08-08 04:00:40",
+      "added_at": "2025-08-18 02:36:33",
       "album": {
-        "name": "Circe",
-        "url": "https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp"
+        "name": "LOCK ME OUT",
+        "url": "https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0"
       },
       "artists": [
         {
-          "name": "Lilith Max",
-          "url": "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM"
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
         }
       ],
-      "duration_ms": 187582,
-      "name": "Circe",
-      "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
+      "duration_ms": 174545,
+      "name": "LOCK ME OUT",
+      "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"
     },
     {
-      "added_at": "2024-08-23 04:11:51",
+      "added_at": "2025-08-18 02:36:33",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+        "name": "boys beware",
+        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
         }
       ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+      "duration_ms": 133887,
+      "name": "boys beware",
+      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
     },
     {
-      "added_at": "2024-08-23 04:11:51",
+      "added_at": "2025-06-13 18:59:28",
       "album": {
-        "name": "The Family Jewels",
-        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+        "name": "I Can Be Your Mother",
+        "url": "https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
         }
       ],
-      "duration_ms": 215960,
-      "name": "Hermit the Frog",
-      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+      "duration_ms": 206067,
+      "name": "The Doll People",
+      "url": "https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz"
     },
     {
       "added_at": "2025-07-25 04:11:48",
@@ -171,22 +267,6 @@
       "duration_ms": 198000,
       "name": "Vicious Delicious",
       "url": "https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO"
-    },
-    {
-      "added_at": "2025-06-13 18:59:28",
-      "album": {
-        "name": "I Can Be Your Mother",
-        "url": "https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 206067,
-      "name": "The Doll People",
-      "url": "https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -235,6 +315,22 @@
       "duration_ms": 243519,
       "name": "What\u2019s Going On?!",
       "url": "https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26"
+    },
+    {
+      "added_at": "2025-08-18 02:36:33",
+      "album": {
+        "name": "Coyote Stories",
+        "url": "https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS"
+      },
+      "artists": [
+        {
+          "name": "The Crane Wives",
+          "url": "https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "The Moon Will Sing",
+      "url": "https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n"
     },
     {
       "added_at": "2025-07-18 04:00:30",
@@ -299,6 +395,22 @@
       "duration_ms": 211000,
       "name": "Nothing's New",
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "added_at": "2025-08-18 02:36:33",
+      "album": {
+        "name": "To douse a scalded tongue",
+        "url": "https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR"
+      },
+      "artists": [
+        {
+          "name": "Yaelokre",
+          "url": "https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "To douse a scalded tongue",
+      "url": "https://open.spotify.com/track/6dBfmNdCRhOanXG9zwdqt7"
     },
     {
       "added_at": "2025-07-18 04:00:30",
@@ -459,22 +571,6 @@
       "duration_ms": 284548,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3"
-    },
-    {
-      "added_at": "2025-04-25 04:00:38",
-      "album": {
-        "name": "DA DA DA",
-        "url": "https://open.spotify.com/album/6BqQ0NgA85BDf5lNtXoXob"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 138355,
-      "name": "DA DA DA",
-      "url": "https://open.spotify.com/track/0edVUyI6gmCfm4Ka6YxSDt"
     },
     {
       "added_at": "2025-05-23 00:00:24",
@@ -807,22 +903,6 @@
       "duration_ms": 266969,
       "name": "The Seed",
       "url": "https://open.spotify.com/track/3EUXLUKx2zNUzb2otMc8HH"
-    },
-    {
-      "added_at": "2025-01-10 05:00:43",
-      "album": {
-        "name": "FABLES",
-        "url": "https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "I'm a never forgive kinda girl",
-      "url": "https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J"
     },
     {
       "added_at": "2024-12-13 05:00:33",

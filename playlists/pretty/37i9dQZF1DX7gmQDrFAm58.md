@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,875 likes - 150 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,874 likes - 150 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 111 | [Sweet Slumber](https://open.spotify.com/track/1iQnGjpwi75756UHViEqjN) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Lullaby Land](https://open.spotify.com/album/241TGPQPSZ5HqcyP4iSvJN) | 1:33 |
 | 112 | [You Can Close Your Eyes](https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [You Can Close Your Eyes](https://open.spotify.com/album/0inOy4tIchEEMyQvxddMxY) | 1:46 |
 | 113 | [Butterflies](https://open.spotify.com/track/6911enshoKYsen0CF2rLwq) | [Carlton Howland](https://open.spotify.com/artist/2w3kf88cpyF3SyYN0iGocx) | [Butterflies](https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF) | 1:14 |
-| 114 | [Dreams](https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Dreams](https://open.spotify.com/album/5wGQM4bdUEwVEQgfnxnYO2) | 1:30 |
-| 115 | [Midnight Slumber](https://open.spotify.com/track/125jmDsmfA8BG0jaTioOtu) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [Midnight Slumber](https://open.spotify.com/album/2JdUd6tVUJIaHLzd8CeurY) | 1:39 |
+| 114 | [Midnight Slumber](https://open.spotify.com/track/125jmDsmfA8BG0jaTioOtu) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [Midnight Slumber](https://open.spotify.com/album/2JdUd6tVUJIaHLzd8CeurY) | 1:39 |
+| 115 | [Dreams](https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Dreams](https://open.spotify.com/album/5wGQM4bdUEwVEQgfnxnYO2) | 1:30 |
 | 116 | [All Should Slumber, For It's Night](https://open.spotify.com/track/5OnTw768T4KCIZjMCAqoR4) | [Milo Creek](https://open.spotify.com/artist/33aBwwHlIzRWzNoOAM39LF) | [All Should Slumber, For It's Night](https://open.spotify.com/album/31sIzZNgiRmqgqiHLMZaCT) | 1:28 |
 | 117 | [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 |
 | 118 | [Turkey in the Straw](https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Turkey in the Straw](https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT) | 2:20 |
@@ -148,15 +148,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 138 | [All Play Together](https://open.spotify.com/track/7qZuIl30PWANdOxm5N4RM6) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Sweet Dreams](https://open.spotify.com/album/7q58dn3TLHvIabps0aCByV) | 1:40 |
 | 139 | [Lullaby For Olivia](https://open.spotify.com/track/2eLajJ02SbBuEaJ8m40af8) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Lullaby For Olivia](https://open.spotify.com/album/4t6ZL4aPaYTb9Up7dgSsN9) | 1:37 |
 | 140 | [Good Night](https://open.spotify.com/track/1d6YLD4YvLH3o1FgRfZgfX) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleep Tight](https://open.spotify.com/album/0fADUXUvdagL05clhet7xW) | 2:27 |
-| 141 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
-| 142 | [Rainbow Whisperer](https://open.spotify.com/track/3DOZLaK5hDW2pAkJH1kzlk) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 |
-| 143 | [BINGO](https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [BINGO](https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI) | 2:10 |
-| 144 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 |
-| 145 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 |
+| 141 | [Rainbow Whisperer](https://open.spotify.com/track/3DOZLaK5hDW2pAkJH1kzlk) | [Jenny Sarah](https://open.spotify.com/artist/42KXtMN44AvCxbW3NFxJHl) | [The Rabbit and The Sparrow](https://open.spotify.com/album/3GbHYS7cr3dGKOBf4gvTlc) | 1:51 |
+| 142 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
+| 143 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 |
+| 144 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 |
+| 145 | [BINGO](https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [BINGO](https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI) | 2:10 |
 | 146 | [Puppie Joe](https://open.spotify.com/track/5fwazm4P46cCDxqvipbJtB) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Naptime](https://open.spotify.com/album/3daO9Rb8211Lzf4HFrfaPS) | 1:28 |
 | 147 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 |
 | 148 | [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 |
 | 149 | [Puppy´s Dream](https://open.spotify.com/track/3xwmrjpBEDtM1nyFhJ7Y0h) | [Tiffany Royce](https://open.spotify.com/artist/0NHb5ZgkewGNZZZxgyn2Vo) | [Puppy´s Dream](https://open.spotify.com/album/7JuIYEqr5fn945ciHRAEtW) | 1:17 |
-| 150 | [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 |
+| 150 | [Little Ballerina](https://open.spotify.com/track/0iVFnnn0nCjdv2XhlO7BA9) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Little Ballerina](https://open.spotify.com/album/7bLaVvG89oTvjZJcGWp8kO) | 1:34 |
 
 Snapshot ID: `AAAAABaxPUtPWkIRH8mFRlpK1g/TbaPw`

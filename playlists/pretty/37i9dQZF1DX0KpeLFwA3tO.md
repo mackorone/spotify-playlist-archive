@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Militarie Gun
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,640 likes - 125 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,645 likes - 125 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 94 | [FME](https://open.spotify.com/track/46mmlCxxF6c4mzobMVK94b) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2), [BVT](https://open.spotify.com/artist/686bTsDGJ3bTbLZMUxouUi) | [FME](https://open.spotify.com/album/2EVaRxUjrnJY0eSRdEdeZi) | 2:15 |
 | 95 | [Trap Door](https://open.spotify.com/track/1APoykMkL5FUMFnjkQ4del) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Trap Door](https://open.spotify.com/album/0NN283X0D0uwZBLNEBNblj) | 4:22 |
 | 96 | [Six Feet](https://open.spotify.com/track/3ZqHIHxlmmPC34ZUv49Twx) | [Drop Dead, Gorgeous](https://open.spotify.com/artist/7ib9jRPvGJ6VPCTg35G2L9) | [Six Feet](https://open.spotify.com/album/3n8Sk3Ifz6N55mguGuaotg) | 2:43 |
-| 97 | [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [Out in Front](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 |
+| 97 | [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 |
 | 98 | [WASTED](https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm) | [Pushing Veronica](https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40) | [WASTED](https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G) | 2:57 |
 | 99 | [Boygirl](https://open.spotify.com/track/0XOVJeeszzmBI2P2wUKjaS) | [Pollyanna](https://open.spotify.com/artist/2y69gaZL8wD15wSB2Vl188), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Boygirl](https://open.spotify.com/album/3yNe1YmYZ8swniIuBcqX3D) | 3:00 |
 | 100 | [Know Not](https://open.spotify.com/track/3JBckWUvq6YxjiubQKpYLj) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Know Not](https://open.spotify.com/album/02ystanZLEriuyxcPxD4dK) | 1:58 |

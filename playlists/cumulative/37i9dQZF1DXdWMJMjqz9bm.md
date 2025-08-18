@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: People R Ugly
 
-752 songs - 1 day 10 hr 23 min
+753 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Crazy](https://open.spotify.com/track/6L23YXw4FINdMDgtvfgyL7) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp) | [Crazy](https://open.spotify.com/album/2UTVJGVZtWKYHBbor2lp6x) | 2:02 | 2023-03-03 | 2024-06-01 |
 | [Crazy](https://open.spotify.com/track/601m47xXoC3TFJuyEQ80VZ) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Crazy](https://open.spotify.com/album/6jrUbwWMJR8APSS7D1iHq9) | 2:41 | 2025-05-16 |  |
 | [crazy](https://open.spotify.com/track/7eapS72LGn58Bx6cQaj0h4) | [Zac Greer](https://open.spotify.com/artist/26Hx3p02bxJ4cLfua31zmz) | [crazy](https://open.spotify.com/album/7nRlK5EFYouK3XAMdKr5wi) | 2:37 | 2021-12-03 | 2022-02-26 |
+| [CRY](https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF) | [CRY](https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ) | 2:15 | 2025-08-18 |  |
 | [Crying In Sunshine \(feat\. Arden Jones\)](https://open.spotify.com/track/5i2oYP9tEfmBjULYH1rM7u) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Crying In Sunshine \(feat\. Arden Jones\)](https://open.spotify.com/album/1gebTTFEpyP6zKhXhG60QI) | 3:16 | 2023-03-24 | 2024-06-01 |
 | [Cutlass \(ft\. ScHoolboy Q\)](https://open.spotify.com/track/6vBczVPPas3vqNDFX9u7q0) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Towards The Sun](https://open.spotify.com/album/57XXE3V0P60nJkG68roJiH) | 3:20 | 2022-05-20 | 2022-07-23 |
 | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ) | 3:09 | 2023-08-18 | 2025-04-30 |

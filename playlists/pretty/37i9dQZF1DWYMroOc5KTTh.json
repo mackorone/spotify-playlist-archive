@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 718808,
+  "num_followers": 719029,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,30 @@
     {
       "added_at": "2025-06-19 23:00:22",
       "album": {
+        "name": "Only For Tonight",
+        "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "m.O.N.R.O.E.",
+          "url": "https://open.spotify.com/artist/6pDZzvzwjGXunH8FCb2ulo"
+        },
+        {
+          "name": "Matluck",
+          "url": "https://open.spotify.com/artist/5CieAewiroqzWWxdsWuoNu"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Only For Tonight",
+      "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
+    },
+    {
+      "added_at": "2025-06-19 23:00:22",
+      "album": {
         "name": "Nothing Better Than Music",
         "url": "https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3"
       },
@@ -911,30 +935,6 @@
       "duration_ms": 155097,
       "name": "Nothing Better Than Music",
       "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"
-    },
-    {
-      "added_at": "2025-06-19 23:00:22",
-      "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea"
     }
   ],
   "unique_name": "Serotonin",

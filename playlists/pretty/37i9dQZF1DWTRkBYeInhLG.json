@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 497289,
+  "num_followers": 497297,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
+        "name": "Labirin",
+        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 182656,
+      "name": "Labirin",
+      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
         "name": "Sialan",
         "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
-        "name": "Labirin",
-        "url": "https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 182656,
-      "name": "Labirin",
-      "url": "https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8"
     },
     {
       "added_at": "2025-07-28 02:23:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
-        "name": "Keabadian",
-        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
         "name": "Tulus",
         "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 222893,
       "name": "Teman Hidup",
       "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     },
     {
       "added_at": "2025-07-28 02:23:00",
@@ -655,30 +655,6 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
-        "name": "Badai Telah Berlalu",
-        "url": "https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9"
-      },
-      "artists": [
-        {
-          "name": "Diskoria",
-          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
-        },
-        {
-          "name": "Laleilmanino",
-          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
-        },
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 295542,
-      "name": "Badai Telah Berlalu",
-      "url": "https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
         "name": "Tulus",
         "url": "https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 329865,
       "name": "Di Atas Meja",
       "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
+        "name": "Badai Telah Berlalu",
+        "url": "https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9"
+      },
+      "artists": [
+        {
+          "name": "Diskoria",
+          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
+        },
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 295542,
+      "name": "Badai Telah Berlalu",
+      "url": "https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es"
     },
     {
       "added_at": "2025-07-28 02:23:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
-        "name": "RAYA",
-        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 269300,
-      "name": "Semoga",
-      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 219284,
       "name": "Sepatu",
       "url": "https://open.spotify.com/track/73DWDOjVUyJ8sAiAcySvgS"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
+        "name": "RAYA",
+        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 269300,
+      "name": "Semoga",
+      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
     },
     {
       "added_at": "2025-07-28 02:23:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
-      },
-      "artists": [
-        {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
-        }
-      ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+      },
+      "artists": [
+        {
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+        }
+      ],
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2025-07-28 02:23:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2025-07-28 02:23:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-07-28 02:23:00",
       "album": {
-        "name": "Tangga",
-        "url": "https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB"
-      },
-      "artists": [
-        {
-          "name": "Tangga",
-          "url": "https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Hebat",
-      "url": "https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG"
-    },
-    {
-      "added_at": "2025-07-28 02:23:00",
-      "album": {
         "name": "Evaluasi (Reprise)",
         "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 193421,
       "name": "Evaluasi (Reprise)",
       "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
+    },
+    {
+      "added_at": "2025-07-28 02:23:00",
+      "album": {
+        "name": "Tangga",
+        "url": "https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB"
+      },
+      "artists": [
+        {
+          "name": "Tangga",
+          "url": "https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Hebat",
+      "url": "https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG"
     },
     {
       "added_at": "2025-07-28 02:23:00",

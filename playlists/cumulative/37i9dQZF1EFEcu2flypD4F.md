@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-402 songs - 1 day 1 hr 31 min
+403 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Buttons](https://open.spotify.com/track/37dnmQMEQ8ceZr9tKzaY3K) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:14 | 2023-12-30 |  |
 | [By Your Side \(Workout Mix + 135 BPM\)](https://open.spotify.com/track/470aIBFtqulDFlH5UtEbzr) | [Christian Workout Hits](https://open.spotify.com/artist/39HVSCCZMeqZ005U3CU1Pj) | [50 \#1 Workout Christian Hits! \(Deluxe Edition\) + Bonus Cardio Remixes + Instrumental Remixes + Classics \[2 Collection Set\]](https://open.spotify.com/album/3b8h601KQqKOiE00nOIgz5) | 5:59 | 2023-12-30 |  |
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2023-12-30 |  |
-| [Cannonball](https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:35 | 2023-12-30 |  |
+| [Cannonball](https://open.spotify.com/track/2ohZwvgW7AsvpzZZDuA6PR) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:35 | 2023-12-30 | 2025-08-18 |
+| [Cannonball \- From The "Home" Soundtrack](https://open.spotify.com/track/2x4elpH0Q4CCCvHsI9GyA8) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1CqBtwIeVnXDzORWTO8Rpo) | 3:57 | 2025-08-17 |  |
 | [Cansei de Sofrer](https://open.spotify.com/track/55mUomUnfIRpUsR027HpUd) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Cansei de Sofrer](https://open.spotify.com/album/1Zn9a9aDI8lYjD7avdlCVF) | 3:31 | 2023-12-30 |  |
 | [Cares At The Door](https://open.spotify.com/track/21MIfQxzau3lmiPtnwQzJX) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:51 | 2023-12-30 |  |
 | [Cellophane](https://open.spotify.com/track/6hWG9YfOhxlZyIf4EnbA97) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:25 | 2023-12-30 |  |

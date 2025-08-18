@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 226600,
+  "num_followers": 226680,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Billo's Caracas Boys vs. Dimension Latina",
         "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
-      },
-      "artists": [
-        {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Aqui Esta el Reencuentro",
         "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
       },
@@ -227,8 +227,8 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Hector Lavoe El Cantante -The Originals",
-        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 327360,
-      "name": "El Dia De Suerte",
-      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
+      "duration_ms": 328880,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Vamonos Pal' Monte",
-        "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426746,
-      "name": "Vamonos Pal Monte",
-      "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Que Gente Averigua",
         "url": "https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 177680,
       "name": "Lluvia Con Nieve",
       "url": "https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Vamonos Pal' Monte",
+        "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 426746,
+      "name": "Vamonos Pal Monte",
+      "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -315,8 +315,8 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx"
+        "name": "Hector Lavoe El Cantante -The Originals",
+        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 328880,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz"
+      "duration_ms": 327360,
+      "name": "El Dia De Suerte",
+      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -459,8 +459,8 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+        "name": "With A Little Help From My Friend",
+        "url": "https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+      "duration_ms": 282213,
+      "name": "Salome",
+      "url": "https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -543,8 +543,8 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "With A Little Help From My Friend",
-        "url": "https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw"
+        "name": "A Man And His Music",
+        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 282213,
-      "name": "Salome",
-      "url": "https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R"
+      "duration_ms": 230573,
+      "name": "El Raton",
+      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
     },
     {
       "added_at": "2024-09-24 20:30:16",

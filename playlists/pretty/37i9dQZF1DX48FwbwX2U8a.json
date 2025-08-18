@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 50528,
+  "num_followers": 50543,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "\u00a1Juepa Je!",
+        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 275826,
+      "name": "Cuatro Rosas",
+      "url": "https://open.spotify.com/track/51Cv1Dpi7PBCj3DfiMt24E"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Siente El Amor",
         "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 232133,
       "name": "Nadie Se Muere",
       "url": "https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "\u00a1Juepa Je!",
-        "url": "https://open.spotify.com/album/1OB90EcEUuYoDRl3izM5b4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Cuatro Rosas",
-      "url": "https://open.spotify.com/track/51Cv1Dpi7PBCj3DfiMt24E"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -715,22 +715,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Afrosound",
-        "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
+        "name": "Historia de \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
       },
       "artists": [
         {
-          "name": "Afrosound",
-          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
-        },
-        {
-          "name": "Jorge Juan Mej\u00eda",
-          "url": "https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN"
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 215322,
-      "name": "Mar de Emociones",
-      "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
+      "duration_ms": 393012,
+      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -751,18 +747,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Historia de \u00c9xitos, Vol. 1",
-        "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
+        "name": "Afrosound",
+        "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        },
+        {
+          "name": "Jorge Juan Mej\u00eda",
+          "url": "https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN"
         }
       ],
-      "duration_ms": 393012,
-      "name": "La Quiero a Morir / Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS"
+      "duration_ms": 215322,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
     },
     {
       "added_at": "2024-07-12 22:59:20",

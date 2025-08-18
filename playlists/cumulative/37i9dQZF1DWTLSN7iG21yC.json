@@ -3965,6 +3965,24 @@
     },
     {
       "album": {
+        "name": "Prequel",
+        "url": "https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242343,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/5vZ46Y2lI7dfF1a3dV3HZ0"
+    },
+    {
+      "album": {
         "name": "Eastside (with Halsey & Khalid)",
         "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
       },

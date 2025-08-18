@@ -18658,7 +18658,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -25042,7 +25042,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 116214,
       "name": "LEMURY",
       "url": "https://open.spotify.com/track/7rkieDw5Cj4DVxQvTBU6Rk"
@@ -28480,7 +28480,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 122352,
       "name": "MOMENT",
       "url": "https://open.spotify.com/track/72oN2IncZulwxtrfhcyzzj"
@@ -36558,6 +36558,24 @@
       "duration_ms": 181573,
       "name": "Pierwszy s\u0142o\u0144ca blask",
       "url": "https://open.spotify.com/track/2orfWNzJLVJXlT5VeHmUlV"
+    },
+    {
+      "album": {
+        "name": "PIJ WOJANKA DO BIA\u0141EGO RANKA",
+        "url": "https://open.spotify.com/album/4a66NfHH26bDCL96BmA4HO"
+      },
+      "artists": [
+        {
+          "name": "Wojan",
+          "url": "https://open.spotify.com/artist/2Wu2xzJM6HZxNJDXY8rQs5"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "PIJ WOJANKA DO BIA\u0141EGO RANKA",
+      "url": "https://open.spotify.com/track/7ep6b3lxEcJLuTST6W43we"
     },
     {
       "album": {

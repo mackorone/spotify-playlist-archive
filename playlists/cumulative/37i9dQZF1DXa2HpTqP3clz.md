@@ -4,7 +4,7 @@
 
 > Today's Bluegrass and old time favorites\. Cover: Rhiannon Giddens & Justin Robinson
 
-655 songs - 1 day 14 hr 50 min
+656 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-11 | 2023-02-04 |
 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-08-18 |
 | [Dooley's Farm \- Spotify Sessions](https://open.spotify.com/track/0wBAXKB1deM4RUJUbh3b4W) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [good 4 u / Dooley's Farm \(Spotify Singles\)](https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm) | 5:10 | 2023-02-03 | 2023-06-24 |
-| [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 | 2024-05-10 |  |
+| [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 | 2024-05-10 | 2025-08-18 |
 | [Down the Road](https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Down the Road](https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8) | 3:15 | 2023-03-17 |  |
 | [Drivin' Nails In My Coffin \- Simply Bluegrass](https://open.spotify.com/track/0Wy7fpZxbslkaINmte0Rpc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Drivin' Nails In My Coffin \(Simply Bluegrass\)](https://open.spotify.com/album/67ILLZHENVDtXDVOz28dAa) | 3:10 | 2021-12-17 | 2022-06-13 |
 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 | 2023-06-23 | 2024-04-19 |
@@ -172,6 +172,7 @@
 | [Eva Kelley](https://open.spotify.com/track/0s8Zuk9rkJf9NVR9azmDwE) | [Ben Sollee](https://open.spotify.com/artist/3Zzs4IqjV4b0yEFWqRv1si) | [Eva Kelley](https://open.spotify.com/album/7DakEfniT1T6Wu4Ws4QRWV) | 4:41 | 2021-12-31 | 2022-06-18 |
 | [Even The Bad Ends Badly](https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Bluefinger](https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1) | 3:22 | 2024-01-26 | 2024-04-07 |
 | [Evergreen](https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF) | [Balsam Range](https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU) | [Kinetic Tone](https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX) | 4:52 | 2024-04-06 | 2025-02-01 |
+| [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 | 2025-08-15 |  |
 | [Fall In Tennessee \(feat\. Jerry Douglas\)](https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Fall In Tennessee](https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU) | 3:51 | 2023-10-20 | 2025-01-25 |
 | [Fall Like Rain](https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX) | [Justin Moses](https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola) | [Fall Like Rain](https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY) | 4:22 | 2021-12-17 |  |
 | [Falling for You](https://open.spotify.com/track/5KZWEoFswLxFLATP5JnDJX) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [Live Sessions, Vol\. 03](https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i) | 2:40 | 2022-01-14 | 2024-01-27 |

@@ -2201,6 +2201,24 @@
     },
     {
       "album": {
+        "name": "Morning Wonder (Nature)",
+        "url": "https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Juneau (Rain)",
+      "url": "https://open.spotify.com/track/4hne9l283442PCQRrLZUMI"
+    },
+    {
+      "album": {
         "name": "Dragonflies",
         "url": "https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS"
       },
@@ -5906,7 +5924,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 181000,
       "name": "Umbrella Acoustics",
       "url": "https://open.spotify.com/track/5Zu0wrsmfeQujEHsvs8D7K"

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
 
-1,295 songs - 3 day 7 hr 21 min
+1,296 songs - 3 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Ancestry](https://open.spotify.com/track/3L0JKbjp5StdqWBFHFab6O) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Ancestry](https://open.spotify.com/album/4AnqMhRGHsGvMynA2j3HY1) | 4:50 | 2022-11-04 | 2023-01-28 |
 | [Anger](https://open.spotify.com/track/48oseEsllN8BoGcjMARDyX) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Anger](https://open.spotify.com/album/31YVc9WzhyGg1Dsb7QaoEO) | 3:26 | 2022-07-13 | 2022-07-23 |
 | [Animal](https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Animal](https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX) | 3:38 | 2023-09-29 | 2024-03-09 |
+| [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-15 |  |
 | [Annihilist](https://open.spotify.com/track/2TyPzCadt6hCr1TWRxUgso) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Annihilist](https://open.spotify.com/album/0opaKmS2lnPYlhj0PLTn4P) | 4:10 | 2022-07-13 | 2022-07-23 |
 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 | 2022-05-27 | 2022-12-17 |
 | [Anomaly](https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Anomaly / Drift](https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A) | 3:18 | 2023-05-22 | 2023-11-28 |
@@ -1249,7 +1250,7 @@
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |
 | [We All Meet Up In The End](https://open.spotify.com/track/6PXnz34sERoo33jtNjBabm) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [We All Meet Up In The End](https://open.spotify.com/album/607lnh8iZa9ycSunepT3MT) | 2:56 | 2024-08-25 | 2024-09-21 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-17 | 2022-02-11 |
-| [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 |  |
+| [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 | 2025-08-18 |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-07-01 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-22 | 2024-08-26 |
 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 | 2023-02-17 | 2023-04-22 |

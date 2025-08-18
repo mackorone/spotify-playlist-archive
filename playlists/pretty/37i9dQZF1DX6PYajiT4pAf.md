@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > J Balvin con Jay Wheeler, Maroon 5, Xavi & Omar Montes, Mau y Ricky y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,273 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,292 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

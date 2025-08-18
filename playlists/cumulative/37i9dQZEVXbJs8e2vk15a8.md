@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-3,291 songs - 7 day 8 hr 47 min
+3,292 songs - 7 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3189,6 +3189,7 @@
 | [WORTH NOTHING \- Fast and Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-25 | 2022-12-16 |
 | [Would You Fall in Love with Me Again](https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 5:45 | 2025-02-25 | 2025-04-12 |
 | [Would've, Could've, Should've](https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 4:20 | 2022-11-15 | 2022-11-22 |
+| [Wouldn't Change a Thing \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/0Di5p4ItolIUZB8c2P0pvs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:23 | 2025-08-17 |  |
 | [Wow \(Spanish G\-Mix\) \- Remix](https://open.spotify.com/track/1frUXZc4HeykdFGN9ODbWT) | [yvng byte](https://open.spotify.com/artist/2HqJtvnIstJnn559qvgZB5) | [Wow \(Spanish G\-Mix\) \[Remix\]](https://open.spotify.com/album/55msyWlGnBUqzKsyLRDoJG) | 2:04 | 2023-01-17 | 2023-01-23 |
 | [WTF 2](https://open.spotify.com/track/66QWqZPA5Mxe8LpRjewkVv) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/2njFsjrcCYquIi53DQ9CiX) | [WTF 2](https://open.spotify.com/album/7ebZRkmaweJp2FKLP5NoFt) | 2:06 | 2024-03-10 | 2024-03-13 |
 | [WTF 2](https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW) | [Ugovhb](https://open.spotify.com/artist/4chyvKr2WRnrzw5oHcOZLG), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [WTF 2](https://open.spotify.com/album/4cFGu2A51oQ1lezuK6O9Dn) | 2:07 | 2024-02-22 | 2024-03-19 |
@@ -3214,7 +3215,7 @@
 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-05-02 | 2023-06-07 |
 | [Y Ke Pa](https://open.spotify.com/track/27o0WntB9hT9VpWIkuIg13) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Tesla 1](https://open.spotify.com/album/2k6Sj9Blz0wWAIgWDIZ7CW) | 2:28 | 2025-06-23 | 2025-07-02 |
 | [y ke pa](https://open.spotify.com/track/7bwfySoIRUiDpctWvLy9AC) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [TESLA 1](https://open.spotify.com/album/4d5zzbJBCV3u2pBqXDsFVA) | 2:28 | 2025-04-11 | 2025-06-26 |
-| [y ke pa \- Remix](https://open.spotify.com/track/2uwWTt4mRTkV1MHAun4JNv) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [y ke pa \(Remix\)](https://open.spotify.com/album/5epR5NpksEBuSGwbYwCLeO) | 3:13 | 2025-05-27 |  |
+| [y ke pa \- Remix](https://open.spotify.com/track/2uwWTt4mRTkV1MHAun4JNv) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [y ke pa \(Remix\)](https://open.spotify.com/album/5epR5NpksEBuSGwbYwCLeO) | 3:13 | 2025-05-27 | 2025-08-18 |
 | [Y podría](https://open.spotify.com/track/5aD6PpXTrTZVta5ZLTgLpb) | [Resonancia Etérea](https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB) | [Luces](https://open.spotify.com/album/0fQL7rlOvHNaSCVKudDDae) | 5:55 | 2025-03-05 | 2025-03-18 |
 | [Ya no me duele :,\)](https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Cele Arrabal](https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl) | [Ya no me duele :,\)](https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp) | 2:37 | 2024-01-17 | 2024-01-24 |
 | [Ya No Pienso en Ti](https://open.spotify.com/track/1LcBCSnCovI1VlG9lsTZnV) | [antisocial.40](https://open.spotify.com/artist/35O1EQTacgWT0iukOHnnVA) | [Ya No Pienso en Ti](https://open.spotify.com/album/5U3oh2tCnBG0YG2pAeMbjn) | 2:35 | 2023-02-08 | 2023-02-11 |

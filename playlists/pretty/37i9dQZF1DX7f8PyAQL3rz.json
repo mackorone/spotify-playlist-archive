@@ -1,6 +1,6 @@
 {
   "description": "pi\u00e3o na jacu p\u00eassego ali, fk nos falante alt\u00e3o pensa?",
-  "num_followers": 1405860,
+  "num_followers": 1405763,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
+        "name": "A Cara do Enquadro",
+        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 145055,
+      "name": "Cartas na Mesa (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 348292,
       "name": "Capa da Vogue",
       "url": "https://open.spotify.com/track/3rzMu9vRyCZAyGvBaJbL9t"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
-        "name": "A Cara do Enquadro",
-        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 145055,
-      "name": "Cartas na Mesa (B\u00f4nus)",
-      "url": "https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1135,34 +1135,6 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
-        "name": "Cada Segundo",
-        "url": "https://open.spotify.com/album/5nIxh4z5tSZRr4FtTm3hnr"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Xaolin Records",
-          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
-        },
-        {
-          "name": "prodPdrin",
-          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
-        },
-        {
-          "name": "BenzMuzik",
-          "url": "https://open.spotify.com/artist/4Eo4lUeztnE59MDtxS79UO"
-        }
-      ],
-      "duration_ms": 144125,
-      "name": "Cada Segundo",
-      "url": "https://open.spotify.com/track/4hjmYQiICe4ANizZa01zLm"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
         "name": "A Cara do Enquadro",
         "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
       },
@@ -1191,22 +1163,6 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
-        "name": "808 CLUB: AFTER",
-        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Sui\u00e7a",
-      "url": "https://open.spotify.com/track/7k64Ai8ccdFIto421PrILd"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
         "name": "Aruanda",
         "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
@@ -1231,6 +1187,50 @@
       "duration_ms": 153600,
       "name": "Modelo Brasileiro",
       "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "808 CLUB: AFTER",
+        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Sui\u00e7a",
+      "url": "https://open.spotify.com/track/7k64Ai8ccdFIto421PrILd"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "Cada Segundo",
+        "url": "https://open.spotify.com/album/5nIxh4z5tSZRr4FtTm3hnr"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Xaolin Records",
+          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+        },
+        {
+          "name": "prodPdrin",
+          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
+        },
+        {
+          "name": "BenzMuzik",
+          "url": "https://open.spotify.com/artist/4Eo4lUeztnE59MDtxS79UO"
+        }
+      ],
+      "duration_ms": 144125,
+      "name": "Cada Segundo",
+      "url": "https://open.spotify.com/track/4hjmYQiICe4ANizZa01zLm"
     },
     {
       "added_at": "2025-08-15 03:01:18",
@@ -1359,30 +1359,6 @@
     {
       "added_at": "2025-08-15 03:01:18",
       "album": {
-        "name": "VIDA LOKA TAMB\u00c9M AMA",
-        "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Taramps",
-          "url": "https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Palavra Certa",
-      "url": "https://open.spotify.com/track/4VK07cFahaOvnAN6Mc0QIJ"
-    },
-    {
-      "added_at": "2025-08-15 03:01:18",
-      "album": {
         "name": "Yeezy Slide \"REMIX\"",
         "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
+    },
+    {
+      "added_at": "2025-08-15 03:01:18",
+      "album": {
+        "name": "VIDA LOKA TAMB\u00c9M AMA",
+        "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Taramps",
+          "url": "https://open.spotify.com/artist/4ZEOtfy8YKar5Jqu1yR3TH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Palavra Certa",
+      "url": "https://open.spotify.com/track/4VK07cFahaOvnAN6Mc0QIJ"
     },
     {
       "added_at": "2025-08-15 03:01:18",

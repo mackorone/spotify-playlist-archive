@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
 
-1,561 songs - 3 day 15 hr 7 min
+1,562 songs - 3 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2021-12-30 | 2022-03-15 |
 | [Qalby Da2 Da2a](https://open.spotify.com/track/62El47dsyN8T4yfhvkWCMG) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Qalby Da2 Da2a](https://open.spotify.com/album/3Xb1UDBkYMN7OxdPdq5WIM) | 2:39 | 2025-01-02 | 2025-02-07 |
 | [Qalby Ya Nela](https://open.spotify.com/track/0vB9SN81ZyBpUjfS9Gwudv) | [Haitham Nabil](https://open.spotify.com/artist/3OFNnk9OMpPvJ0qnb6v66W) | [Qalby Ya Nela](https://open.spotify.com/album/2pVqzLf1W7RQ0NQnI4L4Sq) | 3:00 | 2024-07-04 | 2024-08-16 |
+| [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 | 2025-08-17 |  |
 | [Qeset Kol Youmen](https://open.spotify.com/track/25sRDChlQLgk8Id0X3LQwh) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Markeba \(Phase One\)](https://open.spotify.com/album/4LRt35cFkXXU4Gs6DFJsem) | 2:29 | 2024-12-31 | 2025-01-31 |
 | [Qesm El Shakawy](https://open.spotify.com/track/0R83NDHazT9AnwN3PK2QsR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Qesm El Shakawy](https://open.spotify.com/album/6ff3vRJInbqwl041x1hau9) | 2:21 | 2025-02-07 | 2025-05-16 |
 | [Ra2y 3am](https://open.spotify.com/track/2cXNrefEFkDbm65gOjnUZw) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Ra2y 3am](https://open.spotify.com/album/0Wo2JEEICswHDwy8iTDgJI) | 2:43 | 2024-01-11 | 2024-02-09 |

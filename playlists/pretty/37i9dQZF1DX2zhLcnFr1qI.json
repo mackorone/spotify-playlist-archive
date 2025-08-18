@@ -1,6 +1,6 @@
 {
   "description": "Baby, it's cold outside \ud83c\udf81\ud83c\udf32 here's some EDM to keep warm!",
-  "num_followers": 75113,
+  "num_followers": 75106,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
@@ -919,26 +919,6 @@
     {
       "added_at": "2025-01-07 21:50:29",
       "album": {
-        "name": "It's Christmas Time (with Michael Bolton)",
-        "url": "https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C"
-      },
-      "artists": [
-        {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
-        },
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 203103,
-      "name": "It's Christmas Time (with Michael Bolton)",
-      "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
-    },
-    {
-      "added_at": "2025-01-07 21:50:29",
-      "album": {
         "name": "Christmas Days",
         "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 196636,
       "name": "Christmas Days",
       "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
+    },
+    {
+      "added_at": "2025-01-07 21:50:29",
+      "album": {
+        "name": "It's Christmas Time (with Michael Bolton)",
+        "url": "https://open.spotify.com/album/6TyBrpxi8Bq36ahEpytZ7C"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 203103,
+      "name": "It's Christmas Time (with Michael Bolton)",
+      "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
     },
     {
       "added_at": "2025-01-07 21:50:29",

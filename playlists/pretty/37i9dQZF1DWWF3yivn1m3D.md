@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,866 likes - 84 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,077 likes - 84 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 44 | [Surfing Dolphins](https://open.spotify.com/track/4L4US8YLWUyxhI0PE8JtoX) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/2La7crUpW4po25IYpveXws) | 2:22 |
 | 45 | [Leave No Man Behind](https://open.spotify.com/track/0huGF7tTEVqgT0Xa4PWedg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Black Hawk Down \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O3K9Uyp6Xak97aec1BEYq) | 6:18 |
 | 46 | [Mountains](https://open.spotify.com/track/6WVRhBxRMW9fn6sRkt2gWn) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU) | 3:39 |
-| 47 | [Rust](https://open.spotify.com/track/0XTRYLKGS0Y9YghgzBXYVs) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Hillbilly Elegy \(Music from the Netflix Film\)](https://open.spotify.com/album/3B45f4sZTY8VC6slaW79Si) | 2:45 |
+| 47 | [Rust](https://open.spotify.com/track/0XTRYLKGS0Y9YghgzBXYVs) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq), [Nile Marr](https://open.spotify.com/artist/3RhvmOR4XRxcjjKLur19EB), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Hillbilly Elegy \(Music from the Netflix Film\)](https://open.spotify.com/album/3B45f4sZTY8VC6slaW79Si) | 2:45 |
 | 48 | [I'm Not a Hero](https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 6:34 |
 | 49 | [Dies Mercurii I Martius \- From The Da Vinci Code Original Motion Picture Soundtrack](https://open.spotify.com/track/20Y9QaknVufH479KzfBhjS) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Richard Harvey](https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje) | [The Da Vinci Code](https://open.spotify.com/album/4GuLx38y1727p45spIvslr) | 6:03 |
 | 50 | [Why so Serious?](https://open.spotify.com/track/1wdoaja3ueHHvzobn2jE2n) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Dark Knight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX) | 9:14 |

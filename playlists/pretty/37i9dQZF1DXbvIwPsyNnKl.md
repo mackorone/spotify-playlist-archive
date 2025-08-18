@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae, Sica
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: RADAR PH 2025 artist \- Zae, and Sica
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,849 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,221 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [PINGAW](https://open.spotify.com/track/0e7z7PqTMvf539jsRFyJZB) | [Omar Baliw](https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K) | [PINGAW](https://open.spotify.com/album/4NhIFBXNxW5qo8OkdeO7ZA) | 3:37 |
 | 50 | [Dice](https://open.spotify.com/track/38TsFAdEh5TgGFNSRDGnak) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Ghoti Scale](https://open.spotify.com/artist/50teFCw4EgxAKJ6boDbrJi), [Niño Armani](https://open.spotify.com/artist/56kepB22aA9Kc8FxI3YmnC) | [Dice](https://open.spotify.com/album/31OEkIavnR7iMhpUO6XHlB) | 4:19 |
 
-Snapshot ID: `AAAAAJv4PgwFITpjYbPMWxarj7EF54Sk`
+Snapshot ID: `AAAAACInRaKKIzUFHYYkET0RSoSsbqXs`

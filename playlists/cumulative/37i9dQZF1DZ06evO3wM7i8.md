@@ -4,17 +4,19 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 32 min
+53 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Pretty Girl Is Like a Melody](https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:37 | 2025-07-20 |  |
-| [All of Me](https://open.spotify.com/track/4YqKVhVjjSDllNzZfDAxnw) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:47 | 2025-07-20 |  |
+| [All of Me](https://open.spotify.com/track/14LDEd78pWNCYjRA5ApR0K) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:47 | 2025-08-18 |  |
+| [All of Me](https://open.spotify.com/track/4YqKVhVjjSDllNzZfDAxnw) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:47 | 2025-07-20 | 2025-08-18 |
 | [Anniversary Song](https://open.spotify.com/track/5Tvz1fUgvywdVoPYVP9QxQ) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 3:31 | 2025-07-20 |  |
 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 | 2025-07-20 |  |
 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Indispensible Django Reinhardt \(1949\-1950\)](https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH) | 4:19 | 2025-07-20 |  |
 | [Billets Doux](https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:57 | 2025-07-20 |  |
-| [Brazil](https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 |  |
+| [Brazil](https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 | 2025-07-20 | 2025-08-18 |
+| [Brazil](https://open.spotify.com/track/7EgyUrTd8PQIbMzRVRFeGC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 2:48 | 2025-08-18 |  |
 | [Coucou](https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [War Clouds 1940](https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx) | 2:43 | 2025-07-20 |  |
 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 | 2025-07-20 |  |
 | [Djangology](https://open.spotify.com/track/0mbJ17SU7NN2hWjRfYvOTL) | [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [European Swing Giants, Vol.6: Django Reinhardt –The Ultraphone Sessions \(Paris 1934\-1935\) and Rhythme \(Brussels 1942\)](https://open.spotify.com/album/4zbu4MDyQI8T91XMLHhJzB) | 2:53 | 2025-07-20 | 2025-08-14 |

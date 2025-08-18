@@ -3270,7 +3270,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 357127,
       "name": "Barbaad (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
@@ -23978,6 +23978,24 @@
     {
       "album": {
         "name": "No One Wants To Die Alone (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3ycfZjSNKzD3wxaoUmq0Jb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Steer",
+          "url": "https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "No One Wants To Die Alone (Acoustic Version)",
+      "url": "https://open.spotify.com/track/4LvgKVfpMxfsKcx2AJVm4H"
+    },
+    {
+      "album": {
+        "name": "No One Wants To Die Alone (Acoustic Version)",
         "url": "https://open.spotify.com/album/0dgSv1fVtVPXQWfIzK6CAB"
       },
       "artists": [
@@ -23988,7 +24006,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 201818,
       "name": "No One Wants To Die Alone - Acoustic Version",
       "url": "https://open.spotify.com/track/54Lie66KFAGm0g2GDXOVtg"
@@ -33391,6 +33409,24 @@
     },
     {
       "album": {
+        "name": "the color violet (house)",
+        "url": "https://open.spotify.com/album/1ZsJIXJ8yoyaCPjnKT03Gh"
+      },
+      "artists": [
+        {
+          "name": "House Affair",
+          "url": "https://open.spotify.com/artist/3Bfp9iVua3bOpbSE1oJWX4"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "the color violet - house",
+      "url": "https://open.spotify.com/track/7AoqEQIJfSmBAiPq8CgPd0"
+    },
+    {
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -34860,7 +34896,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
@@ -34882,6 +34918,24 @@
       "duration_ms": 208525,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/4LLpTgLHrpUS8xxt4JzBSN"
+    },
+    {
+      "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/4q15VeI3GJlZnZF15nJ5C4"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208525,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/5aMKqn3eGVgx0PyfKr7oSU"
     },
     {
       "album": {

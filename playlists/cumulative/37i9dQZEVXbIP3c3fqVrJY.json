@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "10 let",
+        "url": "https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz"
+      },
+      "artists": [
+        {
+          "name": "FattyPillow",
+          "url": "https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265631,
+      "name": "10 let",
+      "url": "https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ"
+    },
+    {
+      "album": {
         "name": "Ready / 10 Minut",
         "url": "https://open.spotify.com/album/77OBdALKYhhFdlUgTlthfl"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 162118,
       "name": "415 ft. Robin Zoot",
       "url": "https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq"
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 197489,
       "name": "A\u017e po u\u0161i",
       "url": "https://open.spotify.com/track/6nla6OAs9APdRtfy7GzeCV"
@@ -7136,7 +7154,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 183428,
       "name": "C\u00edgo a k\u00e1va (feat. Saul)",
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
@@ -8236,7 +8254,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 172258,
       "name": "Dlouh\u00e1 Noc",
       "url": "https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g"
@@ -9166,7 +9184,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -12900,7 +12918,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 158607,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
@@ -25314,7 +25332,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 147200,
       "name": "Ohnivej kruh - rudolphh Remix",
       "url": "https://open.spotify.com/track/5Mg7w4aMNfi1nBAOGdZupX"
@@ -32930,7 +32948,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 236800,
       "name": "studen\u00e9 srdce",
       "url": "https://open.spotify.com/track/6GwekXZF2LdRWQ8IebcoQn"
@@ -37022,7 +37040,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 188000,
       "name": "V Hlav\u011b",
       "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"
@@ -38815,6 +38833,40 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
+    },
+    {
+      "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
@@ -39984,7 +40036,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 217426,
       "name": "Zakazane uvolneni",
       "url": "https://open.spotify.com/track/7wpbqcl0cxxGN8WNYz64Wr"

@@ -2,7 +2,7 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Zae, Sica
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: RADAR PH 2025 artist \- Zae, and Sica
 
 289 songs - 16 hr 23 min
 

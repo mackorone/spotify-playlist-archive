@@ -22387,6 +22387,24 @@
     },
     {
       "album": {
+        "name": "Feeling On My Mind",
+        "url": "https://open.spotify.com/album/3MteHmfepmUmsNcrxjhvOU"
+      },
+      "artists": [
+        {
+          "name": "Scissors",
+          "url": "https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182109,
+      "name": "Feeling On My Mind",
+      "url": "https://open.spotify.com/track/1hb3TGagt66BP5QInof9gy"
+    },
+    {
+      "album": {
         "name": "Feeling That I Used To Know",
         "url": "https://open.spotify.com/album/23lOJ6wphV2lRu5vovyRUo"
       },
@@ -68518,7 +68536,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 228000,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/0MShdrZgnZPIbgB8qY7uYG"

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,961 songs - 4 day 5 hr 36 min
+1,962 songs - 4 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN), [Amy Deasismont](https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9) | [201 \(Till förmån för Min Stora Dag\)](https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74) | 2:40 | 2024-06-06 | 2024-08-09 |
 | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [22 \(feat\. Nadja Evelina\)](https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak) | 2:53 | 2024-06-13 | 2024-08-16 |
 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 | 2021-12-16 | 2022-02-27 |
+| [24/7](https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [24/7](https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5) | 2:12 | 2025-08-14 |  |
 | [27](https://open.spotify.com/track/7AP2A4pegrgeUgUBNCyGiP) | [Albin Tingwall](https://open.spotify.com/artist/3lcVkEoGO0JFaJBUCGQw2H) | [27](https://open.spotify.com/album/0o8gzkpjUijflo4ZddajDu) | 3:17 | 2024-06-06 | 2024-08-09 |
 | [29 days](https://open.spotify.com/track/1DQ4r02CKWjK0Y4XEgiHl2) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee), [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [29 days](https://open.spotify.com/album/20FGoymgA5kKqKUMOvZU5R) | 3:34 | 2025-01-30 | 2025-05-23 |
 | [2U](https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb) | [Youso](https://open.spotify.com/artist/06bgm6DvMlm9ciPIJWW0gh) | [2U](https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf) | 2:42 | 2022-01-13 | 2022-03-31 |
@@ -855,7 +856,7 @@
 | [In Your Eyes](https://open.spotify.com/track/3790LbDpXDMZ3o6Vw9nYd8) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [In Your Eyes](https://open.spotify.com/album/3USx28iCRWm5wwssFpvim4) | 2:50 | 2024-05-23 | 2024-06-21 |
 | [Indifferent](https://open.spotify.com/track/7GqOFY5GBH32vUU95WYxIZ) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Indifferent](https://open.spotify.com/album/1iKf6UyEwVRwqB9vqPOnoz) | 3:41 | 2022-09-15 | 2022-09-19 |
 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 | 2024-09-12 | 2025-03-28 |
-| [Ingen garanti](https://open.spotify.com/track/3USDJqWIstDheez4sJDODG) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ingen garanti](https://open.spotify.com/album/59DbW4BL5Yo0etEUE8QqJR) | 2:42 | 2025-05-29 |  |
+| [Ingen garanti](https://open.spotify.com/track/3USDJqWIstDheez4sJDODG) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Ingen garanti](https://open.spotify.com/album/59DbW4BL5Yo0etEUE8QqJR) | 2:42 | 2025-05-29 | 2025-08-18 |
 | [Ingen luft mellan oss](https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Ingen luft mellan oss](https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [Ingen minns en fegis](https://open.spotify.com/track/1mcDObs1VQBCi8mEeCczj4) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Ingen minns en fegis](https://open.spotify.com/album/2N7RxOk1DtRJbQEfOS1Pg6) | 3:17 | 2023-03-23 | 2023-05-04 |
 | [Ingen reklam tack](https://open.spotify.com/track/7cNfQb7pMKKRQygje3oerX) | [Ninjaneers](https://open.spotify.com/artist/1NcntxsDrvr9p5PyqP5LwW), [Magnus Rytterstam](https://open.spotify.com/artist/27HfAM9HQFIzt33cg0ilcf) | [Ingen reklam tack](https://open.spotify.com/album/1IsTiCFLSJIdYNGe6bbr4k) | 2:24 | 2024-08-08 | 2024-09-19 |

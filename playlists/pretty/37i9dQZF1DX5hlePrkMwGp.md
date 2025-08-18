@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,307 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,381 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 14 | [Idhazhin Oram \- The Innocence of Love](https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:24 |
 | 15 | [Gaandakannazhagi](https://open.spotify.com/track/6oq9EhpHVx5XnCzRtWKFz7) | [Anirudh Ravichander and Neeti Mohan](https://open.spotify.com/artist/3nUYKYYtrA7Nw2tdYslLUE) | [Namma Veettu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Jjlqhywu1ntsCxGYYVFD) | 4:03 |
 | 16 | [I'm so Cool](https://open.spotify.com/track/1q5HD0cyUCbM0s4hQgbtN0) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4cn4bQCAZxOQSzSixRRYGb) | 3:49 |
-| 17 | [Aathi \(From "Kaththi"\)](https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 5:04 |
-| 18 | [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 |
+| 17 | [Thangamey](https://open.spotify.com/track/62KDpF0Hv7KJLZrrKXsz8r) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:22 |
+| 18 | [Aathi \(From "Kaththi"\)](https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 5:04 |
 | 19 | [Naana Thaana \(From "Thaanaa Serndha Koottam"\)](https://open.spotify.com/track/5CzhbT0Ly1hcslbzAchwnx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Best of Love : Anirudh Ravichander](https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5) | 4:19 |
 | 20 | [Oh Oh \(From "Thangamagan"\) \- The First Love of Tamizh](https://open.spotify.com/track/4QcOPoawK7LrgQ3cmN27of) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Best of Love : Anirudh Ravichander](https://open.spotify.com/album/7p1906A7I3UI6237RzuQI5) | 4:36 |
 | 21 | [Velicha Poove \(From "Ethir Neechal"\)](https://open.spotify.com/track/0o2S5PKRkpTq8dLx8O7W4j) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Best of Anirudh](https://open.spotify.com/album/66AenW3eBfgkiuBbtJr9wf) | 5:12 |

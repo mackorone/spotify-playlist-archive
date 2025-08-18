@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Gloria Estefan
 
-312 songs - 22 hr 34 min
+313 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [La Mejor de Todas](https://open.spotify.com/track/0LbfthzsswFp1T15s6PMk0) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [La Mejor de Todas](https://open.spotify.com/album/4MCdhEePhSrp75JiT8jHXs) | 5:27 | 2022-01-01 | 2022-07-29 |
 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 | 2022-05-20 | 2024-04-19 |
 | [La Negra No Quiere](https://open.spotify.com/track/2P1Rcut2VL9ylgdGDHfPJS) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD), [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW) | [La Negra No Quiere](https://open.spotify.com/album/0YdpGmjtGStv3EngeAoEqe) | 3:37 | 2022-01-21 | 2022-07-29 |
-| [La Noche](https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Noche](https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb) | 3:20 | 2025-05-02 |  |
+| [La Noche](https://open.spotify.com/track/4719W4pIdmaH0tawsJBeNf) | [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [La Noche](https://open.spotify.com/album/4BfxN7T83kFNWVzgxDaXJb) | 3:20 | 2025-05-02 | 2025-08-18 |
 | [La Pantera Mambo](https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [La\-33](https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt) | 6:14 | 2022-01-01 |  |
 | [La Película II](https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye) | [Yan Collazo](https://open.spotify.com/artist/6D9rSZLgUiBRupCIsfhErW), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa Premier](https://open.spotify.com/album/0U0shFxqYSSjHADZ6N97FE) | 4:17 | 2022-01-01 | 2022-07-20 |
 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 | 2024-02-23 | 2025-06-29 |
@@ -150,6 +150,7 @@
 | [La Rumba Que Yo Te Traigo](https://open.spotify.com/track/1o2hixb9ZedXPpNANypMwd) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [La Rumba Que Yo Te Traigo](https://open.spotify.com/album/5xC1o0vtWDY1etRTSnTIia) | 3:14 | 2022-05-20 | 2022-05-29 |
 | [La Salsa No Engorda](https://open.spotify.com/track/746IWyI43tMSdJieEi0rKZ) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [La Salsa No Engorda](https://open.spotify.com/album/1OkJgk2s8lHaRKT4j4zQlb) | 2:40 | 2024-11-08 | 2025-03-01 |
 | [La Salsa No Morirá](https://open.spotify.com/track/43OLMu6IYEpIpmHUUHw8MR) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Christian Alicea](https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp) | [La Salsa No Morirá](https://open.spotify.com/album/7rRQGIEySk1jXhG4AeIopE) | 3:46 | 2024-07-26 | 2025-05-27 |
+| [La Tierra del Olvido \- Versión Salsa](https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Tierra del Olvido \(Versión Salsa\)](https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx) | 4:22 | 2025-08-15 |  |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-03-03 | 2024-04-19 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2XqkEVVCSNHV8IYbAXVaG4) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Colombian Street Party](https://open.spotify.com/album/2Ff2R5yM4pblzzhyxnYpel) | 5:35 | 2022-01-01 | 2022-07-29 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 | 2022-05-20 | 2023-02-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Ochi Alvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,214 likes - 92 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,241 likes - 92 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

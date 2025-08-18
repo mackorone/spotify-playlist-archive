@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 【DAY1 セットリスト公開】8月16日\(土\)\~17日\(日\)、SUMMER SONIC 2025 @幕張メッセにて<a href="https://spotify\-earlynoise.jp/">Spotify Stage</a>開催！セットリストをプレイリストでチェック。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,334 likes - 52 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,346 likes - 52 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 51 | [pain](https://open.spotify.com/track/4rWxuQLg5JfB61aCSGQ1Hp) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [pain](https://open.spotify.com/album/15yx1ciCUE0L8pKBtiKH5k) | 3:13 |
 | 52 | [ひまわり](https://open.spotify.com/track/2KskwqOHY43u6gRn4fVSLX) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [ひまわり](https://open.spotify.com/album/0WceqWQ4ASE8Vliz7i4yAp) | 2:52 |
 
-Snapshot ID: `AAAAAFLlZJKXCDurqc3f+ST7kcWSgdR+`
+Snapshot ID: `AAAAAIEl6mu67/ihryxY/Ez0qIDlLKbX`

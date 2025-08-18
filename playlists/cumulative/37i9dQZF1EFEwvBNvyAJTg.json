@@ -1782,10 +1782,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 172869,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/1s3lN9mJhWzhNIw28SQTuf"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/3Ij5M43l3qsAp4S6RMsk71"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172869,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/2X8GwyuNBiOJKLCLNaefOT"
     },
     {
       "album": {

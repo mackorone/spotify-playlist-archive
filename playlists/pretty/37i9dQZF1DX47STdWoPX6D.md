@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Futuristic
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,921 likes - 117 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,944 likes - 117 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 41 | [Lord It's](https://open.spotify.com/track/33HBe5sKcQwNxWBYSA96hC) | [YP Aka Young Paul](https://open.spotify.com/artist/5rEAZYrahTLTvcgv0DgOJQ), [RDKL](https://open.spotify.com/artist/4rYLMFIzONsK6ZMbBLhQo1), [Jimmy Javier](https://open.spotify.com/artist/1HlhtGYkCYWz6HKQChMAOF) | [Lord It's](https://open.spotify.com/album/0Xz0mCQHyk2Dl1BjUwd5Sd) | 3:24 |
 | 42 | [Kwechiri](https://open.spotify.com/track/5IVsnrFCDaMLWh8VdlFLJ7) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Kwechiri](https://open.spotify.com/album/4ASycUKDxU8xOuDcZYlaTB) | 2:36 |
 | 43 | [Move](https://open.spotify.com/track/7yTP75YGHRujx9gbdTcS6e) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Christ Jr](https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho), [Nino Salas](https://open.spotify.com/artist/1VEG5CVdjFpXLzDAs3sEhP) | [Move](https://open.spotify.com/album/63CxQhEFOkvJhiXtE9A5og) | 2:14 |
-| 44 | [1044](https://open.spotify.com/track/3cZaCZwGaILsba8dypsIjK) | [J J L](https://open.spotify.com/artist/5saP6cHfo2flMEQuAJITBS), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [1044](https://open.spotify.com/album/1AOmLtttBiKOaNY6CH2qIT) | 1:50 |
+| 44 | [1044](https://open.spotify.com/track/3cZaCZwGaILsba8dypsIjK) | [J J L](https://open.spotify.com/artist/5saP6cHfo2flMEQuAJITBS), [Kaleb Mitchell](https://open.spotify.com/artist/5BVVPZkrql4yJesUn9ca6W) | [1044](https://open.spotify.com/album/1AOmLtttBiKOaNY6CH2qIT) | 1:50 |
 | 45 | [2 Different](https://open.spotify.com/track/400E4VtxGIS50h6x6phoL1) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [2 Different](https://open.spotify.com/album/69VQCDmPBxe0LiZOG2hGuE) | 2:17 |
 | 46 | [ALL THE WAY](https://open.spotify.com/track/1ytyset1pHGYGH1xA0zfw5) | [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [ALL THE WAY](https://open.spotify.com/album/3djWWMlandNdJBuaXmbzaO) | 2:40 |
 | 47 | [The Way](https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [The Way](https://open.spotify.com/album/7ICkXBfWHS2mq5w1lzCOAi) | 2:15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 59296,
+  "num_followers": 59373,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ54gAAAAACyfdxnFb7mO31676BhFT5c",
+  "snapshot_id": "aJ/KAAAAAACCnsQVxiNb2Wn076WX6ob2",
   "tracks": [
     {
       "added_at": null,
@@ -371,54 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THATA USHAKA",
-        "url": "https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL"
-      },
-      "artists": [
-        {
-          "name": "ShaunMusiq & Ftears",
-          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 373821,
-      "name": "Thata Ahh (feat. Young Stunna, Madumane & Tyla)",
-      "url": "https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 155220,
-      "name": "BACK to YOU",
-      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -447,6 +399,54 @@
       "duration_ms": 199679,
       "name": "Ke Shy",
       "url": "https://open.spotify.com/track/46JbnUilMIKcoeXYpZyB53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 155220,
+      "name": "BACK to YOU",
+      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THATA USHAKA",
+        "url": "https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL"
+      },
+      "artists": [
+        {
+          "name": "ShaunMusiq & Ftears",
+          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 373821,
+      "name": "Thata Ahh (feat. Young Stunna, Madumane & Tyla)",
+      "url": "https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS"
     },
     {
       "added_at": null,

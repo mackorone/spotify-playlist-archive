@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Tobiahs, Olivia Dean, Chase Atlantic, Paul Kelly + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,390 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,393 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 83 | [Withered](https://open.spotify.com/track/0OXuzS6ueOvKBg8YHmkT6J) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Withered](https://open.spotify.com/album/2gmPHuFi9FrAqS3vAOMmD8) | 3:40 |
 | 84 | [Red Wine Eyes](https://open.spotify.com/track/7B1oGGLCI7WW6y9j0TSumV) | [MCK](https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7), [Taylor Roche](https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0) | [Red Wine Eyes](https://open.spotify.com/album/3SdqhCeBNPK1fJ80hENS1i) | 3:15 |
 
-Snapshot ID: `AAAAAPs1XjzkGd/dwx6UgzBYIHa+pL0q`
+Snapshot ID: `AAAAANpY9wCmI6ixnoYmeLvxgbgh86nk`

@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,658 songs - 8 day 6 hr 54 min
+3,659 songs - 8 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1055,6 +1055,7 @@
 | [Feel You Falling](https://open.spotify.com/track/7GuK6HzTTcB1hDXVkrefvT) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Feel You Falling](https://open.spotify.com/album/5Eo9hneKcadGiJX6JF2qqr) | 3:15 | 2024-05-25 | 2024-06-01 |
 | [Feeling](https://open.spotify.com/track/1txDRjc8wBPre0M2kRP1aa) | [Koelle](https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a), [Feldbach](https://open.spotify.com/artist/3XUXhNstz80F9J4RQYjxuu) | [Feeling](https://open.spotify.com/album/5YsV1Bz61W4503ERpfl0lu) | 3:42 | 2025-01-31 | 2025-02-07 |
 | [Feeling](https://open.spotify.com/track/3gIKG3GYskgRvdZY9bA3o0) | [Zephs](https://open.spotify.com/artist/731IvzuF44mJ4N3Ml4RwCx) | [Feeling](https://open.spotify.com/album/5AWJbl64OjjKXZPjFzqsHo) | 2:38 | 2025-05-29 | 2025-06-07 |
+| [Feeling On My Mind](https://open.spotify.com/track/1hb3TGagt66BP5QInof9gy) | [Scissors](https://open.spotify.com/artist/3lK4kf4vQZ51qa2LiodnZ4) | [Feeling On My Mind](https://open.spotify.com/album/3MteHmfepmUmsNcrxjhvOU) | 3:02 | 2025-08-17 |  |
 | [Feeling That I Used To Know](https://open.spotify.com/track/4sEHP2sbYhzoQsPffZpx86) | [Tom & Jame](https://open.spotify.com/artist/6ZXRsQeAoGPspf8tNeEtPo) | [Feeling That I Used To Know](https://open.spotify.com/album/23lOJ6wphV2lRu5vovyRUo) | 3:36 | 2024-07-26 | 2024-08-02 |
 | [Feelings](https://open.spotify.com/track/787XlDkT60o76WvkOATlqw) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [The R♾️ts](https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7) | 2:34 | 2024-11-15 | 2024-11-23 |
 | [Feelings for You](https://open.spotify.com/track/6fSPmQVLaIBLnTSaDHolks) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Feelings for You](https://open.spotify.com/album/5tqCrUw0X26PCv68WeOwRj) | 2:40 | 2025-01-17 | 2025-01-24 |
@@ -3191,7 +3192,7 @@
 | [The One \- Brendan Bartels Remix](https://open.spotify.com/track/40f2uH4xyJAcEig5YQ426O) | [Rene Ablaze](https://open.spotify.com/artist/6rXpyi122Zalz9VORZB1xd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Brendan Bartels](https://open.spotify.com/artist/7kZUrivcZx2mAUc1uAUHIf) | [The One \(Brendan Bartels Remix\)](https://open.spotify.com/album/4KT0PoiU5sjnxG0rbx9Irw) | 3:34 | 2024-08-16 | 2024-08-24 |
 | [The Orange Theme](https://open.spotify.com/track/3s0mUcA2Y6NitFgvixRRPT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [The Orange Theme](https://open.spotify.com/album/3qfoTfu82HfZQjY6xijaiw) | 3:06 | 2025-07-04 | 2025-07-12 |
 | [The Other Side](https://open.spotify.com/track/45OaKC6EHj6OSyyGj1zdt9) | [Brian McCalla](https://open.spotify.com/artist/0CFoC5sGNciOL1A8WGmCkt), [James Black Presents](https://open.spotify.com/artist/3YnYWbIennNvunNbj3rOCt), [Sinéad McCarthy](https://open.spotify.com/artist/2LuaOosvEZjZ1ehr43szFF) | [The Other Side](https://open.spotify.com/album/5fsqxgKCtLMCeByciv77V7) | 3:08 | 2025-06-20 | 2025-06-28 |
-| [The Other Side](https://open.spotify.com/track/0MShdrZgnZPIbgB8qY7uYG) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3) | [The Other Side](https://open.spotify.com/album/1oZUPjaDeAObdPebzJlHPb) | 3:48 | 2025-08-15 |  |
+| [The Other Side](https://open.spotify.com/track/0MShdrZgnZPIbgB8qY7uYG) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3) | [The Other Side](https://open.spotify.com/album/1oZUPjaDeAObdPebzJlHPb) | 3:48 | 2025-08-15 | 2025-08-18 |
 | [The Party](https://open.spotify.com/track/3KyY9JXWhuNBTCZFwcFlqN) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Shelby Merry](https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd) | [The Party](https://open.spotify.com/album/54zZsR3JGhPE6fyGEiy7hB) | 3:39 | 2025-01-23 | 2025-02-01 |
 | [The Party](https://open.spotify.com/track/7D4z3UkNytliPLX76DGoZz) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Tollef](https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv) | [The Party](https://open.spotify.com/album/1GLWgpXmtbpD0SmPCOTmRm) | 2:03 | 2025-04-24 | 2025-05-03 |
 | [The Past, Present & Future \(I AM HARDSTYLE Eternal 2024 OST\)](https://open.spotify.com/track/3NkKOezm1ENxUVuMGNBA08) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Past, Present & Future \(I AM HARDSTYLE Eternal 2024 OST\)](https://open.spotify.com/album/30da1pzxF1Tj1SgXTMhdfa) | 3:05 | 2024-12-13 | 2024-12-20 |

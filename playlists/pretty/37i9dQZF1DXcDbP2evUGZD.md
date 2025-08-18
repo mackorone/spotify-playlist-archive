@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2025</a>! Meet them first at the MU:CON 2025 official playlist\. \(뮤콘 2025 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,644 likes - 99 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,653 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 98 | [Fighting](https://open.spotify.com/track/3GramJRJejUKwSxaah879N) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf), [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Fighting](https://open.spotify.com/album/1srljphnYcHZ7gfO5lTFel) | 3:16 |
 | 99 | [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 |
 
-Snapshot ID: `AAAAANHHJ+WuO5wvs6/V3l73BYqn5OUT`
+Snapshot ID: `AAAAALRIppJjURZwRO9F/MMfs+2mJNaB`

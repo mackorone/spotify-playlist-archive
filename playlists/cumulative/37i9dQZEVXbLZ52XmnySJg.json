@@ -593,6 +593,36 @@
     },
     {
       "album": {
+        "name": "WAR 2",
+        "url": "https://open.spotify.com/album/38lXoBZx9yMKIIZ9gJmJo7"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225535,
+      "name": "Aavan Jaavan",
+      "url": "https://open.spotify.com/track/3x822BpQYSFMIB7P3uiJN0"
+    },
+    {
+      "album": {
         "name": "Aavan Jaavan (From \"WAR 2\")",
         "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
       },
@@ -616,7 +646,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 225535,
       "name": "Aavan Jaavan (From \"WAR 2\")",
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
@@ -5410,7 +5440,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 203186,
       "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
       "url": "https://open.spotify.com/track/2HbrsAxOZfG0s1xCQuk6nB"
@@ -5884,7 +5914,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 233666,
       "name": "Dil Nu",
       "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm"
@@ -16855,6 +16885,24 @@
     },
     {
       "album": {
+        "name": "O Kanha Ab Toh Murli",
+        "url": "https://open.spotify.com/album/4tKH8rIWTJ5dNw9nUQ5aVk"
+      },
+      "artists": [
+        {
+          "name": "Chetna",
+          "url": "https://open.spotify.com/artist/0HOfziw1juJN8RlMwhFtcd"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "O Kanha Ab Toh Murli",
+      "url": "https://open.spotify.com/track/78JoUq3GxxhDScBpzH97WI"
+    },
+    {
+      "album": {
         "name": "Dunki",
         "url": "https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J"
       },
@@ -19017,6 +19065,28 @@
     },
     {
       "album": {
+        "name": "Radha Gori Gori",
+        "url": "https://open.spotify.com/album/5KsntPUXb9Am3QCCn2QUHm"
+      },
+      "artists": [
+        {
+          "name": "Indresh Upadhyay",
+          "url": "https://open.spotify.com/artist/7mifmz6qmVuSmSjBOjJ3vx"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354210,
+      "name": "Radha Gori Gori",
+      "url": "https://open.spotify.com/track/0EflpxLIoLAUFuQspPzCxf"
+    },
+    {
+      "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
@@ -20026,7 +20096,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
@@ -21216,7 +21286,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 153002,
       "name": "Shri Krishna Govind Hare Murari",
       "url": "https://open.spotify.com/track/58SIEtTjWErr0yEXVBKxvd"
@@ -21766,7 +21836,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 174810,
       "name": "STFU",
       "url": "https://open.spotify.com/track/1JioaCninhpfY1filFEIZi"
@@ -24092,7 +24162,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 284779,
       "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
@@ -24464,7 +24534,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 288545,
       "name": "Tum Prem Ho - Reprise",
       "url": "https://open.spotify.com/track/735bRwgZ4sTH5Vs3iFVnDr"
@@ -25955,16 +26025,16 @@
         },
         {
           "name": "Ayesha Darbar",
-          "url": "https://open.spotify.com/artist/04Z0eGz8f3oRz1AolSNtvf"
+          "url": "https://open.spotify.com/artist/68gtIWrmPXVW6gk85g8MNB"
         },
         {
           "name": "S. Shailaja",
-          "url": "https://open.spotify.com/artist/5iSHeeRhj8a9ge0U6Y1XPP"
+          "url": "https://open.spotify.com/artist/3yAcb9zL6aIjAT8ksd6lgX"
         }
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 357186,
       "name": "Woh Kisna Hai",
       "url": "https://open.spotify.com/track/5Se9PXWc57LRT0zthjI5cG"

@@ -1,12 +1,12 @@
 {
   "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: People R Ugly",
-  "num_followers": 220900,
+  "num_followers": 220920,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOB9roC72COjnxHWiZ8W36uIQADa",
+  "snapshot_id": "AAAAAAdNmEzhDAzmfPRQcM8Lbm00Kg0l",
   "tracks": [
     {
       "added_at": "2025-08-05 21:56:51",
@@ -107,6 +107,22 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
+    },
+    {
+      "added_at": "2025-08-18 02:36:04",
+      "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ"
+      },
+      "artists": [
+        {
+          "name": "Parker Jack",
+          "url": "https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF"
+        }
+      ],
+      "duration_ms": 135168,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX"
     },
     {
       "added_at": "2025-04-29 15:38:07",

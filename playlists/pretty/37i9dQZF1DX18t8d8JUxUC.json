@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Silvana Estrada",
-  "num_followers": 29108,
+  "num_followers": 29124,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,38 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 237596,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
         "name": "La \u00daltima Ola",
         "url": "https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq"
       },
@@ -975,22 +1007,6 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
         "name": "My Best Self",
         "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 185823,
       "name": "My Best Self",
       "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 237596,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 210030,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
         "name": "Milagro y Desastre",
         "url": "https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Entre Los Dos",
-        "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx"
       },
       "artists": [
         {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
         }
       ],
-      "duration_ms": 215791,
-      "name": "Entre Los Dos",
-      "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
+      "duration_ms": 210030,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1131,6 +1115,22 @@
       "duration_ms": 310451,
       "name": "el wey que otra vez confio :(",
       "url": "https://open.spotify.com/track/68Fp40NMOxP5qmeppEeQVz"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Entre Los Dos",
+        "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 215791,
+      "name": "Entre Los Dos",
+      "url": "https://open.spotify.com/track/4WwstqolWpfzFlfWkijyCL"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
+        "name": "Perla Rosa",
+        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        }
+      ],
+      "duration_ms": 231604,
+      "name": "Un ratito m\u00e1s",
+      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
         "name": "todos menos yo",
         "url": "https://open.spotify.com/album/0LNQEWpmVnfqfncP5KE7Ag"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 196675,
       "name": "todos menos yo",
       "url": "https://open.spotify.com/track/0h0Yt8CZxudSESeTFfRclh"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Perla Rosa",
-        "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
-      },
-      "artists": [
-        {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        }
-      ],
-      "duration_ms": 231604,
-      "name": "Un ratito m\u00e1s",
-      "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 165200,
       "name": "azul",
       "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
+        "name": "Veintitr\u00e9s",
+        "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bison",
+          "url": "https://open.spotify.com/artist/2r5TgQxK2D0Eu7ZFNmBodx"
+        },
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 208029,
+      "name": "Veintitr\u00e9s",
+      "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
         "name": "Perd\u00ed",
         "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 201861,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Veintitr\u00e9s",
-        "url": "https://open.spotify.com/album/7ARpIwyTK8jDS5lDCoBdFL"
-      },
-      "artists": [
-        {
-          "name": "Brandon Bison",
-          "url": "https://open.spotify.com/artist/2r5TgQxK2D0Eu7ZFNmBodx"
-        },
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 208029,
-      "name": "Veintitr\u00e9s",
-      "url": "https://open.spotify.com/track/2co4KEm7qwRBLkBhhy6Z8h"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Volver a El Salvador",
-        "url": "https://open.spotify.com/album/0pirRCr6J6pD8gBtLAESiu"
-      },
-      "artists": [
-        {
-          "name": "Carlos Neda",
-          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
-        }
-      ],
-      "duration_ms": 200447,
-      "name": "Volver a El Salvador",
-      "url": "https://open.spotify.com/track/4TKPRfKgv1t3pFD7lFNbxX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
         "name": "hasta viejitos",
         "url": "https://open.spotify.com/album/7BLfcGhwRysE5zfdi1xXsM"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Ni\u00f1a de Mis Ojos",
-        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+        "name": "Volver a El Salvador",
+        "url": "https://open.spotify.com/album/0pirRCr6J6pD8gBtLAESiu"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
         }
       ],
-      "duration_ms": 193545,
-      "name": "Ni\u00f1a de Mis Ojos",
-      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
+      "duration_ms": 200447,
+      "name": "Volver a El Salvador",
+      "url": "https://open.spotify.com/track/4TKPRfKgv1t3pFD7lFNbxX"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
+        "name": "Ni\u00f1a de Mis Ojos",
+        "url": "https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 193545,
+      "name": "Ni\u00f1a de Mis Ojos",
+      "url": "https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
         "name": "Escuchado",
         "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
       },
@@ -1611,22 +1611,6 @@
       "duration_ms": 182546,
       "name": "Escuchado",
       "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Uno De Nosotros",
-        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
-      },
-      "artists": [
-        {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Recuerdo",
-      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -1647,6 +1631,22 @@
       "duration_ms": 207999,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Uno De Nosotros",
+        "url": "https://open.spotify.com/album/6iuV4lcwsjoBSNCPRo8Z4N"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
     },
     {
       "added_at": "2025-08-15 04:00:26",

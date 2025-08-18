@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 227058,
+  "num_followers": 227123,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
+        "name": "El Encuentro",
+        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 299706,
+      "name": "Preciosa Sangre",
+      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "El Encuentro",
-        "url": "https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 299706,
-      "name": "Preciosa Sangre",
-      "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -311,18 +311,18 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Mi Refugio",
-        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
+        "name": "La Compilaci\u00f3n",
+        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
       },
       "artists": [
         {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 286906,
-      "name": "Mi Refugio",
-      "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
+      "duration_ms": 245893,
+      "name": "Iglesia",
+      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -347,18 +347,54 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "La Compilaci\u00f3n",
-        "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
+        "name": "Mi Refugio",
+        "url": "https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm"
       },
       "artists": [
         {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
         }
       ],
-      "duration_ms": 245893,
-      "name": "Iglesia",
-      "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+      "duration_ms": 286906,
+      "name": "Mi Refugio",
+      "url": "https://open.spotify.com/track/59ThysQrym292KleIzgqci"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Lev\u00e1ntate Y Resplandece",
+        "url": "https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        }
+      ],
+      "duration_ms": 347373,
+      "name": "Lev\u00e1ntate y Resplandece",
+      "url": "https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Toma Tu Lugar",
+        "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
+      },
+      "artists": [
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
+        }
+      ],
+      "duration_ms": 425640,
+      "name": "Atrae Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -391,42 +427,6 @@
       "duration_ms": 605453,
       "name": "Obra de Tu Amor - (Alfarero)",
       "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Toma Tu Lugar",
-        "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
-      },
-      "artists": [
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        }
-      ],
-      "duration_ms": 425640,
-      "name": "Atrae Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Lev\u00e1ntate Y Resplandece",
-        "url": "https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        }
-      ],
-      "duration_ms": 347373,
-      "name": "Lev\u00e1ntate y Resplandece",
-      "url": "https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -683,22 +683,22 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Nunca Fallas",
-        "url": "https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2"
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
       },
       "artists": [
         {
-          "name": "MIMY",
-          "url": "https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
         },
         {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
         }
       ],
-      "duration_ms": 339202,
-      "name": "Nunca Fallas",
-      "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
+      "duration_ms": 385066,
+      "name": "Mateo 17",
+      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -723,22 +723,38 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+        "name": "Nunca Fallas",
+        "url": "https://open.spotify.com/album/5paGsj21b8C9BFToAO5Ka2"
       },
       "artists": [
         {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+          "name": "MIMY",
+          "url": "https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK"
         },
         {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
         }
       ],
-      "duration_ms": 385066,
-      "name": "Mateo 17",
-      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
+      "duration_ms": 339202,
+      "name": "Nunca Fallas",
+      "url": "https://open.spotify.com/track/5wC29DelLmDsXJpKmQlsnu"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Tengo Sed de Ti",
+        "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
+      },
+      "artists": [
+        {
+          "name": "Celines",
+          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
+        }
+      ],
+      "duration_ms": 302146,
+      "name": "Tengo Sed de Ti",
+      "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -759,22 +775,6 @@
       "duration_ms": 260649,
       "name": "Mi Jes\u00fas",
       "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Tengo Sed de Ti",
-        "url": "https://open.spotify.com/album/5zAbXo2ZOulzunX8MOl4Eh"
-      },
-      "artists": [
-        {
-          "name": "Celines",
-          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
-        }
-      ],
-      "duration_ms": 302146,
-      "name": "Tengo Sed de Ti",
-      "url": "https://open.spotify.com/track/5Nk0ShheLjX4aKMZgRsd8y"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Glorioso Rey",
-        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        }
-      ],
-      "duration_ms": 310231,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Somos Iglesia",
         "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 288800,
       "name": "Jesucristo basta",
       "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Glorioso Rey",
+        "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
+      },
+      "artists": [
+        {
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        }
+      ],
+      "duration_ms": 310231,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
-        "name": "Majo y Dan",
-        "url": "https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 339233,
-      "name": "Te Deseo",
-      "url": "https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 293440,
       "name": "Jes\u00fas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/5u1wkV8C7Q0Vw8hK969grA"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
+        "name": "Majo y Dan",
+        "url": "https://open.spotify.com/album/0Y8mUmQqeF1QnQis9negrN"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "duration_ms": 339233,
+      "name": "Te Deseo",
+      "url": "https://open.spotify.com/track/0fKTsfo4878lqiCYHmvP9h"
     },
     {
       "added_at": "2025-04-06 05:33:25",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-04-06 05:33:25",
       "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs"
+    },
+    {
+      "added_at": "2025-04-06 05:33:25",
+      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 444330,
       "name": "Digno",
       "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
-    },
-    {
-      "added_at": "2025-04-06 05:33:25",
-      "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs"
     },
     {
       "added_at": "2025-04-06 05:33:25",

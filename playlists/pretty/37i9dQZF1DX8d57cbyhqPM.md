@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tontons Gradur et L2B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,752 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,776 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 25 | [Baby Girl](https://open.spotify.com/track/7zedihOx02Y9HHvF663JnJ) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Baby Girl](https://open.spotify.com/album/2kh5UeWxDu3J7RZSAN4g8J) | 2:51 |
 | 26 | [Bla Bla Bla](https://open.spotify.com/track/0unm6Qi6wkEG58Jrtt0usQ) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Bord Ezanga Kombo](https://open.spotify.com/album/6PB2j3oHN6jJxY8UI5iuvB) | 7:58 |
 | 27 | [Angelina](https://open.spotify.com/track/1a7M8ofa0HFVycZDH8j1sJ) | [Bizzy](https://open.spotify.com/artist/3tsgXW0J2AhnaKh9hTnT3W), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Angelina](https://open.spotify.com/album/1ha61ztjmbs79MW2N3SL9N) | 2:39 |
-| 28 | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 |
+| 28 | [La jeunesse dorée \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [La jeunesse dorée \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 |
 | 29 | [BANGER](https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [BANGER](https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP) | 2:58 |
 | 30 | [I Feel So Bad](https://open.spotify.com/track/0qNgxeW3EHbX5XjkBS4Dlh) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [I Feel So Bad](https://open.spotify.com/album/1lWVSmqMzZ7ADV8vMfVDXK) | 2:00 |
 | 31 | [JUSQU'AU SOLEIL](https://open.spotify.com/track/7Jz4zmNy2RNBjK0JNndSlU) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [JUSQU'AU SOLEIL](https://open.spotify.com/album/5iOp3IasPOsLN3vEpS5B0r) | 2:25 |

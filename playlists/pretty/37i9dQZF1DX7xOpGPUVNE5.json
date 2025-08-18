@@ -235,22 +235,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 215093,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "Lease On Life",
-        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 168162,
-      "name": "Lease On Life",
-      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
         "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164000,
       "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
       "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
+        "name": "Lease On Life",
+        "url": "https://open.spotify.com/album/3ciVcxQykTNkAznZzpDOJK"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 168162,
+      "name": "Lease On Life",
+      "url": "https://open.spotify.com/track/4ufkuONjQMNR2fyXu1bO9w"
     },
     {
       "added_at": "2023-08-18 10:08:43",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
+        "name": "Let My Rooster Crow",
+        "url": "https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "duration_ms": 157654,
+      "name": "Let My Rooster Crow",
+      "url": "https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6"
+    },
+    {
+      "added_at": "2023-08-18 10:08:43",
+      "album": {
         "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "What I'm Feelin'",
-        "url": "https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx"
-      },
-      "artists": [
-        {
-          "name": "Kaci Bolls",
-          "url": "https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9"
-        }
-      ],
-      "duration_ms": 184958,
-      "name": "What I'm Feelin'",
-      "url": "https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB"
-    },
-    {
-      "added_at": "2023-08-18 10:08:43",
-      "album": {
         "name": "Butter / Permission to Dance",
         "url": "https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG"
       },
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-08-18 10:08:43",
       "album": {
-        "name": "Let My Rooster Crow",
-        "url": "https://open.spotify.com/album/1WjVVAjajaHAj8K0X4U4N6"
+        "name": "What I'm Feelin'",
+        "url": "https://open.spotify.com/album/5wAYJl4nLxPzqv6mG61kHx"
       },
       "artists": [
         {
-          "name": "The Happy Racers",
-          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+          "name": "Kaci Bolls",
+          "url": "https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9"
         }
       ],
-      "duration_ms": 157654,
-      "name": "Let My Rooster Crow",
-      "url": "https://open.spotify.com/track/39Zq1Auua3goYYqe1S2Xg6"
+      "duration_ms": 184958,
+      "name": "What I'm Feelin'",
+      "url": "https://open.spotify.com/track/028VWaGIx1woDiCubk0CDB"
     }
   ],
   "unique_name": "Feeling Good",

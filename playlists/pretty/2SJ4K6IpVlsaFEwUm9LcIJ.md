@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,202 likes - 50 songs - 3 hr 24 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,198 likes - 55 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 48 | [What I Want Is You](https://open.spotify.com/track/46b9HKIp2DET5jnhNplWW0) | [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [5'll Getcha Ten](https://open.spotify.com/album/1aj1yHiy7gu8AqNsu97zij) | 3:28 |
 | 49 | [Also With Each Other](https://open.spotify.com/track/7rqFfHYHu9QmuCyPJY47u8) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 2:30 |
 | 50 | [Believe Me](https://open.spotify.com/track/3Gh6jgFviAJ4rgjZM69ME2) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 3:36 |
+| 51 | [Follow That Dream](https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 3:53 |
+| 52 | [Heaven Can Wait \- 2006 Remaster](https://open.spotify.com/track/2dX9cTn90GmGsGodXEi3l3) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 4:34 |
+| 53 | [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 |
+| 54 | [The Light Reveals The Place](https://open.spotify.com/track/0GWF2ruSPrqtQgW96w4Hyy) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 6:59 |
+| 55 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 |
 
-Snapshot ID: `AAAM7hPYjf6QEX0QFoyivUuo42SzeQaR`
+Snapshot ID: `AAAM8/P2c5O5mLSbeZFxZY7LC9yvIagH`

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,035 songs - 2 day 14 hr 55 min
+1,036 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Magia \(feat\. Sebastián Yatra\)](https://open.spotify.com/track/6xAhkN7uE1qdhPa8jZwhTb) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magia \(feat\. Sebastián Yatra\)](https://open.spotify.com/album/0lVfnTGqaUdTWSFjMhsBlT) | 3:12 | 2022-03-24 | 2022-04-15 |
 | [Magia Blanca](https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Magia Blanca](https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ) | 3:40 | 2025-02-07 |  |
 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 | 2022-03-24 |  |
+| [Mago](https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Mago](https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN) | 3:34 | 2025-07-22 |  |
 | [Malas Decisiones](https://open.spotify.com/track/4GMPvDFqKCi4kes1pwhYqM) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Malas Decisiones](https://open.spotify.com/album/4S5FhdcOcOZUoi7D5WqMLm) | 3:13 | 2022-03-11 | 2022-07-28 |
 | [Malibu \- Acoustic](https://open.spotify.com/track/2UpFox08IH0MzS7Q3iklBL) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Malibu \(Acoustic\)](https://open.spotify.com/album/0wM958tbqrru8Nf07KWsEm) | 4:04 | 2022-04-13 | 2022-04-20 |
 | [Mambeado](https://open.spotify.com/track/5VmoRnclAlBtbt1Icr0PY1) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Fuerte Y Caliente](https://open.spotify.com/album/0p7UqQIXTkyTKcDVsL1cyy) | 3:41 | 2022-03-24 | 2022-04-21 |
@@ -1002,7 +1003,7 @@
 | [Vivir de Lo Simple](https://open.spotify.com/track/3Q9yXupYmo7rFUyDsHF9WO) | [Pako Galvan](https://open.spotify.com/artist/6ulD1PL8KDmWRI73SHdwL1), [Facundo Castaño Montoya](https://open.spotify.com/artist/4dXtpo9qIdpfR8renHkzqW) | [Vivir de Lo Simple](https://open.spotify.com/album/2h4f08ZNnCwJ9HeycvrBaQ) | 2:52 | 2023-09-01 | 2023-10-08 |
 | [Voce](https://open.spotify.com/track/4gx5KLUC7O69Gx3qH8VcOG) | [Jeites](https://open.spotify.com/artist/6qRjJ8pFQAtjZiiR6bRRI0) | [Jeites II](https://open.spotify.com/album/75iWN5GsZbmOROrjl781Vb) | 2:39 | 2022-04-01 | 2022-04-07 |
 | [Volaré](https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vida Lejana](https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk) | 3:26 | 2022-01-07 | 2022-07-29 |
-| [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 | 2022-03-28 |  |
+| [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 | 2022-03-28 | 2025-08-18 |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2022-01-18 | 2022-04-17 |
 | [Vos sabés](https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Vos Sabés](https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo) | 3:58 | 2021-12-24 | 2022-07-29 |
 | [Voy a Enamorarte](https://open.spotify.com/track/1O1swty8hIu4gjltSmvwkr) | [Anabella](https://open.spotify.com/artist/3De4p5oe1nyZfv8612WabH), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Voy a Enamorarte](https://open.spotify.com/album/5gMdYrbnX3GWMebjgxlCcu) | 3:04 | 2022-03-24 | 2022-04-04 |

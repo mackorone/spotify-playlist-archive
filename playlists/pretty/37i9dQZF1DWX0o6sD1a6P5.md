@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Hamza x Frenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,469 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,588 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 26 | [DD](https://open.spotify.com/track/0R8joRAs4i3zmiPDPReOJL) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [DD](https://open.spotify.com/album/7lOGhoBQ4XvmhbjpY6vdiA) | 2:45 |
 | 27 | [VIBE](https://open.spotify.com/track/5gYvVGN7zpSB0D3KXIEQXf) | [Danilo](https://open.spotify.com/artist/0nztDFQzc7SwCIGZnvDIJ7) | [VIBE](https://open.spotify.com/album/619nUlslMHEPTgMdrlGYAk) | 2:01 |
 | 28 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
-| 29 | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [LA JEUNESSE DORÉE \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 |
+| 29 | [La jeunesse dorée \(feat\. Killa Predator\)](https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Killa Predator](https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww) | [La jeunesse dorée \(feat\. Killa Predator\)](https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy) | 2:19 |
 | 30 | [À LA FOLIE](https://open.spotify.com/track/0niEvIhk3rjNTJHeNHN2Fn) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [GÉ LEAK](https://open.spotify.com/album/47f98WzF1SUMz76YVDwa4L) | 1:58 |
 | 31 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 32 | [Le monde est méchant \- Au Pays Des Merveilles](https://open.spotify.com/track/3ETrzTJqBCpkdgm6cyXnH4) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Le monde est méchant](https://open.spotify.com/album/3KwYUFLFlrRahedORZQNFv) | 2:02 |

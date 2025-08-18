@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2113121,
+  "num_followers": 2112516,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Quiet Talkers",
         "url": "https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 230508,
       "name": "Grey County Blues",
       "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -951,6 +951,38 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "A Long And Happy Life EP",
+        "url": "https://open.spotify.com/album/5XBDh8rCOnUNb1G4pTaLPQ"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "No Peace In Quiet",
+      "url": "https://open.spotify.com/track/1T83u9c36BtqxGjY1XGXBS"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 196083,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Seeds (Acoustic Version)",
         "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
       },
@@ -971,22 +1003,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "A Long And Happy Life EP",
-        "url": "https://open.spotify.com/album/5XBDh8rCOnUNb1G4pTaLPQ"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "No Peace In Quiet",
-      "url": "https://open.spotify.com/track/1T83u9c36BtqxGjY1XGXBS"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Friction",
         "url": "https://open.spotify.com/album/1ZMSPI2WpZ8szQTnIupd76"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 209915,
       "name": "Friction",
       "url": "https://open.spotify.com/track/4qSyzCP52K8Sjbhrt4VmxZ"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/0DiF82zYoCeSsbB0b87Ra9"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 196083,
-      "name": "Brave",
-      "url": "https://open.spotify.com/track/2rD0cCKHYENel8ydSu6niR"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "The Future Is Dead (Tiny Habits Version)",
+        "url": "https://open.spotify.com/album/27iYmldP2sbRwR5RG5PQls"
+      },
+      "artists": [
+        {
+          "name": "Ken Yates",
+          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "The Future is Dead - Tiny Habits Version",
+      "url": "https://open.spotify.com/track/0vdtDUOHPHvFUOYZty292C"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Honeysuckle",
         "url": "https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 250405,
       "name": "A Folk Singer From Outer Space",
       "url": "https://open.spotify.com/track/36uU2KHot3kUhFjCvTbSXE"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "The Future Is Dead (Tiny Habits Version)",
-        "url": "https://open.spotify.com/album/27iYmldP2sbRwR5RG5PQls"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        },
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "The Future is Dead - Tiny Habits Version",
-      "url": "https://open.spotify.com/track/0vdtDUOHPHvFUOYZty292C"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N"
-      },
-      "artists": [
-        {
-          "name": "Honeysuckle",
-          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Greenline",
-      "url": "https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Man Overboard",
         "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 176628,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3UKPewQGZedGY7pmzS282N"
+      },
+      "artists": [
+        {
+          "name": "Honeysuckle",
+          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Greenline",
+      "url": "https://open.spotify.com/track/7JqXp5pjozFbb9l3ipXkdA"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Calico",
         "url": "https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1359,6 +1343,22 @@
       "duration_ms": 250438,
       "name": "Resilient",
       "url": "https://open.spotify.com/track/6A90L2keyWNwlH21dqM8bA"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Young In All The Wrong Ways",
-        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
-      },
-      "artists": [
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Without A Word",
-      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 204120,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Young In All The Wrong Ways",
+        "url": "https://open.spotify.com/album/5O41sFLk5rKN2S4eT8GgQR"
+      },
+      "artists": [
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Without A Word",
+      "url": "https://open.spotify.com/track/6NTIKfyWCP3Nm2zWB16o88"
     }
   ],
   "unique_name": "Afternoon Acoustic",

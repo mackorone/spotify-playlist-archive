@@ -3431,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Primadonna - Pop with Attitude",
+        "url": "https://open.spotify.com/album/56xRZrCeHaQyHtDArya6gw"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193440,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/0nwCV6nC8kEWUEE06F4mHZ"
+    },
+    {
+      "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
       },
@@ -3442,7 +3460,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-18",
       "duration_ms": 193440,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/6xVr2J3X0zhEJQz5L0QNAP"

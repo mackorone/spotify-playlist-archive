@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 378081,
+  "num_followers": 378119,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -207,38 +207,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Heart's Content",
-      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "Multitudes",
-        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 201174,
-      "name": "Hiding Out In The Open",
-      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "All or Nothing / Fast Car",
         "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
       },
@@ -259,6 +227,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "Multitudes",
+        "url": "https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 201174,
+      "name": "Hiding Out In The Open",
+      "url": "https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 230786,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Heart's Content",
+      "url": "https://open.spotify.com/track/0pegFWSUOTiG0sLVEfxtvA"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0"
-      },
-      "artists": [
-        {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
-        }
-      ],
-      "duration_ms": 206709,
-      "name": "Low (Acoustic)",
-      "url": "https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Gathering",
         "url": "https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208298,
       "name": "Migration of Souls",
       "url": "https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "duration_ms": 206709,
+      "name": "Low (Acoustic)",
+      "url": "https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1307,8 +1307,8 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Mary Oliver (Acoustic)",
-        "url": "https://open.spotify.com/album/3MTZ3ITMfQulojB2EbGRcO"
+        "name": "Clean Getaway",
+        "url": "https://open.spotify.com/album/3hLWNMK8P5d6wJkRWWFmEE"
       },
       "artists": [
         {
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 191296,
-      "name": "Mary Oliver - Acoustic",
-      "url": "https://open.spotify.com/track/3Y48M1emb8uhEagDFBCkei"
+      "duration_ms": 227213,
+      "name": "Clean Getaway",
+      "url": "https://open.spotify.com/track/4aPkrXsRnoF7fgpt4va3ur"
     },
     {
       "added_at": "2024-07-05 21:33:59",

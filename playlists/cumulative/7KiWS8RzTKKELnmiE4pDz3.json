@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266893,
+      "name": "Beat Goes On (feat. Kanye West)",
+      "url": "https://open.spotify.com/track/0wFvvGzJn1zJmrwLK2HN6g"
+    },
+    {
+      "album": {
         "name": "Been A While",
         "url": "https://open.spotify.com/album/73XJk2IRPVp7FWUQg3JTGp"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,394 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,515 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 2 | [WAG1](https://open.spotify.com/track/4yrIO5r0yw9MBKJ1nrHcF7) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Modd](https://open.spotify.com/artist/3nJwTniwCxDrgoVKeqIWoT) | [WAG1](https://open.spotify.com/album/1DFSUGasEQxrOfFkXQiDPT) | 2:06 |
 | 3 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 |
 | 4 | [Sana Anlatmak İsterdim](https://open.spotify.com/track/4WZkERYSp4qMG17hyPwe51) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Sana Anlatmak İsterdim](https://open.spotify.com/album/2nNtkZTqA9kbcQp12WQF0T) | 2:18 |
-| 5 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
+| 5 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 |
 | 6 | [Öfkemin Esiri](https://open.spotify.com/track/6WOPjlggMQWbK2LplRS17z) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [Paradigma](https://open.spotify.com/album/5JEDimXEOMyW9q6NJwzpAq) | 3:33 |
 | 7 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
 | 8 | [Doğuştan Yabancı](https://open.spotify.com/track/1QnHBM9F1kE0T2S8C26E1C) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Doğuştan Yabancı](https://open.spotify.com/album/12fX7ScIHr0zcOUV0QcZkX) | 3:01 |

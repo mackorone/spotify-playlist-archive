@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/4Qe8RT45vxnlQvLEKrt6R7"
+      },
+      "artists": [
+        {
+          "name": "Will Manning",
+          "url": "https://open.spotify.com/artist/0ABzOSdX8CJyoE5KsDe5TV"
+        }
+      ],
+      "date_added": "2025-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175255,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6FeljyjrAnDRxY353qaBZt"
+    },
+    {
+      "album": {
         "name": "Club Zero Cool, Vol. 2",
         "url": "https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1"
       },

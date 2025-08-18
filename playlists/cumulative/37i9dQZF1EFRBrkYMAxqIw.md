@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 8 hr 29 min
+162 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Human](https://open.spotify.com/track/3z9JozYBleU6BhOY3rt0a3) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Future Renaissance](https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri) | 2:35 | 2025-08-14 |  |
 | [Human \- Running Mix 145 BPM](https://open.spotify.com/track/4X9bqQwPGVlacGzQUiwWsT) | [Workout Remix Factory](https://open.spotify.com/artist/2QhmXpKTQIK3Wf0fEcpYEk) | [100 EDM Dance Running](https://open.spotify.com/album/67EFGP9mE4PGN7AXguTZx6) | 4:15 | 2025-08-13 | 2025-08-15 |
 | [Hunter](https://open.spotify.com/track/1My0Hfu5dTCbYisBk9ZRGr) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:03 | 2022-05-25 |  |
+| [I Believe](https://open.spotify.com/track/6FeljyjrAnDRxY353qaBZt) | [Will Manning](https://open.spotify.com/artist/0ABzOSdX8CJyoE5KsDe5TV) | [I Believe](https://open.spotify.com/album/4Qe8RT45vxnlQvLEKrt6R7) | 2:55 | 2025-08-17 |  |
 | [I Don't Wanna](https://open.spotify.com/track/10zj4ifnklN7ChSaXgy6XL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Club Zero Cool, Vol\. 2](https://open.spotify.com/album/66vRCER2aWBuV0tXEhO0t1) | 2:23 | 2022-05-25 |  |
 | [I Love You But You're Making Me Sad](https://open.spotify.com/track/1wkpY848iJvl8B93XqRZpS) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [I Love You But You're Making Me Sad](https://open.spotify.com/album/3BNara0XxzSHxw1ynSPRZP) | 2:55 | 2025-02-13 |  |
 | [Island](https://open.spotify.com/track/3HdrHSnfKYa1AAVdmilsxt) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [Tjuvjakt](https://open.spotify.com/album/4xD2AdE5l9uqHoH1y2hrhY) | 2:55 | 2023-12-13 |  |

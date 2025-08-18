@@ -4,7 +4,7 @@
 
 > 
 
-279 songs - 10 hr 54 min
+280 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Сакура](https://open.spotify.com/track/1vqFh4jRA1tFNdlhuAn5nE) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 2:29 | 2025-08-12 |  |
 | [Страгл](https://open.spotify.com/track/0dNFnJTdR6JrO9n1dQOiMk) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:06 | 2025-08-12 |  |
 | [Тревога](https://open.spotify.com/track/7Kxl7lGeiXmdZryYTMLwXv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:30 | 2025-08-11 |  |
+| [Три года назад](https://open.spotify.com/track/4x9Wclsv6BkBlBrmPC7V7S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:22 | 2025-08-17 |  |
 | [Часик](https://open.spotify.com/track/5SOcbgdNmV0sFmmKOIbVuV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:54 | 2025-08-11 |  |
 | [Четыре](https://open.spotify.com/track/3p0lFaUdi5PwrsjIcQmWFJ) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:16 | 2025-08-13 |  |
 | [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 | 2025-08-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,878 likes - 162 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,874 likes - 162 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

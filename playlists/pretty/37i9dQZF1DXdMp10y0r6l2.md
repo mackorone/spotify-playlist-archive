@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > mucho ruido, pocas nueces\. Deftones en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,575 likes - 71 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,560 likes - 71 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
