@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: james K
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: haloplus+
 
-155 songs - 8 hr 49 min
+159 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Little Gods](https://open.spotify.com/track/2FpX0lLE01fW4HD88l2DmJ) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE) | [Little Gods](https://open.spotify.com/album/3nzBF4atvaVYxVPjGOG845) | 3:40 | 2025-08-08 |  |
 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 | 2025-03-13 | 2025-08-09 |
 | [Love90](https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Going Nowhere](https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf) | 2:58 | 2025-03-13 |  |
+| [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-18 |  |
 | [Maybe..](https://open.spotify.com/track/4q6Dn8XcJUoSdp9dRUHS62) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [born to sing](https://open.spotify.com/album/7JGeqFHADaNviwVE5xqfAW) | 2:52 | 2025-03-13 | 2025-08-09 |
 | [Mindflower](https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Mindflower](https://open.spotify.com/album/1ksHR5EpvXQiCAyasSLpEK) | 4:14 | 2025-08-08 |  |
 | [Morphe Sun](https://open.spotify.com/track/7hNRxxcR2aRMadgWKL0YHM) | [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Karaoke Of The Bends](https://open.spotify.com/album/0rfTTnuksM3DdHXIi8BrVB) | 2:19 | 2025-03-13 |  |
@@ -119,6 +120,7 @@
 | [Roll the dice](https://open.spotify.com/track/1lg1XJk0XHBfeqT389cfcJ) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Roll the dice](https://open.spotify.com/album/21zZA3rsn2kmFoCRmpIUrt) | 2:07 | 2025-04-10 | 2025-07-16 |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-06-26 |  |
 | [Sacrificial Code](https://open.spotify.com/track/18xisk5Sg6dJVobPvDovNp) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/5Hyb3LlbP8DIVP4zsMOwlw) | 5:29 | 2025-05-08 |  |
+| [Seasons](https://open.spotify.com/track/1DdXVmPCIKccJFThb97GPs) | [Astrid Samuelsen](https://open.spotify.com/artist/5YTzwbSyMvUDPTVJE8HBjd) | [Seasons](https://open.spotify.com/album/44fnGesr3lUT4g11vICkqZ) | 4:24 | 2025-08-18 |  |
 | [second place](https://open.spotify.com/track/1fbOvCYi48oNtnUvTU3Khr) | [soki yue](https://open.spotify.com/artist/3pSvLi87jU6OWr1zk8lBj9) | [second place](https://open.spotify.com/album/5gYgcCmZo9BaWmvyW4ZX2k) | 2:45 | 2025-07-18 |  |
 | [Send Me Out](https://open.spotify.com/track/4eRdQSJXcfsgkQxG5sEanc) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:30 | 2025-07-18 |  |
 | [Shift Souls](https://open.spotify.com/track/4Y6RSJ9YwfPm9E5Ch8Ckmu) | [toechter](https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL) | [Epic Wonder](https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl) | 3:47 | 2025-08-08 |  |
@@ -126,6 +128,7 @@
 | [Silent But For Joy](https://open.spotify.com/track/2JqhEPBaV1pPRgrqlTmsNn) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:36 | 2025-08-08 |  |
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
 | [Sky Writing](https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Sky Writing](https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL) | 3:05 | 2025-05-16 | 2025-07-19 |
+| [Sliver](https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi) | 2:36 | 2025-08-18 |  |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 |  |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/7C73dQdKGFB59kUCL5C2jV) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Spirals On My Tongue](https://open.spotify.com/album/2rxo2AhEjvtu27B0Va0GfC) | 2:45 | 2025-04-17 |  |
@@ -152,6 +155,7 @@
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-03-13 | 2025-08-09 |
 | [under your spell](https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [under your spell](https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg) | 3:47 | 2025-04-10 |  |
 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 | 2025-05-29 |  |
+| [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-08-18 |  |
 | [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Fetish / Valley Serpent](https://open.spotify.com/album/3B4hYM7ShimSOicikAu1Gq) | 2:27 | 2025-06-26 |  |
 | [Watching You](https://open.spotify.com/track/0SsKmpQnyk4AAOY11yXS40) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Cleo](https://open.spotify.com/album/1peRsBvuNWGMgEcwj1lx0K) | 3:20 | 2025-07-25 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-03-13 |  |

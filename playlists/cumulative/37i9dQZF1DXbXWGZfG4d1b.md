@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-688 songs - 1 day 16 hr 31 min
+690 songs - 1 day 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Diamantes](https://open.spotify.com/track/6DxOgwsVacBgpEN0A3ykz4) | [El Club De Los Elefantes](https://open.spotify.com/artist/6NRcX4uAdShMIpfB4AjyHi) | [Diamantes](https://open.spotify.com/album/5lSb6YipjDSlXKtdV2iyWt) | 3:14 | 2022-07-01 | 2022-07-24 |
 | [Distintas Frecuencias](https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Distintas Frecuencias](https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs) | 4:02 | 2024-04-11 |  |
 | [Divina Seducción](https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [Divina Seducción](https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O) | 3:30 | 2023-05-12 | 2023-06-16 |
+| [Domingo de lluvia](https://open.spotify.com/track/3Wq2c1bGTOapOtzmfFTUdH) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [El Lado Oscuro](https://open.spotify.com/album/77OI4ZSQBlNQxmXl9P3X2E) | 3:02 | 2025-08-18 |  |
 | [Dominó](https://open.spotify.com/track/5EcAHmTsaczK3TCNKxypXM) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:33 | 2023-04-21 | 2023-05-01 |
 | [Donde nací](https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Donde nací](https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA) | 3:51 | 2025-01-09 |  |
 | [Dos Extraños](https://open.spotify.com/track/17yXvD0RNnQ9HY9Fqi16KW) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Joaquin Vitola](https://open.spotify.com/artist/6AVOBzrRdAIHk63HPUsrWF) | [El Elogio de la Sombra](https://open.spotify.com/album/54nnTiHDWtEELhu5XnUW2A) | 2:52 | 2022-07-01 | 2022-07-22 |
@@ -421,6 +422,7 @@
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-07-01 | 2023-10-23 |
 | [Morir por Vos \(No Puedo\)](https://open.spotify.com/track/6tECZ1eUtbe3mPq61BCYkW) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O), [Ravioli Juan](https://open.spotify.com/artist/66NrjJ1V6I3BL8tkYMg8OU) | [Errores Coleccionables](https://open.spotify.com/album/224G5BiBybfnDOvVzmvCPG) | 3:08 | 2022-06-03 | 2022-07-23 |
 | [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 | 2023-08-20 |
+| [Motorhome](https://open.spotify.com/track/1p6J3tHv9yIuNTXS7wd58c) | [Javi Punga](https://open.spotify.com/artist/7fcLQdGhHxFNqtI3GWRj7A) | [Motorhome](https://open.spotify.com/album/2Grqx4sY2zxW9Wl9hwzUr1) | 3:04 | 2025-08-18 |  |
 | [Muerde](https://open.spotify.com/track/52UEFtf0kXBjjzCJgqsC19) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Ivanewbie](https://open.spotify.com/artist/6qsBlUBsW7t91aiHfBushw) | [Muerde](https://open.spotify.com/album/3s4KfDYzx43oz29SdLdkAc) | 2:59 | 2025-04-04 |  |
 | [Multiverso](https://open.spotify.com/track/6fPmHiU0CXGbk2JfljoAe6) | [Portobel](https://open.spotify.com/artist/4D4LYABcCVmUcodiy86goS), [Alfonso El Pintor](https://open.spotify.com/artist/1wGhNVSFMYSNhp0tsvzauZ) | [Preludio](https://open.spotify.com/album/0rKDiwLNpdoJGUAolXyuYU) | 4:21 | 2022-06-03 | 2022-07-27 |
 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 | 2024-01-04 | 2024-07-13 |

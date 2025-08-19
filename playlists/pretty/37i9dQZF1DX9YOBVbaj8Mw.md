@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,646 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,267 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 78 | [F Jak Samolot](https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q) | [Tomasz Dąbrowski](https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC), [The Individual Beings](https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz) | [Better](https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao) | 6:01 |
 | 79 | [Morning Sea](https://open.spotify.com/track/0IBQDcU3f1m5fs3xgc8tEr) | [Szymon Zawodny Quintet](https://open.spotify.com/artist/1FzZFGg0D2C6v8tF3B314n) | [Zero Waste](https://open.spotify.com/album/0wSbtYIaTVvnvFiqhvCF9P) | 3:09 |
 
-Snapshot ID: `AAAAAAz+jBLzlGeF0S0zXKGlToVPewAZ`
+Snapshot ID: `AAAAACwg2FN3klx4wwU27hmddX8r1CZv`

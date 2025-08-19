@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Doin' It feat. MC DT",
+        "url": "https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177831,
+      "name": "Doin' it featuring MC DT",
+      "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
+    },
+    {
+      "album": {
         "name": "Don't Know About You (feat. Becky Hill & JME)",
         "url": "https://open.spotify.com/album/07qE5bujJguS4BK8Ah3l09"
       },
@@ -5148,7 +5170,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 175869,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8"

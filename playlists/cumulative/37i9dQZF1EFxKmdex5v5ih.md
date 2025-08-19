@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-526 songs - 1 day 4 hr 59 min
+527 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,8 @@
 | [Pray](https://open.spotify.com/track/3xcyAHzKbIqfij1NHHpjcD) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:33 | 2025-06-13 |  |
 | [Pretend You're God](https://open.spotify.com/track/0D7ptTqe5bFfHPn2PWJWoC) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:39 | 2025-07-16 |  |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-06-19 | 2025-08-18 |
-| [Priceless \(feat\. LISA\)](https://open.spotify.com/track/6bnQw3N0x66rjcM5VBR8XQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Love Is Like](https://open.spotify.com/album/4rPcO26ppgxuuMTjaZ8Cg7) | 2:43 | 2025-08-17 |  |
+| [Priceless \(feat\. LISA\)](https://open.spotify.com/track/6bnQw3N0x66rjcM5VBR8XQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Love Is Like](https://open.spotify.com/album/4rPcO26ppgxuuMTjaZ8Cg7) | 2:43 | 2025-08-17 | 2025-08-19 |
+| [Priceless \(feat\. LISA\)](https://open.spotify.com/track/6sQPu9fZuXKGXesabSqSjx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:43 | 2025-08-18 |  |
 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-07-02 |  |
 | [Prisoner](https://open.spotify.com/track/4ljWtIqF5JcTnvUZtEof6S) | [Badscandal](https://open.spotify.com/artist/29kaubgb6Esvwu0idVndGy) | [Prisoner](https://open.spotify.com/album/1JkEkTW1OMZcKP1SnnmJue) | 2:30 | 2025-02-02 | 2025-02-17 |
 | [Prisoner](https://open.spotify.com/track/0Ri12wPHUpmXnCO2e7yGZb) | [MARSTEREON](https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap), [Sup I'm Bianca](https://open.spotify.com/artist/1RyTw0arFCyOJYG5SKNo8o), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Prisoner](https://open.spotify.com/album/50rokNGkMjPrpPwtAtPogn) | 3:03 | 2025-02-16 | 2025-04-12 |

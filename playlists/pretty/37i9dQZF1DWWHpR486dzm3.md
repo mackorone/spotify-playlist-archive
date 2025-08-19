@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Kukkatalo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,998 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,999 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mut unohdettiin](https://open.spotify.com/track/57dBFXAzjtONsrKwAKwbO4) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Mut unohdettiin](https://open.spotify.com/album/13nTNyjLQdh7vrUkDtmkWu) | 3:32 |
-| 2 | [Pillow Face](https://open.spotify.com/track/1eTAzknH2cG8V4vLiDGx3M) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Pillow Face](https://open.spotify.com/album/4dzIyCSBhc8lzL2FEcxfNq) | 2:18 |
-| 3 | [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 |
-| 4 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
-| 5 | [Rakkauden kesä '25](https://open.spotify.com/track/6voVmRAlJUGCZguqxLHG1g) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Rakkauden kesä '25](https://open.spotify.com/album/4gUaEueG35zVbHBleS7FGw) | 3:32 |
-| 6 | [Chervona ruta](https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Solovey \- Lauluja Ukrainasta](https://open.spotify.com/album/2cGIkil6v7zVbIAgehuU92) | 4:04 |
-| 7 | [Sun tyttö](https://open.spotify.com/track/2jdzwygTOKriMLTilBhhcB) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sun tyttö](https://open.spotify.com/album/3sn0vIRq13oKCgdz6WaPJ9) | 3:50 |
-| 8 | [Lapis philosophorum](https://open.spotify.com/track/43KgbIw8U93aV7iZlpPIxX) | [Jaakko Laitinen & Väärä Raha](https://open.spotify.com/artist/5QPVowsUcqhMFwZXmdGNUv) | [Lapis philosophorum](https://open.spotify.com/album/4REXtOg58aYwpKD378GkPo) | 4:18 |
-| 9 | [Miljoonien kyynelten maa](https://open.spotify.com/track/4pcTprmm5AzHcq5iM567Sg) | [Ken Lie & Hän](https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5) | [Miljoonien kyynelten maa](https://open.spotify.com/album/0zFMnmsRO8l27427khVo5x) | 3:03 |
-| 10 | [Me ei puhuta siitä enää](https://open.spotify.com/track/0xZRTHzCaGatupT16w3B1a) | [Sähkölaura](https://open.spotify.com/artist/0hCCfXwAqnd3Wphgu4IKJB) | [Me ei puhuta siitä enää](https://open.spotify.com/album/6VXnSDgASG36mI3oTC8sMB) | 4:02 |
-| 11 | [Tulikärpäsiä](https://open.spotify.com/track/3XYhizwNYe1apdU7v5wWcc) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Tulikärpäsiä](https://open.spotify.com/album/478VCABdG1e4lqaZRaXaNo) | 3:07 |
-| 12 | [Äiti](https://open.spotify.com/track/1Rlo6dI4vCzTrUof9Uwubi) | [Alisa Leskinen](https://open.spotify.com/artist/3kW62f6Lunpcv3hIZ8lv5z) | [Äiti](https://open.spotify.com/album/79xAh76HFEpaZLXMkql5rc) | 2:39 |
+| 2 | [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 |
+| 3 | [Äiti](https://open.spotify.com/track/1Rlo6dI4vCzTrUof9Uwubi) | [Alisa Leskinen](https://open.spotify.com/artist/3kW62f6Lunpcv3hIZ8lv5z) | [Äiti](https://open.spotify.com/album/79xAh76HFEpaZLXMkql5rc) | 2:39 |
+| 4 | [Pillow Face](https://open.spotify.com/track/1eTAzknH2cG8V4vLiDGx3M) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Pillow Face](https://open.spotify.com/album/4dzIyCSBhc8lzL2FEcxfNq) | 2:18 |
+| 5 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
+| 6 | [Rakkauden kesä '25](https://open.spotify.com/track/6voVmRAlJUGCZguqxLHG1g) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Rakkauden kesä '25](https://open.spotify.com/album/4gUaEueG35zVbHBleS7FGw) | 3:32 |
+| 7 | [Chervona ruta](https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Solovey \- Lauluja Ukrainasta](https://open.spotify.com/album/2cGIkil6v7zVbIAgehuU92) | 4:04 |
+| 8 | [Sun tyttö](https://open.spotify.com/track/2jdzwygTOKriMLTilBhhcB) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sun tyttö](https://open.spotify.com/album/3sn0vIRq13oKCgdz6WaPJ9) | 3:50 |
+| 9 | [Lapis philosophorum](https://open.spotify.com/track/43KgbIw8U93aV7iZlpPIxX) | [Jaakko Laitinen & Väärä Raha](https://open.spotify.com/artist/5QPVowsUcqhMFwZXmdGNUv) | [Lapis philosophorum](https://open.spotify.com/album/4REXtOg58aYwpKD378GkPo) | 4:18 |
+| 10 | [Miljoonien kyynelten maa](https://open.spotify.com/track/4pcTprmm5AzHcq5iM567Sg) | [Ken Lie & Hän](https://open.spotify.com/artist/2qaWj9zsjEOuQ0xX1Qylb5) | [Miljoonien kyynelten maa](https://open.spotify.com/album/0zFMnmsRO8l27427khVo5x) | 3:03 |
+| 11 | [Me ei puhuta siitä enää](https://open.spotify.com/track/0xZRTHzCaGatupT16w3B1a) | [Sähkölaura](https://open.spotify.com/artist/0hCCfXwAqnd3Wphgu4IKJB) | [Me ei puhuta siitä enää](https://open.spotify.com/album/6VXnSDgASG36mI3oTC8sMB) | 4:02 |
+| 12 | [Tulikärpäsiä](https://open.spotify.com/track/3XYhizwNYe1apdU7v5wWcc) | [Saaga](https://open.spotify.com/artist/3qDwZXi3BD5dXRq5aAkpjn) | [Tulikärpäsiä](https://open.spotify.com/album/478VCABdG1e4lqaZRaXaNo) | 3:07 |
 | 13 | [Image](https://open.spotify.com/track/48OWxypFzZFDnlRBPr95sD) | [Modem](https://open.spotify.com/artist/7CQG9lCRpxkuALUS2wbTia), [eufrosyne](https://open.spotify.com/artist/3CE4TDeSxpfRtLVQPcVt2A) | [Image](https://open.spotify.com/album/1c7qXs59CAusNpmYHLHJW2) | 4:05 |
 | 14 | [Kuuma ja cool](https://open.spotify.com/track/0xjFqyWMU6XxETKmM4YJ0J) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Kuuma ja cool](https://open.spotify.com/album/5VEnhmraasGluxVLcHvWk1) | 3:03 |
 | 15 | [Rakkaalleni](https://open.spotify.com/track/5SFIDXsPJhYgcYyuDosskP) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Rakkaalleni](https://open.spotify.com/album/0t7gZ4oj9VhtHF1BMDv5BC) | 4:29 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 34 | [Ennen ku lähet nii jää](https://open.spotify.com/track/7dJtCTATsbrqCVfGwjmlcw) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Ennen ku lähet nii jää](https://open.spotify.com/album/6ZlePWQrDNm43tNnTROWyy) | 2:40 |
 | 35 | [muista ruokkia linnut](https://open.spotify.com/track/4fpZq5fJveqMTsh6MPLioN) | [Topias](https://open.spotify.com/artist/7aDmYwCYGyVqUo909YadRA) | [muista ruokkia linnut](https://open.spotify.com/album/6bKWj1imQdHjQ8Uj4E13US) | 3:19 |
 | 36 | [VV](https://open.spotify.com/track/63kIO4t5xRXJi7BExl6jlI) | [Laura Kielo](https://open.spotify.com/artist/5JmvzOF6gVawJhJ3N8ry6F) | [VV](https://open.spotify.com/album/1PkWlfXvShX87LdlWNXAVt) | 3:56 |
-| 37 | [Kahvia](https://open.spotify.com/track/1sdoMSC4IuDY1wSJC57VQr) | [Miisa May](https://open.spotify.com/artist/32GkNHg90EACFuR67pMaX4) | [Kahvia](https://open.spotify.com/album/341Gvozwzfv0LvT70Yx1wU) | 3:56 |
+| 37 | [Kahvia](https://open.spotify.com/track/1sdoMSC4IuDY1wSJC57VQr) | [Miisa May](https://open.spotify.com/artist/32GkNHg90EACFuR67pMaX4) | [Kahvia](https://open.spotify.com/album/341Gvozwzfv0LvT70Yx1wU) | 3:50 |
 | 38 | [Mitä ollaan?](https://open.spotify.com/track/0wpVMzXfRDofeqxfyGC8pU) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mitä ollaan?](https://open.spotify.com/album/7AnvBkrBxtMOLXkkmcQIhf) | 2:41 |
 | 39 | [Aurinko](https://open.spotify.com/track/2eEpNk4CcMjh1r4IUKXjxz) | [Rosmariini](https://open.spotify.com/artist/1kWisg3nVCAUhUfR08DbhB) | [Aurinko](https://open.spotify.com/album/7hgBh04wJOYDL7BVoPjeuv) | 3:02 |
 | 40 | [Lemmennostajaämmä](https://open.spotify.com/track/0g5h1x7Ug45u4dLavtbzwt) | [Vilma Jää](https://open.spotify.com/artist/6xWp5eQ67HQ2Zv7DlAwUaL) | [Lemmennostajaämmä](https://open.spotify.com/album/4PT9Gl9mUS5vN2N3M5BMYU) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Vanishing Point](https://open.spotify.com/track/64RS8kr2PgJr1PUP64Oc8i) | [Kova Meno Kollektiivi](https://open.spotify.com/artist/6DJoQFvFyvGMDPcmjsFcb3) | [Vanishing Point](https://open.spotify.com/album/09XOSDKbwdf9AQzxJwEfVA) | 3:37 |
 | 80 | [Typeriä sanoja](https://open.spotify.com/track/3PtQE4RLHgGcJkrDAdUqna) | [Sumukuu](https://open.spotify.com/artist/5R0ufySY7gxojREXJ98x1v) | [Typeriä sanoja](https://open.spotify.com/album/1YuSkC1XJjm3wLBcoHmgkD) | 4:06 |
 
-Snapshot ID: `AAAAAKa2u0wqc9UZnjC9nNKyVpRCCt14`
+Snapshot ID: `AAAAAPxVWpiUx9N2y8H2CMkhlWw2NomH`

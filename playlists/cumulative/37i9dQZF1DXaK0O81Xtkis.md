@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring MGK
 
-1,429 songs - 2 day 23 hr 10 min
+1,430 songs - 2 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Change Shapes](https://open.spotify.com/track/0SQC9AaDUmNQKmV9Trq0j4) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Change Shapes](https://open.spotify.com/album/0n8UD97J6OxFKTmvSuTyz0) | 3:25 | 2024-03-08 | 2024-04-27 |
 | [Change Your Mind](https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Change Your Mind](https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc) | 3:19 | 2024-04-19 | 2024-06-29 |
 | [Chapstick](https://open.spotify.com/track/1I78vjEGzF30QsfjhT34kl) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Chapstick](https://open.spotify.com/album/1LKHRk9y7a0h07RSU6zGhZ) | 3:05 | 2021-10-29 | 2022-02-05 |
-| [Chasing After You \(From “The Buccaneers S2” Soundtrack\)](https://open.spotify.com/track/14KDMtRqZDwg7gJAYRRcuF) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Chasing After You \(From “The Buccaneers S2” Soundtrack\)](https://open.spotify.com/album/1YptAC7HZdxLfTsRyzYHru) | 2:57 | 2025-06-06 |  |
+| [Chasing After You \(From “The Buccaneers S2” Soundtrack\)](https://open.spotify.com/track/14KDMtRqZDwg7gJAYRRcuF) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Chasing After You \(From “The Buccaneers S2” Soundtrack\)](https://open.spotify.com/album/1YptAC7HZdxLfTsRyzYHru) | 2:57 | 2025-06-06 | 2025-08-19 |
 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 | 2023-03-24 | 2023-07-01 |
 | [Cheerleaders and Jocks](https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Cheerleaders and Jocks](https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8) | 3:47 | 2023-11-24 | 2024-01-05 |
 | [Chelsea's Coming Over](https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Chelsea's Coming Over](https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql) | 2:48 | 2022-05-27 | 2022-08-13 |
@@ -1055,6 +1055,7 @@
 | [SATURDAY NIGHT](https://open.spotify.com/track/4r2K4hNxpIc21xw2e7PhdF) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [SATURDAY NIGHT](https://open.spotify.com/album/4EDOoHVfkI7JNsQMfol6sc) | 2:32 | 2024-02-23 | 2024-04-19 |
 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 | 2024-10-18 | 2025-01-25 |
 | [Save My Soul](https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 3:10 | 2023-12-01 | 2024-02-10 |
+| [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-08-18 |  |
 | [Saying “No”](https://open.spotify.com/track/5F1QktfxOgkz6ZIU6FUPHD) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Saying “No”](https://open.spotify.com/album/4enPd0cof71ZE5VSIi4zQ3) | 3:54 | 2025-07-11 |  |
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-04-01 | 2022-04-09 |
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-19 | 2024-11-09 |

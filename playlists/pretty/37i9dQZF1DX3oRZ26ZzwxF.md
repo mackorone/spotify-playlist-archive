@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Black K x Fior 2 Bior
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,849 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,885 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 48 | [Doucement](https://open.spotify.com/track/6542UCxMkqxqyuXqqZS0u7) | [JABER STATE$](https://open.spotify.com/artist/7llzmVZxII2iosfXwwNaXs) | [ERUPTION VOLCANIQUE](https://open.spotify.com/album/7tumaIwi1QV4HqgZbLGAHa) | 2:11 |
 | 49 | [pourquoi tu gnan](https://open.spotify.com/track/3F7zIvz7LZD4kNyNilox5o) | [Tripa Gninnin](https://open.spotify.com/artist/1942Gu3Pj3kVg8SmX8T5lJ), [Latop](https://open.spotify.com/artist/2Le5krQdKYGiP5xUQnIHKN) | [pourquoi tu gnan](https://open.spotify.com/album/6g1RUsOlrKLG1kAVTIgOVB) | 3:05 |
 
-Snapshot ID: `AAAAANln6PywsXY/A85NHnn41W6nEppt`
+Snapshot ID: `AAAAACh87z0sHvF7/imiaowFEhk+x7DY`

@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,990 songs - 3 day 13 hr 26 min
+1,991 songs - 3 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1384,6 +1384,7 @@
 | [Papper&Bläck](https://open.spotify.com/track/76h25GVqMKQvRI3hR4BRxg) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Papper&Bläck](https://open.spotify.com/album/7ntGrCVuwFDxiSr5BVh0B4) | 2:07 | 2022-12-05 | 2022-12-16 |
 | [PARA](https://open.spotify.com/track/6vdLtcjUL6jUG0p5iUf70a) | [AIVA](https://open.spotify.com/artist/07ogFFhRxjjGsPHfq4dSQb) | [Babel](https://open.spotify.com/album/5KjEHLodF7i90WTehe1fW3) | 2:50 | 2023-06-15 | 2023-07-14 |
 | [PARA KOMMER PARA GÅR](https://open.spotify.com/track/7HdL9sS0cLVdUZIbPaWFgX) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [PARA KOMMER PARA GÅR](https://open.spotify.com/album/5bF9HRZrgZjM0hD3JYGXPB) | 2:36 | 2022-06-09 | 2022-06-17 |
+| [Para Love & pain](https://open.spotify.com/track/6yLIFt8K7YptjvW3lJf069) | [Dj Yosef](https://open.spotify.com/artist/7pzhTqdHeVnzlQI7MlISVI), [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [Para Love & pain](https://open.spotify.com/album/68KW6nPPIZGJoYaJY973Wp) | 2:27 | 2025-08-18 |  |
 | [Paradis](https://open.spotify.com/track/4MsSHqcST3hs4bZiSYHAZt) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Paradis](https://open.spotify.com/album/6ZbYcqBcScLskrMC6T8McA) | 3:26 | 2022-05-05 | 2022-07-29 |
 | [Paradise Lost](https://open.spotify.com/track/52fb3usXUKzxPy7unqwfLs) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 3:47 | 2022-04-11 | 2022-04-29 |
 | [Parana](https://open.spotify.com/track/77hThkgpdeGMelIJHo0BYp) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Parana](https://open.spotify.com/album/7l1GggbF5ZwDII6wVEBfgx) | 2:14 | 2022-05-05 | 2022-05-27 |

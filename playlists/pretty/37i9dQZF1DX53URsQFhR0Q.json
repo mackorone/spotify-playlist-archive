@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 9469,
+  "num_followers": 9478,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Adam Nana",
+        "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Adam Nana",
+      "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 977893,
       "name": "Ghana Local Worship",
       "url": "https://open.spotify.com/track/3ckzZvKEnsIa9kWrXrQMlK"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Adam Nana",
-        "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
-      },
-      "artists": [
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Adam Nana",
-      "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -587,18 +587,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "God You Are So Good",
-        "url": "https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi"
+        "name": "Yesu Mo",
+        "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
       },
       "artists": [
         {
-          "name": "Francis Agyei",
-          "url": "https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2"
+          "name": "Jack Odoom",
+          "url": "https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi"
+        },
+        {
+          "name": "oware JNR",
+          "url": "https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh"
         }
       ],
-      "duration_ms": 384521,
-      "name": "I Have a God",
-      "url": "https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH"
+      "duration_ms": 394031,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -651,22 +655,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Yesu Mo",
-        "url": "https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV"
+        "name": "God You Are So Good",
+        "url": "https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi"
       },
       "artists": [
         {
-          "name": "Jack Odoom",
-          "url": "https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi"
-        },
-        {
-          "name": "oware JNR",
-          "url": "https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh"
+          "name": "Francis Agyei",
+          "url": "https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2"
         }
       ],
-      "duration_ms": 394031,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6"
+      "duration_ms": 384521,
+      "name": "I Have a God",
+      "url": "https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -771,8 +771,8 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+        "name": "God of Miracles",
+        "url": "https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+      "duration_ms": 369037,
+      "name": "Ogya",
+      "url": "https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv"
     },
     {
       "added_at": "2025-01-09 09:53:00",

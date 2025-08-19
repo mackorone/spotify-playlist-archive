@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Aug 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Aug 18:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUCfcRD4aMGTwtb3pov7x7WFIpy8AZ",
+  "snapshot_id": "AAAUDaKtcRTPMTviuJ7uahOlp0ELJcfP",
   "tracks": [
+    {
+      "added_at": "2025-08-18 18:04:28",
+      "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "added_at": "2025-08-18 18:04:28",
+      "album": {
+        "name": "Mr. Miracle",
+        "url": "https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 192492,
+      "name": "Mr. Miracle",
+      "url": "https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK"
+    },
+    {
+      "added_at": "2025-08-18 08:04:57",
+      "album": {
+        "name": "DARK AURA",
+        "url": "https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173856,
+      "name": "DARK AURA",
+      "url": "https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs"
+    },
     {
       "added_at": "2025-08-15 13:03:53",
       "album": {
@@ -791,54 +839,6 @@
       "duration_ms": 462187,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/6ImYUu32noNZlEOBjRqFDV"
-    },
-    {
-      "added_at": "2025-08-08 18:06:20",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 205760,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP"
-    },
-    {
-      "added_at": "2025-08-08 13:05:18",
-      "album": {
-        "name": "milk of the madonna",
-        "url": "https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
-    },
-    {
-      "added_at": "2025-08-08 13:05:18",
-      "album": {
-        "name": "NOBODY SAFE",
-        "url": "https://open.spotify.com/album/20N6yVUaJ0M8pgYvQRcZEE"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 102127,
-      "name": "NOBODY SAFE",
-      "url": "https://open.spotify.com/track/5PjOxRWKD3aUvNHTf4bgAe"
     }
   ],
   "unique_name": "New Singles Now",

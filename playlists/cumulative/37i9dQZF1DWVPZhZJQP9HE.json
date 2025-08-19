@@ -6237,6 +6237,28 @@
     },
     {
       "album": {
+        "name": "Laali",
+        "url": "https://open.spotify.com/album/7rI9MtM12dfMrWGaywoWlY"
+      },
+      "artists": [
+        {
+          "name": "Diwakar",
+          "url": "https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD"
+        },
+        {
+          "name": "Santhosh",
+          "url": "https://open.spotify.com/artist/37L9nDHDoSaoguQsJnXqGf"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235320,
+      "name": "Laali",
+      "url": "https://open.spotify.com/track/1InP0HNFulRhXbxDVRHWig"
+    },
+    {
+      "album": {
         "name": "Laila",
         "url": "https://open.spotify.com/album/6WXt0cZF2n3S1VsalTyHbx"
       },

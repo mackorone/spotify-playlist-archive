@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop: LUNA & Russo \(cover\), Pommelien Thijs, Ruben Annink & Danique en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,586 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,594 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 8 | [Een Nacht Als Deze](https://open.spotify.com/track/6NETlrbxNer7Yj9NXhgTiA) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Een Nacht Als Deze](https://open.spotify.com/album/5gYLd9YEiTZCDPR0lkiGt6) | 3:00 |
 | 9 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
 | 10 | [Marathon](https://open.spotify.com/track/6Q2rqIUFhHAoGDpcv7JQeY) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Marathon](https://open.spotify.com/album/5VHOkYdgZW38bN4O5k7UgJ) | 2:38 |
-| 11 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [Myrte Michels](https://open.spotify.com/artist/1toTl1rdtV8matFNkDsrWV) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
+| 11 | [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [MYMI](https://open.spotify.com/artist/0nO0wj4l9DNwoPEqbrPGMp) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 |
 | 12 | [Bliksem](https://open.spotify.com/track/6YleSlumFybB9EbuNb39LJ) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Bliksem](https://open.spotify.com/album/5aQDXTIBffjggGyXUUeS01) | 2:22 |
 | 13 | [Blijf Daar](https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0), [Riën](https://open.spotify.com/artist/4PjmObvz1MJuPZQ5HmgTid), [Jean Jacques](https://open.spotify.com/artist/3U02wTIYzwf7JA2zD2SDSR) | [Blijf Daar](https://open.spotify.com/album/1uEoO2EDYVGXZdh0LxxXth) | 2:19 |
 | 14 | [Stuk](https://open.spotify.com/track/49BsomzPsrybT3lmKhyVNZ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Stuk](https://open.spotify.com/album/3Z3FlnpmuXxxlCkheoGenE) | 3:06 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 58 | [Hoe Kom Ik Hier Weg](https://open.spotify.com/track/7fS5dpettfYfl1hoIWKlMf) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Hoe Kom Ik Hier Weg](https://open.spotify.com/album/0IUNnHHLWYa7Lrqtlq86Nc) | 3:01 |
 | 59 | [Muziek](https://open.spotify.com/track/7vlevLM94u3K5zTI3aEOLX) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Muziek](https://open.spotify.com/album/4oIvuFaHvK30SRN9zuGWN9) | 2:08 |
 | 60 | [Welkom Bij Mij](https://open.spotify.com/track/1hXUCUtghj8SY82qc2nWJO) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Welkom Bij Mij](https://open.spotify.com/album/0G5ePOWQIL9b8hWuMpuoif) | 2:47 |
-| 61 | [Deze Avond!](https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Deze Avond!](https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD) | 2:57 |
+| 61 | [Deze Avond!](https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Deze Avond!](https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD) | 2:55 |
 | 62 | [Hartslag](https://open.spotify.com/track/2JH8u157TEJOojZ4GfRxUv) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Hartslag](https://open.spotify.com/album/0mpT1ek8Dt0m3w7oowVJpN) | 2:21 |
 | 63 | [Bitterzoet](https://open.spotify.com/track/6PbDcr3zfITA3j3MO4OIOu) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Bitterzoet](https://open.spotify.com/album/5Y2YwJG3v0WISIGLxoAbbR) | 2:35 |
 | 64 | [Alleen op de wereld](https://open.spotify.com/track/1jf4FPYzBsk1fVer0iZWab) | [LUUK](https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1) | [Alleen op de wereld](https://open.spotify.com/album/5MRBUpQbMCON0mx61DzAFL) | 2:14 |

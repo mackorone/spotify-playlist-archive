@@ -746,7 +746,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 282200,
       "name": "Anugerah Terindah",
       "url": "https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg"
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 252349,
       "name": "Bunga Maaf",
       "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
@@ -5011,6 +5011,28 @@
     },
     {
       "album": {
+        "name": "Kaka Main Salah",
+        "url": "https://open.spotify.com/album/275JZC2hPEmKHEpAZDAvEO"
+      },
+      "artists": [
+        {
+          "name": "Kapthenpurek",
+          "url": "https://open.spotify.com/artist/03viIgoUyg6gfAcID5hRCm"
+        },
+        {
+          "name": "Silet Open Up",
+          "url": "https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266797,
+      "name": "Kaka Main Salah",
+      "url": "https://open.spotify.com/track/5qIjpAWyp4De0E3qGTFw2U"
+    },
+    {
+      "album": {
         "name": "Meraih Bintang",
         "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
@@ -5474,7 +5496,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 282675,
       "name": "Kita Ke Sana",
       "url": "https://open.spotify.com/track/5DqSZFvWvSWg5eyCDi0CuW"
@@ -5730,7 +5752,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 220851,
       "name": "L",
       "url": "https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI"
@@ -7990,7 +8012,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 261299,
       "name": "Pesan Terakhir",
       "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
@@ -8080,7 +8102,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 209606,
       "name": "Pica Pica 2",
       "url": "https://open.spotify.com/track/6XmdwXqM9TAhB7mf8W84SL"
@@ -10668,7 +10690,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 241714,
       "name": "Tak Kan Hilang",
       "url": "https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu"

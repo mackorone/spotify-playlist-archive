@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 509696,
+  "num_followers": 509879,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ/KAAAAAAC1X3oRNC58c+qk5dXCK1Zs",
+  "snapshot_id": "aKEbgAAAAAD+9aWTVi0F/B5c4NbVsOYo",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "201",
+        "url": "https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "DE LUNES A LUNES",
+      "url": "https://open.spotify.com/track/4IIdIBVQEXwpE6MlLkHeBm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Retiro",
         "url": "https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 167019,
       "name": "No Te Arrepentiras",
       "url": "https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Poderes",
-        "url": "https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh"
-        }
-      ],
-      "duration_ms": 173305,
-      "name": "Super Poderes",
-      "url": "https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX"
     }
   ],
   "unique_name": "This Is Grupo Frontera",

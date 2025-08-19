@@ -3389,6 +3389,36 @@
     },
     {
       "album": {
+        "name": "Finding Her (Female Version)",
+        "url": "https://open.spotify.com/album/6RnGw4uQQZZqjfT6SIFpeL"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206735,
+      "name": "Finding Her (Female Version)",
+      "url": "https://open.spotify.com/track/2sQsgq7QJqGCJ1HsZcORvT"
+    },
+    {
+      "album": {
         "name": "Firaaq",
         "url": "https://open.spotify.com/album/3GZbbelzDwCclNQwt4yEEh"
       },
@@ -7758,7 +7788,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 157076,
       "name": "Nachdi (From \"Son Of Sardaar 2\")",
       "url": "https://open.spotify.com/track/5plhRq2ZCy6sH671phdjbd"

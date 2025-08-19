@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 25018,
+  "num_followers": 25026,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 274146,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/0PWQqF5PvqRq0OPLSH0FKI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "King's Disease",
         "url": "https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 166523,
       "name": "Spicy (feat. Fivio Foreign & A$AP Ferg)",
       "url": "https://open.spotify.com/track/661wc0CTq5MbppEG6zYP5n"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 274146,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/0PWQqF5PvqRq0OPLSH0FKI"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Otherside Of America",
-        "url": "https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 218103,
-      "name": "Otherside of America",
-      "url": "https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 226220,
       "name": "You\u2019re Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Otherside Of America",
+        "url": "https://open.spotify.com/album/3ymsrdlosSeo8xbXlGNMoE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 218103,
+      "name": "Otherside of America",
+      "url": "https://open.spotify.com/track/3JBvJ9PwrYA1oeUzI3FMRI"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,786 likes - 260 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,966 likes - 260 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 259 | [Hug me](https://open.spotify.com/track/6rCfYvkE9unP7z2ARBaJZ3) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Hug me](https://open.spotify.com/album/65Z43jJ1uuaE88S0tNs2Zu) | 1:35 |
 | 260 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 |
 
-Snapshot ID: `AAAAALemFXF5ahpht2xRc7+XPTSIDRWO`
+Snapshot ID: `AAAAAMmBEjcxNir0A0/Rp7YK44Ov1JH0`

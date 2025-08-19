@@ -4,7 +4,7 @@
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-138 songs - 7 hr 16 min
+139 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Do They Know It's Christmas](https://open.spotify.com/track/4AFTW65X9He0p8NONkBPy8) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Polina Vita](https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 2:55 | 2021-12-17 | 2024-04-19 |
 | [Do You Hear What I Hear?](https://open.spotify.com/track/5McQ19B5AjkZose1EQURIW) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Do You Hear What I Hear?](https://open.spotify.com/album/3edX4M0rq7fWqftI7TnbkK) | 3:53 | 2021-12-17 | 2022-07-25 |
 | [Driving Home For Christmas](https://open.spotify.com/track/1R87nOHx4YRvHoiovqZUed) | [Holidayz](https://open.spotify.com/artist/482s2jUGaqL2r9upJVcgKk) | [Christmas Dance Party Vol\. 1](https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX) | 4:15 | 2024-12-03 |  |
+| [Fairytale of Berlin](https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Fairytale of Berlin](https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB) | 5:02 | 2025-08-18 |  |
 | [Feliz Navidad](https://open.spotify.com/track/5c5o9fcCh3SbeK3VX7X8TL) | [Santa is a DJ](https://open.spotify.com/artist/2O9QzlyJoRwJZnz7vggoYy) | [Christmas Dance Party Vol\. 1](https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX) | 3:17 | 2023-12-22 |  |
 | [First Christmas](https://open.spotify.com/track/0IulDUwh9VKcy7ENUD5f2c) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [First Christmas](https://open.spotify.com/album/4TWTg7AZ1MLOHSCVVuDGLY) | 2:35 | 2021-12-17 | 2023-01-06 |
 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 | 2021-12-17 |  |
@@ -131,7 +132,7 @@
 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 | 2021-12-17 | 2023-09-25 |
 | [Whim](https://open.spotify.com/track/6PAWxLsMLFV7yNinpK6eJY) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/11ROGuJ5Nl9z7OEM4Ojs4S) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [White Christmas \- Original Mix](https://open.spotify.com/track/7mIf5heujHBQPOi6cnDDBF) | [Dinka](https://open.spotify.com/artist/3jEWwtiifaWzV7ZcRduuxU) | [Christmas Dance, Vol\. 3](https://open.spotify.com/album/1cUVJECgYRPdzU8GtSJIsB) | 6:08 | 2021-12-17 | 2022-07-28 |
-| [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 | 2021-12-17 |  |
+| [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 | 2021-12-17 | 2025-08-19 |
 | [Winter Wonderland](https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Winter Wonderland](https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4) | 2:46 | 2023-12-07 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6RU4NdFcF1BsXR7PvHIdb0) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Winter Wonderland](https://open.spotify.com/album/3ldwzSF4n5lGOphBYoVZL9) | 3:03 | 2023-12-22 |  |
 | [Winter Wonderland](https://open.spotify.com/track/0nbeg7UUXdyAs1MBUhi9B4) | [Santa is a DJ](https://open.spotify.com/artist/2O9QzlyJoRwJZnz7vggoYy) | [Jul Dance Musik 2023](https://open.spotify.com/album/0UoOFxwkmbQidy3xoCwbNm) | 2:03 | 2024-11-25 | 2024-12-04 |

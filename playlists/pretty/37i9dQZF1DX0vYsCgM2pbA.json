@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 144184,
+  "num_followers": 144188,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 158822,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "iluv",
         "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 257798,
       "name": "iluv",
       "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 158822,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -343,38 +343,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 269480,
-      "name": "I Don't Wanna Leave",
-      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Cross Your Mind",
-        "url": "https://open.spotify.com/album/4uVGMNsQuYnMMkXGTgv0YZ"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 151410,
-      "name": "Cross Your Mind",
-      "url": "https://open.spotify.com/track/5GbsM9xps85Q3ZyHHGdHvX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Hold On (Young Heart)",
         "url": "https://open.spotify.com/album/4sBG7LXU3LXfEPLY2uDsiF"
       },
@@ -391,18 +359,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 328655,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
+      "duration_ms": 231978,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -427,18 +395,34 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "DEVOTION",
-        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
+        "name": "Cross Your Mind",
+        "url": "https://open.spotify.com/album/4uVGMNsQuYnMMkXGTgv0YZ"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         }
       ],
-      "duration_ms": 231978,
-      "name": "DEVOTION",
-      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
+      "duration_ms": 151410,
+      "name": "Cross Your Mind",
+      "url": "https://open.spotify.com/track/5GbsM9xps85Q3ZyHHGdHvX"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 269480,
+      "name": "I Don't Wanna Leave",
+      "url": "https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -475,18 +459,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+      "duration_ms": 328655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -607,6 +591,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/57BlLED3PRgcP0lmpPuv2G"
       },
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Morning Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 203806,
       "name": "Shining",
       "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
-      },
-      "artists": [
-        {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
-        }
-      ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Do You Want Me",
         "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 272523,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "Blue Desert",
+        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 182869,
+      "name": "Wrong Again",
+      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Drift / Long Story Short",
         "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Blue Desert",
-        "url": "https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X"
-      },
-      "artists": [
-        {
-          "name": "Jack J",
-          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
-        }
-      ],
-      "duration_ms": 182869,
-      "name": "Wrong Again",
-      "url": "https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Since I Don't Have You (Dual Remix)",
-        "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
-      },
-      "artists": [
-        {
-          "name": "Dual Sessions",
-          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
-        },
-        {
-          "name": "Amazonics",
-          "url": "https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W"
-        }
-      ],
-      "duration_ms": 166254,
-      "name": "Since I Don't Have You - Dual Remix",
-      "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
         "name": "Spend It (feat. Circa Waves)",
         "url": "https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 202858,
       "name": "Spend It (feat. Circa Waves)",
       "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
+        "name": "Since I Don't Have You (Dual Remix)",
+        "url": "https://open.spotify.com/album/1Bxt7K4vf4jnsbkQWhzzZE"
+      },
+      "artists": [
+        {
+          "name": "Dual Sessions",
+          "url": "https://open.spotify.com/artist/62G1LvBKkkl7sLHqrGbAcp"
+        },
+        {
+          "name": "Amazonics",
+          "url": "https://open.spotify.com/artist/6GB5ciGInIXxCbTrqdgz1W"
+        }
+      ],
+      "duration_ms": 166254,
+      "name": "Since I Don't Have You - Dual Remix",
+      "url": "https://open.spotify.com/track/4Y6Jf44nfFTmCVhZNdrV49"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
+        "name": "More of You",
+        "url": "https://open.spotify.com/album/2XtHv7Q0Woi1PI9N2jqE1g"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 253300,
+      "name": "More of You",
+      "url": "https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1"
+    },
+    {
+      "added_at": "2025-08-01 04:00:43",
+      "album": {
         "name": "Frauds (Mall Grab Remix)",
         "url": "https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1"
       },
@@ -1647,18 +1663,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "More of You",
-        "url": "https://open.spotify.com/album/2XtHv7Q0Woi1PI9N2jqE1g"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
       },
       "artists": [
         {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 253300,
-      "name": "More of You",
-      "url": "https://open.spotify.com/track/6wd4uWCNdQ7t9jEazGq4E1"
+      "duration_ms": 278840,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1683,22 +1703,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6jOOQDwkPl8o55CdYYzlWB"
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
       },
       "artists": [
         {
-          "name": "Classixx",
-          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
         }
       ],
-      "duration_ms": 278840,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2qMS5qYe10o9EmEM7i5k9f"
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1739,18 +1755,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+        "name": "Apple Crumble",
+        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
       },
       "artists": [
         {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
         }
       ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+      "duration_ms": 215269,
+      "name": "Make A Move",
+      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1779,34 +1795,22 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Apple Crumble",
-        "url": "https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr"
+        "name": "Missing Piece (Sofi Tukker Remix)",
+        "url": "https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M"
       },
       "artists": [
         {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "Make A Move",
-      "url": "https://open.spotify.com/track/6GSuP1QSD91zZn7MpsLzOy"
-    },
-    {
-      "added_at": "2025-08-01 04:00:43",
-      "album": {
-        "name": "Frake",
-        "url": "https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS"
-      },
-      "artists": [
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
         {
-          "name": "Mel Blue",
-          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
         }
       ],
-      "duration_ms": 197924,
-      "name": "Frake",
-      "url": "https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf"
+      "duration_ms": 206349,
+      "name": "Missing Piece - Sofi Tukker Remix",
+      "url": "https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW"
     },
     {
       "added_at": "2025-08-01 04:00:43",
@@ -1847,22 +1851,18 @@
     {
       "added_at": "2025-08-01 04:00:43",
       "album": {
-        "name": "Missing Piece (Sofi Tukker Remix)",
-        "url": "https://open.spotify.com/album/3piH7eC3EJIlZg4CMi9m6M"
+        "name": "Frake",
+        "url": "https://open.spotify.com/album/49fLLY675afFl4yqm0C7vS"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
         }
       ],
-      "duration_ms": 206349,
-      "name": "Missing Piece - Sofi Tukker Remix",
-      "url": "https://open.spotify.com/track/79GPVGNiZyRrlWwYMrCPmW"
+      "duration_ms": 197924,
+      "name": "Frake",
+      "url": "https://open.spotify.com/track/5phpSn3y1mjWu3pR35RbTf"
     }
   ],
   "unique_name": "Sunday Sessions",

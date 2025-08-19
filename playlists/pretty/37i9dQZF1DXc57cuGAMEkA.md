@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Maroon 5, Kaytranada, Conan Gray, Steve Lacy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,446 likes - 81 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,450 likes - 81 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 53 | [Supernova](https://open.spotify.com/track/7bH0QVI7g7kxRN7jN20NyE) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Supernova](https://open.spotify.com/album/3nKKFRuqnq2V1iIYFTCEgV) | 3:54 |
 | 54 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 |
 | 55 | [The Beach](https://open.spotify.com/track/0A4DniPQYwURoRs9jKm7j4) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [The Beach](https://open.spotify.com/album/3kEXFP8ZH9uCcnm1e6Cjck) | 3:03 |
-| 56 | [LOCA](https://open.spotify.com/track/41zwSinD6HrblQGEb493tl) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [LOCA](https://open.spotify.com/album/6D8P8uefM8gtGFRcPK44SW) | 3:32 |
+| 56 | [LOCA](https://open.spotify.com/track/41zwSinD6HrblQGEb493tl) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [LOCA](https://open.spotify.com/album/6D8P8uefM8gtGFRcPK44SW) | 3:32 |
 | 57 | [Orchid / Flame](https://open.spotify.com/track/4EcTf30fqx2CXau0S7e5VS) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Orchid / Flame](https://open.spotify.com/album/4LnqTIRGOD6aPNPIm2Ytpf) | 3:14 |
 | 58 | [Insomnia](https://open.spotify.com/track/7b5zrhSZ2UNKVza8Fnfv6N) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Insomnia](https://open.spotify.com/album/1I8HPrHRyiVzrySgQTOY9A) | 2:59 |
 | 59 | [The Avant Garde](https://open.spotify.com/track/6vYbXVWGQzdPCL9rwb6APG) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [The Avant Garde](https://open.spotify.com/album/4NyDMwiqlYmygI31lb7fL0) | 3:41 |

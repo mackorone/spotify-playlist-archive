@@ -189,6 +189,32 @@
     },
     {
       "album": {
+        "name": "Cada Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/063wZnNwQxC96C4TnpDHeu"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253375,
+      "name": "Cada Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/4BvZojjPbrMxVueuFmTiJz"
+    },
+    {
+      "album": {
         "name": "Avivamiento 2",
         "url": "https://open.spotify.com/album/1CU1BMSJsVpXeKag7rAORh"
       },
@@ -1264,7 +1290,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 317120,
       "name": "Me Acerco",
       "url": "https://open.spotify.com/track/7ebaBpHIYPxQ9LeyroWnvc"

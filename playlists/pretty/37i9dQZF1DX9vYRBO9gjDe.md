@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月14日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月17日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,153 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,187 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [アンパンマンのマーチ](https://open.spotify.com/track/1zWDvA65SyP3k2lqGmCvGZ) | [Dreaming](https://open.spotify.com/artist/4M9FTgU2MKVIwZAFfMsr3r) | [それいけ！アンパンマン キラキラ星の涙](https://open.spotify.com/album/2GHqWKLw906drAsKQtQf64) | 2:50 |
 | 50 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
 
-Snapshot ID: `AAAAAAph7rqOGpzzmwqP0yPplv/BH7zV`
+Snapshot ID: `AAAAAKuz9jHnZEt12DF1FrH5nTUpvl/s`

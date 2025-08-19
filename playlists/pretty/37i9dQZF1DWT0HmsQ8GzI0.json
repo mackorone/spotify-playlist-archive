@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: L.A. Suzi",
-  "num_followers": 15134,
+  "num_followers": 15137,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-06-16 15:27:33",
       "album": {
-        "name": "Mengyelejev",
-        "url": "https://open.spotify.com/album/5p1oiSCrqASJ8uAaGiaWQa"
-      },
-      "artists": [
-        {
-          "name": "Mengyelejev",
-          "url": "https://open.spotify.com/artist/0gVykwcIxpAbirdqDPGpB5"
-        }
-      ],
-      "duration_ms": 204896,
-      "name": "Mengyelejev",
-      "url": "https://open.spotify.com/track/0glZz6OUVF5lwL5jktid2I"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
         "name": "Avar",
         "url": "https://open.spotify.com/album/3IIniqQIPnxvogMPs3qLek"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2025-06-16 15:27:33",
       "album": {
+        "name": "Mengyelejev",
+        "url": "https://open.spotify.com/album/5p1oiSCrqASJ8uAaGiaWQa"
+      },
+      "artists": [
+        {
+          "name": "Mengyelejev",
+          "url": "https://open.spotify.com/artist/0gVykwcIxpAbirdqDPGpB5"
+        }
+      ],
+      "duration_ms": 204896,
+      "name": "Mengyelejev",
+      "url": "https://open.spotify.com/track/0glZz6OUVF5lwL5jktid2I"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
         "name": "MAG\u00c1NY\u00d6L\u0150",
         "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
       },
@@ -723,38 +723,6 @@
       "duration_ms": 182000,
       "name": "MAG\u00c1NY\u00d6L\u0150",
       "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
-        "name": "B\u00e1natszalonna",
-        "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 182827,
-      "name": "B\u00e1natszalonna",
-      "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
-        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 259624,
-      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
     },
     {
       "added_at": "2025-06-16 15:27:33",
@@ -775,6 +743,38 @@
     {
       "added_at": "2025-06-16 15:27:33",
       "album": {
+        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 259624,
+      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
+        "name": "B\u00e1natszalonna",
+        "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 182827,
+      "name": "B\u00e1natszalonna",
+      "url": "https://open.spotify.com/track/0w0Ym7FLmk00KLPj9E6gFD"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
         "name": "Ugyanitt v\u00e1rlak",
         "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
@@ -787,42 +787,6 @@
       "duration_ms": 197500,
       "name": "Ugyanitt v\u00e1rlak",
       "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
-        "name": "LENN\u00c9K M\u00c1S...",
-        "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
-      },
-      "artists": [
-        {
-          "name": "4ma",
-          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
-        },
-        {
-          "name": "FRANKO",
-          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
-        }
-      ],
-      "duration_ms": 168199,
-      "name": "Gordon",
-      "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
-        "name": "Takarj el",
-        "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
-      },
-      "artists": [
-        {
-          "name": "Esti Korn\u00e9l",
-          "url": "https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m"
-        }
-      ],
-      "duration_ms": 273362,
-      "name": "Takarj el",
-      "url": "https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK"
     },
     {
       "added_at": "2025-06-16 15:27:33",
@@ -843,6 +807,42 @@
       "duration_ms": 174957,
       "name": "T\u00e1rsas\u00e1gban",
       "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
+        "name": "Takarj el",
+        "url": "https://open.spotify.com/album/1hwaiR1jJDFJ2WeH2cVr01"
+      },
+      "artists": [
+        {
+          "name": "Esti Korn\u00e9l",
+          "url": "https://open.spotify.com/artist/6CKGpi9bhf2T7bapMfXl5m"
+        }
+      ],
+      "duration_ms": 273362,
+      "name": "Takarj el",
+      "url": "https://open.spotify.com/track/0OoymARR20n2uqmDLDWkbK"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
+        "name": "LENN\u00c9K M\u00c1S...",
+        "url": "https://open.spotify.com/album/74iLGHuQP5hzyqOqNXCTfK"
+      },
+      "artists": [
+        {
+          "name": "4ma",
+          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
+        },
+        {
+          "name": "FRANKO",
+          "url": "https://open.spotify.com/artist/4z7BpuAzNBJCtnkNjYNgKb"
+        }
+      ],
+      "duration_ms": 168199,
+      "name": "Gordon",
+      "url": "https://open.spotify.com/track/6hm7Ey0MHSWcAZBWTRCl6r"
     },
     {
       "added_at": "2025-06-16 15:27:33",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-06-16 15:27:33",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
         "name": "Soha",
         "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 212432,
       "name": "Soha",
       "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2025-06-16 15:27:33",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-06-16 15:27:33",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
-      },
-      "artists": [
-        {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
-        }
-      ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2025-06-16 15:27:33",
-      "album": {
         "name": "N\u00e1rcisz",
         "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 179045,
       "name": "Groteszk",
       "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+    },
+    {
+      "added_at": "2025-06-16 15:27:33",
+      "album": {
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+      },
+      "artists": [
+        {
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+        }
+      ],
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2025-06-16 15:27:33",

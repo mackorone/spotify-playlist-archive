@@ -826,8 +826,8 @@
           "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
         },
         {
-          "name": "AARV",
-          "url": "https://open.spotify.com/artist/7duShCT4XsHBJsi3KlUtMI"
+          "name": "Aarv",
+          "url": "https://open.spotify.com/artist/0sv2lD4lh1FuFmTUNoABb1"
         }
       ],
       "date_added": "2025-07-17",
@@ -1487,6 +1487,48 @@
     },
     {
       "album": {
+        "name": "Guzaara (From \"Baaghi 4\")",
+        "url": "https://open.spotify.com/album/0oa4u9t0wcigsxTCWvCnVE"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Salamat Ali Matoi",
+          "url": "https://open.spotify.com/artist/4EWD76EQeAcu0I05q25FWG"
+        },
+        {
+          "name": "Agaaz",
+          "url": "https://open.spotify.com/artist/5v8xvZvH2sT2vSqQjwZdhl"
+        },
+        {
+          "name": "Jagdeep Warring",
+          "url": "https://open.spotify.com/artist/1xjuAKj9neNVWlpiZYNgzY"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244073,
+      "name": "Guzaara (From \"Baaghi 4\")",
+      "url": "https://open.spotify.com/track/3gjTErwpHM5PkRbWMhmNrV"
+    },
+    {
+      "album": {
         "name": "Haaniya",
         "url": "https://open.spotify.com/album/6y6urc9ONRjVs4xiW7Jm9b"
       },
@@ -1758,7 +1800,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 228240,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/565ILtHtx2CG2RTM2m5kvF"
@@ -1944,7 +1986,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 177272,
       "name": "Jahaan Hain Tujhse",
       "url": "https://open.spotify.com/track/5fYsx59aKIAHK9mOuoKXDm"
@@ -2052,6 +2094,58 @@
       "duration_ms": 211875,
       "name": "Jee Na Paunga",
       "url": "https://open.spotify.com/track/7hyqAJT08eygm4ffpGiG1e"
+    },
+    {
+      "album": {
+        "name": "WAR 2",
+        "url": "https://open.spotify.com/album/38lXoBZx9yMKIIZ9gJmJo7"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190899,
+      "name": "Jeete Jeete",
+      "url": "https://open.spotify.com/track/3w6WpliqNy9aJL2tGS0fiQ"
+    },
+    {
+      "album": {
+        "name": "Jheel",
+        "url": "https://open.spotify.com/album/3J7AcyB38psyn2HD0HeQA0"
+      },
+      "artists": [
+        {
+          "name": "Hardik Bhardwaj",
+          "url": "https://open.spotify.com/artist/0FEwwiR5oKTnBizgxIOY7K"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        },
+        {
+          "name": "Scxtch",
+          "url": "https://open.spotify.com/artist/44cOLEmwxRN6ciCIPJMhwz"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Jheel",
+      "url": "https://open.spotify.com/track/5taGLdK6Nzr8jzQxl1xQKY"
     },
     {
       "album": {
@@ -2402,7 +2496,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 301041,
       "name": "Maa",
       "url": "https://open.spotify.com/track/38DgFpRlelrCWj1eCD4B5J"
@@ -2822,7 +2916,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 188505,
       "name": "Monica (From \"Coolie The Powerhouse\") (Hindi)",
       "url": "https://open.spotify.com/track/2dyIGRNlCH6MveUXUMVOGr"
@@ -3587,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Saaz",
+        "url": "https://open.spotify.com/album/3GNxdlU7qufUS9qD3YWurZ"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287710,
+      "name": "Saaz",
+      "url": "https://open.spotify.com/track/6BpXuy949Xx095KQ1wzAUz"
+    },
+    {
+      "album": {
         "name": "Shayad Koi Na Sune",
         "url": "https://open.spotify.com/album/1hQmEKfdZmGAVtCQlEyV0F"
       },
@@ -3984,10 +4096,36 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 242262,
       "name": "Suna Lage",
       "url": "https://open.spotify.com/track/13oU2M0DSglVMP4kymSg3s"
+    },
+    {
+      "album": {
+        "name": "Sunn Mere Yaar Ve (From \"Param Sundari\")",
+        "url": "https://open.spotify.com/album/2uqxxLpRB6lPqaEWbDPCc1"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192639,
+      "name": "Sunn Mere Yaar Ve - From \"Param Sundari\"",
+      "url": "https://open.spotify.com/track/4aNDTU2GctEyflO4FsNAxk"
     },
     {
       "album": {

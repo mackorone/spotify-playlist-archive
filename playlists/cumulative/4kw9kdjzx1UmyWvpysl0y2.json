@@ -13855,6 +13855,28 @@
     },
     {
       "album": {
+        "name": "onlybmyself",
+        "url": "https://open.spotify.com/album/2j3hCU44IsCKSTVb7jlzvJ"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186580,
+      "name": "onlybmyself",
+      "url": "https://open.spotify.com/track/6KRw2IFzgxe2PxNjAnLyPt"
+    },
+    {
+      "album": {
         "name": "Open Spaces (VIP)",
         "url": "https://open.spotify.com/album/2tUQDJh16INmIVaKv0uUOU"
       },

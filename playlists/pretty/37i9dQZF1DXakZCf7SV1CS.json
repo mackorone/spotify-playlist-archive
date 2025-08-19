@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 89912,
+  "num_followers": 89908,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "cloak n dagger",
         "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 129000,
       "name": "cloak n dagger",
       "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "Avian",
+        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+      },
+      "artists": [
+        {
+          "name": "patchymate",
+          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "babyur2nice",
+      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "Drop FM",
         "url": "https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 170933,
       "name": "Drop FM",
       "url": "https://open.spotify.com/track/1HRvDMrEj64C6yoJeoH7uu"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "HIGHSCHOOLUNDEAD",
-        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
-      },
-      "artists": [
-        {
-          "name": "Kid Trash",
-          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "MY WORLD",
-      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Avian",
-        "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
+        "name": "HIGHSCHOOLUNDEAD",
+        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
       },
       "artists": [
         {
-          "name": "patchymate",
-          "url": "https://open.spotify.com/artist/7fHDTZfZ72OYE4XpaVE7yO"
+          "name": "Kid Trash",
+          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
         }
       ],
-      "duration_ms": 120000,
-      "name": "babyur2nice",
-      "url": "https://open.spotify.com/track/0OmJlR4IEktvY7RzpakxVk"
+      "duration_ms": 169795,
+      "name": "MY WORLD",
+      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 177235,
       "name": "istillmissu",
       "url": "https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
     },
     {
       "added_at": "2024-10-09 21:55:22",

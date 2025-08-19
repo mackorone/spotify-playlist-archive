@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-295 songs - 14 hr 27 min
+296 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Té Clarear](https://open.spotify.com/track/4LIh2oTtktLnm00tl2yv5y) | [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2), [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [Té Clarear](https://open.spotify.com/album/244Z3LNnSTRJJEKMy2mdB9) | 3:05 | 2023-10-13 | 2024-12-14 |
 | [Tô Querendo Você](https://open.spotify.com/track/0GyrFrplaA63u4Elo1yBdE) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [TheBosh](https://open.spotify.com/artist/7bJoIB2yzey1U3xx3j7tYG) | [Tô Querendo Você](https://open.spotify.com/album/25ew32UgKSh25FIvtNqERZ) | 2:18 | 2022-11-18 | 2022-11-26 |
 | [Uma Linda Mulher](https://open.spotify.com/track/1XqWGzOdE6Q6FgFwAg0t9R) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Luccas Carlos](https://open.spotify.com/artist/1oRt8rRvE2ll1GA74is23o) | [O Iluminado](https://open.spotify.com/album/0e2bs8KEArBtFeMYoqBYKP) | 3:28 | 2022-03-18 | 2023-06-03 |
+| [Uma Noite](https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Uma Noite](https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim) | 2:47 | 2025-08-18 |  |
 | [Uma Noite de Putaria](https://open.spotify.com/track/2b2sVEFjQVnaQuYMZrZ60o) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU) | [Uma Noite de Putaria](https://open.spotify.com/album/5394PYlupAC4hOfOZylaEv) | 4:21 | 2025-06-13 |  |
 | [Vai Q Cê Gosta](https://open.spotify.com/track/4FHHQROCezycCRq3fLPiLH) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L) | [Vai Q Cê Gosta](https://open.spotify.com/album/2ZoyH1PRf8CiVoBFH0mitA) | 2:20 | 2022-03-18 | 2022-06-18 |
 | [VAMPIRA](https://open.spotify.com/track/1vUf2pQNYT0EEEU5RLxO4h) | [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [VAMPIRA](https://open.spotify.com/album/4dv5Yl0t9ZKRA5GTKntuuj) | 2:48 | 2022-08-05 | 2022-10-08 |

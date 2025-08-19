@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Emmsjé Gauti, Maroon 5, RAVEN og mörgum fleiri!
 
-7,358 songs - 16 day 11 hr 41 min
+7,359 songs - 16 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1508,7 +1508,7 @@
 | [Dekadans](https://open.spotify.com/track/2jtynSYKmBwehoRkd3cW8s) | [HASAR](https://open.spotify.com/artist/3RKY1XBHEUceTbyBrDtCTA) | [Dekadans](https://open.spotify.com/album/1hy2Kdqr4wQ3O7rQvC751g) | 3:03 | 2025-05-30 | 2025-06-06 |
 | [Delete](https://open.spotify.com/track/4HMI8gM8YJcBYcssxjo97U) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Into the Moon](https://open.spotify.com/album/6Mumr3S0gdjcUyG8a6BC0u) | 2:55 | 2025-04-25 | 2025-05-02 |
 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 | 2025-02-28 | 2025-03-07 |
-| [Delirium](https://open.spotify.com/track/5dNaBx151Mfc80NDT2S8qw) | [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [Delirium](https://open.spotify.com/album/6mcGg12zdEe2EURcZnlEO5) | 4:26 | 2025-08-15 |  |
+| [Delirium](https://open.spotify.com/track/5dNaBx151Mfc80NDT2S8qw) | [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [Delirium](https://open.spotify.com/album/6mcGg12zdEe2EURcZnlEO5) | 4:26 | 2025-08-15 | 2025-08-19 |
 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 | 2024-08-30 |
 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 | 2025-01-24 | 2025-01-31 |
 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 | 2025-02-28 | 2025-03-07 |
@@ -6238,6 +6238,7 @@
 | [Tell Me How U Like It](https://open.spotify.com/track/2qwWSzMTqaFgfEtbH6Jx9P) | [DJ HAYDN](https://open.spotify.com/artist/4XC4oNp1V0YjK1Z4ryzaf2) | [SALT PLAINS / Tell Me How U Like It](https://open.spotify.com/album/5CSQrzqMDKjD17RBvw7jkS) | 4:08 | 2025-04-25 | 2025-05-02 |
 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-18 | 2025-04-25 |
 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 | 2025-05-23 | 2025-05-30 |
+| [Tell Me Something True](https://open.spotify.com/track/5Qz3uuOwAOe8gK36J11VUr) | [Signe Marie Rustad](https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ) | [Tell Me Something True](https://open.spotify.com/album/0OZ6vbt3LimtMq25vui5iS) | 3:22 | 2025-08-15 |  |
 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 | 2025-06-20 | 2025-06-27 |
 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 | 2024-06-14 | 2024-06-21 |
 | [Tell Me Where U Go](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go](https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt) | 3:02 | 2025-04-25 | 2025-05-02 |

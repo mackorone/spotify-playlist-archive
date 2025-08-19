@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 326 songs - 18 hr 29 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 327 songs - 18 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -334,5 +334,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 324 | [CARAMEL GiRLS](https://open.spotify.com/track/3zqUXbPZmNN3ebEACQg1lz) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [CARAMEL GiRLS](https://open.spotify.com/album/0Q2N3hiG7l86Shfwau7zMd) | 3:31 |
 | 325 | [Bitter Loss](https://open.spotify.com/track/1CFy1BShZQuiMCnAGja8la) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Bitter Loss](https://open.spotify.com/album/0UqpMx3SgvGR0swT0yyeAv) | 3:23 |
 | 326 | [意識](https://open.spotify.com/track/0UWSwwUTnxnbu2KxonkoyF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 2:40 |
+| 327 | [熱愛発覚中](https://open.spotify.com/track/1nFrtehgfdwIFrA67nLxoF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [熱愛発覚中](https://open.spotify.com/album/7vN8Vr63Thjf3i6u0K9L95) | 3:29 |
 
-Snapshot ID: `AAAJMl5cF3Mtar0t+CpKFHvUr41W7fDG`
+Snapshot ID: `AAAJNaNgvMZrLdiN36YECrkNXF+H3PkV`

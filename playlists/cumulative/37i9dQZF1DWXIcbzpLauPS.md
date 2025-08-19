@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
 
-1,296 songs - 3 day 7 hr 25 min
+1,297 songs - 3 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [In The Void](https://open.spotify.com/track/2OanznSyGiNf4hHoNUETh3) | [My Favourite Nemesis](https://open.spotify.com/artist/3YKCy7kEFDbG1ZGq6qNKjM) | [In The Void](https://open.spotify.com/album/4Y47Q5AwzYWSqHiE9TwEsQ) | 3:09 | 2022-06-17 | 2022-07-29 |
 | [In Your Head](https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Life Is Pain](https://open.spotify.com/album/16L3AoU7WMBz2rvS9kzIvV) | 3:33 | 2021-12-17 | 2022-07-23 |
 | [INCOMPLETE](https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [INCOMPLETE](https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac) | 3:35 | 2025-03-31 |  |
-| [INCOMPLETE](https://open.spotify.com/track/0ampO6lT0n4BBgmj0Eo59M) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [INCOMPLETE](https://open.spotify.com/album/1fsqADA6Qc1d6AFYPjqPF0) | 3:42 | 2025-03-31 |  |
+| [INCOMPLETE](https://open.spotify.com/track/0ampO6lT0n4BBgmj0Eo59M) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [INCOMPLETE](https://open.spotify.com/album/1fsqADA6Qc1d6AFYPjqPF0) | 3:42 | 2025-03-31 | 2025-08-19 |
 | [Infection](https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Infection](https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF) | 2:47 | 2024-09-20 | 2025-01-18 |
 | [Inhumane](https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Inhumane](https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca) | 3:59 | 2023-05-26 | 2023-08-05 |
 | [Inner Sanctum](https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Inner Sanctum](https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L) | 3:49 | 2025-03-31 |  |
@@ -714,7 +714,7 @@
 | [Make Me Feel Alright](https://open.spotify.com/track/5MutMUzBiao3LC3JYJQTmR) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Jules Mitch](https://open.spotify.com/artist/4HY3x6qkNiRgsiBcpfrDrU) | [Make Me Feel Alright](https://open.spotify.com/album/4ngSbRrhcWDXpD9ou6KAvM) | 3:23 | 2024-11-22 | 2024-12-19 |
 | [Make Sure It Hurts](https://open.spotify.com/track/2D8zMxyIC6Mv3a7LoLcIHZ) | [ACCVSED](https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS) | [Make Sure It Hurts](https://open.spotify.com/album/5kcoWzL2Sy1X8ZneUCFARy) | 4:14 | 2025-07-04 |  |
 | [Make You Believe](https://open.spotify.com/track/2CCw1N2BS2UbzGVXNyN9rB) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Stability](https://open.spotify.com/album/0QKeoyFMQ8UhfVRVvjkFHk) | 3:35 | 2021-12-17 | 2022-02-18 |
-| [Maldición de la Bruja](https://open.spotify.com/track/5XVlOXqU65CM49Vf8q4dYl) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [CODA](https://open.spotify.com/album/1y3G3ozQ3CTRkBMi2N8QAn) | 3:00 | 2025-05-16 |  |
+| [Maldición de la Bruja](https://open.spotify.com/track/5XVlOXqU65CM49Vf8q4dYl) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [CODA](https://open.spotify.com/album/1y3G3ozQ3CTRkBMi2N8QAn) | 3:00 | 2025-05-16 | 2025-08-19 |
 | [Malediction](https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Malediction](https://open.spotify.com/album/5ebvrBFdm6sSF9YPs4vfvy) | 5:40 | 2022-07-13 | 2022-07-21 |
 | [mallxcore](https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [mallxcore](https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu) | 3:09 | 2025-06-13 |  |
 | [Mana God](https://open.spotify.com/track/5dXZHtpvqrdJl4bhHHsDty) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Mana God](https://open.spotify.com/album/53yljPs8SPVBWJoqPTvje4) | 3:40 | 2024-10-18 | 2025-02-22 |
@@ -771,6 +771,7 @@
 | [Neurotic](https://open.spotify.com/track/4rU48VWAcAFG36R0k1Wlfj) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [What I'll Leave Behind](https://open.spotify.com/album/0nf58EhAHjLY46K0wqpb3b) | 3:06 | 2024-09-20 | 2024-10-19 |
 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 | 2024-12-20 | 2025-03-31 |
 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 | 2023-07-14 | 2023-09-30 |
+| [Neversleep](https://open.spotify.com/track/4lXcX5TKqHMhLkTR2IQt29) | [Colorblind](https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX) | [Neversleep](https://open.spotify.com/album/03eK0IYHFQAToWEU2HMO6A) | 2:59 | 2025-08-15 |  |
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-13 | 2022-07-23 |
 | [New Devil](https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Dickie Allen](https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E) | [New Devil](https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk) | 2:19 | 2024-06-04 | 2025-05-11 |
 | [New Gods](https://open.spotify.com/track/70TLs0LJ6hG2m7lq21kqdV) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/4RKvBFRoBD45oZ9z1VyKyU) | 3:01 | 2022-07-13 | 2022-07-21 |
@@ -1250,7 +1251,7 @@
 | [Wayfarer](https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c) | [Wayfarer](https://open.spotify.com/album/6Jgz2y8TmnHhCks8Dbhd1e) | 3:33 | 2021-12-17 | 2022-02-11 |
 | [We All Meet Up In The End](https://open.spotify.com/track/6PXnz34sERoo33jtNjBabm) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [We All Meet Up In The End](https://open.spotify.com/album/607lnh8iZa9ycSunepT3MT) | 2:56 | 2024-08-25 | 2024-09-21 |
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-12-17 | 2022-02-11 |
-| [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 | 2025-08-18 |
+| [We Are The Dead \(feat\. Alex Terrible, Tom Barber\)](https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO), [Tom Barber](https://open.spotify.com/artist/0MDixv1DxDJce8r8uHOSOd) | [We Are The Dead](https://open.spotify.com/album/7J48Y0zeWr4VzD4Z9mECsK) | 3:43 | 2024-09-20 |  |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-07-01 |
 | [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-22 | 2024-08-26 |
 | [Werewolf](https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:32 | 2023-02-17 | 2023-04-22 |

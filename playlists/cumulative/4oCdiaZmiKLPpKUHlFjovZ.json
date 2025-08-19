@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Turn this playlist all the way up! Featuring, Ski Mask The Slump God, XXXTENTACION, Money Man &amp; Rio Da Yung Og.",
+  "description": "Turn this playlist all the way up! Featuring, Babyface Ray, Ski Mask The Slump God, XXXTENTACION &amp; Rio Da Yung Og.",
   "name": "All The Way Up",
   "tracks": [
     {
@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "All That",
+        "url": "https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/167vDGiHC4msGIrVPPZMA9"
+    },
+    {
+      "album": {
         "name": "CROPTOBER",
         "url": "https://open.spotify.com/album/19JHhDgdHmp1v4eWBP1TZU"
       },
@@ -654,7 +676,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 148800,
       "name": "Big Ben",
       "url": "https://open.spotify.com/track/6gOxuZ0GL3iCl0ocIWJMdt"
@@ -906,7 +928,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 153865,
       "name": "BRINGBLICK",
       "url": "https://open.spotify.com/track/07bvF0AgjZQQdmQvJAYu4r"
@@ -1198,6 +1220,24 @@
       "duration_ms": 149711,
       "name": "Diamond Stitching",
       "url": "https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i"
+    },
+    {
+      "album": {
+        "name": "F.L.I.N.T. (Feeling Like I'm Not Through)",
+        "url": "https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171049,
+      "name": "Different Music",
+      "url": "https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr"
     },
     {
       "album": {
@@ -1652,7 +1692,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 156277,
       "name": "Great Day",
       "url": "https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3"
@@ -2258,7 +2298,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 226131,
       "name": "Netflix & Chill",
       "url": "https://open.spotify.com/track/6XRgm5ugonEcPhwKqCTiQa"
@@ -2960,7 +3000,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 158805,
       "name": "Sneaky \"B\"",
       "url": "https://open.spotify.com/track/0tnOqAPvtKcmj3GE7Iyc58"
@@ -3130,6 +3170,28 @@
       "duration_ms": 122669,
       "name": "Spin",
       "url": "https://open.spotify.com/track/3PKegm8Vk1Bcfr9tcC9vm4"
+    },
+    {
+      "album": {
+        "name": "Codeine Cowboy",
+        "url": "https://open.spotify.com/album/2qKLRkLcQeq5Pa79KJgsf8"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227595,
+      "name": "Standing on Business",
+      "url": "https://open.spotify.com/track/4dlGz2heWuSZ6nE6gOyLjD"
     },
     {
       "album": {

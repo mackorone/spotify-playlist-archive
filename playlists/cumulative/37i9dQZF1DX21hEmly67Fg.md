@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-317 songs - 17 hr 21 min
+319 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-25 | 2025-02-20 |
 | [Mad World](https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Mad World](https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi) | 3:17 | 2023-04-04 | 2025-04-26 |
 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 | 2021-11-25 | 2025-04-26 |
+| [Manchild \(Piano Cover\)](https://open.spotify.com/track/3O7REp5t5i2Tda8qqFt5e7) | [Cabin Nocturnes](https://open.spotify.com/artist/2Xo1T8cEKLH7OOG2lNC8ZJ) | [Manchild \(Piano Cover\)](https://open.spotify.com/album/3LRVCBJFXIzMQB6Tmjufgb) | 3:08 | 2025-08-18 |  |
 | [Maps](https://open.spotify.com/track/1WWgAxgMDRNrSi26x4weoR) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Songbirds: VSQ Celebrates the Women of Modern Rock](https://open.spotify.com/album/7msqnm8LfMD88A3dnKrYcu) | 3:26 | 2022-11-18 | 2022-11-26 |
 | [Merry Christmas](https://open.spotify.com/track/2Z5xXgTm80Q2hE6ulkRwiX) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [Merry Christmas](https://open.spotify.com/album/7IKvo8hshGA91Zk8BQqjJ7) | 2:46 | 2024-11-26 | 2025-01-08 |
 | [Messy](https://open.spotify.com/track/1XYqTUJrWQ1RbpYNw3C8kr) | [Cabin Nocturnes](https://open.spotify.com/artist/2Xo1T8cEKLH7OOG2lNC8ZJ) | [Messy](https://open.spotify.com/album/041OcWsVPmo8lAQE0eL8X1) | 3:07 | 2025-03-18 | 2025-07-17 |
@@ -300,6 +301,7 @@
 | [Wait](https://open.spotify.com/track/4R5pCOhqXDaXKdRQ3LIQFr) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vsq Film School: Cult Classics & Indie Faves](https://open.spotify.com/album/56rhaqWDLMw6wG5Flbr72W) | 4:17 | 2022-11-18 | 2022-11-26 |
 | [Wellerman \(arr\. piano\)](https://open.spotify.com/track/0zOI6bMCkjd10vCrDy3voc) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wellerman \(arr\. piano\)](https://open.spotify.com/album/1f9nDMa1wlNsPxDtygkg4B) | 2:01 | 2021-11-25 | 2023-06-24 |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 | 2023-08-14 |  |
+| [When I Was Your Man](https://open.spotify.com/track/4lqZ4o3OpmgkhweD8iIMnm) | [Sombra & Sol](https://open.spotify.com/artist/14daSMys50Tyk2D8tWK1hK) | [When I Was Your Man](https://open.spotify.com/album/2gCgGyl4193ahEJn4eD5ys) | 2:36 | 2025-08-18 |  |
 | [When She Loved Me](https://open.spotify.com/track/6syMpNOEjJXqtFklVFXFQV) | [The Cardboards](https://open.spotify.com/artist/6nb7HIU4p1mORQurLGhDYu) | [When She Loved Me](https://open.spotify.com/album/6g9g4U66eVzFGh4xvJFg1j) | 2:57 | 2023-09-18 |  |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2021-11-25 | 2025-04-26 |
 | [When We Were Young](https://open.spotify.com/track/7FYfBT0iHH626ypxt11HqB) | [Dante Alessi](https://open.spotify.com/artist/5sdgrvVHHErwilSjmcxzEN) | [When We Were Young](https://open.spotify.com/album/4FvoN9NMt7XNW3WzY3kszi) | 2:52 | 2025-06-10 |  |

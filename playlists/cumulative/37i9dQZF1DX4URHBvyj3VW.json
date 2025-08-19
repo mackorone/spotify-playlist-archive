@@ -231,6 +231,32 @@
     },
     {
       "album": {
+        "name": "Happy Place",
+        "url": "https://open.spotify.com/album/2Iim7OuyPZJAa85mHhGD9M"
+      },
+      "artists": [
+        {
+          "name": "Shelly Sony",
+          "url": "https://open.spotify.com/artist/1V8oWdnA5lcwov8ehgy7n7"
+        },
+        {
+          "name": "HAYM",
+          "url": "https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel"
+        },
+        {
+          "name": "Duke Chaine",
+          "url": "https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123272,
+      "name": "Happy Place",
+      "url": "https://open.spotify.com/track/7wERAnmSZfhizei772o8QL"
+    },
+    {
+      "album": {
         "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
         "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
       },

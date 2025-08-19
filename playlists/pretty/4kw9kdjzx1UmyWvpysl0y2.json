@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125068,
+  "num_followers": 125065,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUeoH63GWzeEEimjsCtdNFW6pyajKL",
+  "snapshot_id": "AAAUe+Vi/av/yYW+XyP8cBhp21yNeC6d",
   "tracks": [
+    {
+      "added_at": "2025-08-18 14:07:07",
+      "album": {
+        "name": "onlybmyself",
+        "url": "https://open.spotify.com/album/2j3hCU44IsCKSTVb7jlzvJ"
+      },
+      "artists": [
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 186580,
+      "name": "onlybmyself",
+      "url": "https://open.spotify.com/track/6KRw2IFzgxe2PxNjAnLyPt"
+    },
     {
       "added_at": "2025-08-15 14:32:08",
       "album": {

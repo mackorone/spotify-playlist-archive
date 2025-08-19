@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-301 songs - 20 hr 4 min
+302 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 | 2024-07-26 | 2025-04-05 |
 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 | 2023-02-07 | 2024-07-27 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-02-07 | 2025-08-09 |
-| [how to let go](https://open.spotify.com/track/4uRFvPPT97e8Xq5hwuiqf7) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [how to let go](https://open.spotify.com/album/6KFqbpKkrtqjSYCNvTBb8N) | 3:23 | 2025-04-05 |  |
+| [how to let go](https://open.spotify.com/track/4uRFvPPT97e8Xq5hwuiqf7) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [how to let go](https://open.spotify.com/album/6KFqbpKkrtqjSYCNvTBb8N) | 3:23 | 2025-04-05 | 2025-08-19 |
 | [Hymn Of The Saviour](https://open.spotify.com/track/0moPi4BLUGBU5zjkdc4Cxp) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [Hymn Of The Saviour](https://open.spotify.com/album/727RkiET3zMhaLY90GWhUm) | 3:56 | 2025-04-05 | 2025-06-13 |
 | [I can always find You](https://open.spotify.com/track/4V2rRHpWP0cH2GwsSe3aqg) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [I can always find You](https://open.spotify.com/album/3xuqtlVGECSJnRvvo94pge) | 3:46 | 2024-06-23 |  |
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh) | 2:41 | 2024-06-23 | 2025-08-09 |
@@ -296,6 +296,7 @@
 | [Wings](https://open.spotify.com/track/3JnSE5L6NV0W22ZcSJLrBs) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/6aAPVuhruUUOmdW4VXsT7t) | 2:48 | 2021-10-31 | 2024-04-19 |
 | [Wings](https://open.spotify.com/track/6p56fflyWLspRsipBqZabq) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/5c7AV4LuaA4vmi3x2h0IUx) | 2:48 | 2023-02-07 | 2024-06-23 |
 | [With My Lips](https://open.spotify.com/track/2qnqbfdgQ0NyApL6VfANb1) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [With My Lips](https://open.spotify.com/album/7ysLHTgjBdICqLs8K3AN8Y) | 3:38 | 2023-02-07 | 2025-08-09 |
+| [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Wonderful, Wonderful Lord \(Ps 139\)](https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp) | 4:34 | 2025-08-08 |  |
 | [Worthy Of It All \- Acoustic](https://open.spotify.com/track/0yC6Kov4I5J5tEDuph73HW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Worthy Of It All \(Acoustic\)](https://open.spotify.com/album/7GkuUosjNEYpWWtUa3fq1s) | 4:28 | 2025-08-08 |  |
 | [Yahweh](https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Yahweh](https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09) | 9:15 | 2024-06-23 | 2025-04-05 |
 | [Yahweh Elyon](https://open.spotify.com/track/1b148Civ2D3kkfkf2Q5vx2) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Nathan Staggers](https://open.spotify.com/artist/0NPx3nSANBI85VKkLPmiMm) | [Yahweh Elyon](https://open.spotify.com/album/3AHSvulyhaQ2SBwd2CRKpN) | 3:14 | 2021-10-31 | 2022-12-22 |

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs & The Alchemist",
-  "num_followers": 1584268,
+  "num_followers": 1584263,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-15 04:00:28",
       "album": {
+        "name": "Rap Kingpin",
+        "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 164084,
+      "name": "Rap Kingpin",
+      "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:28",
+      "album": {
         "name": "Muddy Waters Too",
         "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 198842,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
-    },
-    {
-      "added_at": "2025-08-15 04:00:28",
-      "album": {
-        "name": "Rap Kingpin",
-        "url": "https://open.spotify.com/album/0pp3BsWWuOoI20DMHgTH7V"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 164084,
-      "name": "Rap Kingpin",
-      "url": "https://open.spotify.com/track/16DbwT7RexA23Q8uVtmjGI"
     },
     {
       "added_at": "2025-08-15 04:00:28",
@@ -963,26 +963,26 @@
     {
       "added_at": "2025-08-15 04:00:28",
       "album": {
-        "name": "Fine Dining",
-        "url": "https://open.spotify.com/album/0F4wRT60GtrEXN34YKEPKD"
+        "name": "I Been",
+        "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
       },
       "artists": [
         {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Young Chris",
-          "url": "https://open.spotify.com/artist/5IYKSQZErXLpHp74EIIHp1"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 235363,
-      "name": "Kiss The Sky (feat. Ransom)",
-      "url": "https://open.spotify.com/track/5Yzkwy5H2oPdJBoW7BR8NS"
+      "duration_ms": 154466,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/0kqrN1UDTThkxRLAwURuys"
     }
   ],
   "unique_name": "Spilled Ink",

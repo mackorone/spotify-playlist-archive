@@ -395,6 +395,28 @@
     },
     {
       "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAEWON",
+          "url": "https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "54321 (Feat. HAEWON of NMIXX)",
+      "url": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz"
+    },
+    {
+      "album": {
         "name": "FESTA",
         "url": "https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x"
       },
@@ -1042,7 +1064,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 180266,
       "name": "ANIMALS",
       "url": "https://open.spotify.com/track/2LjgOlNuY9yXWK8bz1I5L6"
@@ -3854,6 +3876,28 @@
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
+    },
+    {
+      "album": {
+        "name": "CHA CHA CHA (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175023,
+      "name": "CHA CHA CHA (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy"
     },
     {
       "album": {
@@ -24863,6 +24907,24 @@
     },
     {
       "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"
+    },
+    {
+      "album": {
         "name": "1st Single Album [WHAT'S GOIN' ON]",
         "url": "https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z"
       },
@@ -24968,7 +25030,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 262000,
       "name": "When we meet again",
       "url": "https://open.spotify.com/track/6gQk1uAnn2hRujlUKmqydC"
@@ -25824,7 +25886,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 169053,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv"

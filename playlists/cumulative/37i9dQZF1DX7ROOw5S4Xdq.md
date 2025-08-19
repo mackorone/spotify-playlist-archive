@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-2,635 songs - 9 day 5 hr 23 min
+2,636 songs - 9 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Abrigo](https://open.spotify.com/track/1LBP2k9FkNfTr2RgcbsdSD) | [Lincoln Baena](https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57), [Anderson Feitosa](https://open.spotify.com/artist/1tL8rvbJP6z3qhIV7Sy5qj) | [Abrigo](https://open.spotify.com/album/43RY8qE0hl6LGdiLXX03n5) | 4:10 | 2025-07-19 | 2025-08-01 |
 | [Acalma](https://open.spotify.com/track/3YjdqqeS428FELwSFs0wmU) | [MC Liro](https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG), [Fabi](https://open.spotify.com/artist/705mvQub1d8OO461hob24M) | [Acalma](https://open.spotify.com/album/6keBMXFN1hbtZ5FiikwF0D) | 4:03 | 2023-09-01 | 2023-09-09 |
 | [Acalma Minha Alma](https://open.spotify.com/track/6k5Dl3GTS1IuAfNN6Ad6UO) | [Amanda Ferrari](https://open.spotify.com/artist/75wI9bTpjKQgKTBfYNzs4W) | [Acalma Minha Alma](https://open.spotify.com/album/0qH4nZizg6wDmHdbwFw7d2) | 3:41 | 2024-10-18 | 2024-10-26 |
+| [Acalma o Meu Coração](https://open.spotify.com/track/0G3egcGAAVtb5KxPLWBrny) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração](https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl) | 3:56 | 2025-08-18 |  |
 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 | 2024-11-15 | 2024-11-30 |
 | [Acalma o Meu Coração \(Ao Vivo\)](https://open.spotify.com/track/6tAgAndqsFMtoLofENOYqW) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk), [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70) | [Acalma o Meu Coração \(Ao Vivo\)](https://open.spotify.com/album/7tir95XBwfKRY8Um6ePEPC) | 4:10 | 2023-11-24 | 2023-12-23 |
 | [Acalma o Teu Coração](https://open.spotify.com/track/79NMaYmaUti29hVpB1na2i) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Acalma o Teu Coração](https://open.spotify.com/album/3ow5ygWXAYsrgZ4a4qdeMn) | 4:10 | 2024-07-05 | 2024-07-13 |

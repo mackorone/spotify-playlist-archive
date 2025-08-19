@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 721731,
+  "num_followers": 721927,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ/KAAAAAACustCsFItqp6rRp4UVFtHK",
+  "snapshot_id": "aKEbgAAAAABiVecI8JXRRMhXU93AWVBq",
   "tracks": [
     {
       "added_at": null,
@@ -290,11 +290,15 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 161051,
-      "name": "Sucka Free",
-      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
+      "duration_ms": 200860,
+      "name": "I'll Take Care of You (feat. Yebba)",
+      "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
     },
     {
       "added_at": null,
@@ -362,15 +366,11 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 200860,
-      "name": "I'll Take Care of You (feat. Yebba)",
-      "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
+      "duration_ms": 161051,
+      "name": "Sucka Free",
+      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
     },
     {
       "added_at": null,

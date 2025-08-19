@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-274 songs - 19 hr 58 min
+275 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [天天](https://open.spotify.com/track/5VWs9OezB7TK6zgC18kw5C) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [樂之路](https://open.spotify.com/album/77AgHl7qsf2sDVuiTWDaRe) | 4:15 | 2024-03-04 | 2024-04-15 |
 | [天灰](https://open.spotify.com/track/3jKXACX8eFszpZxNRlvoJS) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [不想長大](https://open.spotify.com/album/3wnMKRfnk1UWlSLBhrtgGR) | 4:03 | 2024-04-15 | 2025-02-17 |
 | [天灰](https://open.spotify.com/track/7rkRDQj2ASyqEMWVASQGZQ) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [不想长大](https://open.spotify.com/album/5O0DopNZFNbsZHsj6qFKts) | 4:03 | 2024-02-19 | 2024-04-19 |
-| [天空](https://open.spotify.com/track/0mBAfQuVGW2YHZvUM2NsLb) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [野蠻遊戲](https://open.spotify.com/album/1uvzQMQiA1HzViKVA3WEx2) | 4:37 | 2024-01-15 |  |
+| [天空](https://open.spotify.com/track/0mBAfQuVGW2YHZvUM2NsLb) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [野蠻遊戲](https://open.spotify.com/album/1uvzQMQiA1HzViKVA3WEx2) | 4:37 | 2024-01-15 | 2025-08-19 |
 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 | 2024-02-19 | 2024-03-19 |
 | [失去](https://open.spotify.com/track/1VXEpJWZyzMv94LN6rMEsh) | [同恩](https://open.spotify.com/artist/45YS6WTdex4FqRvjWHhDho) | [做自己](https://open.spotify.com/album/2cvrIL7JVWOmjjlswtG7Jv) | 4:59 | 2024-05-27 | 2024-08-19 |
 | [好朋友](https://open.spotify.com/track/2JQcuQGEXclxphbS7XUc2j) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [SPESHOW](https://open.spotify.com/album/13QwA3KOFuFzsK9dyE7n7K) | 4:03 | 2024-01-15 | 2024-01-23 |
@@ -220,6 +220,7 @@
 | [當愛在靠近](https://open.spotify.com/track/7naHGjzPukqJYtvPGmrNgI) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [Love and the City](https://open.spotify.com/album/5XJh9ZHnBRXz0EUswxCWUj) | 4:10 | 2024-04-01 | 2024-04-30 |
 | [痛彻心扉](https://open.spotify.com/track/1VMG7u0zVW0uSRM9NvdNGt) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [主打](https://open.spotify.com/album/5BZgSf216w35ZC1UKjPevB) | 4:16 | 2024-12-09 | 2025-01-06 |
 | [痴心絕對](https://open.spotify.com/track/0D0n4q2o54VTOmDJdL6ikY) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [痴心絕對](https://open.spotify.com/album/4QujlUn9OTLG4qFxMja90M) | 4:22 | 2024-01-15 |  |
+| [看我72變](https://open.spotify.com/track/6qsrhyI9JZhThflE2ZsTF0) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 3:46 | 2025-08-18 |  |
 | [知道](https://open.spotify.com/track/1eFbZl4oO1SJdguZIK9tmt) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [發燒](https://open.spotify.com/album/4Hj4Ln9cdnBmtb1W6Q8odD) | 4:33 | 2024-07-22 | 2024-08-19 |
 | [祈禱](https://open.spotify.com/track/6zdlRFIH9MP0sjUUNHrpTE) | [李崗霖](https://open.spotify.com/artist/0jOw6SG2UKaDU3veuZsR1w) | [祈禱](https://open.spotify.com/album/4GLQRzVHb1WN42mjEq3Mmv) | 4:32 | 2024-05-27 | 2024-06-24 |
 | [祝我生日快樂](https://open.spotify.com/track/34HdnP6vGMrIuOK7bcIW88) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [溫式效應](https://open.spotify.com/album/33GHPmLtQLYOvocmn0iAZ7) | 4:18 | 2024-06-24 | 2024-07-09 |

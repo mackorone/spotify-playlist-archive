@@ -11336,7 +11336,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 222000,
       "name": "INCOMPLETE",
       "url": "https://open.spotify.com/track/0ampO6lT0n4BBgmj0Eo59M"
@@ -13280,7 +13280,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 180620,
       "name": "Maldici\u00f3n de la Bruja",
       "url": "https://open.spotify.com/track/5XVlOXqU65CM49Vf8q4dYl"
@@ -14348,6 +14348,24 @@
       "duration_ms": 250418,
       "name": "NEVERBLOOM",
       "url": "https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x"
+    },
+    {
+      "album": {
+        "name": "Neversleep",
+        "url": "https://open.spotify.com/album/03eK0IYHFQAToWEU2HMO6A"
+      },
+      "artists": [
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179117,
+      "name": "Neversleep",
+      "url": "https://open.spotify.com/track/4lXcX5TKqHMhLkTR2IQt29"
     },
     {
       "album": {
@@ -23356,7 +23374,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 223746,
       "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
       "url": "https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma"

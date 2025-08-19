@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "Besharam",
+        "url": "https://open.spotify.com/album/0Lt9E5HOztunSW8sveIAbd"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302609,
+      "name": "Dil Kaa Jo Haal Hai",
+      "url": "https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm"
+    },
+    {
+      "album": {
         "name": "Dil Tu Jaan Tu",
         "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
       },
@@ -1339,6 +1361,36 @@
     },
     {
       "album": {
+        "name": "Dhadak 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3daeQ1DOD0NOHjrrzwYaIy"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196395,
+      "name": "Preet Re - From \"Dhadak 2\"",
+      "url": "https://open.spotify.com/track/4XDQLLaOu6klew4c404PB1"
+    },
+    {
+      "album": {
         "name": "Preet Re (From \"Dhadak 2\")",
         "url": "https://open.spotify.com/album/52eZ4RK6xNKnRFAqtLOSu3"
       },
@@ -1362,7 +1414,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 196395,
       "name": "Preet Re - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/5IWLDqsSnQgBjXGiryDtTk"
@@ -1778,7 +1830,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 213599,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc"

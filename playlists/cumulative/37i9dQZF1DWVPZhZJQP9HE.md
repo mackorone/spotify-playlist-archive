@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-689 songs - 1 day 16 hr 26 min
+690 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Kuru Kure](https://open.spotify.com/track/75XFlO98uPiuuV3GLld4x5) | [TeeJay Arunachalam](https://open.spotify.com/artist/3HXoAXanyNRqXXAZLZ1zhA) | [Kuru Kure](https://open.spotify.com/album/4cXstr3Bglnj7cZcvuUtrK) | 3:49 | 2021-12-01 | 2022-07-18 |
 | [La La Heartu Nikkala \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/5orsg8Rqsas06dNgt8qVIv) | [Harsha Vardhan](https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1), [Sivaangi Krishnakumar](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [La La Heartu Nikkala \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/5Z3fTQosbONJaCZXGRrLIY) | 2:37 | 2023-11-06 | 2025-06-04 |
 | [LaaLaatu \- Sangu Kazhuthazagu](https://open.spotify.com/track/6xbeOgGCf2v8oJud91OdC5) | [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [LaaLaatu \- Sangu Kazhuthazagu](https://open.spotify.com/album/2SiSFROqcGQDxPM4ye6YrM) | 4:52 | 2023-10-12 | 2024-06-14 |
+| [Laali](https://open.spotify.com/track/1InP0HNFulRhXbxDVRHWig) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Santhosh](https://open.spotify.com/artist/37L9nDHDoSaoguQsJnXqGf) | [Laali](https://open.spotify.com/album/7rI9MtM12dfMrWGaywoWlY) | 3:55 | 2025-08-18 |  |
 | [Laila](https://open.spotify.com/track/6rabXHkrgemYhfCSkhIzMn) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6) | [Laila](https://open.spotify.com/album/6WXt0cZF2n3S1VsalTyHbx) | 2:17 | 2024-11-25 | 2024-12-06 |
 | [Lalala Cindrella](https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4) | [Chandar Karunakaran](https://open.spotify.com/artist/0n7QXUrwDAmArjWNgyrBmO), [Avinash Sivan](https://open.spotify.com/artist/5wCbzqnV8mRtQPNya06r1h) | [Enakkena Oru Ulagam](https://open.spotify.com/album/4MGM3Vn0QSI4VZUIVmqjiv) | 3:47 | 2022-11-25 | 2023-03-09 |
 | [Lambo Lambo](https://open.spotify.com/track/0e5bZrkTKemjevkXPafKRd) | [Nincy Vincent](https://open.spotify.com/artist/3YztabPkmM6fDWVUZJ51AH) | [Lambo Lambo](https://open.spotify.com/album/4osVgrSj8hOXsCN26Dg3gi) | 4:19 | 2023-07-03 | 2024-05-28 |

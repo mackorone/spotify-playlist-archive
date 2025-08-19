@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Sofish.
 
-911 songs - 2 day 1 hr 3 min
+912 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [6:45](https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [6:45](https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR) | 3:22 | 2024-12-16 |  |
 | [7heaven \- A COLORS SHOW](https://open.spotify.com/track/5lhVeVnr57fveNAiE4sYvG) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [7heaven \- A COLORS SHOW](https://open.spotify.com/album/1kLWQ3VDHimakhSD31Tquu) | 2:55 | 2021-12-02 | 2022-01-25 |
 | [911](https://open.spotify.com/track/3DYu9FBLrwAxmqiZjhzV4M) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:17 | 2023-09-29 | 2024-04-13 |
-| [A 150](https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:03 | 2025-05-09 |  |
+| [A 150](https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [¿por qué corres? ya estamos ahí](https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE) | 3:03 | 2025-05-09 | 2025-08-19 |
 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 | 2022-10-28 | 2022-12-31 |
 | [A LA MISMA VEZ](https://open.spotify.com/track/1D5h1T0D8zO8G6MG1rGXC1) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [A LA MISMA VEZ](https://open.spotify.com/album/5sVG3RXEsIbKdANEwQOArP) | 3:39 | 2024-10-25 | 2024-12-12 |
 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 | 2023-02-02 | 2023-03-09 |
@@ -160,6 +160,7 @@
 | [COCO PEBBLES](https://open.spotify.com/track/7dxb2v1b5WLv9F7aYCRoUS) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [Character Development](https://open.spotify.com/album/0lh15vEIo21lDplL39rHmF) | 2:26 | 2022-02-09 | 2022-07-28 |
 | [Colchones, Tambores y Refrigeradores](https://open.spotify.com/track/3k8Gioy06fQRnP6FlJXMfD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:19 | 2023-09-29 | 2023-12-09 |
 | [cold feet](https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN), [ELLIE](https://open.spotify.com/artist/0niZWQWN4icezT9adyLj4w) | [cold feet](https://open.spotify.com/album/4vx4AhMfe8CoH4jdzxorCw) | 2:59 | 2021-12-02 | 2022-01-29 |
+| [ColdS3x](https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [ColdS3x](https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA) | 3:10 | 2025-08-15 |  |
 | [Come With Me](https://open.spotify.com/track/6ikobz37HSj8vspHvQRt23) | [Tania Maria](https://open.spotify.com/artist/26DN8VRVU1IRg0AFgUfMZO) | [The Concord Jazz Heritage Series](https://open.spotify.com/album/4KFx9dwUnGpuYgY3JO7gug) | 5:41 | 2023-09-29 | 2023-10-14 |
 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 | 2023-12-08 | 2024-02-24 |
 | [Communication](https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Communication](https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU) | 3:36 | 2022-02-09 | 2023-02-17 |

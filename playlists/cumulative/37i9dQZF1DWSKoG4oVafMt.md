@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-1,113 songs - 2 day 11 hr 58 min
+1,114 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Flowers](https://open.spotify.com/track/6f71Yo6bkv9AWs3MbM7dWu) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Flowers](https://open.spotify.com/album/6xrvT0PEBTmD7k1vkFe1io) | 2:54 | 2025-08-04 |  |
 | [Freestyle](https://open.spotify.com/track/7rlulUEMn27TLbdHpNPugE) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:55 | 2022-07-15 | 2023-02-04 |
 | [Friend Zone](https://open.spotify.com/track/6H68gA0MicRwC9Nsqg8dMH) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Friend Zone](https://open.spotify.com/album/7zFz2AZIusoKWEC9qbXwEc) | 3:25 | 2022-02-22 | 2022-03-11 |
-| [From Ages](https://open.spotify.com/track/1F4ndcQwUk98MK3lpBs7t2) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:15 | 2025-06-27 |  |
+| [From Ages](https://open.spotify.com/track/1F4ndcQwUk98MK3lpBs7t2) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:15 | 2025-06-27 | 2025-08-19 |
 | [Gaani](https://open.spotify.com/track/03uNC6xp1LUJCa7CEomzva) | [Guri](https://open.spotify.com/artist/7AzzWJUcEEKVTOijy4OeX3) | [Gaani](https://open.spotify.com/album/5mX6dHWudwwmUXaL2LRgha) | 2:43 | 2022-03-07 | 2022-04-06 |
 | [Gaani](https://open.spotify.com/track/7to5uQYaj4DJ1MiS8mOsQn) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Sifr](https://open.spotify.com/artist/6E63egfod0sEqODbbrPvvS), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Gaani](https://open.spotify.com/album/7ySlkzOFcHqO9UsQt2atQZ) | 2:14 | 2024-09-20 | 2024-10-04 |
 | [Gaani](https://open.spotify.com/track/4q1ESZkZKH3D4K89G6Kjfm) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Gaani](https://open.spotify.com/album/772wLGKJbEF0WeClAQ4g40) | 1:00 | 2022-01-12 | 2022-02-01 |
@@ -636,6 +636,7 @@
 | [Mitti De Tibbe](https://open.spotify.com/track/1VVqsCfNCti67jzUKNjSKw) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Mitti De Tibbe](https://open.spotify.com/album/7qzTPVw5fuZyKoVTws3VOp) | 4:33 | 2022-07-28 | 2023-02-04 |
 | [Mittran Da Naam](https://open.spotify.com/track/1ZglrzaXSsz4cVMbP9zIbB) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Mix Singh](https://open.spotify.com/artist/37nRatUj06EqzpTJNpMuRc), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Bittu Cheema](https://open.spotify.com/artist/5QPpiRCc2Be1TREfqiCJMx) | [Maestro](https://open.spotify.com/album/7FSbJIEwRbshZxv6b32svd) | 2:32 | 2025-03-05 | 2025-03-12 |
 | [Mob N Love](https://open.spotify.com/track/0MZqrU16fpP4aE9INyYpD1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mob N Love](https://open.spotify.com/album/4jcpVLu1qPJRCthsocyMgX) | 3:22 | 2022-04-18 | 2022-07-06 |
+| [Moh](https://open.spotify.com/track/1c4E6VuVodcKfj0ZmtGbpn) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Moh](https://open.spotify.com/album/65wM9A0DVXu5YhYLE6KdFX) | 2:24 | 2025-08-18 |  |
 | [Mohabat](https://open.spotify.com/track/0aVpOPirZUdeJon1ikS9M5) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Mohabat](https://open.spotify.com/album/3iaLLjl5QBpuYMljsK9fOr) | 3:36 | 2023-02-01 | 2024-04-06 |
 | [Mohabbat](https://open.spotify.com/track/4I8CaRhT764muRFvwn51va) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Mohabbat](https://open.spotify.com/album/5ldjwPo10jYbk1Ck0YZeqa) | 4:02 | 2022-04-18 | 2022-07-06 |
 | [Mohobbat \- Love](https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Mohobbat \(Love\)](https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN) | 3:28 | 2024-11-15 | 2024-12-07 |

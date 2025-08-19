@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of The Nice Guy\. \(착한 사나이의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-23 songs - 1 hr 27 min
+24 songs - 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Man In Me](https://open.spotify.com/track/4Pqli6waH1jw7y5DluZnBh) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:48 | 2025-07-29 |  |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2025-07-29 |  |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2025-07-29 |  |
+| [Stay With Me](https://open.spotify.com/track/4W1b3MxwZL87B1BNYLCtvW) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [The Nice Guy \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/5zCi2iLKEj1Gy7ieiasa1L) | 3:29 | 2025-08-18 |  |
 | [Time](https://open.spotify.com/track/5JG2UkenJbKghnQiX4b22m) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [The Turn Of A Friendly Card](https://open.spotify.com/album/1yPaTI4UxwbhZYbRkyZrFR) | 5:04 | 2025-07-29 |  |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2025-07-29 |  |
 | [Welcome to the Show](https://open.spotify.com/track/3BMAWsBp4jc35mCmebC3WT) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/7FkXm1xDdddS6ANM7wW4UR) | 3:37 | 2025-07-29 |  |

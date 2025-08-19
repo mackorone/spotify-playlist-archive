@@ -6285,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Complica",
+        "url": "https://open.spotify.com/album/3HpU9s9Nd5Lr5UTuSsDgHJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Brown",
+          "url": "https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168036,
+      "name": "Complica",
+      "url": "https://open.spotify.com/track/1Q9SCRgQgWwokmb6ZZbyhx"
+    },
+    {
+      "album": {
         "name": "EL REY DEL DEMBOW",
         "url": "https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El"
       },
@@ -12524,7 +12542,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
@@ -13306,7 +13324,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
@@ -15304,7 +15322,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 238595,
       "name": "Hola Perdida",
       "url": "https://open.spotify.com/track/23z7S6AC0ZGysT7jYeSZxB"
@@ -28434,7 +28452,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -38124,7 +38142,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 131081,
       "name": "Una Chica Good",
       "url": "https://open.spotify.com/track/1Zxlcq1l9SXZtGHzYuv0fs"

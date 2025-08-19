@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
         "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
         "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "La Fuerza",
-        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
         "name": "Tequila Mariachi",
         "url": "https://open.spotify.com/album/7Bhvqlx38CGFUvxIfz5iOw"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 216918,
       "name": "Tequila Mariachi",
       "url": "https://open.spotify.com/track/1M2iTJ1l3OIjA5X4S65BGk"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
-        "name": "Me Nace Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Me Nace Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 286820,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
         "name": "Casi Algo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/6z6XxuId7yju4sXvtkez0d"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 164120,
       "name": "Canci\u00f3n Para Olvidarte",
       "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7grFNupMrSIfmdGd5WDBNW"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 286820,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/6zSAQtEQSxIOXOWQoUGW9e"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
+        "name": "Me Nace Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Me Nace Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
         "name": "No Creo Merecerte",
         "url": "https://open.spotify.com/album/2BgF94FXZWA2vC1s4ZDiPh"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "Cuando Yo Quiera Has De Volver",
-        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 212126,
-      "name": "Cuando Yo Quiera Has De Volver",
-      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
         "name": "Eran De Azucar Sus Labios",
         "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
@@ -1427,8 +1411,8 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
-        "name": "Cu\u00e1ndo Se Ha Visto",
-        "url": "https://open.spotify.com/album/2mYR3EjQrhTxCQy9B7QsKb"
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
       "artists": [
         {
@@ -1436,9 +1420,25 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 148680,
-      "name": "Cu\u00e1ndo Se Ha Visto",
-      "url": "https://open.spotify.com/track/2f22XJZsgMvo4tQlRICvjH"
+      "duration_ms": 195466,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": "2025-07-25 06:07:02",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-07-25 06:07:02",
       "album": {
+        "name": "Lo que no fue no ser\u00e1",
+        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Lo que no fue no ser\u00e1",
+      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
+    },
+    {
+      "added_at": "2025-07-25 06:07:02",
+      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2025-07-25 06:07:02",
-      "album": {
-        "name": "Lo que no fue no ser\u00e1",
-        "url": "https://open.spotify.com/album/4HmNzTbijLb6ClDnXMRKsH"
-      },
-      "artists": [
-        {
-          "name": "Kevin Aguilar",
-          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Lo que no fue no ser\u00e1",
-      "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
     },
     {
       "added_at": "2025-07-25 06:07:02",

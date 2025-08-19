@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: KEY) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: JOY) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 223626,
       "name": "60.1.2.0",
       "url": "https://open.spotify.com/track/0KhKR5KladTtX5GDdHVXzj"
@@ -23794,7 +23794,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 200816,
       "name": "Beyond The Time",
       "url": "https://open.spotify.com/track/4EDhe44pWyNwL3V8lJqlQo"
@@ -27182,7 +27182,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 161454,
       "name": "body count (Feat. lIlBOI)",
       "url": "https://open.spotify.com/track/3ymXbdXG8NPy0htGmLjdgT"
@@ -32215,6 +32215,24 @@
     },
     {
       "album": {
+        "name": "Bye my night",
+        "url": "https://open.spotify.com/album/4kMdU0vmbR1L8ffVa97Zng"
+      },
+      "artists": [
+        {
+          "name": "onthedal",
+          "url": "https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234703,
+      "name": "Bye my night",
+      "url": "https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1"
+    },
+    {
+      "album": {
         "name": "Bye my world",
         "url": "https://open.spotify.com/album/3cGuau4bGDD13a1oRos0ee"
       },
@@ -35332,6 +35350,28 @@
       "duration_ms": 216949,
       "name": "CG",
       "url": "https://open.spotify.com/track/7jWMGFX1SoWtHeH0vrhLAU"
+    },
+    {
+      "album": {
+        "name": "CHA CHA CHA (feat. G-DRAGON)",
+        "url": "https://open.spotify.com/album/7bSsW44d0shyAIfX9sXPFV"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175023,
+      "name": "CHA CHA CHA (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/6yTVgo0aw7LGUm4WHGjRxy"
     },
     {
       "album": {
@@ -46482,7 +46522,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 170320,
       "name": "Days of Youth",
       "url": "https://open.spotify.com/track/5t1pYN3ZcIOKMXdhDRRacd"
@@ -50736,6 +50776,24 @@
       "duration_ms": 188226,
       "name": "do thang",
       "url": "https://open.spotify.com/track/4bl4shYKy7UakwKmCuWt8g"
+    },
+    {
+      "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/2Pe2lfTj1oN6qykfZhNDnV"
     },
     {
       "album": {
@@ -57356,7 +57414,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 165000,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6"
@@ -64056,7 +64114,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 218138,
       "name": "Falling",
       "url": "https://open.spotify.com/track/67mNsloLtulun2pLmuh42B"
@@ -71010,6 +71068,24 @@
       "duration_ms": 240287,
       "name": "Forest Child",
       "url": "https://open.spotify.com/track/3ZYA1mcWApBhykEVNKd7N4"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6KnVNEQHf8QY3FsNPol2fk"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/24mkagnUG0RDALoucyZ9iw"
     },
     {
       "album": {
@@ -95135,6 +95211,24 @@
     },
     {
       "album": {
+        "name": "I know what you did last summer",
+        "url": "https://open.spotify.com/album/6kOGPZkqQv1rz8EMPwDBgh"
+      },
+      "artists": [
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212702,
+      "name": "I know what you did last summer",
+      "url": "https://open.spotify.com/track/2mKzrzXs9d1Uvzo8GwVOfj"
+    },
+    {
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/6qESUamNh93QIgl576mQNA"
       },
@@ -101244,7 +101338,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 160000,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/6vtOVM2C3SQPEemzeRR8jP"
@@ -102866,6 +102960,28 @@
       "duration_ms": 205173,
       "name": "IG",
       "url": "https://open.spotify.com/track/0ILz1ShZf2Mh5Li34khPnP"
+    },
+    {
+      "album": {
+        "name": "MAGIC STATION 2",
+        "url": "https://open.spotify.com/album/2WNiMAFFHTL3GXGqthLDqE"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "IH8U (Feat. aiai)",
+      "url": "https://open.spotify.com/track/1BojN5VrXpf5ixIg3HRQnV"
     },
     {
       "album": {
@@ -127423,6 +127539,24 @@
     },
     {
       "album": {
+        "name": "From JOY, with Love - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Love Splash!",
+      "url": "https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY"
+    },
+    {
+      "album": {
         "name": "IRON FAMILY, Pt.5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2AvRIjH6ax50gaC4GRHANv"
       },
@@ -127840,7 +127974,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 202308,
       "name": "Love wave",
       "url": "https://open.spotify.com/track/1jW7F9x5NM4i7mTve1T20f"
@@ -128678,7 +128812,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 252348,
       "name": "Loved You Too Much",
       "url": "https://open.spotify.com/track/39lkIYdHRpGEPoEksnMIqk"
@@ -169479,6 +169613,24 @@
     },
     {
       "album": {
+        "name": "Recall of love Remix",
+        "url": "https://open.spotify.com/album/3Wp1cs1oVChBYkV1MvwHjc"
+      },
+      "artists": [
+        {
+          "name": "Maijin",
+          "url": "https://open.spotify.com/artist/480TEjRCNTQTciI4zwu2Ov"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239213,
+      "name": "Recall of love Remix",
+      "url": "https://open.spotify.com/track/1JaX50vWyeo9wpXPctlNic"
+    },
+    {
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 0",
         "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
       },
@@ -180018,6 +180170,24 @@
       "duration_ms": 212000,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/4yLLRwNeJau3f7UN4qWEje"
+    },
+    {
+      "album": {
+        "name": "Serenade",
+        "url": "https://open.spotify.com/album/0HDFUM2tbky2lkTiLfT298"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/3Hhe3S1wl9E5sTGjqqKBoV"
     },
     {
       "album": {
@@ -215121,6 +215291,24 @@
     },
     {
       "album": {
+        "name": "Today is my birthday",
+        "url": "https://open.spotify.com/album/6Vp1NK1WcLrDM1axN7wXj2"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85000,
+      "name": "Today is my birthday",
+      "url": "https://open.spotify.com/track/3g9UyGiR0CK7bMvLPWWbzj"
+    },
+    {
+      "album": {
         "name": "WH3N MINI ALBUM 'All of'",
         "url": "https://open.spotify.com/album/4vCJtmdDaZDASb4yDgReTo"
       },
@@ -215506,7 +215694,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 177000,
       "name": "Tomato Marinade (feat. \uc724\ud615\uc900)",
       "url": "https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK"
@@ -229575,6 +229763,24 @@
     },
     {
       "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"
+    },
+    {
+      "album": {
         "name": "IN A MINUTE 1st Single [ Unboxing: 'What You Wanted' ]",
         "url": "https://open.spotify.com/album/6dl5uc3tcGnAPlq5CphZ45"
       },
@@ -235294,7 +235500,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 381546,
       "name": "Wish - Live",
       "url": "https://open.spotify.com/track/1rQobZf16Gfs5GDSJlGC1L"
@@ -247101,6 +247307,24 @@
     },
     {
       "album": {
+        "name": "\uc785\ucd94 (Part of the end)",
+        "url": "https://open.spotify.com/album/7lLoiwePFYT42HYOY6SLJh"
+      },
+      "artists": [
+        {
+          "name": "hey1996",
+          "url": "https://open.spotify.com/artist/0iOjQEhtm4fnT14JnJeykt"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240606,
+      "name": "\ub108\uc640 \ub0a0 \uc644\ubcbd\ud788",
+      "url": "https://open.spotify.com/track/4wz0aCLP5e6J4hHrY9Hl1P"
+    },
+    {
+      "album": {
         "name": "\ub108\uc640 \uc774\ubcc4\ud558\ub294 1\ub144",
         "url": "https://open.spotify.com/album/2hvDx0fl1yux9WdRFqzRz1"
       },
@@ -249160,7 +249384,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 233550,
       "name": "\ubc14\ub78c\ub530\ub77c (\uc5f0\uc560 \uc9c0\uc0c1\uc8fc\uc758 \uad6c\uc5ed OST part.1)",
       "url": "https://open.spotify.com/track/0W8X4EuS64g3iyHKihYTiV"

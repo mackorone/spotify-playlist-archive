@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Marlo Grosshardt
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,537 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,546 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jetzt oder Skigebiet](https://open.spotify.com/track/3ybfVOzDMpcJiSorQLatvn) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Jetzt oder Skigebiet](https://open.spotify.com/album/2V1sjh2fexDY71oafyQKZj) | 2:23 |
-| 2 | [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 |
-| 3 | [Sommerpoesie](https://open.spotify.com/track/6OkEpZUV4b7QXXH1QinBK7) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Sommerpoesie](https://open.spotify.com/album/6AfJ2WbGmvxkuPNf3AhE3l) | 3:26 |
-| 4 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
-| 5 | [99 Sorgen](https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [99 Sorgen](https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX) | 2:38 |
-| 6 | [Ohne Dich](https://open.spotify.com/track/1Bz1Ftugqs9AyrP4Hykm1h) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Ohne Dich](https://open.spotify.com/album/0JkGj98qkR4JeTkF029D5M) | 2:44 |
-| 7 | [So lang gewartet](https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [So lang gewartet](https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo) | 2:48 |
-| 8 | [Schmetterlingseffekt](https://open.spotify.com/track/2OJ5xBE7BcRYAgDyG2RcXi) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Schmetterlingseffekt](https://open.spotify.com/album/7ffjJhHyKR7FAO0wwXcW7N) | 3:18 |
+| 1 | [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 |
+| 2 | [Sommerpoesie](https://open.spotify.com/track/6OkEpZUV4b7QXXH1QinBK7) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Sommerpoesie](https://open.spotify.com/album/6AfJ2WbGmvxkuPNf3AhE3l) | 3:26 |
+| 3 | [Jetzt oder Skigebiet](https://open.spotify.com/track/3ybfVOzDMpcJiSorQLatvn) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Jetzt oder Skigebiet](https://open.spotify.com/album/2V1sjh2fexDY71oafyQKZj) | 2:23 |
+| 4 | [99 Sorgen](https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [99 Sorgen](https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX) | 2:38 |
+| 5 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
+| 6 | [So lang gewartet](https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [So lang gewartet](https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo) | 2:48 |
+| 7 | [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 |
+| 8 | [Ohne Dich](https://open.spotify.com/track/1Bz1Ftugqs9AyrP4Hykm1h) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Ohne Dich](https://open.spotify.com/album/0JkGj98qkR4JeTkF029D5M) | 2:44 |
 | 9 | [weiter](https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [weiter](https://open.spotify.com/album/7uGyrhdX7Ur8pR9ohGTwwg) | 2:44 |
-| 10 | [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 |
+| 10 | [Schmetterlingseffekt](https://open.spotify.com/track/2OJ5xBE7BcRYAgDyG2RcXi) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Schmetterlingseffekt](https://open.spotify.com/album/7ffjJhHyKR7FAO0wwXcW7N) | 3:18 |
 | 11 | [Mann der vielen Worte](https://open.spotify.com/track/6pZmxevZKecO2CWwJ5HbqY) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Mann der vielen Worte](https://open.spotify.com/album/4lilKn1npleKtiLGrLkY8u) | 2:51 |
 | 12 | [nicht gefragt](https://open.spotify.com/track/0JHjZJm015P2Qtj780ddI8) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [nicht gefragt](https://open.spotify.com/album/7ILF9Lr0NWZbZiUniwVvRh) | 2:18 |
 | 13 | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/album/38KsuTCAeC7HCnR3yYChUx) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 | 75 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
 
-Snapshot ID: `AAAAAKXK3O2XgMWRHg+vMChYsHfY8in8`
+Snapshot ID: `AAAAAFgneJPLQ7UKmkXbgOVy/68py9DW`

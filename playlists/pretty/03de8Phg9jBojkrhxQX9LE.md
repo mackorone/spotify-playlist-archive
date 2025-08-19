@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,588 likes - 151 songs - 8 hr 17 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,586 likes - 151 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 12 | [Mantis Fist](https://open.spotify.com/track/5LHPJtB9EhrS0cHKxN99qJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Mantis Fist](https://open.spotify.com/album/71n8EE1OtUJ6Ei3dPVWKNK) | 2:36 |
 | 13 | [Let's Begin](https://open.spotify.com/track/0rln7cFteLIh27eT02rr6q) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Let's Begin](https://open.spotify.com/album/6dEZMEnbe9LiNbJ5azML5v) | 3:52 |
 | 14 | [Is This Real?](https://open.spotify.com/track/2REAg8QpTh6Tt7nqGFjAjN) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Steller](https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl) | [Is This Real?](https://open.spotify.com/album/73dzm1a6T92fFTJ6MiwDiu) | 2:21 |
-| 15 | [Lose Control](https://open.spotify.com/track/45Cia1U36Xd1Ommouq2U1o) | [Rad Cat](https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f) | [Lose Control](https://open.spotify.com/album/38ZW2iNd4aX0sH7xj0qLPy) | 3:46 |
+| 15 | [lose control](https://open.spotify.com/track/45Cia1U36Xd1Ommouq2U1o) | [Rad Cat](https://open.spotify.com/artist/4wrWMxa1wnZX5ZDhV6qk6f) | [lose control](https://open.spotify.com/album/38ZW2iNd4aX0sH7xj0qLPy) | 3:46 |
 | 16 | [WATERFALL](https://open.spotify.com/track/5drjS02AIq4EZWVlWBTgvl) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ) | [WATERFALL](https://open.spotify.com/album/0rFr91GLEBl13aD9wVQcis) | 1:58 |
 | 17 | [Cash Out \- Odd Mob Remix](https://open.spotify.com/track/0J4akD95yVlI5NTEUtUsWg) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Cash Out \(Odd Mob Remix\)](https://open.spotify.com/album/5NOs1ZONmk3QiXR2cmFjrt) | 2:34 |
 | 18 | [NO SPACE](https://open.spotify.com/track/4Oq9nZ5aCuRh7kMkgw4kxQ) | [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [NO SPACE](https://open.spotify.com/album/3PArz8szyUNEzkqyyeuesE) | 3:03 |

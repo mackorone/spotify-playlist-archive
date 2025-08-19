@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,598 songs - 3 day 11 hr 53 min
+1,599 songs - 3 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -917,7 +917,7 @@
 | [Moon Groove](https://open.spotify.com/track/3adJKRdGrvuuuibXlDc6Sq) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/5jCwhehDfr3wOKkfVynIFd) | 2:49 | 2022-06-22 | 2022-07-03 |
 | [Moon River](https://open.spotify.com/track/0L0d4xLF0wn1k6Yqz4JVIu) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Moon River](https://open.spotify.com/album/4dcslcrqd6a8qNHtKSTKaU) | 2:33 | 2021-10-03 | 2021-11-25 |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2021-07-02 | 2021-09-15 |
-| [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2021-03-31 |  |
+| [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2021-03-31 | 2025-08-19 |
 | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/track/36h65e9IteCo7PPvkBZUyl) | [Sleepwalkrs](https://open.spotify.com/artist/6yVrZt8f3TB1NXP5fIT193), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [More Than Words \(feat\. MNEK\)](https://open.spotify.com/album/3Yv1WJDoIjO4zI1y3Ypr92) | 2:47 | 2021-11-06 | 2021-11-17 |
 | [More Than You Know](https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5) | 3:23 | 2019-09-29\* | 2020-05-27 |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2021-10-16 | 2022-02-17 |
@@ -1532,6 +1532,7 @@
 | [Where You Go](https://open.spotify.com/track/1blLMhSCS8732PpNTJaxSp) | [BAF](https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO) | [Where You Go](https://open.spotify.com/album/4GfvQQWjiVEfbpxGQOsXHl) | 2:59 | 2024-12-11 |  |
 | [Wherever You Are \- Joel Corry Remix](https://open.spotify.com/track/4j2Hnjpf038Ygz8tXe56IL) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Wherever You Are \(Joel Corry Remix\)](https://open.spotify.com/album/68mPH49pjepSPcX4TPZv6F) | 3:19 | 2023-01-09 | 2023-01-11 |
 | [Wherever You Go](https://open.spotify.com/track/4kvFMJRafwFonQNkvUqNal) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Georgie Keller](https://open.spotify.com/artist/1PWLRaLj3BjJ5L8iUkRJqa) | [Wherever You Go](https://open.spotify.com/album/1Y5jNZslnvW8uMgEptVJVW) | 2:32 | 2023-05-26 | 2023-12-14 |
+| [Whine Up](https://open.spotify.com/track/5y6aAx1Q58O9t6m385r6si) | [Afterglow](https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH), [Evan Cole](https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO), [House Arrest](https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6) | [Whine Up](https://open.spotify.com/album/4OszFps96hiitCoT4ldRBw) | 2:20 | 2025-08-19 |  |
 | [White Lies](https://open.spotify.com/track/3z7AceXFwECHGH26FOy3u8) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [White Lies](https://open.spotify.com/album/65FNzL2bbqBEAEsHYyHmUw) | 3:04 | 2020-05-26 | 2020-05-27 |
 | [White Lies](https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [White Lies](https://open.spotify.com/album/6N3kk3LU2L3KweZh6vTq0a) | 3:03 | 2021-01-29 | 2021-05-20 |
 | [White Lies \- Guy Arthur Remix](https://open.spotify.com/track/1FoMWISq2KNqKappkrG5Yo) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [White Lies \(The Remixes\)](https://open.spotify.com/album/22UcQAvtwvVkoKkJ8f7OCy) | 3:30 | 2020-12-17 | 2021-06-11 |

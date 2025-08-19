@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,113 songs - 2 day 20 hr 26 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,114 songs - 2 day 20 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1121,5 +1121,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1111 | [Believe](https://open.spotify.com/track/3QPn2djEjTo0QFg083VIeV) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/7quQ97KCEOY9Ro5Si6o5bn) | 3:39 |
 | 1112 | [TOUCH THE SKY](https://open.spotify.com/track/3kJptBOmtHgfHkAJstQSV7) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(The Lost Tapes\)](https://open.spotify.com/album/3OOJWCsqkuGohtYAj8WI7D) | 2:30 |
 | 1113 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
+| 1114 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
 
-Snapshot ID: `AAAJQfWYW2GEfRqG8T3LDnRebG155wd/`
+Snapshot ID: `AAAJQlIFxIXNoBBBc0yM2uvNzkYgPxgb`

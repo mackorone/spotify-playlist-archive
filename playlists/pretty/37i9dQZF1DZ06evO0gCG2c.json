@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 325387,
+  "num_followers": 325438,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ/KAAAAAADAXnrwbN4sCTILKxf/XfNm",
+  "snapshot_id": "aKEbgAAAAAAiv3d/07DAJrHcpxgTBrFP",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not 4 Sale",
-        "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 246053,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 246466,
       "name": "The Sweet Escape",
       "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not 4 Sale",
+        "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246053,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
     },
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Now (Na Na Na) [Sped Up]",
-        "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        },
-        {
-          "name": "chllxedits",
-          "url": "https://open.spotify.com/artist/7n2FSLSrAtkTAgGtaot7x8"
-        }
-      ],
-      "duration_ms": 226709,
-      "name": "Right Now (Na Na Na) - Sped Up",
-      "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Konvicted (Complete Edition)",
         "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 276026,
       "name": "I Wanna Love You - Remix",
       "url": "https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Right Now (Na Na Na) [Sped Up]",
+        "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "chllxedits",
+          "url": "https://open.spotify.com/artist/7n2FSLSrAtkTAgGtaot7x8"
+        }
+      ],
+      "duration_ms": 226709,
+      "name": "Right Now (Na Na Na) - Sped Up",
+      "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
     },
     {
       "added_at": null,

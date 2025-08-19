@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from Bennett Coast, MCR\-T &amp; Six Sex, plus the latest cuts from Joon Gloom, Miss Madeline and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,763 likes - 100 songs - 5 hr 45 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,762 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

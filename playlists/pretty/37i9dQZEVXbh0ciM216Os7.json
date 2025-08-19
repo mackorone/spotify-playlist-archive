@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAALC8vYB7FrtKcqC9DNdJnw",
+  "snapshot_id": "AAAAAAAAAADUUG5TN1bqin5fNJahtGGm",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-08-15 04:00:00",
       "album": {
-        "name": "Washing Machine",
-        "url": "https://open.spotify.com/album/1GJaWjh9zyUgSGY7xdMCq5"
-      },
-      "artists": [
-        {
-          "name": "Beats By AI",
-          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "Washing Machine",
-      "url": "https://open.spotify.com/track/6u5XyfQx15n1qMd54SiFcO"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
         "name": "Learn The Hard Way",
         "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
       },
@@ -75,6 +59,42 @@
       "duration_ms": 179906,
       "name": "Ain't Enough Road",
       "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "STAR LINE (Clean)",
+        "url": "https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 274302,
+      "name": "SPACE INVADER",
+      "url": "https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4"
     },
     {
       "added_at": "2025-08-15 04:00:00",
@@ -123,74 +143,6 @@
     {
       "added_at": "2025-08-15 04:00:00",
       "album": {
-        "name": "what a life",
-        "url": "https://open.spotify.com/album/1cLV9ZAsnfK9bymuB6iQBg"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "what a life",
-      "url": "https://open.spotify.com/track/6NqcZkgcZsXu3kpOzmS5RM"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "Metaphysics",
-        "url": "https://open.spotify.com/album/0xZSnkdlyLJzIKZcop3uPh"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "Metaphysics",
-      "url": "https://open.spotify.com/track/7EzsnOBUZSwc5ZbsTM1JtI"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/02ZIW0GZqSJtbdK8ZxxRDj"
-      },
-      "artists": [
-        {
-          "name": "Shen",
-          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 150260,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/23O7x7OQWsRimyt2RmUC7m"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "AIN'T NO DAMN WAY!",
-        "url": "https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 274302,
-      "name": "SPACE INVADER",
-      "url": "https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
         "name": "Get Yours",
         "url": "https://open.spotify.com/album/7gSLsUAAsFIbxVZqwTQuz2"
       },
@@ -227,6 +179,38 @@
     {
       "added_at": "2025-08-15 04:00:00",
       "album": {
+        "name": "Metaphysics",
+        "url": "https://open.spotify.com/album/0xZSnkdlyLJzIKZcop3uPh"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "Metaphysics",
+      "url": "https://open.spotify.com/track/7EzsnOBUZSwc5ZbsTM1JtI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "what a life",
+        "url": "https://open.spotify.com/album/1cLV9ZAsnfK9bymuB6iQBg"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "what a life",
+      "url": "https://open.spotify.com/track/6NqcZkgcZsXu3kpOzmS5RM"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
         "name": "MAGICIAN",
         "url": "https://open.spotify.com/album/7xE9r6rPl5OEjtuYuoIYn5"
       },
@@ -251,6 +235,82 @@
       "duration_ms": 168791,
       "name": "Look In The Mirror",
       "url": "https://open.spotify.com/track/6nmeUcCfu5OoeDI9Gako5M"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/1GJaWjh9zyUgSGY7xdMCq5"
+      },
+      "artists": [
+        {
+          "name": "Beats By AI",
+          "url": "https://open.spotify.com/artist/2VL0G8nTevMkOCc1cPWu5i"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "Washing Machine",
+      "url": "https://open.spotify.com/track/6u5XyfQx15n1qMd54SiFcO"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/02ZIW0GZqSJtbdK8ZxxRDj"
+      },
+      "artists": [
+        {
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 150260,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/23O7x7OQWsRimyt2RmUC7m"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "Kiss 6",
+        "url": "https://open.spotify.com/album/4cS6D5jhPr6j7JLFCvUTha"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 142304,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/5M07sDyqptLfK7CHrlkzb1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "E After Next",
+        "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 239179,
+      "name": "E After Next",
+      "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
     },
     {
       "added_at": "2025-08-15 04:00:00",
@@ -295,26 +355,6 @@
     {
       "added_at": "2025-08-15 04:00:00",
       "album": {
-        "name": "STAR LINE (Clean)",
-        "url": "https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 293050,
-      "name": "No More Old Men (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
         "name": "Rap de la Zarig\u00fceya",
         "url": "https://open.spotify.com/album/1oZWvQa1wIvBsdF7ewaGT2"
       },
@@ -327,66 +367,6 @@
       "duration_ms": 218064,
       "name": "Rap de la Zarig\u00fceya",
       "url": "https://open.spotify.com/track/0XYIVwIawhIigC7imj4JeT"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "E After Next",
-        "url": "https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 239179,
-      "name": "E After Next",
-      "url": "https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "Kiss 6",
-        "url": "https://open.spotify.com/album/4cS6D5jhPr6j7JLFCvUTha"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 142304,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/5M07sDyqptLfK7CHrlkzb1"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "Kiss 6",
-        "url": "https://open.spotify.com/album/4cS6D5jhPr6j7JLFCvUTha"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221683,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/0gX6VPmFCtP9PipGoEok1t"
     },
     {
       "added_at": "2025-08-15 04:00:00",
@@ -419,18 +399,22 @@
     {
       "added_at": "2025-08-15 04:00:00",
       "album": {
-        "name": "Back in the Saddle",
-        "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
+        "name": "Kiss 6",
+        "url": "https://open.spotify.com/album/4cS6D5jhPr6j7JLFCvUTha"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 212962,
-      "name": "Back in the Saddle",
-      "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
+      "duration_ms": 221683,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/0gX6VPmFCtP9PipGoEok1t"
     },
     {
       "added_at": "2025-08-15 04:00:00",
@@ -463,6 +447,22 @@
       "duration_ms": 154484,
       "name": "Ensenada",
       "url": "https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
     },
     {
       "added_at": "2025-08-15 04:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2025-08-15 04:00:00",
       "album": {
+        "name": "Philip Glass: Two Etudes",
+        "url": "https://open.spotify.com/album/7itFIfdp7j13iHBazp701A"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Duo Multicorde",
+          "url": "https://open.spotify.com/artist/2OJUkxf7UnWIyOHY5W08yv"
+        }
+      ],
+      "duration_ms": 340000,
+      "name": "Etude No.2 (arranged for harp & guitar)",
+      "url": "https://open.spotify.com/track/4hveuAVOTw5dqc1WfSnjZn"
+    },
+    {
+      "added_at": "2025-08-15 04:00:00",
+      "album": {
         "name": "PACT: Poetry and Sax",
         "url": "https://open.spotify.com/album/6RGU0DPC2JESpocdE4l9nr"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 129250,
       "name": "HER",
       "url": "https://open.spotify.com/track/6fzuc9fVDLgRIFW1Y858NX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:00",
-      "album": {
-        "name": "Philip Glass: Two Etudes",
-        "url": "https://open.spotify.com/album/7itFIfdp7j13iHBazp701A"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Duo Multicorde",
-          "url": "https://open.spotify.com/artist/2OJUkxf7UnWIyOHY5W08yv"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Etude No.2 (arranged for harp & guitar)",
-      "url": "https://open.spotify.com/track/4hveuAVOTw5dqc1WfSnjZn"
     },
     {
       "added_at": "2025-08-15 04:00:00",

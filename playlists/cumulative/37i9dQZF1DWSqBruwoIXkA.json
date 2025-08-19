@@ -7471,6 +7471,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221207,
+      "name": "I Told You Things",
+      "url": "https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX"
+    },
+    {
+      "album": {
         "name": "i tried",
         "url": "https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U"
       },
@@ -12444,7 +12462,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 178626,
       "name": "Remember - Acoustic",
       "url": "https://open.spotify.com/track/1EL27Y8YRofgvgIyhRD5JS"

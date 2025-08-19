@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-438 songs - 18 hr 51 min
+443 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 | 2025-05-29 |
 | [Highway 62](https://open.spotify.com/track/7kDoc5DGGuXzQBRVDA2c6G) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Highway 62](https://open.spotify.com/album/6YUK9h48JpAekhqABmFafD) | 2:41 | 2023-03-10 | 2025-05-29 |
 | [Hold Back The River](https://open.spotify.com/track/52X6M2Kp4HvpHup3tafEF5) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Hold Back The River](https://open.spotify.com/album/4mUjWwSGmnqzhLzTgqa3mH) | 2:28 | 2023-02-24 | 2023-09-01 |
+| [Hold That Thought](https://open.spotify.com/track/0scTOazaMpMEgSkrZFKYtH) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Hold That Thought](https://open.spotify.com/album/2yMZCc5zdd98Z4E4Iz56zp) | 2:46 | 2025-08-18 |  |
 | [Home](https://open.spotify.com/track/6xidiG4MYukn4scIc8z9ya) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 2:16 | 2022-03-04 | 2022-04-22 |
 | [Home Again](https://open.spotify.com/track/5hp8oQT04yfM150I0Ro66u) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [Home Again](https://open.spotify.com/album/5M3owr4ZIHWSehW14pGBDd) | 2:24 | 2024-08-20 |  |
 | [Hometown](https://open.spotify.com/track/5lvCd2cod6ehTI6rCXgW9x) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/0PXK9FNnsHU72wTz7uMMRA) | 2:02 | 2022-10-28 | 2022-12-10 |
@@ -282,6 +283,7 @@
 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 | 2023-01-13 | 2024-04-20 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-03-04 | 2023-02-25 |
 | [Once Upon a Summer](https://open.spotify.com/track/6rb2wUYGbRAtz6gG0kMU97) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Once Upon a Summer](https://open.spotify.com/album/0N1rtLe8DE7INB2oth9jlk) | 2:57 | 2025-04-07 | 2025-04-23 |
+| [One Day](https://open.spotify.com/track/1yLoqEUklNh8DjmDns9Qmo) | [Immanuel](https://open.spotify.com/artist/7K4eXxDLiJxRllsBhu5C09) | [One Day](https://open.spotify.com/album/6I5a8iMX5gq4GHKnsOHzJT) | 1:58 | 2025-08-18 |  |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 | 2025-03-12 |
 | [Open Fields](https://open.spotify.com/track/2FsGdBUGGU2gE7myOODMOv) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:13 | 2022-03-04 | 2025-05-29 |
 | [OSLO](https://open.spotify.com/track/5XbIIAvqy5vubofa0xLdct) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [OSLO](https://open.spotify.com/album/1T9tYM87dnPUXomXcb7Pwf) | 2:23 | 2024-12-17 | 2025-03-12 |
@@ -385,10 +387,12 @@
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-21 | 2025-02-25 |
 | [The Sun Is a Gift](https://open.spotify.com/track/5UHGm6KfaM0RcutxxYBh33) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [The Sun Is a Gift](https://open.spotify.com/album/3VVQEMWToUITIx6as34Kbe) | 2:50 | 2024-06-07 | 2025-06-12 |
 | [Thinking about it](https://open.spotify.com/track/0J9rvtU9iZoFj7waxghpP0) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Thinking about it](https://open.spotify.com/album/4tU1mY6YNfi0bhXVTLvoiZ) | 1:45 | 2025-01-13 | 2025-04-03 |
+| [This Yellow Light](https://open.spotify.com/track/4kctoVJ5NcwQxD8MwKcsa4) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [This Yellow Light](https://open.spotify.com/album/5H1LeHCf7tV7ydiInjejnv) | 2:20 | 2025-08-18 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 |  |
 | [Through a Maze](https://open.spotify.com/track/01nrJ5PYtkLc8zz7ZIw9XH) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Through a Maze](https://open.spotify.com/album/6zWFZzQ3LaGTzWAYXMHonv) | 2:33 | 2024-09-10 |  |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2022-03-04 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 |  |
+| [Tiny Voyages](https://open.spotify.com/track/6VFvnCCNaGvAA05rdvHJnu) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Tiny Voyages](https://open.spotify.com/album/0AZpS8gjpXsxnQeJVNhdgE) | 2:02 | 2025-08-18 |  |
 | [To The Fullest](https://open.spotify.com/track/3N3cO8C6pdGLlZOIM2m0gY) | [Werner Ellis](https://open.spotify.com/artist/6ipIg3Lr5yMA3BhgN8D6ai) | [To The Fullest](https://open.spotify.com/album/068joD3o3RhbfVGnraePDB) | 2:42 | 2022-03-04 | 2022-04-06 |
 | [Togetherness](https://open.spotify.com/track/40qwRulvebVhIKE8s68shj) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Togetherness](https://open.spotify.com/album/5S6D02A1tJNrUrtdmhEJgv) | 2:28 | 2024-04-19 | 2025-03-06 |
 | [Tomorrow's Dream](https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Tomorrow's Dream](https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG) | 3:00 | 2025-03-05 | 2025-05-29 |
@@ -408,6 +412,7 @@
 | [Vanek](https://open.spotify.com/track/7maiFElZYEyuvBjuxl6Whr) | [Sun Guitar](https://open.spotify.com/artist/0RIvnFewvejl7pKPF0hcFg) | [Vanek](https://open.spotify.com/album/08u0Dbk7cWg2JSDj01K5Gy) | 2:33 | 2022-03-04 | 2022-07-08 |
 | [Vedana](https://open.spotify.com/track/1DxPQ0ZGbg6uJyBApXwYRP) | [Eugenia Russo](https://open.spotify.com/artist/1ozt8bFZUS8nHkKQ5eMr4O) | [Vedana](https://open.spotify.com/album/2VSWEzLFtAmsDUgeb9fEPM) | 2:33 | 2022-05-27 | 2022-12-10 |
 | [Velvet Dusk](https://open.spotify.com/track/5lOvJ3RxfluLSISAZqFtMP) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [Velvet Dusk](https://open.spotify.com/album/1JmChmVedRXcxuJpSDqJ2W) | 3:42 | 2024-11-26 | 2025-03-12 |
+| [Velvet Sky](https://open.spotify.com/track/22vMYKfajgqPRue2QvIpNN) | [F\. Garling](https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq) | [Velvet Sky](https://open.spotify.com/album/4qiSyxhWTQeHSoTjk3Jl32) | 2:37 | 2025-08-18 |  |
 | [Venus](https://open.spotify.com/track/0vJcsc5CyzJY84thrAprTO) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Venus](https://open.spotify.com/album/6jCH3155IqsgOfahqDnMic) | 2:40 | 2024-11-06 | 2025-08-07 |
 | [View of the Park](https://open.spotify.com/track/61RiC53XYBjZmyW6u081HC) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Letting the Light In](https://open.spotify.com/album/1eGxXdtkKb0os4MUacj89J) | 3:14 | 2023-08-31 | 2025-06-12 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-03-04 | 2023-09-01 |

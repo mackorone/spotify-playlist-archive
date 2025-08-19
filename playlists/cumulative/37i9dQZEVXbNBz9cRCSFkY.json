@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Are You Serious?",
+        "url": "https://open.spotify.com/album/6rfNifF9BMWfvuXng0TBoW"
+      },
+      "artists": [
+        {
+          "name": "Shamrock",
+          "url": "https://open.spotify.com/artist/2TnJoEY5ctCfKaCwosowyY"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263546,
+      "name": "Alipin",
+      "url": "https://open.spotify.com/track/3KhjY6JxrGo6ii77SbILG7"
+    },
+    {
+      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0"
       },
@@ -3248,7 +3266,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 188976,
       "name": "City Girl",
       "url": "https://open.spotify.com/track/2vnd3JVvcLs2LxRFwC6mKu"
@@ -7106,7 +7124,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -11870,6 +11888,24 @@
       "duration_ms": 174473,
       "name": "Namumula",
       "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"
+    },
+    {
+      "album": {
+        "name": "Ogie Alcasid",
+        "url": "https://open.spotify.com/album/6ir6gGTgtccvdRg0gEDCHb"
+      },
+      "artists": [
+        {
+          "name": "Ogie Alcasid",
+          "url": "https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Nandito Ako",
+      "url": "https://open.spotify.com/track/4hu0C0is1mnAhSdOCgn8Ms"
     },
     {
       "album": {

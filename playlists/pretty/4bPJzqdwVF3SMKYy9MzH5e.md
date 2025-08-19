@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,214 songs - 4 day 22 hr 43 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,215 songs - 4 day 22 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2211,16 +2211,17 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2201 | [SG\-177](https://open.spotify.com/track/21Jlw6dn72ni5vGq5ejatL) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [SG\-177](https://open.spotify.com/album/1ehg4ms9bq8wxPeNWOUDjC) | 2:48 |
 | 2202 | [Bump 9](https://open.spotify.com/track/3R70HmrqOGs7CL0T5KFcWp) | [Mike Klubnika](https://open.spotify.com/artist/6IYeoJPX99W1XeaJRjA1zI) | [Tango Circuit](https://open.spotify.com/album/6o0klrmJedxW8Ro3oviacJ) | 2:57 |
 | 2203 | [Krasaki](https://open.spotify.com/track/39v0ztlkkQcFP7DiC7bNap) | [Dimi Darko](https://open.spotify.com/artist/73y3LenX8VOJvPkIPUscJ9) | [Krasaki](https://open.spotify.com/album/0eqg0fMIm5yqVxpILmelM0) | 3:40 |
-| 2204 | [FREAKYGIRL](https://open.spotify.com/track/1sscAD9ROdWJxAdWhfZbTZ) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [FREAKYGIRL](https://open.spotify.com/album/5utT3ttXCihfhH2LyE813r) | 2:46 |
-| 2205 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 |
-| 2206 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 |
-| 2207 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
-| 2208 | [I Need You Lovin](https://open.spotify.com/track/12KGCLMVt2cm25rjlrhJRl) | [El Gordo](https://open.spotify.com/artist/5aMlxNKj1GyPyxzvc4DWkI) | [I Need You Lovin](https://open.spotify.com/album/6tBBSBIudTiUscaldk3NQr) | 5:39 |
-| 2209 | [back of my mind](https://open.spotify.com/track/1uFjhHmje5HzyAqU0SXJ2g) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [back of my mind](https://open.spotify.com/album/4e1CZR6MJ1njKbxxAajWG5) | 1:47 |
-| 2210 | [En Moto a Medellín](https://open.spotify.com/track/2MOTsRFuC2b7kCoWCGiRBj) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [En Moto a Medellín](https://open.spotify.com/album/5fEsvZGnnuo1jY8ZNU9iob) | 2:27 |
-| 2211 | [U&ME](https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [U&ME](https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7) | 2:39 |
-| 2212 | [Piu Piu](https://open.spotify.com/track/7xknpPxmijlH18BuVTVXem) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:48 |
-| 2213 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
-| 2214 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
+| 2204 | [La Rosa De Los Vientos](https://open.spotify.com/track/3ItEUMz1CKL5CJxmnBAADO) | [Makiza](https://open.spotify.com/artist/3XaUjViDzB8N9bPqPeoWk5) | [Aerolineas Makiza](https://open.spotify.com/album/7MJTCxyETh3TbASUm8QGJQ) | 5:09 |
+| 2205 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 |
+| 2206 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:50 |
+| 2207 | [back of my mind](https://open.spotify.com/track/1uFjhHmje5HzyAqU0SXJ2g) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [berryblue](https://open.spotify.com/artist/7LwsFYi5ugJCKFsXmMVyua) | [back of my mind](https://open.spotify.com/album/4e1CZR6MJ1njKbxxAajWG5) | 1:47 |
+| 2208 | [En Moto a Medellín](https://open.spotify.com/track/2MOTsRFuC2b7kCoWCGiRBj) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [En Moto a Medellín](https://open.spotify.com/album/5fEsvZGnnuo1jY8ZNU9iob) | 2:27 |
+| 2209 | [U&ME](https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb), [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [U&ME](https://open.spotify.com/album/3dY9oVxZ48j0pMXdZMisf7) | 2:39 |
+| 2210 | [Piu Piu](https://open.spotify.com/track/7xknpPxmijlH18BuVTVXem) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:48 |
+| 2211 | [Punk](https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:13 |
+| 2212 | [My Mind Went Blank \(Screwed\)](https://open.spotify.com/track/7zfLS7MJmy8zmj1OL7s6bk) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [Point Blank](https://open.spotify.com/artist/5Nz0G9zAjZVmIgqtGfHham) | [All Screwed Up, Vol\. II \(Screwed\)](https://open.spotify.com/album/05qVKtCTd3o2NTcD34aZge) | 6:37 |
+| 2213 | [Seduction](https://open.spotify.com/track/5LCPl8UQuCcqWVodr4cR5a) | [DreamKiller](https://open.spotify.com/artist/2ug0wxHp2DC92BcVOimIMH) | [Inner Secrets](https://open.spotify.com/album/1adNYqwSKqbgJwUg50zYoR) | 4:58 |
+| 2214 | [Act Like U Know](https://open.spotify.com/track/3rK1sBzVm9EYUXR8vgrGI4) | [10 Wanted Men](https://open.spotify.com/artist/0hux8SO8Lvt5KxnZjJcs0s) | [Ten Toes Down](https://open.spotify.com/album/0SbuspDg9V35dFziYfFYB8) | 2:21 |
+| 2215 | [UUU](https://open.spotify.com/track/47NRsfMF9inUoBiyKSbIIg) | [Kumo 99](https://open.spotify.com/artist/31UoyJXnXTjUzdwSX1Ylg5) | [Body N\. Will](https://open.spotify.com/album/4yTeZlcwc5fCoNPQFD2ZNX) | 2:13 |
 
-Snapshot ID: `AAAEktVXDLLt+xYH0L06WPxLtDmGwsCc`
+Snapshot ID: `AAAEl64LA/SUVSIeOjLsZV0YbcOFD1KW`

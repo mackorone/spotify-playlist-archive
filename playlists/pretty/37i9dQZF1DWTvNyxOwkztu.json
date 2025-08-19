@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 2015050,
+  "num_followers": 2015076,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Wait and See",
-        "url": "https://open.spotify.com/album/3HU9rrVeAb4ariXfeiduNL"
-      },
-      "artists": [
-        {
-          "name": "Koresma",
-          "url": "https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek"
-        },
-        {
-          "name": "Kumali",
-          "url": "https://open.spotify.com/artist/5EbtcieHN73mDBpcF1uUoi"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Wait and See",
-      "url": "https://open.spotify.com/track/0ECNTQy7da0MXbnIKRnmFU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Live a Lie",
         "url": "https://open.spotify.com/album/6z1eCfKAUjmQ925Uh8FA10"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 135000,
       "name": "Live a Lie",
       "url": "https://open.spotify.com/track/2pnune4Q29q6bapTi4fqbi"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Wait and See",
+        "url": "https://open.spotify.com/album/3HU9rrVeAb4ariXfeiduNL"
+      },
+      "artists": [
+        {
+          "name": "Koresma",
+          "url": "https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek"
+        },
+        {
+          "name": "Kumali",
+          "url": "https://open.spotify.com/artist/5EbtcieHN73mDBpcF1uUoi"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Wait and See",
+      "url": "https://open.spotify.com/track/0ECNTQy7da0MXbnIKRnmFU"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
-      },
-      "artists": [
-        {
-          "name": "Harry Cho",
-          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "You Are In My System (Philip George Remix)",
         "url": "https://open.spotify.com/album/1AQ1S6l99M7Z1ldeV1e8hY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 196363,
       "name": "You Are In My System - Philip George Remix",
       "url": "https://open.spotify.com/track/0hIa0aOhFV9sZhtRdNcYPo"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
+      },
+      "artists": [
+        {
+          "name": "Harry Cho",
+          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 212384,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Ghost (Fejk\u00e1 Remix)",
         "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 283106,
       "name": "Ghost - Fejk\u00e1 Remix",
       "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "9 PM",
-        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
-      },
-      "artists": [
-        {
-          "name": "COLIN",
-          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "9 PM",
-      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Morning Workout",
         "url": "https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "9 PM",
+        "url": "https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F"
+      },
+      "artists": [
+        {
+          "name": "COLIN",
+          "url": "https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "9 PM",
+      "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "As Long As You Love Me",
         "url": "https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m"
       },
@@ -1039,38 +1039,6 @@
       "duration_ms": 158368,
       "name": "As Long As You Love Me",
       "url": "https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "I Feel Warmer Already",
-        "url": "https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS"
-      },
-      "artists": [
-        {
-          "name": "Fryst",
-          "url": "https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS"
-        }
-      ],
-      "duration_ms": 150872,
-      "name": "I Feel Warmer Already",
-      "url": "https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Time to Chill",
-        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
-      },
-      "artists": [
-        {
-          "name": "Sound Nomaden",
-          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
-        }
-      ],
-      "duration_ms": 312272,
-      "name": "Time to Chill",
-      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1099,6 +1067,38 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Time to Chill",
+        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
+      },
+      "artists": [
+        {
+          "name": "Sound Nomaden",
+          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+        }
+      ],
+      "duration_ms": 312272,
+      "name": "Time to Chill",
+      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "I Feel Warmer Already",
+        "url": "https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS"
+      },
+      "artists": [
+        {
+          "name": "Fryst",
+          "url": "https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS"
+        }
+      ],
+      "duration_ms": 150872,
+      "name": "I Feel Warmer Already",
+      "url": "https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Curvature",
         "url": "https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 153027,
       "name": "Curvature",
       "url": "https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Back to Java",
-        "url": "https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4"
-      },
-      "artists": [
-        {
-          "name": "RaFa Sessions",
-          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
-        }
-      ],
-      "duration_ms": 197058,
-      "name": "Back to Java",
-      "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1159,6 +1143,22 @@
       "duration_ms": 152033,
       "name": "Looking 4 Love",
       "url": "https://open.spotify.com/track/3nKX4UBDbwUHLU97LmEOsq"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Back to Java",
+        "url": "https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4"
+      },
+      "artists": [
+        {
+          "name": "RaFa Sessions",
+          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
+        }
+      ],
+      "duration_ms": 197058,
+      "name": "Back to Java",
+      "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Keep You",
-        "url": "https://open.spotify.com/album/0m3q4whKBww4O5QnQAiduJ"
-      },
-      "artists": [
-        {
-          "name": "Vowed",
-          "url": "https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY"
-        },
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "maybealice",
-          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Keep You",
-      "url": "https://open.spotify.com/track/12MuNOUBqDSd52jzDIjrLJ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 144354,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1a6r66Fc1mvkgQ4A2XP5Mk"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Keep You",
+        "url": "https://open.spotify.com/album/0m3q4whKBww4O5QnQAiduJ"
+      },
+      "artists": [
+        {
+          "name": "Vowed",
+          "url": "https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY"
+        },
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Keep You",
+      "url": "https://open.spotify.com/track/12MuNOUBqDSd52jzDIjrLJ"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
+      },
+      "artists": [
+        {
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Liftoff",
         "url": "https://open.spotify.com/album/0mpEDy0wUtGHbe5lj5nYIv"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/7MYSe2fPyBji4jffRM9L94"
-      },
-      "artists": [
-        {
-          "name": "D.Polo",
-          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/7ctUeZ8kwBfwS3ymOxqdWt"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Waiting For",
         "url": "https://open.spotify.com/album/4bs49fjwyDPQDYsPn5Qvji"
       },
@@ -1443,38 +1443,6 @@
       "duration_ms": 144915,
       "name": "Waiting For",
       "url": "https://open.spotify.com/track/6WqVq2NOScKWQVlSwkPVj5"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
-      },
-      "artists": [
-        {
-          "name": "Chico Rocket",
-          "url": "https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "Discovery",
-      "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh"
-      },
-      "artists": [
-        {
-          "name": "Varanasi Sky",
-          "url": "https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1511,6 +1479,54 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
+      },
+      "artists": [
+        {
+          "name": "Chico Rocket",
+          "url": "https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ"
+        }
+      ],
+      "duration_ms": 151632,
+      "name": "Discovery",
+      "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh"
+      },
+      "artists": [
+        {
+          "name": "Varanasi Sky",
+          "url": "https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
+      },
+      "artists": [
+        {
+          "name": "Together Alone",
+          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Mui",
         "url": "https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 243902,
       "name": "Mui",
       "url": "https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
-      },
-      "artists": [
-        {
-          "name": "Together Alone",
-          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c"
-      },
-      "artists": [
-        {
-          "name": "Cratouille",
-          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
-        }
-      ],
-      "duration_ms": 170347,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
-      },
-      "artists": [
-        {
-          "name": "Sunmoon",
-          "url": "https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZK9E83HhkuDmcqG8kXL51"
       },
@@ -1671,6 +1639,22 @@
       "duration_ms": 136880,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/715a5BoI21BDN8GNbrJJ8G"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c"
+      },
+      "artists": [
+        {
+          "name": "Cratouille",
+          "url": "https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR"
+        }
+      ],
+      "duration_ms": 170347,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1691,22 +1675,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
-      },
-      "artists": [
-        {
-          "name": "Palm 3s",
-          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "The Screen",
         "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
       },
@@ -1723,18 +1691,34 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Informalit\u00e9",
-        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
       },
       "artists": [
         {
-          "name": "Nyhuis",
-          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Informalit\u00e9",
-      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+      "duration_ms": 244285,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/2zLnQUtnEhi0u51UhJvM3g"
+      },
+      "artists": [
+        {
+          "name": "Sunmoon",
+          "url": "https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/63F5su8UafOr42Ixl49jPY"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1751,6 +1735,22 @@
       "duration_ms": 204000,
       "name": "Dont Let Go",
       "url": "https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Informalit\u00e9",
+        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+      },
+      "artists": [
+        {
+          "name": "Nyhuis",
+          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "Informalit\u00e9",
+      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
     },
     {
       "added_at": "2025-08-15 04:00:20",

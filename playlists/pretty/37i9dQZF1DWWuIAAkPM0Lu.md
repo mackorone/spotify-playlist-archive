@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Olivver & Augusta Schackinger, Zara Larsson, Benny Jamz og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,445 likes - 105 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,452 likes - 105 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 64 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 |
 | 65 | [The Good Ones](https://open.spotify.com/track/2NUn1Hn7bCY4ez5UC80yu8) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Blessing In Disguise](https://open.spotify.com/album/3jaNfRfY6X4UXHDSalOvUn) | 2:40 |
 | 66 | [One Night Stand](https://open.spotify.com/track/5R40gY2f50YtpZa4xYSGTT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [One Night Stand](https://open.spotify.com/album/0QygH8wqpsFUZT7EPr9Pae) | 3:02 |
-| 67 | [Narcissist](https://open.spotify.com/track/6QuXTsIq5H1VpcbDZf0RXe) | [YEDIE](https://open.spotify.com/artist/76LXoVgtK8OQsiRLi2xUyr) | [Narcissist](https://open.spotify.com/album/53uQSXoWlffRNvp75SxViw) | 3:10 |
+| 67 | [NARCISSIST](https://open.spotify.com/track/6QuXTsIq5H1VpcbDZf0RXe) | [YEDIE](https://open.spotify.com/artist/76LXoVgtK8OQsiRLi2xUyr) | [NARCISSIST](https://open.spotify.com/album/53uQSXoWlffRNvp75SxViw) | 3:10 |
 | 68 | [In Every Photograph](https://open.spotify.com/track/70HmqOGAfCDHGYjEF15krZ) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [In Every Photograph](https://open.spotify.com/album/3YpKPSbZ80nkVtUCIOw0fo) | 3:25 |
 | 69 | [Morgensolen](https://open.spotify.com/track/3lUyP22KprPygfJ9fYQ8xB) | [Erik Apollo](https://open.spotify.com/artist/17x4NIbQjuD4fwlHyembDO), [Anna Stæhr](https://open.spotify.com/artist/4cshwEjhbep6mry2YrsUel) | [Morgensolen](https://open.spotify.com/album/3IpmUSS2MgvF5R5uj1WI34) | 2:54 |
 | 70 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |

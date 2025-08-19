@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-301 songs - 17 hr 22 min
+302 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 | 2024-05-20 |  |
 | [Boys & Guitars](https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Boys & Guitars](https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf) | 3:55 | 2024-09-19 | 2024-12-10 |
 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 | 2025-07-17 |  |
+| [Broken Glass](https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Broken Glass](https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG) | 3:16 | 2025-08-14 |  |
 | [BYOD](https://open.spotify.com/track/3psmzK5er4ieYNeJ7DUiyo) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [BYOD](https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet) | 3:21 | 2025-05-01 | 2025-05-09 |
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 | 2024-11-08 |
 | [CANADA \- sped up](https://open.spotify.com/track/0y7Lcpbk4U8PQHfbpXk8dQ) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \- versions](https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj) | 1:42 | 2024-05-20 | 2024-11-08 |
@@ -285,7 +286,7 @@
 | [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 | 2024-11-07 | 2024-11-29 |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |
 | [Unchained](https://open.spotify.com/track/2JI6dU3fpanCwPMDDzX79K) | [Erny Belle](https://open.spotify.com/artist/0CdfEh26WETJwbJ0a7Gs08) | [Not Your Cupid](https://open.spotify.com/album/48Ccju0seSWWB3ybbrVn6I) | 3:58 | 2024-05-20 | 2024-11-08 |
-| [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 |  |
+| [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 | 2024-05-20 | 2025-08-19 |
 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 | 2025-07-31 |  |
 | [Up In Flames \(The Wayland\)](https://open.spotify.com/track/0472ecSudB9Oo4MnHIEpCz) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Up In Flames \(The Wayland\)](https://open.spotify.com/album/5Xrn0ApfuOLdpwxCckSs7a) | 3:52 | 2025-07-03 |  |
 | [Verrans Corner](https://open.spotify.com/track/124LPhcSC3OmmCKANCoCJZ) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms), [Leith Sye Towers](https://open.spotify.com/artist/31aUsPBLB9sath3vWx8xsq) | [Verrans Corner](https://open.spotify.com/album/61B0gyR89D3jQd75TfQ5wj) | 3:22 | 2025-01-30 | 2025-05-29 |

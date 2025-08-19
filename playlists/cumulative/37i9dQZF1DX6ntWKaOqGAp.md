@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Mrs\. GREEN APPLE
 
-2,453 songs - 6 day 9 hr 30 min
+2,454 songs - 6 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 | 2023-10-10 | 2024-04-12 |
 | [08](https://open.spotify.com/track/0SPG99UIsNNm6BZUUa02YS) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [悪](https://open.spotify.com/album/1idqppiC7eurUDI55uwH9Y) | 2:22 | 2025-03-04 | 2025-04-23 |
 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 | 2025-04-22 | 2025-07-09 |
+| [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 | 2025-08-18 |  |
 | [100円キッス](https://open.spotify.com/track/2IVnS6Ke87UAodXCNgXHZp) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [100円キッス](https://open.spotify.com/album/7j2s6b88lh8z5IIdFpPoPR) | 4:24 | 2024-05-28 | 2024-06-19 |
 | [1096](https://open.spotify.com/track/7Ld2efllkAfXdSOkAqPNwu) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [1096](https://open.spotify.com/album/2Cf2vmP3ffvd5n1Qo1UFNY) | 5:45 | 2023-01-31 | 2023-03-01 |
 | [111511](https://open.spotify.com/track/5KT0dvGqAFVdlXJTZ1NWzs) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [Underlight & Aftertime](https://open.spotify.com/album/1wNakLzgelD7G7mGhqElBC) | 4:18 | 2024-03-05 | 2024-03-27 |
@@ -966,7 +967,7 @@
 | [shall we dance?](https://open.spotify.com/track/0OSj7k6QrJPY427amSUfnR) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL) | [shall we dance?](https://open.spotify.com/album/4d6tgAswrQYTpJv9vk2SIs) | 4:08 | 2023-01-31 | 2023-02-22 |
 | [Sharon](https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sharon](https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO) | 4:41 | 2024-07-02 | 2024-10-02 |
 | [she so come!!!](https://open.spotify.com/track/0QH4z68TORGX2tBGuYPkr2) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 2:59 | 2023-04-25 | 2023-06-07 |
-| [She's my Venus](https://open.spotify.com/track/4OxLgmeGIn2UV2V229QdVt) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [She's my Venus](https://open.spotify.com/album/14lug4nKuX2kTAJYYZqjx6) | 2:47 | 2025-07-08 |  |
+| [She's my Venus](https://open.spotify.com/track/4OxLgmeGIn2UV2V229QdVt) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [She's my Venus](https://open.spotify.com/album/14lug4nKuX2kTAJYYZqjx6) | 2:47 | 2025-07-08 | 2025-08-19 |
 | [Shinainaruanatahe](https://open.spotify.com/track/29q2hpSioIYhW6Lm5gJJnD) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [Shinainaruanatahe](https://open.spotify.com/album/6sjAKzMwTB9SVeDcc3s0kq) | 3:50 | 2025-01-28 | 2025-02-19 |
 | [Shine & Rainbow](https://open.spotify.com/track/5HxzkxVG0dYUO5Zj8kYXdI) | [Zeppet Store](https://open.spotify.com/artist/71zMBSaHhesnxaO7RFVHIy) | [35](https://open.spotify.com/album/2qQGgnwcaRvJ5xOJYiqD4Y) | 3:24 | 2025-03-25 | 2025-04-02 |
 | [Shinitai Himawari](https://open.spotify.com/track/7z3CfL28cpQ9Udvpdw2Njb) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Danchi Thesis](https://open.spotify.com/album/6ALS4zDSQOScJD759gERFo) | 4:00 | 2025-01-14 | 2025-01-24 |

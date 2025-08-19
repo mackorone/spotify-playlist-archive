@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,490 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,664 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 54 | [Only Luv](https://open.spotify.com/track/26s30Uhv54xKoKTGJdimD6) | [Slugg](https://open.spotify.com/artist/5Q2x75NUXnoDOXCKItVxZ0) | [Only Luv](https://open.spotify.com/album/3azXZzd3WrNdPRltbTS7Hx) | 4:01 |
 | 55 | [Keep That Groove](https://open.spotify.com/track/2vWQyHonW1iLs3mBMct0t9) | [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [Keep That Groove EP](https://open.spotify.com/album/08ZUGIbdcs8OdvMI2Z91AI) | 3:40 |
 | 56 | [ARMS](https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [ARMS](https://open.spotify.com/album/1trwwDURtIwr5Tebht4aR5) | 3:20 |
-| 57 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
+| 57 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley](https://open.spotify.com/artist/1yl871BgLujEey3zsKTJew) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 58 | [Mainframe](https://open.spotify.com/track/4GpRdW1ljkq1xoo0S94cOc) | [Jay Crusoe](https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7) | [Mainframe](https://open.spotify.com/album/4zMAO2w4rA8HwGazrdgZVs) | 4:18 |
 | 59 | [Cruisin'](https://open.spotify.com/track/7zKuqq6C5d9hiONmhzLfzj) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Cruisin'](https://open.spotify.com/album/0ZpJBMIC9oRO6MU5J7NgXw) | 2:32 |
 | 60 | [Shelter \(Funky Heroes\)](https://open.spotify.com/track/6sgSsMVHeq4WsJiqiqtblx) | [LIGHTLEAK](https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC) | [Shelter EP](https://open.spotify.com/album/0HfgsobFL8GdIEd67ziFEP) | 5:07 |

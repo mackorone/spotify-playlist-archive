@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-440 songs - 23 hr 24 min
+441 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100 RA'AI](https://open.spotify.com/track/5XEW9NjDfPw4T9c8Wmxu5d) | [Zii](https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl) | [100 RA'AI](https://open.spotify.com/album/6AazyK4VPDpSNBTtj2a9AU) | 2:26 | 2024-08-13 | 2024-11-07 |
 | [101](https://open.spotify.com/track/2aaa4A0g1XurnQfFC0dpoE) | [Fairdose](https://open.spotify.com/artist/4Z9F1x2vbrOwFahUqqxThs) | [101](https://open.spotify.com/album/3BbCwU3PJTypB5bTQm20Y5) | 2:43 | 2023-05-17 | 2024-01-17 |
 | [103](https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [103](https://open.spotify.com/album/0UmHC2jX7B5oIb64bDkPh0) | 1:46 | 2023-01-17 | 2023-05-24 |
-| [200](https://open.spotify.com/track/3rrS7mcwknkYKMyuc35cqR) | [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy), [REVU](https://open.spotify.com/artist/11Hsr9QUjZgI5ABHm4urjT) | [200](https://open.spotify.com/album/5fh9U7dE6CMhhuEfWtBEi5) | 2:02 | 2025-01-22 |  |
+| [200](https://open.spotify.com/track/3rrS7mcwknkYKMyuc35cqR) | [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy), [REVU](https://open.spotify.com/artist/11Hsr9QUjZgI5ABHm4urjT) | [200](https://open.spotify.com/album/5fh9U7dE6CMhhuEfWtBEi5) | 2:02 | 2025-01-22 | 2025-08-19 |
 | [3 Shoroot](https://open.spotify.com/track/3nISIjEGMkx6gddsXOcImZ) | [Kokym](https://open.spotify.com/artist/3MgpENFiSr4tPARLzifIZ3) | [3 Shoroot](https://open.spotify.com/album/4ltpcjb8jfevv5AmQDQuKq) | 2:24 | 2023-10-04 | 2024-05-15 |
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 | 2023-05-24 |
 | [3YUN](https://open.spotify.com/track/3ccOgc5CTi7ojPMFEhjj4i) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [3YUN](https://open.spotify.com/album/4ooVsSAZab7GwCi98j6w3j) | 2:52 | 2024-06-26 | 2024-10-02 |
@@ -378,6 +378,7 @@
 | [This Place](https://open.spotify.com/track/7lk1CT7tdr1dBw2Aq6swoG) | [Maryam Turkey](https://open.spotify.com/artist/6ozaRZ7avFAylAHplxjKMz) | [This Place](https://open.spotify.com/album/2OUgUQAkf2YU9U4140A5fh) | 2:51 | 2024-04-30 | 2024-08-14 |
 | [tiiiies](https://open.spotify.com/track/4trmxD9YPtU3GxMQLqLwwf) | [Kriracha](https://open.spotify.com/artist/5TSJcirRznrsWng7uyvnGA), [Riiiiko](https://open.spotify.com/artist/6XbUbADSRCbfgMjYrPGfbN) | [tiiiies](https://open.spotify.com/album/0K6fJ8QAHZeXIa4YsjAuji) | 2:30 | 2023-01-17 | 2023-03-02 |
 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 | 2023-03-21 | 2023-09-13 |
+| [TOI](https://open.spotify.com/track/4AqD1uOd2cxH5Ojsx0V8k5) | [PH41](https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU) | [TOI](https://open.spotify.com/album/7bgDdteb46zRePQ1c57Vbl) | 3:32 | 2025-08-18 |  |
 | [Tonight You Are Mine](https://open.spotify.com/track/5pmsNABH9nDgidXqy2sLKV) | [Ghida](https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT) | [Tonight You Are Mine](https://open.spotify.com/album/1WYHUrTkqI0xXWqbpAAAKF) | 3:46 | 2024-05-02 | 2024-07-10 |
 | [Toque Del Sol](https://open.spotify.com/track/58eEvagJwKhcmHbG40AuEg) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Thaïs Sala](https://open.spotify.com/artist/6xPRuXtCzd7gQH4yOSgZyB) | [Toque Del Sol](https://open.spotify.com/album/4OezapuJwbIXSoyUKlDFcn) | 4:30 | 2023-08-23 | 2024-05-01 |
 | [Toss & Turn](https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE) | [Yal Solan](https://open.spotify.com/artist/3K2WqXT4Flri79jhZ2VCMs) | [Toss & Turn](https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4) | 2:51 | 2023-05-24 | 2024-01-17 |

@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring MGK",
-  "num_followers": 228401,
+  "num_followers": 228392,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdOyC7E17bObJFxkkz9G2BEhxwa",
+  "snapshot_id": "AAAAAFgk7QoQz9DBHp5AZhxvVHiOcBww",
   "tracks": [
     {
       "added_at": "2025-08-08 04:00:49",
@@ -73,6 +73,38 @@
       "url": "https://open.spotify.com/track/3ryifQ0G32p56Mhu2Lxp80"
     },
     {
+      "added_at": "2025-08-18 21:15:54",
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
+      "added_at": "2025-08-05 15:15:13",
+      "album": {
+        "name": "THINKIN BOUT YOU",
+        "url": "https://open.spotify.com/album/1xGuSADsstny1TgJRQFz1e"
+      },
+      "artists": [
+        {
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+        }
+      ],
+      "duration_ms": 188112,
+      "name": "THINKIN BOUT YOU",
+      "url": "https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB"
+    },
+    {
       "added_at": "2025-08-15 04:21:36",
       "album": {
         "name": "Tan Lines",
@@ -119,22 +151,6 @@
       "duration_ms": 171237,
       "name": "enjoy the ride",
       "url": "https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI"
-    },
-    {
-      "added_at": "2025-08-05 15:15:13",
-      "album": {
-        "name": "THINKIN BOUT YOU",
-        "url": "https://open.spotify.com/album/1xGuSADsstny1TgJRQFz1e"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 188112,
-      "name": "THINKIN BOUT YOU",
-      "url": "https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB"
     },
     {
       "added_at": "2025-08-15 04:00:30",
@@ -1155,22 +1171,6 @@
       "duration_ms": 172000,
       "name": "Kiss & Tell A Phone",
       "url": "https://open.spotify.com/track/60SSgWbtFd4SVGhj18EPL6"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
-        "name": "Chasing After You (From \u201cThe Buccaneers S2\u201d Soundtrack)",
-        "url": "https://open.spotify.com/album/1YptAC7HZdxLfTsRyzYHru"
-      },
-      "artists": [
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Chasing After You (From \u201cThe Buccaneers S2\u201d Soundtrack)",
-      "url": "https://open.spotify.com/track/14KDMtRqZDwg7gJAYRRcuF"
     },
     {
       "added_at": "2025-06-13 04:00:59",

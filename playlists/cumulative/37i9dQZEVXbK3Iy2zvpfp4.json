@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 207223,
       "name": "A New Day (feat. Celine Dion)",
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 134000,
       "name": "Addicted (feat. TIMID.)",
       "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
@@ -21910,7 +21910,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 217606,
       "name": "Gianna",
       "url": "https://open.spotify.com/track/56Y88HOwL6sTkPriMX3Nwm"
@@ -25582,7 +25582,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 126075,
       "name": "Holky, co cht\u011bj, abych je \u0161krtil (jemn\u011b)",
       "url": "https://open.spotify.com/track/2WiB7cIKwBNvEAg6xOrUwU"
@@ -40520,7 +40520,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 167280,
       "name": "M\u00e1m \u0165a r\u00e1d - Vinea Remake",
       "url": "https://open.spotify.com/track/7qcqUQYqEfhDBLfL6Eyiwm"
@@ -47638,7 +47638,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 157861,
       "name": "Pln\u00fd Ch\u00fdb - Singel",
       "url": "https://open.spotify.com/track/2zbeQBKA3YryytrXQZ6Xrc"
@@ -59886,7 +59886,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 187653,
       "name": "Tempo za 2",
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
@@ -63104,7 +63104,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 169319,
       "name": "TY A JA",
       "url": "https://open.spotify.com/track/2xR7lQvCRF53gYz7H8IZfD"
@@ -64348,6 +64348,32 @@
       "duration_ms": 176500,
       "name": "VATA",
       "url": "https://open.spotify.com/track/2DFeq0jzRspwrUtxvB1Kzm"
+    },
+    {
+      "album": {
+        "name": "VEM NO PIQUE",
+        "url": "https://open.spotify.com/album/5ttntY13KCxOTIHgvdm2kO"
+      },
+      "artists": [
+        {
+          "name": "MGD",
+          "url": "https://open.spotify.com/artist/3STYzv5CU439PuqKi0CCGf"
+        },
+        {
+          "name": "Hwungii",
+          "url": "https://open.spotify.com/artist/3qAI31wl4QWza8G2bvm0vT"
+        },
+        {
+          "name": "Itamar Mc",
+          "url": "https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100953,
+      "name": "VEM NO PIQUE",
+      "url": "https://open.spotify.com/track/3GbduPQThq9KIJ9Ql3JEaR"
     },
     {
       "album": {

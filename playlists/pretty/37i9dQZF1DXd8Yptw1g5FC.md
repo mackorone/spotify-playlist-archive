@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Melek Mosso ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,443 likes - 136 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,423 likes - 136 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

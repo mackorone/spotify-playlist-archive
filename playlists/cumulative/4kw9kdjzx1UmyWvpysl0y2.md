@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,050 songs - 2 day 10 hr 50 min
+1,051 songs - 2 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Only the Good Die Young](https://open.spotify.com/track/3dKj1Wa607iqF1hVdhlDNc) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [SpaceMan Zack](https://open.spotify.com/artist/53dPePMlci6GqJXISlntSK) | [Genesis](https://open.spotify.com/album/0UnU5fsuL8C0mPPzUeAagL) | 2:56 | 2024-04-05 | 2024-06-28 |
 | [Only Wide Open Space And Me](https://open.spotify.com/track/3g2vHR1LE5Buctsm2pLQdb) | [Andromedha](https://open.spotify.com/artist/1naIVJt93vo4NJ3UHT6O8q) | [Only Wide Open Space And Me](https://open.spotify.com/album/1wGPEIf0MeTsULFOwbT9zx) | 4:19 | 2022-07-20 | 2022-10-01 |
 | [Only You](https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Only You](https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva) | 4:16 | 2021-11-19 | 2022-01-29 |
+| [onlybmyself](https://open.spotify.com/track/6KRw2IFzgxe2PxNjAnLyPt) | [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [onlybmyself](https://open.spotify.com/album/2j3hCU44IsCKSTVb7jlzvJ) | 3:06 | 2025-08-18 |  |
 | [Open Spaces \- VIP](https://open.spotify.com/track/2uw8ZLH75sPysaON5hjXbd) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces \(VIP\)](https://open.spotify.com/album/2tUQDJh16INmIVaKv0uUOU) | 3:20 | 2024-07-05 | 2024-09-27 |
 | [Open The Pit](https://open.spotify.com/track/1HComaUOXdl7jRuGB3KsVB) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Open The Pit](https://open.spotify.com/album/5wiAY7ul5fy4xdzfKq9BV6) | 3:46 | 2024-11-01 | 2025-02-11 |
 | [Other Side](https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Other Side](https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop) | 2:30 | 2021-11-19 | 2022-01-27 |

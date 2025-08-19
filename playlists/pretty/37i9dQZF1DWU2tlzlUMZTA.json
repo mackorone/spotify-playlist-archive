@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- 'Sahiba' by Jasleen Royal and Stebin Ben",
-  "num_followers": 129741,
+  "num_followers": 129767,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -903,42 +903,6 @@
     {
       "added_at": "2025-08-12 08:13:46",
       "album": {
-        "name": "Qismat",
-        "url": "https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J"
-      },
-      "artists": [
-        {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        }
-      ],
-      "duration_ms": 243870,
-      "name": "Qismat",
-      "url": "https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r"
-    },
-    {
-      "added_at": "2025-08-12 08:13:46",
-      "album": {
-        "name": "Genda Phool (feat. Payal Dev)",
-        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Genda Phool (feat. Payal Dev)",
-      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
-    },
-    {
-      "added_at": "2025-08-12 08:13:46",
-      "album": {
         "name": "Yaad Piya Ki Aane Lagi",
         "url": "https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS"
       },
@@ -963,6 +927,42 @@
     {
       "added_at": "2025-08-12 08:13:46",
       "album": {
+        "name": "Genda Phool (feat. Payal Dev)",
+        "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Genda Phool (feat. Payal Dev)",
+      "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
+    },
+    {
+      "added_at": "2025-08-12 08:13:46",
+      "album": {
+        "name": "Qismat",
+        "url": "https://open.spotify.com/album/4muMYLvaAOE7frJPImJE7J"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "duration_ms": 243870,
+      "name": "Qismat",
+      "url": "https://open.spotify.com/track/3EqgnmFJIarfSqSdBWMI8r"
+    },
+    {
+      "added_at": "2025-08-12 08:13:46",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU"
       },
@@ -979,22 +979,26 @@
     {
       "added_at": "2025-08-12 08:13:46",
       "album": {
-        "name": "Illegal Weapon",
-        "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
+        "name": "Wakhra Swag",
+        "url": "https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd"
       },
       "artists": [
         {
-          "name": "Garry Sandhu",
-          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+          "name": "Navv Inder",
+          "url": "https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv"
         },
         {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Navi Ferozpurwala",
+          "url": "https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Illegal Weapon",
-      "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"
+      "duration_ms": 190563,
+      "name": "Wakhra Swag",
+      "url": "https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq"
     }
   ],
   "unique_name": "I-Pop Superhits",

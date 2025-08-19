@@ -4,7 +4,7 @@
 
 > The switch is back! Listen to your favorite music from the original Freaky Friday and the brand\-new Freakier Friday, in theaters now!
 
-39 songs - 2 hr 6 min
+40 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Double Switch, Double Trouble](https://open.spotify.com/track/4DT1D6Yp5dCFIUtte6gFhv) | [Amie Doherty](https://open.spotify.com/artist/093nXwEUtY8TBTtZb9IVrf), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 5:30 | 2025-08-12 |  |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2025-08-08 |  |
 | [Fortune Cookie? \- Score Version](https://open.spotify.com/track/4naylCOgnh54nttmuFPLX5) | [Rolfe Kent](https://open.spotify.com/artist/3B0bZAXnHTpGuPsuQo5fEd) | [Freaky Friday](https://open.spotify.com/album/6zI7OacPsPWj6poU70EcvA) | 3:56 | 2025-08-08 |  |
+| [Happy Place](https://open.spotify.com/track/7wERAnmSZfhizei772o8QL) | [Shelly Sony](https://open.spotify.com/artist/1V8oWdnA5lcwov8ehgy7n7), [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Duke Chaine](https://open.spotify.com/artist/2tKcCJam4q1AjQkF3sF6Qt) | [Happy Place](https://open.spotify.com/album/2Iim7OuyPZJAa85mHhGD9M) | 2:03 | 2025-08-18 |  |
 | [Happy Together](https://open.spotify.com/track/6vsAfBrh2DvIfRZKnoo52N) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 2:35 | 2025-08-08 |  |
 | [Heart Attack](https://open.spotify.com/track/0GIDPWsFRYfLO6FAcQcF7P) | [The Asteroids Galaxy Tour](https://open.spotify.com/artist/68g1s6VqLLLBI3tXR0Bb7C) | [Out of Frequency](https://open.spotify.com/album/0OrHyaJ33OC3prM1fJuEVL) | 3:51 | 2025-08-08 |  |
 | [Here and Now](https://open.spotify.com/track/127amD6XCyrI15H3jVDSmC) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [Aurora Gory Alice](https://open.spotify.com/album/6zhu5JppyczTRXGzHA2qr8) | 3:38 | 2025-08-08 |  |

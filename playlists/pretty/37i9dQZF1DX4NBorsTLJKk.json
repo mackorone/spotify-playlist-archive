@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 35251,
+  "num_followers": 35253,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
+        "name": "rain...",
+        "url": "https://open.spotify.com/album/7srVgPbAoeK65QAHUGmiov"
+      },
+      "artists": [
+        {
+          "name": "Diverseddie",
+          "url": "https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "rain...",
+      "url": "https://open.spotify.com/track/0OEqtj2lJxMPI9jTwhzubo"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
         "name": "\u6211\u770b\u898b\u7684\u4e16\u754c",
         "url": "https://open.spotify.com/album/6jyKXhF8ZgXIBKAeRuYK3P"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 225413,
       "name": "\u51ac\u5b63\u5230\u53f0\u5317\u4f86\u770b\u96e8",
       "url": "https://open.spotify.com/track/224L0XKBYRySkeIXdayVLE"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
-        "name": "rain...",
-        "url": "https://open.spotify.com/album/7srVgPbAoeK65QAHUGmiov"
-      },
-      "artists": [
-        {
-          "name": "Diverseddie",
-          "url": "https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "rain...",
-      "url": "https://open.spotify.com/track/0OEqtj2lJxMPI9jTwhzubo"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u98a8\u548c\u65e5\u9e97\u5f71\u97f3\u6982\u5ff5\u66f8",
-        "url": "https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk"
-      },
-      "artists": [
-        {
-          "name": "\u81ea\u7136\u6372",
-          "url": "https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "\u98a8\u548c\u65e5\u9e97 \u4e0b\u96e8\u4e86",
-      "url": "https://open.spotify.com/track/1HANH1bn2UhBnwllaPzJ2O"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
         "name": "VOX 2",
         "url": "https://open.spotify.com/album/47zpJDU5Djszna4nNVhq83"
       },
@@ -979,34 +963,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
+        "name": "\u98a8\u548c\u65e5\u9e97\u5f71\u97f3\u6982\u5ff5\u66f8",
+        "url": "https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk"
       },
       "artists": [
         {
-          "name": "\u6642\u5149\u8857\u6a02\u968a",
-          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
+          "name": "\u81ea\u7136\u6372",
+          "url": "https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr"
         }
       ],
-      "duration_ms": 264834,
-      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
-        "name": "\u4e0b\u96e8\u5929",
-        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
-      },
-      "artists": [
-        {
-          "name": "Moon Chew",
-          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "\u4e0b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
+      "duration_ms": 269093,
+      "name": "\u98a8\u548c\u65e5\u9e97 \u4e0b\u96e8\u4e86",
+      "url": "https://open.spotify.com/track/1HANH1bn2UhBnwllaPzJ2O"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1027,6 +995,38 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
+        "name": "\u4e0b\u96e8\u5929",
+        "url": "https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI"
+      },
+      "artists": [
+        {
+          "name": "Moon Chew",
+          "url": "https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "\u4e0b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
+        "url": "https://open.spotify.com/album/4OmOrlYzGfiicoRdGVRoyM"
+      },
+      "artists": [
+        {
+          "name": "\u6642\u5149\u8857\u6a02\u968a",
+          "url": "https://open.spotify.com/artist/6HiZ2Z3V35g7ssPOVm7E7D"
+        }
+      ],
+      "duration_ms": 264834,
+      "name": "\u96e8\u5929\u5c0f\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/0KOR0cJj2m4hTdamWrIIXk"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
         "name": "\u5348\u591c\u5169\u9ede\u534a\u7684\u6211",
         "url": "https://open.spotify.com/album/3HkkCV2VJbRXJ2mTiUPHqM"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 273800,
       "name": "\u4e0b\u96e8\u5929",
       "url": "https://open.spotify.com/track/1Yc1BqPYFaUP8Ktm89lqKr"
+    },
+    {
+      "added_at": "2024-11-21 17:08:53",
+      "album": {
+        "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
+        "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
+      },
+      "artists": [
+        {
+          "name": "\u812b\u62c9\u5eab",
+          "url": "https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "\u96e8",
+      "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u6b61\u8fce\u812b\u62c9\u5eab",
-        "url": "https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk"
+        "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ"
       },
       "artists": [
         {
-          "name": "\u812b\u62c9\u5eab",
-          "url": "https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx"
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
         }
       ],
-      "duration_ms": 258000,
-      "name": "\u96e8",
-      "url": "https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz"
+      "duration_ms": 256298,
+      "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
+      "url": "https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1103,22 +1119,6 @@
       "duration_ms": 267078,
       "name": "\u5979\u5728\u96e8\u5929\u60f3\u4ed6",
       "url": "https://open.spotify.com/track/2zXrVSkLy7GoW2RcpLHnkV"
-    },
-    {
-      "added_at": "2024-11-21 17:08:53",
-      "album": {
-        "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ"
-      },
-      "artists": [
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
-        }
-      ],
-      "duration_ms": 256298,
-      "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S"
     },
     {
       "added_at": "2024-11-21 17:08:53",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-11-21 17:08:53",
       "album": {
-        "name": "\u76e7\u5ee3\u4ef2 Good Morning & Good Evening \u5c0f\u5de8\u86cb\u6f14\u5531\u6703",
-        "url": "https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi"
+        "name": "\u9760\u8fd1",
+        "url": "https://open.spotify.com/album/6FPVhgOuGhengkAf916BRs"
       },
       "artists": [
         {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+          "name": "Harlem Yu",
+          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
         }
       ],
-      "duration_ms": 256281,
-      "name": "\u98a8\u96e8",
-      "url": "https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot"
+      "duration_ms": 288240,
+      "name": "\u96e8\u4e0b\u5f97\u771f\u597d",
+      "url": "https://open.spotify.com/track/6CoS4JNpTyILwqD8zMu4jw"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

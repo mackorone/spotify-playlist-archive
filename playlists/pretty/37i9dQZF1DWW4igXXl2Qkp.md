@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > Celebrating 10 years of the best new hip\-hop music from new, independent artists\. Cover: <a href="spotify:artist:1NCYuwDTI9FZWIEtbDX1Jc">A2P Fred</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,257 likes - 102 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,297 likes - 102 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

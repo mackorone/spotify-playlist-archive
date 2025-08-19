@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 149272,
+  "num_followers": 149286,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -555,70 +555,6 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 215847,
-      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
-        "name": "Rastafari Centennial: Live In Paris - Elysee Montmartre",
-        "url": "https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd"
-      },
-      "artists": [
-        {
-          "name": "Steel Pulse",
-          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
-        }
-      ],
-      "duration_ms": 358400,
-      "name": "Stepping Out - Live",
-      "url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 205856,
-      "name": "Onda do Arraial - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Roots Dance",
-      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
         "name": "Divide",
         "url": "https://open.spotify.com/album/4r3b7z6iqWKvPGLOAN9k1H"
       },
@@ -639,22 +575,66 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
+        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 191664,
-      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
+      "duration_ms": 215847,
+      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 205856,
+      "name": "Onda do Arraial - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JSxHhnDHsz0d6v22amg7y"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
+        "name": "Rastafari Centennial: Live In Paris - Elysee Montmartre",
+        "url": "https://open.spotify.com/album/0DBU2QlxJuMujoxvydwrcd"
+      },
+      "artists": [
+        {
+          "name": "Steel Pulse",
+          "url": "https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g"
+        }
+      ],
+      "duration_ms": 358400,
+      "name": "Stepping Out - Live",
+      "url": "https://open.spotify.com/track/2XPATe2p5O9RLC6T1XgI9b"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Roots Dance",
+      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -671,6 +651,26 @@
       "duration_ms": 221483,
       "name": "Serenou/Nosso Mundo - Acoustic Sessions",
       "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
+        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 191664,
+      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
+        "name": "Flow and Slow (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM"
+      },
+      "artists": [
+        {
+          "name": "Da Vula Band",
+          "url": "https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA"
+        }
+      ],
+      "duration_ms": 222490,
+      "name": "Reggae de Bar\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
         "name": "Rouxinois",
         "url": "https://open.spotify.com/album/6Yui3ZXHsYRpg0v7I4hMPc"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 201369,
       "name": "Rouxinois - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4fRuM4IPj3p4KF1Y7noleR"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
-        "name": "Flow and Slow (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM"
-      },
-      "artists": [
-        {
-          "name": "Da Vula Band",
-          "url": "https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA"
-        }
-      ],
-      "duration_ms": 222490,
-      "name": "Reggae de Bar\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
+        "name": "Natiruts - Natiruts Ac\u00fastico ao Vivo no Rio de Janeiro",
+        "url": "https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "No Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
         "name": "Praia do Segredo",
         "url": "https://open.spotify.com/album/5Io826GC8cgB006FtK6X9C"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 174884,
       "name": "Praia do Segredo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6bPoYE4I0M8oODWP4DUIsZ"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
-        "name": "Natiruts - Natiruts Ac\u00fastico ao Vivo no Rio de Janeiro",
-        "url": "https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "No Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Ao Vivo em SP",
-        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 243293,
-      "name": "Aurora Boreal - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 214613,
       "name": "Quero Ser Feliz Tamb\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
+        "name": "Ao Vivo em SP",
+        "url": "https://open.spotify.com/album/3XMRbdPZN5HCiGEmwppGAA"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 243293,
+      "name": "Aurora Boreal - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dVWZYgbYqGYSQSoIUBEtd"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Road to Rebellion, Vol. 3 (Live)",
-        "url": "https://open.spotify.com/album/2moVoeaHLXICs5SF4UD1z7"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "True to Myself - Live in Saratoga, CA, 2019",
-      "url": "https://open.spotify.com/track/2SniUy1DxVuBGxb6jacmYJ"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
         "name": "Natiruts Ac\u00fastico no Rio de Janeiro",
         "url": "https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 263106,
       "name": "Andei S\u00f3 - Ao Vivo",
       "url": "https://open.spotify.com/track/754w4HeOR2R6Si4UmQB8tv"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
+        "name": "Road to Rebellion, Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/2moVoeaHLXICs5SF4UD1z7"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "True to Myself - Live in Saratoga, CA, 2019",
+      "url": "https://open.spotify.com/track/2SniUy1DxVuBGxb6jacmYJ"
     },
     {
       "added_at": "2025-08-15 15:30:35",

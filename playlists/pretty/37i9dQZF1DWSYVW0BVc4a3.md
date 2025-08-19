@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > KETTAMA and Chris Stussy with the B2B of the year!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,833 likes - 200 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,875 likes - 200 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 59 | [Painless Love](https://open.spotify.com/track/4jjKhNsWl7KVnLb89A1guj) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Painless Love](https://open.spotify.com/album/19LnQs9DGwR4li0E4IQlXA) | 3:03 |
 | 60 | [No Second Guessing](https://open.spotify.com/track/6zB61riR1aTjgsTWVlcp1Z) | [BRANDON](https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY), [SLIM TONY](https://open.spotify.com/artist/7IF8XIJw01cfYludOhsCVC) | [No Second Guessing](https://open.spotify.com/album/0aOk4WmirhC60t4W19UTWg) | 2:59 |
 | 61 | [GET MAD](https://open.spotify.com/track/6FcjXQUcc7ufCK9lkUqzEo) | [Catch A](https://open.spotify.com/artist/5az81XuHQoRBYvhVkCq7Sn) | [PHYSICAL FRAME EP](https://open.spotify.com/album/7sEUqP5SfhcYHEkRxC9raB) | 4:35 |
-| 62 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
+| 62 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley](https://open.spotify.com/artist/1yl871BgLujEey3zsKTJew) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 63 | [Magnetic \(with Tomike\)](https://open.spotify.com/track/5EylWPZIChpm3yGjstNAnU) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Magnetic \(with Tomike\)](https://open.spotify.com/album/2Hg7lIHQVvvweJZv5u3Nmv) | 2:47 |
 | 64 | [Gotta Have It](https://open.spotify.com/track/5mFSzrBlxPJnCxxlLw5lUj) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Gotta Have It](https://open.spotify.com/album/5NovyjdqAKa8Sj2ck8BAka) | 4:24 |
 | 65 | [My Soul](https://open.spotify.com/track/7KCUvLNglwYUvYoMjKullD) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [My Soul](https://open.spotify.com/album/0VIkQGuUWicrdehWh0YDyj) | 4:33 |

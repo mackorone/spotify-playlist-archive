@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Mombojó
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,868 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,763 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 79 | [Caco](https://open.spotify.com/track/0DhW5Qsf3PBbIz5EfG619L) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Caco](https://open.spotify.com/album/2OBDrtPglyBYXsW7ss1WLk) | 3:06 |
 | 80 | [Parati](https://open.spotify.com/track/2e8onQDnzxYTUpm7GeSLyK) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp) | [Parati](https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV) | 2:46 |
 
-Snapshot ID: `AAAAAFIWlb96Js4wnY0CtG6dy8Z6i+sz`
+Snapshot ID: `AAAAAEh69B2vq80np01k/VXN4Aa9QxAF`

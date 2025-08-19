@@ -1,13 +1,29 @@
 {
   "description": "Listen here for the best emerging British Acts across pop, alternative and more",
-  "num_followers": 98258,
+  "num_followers": 98234,
   "original_name": "Hot New UK",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAiU+4K7elKlJPaRRVCWpEi2BzBjTx/",
+  "snapshot_id": "AAAiVyDTCtIBlwIkbRSENRq7Aue8WCvD",
   "tracks": [
+    {
+      "added_at": "2025-08-18 14:15:18",
+      "album": {
+        "name": "I Feel Bad For You, Dave",
+        "url": "https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 183035,
+      "name": "I Feel Bad For You, Dave",
+      "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
+    },
     {
       "added_at": "2025-08-04 10:48:31",
       "album": {

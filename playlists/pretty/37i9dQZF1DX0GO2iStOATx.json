@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 217324,
+  "num_followers": 217382,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-05-13 13:17:03",
       "album": {
-        "name": "MoonChild Era",
-        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 158513,
-      "name": "Cali",
-      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
-    },
-    {
-      "added_at": "2025-05-13 13:17:03",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -959,8 +943,24 @@
     {
       "added_at": "2025-05-13 13:17:03",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "MoonChild Era",
+        "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 158513,
+      "name": "Cali",
+      "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
+    },
+    {
+      "added_at": "2025-05-13 13:17:03",
+      "album": {
+        "name": "Con.Fi.Den.Tial",
+        "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
       },
       "artists": [
         {
@@ -968,13 +968,17 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
         }
       ],
-      "duration_ms": 180855,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
+      "duration_ms": 207300,
+      "name": "Big Scene",
+      "url": "https://open.spotify.com/track/0yYikBy6sQAI3n6QbQPYw5"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

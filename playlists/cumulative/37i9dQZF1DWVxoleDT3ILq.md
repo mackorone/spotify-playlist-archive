@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Ciudad Nómade
+> Todo el sonido indie de Chile\. Foto: Spiral Vortex
 
-547 songs - 1 day 8 hr 45 min
+549 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Arabesco](https://open.spotify.com/track/3iiUKOvQ27hAfttpkNovNT) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Arabesco](https://open.spotify.com/album/0UCexnEz4hSnNEPdpMtLZe) | 3:57 | 2022-04-15 | 2022-07-27 |
 | [Así Te Soy](https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Así Te Soy](https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH) | 3:41 | 2022-09-23 | 2023-08-05 |
 | [aterrizar](https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [aterrizar](https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h) | 2:58 | 2023-09-08 | 2025-08-02 |
-| [Aves de papel](https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Aves de papel](https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB) | 3:53 | 2023-10-06 |  |
+| [Aves de papel](https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep) | [Reina Luisa](https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3), [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Aves de papel](https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB) | 3:53 | 2023-10-06 | 2025-08-19 |
 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 | 2023-06-09 |  |
 | [Bailemos](https://open.spotify.com/track/4ApCVG68HumQYo8poT3NM7) | [Matías Tigre](https://open.spotify.com/artist/2tWWgAvvIHIa38QAiUku1O) | [Bailemos](https://open.spotify.com/album/0ZFWM7Piyj8XaevWr0xtqu) | 3:52 | 2022-04-15 | 2022-07-15 |
 | [Balada del Asesino Triste](https://open.spotify.com/track/0ArcOt2SVMpLFgvApR1x9k) | [Guillermo Paf](https://open.spotify.com/artist/0nTcLkTcY1vfZWkDUDEeCz) | [Balada del Asesino Triste](https://open.spotify.com/album/1AaRgJ03ztJrJ2alljYfIf) | 3:48 | 2022-04-15 | 2022-08-18 |
@@ -163,7 +163,7 @@
 | [El Sonido De Las Campanas](https://open.spotify.com/track/7H01fPYJe56IldvnvtGrpY) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda), [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [Apoyo Emocional](https://open.spotify.com/album/1G5jvDrtoyDSZGz9juVFqb) | 3:41 | 2023-11-24 | 2024-06-08 |
 | [El Vagón](https://open.spotify.com/track/2aLnOJ8EdmwkbpJUsAZrVv) | [Los Furtivos Gnomos](https://open.spotify.com/artist/2kJktHNhofgGCsnjsEpImn) | [Cuentos del Nuevo Jardín](https://open.spotify.com/album/6YmFJdP4eHaH3o404jSj4v) | 4:23 | 2022-04-15 | 2022-07-26 |
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 |  |
-| [Ella Me Dijo](https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Ella Me Dijo](https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK) | 3:07 | 2023-03-24 |  |
+| [Ella Me Dijo](https://open.spotify.com/track/0ysVoswBZh3USWAWpjBnVu) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Ella Me Dijo](https://open.spotify.com/album/0Md6dUyqlF0v2i3NpyRYSK) | 3:07 | 2023-03-24 | 2025-08-19 |
 | [Embriago](https://open.spotify.com/track/1hnVWXdhW9P17SpfnaN60C) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Embriago](https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX) | 3:36 | 2022-04-15 | 2022-07-29 |
 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 | 2022-04-15 | 2022-12-10 |
 | [En Libertad](https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9) | 3:58 | 2022-08-05 | 2024-07-13 |
@@ -459,6 +459,7 @@
 | [Sudamérica Suda](https://open.spotify.com/track/3nf731XsSR9Nnhw0nOylo9) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sudamérica Suda](https://open.spotify.com/album/55arWmrulZn7MFfD4eDa4o) | 3:08 | 2023-08-11 | 2024-04-19 |
 | [Sudamérica Suda](https://open.spotify.com/track/7wpJU8AhVLL87zJ23NiUpM) | [Seba Alfaro](https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk) | [Sudamérica Suda](https://open.spotify.com/album/7gsLYO4xF9zC7mNyLqjKTb) | 3:08 | 2023-05-26 | 2023-07-31 |
 | [sudreik](https://open.spotify.com/track/0H5ntnGLMwYbmhnHjicnYZ) | [HAKANNA](https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO), [Joshvatunes](https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc) | [sudreik](https://open.spotify.com/album/1nfU1ud5v3bMwpoFeeitI6) | 2:57 | 2023-02-17 | 2023-04-14 |
+| [Sueños](https://open.spotify.com/track/7BMhy4U8H744JQIUT8R771) | [Spiral Vortex](https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb) | [Sueños](https://open.spotify.com/album/6oPv1Eni4IIks4RfLVe2LA) | 3:00 | 2025-08-18 |  |
 | [Sulamita](https://open.spotify.com/track/16MIfwDvkB1tWrxE5amA59) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Sulamita](https://open.spotify.com/album/6pLbcifDEO9ya5vuRLq8Hp) | 4:26 | 2022-07-22 | 2022-10-20 |
 | [Sulamita](https://open.spotify.com/track/6GeDdnTBZmZzu9luTKndJs) | [Niños Del Cerro](https://open.spotify.com/artist/1RpIuXeUsxfYBdQIg19QSy) | [Suave Pendiente](https://open.spotify.com/album/33H62Vxr3nX4jQCvbfHP54) | 4:26 | 2022-10-14 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/54iljSq1Sdn7ujYKiN4sal) | [André Ubilla](https://open.spotify.com/artist/0rkTDLyLbTS8kdXdV9ivdN) | [Supernova](https://open.spotify.com/album/6ujuBLcCHGjvpD6CxEqmy4) | 3:54 | 2022-07-01 | 2022-08-20 |
@@ -517,6 +518,7 @@
 | [Un Último Encuentro](https://open.spotify.com/track/7c4UxItuj8p1l6ZOhWSTMa) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Un Último Encuentro](https://open.spotify.com/album/5IikbrVGPIEv6tnCr2tO76) | 5:37 | 2022-04-15 | 2022-07-29 |
 | [Una Calma](https://open.spotify.com/track/5nQj5zdIaN4saUEfwMTUWF) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Una Calma](https://open.spotify.com/album/42hxDhsnYMq64qqGxL6nr1) | 4:31 | 2022-04-15 | 2022-11-29 |
 | [Una Casa](https://open.spotify.com/track/124ccXQJnM8LZm2mgorAZy) | [Nando García](https://open.spotify.com/artist/1sjAiXfRnlaJk1zNhmHSpf) | [Una Casa](https://open.spotify.com/album/5Py6T8vX3urtJSNYsEaNPb) | 2:57 | 2024-04-26 | 2024-12-07 |
+| [Una Clase de Amor](https://open.spotify.com/track/7jcFhEUdwOLEi42NeCf7FX) | [Javier Barría](https://open.spotify.com/artist/2v63mEwpd09o5Oo3ALq0l6) | [Una Clase de Amor](https://open.spotify.com/album/3I5LvCMAEiDDPHYUEA31Rh) | 4:28 | 2025-08-18 |  |
 | [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 |  |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 | 2024-06-08 |
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-04-15 | 2022-07-21 |

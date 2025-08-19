@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 135462,
+  "num_followers": 135476,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-08-15 13:27:26",
       "album": {
-        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Lucidez - Ao Vivo",
-      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
-    },
-    {
-      "added_at": "2025-08-15 13:27:26",
-      "album": {
         "name": "Final de Semana",
         "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 201682,
       "name": "Final de Semana",
       "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
+    },
+    {
+      "added_at": "2025-08-15 13:27:26",
+      "album": {
+        "name": "Sorriso Eu Gosto no Pagode Vol. 3 - Homenagem ao Fundo de Quintal (Gravado em Londres) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Lucidez - Ao Vivo",
+      "url": "https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz"
     },
     {
       "added_at": "2025-08-15 13:27:26",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-08-15 13:27:26",
       "album": {
-        "name": "Garota do Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 172618,
-      "name": "Garota do Fant\u00e1stico",
-      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
-    },
-    {
-      "added_at": "2025-08-15 13:27:26",
-      "album": {
         "name": "Te Amo L\u00e1 Fora",
         "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 246346,
       "name": "Decis\u00e3o de Te Amar",
       "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+    },
+    {
+      "added_at": "2025-08-15 13:27:26",
+      "album": {
+        "name": "Garota do Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/6zL50LjbpxZoX7PftqNjHI"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 172618,
+      "name": "Garota do Fant\u00e1stico",
+      "url": "https://open.spotify.com/track/5obhKVyGGPTdur8zcozXCb"
     },
     {
       "added_at": "2025-08-15 13:27:26",
@@ -667,6 +667,26 @@
     {
       "added_at": "2025-08-15 13:27:26",
       "album": {
+        "name": "Pegapacap\u00e1",
+        "url": "https://open.spotify.com/album/0GQTE0kgr87Jsi306VD5zq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 225686,
+      "name": "Pegapacap\u00e1",
+      "url": "https://open.spotify.com/track/51tEvo1E9MOaxRWsmNibNO"
+    },
+    {
+      "added_at": "2025-08-15 13:27:26",
+      "album": {
         "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
       },
@@ -715,26 +735,6 @@
     {
       "added_at": "2025-08-15 13:27:26",
       "album": {
-        "name": "Estragar a Amizade",
-        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
-        }
-      ],
-      "duration_ms": 201937,
-      "name": "Estragar a Amizade",
-      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
-    },
-    {
-      "added_at": "2025-08-15 13:27:26",
-      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -763,6 +763,26 @@
       "duration_ms": 203493,
       "name": "Seu Pensamento",
       "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
+    },
+    {
+      "added_at": "2025-08-15 13:27:26",
+      "album": {
+        "name": "Estragar a Amizade",
+        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
+        }
+      ],
+      "duration_ms": 201937,
+      "name": "Estragar a Amizade",
+      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
     },
     {
       "added_at": "2025-08-15 13:27:26",
@@ -919,26 +939,6 @@
       "duration_ms": 199944,
       "name": "Brother, Father, Sister And Mother",
       "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
-    },
-    {
-      "added_at": "2025-08-15 13:27:26",
-      "album": {
-        "name": "Pegapacap\u00e1",
-        "url": "https://open.spotify.com/album/0GQTE0kgr87Jsi306VD5zq"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 225686,
-      "name": "Pegapacap\u00e1",
-      "url": "https://open.spotify.com/track/51tEvo1E9MOaxRWsmNibNO"
     },
     {
       "added_at": "2025-08-15 13:27:26",

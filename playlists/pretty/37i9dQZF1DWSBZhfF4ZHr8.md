@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo: Julien Lieb
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,117 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,128 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [Il suffit d'une chanson](https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34) | [Il suffit d'une chanson](https://open.spotify.com/album/1wb0xY0W1qJjl4wOqgtztH) | 3:07 |
 | 50 | [Jamais deux sans trois](https://open.spotify.com/track/3Gl9006GKKQs0To5Xe940u) | [21 Juin Le Duo](https://open.spotify.com/artist/0UUuBtaLyglYTbgfjTw1vT) | [Jamais deux sans trois](https://open.spotify.com/album/7MQxrbB9MquN4xxCXSIwgJ) | 2:41 |
 
-Snapshot ID: `AAAAABHGRuEd5acK4/uJ2GR/erOtS8Y/`
+Snapshot ID: `AAAAAOlz1hkYF3JdO4LCZUTP72OjUUYb`

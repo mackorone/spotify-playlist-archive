@@ -3659,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Lonely Lights",
+        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155040,
+      "name": "Lonely Lights",
+      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
+    },
+    {
+      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/1ojMdYZXJgiHuU0yCjobQu"
       },
@@ -4056,6 +4074,24 @@
       "duration_ms": 130804,
       "name": "Min Melodi",
       "url": "https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr"
+    },
+    {
+      "album": {
+        "name": "Mirume",
+        "url": "https://open.spotify.com/album/01QSQrULUly8nsz3RqB1xY"
+      },
+      "artists": [
+        {
+          "name": "Grazia Bellini",
+          "url": "https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154002,
+      "name": "Mirume",
+      "url": "https://open.spotify.com/track/01O7m41vXkQiqPZWgtoDA5"
     },
     {
       "album": {
@@ -5201,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "Reason to Stop",
+        "url": "https://open.spotify.com/album/6BlzhI9X3enKQJuTWHGCaz"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142425,
+      "name": "Reason to Stop",
+      "url": "https://open.spotify.com/track/3VwzDRmxEpp5O58v3tMeSh"
+    },
+    {
+      "album": {
         "name": "Red Roses",
         "url": "https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O"
       },
@@ -5774,7 +5828,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 151050,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5"
@@ -6650,6 +6704,24 @@
       "duration_ms": 122125,
       "name": "Temps perdu",
       "url": "https://open.spotify.com/track/3Nn9FtU41jUR4TiPKxXxuh"
+    },
+    {
+      "album": {
+        "name": "Tender Sun",
+        "url": "https://open.spotify.com/album/6bYGLawfZ0AY1mOCdgCh6E"
+      },
+      "artists": [
+        {
+          "name": "Leon Hartness",
+          "url": "https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151750,
+      "name": "Tender Sun",
+      "url": "https://open.spotify.com/track/1tsMW9wt8tHdSm0B19FllT"
     },
     {
       "album": {

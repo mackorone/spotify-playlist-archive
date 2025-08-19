@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Bride In Blue",
+        "url": "https://open.spotify.com/album/4466fchPYZQokILY1UuYxu"
+      },
+      "artists": [
+        {
+          "name": "Kalpika Ganesh",
+          "url": "https://open.spotify.com/artist/7LpwFhs42aGI1lHbZnEhu6"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183997,
+      "name": "Bride In Blue",
+      "url": "https://open.spotify.com/track/6h68Bi0RmqQ0l8Q4KAcVVU"
+    },
+    {
+      "album": {
         "name": "Bujji Pilla",
         "url": "https://open.spotify.com/album/1BcqiyIpH3Z2DjccL5XJLQ"
       },
@@ -5465,6 +5483,28 @@
     },
     {
       "album": {
+        "name": "Pallavi",
+        "url": "https://open.spotify.com/album/0KCQlk3I2p3NYTloJSOKQQ"
+      },
+      "artists": [
+        {
+          "name": "Ajay Goud",
+          "url": "https://open.spotify.com/artist/7dG7f5PcfQI66BpZEIPxEr"
+        },
+        {
+          "name": "Anusha Vallabhaneni",
+          "url": "https://open.spotify.com/artist/2vqJealZTylYcS2Y1TkrRC"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242215,
+      "name": "Pallavi",
+      "url": "https://open.spotify.com/track/0eCiwLWmG97Ro5OjhrMerc"
+    },
+    {
+      "album": {
         "name": "Panipuri Anthem",
         "url": "https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB"
       },
@@ -7538,7 +7578,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 270000,
       "name": "Theera - Telugu",
       "url": "https://open.spotify.com/track/4I4Xy1cYW1pzQwaFkrPEnO"

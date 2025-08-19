@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain]
 
 > Enjoy the TWICE WORLD TOUR \[THIS IS FOR\] LIVE SET including the voices of them on stage! \(트와이스의 무대 멘트와 목소리가 포함된 \[THIS IS FOR\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,971 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,182 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4v1kmgPjq1t.md) - [plain]
 | 28 | [널 내게 담아 / YOU IN MY HEART](https://open.spotify.com/track/0VM4jqRLSvtB7ugGCDPzW7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [twicetagram](https://open.spotify.com/album/09diUPC7IV8tCwr1C9ASyu) | 3:28 |
 | 29 | [Ending](https://open.spotify.com/track/6LCyu5RF2Qz9VMroVxq0R3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TWICE WORLD TOUR \[THIS IS FOR\]](https://open.spotify.com/album/77wYSqsdNfeNhM6RcqiQbd) | 3:31 |
 
-Snapshot ID: `AAAAAFGACDVhzFn83x/jnSK/pTRAWSDw`
+Snapshot ID: `AAAAAGphf0tM79hGuE1ADrgy6epfobFr`

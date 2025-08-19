@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 388274,
+  "num_followers": 388332,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-08-15 15:29:55",
       "album": {
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+    },
+    {
+      "added_at": "2025-08-15 15:29:55",
+      "album": {
         "name": "Aeroporto (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2025-08-15 15:29:55",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
-    },
-    {
-      "added_at": "2025-08-15 15:29:55",
-      "album": {
         "name": "Que Seja de Alegria",
         "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
       },
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-08-15 15:29:55",
       "album": {
-        "name": "Brisa e Mar",
-        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
-        }
-      ],
-      "duration_ms": 192562,
-      "name": "Brisa e Mar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
-    },
-    {
-      "added_at": "2025-08-15 15:29:55",
-      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 189480,
       "name": "Na minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
+    },
+    {
+      "added_at": "2025-08-15 15:29:55",
+      "album": {
+        "name": "Brisa e Mar",
+        "url": "https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 192562,
+      "name": "Brisa e Mar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q"
     },
     {
       "added_at": "2025-08-15 15:29:55",

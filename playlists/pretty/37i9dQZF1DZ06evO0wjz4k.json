@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 32918,
+  "num_followers": 32932,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ/KAAAAAAB8iqZSrb1BMLm6tUCu2nV1",
+  "snapshot_id": "aKEbgAAAAAByiEbWJcmjka2E3u5wjVG2",
   "tracks": [
     {
       "added_at": null,
@@ -326,15 +326,11 @@
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 231466,
-      "name": "Good Time Charlie's Got The Blues",
-      "url": "https://open.spotify.com/track/1LOFK4zdpDABD2mmT5wRKH"
+      "duration_ms": 285680,
+      "name": "Hope That I\u2019m Enough",
+      "url": "https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf"
     },
     {
       "added_at": null,
@@ -394,11 +390,15 @@
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 285680,
-      "name": "Hope That I\u2019m Enough",
-      "url": "https://open.spotify.com/track/0UiRMlvrPJKKM4FCsoFDAf"
+      "duration_ms": 231466,
+      "name": "Good Time Charlie's Got The Blues",
+      "url": "https://open.spotify.com/track/1LOFK4zdpDABD2mmT5wRKH"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is This Thing Workin'",
-        "url": "https://open.spotify.com/album/5HEooh1019VEMJbOMsXYj4"
+        "name": "The Limestone Kid",
+        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
       },
       "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 185940,
-      "name": "Is This Thing Workin'",
-      "url": "https://open.spotify.com/track/1IPJnzMcarMNxDJ5xzjktK"
+      "duration_ms": 226453,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
     },
     {
       "added_at": null,
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Limestone Kid",
-        "url": "https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P"
+        "name": "Is This Thing Workin'",
+        "url": "https://open.spotify.com/album/5HEooh1019VEMJbOMsXYj4"
       },
       "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        },
         {
           "name": "Parker McCollum",
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 226453,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX"
+      "duration_ms": 185940,
+      "name": "Is This Thing Workin'",
+      "url": "https://open.spotify.com/track/1IPJnzMcarMNxDJ5xzjktK"
     },
     {
       "added_at": null,

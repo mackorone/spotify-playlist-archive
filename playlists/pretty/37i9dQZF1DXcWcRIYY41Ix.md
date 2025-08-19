@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Juana Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,096 likes - 105 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,102 likes - 105 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

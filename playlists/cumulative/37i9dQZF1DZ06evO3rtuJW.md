@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-186 songs - 9 hr 12 min
+187 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 | 2025-04-11 | 2025-07-31 |
 | [Went Legit](https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 2:20 | 2025-07-31 |  |
 | [What You Need](https://open.spotify.com/track/2HFXYVDmkTNXTOtAZJvf1r) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:51 | 2023-04-30 | 2023-08-31 |
-| [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/album/2niITwO5X7ODSlOKvOoAsq) | 2:48 | 2025-08-01 |  |
+| [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Untreated Trauma](https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ) | 2:48 | 2025-08-19 |  |
+| [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/album/2niITwO5X7ODSlOKvOoAsq) | 2:48 | 2025-08-01 | 2025-08-19 |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/7ACW7VpgoKmfM1sKo15UhX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 4:39 | 2023-02-16 |  |
 | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Who Want Smoke?? \(feat\. G Herbo, Lil Durk & 21 Savage\)](https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X) | 4:39 | 2022-10-28 | 2023-02-17 |
 | [Why Would I \(feat\. G Herbo\)](https://open.spotify.com/track/6PkOteET6dCYHf1dWUui5t) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Summertime Butch 2](https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn) | 2:46 | 2025-07-18 |  |

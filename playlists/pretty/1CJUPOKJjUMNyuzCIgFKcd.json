@@ -1,13 +1,69 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23328,
+  "num_followers": 23321,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAmssf5xHw7MTr41KJfhcxn1LTKJAvm",
+  "snapshot_id": "AAAmu2YCGLxSVTEAWOuWTBHeU5AKoQVh",
   "tracks": [
+    {
+      "added_at": "2025-08-18 23:49:21",
+      "album": {
+        "name": "Mr. Nobody",
+        "url": "https://open.spotify.com/album/50pRrR5Uju8MajY2TrhBfA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Dem Jointz",
+          "url": "https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd"
+        }
+      ],
+      "duration_ms": 146242,
+      "name": "I'm Him",
+      "url": "https://open.spotify.com/track/0YOrJTRjvRT5lcIzrIVHEO"
+    },
+    {
+      "added_at": "2025-08-18 23:49:50",
+      "album": {
+        "name": "All That",
+        "url": "https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
+          "name": "Chicken P",
+          "url": "https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr"
+        }
+      ],
+      "duration_ms": 158241,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/167vDGiHC4msGIrVPPZMA9"
+    },
+    {
+      "added_at": "2025-08-18 23:50:04",
+      "album": {
+        "name": "F.L.I.N.T. (Feeling Like I'm Not Through)",
+        "url": "https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "Different Music",
+      "url": "https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr"
+    },
     {
       "added_at": "2025-08-13 23:28:22",
       "album": {
@@ -91,6 +147,66 @@
       "duration_ms": 177390,
       "name": "No Love Connections",
       "url": "https://open.spotify.com/track/4DnFH1b6M1FponvjwuUKwz"
+    },
+    {
+      "added_at": "2025-08-18 23:50:15",
+      "album": {
+        "name": "ASAP",
+        "url": "https://open.spotify.com/album/3sPRCUZ4nQZWOqWL4MVqEf"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "duration_ms": 220496,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/4B5uXnQnWdDYnJzIGHLyTe"
+    },
+    {
+      "added_at": "2025-08-18 23:50:29",
+      "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/7qQOY2gXdvHUBp3SuBB2Xq"
+      },
+      "artists": [
+        {
+          "name": "Damedot",
+          "url": "https://open.spotify.com/artist/5OHfcsZ8fneKjS64QqFST0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/6OkR1Byi10I5sAoMKYe6aN"
+    },
+    {
+      "added_at": "2025-08-18 23:51:06",
+      "album": {
+        "name": "BUY HER FLOWERS!",
+        "url": "https://open.spotify.com/album/0uT1tAzECg7Ylyt3e3LQzt"
+      },
+      "artists": [
+        {
+          "name": "WhoJiggi",
+          "url": "https://open.spotify.com/artist/65ouxpwU5hVjZ4dJQycQeY"
+        },
+        {
+          "name": "Matthew Ali",
+          "url": "https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E"
+        }
+      ],
+      "duration_ms": 139401,
+      "name": "BUY HER FLOWERS!",
+      "url": "https://open.spotify.com/track/6FRJiRb848fKONwNgOnBNi"
     },
     {
       "added_at": "2025-08-13 23:29:02",

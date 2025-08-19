@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 156000,
       "name": "Aahi Gallan",
       "url": "https://open.spotify.com/track/5aSFJQNvhTMxe85lSdfQQE"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 236000,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
@@ -5413,6 +5413,36 @@
     },
     {
       "album": {
+        "name": "Prapti",
+        "url": "https://open.spotify.com/album/59sOvHVkj2wJi2BTVhNkqK"
+      },
+      "artists": [
+        {
+          "name": "Surjit Bhullar",
+          "url": "https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Gaiphy",
+          "url": "https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B"
+        },
+        {
+          "name": "Gill Raunta",
+          "url": "https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Prapti",
+      "url": "https://open.spotify.com/track/0gEhZ4ulZhj0hd5FuFxokw"
+    },
+    {
+      "album": {
         "name": "Proud Jawani",
         "url": "https://open.spotify.com/album/0TK4ld6smZ0ELX3e0GdksR"
       },
@@ -5818,6 +5848,24 @@
       "duration_ms": 147129,
       "name": "Roule",
       "url": "https://open.spotify.com/track/0CIEXgFz2u9Pu3Bdn9kEBl"
+    },
+    {
+      "album": {
+        "name": "Sachi Gal",
+        "url": "https://open.spotify.com/album/6JmQJhN0B5MMMtUpTiCQW7"
+      },
+      "artists": [
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199064,
+      "name": "Sachi Gal",
+      "url": "https://open.spotify.com/track/2Bmk5BDaazyjfQ8lrR2BZN"
     },
     {
       "album": {

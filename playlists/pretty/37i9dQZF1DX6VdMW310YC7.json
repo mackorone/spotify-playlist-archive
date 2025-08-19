@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3924351,
+  "num_followers": 3924191,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 234492,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
       },
@@ -1047,18 +1027,22 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 202997,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
+      "duration_ms": 234492,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 202997,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
         "name": "Rust",
         "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
       },
@@ -1091,26 +1091,6 @@
       "duration_ms": 275010,
       "name": "Rust",
       "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1131,6 +1111,26 @@
       "duration_ms": 266666,
       "name": "Me and You (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
         "name": "fever",
         "url": "https://open.spotify.com/album/44KLbHGEN8Oxwg3EwCgLZG"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 140952,
       "name": "fever",
       "url": "https://open.spotify.com/track/0qCzMwwsrHm56Wk0PPOndb"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/2yTfM6fWFKAvaUd0gWoJw1"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/6yeXOGFx7lkO6obKWKZP0r"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
         "name": "SWEET LOVIN",
         "url": "https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/5oIP2gVBohm3RnognSCLwK"
-      },
-      "artists": [
-        {
-          "name": "Drics",
-          "url": "https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO"
-        }
-      ],
-      "duration_ms": 161463,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/5fY592q9uyqWCsQVUWQra0"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
         "name": "Heartburn",
         "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 181550,
       "name": "Trying To See U",
       "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/5oIP2gVBohm3RnognSCLwK"
+      },
+      "artists": [
+        {
+          "name": "Drics",
+          "url": "https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO"
+        }
+      ],
+      "duration_ms": 161463,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5fY592q9uyqWCsQVUWQra0"
     },
     {
       "added_at": "2025-08-15 04:00:15",

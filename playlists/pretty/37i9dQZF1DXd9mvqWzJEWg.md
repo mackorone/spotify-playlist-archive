@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F?si=HZYKRvOMSI6E1QWxlE2\_qg">Rhass</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,586 likes - 60 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,613 likes - 60 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 59 | [IVALE \- IVALE](https://open.spotify.com/track/4nD80zf7NGzHAqaXf4PSwK) | [DJ Mavu](https://open.spotify.com/artist/0b80XMiV5iyfuKx5ZQAjDu), [ChroniQ MusiQ](https://open.spotify.com/artist/2POBQCBCgygfHPqWGvcaQv) | [IVALE](https://open.spotify.com/album/0KY1ynlOIBd3BLxf8qoKzY) | 5:09 |
 | 60 | [Abantu Abadala](https://open.spotify.com/track/3nZ4D6y4PMoHDmSEGt240O) | [Junior De Rocka](https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa), [The Elevatorz](https://open.spotify.com/artist/5yu1Qzlob7mdCvXWByKuEZ), [Mabzar](https://open.spotify.com/artist/5LVsjNS9X1YugLJE6klAY7), [Ngizwe Mchunu](https://open.spotify.com/artist/1dC3JgL3RRdPgPEgApq7bP) | [Abantu Abadala](https://open.spotify.com/album/4KfySooH13gUIeKVgUuWZu) | 4:06 |
 
-Snapshot ID: `AAAAAJ5Qim87xR/yAnZb8KVYRH1AuRrm`
+Snapshot ID: `AAAAABb0OnkzEuk6vMJ+dNmvj3DwH9ca`

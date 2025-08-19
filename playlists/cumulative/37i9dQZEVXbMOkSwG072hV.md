@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,663 songs - 8 day 1 hr 22 min
+3,664 songs - 8 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2643,7 +2643,7 @@
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-17 | 2024-03-27 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-11 | 2024-04-17 |
 | [Precipício / Dona do Hospício](https://open.spotify.com/track/6rUIT6MWyhKEONHzEqcPgY) | [Thalles e Júnior](https://open.spotify.com/artist/5jm3AW4tgaVmCksuPuMfbH) | [Precipício / Dona do Hospício](https://open.spotify.com/album/60k8lommMtdoUPPK42FQe7) | 3:11 | 2024-12-08 | 2025-01-15 |
-| [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-07-22 |  |
+| [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-07-22 | 2025-08-19 |
 | [Predador de Perereca 90s](https://open.spotify.com/track/0U4lELlSN2BxHB1c55XJs7) | [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca 90s](https://open.spotify.com/album/5zXsfcen2irpAWGBA8jSQi) | 4:10 | 2025-07-17 | 2025-07-19 |
 | [Predador de Perereca 90s](https://open.spotify.com/track/5mmPaHH0reSuhZVJ96Lpwq) | [shawlas](https://open.spotify.com/artist/6m0B79nGyHTrQ9GBjFgJ3Z) | [Predador de Perereca 90s](https://open.spotify.com/album/1KcTB9ycc9IU81IrmgkSix) | 4:10 | 2025-07-01 | 2025-07-18 |
 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 | 2023-04-25 | 2023-05-24 |
@@ -3588,6 +3588,7 @@
 | [World Class Sinner / I’m A Freak](https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM) | [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 1 \(Music from the HBO Original Series\)](https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h) | 3:19 | 2023-07-04 | 2023-08-02 |
 | [WORTH NOTHING \- Fast & Furious: Drift Tape/Phonk Vol 1](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING \(Fast and Furious: Drift Tape/Phonk Vol 1\)](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-26 | 2022-12-24 |
 | [Would've, Could've, Should've](https://open.spotify.com/track/3pUa0ZxdSeaJXm0EIydD3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 4:20 | 2022-11-17 | 2022-11-23 |
+| [Wouldn't Change a Thing \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/0Di5p4ItolIUZB8c2P0pvs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:23 | 2025-08-18 |  |
 | [Wtf](https://open.spotify.com/track/06JTWClNJgcBxk2yMqoz7e) | [021 Richard](https://open.spotify.com/artist/01U1Lf7mHrOLPjtfDAfvY1), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW), [H4axxi](https://open.spotify.com/artist/1Pe2bSGGnlBB19BzevKijn) | [Wtf](https://open.spotify.com/album/28IkNpZUMyuaWaADQAcwaS) | 1:49 | 2023-06-06 | 2023-06-21 |
 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 | 2022-06-05 | 2022-06-12 |
 | [Xangai](https://open.spotify.com/track/1DzURS5tMXFwOnrHbEwdIK) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu) | [Percalços](https://open.spotify.com/album/54JPLtLadzyPbneflbb6hK) | 2:05 | 2023-08-07 | 2023-08-16 |

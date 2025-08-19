@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-1,266 songs - 2 day 10 hr 27 min
+1,267 songs - 2 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1196,6 +1196,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2024-01-13 |
 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 | 2024-01-12 | 2024-10-12 |
 | [Waterproof](https://open.spotify.com/track/6kAeWwIJtSpWawV2QBssAk) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [Waterproof](https://open.spotify.com/album/1p2uKAYBHcfUEq0zaz0Rch) | 2:23 | 2024-08-02 | 2024-08-10 |
+| [Wavy Crete](https://open.spotify.com/track/3drpRf3FRZa2P8XVSwlPvR) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Codeine Cowboy](https://open.spotify.com/album/2qKLRkLcQeq5Pa79KJgsf8) | 2:32 | 2025-08-18 |  |
 | [way bak](https://open.spotify.com/track/4tPgYatSFxJtHGn3z8we4N) | [Skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [way bak](https://open.spotify.com/album/3bl8WWjvwlGgWeVu9n4uH6) | 2:21 | 2021-08-20 | 2022-03-05 |
 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-10-31 | 2024-02-17 |
 | [we didn't get the memo](https://open.spotify.com/track/6mHpaiqqcP3GcfUQgq2qvN) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [pinkPrint](https://open.spotify.com/album/4WsysxA3f1CJAK0QUpbTKO) | 3:17 | 2025-05-09 | 2025-05-17 |

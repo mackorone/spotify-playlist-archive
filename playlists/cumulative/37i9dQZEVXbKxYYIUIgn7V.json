@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "ACELERADA",
+        "url": "https://open.spotify.com/album/4QfLTUyV4lZPxoEt0BykuQ"
+      },
+      "artists": [
+        {
+          "name": "sma$her",
+          "url": "https://open.spotify.com/artist/1Fl1fc7bZfRVUCffh9Uudx"
+        },
+        {
+          "name": "MXZI",
+          "url": "https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61269,
+      "name": "ACELERADA",
+      "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
+    },
+    {
+      "album": {
         "name": "Ach Du Liebe Zeit",
         "url": "https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP"
       },
@@ -9952,7 +9974,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
@@ -10594,6 +10616,24 @@
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
+        "name": "downtown",
+        "url": "https://open.spotify.com/album/1oaHlsVVHDlbcxYTtoFB56"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121866,
+      "name": "downtown",
+      "url": "https://open.spotify.com/track/6Ur4ZVoemg8EI6WT7aHBWk"
     },
     {
       "album": {
@@ -21066,7 +21106,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 220440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/2FjsGDl0BHc8xXPVof7Ttn"
@@ -21084,7 +21124,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 220440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/5XyfJqyQbBXiZtG98a8RBY"
@@ -22840,7 +22880,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 175238,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/1j3wX6BsENny2jfTwO2j1x"
@@ -27036,7 +27076,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 185217,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb"
@@ -32062,7 +32102,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 147307,
       "name": "Runaway (U & I)",
       "url": "https://open.spotify.com/track/4Nh7Umpl8YPFPcggcby6JW"
@@ -41322,7 +41362,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 250268,
       "name": "What It Sounds Like",
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
@@ -43174,7 +43214,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 190963,
       "name": "Zusammen",
       "url": "https://open.spotify.com/track/0ksYR0NiRkbtIUOKPqsVVC"

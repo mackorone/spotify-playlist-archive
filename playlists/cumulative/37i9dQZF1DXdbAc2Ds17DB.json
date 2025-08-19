@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-26",
-  "description": "Get ready for the upcoming concert by listening to the artist's best songs! (\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubca0\uc2a4\ud2b8\uace1\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \ucf58\uc11c\ud2b8\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the JANNABI CONCERT [All the Boys and Girls] LIVE SET including the voices of them on stage! (\uc794\ub098\ube44\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [\ubaa8\ub4e0\uc18c\ub144\uc18c\ub140\ub4e4] \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "JANNABI CONCERT [\ubaa8\ub4e0\uc18c\ub144\uc18c\ub140\ub4e4]",
   "tracks": [
+    {
+      "album": {
+        "name": "JANNABI's Small Pieces l",
+        "url": "https://open.spotify.com/album/39YkUaoy7BMzsFvGGMwugk"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "A thought on an autumn night",
+      "url": "https://open.spotify.com/track/4YaKlkNVJNbrIqN82EKFsQ"
+    },
     {
       "album": {
         "name": "Sound of Music pt.1",
@@ -59,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
+        "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "ASTEARSGOBY",
+      "url": "https://open.spotify.com/track/2rOA9vEsnpNB6L5XgmibKn"
+    },
+    {
+      "album": {
         "name": "Pole Dance",
         "url": "https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7"
       },
@@ -110,6 +146,42 @@
       "duration_ms": 238000,
       "name": "Blue spring",
       "url": "https://open.spotify.com/track/2C39KrMvf6G2EMIx7uC7ub"
+    },
+    {
+      "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188999,
+      "name": "Confession Show",
+      "url": "https://open.spotify.com/track/3FDsN0SBOVMQMsYN96tOVU"
+    },
+    {
+      "album": {
+        "name": "Second 20s (Original Sound Track), Pt.7",
+        "url": "https://open.spotify.com/album/3uQUG8gxQvkEkod96OGpjz"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Cuckoo",
+      "url": "https://open.spotify.com/track/0TC3DhqVVoL9hYnk87Q5EK"
     },
     {
       "album": {
@@ -212,12 +284,48 @@
           "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68000,
+      "name": "Goodnight (Intro)",
+      "url": "https://open.spotify.com/track/4MAMn2twjZR03xvTKAEth9"
+    },
+    {
+      "album": {
+        "name": "MONKEY HOTEL",
+        "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217000,
       "name": "HONG KONG",
       "url": "https://open.spotify.com/track/05Udoqtxi9KgqSMnV5OPpQ"
+    },
+    {
+      "album": {
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222999,
+      "name": "I Know Where The Rainbow has Fallen",
+      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     },
     {
       "album": {
@@ -293,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2lyGDRXefXaQLpkO9LFchu"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223021,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5VeXj6AN1SDRfvcjafPKCc"
+    },
+    {
+      "album": {
         "name": "Sound of Music pt.1",
         "url": "https://open.spotify.com/album/0MszgvODJojjzJCNmlWWGu"
       },
@@ -315,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Pole Dance",
+        "url": "https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Pole Dance",
+      "url": "https://open.spotify.com/track/1Ur55RXiHphAcfg1k0nChZ"
+    },
+    {
+      "album": {
         "name": "pony",
         "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
       },
@@ -330,6 +474,24 @@
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
+    },
+    {
+      "album": {
+        "name": "See Your Eyes",
+        "url": "https://open.spotify.com/album/0JiSyYfI7RRVBvjRjbl5hW"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "See Your Eyes",
+      "url": "https://open.spotify.com/track/7q6zlvcrtjcMCTw1LyMNd1"
     },
     {
       "album": {
@@ -351,6 +513,114 @@
     },
     {
       "album": {
+        "name": "JANNABI CONCERT [All the Boys and Girls]",
+        "url": "https://open.spotify.com/album/2F2m8TKjLmnwUdPefCuSqP"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23898,
+      "name": "Stage Comment 1",
+      "url": "https://open.spotify.com/track/21cy9PCbUnzsJKGku55stB"
+    },
+    {
+      "album": {
+        "name": "JANNABI CONCERT [All the Boys and Girls]",
+        "url": "https://open.spotify.com/album/2F2m8TKjLmnwUdPefCuSqP"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58058,
+      "name": "Stage Comment 2",
+      "url": "https://open.spotify.com/track/7E2s8ggzEWOqNzhCzEAIXV"
+    },
+    {
+      "album": {
+        "name": "JANNABI CONCERT [All the Boys and Girls]",
+        "url": "https://open.spotify.com/album/2F2m8TKjLmnwUdPefCuSqP"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68026,
+      "name": "Stage Comment 3",
+      "url": "https://open.spotify.com/track/0wIOv7KKC8uET4ry5agzZM"
+    },
+    {
+      "album": {
+        "name": "JANNABI CONCERT [All the Boys and Girls]",
+        "url": "https://open.spotify.com/album/2F2m8TKjLmnwUdPefCuSqP"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117992,
+      "name": "Stage Comment 4",
+      "url": "https://open.spotify.com/track/0WiDNwYwh1C108B07vKC62"
+    },
+    {
+      "album": {
+        "name": "JANNABI CONCERT [All the Boys and Girls]",
+        "url": "https://open.spotify.com/album/2F2m8TKjLmnwUdPefCuSqP"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67776,
+      "name": "Stage Comment 5",
+      "url": "https://open.spotify.com/track/25bzhann6VwlMszkm57xhR"
+    },
+    {
+      "album": {
+        "name": "JANNABI CONCERT [All the Boys and Girls]",
+        "url": "https://open.spotify.com/album/2F2m8TKjLmnwUdPefCuSqP"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92759,
+      "name": "Stage Comment 6",
+      "url": "https://open.spotify.com/track/1sd09tx0vF6QQOT5ZSDKmN"
+    },
+    {
+      "album": {
         "name": "MONKEY HOTEL",
         "url": "https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r"
       },
@@ -366,6 +636,42 @@
       "duration_ms": 243000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4JmRth9mDEINhUNIpDYLQi"
+    },
+    {
+      "album": {
+        "name": "Summer Vacation Edition",
+        "url": "https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Summer sun, i\u2019m your fan club.",
+      "url": "https://open.spotify.com/track/58214qO6yIzE9DQOEx1l5t"
+    },
+    {
+      "album": {
+        "name": "Summer Vacation Edition",
+        "url": "https://open.spotify.com/album/0uewCcf3M3m0TtKFpp1rl3"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Sunshine comedy club",
+      "url": "https://open.spotify.com/track/1gIwGFcUuiTGO1PpFK5CYB"
     },
     {
       "album": {
@@ -456,6 +762,42 @@
       "duration_ms": 229000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/45DQky9bZx5AFq5kgMYAZo"
+    },
+    {
+      "album": {
+        "name": "\u9127\u9e97\u541b15\u9031\u5e74",
+        "url": "https://open.spotify.com/album/0wYJN0zcnlBJurN2ErHSjR"
+      },
+      "artists": [
+        {
+          "name": "Teresa Teng",
+          "url": "https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "\u6708\u4eae\u4ee3\u8868\u6211\u7684\u5fc3",
+      "url": "https://open.spotify.com/track/3Srw8isgDzmYsgwDi4MtbD"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb"
+      },
+      "artists": [
+        {
+          "name": "DELISPICE",
+          "url": "https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323531,
+      "name": "\uace0\ubc31",
+      "url": "https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdbAc2Ds17DB"

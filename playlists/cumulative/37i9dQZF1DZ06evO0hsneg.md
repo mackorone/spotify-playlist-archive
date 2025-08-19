@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 16 min
+62 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Riphunter](https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Bam Mastro](https://open.spotify.com/artist/3d3lSrhBBBazL5444IH8nC) | [MULTIVERSES \(Revisi Final Fix Banget\)](https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e) | 4:13 | 2023-05-02 |  |
 | [Shine](https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:52 | 2023-12-14 |  |
 | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/track/4Ep077zYziACE6aJBN6w7L) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Suara Dalam Kepala \(Feat\. Ramengvrl\)](https://open.spotify.com/album/2p1ODeT3tNEeqkupAElZZW) | 4:07 | 2025-02-23 |  |
-| [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 | 2023-05-02 |  |
+| [Take Me Back](https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd) | 3:41 | 2025-08-19 |  |
+| [Take Me Back](https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 3:41 | 2023-05-02 | 2025-08-19 |
 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 | 2023-05-02 |  |
 | [Tsundere](https://open.spotify.com/track/6ejAsuq9xOqhb9hlFE2h6m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:57 | 2023-08-19 | 2023-09-06 |
 | [Us vs](https://open.spotify.com/track/06Fl6Sd3IA4pdK7vlAdTvr) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc), [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Unreleased Project, Vol\. 1](https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi) | 3:50 | 2023-05-02 |  |

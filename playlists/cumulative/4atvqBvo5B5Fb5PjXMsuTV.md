@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 18 Aug 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 18 Aug 18:04 UTC.
 
-5,343 songs - 12 day 9 hr 58 min
+5,346 songs - 12 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1124,6 +1124,7 @@
 | [Dareda?](https://open.spotify.com/track/3PaijZcpKUQDQ1JUpajZ6e) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [Dareda?](https://open.spotify.com/album/0QLBoZvMiw6tZm5MNgEnvz) | 2:44 | 2024-11-11 | 2024-11-26 |
 | [Dark and Velvet Nights](https://open.spotify.com/track/2smb660jl1saiHkmbqLWi1) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Dark and Velvet Nights](https://open.spotify.com/album/1O8UYt3PsVMGDFLkuyYPa4) | 4:44 | 2024-08-09 | 2024-08-14 |
 | [Dark Arts](https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dark Arts](https://open.spotify.com/album/1YItIfS2HNJkWIgaoj50SM) | 3:01 | 2025-07-15 | 2025-07-24 |
+| [DARK AURA](https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [DARK AURA](https://open.spotify.com/album/71gwUOOxYPgpA7z55066tn) | 2:53 | 2025-08-18 |  |
 | [Dark Side of the Silver Spoon](https://open.spotify.com/track/1SVB858CfpWNgSh1iNk2IE) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Dark Side of the Silver Spoon](https://open.spotify.com/album/4eJ3ndIDJe64Tqd1ujj7ov) | 3:09 | 2024-08-23 | 2024-08-29 |
 | [Dark Sword Angel](https://open.spotify.com/track/5o4r9vcXJy4LygJSclpfB1) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Dark Sword Angel](https://open.spotify.com/album/6SqsTESjqXkQBvzQBhgkBn) | 2:40 | 2024-09-24 | 2024-09-27 |
 | [dark things](https://open.spotify.com/track/6oxfnbwSvVvl8FhqojHfd5) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [dark things](https://open.spotify.com/album/0CqVi6L0Djhveb1VV5U1EO) | 4:40 | 2025-02-28 | 2025-03-13 |
@@ -1361,6 +1362,7 @@
 | [Drowning Therapy](https://open.spotify.com/track/3n45ukssmt5LytBudtXKNJ) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Drowning Therapy](https://open.spotify.com/album/4pYbjMjeqlKS6wwExr27G8) | 3:31 | 2024-10-10 | 2024-10-12 |
 | [Drug Tzar](https://open.spotify.com/track/01N3UDXUKUP6e2It26WAak) | [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Drug Tzar](https://open.spotify.com/album/23qmMpltFrD8EN1jgeZw2v) | 3:00 | 2024-05-27 | 2024-06-01 |
 | [Drugstore Drastic](https://open.spotify.com/track/2Wj8waS9T1jcFYx97sW3pS) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [Drugstore Drastic](https://open.spotify.com/album/1ka7z6LbeS9Te92ttZeyQO) | 3:27 | 2024-11-12 | 2024-11-26 |
+| [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-18 |  |
 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 | 2024-10-29 | 2024-11-01 |
 | [drunk prayer](https://open.spotify.com/track/7B8wSAsYjZODXJ3GXJlTWW) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [drunk prayer](https://open.spotify.com/album/2KKsYTS2o9Dc2ewKa6cBve) | 3:10 | 2024-06-19 | 2024-06-21 |
 | [Dröm Sång](https://open.spotify.com/track/4KPHDL1uSjvjFiXcCWkKQq) | [Këkht Aräkh](https://open.spotify.com/artist/72unU2j2vnNWFiITlvx2nv) | [Dröm Sång](https://open.spotify.com/album/6GJP356Q51HkTjm7jjJ1nO) | 4:27 | 2024-12-13 | 2024-12-18 |
@@ -2477,7 +2479,7 @@
 | [John Stockton](https://open.spotify.com/track/3yXeNoUvHwnCKnjkiAuNyH) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [Leaf Ward](https://open.spotify.com/artist/5ZmJ7jcRLF7C06UMrFI1C8) | [John Stockton](https://open.spotify.com/album/3MvdY5IXNkQu11A4NWyT4A) | 3:23 | 2024-11-08 | 2024-11-12 |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-05-14 | 2024-05-16 |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-07-29 | 2024-08-01 |
-| [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 | 2025-08-08 |  |
+| [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 | 2025-08-08 | 2025-08-19 |
 | [Joy of Missing Out](https://open.spotify.com/track/4px2IKHQM1iCsryBZv0naR) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Joy of Missing Out](https://open.spotify.com/album/3cjn75z7esRmLnsQQ5HtJ4) | 3:11 | 2024-08-30 | 2024-09-05 |
 | [Joyful Green](https://open.spotify.com/track/68td6xMOdZkKxemAsBJOqd) | [DreamNote](https://open.spotify.com/artist/3ILvL0HM0cST4iR8RzQh2V) | [Joyful Green](https://open.spotify.com/album/2Qprk9UNqG0yZtVogI2MHi) | 2:52 | 2024-10-09 | 2024-10-11 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-04 | 2024-07-06 |
@@ -2987,7 +2989,7 @@
 | [Miles To Go](https://open.spotify.com/track/4W74tWSlxoncSwi6dLTO0G) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Miles To Go](https://open.spotify.com/album/1iB0mL4HIdTEtViUK23pC8) | 3:58 | 2024-12-13 | 2024-12-17 |
 | [Miley](https://open.spotify.com/track/3XOD4lBBCFU1qea6zvdqvZ) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Miley](https://open.spotify.com/album/7BSCiN1DxXoh7ze1vGQE5y) | 3:33 | 2024-09-12 | 2024-09-14 |
 | [Milk](https://open.spotify.com/track/5J5Tw78xBk5YoALN83OQXM) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Milk](https://open.spotify.com/album/4hpBxl2EjLqCKssAKvpYTH) | 1:45 | 2025-03-20 | 2025-03-29 |
-| [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-08 |  |
+| [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 | 2025-08-08 | 2025-08-19 |
 | [Milkshake Man](https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh) | 2:52 | 2025-02-27 | 2025-03-04 |
 | [MILKY WAY](https://open.spotify.com/track/0ffdocxhQrT9fseyCYQZrQ) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [MILKY WAY](https://open.spotify.com/album/4cyNTqIAObdFknOudG7Guh) | 3:07 | 2024-05-14 | 2024-05-16 |
 | [MILLE VOTE ANCORA](https://open.spotify.com/track/3BJ5P3bL0Q8OUemXVwjucQ) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [MILLE VOTE ANCORA](https://open.spotify.com/album/2p5SxGXydxUaria6k51asC) | 3:12 | 2025-02-13 | 2025-02-22 |
@@ -3087,6 +3089,7 @@
 | [Mr\. Bubbles](https://open.spotify.com/track/7A5x8fsxuIZhiTV3grJDYD) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Mr\. Bubbles](https://open.spotify.com/album/4VNYFZKOuYK8O9dwQVpyB9) | 2:38 | 2024-08-16 | 2024-08-21 |
 | [Mr\. Cool](https://open.spotify.com/track/5vRvTccr05SrSnqVvNAmVX) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Mr\. Cool](https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn) | 3:49 | 2025-06-22 | 2025-06-28 |
 | [Mr\. Fantastic](https://open.spotify.com/track/18010jwsQxFeLsZN3HMzHb) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Mr\. Fantastic](https://open.spotify.com/album/6La1pgJHSJrnpRhQn9Awag) | 2:50 | 2024-11-07 | 2024-11-09 |
+| [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 | 2025-08-18 |  |
 | [Mr\. Sunflower](https://open.spotify.com/track/5Ugq5YiS8M3joxGY8a37zS) | [The Rifles](https://open.spotify.com/artist/3Sr1muUE6DYihFufoHpnfc) | [Mr\. Sunflower](https://open.spotify.com/album/1rygOQuWThvfbpDmXad2mM) | 3:18 | 2024-05-09 | 2024-05-11 |
 | [Mrs Dior](https://open.spotify.com/track/2rtUDwDS4didOMYoCqPJ1E) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Mrs Dior](https://open.spotify.com/album/7kypXLN1ED1BzGwvhaXN2D) | 3:12 | 2024-09-06 | 2024-09-08 |
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-02 | 2025-05-10 |
@@ -3270,7 +3273,7 @@
 | [NOBODY CARES](https://open.spotify.com/track/5zOgxiZWUSyWcbuXbznT1e) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [NOBODY CARES](https://open.spotify.com/album/37Zi2cZSeEiQY0f5trm6C0) | 3:03 | 2025-07-16 | 2025-07-23 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-12 | 2024-09-14 |
 | [Nobody Knows You, Stepbro.](https://open.spotify.com/track/6w5LSDDJ4VS9493R35QHLE) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [SadGirlsVsTheWorld](https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Nobody Knows You, Stepbro.](https://open.spotify.com/album/5qIC8bWpXLAU6Ix18FOUmd) | 2:51 | 2024-12-15 | 2024-12-21 |
-| [NOBODY SAFE](https://open.spotify.com/track/5PjOxRWKD3aUvNHTf4bgAe) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [NOBODY SAFE](https://open.spotify.com/album/20N6yVUaJ0M8pgYvQRcZEE) | 1:42 | 2025-08-08 |  |
+| [NOBODY SAFE](https://open.spotify.com/track/5PjOxRWKD3aUvNHTf4bgAe) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [NOBODY SAFE](https://open.spotify.com/album/20N6yVUaJ0M8pgYvQRcZEE) | 1:42 | 2025-08-08 | 2025-08-19 |
 | [Nobody's Perfect](https://open.spotify.com/track/53SirzTK2fEruERQoZ8egL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Nobody's Perfect](https://open.spotify.com/album/3I9FpnzIRxnktCGwDdKeZK) | 2:40 | 2024-10-30 | 2024-11-02 |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-23 | 2025-02-02 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-21 | 2024-10-25 |

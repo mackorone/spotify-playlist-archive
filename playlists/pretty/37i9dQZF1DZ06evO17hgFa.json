@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 145848,
+  "num_followers": 145862,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ/KAAAAAAD4Li8ViIWESfk0/CG9h+ul",
+  "snapshot_id": "aKEbgAAAAAC3PaGLIQmRz+1YKqWoFZ2Y",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "An Evening With Billie Holiday",
         "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 221280,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/6o5RbQYhmF4yRRw7ZArxGL"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Billie Holiday On Verve 1945 - 1959",
-        "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "P.S. I Love You",
-      "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -307,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lady Sings",
-        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
+        "name": "The Complete Billie Holiday On Verve 1945 - 1959",
+        "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
       },
       "artists": [
         {
@@ -316,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 195586,
-      "name": "I'll Look Around",
-      "url": "https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3"
+      "duration_ms": 214826,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
       "duration_ms": 179493,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/16ARXAJAcL8ubHDpBLcqDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "I'll Look Around",
+      "url": "https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday Love Songs",
-        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady In Satin",
         "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 203266,
       "name": "I'm a Fool to Want You",
       "url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
     },
     {
       "added_at": null,

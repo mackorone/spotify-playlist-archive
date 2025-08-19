@@ -6963,6 +6963,28 @@
     },
     {
       "album": {
+        "name": "Uma Noite",
+        "url": "https://open.spotify.com/album/2hDK9lkrn4rurpcerkffim"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Uma Noite",
+      "url": "https://open.spotify.com/track/4e1lc0w7omCgbnEQ1AFMRT"
+    },
+    {
+      "album": {
         "name": "Uma Noite de Putaria",
         "url": "https://open.spotify.com/album/5394PYlupAC4hOfOZylaEv"
       },

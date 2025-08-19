@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-744 songs - 1 day 13 hr 29 min
+745 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Handful of Gold \- Hounded Remix](https://open.spotify.com/track/0MHCUVoW2zKbDlbwa8bXrA) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Hounded](https://open.spotify.com/artist/0ttHbJjRLbyrOgRy0oUMug) | [Handful of Gold \(Remixes II\)](https://open.spotify.com/album/6SpjAiJHmDaDU2q6Y6FlMy) | 4:10 | 2022-07-22 | 2022-08-05 |
 | [Handful Of Gold \- Hounded Remix](https://open.spotify.com/track/7oxHEN7q9V67XUReaq0txr) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Hounded](https://open.spotify.com/artist/0ttHbJjRLbyrOgRy0oUMug) | [Handful Of Gold \(Remixes II\)](https://open.spotify.com/album/2lcQOnaDZFj0ZSH386B3R8) | 4:10 | 2022-01-14 | 2022-07-29 |
 | [Happy Ever After](https://open.spotify.com/track/0BXCVKsjbKSjfNPGWPh5eo) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Sönnefelt](https://open.spotify.com/artist/38FDUny44xLWCsKHGWI9bo), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Happy Ever After](https://open.spotify.com/album/44D0r849swtKybNSfassKE) | 2:40 | 2022-07-01 | 2024-11-17 |
-| [Happy Now](https://open.spotify.com/track/63iSQ3Fd1qnKWlC7LIVP87) | [Szaby](https://open.spotify.com/artist/5tAUplSMo5z8xGJbTGoJo9), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Happy Now](https://open.spotify.com/album/21EXqiY7t6ZYniihjdcIdK) | 2:51 | 2022-06-03 |  |
+| [Happy Now](https://open.spotify.com/track/63iSQ3Fd1qnKWlC7LIVP87) | [Szaby](https://open.spotify.com/artist/5tAUplSMo5z8xGJbTGoJo9), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Happy Now](https://open.spotify.com/album/21EXqiY7t6ZYniihjdcIdK) | 2:51 | 2022-06-03 | 2025-08-19 |
 | [Hater](https://open.spotify.com/track/4CrNo5vGp55buj14tjnqgQ) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU) | [Hater](https://open.spotify.com/album/3QneXa4R2BqbQULBhDg6HZ) | 2:50 | 2023-07-14 |  |
 | [Health](https://open.spotify.com/track/4W2Aa1QD9kWPB49AelUAZw) | [Creon Flips](https://open.spotify.com/artist/2qq4OFTPe8qqLnzODvRnvw) | [Health](https://open.spotify.com/album/6hoMr7qzg6YJOhSkneWYXK) | 2:25 | 2022-04-01 | 2022-07-29 |
 | [Health](https://open.spotify.com/track/5KCONdavciCFS1fF0nHLGN) | [Creon Flips](https://open.spotify.com/artist/2qq4OFTPe8qqLnzODvRnvw) | [Health](https://open.spotify.com/album/4O4JF49eekzwbGLgOeCdbQ) | 2:25 | 2022-07-22 | 2024-02-18 |
@@ -355,6 +355,7 @@
 | [Let Me Go](https://open.spotify.com/track/0gNBRHjANpiXwG6ZC68uNa) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Let Me Go](https://open.spotify.com/album/3D1CSRNmyamWBUmfJ83XZh) | 2:40 | 2022-04-08 | 2024-09-19 |
 | [Let You Go Later](https://open.spotify.com/track/0W6ndPWmDnK25KNiJLCuzf) | [Guille Alvarez](https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY), [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [Let You Go Later](https://open.spotify.com/album/1DbXTFjDVCjd4OHDTd0Dj4) | 3:00 | 2022-07-22 | 2022-11-18 |
 | [Lie To Me](https://open.spotify.com/track/7Bue9Cua1VRTbepCvZ6dDt) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Lie To Me](https://open.spotify.com/album/0C94AoPznTS76AyeS7IhZ3) | 2:29 | 2024-04-05 |  |
+| [Life](https://open.spotify.com/track/5PNeoW7pzKgyAm2KDsrRU2) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Life](https://open.spotify.com/album/4PyuDESU8lU7DnlCCsWLtQ) | 2:36 | 2025-08-15 |  |
 | [Life Goes On](https://open.spotify.com/track/2jfNbQZ8VqVhPvOtXOrmon) | [Ricii Lompeurs](https://open.spotify.com/artist/4QfP8q2uWxpH3iZFkwDI7b), [Francesco Ray](https://open.spotify.com/artist/7Bi7LziJZ8WXJEF11BW0iQ) | [Life Goes On](https://open.spotify.com/album/44BgTplLwGcY1ER9jn2Tng) | 3:10 | 2022-07-15 | 2025-02-09 |
 | [Lift](https://open.spotify.com/track/1zANAYogydAh5DBNIVswie) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Lift](https://open.spotify.com/album/3OtzuphM3lBNSR4eERJpuo) | 2:26 | 2024-04-26 | 2024-07-19 |
 | [Lights](https://open.spotify.com/track/7xePs11BrC1ZITTZ9koW62) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lights](https://open.spotify.com/album/3O25WKfP6mQLHiBMzlnRyC) | 2:53 | 2022-04-01 | 2022-07-12 |

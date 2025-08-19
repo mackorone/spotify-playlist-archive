@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-889 songs - 1 day 14 hr 19 min
+892 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,9 @@
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2022-10-28 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-13 |
 | [Nostalgia](https://open.spotify.com/track/7mqFhE493l53bq0XNiccgk) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/56KoK3U87kpNUP1CXeDlmC) | 2:28 | 2022-09-16 | 2022-11-04 |
+| [Nostalgic](https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Nostalgic](https://open.spotify.com/album/2sAoh43R2UOHgKF5cuNiuk) | 2:53 | 2025-08-18 |  |
 | [Now and Always](https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Now and Always](https://open.spotify.com/album/6p2dyzjZvDiVZib2tSRjt0) | 2:27 | 2025-06-16 |  |
+| [Now Let's Move On](https://open.spotify.com/track/4Ch7WJ7oWgjCNR0gTSWnxu) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Now Let's Move On](https://open.spotify.com/album/11DnBfUveDGErBMm4h8zQo) | 2:23 | 2025-08-18 |  |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Nowhere Else](https://open.spotify.com/track/63dPaneJgIQRJ7pBFfBUYQ) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Nowhere Else](https://open.spotify.com/album/56m8lQ0V1nBe3soxpvDoyv) | 3:05 | 2022-12-09 | 2023-03-25 |
 | [Nuages](https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ) | [Alain Levet](https://open.spotify.com/artist/6P8zq55n2r1dlVgQuIRZcM) | [Nuages](https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ) | 2:05 | 2021-12-08 | 2022-09-09 |
@@ -806,6 +808,7 @@
 | [This Time Tomorrow](https://open.spotify.com/track/4Eivcpu9MoHaEvYLJ9fV4k) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/3efIhVkzBPxJnYHVy2me9S) | 2:09 | 2023-04-21 | 2023-05-13 |
 | [This Time Tomorrow](https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV) | 2:09 | 2022-10-28 | 2023-05-06 |
 | [This Time Tomorrow](https://open.spotify.com/track/6OpC8QfhcsesgXzZvm8gqX) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/1YtMptZExJhRBXGaHic3Mh) | 2:09 | 2022-10-28 | 2022-11-04 |
+| [This Yellow Light](https://open.spotify.com/track/4kctoVJ5NcwQxD8MwKcsa4) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [This Yellow Light](https://open.spotify.com/album/5H1LeHCf7tV7ydiInjejnv) | 2:20 | 2025-08-18 |  |
 | [Through Space And Time](https://open.spotify.com/track/7ntTUba89GDgmTiIDaF9FU) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Through Space And Time](https://open.spotify.com/album/43ZdDQgeDHozcQIuojFdBR) | 2:33 | 2024-09-03 |  |
 | [Through the canyon](https://open.spotify.com/track/7IfuYpqyqgoXHEoaQOmzZg) | [Feran Ali](https://open.spotify.com/artist/2Gpe2ttb0vi4UU3fT5h92j) | [through the canyon](https://open.spotify.com/album/3dbAktoedWmlxLDXffMk0O) | 3:36 | 2021-12-08 | 2022-07-08 |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2021-12-08 | 2022-02-16 |

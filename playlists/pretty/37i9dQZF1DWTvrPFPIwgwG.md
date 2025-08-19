@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Léa Mendonça, Nathália Braga
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,142 likes - 80 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,217 likes - 80 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 61 | [Exército de Deus](https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Exército de Deus](https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB) | 4:14 |
 | 62 | [Na Mesa do Rei \- Ao Vivo](https://open.spotify.com/track/62KvypUN9K2JsuXIdNoq5y) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe), [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Na Mesa do Rei \(43 Anos Louvor Eterno\) \[Ao Vivo\]](https://open.spotify.com/album/44qgToIXG9M2x54KsX2Pco) | 5:39 |
 | 63 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/2dU1myKI3jBTUL7qihW36S) | [Polyana Martins](https://open.spotify.com/artist/7ECTf4oBo2jD5mRpL6Ik8x), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/1PNy00WY2GINNmKOrMBQEw) | 5:03 |
-| 64 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 |
+| 64 | [Estou Entrando em Ação](https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Estou Entrando em Ação](https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR) | 3:55 |
 | 65 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 66 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 |
 | 67 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 |
 | 68 | [Ele Chegou](https://open.spotify.com/track/6czsbtcl0WM4v9ZQxtUNvL) | [Thalita Roberta](https://open.spotify.com/artist/1yZUa312JkTmgQCEzp8QTc) | [Ele Chegou](https://open.spotify.com/album/7bcEptglfy57a0Amos1PXx) | 4:24 |
-| 69 | [Estou Entrando em Ação](https://open.spotify.com/track/4VLvDWUuhETWPPDRC1tuz0) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Estou Entrando em Ação](https://open.spotify.com/album/5pp8sRz0MtLYOa04rWA5RR) | 3:55 |
+| 69 | [Minha Adoração](https://open.spotify.com/track/1uLGapMMnKlayfxgcMWMKH) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Minha Adoração](https://open.spotify.com/album/27KiQW9c0B3oUD8lgzwQeo) | 3:50 |
 | 70 | [Deus Está Cuidando](https://open.spotify.com/track/2QYwV00xEXGE6fxnsCG9GO) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Deus Está Cuidando](https://open.spotify.com/album/6X9BxQYSamEcZrrigmRw6X) | 4:02 |
 | 71 | [Esvaziando a Casa](https://open.spotify.com/track/48yLKnpr7Vu8tIXDSLCKS8) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Esvaziando a Casa](https://open.spotify.com/album/5PHdajlqc96BJm3wy5Hswd) | 4:41 |
 | 72 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 |

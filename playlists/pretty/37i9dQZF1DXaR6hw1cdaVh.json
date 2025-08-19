@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 2779,
+  "num_followers": 2783,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Aspettando Il Sole",
-      "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Rossetto e caff\u00e8 (con The Kolors)",
         "url": "https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 189174,
       "name": "Rossetto e caff\u00e8 (con The Kolors)",
       "url": "https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Aspettando Il Sole",
+      "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
     },
     {
       "added_at": "2025-03-03 09:30:09",

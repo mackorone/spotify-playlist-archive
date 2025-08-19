@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100. ",
-  "num_followers": 338172,
+  "num_followers": 338149,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACsu2gsNaJL4fdD4HuIGmOFeChwJ",
+  "snapshot_id": "AAAAAGwW4XXirW2vBZQdSqRNES7anufA",
   "tracks": [
     {
       "added_at": "2025-08-14 22:00:23",
@@ -387,6 +387,26 @@
       "duration_ms": 206421,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/3KhLHYsBY487ITDnPXV2Ka"
+    },
+    {
+      "added_at": "2025-08-18 09:30:58",
+      "album": {
+        "name": "Para Love & pain",
+        "url": "https://open.spotify.com/album/68KW6nPPIZGJoYaJY973Wp"
+      },
+      "artists": [
+        {
+          "name": "Dj Yosef",
+          "url": "https://open.spotify.com/artist/7pzhTqdHeVnzlQI7MlISVI"
+        },
+        {
+          "name": "Gee Dixon",
+          "url": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Para Love & pain",
+      "url": "https://open.spotify.com/track/6yLIFt8K7YptjvW3lJf069"
     },
     {
       "added_at": "2025-08-14 22:00:23",

@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-446 songs - 19 hr 27 min
+450 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2022-05-20 | 2025-05-03 |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-06-19 |  |
 | [Little Prince](https://open.spotify.com/track/175xBbzJoYRG4UTg1rzHo6) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Little Prince](https://open.spotify.com/album/2C2ZSqbsCYG9Ie5TAo2VPS) | 2:14 | 2022-05-20 | 2024-04-10 |
+| [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-18 |  |
 | [Look Up to the Sky](https://open.spotify.com/track/6xW68JTOivTwIp1IQZlwG6) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Look Up to the Sky](https://open.spotify.com/album/1ojMdYZXJgiHuU0yCjobQu) | 2:43 | 2022-05-20 | 2022-07-29 |
 | [Look Up To The Sky](https://open.spotify.com/track/0CIJlBwkFV5xlW5333fYfM) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [L.I.Y.](https://open.spotify.com/album/3mV1VLijQb7T5B02CXeciT) | 2:43 | 2022-07-20 | 2024-03-26 |
 | [Looking Back](https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN) | [Noomi Meerbach](https://open.spotify.com/artist/2xKGduzNgzli3Ei0q1ofUh) | [Looking Back](https://open.spotify.com/album/2Noa0HFFFuk4Q8CUdsti1U) | 2:14 | 2025-05-02 |  |
@@ -233,6 +234,7 @@
 | [Memoir](https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Memoir](https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5) | 3:22 | 2022-05-20 | 2024-03-26 |
 | [Merveilleuse](https://open.spotify.com/track/6kZ14gn3QybpPztoPsjGSB) | [Valeria Henkel](https://open.spotify.com/artist/1kq42V5pELv36iedUE4EyN) | [Merveilleuse](https://open.spotify.com/album/4gTLaDmQEP0AXOLE4IiVg9) | 2:01 | 2022-05-20 | 2024-04-10 |
 | [Min Melodi](https://open.spotify.com/track/0rafHfCcXPvNoLf5uHQvpr) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Min Melodi](https://open.spotify.com/album/6giwofFjR9fiTaKM6mTUl6) | 2:10 | 2022-05-20 | 2025-05-03 |
+| [Mirume](https://open.spotify.com/track/01O7m41vXkQiqPZWgtoDA5) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Mirume](https://open.spotify.com/album/01QSQrULUly8nsz3RqB1xY) | 2:34 | 2025-08-18 |  |
 | [Moonlight](https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Moonlight](https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz) | 2:20 | 2022-05-20 |  |
 | [Moontalk](https://open.spotify.com/track/1a8Vb0yblKsHzkDnyNttxe) | [Raphael Azalea](https://open.spotify.com/artist/2dXSgyqHAuBy36201Q7B7H) | [Moontalk](https://open.spotify.com/album/1eBHDhxNaq47Uh6omiAS0p) | 3:17 | 2022-05-20 | 2024-04-10 |
 | [Moving Forward](https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Moving Forward](https://open.spotify.com/album/49wTfncMF0lOpFyYZsmkVu) | 2:06 | 2022-05-20 | 2025-02-25 |
@@ -296,6 +298,7 @@
 | [Quietude](https://open.spotify.com/track/6XjpcauNCCzSQwsLQFKZKz) | [Rudy Bloom](https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI) | [Quietude](https://open.spotify.com/album/45e7kkoM0O6zrVIjILhC2h) | 2:14 | 2025-07-09 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-05-20 | 2025-04-17 |
 | [Rainy Day](https://open.spotify.com/track/617kNUnrMKYKGIpAsC93O7) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Rainy Day](https://open.spotify.com/album/3Ewl07iOLShjXRTAdC61se) | 3:06 | 2022-05-20 | 2024-03-26 |
+| [Reason to Stop](https://open.spotify.com/track/3VwzDRmxEpp5O58v3tMeSh) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Reason to Stop](https://open.spotify.com/album/6BlzhI9X3enKQJuTWHGCaz) | 2:22 | 2025-08-18 |  |
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2022-05-20 | 2025-04-17 |
 | [Reflecting Light](https://open.spotify.com/track/23KyFDMg46ZMlAQl2lmdx2) | [Eiriaan Deryn](https://open.spotify.com/artist/3EyjJa5bAgJd741pdHTMki) | [Reflecting Light](https://open.spotify.com/album/5aHQYh5sVudB8lBM6zY740) | 2:27 | 2025-07-21 |  |
 | [Reflections](https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reflections](https://open.spotify.com/album/11xwClKSNpUm1w1dYE4HnI) | 2:09 | 2022-05-20 | 2025-04-17 |
@@ -327,7 +330,7 @@
 | [Senza tentazioni, senza onore](https://open.spotify.com/track/0cS3uE3snbema8S5QRRboX) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [Senza tentazioni, senza onore](https://open.spotify.com/album/0eHlLV2RtEkYwSahIWHigt) | 2:44 | 2022-05-20 | 2024-03-26 |
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2022-05-20 | 2025-05-03 |
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-05-20 |  |
-| [Shimmer](https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Shimmer](https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk) | 2:31 | 2025-07-21 |  |
+| [Shimmer](https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Shimmer](https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk) | 2:31 | 2025-07-21 | 2025-08-19 |
 | [Short and Sweet and Bitter](https://open.spotify.com/track/2BcxMS8oxlV0JOcWQfhbns) | [Blake Thompson](https://open.spotify.com/artist/1Y0YmcxIp8Jba8pFSh9V2F) | [Today Is Tomorrow / Tomorrow Is Today](https://open.spotify.com/album/2X9wsB1NLxPVPSmNjC3QS2) | 2:09 | 2022-05-20 | 2024-04-10 |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-05-20 | 2024-04-10 |
 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-05-20 |  |
@@ -376,6 +379,7 @@
 | [Tanken för oss vidare](https://open.spotify.com/track/3C4ZKKPtMbexPnb09lPB6n) | [Melvin Norberg](https://open.spotify.com/artist/4RchcrG8Z6KMGWob3D8Oe0) | [Tanken för oss vidare](https://open.spotify.com/album/6Elc1jsVKdtmqIbnCc0rij) | 2:11 | 2022-05-20 | 2023-07-05 |
 | [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-05-20 |  |
 | [Temps perdu](https://open.spotify.com/track/3Nn9FtU41jUR4TiPKxXxuh) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Soirées sans toi](https://open.spotify.com/album/2jr93PoNSOId5WOYxIJtgJ) | 2:02 | 2022-05-20 | 2024-04-04 |
+| [Tender Sun](https://open.spotify.com/track/1tsMW9wt8tHdSm0B19FllT) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Tender Sun](https://open.spotify.com/album/6bYGLawfZ0AY1mOCdgCh6E) | 2:31 | 2025-08-18 |  |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2022-05-20 |  |
 | [The Calm I Feel With You](https://open.spotify.com/track/79ipXyEKejaMsqMc3VMwYA) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Calm I Feel With You](https://open.spotify.com/album/0XKTyN8365BXT1ONPgtGDZ) | 2:24 | 2022-05-20 | 2024-04-10 |
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2022-05-20 |  |

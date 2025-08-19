@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
-  "num_followers": 1837405,
+  "num_followers": 1837247,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWo0cepQGeZ6GDBTB5ZwPI+Bh1d",
+  "snapshot_id": "AAAAAK793CmnB3qB2vgK1CRnsOoljxj0",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:21",
@@ -125,6 +125,38 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
+      "added_at": "2025-04-28 13:34:33",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
+      "added_at": "2025-07-18 04:00:21",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 168056,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
+    },
+    {
       "added_at": "2025-08-15 04:00:21",
       "album": {
         "name": "It\u2019s Alright",
@@ -157,22 +189,6 @@
       "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
-      "added_at": "2025-04-28 13:34:33",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nobody New",
-      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
-    },
-    {
       "added_at": "2025-08-15 04:00:21",
       "album": {
         "name": "I Feel Bad For You, Dave",
@@ -187,22 +203,6 @@
       "duration_ms": 183035,
       "name": "I Feel Bad For You, Dave",
       "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 168056,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
     },
     {
       "added_at": "2025-08-15 04:00:21",
@@ -267,6 +267,22 @@
       "duration_ms": 170232,
       "name": "DRIVING",
       "url": "https://open.spotify.com/track/2KiBL8Mj9VXJk95hpR0Y5l"
+    },
+    {
+      "added_at": "2025-08-18 23:28:48",
+      "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/1qyll2DNY9P9C0JWw8hyCn"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 168565,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/2V0IwUfEQaDvVYlUAsz3nk"
     },
     {
       "added_at": "2025-08-15 04:00:21",
@@ -755,22 +771,6 @@
       "duration_ms": 166666,
       "name": "Ramona",
       "url": "https://open.spotify.com/track/4xCfoEDoc2lR5O5Q6bF6Kd"
-    },
-    {
-      "added_at": "2025-08-01 04:00:27",
-      "album": {
-        "name": "Reach",
-        "url": "https://open.spotify.com/album/1Il2gSQNo91NycABId7xbg"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 173301,
-      "name": "Reach",
-      "url": "https://open.spotify.com/track/3BnfPpuiZYueTDASS6UE7o"
     },
     {
       "added_at": "2025-07-11 04:00:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,143 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,149 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 28 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
 | 29 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
 | 30 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
-| 31 | [Spaced Out](https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Spaced Out](https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I) | 3:57 |
-| 32 | [Zeig mir](https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 3:25 |
+| 31 | [Zeig mir](https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Zeig mir](https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY) | 3:25 |
+| 32 | [Spaced Out](https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Spaced Out](https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I) | 3:57 |
 | 33 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 |
 | 34 | [Bitter Pill](https://open.spotify.com/track/4mWzxSV8E5QkaH2y97jBCy) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Missed Connections Collection](https://open.spotify.com/album/3VbZpY0kD7Ghx81QS8XMkC) | 2:45 |
 | 35 | [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 |

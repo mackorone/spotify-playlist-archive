@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,305 likes - 115 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,340 likes - 115 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 79 | [You Don't Have to Be a Star \(To Be In My Show\)](https://open.spotify.com/track/2JurHS80N98Yt3CdIBYz9M) | [Marilyn McCoo](https://open.spotify.com/artist/2jirMwr4cHJzjtx8vDX5IO), [Billy Davis Jr.](https://open.spotify.com/artist/090k1Fxa70NDQvkXmQBUfW) | [I Hope We Get To Love In Time](https://open.spotify.com/album/6Vwss896snaZfuyr351z99) | 4:39 |
 | 80 | [Highschool Steady](https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Boonie Town](https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon) | 4:19 |
 | 81 | [Love You Most](https://open.spotify.com/track/7p9FUXsiQD12A3LMxkzzMh) | [Laura Jean Anderson](https://open.spotify.com/artist/2SHGDNcy2dtMu7YSDV19r0) | [Lonesome No More](https://open.spotify.com/album/3Po6WS22068XclNCiZqDIi) | 3:07 |
-| 82 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
-| 83 | [Red Wine](https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh) | [Grapetooth](https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI) | 3:59 |
+| 82 | [Red Wine](https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh) | [Grapetooth](https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI) | 3:59 |
+| 83 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
 | 84 | [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 |
 | 85 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
 | 86 | [Sun & Moon](https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Sun & Moon](https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g) | 2:45 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 93 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Turn The World On](https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3) | 3:35 |
 | 94 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
 | 95 | [Upside Down](https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:37 |
-| 96 | [Picture Frame](https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Picture Frame](https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU) | 3:15 |
-| 97 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
-| 98 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
+| 96 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
+| 97 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
+| 98 | [Picture Frame](https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m) | [Hector Morlet](https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A) | [Picture Frame](https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU) | 3:15 |
 | 99 | [Love Is A Place](https://open.spotify.com/track/3G1ZLjtCjNC0qusZkWt5or) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Feel Good](https://open.spotify.com/album/0F74qX4d5E7Qq6vrTb9nrE) | 3:05 |
 | 100 | [Find Somebody to Love](https://open.spotify.com/track/7D4mBnlIlSG7VBvAljjkZS) | [Dante Elephante](https://open.spotify.com/artist/3RdlkFPALHduIIZSinXgJZ) | [Mid\-Century Modern Romance](https://open.spotify.com/album/3lquhZzldiNKkeBxSEDUuJ) | 3:12 |
 | 101 | [Tell Me With Your Eyes \(Just Be You\)](https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108) | [Rob Galbraith](https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc) | [Damn It All](https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd) | 3:47 |

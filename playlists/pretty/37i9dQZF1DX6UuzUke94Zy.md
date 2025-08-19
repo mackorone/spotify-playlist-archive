@@ -1,35 +1,32 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UuzUke94Zy.md) - [plain](/playlists/plain/37i9dQZF1DX6UuzUke94Zy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6UuzUke94Zy)
 
-### [MEETING ROOM \- 002](https://open.spotify.com/playlist/37i9dQZF1DX6UuzUke94Zy)
+### [MEETING ROOM \- 003](https://open.spotify.com/playlist/37i9dQZF1DX6UuzUke94Zy)
 
-> Enjoy the LIVE SET including the voices of them on stage! \(가수들의 무대 멘트와 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
+> Get ready for the upcoming concert by listening to the best songs from the concert lineup! The interview is coming soon! \(미팅룸 참가 라인업의 베스트 곡들을 들으며 다가오는 공연을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 23 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 497 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer Game](https://open.spotify.com/track/7qrOo0Hzv2qa9FllU4eyP3) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 4:15 |
-| 2 | [Playing With Fire](https://open.spotify.com/track/5M0xXqKL5dfJyGNzZN8xfK) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 4:39 |
-| 3 | [Ment 1](https://open.spotify.com/track/6ZLWkbK2SwCqbOopkwFzYy) | [MEETING ROOM 002](https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb) | [MEETING ROOM 002](https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY) | 0:37 |
-| 4 | [Flower Tail](https://open.spotify.com/track/6PorHyMtGAV6tfuY37gGDL) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 5:21 |
-| 5 | [Journey](https://open.spotify.com/track/15OhePm7rHFdHUCHsbs1jj) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 4:56 |
-| 6 | [Ment 2](https://open.spotify.com/track/3qFFLvZS7leTxbjHLNPud6) | [MEETING ROOM 002](https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb) | [MEETING ROOM 002](https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY) | 0:58 |
-| 7 | [Surfer](https://open.spotify.com/track/6C221NQLt7j0cTeye3WUEf) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [저마다 섬](https://open.spotify.com/album/7xzXHPEwf14sQV05govqIx) | 5:39 |
-| 8 | [Polydream](https://open.spotify.com/track/6HNgyf3EW5WHSOPkHBbo0Q) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [But, All The Shining Things Are](https://open.spotify.com/album/0eqP61faNvX5GvRQC0FJpg) | 6:41 |
-| 9 | [Ment 3](https://open.spotify.com/track/5AQMXp1JVOSQACqJmd86jz) | [MEETING ROOM 002](https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb) | [MEETING ROOM 002](https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY) | 0:25 |
-| 10 | [One, World, Wound](https://open.spotify.com/track/7KBolE43T13MHuiPLYV5x0) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [Yonder](https://open.spotify.com/album/2E5tMaHVEGNDaMJecE0Nuh) | 5:16 |
-| 11 | [Wannabesadsong](https://open.spotify.com/track/08Kx6ySadZUuHludLcD1bR) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 3:05 |
-| 12 | [Strawberry Jam](https://open.spotify.com/track/4i7p00tYpD0EP4z8x6gV3Q) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 2:45 |
-| 13 | [Kor hai ter](https://open.spotify.com/track/5yJn5NY5DiSQSeir4ccIsi) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Drowsiness of DOEK](https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy) | 4:30 |
-| 14 | [Anytime](https://open.spotify.com/track/3gw7wDia6YZfngCTPw8Eon) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 3:32 |
-| 15 | [Happiness](https://open.spotify.com/track/52WxJyEO3MqIO4XXl0YbMK) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 3:05 |
-| 16 | [Made in...](https://open.spotify.com/track/0cGGVk8iPAJ5mjTxiWfZBx) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Drowsiness of DOEK](https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy) | 3:55 |
-| 17 | [Poppy Love](https://open.spotify.com/track/5craJQqSUloqin0oDRYX8S) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 3:59 |
-| 18 | [I'M GONNA BREAKDOWN AGAIN](https://open.spotify.com/track/7m7zxiGX2CUkeN2Z8GjWVg) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [I'M GONNA BREAKDOWN AGAIN](https://open.spotify.com/album/48Nw5E9oWA603BQXtphrsf) | 4:40 |
-| 19 | [Ment 4](https://open.spotify.com/track/592CfdkHU5V4l8CaeA6meE) | [MEETING ROOM 002](https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb) | [MEETING ROOM 002](https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY) | 0:35 |
-| 20 | [Playphone](https://open.spotify.com/track/6jGnHFWgHRNsOQYwnxru5b) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 3:03 |
-| 21 | [East To Earth](https://open.spotify.com/track/1eVbCGzNmahnxDz77Gch9G) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 3:46 |
-| 22 | [SEED](https://open.spotify.com/track/6PCVA9thJoTOHsUQXnBgv0) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [Drowsiness of DOEK](https://open.spotify.com/album/4qvBmKdz5avFtBXuynS0Sy) | 3:34 |
-| 23 | [Ment 5](https://open.spotify.com/track/72NGENWmtIGy7ejLvGyuc6) | [MEETING ROOM 002](https://open.spotify.com/artist/5GvMOhxCGbJc4Aq2lpi8xb) | [MEETING ROOM 002](https://open.spotify.com/album/3nBgfAFLqGZkDTr90mKtWY) | 0:21 |
+| 1 | [Won't you?](https://open.spotify.com/track/0oL8vlLaLRsYCEyDss5PZQ) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Won't you?](https://open.spotify.com/album/3w41fuqVfOS9kDQB9aAZMY) | 3:37 |
+| 2 | [Spark](https://open.spotify.com/track/46dP96TQFzvN2B9ooZU71M) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Spark / We are](https://open.spotify.com/album/0MHyGPalB2c3SylEihpta7) | 4:29 |
+| 3 | [We are](https://open.spotify.com/track/4jh1Kdr6vSpK8eJA6D35P0) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Spark / We are](https://open.spotify.com/album/0MHyGPalB2c3SylEihpta7) | 3:14 |
+| 4 | [Setlist](https://open.spotify.com/track/3PMC2YahHcH5Os4UxltxGK) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Setlist](https://open.spotify.com/album/03dgmJioZifw93AEEWSRr1) | 3:21 |
+| 5 | [I'll be right back](https://open.spotify.com/track/2TiGK5ND9Bg7AJVaqaM78A) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [HOME / I'll be right back](https://open.spotify.com/album/5eIRWLBBZQkUN9yuEoFgGG) | 2:58 |
+| 6 | [Hello, dear](https://open.spotify.com/track/1fBNXvAHPDjz8aaTnLyOSG) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Hello, dear](https://open.spotify.com/album/4X2odKcCcezLSxgA4RqQJP) | 3:55 |
+| 7 | [329](https://open.spotify.com/track/7FFDwhViwo7ktmQWCUSsn4) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [329](https://open.spotify.com/album/39s5q7yBAT45VREDmk2g0a) | 4:47 |
+| 8 | [Poison](https://open.spotify.com/track/0GiMrfJGSkV4jDRBD1cvLg) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Poison](https://open.spotify.com/album/7kqTZrumCCnTMVw7JfktGq) | 4:12 |
+| 9 | [Sun and Moon](https://open.spotify.com/track/45dkEqluQvEsyAXn6YLiN4) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Sun and Moon](https://open.spotify.com/album/4u9xSSJ9rQ9Q1tK7sAFfcK) | 3:15 |
+| 10 | [Bentobox](https://open.spotify.com/track/3HcSgPisj1tyZVTEAoFLTI) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Me & My Sandcastle](https://open.spotify.com/album/0uWt0cUCmhxa7EvxaSYN4y) | 3:18 |
+| 11 | [Loving U](https://open.spotify.com/track/0oekS1KM8vSFz63bzC5WA5) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Me & My Sandcastle](https://open.spotify.com/album/0uWt0cUCmhxa7EvxaSYN4y) | 1:37 |
+| 12 | [Rotten Apple](https://open.spotify.com/track/6viCYDKfLqZ7xYYPFEEgWA) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Me & My Sandcastle](https://open.spotify.com/album/0uWt0cUCmhxa7EvxaSYN4y) | 2:30 |
+| 13 | [Vancouver](https://open.spotify.com/track/1m8C2Paw6OIKFoUChAyQMd) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Love is Waiting](https://open.spotify.com/album/6b8J2KXHyQv0zGwViYVKUb) | 3:28 |
+| 14 | [Blue Honey Boy](https://open.spotify.com/track/0mZ2YaB2R6jjxQRI1mmmAS) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Love is Waiting](https://open.spotify.com/album/6b8J2KXHyQv0zGwViYVKUb) | 3:03 |
+| 15 | [Better Life](https://open.spotify.com/track/0DkOo8f6aLyisYxPKGtwfN) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Better Life](https://open.spotify.com/album/0Z2zy2EJfu3ae4nEOcAE8E) | 2:40 |
+| 16 | [I Don't Know Why](https://open.spotify.com/track/14Qf1KPEfETQ1W77zOe3vD) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [I Don't Know Why](https://open.spotify.com/album/3Kwet06JScaBgTgd25oRaP) | 2:41 |
+| 17 | [Super Slimy](https://open.spotify.com/track/4hrZguj39lbrkeQZ0EUKST) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Ballads](https://open.spotify.com/album/6882ATszJ5UBVO61ARdLHI) | 2:37 |
+| 18 | [Dearie](https://open.spotify.com/track/3e6qvJ5Q29aaT3GuRmJsLo) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Ballads](https://open.spotify.com/album/6882ATszJ5UBVO61ARdLHI) | 2:45 |
+| 19 | [Loves Song for You](https://open.spotify.com/track/1yZ76UBdEoOrZclUIePwdI) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Me & My Sandcastle](https://open.spotify.com/album/0uWt0cUCmhxa7EvxaSYN4y) | 3:02 |
+| 20 | [Goodbye](https://open.spotify.com/track/1OgrDri9saxxlPRgICzKBF) | [Me and My Sandcastle](https://open.spotify.com/artist/4KtproRH8QOCQZLuAZ8lfw) | [Me & My Sandcastle](https://open.spotify.com/album/0uWt0cUCmhxa7EvxaSYN4y) | 2:10 |
 
-Snapshot ID: `AAAAABSvbw1mT21Mtb4rhJ3vQIQVLOgY`
+Snapshot ID: `AAAAAGZ+xyTt3SRtDh4N2VpwaYFz6Pgf`

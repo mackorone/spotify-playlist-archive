@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2025! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,290 likes - 104 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,258 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

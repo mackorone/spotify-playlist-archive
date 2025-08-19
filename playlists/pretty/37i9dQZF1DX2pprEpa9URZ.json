@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 869691,
+  "num_followers": 869852,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,26 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "Masterclass",
+        "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Masterclass",
+      "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Copal",
         "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
       },
@@ -519,6 +539,22 @@
       "duration_ms": 364543,
       "name": "Copal",
       "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -551,42 +587,6 @@
       "duration_ms": 161463,
       "name": "Forever (feat. Malou & Yuna) - MEDUZA Remix",
       "url": "https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Masterclass",
-        "url": "https://open.spotify.com/album/0EnaDpMlUTsWUVRPhwxPCD"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Masterclass",
-      "url": "https://open.spotify.com/track/043vqBDn7RzuxJ1FF35Qht"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -719,30 +719,6 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "For Your Love",
-        "url": "https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5"
-      },
-      "artists": [
-        {
-          "name": "Ape Drums",
-          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
-        },
-        {
-          "name": "Eli Fola",
-          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
-        },
-        {
-          "name": "BL SUEDE",
-          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
-        }
-      ],
-      "duration_ms": 234098,
-      "name": "For Your Love",
-      "url": "https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
         "name": "Feather (The Remixes)",
         "url": "https://open.spotify.com/album/3aWgeXUCtaij7yq0C9bY2h"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 427102,
       "name": "Feather - Iorie & Madmotormiquel Remix",
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
+        "name": "For Your Love",
+        "url": "https://open.spotify.com/album/3McW2K18hLs05ITChrOFi5"
+      },
+      "artists": [
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "Eli Fola",
+          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
+        },
+        {
+          "name": "BL SUEDE",
+          "url": "https://open.spotify.com/artist/42qJzNLnCckP7GR44Yj10j"
+        }
+      ],
+      "duration_ms": 234098,
+      "name": "For Your Love",
+      "url": "https://open.spotify.com/track/6998jneiE4UCmXvuvbmdfj"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
+        "name": "6 Years of Underyourskin Records",
+        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+      },
+      "artists": [
+        {
+          "name": "Ameli Paul",
+          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Worak",
+      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
         "name": "Boho",
         "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "6 Years of Underyourskin Records",
-        "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
       "artists": [
         {
-          "name": "Ameli Paul",
-          "url": "https://open.spotify.com/artist/2pVs2F50UrSwUthN16rTJc"
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
         }
       ],
-      "duration_ms": 418364,
-      "name": "Worak",
-      "url": "https://open.spotify.com/track/4bBT53FvvtFqHJm9iq7G7L"
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1227,22 +1243,6 @@
       "duration_ms": 294661,
       "name": "El Dolor",
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2025-07-25 13:07:26",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-07-25 13:07:26",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
-    },
-    {
-      "added_at": "2025-07-25 13:07:26",
-      "album": {
         "name": "La China",
         "url": "https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 263731,
       "name": "La China",
       "url": "https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn"
+    },
+    {
+      "added_at": "2025-07-25 13:07:26",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
     },
     {
       "added_at": "2025-07-25 13:07:26",

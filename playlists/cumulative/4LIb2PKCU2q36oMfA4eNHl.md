@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-342 songs - 22 hr 7 min
+343 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Don't Say \- Instrumental](https://open.spotify.com/track/3ZVnpF0nswgeRdB4VAghuR) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/5zYe84xXrowFDhQAm5dZdl) | 4:25 | 2024-12-13 | 2025-01-14 |
 | [Don't Say \- Talee's Pool Party Mix](https://open.spotify.com/track/5BjwwUEhzvWGAS43Uz7hwo) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Talee](https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju) | [Don't Say \(Talee's Pool Party Mix\)](https://open.spotify.com/album/0VkyvhRve3iOjjIChODhAi) | 4:25 | 2024-06-03 | 2024-09-07 |
 | [Dream Bird](https://open.spotify.com/track/0eL5ZqXLDSn9i8Qdu5Zdyv) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Beyond](https://open.spotify.com/album/1DH9ByUwxo4dsb8mdcysYX) | 4:21 | 2025-04-04 | 2025-08-16 |
-| [Dreamtime](https://open.spotify.com/track/1X3vI6YOzamh66p41dXdbf) | [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs) | [Anjunadeep pres\. Reflections Vol\. 3](https://open.spotify.com/album/4fzBUyic1xApan1JdHkqro) | 4:54 | 2025-01-13 |  |
+| [Dreamtime](https://open.spotify.com/track/1X3vI6YOzamh66p41dXdbf) | [PBSR](https://open.spotify.com/artist/1hcR66sinceJiPFq2AgCGs) | [Anjunadeep pres\. Reflections Vol\. 3](https://open.spotify.com/album/4fzBUyic1xApan1JdHkqro) | 4:54 | 2025-01-13 | 2025-08-19 |
 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 | 2025-08-15 |  |
 | [Drift](https://open.spotify.com/track/359IU7ufcyC2QbI5YS03e1) | [Tropicalpurples](https://open.spotify.com/artist/5P14dIQyeZyLCJpi5uhVRd) | [Uhh.\. EP](https://open.spotify.com/album/1qEaa6JOjp0TG9r20FBv8q) | 3:58 | 2025-02-28 |  |
 | [Earth](https://open.spotify.com/track/7mdzJQh0hDRo4qIf7pHsnX) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 5:08 | 2023-12-08 | 2024-01-13 |
@@ -306,6 +306,7 @@
 | [Sunrise Song](https://open.spotify.com/track/2gsa8ffLRpj0QrgsTWdJxF) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Life at Full Speed](https://open.spotify.com/album/0nWAp3Dhfy2a4tyaHMVSPr) | 3:47 | 2025-01-13 | 2025-08-16 |
 | [Sunrise Song \- Luttrell Revisit](https://open.spotify.com/track/4ut30hNj4ye8hwkHcqbwXj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Sunrise Song \(Luttrell Revisit\)](https://open.spotify.com/album/4Uc9g6bHlSNL2NzWzd6vMh) | 3:04 | 2025-02-07 |  |
 | [Sunset On The Boat](https://open.spotify.com/track/6e76gax0FFPEKjcmDB5flE) | [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [Sunset On The Boat](https://open.spotify.com/album/4Gp9GCHjWNusbquVbPNQ2A) | 3:59 | 2024-12-06 | 2025-01-14 |
+| [Sweet Mistake \- Mark Novas Revisit](https://open.spotify.com/track/22K4LxC5HmgxOVBZQmFQXn) | [Mark Novas](https://open.spotify.com/artist/2iRVKO828lhfFL0RGyS7Ya) | [Sweet Mistake \(Mark Novas Revisit\)](https://open.spotify.com/album/6BqWWG5vACvVTrEkft6LHS) | 4:32 | 2025-08-18 |  |
 | [Swirl](https://open.spotify.com/track/0Uj30EguEhtuNlzMTI2i86) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:14 | 2024-03-28 | 2024-04-13 |
 | [Swirl \- Instrumental](https://open.spotify.com/track/074qbAwLg0AGlWrx69NVXG) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight \(Instrumentals\)](https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt) | 4:11 | 2024-05-03 | 2024-06-04 |
 | [Thank You For Being With Us](https://open.spotify.com/track/3isilANQ3FmcSFoIEMAcnc) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [Duality \(Part One\)](https://open.spotify.com/album/5HPjhrehkdM0dLeO6dPN4h) | 1:42 | 2025-01-13 | 2025-02-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Frayle
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,808 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,842 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 79 | [bloom](https://open.spotify.com/track/45BDRlc6wxYRKkmVWEPKlr) | [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [bloom](https://open.spotify.com/album/4qvVYqVmJE1f0UcSD3xwIj) | 2:33 |
 | 80 | [Out of Time](https://open.spotify.com/track/4Fml0YNyT7BCVYLzHrkGii) | [Neroargento](https://open.spotify.com/artist/1SOuNgUgA2KQ5vzae2EHbL) | [Out of Time](https://open.spotify.com/album/6A3F4CEWGx3lUqmMFS3geS) | 4:10 |
 
-Snapshot ID: `AAAAANSqYd4s+4KSVPbgAfhkM+XVq7K5`
+Snapshot ID: `AAAAAMF4rLqEtRT+10h+SFXfFb5pQQ06`

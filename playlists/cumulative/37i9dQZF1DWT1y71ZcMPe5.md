@@ -2,7 +2,7 @@
 
 ### [It's a Hit!](https://open.spotify.com/playlist/37i9dQZF1DWT1y71ZcMPe5)
 
-> The hottest songs you need to listen to right now\. Cover: Ed Sheeran
+> The hottest songs you need to listen to right now\. Cover: Maroon 5
 
 902 songs - 1 day 23 hr 27 min
 

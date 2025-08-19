@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24742,
+  "num_followers": 24744,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aJ/KAAAAAAD9naejkEXPUj9g3aTE1/Ny",
+  "snapshot_id": "aKEbgAAAAABbIAK/1QESwOF9J7NZ4ZCg",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smallfoot (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 132173,
       "name": "Wonderful Questions",
       "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/3fdSRtcCW3Jkl4M7Dv4rGK"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fashion Is My Kryptonite (from \"Shake It Up: Made In Japan\")",
         "url": "https://open.spotify.com/album/0KeTEWCMTNGLKvgS4mj8C9"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/6GjGwc7oCLRSo6pcTCjGab"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Todo Ritmo: I <3 Dance (Music From the TV Series)",
         "url": "https://open.spotify.com/album/5bTbeUe1dHjvpr6m2nN834"
       },
@@ -455,30 +455,6 @@
       "duration_ms": 135653,
       "name": "Contagious Love",
       "url": "https://open.spotify.com/track/1twMlAUezt1FcoXcK0Wydf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Live For",
-        "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 230207,
-      "name": "My Jam",
-      "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
     },
     {
       "added_at": null,
@@ -511,6 +487,30 @@
       "duration_ms": 177586,
       "name": "Scared",
       "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Live For",
+        "url": "https://open.spotify.com/album/3gioCmiIcOvqNRWBpMYrr5"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brackins",
+          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 230207,
+      "name": "My Jam",
+      "url": "https://open.spotify.com/track/02DaqClSJTt95OvsiroP5j"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Made in Japan",
         "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 214973,
       "name": "The Same Heart",
       "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,

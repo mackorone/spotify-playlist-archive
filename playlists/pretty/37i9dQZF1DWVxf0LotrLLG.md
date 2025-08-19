@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,855 likes - 297 songs - 15 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,852 likes - 297 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

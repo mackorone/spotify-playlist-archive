@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-842 songs - 1 day 12 hr 34 min
+844 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Pinus Cembra](https://open.spotify.com/track/0KfgAX6tVB7J4fO72KHkBO) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Pinus Cembra](https://open.spotify.com/album/4NcSdFGsfLU8g1d5dMrz5X) | 3:03 | 2021-12-08 | 2022-09-23 |
 | [Piumata](https://open.spotify.com/track/0SwMXhWI9pZO0lroyyjfCl) | [Briana Courtois](https://open.spotify.com/artist/16zv8egdYW4tjmgK2JqIwV) | [Piumata](https://open.spotify.com/album/3oKBrqXfzKn8vYJwAra3T1) | 2:13 | 2023-01-06 |  |
 | [Place of Mind](https://open.spotify.com/track/1pgpQZQvJv2cMxYVvUjJTF) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Place of Mind](https://open.spotify.com/album/2kLih1mDxzTgcQNhWDnPBx) | 2:39 | 2022-06-10 | 2022-07-29 |
+| [Poem for Tilde](https://open.spotify.com/track/0bIiRaD9SVBS3AiUc5nXJP) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [Poem for Tilde](https://open.spotify.com/album/3eTwYlkcKAYU3krsgx2aXw) | 3:09 | 2025-08-18 |  |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-08 |  |
 | [Polmont](https://open.spotify.com/track/6Mz1pP2PVuRP74MmjSMK6z) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/4H2kxZ43dRQdOTuAL6mw5r) | 2:16 | 2021-12-08 | 2022-06-10 |
 | [Pontevedra](https://open.spotify.com/track/345yw2L3H74BUqh08U7zbw) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Pontevedra](https://open.spotify.com/album/0QMI4BCWh5ZC8Ga7hmL7yT) | 2:31 | 2021-12-08 | 2023-04-22 |
@@ -662,6 +663,7 @@
 | [Sonnen Diamant](https://open.spotify.com/track/5QSUroBMs5XaGfNqzObDEs) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Sonnen Diamant](https://open.spotify.com/album/62sKHUtfxZbVkZPe1TKqbT) | 2:34 | 2021-12-08 | 2022-07-22 |
 | [sonnenkerze](https://open.spotify.com/track/7kwwhAnyPuAFnMccLJwfB8) | [Alexander Mane](https://open.spotify.com/artist/5N2ZZuM02DNnOCXt94LFmu) | [moon tides](https://open.spotify.com/album/6oBU6aev2mlzkB6vkGcJfH) | 3:24 | 2021-12-08 | 2024-04-19 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2024-02-23 |
+| [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 | 2025-08-18 |  |
 | [Sorrento](https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Sorrento](https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr) | 2:19 | 2023-08-17 | 2024-07-19 |
 | [Sorrowful Disappearance](https://open.spotify.com/track/73N0xkf8N6FJQXBb6o6V0l) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [Sorrowful Disappearance](https://open.spotify.com/album/5FWpJFZunTh3KsWAXwK5L8) | 2:29 | 2021-12-08 | 2024-04-19 |
 | [SOS](https://open.spotify.com/track/4Bbp5cIa0seUWq4at7xblM) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [SOS](https://open.spotify.com/album/4W1mcPXdm2gLWJU2SChCcs) | 3:40 | 2022-08-12 | 2023-02-25 |

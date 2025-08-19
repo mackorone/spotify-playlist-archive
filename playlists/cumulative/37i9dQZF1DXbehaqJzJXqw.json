@@ -918,7 +918,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 137959,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
@@ -2231,6 +2231,28 @@
     },
     {
       "album": {
+        "name": "Mon manque",
+        "url": "https://open.spotify.com/album/5ucknDpfTLNqn9AZOq1zjk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9el",
+          "url": "https://open.spotify.com/artist/1nqtZg8BBwRkE0pG4XMDqO"
+        },
+        {
+          "name": "Judith Chemla",
+          "url": "https://open.spotify.com/artist/748Ilg9wFIfkQK9Ik1lDSy"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "Mon manque",
+      "url": "https://open.spotify.com/track/3tTyk6R01iKRS4S5GzViid"
+    },
+    {
+      "album": {
         "name": "Paris Blues",
         "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
       },
@@ -2358,6 +2380,24 @@
       "duration_ms": 201807,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4"
+    },
+    {
+      "album": {
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148880,
+      "name": "Paris, Paris, Paris",
+      "url": "https://open.spotify.com/track/24VjdZZYQJuj85eqCjZQBq"
     },
     {
       "album": {
@@ -3194,7 +3234,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-19",
       "duration_ms": 203160,
       "name": "Un jour de diff\u00e9rence",
       "url": "https://open.spotify.com/track/0IF3SDHSSdfMGA0lkkku51"

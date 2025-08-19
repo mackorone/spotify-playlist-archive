@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Juan Magán, Abraham Mateo
 
-776 songs - 1 day 14 hr 54 min
+777 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [DE LUNES A LUNES](https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DE LUNES A LUNES](https://open.spotify.com/album/2ESHmQZeKsZgnEA6HTCKt9) | 3:08 | 2023-08-28 | 2023-09-08 |
 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 | 2023-10-16 | 2023-10-28 |
 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 | 2025-01-20 | 2025-02-11 |
-| [De Papel](https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [De Papel](https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ) | 2:46 | 2025-08-11 |  |
+| [De Papel](https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [De Papel](https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ) | 2:46 | 2025-08-11 | 2025-08-19 |
 | [DE PLASTILINA](https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [DE PLASTILINA](https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa) | 3:29 | 2023-10-19 | 2023-11-29 |
 | [De Vuelta](https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:47 | 2024-07-04 | 2025-03-28 |
 | [Dem Time Deh](https://open.spotify.com/track/3WWCU2F78Mv0sOsWcVG3bf) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dem Time Deh](https://open.spotify.com/album/1QeOEm9n7zYsIqHvg0KRY6) | 2:47 | 2023-10-19 | 2023-10-28 |
@@ -644,6 +644,7 @@
 | [Si te encuentras con mi Ex](https://open.spotify.com/track/0lH1Hpd5lbYqLVYOMrCeEE) | [Chris Viz](https://open.spotify.com/artist/40jZHpxIT7SOkZF9YrxGYq), [DjGlass El Internacional](https://open.spotify.com/artist/7uzzUWT8M4j5L8vTuiihRO) | [Si te encuentras con mi ex](https://open.spotify.com/album/0ytDuIgu1Z8iOLhE6RSmYe) | 2:57 | 2023-08-28 | 2023-09-08 |
 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 | 2025-06-30 |  |
 | [Si te vas](https://open.spotify.com/track/5nYl4iGQh39mZqHgBxFZpe) | [Avenida](https://open.spotify.com/artist/1qkllVkuGaHdN57F5kwP2b) | [Si te vas](https://open.spotify.com/album/6ZmZIesop8jjfe8APo8By9) | 2:56 | 2025-06-23 |  |
+| [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 | 2025-08-18 |  |
 | [Si te vuelvo a llamar](https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Si te vuelvo a llamar](https://open.spotify.com/album/1ogdx4WsbRgWDBVM0tiR8q) | 2:55 | 2025-05-05 | 2025-07-01 |
 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 | 2023-03-13 | 2023-06-13 |
 | [SI TÚ SUPIERAS](https://open.spotify.com/track/2h9dTYIe6GxmuK0nQvfj6C) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [SI TÚ SUPIERAS](https://open.spotify.com/album/11ZSWjcfUSFULN9YHHxX7i) | 2:49 | 2023-03-13 | 2023-05-20 |
