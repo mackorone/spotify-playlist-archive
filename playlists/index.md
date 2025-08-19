@@ -1,4 +1,4 @@
-## Playlists \(8750\)
+## Playlists \(8751\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4855,6 +4855,7 @@
 - [RNB X](/playlists/pretty/37i9dQZF1DX4SBhb3fqCJd.md)
 - [RNB X Presents Best R&B Songs of 2024](/playlists/pretty/37i9dQZF1DXcSC8oOed07w.md)
 - [ROY G BIV](/playlists/pretty/37i9dQZF1DX6PiP84oEbKp.md)
+- [RYM Top 100 Songs \(Updated "Tuesdays"\)](/playlists/pretty/4fidS28dvfw5PquLev6xtQ.md)
 - [Raaja Rules 90s](/playlists/pretty/37i9dQZF1DX7k1b9eIxnmB.md)
 - [Raaja Rules!](/playlists/pretty/37i9dQZF1DX7iLHyU2xMyJ.md)
 - [Radar Indie](/playlists/pretty/37i9dQZF1DX6JdAKMqGwZ5.md)
